@@ -1,0 +1,427 @@
+of the titration a large drop of the iron solution should be taken for
+the test. To determine the end-point beyond any question, as soon as
+the thirty seconds have elapsed remove another drop of the solution
+of the same size as that last taken and mix it with the indicator,
+placing it beside the last previous test. If this last previous test
+shows a blue tint in comparison with the fresh mixture, the end-point
+has not been reached; if no difference can be noted the reaction is
+complete. Should the end-point be overstepped, a little more of the
+ferrous solution may be added and the end-point definitely fixed.
+
+From the volumes of the solutions used, after applying corrections for
+burette readings, and, if need be, for the temperature of solutions,
+calculate the value of the ferrous solution in terms of the oxidizing
+solution.
+
+[Note 1: The accuracy of the work may be much impaired by the removal
+of unnecessarily large quantities of solution for the tests. At the
+beginning of the titration, while much ferrous iron is still present,
+the end of the stirring rod need only be moist with the solution; but
+at the close of the titration drops of considerable size may properly
+be taken for the final tests. The stirring rod should be washed to
+prevent transfer of indicator to the main solution. This cautious
+removal of solution does not seriously affect the accuracy of the
+determination, as it will be noted that the volume of the titrated
+solution is about 200 cc. and the portions removed are very
+small. Moreover, if the procedure is followed as prescribed, the
+concentration of unoxidized iron decreases very rapidly as the
+titration is carried out so that when the final tests are made, though
+large drops may be taken, the amount of ferrous iron is not sufficient
+to produce any appreciable error in results.
+
+If the end-point is determined as prescribed, it can be as accurately
+fixed as that of other methods; and if a ferrous solution is at
+hand, the titration need consume hardly more time than that of the
+permanganate process to be described later on.]
+
+
+STANDARDIZATION OF POTASSIUM BICHROMATE SOLUTIONS
+
+!Selection of a Standard!
+
+A substance which will serve satisfactorily as a standard for
+oxidizing solutions must possess certain specific properties: It must
+be of accurately known composition and definite in its behavior as a
+reducing agent, and it must be permanent against oxidation in the air,
+at least for considerable periods. Such standards may take the form of
+pure crystalline salts, such as ferrous ammonium sulphate, or may be
+in the form of iron wire or an iron ore of known iron content. It is
+not necessary that the standard should be of 100 per cent purity,
+provided the content of the active reducing agent is known and no
+interfering substances are present.
+
+The two substances most commonly used as standards for a bichromate
+solution are ferrous ammonium sulphate and iron wire. A standard wire
+is to be purchased in the market which answers the purpose well, and
+its iron content may be determined for each lot purchased by a number
+of gravimetric determinations. It may best be preserved in jars
+containing calcium chloride, but this must not be allowed to come
+into contact with the wire. It should, however, even then be examined
+carefully for rust before use.
+
+If pure ferrous ammonium sulphate is used as the standard, clear
+crystals only should be selected. It is perhaps even better to
+determine by gravimetric methods once for all the iron content of a
+large commercial sample which has been ground and well mixed. This
+salt is permanent over long periods if kept in stoppered containers.
+
+
+STANDARDIZATION
+
+PROCEDURE.--Weigh out two portions of iron wire of about 0.24-0.26
+gram each, examining the wire carefully for rust. It should be handled
+and wiped with filter paper (not touched by the fingers), should
+be weighed on a watch-glass, and be bent in such a way as not to
+interfere with the movement of the balance.
+
+Place 30 cc. of hydrochloric acid (sp. gr. 1.12) in each of two 300
+cc. Erlenmeyer flasks, cover them with watch-glasses, and bring the
+acid just to boiling. Remove them from the flame and drop in the
+portions of wire, taking great care to avoid loss of liquid during
+solution. Boil for two or three minutes, keeping the flasks covered
+(Note 1), then wash the sides of the flasks and the watch-glass with
+a little water and add stannous chloride solution to the hot liquid
+!from a dropper! until the solution is colorless, but avoid more than
+a drop or two in excess (Note 2). Dilute with 150 cc. of water and
+cool !completely!. When cold, add rapidly about 30 cc. of mercuric
+chloride solution. Allow the solutions to stand about three minutes
+and then titrate without further delay (Note 3), add about 35 cc. of
+the standard solution at once and finish the titration as prescribed
+above, making use of the ferrous solution if the end-point should be
+passed.
+
+From the corrected volumes of the bichromate solution required to
+oxidize the iron actually know to be present in the wire, calculate
+the relation of the standard solution to the normal.
+
+Repeat the standardization until the results are concordant within at
+least two parts in one thousand.
+
+
+[Note 1: The hydrochloric acid is added to the ferrous solution
+to insure the presence of at least sufficient free acid for the
+titration, as required by the equation on page 48.
+
+The solution of the wire in hot acid and the short boiling insure the
+removal of compounds of hydrogen and carbon which are formed from the
+small amount of carbon in the iron. These might be acted upon by the
+bichromate if not expelled.]
+
+[Note 2: It is plain that all the iron must be reduced to the ferrous
+condition before the titration begins, as some oxidation may have
+occurred from the oxygen of the air during solution. It is also
+evident that any excess of the agent used to reduce the iron must be
+removed; otherwise it will react with the bichromate added later.
+
+The reagents available for the reduction of iron are stannous
+chloride, sulphurous acid, sulphureted hydrogen, and zinc; of these
+stannous chloride acts most readily, the completion of the reaction
+is most easily noted, and the excess of the reagent is most readily
+removed. The latter object is accomplished by oxidation to stannic
+chloride by means of mercuric chloride added in excess, as the
+mercuric salts have no effect upon ferrous iron or the bichromate. The
+reactions involved are:
+
+2FeCl_{3} + SnCl_{2} --> 2FeCl_{2} + SnCl_{4}
+SnCl_{2} + 2HgCl_{2} --> SnCl_{4} + 2HgCl
+
+The mercurous chloride is precipitated.
+
+It is essential that the solution should be cold and that the stannous
+chloride should not be present in great excess, otherwise a secondary
+reaction takes place, resulting in the reduction of the mercurous
+chloride to metallic mercury:
+
+SnCl_{2} + 2HgCl --> SnCl_{4} + 2Hg.
+
+The occurrence of this secondary reaction is indicated by the
+darkening of the precipitate; and, since potassium bichromate oxidizes
+this mercury slowly, solutions in which it has been precipitated are
+worthless as iron determinations.]
+
+[Note 3: The solution should be allowed to stand about three minutes
+after the addition of mercuric chloride to permit the complete
+deposition of mercurous chloride. It should then be titrated without
+delay to avoid possible reoxidation of the iron by the oxygen of the
+air.]
+
+
+
+
+DETERMINATION OF IRON IN LIMONITE
+
+
+PROCEDURE.--Grind the mineral (Note 1) to a fine powder. Weigh out
+accurately two portions of about 0.5 gram (Note 2) into porcelain
+crucibles; heat these crucibles to dull redness for ten minutes,
+allow them to cool, and place them, with their contents, in beakers
+containing 30 cc. of dilute hydrochloric acid (sp. gr. 1.12). Heat
+at a temperature just below boiling until the undissolved residue is
+white or until solvent action has ceased. If the residue is white,
+or known to be free from iron, it may be neglected and need not be
+removed by filtration. If a dark residue remains, collect it on a
+filter, wash free from hydrochloric acid, and ignite the filter in a
+platinum crucible (Note 3). Mix the ash with five times its weight of
+sodium carbonate and heat to fusion; cool, and disintegrate the fused
+mass with boiling water in the crucible. Unite this solution and
+precipitate (if any) with the acid solution, taking care to avoid loss
+by effervescence. Wash out the crucible, heat the acid solution
+to boiling, add stannous chloride solution until it is colorless,
+avoiding a large excess (Note 4); cool, and when !cold!, add 40 cc. of
+mercuric chloride solution, dilute to 200 cc., and proceed with the
+titration as already described.
+
+From the standardization data already obtained, and the known weight
+of the sample, calculate the percentage of iron (Fe) in the limonite.
+
+[Note 1: Limonite is selected as a representative of iron ores in
+general. It is a native, hydrated oxide of iron. It frequently occurs
+in or near peat beds and contains more or less organic matter which,
+if brought into solution, would be acted upon by the potassium
+bichromate. This organic matter is destroyed by roasting. Since a high
+temperature tends to lessen the solubility of ferric oxide, the heat
+should not be raised above low redness.]
+
+[Note 2: It is sometimes advantageous to dissolve a large portion--say
+5 grams--and to take one tenth of it for titration. The sample will
+then represent more closely the average value of the ore.]
+
+[Note 3: A platinum crucible may be used for the roasting of the
+limonite and must be used for the fusion of the residue. When used, it
+must not be allowed to remain in the acid solution of ferric chloride
+for any length of time, since the platinum is attacked and dissolved,
+and the platinic chloride is later reduced by the stannous chloride,
+and in the reduced condition reacts with the bichromate, thus
+introducing an error. It should also be noted that copper and antimony
+interfere with the determination of iron by the bichromate process.]
+
+[Note 4: The quantity of stannous chloride required for the reduction
+of the iron in the limonite will be much larger than that added to the
+solution of iron wire, in which the iron was mainly already in the
+ferrous condition. It should, however, be added from a dropper to
+avoid an unnecessary excess.]
+
+
+
+
+DETERMINATION OF CHROMIUM IN CHROME IRON ORE
+
+
+PROCEDURE.--Grind the chrome iron ore (Note 1) in an agate mortar
+until no grit is perceptible under the pestle. Weigh out two portions
+of 0.5 gram each into iron crucibles which have been scoured inside
+until bright (Note 2). Weigh out on a watch-glass (Note 3), using the
+rough balances, 5 grams of dry sodium peroxide for each portion, and
+pour about three quarters of the peroxide upon the ore. Mix ore and
+flux by thorough stirring with a dry glass rod. Then cover the mixture
+with the remainder of the peroxide. Place the crucible on a triangle
+and raise the temperature !slowly! to the melting point of the flux,
+using a low flame, and holding the lamp in the hand (Note 4). Maintain
+the fusion for five minutes, and stir constantly with a stout iron
+wire, but do not raise the temperature above moderate redness (Notes 5
+and 6).
+
+Allow the crucible to cool until it can be comfortably handled (Note
+7) and then place it in a 300 cc. beaker, and cover it with distilled
+water (Note 8). The beaker must be carefully covered to avoid loss
+during the disintegration of the fused mass. When the evolution of
+gas ceases, rinse off and remove the crucible; then heat the solution
+!while still alkaline! to boiling for fifteen minutes. Allow the
+liquid to cool for a few minutes; then acidify with dilute sulphuric
+acid (1:5), adding 10 cc. in excess of the amount necessary to
+dissolve the ferric hydroxide (Note 9). Dilute to 200 cc., cool, add
+from a burette an excess of a standard ferrous solution, and titrate
+for the excess with a standard solution of potassium bichromate, using
+the outside indicator (Note 10).
+
+From the corrected volumes of the two standard solutions, and their
+relations to normal solutions, calculate the percentage of chromium in
+the ore.
+
+[Note 1: Chrome iron ore is essentially a ferrous chromite, or
+combination of FeO and Cr_{2}O_{3}. It must be reduced to a state of
+fine subdivision to ensure a prompt reaction with the flux.]
+
+[Note 2: The scouring of the iron crucible is rendered much easier if
+it is first heated to bright redness and plunged into cold water. In
+this process oily matter is burned off and adhering scale is caused to
+chip off when the hot crucible contracts rapidly in the cold water.]
+
+[Note 3: Sodium peroxide must be kept off of balance pans and should
+not be weighed out on paper, as is the usual practice in the rough
+weighing of chemicals. If paper to which the peroxide is adhering is
+exposed to moist air it is likely to take fire as a result of
+the absorption of moisture, and consequent evolution of heat and
+liberation of oxygen.]
+
+[Note 4: The lamp should never be allowed to remain under the
+crucible, as this will raise the temperature to a point at which the
+crucible itself is rapidly attacked by the flux and burned through.]
+
+[Note 5: The sodium peroxide acts as both a flux and an oxidizing
+agent. The chromic oxide is dissolved by the flux and oxidized to
+chromic anhydride (CrO_{3}) which combines with the alkali to form
+sodium chromate. The iron is oxidized to ferric oxide.]
+
+[Note 6: The sodium peroxide cannot be used in porcelain, platinum, or
+silver crucibles. It attacks iron and nickel as well; but crucibles
+made from these metals may be used if care is exercised to keep the
+temperature as low as possible. Preference is here given to iron
+crucibles, because the resulting ferric hydroxide is more readily
+brought into solution than the nickelic oxide from a nickel crucible.
+The peroxide must be dry, and must be protected from any admixture of
+dust, paper, or of organic matter of any kind, otherwise explosions
+may ensue.]
+
+[Note 7: When an iron crucible is employed it is desirable to allow
+the fusion to become nearly cold before it is placed in water,
+otherwise scales of magnetic iron oxide may separate from the
+crucible, which by slowly dissolving in acid form ferrous sulphate,
+which reduces the chromate.]
+
+[Note 8: Upon treatment with water the chromate passes into solution,
+the ferric hydroxide remains undissolved, and the excess of peroxide
+is decomposed with the evolution of oxygen. The subsequent boiling
+insures the complete decomposition of the peroxide. Unless this is
+complete, hydrogen peroxide is formed when the solution is acidified,
+and this reacts with the bichromate, reducing it and introducing a
+serious error.]
+
+[Note 9: The addition of the sulphuric acid converts the sodium
+chromate to bichromate, which behaves exactly like potassium
+bichromate in acid solution.]
+
+[Note 10: If a standard solution of a ferrous salt is not at hand, a
+weight of iron wire somewhat in excess of the amount which would be
+required if the chromite were pure FeO.Cr_{2}O_{3} may be weighed out
+and dissolved in sulphuric acid; after reduction of all the iron by
+stannous chloride and the addition of mercuric chloride, this solution
+may be poured into the chromate solution and the excess of iron
+determined by titration with standard bichromate solution.]
+
+
+
+
+PERMANGANATE PROCESS FOR THE DETERMINATION OF IRON
+
+
+Potassium permanganate oxidizes ferrous salts in cold, acid solution
+promptly and completely to the ferric condition, while in hot acid
+solution it also enters into a definite reaction with oxalic acid, by
+which the latter is oxidized to carbon dioxide and water.
+
+The reactions involved are these:
+
+10FeSO_{4} + 2KMnO_{4} + 8H_{2}S_{4} --> 5Fe_{2}(SO_{4})_{3} +
+K_{2}SO_{4} + 2MnSO_{4} + 8H_{2}O
+
+5C_{2}H_{2}O_{4}(2H_{2}O) + 2KMnO_{4} +3H_{2}SO_{4} --> K_{2}SO_{4} +
+2MnSO_{4} + 10CO_{2} + 1 H_{2}O.
+
+These are the fundamental reactions upon which the extensive use of
+potassium permanganate depends; but besides iron and oxalic acid the
+permanganate enters into reaction with antimony, tin, copper, mercury,
+and manganese (the latter only in neutral solution), by which these
+metals are changed from a lower to a higher state of oxidation; and it
+also reacts with sulphurous acid, sulphureted hydrogen, nitrous acid,
+ferrocyanides, and most soluble organic bodies. It should be noted,
+however, that very few of these organic compounds react quantitatively
+with the permanganate, as is the case with oxalic acid and the
+oxalates.
+
+Potassium permanganate is acted upon by hydrochloric acid; the action
+is rapid in hot or concentrated solution (particularly in the presence
+of iron salts, which appear to act as catalyzers, increasing the
+velocity of the reaction), but slow in cold, dilute solutions.
+However, the greater solubility of iron compounds in hydrochloric acid
+makes it desirable to use this acid as a solvent, and experiments made
+with this end in view have shown that in cold, dilute hydrochloric
+acid solution, to which considerable quantities of manganous sulphate
+and an excess of phosphoric acid have been added, it is possible to
+obtain satisfactory results.
+
+It is also possible to replace the hydrochloric acid by evaporating
+the solutions with an excess of sulphuric acid until the latter fumes.
+This procedure is somewhat more time-consuming, but the end-point of
+the permanganate titration is more permanent. Both procedures are
+described below.
+
+Potassium permanganate has an intense coloring power, and since the
+solution resulting from the oxidation of the iron and the reduction of
+the permanganate is colorless, the latter becomes its own indicator.
+The slightest excess is indicated with great accuracy by the pink
+color of the solution.
+
+
+PREPARATION OF A STANDARD SOLUTION
+
+!Approximate Strength 0.1 N!
+
+A study of the reactions given above which represent the oxidation of
+ferrous compounds by potassium permanganate, shows that there are 2
+molecules of KMnO_{4} and 10 molecules of FeSO_{4} on the
+left-hand side, and 2 molecules of MnSO_{4} and 5 molecules of
+Fe_{2}(SO_{4})_{5} on the right-hand side. Considering only these
+compounds, and writing the formulas in such a way as to show the
+oxides of the elements in each, the equation becomes:
+
+K_{2}O.Mn_{2}O_{7} + 10(FeO.SO_{3}) --> K_{2}O.SO_{3} + 2(MnO.SO_{3})
++ 5(Fe_{2}O_{3}.3SO_{3}).
+
+From this it appears that two molecules of KMnO_{4} (or 316.0 grams)
+have given up five atoms (or 80 grams) of oxygen to oxidize the
+ferrous compound. Since 8 grams of oxygen is the basis of normal
+oxidizing solutions and 80 grams of oxygen are supplied by 316.0 grams
+of KMnO_{4}, the normal solution of the permanganate should contain,
+per liter, 316.0/10 grams, or 31.60 grams (Note 1).
+
+The preparation of an approximately tenth-normal solution of the
+reagent may be carried out as follows:
+
+PROCEDURE.--Dissolve about 3.25 grams of potassium permanganate
+crystals in approximately 1000 cc. of distilled water in a large
+beaker, or casserole. Heat slowly and when the crystals have
+dissolved, boil the solution for 10-15 minutes. Cover the solution
+with a watch-glass; allow it to stand until cool, or preferably over
+night. Filter the solution through a layer of asbestos. Transfer the
+filtrate to a liter bottle and mix thoroughly (Note 2).
+
+[Note 1: The reactions given on page 61 are those which take place in
+the presence of an excess of acid. In neutral solutions the reduction
+of the permanganate is less complete, and, under these conditions,
+two gram-molecular weights of KMnO_{4} will furnish only 48 grams
+of oxygen. A normal solution for use under these conditions should,
+therefore, contain 316.0/6 grams, or 52.66 grams.]
+
+[Note 2: Potassium permanganate solutions are not usually stable for
+long periods, and change more rapidly when first prepared than after
+standing some days. This change is probably caused by interaction
+with the organic matter contained in all distilled water, except that
+redistilled from an alkaline permanganate solution. The solutions
+should be protected from light and heat as far as possible, since both
+induce decomposition with a deposition of manganese dioxide, and it
+has been shown that decomposition proceeds with considerable rapidity,
+with the evolution of oxygen, after the dioxide has begun to form. As
+commercial samples of the permanganate are likely to be contaminated
+by the dioxide, it is advisable to boil and filter solutions through
+asbestos before standardization, as prescribed above. Such solutions
+are relatively stable.]
+
+
+COMPARISON OF PERMANGANATE AND FERROUS SOLUTIONS
+
+PROCEDURE.--Fill a glass-stoppered burette with the permanganate
+solution, observing the usual precautions, and fill a second burette
+with the ferrous sulphate solution prepared for use with the potassium
+bichromate. The permanganate solution cannot be used in burettes with
+rubber tips, as a reduction takes place upon contact with the rubber.
+The solution has so deep a color that the lower line of the meniscus
+cannot be detected; readings must therefore be made from the upper
+edge. Run out into a beaker about 40 cc. of the ferrous solution,
+dilute to about 100 cc., add 10 cc. of dilute sulphuric acid, and run
+in the permanganate solution to a slight permanent pink. Repeat, until
+the ratio of the two solutions is satisfactorily established.
+
+
+STANDARDIZATION OF A POTASSIUM PERMANGANATE SOLUTION
+

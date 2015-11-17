@@ -1,0 +1,596 @@
+  Carbureter feed regulator, W. H. Reed                           212,502
+  Card machine burr conveyer, W. C. Bramwell                      212,435
+  Carpet beater, J. L. Leach                                      212,476
+  Carriage, C. H. Palmer, Jr.                                     212,397
+  Carriage bow, F. H. Niemann                                     212,491
+  Carriage, child's, F. H. Way (r)                                  8,583
+  Carriage top prop, J. P. Simpson                                212,519
+  Carriage canopy top, D. Gleason                                 212,458
+  Cartridge, W. W. Hubbell                                        212,313
+  Chair foot or leg rest, M. E. Keiran                            212,474
+  Chimney, locomotive engine, H. R. Walker                        212,414
+  Chuck, lathe, J. H. Vinton                                      212,413
+  Churn power motion, W. F. Witherington                          212,527
+  Cigarette, C. C. Millaudon                                      212,392
+  Coat, reversible, N. H. Lund                                    212,479
+  Cock and faucet, etc., self-closing, J. Broughton               212,436
+  Coffee pot, teapot, etc., stand, D. H. Murphy                   212,395
+  Coffee roaster, R. Davis                                        212,445
+  Corset, W. Thomas                                               212,411
+  Corset steel, E. M. Smith                                       211,520
+  Dental plugger, W. G. A. Bonwill                                212,434
+  Door securer and combined tool, P. E. Rudel                     212,512
+  Door sill and carpet strip, S. M. Stewart                       212,521
+  Drip pan and self-oiler for bearings, R. B. Eason               212,449
+  Egg cup and opener, D. H. Murphy                                212,394
+  End gate, wagon, W. H. Parkin                                   212,398
+  File, bill, E. H. Owen                                          212,493
+  Files, recutting, M. J. Murphy                                  212,490
+  Filter, J. W. Lefferts                                          212,477
+  Firearm, breech-loading, H. Goodman                             212,459
+  Firearm lock, Kaufmann & Warnant                                212,473
+  Fire extinguisher, D. T. Perkins                                212,322
+  Fires in buildings, extinguishing, C. Barnes                    212,346
+  Fluid motor, Chase & Bowker                                     212,356
+  Fountain tip, H. G. Fiske                                       212,368
+  Furnace, G. B. Field                                            212,366
+  Game apparatus, W. T. Ebert                                     212,304
+  Garter, etc., clasp, L. Lobenstein                              212,390
+  Gate, McKinley & Ellis                                          212,482
+  Gate, G. W. Pyle                                                212,501
+  Glassware, decorating, H. Feurhake                              212,365
+  Glassware shaper and finisher, Atterbury & Beck                 212,421
+  Glazier's tool, W. H. G. Savage                                 212,515
+  Governor and friction brake for machinery, speed, T. A. Weston  212,337
+  Grain drill, C. F. Davis (r)                                      8,589
+  Harness breeching strap, H. Holt                                212,467
+  Harrow, toothless, J. W. Mulvey                                 212,393
+  Harvester, W. A. Wood                                           212,528
+  Harvester cutter, B. Pratt                                      212,323
+  Harvester, grain binding, J. F. Appleby                         212,420
+  Harvester reel, B. Moreland                                     212,318
+  Harvesting machine, Dutton & Tornquist                          212,303
+  Hat formers, web tender for, R. Eickemeyer                      212,450
+  Hay binder and elevator, P. H. Nichols                          212,319
+  Hay elevator, H. Barlow                                         212,427
+  Hay tedder, E. J. Knowlton                                      212,388
+  Headlights, signal for locomotive, W. Kelley (r)                  8,591
+  Heat regulator for furnaces, A. C. Norcross (r)                   8,582
+  Hoisting bucket, F. H. C. Mey                                   212,317
+  Hoisting drums, etc., friction brake and clutch for, T. A.      212,338
+    Weston
+  Hoisting machine, T. A. Weston                                  212,339
+  Horse toe weight, G. C. Clausen                                 212,440
+  Hydrant, J. Snell                                               212,408
+  Hydrant, street, G. C. Morgan                                   212,486
+  Hydraulic motor, W. S. Puckett                                  212,500
+  Injector, steam boiler, G. R. Buckman                           212,438
+  Keg trussing machine, E. & B. Holmes                            212,381
+  Kettle, H. C. McLean                                            212,483
+  Kitchen cabinet, C. A. Adams                                    212,343
+  Lamp, J. H. Irwin                                               212,470
+  Lamp burner, E. B. Requa                                        212,401
+  Lamp, fountain, C. Stockmann                                    212,522
+  Lamp shade holder, Brown & Taplin                               212,437
+  Lamp, street, J. Stewart                                        212,410
+  Lamp wick, H. Halvorson                                         212,309
+  Life preserver, T. Richards                                     212,402
+  Life preserver, R. E. Rose                                      212,404
+  Lock, W. E. Forster                                             212,452
+  Lock gate, D. Risher, Jr.                                       212,506
+  Mechanical movement, C. B. Hitchcock                            212,380
+  Metal tube maker, A. Ball                                       212,425
+  Middlings separator, J. Schoonover                              212,406
+  Milker, cow, A. C. Baldwin                                      212,423
+  Millstone adjustment, S. P. Walling                             212,525
+  Millstone curb or hoop, J. S. Detwiler                          212,361
+  Miter machine, J. J. Spilker                                    212,409
+  Mop head, H. Murch                                              212,489
+  Needle eye polisher, George & Payne                             212,455
+  Oil cup, F. Lunkenheimer                                        212,480
+  Ore concentrator, E. W. Stephens                                212,330
+  Ore roaster, C. E. Robinson                                     212,508
+  Oven bottom and slide, J. Jewett                                212,471
+  Oysters, board bank for fattening, F. Lang                      212,389
+  Package or box filler, Bolton & Strieby                         212,349
+  Paper cutter, J. M. Jones                                       212,384
+  Paper folder, R. M. Hoe                                         212,466
+  Paper machines, method and apparatus for producing a vacuum in  212,362
+    the suction box of, Dunn & Hollister
+  Paper machines, wire guide for J. W. Moore                      212,485
+  Paper making, treating pulp stock, S. & J. Deacon               212,447
+  Paper scorer and cutter, G. L. Ingram                           212,314
+  Paper scorer and cutter, W. F. Lodge                            212,315
+  Permutation lock dial screen, Corbett & Miller                  212,359
+  Picture exhibitor, A. L. High                                   212,465
+  Pill machine, Fort & Moore                                      212,453
+  Pipe wrench, S. W. Hudson                                       212,468
+  Pipe wrench with cutter, Franklin & Gilberds                    212,369
+  Plant protector, E. R. Frederick                                212,306
+  Plants, etc., poison distributer for, G. Townsend               212,412
+  Planter and drill, check row, G. J. Hyer                        212,469
+  Planter, corn, J. A. Roderick                                   212,509
+  Plow, E. Walker                                                 212,524
+  Plow attachment, A. O. Bement                                   212,429
+  Plow cutter, A. Aldrich                                         212,419
+  Plow, sulky, J. R. Whitney                                      212,341
+  Printer's roller, T. M. Fisher                                  212,367
+  Printing machine, L. C. Crowell                                 212,444
+  Pumping engine, duplex, G. F. Blake (r)                           8,585
+  Radiator for steam heaters, Covert & Snyder                     212,360
+  Railway crossing, Bernard & Perkins                             212,432
+  Railway switch, C. F. Gessert                                   212,456
+  Ratchet mechanism and clutch for machinery, T. A. Weston        212,336
+  Rocking chair, J. W. Hamburger                                  212,461
+  Rotary engine, A. B. Haughey                                    212,463
+  Rubber mat, E. L. Perry                                         212,497
+  Sad iron holder, A. Failor                                      212,363
+  Safety pin, I. W. Stewart (r)                                     8,592
+  Salt cellar, W. Sellers                                         212,518
+  Sandpaper roll, O. Gilmore                                      212,371
+  Sash cord guide, Clarkson & Kesler (r)                            8,586
+  Sash fastener, J. Benson                                        212,431
+  Sash fastener, G. W. Cary                                       212,354
+  Sash fastener, J. B. Morris                                     212,487
+  Saw, circular, G. Schleicher                                    212,516
+  Saw handle, E. R. Osgood                                        212,396
+  Saw, jig, G. W. Gary                                            212,355
+  Saw mill, gang, H. D. & E. N. Wickes                            212,526
+  Saw mill head block, J. T. James                                212,383
+  Sawing machine, scroll, N. P. Selden                            212,326
+  Scales, platform, F. Fairbanks                                  212,364
+  Scales, weighing, G. L. C. Coulon                               212,300
+  Scarf pins, etc., making ball heads of, J. N. Allen             212,297
+  Scythe snath fastening, P. E. Rudel                             212,513
+  Sewer trap, J. P. Cahill                                        212,352
+  Sewing implement, A. J. Lytle                                   212,481
+  Sewing machine, C. O. Parmenter                                 212,495
+  Sewing machine attachment, J. B. Sulgrove                       212,523
+  Sewing machine plaiter, White & Bowhannan                       212,417
+  Sheet metal vessel bottom, F. W. Moseley                        212,484
+  Shoe, Searl & Bly                                               212,517
+  Skate, C. T. Day (r)                                              8,590
+  Skylight, J. Friend                                             212,307
+  Slate frame, E. Butler (r)                                        8,588
+  Sled propeller, G. F. Shaver (r)                                  8,593
+  Smelting furnace, iron, P. L. Weimer                            212,415
+  Sole edge burnisher, T. P. Young                                212,342
+  Spoke tenoning machine, A. J. Roberts                           212,507
+  Sprinkling can, G. F. Payne                                     212,321
+  Stamp, postage and revenue, K. Wheeler                          212,416
+  Staple machine, W. M. Collins                                   212,441
+  Staples in paper, etc., device for inserting metallic, G. W.    212,316
+    McGill
+  Stave crozer and chamferer, H. H. Dunlevy                       212,448
+  Steak tenderer, E. Richmond                                     212,505
+  Steam boiler, fire tube, J. Cowhig                              212,301
+  Steam brake for locomotives, etc., W. L. Card                   212,439
+  Steam piping for heating, etc., B. F. Osborne                   212,420
+  Steam trap, I. W. Merrill                                       212,391
+  Stove and furnace grate, S. Smyth                               212,407
+  Stove, cooking, G. H. Hess                                      212,379
+  Stove, cooking, J. Jewett                                       212,472
+  Stove, oil, Fleming & Hamilton                                  212,305
+  Stove oven door and shelf, C. W. Brieder                        212,351
+  Strainer, gravy, J. Scheider (r)                                  8,584
+  Strap for garments, adjusting, T. O. Potter                     212,400
+  Street motor, J. T. Cord                                        212,442
+  Surveying instrument leveler, G. N. Saegmuller                  212,405
+  Swing, J. Ryan                                                  212,514
+  Telephone apparatus, speaking, E. Gray                          212,373
+  Telephony, electric, Black & Rosebrugh                          212,433
+  Telephony, electric, A. M. Rosebrugh                            212,510
+  Thill coupling, D. C. Bacon                                     212,422
+  Thill coupling, C. E. Gillespie et al.                          212,308
+  Thill coupling, M. F. Ten Eyck                                  212,333
+  Thill supporter, vehicle, H. O. Rector                          212,325
+  Ticket, passenger, J. H. Purdy                                  212,324
+  Tiles for use as stands, frame for holding ornamental or fancy  212,335
+    pottery, C. A. Wellington
+  Tiles, decorative, J. G. Low                                    212,478
+  Tiles, paving blocks, etc., composition for drain, W. H. Haight 212,377
+  Tire upsetter, B. K. Taylor                                     212,332
+  Tobacco, curing, A. P. Poladura                                 212,399
+  Tobacco cutter, Bauer & Seitz                                   212,347
+  Tobacco flavoring compound, D. Sternberg                        212,331
+  Tobacco manufacture, J. T. Harris                               212,310
+  Tobacco presser, F. B. Deane                                    212,446
+  Traction engine, J. Cooper                                      212,358
+  Truss, J. R. Alexander                                          212,344
+  Type distributer, A. C. Richards                                212,503
+  Type setter, A. C. Richards                                     212,504
+  Umbrella, M. Girbardt                                           212,457
+  Umbrella runner, W. H. Belknap                                  212,428
+  Undershoe or slipper, G. Gardner                                212,370
+  Vehicle seat lock, W. G. Allen                                  212,345
+  Vehicle spring, M. H. Crane                                     212,302
+  Vehicle spring bolster, J. G. Snyder                            212,328
+  Velocipede, E. C. F. Otto                                       212,492
+  Wash boiler, F. J. Boyer                                        212,299
+  Washing and bath tub, J. B O. Shevill                           212,327
+  Washing machine, J. W. Patterson                                212,496
+  Water meter diaphragm, W. B. Mounteney                          212,488
+  Whip holder, Curtis & Worden (r)                                  8,581
+  Wire measurer and cutter, G. A. Baron                           212,426
+  Wire, winding tubes and rods with, A. Ball                      212,424
+  Wrench, C. B. Billings                                          212,298
+
+       *       *       *       *       *
+
+
+TRADE MARKS.
+
+  Boots, shoes, and brogans, W. F. Thorne & Co.                    7,037
+  Cigars, Sullivan & Burk                                          7,035
+  Cigars, cigarettes, and smoking and chewing tobacco, B. Hilson   7,038
+  Cotton gins, Printup, Brother & Pollard                          7,042
+  Fertilizers for flowers, W. H. Bowker & Co.                      7,041
+  Grain fans, J. Montgomery                                        7,032
+  Hair goods for ladies' wear, M. E. Thompson                      7,040
+  Hoes, Semple & Birge Manufacturing Company                       7,039
+  Medicine for the cure of neuralgia, and the like diseases,
+    J. S. Nicolds                                                  7,033
+  Roofing paper, carpet paper, or paper felt, and building paper,
+    Watson & Janes                                                 7,043
+  Soap, Gallup & Hewitt                                            7,036
+  Spool cotton, J. & J. Clark & Co                                 7,031
+  Table cutlery, John Russell Cutlery Company                      7,034
+
+       *       *       *       *       *
+
+
+DESIGNS.
+
+  Carpet, T. J. Stearns                                           11,029
+  Combined sleigh bell and terret ring, H. M. Richmond            11,027
+  Crocheted body for shawls, L. Howard                            11,028
+  Oil cloth, C. T. & V. E. Meyer                        11,024 to 11,026
+  Statue, A. Bartholdi                                            11,023
+
+       *       *       *       *       *
+
+
+ENGLISH PATENTS ISSUED TO AMERICANS.
+
+From February 18 to February 21, inclusive.
+
+  Bed bottoms, etc.--C. D. Flynt, Brooklyn, N. Y.
+  Berth.--D. Huston, Boston, Mass.
+  Lead smelting furnace.--G. T. Lewis, Philadelphia, Pa.
+  Locks.--A. P. Thomas _et al._, Baltimore, Md.
+  Railway joint.--P. T. Madison, Indianapolis, Ind.
+  Spikes for railroads.--R. Bocklen, New York city.
+  Ventilating buildings.--F. S. Norton, New York city.
+
+       *       *       *       *       *
+
+
+
+
+ADVERTISEMENTS.
+
+  INSIDE PAGE, EACH INSERTION      75 CENTS A LINE.
+  BACK PAGE, EACH INSERTION        $1.00 A LINE.
+
+(About eight words to a line.)
+
+_Engravings may head advertisements at the same rate per line, by
+measurement, as the letter press. Advertisements must be received at
+publication office as early as Thursday morning to appear in next
+issue._
+
+
+       *       *       *       *       *
+
+
+A RARE OPPORTUNITY, ON EASY TERMS.
+
+To be sold at Auction, at Charleston, South Carolina, on Tuesday, the
+first day of April, 1879, the Taylor Iron Works, complete and in
+operation, together with all stores, stock, and work on hand on day of
+sale.
+
+The above is a large, first-class engineering establishment, complete
+within itself for all kinds of work, comprising iron and brass
+foundries, boiler shop, machine shops, pattern and millwright shops,
+with a large stock of patterns for local machinery, and Taylor
+presses. Connected with the works is a large, well-stocked engineer
+and mill supply store. All departments have the best of modern tools
+in thorough repair. Buildings comparatively new, and conveniently
+arranged on large grounds. The business was established 1844; has
+always done a large business and maintained a high reputation. The
+present works, built since 1866, have ample facilities to work 200
+men. At present about 100 men are employed. For further particulars
+apply to the works or to JOHN F. TAYLOR, Sharon Springs, N. Y., who
+will meet parties at Albany, N. Y., by appointment, or New York, if
+preferred.
+
+       *       *       *       *       *
+
+
+LARGEST ASSORTMENT IN THE WORLD
+
+of Plays, Dramas, Comedies, Farces, Ethiopian Dramas, Plays for Ladies
+only, Plays for Gentlemen only. Wigs, Beards, Moustaches, Face
+Preparations, Burnt Cork, Jarley's Wax Works, Tableaux, Charades,
+Pantomimes, Guides to the Stage, and for Amateurs Make up Book, Make
+up Boxes, New Plays. SAM'L FRENCH & SON, 38 East 14th St., Union
+Square, New York.
+
+CATALOGUES SENT FREE!!!
+
+       *       *       *       *       *
+
+
+50 _Latest Style_ CARDS. _Bouquet, Lawn, Floral,_ etc., in case, _name
+in gold_, 10c. SEAVY BROS., Northford, Ct.
+
+[Symbol: Right index] RARE OPPORTUNITY. [Symbol: Left index]
+
+The proprietor, advanced in years and desirous of retiring from active
+control of business, would _sell at a bargain_, or convert into a
+joint stock company and retain an interest himself, a Foundry and
+Machine Shops, with all their machinery and fixtures complete, and now
+crowded with custom work, having cost upwards of sixty thousand
+dollars, and the only ones of magnitude for 120 miles on the
+Mississippi River, on various points of which may be seen specimens of
+work of these shops at Stillwater, Winona, McGregor. Dubuque, Fulton,
+Lyons, Clinton, Muscatine, and on many of the boats. For particulars,
+address the proprietor at Clinton, Iowa.
+
+          A. P. HOSFORD.
+
+       *       *       *       *       *
+
+
+FOR SALE--GEAR CUTTER.
+
+Been in use only eighteen months; will cut gears, both
+Spur-Bevel-Miter and Spiral, from four feet to one inch in diameter.
+Is complete with counter-shaft and several cutters. Machine made by
+Pond, of Worcester. Index made by Browne & Sharpe. Cost $900. Will
+sell for $250.
+
+Address J. G. STOWE, 126 Main Street, Cincinnati, O.
+
+       *       *       *       *       *
+
+
+THE TRIUMPH NON-CONDUCTOR
+
+weighs but 11/2 lbs. to the square foot, and saves daily four pounds of
+coal. (Asbestos saves but 2 lbs.) Price 15 cts.--5 cts. cash and 10
+cts. after satisfactory trial. Agents wanted. For circulars showing
+WHY fuel is wasted and HOW 25 to 50 per cent., can be saved; also, HOW
+to construct reduction works for mineral ores of half the present
+weight and cost, to do three times the work with the fuel now used,
+and save 98 per cent. of assay; also, the opinions of distinguished
+engineers, address B. F. SMITH, New Orleans, La.
+
+       *       *       *       *       *
+
+
+PHOTO VISITING CARDS--Now all the rage in Paris. One dozen beautiful
+gilt edged (round cornered) Cards with your name and photograph, only
+60 cents; 2 dozen, $1. Full particulars and a 50-page book free. E.
+NASON & CO., 111 Nassau St., New York.
+
+       *       *       *       *       *
+
+
+"BELL" TELEPHONES. _Any_ one can make in fifteen minutes. Send three
+3c. stamps for "Where to get the Parts, Prices (Total $3.60 per pair),
+and how put together."
+
+A. H. DAVIS, 30 Hanover St., Boston, Mass.
+
+       *       *       *       *       *
+
+
+CATARRH. A SURE CURE. Samples by mail, 10c. GEO. N. STODDARD, Buffalo,
+N. Y. It cures others. _It will cure you_. Sample will prove.
+
+       *       *       *       *       *
+
+
+ANY NUMBER OF OPPORTUNITIES
+
+to buy what you want or sell or exchange what you don't want, in the
+_Property Journal_. Send 5c. for copy.
+
+ANDERSON & CO., 252 Broadway, New York.
+
+       *       *       *       *       *
+
+
+NOVELTIES, NOTIONS,
+
+WATCHES, CHEAP JEWELRY, STATIONERY PACKAGES.
+
+Agents and country stores supplied. Illustrated circular _free_. J.
+BRIDE & CO., Manufacturers, Salesroom,
+
+297 B'way, New York. Address letters to P. O. Box 2773.
+
+       *       *       *       *       *
+
+
+FOR UNIVERSAL LATHE DOGS, DIE DOGS, ETC.,
+send for circular to C. W. LE COUNT, S. Norwalk, Ct.
+
+       *       *       *       *       *
+
+
+ICE-HOUSE AND COLD ROOM.--BY R. G.
+Hatfield. With directions for construction. Four engravings.
+SUPPLEMENT NO. 59. Price, 10 cents.
+
+       *       *       *       *       *
+
+
+SEND FOR OUR PRICED AND ILLUSTRATED CATALOGUES.
+
+Part 1st--MATHEMATICAL INSTRUMENTS, 160 pages; contains list and
+prices of Drawing Instruments, Drawing Materials, Pocket Compasses,
+Surveying Compasses, Engineers' Transits and Levels, Surveying Chains,
+Tape Measures, Pocket Rules, and Books relating to Drawing,
+Engineering, and Mechanics.
+
+Part 2d--OPTICAL INSTRUMENTS, 144 pages; contains list and prices of
+Spectacles, Eye Glasses, Lenses, Spy Glasses, Telescopes, Opera and
+Field Glasses, Graphoscopes, Stereoscopes, Camera Obscuras, Camera
+Lucidas, Microscopes, Microscopic Preparations, and Books on Optics
+and Microscopy.
+
+Part 3d--MAGIC LANTERNS AND SLIDES, 112 pages; contains list and
+prices or Magic Lanterns for Toys, for Public and Private Exhibitions,
+Sciopticons, Stereopticons, Scientific Lanterns, and accessory
+apparatus to be used with them; Magic Lantern Slides, both colored and
+uncolored.
+
+Part 4th--PHYSICAL INSTRUMENTS, 188 pages; contains list and prices of
+Instruments to illustrate Lectures in every department of Physics and
+Chemical Science, Air Pumps, Electric Machines, Galvanic Batteries,
+Barometers, Thermometers, Rain Gauges, Globes, Spectroscopes, Auzoux's
+Anatomical Models, and Books relating to Scientific Subjects.
+
+JAMES W. QUEEN & CO.,
+Optical and Philosophical Instrument Makers,
+924 CHESTNUT ST., PHILADELPHIA.
+
+       *       *       *       *       *
+
+
+WOOD-WORKING MACHINERY,
+
+Such as Woodworth Planing, Tonguing, and Grooving Machines, Daniel's
+Planers, Richardson's Patent Improved Tenon Machines, Mortising,
+Moulding, and Re-Saw Machines, and Wood-Working Machinery generally.
+
+Manufactured by
+
+WITHERBY, RUGG & RICHARDSON,
+26 Salisbury Street, Worcester, Mass.
+(Shop formerly occupied by R. BALL & CO.)
+
+       *       *       *       *       *
+
+
+THE DRIVEN WELL.
+
+Town and County privileges for making DRIVEN WELLS and selling
+Licenses under the established AMERICAN DRIVEN WELL PATENT, leased by
+the year to responsible parties, by
+
+WM. D. ANDREWS & BRO.,
+NEW YORK.
+
+       *       *       *       *       *
+
+
+MINING MACHINERY. ENGINES. BOILERS, PUMPS,
+
+Coal and Ore Jigs, Dust Burning Appliances. Drawings and advice free
+to customers. Jeanesville Iron Works (J. C. Haydon & Co.). Address
+HOWELL GREEN,
+
+Supt., Jeanesville, Luzerne Co., Pa.
+
+       *       *       *       *       *
+
+
+IT PAYS to sell our Rubber Hand Printing Stamps. Goods delivered in
+any country. Circulars free.
+
+G. A. HARPER & BRO., Cleveland, O.
+
+       *       *       *       *       *
+
+
+FOR TEN DOLLARS CASH,
+
+we will insert a seven-line advertisement one week in a list of 269
+weekly newspapers, or four lines in a different list of 337 papers, or
+ten lines two weeks in a choice of either of four separate and
+distinct lists containing from 70 to 100 papers each, or four lines
+one week in all four of the same lists, or one line one week in all
+six lists combined, being more than 1,000 papers. We also have lists
+of papers by States, throughout the United States and Canada. Send 10
+cents for our 100 page pamphlet. Address GEO. P. ROWELL & CO.,
+Newspaper Advertising Bureau, 10 Spruce Street, New York.
+
+       *       *       *       *       *
+
+
+MACHINERY AT VERY LOW PRICES.
+
+2d hand Lathes, Drills, Planers, Hand Tools for Iron Work, new
+Woodworth Planing Machines, Resawing, Tenoning, Moulding Machines,
+Scroll Saws, Portable Steam Engine. Jos. R. Blossom, Ass'e, Matteawan,
+N. Y.
+
+       *       *       *       *       *
+
+
+THE GEORGE PLACE MACHINERY AGENCY
+Machinery of Every Description.
+121 Chambers and 103 Reade Streets, New York.
+
+       *       *       *       *       *
+
+
+60 Chromo and Perfumed Cards [no 3 alike], Name in Gold and Jet, 10c.
+CLINTON BROS., Clintonville, Ct.
+
+       *       *       *       *       *
+
+
+ROOF PAINTING.
+
+For $5, by Post Office Order or express, I will send the recipe for
+making Langhorne's English Gum Coating Paint and other mineral paints,
+with full instructions for roof and sidewall painting. This paint is
+used by the U. S. Government. Address M. LANGHORNE,
+
+708 E Street, Washington, D. C.
+
+       *       *       *       *       *
+
+
+FOR SALE.--LETTERS PATENT OF
+Wilhide's Celebrated Noiseless Self-setting Rat and Mouse Traps.
+Thoroughly introduced. Traps sold by all dealers. Address Owners and
+Manufacturers,
+
+J. T. WILHIDE & BRO., York Road, Carroll Co., Md.
+
+       *       *       *       *       *
+
+
+IMPORTANT FOR ALL CORPORATIONS AND MANF'G CONCERNS.--BUERK'S
+WATCHMAN'S TIME DETECTOR, capable of accurately controlling the motion
+of a watchman or patrolman at the different stations of his beat. Send
+for circular.
+
+J. E. BUERK, P. O. BOX 979. BOSTON, MASS
+
+N. B.--The suit against Imhaeuser & Co., of New York, was decided in
+my favor, June 10, 1874. A fine was assessed against them Nov. 11,
+1876, for selling contrary to the order of the court. Persons buying
+or using clocks infringing on my patent will be dealt with according
+to law.
+
+       *       *       *       *       *
+
+
+SPARE THE CROTON AND SAVE THE COST.
+
+DRIVEN OR TUBE WELLS
+furnished to large consumers of Croton and Ridgewood Water. WM. D.
+ANDREWS & BRO., 414 Water St., N. Y., who control the patent for
+Green's American Driven Well.
+
+       *       *       *       *       *
+
+
+A New and Valuable Work for the Practical Mechanic and Engineer.

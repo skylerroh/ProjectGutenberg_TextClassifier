@@ -1,0 +1,576 @@
+
+8. What weight of carnallite is necessary in the preparation of 500 g.
+of magnesium?
+
+9. Account for the fact that paints made of zinc oxide are not colored
+by hydrosulphuric acid.
+
+10. What hydroxide studied, other than zinc hydroxide, has both acid and
+basic properties?
+
+11. Write equations showing how the following compounds of zinc may be
+obtained from metallic zinc: the oxide, chloride, nitrate, carbonate,
+sulphate, sulphide, hydroxide.
+
+
+
+
+CHAPTER XXVI
+
+THE ALUMINIUM FAMILY
+
+
+~The family.~ The element aluminium is the most abundant member of the
+group of elements known as the aluminium family; indeed, the other
+members of the family--gallium, indium, and thallium--are of such rare
+occurrence that they need not be separately described. The elements of
+the family are ordinarily trivalent, so that the formulas for their
+compounds differ from those of the elements so far studied. Their
+hydroxides are practically insoluble in water and are very weak bases;
+indeed, the bases are so weak that their salts are often hydrolyzed into
+free base and free acid in solution. The salts formed from these bases
+usually contain water of crystallization, which cannot be driven off
+without decomposing them more or less.
+
+The trivalent metals, which in addition to aluminium include also iron
+and chromium, are sometimes called the _earth metals_. The name refers
+to the earthy appearance of the oxides of these metals, and to the fact
+that many earths, soils, and rocks are composed in part of these
+substances.
+
+
+ALUMINIUM
+
+~Occurrence.~ Aluminium never occurs in the free state in nature, owing to
+its great affinity for oxygen. In combined form, as oxides, silicates,
+and a few other salts, it is both abundant and widely distributed, being
+an essential constituent of all soils and of most rocks excepting
+limestone and sandstone. Cryolite (Na_{3}AlF_{6}), found in Greenland,
+and bauxite, which is an aluminium hydroxide usually mixed with some
+iron hydroxide, are important minerals. It is estimated that aluminium
+composes about 8% of the earth's crust. In the industries the metal is
+called aluminum, but its chemical name is aluminium.
+
+[Illustration: Fig. 82]
+
+~Preparation.~ Aluminium was first prepared by Woehler, in 1827, by heating
+anhydrous aluminium chloride with potassium:
+
+    AlCl_{3} + 3K = 3KCl + Al.
+
+This method was tried after it was found impossible to reduce the oxide
+of aluminium with carbon. The metal possessed such interesting
+properties and promised to be so useful that many efforts were made to
+devise a cheap way of preparing it. The method which has proved most
+successful consists in the electrolysis of the oxide dissolved in melted
+cryolite.
+
+     ~Metallurgy.~ An iron box A (Fig. 82) about eight feet long and
+     six feet wide is connected with a powerful generator in such a
+     way as to serve as the cathode upon which the aluminium is
+     deposited. Three or four rows of carbon rods B dip into the
+     box and serve as the anodes. The box is partially filled with
+     cryolite and the current is turned on, generating enough heat
+     to melt the cryolite. Aluminium oxide is then added, and under
+     the influence of the electric current it decomposes into
+     aluminium and oxygen. The temperature is maintained above the
+     melting point of aluminium, and the liquid metal, being heavier
+     than cryolite, sinks to the bottom of the vessel, from which it
+     is tapped off from time to time through the tap hole C. The
+     oxygen in part escapes as gas, and in part combines with the
+     carbon of the anode, the combustion being very brilliant. The
+     process is carried on at Niagara Falls.
+
+     The largest expense in the process, apart from the cost of
+     electrical energy, is the preparation of aluminium oxide free
+     from other oxides, for most of the oxide found in nature is too
+     impure to serve without refining. Bauxite is the principal ore
+     used as a source of the aluminium because it is converted into
+     pure oxide without great difficulty. Since common clay is a
+     silicate of aluminium and is everywhere abundant, it might be
+     expected that this would be utilized in the preparation of
+     aluminium. It is, however, very difficult to extract the
+     aluminium from a silicate, and no practical method has been
+     found which will accomplish this.
+
+~Physical properties.~ Aluminium is a tin-white metal which melts at 640 deg.
+and is very light, having a density of 2.68. It is stiff and strong, and
+with frequent annealing can be rolled into thin foil. It is a good
+conductor of heat and electricity, though not so good as copper for a
+given cross section of wire.
+
+~Chemical properties.~ Aluminium is not perceptibly acted on by boiling
+water, and moist air merely dims its luster. Further action is prevented
+in each case by the formation of an extremely thin film of oxide upon
+the surface of the metal. It combines directly with chlorine, and when
+heated in oxygen burns with great energy and the liberation of much
+heat. It is therefore a good reducing agent. Hydrochloric acid acts upon
+it, forming aluminium chloride: nitric acid and dilute sulphuric acid
+have almost no action on it, but hot, concentrated sulphuric acid acts
+upon it in the same way as upon copper:
+
+    2Al + 6H_{2}SO_{4} = Al_{2}(SO_{4})_{3} + 6H_{2}O + 3SO_{2}.
+
+Alkalis readily attack the metal, liberating hydrogen, as in the case of
+zinc:
+
+    Al + 3KOH = Al(OK)_{3} + 3H.
+
+Salt solutions, such as sea water, corrode the metal rapidly. It alloys
+readily with other metals.
+
+~Uses of aluminium.~ These properties suggest many uses for the metal. Its
+lightness, strength, and permanence make it well adapted for many
+construction purposes. These same properties have led to its extensive
+use in the manufacture of cooking utensils. The fact that it is easily
+corroded by salt solutions is, however, a disadvantage. Owing to its
+small resistance to electrical currents, it is replacing copper to some
+extent in electrical construction, especially for trolley and power
+wires. Some of its alloys have very valuable properties, and a
+considerable part of the aluminium manufactured is used for this
+purpose. Aluminium bronze, consisting of about 90% copper and 10%
+aluminium, has a pure golden color, is strong and malleable, is easily
+cast, and is permanent in the air. Considerable amounts of aluminium
+steel are also made.
+
+~Goldschmidt reduction process.~ Aluminium is frequently employed as a
+powerful reducing agent, many metallic oxides which resist reduction by
+carbon being readily reduced by it. The aluminium in the form of a fine
+powder is mixed with the metallic oxide, together with some substance
+such as fluorspar to act as a flux. The mixture is ignited, and the
+aluminium unites with the oxygen of the metallic oxide, liberating the
+metal. This collects in a fused condition under the flux.
+
+An enormous quantity of heat is liberated in this reaction, and a
+temperature as high as 3500 deg. can be reached. The heat of the reaction is
+turned to practical account in welding car rails, steel castings, and in
+similar operations where an intense local heat is required. A mixture of
+aluminium with various metallic oxides, ready prepared for such
+purposes, is sold under the name of _thermite_.
+
+[Illustration: Fig. 83]
+
+     ~Preparation of chromium by the Goldschmidt method.~ A mixture of
+     chromium oxide and aluminium powder is placed in a Hessian
+     crucible (A, Fig. 83), and on top of it is placed a small
+     heap B of a mixture of sodium peroxide and aluminium, into
+     which is stuck a piece of magnesium ribbon C. Powdered
+     fluorspar D is placed around the sodium peroxide, after which
+     the crucible is set on a pan of sand and the magnesium ribbon
+     ignited. When the flame reaches the sodium peroxide mixture
+     combustion of the aluminium begins with almost explosive
+     violence, so that great care must be taken in the experiment.
+     The heat of this combustion starts the reaction in the chromium
+     oxide mixture, and the oxide is reduced to metallic chromium.
+     When the crucible has cooled a button of chromium will be found
+     in the bottom.
+
+~Aluminium oxide~ (Al_{2}O_{3}). This substance occurs in several forms in
+nature. The relatively pure crystals are called corundum, while emery is
+a variety colored dark gray or black, usually with iron compounds. In
+transparent crystals, tinted different colors by traces of impurities,
+it forms such precious stones as the sapphire, oriental ruby, topaz, and
+amethyst. All these varieties are very hard, falling little short of
+the diamond in this respect. Chemically pure aluminium oxide can be made
+by igniting the hydroxide, when it forms an amorphous white powder:
+
+    2Al(OH)_{3} = Al_{2}O_{3} + 3H_{2}O.
+
+The natural varieties, corundum and emery, are used for cutting and
+grinding purposes; the purest forms, together with the artificially
+prepared oxide, are largely used in the preparation of aluminium.
+
+~Aluminium hydroxide~ (Al(OH)_{3}). The hydroxide occurs in nature as the
+mineral hydrargyllite, and in a partially dehydrated form called
+bauxite. It can be prepared by adding ammonium hydroxide to any soluble
+aluminium salt, forming a semi-transparent precipitate which is
+insoluble in water but very hard to filter. It dissolves in most acids
+to form soluble salts, and in the strong bases to form aluminates, as
+indicated in the equations
+
+    Al(OH)_{3} + 3HCl = AlCl_{3} + 3H_{2}O,
+    Al(OH)_{3} + 3NaOH = Al(ONa)_{3} + 3H_{2}O.
+
+It may act, therefore, either as a weak base or as a weak acid, its
+action depending upon the character of the substances with which it is
+in contact. When heated gently the hydroxide loses part of its hydrogen
+and oxygen according to the equation
+
+    Al(OH)_{3} = AlO.OH + H_{2}O.
+
+This substance, the formula of which is frequently written HAlO_{2}, is
+a more pronounced acid than is the hydroxide, and its salts are
+frequently formed when aluminium compounds are fused with alkalis. The
+magnesium salt Mg(AlO_{2})_{2} is called spinel, and many other of its
+salts, called aluminates, are found in nature.
+
+When heated strongly the hydroxide is changed into oxide, which will not
+again take up water on being moistened.
+
+     ~Mordants and dyeing.~ Aluminium hydroxide has the peculiar
+     property of combining with many soluble coloring materials and
+     forming insoluble products with them. On this account it is
+     often used as a filter to remove objectionable colors from
+     water. This property also leads to its wide use in the dye
+     industry. Many dyes will not adhere to natural fibers such as
+     cotton and wool, that is, will not "dye fast." If, however, the
+     cloth to be dyed is soaked in a solution of aluminium compounds
+     and then treated with ammonia, the aluminium salts which have
+     soaked into the fiber will be converted into the hydroxide,
+     which, being insoluble, remains in the body of it. If the fiber
+     is now dipped into a solution of the dye, the aluminium
+     hydroxide combines with the color material and fastens, or
+     "fixes," it upon the fiber. A substance which serves this
+     purpose is called a _mordant_, and aluminium salts,
+     particularly the acetate, are used in this way.
+
+~Aluminium chloride~ (AlCl_{3}.6 H_{2}O). This substance is prepared by
+dissolving the hydroxide in hydrochloric acid and evaporating to
+crystallization. When heated it is converted into the oxide, resembling
+magnesium in this respect:
+
+    2(AlCl_{3}.6 H_{2}O) = Al_{2}O_{3} + 6HCl + 9H_{2}O.
+
+The anhydrous chloride, which has some important uses, is made by
+heating aluminium turnings in a current of chlorine.
+
+~Alums.~ Aluminium sulphate can be prepared by the action of sulphuric
+acid upon aluminium hydroxide. It has the property of combining with the
+sulphates of the alkali metals to form compounds called _alums_. Thus,
+with potassium sulphate the reaction is expressed by the equation
+
+    K_{2}SO_{4} + Al_{2}(SO_{4})_{3} + 24H_{2}O
+       = 2(KAl(SO_{4})_{2}.12H_{2}O).
+
+Under similar conditions ammonium sulphate yields ammonium alum:
+
+    (NH_{4})_{2}SO_{4} + Al_{2}(SO_{4})_{3} + 24H_{2}O
+        = 2(NH_{4}Al(SO_{4})_{2}.12H_{2}O).
+
+Other trivalent sulphates besides aluminium sulphate can form similar
+compounds with the alkali sulphates, and these compounds are also called
+alums, though they contain no aluminium. They all crystallize in
+octahedra and contain twelve molecules of water of crystallization. The
+alums most frequently prepared are the following:
+
+    Potassium alum               KAl(SO_{4})_{2}.12H_{2}O.
+    Ammonium alum                NH_{4}Al(SO_{4})_{2}.12H_{2}O.
+    Ammonium iron alum           NH_{4}Fe(SO_{4})_{2}.12H_{2}O.
+    Potassium chrome alum        KCr(SO_{4})_{2}.12H_{2}O.
+
+An alum may therefore be regarded as a compound derived from two
+molecules of sulphuric acid, in which one hydrogen atom has been
+displaced by the univalent alkali atom, and the other three hydrogen
+atoms by an atom of one of the trivalent metals, such as aluminium,
+iron, or chromium.
+
+     Very large, well-formed crystals of an alum can be prepared by
+     suspending a small crystal by a thread in a saturated solution
+     of the alum, as shown in Fig. 84. The small crystal slowly
+     grows and assumes a very perfect form.
+
+[Illustration: Fig. 84]
+
+~Other salts of aluminium.~ While aluminium hydroxide forms fairly stable
+salts with strong acids, it is such a weak base that its salts with weak
+acids are readily hydrolyzed. Thus, when an aluminium salt and a soluble
+carbonate are brought together in solution we should expect to have
+aluminium carbonate precipitated according to the equation
+
+    3Na_{2}CO_{3} + 2AlCl_{3} = Al_{2}(CO_{3})_{3} + 6NaCl.
+
+But if it is formed at all, it instantly begins to hydrolyze, the
+products of the hydrolysis being aluminium hydroxide and carbonic acid,
+
+    Al_{2}(CO_{3})_{3} + 6H_{2}O = 2Al(OH)_{3} + 3H_{2}CO_{3}.
+
+Similarly a soluble sulphide, instead of precipitating aluminium
+sulphide (Al_{2}S_{3}), precipitates aluminium hydroxide; for hydrogen
+sulphide is such a weak acid that the aluminium sulphide at first formed
+hydrolyzes at once, forming aluminium hydroxide and hydrogen sulphide:
+
+    3Na_{2}S + 2AlCl_{3} + 6H_{2}O = 2Al(OH)_{3} + 6NaCl + 3H_{2}S.
+
+~Alum baking powders.~ It is because of the hydrolysis of aluminium
+carbonate that alum is used as a constituent of some baking powders. The
+alum baking powders consist of a mixture of alum and sodium hydrogen
+carbonate. When water is added the two compounds react together, forming
+aluminium carbonate, which hydrolyzes into aluminium hydroxide and
+carbonic acid. The carbon dioxide from the latter escapes through the
+dough and in so doing raises it into a porous condition, which is the
+end sought in the use of a baking powder.
+
+~Aluminium silicates.~ One of the most common constituents of rocks is
+feldspar (KAlSi_{3}O_{8}), a mixed salt of potassium and aluminium with
+the polysilicic acid (H_{4}Si_{3}O_{8}). Under the influence of
+moisture, carbon dioxide, and changes of temperature this substance is
+constantly being broken down into soluble potassium compounds and
+hydrated aluminium silicate. This compound has the formula
+Al_{2}Si_{2}O_{7}.2H_{2}O. In relatively pure condition it is called
+kaolin; in the impure state, mixed with sand and other substances, it
+forms common clay. Mica is another very abundant mineral, having varying
+composition, but being essentially of the formula KAlSiO_{4}.
+Serpentine, talc, asbestos, and meerschaum are important complex
+silicates of aluminium and magnesium, and granite is a mechanical
+mixture of quartz, feldspar, and mica.
+
+     ~Ceramic industries.~ Many articles of greatest practical
+     importance, ranging from the roughest brick and tile to the
+     finest porcelain and chinaware, are made from some form of
+     kaolin, or clay. No very precise classification of such ware
+     can be made, as the products vary greatly in properties,
+     depending upon the materials used and the treatment during
+     manufacture.
+
+     Porcelain is made from the purest kaolin, to which must be
+     added some less pure, plastic kaolin, since the pure substance
+     is not sufficiently plastic. There is also added some more
+     fusible substance, such as feldspar, gypsum, or lime, together
+     with some pure quartz. The constituents must be ground very
+     fine, and when thoroughly mixed and moistened must make a
+     plastic mass which can be molded into any desired form. The
+     article molded from such materials is then burned. In this
+     process the article is slowly heated to a point at which it
+     begins to soften and almost fuse, and then it is allowed to
+     cool slowly. At this stage, a very thin vessel will be
+     translucent and have an almost glassy fracture; if, however, it
+     is somewhat thicker, or has not been heated quite so high, it
+     will still be porous, and partly on this account and partly to
+     improve its appearance it is usually glazed.
+
+     Glazing is accomplished by spreading upon the object a thin
+     layer of a more fusible mixture of the same materials as
+     compose the body of the object itself, and again heating until
+     the glaze melts to a transparent glassy coating upon the
+     surface of the vessel. In some cases fusible mixtures of quite
+     different composition from that used in fashioning the vessel
+     may be used as a glaze. Oxides of lead, zinc, and barium are
+     often used in this way.
+
+     When less carefully selected materials are used, or quite thick
+     vessels are made, various grades of stoneware are produced. The
+     inferior grades are glazed by throwing a quantity of common
+     salt into the kiln towards the end of the first firing. In the
+     form of vapor the salt attacks the surface of the baked ware
+     and forms an easily fusible sodium silicate upon it, which
+     constitutes a glaze.
+
+     Vitrified bricks, made from clay or ground shale, are burned
+     until the materials begin to fuse superficially, forming their
+     own glaze. Other forms of brick and tile are not glazed at all,
+     but are left porous. The red color of ordinary brick and
+     earthenware is due to an oxide of iron formed in the burning
+     process.
+
+     The decorations upon china are sometimes painted upon the baked
+     ware and then glazed over, and sometimes painted upon the glaze
+     and burned in by a third firing. Care must be taken to use such
+     pigments as are not affected by a high heat and do not react
+     chemically with the constituents of the baked ware or the
+     glaze.
+
+
+EXERCISES
+
+1. What metals and compounds studied are prepared by electrolysis?
+
+2. Write the equation for the reaction between aluminium and
+hydrochloric acid; between aluminium and sulphuric acid (in two steps).
+
+3. What hydroxides other than aluminium hydroxide have both acid and
+basic properties?
+
+4. Write equations showing the methods used for preparing aluminium
+hydroxide and sulphate.
+
+5. Write the general formula of an alum, representing an atom of an
+alkali metal by X and an atom of a trivalent metal by Y.
+
+6. What is meant by the term polysilicic acid, as used in the discussion
+of aluminium silicates?
+
+7. Compare the properties of the hydroxides of the different groups of
+metals so far studied.
+
+8. In what respects does aluminium oxide differ from calcium oxide in
+properties?
+
+9. Supposing bauxite to be 90% aluminium hydroxide, what weight of it is
+necessary for the preparation of 100 kg. of aluminium?
+
+
+
+
+CHAPTER XXVII
+
+THE IRON FAMILY
+
+
+===================================================================
+        |        |        |         |             |
+        |        |        |         | APPROXIMATE |
+        | SYMBOL | ATOMIC | DENSITY |   MELTING   | OXIDES
+        |        | WEIGHT |         |    POINT    |
+________|________|________|_________|_____________|________________
+        |        |        |         |             |
+Iron    |   Fe   |  55.9  |   7.93  |    1800 deg.    | FeO, Fe_{2}O_{3}
+Cobalt  |   Co   |  59.0  |   8.55  |    1800 deg.    | CoO, Co_{2}O_{3}
+Nickel  |   Ni   |  58.7  |   8.9   |    1600 deg.    | NiO, Ni_{2}O_{3}
+===================================================================
+
+~The family.~ The elements iron, cobalt, and nickel form a group in the
+eighth column of the periodic table. The atomic weights of the three are
+very close together, and there is not the same gradual gradation in the
+properties of the three elements that is noticed in the families in
+which the atomic weights differ considerably in magnitude. The elements
+are very similar in properties, the similarity being so great in the
+case of nickel and cobalt that it is difficult to separate them by
+chemical analysis.
+
+The elements occur in nature chiefly as oxides and sulphides, though
+they have been found in very small quantities in the native state,
+usually in meteorites. Their sulphides, carbonates, and phosphates are
+insoluble in water, the other common salts being soluble. Their salts
+are usually highly colored, those of iron being yellow or light green as
+a rule, those of nickel darker green, while cobalt salts are usually
+rose colored. The metals are obtained by reducing the oxides with
+carbon.
+
+
+IRON
+
+~Occurrence.~ The element iron has long been known, since its ores are
+very abundant and it is not difficult to prepare the metal from them in
+fairly pure condition. It occurs in nature in many forms of
+combination,--in large deposits as oxides, sulphides, and carbonates,
+and in smaller quantities in a great variety of minerals. Indeed, very
+few rocks or soils are free from small amounts of iron, and it is
+assimilated by plants and animals playing an important part in life
+processes.
+
+~Metallurgy.~ It will be convenient to treat of the metallurgy of iron
+under two heads,--Materials Used and Process.
+
+~Materials used.~ Four distinct materials are used in the metallurgy of
+iron:
+
+     1. _Iron ore._ The ores most frequently used in the metallurgy
+     of iron are the following:
+
+         Hematite      Fe_{2}O_{3}.
+         Magnetite     Fe_{3}O_{4}.
+         Siderite      FeCO_{3}.
+         Limonite      2Fe_{2}O_{2}.3H_{2}O.
+
+     These ores always contain impurities, such as silica,
+     sulphides, and earthy materials. All ores, with the exception
+     of the oxides, are first roasted to expel any water and carbon
+     dioxide present and to convert any sulphide into oxide.
+
+     2. _Carbon._ Carbon in some form is necessary both as a fuel
+     and as a reducing agent. In former times wood charcoal was used
+     to supply the carbon, but now anthracite coal or coke is almost
+     universally used.
+
+     3. _Hot air._ To maintain the high temperature required for the
+     reduction of iron a very active combustion of fuel is
+     necessary. This is secured by forcing a strong blast of hot air
+     into the lower part of the furnace during the reduction
+     process.
+
+     4. _Flux._ (a) _Purpose of the flux._ All the materials which
+     enter the furnace must leave it again either in the form of
+     gases or as liquids. The iron is drawn off as the liquid metal
+     after its reduction. To secure the removal of the earthy matter
+     charged into the furnace along with the ore, materials are
+     added to the charge which will, at the high temperature of the
+     furnace, combine with the impurities in the ore, forming a
+     liquid. The material added for this purpose is called the
+     _flux_; the liquid produced from the flux and the ore is called
+     _slag_.
+
+     (b) _Function of the slag._ While the main purpose of adding
+     flux to the charge is to remove from the furnace in the form of
+     liquid slag the impurities originally present in the ore, the
+     slag thus produced serves several other functions. It keeps the
+     contents of the furnace in a state of fusion, thus preventing
+     clogging, and makes it possible for the small globules of iron
+     to run together with greater ease into one large liquid mass.
+
+     (c) _Character of the slag._ The slag is really a kind of
+     readily fusible glass, being essentially a calcium-aluminium
+     silicate. The ore usually contains silica and some aluminium
+     compounds, so that limestone (which also contains some silica
+     and aluminium) is added to furnish the calcium required for the
+     slag. If the ore and the limestone do not contain a sufficient
+     amount of silica and aluminium for the formation of the slag,
+     these ingredients are added in the form of sand and feldspar.
+     In the formation of slag from these materials the ore is freed
+     from the silica and aluminium which it contained.
+
+[Illustration: Fig. 85]
+
+~Process.~ The reduction of iron is carried out in large towers called
+blast furnaces. The blast furnace (Fig. 85) is usually about 80 ft. high
+and 20 ft. in internal diameter at its widest part, narrowing somewhat
+both toward the top and toward the bottom. The walls are built of steel
+and lined with fire-brick. The base is provided with a number of pipes
+T, called tuyers, through which hot air can be forced into the
+furnace. The tuyers are supplied from a large pipe S, which circles
+the furnace as a girdle. The base has also an opening M, through which
+the liquid metal can be drawn off from time to time, and a second
+opening P, somewhat above the first, through which the excess of slag
+overflows. The top is closed by a movable trap C and C, called the
+cone, and through this the materials to be used are introduced. The
+gases produced by the combustion of the fuel and the reduction of the
+ore, together with the nitrogen of the air forced in through the tuyers,
+escape through pipes D, called downcomer pipes, which leave the
+furnace near the top. These gases are very hot and contain combustible
+substances, principally carbon monoxide; they are therefore utilized as
+fuel for the engines and also to heat the blast admitted through the
+tuyers. The lower part of the furnace is often furnished with a water
+jacket. This consists of a series of pipes W built into the walls,
+through which water can be circulated to reduce their temperature.
+
+Charges consisting of coke (or anthracite coal), ore, and flux in proper
+proportions are introduced into the furnace at intervals through the
+trap top. The coke burns fiercely in the hot-air blast, giving an
+intense heat and forming carbon monoxide. The ore, working down in the
+furnace as the coke burns, becomes very hot, and by the combined
+reducing action of the carbon and carbon monoxide is finally reduced to
+metal and collects as a liquid in the bottom of the furnace, the slag
+floating on the molten iron. After a considerable amount of the iron has
+collected the slag is drawn off through the opening P. The molten iron
+is then drawn off into large ladles and taken to the converters for the
+manufacture of steel, or it is run out into sand molds, forming the bars
+or ingots called "pigs." The process is a continuous one, and when once
+started it is kept in operation for months or even years without
+interruption.
+
+     It seems probable that the first product of combustion of the
+     carbon, at the point where the tuyers enter the furnace, is
+     carbon dioxide. This is at once reduced to carbon monoxide by
+     the intensely heated carbon present, so that no carbon dioxide
+     can be found at that point. For practical purposes, therefore,
+     we may consider that carbon monoxide is the first product of
+     combustion.
+
+~Varieties of iron.~ The iron of commerce is never pure, but contains
+varying amounts of other elements, such as carbon, silicon, phosphorus,
+sulphur, and manganese. These elements may either be alloyed with the
+iron or may be combined with it in the form of definite chemical
+compounds. In some instances, as in the case of graphite, the mixture
+may be merely mechanical.
+
+The properties of iron are very much modified by the presence of these
+elements and by the form of the combination between them and the iron;
+the way in which the metal is treated during its preparation has also a
+marked influence on its properties. Owing to these facts many kinds of
+iron are recognized in commerce, the chief varieties being cast iron,
+wrought iron, and steel.
+
+~Cast iron.~ The product of the blast furnace, prepared as just described,
+is called cast iron. It varies considerably in composition, usually
+containing from 90 to 95% iron, the remainder being largely carbon and
+silicon with smaller amounts of phosphorus and sulphur. When the melted
+metal from the blast furnace is allowed to cool rapidly most of the

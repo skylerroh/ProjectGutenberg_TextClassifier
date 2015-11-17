@@ -1,0 +1,435 @@
+large Grove's cells were employed, but the expense put it out of
+question as a practical application.
+
+Had the Gramme or Siemens machine existed at that time, no doubt the
+subject would have been further advanced, for it was not merely the cost
+of the battery which stood in the way, but the inefficient motor, which
+returned only a small fraction of the power furnished by the zinc.
+
+Professor Silvanus Thompson informs us that an electric boat was
+constructed by Mr. G. E. Dering, in the year 1856, at Messrs. Searle's
+yard, on the River Thames; it was worked by a motor in which rotation
+was effected by magnets arranged within coils, like galvanometer
+needles, and acted on successively by currents from a battery.
+
+From a recent number of the _Annales de l'Electricite_, we learn that
+Count de Moulins experimented on the lake in the Bois de Boulogne, in
+the year 1866, with an iron flat-bottomed boat, carrying twelve persons.
+Twenty Bunsen cells furnished the current to a motor on Froment's
+principle turning a pair of paddle wheels.
+
+In all these reports there is a lack of data. We are interested to
+know what power the motors developed, the time and speed, as well as
+dimensions and weights.
+
+Until Trouve's trip on the Seine, in 1881, and the launch of the
+Electricity on the Thames, in 1882, very little was known concerning the
+history of electric navigation.
+
+M. Trouve originally employed Plante's secondary battery, but afterward
+reverted to a bichromate battery of his own invention. In all the
+primary batteries hitherto applied with advantage, zinc has been used as
+the acting material. Where much power is required, the consumption of
+zinc amounts to a formidable item; it costs, in quantity, about 3d. per
+pound, and in a well arranged battery a definite quantity of zinc is
+transformed. The final effect of this transformation manifests itself in
+electrical energy, amounting to about 746 watts, or one electrical horse
+power for every two pounds of this metal consumed per hour. The cost of
+the exciting fluid varies, however, considerably; it may be a solution
+of salts, or it may be dilute acid. Considering the zinc by itself, the
+expense for five electrical or four mechanical horse power through an
+efficient motor, in a small launch, would be 2s. 6d. per hour. Many
+persons would willingly sacrifice 2s. 6d per hour for the convenience,
+but a great item connected with the employment of zinc batteries is
+in the exciting fluid, and the trouble of preparing the zinc plates
+frequently. The process of cleaning, amalgamating and refilling is so
+tedious, that the use of primary batteries for locomotive purposes is
+extremely limited. To recharge a Bunsen, Grove, or bichromate battery,
+capable of giving six or seven hours' work at the rate of five
+electrical horse power, would involve a good day's work for one man; no
+doubt he would consider himself entitled to a full day's wages, with the
+best appliances to assist him in the operation.
+
+Several improved primary batteries have recently been brought out, which
+promise economical results. If the residual compound of zinc can be
+utilized, and sold at a good price, then the cost of such motive power
+may be reduced in proportion to the value of those by-products.
+
+For the purpose of comparison, let us now employ the man who would
+otherwise clean and prepare the primary cells, at engine driving. We let
+him attend to a six horse power steam engine, boiler, and dynamo machine
+for charging 50 accumulators, each of a capacity of 370 ampere hours, or
+one horse power hour. The consumption of fuel will probably amount to 40
+lb. per hour, which, at the rate of 18s. a ton, will give an expenditure
+of nearly 4d. per hour. The energy derived from coal in the accumulator
+costs, in the case of a supply of five electrical horse power for seven
+hours, 2s. 9d.; the energy derived from the zinc in a primary battery,
+supplying five electrical horse power for seven hours, would cost 17s.
+3d.
+
+It is hardly probable that any one would lay down a complete plant,
+consisting of a steam or gas engine and dynamo, for the sole purpose of
+charging the boat cells, unless such a boat were in almost daily use, or
+unless several boats were to be supplied with electrical power from one
+station. In order that electric launches may prove useful, it will be
+desirable that charging stations should be established, and on many of
+the British and Irish rivers and lakes there is abundance of motive
+power, in the shape of steam or gas engines, or water-wheels.
+
+A system of hiring accumulators ready for use may, perhaps, best satisfy
+the conditions imposed in the case of pleasure launches.
+
+It is difficult to compile comparative tables showing the relative
+expenses for running steam launches, electric launches with secondary
+batteries, and electric launches with primary zinc batteries; but I
+have roughly calculated that, for a launch having accommodation for a
+definite number of passengers, the total costs are as 1, 2.5, and 12
+respectively, steam being lowest and zinc batteries highest.
+
+The accumulators are, in this case, charged by a small high pressure
+steam engine, and a very large margin for depreciation and interest on
+plant is added. The launch taken for this comparison must run during
+2,000 hours in the year, and be principally employed in a regular
+passenger service, police and harbor duties, postal service on the lakes
+and rivers of foreign countries, and the like.
+
+The subject of secondary batteries has been so ably treated by Professor
+Silvanus Thompson and Dr. Oliver Lodge, in this room, that I should
+vainly attempt to give you a more complete idea of their nature. The
+improvements which are being made from time to time mostly concern
+mechanical details, and although important, a description will scarcely
+prove interesting.
+
+A complete Faure-Sellon-Volckmar cell, such as is used in the existing
+electric launches, is here on the table; this box weighs, when ready
+for use, 56 lb.; and it stores energy equal to one horse power for one
+hour=1,980,000 foot pounds, or about one horse power per minute for each
+pound weight of material. It is not advantageous to withdraw the whole
+amount of energy put in; although its charging capacity is as much as
+370 ampere hours, we do not use more than 80 per cent., or 300 ampere
+hours; hence, if we discharge these accumulators at the rate of 40
+amperes, we obtain an almost constant current for 71/2 hours: one cell
+gives an E.M.F. of two volts. In order to have a constant power of one
+horse for 71/2 hours, at the rate of 40 amperes discharge, we must have
+more than nine cells per electrical horsepower; and 47 such cells will
+supply five electrical horse power for the time stated, and these 47
+cells will weigh 2,633 lb.
+
+We could employ half the number of cells by using them at the rate of
+80 amperes, but then they will supply the power for less than half the
+time. The fact, however, that the cells will give so high a rate of
+discharge for a few hours is, in itself, important, since we are enabled
+to apply great power if desirable; the 47 cells above referred to can
+be made to give 10 or 12 electrical horse power for over two hours, and
+thus propel the boat at a very high speed, provided that the motor is
+adapted to utilize such powerful currents.
+
+The above mentioned weight of battery power--viz., 2,632 lb., to
+which has to be added the weight of the motor and the various
+fittings--represents, in the case of a steam launch, the weight of
+coals, steam boiler, engine, and fittings. The electro motor capable of
+giving four horse power on the screw shaft need not weigh 400 lb. if
+economically designed; this added to the weight of the accumulators, and
+allowing a margin for switches and leads, brings the whole apparatus up
+to about 28 cwt.
+
+An equally powerful launch engine and boiler, together with a maximum
+stowage of fuel, will weigh about the same. There is, however, this
+disadvantage about the steam power, that it occupies the most valuable
+part of the vessel, taking away some eight or nine feet of the widest
+and most convenient part, and in a launch of twenty-four feet length,
+requiring such a power as we have been discussing, this is actually
+one-third of the total length of the vessel, and one-half of the
+passenger accommodation; therefore, I may safely assert that an electric
+launch will carry about twice as many people as a steam launch of
+similar dimensions.
+
+The diagram on the wall represents sections of an electric launch built
+by Messrs. Yarrow and Company, and fitted up by the Electrical Power
+Storage Company, for the recent Electrical Exhibition in Vienna. She has
+made a great number of successful voyages on the River Danube during the
+autumn. Her hull is of steel, 40 feet long and 6 feet beam, and there
+are seats to accommodate forty adults comfortably. Her accumulators are
+stowed away under the floor, so is the motor, but owing to the lines of
+the boat the floor just above the motor is raised a few inches. This
+motor is a Siemens D2 machine, capable of working up to seven horse
+power with eighty accumulators.
+
+In speaking of the horse power of an electro motor, I always mean the
+actual power developed in the shaft, and not the electrical horse power;
+this, therefore, should not be compared to the indicated horse power of
+a steam engine.
+
+I am indebted to Messrs. Yarrow for the principal dimensions and other
+particulars of a high pressure launch engine and boiler, such as would
+be suitable for this boat. From these dimensions I prepared a second
+diagram representing the steam power, and when placed in position it
+will show at a glance how much space this apparatus will occupy. The
+total length lost in this way amounts to 12 feet, leaving for testing
+capacity only 15 feet, while that of the electric launch is 27 feet
+on each side of the boat; thus the accommodation is as fifteen to
+twenty-seven, or as twenty-two passengers to forty, in favor of the
+electric launch.
+
+Comparing the relative weights of the steam power and the electric power
+for this launch, we find that they are nearly equal--each approaches 50
+cwt; but in the case of the steam launch we include 10 cwt. of coals,
+which can be stowed into the bunkers, and which allow fifteen hours
+continuous steaming, whereas the electric energy stored up will only
+give us seven and a half hours with perfect safety.
+
+I have here allowed 8 lb. of coal per indicated horse power per hour,
+and 10 horse power giving off 7 mechanical horse power on the screw
+shaft; this is an example of an average launch engine. There are launch
+engines in existence which do not consume one-half that amount of fuel,
+but these are so few, so rare, and so expensive, that I have neglected
+them in this account.
+
+Not many years ago, a steam launch carrying a seven hours supply of fuel
+was considered marvelous.
+
+Our present accumulaton supplies 33,000 foot pounds of work per pound of
+lead, but theoretically one pound of lead manifests an energy equal to
+360,000 foot pounds in the separation from its oxide; and in the case of
+iron, Prof. Osborne Reynolds told us in this place, the energy evolved
+by its oxidation is equivalent to 1,900,000 foot pounds per pound of
+metal. How nearly these limits may be approached will he the problem
+of the chemist; to prophesy is dangerous, while science and its
+applications are advancing at this rapid rate.
+
+Theoretically, then, with our weight of fully oxidized lead we should be
+able to travel for 82 hours; with the same weight of iron for 430 hours,
+or 18 days and nights continually, at the rate of 8 miles per hour, with
+one change. Of course, these feats are quite impossible. We might as
+well dream of getting 5 horse power out of a steam engine for one pound
+of coal per hour.
+
+While the chemist is busy with his researches for substances and
+combinations which will yield great power with small quantities of
+material, the engineer assiduously endeavors to reconvert the chemical
+or electrical energy into mechanical work suitable to the various needs.
+
+To get the maximum amount of work with a minimum amount of weight, and
+least dimensions combined with the necessary strength is the province
+of the mechanical engineer--it is a grand and interesting study; it
+involves many factors; it is not, as in the steam engine and hydraulic
+machine, a matter of pressures, tension and compression, centrifugal and
+static forces, but it comprises a still larger number of factors, all
+bearing a definite relation to each other.
+
+With dynamo machines the aim has been to obtain as nearly as possible
+as much electrical energy out of the machine as has been put in by the
+prime mover, irrespective of the quantity of material employed in its
+construction. Dr. J. Hopkinson has not only improved upon the Edison
+dynamo, and obtained 94 per cent. of the power applied in the form of
+electrical energy, but he got 50 horse power out of the same quantity of
+iron and copper where Edison could only get 20 horsepower--and, though
+the efficiency of this generator is perfect, it could not be called an
+efficient motor, suitable for locomotion by land or water, because it
+is still too heavy. An efficient motor for locomotion purposes must not
+only give out in mechanical work as nearly as possible as much as the
+electrical energy put in, but it must be of small weight, because it has
+to propel itself along with the vehicle, and every pound weight of
+the motor represents so many foot pounds of energy used in its own
+propulsion; thus, if a motor weighed 660 pounds, and were traveling at
+the rate of 50 feet per minute, against gravitation, it would expend
+33,000 foot pounds per minute in moving itself, and although this
+machine may give 2 horse power, with an efficiency of 90 per cent.
+it would, in the case of a boat or a tram-car, be termed a wasteful
+machine. Here we have an all-important factor which can be neglected,
+to a certain extent, in the dynamo as a generator, although from an
+economical point of view excessive weight in the dynamo must also be
+carefully avoided.
+
+The proper test for an electro-motor, therefore, is not merely its
+efficiency, or the quotient of the mechanical power given out, divided
+by the electrical energy put in, but also the number of feet it could
+raise its own weight in a given space of time, with a given current, or,
+in other words, the number of foot pounds of work each pound weight of
+the motor would give out.
+
+The Siemens D2 machine, as used in the launch shown in the diagram on
+the wall, is one of the lightest and best motors, it gives 7 horse power
+on the shaft, with an expenditure of 9 electrical horsepower, and it
+weighs 658 lb.; its efficiency, therefore, 7/5 or nearly 78 per cent.;
+but its "coefficient" as an engine of locomotion is 351--that is to say,
+each pound weight of the motor will yield 351 foot pounds on the shaft.
+We could get even more than 7 horse power out of this machine, by either
+running it at an excessive speed, or by using excessive currents; in
+both cases, however, we should shorten the life of the apparatus.
+
+An electro-motor consists, generally, of two or more electro-magnets so
+arranged that they continually attract each other, and thereby convey
+power. As already stated, there are numerous factors, all bearing a
+certain relationship to each other, and particular rules which hold
+good in one type of machine will not always answer in another, but the
+general laws of electricity and magnetism must be observed in all cases.
+With a given energy expressed in watts, we can arrange a quantity of
+wire and iron to produce a certain quantity of work; the smaller the
+quantity of material employed, and the larger the return for the energy
+put in, the greater is the total efficiency of the machine.
+
+Powerful electro-magnets, judiciously arranged, must make powerful
+motors. The ease with which powerful electro-magnets can be constructed
+has led many to believe that the power of an electro-motor can be
+increased almost infinitely, without a corresponding increase of energy
+spent. The strongest magnet can be produced with an exceedingly
+small current, if we only wind sufficient wire upon an iron core. An
+electro-magnet excited by a tiny battery of 10 volts, and, say,
+one ampere of current, may be able to hold a tremendous weight in
+suspension, although the energy consumed amounts to only 10 watts, or
+less than 1/75 of a horse power, but the suspended weight produces no
+mechanical work. Mechanical work would only be done if we discontinued
+the flow of the current, in which case the said weight would drop; if
+the distance is sufficiently small, the magnet could, by the application
+of the current from the battery, raise the weight again, and if that
+operation is repeated many times in a minute, then we could determine
+the mechanical work performed. Assuming that the weight raised is 1,000
+lb., and that we could make and break the current two hundred times
+a minute, then the work done by the falling mass could, under no
+circumstances, equal 1/75 of a horse-power, or 440 foot-pounds; that is,
+1,000 lb. lifted 2.27 feet high in a minute, or about one-eighth of an
+inch for each operation: hence the mere statical pull, or power of the
+magnet, does in no way tend to increase the energy furnished by the
+battery or generator, for the instant we wish to do work we must have
+motion--work being the product of mass and distance.
+
+Large sums of money have virtually been thrown away in the endeavor
+to produce energy, and there are intelligent persons who to this day
+imagine that, by indefinitely increasing the strength of a magnet, more
+power may be got out of it than is put in.
+
+Large field-magnets are advantageous, and the tendency in the
+manufacture of dynamo machines has been to increase the mass of iron,
+because with long and heavy cores and pole pieces there is a steady
+magnetism insured, and therefore a steady current, since large masses
+of iron take a long time to magnetize and demagnetize; thus very slight
+irregularites in the speed of an armature are not so easily perceived.
+In the case of electro-motors these conditions are changed. In the first
+place, we assume that the current put through the coils of the magnets
+is continuous; and secondly, we can count upon the momentum of the
+armature, as well as the momentum of the driven object, to assist us
+over slight irregularities. With electric launches we are bound
+to employ a battery current, and battery currents are perfectly
+continuous--there are no sudden changes; it is consequently a question
+as to how small a mass of iron we may employ in our dynamo as a motor
+without sacrificing efficiency. The intensity of the magnetic field
+must be got by saturating the iron, and the energy being fixed, this
+saturation determines the limit of the weight of the iron. Soft wrought
+iron, divided into the largest possible number of pieces, will serve
+our purpose best. The question of strength of materials plays also an
+important part. We cannot reduce the quantity and division to such a
+point that the rigidity and equilibrium of the whole structure is in any
+way endangered.
+
+The armature, for instance, must not give way to the centrifugal forces
+imposed upon it, nor should the field magnets be so flexible as to yield
+to the statical pull of the magnetic poles. The compass of this paper
+does not permit of a detailed discussion of the essential points to be
+observed in the construction of electro-motors; a reference to the main
+points, may, however, be useful. The designer has, first of all, to
+determine the most effective positions of the purely electrical and
+magnetic parts; secondly, compactness and simplicity in details;
+thirdly, easy access to such parts as are subject to wear and
+adjustment; and, fourthly, the cost of materials and labor. The internal
+resistance of the motor should be proportioned to the resistances of the
+generator and the conductors leading from the generator to the receiver.
+
+The insulation resistances must be as high as possible; the insulation
+can never be too good. The motor should he made to run at that speed
+at which it gives the greatest power with a high efficiency, without
+heating to a degree which would damage the insulating material.
+
+Before fixing a motor in its final position, it should also be tested
+for power with a dynamometer, and for this purpose a Prony brake answers
+very well.
+
+An ammeter inserted in the circuit will show at a glance what current is
+passing at any particular speed, and voltmeter readings are taken at the
+terminals of the machine, when the same is standing still as well as
+when the armature is running, because the E.M.F. indicated when the
+armature is at rest alone determines the commercial efficiency of the
+motor, whereas the E M.F. developed during motion varies with the speed
+until it nearly reaches the E.M.F. in the leads; at that point the
+theoretical efficiency will be highest.
+
+Calculations are greatly facilitated, and the value of tests can be
+ascertained quickly, if the constant of the brake is ascertained; then
+it will be simply necessary to multiply the number of revolutions and
+the weight at the end of the lever by such a constant, and the product
+gives the horse power, because, with a given Prony brake, the only
+variable quantities are the weight and the speed. All the observations,
+electrical and mechanical, are made simultaneously. The electrical horse
+power put into the motor is found by the well known formula C x E / 746;
+this simple multiplication and division becomes very tedious and even
+laborious if many tests have to be made in quick succession, and to
+obviate this trouble, and prevent errors, I have constructed a horse
+power diagram, the principle of which is shown in the diagram (Fig. 1).
+
+Graphic representations are of the greatest value in all comparative
+tests. Mr. Gisbert Kapp has recently published a useful curve in the
+_Electrician_, by means of which one can easily compare the power and
+efficiency at a glance (Fig. 2).
+
+The speeds are plotted as abscissae, and the electrical work absorbed
+in watts divided by 746 as ordinates; then with a series-wound motor we
+obtain the curve, EE. The shape of this curve depends on the type of
+the motor. Variation of speed is obtained by loading the brake with
+different weights. We begin with an excess of weight which holds the
+motor fast, and then a maximum current will flow through it without
+producing any external work. When we remove the brake altogether, the
+motor will run with a maximum speed, and again produce no external work,
+but in this case very little current will pass; this maximum speed is om
+on the diagram. Between these two extremes external work will be done,
+and there is a speed at which this is a maximum. To find these speeds we
+load the brake to different weights, and plot the resulting speeds and
+horse powers as abscissae and ordinates producing the curve, BB. Another
+curve,
+
+e = B/E
+
+made with an arbitrary scale, gives the commercial efficiency; the speed
+for a maximum external horse power is o a, and the speed for the highest
+efficiency is represented by o b. In practice it is not necessary to
+test a motor to the whole limits of this diagram; it will be sufficient
+to commence with a speed at which the efficiency becomes appreciable,
+and to leave off with that speed which renders the desired power.
+
+I have now to draw your attention to a new motor of my own invention, of
+the weight of 124 lb., which, at 1,550 revolutions, gives 31 amperes and
+61.5 volts at terminals. The mechanical horse power is 1.37, and the
+coefficient 373.
+
+                                                     Ohms.
+Armature resistance                                    0.4 w.
+Field-magnet resistance                               0.17 w.
+Insulation resistance                            1,500,000 w.
+
+This motor was only completed on the morning before reading the paper;
+it could not, therefore, be tested as to its various capacities.
+
+We have next to consider the principle of applying the motive power to
+the propulsion of a launch. The propellers hitherto practically applied
+in steam navigation are the paddle-wheel and the screw. The experience
+of modern steam navigation points to the exclusive use and advantage of
+the screw propeller where great speed of shaft is obtainable, and the
+electric engine is pre-eminently a high-speed engine, consequently the
+screw appears to be most suitable to the requirements of electric boats.
+By simply fixing the propeller to the prolonged motor shaft, we complete
+the whole system, which, when correctly made, will do its duty in
+perfect order, with an efficiency approaching theory to a high degree.
+
+[Illustration: FIG. 1.--RECKENZAUN'S ELECTRICAL HORSE POWER DIAGRAM.
+
+Draw a square, A B C D--divide B C into 746 parts, and C D into 1,000
+parts, or, generally, let a division on C D be 0.746 of a division on B
+C, so that we can use the horizontal lines cutting A B as a horse power
+scale. A B, in the above diagram, gives 1,000 horse power, if the line
+B C represents 746 volts, and C D 1,000 amperes. Let x = any number of
+volts, y the amperes, and h the horse power, then
+
+h/x = y/100 :. h = xy/746
+
+A fine wire or thread stretched from o as a center to the required
+division on C D will facilitate references.]
+

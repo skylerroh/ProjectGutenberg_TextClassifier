@@ -1,0 +1,333 @@
+Attention is called to Figs. 120 and 121. Let us assume that the field
+magnets A, A are the positives, and the magnets B, B the negatives. The
+revolving armature has also four magnet coils, two of them, C, C, being
+positive, and the other two, D, D, negative, each of these magnet coils
+being so connected up that they will reverse the polarities of the
+magnets.
+
+[Illustration: _Figs. 120-121._ ACTION OF MAGNETS IN A DYNAMO]
+
+Now in the particular position of the revolving armature, in Fig. 120,
+the magnets of the armature have just passed the respective poles of the
+field magnets, and the belt E is compelled to turn the armature past the
+pole pieces by force in the direction of the arrow F. After the armature
+magnets have gone to the positions in Fig. 121, the positives A try to
+draw back the negatives D of the armature, and at the same time the
+negatives B repel the negatives D, because they are of the same
+polarities.
+
+This repulsion of the negatives A, B continues until the armature poles
+C, D have slightly passed them, when the polarities of the magnets C, D
+are changed; so that it will be seen, by reference to Fig. 122, that D
+is now retreating from B, and C is going away from A--that is, being
+forced away contrary to their natural attractive influences, and in Fig.
+123, when the complete cycle is nearly finished, the positives are again
+approaching each other and the negatives moving together.
+
+[Illustration: _Figs. 122-123._ CYCLE ACTION IN DYNAMO]
+
+In this manner, at every point, the sets of magnets are compelled to
+move against their magnetic pull. This explains the dynamo.
+
+Now take up the cycle of the motor, and note in Fig. 124 that the
+negative magnets D of the armature are closely approaching the positive
+and negative magnets, on one side; and the positive magnets C are
+nearing the positive and negatives on the other side. The positives A,
+therefore, attract the negatives D, and the negative B exert a pull on
+the positives C at the same time. The result is that the armature is
+caused to revolve, as shown by the dart G, in a direction opposite to
+the dart in Fig. 120.
+
+[Illustration: _Figs. 124-125._ ACTION OF MAGNETS IN MOTOR]
+
+When the pole pieces of the magnets C, D are about to pass magnets A, B,
+as shown in Fig. 125, it is necessary to change the polarities of the
+armature magnets C, D; so that by reference to Fig. 126, it will be seen
+that they are now indicated as C-, and D+, respectively, and have moved
+to a point midway between the poles A, B (as in Fig. 125), where the
+pull on one side, and the push on the other are again the same, and the
+last Figure 127 shows the cycle nearly completed.
+
+The shaft of the motor armature is now the element which turns the
+mechanism which is to be operated. To convert electrical impulses into
+power, as thus shown, results in great loss. The first step is to take
+the steam boiler, which is the first stage in that source which is the
+most common and universal, and by means of fuel, converting water into
+steam. The second is to use the pressure of this steam to drive an
+engine; the third is to drive the dynamo which generates the electrical
+impulse; and the fourth is the conversion from the dynamo into a motor
+shaft. Loss is met with at each step, and the great problem is to
+eliminate this waste.
+
+[Illustration: _Figs. 126-127._ POSITIONS OF MAGNETS IN MOTOR]
+
+The great advantage of electrical power is not in utilizing it for
+consumption at close ranges, but where it is desired to transmit it for
+long distances. Such illustrations may be found in electric railways,
+and where water power can be obtained as the primal source of energy,
+the cost is not excessive. It is found, however, that even with the most
+improved forms of mechanism, in electrical construction, the internal
+combustion engines are far more economical.
+
+
+_Transmission of Energy_
+
+One of the great problems has been the transmission of the current to
+great distances. By using a high voltage it may be sent hundreds of
+miles, but to use a current of that character in the cars, or shops, or
+homes, would be exceedingly dangerous.
+
+To meet this requirement transformers have been devised, which will take
+a current of very high voltage, and deliver a current of low tension,
+and capable of being used anywhere with the ordinary motors.
+
+THE TRANSFORMER.--This is an electrical device made up of a core or
+cores of thin sheet metal, around which is wound sets of insulated
+wires, one set being designed to receive the high voltage, and the other
+set to put out the low voltage, as described in a former chapter.
+
+These may be made where the original output is a very high voltage, so
+that they will be stepped down, first from one voltage to a lower, and
+then from that to the next lower stage. This is called the "Step down"
+transformer, and is now used over the entire world, where large voltages
+are generated.
+
+ELECTRIC FURNACES.--The most important development of electricity in the
+direction of heat is its use in furnaces. As before stated, an intense
+heat is capable of being generated by the electric current, so that it
+becomes the great agent to use for the treatment of refractory material.
+
+In furnaces of this kind the electric arc is the mechanical form used to
+produce the great heat, the only difference being in the size of the
+apparatus. The electric furnace is simply an immense form of arc light,
+capable of taking a high voltage, and such an arc is enclosed within a
+suitable oven of refractory material, which still further conserves the
+heat.
+
+WELDING BY ELECTRICITY.--The next step is to use the high heat thus
+capable of being produced, to fuse metals so that they may be welded
+together. It is a difficult matter to unite two large pieces of metal by
+the forging method, because the highest heat is required, owing to their
+bulk, and in addition immense hammers, weighing tons, must be employed.
+
+Electric welding offers a simple and easy method of accomplishing the
+result, and in the doing of which it avoids the oxidizing action of the
+forging heat. Instead of heating the pieces to be welded in a forge, as
+is now done, the ends to be united are simply brought into contact, and
+the current is sent through the ends until they are in a soft condition,
+after which the parts are pressed together and united by the simple
+merging of the plastic condition in which they are reduced by the high
+electric heat.
+
+This form of welding makes the most perfect joint, and requires no
+hammering, as the mass of the metal flows from one part or end to the
+other; the unity is a perfect one, and the advantage is that the metals
+can be kept in a semi-fluid state for a considerable time, thus assuring
+a perfect admixture of the two parts.
+
+With the ordinary form of welding it is necessary to drive the heated
+parts together without any delay, and at the least cooling must be
+reheated, or the joint will not be perfect.
+
+The smallest kinds of electric heating apparatus are now being made, so
+that small articles, sheet metal, small rods, and like parts can be
+united with the greatest facility.
+
+
+
+
+CHAPTER XVIII
+
+X-RAY, RADIUM, AND THE LIKE
+
+
+The camera sees things invisible to the human eye. Its most effective
+work is done with beams which are beyond human perception. The
+photographer uses the _Actinic_ rays. Ordinary light is composed of the
+seven primary colors, of which the lowest in the scale is the red, and
+the highest to violet.
+
+Those below the red are called the Infra-red, and they are the Hertzian
+waves, or those used in wireless telegraphy. Those above the violet are
+called Ultra-violet, and these are employed for X-ray work. The former
+are produced by the high tension electric apparatus, which we have
+described in the chapter relating to wireless telegraphy; and the
+latter, called also the Roentgen rays, are generated by the Crookes'
+Tube.
+
+This is a tube from which all the atmosphere has been extracted so that
+it is a practical vacuum. Within this are placed electrodes so as to
+divert the action of the electrical discharge in a particular direction,
+and this light, when discharged, is of such a peculiar character that
+its discovery made a sensation in the scientific world.
+
+The reason for this great wonder was not in the fact that it projected a
+light, but because of its character. Ordinary light, as we see it with
+the eye, is capable of being reflected, as when we look into a mirror at
+an angle. The X-ray will not reflect, but instead, pass directly through
+the glass.
+
+Then, ordinary light is capable of refraction. This is shown by a ray of
+light bending as it passes through a glass of water, which is noticed
+when the light is at an angle to the surface.
+
+The X-ray will pass through the water without being changed from a
+straight line. The foregoing being the case, it was but a simple step to
+conclude that if it were possible to find a means whereby the human eye
+could see within the ultra-violet beam, it would be possible to see
+through opaque substances.
+
+From the discovery so important and far reaching it was not long until
+it was found that if the ultra-violet rays, thus propagated, were
+transmitted through certain substances, their rates of vibration would
+be brought down to the speeds which send forth the visible rays, and now
+the eye is able to see, in a measure at least, what the actinic rays
+show.
+
+This discovery was but the forerunner of a still more important
+development, namely, the discovery of _radium_. The actual finding of
+the metal was preceded by the knowledge that certain minerals, and
+water, as well, possessed the property of radio-activity.
+
+Radio-activity is a word used to express that quality in metals or other
+material by means of which obscure rays are emitted, that have the
+capacity of discharging electrified bodies, and the power to ionize
+gases, as well as to actually affect photograph plates.
+
+Certain metals had this property to a remarkable degree, particularly
+uranium, thorium, polonium, actinium, and others, and in 1898 the
+Curies, husband and wife, French chemists, isolated an element, very
+ductile in its character, which was a white metal, and had a most
+brilliant luster.
+
+Pitchblende, the base metal from which this was extracted, was
+discovered to be highly radio-active, and on making tests of the product
+taken from it, they were surprised to find that it emitted a form of
+energy that far exceeded in calculations any computations made on the
+basis of radio-activity in the metals hitherto examined.
+
+But this was not the most remarkable part of the developments. The
+energy, whatever it was, had the power to change many other substances
+if brought into close proximity. It darkens the color of diamonds,
+quartz, mica, and glass. It changes some of the latter in color, some
+kinds being turned to brown and others into violet or purple tinges.
+
+Radium has the capacity to redden the skin, and affect the flesh of
+persons, even at some considerable distance, and it is a most powerful
+germicide, destroying bacteria, and has been found also to produce some
+remarkable cures in diseases of a cancerous nature.
+
+The remarkable similarity of the rays propagated by this substance, with
+the X-rays, lead many to believe that they are electrical in their
+character, and the whole scientific world is now striving to use this
+substance, as well as the more familiar light waves of the Roentgen
+tube, in the healing of diseases.
+
+It is not at all remarkable that this use of it should first be
+considered, as it has been the history of the electrical developments,
+from the earliest times, that each successive stage should find
+advocates who would urge its virtues to heal the sick.
+
+It was so when the dynamo was invented, when the high tension current
+was produced; and electrical therapeutics became a leading theme when
+transmission by induction became recognized as a scientific fact.
+
+It is not many years since the X-rays were discovered, and the first
+announcement was concerning its wonderful healing powers.
+
+This was particularly true in the case of radium, but for some reason,
+after the first tests, all experimenters were thwarted in their
+theories, because the science, like all others, required infinite
+patience and experience. It was discovered, in the case of the X-ray,
+that it must be used in a modified form, and accordingly, various
+modifications of the waves were introduced, called the _m_ and the _n_
+rays, as well as many others, each having some peculiar qualification.
+
+In time, no doubt, the investigators will find the right quality for
+each disease, and learn how to apply it. Thus, electricity, that most
+alluring thing which, in itself, cannot be seen, and is of such a
+character that it cannot even be defined in terms which will suit the
+exact scientific mind, is daily bringing new wonders for our
+investigation and use.
+
+It is, indeed, a study which is so broad that it has no limitations, and
+a field which never will be exhausted.
+
+THE END
+
+
+
+
+GLOSSARY OF WORDS
+USED IN TEXT OF THIS VOLUME
+
+
+Acid.             Accumulator material is sulphuric acid, diluted
+                    with water.
+
+Active            That part of the material in accumulator plates
+  Material.         which is acted upon by the electric current.
+
+Accumulator.      A cell, generally known as a storage battery, which
+                    while it initially receives a charge of electricity,
+                    is nevertheless, of such a character, owing to the
+                    active material of which it is made, that it
+                    accumulates, or, as it were, generates electricity.
+
+Aerial Wire,      The wire which, in wireless  telegraphy, is carried
+  or Conductor.     up into the air to connect the antennae with the
+                    receiving and sending apparatus.
+
+Alarm, Burglar.   A circulating system in a building, connected up with
+                    a bell or other signaling means.
+
+Alloy.            A mixture of two or more metals; as copper and zinc
+                    to make brass; nickel and zinc to form German silver.
+
+Alternating Current. A current which goes back and forth in opposite
+                    directions, unlike a direct current which flows
+                    continuously in one direction over a wire.
+
+Alternation.      The term applied to a change in the direction of an
+                    alternating current, the frequency of the alternations
+                    ranging up to 20,000 or more vibrations per second.
+
+Amber.            A resin, yellow in color, which when rubbed with a
+                    cloth, becomes excited and gives forth negative
+                    electricity.
+
+Ammeter.          An instrument for measuring the quantity or flow of
+                    electricity.
+
+Ampere.           The unit of current; the term in which strength of
+                    the current is measured. An ampere is an
+                    electromotive force of one volt through a resistance
+                    of one ohm.
+
+Annunciator.      A device which indicates or signals a call given from
+                    some distant point.
+
+Anode.            The positive terminal in a conducting circuit, like
+                    the terminal of the carbon plate in a battery. It is
+                    a plate in an electroplating bath from which the
+                    current goes over to the cathode or negative plate or
+                    terminal.
+
+Arc.              A term employed to designate the gap, or the current
+                    which flows across between the conductors, like the
+                    space between the two carbons of an arc lamp, which
+                    gives the light.
+
+Armature.         A body of iron, or other suitable metal, which is in
+                    the magnetic field of a magnet.
+
+Armature Bar.     The piece which holds the armature. Also one of a
+                    series of bars which form the conductors in armature
+                    windings.
+
+Armature Coil.    The winding around an armature, or around the core
+                    of an armature.
+
+Armature Core.    The part in a dynamo or motor which revolves,
+                    and on which the wire coils are wound.
+

@@ -1,0 +1,176 @@
+The Project Gutenberg EBook of Day of the Moron, by Henry Beam Piper
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Day of the Moron
+
+Author: Henry Beam Piper
+
+Release Date: July 31, 2006 [EBook #18949]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK DAY OF THE MORON ***
+
+
+
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+                           DAY OF THE MORON
+
+                           BY H. BEAM PIPER
+
+[Transcriber's note: This etext was produced from Astounding Science
+Fiction September 1951. Extensive research did not uncover any evidence
+that the copyright on this publication was renewed.]
+
+
+
+
+_It's natural to trust the unproven word of the fellow who's "on my
+side"--but the emotional moron is on no one's side, not even his own.
+Once, such an emotional moron could, at worst, hurt a few. But with the
+mighty, leashed forces Man employs now...._
+
+
+
+
+There were still, in 1968, a few people who were afraid of the nuclear
+power plant. Oldsters, in whom the term "atomic energy" produced
+semantic reactions associated with Hiroshima. Those who saw, in the
+towering steam-column above it, a tempting target for enemy--which still
+meant Soviet--bombers and guided missiles. Some of the Central
+Intelligence and F.B.I. people, who realized how futile even the most
+elaborate security measures were against a resourceful and suicidally
+determined saboteur. And a minority of engineers and nuclear physicists
+who remained unpersuaded that accidental blowups at nuclear-reaction
+plants were impossible.
+
+Scott Melroy was among these last. He knew, as a matter of fact, that
+there had been several nasty, meticulously unpublicized,
+near-catastrophes at the Long Island Nuclear Reaction Plant, all
+involving the new Doernberg-Giardano breeder-reactors, and that there
+had been considerable carefully-hushed top-level acrimony before the
+Melroy Engineering Corporation had been given the contract to install
+the fully cybernetic control system intended to prevent a recurrence of
+such incidents.
+
+That had been three months ago. Melroy and his people had moved in, been
+assigned sections of a couple of machine shops, set up an assembly shop
+and a set of plyboard-partitioned offices in a vacant warehouse just
+outside the reactor area, and tried to start work, only to run into the
+almost interminable procedural disputes and jurisdictional wranglings of
+the sort which he privately labeled "bureau bunk". It was only now that
+he was ready to begin work on the reactors.
+
+He sat at his desk, in the inner of three successively smaller offices
+on the second floor of the converted warehouse, checking over a
+symbolic-logic analysis of a relay system and, at the same time,
+sharpening a pencil, his knife paring off tiny feathery shavings of
+wood. He was a tall, sparely-built, man of indeterminate age, with
+thinning sandy hair, a long Gaelic upper lip, and a wide, half-humorous,
+half-weary mouth; he wore an open-necked shirt, and an old and shabby
+leather jacket, to the left shoulder of which a few clinging flecks of
+paint showed where some military emblem had been, long ago. While his
+fingers worked with the jackknife and his eyes traveled over the page of
+closely-written symbols, his mind was reviewing the eight different ways
+in which one of the efficient but treacherous Doernberg-Giardano
+reactors could be allowed to reach critical mass, and he was wondering
+if there might not be some unsuspected ninth way. That was a possibility
+which always lurked in the back of his mind, and lately it had been
+giving him surrealistic nightmares.
+
+"Mr. Melroy!" the box on the desk in front of him said suddenly, in a
+feminine voice. "Mr. Melroy, Dr. Rives is here."
+
+Melroy picked up the handphone, thumbing on the switch.
+
+"Dr. Rives?" he repeated.
+
+"The psychologist who's subbing for Dr. von Heydenreich," the box told
+him patiently.
+
+"Oh, yes. Show him in," Melroy said.
+
+"Right away, Mr. Melroy," the box replied.
+
+       *       *       *       *       *
+
+Replacing the handphone, Melroy wondered, for a moment, why there had
+been a hint of suppressed amusement in his secretary's voice. Then the
+door opened and he stopped wondering. Dr. Rives wasn't a him; she was a
+her. Very attractive looking her, too--dark hair and eyes, rather
+long-oval features, clear, lightly tanned complexion, bright red
+lipstick put on with a micrometric exactitude that any engineer could
+appreciate. She was tall, within four inches of his own six-foot mark,
+and she wore a black tailored outfit, perfectly plain, which had
+probably cost around five hundred dollars and would have looked severe
+and mannish except that the figure under it curved and bulged in just
+the right places and to just the right degree.
+
+Melroy rose, laying down knife and pencil and taking his pipe out of his
+mouth.
+
+"Good afternoon," he greeted. "Dr. von Heydenreich gave me quite a
+favorable account of you--as far as it went. He might have included a
+few more data and made it more so.... Won't you sit down?"
+
+The woman laid her handbag on the desk and took the visitor's chair,
+impish mirth sparking in her eyes.
+
+"He probably omitted mentioning that the D. is for Doris," she
+suggested. "Suppose I'd been an Englishman with a name like Evelyn or
+Vivian?"
+
+Melroy tried to visualize her as a male Englishman named Vivian, gave
+up, and grinned at her.
+
+"Let this be a lesson," he said. "Inferences are to be drawn from
+objects, or descriptions of objects; never from verbal labels. Do you
+initial your first name just to see how people react when they meet
+you?"
+
+"Well, no, though that's an amusing and sometimes instructive
+by-product. It started when I began contributing to some of the
+professional journals. There's still a little of what used to be called
+male sex-chauvinism among my colleagues, and some who would be favorably
+impressed with an article signed D. Warren Rives might snort in contempt
+at the same article signed Doris Rives."
+
+"Well, fortunately, Dr. von Heydenreich isn't one of those," Melroy
+said. "How is the Herr Doktor, by the way, and just what happened to
+him? Miss Kourtakides merely told me that he'd been injured and was in a
+hospital in Pittsburgh."
+
+"The Herr Doktor got shot," Doris Rives informed him. "With a charge of
+BB's, in a most indelicate portion of his anatomy. He was out hunting,
+the last day of small-game season, and somebody mistook him for a
+turkey. Nothing really serious, but he's face down in bed, cursing
+hideously in German, English, Russian, Italian and French, mainly
+because he's missing deer hunting."
+
+"I might have known it," Melroy said in disgust. "The ubiquitous
+lame-brain with a dangerous mechanism.... I suppose he briefed you on
+what I want done, here?"
+
+"Well, not too completely. I gathered that you want me to give
+intelligence tests, or aptitude tests, or something of the sort, to some
+of your employees. I'm not really one of these so-called industrial
+anthropologists," she explained. "Most of my work, for the past few
+years, has been for public-welfare organizations, with subnormal

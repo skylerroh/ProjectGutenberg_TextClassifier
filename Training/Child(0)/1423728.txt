@@ -1,0 +1,416 @@
+Too much depends on wireless stations to run the risk of errors
+through imperfections in the equipment."
+
+"I can understand all that; but aren't there a score of other
+regulations?"
+
+"You mean about what they shall and shall not do?"
+
+"Yes."
+
+"There certainly are. There have to be because we have several
+different types of land stations. Just as the shipboard stations have
+their special kinds of work so do those on shore. For example, there
+are two different classes of radio compass stations,--those that
+operate independently and are located with a view to giving good
+cross-bearings to vessels that are from fifty to a hundred miles out
+to sea; and those known as harbor stations which are governed by a
+central control station and designed to inform ships within thirty
+miles of the entrance to outer channels of their position. The
+function of each of these stations is, as you can see, quite different
+and therefore each of them is obliged to have its own set of rules."
+
+"I never knew anything about radio compass stations before," announced
+Dick.
+
+"That is because you never sailed the seas and had to call on one for
+aid," smiled Bob. "If you did you would be very thankful, I guess,
+that the government has so carefully provided some one to answer just
+the sort of question you wished answered. I try to remember this when
+I get hot under the collar because the license for our station does
+not arrive. Uncle Sam can't help it if his men are slow. The plan at
+the top is all right. There must be rules to govern wireless stations,
+be they governmental, commercial, or private; rules to regulate the
+wave lengths each may use; rules to make sure the operators who have
+charge of them know their job; and inspectors to make sure that every
+such rule is obeyed."
+
+"Who has the big chore of following up all these people and making
+certain that they are conforming to the law?" questioned Mr.
+Crowninshield.
+
+"The Department of Commerce issues the licenses for all private and
+commercial stations and sends its inspectors to keep an eye on
+whatever comes under their control. It is this department that will
+have jurisdiction over Surfside if the license is granted. Government
+radio stations on the other hand, not only the high-power class but
+the coastal stations and everything that pertains to their relations
+with commercial stations afloat or ashore, whether in the United
+States or in foreign lands are entirely under the control of the
+Director of Naval Communications of the Navy Department."
+
+"I wish you'd tell us something more about compass stations," Dick
+said. "Were you ever stationed at one?"
+
+"Yes, for a little while I was on an island off the coast," replied
+Bob. "But I did not like it very well and applied for a transfer."
+
+"It must have been lonely as the dickens on an island; worse, even,
+than being at Seaver Bay. Why in goodness did they build the station
+there?"
+
+"Why, you see, a compass station that operates independently as that
+one did is usually situated on a lightship or an island because that
+location is best suited to the sort of work it has to do."
+
+"And that is?"
+
+"To give ships their positions when they sing out to ask exactly where
+they are," replied Bob. "Since the station is fairly well out to sea
+itself, it is able to furnish excellent cross-bearings and set the
+vessel on her course in case she is off it. Ships have been known to
+miss their way, you know, especially in a fog; and if they have not
+missed it they are often very grateful to be assured they have not and
+that their own calculations were correct. So the rule is that an
+operator must always be listening in for at least three minutes at
+ten, twenty-five, forty, and fifty-five minutes past the hour and be
+ready to answer a Q T E when he hears it."
+
+"What's a Q T E?" inquired both Dick and Walter simultaneously.
+
+"Those particular letters mean: _What is my true bearing?_ It takes
+less time to send the letters than to spell out the entire sentence
+and therefore a simple code which means the same in all languages is
+used. When such a call is received the operator replies: Q T S
+(meaning: Your true bearing is) and then follows it with the number of
+degrees from his radio post stated in words, and also the name of the
+station responding to the message. It is a general rule, by-the-by,
+that all numerals used in any wireless communication must be spelled
+out to make sure of their being perfectly understood."
+
+"What a bother!" ejaculated Walter.
+
+"It prevents mistakes, brother; and if it does that it is certainly
+worth the trouble."
+
+"I suppose so," answered His Highness a trifle crestfallen.
+
+"Then what do you say next?" interrupted Dick, who was much interested
+in the subject in hand.
+
+"Well, after you have given the true bearing the ship wires: Q T F."
+
+"And that means?"
+
+"_What is my position?_"
+
+"And you have to repeat those words before giving it just as you did
+before?" asked Dick.
+
+"Always," nodded Bob. "Every question asked is always repeated by the
+operator answering it to make sure that each party fully understands
+what is being talked about. You can't risk having a ship complain:
+'Oh, I thought those figures you sent me were so-and-so.' No, indeed.
+Everything must be so explicit that there will be no room for
+blunders. So after you have repeated the question you send the
+latitude and longitude _in words_."
+
+"I guess there is sense in the rules after all," smiled Mrs.
+Crowninshield. "Thus far we have not discovered any which, on being
+examined, were not both reasonable and wise."
+
+"That's the way I feel," Bob rejoined. "After being in radio work and
+seeing the opportunities there are for mistakes I have decided
+operators cannot be too careful. You see it is not like talking with
+a person face to face. Those you are communicating with are usually
+miles and miles away. Such stations as I have been telling you about
+are on the lookout for any six-hundred-meter calls and they answer in
+this tune. After communication with a ship is established, however,
+the tune shifts to seven hundred and fifty-six meters if a Navy vessel
+should be talking; if not, the six-hundred-meter wave length assigned
+is used. This leaves the shorter range waves to commercial vessels and
+greatly simplifies matters."
+
+"That is a good rule, too," chimed in Mr. Crowninshield.
+
+"And now about the harbor stations," suggested Dick.
+
+The young tutor smiled.
+
+"I had not intended to give you all this stuff this morning,"
+protested he, "but since you are interested in it we may as well go on
+with the subject. The task of the harbor stations, then, is to listen
+both on a six-hundred-meter range, and one of nine hundred and
+fifty-two--the first wave length for commercial and the latter for
+Navy ship's calls. Then in response to inquiry the operator directs
+the vessel how to enter that particular harbor, stating just where the
+entrance buoys are and where the channel lies. If the man at the wheel
+is new to the port this aid is invaluable."
+
+"Not much like the navigation of the old days, is it?" mused Mr.
+Crowninshield. "I should think such stations would put pilots out of
+business."
+
+"They do to some extent," was the reply. "There are, however, always
+ships that cannot make a landing under their own steam, ships that
+have to be towed. So the pilots still find something to do."
+
+"And are these harbor stations on islands too?" questioned Nancy.
+
+"Many of them are. A small proportion of them, though, are in
+lighthouses. It all depends on which place has the more favorable
+location."
+
+"But do not the land stations that send messages sometimes interfere
+with these stations?" queried Mr. Crowninshield.
+
+"There are rules to prevent _that_," laughed Bob. "Of course the
+difference in wave length to which the various types of stations are
+limited solves a part of this difficulty. As I told you commercial
+stations have their own particular wave length and must stick to it;
+and private stations such as this one here have their range of two
+hundred meters in which to operate and are confined to not more than
+one kilowatt for sending messages. You cannot use more than this
+without special permission from the Secretary of Labor. Should you do
+so you are liable to a fine of one hundred dollars if your offense is
+deliberate; if, however, it is proved that your apparatus was out of
+adjustment and overreached itself you may get off with a
+twenty-five-dollar fine. In that case you must see at once that your
+radio error is corrected and your outfit set right."
+
+"But sometimes along the coast aren't there big government stations
+belonging to the army or navy? I should think these, with their press
+of business, would butt in on the smaller ones and raise havoc with
+them," ventured Mr. Crowninshield.
+
+"Where there are such mix-ups and private or commercial stations
+interfere with important government outfits the smaller ones are not
+allowed to send messages during the first fifteen minutes of each
+hour, such time being reserved for government business. The
+government, on the other hand, must respect the rights of the littler
+chap and use this particular interval for transmitting. In fact, when
+licenses are issued this condition is made with private owners and the
+station is so listed. Of course, however, should an S O S call come,
+all rules go by the boards and the distress call has the right of way
+in every case."
+
+Mrs. Crowninshield, smiling mischievously, rose from her chair.
+
+"There is an S O S coming in right now for a lemonade," said she,
+fanning herself with her filmy handkerchief. "Who will join me?"
+
+A chorus of "I!" "I!" greeted the question.
+
+She touched a bell.
+
+"Bring lemonade for six, Emelie," said she. "Put in some slices of
+orange, some strawberries, and plenty of cracked ice. What a warm day
+it is! I am glad I am not out on some hot, sun-baked island answering
+radio calls."
+
+"You probably would not be hot if you were on an island out to sea, my
+dear," her husband returned playfully. "However, I'll agree that this
+veranda is good enough for me on a July day."
+
+The tinkling of ice cut short the conversation. Far away through the
+house its distant cadence sounded.
+
+"The first and tallest lemonade must be for Bob," Nancy announced. "He
+has certainly earned it."
+
+
+
+
+CHAPTER XVI
+
+MIRACLES
+
+
+Although throughout the day Mr. Crowninshield did not wander far from
+the telephone no word came from the New York detectives and evening
+saw him quite discouraged.
+
+"I cannot imagine what those fellows are up to," fretted he. "Now that
+they know where the yacht is and have had all day to do something
+about it, it is beyond my comprehension why they haven't. Lola will be
+dead before they get round to moving on Daly."
+
+"I don't believe they are sitting idle," Bob declared in an effort to
+cheer his patron. "Probably there will be news to-morrow."
+
+"Maybe," sighed the financier. "But if something does not happen by
+to-morrow, I shall start myself in my own yacht to chase up Daly."
+
+"I doubt if that would do any good, sir," protested Bob. "It might
+simply, as you said yourself, precipitate a crisis."
+
+"Well, a crisis is better than having nothing done," fumed the man
+irritably.
+
+"You must not forget there is O'Connel."
+
+"Much good he is doing. We have only heard from him once and as we
+have no license you can't talk to him."
+
+"Nevertheless, he is on the job at his end of the line," Bob answered.
+"He has a lot of common sense, too. You can trust him to keep tabs on
+how things are moving."
+
+"Maybe I can. I hope so," was the dismal retort.
+
+Evening, however, saw no improvement in Mr. Crowninshield's mood. "Not
+a yip of any sort from those chaps in New York. One would think they
+were dead," he growled. "Well, I'll give them one more day and then if
+they haven't something to show I will send them to blazes and take up
+the case myself. I almost wish I had done it in the first place. Here
+I am paying a small fortune and getting no results."
+
+Again Bob struggled to soothe the perturbed mind and raise the
+capitalist's spirits.
+
+"Oh, we'll hear something to-morrow, I guess," said he with an
+optimism he did not altogether feel. "Maybe my license will come; or
+the inspector may appear; or O'Connel may send tidings; or news may
+come from New York. Something is sure to happen. Why don't we all go
+over to the station and listen in on the broadcasting to-night. We are
+sure to get something that will be interesting and now that the 'loud
+speaker' is in position we shall be able to hear without using
+individual receivers. You haven't any of you really heard what our
+wireless can do."
+
+"I know it," acknowledged the gentleman. "You see, just about every
+night during broadcasting hours we have either had company or I have
+been busy."
+
+"But are you to be busy to-night?" inquired Bob.
+
+"No, I fancy we're not. Mrs. Crowninshield said there was nothing on."
+
+"Then why don't we light up the boathouse, and all of us listen to
+what is going on in the world," Bob suggested. "I wish, too, Jerry
+might come. He has not had a chance to see the outfit at all, much
+less hear it. If it would not annoy you and the ladies just to let him
+sit at the back of the room he could hear everything now that the horn
+is on." Bob hesitated. "He has been so kind about helping us----"
+
+"Sure! Ask him by all means," Mr. Crowninshield assented heartily. "Or
+better yet, I will ask him myself. I am glad you reminded me of it.
+Jerry is my right-hand man and I like to give him pleasure when I can.
+What time will your show begin?"
+
+"Oh, from seven o'clock on there is usually something doing, sir. But
+the most interesting part of the program begins at eight."
+
+"We'll be on hand, then."
+
+This promise won Bob imparted the tidings to Dick and Walter and the
+two assistants, as they dubbed themselves, hastened to prepare the new
+radio building for the reception of guests. Comfortable chairs and gay
+cushions were brought from the house and in his enthusiasm Dick even
+went so far as to drape a flag over the entrance of the low room.
+
+"We might have hung out bunting if we'd known sooner they were
+coming," said he.
+
+"I guess they won't care about the bunting once they are inside the
+place," Walter asserted in a comforting tone.
+
+"Don't you hope the outfit will show up well? I do," declared Dick.
+"It would be just our luck to have something act up so we couldn't
+hear anything. Then Dad, who is feeling pretty much on edge anyway,
+would announce that a wireless was simply money thrown in a hole."
+
+"We're not responsible for the conditions," laughed Bob. "If static is
+bothersome it is not our fault."
+
+"Nevertheless, Dad wouldn't understand that. He would just think we
+did not know how to operate the thing."
+
+"Well, we'll pray for moderate quiet," smiled Bob. "Of course I'd like
+the apparatus to show off at its best. But like a child, it probably
+won't. We shall have to take our luck; and if we do not get
+satisfactory results to-night why the audience will have to come again
+to-morrow or some other time."
+
+"Maybe it won't--at least maybe Dad won't," Dick answered
+incoherently. "If he starts off in the yacht to-morrow----"
+
+"Oh, he won't set off to chase Daly to-morrow, don't you fret," put in
+His Highness. "He was only sputtering. What good could he do? He
+wouldn't have any right to search the _Siren_ even if he overtook her;
+nor could he arrest the criminals aboard her. Daly would pitch Lola
+over the side of the boat before he would stand by and let your father
+board his yacht and he knows it."
+
+"Maybe he does," admitted Dick. "Still, he was tremendously in earnest
+this afternoon."
+
+"He has calmed down some now," His Highness replied.
+
+"I hope he'll stay calmed," Dick smiled. "Perhaps, unless our show
+goes wrong and he gets irate at the radio company, he will."
+
+In fact had the three young wireless operators been willing to admit
+it they were far more perturbed when they heard the invited company
+approaching than they would have been willing to confess. In the heart
+of each of them was the same thought: the new radiophone must justify
+itself and prove that it was worth all the money that had been
+expended upon it.
+
+"Well, here we are! And here's Jerry, too. He said he couldn't
+possibly come--tried to make me believe he was too busy, the rascal.
+But I labored with him and finally got him here," announced the master
+triumphantly.
+
+Very hot and very uncomfortable under the general banter Jerry
+blushed.
+
+"Now where do you wish to put us, Dick?" inquired the boy's mother.
+"We are under your orders to-night--yours and Bob's."
+
+"I think you will be able to hear in any of these chairs--that is, if
+we hear at all," Dick responded nervously.
+
+"What do you mean by _able to hear at all_?" put in his father
+sharply.
+
+"Why--eh--sometimes conditions vary," was the ambiguous answer. "One
+does not always hear equally well." It seemed wiser to prepare his
+father's mind for possible disappointment.
+
+In the meantime Bob was tinkering with the plugs.
+
+"Everybody ready?" he asked.
+
+"All on deck!" came from Mr. Crowninshield whose depression, it was
+plain to be seen, had momentarily vanished.
+
+"Then here goes!" cried Bob.
+
+Instantly the quiet of the room was transformed into a chaos of sound.
+There was a shrill piping as of a singing wind, and a wail that echoed
+hauntingly through the air as the tuner revolved.
+
+"What in the name of goodness----?" began Mr. Crowninshield.
+
+"Hush, Dad! It is always like that," explained Dick hastily.
+
+"But it's horrible."
+
+"Yes, I know. But wait."
+
+"Isn't something out of order?"
+
+"No." Dick smiled patronizingly.
+
+"My soul and body," whispered Jerry from his corner, "did anybody ever
+hear such a sound? Ain't it the wind outside. Seems as if a gale must
+have come up--a hurricane, tornado, or something. If a storm's coming
+I can't sit round here. I'll have to be seeing to the awnings or
+they'll be ripped to pieces." He half rose from his chair.
+
+"Don't worry, Jerry; everything's all right outside," interrupted
+Walter reassuringly.
+
+"You mean to say it's just in here?" murmured the bewildered Jerry.
+Enjoying the old man's confusion, Walter nodded.

@@ -1,0 +1,435 @@
+ship, and thereby complete the circuit. This grapnel was successfully
+used on the Anglo-American Telegraph Company's repairing steamer Minia
+in the summer of 1881.
+
+Subsequently, in discussing the construction of the grapnel with
+Captain Troot, we concluded that something was yet wanted to render
+the successful working in deep water absolutely sure, and we decided,
+consequently, to make certain alterations.
+
+This improved form may be constructed, either with a contact-plate in
+each prong, or with one contact-plate common to all the prongs; the
+latter is somewhat simpler, and is therefore the plan that we usually
+adopt. Both forms are shown in the accompanying diagrams. The form
+of grapnel in Diagram No. 1 has one advantage over the other in this
+respect, viz., that should a prong be ruptured so as to render it
+useless, the fact would immediately be known on board. A circuit formed
+in such a manner, by the breaking off of a branch lead, would have
+greater resistance than that formed by the contact resulting from
+pressure of cable on the plungers; this difference would be manifested
+on the indicator (of low resistance) placed in circuit with the
+alarm-bell, or, if any doubt remained, a Wheatstone's bridge, or simpler
+still, a telephone might be made use of.
+
+In some cases we may protect the plungers from the pressure of ooze,
+etc., by guards fitted to the stem of the grapnel, but in practice we
+have not found these to be necessary.
+
+The water is allowed free access around and about each separate part, in
+order that its pressure shall be equal on all sides. This arrangement
+renders the grapnel as effectual in the deepest as in the shallowest
+water.
+
+By making the plungers in two pieces, with a rubber washer or its
+equivalent between them, we prevent mud or ooze from getting behind and
+interfering with their working. As the hole in the rubber surrounding
+the contact-plate, by caused the passage of the pin through it, closes
+up as soon as the pressure is removed, leaving in the rubber a fault of
+exceedingly high resistance, the rubber does not require renewing.
+
+In the rubber in which we embedded the contact-plate, we place a layer
+or more of tinfoil or other easily pierced conducting surface, through
+which the pin passes on its way to the contact-plate proper. This method
+we have adopted in order to make the assurance of contact doubly sure.
+
+The grapnel just described we had in use on the Minia since April last.
+We have tried it severely, and have never known it to fail. No swivel
+has been used with the rope, in the heart of which is the insulated
+wire, as it would allow the grapnel to turn over on the bottom, and
+would be apt to twist and break the wire short off. As a matter of
+fact, the grapnel will turn, and does turn, with the rope; a swivel is
+therefore of no value. We are perfectly awake, however, to the fact that
+a grappling-rope should be made in a manner that will not allow it to
+kink; and engineers should avail themselves of such rope, especially in
+deep water. Patents have lately been granted to Messrs. Trott &
+Hamilton for the invention of a form of rope or cable answering all the
+requirements of this work.
+
+A small type of grapnel fitted in the manner I have described may be
+very advantageously used for searching purposes, to ascertain the
+position either of telegraph or torpedo lines; by towing at a quick rate
+much time may be saved. The position being ascertained, if it be not
+desired to lift the cable, the grapnel can be released and hove on board
+by a tripping line, which can always be attached when such work is
+contemplated. The great importance of being able to localize an enemy's
+torpedo lines without raising an alarm will be readily seen by engineers
+engaged in torpedo work.
+
+
+REFERENCES TO THE DIAGRAMS.
+
+a, stem of the grapnel containing core; b, flukes; c, recess for
+insulated contact-plate connected to core; d, covering plate screwed on
+bottom of grapnel; e, button of plug; f, rubber washer and button; g,
+metal-plate; h, stem of plug, on which in the under counter-sink, U is
+a small metal disk which prevents the fittings from fallings out; i,
+needle; j, spring; k, counter-sink for head of plug; l, counter-sink for
+spring.
+
+       *       *       *       *       *
+
+
+
+
+HUGHES' NEW MAGNETIC BALANCE.
+
+
+A new magnetic balance has been described before the Royal Society
+by Prof. D. E. Hughes, F.R.S., which he has devised in the course of
+carrying out his researches on the differences between different kinds
+of iron and steel. The instrument is thus described in the _Proceedings
+of the Royal Society_:
+
+"It consists of a delicate silk-fiber-suspended magnetic needle, 5 cm.
+in length, its pointer resting near an index having a single fine black
+line or mark for its zero, the movement of the needle on the other
+side of zero being limited to 5 mm. by means of two ivory stops or
+projections.
+
+[Illustration]
+
+When the north end of the needle and its index zero are north, the
+needle rests at its index zero, but the slightest external influence,
+such as a piece of iron 1 mm. in diameter 10 cm. distant, deflects the
+needle to the right or left according to the polarity of its magnetism,
+and with a force proportional to its power. If we place on the opposite
+side of the needle at the same distance a wire possessing similar
+polarity and force, the two are equal, and the needle returns to zero;
+and if we know the magnetic value required to produce a balance, we know
+the value of both. In order to balance any wire or piece of iron placed
+in a position east and west, a magnetic compensator is used, consisting
+of a powerful bar magnet free to revolve upon a central pivot placed
+at a distance of 30 or more cm., so as to be able to obtain delicate
+observations. This turns upon an index, the degrees of which are
+marked for equal degrees of magnetic action upon the needle. A coil of
+insulated wire, through which a feeble electric current is passing,
+magnetizes the piece of iron under observation, but, as the coil itself
+would act upon the needle, this is balanced by an equal and opposing
+coil on the opposite side, and we are thus enabled to observe the
+magnetism due to the iron alone. A reversing key, resistance coils, and
+a Daniell cell are required."
+
+The general design of the instrument, as shown in a somewhat crude form
+when first exhibited, is given in the figure, where A is the magnetizing
+coil within which the sample of iron or steel wire to be tested is
+placed, B the suspended needle, C the compensating coil, and M the
+magnet used as a compensator, having a scale beneath it divided into
+quarter degrees.
+
+The idea of employing a magnet as compensator in a magnetic balance is
+not new, this disposition having been used by Prof. Von Feilitzsch in
+1856 in his researches on the magnetizing influence of the current. In
+Von Feilitzsch's balance, however, the compensating magnet was placed
+end on to the needle, and its directive action was diminished at will,
+not by turning it round on its center, but by shifting it to a greater
+distance along a linear scale below it. The form now given by Hughes to
+the balance is one of so great compactness and convenience that it
+will probably prove a most acceptable addition to the resources of the
+physical laboratory.--_Nature_.
+
+       *       *       *       *       *
+
+
+
+
+HOW TO HARDEN CAST IRON.
+
+
+Cast iron may be hardened as follows: Heat the iron to a cherry red,
+then sprinkle on it cyanide of potassium and heat to a little above red,
+then dip. The end of a rod that had been treated in this way could not
+be cut with a file. Upon breaking off a piece about one-half an inch
+long, it was found that the hardening had penetrated to the interior,
+upon which the file made no more impression than upon the surface. The
+same salt may be used to caseharden wrought iron.
+
+       *       *       *       *       *
+
+
+
+
+APPARATUS FOR MEASURING SMALL RESISTANCES.
+
+
+The accompanying engraving shows a form of Thomson's double bridge, as
+modified by Kirchhoff and Hausemann. The chief advantage claimed for
+this instrument consists in the fact that all resistances of defective
+contact between the piece to be measured and the battery are entirely
+eliminated--an object of prime importance in measuring very small
+resistances. By the use of this instrument resistances can be measured
+accurately down to one-millionth of a Siemens unit.
+
+The general arrangement of the instrument is shown in Fig. 1; Fig. 2
+being a diagram of the electrical connections.
+
+[Illustration: FIG. 1.--KIRCHHOFF AND HANSEMANN'S BRIDGE FOR MEASURING
+SMALL RESISTANCES.]
+
+The piece of metal to be measured, M, is placed in the measuring forks,
+gg, in such a manner that the movable fork is removed as far as possible
+from the stationary one; if the weight of the piece be insufficient to
+secure a good connection, additional weights may be placed upon it. The
+main circuit includes the battery, B (Fig. 2), consisting of from two to
+four Bunsen cells, the key, T, the German silver measuring wire, N, and
+the piece of metal resting on the forks, all being joined in series. The
+German silver wire, N, is traversed by two movable knife-edge contacts,
+cc, as shown. Connections are made between these contacts, cc, the
+resistance box, the prongs, k and l, of the forks, gg, and the
+reflecting galvanometer, as shown in Fig. 2. A resistance of ten units
+is inserted at o and n, while at m and p twenty units or one thousand
+units are inserted. The positions of cc are then varied until the
+galvanometer shows no deflection when the key, T, is depressed.
+
+[Illustration: FIG. 2.--DIAGRAM SHOWING ELECTTRICAL CONNECTIONS OF
+BRIDGE.]
+
+When such is the case, the ratio of resistances n/m is equal to o/p;
+letting M equal the resistance of the metal bar between the points, h
+and i, and N equal to the resistance between the points, cc, on the
+measuring wire, N, then we shall have
+
+M = N (n/m) = N (o/p).
+
+Knowing the cross section in millimeters, Q, of the bar, and observing
+the temperature, t, in degrees Centigrade, its conductivity, x, as
+compared with mercury can be determined. If L be the distance, h l or k
+i, in meters, then
+
+x = (1/m) (L/Q) (1 + at).
+
+For pure metals the value of a may be taken at 0.004; but alloys have a
+different coefficient. The instrument is made by Siemens and Halske,
+and is accompanied by a table giving resistances per millimeter of the
+measuring wire, N.--_Zeitsch. fuer Elektrotechnik_.
+
+       *       *       *       *       *
+
+
+
+
+TERRESTRIAL MAGNETISM.
+
+[Footnote: For a full account of experiments relating to magnetism on
+railways in New York city, see SCIENTIFIC AMERICAN, January 19,1884.]
+
+
+_To the Editor of the Scientific American_:
+
+An item has appeared recently in several papers, stating that New York
+is a highly magnetized city--that the elevated railroad, Brooklyn Bridge
+cables, etc., are all highly magnetized. As this might convey to the
+general reader the impression that the magnetism thus exhibited was
+peculiar to New York city, and as many of your subscribers look
+anxiously for your answers to numerous questions put for the elucidation
+of apparent, scientific mysteries, I have thought that perhaps a
+statement in plain language of experiments made at various times, to
+elucidate this subject, might, in conjunction with a diagram, serve to
+explain even to those who have not made a special study of science a few
+of the interesting phenomena connected with
+
+
+TERRESTRIAL MAGNETISM.
+
+Some of the first experiments I made, while professor at the Indiana
+State University, were detailed in the March and August numbers,
+1872, of the _Journal_ of the Franklin Institute, and I think showed
+conclusively that the earth, by induction, renders all articles of iron,
+steel, or tinned iron magnetic; possessing for the time being polarity,
+after they have been in a settled position for a short time.
+
+In Dr. I. C. Draper's "Year Book of Nature" for 1873, mention is made
+of the experiments in which I found every rail of a N. and S. railroad
+exhibiting polarity.
+
+The same statements were repeated in one of a series of articles sent by
+me to the _Indianapolis Daily Journal_, dated Jan. 20, 1877, in which I
+used the following language:
+
+"Every article of iron or steel or tinned iron, by the earth's
+induction, becomes magnetic. Thus, if we examine our stoves, or a
+doorlock, or long vertical hinge, or even a high tin cup, by holding a
+delicate magnetic needle in the hand near those objects, we find the
+earth has, by induction, attracted to the lower end of the stove
+utensils, etc., the opposite magnetism from its own; and repelled to the
+upper end of the stove, etc., the same magnetism which exists in our
+northern hemisphere. Consequently, the bottom of the stove, or of the
+hinge, cup, etc., will attract the south (or unmarked end) of our
+needle; while the top of the stove, etc., attracts the north, or marked
+end of our magnetic needle. If we apply our needle to the T rails of a
+N. and S. railroad, we not only find that the lower flange of the rail
+attracts the S. end of our needle, while the upper flange attracts the
+N. end of our needle, but we also find, where the two rails come nearly
+together (say within two inches), that the N. end of the rail attracts
+the S. end of our needle, while the S. end of the rail attracts the N.
+(or marked) end of our magnetic needle."
+
+[Illustration: MAGNETISM ON RAILWAYS.]
+
+Quite recently, being anxious to see the effect produced on the needle
+by rails laid E. and W., I experimented on some recently laid here;
+starting from a S. terminus, in the town of New Harmony, and gradually
+curving northeast, until the road pursues a due east course to
+Evansville. There is, however, a branch road of about half a mile, which
+starts from the Wabash River, at a _west_ terminus, and runs due east
+to join the other, near where that main track commences its northeast
+curve. The results (more readily understood by an inspection of the
+diagram) were as follows:
+
+1. At the south terminus of the railroad, the rails on the east side of
+the track as well as those on the west side attracted at their south
+ends the marked end of a small magnetic needle, both at the upper and
+lower flange; the usual vertical induction being in this case overcome
+by the greater lateral induction. Whenever, on progressing north, the
+rails were at least about two inches apart, the upper flange of the
+north end of any rail would attract the unmarked, while the south end
+of its neighbor or any other of the north and south laid rails would
+attract the marked end.
+
+2. The same results were obtained from rails laid all around the
+northeast curve, and even after they had acquired a due west to east
+course; showing that each rail acquired the same magnetic polarity which
+would be exhibited by any magnetic needle oscillating freely in our
+northern hemisphere, dipping also at its north end considerably downward
+if suspended at its center of gravity.
+
+3. Applying the needle at the _west_ terminus, a few anomalies were
+observed; but, especially nearer the junction, the rails all gave the
+normal result found on the main track.
+
+4. The wheels of the cars standing on the north and south track followed
+the same law, exhibiting both vertical and lateral induction, so that
+the lower rims and the forward or north part of the periphery attracted
+the unmarked end of the needle, while the upper and rear, or south
+portions of the periphery of the wheel attracted the marked end.
+
+5. The wheels of cars standing on the east and west road exhibited
+the following modification. The lowest rim of all the wheels, whether
+standing on the _north_ rails or on the _south_ rails of said track,
+in consequence of vertical induction attracted the unmarked end of the
+needle, and the upper rims attracted the marked end of the needle; but
+the middle portions of the periphery, both anterior and posterior, of
+the wheels standing on the north rail, attracted the unmarked end, while
+similar middle portions of wheels standing on south rails attracted the
+marked end; in consequence of horizontal induction, the wheels being
+connected by iron axles, and thus presenting considerable extension
+_across_ the track, viz., from south to north.
+
+Magnetite seems to have acquired its polarity in the same manner,
+namely by the earth's induction, when the ore contains a large enough
+percentage of pure iron. A large specimen (6 in. long by 31/2 deep and
+weighing 51/2 lb.) which I obtained from near Pilot Knob, Missouri,
+exhibits polarity, not only at its lateral ends, but also vertically,
+as the lower surface attracts the unmarked end of a needle, while the
+plane, which evidently occupied the upper surface in its native bed,
+attracts the marked end of the needle.
+
+Iron fences invariably exhibit only the polarity by vertical induction;
+so also small buckets, bells, etc. But in the case of a bell about 3 ft.
+in diameter at its base, and over two feet deep, tapering to about a
+foot in diameter at the top, I found that although the top attracted the
+marked end of the needle, the bottom attracted the unmarked end of the
+needle only around the northerly half of the circumference, while
+the southern portion of this lower rim attracted the marked end in
+consequence of lateral induction, as in N. and S. rails.
+
+Thus, upon a comparison of all these facts, it would appear that, if
+the magnetism induced by the earth is due to so-called currents of
+electricity, those currents must be _underneath_ the rails, and must
+move from west to east, under the south to north rails, and from south
+to north under the west to east laid rails, as indicated by the arrows
+in the diagram.
+
+This accords perfectly with what we should theoretically expect, in our
+northern hemisphere, if the electricity in the earth's crust is due to
+thermo-electrical currents from east to west, namely, from the more
+heated to the less heated portion, on any given latitude, while the
+earth revolves from west to east; as well as also from electrical
+currents trending from tropical to Arctic regions.
+
+As the network of iron rails spreads from year to year more extensively
+over our continent, it will be interesting to observe whether or not
+any effect is produced, meteorological, agricultural, etc., by this
+diffusion of magnetism.
+
+It may further interest some of your readers to have attention called to
+facts indicating
+
+
+SYNCHRONOUS SEISMOLOGY.
+
+The year recently closed furnishes interesting corroborative testimony
+of an apparent law regarding the propagation of earthquake movements
+_most readily_ along great circles of our globe, as well as evidence
+that these seismic movements are frequently transmitted along belts
+(approximating to great circles) coincident sometimes with continental
+trends, at other times with fissures which emanate in radii at every
+30 deg., around the pole of the land hemisphere in Switzerland, as described
+in one of my papers, read at the Montreal meeting of the A.A.A.S.
+
+The terms synchronism or synchronous, as here used, are not designed to
+imply absolute simultaneity (although that is sometimes the case with
+disturbances 180 deg. apart), but are rather intended to indicate the
+tendency presented by these phenomena to exhibit this internal activity,
+during successive days, weeks, or even months, along a given great
+circle of the earth, especially one or more of those connected with the
+land center; perhaps most of all along the great circle which forms the
+prime vertical, when the center of land is placed at the zenith.
+
+In order to test the above, let us examine the record of the most
+prominent earthquakes or volcanic eruptions for the year 1883.
+
+Late in Dec., 1882, and early in Feb., 1883, shocks occurred in New
+Hampshire; on Jan. 11, 1883, also at Cairo, Illinois, and about the same
+time at Paducah, Ky.; Feb. 27 at Norwich, Conn., and early in Feb. at
+Murcia, Spain.
+
+These, by examination of any good globe, will be found on a belt forming
+one and the same great circle of the earth.
+
+Late in March and during part of April the volcano of Ometeke in Lake
+Nicaragua was active (after being long dormant); Panama, portions of
+the U.S. of Colombia, and of Chili; also, in May, Helena, M.T.; and,
+in June, Quito (with Cotopaxi active) were all more or less shaken by
+earthquakes; and are all found on one belt of a great circle.
+
+The principal record for the remainder of the year comprised:
+
+An earthquake at Tabreez in North Persia, early in May, 1883.
+
+The awful destruction in Ischia, July 29 (with Vesuvius active).
+
+The fearful eruption in the Straits of Sunda, 25th Aug. and later.
+
+Shocks in Sumatra and at Guayaquil, about same date or early in Sept.
+
+Shocks at Dusseldorf, according to a Berlin paper of 5th Sept.
+
+Shocks at Santa Barbara and Los Angeles, early in Sept.
+
+Shocks at Gibraltar and Anatolia in October.
+
+Shocks at Malta, Trieste, and Asia Minor in October.
+
+Azram shaken late in Sept., and great destruction between Scios and
+Smyrna.
+
+Lastly, the formation of a new island in the Aleutian Archipelago. Date
+of outburst, early in October, 1883.
+
+Besides these, there were several other less severe disturbances, the
+records of which are chiefly obtained from Nature, and which will-be
+referred to below.
+
+If the globe be so placed as to have the land center at the zenith, the
+exact position of the new island, near Unnok, will be found under the
+brazen meridian, while Agram, Tabreez, Sunda, Sumatra, Quito, and

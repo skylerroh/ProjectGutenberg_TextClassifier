@@ -1,0 +1,312 @@
+knowledge of chemistry can get the main point of it by merely looking at
+this diagram:
+
+     C    C              C---C
+     ||   ||             ||  |
+  C--C    C           C--C   C
+     |    |     -->      |   |
+     C    C--C           C   C--C
+     ||   ||             |   ||
+     C    C              C---C
+
+[Illustration: isoprene _turns into_ caoutchouc]
+
+I have dropped the 16 H's or hydrogen atoms of the formula for
+simplicity's sake. They simply hook on wherever they can. You will see
+that the isoprene consists of a chain of four carbon atoms (represented
+by the C's) with an extra carbon on the side. In the transformation of
+this colorless liquid into soft rubber two of the double linkages break
+and so permit the two chains of 4 C's to unite to form one ring of
+eight. If you have ever played ring-around-a-rosy you will get the idea.
+In Chapter IV I explained that the anilin dyes are built up upon the
+benzene ring of six carbon atoms. The rubber ring consists of eight at
+least and probably more. Any substance containing that peculiar carbon
+chain with two double links C=C-C=C can double up--polymerize, the
+chemist calls it--into a rubber-like substance. So we may have many
+kinds of rubber, some of which may prove to be more useful than that
+which happens to be found in nature.
+
+With the structural formula of Harries as a clue chemists all over the
+world plunged into the problem with renewed hope. The famous Bayer dye
+works at Elberfeld took it up and there in August, 1909, Dr. Fritz
+Hofmann worked out a process for the converting of pure isoprene into
+rubber by heat. Then in 1910 Harries happened upon the same sodium
+reaction as Matthews, but when he came to get it patented he found that
+the Englishman had beaten him to the patent office by a few weeks.
+
+This Anglo-German rivalry came to a dramatic climax in 1912 at the great
+hall of the College of the City of New York when Dr. Carl Duisberg, of
+the Elberfeld factory, delivered an address on the latest achievements
+of the chemical industry before the Eighth--and the last for a long
+time--International Congress of Applied Chemistry. Duisberg insisted
+upon talking in German, although more of his auditors would have
+understood him in English. He laid full emphasis upon German
+achievements and cast doubt upon the claim of "the Englishman Tilden" to
+have prepared artificial rubber in the eighties. Perkin, of Manchester,
+confronted him with his new process for making rubber from potatoes, but
+Duisberg countered by proudly displaying two automobile tires made of
+synthetic rubber with which he had made a thousand-mile run.
+
+The intense antagonism between the British and German chemists at this
+congress was felt by all present, but we did not foresee that in two
+years from that date they would be engaged in manufacturing poison gas
+to fire at one another. It was, however, realized that more was at stake
+than personal reputation and national prestige. Under pressure of the
+new demand for automobiles the price of rubber jumped from $1.25 to $3 a
+pound in 1910, and millions had been invested in plantations. If
+Professor Perkin was right when he told the congress that by his process
+rubber could be made for less than 25 cents a pound it meant that these
+plantations would go the way of the indigo plantations when the Germans
+succeeded in making artificial indigo. If Dr. Duisberg was right when he
+told the congress that synthetic rubber would "certainly appear on the
+market in a very short time," it meant that Germany in war or peace
+would become independent of Brazil in the matter of rubber as she had
+become independent of Chile in the matter of nitrates.
+
+As it turned out both scientists were too sanguine. Synthetic rubber has
+not proved capable of displacing natural rubber by underbidding it nor
+even of replacing natural rubber when this is shut out. When Germany
+was blockaded and the success of her armies depended on rubber, price
+was no object. Three Danish sailors who were caught by United States
+officials trying to smuggle dental rubber into Germany confessed that
+they had been selling it there for gas masks at $73 a pound. The German
+gas masks in the latter part of the war were made without rubber and
+were frail and leaky. They could not have withstood the new gases which
+American chemists were preparing on an unprecedented scale. Every scrap
+of old rubber in Germany was saved and worked over and over and diluted
+with fillers and surrogates to the limit of elasticity. Spring tires
+were substituted for pneumatics. So it is evident that the supply of
+synthetic rubber could not have been adequate or satisfactory. Neither,
+on the other hand, have the British made a success of the Perkin
+process, although they spent $200,000 on it in the first two years. But,
+of course, there was not the same necessity for it as in the case of
+Germany, for England had practically a monopoly of the world's supply of
+natural rubber either through owning plantations or controlling
+shipping. If rubber could not be manufactured profitably in Germany when
+the demand was imperative and price no consideration it can hardly be
+expected to compete with the natural under peace conditions.
+
+The problem of synthetic rubber has then been solved scientifically but
+not industrially. It can be made but cannot be made to pay. The
+difficulty is to find a cheap enough material to start with. We can make
+rubber out of potatoes--but potatoes have other uses. It would require
+more land and more valuable land to raise the potatoes than to raise the
+rubber. We can get isoprene by the distillation of turpentine--but why
+not bleed a rubber tree as well as a pine tree? Turpentine is neither
+cheap nor abundant enough. Any kind of wood, sawdust for instance, can
+be utilized by converting the cellulose over into sugar and fermenting
+this to alcohol, but the process is not likely to prove profitable.
+Petroleum when cracked up to make gasoline gives isoprene or other
+double-bond compounds that go over into some form of rubber.
+
+But the most interesting and most promising of all is the complete
+inorganic synthesis that dispenses with the aid of vegetation and starts
+with coal and lime. These heated together in the electric furnace form
+calcium carbide and this, as every automobilist knows, gives acetylene
+by contact with water. From this gas isoprene can be made and the
+isoprene converted into rubber by sodium, or acid or alkali or simple
+heating. Acetone, which is also made from acetylene, can be converted
+directly into rubber by fuming sulfuric acid. This seems to have been
+the process chiefly used by the Germans during the war. Several carbide
+factories were devoted to it. But the intermediate and by-products of
+the process, such as alcohol, acetic acid and acetone, were in as much
+demand for war purposes as rubber. The Germans made some rubber from
+pitch imported from Sweden. They also found a useful substitute in
+aluminum naphthenate made from Baku petroleum, for it is elastic and
+plastic and can be vulcanized.
+
+So although rubber can be made in many different ways it is not
+profitable to make it in any of them. We have to rely still upon the
+natural product, but we can greatly improve upon the way nature produces
+it. When the call came for more rubber for the electrical and automobile
+industries the first attempt to increase the supply was to put pressure
+upon the natives to bring in more of the latex. As a consequence the
+trees were bled to death and sometimes also the natives. The Belgian
+atrocities in the Congo shocked the civilized world and at Putumayo on
+the upper Amazon the same cause produced the same horrible effects. But
+no matter what cruelty was practiced the tropical forests could not be
+made to yield a sufficient increase, so the cultivation of the rubber
+was begun by far-sighted men in Dutch Java, Sumatra and Borneo and in
+British Malaya and Ceylon.
+
+Brazil, feeling secure in the possession of a natural monopoly, made no
+effort to compete with these parvenus. It cost about as much to gather
+rubber from the Amazon forests as it did to raise it on a Malay
+plantation, that is, 25 cents a pound. The Brazilian Government clapped
+on another 25 cents export duty and spent the money lavishly. In 1911
+the treasury of Para took in $2,000,000 from the rubber tax and a good
+share of the money was spent on a magnificent new theater at Manaos--not
+on setting out rubber trees. The result of this rivalry between the
+collector and the cultivator is shown by the fact that in the decade
+1907-1917 the world's output of plantation rubber increased from 1000 to
+204,000 tons, while the output of wild rubber decreased from 68,000 to
+53,000. Besides this the plantation rubber is a cleaner and more even
+product, carefully coagulated by acetic acid instead of being smoked
+over a forest fire. It comes in pale yellow sheets instead of big black
+balls loaded with the dirt or sticks and stones that the honest Indian
+sometimes adds to make a bigger lump. What's better, the man who milks
+the rubber trees on a plantation may live at home where he can be
+decently looked after. The agriculturist and the chemist may do what the
+philanthropist and statesman could not accomplish: put an end to the
+cruelties involved in the international struggle for "black gold."
+
+The United States uses three-fourths of the world's rubber output and
+grows none of it. What is the use of tropical possessions if we do not
+make use of them? The Philippines could grow all our rubber and keep a
+$300,000,000 business under our flag. Santo Domingo, where rubber was
+first discovered, is now under our supervision and could be enriched by
+the industry. The Guianas, where the rubber tree was first studied,
+might be purchased. It is chiefly for lack of a definite colonial policy
+that our rubber industry, by far the largest in the world, has to be
+dependent upon foreign sources for all its raw materials. Because the
+Philippines are likely to be cast off at any moment, American
+manufacturers are placing their plantations in the Dutch or British
+possessions. The Goodyear Company has secured a concession of 20,000
+acres near Medan in Dutch Sumatra.
+
+While the United States is planning to relinquish its Pacific
+possessions the British have more than doubled their holdings in New
+Guinea by the acquisition of Kaiser Wilhelm's Land, good rubber
+country. The British Malay States in 1917 exported over $118,000,000
+worth of plantation-grown rubber and could have sold more if shipping
+had not been short and production restricted. Fully 90 per cent. of the
+cultivated rubber is now grown in British colonies or on British
+plantations in the Dutch East Indies. To protect this monopoly an act
+has been passed preventing foreigners from buying more land in the Malay
+Peninsula. The Japanese have acquired there 50,000 acres, on which they
+are growing more than a million dollars' worth of rubber a year. The
+British _Tropical Life_ says of the American invasion: "As America is so
+extremely wealthy Uncle Sam can well afford to continue to buy our
+rubber as he has been doing instead of coming in to produce rubber to
+reduce his competition as a buyer in the world's market." The Malaya
+estates calculate to pay a dividend of 20 per cent. on the investment
+with rubber selling at 30 cents a pound and every two cents additional
+on the price brings a further 3-1/2 per cent. dividend. The output is
+restricted by the Rubber Growers' Association so as to keep the price up
+to 50-70 cents. When the plantations first came into bearing in 1910
+rubber was bringing nearly $3 a pound, and since it can be produced at
+less than 30 cents a pound we can imagine the profits of the early
+birds.
+
+The fact that the world's rubber trade was in the control of Great
+Britain caused America great anxiety and financial loss in the early
+part of the war when the British Government, suspecting--not without
+reason--that some American rubber goods were getting into Germany
+through neutral nations, suddenly shut off our supply. This threatened
+to kill the fourth largest of our industries and it was only by the
+submission of American rubber dealers to the closest supervision and
+restriction by the British authorities that they were allowed to
+continue their business. Sir Francis Hopwood, in laying down these
+regulations, gave emphatic warning "that in case any manufacturer,
+importer or dealer came under suspicion his permits should be
+immediately revoked. Reinstatement will be slow and difficult. The
+British Government will cancel first and investigate afterward." Of
+course the British had a right to say under what conditions they should
+sell their rubber and we cannot blame them for taking such precautions
+to prevent its getting to their enemies, but it placed the United States
+in a humiliating position and if we had not been in sympathy with their
+side it would have aroused more resentment than it did. But it made
+evident the desirability of having at least part of our supply under our
+own control and, if possible, within our own country. Rubber is not rare
+in nature, for it is contained in almost every milky juice. Every
+country boy knows that he can get a self-feeding mucilage brush by
+cutting off a milkweed stalk. The only native source so far utilized is
+the guayule, which grows wild on the deserts of the Mexican and the
+American border. The plant was discovered in 1852 by Dr. J.M. Bigelow
+near Escondido Creek, Texas. Professor Asa Gray described it and named
+it Parthenium argentatum, or the silver Pallas. When chopped up and
+macerated guayule gives a satisfactory quality of caoutchouc in
+profitable amounts. In 1911 seven thousand tons of guayule were
+imported from Mexico; in 1917 only seventeen hundred tons. Why this
+falling off? Because the eager exploiters had killed the goose that laid
+the golden egg, or in plain language, pulled up the plant by the roots.
+Now guayule is being cultivated and is reaped instead of being uprooted.
+Experiments at the Tucson laboratory have recently removed the
+difficulty of getting the seed to germinate under cultivation. This
+seems the most promising of the home-grown plants and, until artificial
+rubber can be made profitable, gives us the only chance of being in part
+independent of oversea supply.
+
+There are various other gums found in nature that can for some purposes
+be substituted for caoutchouc. Gutta percha, for instance, is pliable
+and tough though not very elastic. It becomes plastic by heat so it can
+be molded, but unlike rubber it cannot be hardened by heating with
+sulfur. A lump of gutta percha was brought from Java in 1766 and placed
+in a British museum, where it lay for nearly a hundred years before it
+occurred to anybody to do anything with it except to look at it. But a
+German electrician, Siemens, discovered in 1847 that gutta percha was
+valuable for insulating telegraph lines and it found extensive
+employment in submarine cables as well as for golf balls, and the like.
+
+Balata, which is found in the forests of the Guianas, is between gutta
+percha and rubber, not so good for insulation but useful for shoe soles
+and machine belts. The bark of the tree is so thick that the latex does
+not run off like caoutchouc when the bark is cut. So the bark has to be
+cut off and squeezed in hand presses. Formerly this meant cutting down
+the tree, but now alternate strips of the bark are cut off and squeezed
+so the tree continues to live.
+
+When Columbus discovered Santo Domingo he found the natives playing with
+balls made from the gum of the caoutchouc tree. The soldiers of Pizarro,
+when they conquered Inca-Land, adopted the Peruvian custom of smearing
+caoutchouc over their coats to keep out the rain. A French scientist, M.
+de la Condamine, who went to South America to measure the earth, came
+back in 1745 with some specimens of caoutchouc from Para as well as
+quinine from Peru. The vessel on which he returned, the brig _Minerva_,
+had a narrow escape from capture by an English cruiser, for Great
+Britain was jealous of any trespassing on her American sphere of
+influence. The Old World need not have waited for the discovery of the
+New, for the rubber tree grows wild in Annam as well as Brazil, but none
+of the Asiatics seems to have discovered any of the many uses of the
+juice that exudes from breaks in the bark.
+
+The first practical use that was made of it gave it the name that has
+stuck to it in English ever since. Magellan announced in 1772 that it
+was good to remove pencil marks. A lump of it was sent over from France
+to Priestley, the clergyman chemist who discovered oxygen and was mobbed
+out of Manchester for being a republican and took refuge in
+Pennsylvania. He cut the lump into little cubes and gave them to his
+friends to eradicate their mistakes in writing or figuring. Then they
+asked him what the queer things were and he said that they were "India
+rubbers."
+
+[Illustration: FOREST RUBBER
+
+Compare this tropical tangle and gnarled trunk with the straight tree
+and cleared ground of the plantation. At the foot of the trunk are cups
+collecting rubber juice.]
+
+[Illustration: PLANTATION RUBBER
+
+This spiral cut draws off the milk as completely and quickly as possible
+without harming the tree. The man is pulling off a strip of coagulated
+rubber that clogs it.]
+
+[Illustration: IN MAKING GARDEN HOSE THE RUBBER IS FORMED INTO A TUBE
+BY THE MACHINE ON THE RIGHT AND COILED ON THE TABLE TO THE LEFT]
+
+The Peruvian natives had used caoutchouc for water-proof clothing,
+shoes, bottles and syringes, but Europe was slow to take it up, for the
+stuff was too sticky and smelled too bad in hot weather to become
+fashionable in fastidious circles. In 1825 Mackintosh made his name
+immortal by putting a layer of rubber between two cloths.
+
+A German chemist, Ludersdorf, discovered in 1832 that the gum could be
+hardened by treating it with sulfur dissolved in turpentine. But it was
+left to a Yankee inventor, Charles Goodyear, of Connecticut, to work out
+a practical solution of the problem. A friend of his, Hayward, told him
+that it had been revealed to him in a dream that sulfur would harden
+rubber, but unfortunately the angel or defunct chemist who inspired the
+vision failed to reveal the details of the process. So Hayward sold out
+his dream to Goodyear, who spent all his own money and all he could
+borrow from his friends trying to convert it into a reality. He worked
+for ten years on the problem before the "lucky accident" came to him.
+One day in 1839 he happened to drop on the hot stove of the kitchen that
+he used as a laboratory a mixture of caoutchouc and sulfur. To his
+surprise he saw the two substances fuse together into something new.
+Instead of the soft, tacky gum and the yellow, brittle brimstone he had
+the tough, stable, elastic solid that has done so much since to make our
+footing and wheeling safe, swift and noiseless. The gumshoes or galoshes
+that he was then enabled to make still go by the name of "rubbers" in
+this country, although we do not use them for pencil erasers.
+

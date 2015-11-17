@@ -1,0 +1,323 @@
+mind of man is incapable of grasping the secrets within them. The
+question has even occurred to me whether, if a being of such
+supernatural power as to understand the operations going on in a
+molecule of matter or in a current of electricity as we understand the
+operations of a steam-engine should essay to explain them to us, he
+would meet with any more success than we should in explaining to a fish
+the engines of a ship which so rudely invades its domain. As was
+remarked by William K. Clifford, perhaps the clearest spirit that has
+ever studied such problems, it is possible that the laws of geometry
+for spaces infinitely small may be so different from those of larger
+spaces that we must necessarily be unable to conceive them.
+
+Still, considering mere possibilities, it is not impossible that the
+twentieth century may be destined to make known natural forces which
+will enable us to fly from continent to continent with a speed far
+exceeding that of the bird.
+
+But when we inquire whether aerial flight is possible in the present
+state of our knowledge, whether, with such materials as we possess, a
+combination of steel, cloth, and wire can be made which, moved by the
+power of electricity or steam, shall form a successful flying-machine,
+the outlook may be altogether different. To judge it sanely, let us
+bear in mind the difficulties which are encountered in any
+flying-machine. The basic principle on which any such machine must be
+constructed is that of the aeroplane. This, by itself, would be the
+simplest of all flyers, and therefore the best if it could be put into
+operation. The principle involved may be readily comprehended by the
+accompanying figure. A M is the section of a flat plane surface, say a
+thin sheet of metal or a cloth supported by wires. It moves through the
+air, the latter being represented by the horizontal rows of dots. The
+direction of the motion is that of the horizontal line A P. The
+aeroplane has a slight inclination measured by the proportion between
+the perpendicular M P and the length A P. We may raise the edge M up or
+lower it at pleasure. Now the interesting point, and that on which the
+hopes of inventors are based, is that if we give the plane any given
+inclination, even one so small that the perpendicular M P is only two
+or three per cent of the length A M, we can also calculate a certain
+speed of motion through the air which, if given to the plane, will
+enable it to bear any required weight. A plane ten feet square, for
+example, would not need any great inclination, nor would it require a
+speed higher than a few hundred feet a second to bear a man. What is of
+yet more importance, the higher the speed the less the inclination
+required, and, if we leave out of consideration the friction of the air
+and the resistance arising from any object which the machine may carry,
+the less the horse-power expended in driving the plane.
+
+[Illustration]
+
+Maxim exemplified this by experiment several years ago. He found that,
+with a small inclination, he could readily give his aeroplane, when it
+slid forward upon ways, such a speed that it would rise from the ways
+of itself. The whole problem of the successful flying-machine is,
+therefore, that of arranging an aeroplane that shall move through the
+air with the requisite speed.
+
+The practical difficulties in the way of realizing the movement of such
+an object are obvious. The aeroplane must have its propellers. These
+must be driven by an engine with a source of power. Weight is an
+essential quality of every engine. The propellers must be made of
+metal, which has its weakness, and which is liable to give way when its
+speed attains a certain limit. And, granting complete success, imagine
+the proud possessor of the aeroplane darting through the air at a speed
+of several hundred feet per second! It is the speed alone that sustains
+him. How is he ever going to stop? Once he slackens his speed, down he
+begins to fall. He may, indeed, increase the inclination of his
+aeroplane. Then he increases the resistance to the sustaining force.
+Once he stops he falls a dead mass. How shall he reach the ground
+without destroying his delicate machinery? I do not think the most
+imaginative inventor has yet even put upon paper a demonstratively
+successful way of meeting this difficulty. The only ray of hope is
+afforded by the bird. The latter does succeed in stopping and reaching
+the ground safely after its flight. But we have already mentioned the
+great advantages which the bird possesses in the power of applying
+force to its wings, which, in its case, form the aeroplanes. But we
+have already seen that there is no mechanical combination, and no way
+of applying force, which will give to the aeroplanes the flexibility
+and rapidity of movement belonging to the wings of a bird. With all the
+improvements that the genius of man has made in the steamship, the
+greatest and best ever constructed is liable now and then to meet with
+accident. When this happens she simply floats on the water until the
+damage is repaired, or help reaches her. Unless we are to suppose for
+the flying-machine, in addition to everything else, an immunity from
+accident which no human experience leads us to believe possible, it
+would be liable to derangements of machinery, any one of which would be
+necessarily fatal. If an engine were necessary not only to propel a
+ship, but also to make her float--if, on the occasion of any accident
+she immediately went to the bottom with all on board--there would not,
+at the present day, be any such thing as steam navigation. That this
+difficulty is insurmountable would seem to be a very fair deduction,
+not only from the failure of all attempts to surmount it, but from the
+fact that Maxim has never, so far as we are aware, followed up his
+seemingly successful experiment.
+
+There is, indeed, a way of attacking it which may, at first sight, seem
+plausible. In order that the aeroplane may have its full sustaining
+power, there is no need that its motion be continuously forward. A
+nearly horizontal surface, swinging around in a circle, on a vertical
+axis, like the wings of a windmill moving horizontally, will fulfil all
+the conditions. In fact, we have a machine on this simple principle in
+the familiar toy which, set rapidly whirling, rises in the air. Why
+more attempts have not been made to apply this system, with two sets of
+sails whirling in opposite directions, I do not know. Were there any
+possibility of making a flying-machine, it would seem that we should
+look in this direction.
+
+The difficulties which I have pointed out are only preliminary ones,
+patent on the surface. A more fundamental one still, which the writer
+feels may prove insurmountable, is based on a law of nature which we
+are bound to accept. It is that when we increase the size of any
+flying-machine without changing its model we increase the weight in
+proportion to the cube of the linear dimensions, while the effective
+supporting power of the air increases only as the square of those
+dimensions. To illustrate the principle let us make two flying-machines
+exactly alike, only make one on double the scale of the other in all
+its dimensions. We all know that the volume and therefore the weight of
+two similar bodies are proportional to the cubes of their dimensions.
+The cube of two is eight. Hence the large machine will have eight times
+the weight of the other. But surfaces are as the squares of the
+dimensions. The square of two is four. The heavier machine will
+therefore expose only four times the wing surface to the air, and so
+will have a distinct disadvantage in the ratio of efficiency to weight.
+
+Mechanical principles show that the steam pressures which the engines
+would bear would be the same, and that the larger engine, though it
+would have more than four times the horse-power of the other, would
+have less than eight times. The larger of the two machines would
+therefore be at a disadvantage, which could be overcome only by
+reducing the thickness of its parts, especially of its wings, to that
+of the other machine. Then we should lose in strength. It follows that
+the smaller the machine the greater its advantage, and the smallest
+possible flying-machine will be the first one to be successful.
+
+We see the principle of the cube exemplified in the animal kingdom. The
+agile flea, the nimble ant, the swift-footed greyhound, and the
+unwieldy elephant form a series of which the next term would be an
+animal tottering under its own weight, if able to stand or move at all.
+The kingdom of flying animals shows a similar gradation. The most
+numerous fliers are little insects, and the rising series stops with
+the condor, which, though having much less weight than a man, is said
+to fly with difficulty when gorged with food.
+
+Now, suppose that an inventor succeeds, as well he may, in making a
+machine which would go into a watch-case, yet complete in all its
+parts, able to fly around the room. It may carry a button, but nothing
+heavier. Elated by his success, he makes one on the same model twice as
+large in every dimension. The parts of the first, which are one inch in
+length, he increases to two inches. Every part is twice as long, twice
+as broad, and twice as thick. The result is that his machine is eight
+times as heavy as before. But the sustaining surface is only four times
+as great. As compared with the smaller machine, its ratio of
+effectiveness is reduced to one-half. It may carry two or three
+buttons, but will not carry over four, because the total weight,
+machine plus buttons, can only be quadrupled, and if he more than
+quadruples the weight of the machine, he must less than quadruple that
+of the load. How many such enlargements must he make before his machine
+will cease to sustain itself, before it will fall as an inert mass when
+we seek to make it fly through the air? Is there any size at which it
+will be able to support a human being? We may well hesitate before we
+answer this question in the affirmative.
+
+Dr. Graham Bell, with a cheery optimism very pleasant to contemplate,
+has pointed out that the law I have just cited may be evaded by not
+making a larger machine on the same model, but changing the latter in a
+way tantamount to increasing the number of small machines. This is
+quite true, and I wish it understood that, in laying down the law I
+have cited, I limit it to two machines of different sizes on the same
+model throughout. Quite likely the most effective flying-machine would
+be one carried by a vast number of little birds. The veracious
+chronicler who escaped from a cloud of mosquitoes by crawling into an
+immense metal pot and then amused himself by clinching the antennae of
+the insects which bored through the pot until, to his horror, they
+became so numerous as to fly off with the covering, was more scientific
+than he supposed. Yes, a sufficient number of humming-birds, if we
+could combine their forces, would carry an aerial excursion party of
+human beings through the air. If the watch-maker can make a machine
+which will fly through the room with a button, then, by combining ten
+thousand such machines he may be able to carry a man. But how shall the
+combined forces be applied?
+
+The difficulties I have pointed out apply only to the flying-machine
+properly so-called, and not to the dirigible balloon or airship. It is
+of interest to notice that the law is reversed in the case of a body
+which is not supported by the resistance of a fluid in which it is
+immersed, but floats in it, the ship or balloon, for example. When we
+double the linear dimensions of a steamship in all its parts, we
+increase not only her weight but her floating power, her carrying
+capacity, and her engine capacity eightfold. But the resistance which
+she meets with when passing through the water at a given speed is only
+multiplied four times. Hence, the larger we build the steamship the
+more economical the application of the power necessary to drive it at a
+given speed. It is this law which has brought the great increase in the
+size of ocean steamers in recent times. The proportionately diminishing
+resistance which, in the flying-machine, represents the floating power
+is, in the ship, something to be overcome. Thus there is a complete
+reversal of the law in its practical application to the two cases.
+
+The balloon is in the same class with the ship. Practical difficulties
+aside, the larger it is built the more effective it will be, and the
+more advantageous will be the ratio of the power which is necessary to
+drive it to the resistance to be overcome.
+
+If, therefore, we are ever to have aerial navigation with our present
+knowledge of natural capabilities, it is to the airship floating in the
+air, rather than the flying-machine resting on the air, to which we are
+to look. In the light of the law which I have laid down, the subject,
+while not at all promising, seems worthy of more attention than it has
+received. It is not at all unlikely that if a skilful and experienced
+naval constructor, aided by an able corps of assistants, should design
+an airship of a diameter of not less than two hundred feet, and a
+length at least four or five times as great, constructed, possibly, of
+a textile substance impervious to gas and borne by a light framework,
+but, more likely, of exceedingly thin plates of steel carried by a
+frame fitted to secure the greatest combination of strength and
+lightness, he might find the result to be, ideally at least, a ship
+which would be driven through the air by a steam-engine with a velocity
+far exceeding that of the fleetest Atlantic liner. Then would come the
+practical problem of realizing the ship by overcoming the mechanical
+difficulties involved in the construction of such a huge and light
+framework. I would not be at all surprised if the result of the exact
+calculation necessary to determine the question should lead to an
+affirmative conclusion, but I am quite unable to judge whether steel
+could be rolled into parts of the size and form required in the
+mechanism.
+
+In judging of the possibility of commercial success the cheapness of
+modern transportation is an element in the case that should not be
+overlooked. I believe the principal part of the resistance which a
+limited express train meets is the resistance of the air. This would be
+as great for an airship as for a train. An important fraction of the
+cost of transporting goods from Chicago to London is that of getting
+them into vehicles, whether cars or ships, and getting them out again.
+The cost of sending a pair of shoes from a shop in New York to the
+residence of the wearer is, if I mistake not, much greater than the
+mere cost of transporting them across the Atlantic. Even if a dirigible
+balloon should cross the Atlantic, it does not follow that it could
+compete with the steamship in carrying passengers and freight.
+
+I may, in conclusion, caution the reader on one point. I should be very
+sorry if my suggestion of the advantage of the huge airship leads to
+the subject being taken up by any other than skilful engineers or
+constructors, able to grapple with all problems relating to the
+strength and resistance of materials. As a single example of what is to
+be avoided I may mention the project, which sometimes has been mooted,
+of making a balloon by pumping the air from a very thin, hollow
+receptacle. Such a project is as futile as can well be imagined; no
+known substance would begin to resist the necessary pressure. Our
+aerial ship must be filled with some substance lighter than air.
+Whether heated air would answer the purpose, or whether we should have
+to use a gas, is a question for the designer.
+
+To return to our main theme, all should admit that if any hope for the
+flying-machine can be entertained, it must be based more on general
+faith in what mankind is going to do than upon either reasoning or
+experience. We have solved the problem of talking between two widely
+separated cities, and of telegraphing from continent to continent and
+island to island under all the oceans--therefore we shall solve the
+problem of flying. But, as I have already intimated, there is another
+great fact of progress which should limit this hope. As an almost
+universal rule we have never solved a problem at which our predecessors
+have worked in vain, unless through the discovery of some agency of
+which they have had no conception. The demonstration that no possible
+combination of known substances, known forms of machinery, and known
+forms of force can be united in a practicable machine by which men
+shall fly long distances through the air, seems to the writer as
+complete as it is possible for the demonstration of any physical fact
+to be. But let us discover a substance a hundred times as strong as
+steel, and with that some form of force hitherto unsuspected which will
+enable us to utilize this strength, or let us discover some way of
+reversing the law of gravitation so that matter may be repelled by the
+earth instead of attracted--then we may have a flying-machine. But we
+have every reason to believe that mere ingenious contrivances with our
+present means and forms of force will be as vain in the future as they
+have been in the past.
+
+
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Side-lights on Astronomy and Kindred
+Fields of Popular Science, by Simon Newcomb
+
+*** END OF THIS PROJECT GUTENBERG EBOOK SIDE-LIGHTS ON ASTRONOMY ***
+
+***** This file should be named 4065.txt or 4065.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/0/6/4065/
+
+Produced by Charles Franks, Robert Rowe and the Online
+Distributed Proofreading Team. HTML version by Al Haines.
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+

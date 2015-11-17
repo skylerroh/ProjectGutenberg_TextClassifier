@@ -1,0 +1,397 @@
+about a quarter of a million miles. What is the base line in this case?
+
+4. THE HORIZON--ALTITUDES.--In their observations astronomers and
+sailors make much use of the _plane of the horizon_, and practically any
+flat and level surface, such as that of a smooth pond, may be regarded
+as a part of this plane and used as such. A very common observation
+relating to the plane of the horizon is called "taking the sun's
+altitude," and consists in measuring the angle between the sun's rays
+and the plane of the horizon upon which they fall. This angle between a
+line and a plane appears slightly different from the angle between two
+lines, but is really the same thing, since it means the angle between
+the sun's rays and a line drawn in the plane of the horizon toward the
+point directly under the sun. Compare this with the definition given in
+the geographies, "The latitude of a point on the earth's surface is its
+angular distance north or south of the equator," and note that the
+latitude is the angle between the plane of the equator and a line drawn
+from the earth's center to the given point on its surface.
+
+A convenient method of obtaining a part of the plane of the horizon for
+use in observation is as follows: Place a slate or a pane of glass upon
+a table in the sunshine. Slightly moisten its whole surface and then
+pour a little more water upon it near the center. If the water runs
+toward one side, thrust the edge of a thin wooden wedge under this side
+and block it up until the water shows no tendency to run one way rather
+than another; it is then level and a part of the plane of the horizon.
+Get several wedges ready before commencing the experiment. After they
+have been properly placed, drive a pin or tack behind each one so that
+it may not slip.
+
+5. TAKING THE SUN'S ALTITUDE. EXERCISE 4.--Prepare a piece of board 20
+centimeters, or more, square, planed smooth on one face and one edge.
+Drive a pin perpendicularly into the face of the board, near the middle
+of the planed edge. Set the board on edge on the horizon plane and turn
+it edgewise toward the sun so that a shadow of the pin is cast on the
+plane. Stick another pin into the board, near its upper edge, so that
+its shadow shall fall exactly upon the shadow of the first pin, and with
+a watch or clock observe the time at which the two shadows coincide.
+Without lifting the board from the plane, turn it around so that the
+opposite edge is directed toward the sun and set a third pin just as the
+second one was placed, and again take the time. Remove the pins and draw
+fine pencil lines, connecting the holes, as shown in Fig. 4, and with
+the protractor measure the angle thus marked. The student who has
+studied elementary geometry should be able to demonstrate that at the
+mean of the two recorded times the sun's altitude was equal to one half
+of the angle measured in the figure.
+
+[Illustration: FIG. 4.--Taking the sun's altitude.]
+
+When the board is turned edgewise toward the sun so that its shadow is
+as thin as possible, rule a pencil line alongside it on the horizon
+plane. The angle which this line makes with a line pointing due south is
+called the sun's _azimuth_. When the sun is south, its azimuth is zero;
+when west, it is 90°; when east, 270°, etc.
+
+EXERCISE 5.--Let a number of different students take the sun's altitude
+during both the morning and afternoon session and note the time of each
+observation, to the nearest minute. Verify the setting of the plane of
+the horizon from time to time, to make sure that no change has occurred
+in it.
+
+6. GRAPHICAL REPRESENTATIONS.--Make a graph (drawing) of all the
+observations, similar to Fig. 5, and find by bisecting a set of chords
+_g_ to _g_, _e_ to _e_, _d_ to _d_, drawn parallel to _B B_, the time at
+which the sun's altitude was greatest. In Fig. 5 we see from the
+intersection of _M M_ with _B B_ that this time was 11h. 50m.
+
+The method of graphs which is here introduced is of great importance in
+physical science, and the student should carefully observe in Fig. 5
+that the line _B B_ is a scale of times, which may be made long or
+short, provided only the intervals between consecutive hours 9 to 10, 10
+to 11, 11 to 12, etc., are equal. The distance of each little circle
+from _B B_ is taken proportional to the sun's altitude, and may be upon
+any desired scale--e. g., a millimeter to a degree--provided the same
+scale is used for all observations. Each circle is placed accurately
+over that part of the base line which corresponds to the time at which
+the altitude was taken. Square ruled paper is very convenient, although
+not necessary, for such diagrams. It is especially to be noted that from
+the few observations which are represented in the figure a smooth curve
+has been drawn through the circles which represent the sun's altitude,
+and this curve shows the altitude of the sun at every moment between 9
+A. M. and 3 P. M. In Fig. 5 the sun's altitude at noon was 57°. What was
+it at half past two?
+
+[Illustration: FIG. 5.--A graph of the sun's altitude.]
+
+7. DIAMETER OF A DISTANT OBJECT.--By sighting over a protractor, measure
+the angle between imaginary lines drawn from it to the opposite sides of
+a window. Carry the protractor farther away from the window and repeat
+the experiment, to see how much the angle changes. The angle thus
+measured is called "the angle subtended" by the window at the place
+where the measurement was made. If this place was squarely in front of
+the window we may draw upon paper an angle equal to the measured one and
+lay off from the vertex along its sides a distance proportional to the
+distance of the window--e. g., a millimeter for each centimeter of real
+distance. If a cross line be now drawn connecting the points thus found,
+its length will be proportional to the width of the window, and the
+width may be read off to scale, a centimeter for every millimeter in the
+length of the cross line.
+
+The astronomer who measures with an appropriate instrument the angle
+subtended by the moon may in an entirely similar manner find the moon's
+diameter and has, in fact, found it to be 2,163 miles. Can the same
+method be used to find the diameter of the sun? A planet? The earth?
+
+
+
+
+CHAPTER II
+
+THE STARS AND THEIR DIURNAL MOTION
+
+
+8. THE STARS.--From the very beginning of his study in astronomy, and as
+frequently as possible, the student should practice watching the stars
+by night, to become acquainted with the constellations and their
+movements. As an introduction to this study he may face toward the
+north, and compare the stars which he sees in that part of the sky with
+the map of the northern heavens, given on Plate I, opposite page 124.
+Turn the map around, upside down if necessary, until the stars upon it
+match the brighter ones in the sky. Note how the stars are grouped in
+such conspicuous constellations as the Big Dipper (Ursa Major), the
+Little Dipper (Ursa Minor), and Cassiopeia. These three constellations
+should be learned so that they can be recognized at any time.
+
+_The names of the stars._--Facing the star map is a key which contains
+the names of the more important constellations and the names of the
+brighter stars in their constellations. These names are for the most
+part a Greek letter prefixed to the genitive case of the Latin name of
+the constellation. (See the Greek alphabet printed at the end of the
+book.)
+
+9. MAGNITUDES OF THE STARS.--Nearly nineteen centuries ago St. Paul
+noted that "one star differeth from another star in glory," and no more
+apt words can be found to mark the difference of brightness which the
+stars present. Even prior to St. Paul's day the ancient Greek
+astronomers had divided the stars in respect of brightness into six
+groups, which the modern astronomers still use, calling each group a
+_magnitude_. Thus a few of the brightest stars are said to be of the
+first magnitude, the great mass of faint ones which are just visible to
+the unaided eye are said to be of the sixth magnitude, and intermediate
+degrees of brilliancy are represented by the intermediate magnitudes,
+second, third, fourth, and fifth. The student must not be misled by the
+word magnitude. It has no reference to the size of the stars, but only
+to their brightness, and on the star maps of this book the larger and
+smaller circles by which the stars are represented indicate only the
+brightness of the stars according to the system of magnitudes. Following
+the indications of these maps, the student should, in learning the
+principal stars and constellations, learn also to recognize how bright
+is a star of the second, fourth, or other magnitude.
+
+10. OBSERVING THE STARS.--Find on the map and in the sky the stars
+[a] Ursæ Minoris, [a] Ursæ Majoris, [b] Ursæ Majoris. What geometrical
+figure will fit on to these stars? In addition to its regular name,
+[a] Ursæ Minoris is frequently called by the special name Polaris, or
+the pole star. Why are the other two stars called "the Pointers"? What
+letter of the alphabet do the five bright stars in Cassiopeia suggest?
+
+EXERCISE 6.--Stand in such a position that Polaris is just hidden behind
+the corner of a building or some other vertical line, and mark upon the
+key map as accurately as possible the position of this line with respect
+to the other stars, showing which stars are to the right and which are
+to the left of it. Record the time (date, hour, and minute) at which
+this observation was made. An hour or two later repeat the observation
+at the same place, draw the line and note the time, and you will find
+that the line last drawn upon the map does not agree with the first one.
+The stars have changed their positions, and with respect to the vertical
+line the Pointers are now in a different direction from Polaris.
+Measure with a protractor the angle between the two lines drawn in the
+map, and use this angle and the recorded times of the observation to
+find how many degrees per hour this direction is changing. It should be
+about 15° per hour. If the observation were repeated 12 hours after the
+first recorded time, what would be the position of the vertical line
+among the stars? What would it be 24 hours later? A week later? Repeat
+the observation on the next clear night, and allowing for the number of
+whole revolutions made by the stars between the two dates, again
+determine from the time interval a more accurate value of the rate at
+which the stars move.
+
+The motion of the stars which the student has here detected is called
+their "diurnal" motion. What is the significance of the word diurnal?
+
+In the preceding paragraph there is introduced a method of great
+importance in astronomical practice--i. e., determining something--in
+this case the rate per hour, from observations separated by a long
+interval of time, in order to get a more accurate value than could be
+found from a short interval. Why is it more accurate? To determine the
+rate at which the planet Mars rotates about its axis, astronomers use
+observations separated by an interval of more than 200 years, during
+which the planet made more than 75,000 revolutions upon its axis. If we
+were to write out in algebraic form an equation for determining the
+length of one revolution of Mars about its axis, the large number,
+75,000, would appear in the equation as a divisor, and in the final
+result would greatly reduce whatever errors existed in the observations
+employed.
+
+Repeat Exercise 6 night after night, and note whether the stars come
+back to the same position at the same hour and minute every night.
+
+[Illustration: FIG. 6. The plumb-line apparatus.]
+
+[Illustration: FIG. 7. The plumb-line apparatus.]
+
+11. THE PLUMB-LINE APPARATUS.--This experiment, and many others, may be
+conveniently and accurately made with no other apparatus than a plumb
+line, and a device for sighting past it. In Figs. 6 and 7 there is
+shown a simple form of such apparatus, consisting essentially of a board
+which rests in a horizontal position upon the points of three screws
+that pass through it. This board carries a small box, to one side of
+which is nailed in vertical position another board 5 or 6 feet long to
+carry the plumb line. This consists of a wire or fish line with any
+heavy weight--e. g., a brick or flatiron--tied to its lower end and
+immersed in a vessel of water placed inside the box, so as to check any
+swinging motion of the weight. In the cover of the box is a small hole
+through which the wire passes, and by turning the screws in the
+baseboard the apparatus may be readily leveled, so that the wire shall
+swing freely in the center of the hole without touching the cover of the
+box. Guy wires, shown in the figure, are applied so as to stiffen the
+whole apparatus. A board with a screw eye at each end may be pivoted to
+the upright, as in Fig. 6, for measuring altitudes; or to the box, as in
+Fig. 7, for observing the time at which a star in its diurnal motion
+passes through the plane determined by the plumb line and the center of
+the screw eye through which the observer looks.
+
+The whole apparatus may be constructed by any person of ordinary
+mechanical skill at a very small cost, and it or something equivalent
+should be provided for every class beginning observational astronomy. To
+use the apparatus for the experiment of § 10, it should be leveled, and
+the board with the screw eyes, attached as in Fig. 7, should be turned
+until the observer, looking through the screw eye, sees Polaris exactly
+behind the wire. Use a bicycle lamp to illumine the wire by night. The
+apparatus is now adjusted, and the observer has only to wait for the
+stars which he desires to observe, and to note by his watch the time at
+which they pass behind the wire. It will be seen that the wire takes the
+place of the vertical edge of the building, and that the board with the
+screw eyes is introduced solely to keep the observer in the right place
+relative to the wire.
+
+12. A SIDEREAL CLOCK.--Clocks are sometimes so made and regulated that
+they show always the same hour and minute when the stars come back to
+the same place, and such a timepiece is called a sidereal clock--i. e.,
+a star-time clock. Would such a clock gain or lose in comparison with an
+ordinary watch? Could an ordinary watch be turned into a sidereal watch
+by moving the regulator?
+
+[Illustration: FIG. 8.--Photographing the circumpolar stars.--BARNARD.]
+
+13. PHOTOGRAPHING THE STARS.--EXERCISE 7.--For any student who uses a
+camera. Upon some clear and moonless night point the camera, properly
+focused, at Polaris, and expose a plate for three or four hours. Upon
+developing the plate you should find a series of circular trails such as
+are shown in Fig. 8, only longer. Each one of these is produced by a
+star moving slowly over the plate, in consequence of its changing
+position in the sky. The center indicated by these curved trails is
+called the pole of the heavens. It is that part of the sky toward which
+is pointed the axis about which the earth rotates, and the motion of the
+stars around the center is only an apparent motion due to the rotation
+of the earth which daily carries the observer and his camera around this
+axis while the stars stand still, just as trees and fences and telegraph
+poles stand still, although to the passenger upon a railway train they
+appear to be in rapid motion. So far as simple observations are
+concerned, there is no method by which the pupil can tell for himself
+that the motion of the stars is an apparent rather than a real one, and,
+following the custom of astronomers, we shall habitually speak as if it
+were a real movement of the stars. How long was the plate exposed in
+photographing Fig. 8?
+
+14. FINDING THE STARS.--On Plate I, opposite page 124, the pole of the
+heavens is at the center of the map, near Polaris, and the heavy trail
+near the center of Fig. 8 is made by Polaris. See if you can identify
+from the map any of the stars whose trails show in the photograph. The
+brighter the star the bolder and heavier its trail.
+
+Find from the map and locate in the sky the two bright stars Capella and
+Vega, which are on opposite sides of Polaris and nearly equidistant from
+it. Do these stars share in the motion around the pole? Are they visible
+on every clear night, and all night?
+
+Observe other bright stars farther from Polaris than are Vega and
+Capella and note their movement. Do they move like the sun and moon? Do
+they rise and set?
+
+In what part of the sky do the stars move most rapidly, near the pole or
+far from it?
+
+How long does it take the fastest moving stars to make the circuit of
+the sky and come back to the same place? How long does it take the slow
+stars?
+
+15. RISING AND SETTING OF THE STARS.--A study of the sky along the lines
+indicated in these questions will show that there is a considerable part
+of it surrounding the pole whose stars are visible on every clear night.
+The same star is sometimes high in the sky, sometimes low, sometimes to
+the east of the pole and at other times west of it, but is always above
+the horizon. Such stars are said to be circumpolar. A little farther
+from the pole each star, when at the lowest point of its circular path,
+dips for a time below the horizon and is lost to view, and the farther
+it is away from the pole the longer does it remain invisible, until, in
+the case of stars 90° away from the pole, we find them hidden below the
+horizon for twelve hours out of every twenty-four (see Fig. 9). The sun
+is such a star, and in its rising and setting acts precisely as does
+every other star at a similar distance from the pole--only, as we shall
+find later, each star keeps always at (nearly) the same distance from
+the pole, while the sun in the course of a year changes its distance
+from the pole very greatly, and thus changes the amount of time it
+spends above and below the horizon, producing in this way the long days
+of summer and the short ones of winter.
+
+[Illustration: FIG. 9.--Diurnal motion of the northern constellations.]
+
+How much time do stars which are more than 90° from the pole spend above
+the horizon?
+
+We say in common speech that the sun rises in the east, but this is
+strictly true only at the time when it is 90° distant from the
+pole--i. e., in March and September. At other seasons it rises north or
+south of east according as its distance from the pole is less or greater
+than 90°, and the same is true for the stars.
+
+16. THE GEOGRAPHY OF THE SKY.--Find from a map the latitude and
+longitude of your schoolhouse. Find on the map the place whose latitude
+is 39° and longitude 77° west of the meridian of Greenwich. Is there any
+other place in the world which has the same latitude and longitude as
+your schoolhouse?
+
+The places of the stars in the sky are located in exactly the manner
+which is illustrated by these geographical questions, only different
+names are used. Instead of latitude the astronomer says _declination_,
+in place of longitude he says _right ascension_, in place of meridian he
+says _hour circle_, but he means by these new names the same ideas that
+the geographer expresses by the old ones.
+
+Imagine the earth swollen up until it fills the whole sky; the earth's
+equator would meet the sky along a line (a great circle) everywhere 90°
+distant from the pole, and this line is called the _celestial equator_.
+Trace its position along the middle of the map opposite page 190 and
+notice near what stars it runs. Every meridian of the swollen earth
+would touch the sky along an hour circle--i. e., a great circle passing
+through the pole and therefore perpendicular to the equator. Note that
+in the map one of these hour circles is marked 0. It plays the same part
+in measuring right ascensions as does the meridian of Greenwich in
+measuring longitudes; it is the beginning, from which they are reckoned.
+Note also, at the extreme left end of the map, the four bright stars in
+the form of a square, one side of which is parallel and close to the
+hour circle, which is marked 0. This is familiarly called the Great
+Square in Pegasus, and may be found high up in the southern sky whenever
+the Big Dipper lies below the pole. Why can it not be seen when Ursa
+Major is above the pole?
+
+Astronomers use the right ascensions of the stars not only to tell in
+what part of the sky the star is placed, but also in time reckonings, to
+regulate their sidereal clocks, and with regard to this use they find
+it convenient to express right ascension not in degrees but in hours,
+24 of which fill up the circuit of the sky and each of which is equal
+to 15° of arc, 24 × 15 = 360. The right ascension of Capella is
+5h. 9m. = 77.2°, but the student should accustom himself to using it
+in hours and minutes as given and not to change it into degrees. He
+should also note that some stars lie on the side of the celestial
+equator toward Polaris, and others are on the opposite side, so that the
+astronomer has to distinguish between north declinations and south
+declinations, just as the geographer distinguishes between north
+latitudes and south latitudes. This is done by the use of the + and -
+signs, a + denoting that the star lies north of the celestial equator,
+i. e., toward Polaris.
+
+[Illustration: FIG. 10.--From a photograph of the Pleiades.]
+
+Find on Plate II, opposite page 190, the Pleiades (Pl[=e]ad[=e]s),
+R. A. = 3h. 42m., Dec. = +23.8°. Why do they not show on Plate I,
+opposite page 124? In what direction are they from Polaris? This is one
+of the finest star clusters in the sky, but it needs a telescope to
+bring out its richness. See how many stars you can count in it with the
+naked eye, and afterward examine it with an opera glass. Compare what
+you see with Fig. 10. Find Antares, R. A. = 16h. 23m. Dec. = -26.2°. How
+far is it, in degrees, from the pole? Is it visible in your sky? If so,
+what is its color?
+
+Find the R. A. and Dec. of [a] Ursæ Majoris; of [b] Ursæ Majoris; of
+Polaris. Find the Northern Crown, _Corona Borealis_, R. A. = 15h. 30m.,
+Dec. = +27.0°; the Beehive, _Præsepe_, R. A. = 8h. 33m., Dec. = +20.4°.
+
+These should be looked up, not only on the map, but also in the sky.
+
+17. REFERENCE LINES AND CIRCLES.--As the stars move across the sky in
+their diurnal motion, they carry the framework of hour circles and
+equator with them, so that the right ascension and declination of each
+star remain unchanged by this motion, just as longitudes and latitudes
+remain unchanged by the earth's rotation. They are the same when a star
+is rising and when it is setting; when it is above the pole and when it
+is below it. During each day the hour circle of every star in the
+heavens passes overhead, and at the moment when any particular hour
+circle is exactly overhead all the stars which lie upon it are said to
+be "on the meridian"--i. e., at that particular moment they stand
+directly over the observer's geographical meridian and upon the
+corresponding celestial meridian.
+
+An eye placed at the center of the earth and capable of looking through
+its solid substance would see your geographical meridian against the

@@ -1,0 +1,385 @@
+support. Though Mr. Greene states that my arguments are based upon
+entirely erroneous premises, he has not even attempted to invalidate a
+single one of my premises.
+
+As he considers the non-condensation to be natural in the case of
+cyanogen and chlorine, the condensation of two vols. of HCl + two vols.
+of H_3N to two vols. of NH_4Cl ought to appear to him unnatural. He,
+however, contends for it, and tries, on this solitary occasion, to
+strengthen his opinion by authority, though the proof, if it could be
+given, that ammonium chloride at the temperature of volatilization is
+decomposed into its two constituents, would be insufficient to uphold
+the theory.
+
+The ground on which Mr. Greene assumes a partial decomposition at 350 deg.
+C. is the slight excess of the observed density (14.43) over that
+corresponding to four vols. (13.375). There is, however, a similar
+slight excess in the case of the vapor of ammonium cyanide, the same
+values being respectively 11.4 and 11; and as this compound is volatile
+at 100 deg. C and, at the same time, is capable to exist at a very high
+temperature, being formed by the union of carbon with ammonia, nobody
+has ever, as far as I am aware, maintained that it is completely or
+partially decomposed at volatilization. The excess of weight not being
+due, therefore, to such cause in this case, it cannot be due to it in
+the other.
+
+The question being whether the molecular weight of ammonium chloride
+is two vols. or four vols., an idea of the magnitude of the assumed
+decomposition is conveyed by the proportion of the volume of the
+decomposed salt to the volume of the non-decomposed, and Mr. Greene's
+quotation of the percentage of weight is irrelevant and misleading, and
+his number not even correct. A mixture containing
+
+   1.055 vols. of spec. gr.  26.75  =  28.22 and
+  12.32   "    "    "    "   13.375 = 164.78
+  ------                              ------
+  13.375  "                           193
+
+has the spec. gr. 193 / 13.375 = 14.43. The proportion in one vol. of
+the undecomposed to the decomposed salt is, therefore, as 1 to 11.68 and
+the percentage of volume of the former 0.0789, and that of weight 28.22
+/ 193 = 0.146, and not 0.16.
+
+It is not easy to imagine why a small fraction of the heavy molecules
+should be volatilized undecomposed, the temperature being sufficient
+to decompose the great bulk. Marignac assumes, indeed, partial
+decomposition, but the difficulties which he encountered in making the
+experiments, on the results of which his opinion rests, were so great
+that he himself accords to the numbers obtained by him only the value of
+a rough approximation.
+
+The heat absorbed in volatilization will comprise the heat of
+combination as well as of aggregation, if decomposition takes place, and
+will therefore be the same as that set free at combination. Favre and
+Silbermann found this to be 743.5 at ordinary temperature, from which
+Marignac concludes that it would be 715 for the temperature 350 deg.; he
+found as the heat of volatilization 706, but considers the probable
+exact value to be between 617 and 818.[1]
+
+[Footnote 1: See _Comptes Rendus_, t. lxvii., p. 877.]
+
+An uncertainty within so wide a range does not justify the confidence
+of Mr. Greene which he expresses in these words: "It is, therefore,
+extremely probable that ammonium chloride is almost entirely
+dissociated, even at the temperature of volatilization." By Boettinger's
+apparatus a decomposition may possibly have been demonstrated, but it
+remains to be seen whether it is not due to some special cause.
+
+When Mr. Greene says that the relations between the physical properties
+of solids and liquids and their molecular composition can in no
+manner affect the laws of gases, nobody is likely to dissent; but the
+conclusion that their discussion is foreign to the question of the
+number of molecules in unit of volume does by no means follow. If the
+specific gravity of a solid or the weight of unit of volume represents
+a certain number of molecules, and is found to occupy two volumes in a
+compound of the solid with another solid, the number of molecules in one
+volume is reduced to one half. This I have shown to be the case in a
+number of compounds, and the decrease of the specific gravity with
+increase of the complexity of composition appears to be a general law,
+as may be concluded from the very low specific gravity of the most
+highly organized compounds, for instance the fatty bodies, the molecules
+of which, being composed of very many constituents, are of heavy weight;
+and likewise the compounds which occur in combination with water and
+without it, the simpler compound having invariably a greater specific
+gravity than the one combined with water; for instance:
+
+  BaH_2O_2                           sp. gr. 4.495
+   "  "    + 8H_2O                      "    1.656
+  S_2H_2O_2                             "    3.625
+   "  "    + 8H_2O                      "    1.396
+  FeSO_4                                "    3.138
+    "      + 7H_2O                      "    1.857
+
+and so in every other case. This is now a recurrence of what takes
+place in gases, and proves the fallacy of the hypothesis; for if these
+compounds could be volatilized the vapor densities would necessarily
+vary in the inverse proportion of the degree of composition.
+
+The reproach that Berthelot has been endeavoring for nearly a quarter of
+a century to hold back the progress of scientific chemistry, is a great
+and unjustifiable misrepresentation of the distinguished chemist
+and member of the Institute of France, who has done so much for
+thermo-chemistry, and the more unfortunate as it seems to serve only the
+purpose of a prelude to the following sentences: "But Mr. Vogel cannot
+claim, as can Mr. Berthelot, any real work or experiment, however
+roughly performed, suggested by the desire to prove the truth of his
+own views. Let him not, then, bring forth old and long since explained
+discrepancies, ... but when he will have discovered new or overlooked
+facts ... chemists will gladly listen." ... Mr. Greene is here no longer
+occupied to investigate whether what I have said concerning Avogadro's
+hypothesis is true or false, but with myself he has become personal, and
+in noticing his remarks my sole object is to contend against an error
+which is much prevalent. If, according to Mr. Greene, the real work of
+science consists in experimenting, and conclusions unsupported by our
+own experiments have no value, it does not appear for what purpose he
+has published his answer to my paper; an experiment of his, settling
+Marignac's uncertain results, would have justified the reliance he
+places on them. The ground he takes is utterly untenable. Experiments
+are necessary to establish facts; without them there could be no
+science, and the highest credit is due to those who perform successfully
+difficult or costly experiments. Experimenting is, however, not the
+aim and object of science, but the means to arrive at the truth; and
+discoveries derived from accumulated and generally accepted facts are
+not the less valuable on account of not having been derived from new and
+special experiment.
+
+It is, further, far from true that the real work of science consists
+in experimenting; mental work is not less required, and the greatest
+results have not been obtained by experimenters, but by the mental labor
+of those who have, from the study of established facts, arrived at
+conclusions which the experimenters had failed to draw. This is
+naturally so, because a great generalization must explain all the facts
+involved, and can be derived only from their study; but the attention
+of the experimenter is necessarily absorbed by the special work he
+undertakes. I refer to the three greatest events in science: the
+discovery of the Copernican system, the three laws of Kepler, and
+Newton's law of gravitation, none of which is due to direct and special
+experimentation. Copernicus was an astronomer, but the discovery of his
+system is due chiefly to his study of the complications of the Ptolemaic
+system. Kepler is a memorable witness of what can be accomplished by
+skillful and persistent mental labor. "His discoveries were secrets
+extorted from nature by the most profound and laborious research." The
+discovery of his third law is said to have occupied him seventeen years.
+Newton's great discovery is likewise the result of mental labor; he was
+enabled to accomplish it by means of the laws of Kepler, the laws of
+falling bodies established by Galileo, and Picard's exact measurement of
+a degree of a meridian.
+
+If, then, mental work is as indispensable as experimental, it is not
+less true that there are men more specially fitted for the one, others
+for the other, and the best interests of science will be served when
+experiments are made by those specially adapted, skillful, and favorably
+situated, and the possibly greatest number of men, able and willing to
+do mental work, engage in extracting from the accumulated treasures of
+experimental science all the results which they are capable to yield.
+Any truth discovered by this means is clear gain, and saves the waste
+of time, labor, and money spent in unnecessary experiment. Mr. Greene's
+zeal for experiment and depreciation of mental work would be in order,
+if ways and means were to be found to render the advancement of science
+as difficult and slow as possible; they are decidedly not in the
+interest of science, and can not have been inspired by a desire for its
+promotion.
+
+As the evidence of the specific heats of the fallacy of Avogadro's
+hypothesis involves lengthy explanations, the subject is reserved for
+another paper.
+
+San Francisco, Cal., May, 1881.
+
+E. VOGEL.
+
+       *       *       *       *       *
+
+
+
+
+DYEING REDS WITH ARTIFICIAL ALIZARIN.
+
+By M. MAURICE PRUD'HOMME.
+
+
+Since several years, the methods of madder dyeing have undergone a
+complete revolution, the origin of which we will seek to point out. When
+artificial alizarin, thanks to the beautiful researches of Graebe and
+Liebermann, made its industrial appearance in 1869, it was soon found
+that the commercial product, though yielding beautiful purples, was
+incapable of producing brilliant reds (C. Koechlin). While admitting
+that the new product was identical with the alizarin extracted from
+madder, we were led to conclude that in order to produce fine Turkey
+reds, the coloring matters which accompany alizarin must play an
+important part. This was the idea propounded by Kuhlmann as far back as
+1828 (_Soc. Ind. de Mulhouse_, 49, p. 86). According to the researches
+of MM. Schuetzenberger and Schiffert, the coloring matters of madder
+are alizarin, purpurin, pseudopurpurin, purpuroxanthin, and an orange
+matter, which M. Rosenstiehl considers identical with hydrated purpurin.
+Subsequently, there have been added to the list an orange body,
+purpuroxantho-carbonic acid of Schunck and Roemer, identical with the
+munjistin found by Stenhouse in the madder of India. It was known
+that purpuroxanthin does not dye; that pseudopurpurin is very easily
+transformed into purpurin, and the uncertainty which was felt concerning
+hydrated purpurin left room merely for the hypothesis that Turkey-red
+is obtained by the concurrent action of alizarin and purpurin. In the
+meantime, the manufacture of artificial alizarin became extended, and a
+compound was sold as "alizarin for reds." It is now known, thanks to the
+researches of Perkin, Schunck, Roemer, Graebe, and Liebermann, that in
+the manufacture of artificial alizarin there are produced three distinct
+coloring matters--alizarin, iso or anthrapurpurin, and flavopurpurin,
+the two latter being isomers of purpurin. We may remark that purpurin
+has not been obtained by direct synthesis. M. de Lalande has produced
+it by the oxidation of alizarin. Alizarin is derived from
+monosulphanthraquinonic acid, on melting with the hydrate of potassa or
+soda. It is a dioxyanthraquinone.
+
+Anthrapurpurin and flavopurpurin are obtained from two isomeric
+disulphanthraquinonic acids, improperly named isoanthraflavic and
+anthraflavic acids, which are converted into anthrapurpurin and
+flavopurpurin by a more profound action of potassa. These two bodies are
+trioxyanthraquinones.
+
+We call to mind that alizarin dyes reds of a violet tone, free from
+yellow; roses with a blue cast and beautiful purples. Anthrapurpurin and
+flavopurpurin differ little from each other, though the shades dyed
+with the latter are more yellow. The reds produced with these coloring
+matters have a very bright yellowish reflection, but the roses are too
+yellow and the purples incline to a dull gray.
+
+Experience with the madder colors shows that a mixture of alizarin and
+purpurin yields the most beautiful roses in the steam style, but it is
+not the same in dyeing, where the roses got with fleur de garance have
+never been equaled.
+
+"Alizarins for reds" all contain more or less of alizarin properly
+so-called, from 1 to 10 per cent., along with anthrapurpurin and
+flavopurpurin. This proportion does not affect the tone of the reds
+obtained further than by preventing them by having too yellow a tone.
+
+The first use of the alizarins for reds was for application of styles,
+that is colors containing at once the mordant and the coloring matter
+and fixed upon the cloth by the action of steam. Good steam-reds were
+easily obtained by using receipts originally designed for extracts of
+madder (mixtures of alizarin and purpurin). On the other hand, the first
+attempts at dyeing red grounds and red pieces were not successful. The
+custom of dyeing up to a brown with fleur and then lightening the shade
+by a succession of soapings and cleanings had much to do with this
+failure. Goods, mordanted with alumina and dyed with alizarin for reds
+up to saturation, never reach the brown tone given by fleur or garancin.
+This tone is due in great part to the presence of fawn colored matters,
+which the cleanings and soapings served to destroy or remove. The same
+operations have also another end--to transform the purpurin into its
+hydrate, which is brighter and more solid. The shade, in a word, loses
+in depth and gains in brightness. With alizarins for reds, the case is
+quite different; they contain no impurities to remove and no bodies
+which may gain brightness in consequence of chemical changes under the
+influence of the clearings and soapings. These have only one result, in
+addition to the formation of a lake of fatty acid, that is to make the
+shades lose in intensity. The method of subjecting reds got up with
+alizarin to the same treatment as madder-reds was faulty.
+
+There appeared next a method of dyeing bases upon different
+principles. The work of M. Schuetzenberger (1864) speaks of the use of
+sulpho-conjugated fatty acids for the fixation of aniline colors. In
+England, for a number of years, dyed-reds had been padded in soap-baths
+and afterwards steamed to brighten the red. In 1867, Braun and Cordier,
+of Rouen, exhibited Turkey reds dyed in five days. The pieces were
+passed through aluminate of soda at 18 deg. B., then through ammonium
+chloride, washed, dyed with garancin, taken through an oil-bath, dried
+and steamed for an hour, and were finally cleared in the ordinary manner
+for Turkey-reds. The oil-bath was prepared by treating olive-oil with
+nitric acid. This preparation, invented by Hirn, was applied since 1846
+by Braun (Braun and Cordier). Since 1849, Gros, Roman, and Marozeau,
+of Wesserling, printed fine furniture styles by block upon pieces
+previously taken through sulpholeic acid. When the pieces were steamed
+and washed the reds and roses were superior to the old dyed reds and
+roses produced at the cost of many sourings and soapings. Certain makers
+of aniline colors sold mixtures ready prepared for printing which were
+known to contain sulpholeic acids. There was thus an idea in the air
+that sulpholeic acid, under the influence of steam, formed brilliant and
+solid lakes with coloring matters. These facts detract in nothing from
+the merit of M. Horace Koechlin, who combined these scattered data
+into a true discovery. The original process may be summed up under the
+following heads: Printing or padding with an aluminous mordant, which is
+fixed and cleaned in the usual manner; dyeing in alizarin for reds with
+addition of calcium acetate; padding in sulpholeic acid and drying;
+steaming and soaping. The process was next introduced into England,
+whence it returned with the following modifications; in place of
+olive-oil or oleic acid, castor oil was used, as cheaper, and the number
+of operations was reduced. Castor oil, modified by sulphuric acid, can
+be introduced at once into the dye-beck, so that the fixation of the
+coloring matter as the lake of a fatty acid is effected in a single
+operation. The dyeing was then followed by steaming and soaping.
+
+For red on white grounds and for red grounds, a mordant of red liquor at
+5 deg. to 6 deg. B. is printed on, with a little salt of tin or nitro-muriate of
+tin. It is fixed by oxidation at 30 deg. to 35 deg. C., and dunged with cow-dung
+and chalk. The pieces are then dyed with 1 part alizarin for reds at 10
+per cent., 1/4 to 1/2 oil for reds (containing 50 per cent.), 1-6th part
+acetate of lime at 15 deg. B., giving an hour at 70 deg. and half an hour at the
+same heat. Wash, pad in oil (50 to 100 grms. per liter of water), dry on
+the drum, or better, in the hot flue, and steam for three-quarters to an
+hour and a half. The padding in oil is needless, if sufficient oil has
+been used in dyeing, and the pieces may be at once dried and steamed.
+Wash and soap for three-quarters of an hour at 60 deg. Give a second
+soaping if necessary. If there is no fear of soiling the whites, dye at
+a boil for the last half-hour, which is in part equal to steaming.
+
+Red pieces and yarns may be dyed by the process just given for red
+grounds; or, prepare in neutral red oil, in the proportion of 150 grms.
+per liter of water for pieces and 15 kilos for 100 kilos of yarns. For
+pieces, pad with an ordinary machine with rollers covered with
+calico. Dry the pieces in the drum, and the yarn in the stove. Steam
+three-quarters of an hour at 11/2 atmosphere. Mordant in pyrolignite of
+alumina at 10 deg. B., and wash thoroughly. Dye for an hour at 70 deg., and half
+an hour longer at the same heat, using for 100 kilos of cloth or yarn 20
+kilos alizarin at 10 per cent., 10 kilos acetate of lime at 18 deg. B., and
+5 kilos sulpholeic acid. Steam for an hour. Soap for a longer or shorter
+time, with or without the addition of soda crystals. There may be added
+to the aluminous mordant a little salt of tin to raise the tone. Lastly,
+aluminate of soda may be used as a mordant in place of red liquor or
+sulphate of alumina.
+
+Certain firms employ a so-called continuous process. The pieces are
+passed into a cistern 6 meters long and fitted with rollers. This
+dye-bath contains, from 3 to 5 grms. of alizarin per liter of water, and
+is heated to 98 deg. The pieces take 5 minutes to traverse this cistern,
+and, owing to the high temperature and the concentration of the dye
+liquor, they come out perfectly dyed. Two pieces may even be passed
+through at once, one above the other. As the dye-bath becomes exhausted,
+it must be recruited from time to time with fresh quantities of
+alizarin. The great advantage of this method is that it economizes not
+merely time but coloring matter.
+
+The quantity of acetate of lime to be employed in dyeing varies with the
+composition of the mordant and with that of the water. Schlumberger has
+shown that Turkey-red contains 4 molecules of alumina to 3 of lime.
+Rosenstiehl has shown that alumina mordants are properly saturated if
+two equivalents of lime are used for each equivalent of alizarin, if the
+dyeing is done without oil. These figures require to be modified when
+the oil is put into the dye beck, as it precipitates the lime. Acetate
+of lime at 15 deg. B., obtained by saturating acetic acid with chalk and
+adding a slight excess of acetic acid, contains about 1/4 mol. acetate of
+lime.--_Bulletin de la Societe Chimique de Paris._
+
+       *       *       *       *       *
+
+
+
+
+THE SCIENTIFIC AMERICAN SUPPLEMENT.
+
+PUBLISHED WEEKLY.
+
+TERMS OF SUBSCRIPTION, $5 A YEAR.
+
+
+Sent by mail, postage prepaid, to subscribers in any part of the United
+States or Canada. Six dollars a year, sent, prepaid, to any foreign
+country.
+
+All the back numbers of THE SUPPLEMENT, from the commencement, January
+1, 1876, can be had. Price, 10 cents each.
+
+All the back volumes of THE SUPPLEMENT can likewise be supplied. Two
+volumes are issued yearly. Price of each volume, $2.50, stitched in
+paper, or $3.50, bound in stiff covers.
+
+COMBINED RATES--One copy of SCIENTIFIC AMERICAN and one copy of
+SCIENTIFIC AMERICAN SUPPLEMENT, one year, postpaid, $7.00.
+
+A liberal discount to booksellers, news agents, and canvassers.
+
+MUNN & CO., PUBLISHERS,
+
+37 PARK ROW, NEW YORK, N. Y.
+
+       *       *       *       *       *
+
+
+
+
+PATENTS.
+
+
+In connection with the SCIENTIFIC AMERICAN, Messrs. MUNN & Co. are
+Solicitors of American and Foreign Patents, have had 35 years'
+experience, and now have the largest establishment in the world. Patents
+are obtained on the best terms.

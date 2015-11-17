@@ -1,0 +1,427 @@
+as described below, and is stable for considerable periods; but
+commercial oxide requires resublimation to remove arsenic sulphide,
+which may be present in small quantity. To prepare the solution,
+dissolve about 5 grams of the powdered oxide, accurately weighed,
+in 10 cc. of a concentrated sodium hydroxide solution, dilute the
+solution to 300 cc., and make it faintly acid with dilute hydrochloric
+acid. Add 30 grams of sodium bicarbonate dissolved in a little water,
+and dilute the solution to exactly 1000 cc. in a measuring flask.
+Transfer the solution to a dry liter bottle and mix thoroughly.
+
+It is possible to dissolve the arsenious oxide directly in a solution
+of sodium bicarbonate, with gentle warming, but solution in sodium
+hydroxide takes place much more rapidly, and the excess of the
+hydroxide is readily neutralized by hydrochloric acid, with subsequent
+addition of the bicarbonate to maintain neutrality during the
+titration.
+
+The indicator required for this process is made by dipping strips of
+filter paper in a starch solution prepared as described on page 76,
+to which 1 gram of potassium iodide has been added. These strips are
+allowed to drain and spread upon a watch-glass until dry. When touched
+by a drop of the solution the paper turns blue until the hypochlorite
+has all been reduced and an excess of the arsenite has been added.
+
+
+
+
+DETERMINATION OF THE AVAILABLE CHLORINE IN BLEACHING POWDER
+
+
+Bleaching powder consists mainly of a calcium compound which is a
+derivative of both hydrochloric and hypochlorous acids. Its formula is
+CaClOCl. Its use as a bleaching or disinfecting agent, or as a source
+of chlorine, depends upon the amount of hypochlorous acid which it
+yields when treated with a stronger acid. It is customary to express
+the value of bleaching powder in terms of "available chlorine," by
+which is meant the chlorine present as hypochlorite, but not the
+chlorine present as chloride.
+
+PROCEDURE.--Weigh out from a stoppered test tube into a porcelain
+mortar about 3.5 grams of bleaching powder (Note 1). Triturate the
+powder in the mortar with successive portions of water until it is
+well ground and wash the contents into a 500 cc. measuring flask
+(Note 2). Fill the flask to the mark with water and shake thoroughly.
+Measure off 25 cc. of this semi-solution in a measuring flask, or
+pipette, observing the precaution that the liquid removed shall
+contain approximately its proportion of suspended matter.
+
+Empty the flask or pipette into a beaker and wash it out. Run in the
+arsenite solution from a burette until no further reaction takes place
+on the starch-iodide paper when touched by a drop of the solution of
+bleaching powder. Repeat the titration, using a second 25 cc. portion.
+
+From the volume of solution required to react with the bleaching
+powder, calculate the percentage of available chlorine in the latter,
+assuming the titration reaction to be that between chlorine and
+arsenious oxide:
+
+As_{4}O_{6} + 4Cl_{2} + 4H_{2}O --> 2As_{2}O_{5} + 8HCl
+
+Note that only one twentieth of the original weight of bleaching
+powder enters into the reaction.
+
+[Note 1: The powder must be triturated until it is fine, otherwise the
+lumps will inclose calcium hypochlorite, which will fail to react with
+the arsenious acid. The clear supernatant liquid gives percentages
+which are below, and the sediment percentages which are above, the
+average. The liquid measured off should, therefore, carry with it its
+proper proportion of the sediment, so far as that can be brought about
+by shaking the solution just before removal of the aliquot part for
+titration.]
+
+[Note 2: Bleaching powder is easily acted upon by the carbonic acid in
+the air, which liberates the weak hypochlorous acid. This, of course,
+results in a loss of available chlorine. The original material for
+analysis should be kept in a closed container and protected form the
+air as far as possible. It is difficult to obtain analytical samples
+which are accurately representative of a large quantity of the
+bleaching powder. The procedure, as outlined, will yield results which
+are sufficiently exact for technical purposes.]
+
+
+
+
+III. PRECIPITATION METHODS
+
+
+
+
+DETERMINATION OF SILVER BY THE THIOCYANATE PROCESS
+
+
+The addition of a solution of potassium or ammonium thiocyanate to one
+of silver in nitric acid causes a deposition of silver thiocyanate as
+a white, curdy precipitate. If ferric nitrate is also present, the
+slightest excess of the thiocyanate over that required to combine with
+the silver is indicated by the deep red which is characteristic of the
+thiocyanate test for iron.
+
+The reactions involved are:
+
+AgNO_{3} + KSCN --> AgSCN + KNO_{3},
+3KSCN + Fe(NO_{3})_{3} --> Fe(SCN)_{3} + 3KNO_{3}.
+
+The ferric thiocyanate differs from the great majority of salts in
+that it is but very little dissociated in aqueous solutions, and the
+characteristic color appears to be occasioned by the formation of the
+un-ionized ferric salt.
+
+The normal solution of potassium thiocyanate should contain an amount
+of the salt per liter of solution which would yield sufficient
+(CNS)^{-} to combine with one gram of hydrogen to form HCNS, i.e.,
+a gram-molecular weight of the salt or 97.17 grams. If the ammonium
+thiocyanate is used, the amount is 76.08 grams. To prepare the
+solution for this determination, which should be approximately 0.05
+N, dissolve about 5 grams of potassium thiocyanate, or 4 grams of
+ammonium thiocyanate, in a small amount of water; dilute this solution
+to 1000 cc. in a liter bottle and mix as usual.
+
+Prepare 20 cc. of a saturated solution of ferric alum and add 5 cc. of
+dilute nitric acid (sp. gr. 1.20). About 5 cc. of this solution should
+be used as an indicator.
+
+
+STANDARDIZATION
+
+PROCEDURE.--Crush a small quantity of silver nitrate crystals in a
+mortar (Note 1). Transfer them to a watch-glass and dry them for an
+hour at 110 deg.C., protecting them from dust or other organic matter
+(Note 2). Weigh out two portions of about 0.5 gram each and dissolve
+them in 50 cc. of water. Add 10 cc. of dilute nitric acid which has
+been recently boiled to expel the lower oxides of nitrogen, if any,
+and then add 5 cc. of the indicator solution. Run in the thiocyanate
+solution from a burette, with constant stirring, allowing the
+precipitate to settle occasionally to obtain an exact recognition
+of the end-point, until a faint red tinge can be detected in the
+solution.
+
+From the data obtained, calculate the relation of the thiocyanate
+solution to the normal.
+
+[Note 1: The thiocyanate cannot be accurately weighed; its solutions
+must, therefore, be standardized against silver nitrate (or pure
+silver), either in the form of a standard solution or in small,
+weighed portions.]
+
+[Note 2: The crystals of silver nitrate sometimes inclose water which
+is expelled on drying. If the nitrate has come into contact with
+organic bodies it suffers a reduction and blackens during the heating.
+
+It is plain that a standard solution of silver nitrate (made by
+weighing out the crystals) is convenient or necessary if many
+titrations of this nature are to be made. In the absence of such a
+solution the liability of passing the end-point is lessened by setting
+aside a small fraction of the silver solution, to be added near the
+close of the titration.]
+
+
+DETERMINATION OF SILVER IN COIN
+
+PROCEDURE.-- Weigh out two portions of the coin of about 0.5 gram
+each. Dissolve them in 15 cc. of dilute nitric acid (sp. gr. 1.2) and
+boil until all the nitrous compounds are expelled (Note 1). Cool the
+solution, dilute to 50 cc., and add 5 cc. of the indicator solution,
+and titrate with the thiocyanate to the appearance of the faint red
+coloration (Note 2).
+
+From the corrected volume of the thiocyanate solution required,
+calculate the percentage of silver in the coin.
+
+[Note 1: The reaction with silver may be carried out in nitric acid
+solutions and in the presence of copper, if the latter does not exceed
+70 per cent. Above that percentage it is necessary to add silver in
+known quantity to the solution. The liquid must be cold at the time of
+titration and entirely free from nitrous compounds, as these sometimes
+cause a reddening of the indicator solution. All utensils, distilled
+water, the nitric acid and the beakers must be free from chlorides,
+as the presence of these will cause precipitation of silver chloride,
+thereby introducing an error.]
+
+[Note 2: The solution containing the silver precipitate, as well as
+those from the standardization, should be placed in the receptacle for
+"silver residues" as a matter of economy.]
+
+
+
+
+PART III
+
+GRAVIMETRIC ANALYSIS
+
+
+
+
+GENERAL DIRECTIONS
+
+
+Gravimetric analyses involve the following principal steps: first, the
+weighing of the sample; second, the solution of the sample; third, the
+separation of some substance from solution containing, or bearing a
+definite relation to, the constituent to be measured, under conditions
+which render this separation as complete as possible; and finally,
+the segregation of that substance, commonly by filtration, and the
+determination of its weight, or that of some stable product formed
+from it on ignition. For example, the gravimetric determination of
+aluminium is accomplished by solution of the sample, by precipitation
+in the form of hydroxide, collection of the hydroxide upon a filter,
+complete removal by washing of all foreign soluble matter, and the
+burning of the filter and ignition of the precipitate to aluminium
+oxide, in which condition it is weighed.
+
+Among the operations which are common to nearly all gravimetric
+analyses are precipitation, washing of precipitates, ignition of
+precipitates, and the use of desiccators. In order to avoid burdensome
+repetitions in the descriptions of the various gravimetric procedures
+which follow, certain general instructions are introduced at this
+point. These instructions must, therefore, be considered to be as much
+a part of all subsequent procedures as the description of apparatus,
+reagents, or manipulations.
+
+The analytical balance, the fundamentally important instrument in
+gravimetric analysis, has already been described on pages 11 to 15.
+
+
+PRECIPITATION
+
+For successful quantitative precipitations those substances are
+selected which are least soluble under conditions which can be easily
+established, and which separate from solution in such a state that
+they can be filtered readily and washed free from admixed material.
+In general, the substances selected are the same as those already
+familiar to the student of Qualitative Analysis.
+
+When possible, substances are selected which separate in crystalline
+form, since such substances are less likely to clog the pores of
+filter paper and can be most quickly washed. In order to increase the
+size of the crystals, which further promotes filtration and washing,
+it is often desirable to allow a precipitate to remain for some time
+in contact with the solution from which it has separated. The solution
+is often kept warm during this period of "digestion." The small
+crystals gradually disappear and the larger crystals increase in size,
+probably as the result of the force known as surface tension, which
+tends to reduce the surface of a given mass of material to a minimum,
+combined with a very slightly greater solubility of small crystals as
+compared with the larger ones.
+
+Amorphous substances, such as ferric hydroxide, aluminium hydroxide,
+or silicic acid, separate in a gelatinous form and are relatively
+difficult to filter and wash. Substances of this class also exhibit
+a tendency to form, with pure water, what are known as colloidal
+solutions. To prevent this as far as possible, they are washed with
+solutions of volatile salts, as will be described in some of the
+following procedures.
+
+In all precipitations the reagent should be added slowly, with
+constant stirring, and should be hot when circumstances permit.
+The slow addition is less likely to occasion contamination of the
+precipitate by the inclosure of other substances which may be in the
+solution, or of the reagent itself.
+
+
+FUNNELS AND FILTERS
+
+Filtration in analytical processes is most commonly effected through
+paper filters. In special cases these may be advantageously replaced
+by an asbestos filter in a perforated porcelain or platinum crucible,
+commonly known, from its originator, as a "Gooch filter." The
+operation and use of a filter of this type is described on page 103.
+Porous crucibles of a material known as alundum may also be employed
+to advantage in special cases.
+
+The glass funnels selected for use with paper filters should have an
+angle as near 60 deg. as possible, and a narrow stem about six inches in
+length. The filters employed should be washed filters, i.e., those
+which have been treated with hydrochloric and hydrofluoric acids, and
+which on incineration leave a very small and definitely known weight
+of ash, generally about .00003 gram. Such filters are readily
+obtainable on the market.
+
+The filter should be carefully folded to fit the funnel according to
+either of the two well-established methods described in the Appendix.
+It should always be placed so that the upper edge of the paper
+is about one fourth inch below the top of the funnel. Under no
+circumstances should the filter extend above the edge of the funnel,
+as it is then utterly impossible to effect complete washing.
+
+To test the efficiency of the filter, fill it with distilled water.
+This water should soon fill the stem completely, forming a continuous
+column of liquid which, by its hydrostatic pressure, produces a gentle
+suction, thus materially promoting the rapidity of filtration. Unless
+the filter allows free passage of water under these conditions, it is
+likely to give much trouble when a precipitate is placed upon it.
+
+The use of a suction pump to promote filtration is rarely altogether
+advantageous in quantitative analysis, if paper filters are employed.
+The tendency of the filter to break, unless the point of the filter
+paper is supported by a perforated porcelain cone or a small "hardened
+filter" of parchment, and the tendency of the precipitates to pass
+through the pores of the filter, more than compensate for the possible
+gain in time. On the other hand, filtration by suction may be useful
+in the case of precipitates which do not require ignition before
+weighing, or in the case of precipitates which are to be discarded
+without weighing. This is best accomplished with the aid of the
+special apparatus called a Gooch filter referred to above.
+
+
+FILTRATION AND WASHING OF PRECIPITATES
+
+Solutions should be filtered while hot, as far as possible, since
+the passage of a liquid through the pores of a filter is retarded by
+friction, and this, for water at 100 deg.C., is less than one sixth of the
+resistance at 0 deg.C.
+
+When the filtrate is received in a beaker, the stem of the funnel
+should touch the side of the receiving vessel to avoid loss by
+spattering. Neglect of this precaution is a frequent source of error.
+
+The vessels which contain the initial filtrate should !always! be
+replaced by clean ones, properly labeled, before the washing of a
+precipitate begins. In many instances a finely divided precipitate
+which shows no tendency to pass through the filter at first, while the
+solution is relatively dense, appears at once in the washings. Under
+such conditions the advantages accruing from the removal of the first
+filtrate are obvious, both as regards the diminished volume requiring
+refiltration, and also the smaller number of washings subsequently
+required.
+
+Much time may often be saved by washing precipitates by decantation,
+i.e., by pouring over them, while still in the original vessel,
+considerable volumes of wash-water and allowing them to settle. The
+supernatant, clear wash-water is then decanted through the filter,
+so far as practicable without disturbing the precipitate, and a new
+portion of wash-water is added. This procedure can be employed to
+special advantage with gelatinous precipitates, which fill up the
+pores of the filter paper. As the medium from which the precipitate
+is to settle becomes less dense it subsides less readily, and it
+ultimately becomes necessary to transfer it to the filter and complete
+the washing there.
+
+A precipitate should never completely fill a filter. The wash-water
+should be applied at the top of the filter, above the precipitate.
+It may be shown mathematically that the washing is most !rapidly!
+accomplished by filling the filter well to the top with wash-water
+each time, and allowing it to drain completely after each addition;
+but that when a precipitate is to be washed with the !least possible
+volume! of liquid the latter should be applied in repeated !small!
+quantities.
+
+Gelatinous precipitates should not be allowed to dry before complete
+removal of foreign matter is effected. They are likely to shrink and
+crack, and subsequent additions of wash-water pass through these
+channels only.
+
+All filtrates and wash-waters without exception must be properly
+tested. !This lies at the foundation of accurate work!, and the
+student should clearly understand that it is only by the invariable
+application of this rule that assurance of ultimate reliability can
+be secured. Every original filtrate must be tested to prove complete
+precipitation of the compound to be separated, and the wash-waters
+must also be tested to assure complete removal of foreign material. In
+testing the latter, the amount first taken should be but a few
+drops if the filtrate contains material which is to be subsequently
+determined. When, however, the washing of the filter and precipitate
+is nearly completed the amount should be increased, and for the final
+test not less than 3 cc. should be used.
+
+It is impossible to trust to one's judgment with regard to the washing
+of precipitates; the washings from !each precipitate! of a series
+simultaneously treated must be tested, since the rate of washing will
+often differ materially under apparently similar conditions, !No
+exception can ever be made to this rule!.
+
+The habit of placing a clean common filter paper under the receiving
+beaker during filtration is one to be commended. On this paper a
+record of the number of washings can very well be made as the portions
+of wash-water are added.
+
+It is an excellent practice, when possible, to retain filtrates and
+precipitates until the completion of an analysis, in order that, in
+case of question, they may be examined to discover sources of error.
+
+For the complete removal of precipitates from containing vessels, it
+is often necessary to rub the sides of these vessels to loosen the
+adhering particles. This can best be done by slipping over the end of
+a stirring rod a soft rubber device sometimes called a "policeman."
+
+
+DESICCATORS
+
+Desiccators should be filled with fused, anhydrous calcium chloride,
+over which is placed a clay triangle, or an iron triangle covered with
+silica tubes, to support the crucible or other utensils. The cover of
+the desiccator should be made air-tight by the use of a thin coating
+of vaseline.
+
+Pumice moistened with concentrated sulphuric acid may be used in place
+of the calcium chloride, and is essential in special cases; but for
+most purposes the calcium chloride, if renewed occasionally and not
+allowed to cake together, is practically efficient and does not slop
+about when the desiccator is moved.
+
+Desiccators should never remain uncovered for any length of time. The
+dehydrating agents rapidly lose their efficiency on exposure to the
+air.
+
+
+CRUCIBLES
+
+It is often necessary in quantitative analysis to employ fluxes to
+bring into solution substances which are not dissolved by acids. The
+fluxes in most common use are sodium carbonate and sodium or potassium
+acid sulphate. In gravimetric analysis it is usually necessary to
+ignite the separated substance after filtration and washing, in order
+to remove moisture, or to convert it through physical or chemical
+changes into some definite and stable form for weighing. Crucibles
+to be used in fusion processes must be made of materials which will
+withstand the action of the fluxes employed, and crucibles to be used
+for ignitions must be made of material which will not undergo any
+permanent change during the ignition, since the initial weight of the
+crucible must be deducted from the final weight of the crucible and
+product to obtain the weight of the ignited substance. The three
+materials which satisfy these conditions, in general, are platinum,
+porcelain, and silica.
+
+Platinum crucibles have the advantage that they can be employed at
+high temperatures, but, on the other hand, these crucibles can never
+be used when there is a possibility of the reduction to the metallic

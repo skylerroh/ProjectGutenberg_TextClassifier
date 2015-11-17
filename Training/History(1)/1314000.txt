@@ -1,0 +1,374 @@
+inverted image of the carbon points, formed by the light rays at the
+focus. Cutting off the light by the ray-filter, and placing at the
+focus a thin sheet of platinized platinum, the invisible rays declare
+their presence and distribution, by stamping upon the platinum a
+white-hot image of the carbons. (See fig. 51.)
+
+[Illustration: Fig. 51.]
+
+
+Sec. 8. _Polarization of Heat_.
+
+Whether radiant heat be capable of polarization or not was for a long
+time a subject of discussion. Berard had announced affirmative
+results, but Powell and Lloyd failed to verify them. The doubts thus
+thrown upon the question were removed by the experiments of Forbes,
+who first established the polarization and 'depolarization' of heat.
+The subject was subsequently followed up by Melloni, an investigator
+of consummate ability, who sagaciously turned to account his own
+discovery, that the obscure rays of luminous sources are in part
+transmitted by black glass. Intercepting by a plate of this glass the
+light from an oil flame, and operating upon the transmitted invisible
+heat, he obtained effects of polarization, far exceeding in magnitude
+those which could be obtained with non-luminous sources. At present
+the possession of our more perfect ray-filter, and more powerful
+source of heat, enables us to pursue this identity question to its
+utmost practical limits.
+
+[Illustration: Fig. 52.]
+
+Mounting our two Nicols (B and C, fig. 52) in front of the electric
+lamp, with their principal sections crossed, no light reaches the
+screen. Placing our thermo-electric pile (D) behind the prisms, with
+its face turned towards the source, no deflection of the galvanometer
+is observed. Interposing between the lamp (A) and the first prism (B)
+our ray-filter, the light previously transmitted through the first
+Nicol is quenched; and now the slightest turning of either Nicol opens
+a way for the transmission of the heat, a very small rotation
+sufficing to send the needle up to 90 deg.. When the Nicol is turned back
+to its first position, the needle again sinks to zero, thus
+demonstrating, in the plainest manner, the polarization of the heat.
+
+When the Nicols are crossed and the field is dark, you have seen, in
+the case of light, the effect of introducing a plate of mica between
+the polarizer and analyzer. In two positions the mica exerts no
+sensible influence; in all others it does. A precisely analogous
+deportment is observed as regards radiant heat. Introducing our
+ray-filter, the thermo-pile, playing the part of an eye as regards the
+invisible radiation, receives no heat when the eye receives no light;
+but when the mica is so turned as to make its planes of vibration
+oblique to those of the polarizer and analyzer, the heat immediately
+passes through. So strong does the action become, that the momentary
+plunging of the film of mica into the dark space between the Nicols
+suffices to send the needle up to 90 deg.. This is the effect to which the
+term 'depolarization' has been applied; the experiment really proving
+that with both light and heat we have the same resolution by the plate
+of mica, and recompounding by the analyzer, of the ethereal
+vibrations.
+
+Removing the mica and restoring the needle once more to 0 deg., I
+introduce between the Nicols a plate of quartz cut perpendicular to
+the axis; the immediate deflection of the needle declares the
+transmission of the heat, and when the transmitted beam is properly
+examined, it is found to be circularly polarized, exactly as a beam of
+light is polarized under the same conditions.
+
+
+Sec. 9. _Double Refraction of Heat_.
+
+I will now abandon the Nicols, and send through the piece of Iceland
+spar (B, fig. 53), already employed (in Lecture III.) to illustrate
+the double refraction of light, our sifted beam of invisible heat. To
+determine the positions of the two images, let us first operate upon
+the luminous beam. Marking the places of the light-images, we
+introduce between N and L our ray-filter (not in the figure) and
+quench the light. Causing the pile to approach one of the marked
+places, the needle remains unmoved until the place has been attained;
+here the pile at once detects the heat. Pushing the pile across the
+interval separating the two marks, the needle first falls to 0 deg., and
+then rises again to 90 deg. in the second position. This proves the double
+refraction of the heat.
+
+[Illustration: Fig. 53.]
+
+I now turn the Iceland spar: the needle remains fixed; there is no
+alteration of the deflection. Passing the pile rapidly across to the
+other mark, the deflection is maintained. Once more I turn the spar,
+but now the needle falls to 0 deg., rising, however, again to 90 deg. after a
+rotation of 360 deg.. We know that in the case of light the extraordinary
+beam rotates round the ordinary one; and we have here been operating
+on the extraordinary heat-beam, which, as regards double refraction,
+behaves exactly like a beam of light.
+
+
+Sec. 10. _Magnetization of Heat_.
+
+To render our series of comparisons complete, we must demonstrate the
+magnetization of heat. But here a slight modification of our
+arrangement will be necessary. In repeating Faraday's experiment on
+the magnetization of light, we had, in the first instance, our Nicols
+crossed and the field rendered dark, a flash of light appearing upon
+the screen when the magnet was excited. Now the quantity of light
+transmitted in this case is really very small, its effect being
+rendered striking through contrast with the preceding darkness. When
+we so place the Nicols that their principal sections enclose an angle
+of 45 deg., the excitement of the magnet causes a far greater positive
+augmentation of the light, though the augmentation is not so well
+_seen_ through lack of contrast, because here, at starting, the field
+is illuminated.
+
+In trying to magnetize our beam of heat, we will adopt this
+arrangement. Here, however, at the outset, a considerable amount of
+heat falls upon one face of the pile. This it is necessary to
+neutralize, by permitting rays from another source to fall upon the
+opposite face of the pile. The needle is thus brought to zero. Cutting
+off the light by our ray-filter, and exciting the magnet, the needle
+is instantly deflected, proving that the magnet has opened a door for
+the heat, exactly as in Faraday's experiment it opened a door for the
+light. Thus, in every case brought under our notice, the substantial
+identity of light and radiant heat has been demonstrated.
+
+By the refined experiments of Knoblauch, who worked long and
+successfully at this question, the double refraction of heat, by
+Iceland spar, was first demonstrated; but, though he employed the
+luminous heat of the sun, the observed deflections were exceedingly
+small. So, likewise, those eminent investigators De la Povostaye and
+Desains succeeded in magnetizing a beam of heat; but though, in their
+case also, the luminous solar heat was employed, the deflection
+obtained did not amount to more than two or three degrees. With
+_obscure_ radiant heat the effect, prior to the experiments now
+brought before you, had not been obtained; but, with the arrangement
+here described, we obtain deflections from purely invisible heat,
+equal to 150 of the lower degrees of the galvanometer.
+
+
+Sec. 11. _Distribution of Heat in the Electric Spectrum_.
+
+We have finally to determine the position and magnitude of the
+invisible radiation which produces these results. For this purpose we
+employ a particular form of the thermo-pile. Its face is a rectangle,
+which by movable side-pieces can be rendered as narrow as desirable.
+Throwing a small and concentrated spectrum upon a screen, by means of
+an endless screw we move the rectangular pile through the entire
+spectrum, and determine in succession the thermal power of all its
+colours.
+
+[Illustration: SPECTRUM OF ELECTRIC LIGHT.]
+
+When this instrument is brought to the violet end of the spectrum,
+the heat is found to be almost insensible. As the pile gradually moves
+from the violet towards the red, it encounters a gradually augmenting
+heat. The red itself possesses the highest heating power of all the
+colours of the spectrum. Pushing the pile into the dark space beyond
+the red, the heat rises suddenly in intensity, and at some distance
+beyond the red it attains a maximum. From this point the heat falls
+somewhat more rapidly than it rose, and afterwards gradually fades
+away.
+
+Drawing a horizontal line to represent the length of the spectrum, and
+erecting along it, at various points, perpendiculars proportional in
+length to the heat existing at those points, we obtain a curve which
+exhibits the distribution of heat in the prismatic spectrum. It is
+represented in the adjacent figure. Beginning at the blue, the curve
+rises, at first very gradually; towards the red it rises more rapidly,
+the line C D (fig. 54, opposite page) representing the strength of the
+extreme red radiation. Beyond the red it shoots upwards in a steep and
+massive peak to B; whence it falls, rapidly for a time, and afterwards
+gradually fades from the perception of the pile. This figure is the
+result of more than twelve careful series of measurements, from each
+of which the curve was constructed. On superposing all these curves, a
+satisfactory agreement was found to exist between them. So that it may
+safely be concluded that the areas of the dark and white spaces,
+respectively, represent the relative energies of the visible and
+invisible radiation. The one is 7.7 times the other.
+
+But in verification, as already stated, consists the strength of
+science. Determining in the first place the total emission from the
+electric lamp, and then, by means of the iodine filter, determining
+the ultra-red emission; the difference between both gives the luminous
+emission. In this way, it is found that the energy of the invisible
+emission is eight times that of the visible. No two methods could be
+more opposed to each other, and hardly any two results could better
+harmonize. I think, therefore, you may rely upon the accuracy of the
+distribution of heat here assigned to the prismatic spectrum of the
+electric light. There is nothing vague in the mode of investigation,
+or doubtful in its conclusions. Spectra are, however, formed by
+_diffraction_, wherein the distribution of both heat and light is
+different from that produced by the prism. These diffractive spectra
+have been examined with great skill by Draper and Langley. In the
+prismatic spectrum the less refrangible rays are compressed into a
+much smaller space than in the diffraction spectrum.
+
+
+
+
+LECTURE VI.
+
+PRINCIPLES OF SPECTRUM ANALYSIS
+PRISMATIC ANALYSIS OF THE LIGHT OF INCANDESCENT VAPOURS
+DISCONTINUOUS SPECTRA
+SPECTRUM BANDS PROVED BY BUNSEN AND KIRCHHOFF TO BE CHARACTERISTIC
+  OF THE VAPOUR
+DISCOVERY OF RUBIDIUM, CAESIUM, AND THALLIUM
+RELATION OF EMISSION TO ABSORPTION
+THE LINES OF FRAUNHOFER
+THEIR EXPLANATION BY KIRCHHOFF
+SOLAR CHEMISTRY INVOLVED IN THIS EXPLANATION
+FOUCAULT'S EXPERIMENT
+PRINCIPLES OF ABSORPTION
+ANALOGY OF SOUND AND LIGHT
+EXPERIMENTAL DEMONSTRATION OF THIS ANALOGY
+RECENT APPLICATIONS OF THE SPECTROSCOPE
+SUMMARY AND CONCLUSION.
+
+
+We have employed as our source of light in these lectures the ends of
+two rods of coke rendered incandescent by electricity. Coke is
+particularly suitable for this purpose, because it can bear intense
+heat without fusion or vaporization. It is also black, which helps the
+light; for, other circumstances being equal, as shown experimentally
+by Professor Balfour Stewart, the blacker the body the brighter will
+be its light when incandescent. Still, refractory as carbon is, if we
+closely examined our voltaic arc, or stream of light between the
+carbon-points, we should find there incandescent carbon-vapour. And if
+we could detach the light of this vapour from the more dazzling light
+of the solid points, we should find its spectrum not only less
+brilliant, but of a totally different character from the spectra that
+we have already seen. Instead of being an unbroken succession of
+colours from red to violet, the carbon-vapour would yield a few bands
+of colour with spaces of darkness between them.
+
+What is true of the carbon is true in a still more striking degree of
+the metals, the most refractory of which can be fused, boiled, and
+reduced to vapour by the electric current. From the incandescent
+vapour the light, as a general rule, flashes in groups of rays of
+definite degrees of refrangibility, spaces existing between group and
+group, which are unfilled by rays of any kind. But the contemplation
+of the facts will render this subject more intelligible than words can
+make it. Within the camera is now placed a cylinder of carbon hollowed
+out at the top; in the hollow is placed a fragment of the metal
+thallium. Down upon this we bring the upper carbon-point, and then
+separate the one from the other. A stream of incandescent
+thallium-vapour passes between them, the magnified image of which is
+now seen upon the screen. It is of a beautiful green colour. What is
+the meaning of that green? We answer the question by subjecting the
+light to prismatic analysis. Sent through the prism, its spectrum is
+seen to consist of a single refracted band. Light of one degree of
+refrangibility--that corresponding to this particular green--is
+emitted by the thallium-vapour.
+
+We will now remove the thallium and put a bit of silver in its place.
+The are of silver is not to be distinguished from that of thallium; it
+is not only green, but the same shade of green. Are they then alike?
+Prismatic analysis enables us to answer the question. However
+impossible it is to distinguish the one _colour_ from the other, it is
+equally impossible to confound the _spectrum_ of incandescent
+silver-vapour with that of thallium. In the case of silver, we have
+two green bands instead of one.
+
+If we add to the silver in our camera a bit of thallium, we shall
+obtain the light of both metals. After waiting a little, we see that
+the green of the thallium lies midway between the two greens of the
+silver. Hence this similarity of colour.
+
+But why have we to 'wait a little' before we see this effect? The
+thallium band at first almost masks the silver bands by its superior
+brightness. Indeed, the silver bands have wonderfully degenerated
+since the bit of thallium was put in, and for a reason worth knowing.
+It is the _resistance_ offered to the passage of the electric current
+from carbon to carbon, that calls forth the power of the current to
+produce heat. If the resistance were materially lessened, the heat
+would be materially lessened; and if all resistance were abolished,
+there would be no heat at all. Now, thallium is a much more fusible
+and vaporizable metal than silver; and its vapour facilitates the
+passage of the electricity to such a degree, as to render the current
+almost incompetent to vaporize the more refractory silver. But the
+thallium is gradually consumed; its vapour diminishes, the resistance
+rises, until finally you see the two silver bands as brilliant as they
+were at first.[24]
+
+We have in these bands a perfectly unalterable characteristic of the
+two metals. You never get other bands than these two green ones from
+the silver, never other than the single green band from the thallium,
+never other than the three green bands from the mixture of both
+metals. Every known metal has its own particular bands, and in no
+known case are the bands of two different metals alike in
+refrangibility. It follows, therefore, that these spectra may be made
+a sure test for the presence or absence of any particular metal. If we
+pass from the metals to their alloys, we find no confusion. Copper
+gives green bands; zinc gives blue and red bands; brass--an alloy of
+copper and zinc--gives the bands of both metals, perfectly unaltered
+in position or character.
+
+But we are not confined to the metals themselves; the _salts_ of these
+metals yield the bands of the metals. Chemical union is ruptured by a
+sufficiently high heat; the vapour of the metal is set free, and it
+yields its characteristic bands. The chlorides of the metals are
+particularly suitable for experiments of this character. Common salt,
+for example, is a compound of chlorine and sodium; in the electric
+lamp it yields the spectrum of the metal sodium. The chlorides of
+copper, lithium, and strontium yield, in like manner, the bands of
+these metals.
+
+When, therefore, Bunsen and Kirchhoff, the illustrious founders of
+_spectrum analysis_, after having established by an exhaustive
+examination the spectra of all known substances, discovered a spectrum
+containing bands different from any known bands, they immediately
+inferred the existence of a new metal. They were operating at the time
+upon a residue, obtained by evaporating one of the mineral waters of
+Germany. In that water they knew the unknown metal was concealed, but
+vast quantities of it had to be evaporated before a residue could be
+obtained sufficiently large to enable ordinary chemistry to grapple
+with the metal. They, however, hunted it down, and it now stands
+among chemical substances as the metal _Rubidium_. They subsequently
+discovered a second metal, which they called _Caesium_. Thus, having
+first placed spectrum analysis on a sure foundation, they demonstrated
+its capacity as an agent of discovery. Soon afterwards Mr. Crookes,
+pursuing the same method, discovered the bright green band of
+_Thallium_, and obtained the salts of the metal which yielded it. The
+metal itself was first isolated in ingots by M. Lamy, a French
+chemist.
+
+All this relates to chemical discovery upon earth, where the materials
+are in our own hands. But it was soon shown how spectrum analysis
+might be applied to the investigation of the sun and stars; and this
+result was reached through the solution of a problem which had been
+long an enigma to natural philosophers. The scope and conquest of this
+problem we must now endeavour to comprehend. A spectrum is _pure_ in
+which the colours do not overlap each other. We purify the spectrum by
+making our beam narrow, and by augmenting the number of our prisms.
+When a pure spectrum of the sun has been obtained in this way, it is
+found to be furrowed by innumerable dark lines. Four of them were
+first seen by Dr. Wollaston, but they were afterwards multiplied and
+measured by Fraunhofer with such masterly skill, that they are now
+universally known as Fraunhofer's lines. To give an explanation of
+these lines was, as I have said, a problem which long challenged the
+attention of philosophers, and to Professor Kirchhoff belongs the
+honour of having first conquered this problem.
+
+(The positions of the principal lines, lettered according to
+Fraunhofer, are shown in the annexed sketch (fig. 55) of the solar
+spectrum. A is supposed to stand near the extreme red, and J near the
+extreme violet.)
+
+[Illustration: Fig. 55.]
+
+The brief memoir of two pages, in which this immortal discovery is
+recorded, was communicated to the Berlin Academy on October 27, 1859.
+Fraunhofer had remarked in the spectrum of a candle flame two bright
+lines, which coincide accurately, as to position, with the double dark
+line D of the solar spectrum. These bright lines are produced with
+particular intensity by the yellow flame derived from a mixture of
+salt and alcohol. They are in fact the lines of sodium vapour.
+Kirchhoff produced a spectrum by permitting the sunlight to enter his
+telescope by a slit and prism, and in front of the slit he placed the
+yellow sodium flame. As long as the spectrum remained feeble, there
+always appeared two bright lines, derived from the flame, in the place
+of the two dark lines D of the spectrum. In this case, such absorption
+as the flame exerted upon the sunlight was more than atoned for by the
+radiation from the flame. When, however, the solar spectrum was
+rendered sufficiently intense, the bright bands vanished, and the two
+dark Fraunhofer lines appeared with much greater sharpness and
+distinctness than when the flame was not employed.
+
+This result, be it noted, was not due to any real quenching of the
+bright lines of the flame, but to the augmentation of the intensity of
+the adjacent spectrum. The experiment proved to demonstration, that
+when the white light sent through the flame was sufficiently intense,
+the quantity which the flame absorbed was far in excess of that which
+it radiated.
+
+Here then is a result of the utmost significance. Kirchhoff
+immediately inferred from it that the salt flame, which could
+intensify so remarkably the dark lines of Fraunhofer, ought also to be
+able to _produce_ them. The spectrum of the Drummond light is known to

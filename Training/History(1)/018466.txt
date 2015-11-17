@@ -1,0 +1,502 @@
+The Project Gutenberg EBook of The Aeneid of Virgil, by Virgil
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Aeneid of Virgil
+       Translated into English Verse by E. Fairfax Taylor
+
+Author: Virgil
+
+Editor: Ernest Rhys
+
+Commentator: Maine J. P.
+
+Translator: Edward Fairfax Taylor
+
+Release Date: May 28, 2006 [EBook #18466]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE AENEID OF VIRGIL ***
+
+
+
+
+Produced by Ron Swanson
+
+
+
+
+
+EVERYMAN'S LIBRARY
+EDITED BY ERNEST RHYS
+
+CLASSICAL
+
+THE AENEID OF VIRGIL
+
+THE SAGES OF OLD LIVE AGAIN IN US.
+                             GLANVILL
+
+
+
+
+The AENEID OF VIRGIL
+
+TRANSLATED INTO ENGLISH VERSE BY
+E. FAIRFAX TAYLOR
+
+
+
+
+LONDON: PUBLISHED by J. M. DENT & SONS LTD.
+AND IN NEW YORK BY E. P. DUTTON & CO.
+
+
+
+
+_First issue of this Edition 1907._
+_Reprinted 1910._
+
+
+
+
+INTRODUCTION
+
+
+Virgil--Publius Vergilius Maro--was born at Andes near Mantua, in
+the year 70 B.C. His life was uneventful, though he lived in stirring
+times, and he passed by far the greater part of it in reading his
+books and writing his poems, undisturbed by the fierce civil strife
+which continued to rage throughout the Roman Empire, until Octavian,
+who afterwards became the Emperor Augustus, defeated Antony at the
+battle of Actium. Though his father was a man of humble origin, Virgil
+received an excellent education, first at Cremona and Milan, and
+afterwards at Rome. He was intimate with all the distinguished men
+of his time, and a personal friend of the Emperor. After the
+publication of his second work, the _Georgics_, he was recognized
+as being the greatest poet of his age, and the most striking figure
+in the brilliant circle of literary men, which was centred at the
+Court. He died at Brindisi in the spring of 19 B.C. whilst returning
+from a journey to Greece, leaving his greatest work, the _Aeneid_,
+written but unrevised. It was published by his executors, and
+immediately took its place as the great national Epic of the Roman
+people. Virgil seems to have been a man of simple, pure, and loveable
+character, and the references to him in the works of Horace clearly
+show the affection with which he was regarded by his friends.
+
+Like every cultivated Roman of that age, Virgil was a close student
+of the literature and philosophy of the Greeks, and his poems bear
+eloquent testimony to the profound impression made upon him by his
+reading of the Greek poets. His first important work, the _Eclogues_,
+was directly inspired by the pastoral poems of Theocritus, from whom
+he borrowed not only much of his imagery but even whole lines; in
+the _Georgics_ he took as his model the _Works and Days_ of Hesiod,
+and though in the former case it must be confessed that he suffers
+from the weakness inherent in all imitative poetry, in the latter
+he far surpasses the slow and simple verses of the Boeotian. But here
+we must guard ourselves against a misapprehension. We moderns look
+askance at the writer who borrows without acknowledgment the
+thoughts and phrases of his forerunners, but the Roman critics of
+the Augustan Age looked at the matter from a different point of view.
+They regarded the Greeks as having set the standard of the highest
+possible achievement in literature, and believed that it should be
+the aim of every writer to be faithful, not only to the spirit, but
+even to the letter of their great exemplars. Hence it was only natural
+that when Virgil essayed the task of writing the national Epic of
+his country, he should be studious to embody in his work all that
+was best in Greek Epic poetry.
+
+It is difficult in criticizing Virgil to avoid comparing him to some
+extent with Homer. But though Virgil copied Homer freely, any
+comparison between them is apt to be misleading. A primitive epic,
+like the _Iliad_ or the _Nibelungenlied_, produced by an imaginative
+people at an early stage in its development, telling its stories
+simply for the sake of story telling, cannot be judged by the same
+canons of criticism as a literary epic like the _Aeneid_ or _Paradise
+Lost_, which is the work of a great poet in an age of advanced culture,
+and sets forth a great idea in a narrative form. The Greek writer
+to whom Virgil owes most perhaps, is Apollonius of Rhodes, from whose
+_Argonautica_ he borrowed the love interest of the _Aeneid_. And
+though the Roman is a far greater poet, in this instance the advantage
+is by no means on his side, for, as Professor Gilbert Murray has so
+well said, 'the Medea and Jason of the _Argonautica_ are at once more
+interesting and more natural than their copies, the Dido and Aeneas
+of the _Aeneid_. The wild love of the witch-maiden sits curiously
+on the queen and organizer of industrial Carthage; and the two
+qualities which form an essential part of Jason--the weakness which
+makes him a traitor, and the deliberate gentleness which contrasts
+him with Medea--seem incongruous in the father of Rome.' But though
+Virgil turned to the Greek epics for the general framework and many
+of the details of his poem, he always remains master of his materials,
+and stamps them with the impress of his own genius. The spirit which
+inspires the _Aeneid_ is wholly Roman, and the deep faith in the
+National Destiny, and stern sense of duty to which it gives
+expression, its profoundly religious character and stately and
+melodious verse, have always caused it to be recognized as the
+loftiest expression of the dignity and greatness of Rome at her best.
+But the sympathetic reader will be conscious of a deeper and more
+abiding charm in the poetry of Virgil. Even in his most splendid
+passages his verses thrill us with a strange pathos, and his
+sensitiveness to unseen things--things beautiful and sad--has
+caused a great writer, himself a master of English prose, to speak
+of 'his single words and phrases, his pathetic half lines, giving
+utterance as the voice of Nature herself to that pain and weariness,
+yet hope of better things, which is the experience of her children
+in every age.'
+
+The task of translating such a writer at all adequately may well seem
+to be an almost impossible one; and how far any of the numerous
+attempts to do so have succeeded, is a difficult question. For not
+only does the stated ideal at which the translator should aim, vary
+with each generation, but perhaps no two lovers of Virgil would agree
+at any period as to what this ideal should be. Two general principles
+stand out from the mass of conflicting views on this point. The
+translation should read as though it were an original poem, and it
+should produce on the modern reader as far as possible the same effect
+as the original produced on Virgil's contemporaries. And here we
+reach the real difficulty, for the scholar who can alone judge what
+that effect may have been, is too intimate with the original to see
+clearly the merits of a translation, and the man who can only read
+the translation can form no opinion. However, it seems clear that
+a prose translation can never really satisfy us, because it must
+always be wanting in the musical quality of continuous verse. And
+our critical experience bears this out, since even Professor Mackail
+with all his literary skill and insight has failed to make his version
+of the _Aeneid_ more than a very valuable aid to the student of the
+original. The meaning of the poet is fully expressed, but his music
+has been lost. That oft-quoted line--
+
+   'Sunt lacrimae rerum et mentem mortalia tangunt'
+
+haunts us like Tennyson's
+
+                          'When unto dying eyes
+    The casement slowly grows a glimmering square,'
+
+and no prose rendering can hope to convey the poignancy and pathos
+of the original. The ideal translation, then, must be in verse, and
+perhaps the best way for us to determine which style and metre are
+most suited to convey to the modern reader an impression of the charm
+of Virgil, will be to take a brief glance at some of the best-known
+of the verse translations which have appeared.
+
+The first translation of the _Aeneid_ into English verse was that
+of Gawin Douglas, bishop of Dunkeld in Scotland, which was published
+in 1553. It is a spirited translation, marked by considerable native
+force and verisimilitude, and it was certainly unsurpassed until
+that of Dryden appeared. In the best passages it renders the tone
+and feeling of the original with extreme felicity--indeed, all but
+perfectly. Take for instance this passage from the Sixth Book--
+
+   'Thai walking furth fa dyrk, oneth thai wyst
+    Quhidder thai went, amyd dym schaddowys thar,
+    Quhar evir is nycht, and nevir lyght dois repar,
+    Throwout the waist dongion of Pluto Kyng,
+    Thai voyd boundis, and that gowsty ryng:
+    Siklyke as quha wold throw thik woddis wend
+    In obscure licht, quhen moyn may nocht be kenned;
+    As Jupiter the kyng etheryall,
+    With erdis skug hydis the hevynnys all
+    And the myrk nycht, with her vissage gray,
+    From every thing hes reft the hew away.'
+
+But in spite of its merits, its dialect wearies the modern reader,
+and gives it an air of grotesqueness which is very alien to the spirit
+of the Latin. One other sixteenth-century translation deserves
+notice, as it was written by one who was himself a distinguished poet;
+namely, the version of the second and fourth books of the _Aeneid_
+written by Henry, Earl of Surrey. It gained the commendation of that
+stern critic Ascham, who praises Surrey for avoiding rhyme, but
+considers that he failed to 'fully hit perfect and true versifying';
+which is hardly a matter for wonder since English blank verse was
+then in its infancy. But it has some fine passages--notably the one
+which relates the death of Dido--
+
+   'As she had said, her damsell might perceue
+    Her with these wordes fal pearced on a sword
+    The blade embrued and hands besprent with gore.
+    The clamor rang unto the pallace toppe,
+    The brute ranne throughout al thastoined towne,
+    With wailing great, and women's shrill yelling,
+    The roofs gan roare, the aire resound with plaint,
+    As though Cartage, or thauncient town of Tyre
+    With prease of entred enemies swarmed full,
+    Or when the rage of furious flame doth take
+    The temples toppes, and mansions eke of men.'
+
+Of the translations into modern English, that of Dryden may still
+be said to stand first, in spite of its lack of fidelity. It owes
+its place to its sustained vigour, and the fact that the heroic
+couplet is in the hands of a master. In its way nothing could be better
+than--
+
+   'Just in the gate, and in the jaws of hell,
+    Revengeful cares, and sullen sorrows dwell,
+    And pale diseases, and repining age--
+    Want, fear, and famine's unresisted rage,
+    Here toils and death, and death's half-brother sleep,
+    Forms terrible to view, their sentry keep.
+    With anxious pleasures of a guilty mind,
+    Deep frauds, before, and open force behind;
+    The Furies' iron beds, and strife that shakes
+    Her hissing tresses, and unfolds her snakes.'
+
+But though the heroic couplet may have conveyed to Dryden's age
+something of the effect of the Virgilian hexameter, it does nothing
+of the kind to us. Probably we are prejudiced in the matter by Pope's
+Homer.
+
+Professor Conington's translation certainly has spirit and energy,
+but he was decidedly unfortunate in his choice of metre. To attempt
+to render 'the stateliest measure ever moulded by the lips of man'
+by fluent octosyllabics was bound to result in incongruity, as in
+the following passage, where the sombre warning of the Sibyl to
+Aeneas becomes merely a sprightly reminder that--
+
+   'The journey down to the abyss
+      Is prosperous and light,
+    The palace gates of gloomy Dis
+      Stand open day and night;
+    But upward to retrace the way
+    And pass into the light of day,
+    There comes the stress of labour; this
+      May task a hero's might.'
+
+The various attempts that have been made to translate the poem in
+the metre of the original have all been sad failures. And from Richard
+Stanyhurst, whom Thomas Nash described as treading 'a foul,
+lumbering, boistrous, wallowing measure, in his translation of
+Virgil,' down to our own time, no one has succeeded in avoiding faults
+of monotony and lack of poetical quality. A short extract from Dr.
+Crane's translation will illustrate this very clearly--
+
+                                    'No species of hardships,
+    Longer, O maiden, arises before me as strange and unlooked for:
+    All things have I foreknown, and in soul have already endured them.
+    One special thing I crave, since here, it is said, that the gateway
+    Stands of the monarch infernal, and refluent Acheron's dark pool:
+    Let it be mine to go down to the sight and face of my cherished
+    Father, and teach me the way, and the sacred avenues open.'
+
+Nor is William Morris' attempt to devise a new metre anything but
+disappointing. It is surprising that so delightfully endowed a poet
+should have so often missed the music of Virgil's verse as he has
+done in his translation, and the archaisms with which his work
+abounds, though they might be suitable in a translation of Homer,
+are only a source of irritation in the case of Virgil.
+
+For the best metre to use we must look in a different direction.
+Virgil made use of the dactylic hexameter because it was the literary
+tradition of his day that epics should be written in that metre. In
+the same way it might be argued, the English tradition points to blank
+verse as the correct medium. This may be so, but its use demands that
+the translator should be as great a poet as Virgil. Had Tennyson ever
+translated the _Aeneid_, it would doubtless have been as nearly
+faultless as any translation could be, as is shown by the version
+of Sir Theodore Martin, which owes so much of its stately charm to
+its close adherence to the manner of Tennyson. A typical passage is
+the description of Dido's love for Aeneas--
+
+   'Soothsayers, ah! how little do they know!
+    Of what avail are temples, vows, and prayers,
+    To quell a raging passion? All the while
+    A subtle flame is smouldering in her veins,
+    And in her heart a silent aching wound.
+
+       *       *       *       *       *
+
+                             Now Dido leads
+    Aeneas round the ramparts, to him shows
+    The wealth of Sidon, all the town laid out,
+    Begins to speak, then stops, she knows not why.
+    Now, as day wanes, the feast of yesterday
+    She gives again, again with fevered lips
+    Begs for the tale of Troy and all its woes,
+    And hangs upon his lips, who tells the tale.
+    Then, when the guests are gone and in her turn
+    The wan moon pales her light, and waning stars
+    Persuade to sleep, she in her empty halls
+    Mourns all alone, and throws herself along
+    The couch where he had lain: though he be gone
+    Far from her side, she hears and sees him still.'
+
+Of the merits of the present translation the reader will judge for
+himself; but it may perhaps be said of the usual objections urged
+against the Spenserian stanza--that it is cumbrous and monotonous,
+and presents difficulties of construction--that the two former
+criticisms will be just or the reverse, according to the skill of
+the writer, while it is quite possible that the last is really an
+advantage, for the intricate machinery imposes a restraint on
+careless or hasty composition. And finally we must turn a deaf ear,
+even to so high an authority as Matthew Arnold, when he says that
+it is not suited to the grand manner. When he said this he cannot
+have remembered either the lament of Florimell in the _Faerie Queene_
+or the conclusion of _Childe Harold_.
+
+                                              J. P. MAINE.
+
+
+
+
+Edward Fairfax Taylor, whose translation of the _Aeneid_ is now
+published, was descended from the Taylors of Norwich, a family well
+known for their culture and intellectual gifts. He was the only son
+of John Edward Taylor, himself an accomplished German and Italian
+scholar, and the first translator of the _Pentamerone_ into English,
+who lived at Weybridge near his aunt, Mrs. Sarah Austin. Brought up
+among books, young Taylor early showed an intense love for classical
+literature, and soon after going to Marlborough he began the present
+translation as a boy of sixteen. His admiration for Spenser led him
+to adopt the Spenserian stanza, and in the preface to his translation
+of the first two books he gives detailed reasons for considering it
+peculiarly well adapted for the _Aeneid_. He was a favourite pupil
+of the late Dr. Bradley, Dean of Westminster, at that time headmaster
+of Marlborough, and who much wished that he should follow in the
+footsteps of 'that brilliant band of Marlborough men,' as they have
+been called, who at that time, year after year, gained the Balliol
+scholarship. But circumstances made him decide otherwise, and in
+1865 he passed the necessary examination for a clerkship in the House
+of Lords. The long vacations gave him time to continue this labour
+of love, and in the intervals of much other literary work, and in
+spite of ill health, he completed the translation of the twelve books
+of the _Aeneid_. He looked forward to re-editing it and bringing it
+out when he should have retired from his work in the House of Lords,
+but this day never came, and he died from heart disease in January
+1902. His was a singularly charming disposition, and he was beloved
+by all who knew him; while the courage and patience with which he
+bore ever-increasing suffering, and the stoicism he showed in
+fulfilling his duties in the House of Lords, have left a deep
+impression on all his friends.
+
+                                                    L. M.
+
+
+
+
+The _Edisso Princeps_, of Virgil is that printed at Rome by Sweynham
+and Pannartz. It was not dated, but it is almost certain that it was
+printed before the Venice folio edition of V. de Spira, which was
+issued in 1470. The best modern critical editions of the text are
+those of Ribbeck (4 vols. 1895) and F. A. Hirtzel (_Scriptorum
+Classicorum Bibliotheca Oxoniensis_, 1900). Of the editions
+containing explanatory notes, that of Conington and Nettleship,
+revised by Haverfield, is the standard English commentary. That of
+A. Sidgwick (2 vols. Cambridge) is more elementary, but will be found
+valuable. Those of Kennedy (London, 1879) and of Papillon and Haigh
+(Oxford, 2 vols. 1890-91) may also be referred to.
+
+Virgil was first introduced to English readers by William Caxton in
+1490. But his _Eneydos_ was based, not on the _Aeneid_ itself, but
+on a French paraphrase, the _liure des eneydes_, printed at Lyons
+in 1483.
+
+The best modern prose translations are those of Mackail (London,
+1885) and Conington (London, 1870).
+
+The following is a list of the more important verse translations of
+the _Aeneid_ which have appeared. The name of the translator, and
+the date at which his translation appeared, are given:--Gawin
+Douglas, 1553 (see Introduction, p. xi); Henry, Earl of Surrey, 1557
+(Books II. and IV. only); J. Dryden, 1697; C. R. Kennedy, 1861; J.
+Conington, 1866; W. Morris, 1876; W. J. Thornhill, 1886; Sir Charles
+Bowen, 1887 (Books I.-VI. only); J. Rhoades, 1893 (Books I.-VI.
+only); Sir Theodore Martin, 1896 (Books I.-VI. only); T. H. D. May,
+1903; E. Fairfax Taylor, 1903.
+
+Students of Virgil would also do well to consult Sellar, _Poets of
+the Augustan Age_ (Oxford, 1883), and Nettleship, _Introduction to
+the Study of Vergil_.
+
+
+
+
+THE AENEID OF VIRGIL
+
+
+
+
+BOOK ONE
+
+
+ARGUMENT
+
+Fate sends AEneas to Latium to found Rome, but Juno's hostility long
+delays his success (1-45). Descrying him and his Trojans in sight
+of Italy, she bribes AEolus to raise a storm for their destruction
+(46-99). The tempest (100-116). The despair of AEneas (117-126). One
+Trojan ship is already lost, when Neptune learns the plot and lays
+the storm (127-189). AEneas escapes, lands in Libya, and heartens
+his men (190-261). Venus appeals to Jupiter, who comforts her with
+assurance that AEneas shall yet be great in Italy. His son shall found
+Alba and his son's sons Rome. Juno shall eventually relent, and Rome
+under Augustus shall be empress of the world (262-351). Mercury is
+sent to secure from Dido, Queen of Libya, a welcome for AEneas. AEneas
+and Achates, while reconnoitring, meet Venus in the forest disguised
+as a nymph. She tells them Dido's story. AEneas in reply bewails his
+own troubles, but is interrupted with promises of success. Let him
+but persist, all will be well (352-478). Venus changes before their
+eyes from nymph to goddess, and vanishes before AEneas can utter his
+reproaches. Hidden in a magic mist, the pair approach Carthage, which
+they find still building. They reach the citadel unobserved, and are
+encouraged on seeing pictures of scenes from the Trojan war (479-576).
+Dido appears and takes her state. To her enter, as suppliants, Trojan
+leaders, whom AEneas had imagined dead. Ilioneus, their spokesman,
+tells the story of the storm and asks help. "If only AEneas were
+here!" (577-661). Dido speaks him fair and echoes his words, "If
+AEneas were here!" The mist scatters. AEneas appears; thanks Dido,
+and greets Ilioneus (662-723). Dido welcomes AEneas to Carthage and
+prepares a festival in his honour. AEneas sends Achates to summon
+his son and bring gifts for Dido (724-774). Cupid, persuaded by Venus
+to personate Ascanius and inspire Dido with love for AEneas, comes
+with the gifts to Dido's palace, while Ascanius is carried away to
+Idalia. The night is passed in feasting. After the feast Iopas sings
+the wonders of the firmament, and Dido, bewitched by Cupid, begs
+AEneas to tell the whole story of his adventures (775-891).
+
+
+I.  Of arms I sing, and of the man, whom Fate
+    First drove from Troy to the Lavinian shore.
+    Full many an evil, through the mindful hate
+    Of cruel Juno, from the gods he bore,
+    Much tost on earth and ocean, yea, and more
+    In war enduring, ere he built a home,
+    And his loved household-deities brought o'er
+    To Latium, whence the Latin people come,
+Whence rose the Alban sires, and walls of lofty Rome.
+
+II. O Muse, assist me and inspire my song,
+    The various causes and the crimes relate,
+    For what affronted majesty, what wrong
+    To injured Godhead, what offence so great
+    Heaven's Queen resenting, with remorseless hate,
+    Could one renowned for piety compel
+    To brave such troubles, and endure the weight
+    Of toils so many and so huge. O tell
+How can in heavenly minds such fierce resentment dwell?
+
+III. There stood a city, fronting far away
+    The mouths of Tiber and Italia's shore,
+    A Tyrian settlement of olden day,
+    Rich in all wealth, and trained to war's rough lore,
+    Carthage the name, by Juno loved before
+    All places, even Samos. Here were shown
+    Her arms, and here her chariot; evermore
+    E'en then this land she cherished as her own,
+And here, should Fate permit, had planned a world-wide throne.
+
+IV. But she had heard, how men of Trojan seed
+    Those Tyrian towers should level, how again
+    From these in time a nation should proceed,
+    Wide-ruling, tyrannous in war, the bane
+    (So Fate was working) of the Libyan reign.
+    This feared she, mindful of the war beside
+    Waged for her Argives on the Trojan plain;
+    Nor even yet had from her memory died
+The causes of her wrath, the pangs of wounded pride,--

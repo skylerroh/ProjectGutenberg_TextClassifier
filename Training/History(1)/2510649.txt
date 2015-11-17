@@ -1,0 +1,370 @@
+hundreds of thousands of dynamos that are to-day in all parts of the
+world engaged in converting millions of horse-power of mechanical energy
+into electric energy, he would appreciate how marvellously his
+successors have "exalted the force" of some of the effects he had so
+ably shown the world how to obtain.
+
+Faraday lived to see his infant dynamo, the first of its kind, developed
+into a machine not only sufficiently powerful to maintain electric arc
+lights, but also into a form sufficiently practicable to be continuously
+engaged in producing such light, in one of the lighthouses on the
+English coast. Holmes produced such a machine in 1862, or some years
+before Faraday's death. It was installed under the care of the Trinity
+House, at the Dungeness Lighthouse, in June, 1862, and continued in use
+for about ten years. When this machine was shown to Faraday by its
+inventor, the veteran philosopher remarked, "I gave you a baby, and you
+bring me a giant."
+
+The alternating-current transformer is another gift of Faraday to the
+commercial world. As is well known, this instrument is a device for
+raising or lowering electric pressure. The name is derived from the fact
+that the instrument is capable of taking in at one pressure the electric
+energy supplied to it, and giving it out at another pressure, thus
+transforming it. Faraday produced the first transformer during his
+investigations on voltaic-current induction. The modern
+alternating-current transformer, though differing markedly in minor
+details from Faraday's primitive instrument, yet in general details is
+essentially identical with it. The enormous use of both step-up and
+step-down transformers--transformers which respectively induce currents
+of higher and of lower electromotive forces in their secondary coils
+than are passed through their primaries--shows the great practical value
+of this invention. The wonderful growth of the commercial applications
+of alternating currents during the past few decades would have been
+impossible without the use of the alternating-current transformer.
+
+It is an interesting fact that it was not in the form of the step-down
+alternating-current transformer that Faraday's discovery of
+voltaic-current induction was first utilized, but in the form of a
+step-up transformer, or what was then ordinarily called an induction
+coil. As early as 1842, Masson and Breguet constructed an induction
+coil by means of which minute sparks could be obtained from the
+secondary, in vacuo. In 1851, Ruhmkorff constructed an induction coil so
+greatly improved, by the careful insulation of its secondary circuit,
+that he could obtain from it torrents of long sparks in ordinary air.
+The Ruhmkorff induction coil has in late years been greatly improved
+both by Tesla and Elihu Thomson, who, separately and independently of
+each other, have produced excellent forms of high-frequency
+induction coils.
+
+Induction coils have long been in use for purposes of research, and in
+later years have been employed in the production both of the Roentgen
+rays used in the photography of the invisible, and the electro-magnetic
+waves used in wireless telegraphy.
+
+Roentgen's discovery was published in 1895. It was rendered possible by
+the prior work of Geissler and Crookes on the luminous phenomena
+produced by the passage of electric discharges through high vacua in
+glass tubes. Roentgen discovered that the invisible rays, or radiation,
+emitted from certain parts of a high-vacuum tube, when high-tension
+discharges from induction coils were passing, possessed the curious
+property of traversing certain opaque substances as readily as light
+does glass or water. He also discovered that these rays were capable of
+exciting fluorescence in some substances,--that is, of causing them to
+emit light and become luminous,--and that these rays, like the rays of
+light, were capable of affecting a photographic plate. From these
+properties two curious possibilities arose; namely, to see through
+opaque bodies, and to photograph the invisible. Roentgen called these
+rays X, or unknown rays. They are now almost invariably called by the
+name of their distinguished discoverer.
+
+Let us briefly investigate how it is possible both to see and to
+photograph the invisible. Shortly after Roentgen's discovery, Edison,
+with that wonderful power of finding practical applications for nearly
+all discoveries, had invented the fluoroscope,--a screen covered with a
+peculiar chemical substance that becomes luminous when exposed to the
+Roentgen rays. Suppose, now, between the rays and such a screen be
+interposed a substance opaque to ordinary light, as, for example, the
+human hand. The tissues of the hand, such as the flesh and the blood,
+permit the rays to readily pass through them, but the bones are opaque
+to the rays, and, therefore, oppose their passage; consequently, the
+screen; instead of being uniformly illumined, will show shadows of the
+bones, so that, to an eye examining the screen, it will seem as though
+it were looking through the flesh and blood directly at the bones. In a
+similar manner, if a photographic plate be employed instead of the
+screen, a distinct photographic picture will be obtained.
+
+Both the fluoroscope and the photographic camera have proved an
+invaluable aid to the surgeon, who can now look directly through the
+human body and examine its internal organs, and so be able to locate
+such foreign bodies as bullets and needles in its various parts, or make
+correct diagnoses of fractures or dislocations of the bones, or even
+examine the action of such organs as the liver and heart.
+
+About 1886, Hertz discovered that if a small Leyden jar is discharged
+through a short and simple circuit, provided with a spark-gap of
+suitable length, a series of electro-magnetic waves are set up, which,
+moving through space in all directions, are capable of exciting in a
+similar circuit effects that can be readily recognized, although the two
+circuits are at fairly considerable distances apart. Here we have a
+simple basic experiment in wireless telegraphy, which, briefly
+considered, consists of means whereby oscillations or waves, set up in
+free space by means of disruptive discharges, are caused to traverse
+space and produce various effects in suitably constructed receptive
+devices that are operated by the waves as they impinge on them.
+
+At first a doubt was expressed by eminent scientific men as to the
+practicability of successfully transmitting wireless messages through
+long distances, since these waves, travelling in all directions, would
+soon become too attenuated to produce intelligible signals; but when it
+was shown, from theoretical considerations, that these waves when
+traversing great distances are practically confined to the space between
+the earth's surface and the upper rarified strata of the atmosphere, the
+possibility of long-distance wireless telegraphic transmission was
+recognized. To increase the distance, it was only necessary either to
+increase the energy of the waves at the transmitting station, or to
+increase the delicacy of the receiving instruments, or both.
+
+It has been but a short time since both the scientific and the financial
+worlds were astounded by the actual transmission of intelligible
+wireless signals across the Atlantic, and the name of Marconi will go
+down to posterity as the one who first accomplished this great feat.
+
+The principal limit to the distance of transmission lies in the delicacy
+of the receiving instruments. The most sensitive are those in which a
+telephone receiver forms a part of the receiving apparatus. The almost
+incredibly small amount of electric energy required to produce
+intelligible speech in an ordinary Bell telephone receiver nearly passes
+belief. The work done in lifting such an instrument from its hook to the
+ear of the listener, would, if converted into electric energy, be
+sufficient to maintain an audible sound in a telephone for 240,000
+years! Even extremely attenuated waves may therefore produce audible
+signals in such a receiver.
+
+The electric motor was another gift of Faraday to commercial science,
+although in this case there are others who can, perhaps, justly claim to
+share the honor with him. Faraday's early electric motor consisted
+essentially in a device whereby a movable conductor, suspended so as to
+be capable of rotation around a magnet pole, was caused to rotate by the
+mutual interaction of the magnetic fields of the active conductor and
+the magnet. The magnet, which consisted of a bar of hardened steel, was
+fixed in a cork stopper, which completely closed the end of an upright
+glass tube. A small quantity of mercury was placed in the lower end of
+the tube, so as to form a liquid contact for the lower end of a movable
+wire, suspended so as to be capable of rotating at its lower extremity
+about the axis of the tube. On the passage of an electric current
+through the wire, a continuous rotary motion was produced in it, the
+direction of which depends both on the direction of the current, and on
+the polarity of the end of the magnet around which the rotation occurs.
+
+The great value of the electric motor to the world is too evident to
+need any proof. The number of purposes for which electric motors are now
+employed is so great that the actual number of motors in daily use is
+almost incredible, and every year sees this number rapidly increasing.
+
+The above are the more important machines or devices that have been
+directly derived from Faraday's great investigation as to the production
+of electricity from magnetism. Let us now inquire briefly as to what
+useful processes or industries have been rendered possible by the
+existence of these machines.
+
+Apparently one of the most marked requirements of our twentieth-century
+civilization is that man shall be readily able to extend the day far
+into the night. He can no longer go to sleep when the sun sets, and keep
+abreast with his competitors. Of all artificial illuminants yet
+employed, the arc and the incandescent electric lights are
+unquestionably the best, whether from a sanitary, aesthetic, or truest
+economical standpoint. Now, while it is a well-known matter of record
+that both arc and incandescent lights were invented long before
+Faraday's time, yet it was not until a source of electricity was
+invented, superior both in economy and convenience to the voltaic
+battery, that either of these lights became commercial possibilities.
+Such an electric source was given to the world by Faraday through his
+invention of the dynamo-electric machine, and it was not until this
+machine was sufficiently developed and improved that commercial electric
+lighting became possible. The energy of burning coal, through the
+steam-engine, working the dynamo, is far cheaper and more efficient for
+producing electricity than the consumption of metals through the
+voltaic pile.
+
+It is characteristic of the modesty of Faraday that when, in
+after-life, he heard inventors speaking of their electric lights, he
+refrained from claiming the electric light as his own, although, without
+the machine he taught the world how to construct, commercial lighting
+would have been an impossibility.
+
+The marvellous activity in the electric arts and sciences, which
+followed as a natural result of Faraday giving to the world in the
+dynamo-electric machine a cheap electric source, naturally leads to the
+inquiry as to whether at a somewhat later day a yet greater revolution
+may not follow the production of a still cheaper electric source. In
+point of fact such a discovery is by no means an impossibility. When a
+dynamo-electric machine is caused to produce an electric current by the
+intervention of a steam-engine, the transformation of energy which takes
+place from the energy of the coal to electric energy is an extremely
+wasteful one. Could some practical method be discovered by means of
+which the burning of coal liberates electric energy, instead of heat
+energy, an electric source would be discovered that would far exceed in
+economy the best dynamo in existence. With such a discovery what the
+results would be no one can say; this much is certain, that it would,
+among other things, relegate the steam-engine to the scrap-heap, and
+solve the problem of aerial navigation.
+
+What is justly regarded as one of the greatest achievements of modern
+times is the electrical transmission of power over comparatively great
+distances. At some cheap source of energy, say, at a waterfall, a
+water-wheel is employed to drive a dynamo or generator, thus converting
+mechanical energy into electrical energy. This electricity is passed
+over a conducting line to a distant station, where it is either directly
+utilized for the purpose of lighting, heating, chemical decomposition,
+etc., or indirectly utilized for the purpose of obtaining mechanical
+power for driving machinery, by passing it through an electric motor.
+The electric transmission of power has been successfully made in
+California over a distance of some 220 miles, at a pressure on
+transmission lines of 50,000 volts.
+
+The high pressures required for the economical use of transmission lines
+necessitates the employment of transformers at each end of the line;
+namely, step-up transformers at the transmitting end, to raise the
+voltage delivered by the generators, and step-down transformers, at the
+receiving end, to lower it for use in the various translating devices.
+These transformers are employed in connection with alternating-current
+dynamos. Faraday not only gave to the world the first electric
+generator, but also the first transformer, and one of the first electric
+motors, and without these gifts the electric transmission of power over
+long distances, which has justly been regarded as one of the most
+marvellous achievements of our age, would have been an impossibility.
+
+In high-tension circuits over which such pressures as 50,000 volts is
+transmitted, no little difficulty is experienced from leakage and
+consequent loss of energy. This leakage occurs both between the line
+conductors and at the insulators placed on the pole lines forming the
+line circuit. The insulators are made either of glass or porcelain, and
+are of a peculiar form known as triple petticoat pattern. The loss on
+such lines, due to leakage between wires, is greater than that which
+takes place at the pole insulators, and is diminished by keeping the
+circuit wires as far apart as possible.
+
+In the early history of the art, electric transmission of power was
+effected by means of direct-current generators and motors,--generators
+and motors through which the current always passed in the same
+direction. Such generators and motors, however, possessed inconveniences
+that prevented extensive commercial transmission of power, since, as we
+have seen, high pressure was necessary for efficiency in such
+transmission, and the collecting-brushes and commutators employed in all
+direct-current generators and motors to carry the current from the
+machine or to the motor, were a constant source of trouble and danger.
+
+When the alternating-current motor first same into general use, it was
+employed, in connection with the alternating-current generator, in
+electric transmission systems; but such motors also possess the
+inconvenience of not readily starting from a state of rest, with their
+full turning power, or torque, and of therefore being unsuitable where
+the motor requires to be frequently stopped or started. Had these
+difficulties remained unsolved, long-distance electric transmission of
+power, so successful in operation to-day, and which bids fair to be
+still more successful in the near future, would have been impossible.
+Fortunately, these difficulties were overcome by the genius of Nikola
+Tesla, in the invention of the multiphase alternating-current motor, or
+the induction motor, as it is now generally called. Although Baily,
+Deprez, and Ferraris had accomplished much before Tesla's time, yet it
+was practically to the investigations and discoveries made by Tesla,
+between 1887 and 1891, that the induction motor of to-day is due.
+
+Another requirement of our twentieth-century civilization is rapid
+transit, either urban or inter-urban, and this is afforded by various
+systems of electric street railways or electric traction generally,
+including electric locomotives and electric automobiles. The wonderful
+growth in this direction which has been witnessed in the last few
+decades would have been impossible without the electric generator and
+motor, both gifts of Faraday to the world. Their application in this
+direction must, therefore, go to swell the debt our civilization owes to
+the labors of this great investigator.
+
+In the system of electric street-car propulsion very generally employed
+to-day, a single trolley wheel is employed for taking the driving
+current from an overhead conductor, suspended above the street. The
+trolley wheel is supported by a trolley pole, and is maintained in good
+electric contact with the trolley wire, or overhead conductor. By this
+means the current passes from the wire down the conductor connected with
+the trolley pole, thence through the motors placed below the body of the
+car, and from them, through the track or ground-return, back to the
+power station. A small portion of the current is employed for lighting
+the electric lamps in the car. In some systems an underground trolley
+is employed.
+
+An important device, called the series-parallel controller, is employed
+in all systems of electric street-car propulsion. It consists of means
+by which the starting and stopping of the car, and changes, both in its
+speed and direction, are placed under the control of the motorman. A
+separate controller is placed on both platforms of the car. The
+series-parallel controller consists essentially of a switch by means of
+which the several motors, that are employed in all street cars, can
+be variously connected with each other, or with different electric
+resistances, or can be successively cut out or introduced into the
+circuit, so that the speed of the car can be regulated at will, as the
+handle of the controller is moved by the motorman to the various notches
+on the top of the controller box. As generally arranged, the speed
+increases from the first notch or starting position to the last notch,
+movements in the opposite direction changing connections in the opposite
+order of succession, and, therefore, slowing the car. There is, however,
+no definite speed corresponding to each notch, for this will vary with
+the load on each car, and with the gradient upon which it may
+be running.
+
+But there is another valuable gift received by the world as a result of
+this great discovery of Faraday; namely, that most marvellous instrument
+of modern times, the speaking telephone. This instrument was invented in
+1861, by Philip Ries, and subsequently independently reinvented in 1876,
+by Elisha Gray and Alexander Graham Bell.
+
+As is well known, it is electric currents and not sound-waves that are
+transmitted over a telephone circuit. The magneto-electric telephone in
+its simplest form consists of a pair of instruments called respectively
+the transmitter and the receiver. We talk into the transmitter and
+listen at the receiver. Both transmitter and receiver consist of a
+permanent magnet of hardened steel around one end of which is placed a
+coil of insulated wire. In front of this coil a diaphragm, or thin
+plate, of soft iron, is so supported as to be capable of freely
+vibrating towards and from the magnet pole.
+
+The operation of the transmitting instrument is readily understood in
+the light of Faraday's discovery. It is simply a dynamo-electric machine
+driven by the voice of the speaker. As the sound-waves from the
+speaker's voice strike against the diaphragm, which has become magnetic
+from its nearness to the magnet pole, electric currents are generated in
+the coil of wire surrounding such pole, since the to-and-fro motions
+cause the lines of electro-magnetic force to pass through the wire on
+the moving coil. The operation of the receiving instrument is also
+readily understood. It acts as an electric motor driven by the
+to-and-fro currents generated by the transmitter. As these currents are
+transmitted over the wire, they pass through the coil of wire on the
+receiving instrument, and reproduce therein the exact movements of the
+transmitting diaphragm, since, as they strengthen or weaken the
+magnetism of the pole, they cause similar motions in the diaphragm
+placed before it. Consequently, one listening at the receiving diaphragm
+will hear all that is uttered into the transmitting diaphragm. It was
+thus, by the combination of the dynamo and motor, both of which were
+given by Faraday to the world, that we have received this priceless
+instrument, which has been so potent in its effects on the civilization
+of the Twentieth century.
+
+The electric telegraph had its beginnings long before Faraday's time. As
+early as 1847, Watson had erected a line some two miles in length,
+extending over the housetops in London, and operated it by means of
+discharges from an ordinary frictional electric machine. In 1774, Lesage
+had erected in Geneva an electric telegraph consisting of a number of
+metallic wires, one for each letter of the alphabet. These wires were
+carefully insulated from each other. When a message was to be sent over
+this early telegraphic line an electric discharge was passed through the
+particular wire representing the letter of the alphabet to be sent; this
+discharge, reaching the other end, caused a pithball to be repelled and
+thus laboriously, letter by letter, the message was transmitted. How
+ludicrously cumbersome was such an instrument when contrasted with the
+Morse electro-magnetic telegraph of to-day, which requires but a single
+wire; or with the harmonic telegraph of Gray, which permits the
+simultaneous transmission of eight or more separate messages over a
+single wire; or with the wonderful quadruplex telegraphic system of
+Edison which permits the simultaneous transmission of four separate and
+distinct messages over a single wire, two in one direction, and two in
+the opposite direction at the same time; or with the still more
+wonderful multiplex telegraph of Delaney, which is able to
+simultaneously transmit as many as seventy-two separate messages over a
+single wire, thirty-six in one direction and thirty-six in the opposite
+direction. These achievements have been possible only through the
+researches and discoveries of Oersted, Faraday, and hosts of other
+eminent workers; for, it was the electro-magnet, rendered possible by
+Oersted, together with the magnificent discoveries of Faraday, and
+others since his time, that these marvellous advances in
+electro-telegraphic transmission of intelligence have become
+possibilities.
+

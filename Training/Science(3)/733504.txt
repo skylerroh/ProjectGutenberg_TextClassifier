@@ -1,0 +1,322 @@
+Colours are the yellow and orange. These affect the Senses more strongly
+than all the rest together, and next to these in strength are the red
+and green. The blue compared with these is a faint and dark Colour, and
+the indigo and violet are much darker and fainter, so that these
+compared with the stronger Colours are little to be regarded. The Images
+of Objects are therefore to be placed, not in the Focus of the mean
+refrangible Rays, which are in the Confine of green and blue, but in the
+Focus of those Rays which are in the middle of the orange and yellow;
+there where the Colour is most luminous and fulgent, that is in the
+brightest yellow, that yellow which inclines more to orange than to
+green. And by the Refraction of these Rays (whose Sines of Incidence and
+Refraction in Glass are as 17 and 11) the Refraction of Glass and
+Crystal for Optical Uses is to be measured. Let us therefore place the
+Image of the Object in the Focus of these Rays, and all the yellow and
+orange will fall within a Circle, whose Diameter is about the 250th
+Part of the Diameter of the Aperture of the Glass. And if you add the
+brighter half of the red, (that half which is next the orange) and the
+brighter half of the green, (that half which is next the yellow) about
+three fifth Parts of the Light of these two Colours will fall within the
+same Circle, and two fifth Parts will fall without it round about; and
+that which falls without will be spread through almost as much more
+space as that which falls within, and so in the gross be almost three
+times rarer. Of the other half of the red and green, (that is of the
+deep dark red and willow green) about one quarter will fall within this
+Circle, and three quarters without, and that which falls without will be
+spread through about four or five times more space than that which falls
+within; and so in the gross be rarer, and if compared with the whole
+Light within it, will be about 25 times rarer than all that taken in the
+gross; or rather more than 30 or 40 times rarer, because the deep red in
+the end of the Spectrum of Colours made by a Prism is very thin and
+rare, and the willow green is something rarer than the orange and
+yellow. The Light of these Colours therefore being so very much rarer
+than that within the Circle, will scarce affect the Sense, especially
+since the deep red and willow green of this Light, are much darker
+Colours than the rest. And for the same reason the blue and violet being
+much darker Colours than these, and much more rarified, may be
+neglected. For the dense and bright Light of the Circle, will obscure
+the rare and weak Light of these dark Colours round about it, and
+render them almost insensible. The sensible Image of a lucid Point is
+therefore scarce broader than a Circle, whose Diameter is the 250th Part
+of the Diameter of the Aperture of the Object-glass of a good Telescope,
+or not much broader, if you except a faint and dark misty Light round
+about it, which a Spectator will scarce regard. And therefore in a
+Telescope, whose Aperture is four Inches, and Length an hundred Feet, it
+exceeds not 2'' 45''', or 3''. And in a Telescope whose Aperture is two
+Inches, and Length 20 or 30 Feet, it may be 5'' or 6'', and scarce
+above. And this answers well to Experience: For some Astronomers have
+found the Diameters of the fix'd Stars, in Telescopes of between 20 and
+60 Feet in length, to be about 5'' or 6'', or at most 8'' or 10'' in
+diameter. But if the Eye-Glass be tincted faintly with the Smoak of a
+Lamp or Torch, to obscure the Light of the Star, the fainter Light in
+the Circumference of the Star ceases to be visible, and the Star (if the
+Glass be sufficiently soiled with Smoak) appears something more like a
+mathematical Point. And for the same Reason, the enormous Part of the
+Light in the Circumference of every lucid Point ought to be less
+discernible in shorter Telescopes than in longer, because the shorter
+transmit less Light to the Eye.
+
+Now, that the fix'd Stars, by reason of their immense Distance, appear
+like Points, unless so far as their Light is dilated by Refraction, may
+appear from hence; that when the Moon passes over them and eclipses
+them, their Light vanishes, not gradually like that of the Planets, but
+all at once; and in the end of the Eclipse it returns into Sight all at
+once, or certainly in less time than the second of a Minute; the
+Refraction of the Moon's Atmosphere a little protracting the time in
+which the Light of the Star first vanishes, and afterwards returns into
+Sight.
+
+Now, if we suppose the sensible Image of a lucid Point, to be even 250
+times narrower than the Aperture of the Glass; yet this Image would be
+still much greater than if it were only from the spherical Figure of the
+Glass. For were it not for the different Refrangibility of the Rays, its
+breadth in an 100 Foot Telescope whose aperture is 4 Inches, would be
+but 961/72000000 parts of an Inch, as is manifest by the foregoing
+Computation. And therefore in this case the greatest Errors arising from
+the spherical Figure of the Glass, would be to the greatest sensible
+Errors arising from the different Refrangibility of the Rays as
+961/72000000 to 4/250 at most, that is only as 1 to 1200. And this
+sufficiently shews that it is not the spherical Figures of Glasses, but
+the different Refrangibility of the Rays which hinders the perfection of
+Telescopes.
+
+There is another Argument by which it may appear that the different
+Refrangibility of Rays, is the true cause of the imperfection of
+Telescopes. For the Errors of the Rays arising from the spherical
+Figures of Object-glasses, are as the Cubes of the Apertures of the
+Object Glasses; and thence to make Telescopes of various Lengths magnify
+with equal distinctness, the Apertures of the Object-glasses, and the
+Charges or magnifying Powers ought to be as the Cubes of the square
+Roots of their lengths; which doth not answer to Experience. But the
+Errors of the Rays arising from the different Refrangibility, are as the
+Apertures of the Object-glasses; and thence to make Telescopes of
+various lengths, magnify with equal distinctness, their Apertures and
+Charges ought to be as the square Roots of their lengths; and this
+answers to Experience, as is well known. For Instance, a Telescope of 64
+Feet in length, with an Aperture of 2-2/3 Inches, magnifies about 120
+times, with as much distinctness as one of a Foot in length, with 1/3 of
+an Inch aperture, magnifies 15 times.
+
+[Illustration: FIG. 28.]
+
+Now were it not for this different Refrangibility of Rays, Telescopes
+might be brought to a greater perfection than we have yet describ'd, by
+composing the Object-glass of two Glasses with Water between them. Let
+ADFC [in _Fig._ 28.] represent the Object-glass composed of two Glasses
+ABED and BEFC, alike convex on the outsides AGD and CHF, and alike
+concave on the insides BME, BNE, with Water in the concavity BMEN. Let
+the Sine of Incidence out of Glass into Air be as I to R, and out of
+Water into Air, as K to R, and by consequence out of Glass into Water,
+as I to K: and let the Diameter of the Sphere to which the convex sides
+AGD and CHF are ground be D, and the Diameter of the Sphere to which the
+concave sides BME and BNE, are ground be to D, as the Cube Root of
+KK--KI to the Cube Root of RK--RI: and the Refractions on the concave
+sides of the Glasses, will very much correct the Errors of the
+Refractions on the convex sides, so far as they arise from the
+sphericalness of the Figure. And by this means might Telescopes be
+brought to sufficient perfection, were it not for the different
+Refrangibility of several sorts of Rays. But by reason of this different
+Refrangibility, I do not yet see any other means of improving Telescopes
+by Refractions alone, than that of increasing their lengths, for which
+end the late Contrivance of _Hugenius_ seems well accommodated. For very
+long Tubes are cumbersome, and scarce to be readily managed, and by
+reason of their length are very apt to bend, and shake by bending, so as
+to cause a continual trembling in the Objects, whereby it becomes
+difficult to see them distinctly: whereas by his Contrivance the Glasses
+are readily manageable, and the Object-glass being fix'd upon a strong
+upright Pole becomes more steady.
+
+Seeing therefore the Improvement of Telescopes of given lengths by
+Refractions is desperate; I contrived heretofore a Perspective by
+Reflexion, using instead of an Object-glass a concave Metal. The
+diameter of the Sphere to which the Metal was ground concave was about
+25 _English_ Inches, and by consequence the length of the Instrument
+about six Inches and a quarter. The Eye-glass was Plano-convex, and the
+diameter of the Sphere to which the convex side was ground was about 1/5
+of an Inch, or a little less, and by consequence it magnified between 30
+and 40 times. By another way of measuring I found that it magnified
+about 35 times. The concave Metal bore an Aperture of an Inch and a
+third part; but the Aperture was limited not by an opake Circle,
+covering the Limb of the Metal round about, but by an opake Circle
+placed between the Eyeglass and the Eye, and perforated in the middle
+with a little round hole for the Rays to pass through to the Eye. For
+this Circle by being placed here, stopp'd much of the erroneous Light,
+which otherwise would have disturbed the Vision. By comparing it with a
+pretty good Perspective of four Feet in length, made with a concave
+Eye-glass, I could read at a greater distance with my own Instrument
+than with the Glass. Yet Objects appeared much darker in it than in the
+Glass, and that partly because more Light was lost by Reflexion in the
+Metal, than by Refraction in the Glass, and partly because my Instrument
+was overcharged. Had it magnified but 30 or 25 times, it would have made
+the Object appear more brisk and pleasant. Two of these I made about 16
+Years ago, and have one of them still by me, by which I can prove the
+truth of what I write. Yet it is not so good as at the first. For the
+concave has been divers times tarnished and cleared again, by rubbing
+it with very soft Leather. When I made these an Artist in _London_
+undertook to imitate it; but using another way of polishing them than I
+did, he fell much short of what I had attained to, as I afterwards
+understood by discoursing the Under-workman he had employed. The Polish
+I used was in this manner. I had two round Copper Plates, each six
+Inches in Diameter, the one convex, the other concave, ground very true
+to one another. On the convex I ground the Object-Metal or Concave which
+was to be polish'd, 'till it had taken the Figure of the Convex and was
+ready for a Polish. Then I pitched over the convex very thinly, by
+dropping melted Pitch upon it, and warming it to keep the Pitch soft,
+whilst I ground it with the concave Copper wetted to make it spread
+eavenly all over the convex. Thus by working it well I made it as thin
+as a Groat, and after the convex was cold I ground it again to give it
+as true a Figure as I could. Then I took Putty which I had made very
+fine by washing it from all its grosser Particles, and laying a little
+of this upon the Pitch, I ground it upon the Pitch with the concave
+Copper, till it had done making a Noise; and then upon the Pitch I
+ground the Object-Metal with a brisk motion, for about two or three
+Minutes of time, leaning hard upon it. Then I put fresh Putty upon the
+Pitch, and ground it again till it had done making a noise, and
+afterwards ground the Object-Metal upon it as before. And this Work I
+repeated till the Metal was polished, grinding it the last time with all
+my strength for a good while together, and frequently breathing upon
+the Pitch, to keep it moist without laying on any more fresh Putty. The
+Object-Metal was two Inches broad, and about one third part of an Inch
+thick, to keep it from bending. I had two of these Metals, and when I
+had polished them both, I tried which was best, and ground the other
+again, to see if I could make it better than that which I kept. And thus
+by many Trials I learn'd the way of polishing, till I made those two
+reflecting Perspectives I spake of above. For this Art of polishing will
+be better learn'd by repeated Practice than by my Description. Before I
+ground the Object-Metal on the Pitch, I always ground the Putty on it
+with the concave Copper, till it had done making a noise, because if the
+Particles of the Putty were not by this means made to stick fast in the
+Pitch, they would by rolling up and down grate and fret the Object-Metal
+and fill it full of little holes.
+
+But because Metal is more difficult to polish than Glass, and is
+afterwards very apt to be spoiled by tarnishing, and reflects not so
+much Light as Glass quick-silver'd over does: I would propound to use
+instead of the Metal, a Glass ground concave on the foreside, and as
+much convex on the backside, and quick-silver'd over on the convex side.
+The Glass must be every where of the same thickness exactly. Otherwise
+it will make Objects look colour'd and indistinct. By such a Glass I
+tried about five or six Years ago to make a reflecting Telescope of four
+Feet in length to magnify about 150 times, and I satisfied my self that
+there wants nothing but a good Artist to bring the Design to
+perfection. For the Glass being wrought by one of our _London_ Artists
+after such a manner as they grind Glasses for Telescopes, though it
+seemed as well wrought as the Object-glasses use to be, yet when it was
+quick-silver'd, the Reflexion discovered innumerable Inequalities all
+over the Glass. And by reason of these Inequalities, Objects appeared
+indistinct in this Instrument. For the Errors of reflected Rays caused
+by any Inequality of the Glass, are about six times greater than the
+Errors of refracted Rays caused by the like Inequalities. Yet by this
+Experiment I satisfied my self that the Reflexion on the concave side of
+the Glass, which I feared would disturb the Vision, did no sensible
+prejudice to it, and by consequence that nothing is wanting to perfect
+these Telescopes, but good Workmen who can grind and polish Glasses
+truly spherical. An Object-glass of a fourteen Foot Telescope, made by
+an Artificer at _London_, I once mended considerably, by grinding it on
+Pitch with Putty, and leaning very easily on it in the grinding, lest
+the Putty should scratch it. Whether this way may not do well enough for
+polishing these reflecting Glasses, I have not yet tried. But he that
+shall try either this or any other way of polishing which he may think
+better, may do well to make his Glasses ready for polishing, by grinding
+them without that Violence, wherewith our _London_ Workmen press their
+Glasses in grinding. For by such violent pressure, Glasses are apt to
+bend a little in the grinding, and such bending will certainly spoil
+their Figure. To recommend therefore the consideration of these
+reflecting Glasses to such Artists as are curious in figuring Glasses, I
+shall describe this optical Instrument in the following Proposition.
+
+
+_PROP._ VIII. PROB. II.
+
+_To shorten Telescopes._
+
+Let ABCD [in _Fig._ 29.] represent a Glass spherically concave on the
+foreside AB, and as much convex on the backside CD, so that it be every
+where of an equal thickness. Let it not be thicker on one side than on
+the other, lest it make Objects appear colour'd and indistinct, and let
+it be very truly wrought and quick-silver'd over on the backside; and
+set in the Tube VXYZ which must be very black within. Let EFG represent
+a Prism of Glass or Crystal placed near the other end of the Tube, in
+the middle of it, by means of a handle of Brass or Iron FGK, to the end
+of which made flat it is cemented. Let this Prism be rectangular at E,
+and let the other two Angles at F and G be accurately equal to each
+other, and by consequence equal to half right ones, and let the plane
+sides FE and GE be square, and by consequence the third side FG a
+rectangular Parallelogram, whose length is to its breadth in a
+subduplicate proportion of two to one. Let it be so placed in the Tube,
+that the Axis of the Speculum may pass through the middle of the square
+side EF perpendicularly and by consequence through the middle of the
+side FG at an Angle of 45 Degrees, and let the side EF be turned towards
+the Speculum, and the distance of this Prism from the Speculum be such
+that the Rays of the Light PQ, RS, &c. which are incident upon the
+Speculum in Lines parallel to the Axis thereof, may enter the Prism at
+the side EF, and be reflected by the side FG, and thence go out of it
+through the side GE, to the Point T, which must be the common Focus of
+the Speculum ABDC, and of a Plano-convex Eye-glass H, through which
+those Rays must pass to the Eye. And let the Rays at their coming out of
+the Glass pass through a small round hole, or aperture made in a little
+plate of Lead, Brass, or Silver, wherewith the Glass is to be covered,
+which hole must be no bigger than is necessary for Light enough to pass
+through. For so it will render the Object distinct, the Plate in which
+'tis made intercepting all the erroneous part of the Light which comes
+from the verges of the Speculum AB. Such an Instrument well made, if it
+be six Foot long, (reckoning the length from the Speculum to the Prism,
+and thence to the Focus T) will bear an aperture of six Inches at the
+Speculum, and magnify between two and three hundred times. But the hole
+H here limits the aperture with more advantage, than if the aperture was
+placed at the Speculum. If the Instrument be made longer or shorter, the
+aperture must be in proportion as the Cube of the square-square Root of
+the length, and the magnifying as the aperture. But it's convenient that
+the Speculum be an Inch or two broader than the aperture at the least,
+and that the Glass of the Speculum be thick, that it bend not in the
+working. The Prism EFG must be no bigger than is necessary, and its back
+side FG must not be quick-silver'd over. For without quicksilver it will
+reflect all the Light incident on it from the Speculum.
+
+[Illustration: FIG. 29.]
+
+In this Instrument the Object will be inverted, but may be erected by
+making the square sides FF and EG of the Prism EFG not plane but
+spherically convex, that the Rays may cross as well before they come at
+it as afterwards between it and the Eye-glass. If it be desired that the
+Instrument bear a larger aperture, that may be also done by composing
+the Speculum of two Glasses with Water between them.
+
+If the Theory of making Telescopes could at length be fully brought into
+Practice, yet there would be certain Bounds beyond which Telescopes
+could not perform. For the Air through which we look upon the Stars, is
+in a perpetual Tremor; as may be seen by the tremulous Motion of Shadows
+cast from high Towers, and by the twinkling of the fix'd Stars. But
+these Stars do not twinkle when viewed through Telescopes which have
+large apertures. For the Rays of Light which pass through divers parts
+of the aperture, tremble each of them apart, and by means of their
+various and sometimes contrary Tremors, fall at one and the same time
+upon different points in the bottom of the Eye, and their trembling
+Motions are too quick and confused to be perceived severally. And all
+these illuminated Points constitute one broad lucid Point, composed of
+those many trembling Points confusedly and insensibly mixed with one
+another by very short and swift Tremors, and thereby cause the Star to
+appear broader than it is, and without any trembling of the whole. Long
+Telescopes may cause Objects to appear brighter and larger than short
+ones can do, but they cannot be so formed as to take away that confusion
+of the Rays which arises from the Tremors of the Atmosphere. The only
+Remedy is a most serene and quiet Air, such as may perhaps be found on
+the tops of the highest Mountains above the grosser Clouds.
+
+FOOTNOTES:
+
+[C] _See our_ Author's Lectiones Opticae Sec. 10. _Sect. II. Sec. 29. and Sect.
+III. Prop. 25._
+
+[D] See our Author's _Lectiones Opticae_, Part. I. Sect. 1. Sec.5.
+
+[E] _This is very fully treated of in our_ Author's Lect. Optic. _Part_
+I. _Sect._ II.
+
+[F] _See our_ Author's Lect. Optic. Part I. Sect. II. Sec. 29.
+
+[G] _This is demonstrated in our_ Author's Lect. Optic. _Part_ I.
+_Sect._ IV. _Prop._ 37.
+
+[H] _How to do this, is shewn in our_ Author's Lect. Optic. _Part_ I.
+_Sect._ IV. _Prop._ 31.

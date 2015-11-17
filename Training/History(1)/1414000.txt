@@ -1,0 +1,374 @@
+exhibit the two bright lines of sodium, which, however, gradually
+disappear as the modicum of sodium, contained as an impurity in the
+incandescent lime, is exhausted. Kirchhoff formed a spectrum of the
+limelight, and after the two bright lines had vanished, he placed his
+salt flame in front of the slit. The two dark lines immediately
+started forth. Thus, in the continuous spectrum of the lime-light, he
+evoked, artificially, the lines D of Fraunhofer.
+
+Kirchhoff knew that this was an action not peculiar to the sodium
+flame, and he immediately extended his generalisation to all coloured
+flames which yield sharply defined bright bands in their spectra.
+White light, with all its constituents complete, sent through such
+flames, would, he inferred, have those precise constituents absorbed,
+whose refrangibilities are the same as those of the bright bands; so
+that after passing through such flames, the white light, if
+sufficiently intense, would have its spectrum furrowed by bands of
+darkness. On the occasion here referred to Kirchhoff also succeeded in
+reversing a bright band of lithium.
+
+The long-standing difficulty of Fraunhofer's lines fell to pieces in
+the presence of facts and reflections like these, which also carried
+with them an immeasurable extension of the chemist's power. Kirchhoff
+saw that from the agreement of the lines in the spectra of terrestrial
+substances with Fraunhofer's lines, the presence of these substances
+in the sun and fixed stars might be immediately inferred. Thus the
+dark lines D in the solar spectrum proved the existence of sodium in
+the solar atmosphere; while the bright lines discovered by Brewster in
+a nitre flame, which had been proved to coincide exactly with certain
+dark lines between A and B in the solar spectrum, proved the existence
+of potassium in the sun.
+
+All subsequent research verified the accuracy of these first daring
+conclusions. In his second paper, communicated to the Berlin Academy
+before the close of 1859, Kirchhoff proved the existence of iron in
+the sun. The bright lines of the spectrum of iron vapour are
+exceedingly numerous, and 65 of them were subsequently proved by
+Kirchhoff to be absolutely identical in position with 65 dark
+Fraunhofer's lines. Angstroem and Thalen pushed the coincidences to 450
+for iron, while, according to the same excellent investigators, the
+following numbers express the coincidences, in the case of the
+respective metals to which they are attached:--
+
+Calcium     75
+Barium      11
+Magnesium    4
+Manganese   57
+Titanium   118
+Chromium    18
+Nickel      33
+Cobalt      19
+Hydrogen     4
+Aluminium    2
+Zinc         2
+Copper       7
+
+The probability is overwhelming that all these substances exist in the
+atmosphere of the sun.
+
+Kirchhoff's discovery profoundly modified the conceptions previously
+entertained regarding the constitution of the sun, leading him to
+views which, though they may be modified in detail, will, I believe,
+remain substantially valid to the end of time. The sun, according to
+Kirchhoff, consists of a molten nucleus which is surrounded by a
+flaming atmosphere of lower temperature. The nucleus may, in part, be
+_clouds_, mixed with, or underlying true vapour. The light of the
+nucleus would give us a continuous spectrum, like that of the Drummond
+light; but having to pass through the photosphere, as Kirchhoff's beam
+passed through the sodium flame, those rays of the nucleus which the
+photosphere emit are absorbed, and shaded lines, corresponding to the
+rays absorbed, occur in the spectrum. Abolish the solar nucleus, and
+we should have a spectrum showing a bright line in the place of every
+dark line of Fraunhofer, just as, in the case of Kirchhoff's second
+experiment, we should have the bright sodium lines of the flame if the
+lime-light were withdrawn. These lines of Fraunhofer are therefore not
+absolutely dark, but dark by an amount corresponding to the difference
+between the light intercepted and the light emitted by the
+photosphere.
+
+Almost every great scientific discovery is approached
+contemporaneously by many minds, the fact that one mind usually
+confers upon it the distinctness of demonstration being an
+illustration, not of genius isolated, but of genius in advance. Thus
+Foucault, in 1849, came to the verge of Kirchhoff's discovery. By
+converging an image of the sun upon a voltaic arc, and thus obtaining
+the spectra of both sun and arc superposed, he found that the two
+bright lines which, owing to the presence of a little sodium in the
+carbons or in the air, are seen in the spectrum of the arc, coincide
+with the dark lines D of the solar spectrum. The lines D he found to
+he considerably strengthened by the passage of the solar light through
+the voltaic arc.
+
+Instead of the image of the sun, Foucault then projected upon the arc
+the image of one of the solid incandescent carbon points, which of
+itself would give a continuous spectrum; and he found that the lines D
+were thus _generated_ in that spectrum. Foucault's conclusion from
+this admirable experiment was 'that the arc is a medium which emits
+the rays D on its own account, and at the same time absorbs them when
+they come from another quarter.' Here he stopped. He did not extend
+his observations beyond the voltaic arc; he did not offer any
+explanation of the lines of Fraunhofer; he did not arrive at any
+conception of solar chemistry, or of the constitution of the sun. His
+beautiful experiment remained a germ without fruit, until the
+discernment, ten years subsequently, of the whole class of phenomena
+to which it belongs, enabled Kirchhoff to solve these great problems.
+
+Soon after the publication of Kirchhoff's discovery, Professor Stokes,
+who also, ten years prior to the discovery, had nearly anticipated it,
+borrowed an illustration from sound, to explain the reciprocity of
+radiation and absorption. A stretched string responds to aerial
+vibrations which synchronize with its own. A great number of such
+strings stretched in space would roughly represent a medium; and if
+the note common to them all were sounded at a distance they would take
+up or absorb its vibrations.
+
+When a violin-bow is drawn across this tuning-fork, the room is
+immediately filled with a musical sound, which may be regarded as the
+_radiation_ or _emission_ of sound from the fork. A few days ago, on
+sounding this fork, I noticed that when its vibrations were quenched,
+the sound seemed to be continued, though more feebly. It appeared,
+moreover, to come from under a distant table, where stood a number of
+tuning-forks of different sizes and rates of vibration. One of these,
+and one only, had been started by the sounding fork, and it was the
+one whose rate of vibration was the same as that of the fork which
+started it. This is an instance of the _absorption_ of the sound of
+one fork by another. Placing two unisonant forks near each other,
+sweeping the bow over one of them, and then quenching the agitated
+fork, the other continues to sound; this other can re-excite the
+former, and several transfers of sound between the two forks can be
+thus effected. Placing a cent-piece on each prong of one of the forks,
+we destroy its perfect synchronism with the other, and no such
+communication of sound from the one to the other is then possible.
+
+I have now to bring before you, on a suitable scale, the demonstration
+that we can do with _light_ what has been here done with sound. For
+several days in 1861 I endeavoured to accomplish this, with only
+partial success. In iron dishes a mixture of dilute alcohol and salt
+was placed, and warmed so as to promote vaporization. The vapour was
+ignited, and through the yellow flame thus produced the beam from the
+electric lamp was sent; but a faint darkening only of the yellow band
+of a projected spectrum could be obtained. A trough was then made
+which, when fed with the salt and alcohol, yielded a flame ten feet
+thick; but the result of sending the light through this depth of flame
+was still unsatisfactory. Remembering that the direct combustion of
+sodium in a Bunsen's flame produces a yellow far more intense than
+that of the salt flame, and inferring that the intensity of the colour
+indicated the copiousness of the incandescent vapour, I sent through
+the flame from metallic sodium the beam of the electric lamp. The
+success was complete; and this experiment I wish now to repeat in your
+presence.[25]
+
+Firstly then you notice, when a fragment of sodium is placed in a
+platinum spoon and introduced into a Bunsen's flame, an intensely
+yellow light is produced. It corresponds in refrangibility with the
+yellow band of the spectrum. Like our tuning-fork, it emits waves of a
+special period. When the white light from the electric lamp is sent
+through that flame, you will have ocular proof that the yellow flame
+intercepts the yellow of the spectrum; in other words, that it absorbs
+waves of the same period as its own, thus producing, to all intents
+and purposes, a dark Fraunhofer's band in the place of the yellow.
+
+In front of the slit (at L, fig. 56) through which the beam issues is
+placed a Bunsen's burner (_b_) protected by a chimney (C). This beam,
+after passing through a lens, traverses the prism (P) (in the real
+experiment there was a pair of prisms), is there decomposed, and forms
+a vivid continuous spectrum (S S) upon the screen. Introducing a
+platinum spoon with its pellet of sodium into the Bunsen's flame, the
+pellet first fuses, colours the flame intensely yellow, and at length
+bursts into violent combustion. At the same moment the spectrum is
+furrowed by an intensely dark band (D), two inches wide and two feet
+long. Introducing and withdrawing the sodium flame in rapid
+succession, the sudden appearance and disappearance of the band of
+darkness is shown in a most striking manner. In contrast with the
+adjacent brightness this band appears absolutely black, so vigorous is
+the absorption. The blackness, however, is but relative, for upon the
+dark space falls a portion of the light of the sodium flame.
+
+[Illustration: Fig. 56.]
+
+I have already referred to the experiment of Foucault; but other
+workers also had been engaged on the borders of this subject before it
+was taken up by Bunsen and Kirchhoff. With some modification I have on
+a former occasion used the following words regarding the precursors of
+the discovery of spectrum analysis, and solar chemistry:--'Mr. Talbot
+had observed the bright lines in the spectra of coloured flames, and
+both he and Sir John Herschel pointed out the possibility of making
+prismatic analysis a chemical test of exceeding delicacy, though not
+of entire certainty. More than a quarter of a century ago Dr. Miller
+gave drawings and descriptions of the spectra of various coloured
+flames. Wheatstone, with his accustomed acuteness, analyzed the light
+of the electric spark, and proved that the metals between which the
+spark passed determined the bright bands in its spectrum. In an
+investigation described by Kirchhoff as "classical," Swan had shown
+that 1/2,500,000 of a grain of sodium in a Bunsen's flame could be
+detected by its spectrum. He also proved the constancy of the bright
+lines in the spectra of hydrocarbon flames. Masson published a prize
+essay on the bands of the induction spark; while Van der Willigen, and
+more recently Pluecker, have also given us beautiful drawings of
+spectra obtained from the same source.
+
+'But none of these distinguished men betrayed the least knowledge of
+the connexion between the bright bands of the metals and the dark
+lines of the solar spectrum; nor could spectrum analysis be said to be
+placed upon anything like a safe foundation prior to the researches of
+Bunsen and Kirchhoff. The man who, in a published paper, came nearest
+to the philosophy of the subject was Angstroem. In that paper,
+translated by myself, and published in the "Philosophical Magazine"
+for 1855, he indicates that the rays which a body absorbs are
+precisely those which, when luminous, it can emit. In another place,
+he speaks of one of his spectra giving the general impression of the
+_reversal_ of the solar spectrum. But his memoir, philosophical as it
+is, is distinctly marked by the uncertainty of his time. Foucault,
+Thomson, and Balfour Stewart have all been near the discovery, while,
+as already stated, it was almost hit by the acute but unpublished
+conjecture of Stokes.'
+
+Mentally, as well as physically, every year of the world's age is the
+outgrowth and offspring of all preceding years. Science proves itself
+to be a genuine product of Nature by growing according to this law. We
+have no solution of continuity here. All great discoveries are duly
+prepared for in two ways; first, by other discoveries which form their
+prelude; and, secondly, by the sharpening of the inquiring intellect.
+Thus Ptolemy grew out of Hipparchus, Copernicus out of both, Kepler
+out of all three, and Newton out of all the four. Newton did not rise
+suddenly from the sea-level of the intellect to his amazing elevation.
+At the time that he appeared, the table-land of knowledge was already
+high. He juts, it is true, above the table-land, as a massive peak;
+still he is supported by the plateau, and a great part of his absolute
+height is the height of humanity in his time. It is thus with the
+discoveries of Kirchhoff. Much had been previously accomplished; this
+he mastered, and then by the force of individual genius went beyond
+it. He replaced uncertainty by certainty, vagueness by definiteness,
+confusion by order; and I do not think that Newton has a surer claim
+to the discoveries that have made his name immortal, than Kirchhoff
+has to the credit of gathering up the fragmentary knowledge of his
+time, of vastly extending it, and of infusing into it the life of
+great principles.
+
+With one additional point we will wind up our illustrations of the
+principles of solar chemistry. Owing to the scattering of light by
+matter floating mechanically in the earth's atmosphere, the sun is
+seen not sharply defined, but surrounded by a luminous glare. Now, a
+loud noise will drown a whisper, an intense light will overpower a
+feeble one, and so this circumsolar glare prevents us from seeing many
+striking appearances round the border of the sun. The glare is
+abolished in total eclipses, when the moon comes between the earth and
+the sun, and there are then seen a series of rose-coloured
+protuberances, stretching sometimes tens of thousands of miles beyond
+the dark edge of the moon. They are described by Vassenius in the
+'Philosophical Transactions' for 1733; and were probably observed even
+earlier than this. In 1842 they attracted great attention, and were
+then compared to Alpine snow-peaks reddened by the evening sun. That
+these prominences are flaming gas, and principally hydrogen gas, was
+first proved by M. Janssen during an eclipse observed in India, on the
+18th of August, 1868.
+
+But the prominences may be rendered visible in sunshine; and for a
+reason easily understood. You have seen in these lectures a single
+prism employed to produce a spectrum, and you have seen a pair of
+prisms employed. In the latter case, the dispersed white light, being
+diffused over about twice the area, had all its colours
+proportionately diluted. You have also seen one prism and a pair of
+prisms employed to produce the bands of incandescent vapours; but here
+the light of each band, being absolutely monochromatic, was incapable
+of further dispersion by the second prism, and could not therefore be
+weakened by such dispersion.
+
+Apply these considerations to the circumsolar region. The glare of
+white light round the sun can be dispersed and weakened to any extent,
+by augmenting the number of prisms; while a monochromatic light,
+mixed with this glare, and masked by it, would retain its intensity
+unenfeebled by dispersion. Upon this consideration has been founded a
+method of observation, applied independently by M. Janssen in India
+and by Mr. Lockyer in England, by which the monochromatic bands of the
+prominences are caused to obtain the mastery, and to appear in broad
+daylight. By searching carefully and skilfully round the sun's rim,
+Mr. Lockyer has proved these prominences to be mere local juttings
+from a fiery envelope which entirely clasps the sun, and which he has
+called the _Chromosphere_.
+
+It would lead us far beyond the object of these lectures to dwell upon
+the numerous interesting and important results obtained by Secchi,
+Respighi, Young, and other distinguished men who have worked at the
+chemistry of the sun and its appendages. Nor can I do more at present
+than make a passing reference to the excellent labours of Dr. Huggins
+in connexion with the fixed stars, nebulae, and comets. They, more
+than any others, illustrate the literal truth of the statement, that
+the establishment of spectrum analysis, and the explanation of
+Fraunhofer's lines, carried with them an immeasurable extension of the
+chemist's range. The truly powerful experiments of Professor Dewar are
+daily adding to our knowledge, while the refined researches of Capt.
+Abney and others are opening new fields of inquiry. But my object here
+is to make principles plain, rather than to follow out the details of
+their illustration.
+
+
+SUMMARY AND CONCLUSION.
+
+My desire in these lectures has been to show you, with as little
+breach of continuity as possible, something of the past growth and
+present aspect of a department of science, in which have laboured some
+of the greatest intellects the world has ever seen. I have sought to
+confer upon each experiment a distinct intellectual value, for
+experiments ought to be the representatives and expositors of
+thought--a language addressed to the eye as spoken words are to the
+ear. In association with its context, nothing is more impressive or
+instructive than a fit experiment; but, apart from its context, it
+rather suits the conjurer's purpose of surprise, than the purpose of
+education which ought to be the ruling motive of the scientific man.
+
+And now a brief summary of our work will not be out of place. Our
+present mastery over the laws and phenomena of light has its origin in
+the desire of man to _know_. We have seen the ancients busy with this
+problem, but, like a child who uses his arms aimlessly, for want of
+the necessary muscular training, so these early men speculated vaguely
+and confusedly regarding natural phenomena, not having had the
+discipline needed to give clearness to their insight, and firmness to
+their grasp of principles. They assured themselves of the rectilineal
+propagation of light, and that the angle of incidence was equal to the
+angle of reflection. For more than a thousand years--I might say,
+indeed, for more than fifteen hundred years--the scientific intellect
+appears as if smitten with paralysis, the fact being that, during this
+time, the mental force, which might have run in the direction of
+science, was diverted into other directions.
+
+The course of investigation, as regards light, was resumed in 1100 by
+an Arabian philosopher named Alhazen. Then it was taken up in
+succession by Roger Bacon, Vitellio, and Kepler. These men, though
+failing to detect the principles which ruled the facts, kept the fire
+of investigation constantly burning. Then came the fundamental
+discovery of Snell, that cornerstone of optics, as I have already
+called it, and immediately afterwards we have the application, by
+Descartes, of Snell's discovery to the explanation of the rainbow.
+Following this we have the overthrow, by Roemer, of the notion of
+Descartes, that light was transmitted instantaneously through space.
+Then came Newton's crowning experiments on the analysis and synthesis
+of white light, by which it was proved to be compounded of various
+kinds of light of different degrees of refrangibility.
+
+Up to his demonstration of the composition of white light, Newton had
+been everywhere triumphant--triumphant in the heavens, triumphant on
+the earth, and his subsequent experimental work is, for the most part,
+of immortal value. But infallibility is not an attribute of man, and,
+soon after his discovery of the nature of white light, Newton proved
+himself human. He supposed that refraction and chromatic dispersion
+went hand in hand, and that you could not abolish the one without at
+the same time abolishing the other. Here Dollond corrected him.
+
+But Newton committed a graver error than this. Science, as I sought to
+make clear to you in our second lecture, is only in part a thing of
+the senses. The roots of phenomena are embedded in a region beyond the
+reach of the senses, and less than the root of the matter will never
+satisfy the scientific mind. We find, accordingly, in this career of
+optics the greatest minds constantly yearning to break the bounds of
+the senses, and to trace phenomena to their subsensible foundation.
+Thus impelled, they entered the region of theory, and here Newton,
+though drawn from time to time towards truth, was drawn still more
+strongly towards error; and he made error his substantial choice. His
+experiments are imperishable, but his theory has passed away. For a
+century it stood like a dam across the course of discovery; but, as
+with all barriers that rest upon authority, and not upon truth, the
+pressure from behind increased, and eventually swept the barrier away.
+
+In 1808 Malus, looking through Iceland spar at the sun, reflected from
+the window of the Luxembourg Palace in Paris, discovered the
+polarization of light by reflection. As stated at the time, this
+discovery ushered in the darkest hour in the fortunes of the wave
+theory. But the darkness did not continue. In 1811 Arago discovered
+the splendid chromatic phenomena which we have had illustrated by the
+deportment of plates of gypsum in polarized light; he also discovered
+the rotation of the plane of polarization by quartz-crystals. In 1813
+Seebeck discovered the polarization of light by tourmaline. That same
+year Brewster discovered those magnificent bands of colour that
+surround the axes of biaxal crystals. In 1814 Wollaston discovered the
+rings of Iceland spar. All these effects, which, without a theoretic

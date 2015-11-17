@@ -1,0 +1,451 @@
+of water, composed of                    { Oxygen    346     2     3    44.60
+
+                                         { Hydrogen    8     0     0     0
+100 libs. sugar, composed of             { Oxygen     64     0     0     0
+                                         { Charcoal   28     0     0     0
+
+                                         { Hydrogen    0     4     5     9.30
+2 libs. 12 oz. 1 gros 28 grs. of         { Oxygen      1    10     2    28.76
+dry yeast, composed of                   { Charcoal    0    12     4    59
+                                         { Azote       0     0     5     2.94
+                                                     -----------------------
+                                      Total weight   510     0     0     0
+
+
+TABLE III. _Recapitulation of these Elements._
+
+                   libs.     oz.   gros  grs.
+Oxygen:
+  of the water       340      0      0    0    }
+  of the water                                 } libs.   oz.    gros   grs.
+    in the yeast       6      2      3   44.60 }   411    12      6    1.36
+  of the sugar        64      0      0    0    }
+  of the dry yeast     1     10      2   28.76 }
+Hydrogen:
+  of the water        60      0      0    0    }
+  of the water                                 }
+  in the yeast         1      1      2   71.40 }    69     6      0    8.70
+  of the sugar         8      0      0    0    }
+  of the dry yeast     0      4      5    9.30 }
+Charcoal:
+  of the sugar        28      0      0    0    }
+  of the yeast         0     12      4   59.00 }    28    12      4   59.00
+Azote of the yeast     -      -      -    -    }     0     0      5    2.94
+                                                 --------------------------
+                                           In all  510     0      0    0
+
+Having thus accurately determined the nature and quantity of the
+constituent elements of the materials submitted to fermentation, we have
+next to examine the products resulting from that process. For this
+purpose, I placed the above 510 libs. of fermentable liquor in a
+proper[26] apparatus, by means of which I could accurately determine the
+quantity and quality of gas disengaged during the fermentation, and
+could even weigh every one of the products separately, at any period of
+the process I judged proper. An hour or two after the substances are
+mixed together, especially if they are kept in a temperature of from 15
+deg. (65.75 deg.) to 18 deg. (72.5 deg.) of the thermometer, the first
+marks of fermentation commence; the liquor turns thick and frothy, little
+globules of air are disengaged, which rise and burst at the surface; the
+quantity of these globules quickly increases, and there is a rapid and
+abundant production of very pure carbonic acid, accompanied with a scum,
+which is the yeast separating from the mixture. After some days, less or
+more according to the degree of heat, the intestine motion and
+disengagement of gas diminish; but these do not cease entirely, nor is
+the fermentation completed for a considerable time. During the process,
+35 libs. 5 oz. 4 gros 19 grs. of dry carbonic acid are
+disengaged, which carry alongst with them 13 libs. 14 oz. 5 gros
+of water. There remains in the vessel 460 libs. 11 oz. 6 gros 53
+grs. of vinous liquor, slightly acidulous. This is at first muddy, but
+clears of itself, and deposits a portion of yeast. When we separately
+analise all these substances, which is effected by very troublesome
+processes, we have the results as given in the following Tables. This
+process, with all the subordinate calculations and analyses, will be
+detailed at large in the Memoirs of the Academy.
+
+
+TABLE IV. _Product of Fermentation._
+
+                                                             libs. oz. gros grs.
+35 libs. 5 oz. 4 gros 19 grs.           { Oxygen              25   7    1   34
+  of carbonic acid, composed of         { Charcoal             9  14    2   57
+
+408 libs. 15 oz. 5 gros 14 grs.         { Oxygen             347  10    0   59
+  of water, composed of                 { Hydrogen            61   5    4   27
+
+                                        { Oxygen, combined
+                                        {   with hydrogen     31   6    1   64
+                                        { Hydrogen, combined
+57 libs. 11 oz. 1 gros 58 grs.          {   with oxygen        5   8    5    3
+  of dry alkohol, composed of           { Hydrogen, combined
+                                        {   with charcoal      4   0    5    0
+                                        { Charcoal, combined
+                                        {   with hydrogen     16  11    5   63
+
+2 libs. 8 oz. of dry acetous            { Hydrogen             0   2    4    0
+  acid, composed of                     { Oxygen               1  11    4    0
+                                        { Charcoal             0  10    0    0
+
+4 libs. 1 oz. 4 gros 3 grs.             { Hydrogen             0   5    1   67
+  of residuum of sugar,                 { Oxygen               2   9    7   27
+  composed of                           { Charcoal             1   2    2   53
+
+                                        { Hydrogen             0   2    2   41
+1 lib. 6 oz. 0 gros 5 grs.              { Oxygen               0  13    1   14
+of dry yeast, composed of               { Charcoal             0   6    2   30
+                                        { Azote                0   0    2   37
+---                                                            -----------------
+510 libs.                                      Total       510   0    0    0
+
+
+TABLE V. _Recapitulation of the Products._
+
+----------------------------------------------------------------------------
+                                                       libs.  oz.  gros grs.
+
+409 libs. 10 oz. 0 gros 54 grs.   { Water                347   10   0   59
+  of oxygen contained in the      { Carbonic acid         25    7   1   34
+                                  { Alkohol               31    6   1   64
+                                  { Acetous acid           1   11   4    0
+                                  { Residuum of sugar      2    9   7   27
+                                  { Yeast                  0   13   1   14
+
+28 libs. 12 oz. 5 gros 59 grs.    { Carbonic acid          9   14   2   57
+  of charcoal contained           { Alkohol               16   11   5   63
+  in the                          { Acetous acid           0   10   0    0
+                                  { Residuum of sugar      1    2   2   53
+                                  { Yeast                  0    6   2   30
+
+                                  { Water                 61    5   4   27
+71 libs. 8 oz. 6 gros 66 grs.     { Water of the alkohol   5    8   5    3
+  of hydrogen contained           { Combined with the
+  in the                          {  charcoal of the alko. 4    0   5    0
+                                  { Acetous acid           0    2   4    0
+                                  { Residuum of sugar      0    5   1   67
+                                  { Yeast                  0    2   2   41
+
+                  2 gros 37 grs. of azote in the yeast     0    0   2   37
+---                                                        ---------------
+510 libs.                                 Total        510    0   0    0
+
+In these results, I have been exact, even to grains; not that it is
+possible, in experiments of this nature, to carry our accuracy so far,
+but as the experiments were made only with a few pounds of sugar, and
+as, for the sake of comparison, I reduced the results of the actual
+experiments to the quintal or imaginary hundred pounds, I thought it
+necessary to leave the fractional parts precisely as produced by
+calculation.
+
+When we consider the results presented by these tables with attention,
+it is easy to discover exactly what occurs during fermentation. In the
+first place, out of the 100 libs. of sugar employed, 4 libs. 1 oz.
+4 gros 3 grs. remain, without having suffered decomposition; so
+that, in reality, we have only operated upon 95 libs. 14 oz. 3
+gros 69 grs. of sugar; that is to say, upon 61 libs. 6 oz. 45
+grs. of oxygen, 7 libs. 10 oz. 6 gros 6 grs. of hydrogen, and
+26 libs. 13 oz. 5 gros 19 grs. of charcoal. By comparing these
+quantities, we find that they are fully sufficient for forming the whole
+of the alkohol, carbonic acid and acetous acid produced by the
+fermentation. It is not, therefore, necessary to suppose that any water
+has been decomposed during the experiment, unless it be pretended that
+the oxygen and hydrogen exist in the sugar in that state. On the
+contrary, I have already made it evident that hydrogen, oxygen and
+charcoal, the three constituent elements of vegetables, remain in a
+state of equilibrium or mutual union with each other which subsists so
+long as this union remains undisturbed by increased temperature, or by
+some new compound attraction; and that then only these elements
+combine, two and two together, to form water and carbonic acid.
+
+The effects of the vinous fermentation upon sugar is thus reduced to the
+mere separation of its elements into two portions; one part is
+oxygenated at the expence of the other, so as to form carbonic acid,
+whilst the other part, being deoxygenated in favour of the former, is
+converted into the combustible substance alkohol; therefore, if it were
+possible to reunite alkohol and carbonic acid together, we ought to form
+sugar. It is evident that the charcoal and hydrogen in the alkohol do
+not exist in the state of oil, they are combined with a portion of
+oxygen, which renders them miscible with water; wherefore these three
+substances, oxygen, hydrogen, and charcoal, exist here likewise in a
+species of equilibrium or reciprocal combination; and in fact, when they
+are made to pass through a red hot tube of glass or porcelain, this
+union or equilibrium is destroyed, the elements become combined, two and
+two, and water and carbonic acid are formed.
+
+I had formally advanced, in my first Memoirs upon the formation of
+water, that it was decomposed in a great number of chemical experiments,
+and particularly during the vinous fermentation. I then supposed that
+water existed ready formed in sugar, though I am now convinced that
+sugar only contains the elements proper for composing it. It may be
+readily conceived, that it must have cost me a good deal to abandon my
+first notions, but by several years reflection, and after a great number
+of experiments and observations upon vegetable substances, I have fixed
+my ideas as above.
+
+I shall finish what I have to say upon vinous fermentation, by
+observing, that it furnishes us with the means of analysing sugar and
+every vegetable fermentable matter. We may consider the substances
+submitted to fermentation, and the products resulting from that
+operation, as forming an algebraic equation; and, by successively
+supposing each of the elements in this equation unknown, we can
+calculate their values in succession, and thus verify our experiments by
+calculation, and our calculation by experiment reciprocally. I have
+often successfully employed this method for correcting the first results
+of my experiments, and to direct me in the proper road for repeating
+them to advantage. I have explained myself at large upon this subject,
+in a Memoir upon vinous fermentation already presented to the Academy,
+and which will speedily be published.
+
+FOOTNOTES:
+
+[26] The above apparatus is described in the Third Part.--A.
+
+
+
+
+CHAP. XIV.
+
+_Of the Putrefactive Fermentation._
+
+
+The phenomena of putrefaction are caused, like those of vinous
+fermentation, by the operation of very complicated affinities. The
+constituent elements of the bodies submitted to this process cease to
+continue in equilibrium in the threefold combination, and form
+themselves anew into binary combinations[27], or compounds, consisting
+of two elements only; but these are entirely different from the results
+produced by the vinous fermentation. Instead of one part of the hydrogen
+remaining united with part of the water and charcoal to form alkohol, as
+in the vinous fermentation, the whole of the hydrogen is dissipated,
+during putrefaction, in the form of hydrogen gas, whilst, at the same
+time, the oxygen and charcoal, uniting with caloric, escape in the form
+of carbonic acid gas; so that, when the whole process is finished,
+especially if the materials have been mixed with a sufficient quantity
+of water, nothing remains but the earth of the vegetable mixed with a
+small portion of charcoal and iron. Thus putrefaction is nothing more
+than a complete analysis of vegetable substance, during which the whole
+of the constituent elements is disengaged in form of gas, except the
+earth, which remains in the state of mould[28].
+
+Such is the result of putrefaction when the substances submitted to it
+contain only oxygen, hydrogen, charcoal and a little earth. But this
+case is rare, and these substances putrify imperfectly and with
+difficulty, and require a considerable time to complete their
+putrefaction. It is otherwise with substances containing azote, which
+indeed exists in all animal matters, and even in a considerable number
+of vegetable substances. This additional element is remarkably
+favourable to putrefaction; and for this reason animal matter is mixed
+with vegetable, when the putrefaction of these is wished to be hastened.
+The whole art of forming composts and dunghills, for the purposes of
+agriculture, consists in the proper application of this admixture.
+
+The addition of azote to the materials of putrefaction not only
+accelerates the process, that element likewise combines with part of
+the hydrogen, and forms a new substance called _volatile alkali_ or
+_ammoniac_. The results obtained by analysing animal matters, by
+different processes, leave no room for doubt with regard to the
+constituent elements of ammoniac; whenever the azote has been previously
+separated from these substances, no ammoniac is produced; and in all
+cases they furnish ammoniac only in proportion to the azote they
+contain. This composition of ammoniac is likewise fully proved by Mr
+Berthollet, in the Memoirs of the Academy for 1785, p. 316. where he
+gives a variety of analytical processes by which ammoniac is decomposed,
+and its two elements, azote and hydrogen, procured separately.
+
+I already mentioned in Chap. X. that almost all combustible bodies were
+capable of combining with each other; hydrogen gas possesses this
+quality in an eminent degree, it dissolves charcoal, sulphur, and
+phosphorus, producing the compounds named _carbonated hydrogen gas_,
+_sulphurated hydrogen gas_, and _phosphorated hydrogen gas_. The two
+latter of these gasses have a peculiarly disagreeable flavour; the
+sulphurated hydrogen gas has a strong resemblance to the smell of rotten
+eggs, and the phosphorated smells exactly like putrid fish. Ammoniac has
+likewise a peculiar odour, not less penetrating, or less disagreeable,
+than these other gasses. From the mixture of these different flavours
+proceeds the fetor which accompanies the putrefaction of animal
+substances. Sometimes ammoniac predominates, which is easily perceived
+by its sharpness upon the eyes; sometimes, as in feculent matters, the
+sulphurated gas is most prevalent; and sometimes, as in putrid herrings,
+the phosphorated hydrogen gas is most abundant.
+
+I long supposed that nothing could derange or interrupt the course of
+putrefaction; but Mr Fourcroy and Mr Thouret have observed some peculiar
+phenomena in dead bodies, buried at a certain depth, and preserved to a
+certain degree, from contact with air; having found the muscular flesh
+frequently converted into true animal fat. This must have arisen from
+the disengagement of the azote, naturally contained in the animal
+substance, by some unknown cause, leaving only the hydrogen and charcoal
+remaining, which are the elements proper for producing fat or oil. This
+observation upon the possibility of converting animal substances into
+fat may some time or other lead to discoveries of great importance to
+society. The faeces of animals, and other excrementitious matters, are
+chiefly composed of charcoal and hydrogen, and approach considerably to
+the nature of oil, of which they furnish a considerable quantity by
+distillation with a naked fire; but the intolerable foetor which
+accompanies all the products of these substances prevents our expecting
+that, at least for a long time, they can be rendered useful in any other
+way than as manures.
+
+I have only given conjectural approximations in this Chapter upon the
+composition of animal substances, which is hitherto but imperfectly
+understood. We know that they are composed of hydrogen, charcoal, azote,
+phosphorus, and sulphur, all of which, in a state of quintuple
+combination, are brought to the state of oxyd by a larger or smaller
+quantity of oxygen. We are, however, still unacquainted with the
+proportions in which these substances are combined, and must leave it to
+time to complete this part of chemical analysis, as it has already done
+with several others.
+
+FOOTNOTES:
+
+[27] Binary combinations are such as consist of two simple elements
+combined together. Ternary, and quaternary, consist of three and four
+elements.--E.
+
+[28] In the Third Part will be given the description of an apparatus
+proper for being used in experiments of this kind.--A.
+
+
+
+
+CHAP. XV.
+
+_Of the Acetous Fermentation._
+
+
+The acetous fermentation is nothing more than the acidification or
+oxygenation of wine[29], produced in the open air by means of the
+absorption of oxygen. The resulting acid is the acetous acid, commonly
+called Vinegar, which is composed of hydrogen and charcoal united
+together in proportions not yet ascertained, and changed into the acid
+state by oxygen. As vinegar is an acid, we might conclude from analogy
+that it contains oxygen, but this is put beyond doubt by direct
+experiments: In the first place, we cannot change wine into vinegar
+without the contact of air containing oxygen; secondly, this process is
+accompanied by a diminution of the volume of the air in which it is
+carried on from the absorption of its oxygen; and, thirdly, wine may be
+changed into vinegar by any other means of oxygenation.
+
+Independent of the proofs which these facts furnish of the acetous acid
+being produced by the oxygenation of wine, an experiment made by Mr
+Chaptal, Professor of Chemistry at Montpellier, gives us a distinct view
+of what takes place in this process. He impregnated water with about its
+own bulk of carbonic acid from fermenting beer, and placed this water in
+a cellar in vessels communicating with the air, and in a short time the
+whole was converted into acetous acid. The carbonic acid gas procured
+from beer vats in fermentation is not perfectly pure, but contains a
+small quantity of alkohol in solution, wherefore water impregnated with
+it contains all the materials necessary for forming the acetous acid.
+The alkohol furnishes hydrogen and one portion of charcoal, the carbonic
+acid furnishes oxygen and the rest of the charcoal, and the air of the
+atmosphere furnishes the rest of the oxygen necessary for changing the
+mixture into acetous acid. From this observation it follows, that
+nothing but hydrogen is wanting to convert carbonic acid into acetous
+acid; or more generally, that, by means of hydrogen, and according to
+the degree of oxygenation, carbonic acid may be changed into all the
+vegetable acids; and, on the contrary, that, by depriving any of the
+vegetable acids of their hydrogen, they may be converted into carbonic
+acid.
+
+Although the principal facts relating to the acetous acid are well
+known, yet numerical exactitude is still wanting, till furnished by more
+exact experiments than any hitherto performed; wherefore I shall not
+enlarge any farther upon the subject. It is sufficiently shown by what
+has been said, that the constitution of all the vegetable acids and
+oxyds is exactly conformable to the formation of vinegar; but farther
+experiments are necessary to teach us the proportion of the constituent
+elements in all these acids and oxyds. We may easily perceive, however,
+that this part of chemistry, like all the rest of its divisions, makes
+rapid progress towards perfection, and that it is already rendered
+greatly more simple than was formerly believed.
+
+FOOTNOTES:
+
+[29] The word Wine, in this chapter, is used to signify the liquor
+produced by the vinous fermentation, whatever vegetable substance may
+have been used for obtaining it.--E.
+
+
+
+
+CHAP. XVI.
+
+_Of the Formation of Neutral Salts, and of their different Bases._
+
+
+We have just seen that all the oxyds and acids from the animal and
+vegetable kingdoms are formed by means of a small number of simple
+elements, or at least of such as have not hitherto been susceptible of
+decomposition, by means of combination with oxygen; these are azote,
+sulphur, phosphorus, charcoal, hydrogen, and the muriatic radical[30].
+We may justly admire the simplicity of the means employed by nature to
+multiply qualities and forms, whether by combining three or four
+acidifiable bases in different proportions, or by altering the dose of
+oxygen employed for oxydating or acidifying them. We shall find the
+means no less simple and diversified, and as abundantly productive of
+forms and qualities, in the order of bodies we are now about to treat
+of.
+
+Acidifiable substances, by combining with oxygen, and their consequent
+conversion into acids, acquire great susceptibility of farther
+combination; they become capable of uniting with earthy and metallic
+bodies, by which means neutral salts are formed. Acids may therefore be
+considered as true _salifying_ principles, and the substances with which
+they unite to form neutral salts may be called _salifiable_ bases: The
+nature of the union which these two principles form with each other is
+meant as the subject of the present chapter.
+
+This view of the acids prevents me from considering them as salts,
+though they are possessed of many of the principal properties of saline
+bodies, as solubility in water, &c. I have already observed that they
+are the result of a first order of combination, being composed of two
+simple elements, or at least of elements which act as if they were
+simple, and we may therefore rank them, to use the language of Stahl, in
+the order of _mixts_. The neutral salts, on the contrary, are of a
+secondary order of combination, being formed by the union of two _mixts_
+with each other, and may therefore be termed _compounds_. Hence I shall
+not arrange the alkalies[31] or earths in the class of salts, to which
+I allot only such as are composed of an oxygenated substance united to
+a base.
+
+I have already enlarged sufficiently upon the formation of acids in the
+preceding chapter, and shall not add any thing farther upon that
+subject; but having as yet given no account of the salifiable bases
+which are capable of uniting with them to form neutral salts, I mean, in
+this chapter, to give an account of the nature and origin of each of
+these bases. These are potash, soda, ammoniac, lime, magnesia, barytes,
+argill[32], and all the metallic bodies.
+
+
+Sec. 1. _Of Potash._
+
+We have already shown, that, when a vegetable substance is submitted to
+the action of fire in distilling vessels, its component elements,
+oxygen, hydrogen, and charcoal, which formed a threefold combination in
+a state of equilibrium, unite, two and two, in obedience to affinities
+which act conformable to the degree of heat employed. Thus, at the
+first application of the fire, whenever the heat produced exceeds the
+temperature of boiling water, part of the oxygen and hydrogen unite to
+form water; soon after the rest of the hydrogen, and part of the
+charcoal, combine into oil; and, lastly, when the fire is pushed to the
+red heat, the oil and water, which had been formed in the early part of
+the process, become again decomposed, the oxygen and charcoal unite to
+form carbonic acid, a large quantity of hydrogen gas is set free, and
+nothing but charcoal remains in the retort.
+
+A great part of these phenomena occur during the combustion of
+vegetables in the open air; but, in this case, the presence of the air
+introduces three new substances, the oxygen and azote of the air and
+caloric, of which two at least produce considerable changes in the
+results of the operation. In proportion as the hydrogen of the
+vegetable, or that which results from the decomposition of the water, is
+forced out in the form of hydrogen gas by the progress of the fire, it
+is set on fire immediately upon getting in contact with the air, water
+is again formed, and the greater part of the caloric of the two gasses
+becoming free produces flame. When all the hydrogen gas is driven out,
+burnt, and again reduced to water, the remaining charcoal continues to
+burn, but without flame; it is formed into carbonic acid, which carries
+off a portion of caloric sufficient to give it the gasseous form; the
+rest of the caloric, from the oxygen of the air, being set free,
+produces the heat and light observed during the combustion of charcoal.
+The whole vegetable is thus reduced into water and carbonic acid, and
+nothing remains but a small portion of gray earthy matter called ashes,
+being the only really fixed principles which enter into the constitution

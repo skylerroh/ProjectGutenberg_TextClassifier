@@ -1,0 +1,501 @@
+The Project Gutenberg EBook of Theocritus, by Theocritus
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Theocritus
+
+Author: Theocritus
+
+Release Date: March 10, 2004 [EBook #11533]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THEOCRITUS ***
+
+
+
+
+Produced by Ted Garvin, Garrett Alley and PG Distributed Proofreaders
+
+
+
+
+
+
+
+
+
+THEOCRITUS
+
+_TRANSLATED INTO ENGLISH VERSE_.
+
+BY
+
+C.S. CALVERLEY,
+
+_LATE FELLOW OF CHRIST'S COLLEGE, CAMBRIDGE_.
+
+AUTHOR OF "FLY LEAVES," ETC.
+
+THIRD EDITION.
+
+
+
+
+PREFACE.
+
+I had intended translating all or nearly all these Idylls into blank
+verse, as the natural equivalent of Greek or of Latin hexameters; only
+deviating into rhyme where occasion seemed to demand it. But I found
+that other metres had their special advantages: the fourteen-syllable
+line in particular has that, among others, of containing about the same
+number of syllables as an ordinary line of Theocritus. And there is also
+no doubt something gained by variety.
+
+Several recent writers on the subject have laid down that every
+translation of Greek poetry, especially bucolic poetry, must be in rhyme
+of some sort. But they have seldom stated, and it is hard to see, why.
+There is no rhyme in the original, and _prima facie_ should be none in
+the translation. Professor Blackie has, it is true, pointed out the
+"assonances, alliterations, and rhymes," which are found in more or less
+abundance in Ionic Greek.[A] These may of course be purely accidental,
+like the hexameters in Livy or the blank-verse lines in Mr. Dickens's
+prose: but accidental or not (it may be said) they are there, and ought
+to be recognised. May we not then recognise them by introducing similar
+assonances, etc., here and there into the English version? or by
+availing ourselves of what Professor Blackie again calls attention to,
+the "compensating powers"[B] of English? I think with him that it was
+hard to speak of our language as one which "transforms _boos megaloio
+boeien_ into 'great ox's hide.'" Such phrases as 'The Lord is a man of
+war,' 'The trumpet spake not to the armed throng,' are to my ear quite
+as grand as Homer: and it would be equally fair to ask what we are to
+make of a language which transforms Milton's line into [Greek: e
+shalpigx ohy proshephe ton hoplismhenon hochlon.][C] But be this as it
+may, these phenomena are surely too rare and too arbitrary to be
+adequately represented by any regularly recurring rhyme: and the
+question remains, what is there in the unrhymed original to which rhyme
+answers?
+
+To me its effect is to divide the verse into couplets, triplets, or (if
+the word may include them all) _stanzas_ of some kind. Without rhyme we
+have no apparent means of conveying the effect of stanzas. There are of
+course devices such as repeating a line or part of a line at stated
+intervals, as is done in 'Tears, idle tears' and elsewhere: but clearly
+none of these would be available to a translator. Where therefore he has
+to express stanzas, it is easy to see that rhyme may be admissible and
+even necessary. Pope's couplet may (or may not) stand for elegiacs, and
+the _In Memoriam_ stanza for some one of Horace's metres. Where the
+heroes of Virgil's Eclogues sing alternately four lines each, Gray's
+quatrain seems to suggest itself: and where a similar case occurs in
+these Idylls (as for instance in the ninth) I thought it might be met by
+taking whatever received English stanza was nearest the required length.
+Pope's couplet again may possibly best convey the pomposity of some
+Idylls and the point of others. And there may be divers considerations
+of this kind. But, speaking generally, where the translator has not to
+intimate stanzas--where he has on the contrary to intimate that there
+are none--rhyme seems at first sight an intrusion and a _suggestio
+falsi_.
+
+No doubt (as has been observed) what 'Pastorals' we have are mostly
+written in what is called the heroic measure. But the reason is, I
+suppose, not far to seek. Dryden and Pope wrote 'heroics,' not from any
+sense of their fitness for bucolic poetry, but from a sense of their
+universal fitness: and their followers copied them. But probably no
+scholar would affirm that any poem, original or translated, by Pope or
+Dryden or any of their school, really resembles in any degree the
+bucolic poetry of the Greeks. Mr. Morris, whose poems appear to me to
+resemble it more almost than anything I have ever seen, of course writes
+what is technically Pope's metre, and equally of course is not of Pope's
+school. Whether or no Pope and Dryden _intended_ to resemble the old
+bucolic poets in style is, to say the least, immaterial. If they did
+not, there is no reason whatever why any of us who do should adopt
+their metre: if they did and failed, there is every reason why we should
+select a different one.
+
+Professor Conington has adduced one cogent argument against blank verse:
+that is, that hardly any of us can write it.[D] But if this is so--if
+the 'blank verse' which we write is virtually prose in disguise--the
+addition of rhyme would only make it rhymed prose, and we should be as
+far as ever from "verse really deserving the name."[E] Unless (which I
+can hardly imagine) the mere incident of 'terminal consonance' can
+constitute that verse which would not be verse independently, this
+argument is equally good against attempting verse of any kind: we should
+still be writing disguised, and had better write undisguised, prose.
+Prose translations are of course tenable, and are (I am told) advocated
+by another very eminent critic. These considerations against them occur
+to one: that, among the characteristics of his original which the
+translator is bound to preserve, one is that he wrote metrically; and
+that the prattle which passes muster, and sounds perhaps rather pretty
+than otherwise, in metre, would in plain prose be insufferable. Very
+likely some exceptional sort of prose may be meant, which would dispose
+of all such difficulties: but this would be harder for an ordinary
+writer to evolve out of his own brain, than to construct any species of
+verse for which he has at least a model and a precedent.
+
+These remarks are made to shew that my metres were not selected, as it
+might appear, at hap-hazard. Metre is not so unimportant as to justify
+that. For the rest, I have used Briggs's edition[F] (_Poetae Bucolici
+Graeci_), and have never, that I am aware of, taken refuge in any various
+reading where I could make any sense at all of the text as given by him.
+Sometimes I have been content to put down what I felt was a wrong
+rendering rather than omit; but only in cases where the original was
+plainly corrupt, and all suggested emendations seemed to me hopelessly
+wide of the mark. What, for instance, may be the true meaning of
+[Greek: bolbhost tist kochlhiast] in the fourteenth Idyll I have no
+idea. It is not very important. And no doubt the sense of the last two
+lines of the "_Death of Adonis_" is very unlikely to be what I have made
+it. But no suggestion that I met with seemed to me satisfactory or even
+plausible: and in this and a few similar cases I have put down what
+suited the context. Occasionally also, as in the Idyll here printed
+last--the one lately discovered by Bergk, which I elucidated by the
+light of Fritzsche's conjectures--I have availed myself of an opinion
+which Professor Conington somewhere expresses, to the effect that, where
+two interpretations are tenable, it is lawful to accept for the purposes
+of translation the one you might reject as a commentator. [Greek:
+tetootaiost] has I dare say nothing whatever to do with 'quartan fever.'
+
+On one point, rather a minor one, I have ventured to dissent from
+Professor Blackie and others: namely, in retaining the Greek, instead of
+adopting the Roman, nomenclature. Professor Blackie says[G] that there
+are some men by whom "it is esteemed a grave offence to call Jupiter
+Jupiter," which begs the question: and that Jove "is much more musical"
+than Zeus, which begs another. Granting (what might be questioned) that
+_Zeus, Aphrodite_, and _Eros_ are as absolutely the same individuals
+with _Jupiter, Venus_, and _Cupid_ as _Odysseus_ undoubtedly is with
+_Ulysses_--still I cannot see why, in making a version of (say)
+Theocritus, one should not use by way of preference those names by which
+he invariably called them, and which are characteristic of him: why, in
+turning a Greek author into English, we should begin by turning all the
+proper names into Latin. Professor Blackie's authoritative statement[H]
+that "there are whole idylls in Theocritus which would sound ridiculous
+in any other language than that of Tam o' Shanter" I accept of course
+unhesitatingly, and should like to see it acted upon by himself or any
+competent person. But a translator is bound to interpret all as best he
+may: and an attempt to write Tam o' Shanter's language by one who was
+not Tam o' Shanter's countryman would, I fear, result in something more
+ridiculous still.
+
+C.S.C.
+
+*** For Cometas, in Idyll V., read _Comatas_.
+
+
+FOOTNOTES:
+
+[Footnote A: BLACKIE'S _Homer_, Vol. I., pp. 413, 414.]
+
+[Footnote B: _Ibid_., page 377, etc.]
+
+[Footnote C: Professor Kingsley.]
+
+[Footnote D: Preface to CONINGTON'S _AEneid_, page ix.]
+
+[Footnote E: _Ibid_.]
+
+[Footnote F: Since writing the above lines I have had the advantage of
+seeing Mr. Paley's _Theocritus_, which was not out when I made my
+version.]
+
+[Footnote G: BLACKIE'S _Homer_, Preface, pp. xii., xiii.]
+
+[Footnote H: BLACKIE'S _Homer_, Vol. I., page 384.]
+
+
+
+
+CONTENTS.
+
+  IDYLL I.
+  THE DEATH OF DAPHNIS
+
+  IDYLL II.
+  THE SORCERESS
+
+  IDYLL III.
+  THE SERENADE
+
+  IDYLL IV.
+  THE HERDSMAN
+
+  IDYLL V.
+  THE BATTLE OF THE BARDS
+
+  IDYLL VI.
+  THE DRAWN BATTLE
+
+  IDYLL VII.
+  HARVEST-HOME
+
+  IDYLL VIII.
+  THE TRIUMPH OF DAPHNIS
+
+  IDYLL IX.
+  PASTORALS
+
+  IDYLL X.
+  THE TWO WORKMEN
+
+  IDYLL XI.
+  THE GIANT'S WOOING
+
+  IDYLL XII.
+  THE COMRADES
+
+  IDYLL XIII.
+  HYLAS
+
+  IDYLL XIV.
+  THE LOVE OF AESCHINES
+
+  IDYLL XV.
+  THE FESTIVAL OF ADONIS
+
+  IDYLL XVI.
+  THE VALUE OF SONG
+
+  IDYLL XVII.
+  THE PRAISE OF PTOLEMY
+
+  IDYLL XVIII.
+  THE BRIDAL OF HELEN
+
+  IDYLL XIX.
+  LOVE STEALING HONEY
+
+  IDYLL XX.
+  TOWN AND COUNTRY
+
+  IDYLL XXI.
+  THE FISHERMEN
+
+  IDYLL XXII.
+  THE SONS OF LEDA
+
+  IDYLL XXIII.
+  LOVE AVENGED
+
+  IDYLL XXIV.
+  THE INFANT HERACLES
+
+  IDYLL XXV.
+  HERACLES THE LION SLAYER
+
+  IDYLL XXVI.
+  THE BACCHANALS
+
+  IDYLL XXVII.
+  A COUNTRYMAN'S WOOING
+
+  IDYLL XXVIII.
+  THE DISTAFF
+
+  IDYLL XXIX.
+  LOVES
+
+  IDYLL XXX.
+  THE DEATH OF ADONIS
+
+  IDYLL XXXI.
+  LOVES
+
+  FRAGMENT FROM THE "BERENICE"
+
+  EPIGRAMS AND EPITAPHS:--
+
+    I.--VI.
+    VII.--FOR A STATUE OF AESCULAPIUS
+    VIII.--ORTHO'S EPITAPH
+    IX.--EPITAPH OF CLEONICUS
+    X.--FOR A STATUE OF THE MUSES
+    XI.--EPITAPH OF EUSTHENES
+    XII.--FOR A TRIPOD ERECTED BY DAMOTELES TO BACCHUS
+    XIII.--FOR A STATUE OF ANACREON
+    XIV.--EPITAPH OF EURYMEDON
+    XV.--ANOTHER
+    XVI.--FOR A STATUE OF THE HEAVENLY APHRODITE
+    XVII.--To EPICHARMUS
+    XVIII.--EPITAPH OF CLEITA, NURSE OF MEDEIUS
+    XIX.--TO ARCHILOCHUS
+    XX.--UNDER A STATUE OF PEISANDER
+    XXI.--EPITAPH OF HIPPONAX
+    XXII.--ON HIS OWN BOOK
+
+
+
+
+IDYLL I.
+
+
+The Death of Daphnis.
+
+_THYRSIS. A GOATHERD._
+
+    THYRSIS.
+    Sweet are the whispers of yon pine that makes
+    Low music o'er the spring, and, Goatherd, sweet
+    Thy piping; second thou to Pan alone.
+    Is his the horned ram? then thine the goat.
+    Is his the goat? to thee shall fall the kid;
+    And toothsome is the flesh of unmilked kids.
+
+    GOATHERD.
+    Shepherd, thy lay is as the noise of streams
+    Falling and falling aye from yon tall crag.
+    If for their meed the Muses claim the ewe,
+    Be thine the stall-fed lamb; or if they choose
+    The lamb, take thou the scarce less-valued ewe.
+
+    THYRSIS.
+    Pray, by the Nymphs, pray, Goatherd, seat thee here
+    Against this hill-slope in the tamarisk shade,
+    And pipe me somewhat, while I guard thy goats.
+
+    GOATHERD.
+    I durst not, Shepherd, O I durst not pipe
+    At noontide; fearing Pan, who at that hour
+    Rests from the toils of hunting. Harsh is he;
+    Wrath at his nostrils aye sits sentinel.
+    But, Thyrsis, thou canst sing of Daphnis' woes;
+    High is thy name for woodland minstrelsy:
+    Then rest we in the shadow of the elm
+    Fronting Priapus and the Fountain-nymphs.
+    There, where the oaks are and the Shepherd's seat,
+    Sing as thou sang'st erewhile, when matched with him
+    Of Libya, Chromis; and I'll give thee, first,
+    To milk, ay thrice, a goat--she suckles twins,
+    Yet ne'ertheless can fill two milkpails full;--
+    Next, a deep drinking-cup, with sweet wax scoured,
+    Two-handled, newly-carven, smacking yet
+    0' the chisel. Ivy reaches up and climbs
+    About its lip, gilt here and there with sprays
+    Of woodbine, that enwreathed about it flaunts
+    Her saffron fruitage. Framed therein appears
+    A damsel ('tis a miracle of art)
+    In robe and snood: and suitors at her side
+    With locks fair-flowing, on her right and left,
+    Battle with words, that fail to reach her heart.
+    She, laughing, glances now on this, flings now
+    Her chance regards on that: they, all for love
+    Wearied and eye-swoln, find their labour lost.
+    Carven elsewhere an ancient fisher stands
+    On the rough rocks: thereto the old man with pains
+    Drags his great casting-net, as one that toils
+    Full stoutly: every fibre of his frame
+    Seems fishing; so about the gray-beard's neck
+    (In might a youngster yet) the sinews swell.
+    Hard by that wave-beat sire a vineyard bends
+    Beneath its graceful load of burnished grapes;
+    A boy sits on the rude fence watching them.
+    Near him two foxes: down the rows of grapes
+    One ranging steals the ripest; one assails
+    With wiles the poor lad's scrip, to leave him soon
+    Stranded and supperless. He plaits meanwhile
+    With ears of corn a right fine cricket-trap,
+    And fits it on a rush: for vines, for scrip,
+    Little he cares, enamoured of his toy.
+      The cup is hung all round with lissom briar,
+    Triumph of AEolian art, a wondrous sight.
+    It was a ferryman's of Calydon:
+    A goat it cost me, and a great white cheese.
+    Ne'er yet my lips came near it, virgin still
+    It stands. And welcome to such boon art thou,
+    If for my sake thou'lt sing that lay of lays.
+    I jest not: up, lad, sing: no songs thou'lt own
+    In the dim land where all things are forgot.
+
+    THYSIS [_sings_].
+      _Begin, sweet Maids, begin the woodland song_.
+    The voice of Thyrsis. AEtna's Thyrsis I.
+    Where were ye, Nymphs, oh where, while Daphnis pined?
+    In fair Peneus' or in Pindus' glens?
+    For great Anapus' stream was not your haunt,
+    Nor AEtna's cliff, nor Acis' sacred rill.
+      _Begin, sweet Maids, begin the woodland song_.
+    O'er him the wolves, the jackals howled o'er him;
+    The lion in the oak-copse mourned his death.
+      _Begin, sweet Maids, begin the woodland song_.
+    The kine and oxen stood around his feet,
+    The heifers and the calves wailed all for him.
+      _Begin, sweet Maids, begin the woodland song_.
+    First from the mountain Hermes came, and said,
+    "Daphnis, who frets thee? Lad, whom lov'st thou so?"
+      _Begin, sweet Maids, begin the woodland song_.
+    Came herdsmen, shepherds came, and goatherds came;
+    All asked what ailed the lad. Priapus came
+    And said, "Why pine, poor Daphnis? while the maid
+    Foots it round every pool and every grove,
+    (_Begin, sweet Maids, begin the woodland song_)
+    "O lack-love and perverse, in quest of thee;
+    Herdsman in name, but goatherd rightlier called.
+    With eyes that yearn the goatherd marks his kids
+    Run riot, for he fain would frisk as they:
+      (_Begin, sweet Maids, begin the woodland song_):
+    "With eyes that yearn dost thou too mark the laugh
+    Of maidens, for thou may'st not share their glee."
+    Still naught the herdsman said: he drained alone
+    His bitter portion, till the fatal end.
+      _Begin, sweet Maids, begin the woodland song_.
+    Came Aphrodite, smiles on her sweet face,
+    False smiles, for heavy was her heart, and spake:
+    "So, Daphnis, thou must try a fall with Love!
+    But stalwart Love hath won the fall of thee."
+      _Begin, sweet Maids, begin the woodland song_.
+    Then "Ruthless Aphrodite," Daphnis said,
+    "Accursed Aphrodite, foe to man!
+    Say'st thou mine hour is come, my sun hath set?
+    Dead as alive, shall Daphnis work Love woe."
+      _Begin, sweet Maids, begin the woodland song_.
+    "Fly to Mount Ida, where the swain (men say)
+    And Aphrodite--to Anchises fly:
+    There are oak-forests; here but galingale,
+    And bees that make a music round the hives.
+      _Begin, sweet Maids, begin the woodland song_.
+    "Adonis owed his bloom to tending flocks
+    And smiting hares, and bringing wild beasts down.
+      _Begin, sweet Maids, begin the woodland song_.
+    "Face once more Diomed: tell him 'I have slain
+    The herdsman Daphnis; now I challenge thee.'
+      _Begin, sweet Maids, begin the woodland song_.
+    "Farewell, wolf, jackal, mountain-prisoned bear!
+    Ye'll see no more by grove or glade or glen
+    Your herdsman Daphnis! Arethuse, farewell,
+    And the bright streams that pour down Thymbris' side.
+      _Begin, sweet Maids, begin the woodland song_.
+    "I am that Daphnis, who lead here my kine,
+    Bring here to drink my oxen and my calves.
+      _Begin, sweet Maids, begin the woodland song_.
+    "Pan, Pan, oh whether great Lyceum's crags
+    Thou haunt'st to-day, or mightier Maenalus,
+    Come to the Sicel isle! Abandon now
+    Rhium and Helice, and the mountain-cairn
+    (That e'en gods cherish) of Lycaon's son!
+      _Forget, sweet Maids, forget your woodland song_.
+    "Come, king of song, o'er this my pipe, compact
+    With wax and honey-breathing, arch thy lip:
+    For surely I am torn from life by Love.
+      _Forget, sweet Maids, forget your woodland song_.
+    "From thicket now and thorn let violets spring,
+    Now let white lilies drape the juniper,
+    And pines grow figs, and nature all go wrong:
+    For Daphnis dies. Let deer pursue the hounds,
+    And mountain-owls outsing the nightingale.
+      _Forget, sweet Maids, forget your woodland song_."
+
+    So spake he, and he never spake again.
+    Fain Aphrodite would have raised his head;
+    But all his thread was spun. So down the stream
+    Went Daphnis: closed the waters o'er a head
+    Dear to the Nine, of nymphs not unbeloved.
+      Now give me goat and cup; that I may milk
+    The one, and pour the other to the Muse.
+    Fare ye well, Muses, o'er and o'er farewell!
+    I'll sing strains lovelier yet in days to be.
+
+    GOATHERD.
+    Thyrsis, let honey and the honeycomb

@@ -1,0 +1,396 @@
+"Hardly."
+
+"Well, Algebra is an instrument or utensil just as much as a hammer or a
+plough, and a very good instrument too if you know how to make use of
+it."
+
+"You're in earnest?"
+
+"Quite so."
+
+"And you can handle the instrument right before my eyes?"
+
+"Certainly, if it interests you so much."
+
+"You can show me how they got at the initial velocity of our
+Projectile?"
+
+"With the greatest pleasure. By taking into proper consideration all the
+elements of the problem, viz.: (1) the distance between the centres of
+the Earth and the Moon, (2) the Earth's radius, (3) its volume, and (4)
+the Moon's volume, I can easily calculate what must be the initial
+velocity, and that too by a very simple formula."
+
+"Let us have the formula."
+
+"In one moment; only I can't give you the curve really described by the
+Projectile as it moves between the Earth and the Moon; this is to be
+obtained by allowing for their combined movement around the Sun. I will
+consider the Earth and the Sun to be motionless, that being sufficient
+for our present purpose."
+
+"Why so?"
+
+"Because to give you that exact curve would be to solve a point in the
+'Problem of the Three Bodies,' which Integral Calculus has not yet
+reached."
+
+"What!" cried Ardan, in a mocking tone, "is there really anything that
+Mathematics can't do?"
+
+"Yes," said Barbican, "there is still a great deal that Mathematics
+can't even attempt."
+
+"So far, so good;" resumed Ardan. "Now then what is this Integral
+Calculus of yours?"
+
+"It is a branch of Mathematics that has for its object the summation of
+a certain infinite series of indefinitely small terms: but for the
+solution of which, we must generally know the function of which a given
+function is the differential coefficient. In other words," continued
+Barbican, "in it we return from the differential coefficient, to the
+function from which it was deduced."
+
+"Clear as mud!" cried Ardan, with a hearty laugh.
+
+"Now then, let me have a bit of paper and a pencil," added Barbican,
+"and in half an hour you shall have your formula; meantime you can
+easily find something interesting to do."
+
+In a few seconds Barbican was profoundly absorbed in his problem, while
+M'Nicholl was watching out of the window, and Ardan was busily employed
+in preparing breakfast.
+
+The morning meal was not quite ready, when Barbican, raising his head,
+showed Ardan a page covered with algebraic signs at the end of which
+stood the following formula:--
+
+ 1     2   2         r         m'    r       r
+--- (v' - v ) = gr {--- - 1 + --- (----- - -----) }
+ 2                   x         m   d - x   d - r
+
+"Which means?" asked Ardan.
+
+"It means," said the Captain, now taking part in the discussion, "that
+the half of _v_ prime squared minus _v_ squared equals _gr_ multiplied
+by _r_ over _x_ minus one plus _m_ prime over _m_ multiplied by _r_ over
+_d_ minus _x_ minus _r_ over _d_ minus _r_ ... that is--"
+
+"That is," interrupted Ardan, in a roar of laughter, "_x_ stradlegs on
+_y_, making for _z_ and jumping over _p_! Do _you_ mean to say you
+understand the terrible jargon, Captain?"
+
+"Nothing is clearer, Ardan."
+
+"You too, Captain! Then of course I must give in gracefully, and declare
+that the sun at noon-day is not more palpably evident than the sense of
+Barbican's formula."
+
+"You asked for Algebra, you know," observed Barbican.
+
+"Rock crystal is nothing to it!"
+
+"The fact is, Barbican," said the Captain, who had been looking over the
+paper, "you have worked the thing out very well. You have the integral
+equation of the living forces, and I have no doubt it will give us the
+result sought for."
+
+"Yes, but I should like to understand it, you know," cried Ardan: "I
+would give ten years of the Captain's life to understand it!"
+
+"Listen then," said Barbican. "Half of _v_ prime squared less _v_
+squared, is the formula giving us the half variation of the living
+force."
+
+"Mac pretends he understands all that!"
+
+"You need not be a _Solomon_ to do it," said the Captain. "All these
+signs that you appear to consider so cabalistic form a language the
+clearest, the shortest, and the most logical, for all those who can read
+it."
+
+"You pretend, Captain, that, by means of these hieroglyphics, far more
+incomprehensible than the sacred Ibis of the Egyptians, you can
+discover the velocity at which the Projectile should start?"
+
+"Most undoubtedly," replied the Captain, "and, by the same formula I can
+even tell you the rate of our velocity at any particular point of our
+journey."
+
+"You can?"
+
+"I can."
+
+"Then you're just as deep a one as our President."
+
+"No, Ardan; not at all. The really difficult part of the question
+Barbican has done. That is, to make out such an equation as takes into
+account all the conditions of the problem. After that, it's a simple
+affair of Arithmetic, requiring only a knowledge of the four rules to
+work it out."
+
+"Very simple," observed Ardan, who always got muddled at any kind of a
+difficult sum in addition.
+
+"Captain," said Barbican, "_you_ could have found the formulas too, if
+you tried."
+
+"I don't know about that," was the Captain's reply, "but I do know that
+this formula is wonderfully come at."
+
+"Now, Ardan, listen a moment," said Barbican, "and you will see what
+sense there is in all these letters."
+
+"I listen," sighed Ardan with the resignation of a martyr.
+
+"_d_ is the distance from the centre of the Earth to the centre of the
+Moon, for it is from the centres that we must calculate the
+attractions."
+
+"That I comprehend."
+
+"_r_ is the radius of the Earth."
+
+"That I comprehend."
+
+"_m_ is the mass or volume of the Earth; _m_ prime that of the Moon. We
+must take the mass of the two attracting bodies into consideration,
+since attraction is in direct proportion to their masses."
+
+"That I comprehend."
+
+"_g_ is the gravity or the velocity acquired at the end of a second by a
+body falling towards the centre of the Earth. Clear?"
+
+"That I comprehend."
+
+"Now I represent by _x_ the varying distance that separates the
+Projectile from the centre of the Earth, and by _v_ prime its velocity
+at that distance."
+
+"That I comprehend."
+
+"Finally, _v_ is its velocity when quitting our atmosphere."
+
+"Yes," chimed in the Captain, "it is for this point, you see, that the
+velocity had to be calculated, because we know already that the initial
+velocity is exactly the three halves of the velocity when the Projectile
+quits the atmosphere."
+
+"That I don't comprehend," cried the Frenchman, energetically.
+
+"It's simple enough, however," said Barbican.
+
+"Not so simple as a simpleton," replied the Frenchman.
+
+"The Captain merely means," said Barbican, "that at the instant the
+Projectile quitted the terrestrial atmosphere it had already lost a
+third of its initial velocity."
+
+"So much as a third?"
+
+"Yes, by friction against the atmospheric layers: the quicker its
+motion, the greater resistance it encountered."
+
+"That of course I admit, but your _v_ squared and your _v_ prime squared
+rattle in my head like nails in a box!"
+
+"The usual effect of Algebra on one who is a stranger to it; to finish
+you, our next step is to express numerically the value of these several
+symbols. Now some of them are already known, and some are to be
+calculated."
+
+"Hand the latter over to me," said the Captain.
+
+"First," continued Barbican: "_r_, the Earth's radius is, in the
+latitude of Florida, about 3,921 miles. _d_, the distance from the
+centre of the Earth to the centre of the Moon is 56 terrestrial radii,
+which the Captain calculates to be...?"
+
+"To be," cried M'Nicholl working rapidly with his pencil, "219,572
+miles, the moment the Moon is in her _perigee_, or nearest point to the
+Earth."
+
+"Very well," continued Barbican. "Now _m_ prime over _m_, that is the
+ratio of the Moon's mass to that of the Earth is about the 1/81. _g_
+gravity being at Florida about 32-1/4 feet, of course _g_ x _r_ must
+be--how much, Captain?"
+
+"38,465 miles," replied M'Nicholl.
+
+"Now then?" asked Ardan.
+
+[Illustration: MY HEAD IS SPLITTING WITH IT.]
+
+"Now then," replied Barbican, "the expression having numerical values, I
+am trying to find _v_, that is to say, the initial velocity which the
+Projectile must possess in order to reach the point where the two
+attractions neutralize each other. Here the velocity being null, _v_
+prime becomes zero, and _x_ the required distance of this neutral point
+must be represented by the nine-tenths of _d_, the distance between the
+two centres."
+
+"I have a vague kind of idea that it must be so," said Ardan.
+
+"I shall, therefore, have the following result;" continued Barbican,
+figuring up; "_x_ being nine-tenths of _d_, and _v_ prime being zero, my
+formula becomes:--
+
+ 2            10 r     1    10 r     r
+v  = gr {1 - ----- - ---- (----- - -----) }
+               d      81     d     d - r   "
+
+The Captain read it off rapidly.
+
+"Right! that's correct!" he cried.
+
+"You think so?" asked Barbican.
+
+"As true as Euclid!" exclaimed M'Nicholl.
+
+"Wonderful fellows," murmured the Frenchman, smiling with admiration.
+
+"You understand now, Ardan, don't you?" asked Barbican.
+
+"Don't I though?" exclaimed Ardan, "why my head is splitting with it!"
+
+"Therefore," continued Barbican,
+
+" 2             10 r     1    10 r     r
+2v  = 2gr {1 - ----- - ---- (----- - -----) }
+                 d      81     d     d - r   "
+
+"And now," exclaimed M'Nicholl, sharpening his pencil; "in order to
+obtain the velocity of the Projectile when leaving the atmosphere, we
+have only to make a slight calculation."
+
+The Captain, who before clerking on a Mississippi steamboat had been
+professor of Mathematics in an Indiana university, felt quite at home at
+the work. He rained figures from his pencil with a velocity that would
+have made Marston stare. Page after page was filled with his
+multiplications and divisions, while Barbican looked quietly on, and
+Ardan impatiently stroked his head and ears to keep down a rising
+head-ache.
+
+"Well?" at last asked Barbican, seeing the Captain stop and throw a
+somewhat hasty glance over his work.
+
+"Well," answered M'Nicholl slowly but confidently, "the calculation is
+made, I think correctly; and _v_, that is, the velocity of the
+Projectile when quitting the atmosphere, sufficient to carry it to the
+neutral point, should be at least ..."
+
+"How much?" asked Barbican, eagerly.
+
+"Should be at least 11,972 yards the first second."
+
+"What!" cried Barbican, jumping off his seat. "How much did you say?"
+
+"11,972 yards the first second it quits the atmosphere."
+
+"Oh, malediction!" cried Barbican, with a gesture of terrible despair.
+
+"What's the matter?" asked Ardan, very much surprised.
+
+"Enough is the matter!" answered Barbican excitedly. "This velocity
+having been diminished by a third, our initial velocity should have been
+at least ..."
+
+"17,958 yards the first second!" cried M'Nicholl, rapidly flourishing
+his pencil.
+
+"But the Cambridge Observatory having declared that 12,000 yards the
+first second were sufficient, our Projectile started with no greater
+velocity!"
+
+"Well?" asked M'Nicholl.
+
+"Well, such a velocity will never do!"
+
+"How??" }
+"How!!" } cried the Captain and Ardan in one voice.
+
+"We can never reach the neutral point!"
+
+"Thunder and lightning"
+
+"Fire and Fury!"
+
+"We can't get even halfway!"
+
+"Heaven and Earth!"
+
+"_Mille noms d'un boulet!_" cried Ardan, wildly gesticulating.
+
+"And we shall fall back to the Earth!"
+
+"Oh!"
+
+"Ah!"
+
+They could say no more. This fearful revelation took them like a stroke
+of apoplexy.
+
+
+
+
+CHAPTER V.
+
+THE COLDS OF SPACE.
+
+
+How could they imagine that the Observatory men had committed such a
+blunder? Barbican would not believe it possible. He made the Captain go
+over his calculation again and again; but no flaw was to be found in it.
+He himself carefully examined it, figure after figure, but he could find
+nothing wrong. They both took up the formula and subjected it to the
+strongest tests; but it was invulnerable. There was no denying the fact.
+The Cambridge professors had undoubtedly blundered in saying that an
+initial velocity of 12,000 yards a second would be enough to carry them
+to the neutral point. A velocity of nearly 18,000 yards would be the
+very lowest required for such a purpose. They had simply forgotten to
+allow a third for friction.
+
+The three friends kept profound silence for some time. Breakfast now was
+the last thing thought of. Barbican, with teeth grating, fingers
+clutching, and eye-brows closely contracting, gazed grimly through the
+window. The Captain, as a last resource, once more examined his
+calculations, earnestly hoping to find a figure wrong. Ardan could
+neither sit, stand nor lie still for a second, though he tried all
+three. His silence, of course, did not last long.
+
+"Ha! ha! ha!" he laughed bitterly. "Precious scientific men! Villainous
+old hombogues! The whole set not worth a straw! I hope to gracious,
+since we must fall, that we shall drop down plumb on Cambridge
+Observatory, and not leave a single one of the miserable old women,
+called professors, alive in the premises!"
+
+A certain expression in Ardan's angry exclamation had struck the Captain
+like a shot, and set his temples throbbing violently.
+
+"_Must_ fall!" he exclaimed, starting up suddenly. "Let us see about
+that! It is now seven o'clock in the morning. We must have, therefore,
+been at least thirty-two hours on the road, and more than half of our
+passage is already made. If we are going to fall at all, we must be
+falling now! I'm certain we're not, but, Barbican, you have to find it
+out!"
+
+Barbican caught the idea like lightning, and, seizing a compass, he
+began through the floor window to measure the visual angle of the
+distant Earth. The apparent immobility of the Projectile allowed him to
+do this with great exactness. Then laying aside the instrument, and
+wiping off the thick drops of sweat that bedewed his forehead, he began
+jotting down some figures on a piece of paper. The Captain looked on
+with keen interest; he knew very well that Barbican was calculating
+their distance from the Earth by the apparent measure of the terrestrial
+diameter, and he eyed him anxiously.
+
+Pretty soon his friends saw a color stealing into Barbican's pale face,
+and a triumphant light glittering in his eye.
+
+"No, my brave boys!" he exclaimed at last throwing down his pencil,
+"we're not falling! Far from it, we are at present more than 150
+thousand miles from the Earth!"
+
+"Hurrah!" }
+"Bravo!"  } cried M'Nicholl and Ardan, in a breath.

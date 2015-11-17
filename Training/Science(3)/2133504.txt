@@ -1,0 +1,322 @@
+after the manner that those were produced by very thin Plates. For, upon
+trial, I found that if the Quick-silver were rubb'd off from the
+backside of the Speculum, the Glass alone would cause the same Rings of
+Colours, but much more faint than before; and therefore the Phaenomenon
+depends not upon the Quick-silver, unless so far as the Quick-silver by
+increasing the Reflexion of the backside of the Glass increases the
+Light of the Rings of Colours. I found also that a Speculum of Metal
+without Glass made some Years since for optical uses, and very well
+wrought, produced none of those Rings; and thence I understood that
+these Rings arise not from one specular Surface alone, but depend upon
+the two Surfaces of the Plate of Glass whereof the Speculum was made,
+and upon the thickness of the Glass between them. For as in the 7th and
+19th Observations of the first part of this Book a thin Plate of Air,
+Water, or Glass of an even thickness appeared of one Colour when the
+Rays were perpendicular to it, of another when they were a little
+oblique, of another when more oblique, of another when still more
+oblique, and so on; so here, in the sixth Observation, the Light which
+emerged out of the Glass in several Obliquities, made the Glass appear
+of several Colours, and being propagated in those Obliquities to the
+Chart, there painted Rings of those Colours. And as the reason why a
+thin Plate appeared of several Colours in several Obliquities of the
+Rays, was, that the Rays of one and the same sort are reflected by the
+thin Plate at one obliquity and transmitted at another, and those of
+other sorts transmitted where these are reflected, and reflected where
+these are transmitted: So the reason why the thick Plate of Glass
+whereof the Speculum was made did appear of various Colours in various
+Obliquities, and in those Obliquities propagated those Colours to the
+Chart, was, that the Rays of one and the same sort did at one Obliquity
+emerge out of the Glass, at another did not emerge, but were reflected
+back towards the Quick-silver by the hither Surface of the Glass, and
+accordingly as the Obliquity became greater and greater, emerged and
+were reflected alternately for many Successions; and that in one and the
+same Obliquity the Rays of one sort were reflected, and those of another
+transmitted. This is manifest by the fifth Observation of this part of
+this Book. For in that Observation, when the Speculum was illuminated by
+any one of the prismatick Colours, that Light made many Rings of the
+same Colour upon the Chart with dark Intervals, and therefore at its
+emergence out of the Speculum was alternately transmitted and not
+transmitted from the Speculum to the Chart for many Successions,
+according to the various Obliquities of its Emergence. And when the
+Colour cast on the Speculum by the Prism was varied, the Rings became of
+the Colour cast on it, and varied their bigness with their Colour, and
+therefore the Light was now alternately transmitted and not transmitted
+from the Speculum to the Chart at other Obliquities than before. It
+seemed to me therefore that these Rings were of one and the same
+original with those of thin Plates, but yet with this difference, that
+those of thin Plates are made by the alternate Reflexions and
+Transmissions of the Rays at the second Surface of the Plate, after one
+passage through it; but here the Rays go twice through the Plate before
+they are alternately reflected and transmitted. First, they go through
+it from the first Surface to the Quick-silver, and then return through
+it from the Quick-silver to the first Surface, and there are either
+transmitted to the Chart or reflected back to the Quick-silver,
+accordingly as they are in their Fits of easy Reflexion or Transmission
+when they arrive at that Surface. For the Intervals of the Fits of the
+Rays which fall perpendicularly on the Speculum, and are reflected back
+in the same perpendicular Lines, by reason of the equality of these
+Angles and Lines, are of the same length and number within the Glass
+after Reflexion as before, by the 19th Proposition of the third part of
+this Book. And therefore since all the Rays that enter through the
+first Surface are in their Fits of easy Transmission at their entrance,
+and as many of these as are reflected by the second are in their Fits of
+easy Reflexion there, all these must be again in their Fits of easy
+Transmission at their return to the first, and by consequence there go
+out of the Glass to the Chart, and form upon it the white Spot of Light
+in the center of the Rings. For the reason holds good in all sorts of
+Rays, and therefore all sorts must go out promiscuously to that Spot,
+and by their mixture cause it to be white. But the Intervals of the Fits
+of those Rays which are reflected more obliquely than they enter, must
+be greater after Reflexion than before, by the 15th and 20th
+Propositions. And thence it may happen that the Rays at their return to
+the first Surface, may in certain Obliquities be in Fits of easy
+Reflexion, and return back to the Quick-silver, and in other
+intermediate Obliquities be again in Fits of easy Transmission, and so
+go out to the Chart, and paint on it the Rings of Colours about the
+white Spot. And because the Intervals of the Fits at equal obliquities
+are greater and fewer in the less refrangible Rays, and less and more
+numerous in the more refrangible, therefore the less refrangible at
+equal obliquities shall make fewer Rings than the more refrangible, and
+the Rings made by those shall be larger than the like number of Rings
+made by these; that is, the red Rings shall be larger than the yellow,
+the yellow than the green, the green than the blue, and the blue than
+the violet, as they were really found to be in the fifth Observation.
+And therefore the first Ring of all Colours encompassing the white Spot
+of Light shall be red without any violet within, and yellow, and green,
+and blue in the middle, as it was found in the second Observation; and
+these Colours in the second Ring, and those that follow, shall be more
+expanded, till they spread into one another, and blend one another by
+interfering.
+
+These seem to be the reasons of these Rings in general; and this put me
+upon observing the thickness of the Glass, and considering whether the
+dimensions and proportions of the Rings may be truly derived from it by
+computation.
+
+_Obs._ 8. I measured therefore the thickness of this concavo-convex
+Plate of Glass, and found it every where 1/4 of an Inch precisely. Now,
+by the sixth Observation of the first Part of this Book, a thin Plate of
+Air transmits the brightest Light of the first Ring, that is, the bright
+yellow, when its thickness is the 1/89000th part of an Inch; and by the
+tenth Observation of the same Part, a thin Plate of Glass transmits the
+same Light of the same Ring, when its thickness is less in proportion of
+the Sine of Refraction to the Sine of Incidence, that is, when its
+thickness is the 11/1513000th or 1/137545th part of an Inch, supposing
+the Sines are as 11 to 17. And if this thickness be doubled, it
+transmits the same bright Light of the second Ring; if tripled, it
+transmits that of the third, and so on; the bright yellow Light in all
+these cases being in its Fits of Transmission. And therefore if its
+thickness be multiplied 34386 times, so as to become 1/4 of an Inch, it
+transmits the same bright Light of the 34386th Ring. Suppose this be the
+bright yellow Light transmitted perpendicularly from the reflecting
+convex side of the Glass through the concave side to the white Spot in
+the center of the Rings of Colours on the Chart: And by a Rule in the
+7th and 19th Observations in the first Part of this Book, and by the
+15th and 20th Propositions of the third Part of this Book, if the Rays
+be made oblique to the Glass, the thickness of the Glass requisite to
+transmit the same bright Light of the same Ring in any obliquity, is to
+this thickness of 1/4 of an Inch, as the Secant of a certain Angle to
+the Radius, the Sine of which Angle is the first of an hundred and six
+arithmetical Means between the Sines of Incidence and Refraction,
+counted from the Sine of Incidence when the Refraction is made out of
+any plated Body into any Medium encompassing it; that is, in this case,
+out of Glass into Air. Now if the thickness of the Glass be increased by
+degrees, so as to bear to its first thickness, (_viz._ that of a quarter
+of an Inch,) the Proportions which 34386 (the number of Fits of the
+perpendicular Rays in going through the Glass towards the white Spot in
+the center of the Rings,) hath to 34385, 34384, 34383, and 34382, (the
+numbers of the Fits of the oblique Rays in going through the Glass
+towards the first, second, third, and fourth Rings of Colours,) and if
+the first thickness be divided into 100000000 equal parts, the increased
+thicknesses will be 100002908, 100005816, 100008725, and 100011633, and
+the Angles of which these thicknesses are Secants will be 26' 13'', 37'
+5'', 45' 6'', and 52' 26'', the Radius being 100000000; and the Sines of
+these Angles are 762, 1079, 1321, and 1525, and the proportional Sines
+of Refraction 1172, 1659, 2031, and 2345, the Radius being 100000. For
+since the Sines of Incidence out of Glass into Air are to the Sines of
+Refraction as 11 to 17, and to the above-mentioned Secants as 11 to the
+first of 106 arithmetical Means between 11 and 17, that is, as 11 to
+11-6/106, those Secants will be to the Sines of Refraction as 11-6/106,
+to 17, and by this Analogy will give these Sines. So then, if the
+obliquities of the Rays to the concave Surface of the Glass be such that
+the Sines of their Refraction in passing out of the Glass through that
+Surface into the Air be 1172, 1659, 2031, 2345, the bright Light of the
+34386th Ring shall emerge at the thicknesses of the Glass, which are to
+1/4 of an Inch as 34386 to 34385, 34384, 34383, 34382, respectively. And
+therefore, if the thickness in all these Cases be 1/4 of an Inch (as it
+is in the Glass of which the Speculum was made) the bright Light of the
+34385th Ring shall emerge where the Sine of Refraction is 1172, and that
+of the 34384th, 34383th, and 34382th Ring where the Sine is 1659, 2031,
+and 2345 respectively. And in these Angles of Refraction the Light of
+these Rings shall be propagated from the Speculum to the Chart, and
+there paint Rings about the white central round Spot of Light which we
+said was the Light of the 34386th Ring. And the Semidiameters of these
+Rings shall subtend the Angles of Refraction made at the
+Concave-Surface of the Speculum, and by consequence their Diameters
+shall be to the distance of the Chart from the Speculum as those Sines
+of Refraction doubled are to the Radius, that is, as 1172, 1659, 2031,
+and 2345, doubled are to 100000. And therefore, if the distance of the
+Chart from the Concave-Surface of the Speculum be six Feet (as it was in
+the third of these Observations) the Diameters of the Rings of this
+bright yellow Light upon the Chart shall be 1'688, 2'389, 2'925, 3'375
+Inches: For these Diameters are to six Feet, as the above-mention'd
+Sines doubled are to the Radius. Now, these Diameters of the bright
+yellow Rings, thus found by Computation are the very same with those
+found in the third of these Observations by measuring them, _viz._ with
+1-11/16, 2-3/8, 2-11/12, and 3-3/8 Inches, and therefore the Theory of
+deriving these Rings from the thickness of the Plate of Glass of which
+the Speculum was made, and from the Obliquity of the emerging Rays
+agrees with the Observation. In this Computation I have equalled the
+Diameters of the bright Rings made by Light of all Colours, to the
+Diameters of the Rings made by the bright yellow. For this yellow makes
+the brightest Part of the Rings of all Colours. If you desire the
+Diameters of the Rings made by the Light of any other unmix'd Colour,
+you may find them readily by putting them to the Diameters of the bright
+yellow ones in a subduplicate Proportion of the Intervals of the Fits of
+the Rays of those Colours when equally inclined to the refracting or
+reflecting Surface which caused those Fits, that is, by putting the
+Diameters of the Rings made by the Rays in the Extremities and Limits of
+the seven Colours, red, orange, yellow, green, blue, indigo, violet,
+proportional to the Cube-roots of the Numbers, 1, 8/9, 5/6, 3/4, 2/3,
+3/5, 9/16, 1/2, which express the Lengths of a Monochord sounding the
+Notes in an Eighth: For by this means the Diameters of the Rings of
+these Colours will be found pretty nearly in the same Proportion to one
+another, which they ought to have by the fifth of these Observations.
+
+And thus I satisfy'd my self, that these Rings were of the same kind and
+Original with those of thin Plates, and by consequence that the Fits or
+alternate Dispositions of the Rays to be reflected and transmitted are
+propagated to great distances from every reflecting and refracting
+Surface. But yet to put the matter out of doubt, I added the following
+Observation.
+
+_Obs._ 9. If these Rings thus depend on the thickness of the Plate of
+Glass, their Diameters at equal distances from several Speculums made of
+such concavo-convex Plates of Glass as are ground on the same Sphere,
+ought to be reciprocally in a subduplicate Proportion of the thicknesses
+of the Plates of Glass. And if this Proportion be found true by
+experience it will amount to a demonstration that these Rings (like
+those formed in thin Plates) do depend on the thickness of the Glass. I
+procured therefore another concavo-convex Plate of Glass ground on both
+sides to the same Sphere with the former Plate. Its thickness was 5/62
+Parts of an Inch; and the Diameters of the three first bright Rings
+measured between the brightest Parts of their Orbits at the distance of
+six Feet from the Glass were 3.4-1/6.5-1/8. Inches. Now, the thickness
+of the other Glass being 1/4 of an Inch was to the thickness of this
+Glass as 1/4 to 5/62, that is as 31 to 10, or 310000000 to 100000000,
+and the Roots of these Numbers are 17607 and 10000, and in the
+Proportion of the first of these Roots to the second are the Diameters
+of the bright Rings made in this Observation by the thinner Glass,
+3.4-1/6.5-1/8, to the Diameters of the same Rings made in the third of
+these Observations by the thicker Glass 1-11/16, 2-3/8. 2-11/12, that
+is, the Diameters of the Rings are reciprocally in a subduplicate
+Proportion of the thicknesses of the Plates of Glass.
+
+So then in Plates of Glass which are alike concave on one side, and
+alike convex on the other side, and alike quick-silver'd on the convex
+sides, and differ in nothing but their thickness, the Diameters of the
+Rings are reciprocally in a subduplicate Proportion of the thicknesses
+of the Plates. And this shews sufficiently that the Rings depend on both
+the Surfaces of the Glass. They depend on the convex Surface, because
+they are more luminous when that Surface is quick-silver'd over than
+when it is without Quick-silver. They depend also upon the concave
+Surface, because without that Surface a Speculum makes them not. They
+depend on both Surfaces, and on the distances between them, because
+their bigness is varied by varying only that distance. And this
+dependence is of the same kind with that which the Colours of thin
+Plates have on the distance of the Surfaces of those Plates, because the
+bigness of the Rings, and their Proportion to one another, and the
+variation of their bigness arising from the variation of the thickness
+of the Glass, and the Orders of their Colours, is such as ought to
+result from the Propositions in the end of the third Part of this Book,
+derived from the Phaenomena of the Colours of thin Plates set down in the
+first Part.
+
+There are yet other Phaenomena of these Rings of Colours, but such as
+follow from the same Propositions, and therefore confirm both the Truth
+of those Propositions, and the Analogy between these Rings and the Rings
+of Colours made by very thin Plates. I shall subjoin some of them.
+
+_Obs._ 10. When the beam of the Sun's Light was reflected back from the
+Speculum not directly to the hole in the Window, but to a place a little
+distant from it, the common center of that Spot, and of all the Rings of
+Colours fell in the middle way between the beam of the incident Light,
+and the beam of the reflected Light, and by consequence in the center of
+the spherical concavity of the Speculum, whenever the Chart on which the
+Rings of Colours fell was placed at that center. And as the beam of
+reflected Light by inclining the Speculum receded more and more from the
+beam of incident Light and from the common center of the colour'd Rings
+between them, those Rings grew bigger and bigger, and so also did the
+white round Spot, and new Rings of Colours emerged successively out of
+their common center, and the white Spot became a white Ring
+encompassing them; and the incident and reflected beams of Light always
+fell upon the opposite parts of this white Ring, illuminating its
+Perimeter like two mock Suns in the opposite parts of an Iris. So then
+the Diameter of this Ring, measured from the middle of its Light on one
+side to the middle of its Light on the other side, was always equal to
+the distance between the middle of the incident beam of Light, and the
+middle of the reflected beam measured at the Chart on which the Rings
+appeared: And the Rays which form'd this Ring were reflected by the
+Speculum in Angles equal to their Angles of Incidence, and by
+consequence to their Angles of Refraction at their entrance into the
+Glass, but yet their Angles of Reflexion were not in the same Planes
+with their Angles of Incidence.
+
+_Obs._ 11. The Colours of the new Rings were in a contrary order to
+those of the former, and arose after this manner. The white round Spot
+of Light in the middle of the Rings continued white to the center till
+the distance of the incident and reflected beams at the Chart was about
+7/8 parts of an Inch, and then it began to grow dark in the middle. And
+when that distance was about 1-3/16 of an Inch, the white Spot was
+become a Ring encompassing a dark round Spot which in the middle
+inclined to violet and indigo. And the luminous Rings encompassing it
+were grown equal to those dark ones which in the four first Observations
+encompassed them, that is to say, the white Spot was grown a white Ring
+equal to the first of those dark Rings, and the first of those luminous
+Rings was now grown equal to the second of those dark ones, and the
+second of those luminous ones to the third of those dark ones, and so
+on. For the Diameters of the luminous Rings were now 1-3/16, 2-1/16,
+2-2/3, 3-3/20, &c. Inches.
+
+When the distance between the incident and reflected beams of Light
+became a little bigger, there emerged out of the middle of the dark Spot
+after the indigo a blue, and then out of that blue a pale green, and
+soon after a yellow and red. And when the Colour at the center was
+brightest, being between yellow and red, the bright Rings were grown
+equal to those Rings which in the four first Observations next
+encompassed them; that is to say, the white Spot in the middle of those
+Rings was now become a white Ring equal to the first of those bright
+Rings, and the first of those bright ones was now become equal to the
+second of those, and so on. For the Diameters of the white Ring, and of
+the other luminous Rings encompassing it, were now 1-11/16, 2-3/8,
+2-11/12, 3-3/8, &c. or thereabouts.
+
+When the distance of the two beams of Light at the Chart was a little
+more increased, there emerged out of the middle in order after the red,
+a purple, a blue, a green, a yellow, and a red inclining much to purple,
+and when the Colour was brightest being between yellow and red, the
+former indigo, blue, green, yellow and red, were become an Iris or Ring
+of Colours equal to the first of those luminous Rings which appeared in
+the four first Observations, and the white Ring which was now become
+the second of the luminous Rings was grown equal to the second of those,
+and the first of those which was now become the third Ring was become
+equal to the third of those, and so on. For their Diameters were
+1-11/16, 2-3/8, 2-11/12, 3-3/8 Inches, the distance of the two beams of
+Light, and the Diameter of the white Ring being 2-3/8 Inches.
+
+When these two beams became more distant there emerged out of the middle
+of the purplish red, first a darker round Spot, and then out of the
+middle of that Spot a brighter. And now the former Colours (purple,
+blue, green, yellow, and purplish red) were become a Ring equal to the
+first of the bright Rings mentioned in the four first Observations, and
+the Rings about this Ring were grown equal to the Rings about that
+respectively; the distance between the two beams of Light and the
+Diameter of the white Ring (which was now become the third Ring) being
+about 3 Inches.
+
+The Colours of the Rings in the middle began now to grow very dilute,
+and if the distance between the two Beams was increased half an Inch, or
+an Inch more, they vanish'd whilst the white Ring, with one or two of
+the Rings next it on either side, continued still visible. But if the
+distance of the two beams of Light was still more increased, these also
+vanished: For the Light which coming from several parts of the hole in

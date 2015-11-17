@@ -1,0 +1,487 @@
+a bridge, about which more or less controversy had arisen as to their
+practical safety, and the test was made under, as near as possible, actual
+conditions of attachment and loading. The annexed drawing shows the form
+and proportion of the beam and connection with the posts, together with
+the position of the track stringers. The actual static loads to which the
+beam could be subjected by the heaviest engines in use on the road, with
+weight of floor, is 40,000 lb. at each stringer bearing, the strains
+computed therefrom being as follows: Flange strains at _m_, 3,800 lb. per
+square inch; at _a_, 5,700 lb. per square inch; at _b_, 6,400 lb. per
+square inch. Shear strains in web, between _a_ and _b_, 2,600 lb. per
+square inch. Shear strains in web, between _a_ and end, 8,000 lb. per
+square inch at least section, or where the web is 2 feet 4 inches deep, or
+42 diameters between angle iron.
+
+[1] Abstract of a paper read before the American Society of Civil
+Engineers, November 16, 1887.
+
+[Illustration]
+
+[Illustration]
+
+_Rivets._--All rivets 7/8 inch diameter, or 15/26 inch when driven to fill
+holes; area of section, 0.6 square inch; bearing area, diameter x 3/8
+plate = 0.35 square inch, and for 1/2 inch plate 0.47 square inch. Post
+attachment, considering all the twenty-six rivets doing duty, yields
+rivet strain as follows: In shear, single 5,000 lb. per square inch: and
+bearing area--1/2 inch plate--6,600 lb. per square inch.
+
+_Connection of 3/8 Web to Flange Angles._--Taking the forty rivets between
+ends of girder and second stringer, the horizontal strain difference is
+162,000 lb., the rivets being strained 3,400 lb. per square inch double
+shear, and 11,600 lb. per square inch bearing area. Taking distance from
+ends to first stringer, the horizontal strain difference is 105,000 lb.,
+yielding on twenty rivets 4,200 lb. per square inch double shear, and
+15,000 lb. per square inch bearing area. Taking a short distance of 2 feet
+from ends, the horizontal strain is 70,000 lb. on ten rivets, giving 5,800
+lb. per square inch double shear, and 20,000 lb. per square inch bearing
+area. In these girders the weakness feared was in the end flange riveting
+and shear in end web, and caused the test recorded below. The test was
+recently made at the works of the Keystone Bridge Company, by means of
+hydraulic power applied at stringer points. Convenience made it necessary
+to make the test with the beam blocked up horizontal on the ground, so
+that the weight of the beam is necessarily neglected. The beam was
+connected with a pair of posts, precisely as in the actual structure,
+between which an additional girder was framed as a reaction base for the
+rams. The annexed diagram shows the general arrangements. The hydraulic
+power was derived from the testing machine plant of the Keystone
+establishment, and the deflections measured from a fine wire parallel to
+the lower flange, and about 3 inches therefrom. The diameter of the ram
+was 10 inches; area 78.54 inches. The record was as follows:
+
+   Gauge    Load on               Deflections.   Total
+  reading.  each ram.               _b_  _b_'     load.
+              lb.                   in.   in.     lb.
+
+   565       44,375                 1/8   1/8    177,500
+  1130       88,750                 5/16  5/16   355,000
+  1412      110,900                 3/8   3/8    443,600
+       No permanent set in above
+  1695      133,125 uncertain.      --    --     532,500
+       Permanent set scant 1/32 inch.
+  1980      155,500 not recorded.   --    --     622,000
+       Permanent set 5/32 inch.
+  2080 Failure commenced.           --    --     653,500
+
+Failure commenced through giving way of angle irons, beginning in a fine
+seam in the first bend of the lower flange from the end support, the seam
+being along the root of the angle, which continual pressure tore apart
+across the angle as shown, when the web commenced to tear like a sheet of
+paper, in direction and manner as exhibited on plate herewith--from
+photograph. From some cause not apparent the deflections were not similar
+at the symmetrical end rams, _a_, the point where the web failed--left
+side--being sharply deflected. While the angles showed root fracture at
+the opposite point, the web did not fail or show indications of so doing,
+the deflection being on an easy curve. With the extreme yielding of the
+lower flange angles, the angle brackets connecting girder with posts
+commenced to go, tearing likewise along the root, and stripping the heads
+from the extreme upper rivets as shown. The internal diaphragm connecting
+the channel sides of the posts was unaffected. The rivets connecting the
+ruptured flange with web appeared as perfect as when driven, and no
+indication was disclosed, as far as it was possible to tell, of the holes
+in the web elongating or any upsetting of bearing surface. There is no
+telling what the web and rivets would have borne had not the solid angle
+irons given way at the first bend. It is to be noted that flange plate
+with leg of angle attached thereto was intact, showing no indication of
+rupture.
+
+_Discussion._--Taking that stage of the experiment when a permanent set
+was first noted--viz., 1/32 inch--the recorded load was 532,500 lb., or as
+near as may be 3-1/3 times the basis on which the calculations in the
+first part of this paper were made--40,000 lb. on each stringer, or
+160,000 lb. total. Applying this ratio to the preceding computations, the
+iron would be apparently strained as follows:
+
+             { _m_ 3,800 x 3-1/3 = 12,600 lb. per square inch (psi).
+  Flanges at { _a_ 5,700 x 3-1/3 = 19,000 psi.
+             { _b_ 6,400 x 3-1/3 = 21,200 psi.
+
+  Web.  { Between _a_ and _b_, 2,600 x 3-1/3 = 8,700 lb. per square inch.
+        { At least section, 8,000 x 3-1/3 = 26,600 psi.
+
+          { Post attachment:
+          {  Bearing area,  6,600 x 3-1/3 = 22,000 lb. per square inch.
+          {  Single shear,  5,000 x 3-1/3 = 16,600 psi.
+  Rivets. { Web and flange connections, end rivets:
+          {  Bearing area, 20,000 x 3-1/3 = 66,600 psi.
+          {  Double shear,  5,800 x 3-1/3 = 19,300 psi.
+
+When failure in angles was first noted, the recorded load was 653,500 lb.,
+or slightly more than four times the computed basis of load, which would
+increase the above strains about one-fifth, giving a calculated flange
+strain when angle failed of some 15,000 lb. per square inch, and bearing
+area strain on end flange and web rivets about 80,000 lb. per square inch,
+neither of which could possibly be true, or the web would have torn out
+from the rivets, and the flanges be perfectly sound, well within elastic
+limits, although in the last case it is to be noted that the horizontal
+table of the flange was perfectly sound, the flange failure commencing
+primarily with a long split along the weld of the angle iron root,
+throwing the whole flange duty upon the vertical legs of the angle iron,
+when a rupture strain was quickly reached. Had the angles been rolled from
+a solid ingot, or on the German method of developing from a flat instead
+of from the ordinary welded pile, the strength of this beam would have
+been largely increased. The prime weakness in this beam was due,
+therefore, to the mode of manufacturing the angle irons, which were weak
+along the weld at the root. This was also shown in the end bracket angles
+uniting the beam to the posts. The writer deduces from this experiment
+that a plate web is an exceedingly stiff member, much stiffer than is
+commonly supposed; that the customary method of proportioning
+rivets--viz., the horizontal component between any two given points
+divided by allowable bearing pressure per square inch equals number of
+rivets required--is not true, and that the friction due to power riveting
+has enormous value. This beam was reported to the company interested as
+practically safe by the writer, on general considerations, before the
+experiment was made, and the opinion reaffirmed after the experiment.
+
+       *       *       *       *       *
+
+London Bridge cost $10,000,000. It is 900 feet long and 54 feet wide.
+100,000 persons pass over it every twenty-four hours. The lamp posts are
+made from cannon taken during the Peninsular War.
+
+
+
+
+                         HYDRAULIC TUBE PRESS.
+
+
+Forming metal tubes from circular plates by pressing or forcing them, by
+the aid of mandrels, through dies or annular rings, though comparatively a
+modern manufacture, is carried on to a considerable extent, and with the
+improvements that are almost daily being made in it, and the rapidly
+extending use of such tubes, this extraordinary process bids fair to
+become a most important manufacture.
+
+[Illustration]
+
+The press illustrated here was designed and made by Messrs. Henry Bessemer
+& Co., of Sheffield, for Mr. Samuel Walker, of Birmingham, for the
+manufacture of tubes of large size, and also for making hollow steel
+projectiles.
+
+The press is made entirely of Bessemer steel, and is of the three-column
+construction, a strong casting of triangular form serving as a base of the
+press; into this casting the three columns fit, and carry on their upper
+ends a like casting, forming a top or entablature. Into this top casting
+the main cylinder is fixed mouth downward, concentric with the machine.
+Two small cylinders for giving the return or upward stroke rest mouth
+upward in the bottom casting at opposite sides. The two rams of these
+cylinders pass through the ends of, and carry, a crosshead, upon which the
+main ram rests. The two lifting rams are made long enough to pass through
+holes in the top casting, and thus form guides to the crosshead and
+mandrel.
+
+The main ram is 24 in. in diameter, and has a stroke of 12 ft. The press
+is worked at a pressure of 3 tons per square inch, giving a down force of
+1,300 tons. The two lifting rams are each 8-1/2 in. in diameter, and give an
+upward force of 300 tons. This large upward force is required for
+stripping the tubes off the mandrels, in addition to raising the main ram
+crosshead, etc.
+
+Referring to the engraving, the main cylinder is seen at the top with the
+main ram carrying the crosshead, to which are connected the two lifting
+rams, the cylinders for which extend below ground. By this arrangement a
+reciprocating motion is obtained, rams only being used, the central ram
+giving the downward thrust, and the two smaller side rams giving the
+upward stroke.
+
+Mr. Walker has this press in operation, and from a disk of steel 3 ft. in
+diameter, having a mean thickness of about 4 in., he has raised a tube or
+cylinder with a solid end to it 3 ft. 6 in. long and 12 in. in diameter,
+of a uniform thickness of about 1 in., and sanguine hopes are entertained
+of producing greater results. Messrs. Bessemer & Co. are now making a
+larger press of similar construction.--_Engineering._
+
+
+
+
+        TIMBER, AND SOME OF ITS DISEASES.[2] By H. MARSHALL WARD.
+
+
+                                  VI.
+
+If we turn our attention for a moment to the illustrations in the first
+article, it will be remembered that our typical log of timber was clothed
+in a sort of jacket termed the cortex, the outer parts of which constitute
+what is generally known as the bark. This cortical covering is separated
+from the wood proper by the cambium, and I pointed out that the cells
+produced by divisions on the outside of the cambium cylinder are employed
+to add to the cortex.
+
+[2] Continued from SUPPLEMENT, No. 644, page 10281.
+
+Now this cortical jacket is a very complicated structure, since it not
+only consists of numerous elements, differing in different trees, but it
+also undergoes some very curious changes as the plant grows up into a
+tree. It is beyond the purpose of these articles to enter in detail into
+these anatomical matters, however; and I must refer the reader to special
+text books for them, simply contenting myself here with general truths
+which will serve to render clearer certain statements which are to follow.
+
+[Illustration: FIG. 20.--A piece of the cambium and cortical jacket of a
+young oak, at the end of the first year. It may be regarded as consisting
+of three parts, in addition to the cambium, C_a_. Beginning from the
+outside, we have: 1. Cork cells, X, formed from the cork cambium, C.C_a_:
+the cells developed on the inside of the latter, C_l_, are termed
+collenchyma, and go to add to the cortex. 2. The cortex proper, consisting
+of parenchyma cells, _pa_, some of which contain crystals. 3. The inner or
+secondary cortex (termed _phloem_ or bast), developed chiefly by the
+activity of the cambium, C_a_: this phloem consists of hard bast fibers,
+_hb_, sieve tubes, S, and cells, _c_, and is added to internally by the
+cambium, C_a_, each year. It is also traversed by medullary rays, M_r_,
+which are continuations of those in the wood. The dotted line, [psi], in
+the cortical parenchyma indicates where the new cork cambium will be
+developed: when this is formed, all the tissues (e.g. _pa_, C_l_) lying on
+the outside of the new cork will die, and constitute (together with the
+cork) the true _bark_.]
+
+It is possible to make two generalizations, which apply not only to the
+illustration (Fig. 20) here selected, but also to most of our timber
+trees. In the first place, the cortical jacket, taken as a whole, consists
+not of rigid lignified elements, such as the tracheids and fibers of the
+wood, but of thin-walled, soft, elastic elements of various kinds, which
+are easily compressed or displaced, and for the most part easily killed or
+injured--I say for the most part easily injured, because, as we shall see
+immediately, a reservation must be made in favor of the outermost tissue,
+or cork and bark proper, which is by no means so easily destroyed, and
+acts as a protection to the rest.
+
+The second generalization is, that since the cambium adds new elements to
+the cortex on the inside of the latter, and since the cambium cylinder as
+a whole is traveling radially outward--_i.e._, further from the pith--each
+year, as follows from its mode of adding the new annual rings of wood on
+to the exterior of the older ones, it is clear that the cortical jacket as
+a whole must suffer distention from within, and tend to become too small
+for the enlarging cylinder of rigid wood and growing cambium combined.
+Indeed, it is not difficult to see that unless certain provisions are made
+for keeping up the continuity of the cortical tissues, they must give way
+under the pressure from within. As we shall see, such a catastrophe is in
+part prevented by a very peculiar and efficient process.
+
+Before we can understand this, however, we must take a glance at the
+structural characters of the whole of this jacket (Fig. 20). While the
+branch or stem is still young, it may be conveniently considered as
+consisting of three chief parts.
+
+(1) On the outside is a thin layer of flat, tabular cork cells (Fig. 20,
+C_o_), which increase in number by the activity of certain layers of cells
+along a plane parallel to the surface of the stem or branch. These cells
+(C.C_a_) behave very much like the proper cambium, only the cells divided
+off from them do not undergo the profound changes suffered by those which
+are to become elements of the wood and inner cortex. The cells formed on
+the outside of the line C.C_a_ in fact simply become cork cells; while
+those formed on the inside of the line C.C_a_ become living cells (C_l_)
+very like those I am now going to describe.
+
+(2) Inside this cork-forming layer is a mass of soft, thin-walled "juicy"
+cells, _pa_, which are all living, and most of which contain granules of
+chlorophyl, and thus give the green color to the young cortex--a color
+which becomes toned down to various shades of olive, gray, brown, etc., as
+the layers of cork increase with the age of the part. It is because the
+corky layers are becoming thicker that the twig passes from green to gray
+or brown as it grows older. Now, these green living cells of the cortex
+are very important for our purpose, because, since they contain much food
+material and soft juicy contents of just the kind to nourish a parasitic
+fungus, we shall find that, whenever they are exposed by injury, etc.,
+they constitute an important place of weakness--nay, more, various fungi
+are adapted in most peculiar ways to get at them. Since these cells are
+for the most part living, and capable of dividing, also, we have to
+consider the part they play in increasing the extent of the cortex.
+
+(3) The third of the partly natural, partly arbitrary portions into which
+we are dividing the cortical jacket is found between the green, succulent
+cells (_pa_) of the cortex proper (which we have just been considering)
+and the proper cambium, C_a_, and it may be regarded as entirely formed
+directly from the cambium cells. These latter, developed in smaller
+numbers on the outside, toward the cortex, than on the inside, toward the
+wood, undergo somewhat similar changes in shape to those which go to add
+to the wood, but they show the important differences that their walls
+remain unlignified, and for the most part very thin and yielding, and
+retain their living contents. For the rest, we may neglect details and
+refer to the illustration for further particulars. The tissue in question
+is marked by S, _c_, _hb_ in the figure, and is called _phloem_ or bast.
+
+A word or two as to the functions of the cortex, though the subject
+properly demands much longer discussion. It may be looked upon as
+especially the part through which the valuable substances formed in the
+leaves are passing in various directions to be used where they are wanted.
+When we reflect that these substances are the foods from which everything
+in the tree--new cambium, new roots, buds, flowers, and fruit, etc.--are
+to be constructed, it becomes clear that if any enemy settles in the
+cortex and robs it of these substances, it reduces not only the general
+powers of the tree, but also--and this is the point which especially
+interests us now--its timber-producing capacity. In the same way, anything
+which cuts or injures the continuity of the cortical layers results in
+diverting the nutritive substances into other channels. A very large class
+of phenomena can be explained if these points are understood, which would
+be mysterious, or at least obscure, otherwise.
+
+Having now sketched the condition of this cortical jacket when the branch
+or stem is still young, it will be easy to see broadly what occurs as it
+thickens with age.
+
+In the first place, it is clear that the continuous sheet of cork (C_o_)
+must first be extended, and finally ruptured, by the pressure exerted from
+within. It is true, this layer is very elastic and extensible, and
+impervious to water or nearly so--in fact, it is a thin layer or skin,
+with properties like those of a bottle cork--but even it must give way as
+the cylinder goes on expanding, and it cracks and peels off. This would
+expose the delicate tissues below, if it were not for the fact that
+another layer of cork has by this time begun to form below the one which
+is ruptured: a cork-forming layer arises along the line [phi] and busily
+produces another sheet of this protective tissue in a plane more or less
+exactly parallel with the one which is becoming cracked. This new
+cork-forming tissue behaves as before: the outer cells become cork, the
+inner ones add to the green succulent parenchyma cells (_pa_). As years go
+on, and this layer in its turn splits and peels, others are formed further
+inward, and if it is remembered that a layer of cork is particularly
+impervious to water and air, it is easy to understand that each successive
+sheet of cork cuts off all the tissues on its exterior from participation
+in the life processes of the plant: consequently we have a gradually
+increasing _bark_ proper, formed of the accumulated cork layers and other
+dead tissues.
+
+A great number of interesting points, important in their proper
+connections, must be passed over here. Some of these refer to the anatomy
+of the various "barks"--the word "bark" being commonly used in commerce to
+mean the whole of the cortical jacket--the places of origin of the cork
+layer, and the way in which the true bark peels off: those further
+interested here may compare the plane, the birch, the Scotch pine, and the
+elm, for instance, with the oak. Other facts have reference to the
+chemical and other substances found in the cells of the cortex, and which
+make "barks" of value commercially. I need only quote the alkaloids in
+cinchona, the fibers in the malveceae, the tannin in the oaks, the coloring
+matter in _Garcinia_ (gamboge), the gutta percha from _Isonandra_, the
+ethereal oil of cinnamon, as a few examples in this connection, since our
+immediate subject does not admit of a detailed treatment of these
+extremely interesting matters.
+
+The above brief account may suffice to give a general idea of what the
+cortical jacket covering our timber is, and how it comes about that in the
+normal case the thickening of the cylinder is rendered possible without
+exposing the cambium and other delicate tissues: it may also serve to show
+why bark is so various in composition and other characters. But it is also
+clear that this jacket of coherent bark, bound together by the elastic
+sheets of cork, must exert considerable pressure as it reacts on the
+softer, living, succulent parts of the cortex, trapped as they are between
+the rigid wood cylinder and the bark; and it is easy to convince
+ourselves that such is the case. By simply cutting a longitudinal slit
+through the cortex, down to near the cambium, but taking care not to
+injure the latter, the following results may be obtained. First, the bark
+gapes, the raw edges of the wound separating and exposing the tissues
+below; next in course of time the raw edges are seen to be healed over
+with cork--produced by the conversion of the outer cells into cork cells.
+As time passes, provided no external interference occurs, the now rounded
+and somewhat swollen cork-covered edges of the wound will be found closing
+up again; and sooner or later, depending chiefly on the extent of the
+wound and the vigor of the tree, the growing lips of the wound will come
+together and unite completely.
+
+But examination will show that although such a slit wound is so easily
+healed over, it has had an effect on the wood. Supposing it has required
+three years to heal over, it will be found that the new annual rings of
+wood are a little thicker just below the slit; this is simply because the
+slit had released the pressure on the cambium. The converse has also been
+proved to be true--_i.e._, by increasing the pressure on the cambium by
+means of iron bands, the annual rings below the bands are thinner and
+denser than elsewhere.
+
+But we have also seen that the cambium is not the only living tissue below
+the bark: the cortical parenchyma (_pa_) and the cells (_c_) of the inner
+cortex (technically the phloem) are all living and capable of growth and
+division, as was described above. The release from pressure affects them
+also; in fact, the "callus," or cushion of tissue which starts from the
+lips of the wound and closes it over, simply consists of the rapidly
+growing and dividing cells of this cortex, _i.e._, the release from
+pressure enables them to more than catch up the enlarging layer of cortex
+around the wound.
+
+An elegant and simple instance of this accelerated growth of the cortex
+and cambium when released from the pressure of other tissues is exhibited
+in the healing over of the cut ends of a branch, a subject to be dealt
+with later on; and the whole practice of propagation by slips or cuttings,
+the renewal of the "bark" of cinchonas, and other economic processes,
+depend on these matters.
+
+In anticipation of some points to be explained only if these phenomena are
+understood, I may simply remark here that, obviously, if some parasite
+attacks the growing lips of the "callus" as it is trying to cover up the
+wound, or if the cambium is injured below, the pathological disturbances
+thus introduced will modify the result: the importance of this will appear
+when we come to examine certain disturbances which depend upon the attacks
+of fungi which settle on these wounds before they are properly healed
+over. In concluding this brief sketch of a large subject, it may be noted
+that, generally speaking, what has been stated of branches, etc., is also
+true of roots; and it is easy to see how the nibbling or gnawing of small
+animals, the pecking of birds, abrasions, and numerous other things, are
+so many causes of such wounds in the forest.
+
+                          (_To be continued._)
+
+
+
+
+                   SIBLEY COLLEGE LECTURES.--1887-88.
+
+      BY THE CORNELL UNIVERSITY NON-RESIDENT LECTURERS IN MECHANICAL
+                              ENGINEERING.
+
+             III.--THE EVOLUTION OF THE MODERN MILL.[3]
+
+                  By C. J. H. WOODBURY, Boston, Mass.
+
+
+                              BELT TOWERS.
+
+The distribution of power has not always received the judicious treatment
+which its importance deserves. There are but few references to this
+question in the books on the subject, and these treat of methods that are
+not in accordance with the application of the art in its present state.
+
+[3] Continued from SUPPLEMENT, No. 647, page 10331.
+
+The lecture was illustrated by about fifty views on the screen, which
+cannot be reproduced here, showing photographs of mills and mechanical
+drawings of the methods of construction alluded to in the lecture.
+
+The early form of the distribution of power consisted in placing a
+vertical shaft extending through the whole mill and distributing the power
+at each story by means of beveled gears, generally of skew-beveled form.
+The mechanical defects of such a method of distributing power, with regard
+to protection, repairs, and necessary care, are readily apparent, and
+there have also been many severe accidents caused by the breaking of teeth
+in these gears.
+
+The present method of distributing power in this country is entirely by
+lines of belts extending up through what is known as a belt tower, which
+constitutes an element of great fire hazard to a mill. In some cases the
+belts are carried from story to story, covered by a casing of wood, and in
+other instances the tower forms a flue which may be the means of the rapid
+spread of fire throughout the building.
+
+Before the introduction of automatic sprinklers there was not, I believe,
+a single instance of a fire entering the lower portion of a belt tower
+during working hours without accomplishing the destruction of the mill.
+Since the equipment of such places with automatic sprinklers, there have
+been several fires of this nature extinguished with nearly nominal damage.
+That is to say, the hazard of fire starting in such places is beyond the
+capacity of any apparatus other than automatic sprinklers to cope with it.
+
+It would be impossible to arrange the distribution of power in many mills
+to conform to conditions of safety without reorganizing the whole plant,
+which would, of course, be impracticable. But in many instances
+modifications can be introduced which will diminish the hazard to a great
+degree. When the pulleys and belting are covered with sheathing in each
+room, the continuity of these flues can be broken by removing this
+sheathing down to the height of four or five feet above the floor, so that
+the covering will merely constitute a physical protection to any one
+approaching the belting.
+
+The best method of arranging the belt tower has been in the case of a mill
+at Fall River, which was erected upon the ruins of a building destroyed by
+a fire originating in the belt tower. The machinery is driven by a steam
+engine situated in an ell projecting from one side at about the middle of
+the mill; and the main belt communicates to pulleys in a stone masonry
+tower located directly inside the walls of the main mill; and thence,
+from pulley to pulley, the power is communicated to each floor by shafting
+passing through holes left in the tower, and in no instances by means of

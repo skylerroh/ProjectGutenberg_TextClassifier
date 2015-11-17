@@ -1,0 +1,445 @@
+        |     December, 1880  |  0.58  |   1.85  |   1.06  |   0.30  |   0.28  |
+   515  |December 1880-       |        |         |         |         |         |
+        |     April 1881      |  1.21  |   2.00  |   1.54  |   1.25  |   0.61  |
+--------+---------------------+--------+---------+---------+---------+---------+
+ 2,527  |Five periods         |  6.37  |  16.34  |   9.15  |   6.15  |   2.56  |
+--------+---------------------+--------+---------+---------+---------+---------+
+
+
+Now, the source of infection in cases of small-pox is often more easy to
+find than in cases of some other forms of infectious disease, and mainly
+for two reasons:
+
+1. That the onset of small-pox is usually sudden and striking, such as is
+not likely to escape observation.
+
+2. That the so-called incubative period is very definite and regular,
+being just a fortnight from infection to eruption.
+
+The old experiments of inoculation practiced on our forefathers have
+taught us that from inoculation to the first appearance of the rash is
+just twelve days. Given a case of small-pox, then one has only to go
+carefully over the doings and movements of the patient on the days about
+a fortnight preceding in order to succeed very often in finding the
+source of infection.
+
+In the fortnight ending February 5, 1881, forty-one houses were attacked
+by small-pox in the special mile circle round the hospital, and in this
+limited outbreak it was found, as previously, that the severity of
+incidence bore an exact inverse proportion to the distance from the
+hospital.
+
+The greater part of these were attacked in the five days January 26-30,
+1881, and in seeking for the source of infection of these cases, special
+attention was directed to the time about a fortnight previous viz.,
+January 12-17, 1881. The comings and goings of all who had been directly
+connected with the hospital (ambulances, visitors, patients, staff,
+nurses, etc.) were especially inquired into, but with an almost negative
+result, and Mr. Power was reluctantly forced to the conclusion that
+small-pox poison had been disseminated through the air.
+
+During the period when the infection did spread, the atmospheric
+conditions were such as would be likely to favor the dissemination of
+particulate matter. Mr. Power says: "Familiar illustration of that
+conveyance of particulate matter which I am here including in the term
+dissemination is seen, summer and winter, in the movements of particles
+forming mist and fog. The chief of these are, of course, water particles,
+but these carry gently about with them, in an unaltered form, other
+matters that have been suspended in the atmosphere, and these other
+matters, during the almost absolute stillness attending the formation of
+dew and hoar frost, sink earthward, and may often be recognized after
+their deposit.
+
+"As to the capacity of fogs to this end, no Londoner needs instruction;
+and few persons can have failed to notice the immense distances that
+odors will travel on the 'air breaths' of a still summer night. And there
+are reasons which require us to believe particulate matter to be more
+easy of suspension in an unchanged form during any remarkable calmness of
+atmosphere. Even quite conspicuous objects, such as cobwebs, may be held
+up in the air under such conditions. Probably there are few observant
+persons of rural habits who cannot call to mind one or another still
+autumn morning, when from a cloudless, though perhaps hazy, sky, they
+have noted, over a wide area, steady descent of countless spider webs,
+many of them well-nigh perfect in all details of their construction."
+
+A reference to the meteorological returns issued by the registrar-general
+shows that on the 12th of January, 1881, began a period of severe frost,
+characterized by still, sometimes foggy, weather, with occasional light
+airs from nearly all points of the compass. This state of affairs
+continued till January 18, when there was a notable snow storm, and a
+gale from the E.N.E. For four days, up to and inclusive of January 8,
+ozone was present in more than its usual amounts. During January 9-16, it
+was absent. On January 17 it reappeared, and on January 18 it was
+abundant. Similar meteorological conditions (calm and no ozone) were
+found to precede previous epidemics.
+
+Mr. Power's report, with regard to Fulham, seems conclusive, and there is
+a strong impression that hospitals, other than Fulham, have served as
+centers of dissemination.
+
+In the last lecture I gave you the opinion of M. Bertillon, of Paris, and
+quoted figures in support of that opinion. It is a fact of some
+importance to remember that small-pox is one of those diseases which has
+a peculiar odor, recognizable by the expert. As to its conveyance for
+long distances through the air, there are some curious facts quoted by
+Professor Waterhouse, of Cambridge, Massachusetts, in a letter addressed
+to Dr. Haygarth at the close of the last century. Professor Waterhouse
+states that at Boston there was a small-pox hospital on one side of a
+river, and opposite it, 1,500 yards away, was a dockyard, where, on a
+certain misty, foggy day, with light airs just moving in a direction from
+the hospital to the dockyard, ten men were working. Twelve days later all
+but two of these men were down with small-pox, and the only possible
+source of infection was the hospital across the river. (_To be
+continued_.)
+
+       *       *       *       *       *
+
+
+
+
+SUNLIGHT COLORS.
+
+[Footnote: Lecture delivered by Capt. W. De W. Abney, R.E., P.B.S., at
+the Royal Institution, on February 25, 1887.--_Nature_.]
+
+By Capt. W. DE W. ABNEY.
+
+
+Sunlight is so intimately woven up with our physical enjoyment of life
+that it is perhaps not the most uninteresting subject that can be chosen
+for what is--perhaps somewhat pedantically--termed a Friday evening
+"discourse." Now, no discourse ought to be be possible without a text on
+which to hang one's words, and I think I found a suitable one when
+walking with an artist friend from South Kensington Museum the other day.
+The sun appeared like a red disk through one of those fogs which the east
+wind had brought, and I happened to point it out to him. He looked, and
+said, "Why is it that the sun appears so red?" Being near the railway
+station, whither he was bound, I had no time to enter into the subject,
+but said if he would come to the Royal Institution this evening I would
+endeavor to explain the matter. I am going to redeem that promise, and to
+devote at all events a portion of the time allotted to me in answering
+the question why the sun appears red in a fog. I must first of all appeal
+to what every one who frequents this theater is so accustomed, viz., the
+spectrum. I am going not to put it in the large and splendid stripe of
+the most gorgeous colors before you, with which you are so well
+acquainted, but my spectrum will take a more modest form of purer colors,
+some twelve inches in length.
+
+I would ask you to notice which color is most luminous. I think that no
+one will dispute that in the yellow we have the most intense luminosity,
+and that it fades gradually in the red on the one side and in the violet
+on the other. This, then, may be called a qualitative estimate of
+relative brightnesses; but I wish now to introduce to you what was novel
+last year, a quantitative method of measuring the brightness of any part.
+
+Before doing this I must show you the diagram of the apparatus which I
+shall employ in some of my experiments.
+
+[Illustration: FIG. 1.--COLOR PHOTOMETER.]
+
+RR are rays (Fig. I) coming from the arc light, or, if we were using
+sunlight, from a heliostat, and a solar image is formed by a lens, L_{1},
+on the slit, S_{1} of the collimator, C. The parallel rays produced by
+the lens, L_{2}, are partially refracted and partially reflected. The
+former pass through the prisms, P_{1}P_{2}, and are focused to form a
+spectrum by a lens, L_{3}, on D, a movable ground glass screen. The rays
+are collected by a lens, L_{4}, tilted at an angle as shown, to form a
+white image of the near surface of the second prism on F.
+
+Passing a card with a narrow slit, S_{2}, cut in it in front of the
+spectrum, any color which I may require can be isolated. The consequence
+is that, instead of the white patch upon the screen, I have a colored
+patch, the color of which I can alter to any hue lying between the red
+and the violet. Thus, then, we are able to get a real patch of very
+approximately homogeneous light to work with, and it is with these
+patches of color that I shall have to deal. Is there any way of measuring
+the brightness of these patches? was a question asked by General Festing
+and myself. After trying various plans, we hit upon the method I shall
+now show you, and if any one works with it he must become fascinated with
+it on account of its almost childish simplicity--a simplicity, I may
+remark, which it took us some months to find out. Placing a rod before
+the screen, it casts a black shadow surrounded with a colored background.
+Now I may cast another shadow from a candle or an incandescence lamp, and
+the two shadows are illuminated, one by the light of the colored patch
+and the other by the light from an incandescence lamp which I am using
+tonight. [Shown.] Now one stripe is evidently too dark. By an arrangement
+which I have of altering the resistance interposed between the battery
+and the lamp, I can diminish or increase the light from the lamp, first
+making the shadow it illuminates too light and then too dark compared
+with the other shadow, which is illuminated by the colored light.
+Evidently there is some position in which the shadows are equally
+luminous. When that point is reached, I can read off the current which is
+passing through the lamp, and having previously standardized it for each
+increment of current, I know what amount of light is given out. This
+value of the incandescence lamp I can use as an ordinate to a curve, the
+scale number which marks the position of the color in the spectrum being
+the abscissa. This can be done for each part of the spectrum, and so a
+complete curve can be constructed, which we call the illumination curve
+of the spectrum of the light under consideration.
+
+Now, when we are working in the laboratory with a steady light, we may be
+at ease with this method, but when we come to working with light such as
+the sun, in which there may be constant variation, owing to passing, and
+may be usually imperceptible, mist, we are met with a difficulty; and in
+order to avoid this, General Festing and myself substituted another
+method, which I will now show you. We made the comparison light part of
+the light we were measuring. Light which enters the collimating lens
+partly passes through the prisms and is partly reflected from the first
+surface of the prism; that we utilize, thus giving a second shadow. The
+reflected rays from P_{1} fall on G, a silver on glass mirror. They are
+collected by L_{5}, and form a white image of the prism also at F.
+
+The method we can adopt of altering the intensity of the comparison light
+is by means of rotating sectors, which can be opened or closed at will,
+and the two shadows thus made equally luminous. [Shown.] But although
+this is an excellent plan for some purposes, we have found it better to
+adopt a different method. You will recollect that the brightest part of
+the spectrum is in the yellow, and that it falls off in brightness on
+each side, so instead of opening and closing the sectors, they are set at
+fixed intervals, and the slit is moved in front of the spectrum, just
+making the shadow cast by the reflected beam too dark or too light, and
+oscillating between the two till equality is discovered. The scale number
+is then noted, and the curve constructed as before. It must be remembered
+that, on each side of the yellow, equality can be established.
+
+This method of securing a comparison light is very much better for sun
+work than any other, as any variation in the light whose spectrum is to
+be measured affects the comparison light in the same degree. Thus,
+suppose I interpose an artificial cloud before the slit of the
+spectroscope, having adjusted the two shadows, it will be seen that the
+passage of steam in front of the slit does not alter the relative
+intensities; but this result must be received with caution. [The lecturer
+then proceeded to point out the contrast colors that the shadow of the
+rod illuminated by white light assumed.]
+
+I must now make a digression. It must not be assumed that every one has
+the same sense of color, otherwise there would be no color blindness.
+Part of the researches of General Festing and myself have been on the
+subject of color blindness, and these I must briefly refer to. We test
+all who come by making them match the luminosity of colors with white
+light, as I have now shown you. And as a color blind person has only two
+fundamental color perceptions instead of three, his matching of
+luminosities is even more accurate than is that made by those whose eyes
+are normal or nearly normal. It is curious to note how many people are
+more or less deficient in color perception. Some have remarked that it is
+impossible that they were color blind and would not believe it, and
+sometimes we have been staggered at first with the remarkable manner in
+which they recognized color to which they ultimately proved deficient in
+perception. For instance, one gentleman when I asked him the name of a
+red color patch, said it was sunset color. He then named green and blue
+correctly, but when I reverted to the red patch he said green.
+
+On testing further, he proved totally deficient in the color perception
+of red, and with a brilliant red patch he matched almost a black shadow.
+The diagram shows you the relative perceptions in the spectrum of this
+gentleman and myself. There are others who only see three-quarters,
+others half, and others a quarter the amount of red that we see, while
+some see none. Others see less green and others less violet, but I have
+met with no one that can see more than myself or General Festing, whose
+color perceptions are almost identical. Hence we have called our curve of
+illumination the "normal curve."
+
+We have tested several eminent artists in this manner, and about one half
+of the number have been proved to see only three quarters of the amount
+of red which we see. It might be thought that this would vitiate their
+powers of matching color, but it is not so. They paint what they see; and
+although they see less red in a subject, they see the same deficiency in
+their pigments; hence they are correct. If totally deficient, the case of
+course would be different.
+
+Let us carry our experiments a step further, and see what effect what is
+known as a turbid medium has upon the illuminating value of different
+parts of the spectrum. I have here water which has been rendered turbid
+in a very simple manner. In it has been very cautiously dropped an
+alcoholic solution of mastic. Now mastic is practically insoluble in
+water, and directly the alcoholic solution comes in contact with the
+water it separates out in very fine particles, which, from their very
+fineness, remain suspended in the water. I propose now to make an
+experiment with this turbid water.
+
+I place a glass cell containing water in front of the slit, and on the
+screen I throw a patch of blue light. I now change it for turbid water in
+a cell. This thickness much dims the blue; with a still greater thickness
+the blue has almost gone. If I measure the intensity of the light at each
+operation, I shall find that it diminishes according to a certain law,
+which is of the same nature as the law of absorption. For instance, if
+one inch diminishes the light one half, the next will diminish it half of
+that again, the next half of that again, while the fourth inch will cause
+a final diminution of the total light of one sixteenth. If the first inch
+allows only one quarter of the light, the next will only allow one
+sixteenth, and the fourth inch will only permit 1/256 part to pass.
+
+Let us, however, take a red patch of light and examine it in the same
+way. We shall find that, when the greater thickness of the turbid medium
+we used when examining the blue patch of light is placed in front of the
+slit, much more of this light is allowed to pass than of the blue. If we
+measure the light, we shall find that the same law holds good as before,
+but that the proportion which passes is invariably greater with the red
+than the blue. The question then presents itself: Is there any connection
+between the amounts of the red and the blue which pass?
+
+Lord Rayleigh, some years ago, made a theoretical investigation of the
+subject. But, as far as I am aware, no definite experimental proof of the
+truth of the theory was made till it was tested last year by General
+Festing and myself. His law was that for any ray, and through the same
+thickness, the light transmitted varied inversely as the fourth power of
+the wave length. The wave length 6,000 lies in the red, and the wave
+length 4,000 in the violet. Now 6,000 is to 4,000 as 3 to 2, and the
+fourth powers of these wave lengths are as 81 to 16, or as about 5 to 1.
+If, then, the four inches of our turbid medium allowed three quarters of
+this particular red ray to be transmitted, they would only allow (3/4)^{5},
+or rather less than one fourth, of the blue ray to pass.
+
+Now, this law is not like the law of absorption for ordinary absorbing
+media, such as colored glass for instance, because here we have an
+increased loss of light running from the red to the blue, and it matters
+not how the medium is made turbid, whether by varnish, suspended sulphur,
+or what not. It holds in every case, so long as the particles which make
+the medium turbid are small enough. And please to recollect that it
+matters not in the least whether the medium which is rendered turbid is
+solid, liquid, or air. Sulphur is yellow in mass, and mastic varnish is
+nearly white, while tobacco smoke when condensed is black, and very
+minute particles of water are colorless; it matters not what the color
+is, the loss of light is _always_ the same. The result is simply due to
+the scattering of light by fine particles, such particles being small in
+dimensions compared with a wave of light. Now, in this trough is
+suspended 1/1000 of a cubic inch of mastic varnish, and the water in it
+measures about 100 cubic inches, or is 100,000 times more in bulk than
+the varnish. Under a microscope of ordinary power it is impossible to
+distinguish any particles of varnish; it looks like a homogeneous fluid,
+though we know that mastic will not dissolve in water.
+
+Now a wave length in the red is about 1/40000 of an inch, and a little
+calculation will show that these particles are well within the necessary
+limits. Prof. Tyndall has delighted audiences here with an exposition of
+the effect of the scattering of light by small particles in the formation
+of artificial skies, and it would be superfluous for me to enter more
+into that. Suffice it to say that when particles are small enough to form
+the artificial blue sky, they are fully small enough to obey the above
+law, and that even larger particles will suffice. We may sum up by saying
+that very fine particles scatter more blue light than red light, and that
+consequently more red light than blue light passes through a turbid
+medium, and that the rays obey the law prescribed by theory.
+
+I will exemplify this once more by using the whole spectrum and placing
+this cell, which contains hyposulphite of soda in solution in water, in
+front of the slit. By dropping in hydrochloric acid, the sulphur
+separates out in minute particles; and you will see that, as the
+particles increase in number, the violet, blue, green, and yellow
+disappear one by one and only red is left, and finally the red disappears
+itself.
+
+Now let me revert to the question why the sun is red at sunset. Those who
+are lovers of landscape will have often seen on some bright summer's day
+that the most beautiful effects are those in which the distance is almost
+of a match to the sky. Distant hills, which when viewed close to are
+green or brown, when seen some five or ten miles away appear of a
+delicate and delicious, almost of a cobalt, blue color. Now, what is the
+cause of this change in color? It is simply that we have a sky formed
+between us and the distant ranges, the mere outline of which looms
+through it. The shadows are softened so as almost to leave no trace, and
+we have what artists call an atmospheric effect. If we go into another
+climate, such as Egypt or among the high Alps, we usually lose this
+effect. Distant mountains stand out crisp with black shadows, and the
+want of atmosphere is much felt. [Photographs showing these differences
+were shown.] Let us ask to what this is due. In such climates as England
+there is always a certain amount of moisture present in the atmosphere,
+and this moisture may be present as very minute particles of water--so
+minute indeed that they will sink down in an atmosphere of normal
+density--or as vapor. When present as vapor the air is much more
+transparent, and it is a common expression to use, that when distant
+hills look "so close" rain may be expected shortly to follow, since the
+water is present in a state to precipitate in larger particles. But when
+present as small particles of water the hills look very distant, owing to
+what we may call the haze between us and them. In recent weeks every one
+has been able to see very multiplied effects of such haze. The ends of
+long streets, for instance, have been scarcely visible, though the sun
+may have been shining, and at night the long vistas of gas lamps have
+shown light having an increasing redness as they became more distant.
+Every one admits the presence of mist on these occasions, and this mist
+must be merely a collection of intangible and very minute particles of
+suspended water. In a distant landscape we have simply the same or a
+smaller quantity of street mist occupying, instead of perhaps 1,000
+yards, ten times that distance. Now I would ask, What effect would such a
+mist have upon the light of the sun which shone through it?
+
+It is not in the bounds of present possibility to get outside our
+atmosphere and measure by the plan I have described to you the different
+illuminating values of the different rays, but this we can do: First, we
+can measure these values at different altitudes of the sun, and this
+means measuring the effect on each ray after passing through different
+thicknesses of the atmosphere, either at different times of day or at
+different times of the year, about the same hour. Second, by taking the
+instrument up to some such elevation as that to which Langley took his
+bolometer at Mount Whitney, and so to leave the densest part of the
+atmosphere below us.
+
+[Illustration: FIG. 2.--RELATIVE LUMINOSITIES.]
+
+Now, I have adopted both these plans. For more than a year I have taken
+measurements of sunlight in my laboratory at South Kensington, and I have
+also taken the instrument up to 8,000 feet high in the Alps, and made
+observations _there_, and with a result which is satisfactory in that
+both sets of observations show that the law which holds with artificially
+turbid media is under ordinary circumstances obeyed by sunlight in
+passing through our air: which is, you will remember, that more of the
+red is transmitted than of the violet, the amount of each depending on
+the wave length. The luminosity of the spectrum observed at the Riffel I
+have used as my standard luminosity, and compared all others with it. The
+result for four days you see in the diagram.
+
+I have diagrammatically shown the amount of different colors which
+penetrated on the same days, taking the Riffel as ten. It will be seen
+that on December 23 we have really very little violet and less than half
+the green, although we have four fifths of the red.
+
+The next diagram before you shows the minimum loss of light which I have
+observed for different air thicknesses. On the top we have the calculated
+intensities of the different rays outside our atmosphere. Thus we have
+that through one atmosphere, and two, three, and four. And you will see
+what enormous absorption there is in the blue end at four atmospheres.
+The areas of these curves, which give the total luminosity of the light,
+are 761, 662, 577, 503, and 439; and if observed as astronomers observe
+the absorption of light, by means of stellar observations, they would
+have had the values, 761, 664, 578, 504, and 439--a very close
+approximation one to the other.
+
+Next notice in the diagram that the top of the curve gradually inclines
+to go to the red end of the spectrum as you get the light transmitted
+through more and more air, and I should like to show you that this is the
+case in a laboratory experiment. Taking a slide with a wide and long slot
+in it, a portion is occupied by a right angled prism, one of the angles
+of 45 deg. being toward the center of the slot. By sliding this prism in
+front of the spectrum I can deflect outward any portion of the spectrum I
+like, and by a mirror can reflect it through a second lens, forming a
+patch of light on the screen overlapping the patch of light formed by the
+undeflected rays. If the two patches be exactly equal, white light is
+formed. Now, by placing a rod as before in front of the patch, I have two
+colored stripes in a white field, and though the background remains of
+the same intensity of white, the intensities of the two stripes can be
+altered by moving the right angled prism through the spectrum. The two
+stripes are now apparently equally luminous, and I see the point of
+equality is where the edge of the right angled prism is in the green.
+Placing a narrow cell filled with our turbid medium in front of the slit,
+I find that the equality is disturbed, and I have to allow more of the
+yellow to come into the patch formed by the blue end of the spectrum, and
+consequently less of it in the red end. I again establish equality.
+Placing a thicker cell in front, equality is again disturbed, and I have
+to have less yellow still in the red half, and more in the blue half. I
+now remove the cell, and the inequality of luminosity is still more
+glaring. This shows, then, that the rays of maximum luminosity must
+travel toward the red as the thickness of the turbid medium is increased.
+
+The observations at 8,000 feet, here recorded, were taken on September
+15, at noon, and of course in latitude 46 deg. the sun could not be overhead,
+but had to traverse what would be almost exactly equivalent to the
+atmosphere at sea level. It is much nearer the calculated intensity for
+no atmosphere intervening than it is for one atmosphere. The explanation
+of this is easy. The air is denser at sea level than at 8,000 feet up,
+and the lower stratum is more likely to hold small water particles or
+dust in suspension than is the higher.
+
+[Illustration: FIG. 3.--PROPORTIONS OF TRANSMITTED COLORS.]
+
+For, however small the particles may be, they will have a greater
+tendency to sink in a rare air than in a denser one, and less water vapor

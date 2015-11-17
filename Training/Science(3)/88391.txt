@@ -1,0 +1,518 @@
+certain directions were freed from the disturbing influence. While, for
+instance, the Red Sea cable was not noticeably affected, the land
+line to Bombay, forming a continuation of this cable, was materially
+disturbed. The Marseilles-Algiers cable, so seriously influenced in
+1871, showed no signs at all, but as may be expected, the north of
+Europe suffered more than the south, and in Nystad, Finland, the
+galvanometer indicated an intensity of current equal to that of 200
+Leclanche cells.
+
+Since thunderstorms are generally local, it is only natural that their
+effect upon telegraph cables should also be confined to one locality.
+Numerous careful observations, carried out over considerable periods of
+time, show that the disturbing influences of thunderstorms on telegraph
+lines are of less duration and more varying in direction and intensity
+than those of the aurora borealis. Long lines suffer less than short
+lines; telegraph wires above ground are more easily and more intensely
+affected than underground cables. It is, however, possible, that this is
+mainly due to the fact that in the districts where strict records were
+kept, in the German Empire, most of the long lines are underground
+cables, while most of the short local lines are overground wires. The
+results of the disturbances varied; in Hughes's apparatus the armatures
+were thrown off, lines in operation indicated wrong signs, dots became
+dashes, and the spaces were either multiplied in size or number,
+according to the direction of the earth currents induced by the
+thunderstorms. Since these observations extended over nearly 2,000
+cases, some conclusions might fairly be drawn from them. For the purpose
+of a more complete knowledge on this subject, Dr. Wykander recommends a
+series of regular observations on earth currents to be carried out at
+different stations, well distributed over the whole surface of the
+globe, these observations to be made between six and eight A.M., and at
+the same time in the evening. Special arrangements to be made at various
+stations to record exceptionally intense disturbances during the
+phenomena of the aurora borealis, notice to be taken of time, direction,
+intensity, and all further particulars. Since this question appears to
+bear a considerable amount of influence on underground cables, it is one
+that deserves serious attention before earth cables are more generally
+introduced; there can, however, be little doubt that they are not nearly
+so much exposed as overhead wires to disturbing influences of other
+kinds, such as snow, rain, wind, etc., while they certainly do
+suffer, though perhaps in a less degree, by electrical
+disturbances.--_Engineering_.
+
+       *       *       *       *       *
+
+
+
+
+THE PHOTOGRAPHIC IMAGE: WHAT IT IS.
+
+[Footnote: A communication to the Sheffield Photographic Society in the
+_British Journal of Photography_.]
+
+
+It is quite possible that in the remarks I propose making this evening
+in connection with the photographic art I may mention topics and some
+details which are familiar to many present; but as chemistry and optical
+and physical phenomena enter largely into the theory and practice
+of photography, the field is so extensive there is always something
+interesting and suggestive even in the rudiments, especially to those
+who are commencing their studies. Although this paper may be considered
+an introductory one, I do not wish to load it with any historical
+account, or describe the early methods of producing a light picture, but
+shall at once take for my subject, "The Photographic Image: What It
+Is," and under this heading I must restrict myself to the collodion and
+silver or wet process, leaving gelatine dry plates, collodio-chloride,
+platinum, carbontype, and the numerous other types which are springing
+up in all directions for future consideration.
+
+Now, in an ordinary pencil, pen and ink, or sepia sketch we have a
+deposit of a dark, non-reflecting substance, which gives the outline of
+a figure on a lighter background. The different gradations of shade
+are acquired by a more or less deposit of lead, ink, or sepia. In
+photography--at least in the ordinary silver process--the image is
+formed by a deposition of metallic silver or organic oxide in a minute
+state of division, either on glass, paper, or other suitable material.
+This is brought about by the action of light and certain reagents. Light
+has long been recognized as a motive power comparable with heat or
+electricity. Its action upon the skin, fading of colors, and effect
+on the growth of vegetable and animal organisms are well known; and,
+although the exact molecular change in many instances is not clearly
+understood, yet certain salts of silver, iron, the alkaline bichromates,
+and some organic materials--as bitumen and gelatine--have been pretty
+well worked out.
+
+It is a remarkable and well-known fact that the chloride, iodide, and
+bromide of silver--called "sensitive salts" in photography--are not
+susceptible (at least only slowly) to change when exposed to the yellow,
+orange, and red rays. The longer wave lengths of the spectrum, as you
+know, form, with violet, indigo, blue, and green, white light. The
+diagram on the wall shows this dispersion and separation of the
+primitive colors. These--the yellow, orange, and red-- are called
+technically "non actinic" rays, and the others in their order become
+more actinic until the ultra violet is reached. The action of white
+light, or rays, excluding yellow, orange, and red, has the effect of
+converting silver chloride into a sub-chloride; it drives off one
+equivalent of chlorine. Thus, silver chloride, Ag_2Cl_2=Ag_2Cl+Cl.
+When water is present the water is decomposed. Hydrochloric acid, HCl,
+hypochlorous acid, HClO is formed.
+
+The iodide of silver in like manner is changed into a sub-iodide; but
+with water hydriodic acid is formed unless an iodine absorbent be
+present--then into hypoiodic acid. The silver bromide undergoes
+a similar change. When with light alone, a sub-bromide,
+Ag_2Br_2=Ag_2Br+Br, and with water hypobromous acid. It is important
+to bear this in mind, as one or other, and frequently both iodide and
+bromide of silver, is the sensitive salt requisite or used in producing
+the invisible image.
+
+The theory regarding these sensitive salts of silver is that, being very
+unstable, _i. e._, ready to undergo a molecular change, the undulations
+produced in the ether, which pervades all space, and the potential
+action or moving power of light is sufficient to disturb their normal
+chemical composition; it liberates some of the chlorine, iodine, or
+bromine, as the case may be. This action, of course, applies to light
+from any source--the sun, electricity, or the brighter hydrocarbons,
+also flame from gas or candle, whether it comes direct as rays of white
+light or is reflected from an object and conducted through a lens as a
+distinct image upon the screen of a camera.
+
+I have no time to speak on the subject of lenses, only just to mention
+that they are, or ought to be, achromatic, so as to transmit white light
+and of perfect definition, and the amount of light passed through should
+be as much as possible consistent with a sharp image--at least when
+rapid exposure is attempted.
+
+I shall touch very lightly on the manipulative part of photography, as
+that would be unnecessary; but a brief account of the chemicals in use
+is essential to a right appreciation of the theory of developing the
+image. In the first place, our object is to get a film of some suitable
+material coated with a thin layer of a sensitive salt of silver--say
+a bromo-iodide. By mixing certain proportions of ammonium iodide
+and cadmium bromide, or an iodide and bromide of cadmium with
+collodion--which is pyroxyline, a kind of gun-cotton dissolved in ether
+and alcohol--a plate of glass is coated, and before being perfectly dry
+is immersed in the nitrate of silver bath. The silver nitrate solution,
+adhering and entering to a slight extent the surface of the collodion,
+becomes converted by an ordinary chemical action of affinity into silver
+iodide and bromide.
+
+The ammonium and cadmium play a secondary part in the process, and
+are not absolutely necessary in forming the image. The plate is now
+extremely sensitive to light. When we have entered it into the dark
+slide and camera, and then exposed to light, the change I mentioned
+has taken place. The film is transformed into different quantities of
+sub-iodide and sub-bromide of silver, according to brilliancy of light.
+In addition, there is on the plate an amount of unchanged silver nitrate
+which becomes useful in the second stage, or development. The image is
+not seen as yet, being latent, and requiring the well-known developing
+solution of sulphate of iron, acetic acid, alcohol, and water.
+Practically we all recognize the effect of a nicely-balanced wave of
+developer worked round a plate. The high lights are first to appear as a
+darker color, till the details of shadow come out; when this is reached
+the developer is washed off. The chemical action is briefly thus, and
+it can be shown by solutions without a photographic plate, as in a test
+tube: Pour into this glass a solution of silver nitrate, AgNO, and add a
+solution of ferrous sulphate, FeSO_4. The ferrous sulphate combines
+with the nitric acid, forming two new salts--ferric nitrate and ferric
+sulphate. The silver is deposited. Any other substance which will remove
+oxygen from silver nitrate without combining with the silver would do
+the same, and metallic silver would be thrown down. The formula, as
+shown on the diagram, explains the interchange.
+
+When the developer is poured over the plate it attacks first the free
+silver nitrate, and causes it to deposit extremely fine particles of
+metallic silver. The question arises: How is it these particles arrange
+themselves to form an image? This is explained by the physical movement
+known as molecular attraction or affinity. These particles are attracted
+first to the portions of the plate where there is most sub-iodide and
+sub-bromide. In the shady parts less silver is deposited. When the image
+is once started it follows that particles of silver produced by the iron
+developer will cause more to fall down on the face of those already
+present, and the image is, of course, built up if the silver nitrate
+be all consumed on the plate. The developer then becomes useless or
+injurious. The presence of acetic acid checks the reduction of the
+silver, and the alcohol facilitates the flow when the bath becomes
+charged with ether and spirit.
+
+The molecular attraction just mentioned is made plainer by reference to
+the simple lead tree experiment. We have here in this bottle a piece
+of zinc rod introduced into a solution of acetate of lead. A chemical
+change has taken place. The zinc has abstracted the acetic acid and the
+lead is deposited on the zinc, and will continue to be so until the
+solution is exhausted. The irregularities of surface and arborescent
+appearance are well shown. If the change were rapidly conducted the lead
+particles would from their weight sink directly to the bottom instead
+of aggregating together like ordinary crystals. I have constructed a
+diagram of colored card, which will perhaps more clearly demonstrate
+the relation of the different constituents. The lower portion (Fig. a)
+represents a section of the glass plate or support, the collodion film
+(Fig. b) having upon its surface a thin layer of bromo-iodine silver
+(Fig. c), which, when exposed to a well-lighted image, as in a camera,
+changes into different gradations of sub-bromide and sub-iodide, as
+indicated by irregular, dark masses in the film. The dotted marks
+immediately above these are intended for the silver deposit (Fig.
+d)--clusters of granules, more abundant in the well lighted and less
+in the shaded parts of the picture, corresponding to the amount of
+sub-bromide and iodide beneath.
+
+[Illustration: SECTION OF SENSITIVE PLATE AFTER EXPOSURE AND DURING
+DEVELOPMENT.
+
+d Silver deposit--Image, c Sub-bromide and sub-chloride (gradations of),
+b Collodion film--Substratum, a Section of glass plate--Support.]
+
+The next point to consider is that of intensification--a process seldom
+required in positive pictures, and would not be needed so often in
+negatives if there was enough free silver nitrate on the plate during
+development. The object, as we all know, in a wet-plate negative is to
+get good printing density without destruction of half-tone. It is a
+rule, I believe, in an over-exposed picture to intensify after fixing
+the image, and in an under-exposed picture to intensify before fixing.
+Whichever is done the intention is similar, namely, to intercept in a
+greater degree the light passing through a negative, so as to make a
+whiter and cleaner print. The usual intensifier--and, I suppose, there
+is no better--is pyrogallic acid, citric acid, water, and a few drops of
+silver nitrate solution. Pyrogallic is the most active agent, and might
+be used alone with water; but for special reasons it is not desirable.
+As a chemical it has a great affinity for oxygen, and will precipitate
+silver from a solution containing, for instance, nitrate of silver. It
+also combines with the metal, forming a pyrogallate--a dark brown, very
+non-actinic material. The use of a few drops of AgNO_3 solution is very
+evident. A deposit is added to the image already formed. Citric acid is
+the retarder in this case. Alcohol is unnecessary, as the film is well
+washed with water before the intensifier is used, consequently it flows
+readily over the plate.
+
+As regards fixing, or, more properly, clearing the image: it is the
+simple act of dissolving out or from the film all free nitrate,
+chloride, iodide, or bromide. Cyanide of potassium does not attack the
+metallic deposit unless very strong. It has then a tendency to reduce
+the detail in the shadows.
+
+THOMAS H. MORTON, M.D.
+
+       *       *       *       *       *
+
+
+
+
+GELATINE TRANSPARENCIES FOR THE LANTERN.
+
+[Footnote: A communication to the Photographic Society of Ireland.]
+
+
+Few of those who work with gelatine dry plates seem to be aware of the
+great beauty of the transparencies for lantern or other uses which can
+be made from them by ferrous oxalate development with the greatest ease
+and certainty.
+
+I think this a very great pity, for I hold the opinion that the lantern
+furnishes the most enjoyable and, in some cases, the most perfect of all
+means of showing good photographic pictures. Many prints from excellent
+negatives which may be passed over in an album without provoking a
+remark will, if printed as transparencies and thrown on the screen, call
+forth expressions of the warmest admiration; and justly so, for no
+paper print can do that full justice to a really good negative which a
+transparency does. This difference is more conspicuous in these days of
+dry gelatine plates and handy photographic apparatus, when many of our
+most interesting negatives are taken on quarter or 5 x 4 plates the
+small size of which frequently involves a crowding of detail, much of
+which will be invisible in a paper print, but which, when unraveled or
+opened out, as it were, by means of the lantern, enhances the beauty of
+the pictures immensely.
+
+When I last had the pleasure of bringing this subject before the members
+of our society, it may be remembered that I demonstrated the ease
+and simplicity with which those beautiful results maybe obtained, by
+printing in an ordinary printing frame by the light of my petroleum
+developing lamp, raising one of its panes of ruby glass for the purpose
+for five seconds, and then developing by ferrous oxalate until I got the
+amount of intensity requisite. On that evening, in the course of a very
+just criticism by one of our members, Mr. J. V. Robinson, he pointed out
+what was undoubtedly a defect, viz., a slightly opalescent veiling of
+the high lights, which should range from absolutely bare glass in the
+highest points. He showed that, in consequence of this veiling, the
+light was sensibly diminished all over the picture. This veiling of the
+high lights was a serious disadvantage in another important particular,
+inasmuch as it lessened the contrast between the lights and shadows of
+the picture, thereby robbing it of some of its charm and deteriorating
+its quality.
+
+Since that evening I have endeavored, by a series of experiments, to
+find out some means by which this opalescence might be got rid of in the
+most convenient manner. Cementing the transparency to a piece of plain,
+clear glass with Canada balsam, as suggested by Mr. Woodworth, I found
+in practice to be open to two formidable objections. One of these was
+that Canada balsam used in this manner is a sticky, unpleasant substance
+to meddle with, and takes a long time--nearly a month--to harden when
+confined between plates in this manner. The other objection was of
+extreme importance, namely, that, in consequence of commercial gelatine
+plates not being prepared on perfectly flat glasses in all cases, I
+found that, after squeezing out the superfluous balsam and the air
+bubbles that might have formed from between the two plates, they are
+liable to separate at the places where the transparency is not flat,
+causing air bubbles to creep in from the edges, as you may see from
+these examples. I, therefore, have discarded this method, although it
+had the effect desired when successfully done.
+
+I have hit, however, upon another way of utilizing Canada balsam, which,
+while retaining all the good qualities of the former method, is not
+subject to any of its disadvantages. This consists in diluting the
+balsam with an equal bulk of turpentine, and using it as a varnish,
+pouring it on like collodion, flowing it toward each corner, and pouring
+it off into the bottle from the last corner, avoiding crapy lines by
+slowly tilting the plate, as in varnishing. If the plate be warmed
+previously, the varnish flows more freely and leaves a thinner coating
+of balsam behind on the transparency. When the plate has ceased to drip,
+place it in a plate drainer, with the corner you poured from lowest, and
+leave it where dust cannot get at it for four or five days, when it will
+be found sufficiently hard to be put into a plate box. The transparency
+may be finished at any time afterward by putting a clean glass of the
+same size along with it, placing one of the blank paper masks sold
+for the purpose--either circular or cushion-shaped to suit the
+subject--between the plates, and pasting narrow strips of thin black
+paper over the edges to bind them together. This method is very
+successful, as you may see from the examples. It renders the high lights
+perfectly clear, and leaves a film like glass over all the parts of the
+transparency where the varnish has flowed.
+
+In order to avoid the risk of dust involved in this process, I tried
+other means of arriving at similar results and with success, for the
+plates I now submit to you have been simply rubbed or polished, as I
+may say, with a mixture of one part of Canada balsam to three parts of
+turpentine, using either a small tuft of French wadding or a small piece
+of soft rag for the purpose, continuing the rubbing until the plate is
+polished nearly dry. This method is particularly successful, rendering
+the clear parts of the sky like bare glass. I have here a plate which is
+heavily veiled--almost fogged, in fact--one half of which I have treated
+in this way, showing that the half so treated is beautifully clear,
+while the other half is so veiled as to be apparently useless.
+
+I have tried to still further simplify this necessary clearing of those
+plates, and find that soaking tor twelve hours in a saturated solution
+of alum, after washing the hypo out of the plate, is successful in a
+large number of cases; and where it is successful there is no further
+trouble with the transparency, except to mount it after it becomes dry.
+Where it is not entirely successful I put the plate into a solution of
+citric acid, four ounces to a pint of water, for about one minute, and
+have in nearly all cases succeeded in getting a beautifully-clear plate.
+The picture must not be left long in the citric acid solution, or it
+will float off; neither do I like using citric acid until after trying
+the alum, for a similar reason.
+
+I may mention that I recommend a short exposure in the printing-frame
+and slow development, in order to get sufficient intensity. Of course
+the exposure is always made to a gas or petroleum light. I also still
+prefer the old method of making the ferrous oxalate solution, pouring
+it back into the bottle each time after using, and using it for two
+or three months, keeping the bottle full from a stock bottle, and
+occasionally putting a little dry ferrous oxalate into the bottle and
+shaking it up, allowing it to settle before using next time. By treating
+it in this way it retains its power fairly well for a long time; and as
+it becomes less active I give a little longer exposure, balancing
+one against the other. Making the ferrous oxalate solution from two
+saturated solutions of iron sulphate and potassium oxalate has not
+succeeded so well with me for transparencies. The tone of the picture is
+not so black as when developed by the old method; and I do not like gray
+transparencies for the lantern. I also recommend very slow gelatine
+plates, about twice as sensitive as wet collodion--not more, if I can
+help it.
+
+I have demonstrated, I hope to your satisfaction, the possibility of
+producing lantern slides from commercial gelatine plates of a most
+beautiful quality--ranging from clear glass to deep black, and
+giving charming gradation of tones, showing on the screen a film as
+structureless as albumen slides, without the great trouble involved in
+making them. You must not accept the slides put before you this evening
+as the best that can be done with gelatine. Far from it; they are only
+the work of an amateur with very little leisure now to devote to their
+manufacture, and are merely the result of a series of experiments which,
+so far as they have gone, I now place before you.--_Thomas Mayne, T. C.,
+in British Journal of Photography._
+
+       *       *       *       *       *
+
+
+
+
+AN INTEGRATING MACHINE.
+
+[Footnote: Read at a meeting of the Physical Society, Feb. 26.]
+
+
+By C.V. BOYS.
+
+All the integrating machines hitherto made, of which I can find any
+record, may be classed under two heads, one of which, Ainslee's machine,
+is the sole representative, depending on the revolution of a disk which
+partly rolls and partly slides on the paper, and the other comprising
+all the remaining machines depending on the varying diameters of the
+parts of a rolling system. Now, none of these machines do their work
+by the method of the mathematician, but in their own way. My machine,
+however, is an exact mechanical translation of the mathematical method
+of integrating y dx, and thus forms a third type of instrument.
+
+The mathematical rule may be described in words as follows: Required the
+area between a curve, the axis of x and two ordinates; it is necessary
+to draw a new curve, such that its steepness, as measured by the tangent
+of the inclination, may be proportional to the ordinate of the given
+curve for the same value of x, then the _ascent_ made by the new curve
+in passing from one ordinate to the other is a measure of the area
+required.
+
+The figure shows a plan and side elevation of a model of the instrument,
+made merely to test the idea, and the arrangement of the details is not
+altogether convenient. The frame-work is a kind of T square, carrying a
+fixed center, B, which moves along the axis of x of the given curve, a
+rod passing always through B carries a pointer, A, which is constrained
+to move in the vertical line, ee, of the T square, A then may be made
+to follow any given curve. The distance of B from the edge, ee, is
+constant; call it K, therefore, the inclination of the rod, AB, is such
+that its tangent is equal to the ordinate of the given curve divided
+by K; that is, the tangent of the inclination is proportional to the
+ordinate; therefore, as the instrument is moved over the paper, AB has
+always the inclination of the desired curve.
+
+The part of the instrument that draws the curve is a three-wheeled cart
+of lead, whose front wheel, F, is mounted, not as a caster, but like the
+steering wheel of a bicycle. When such a cart is moved, the front wheel,
+F, can only move in the direction of its own plane, whatever be the
+position of the cart; if, therefore, the cart is so moved that F is in
+the line, ee, and at the same time has its plane parallel to the rod,
+AB, then F must necessarily describe the required curve, and if it is
+made to pass over a sheet of black tracing paper, the required curve
+will be _drawn_. The upper end of the T square is raised above the
+paper, and forms a bridge, under which the cart travels. There is a
+longitudinal slot in this bridge in which lies a horizontal wheel,
+carried by that part of the cart corresponding to the head of a bicycle.
+By this means the horizontal motion communicated to the front wheel of
+the cart by the bridge, is equal to that of the pointer, A; at the same
+time the cart is free to move vertically.
+
+The mechanism employed to keep the plane of the front wheel of the cart
+parallel to AB is made clear by the figure. Three equal wheels at the
+ends of two jointed arms are connected by an open band, as shown. Now,
+in an arrangement of this kind, however the arms or the wheels are
+turned, lines on the wheels, if ever parallel, will always be so. If,
+therefore, the wheel at one end is so supported that its rotation is
+equal to that of AB, while the wheel at the other end is carried by the
+fork which supports F, then the plane of F, if ever parallel to AB, will
+always be so. Therefore, when A is made to trace any given curve, F will
+draw a curve whose ascent is (1/K) f y dx, and this, multiplied by K, is
+the area required.
+
+[Illustration: AN INTEGRATING MACHINE.]
+
+Not only does the machine integrate y dx, but if the plane of the front
+wheel of the cart is set at right angles instead of parallel to AB, then
+the cart finds the integral of dx / y, and thus solves problems, such,
+for instance, as the time occupied by a body in moving along a path when
+the law of the velocity is known.
+
+Some modifications of the machine already described will enable it to
+integrate squares, cubes, or products of functions, or the reciprocals
+of any of these.
+
+Of the various curves exhibited which have been drawn by the machine,
+the following are of special physical interest.
+
+Given the inclined straight line y = cx, the machine draws the parabola
+y = cx squared / 2. This is the path of a projectile, as the space fallen is as
+the area of the triangle between the inclined line, the axis of x, and
+the traveling ordinate.
+
+Given the curve representing attraction y = 1 / x squared the machine draws the
+hyperbola y = 1 / x the curve representing potential, as the work done
+in bringing a unit from an infinite distance to a point is measured
+by the area between the curve of attraction, the axis of x, and the
+ordinate at that point.
+
+Given the logarithmic curve y = e^x, the machine draws an identical
+curve. The vertical distance between these two curves, therefore,
+is constant; if, then, the head of the cart and the pointer, A, are
+connected by a link, this is the only curve they can draw. This motion
+is very interesting, for the cart pulls the pointer and the pointer
+directs the cart, and between they calculate a table of Naperian
+logarithms.
+
+Given a wave-line, the machine draws another wave-line a quarter of
+a wave-length behind the first in point of time. If the first line
+represents the varying strengths of an induced electrical current,
+the second shows the nature of the primary that would produce such a
+current.
+
+Given any closed curve, the machine will find its area. It thus answers
+the same purpose as Ainslee's polar planimeter, and though not so handy,
+is free from the defect due to the sliding of the integrating wheel on
+the paper.
+
+The rules connected with maxima and minima and points of inflexion are
+illustrated by the machine, for the cart cannot be made to describe a
+maximum or a minimum unless the pointer, A, _crosses_ the axis of x, or
+a point of inflexion unless A passes a maximum or minimum.
+
+       *       *       *       *       *
+
+
+
+
+UPON A MODIFICATION OF WHEATSTONE'S MICROPHONE AND ITS APPLICABILITY TO
+RADIOPHONIC RESEARCHES.
+
+[Footnote: A paper read before the Philosophical Society of Washington.
+D. C., June 11, 1881.]
+
+By ALEXANDER GRAHAM BELL.
+
+
+In August, 1880, I directed attention to the fact that thin disks or
+diaphragms of various materials become sonorous when exposed to the
+action of an intermittent beam of sunlight, and I stated my belief that
+the sounds were due to molecular disturbances produced in the substance
+composing the diaphragm.[1] Shortly afterwards Lord Raleigh undertook
+a mathematical investigation of the subject and came to the conclusion
+that the audible effects were caused by the bending of the plates
+under unequal heating.[2] This explanation has recently been called in
+question by Mr. Preece,[3] who has expressed the opinion that
+although vibrations may be produced in the disks by the action of the

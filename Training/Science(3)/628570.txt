@@ -1,0 +1,452 @@
+earnest; Ulugh Beigh, grandson of the famous Tamerlane, founding, for
+instance, a great observatory at Samarcand in Central Asia. The Mongol
+emperors of India also established large astronomical instruments in the
+chief cities of their empire. When the revival of learning took place in
+the West, the Europeans came to the front once more in science, and
+rapidly forged ahead of those who had so assiduously kept alight the
+lamp of knowledge through the long centuries.
+
+The dethronement of the older theories by the Copernican system, in
+which the earth was relegated to its true place, was fortunately soon
+followed by an invention of immense import, the invention of the
+Telescope. It is to this instrument, indeed, that we are indebted for
+our knowledge of the actual scale of the celestial distances. It
+penetrated the depths of space; it brought the distant orbs so near,
+that men could note the detail on the planets, or measure the small
+changes in their positions in the sky which resulted from the movement
+of our own globe.
+
+It was in the year 1609 that the telescope was first constructed. A
+year or so previous to this a spectacle-maker of Middleburgh in Holland,
+one Hans Lippershey, had, it appears, hit upon the fact that distant
+objects, when viewed through certain glass lenses suitably arranged,
+looked nearer.[8] News of this discovery reached the ears of Galileo
+Galilei, of Florence, the foremost philosopher of the day, and he at
+once applied his great scientific attainments to the construction of an
+instrument based upon this principle. The result was what was called an
+"optick tube," which magnified distant objects some few times. It was
+not much larger than what we nowadays contemptuously refer to as a
+"spy-glass," yet its employment upon the leading celestial objects
+instantly sent astronomical science onward with a bound. In rapid
+succession Galileo announced world-moving discoveries; large spots upon
+the face of the sun; crater-like mountains upon the moon; four
+subordinate bodies, or satellites, circling around the planet Jupiter;
+and a strange appearance in connection with Saturn, which later
+telescopic observers found to be a broad flat ring encircling that
+planet. And more important still, the magnified image of Venus showed
+itself in the telescope at certain periods in crescent and other forms;
+a result which Copernicus is said to have announced should of necessity
+follow if his system were the true one.
+
+The discoveries made with the telescope produced, as time went on, a
+great alteration in the notions of men with regard to the universe at
+large. It must have been, indeed, a revelation to find that those points
+of light which they called the planets, were, after all, globes of a
+size comparable with the earth, and peopled perchance with sentient
+beings. Even to us, who have been accustomed since our early youth to
+such an idea, it still requires a certain stretch of imagination to
+enlarge, say, the Bright Star of Eve, into a body similar in size to our
+earth. The reader will perhaps recollect Tennyson's allusion to this in
+_Locksley Hall, Sixty Years After_:--
+
+"Hesper--Venus--were we native to that splendour or in Mars,
+We should see the Globe we groan in, fairest of their evening stars.
+
+"Could we dream of wars and carnage, craft and madness, lust and spite,
+Roaring London, raving Paris, in that point of peaceful light?"
+
+The form of instrument as devised by Galileo is called the Refracting
+Telescope, or "Refractor." As we know it to-day it is the same in
+principle as his "optick tube," but it is not quite the same in
+construction. The early _object-glass_, or large glass at the end, was a
+single convex lens (see Fig. 8, p. 113, "Galilean"); the modern one is,
+on the other hand, composed of two lenses fitted together. The attempts
+to construct large telescopes of the Galilean type met in course of time
+with a great difficulty. The magnified image of the object observed was
+not quite pure; its edges, indeed, were fringed with rainbow-like
+colours. This defect was found to be aggravated with increase in the
+size of object-glasses. A method was, however, discovered of
+diminishing this colouration, or _chromatic aberration_ as it is called
+from the Greek word [chroma] (_chroma_), which means colour, viz. by
+making telescopes of great length and only a few inches in width. But
+the remedy was, in a way, worse than the disease; for telescopes thus
+became of such huge proportions as to be too unwieldy for use. Attempts
+were made to evade this unwieldiness by constructing them with skeleton
+tubes (see Plate II., p. 110), or, indeed, even without tubes at all;
+the object-glass in the tubeless or "aerial" telescope being fixed at
+the top of a high post, and the _eye-piece_, that small lens or
+combination of lenses, which the eye looks directly into, being kept in
+line with it by means of a string and manoeuvred about near the ground
+(Plate III., p. 112). The idea of a telescope without a tube may appear
+a contradiction in terms; but it is not really so, for the tube adds
+nothing to the magnifying power of the instrument, and is, in fact, no
+more than a mere device for keeping the object-glass and eye-piece in a
+straight line, and for preventing the observer from being hindered by
+stray lights in his neighbourhood. It goes without saying, of course,
+that the image of a celestial object will be more clear and defined when
+examined in the darkness of a tube.
+
+The ancients, though they knew nothing of telescopes, had, however,
+found out the merit of a tube in this respect; for they employed simple
+tubes, blackened on the inside, in order to obtain a clearer view of
+distant objects. It is said that Julius Caesar, before crossing the
+Channel, surveyed the opposite coast of Britain through a tube of this
+kind.
+
+[Illustration: PLATE II. GREAT TELESCOPE OF HEVELIUS
+
+This instrument, 150 feet in length, with a _skeleton_ tube, was
+constructed by the celebrated seventeenth century astronomer, Hevelius
+of Danzig. From an illustration in the _Machina Celestis_.
+
+(Page 110)]
+
+A few of the most famous of the immensely long telescopes above alluded
+to are worthy of mention. One of these, 123 feet in length, was
+presented to the Royal Society of London by the Dutch astronomer
+Huyghens. Hevelius of Danzig constructed a skeleton one of 150 feet in
+length (see Plate II., p. 110). Bradley used a tubeless one 212 feet
+long to measure the diameter of Venus in 1722; while one of 600 feet is
+said to have been constructed, but to have proved quite unworkable!
+
+Such difficulties, however, produced their natural result. They set men
+at work to devise another kind of telescope. In the new form, called the
+Reflecting Telescope, or "Reflector," the light coming from the object
+under observation was _reflected_ into the eye-piece from the surface of
+a highly polished concave metallic mirror, or _speculum_, as it was
+called. It is to Sir Isaac Newton that the world is indebted for the
+reflecting telescope in its best form. That philosopher had set himself
+to investigate the causes of the rainbow-like, or prismatic colours
+which for a long time had been such a source of annoyance to telescopic
+observers; and he pointed out that, as the colours were produced in the
+passage of the rays of light _through_ the glass, they would be entirely
+absent if the light were reflected from the _surface_ of a mirror
+instead.
+
+The reflecting telescope, however, had in turn certain drawbacks of its
+own. A mirror, for instance, can plainly never be polished to such a
+high degree as to reflect as much light as a piece of transparent glass
+will let through. Further, the position of the eye-piece is by no means
+so convenient. It cannot, of course, be pointed directly towards the
+mirror, for the observer would then have to place his head right in the
+way of the light coming from the celestial object, and would thus, of
+course, cut it off. In order to obviate this difficulty, the following
+device was employed by Newton in his telescope, of which he constructed
+his first example in 1668. A small, flat mirror was fixed by thin wires
+in the centre of the tube of the telescope, and near to its open end. It
+was set slant-wise, so that it reflected the rays of light directly into
+the eye-piece, which was screwed into a hole at the side of the tube
+(see Fig. 8, p. 113, "Newtonian").
+
+Although the Newtonian form of telescope had the immense advantage of
+doing away with the prismatic colours, yet it wasted a great deal of
+light; for the objection in this respect with regard to loss of light by
+reflection from the large mirror applied, of course, to the small mirror
+also. In addition, the position of the "flat," as the small mirror is
+called, had the further effect of excluding from the great mirror a
+certain proportion of light. But the reflector had the advantage, on the
+other hand, of costing less to make than the refractor, as it was not
+necessary to procure flawless glass for the purpose. A disc of a certain
+metallic composition, an alloy of copper and tin, known in consequence
+as _speculum metal_, had merely to be cast; and this had to be ground
+and polished _upon one side only_, whereas a lens has to be thus treated
+_upon both its sides_. It was, therefore, possible to make a much larger
+instrument at a great deal less labour and expense.
+
+[Illustration: PLATE III. A TUBELESS, OR "AERIAL" TELESCOPE
+
+From an illustration in the _Opera Varia_ of Christian Huyghens.
+
+(Page 110)]
+
+[Illustration: FIG. 8.--The various types of Telescope. All the above
+telescopes are _pointed_ in the same direction; that is to say, the rays
+of light from the object are coming from the left-hand side.]
+
+We have given the Newtonian form as an example of the principle of the
+reflecting telescope. A somewhat similar instrument had, however, been
+projected, though not actually constructed, by James Gregory a few years
+earlier than Newton's, _i.e._ in 1663. In this form of reflector, known
+as the "Gregorian" telescope, a hole was made in the big concave mirror;
+and a small mirror, also concave, which faced it at a certain distance,
+received the reflected rays, and reflected them back again through the
+hole in question into the eye-piece, which was fixed just behind (see
+Fig. 8, p. 113, "Gregorian"). The Gregorian had thus the sentimental
+advantage of being _pointed directly at the object_. The hole in the big
+mirror did not cause any loss of light, for the central portion in which
+it was made was anyway unable to receive light through the small mirror
+being directly in front of it. An adaptation of the Gregorian was the
+"Cassegrainian" telescope, devised by Cassegrain in 1672, which differed
+from it chiefly in the small mirror being convex instead of concave (see
+Fig. 8, p. 113, "Cassegrainian"). These _direct-view_ forms of the
+reflecting telescope were much in vogue about the middle of the
+eighteenth century, when many beautiful examples of Gregorians were made
+by the famous optician, James Short, of Edinburgh.
+
+An adaptation of the Newtonian type of telescope is known as the
+"Herschelian," from being the kind favoured by Sir William Herschel. It
+is, however, only suitable in immense instruments, such as Herschel was
+in the habit of employing. In this form the object-glass is set at a
+slight slant, so that the light coming from the object is reflected
+straight into the eye-piece, which is fixed facing it in the side of the
+tube (see Fig. 8, p. 113, "Herschelian"). This telescope has an
+advantage over the other forms of reflector through the saving of light
+consequent on doing away with the _second_ reflection. There is,
+however, the objection that the slant of the object-glass is productive
+of some distortion in the appearance of the object observed; but this
+slant is of necessity slight when the length of the telescope is very
+great.
+
+The principle of this type of telescope had been described to the
+French Academy of Sciences as early as 1728 by Le Maire, but no one
+availed himself of the idea until 1776, when Herschel tried it. At
+first, however, he rejected it; but in 1786 he seems to have found that
+it suited the huge instruments which he was then making. Herschel's
+largest telescope, constructed in 1789, was about four feet in diameter
+and forty feet in length. It is generally spoken of as the "Forty-foot
+Telescope," though all other instruments have been known by their
+_diameters_, rather than by their lengths.
+
+To return to the refracting telescope. A solution of the colour
+difficulty was arrived at in 1729 (two years after Newton's death) by an
+Essex gentleman named Chester Moor Hall. He discovered that by making a
+double object-glass, composed of an outer convex lens and an inner
+concave lens, made respectively of different kinds of glass, _i.e._
+_crown_ glass and _flint_ glass, the troublesome colour effects could
+be, _to a very great extent_, removed. Hall's investigations appear to
+have been rather of an academic nature; and, although he is believed to
+have constructed a small telescope upon these lines, yet he seems to
+have kept the matter so much to himself that it was not until the year
+1758 that the first example of the new instrument was given to the
+world. This was done by John Dollond, founder of the well-known optical
+firm of Dollond, of Ludgate Hill, London, who had, quite independently,
+re-discovered the principle.
+
+This "Achromatic" telescope, or telescope "free from colour effects," is
+the kind ordinarily in use at present, whether for astronomical or for
+terrestrial purposes (see Fig. 8, p. 113, "Achromatic"). The expense of
+making large instruments of this type is very great, for, in the
+object-glass alone, no less than _four_ surfaces have to be ground and
+polished to the required curves; and, usually, the two lenses of which
+it is composed have to fit quite close together.
+
+With the object of evading the expense referred to, and of securing
+_complete_ freedom from colour effects, telescopes have even been made,
+the object-glasses of which were composed of various transparent liquids
+placed between thin lenses; but leakages, and currents set up within
+them by changes of temperature, have defeated the ingenuity of those who
+devised these substitutes.
+
+The solution of the colour difficulty by means of Dollond's achromatic
+refractor has not, however, ousted the reflecting telescope in its best,
+or Newtonian form, for which great concave mirrors made of glass,
+covered with a thin coating of silver and highly polished, have been
+used since about 1870 instead of metal mirrors. They are very much
+lighter in weight and cheaper to make than the old specula; and though
+the silvering, needless to say, deteriorates with time, it can be
+renewed at a comparatively trifling cost. Also these mirrors reflect
+much more light, and give a clearer view, than did the old metallic
+ones.
+
+When an object is viewed through the type of astronomical telescope
+ordinarily in use, it is seen _upside down_. This is, however, a matter
+of very small moment in dealing with celestial objects; for, as they are
+usually round, it is really not of much consequence which part we regard
+as top and which as bottom. Such an inversion would, of course, be most
+inconvenient when viewing terrestrial objects. In order to observe the
+latter we therefore employ what is called a terrestrial telescope, which
+is merely a refractor with some extra lenses added in the eye portion
+for the purpose of turning the inverted image the right way up again.
+These extra lenses, needless to say, absorb a certain amount of light;
+wherefore it is better in astronomical observation to save light by
+doing away with them, and putting up with the slight inconvenience of
+seeing the object inverted.
+
+This inversion of images by the astronomical telescope must be specially
+borne in mind with regard to the photographs of the moon in Chapter XVI.
+
+In the year 1825 the largest achromatic refractor in existence was one
+of nine and a half inches in diameter constructed by Fraunhofer for the
+Observatory of Dorpat in Russia. The largest refractors in the world
+to-day are in the United States, _i.e._ the forty-inch of the Yerkes
+Observatory (see Plate IV., p. 118), and the thirty-six inch of the
+Lick. The object-glasses of these and of the thirty-inch telescope of
+the Observatory of Pulkowa, in Russia, were made by the great optical
+house of Alvan Clark & Sons, of Cambridge, Massachusetts, U.S.A. The
+tubes and other portions of the Yerkes and Lick telescopes were,
+however, constructed by the Warner and Swasey Co., of Cleveland, Ohio.
+
+The largest reflector, and so the largest telescope in the world, is
+still the six-foot erected by the late Lord Rosse at Parsonstown in
+Ireland, and completed in the year 1845. It is about fifty-six feet in
+length. Next come two of five feet, with mirrors of silver on glass;
+one of them made by the late Dr. Common, of Ealing, and the other by the
+American astronomer, Professor G.W. Ritchey. The latter of these is
+installed in the Solar Observatory belonging to Carnegie Institution of
+Washington, which is situated on Mount Wilson in California. The former
+is now at the Harvard College Observatory, and is considered by
+Professor Moulton to be probably the most efficient reflector in use at
+present. Another large reflector is the three-foot made by Dr. Common.
+It came into the possession of Mr. Crossley of Halifax, who presented it
+to the Lick Observatory, where it is now known as the "Crossley
+Reflector."
+
+Although to the house of Clark belongs, as we have seen, the credit of
+constructing the object-glasses of the largest refracting telescopes of
+our time, it has nevertheless keen competitors in Sir Howard Grubb, of
+Dublin, and such well-known firms as Cooke of York and Steinheil of
+Munich. In the four-foot reflector, made in 1870 for the Observatory of
+Melbourne by the firm of Grubb, the Cassegrainian principle was
+employed.
+
+With regard to the various merits of refractors and reflectors much
+might be said. Each kind of instrument has, indeed, its special
+advantages; though perhaps, on the whole, the most perfect type of
+telescope is the achromatic refractor.
+
+[Illustration: PLATE IV. THE GREAT YERKES TELESCOPE
+
+Great telescope at the Yerkes Observatory of the University of Chicago,
+Williams Bay, Wisconsin, U.S.A. It was erected in 1896-7, and is the
+largest refracting telescope in the world. Diameter of object-glass, 40
+inches; length of telescope, about 60 feet. The object-glass was made by
+the firm of Alvan Clark and Sons, of Cambridge, Massachusetts; the other
+portions of the instrument by the Warner and Swasey Co., of Cleveland,
+Ohio.
+
+(Page 117)]
+
+In connection with telescopes certain devices have from time to time
+been introduced, but these merely aim at the _convenience_ of the
+observer and do not supplant the broad principles upon which are based
+the various types of instrument above described. Such, for instance, are
+the "Siderostat," and another form of it called the "Coelostat," in
+which a plane mirror is made to revolve in a certain manner, so as to
+reflect those portions of the sky which are to be observed, into the
+tube of a telescope kept fixed. Such too are the "Equatorial Coude" of
+the late M. Loewy, Director of the Paris Observatory, and the
+"Sheepshanks Telescope" of the Observatory of Cambridge, in which a
+telescope is separated into two portions, the eye-piece portion being
+fixed upon a downward slant, and the object-glass portion jointed to it
+at an angle and pointed up at the sky. In these two instruments (which,
+by the way, differ materially) an arrangement of slanting mirrors in the
+tubes directs the journey of the rays of light from the object-glass to
+the eye-piece. The observer can thus sit at the eye-end of his telescope
+in the warmth and comfort of his room, and observe the stars in the same
+unconstrained manner as if he were merely looking down into a
+microscope.
+
+Needless to say, devices such as these are subject to the drawback that
+the mirrors employed sap a certain proportion of the rays of light. It
+will be remembered that we made allusion to loss of light in this way,
+when pointing out the advantage in light grasp of the Herschelian form
+of telescope, where only _one_ reflection takes place, over the
+Newtonian in which there are _two_.
+
+It is an interesting question as to whether telescopes can be made much
+larger. The American astronomer, Professor G.E. Hale, concludes that the
+limit of refractors is about five feet in diameter, but he thinks that
+reflectors as large as nine feet in diameter might now be made. As
+regards refractors there are several strong reasons against augmenting
+their proportions. First of all comes the great cost. Secondly, since
+the lenses are held in position merely round their rims, they will bend
+by their weight in the centres if they are made much larger. On the
+other hand, attempts to obviate this, by making the lenses thicker,
+would cause a decrease in the amount of light let through.
+
+But perhaps the greatest stumbling-block to the construction of larger
+telescopes is the fact that the unsteadiness of the air will be
+increasingly magnified. And further, the larger the tubes become, the
+more difficult will it be to keep the air within them at one constant
+temperature throughout their lengths.
+
+It would, indeed, seem as if telescopes are not destined greatly to
+increase in size, but that the means of observation will break out in
+some new direction, as it has already done in the case of photography
+and the spectroscope. The direct use of the eye is gradually giving
+place to indirect methods. We are, in fact, now _feeling_ rather than
+seeing our way about the universe. Up to the present, for instance, we
+have not the slightest proof that life exists elsewhere than upon our
+earth. But who shall say that the twentieth century has not that in
+store for us, by which the presence of life in other orbs may be
+perceived through some form of vibration transmitted across illimitable
+space? There is no use speaking of the impossible or the inconceivable.
+After the extraordinary revelations of the spectroscope--nay, after the
+astounding discovery of Roentgen--the word impossible should be cast
+aside, and inconceivability cease to be regarded as any criterion.
+
+
+[8] The principle upon which the telescope is based appears to have been
+known _theoretically_ for a long time previous to this. The monk Roger
+Bacon, who lived in the thirteenth century, describes it very clearly;
+and several writers of the sixteenth century have also dealt with the
+idea. Even Lippershey's claims to a practical solution of the question
+were hotly contested at the time by two of his own countrymen, _i.e._ a
+certain Jacob Metius, and another spectacle-maker of Middleburgh, named
+Jansen.
+
+
+
+
+CHAPTER XI
+
+SPECTRUM ANALYSIS
+
+
+If white light (that of the sun, for instance) be passed through a glass
+prism, namely, a piece of glass of triangular shape, it will issue from
+it in rainbow-tinted colours. It is a common experience with any of us
+to notice this when the sunlight shines through cut-glass, as in the
+pendant of a chandelier, or in the stopper of a wine-decanter.
+
+The same effect may be produced when light passes through water. The
+Rainbow, which we all know so well, is merely the result of the sunlight
+passing through drops of falling rain.
+
+White light is composed of rays of various colours. Red, orange, yellow,
+green, blue, indigo, and violet, taken all together, go, in fact, to
+make up that effect which we call white.
+
+It is in the course of the _refraction_, or bending of a beam of light,
+when it passes in certain conditions through a transparent and denser
+medium, such as glass or water, that the constituent rays are sorted out
+and spread in a row according to their various colours. This production
+of colour takes place usually near the edges of a lens; and, as will be
+recollected, proved very obnoxious to the users of the old form of
+refracting telescope.
+
+It is, indeed, a strange irony of fate that this very same production
+of colour, which so hindered astronomy in the past, should have aided it
+in recent years to a remarkable degree. If sunlight, for instance, be
+admitted through a narrow slit before it falls upon a glass prism, it
+will issue from the latter in the form of a band of variegated colour,
+each colour blending insensibly with the next. The colours arrange
+themselves always in the order which we have mentioned. This seeming
+band is, in reality, an array of countless coloured images of the
+original slit ranged side by side; the colour of each image being the
+slightest possible shade different from that next to it. This strip of
+colour when produced by sunlight is called the "Solar Spectrum" (see
+Fig. 9, p. 123). A similar strip, or _spectrum_, will be produced by any
+other light; but the appearance of the strip, with regard to
+preponderance of particular colours, will depend upon the character of
+that light. Electric light and gas light yield spectra not unlike that
+of sunlight; but that of gas is less rich in blue and violet than that
+of the sun.
+
+The Spectroscope, an instrument devised for the examination of spectra,
+is, in its simplest form, composed of a small tube with a narrow slit
+and prism at one end, and an eye-piece at the other. If we drop ordinary
+table salt into the flame of a gas light, the flame becomes strongly
+yellow. If, then, we observe this yellow flame with the spectroscope, we
+find that its spectrum consists almost entirely of two bright yellow
+transverse lines. Chemically considered ordinary table salt is sodium
+chloride; that is to say, a compound of the metal sodium and the gas
+chlorine. Now if other compounds of sodium be experimented with in the
+same manner, it will soon be found that these two yellow lines are
+characteristic of sodium when turned into vapour by great heat. In the
+same manner it can be ascertained that every element, when heated to a
+condition of vapour, gives as its spectrum a set of lines peculiar to
+itself. Thus the spectroscope enables us to find out the composition of
+substances when they are reduced to vapour in the laboratory.
+
+[Illustration: FIG. 9.--The Solar Spectrum.]

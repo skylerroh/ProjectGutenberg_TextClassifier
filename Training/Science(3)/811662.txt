@@ -1,0 +1,414 @@
+
+       *       *       *       *       *
+
+[NATURE.]
+
+
+
+
+TO FIND THE DAY OF THE WEEK FOR ANY GIVEN DATE.
+
+
+Having hit upon the following method of mentally computing the day of the
+week for any given date, I send it you in the hope that it may interest
+some of your readers. I am not a rapid computer myself, and as I find my
+average time for doing any such question is about 20 seconds, I have little
+doubt that a rapid computer would not need 15.
+
+Take the given date in 4 portions, viz., the number of centuries, the
+number of years over, the month, the day of the month.
+
+Compute the following 4 items, adding each, when found, to the total of the
+previous items. When an item or total exceeds 7, divide by 7, and keep the
+remainder only.
+
+_The Century Item_.--For old style (which ended September 2, 1752) subtract
+from 18. For new style (which began September 14) divide by 4, take
+overplus from 3, multiply remainder by 2.
+
+_The Year Item_.--Add together the number of dozens, the overplus, and the
+number of 4's in the overplus.
+
+_The Month Item_.--If it begins or ends with a vowel, subtract the number
+denoting its place in the year from 10. This, plus its number of days,
+gives the item for the following month. The item for January is "0;" for
+February or March (the 3d month), "3;" for December (the 12th month), "12."
+
+_The Day Item_ is the day of the month.
+
+The total thus reached must be corrected by deducting "1" (first adding 7,
+if the total be "0"), if the date be January or February in a leap year;
+remembering that every year divisible by 4 is a leap year, excepting only
+the century years, in new style, when the number of centuries is _not_ so
+divisible (e.g., 1800).
+
+The final result gives the day of the week, "0" meaning Sunday, "1" Monday,
+and so on.
+
+EXAMPLES.
+
+1783, _September_ 18.
+
+17 divided by 4 leaves "1" over; 1 from 3 gives "2;" twice 2 is "4."
+
+83 is 6 dozen and 11, giving 17; plus 2 gives 19, i.e. (dividing by 7),
+"5." Total 9, i.e., "2."
+
+The item for August is "8 from 10," i.e., "2;" so, for September, it is "2
+plus 3," i.e., "5." Total 7, i.e., "0," which goes out.
+
+18 gives "4." Answer, "_Thursday_."
+
+1676, _February_ 23.
+
+16 from 18 gives "2."
+
+76 is 6 dozen and 4, giving 10; plus 1 gives 11, i.e., "4." Total "6."
+
+The item for February is "3." Total 9, i.e., "2."
+
+23 gives "2." Total "4."
+
+Correction for leap year gives "3." Answer, "_Wednesday_."
+
+LEWIS CARROLL.
+
+       *       *       *       *       *
+
+
+
+
+PRECIOUS STONES OF THE UNITED STATES.
+
+
+To the recently distributed government report on the mineral resources of
+the United States for 1885.[1] Mr. G.F. Kunz contributes an interesting
+chapter in which is recorded the progress made during that year in the
+discovery and utilization of precious stones.
+
+[Footnote 1: Mineral Resources of the United States: Calendar Year 1885.
+Washington: Government Printing Office. 1888.]
+
+In the summer of 1885, a remarkably large pocket containing fine crystals
+of muscovite, with brilliant crystals of rutile implanted on them, was
+found at the Emerald and Hiddenite Mining Company's works, at Stony Point,
+N.C., and was sold in the form of cabinet specimens for $750. While the
+soil overlying the rock was being worked, nine crystals of emerald were
+found, all of which were doubly terminated, and measured from 1 inch to
+3-1/8 inches in length and 1-2/3 inch in width. One of these crystals is
+very perfect as a specimen, being of a fine light green color, and weighing
+83/4 ounces. It is held by the company at $1,500, and the nine crystals
+together at $3,000. Another of these crystals, doubly terminated, measures
+21/2 inches by 11/12 of an inch, and is filled with large rhombohedral
+cavities, which formerly contained dolomite. The only crystal from this
+collection that has been cut into a gem was found in a pocket at a depth of
+over 43 feet. In color it is of a pleasing light green, and it weighs
+4-22/32 carats. No crystal of a finer color has as yet been found in the
+United States, and the gem is held by the company at $200.
+
+During the recent mining, the largest fine crystal of lithia emerald ever
+found was also brought to light. It measures 23/4 inches by 3/5 of an inch
+by 1/3 of an inch. One end is of a very fine color, and would afford the
+largest gem of this mineral yet found, and one which would probably weigh
+51/2 carats. With this there was a number of superior crystals and some
+ounces of common pieces of the same mineral. The company estimates the
+value of this entire yield of hiddenite at about $2,500.
+
+There was also found a quantity of quartz filled with white byssolite,
+forming very attractive specimens and valued at $250.
+
+A number of beryls of a fine blue color, resembling the Mourne Mountain
+specimens, were found near Mount Antero, Chaffee County, Col. One of these
+was 4 inches long and 3/8 of an inch across, with cutting material in it.
+The other crystals measured from 1 to 11/4 inch in length, and from 1/5 to
+1/3 inch in width.
+
+The large beryl mentioned by Mr. Kunz in the Mineral Resources for 1883 and
+1884 has afforded the finest aquamarine of American origin known. It is
+brilliant as a cut gem, and, with the exception of a few internal hair-like
+striae, is absolutely perfect. It weighs 1333/4 carats, measures 1-2/5 x 1-2/5
+x 4/5 inch, and is of a deep bluish green, equal to that of gems from any
+known locality.
+
+Mr. G.F. Breed, manager of the Valencia Mica Company, has cut nearly one
+hundred aquamarines, ranging from 1/2 carat to 4 carats in weight, and of a
+light blue color, from white beryls found in the company's mica mine at
+North Grafton, N.H.
+
+A number of fine, deep golden-yellow, blue, and green beryls, equaling any
+ever found, have been taken by Mr. M.W. Barse from his mica mine between
+New Milford and Litchfield, Conn. Some fine blood-red garnets from this
+same locality have been cut into gems.
+
+The largest phenacite crystal ever found is owned by Mr. Whitman Cross. It
+was discovered at Crystal Park, Col., weighs 59 pennyweights 6 grains, and
+measures 1-4/5 inch in length and 1-1/5 inch in thickness.
+
+Thousands of garnet crystals, found at Ruby Mountain, near Salides, Col.,
+have been made into paperweights and sold to tourists. Those that weigh a
+few ounces sell for about ten cents each. One was sold that weighed 14
+pounds. Apropos of garnets, the discovery, in the heart of New York city,
+of as fine a crystal as was ever found on this continent, and weighing 9
+pounds 10 ounces, may be mentioned as a matter of peculiar interest.
+
+Several thousand dollars' worth of the wood jasper of Arizona has been cut
+into paper weights, charms, and other objects, or polished on one side for
+cabinet specimens. Numbers of these articles are now being cut and sold to
+tourists along the line of the Atchison, Topeka, and Santa Fe Railroad.
+
+The compact quartzite of Sioux Falls, Dakota, is being quarried and
+polished for ornamental purposes. It is known and sold as "Sioux Falls
+jasper," and is really the stone referred to by Longfellow in his Hiawatha
+as being used for arrow heads. This stone takes a very high polish, and is
+found in a variety of pleasing tints, such as chocolate, brownish-red,
+brick-red, and yellowish. For the two years previous to 1885, $15,000 worth
+of it was sold.
+
+A remarkable mass of rock crystal has been received by Messrs. Tiffany &
+Co. from a locality near Cave City, Va. Although this mass weighs 51
+pounds, it is but a fragment of the original crystal, which weighed 300
+pounds, and which was broken in pieces by the ignorant mountain girl who
+found it. The fragment, as it is, will furnish slabs 8 inches square and
+from 1/3 to 1 inch thick. The original crystal would have furnished a ball
+from 41/2 to 5 inches in diameter, and almost perfect. A number of fine
+agates of various kinds were found by Mr. F.C. Yeomans at the same
+locality.
+
+The meccanite from Cumberland, R.I., is often spotted with white quartz. It
+has been cut into oval stones several inches in length, which take a fine
+polish. This quality, coupled with its hardness, makes it a desirable
+ornamental gem stone.
+
+Mr. Kunz records the discovery, by himself, in the largest mass of the
+Glorieta Mountain (Santa Fe County, N.M.), of pieces of peridot of
+sufficient transparency to afford gems one-fifth of an inch in length.
+
+Large quantities of turquoise from Los Cevillos, N.M., have been sold, both
+as cabinet specimens and gems; but, unfortunately, many of those of the
+finest color have been found to be artificially colored.
+
+Malachite in large masses has been found at the Copper Queen mine at
+Bisbee, Oregon. One of these masses weighed 15 pounds and others were quite
+as large. All were of good enough quality and large enough for table tops.
+
+In conclusion, Mr. Kunz says that "the National Museum collection of gems,
+formed by Prof. F.W. Clarke, is now one of the most complete, for species,
+in the United States, and as many of the gems are of more than average
+merit, and all can have access to them, this is one of the best
+opportunities afforded the student in this country."
+
+       *       *       *       *       *
+
+
+
+
+THE BRAZIL NUT.
+
+
+[Illustration: THE BRAZIL NUT.]
+
+Every one is acquainted with the hard-shelled, triangular fruit called the
+Brazil nut, but there are, perhaps, but few who know anything about the
+tree that produces it, or its mode of growth. The Brazil nut tree belongs
+to a genus of Lecythidaceae of which there is only one species,
+_Bertholletia excelsa_. This tree is a native of Guiana, Venezuela, and
+Brazil. It forms large forests on the banks of the Amazons and Rio Negro,
+and likewise about Esmeraldas, on the Orinoco, where the natives call it
+_juvia_. The natives of Brazil call the fruit _capucaya_, while to the
+Portuguese it is known as _castana de maranon_.
+
+The tree is one of the most majestic in the South American forests,
+attaining a height of 100 or 150 feet. Its trunk is straight and
+cylindrical, and measures about 3 or 4 feet in diameter. The bark is
+grayish and very even. At a distance, the tree somewhat resembles a
+chestnut. Its branches are alternate, open, very long, and droop toward the
+earth. The leaves are alternate, oblong, short petioled, nearly coriaceous,
+about 2 feet long by 6 inches wide, entire or undivided, and of a bright
+green color. The flowers have a two-parted, deciduous calyx, six unequal
+cream-colored petals, and numerous stamens united into a broad, hood-shaped
+mass, those at the base being fertile, and the upper ones sterile.
+
+The fruit is nearly orbicular, and about 6 inches in diameter, and has a
+hard shell about half an inch thick, which contains from 18 to 24
+triangular, wrinkled seeds that are so beautifully packed within the shell
+that when once disturbed it is impossible to replace them. When these
+fruits are ripe, they fall from the tree and are collected into heaps by
+troops of Indians called _Castanhieros_, who visit the forests at the
+proper season of the year expressly for this purpose. They are then split
+open with an ax, and the seeds (the Brazil nuts of commerce) taken out and
+packed in baskets for transportation to Para in the native canoes. The
+"meat" that the Brazil nut contains consists of a white substance of the
+same nature as that of the common almond, and which is good to eat when
+fresh, but which, by reason of its very oily nature, soon gets rancid.
+Besides its use as an article of dessert, a bland oil, used by watchmakers
+and artists, is obtained from the nut by pressure. Brazil nuts form a
+considerable article of export from the port of Para, whence they are
+sometimes called Para nuts.
+
+The Brazil nut tree remained for a long time unknown to European botanists,
+although the fruit has been from a very remote epoch consumed in large
+quantities in certain southern countries of the New World. The first
+description of the tree we owe to Humboldt and Bonpland, who established
+the genus and species in the botanical part of the account of their voyage.
+The genus is dedicated to the illustrious Berthollet.
+
+"We were very fortunate," say these authors, "to find some of these nuts in
+our travels on the Orinoco. For three months we had been living on nothing
+but poor chocolate and rice cooked in water, always without butter, and
+often without salt, when we procured a large quantity of the fresh fruits
+of the _Bertholletia_. It was along in June, and the natives had just
+gathered them."
+
+The formation of a large woody fruit, often in the shape of an urn, from
+which the top spontaneously separates in the form of a lid, is one of the
+characteristics of the order Lecythidaceae, which includes the _Couronpita
+Guianensis_, or "cannon ball tree"; the gigantic _Lecythis ollaria_, or
+"monkey-pot tree," whose great woody pericarps serve as drinking vessels;
+and the _Lecythis Zabucajo_, whose fruit is known in the market as sapucaia
+nuts, and is greatly superior to the closely allied Brazil nuts as regards
+flavor and ease of digestion.
+
+All the trees of this order are natives of South America, and especially of
+Guiana.
+
+       *       *       *       *       *
+
+
+
+
+THE ACTION OF THE MAGNET IN HYPNOSIS.
+
+
+Mr. Tamburini some time ago observed that, during a period of lethargy, the
+approach of a magnet produced in persons affected with hysterical hypnosis
+a series of modifications of the respiratory functions and of
+contractility.
+
+From some very careful experiments made by him and Mr. Righi in common,
+upon the lady who was the principal subject of his observations, it results
+that (1) it makes no difference whether the magnet be presented by its
+poles or its neutral line; (2) that any mass of metal whatever acts like a
+magnet; (3) that an electromagnet produces exactly the same effect whether
+it be or be not excited by a current; and (4) that a glass tube filled with
+cold or warm water likewise produces analogous effects, which disappear
+when the water is raised to the temperature of the human body.
+
+It seems, therefore, that the magnetic properties of the magnet count for
+nothing in the phenomena observed.--_Journal de Physique_.
+
+       *       *       *       *       *
+
+
+
+
+THE SCIENTIFIC AMERICAN SUPPLEMENT.
+
+PUBLISHED WEEKLY.
+
+Terms of Subscription, $5 a Year.
+
+Sent by mail, postage prepaid, to subscribers in any part of the United
+States or Canada. Six dollars a year, sent, prepaid, to any foreign
+country.
+
+All the back numbers of THE SUPPLEMENT, from the commencement, January 1,
+1876, can be had. Price, 10 cents each.
+
+All the back volumes of THE SUPPLEMENT can likewise be supplied. Two
+volumes are issued yearly. Price of each volume, $2.50, stitched in paper,
+or $3.50, bound in stiff covers.
+
+COMBINED RATES--One copy of SCIENTIFIC AMERICAN and one copy of SCIENTIFIC
+AMERICAN SUPPLEMENT, one year, postpaid, $7.00.
+
+A liberal discount to booksellers, news agents, and canvassers.
+
+
+MUNN & CO., Publishers,
+
+361 Broadway, New York, N.Y.
+
+
+       *       *       *       *       *
+
+
+PATENTS.
+
+In connection with the Scientific American, Messrs. MUNN & Co. are
+Solicitors of American and Foreign Patents, have had 39 years' experience,
+and now have the largest establishment in the world. Patents are obtained
+on the best terms.
+
+A special notice is made in the Scientific American of all Inventions
+patented through this Agency, with the name and residence of the Patentee.
+By the immense circulation thus given, public attention is directed to the
+merits of the new patent, and sales or introduction often easily effected.
+
+Any person who has made a new discovery or invention can ascertain, free of
+charge, whether a patent can probably be obtained, by writing to MUNN & Co.
+
+We also send free our Hand Book about the Patent Laws, Patents, Caveats.
+Trade Marks, their costs, and how procured. Address
+
+MUNN & CO., 361 Broadway, New York.
+
+Branch Office, 622 and 624 F St., Washington, D.C.
+
+       *       *       *       *       *
+
+THE SCIENTIFIC AMERICAN
+
+ARCHITECTS AND BUILDERS EDITION.
+
+$2.50 a Year. Single Copies, 25 Cents.
+
+This is a Special Edition of THE SCIENTIFIC AMERICAN, issued monthly--on
+the first day of the month. Each number contains about forty large quarto
+pages, equal to about two hundred ordinary book pages, forming,
+practically, a large and splendid Magazine of Architecture, richly
+adorned with _elegant plates in colors_ and with fine engravings;
+illustrating the most interesting examples of modern Architectural
+Construction and allied subjects.
+
+A special feature is the presentation in each number of a variety of the
+latest and best plans for private residences, city and country, including
+those of very moderate cost as well as the more expensive. Drawings in
+perspective and in color are given, together with full Plans,
+Specifications, Costs, Bills of Estimate, and Sheets of Details.
+
+No other building paper contains so many plans, details, and specifications
+regularly presented as the SCIENTIFIC AMERICAN. Hundreds of dwellings have
+already been erected on the various plans we have issued during the past
+year, and many others are in process of construction.
+
+Architects, Builders, and Owners will find this work valuable in furnishing
+fresh and useful suggestions. All who contemplate building or improving
+homes, or erecting structures of any kind, have before them in this work an
+almost _endless series of the latest and best examples_ from which to make
+selections, thus saving time and money.
+
+Many other subjects, including Sewerage, Piping, Lighting, Warming,
+Ventilating, Decorating, Laying out of Grounds, etc. are illustrated. An
+extensive Compendium of Manufacturers' Announcements is also given, in
+which the most reliable and approved Building Materials, Goods, Machines,
+Tools, and Appliances are described, and illustrated, with addresses of the
+makers, etc.
+
+The fullness, richness, cheapness, and convenience of this work have won
+for it the Largest Circulation of any Architectural publication in the
+world.
+
+MUNN & CO., Publishers, 361 Broadway, New York.
+
+A Catalogue of valuable books on Architecture, Building, Carpentry,
+Masonry, Heating, Warming, Lighting, Ventilation, and all branches of
+industry pertaining to the art of Building, is supplied free of charge,
+sent to any address.
+
+       *       *       *       *       *
+
+BUILDING PLANS and SPECIFICATIONS.
+
+In connection with the publication of the BUILDING EDITION of the
+SCIENTIFIC AMERICAN, Messrs. Munn & Co. furnish plans and specifications
+for buildings of every kind, including Churches, Schools, Stores,

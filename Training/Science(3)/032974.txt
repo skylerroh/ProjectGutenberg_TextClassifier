@@ -1,0 +1,240 @@
+The Project Gutenberg EBook of The Elements of Blowpipe Analysis, by
+Frederick Hutton Getman
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: The Elements of Blowpipe Analysis
+
+Author: Frederick Hutton Getman
+
+Release Date: June 25, 2010 [EBook #32974]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE ELEMENTS OF BLOWPIPE ANALYSIS ***
+
+
+
+
+Produced by The Online Distributed Proofreading Team at
+http://www.pgdp.net. (This file was produced from images
+generously made available by The Internet Archive/American
+Libraries.)
+
+
+
+
+
+
+
+THE ELEMENTS OF BLOWPIPE ANALYSIS
+
+[Illustration]
+
+
+
+
+THE
+
+ELEMENTS OF BLOWPIPE
+
+ANALYSIS
+
+BY
+
+FREDERICK HUTTON GETMAN, F.C.S.
+
+INSTRUCTOR IN CHEMISTRY IN THE STAMFORD HIGH SCHOOL
+
+New York
+THE MACMILLAN COMPANY
+LONDON: MACMILLAN & CO., LTD.
+1899
+
+_All rights reserved_
+
+
+COPYRIGHT, 1899,
+
+BY THE MACMILLAN COMPANY.
+
+Norwood Press
+J. S. Cushing & Co.--Berwick & Smith
+Norwood Mass. U.S.A.
+
+Transcriber's note: A word surrounded by underscores like _this_
+signifies the word is italics in the text. A word surrounded by cedillas
+like ~this~, signifies the word is bolded in the text. For numbers and
+equations, underscores before bracketed numbers in equations denote a
+subscript.
+
+
+PREFACE
+
+
+These few pages are intended to serve a twofold purpose,--to give the
+student a general outline of Blowpipe Analysis, and to introduce him to
+the methods of Determinative Mineralogy.
+
+Every effort has been made to simplify details so that the book may be
+used in both High Schools and Colleges.
+
+Tables for "systematic" examination have been intentionally omitted, for
+in the author's estimation these tend to dull the student's power of
+observation, and to make him place little value upon minute details.
+
+The alphabetic arrangement has been followed for the sake of convenience
+when referring to the book.
+
+The last chapter is not intended to serve as a key to determining the
+minerals therein described, but rather it is added to give the student
+exercise in Blowpipe Analysis, and at the same time to point out the
+_methods_ of Determinative Mineralogy.
+
+Finally, the author would acknowledge his indebtedness to the following
+works: "Manual of Qualitative Analysis," Fresenius; "Qualitative
+Chemical Analysis," Venable; Roscoe and Schorlemmer's "Treatise on
+Chemistry"; Foye's "Hand-Book of Mineralogy"; Dana's "Mineralogy";
+Kobell's "Tafeln zur Bestimmung der Mineralien"; etc.
+
+FREDERICK HUTTON GETMAN.
+
+STAMFORD, CONN.,
+
+Feb. 22, 1899.
+
+
+
+
+TABLE OF CONTENTS
+
+
+CHAPTER I
+                                                             PAGE
+Apparatus and Reagents                                        1-7
+
+
+CHAPTER II
+
+General Outline of Blowpipe Analysis                            8
+
+Definitions                                                     9
+
+Examination on Charcoal Alone                                  10
+
+Examination on Charcoal with Sodium Carbonate                  13
+
+Examination in Tube with Sodium Carbonate and Charcoal         15
+
+Examination on Platinum Wire                                   16
+
+Examination in Borax Bead                                      17
+
+Examination with Cobalt Nitrate                                20
+
+
+CHAPTER III
+
+General Reactions for the Detection of the Metallic
+Elements in Simple Compounds                                   22
+
+Aluminum                                                       23
+
+Antimony                                                       24
+
+Arsenic                                                        25
+
+Bismuth                                                        25
+
+Cadmium                                                        26
+
+Chromium                                                       26
+
+Cobalt                                                         27
+
+Copper                                                         28
+
+Iron                                                           28
+
+Lead                                                           29
+
+Manganese                                                      30
+
+Mercury                                                        30
+
+Nickel                                                         31
+
+Silver                                                         32
+
+Tin                                                            32
+
+Zinc                                                           33
+
+The Alkali Metals                                              34
+
+Ammonium                                                       34
+
+Potassium                                                      35
+
+Sodium                                                         35
+
+Lithium                                                        36
+
+The Alkaline Earths                                            36
+
+Barium                                                         36
+
+Calcium                                                        37
+
+Strontium                                                      37
+
+The Acid Elements                                              37
+
+Borates                                                        37
+
+Bromides                                                       38
+
+Chlorides                                                      38
+
+Fluorides                                                      38
+
+Iodides                                                        39
+
+Nitrates                                                       39
+
+Phosphates                                                     40
+
+Silicates                                                      40
+
+Sulphides                                                      41
+
+
+CHAPTER IV
+
+Behavior of Some of the Principal Ores before the Blowpipe     43
+
+Ores of Antimony                                               46
+
+Ores of Arsenic                                                47
+
+Ores of Bismuth                                                48
+
+Ores of Chromium                                               49
+
+Ores of Cobalt                                                 50
+
+Ores of Copper                                                 52
+
+Ores of Iron                                                   57
+
+Ores of Lead                                                   60
+
+Ores of Manganese                                              63
+
+Ores of Mercury                                                64

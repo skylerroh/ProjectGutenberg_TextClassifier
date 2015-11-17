@@ -1,0 +1,576 @@
+Bismuthyl chloride 256
+
+Blast furnace 341
+  lamp 38
+
+Bleaching powder 306
+
+Bleaching by chlorine 181
+  by sulphurous acid 152
+
+Boiler scale 320
+
+Bone ash 311
+
+Bone black 200
+
+Borax 265
+  bead 266
+
+Bornite 357
+
+Boron 257, 264
+  acids 265
+  fluoride 264
+  hydride 264
+  occurrence 264
+  oxides 264
+  preparation 264
+  properties 264
+
+Brass 323
+
+Bread making 416
+
+Bromides 190
+
+Bromine 187
+  occurrence 187
+ oxygen compounds 190
+  preparation 187
+  properties 188
+
+Bronze 359
+  aluminium 330, 359
+
+Butter fat 410
+
+Butyric acid 407
+
+By-product 284
+
+
+Cadmium 325
+  compounds 326
+
+Caesium 294
+
+Calamine 321
+
+Calcite 305
+
+Calcium 301
+  carbide 203, 310
+  carbonate 305
+  chloride 306
+  fluoride 308
+  hydroxide 303
+  occurrence 301
+  oxide 302
+  phosphate 246, 311
+  preparation 302
+  sulphate 308
+
+Calomel 363
+
+Calorie 76
+
+Caramel 414
+
+Carbohydrates 413
+
+Carbolic acid 417
+
+Carbon 196
+  allotropic forms 196
+  amorphous 198
+  compounds 196
+  crystalline forms 197
+  cycle in nature 88
+  dioxide 204
+    and bases 206
+    and plant life 88
+    in air 87
+    occurrence 204
+    preparation 204
+    properties 204
+    solid 204
+  disulphide 160, 210
+  family 196
+  hydrogen compounds 201
+  monoxide 208
+  occurrence 196
+  oxides 203
+  properties 200
+  pure 198
+  retort 199
+  uses 200
+
+Carbonates 207
+  acid 207
+
+Carbonic acid 206
+
+Carborundum 259
+
+Carnallite 288
+
+Casein 414
+
+Cassiterite 370
+
+Catalysis 153
+
+Catalyzers 153
+
+Cathode 99
+
+Cation 106
+
+Caustic potash 288
+  soda 278
+
+Celestite 312
+
+Celluloid 415
+
+Cellulose 415
+
+Cement 304
+
+Ceramic industries 336
+
+Cerium 377
+
+Chalcedony 260
+
+Chalcocite 357
+
+Chalcopyrite 357
+
+Chalk 305
+
+Chamber acid 157
+
+Changes, physical and chemical 2
+
+Charcoal 199
+
+Chemical affinity 12
+  changes 2
+  compounds 7
+  equilibrium 128
+  properties 3
+
+Chemistry, definition 4
+
+Chili saltpeter 191, 285
+
+Chinaware 336
+
+Chloric acid 187
+
+Chlorides 186
+
+Chlorine 177
+  bleaching action 181
+  chemical properties 180
+  family 174
+  historical 177
+  occurrence 178
+  oxides 187
+  oxygen acids 187
+  preparation 178
+  properties 179
+
+Chloroform 401
+
+Chloroplatinic acid 393
+
+Chlorous acid 187
+
+Chromates 385
+
+Chrome alum 384
+
+Chromic acid 388
+  anhydride 387
+  chloride 383
+  hydroxide 383
+  sulphate 384
+  sulphide 384
+
+Chromite 383
+
+Chromium 383
+  a base-forming element 383
+  an acid-forming element 385
+  occurrence 383
+
+Cinnabar 363
+
+Citric acid 408
+
+Clay 336
+
+Coal 199
+  gas 217
+  products 400
+  tar 218
+
+Cobalt 354
+  compounds 354
+
+Cocaine 419
+
+Coke 199
+
+Collodion 415
+
+Colemanite 265
+
+Combining weights 225
+
+Combustion 17
+  broad sense 20
+  in air 19
+  phlogiston theory 19
+  products 18
+  spontaneous 20
+  supporters 213
+
+Compounds, chemical 7
+  isomeric 414
+  of metals, preparation 265
+  structure of 118
+
+Conservation of energy 4
+  of matter 5
+
+Contact process 154
+
+Converter, Bessemer 345
+
+Copper 357
+  acetate 407
+  alloys of 359
+  family 356
+  hydroxide 360
+  metallurgy 357
+  occurrence 357
+  ores 357
+  oxide 360
+  properties 358
+  refining 358
+  sulphate 361
+  sulphide 361
+  uses 359
+
+Copperas 350
+
+Coral 305
+
+Corrosive sublimate 363
+
+Corundum 331
+
+Cream of tartar 408
+
+Crocoisite 383
+
+Cryolite 175, 328
+
+Crystallization 98
+  water of 54, 75
+
+Crystallography 161
+
+Crystals 161
+  axes of 161
+  systems 162
+
+Cupric compounds 360
+
+Cuprite 360
+
+Cuprous compounds 360
+  chloride 360
+  oxide 360
+
+Cyanides 210
+  solutions are alkaline 210
+
+
+Dalton's atomic hypothesis 61
+
+Decay 21
+
+Decomposition of organic matter 122
+
+Decrepitation 55
+
+Deliquescence 55
+
+Density of gases 230
+
+Desiccating agents 55
+
+Developers 367
+
+Dewar bulb 91
+
+Dextrose 414
+
+Diamond 197
+
+Dichromates 385
+
+Dichromic acid 385
+
+Dimorphous substances 163
+
+Dissociation 99
+  and boiling point 101
+  and freezing point 101
+  equations of 112
+  extent of 113
+
+Distillation 50
+
+Dogtooth spar 306
+
+Dolomite 319
+
+Double decomposition 71
+
+Drummond light 38
+
+Dyeing  333
+
+Dynamite 409
+
+
+Earth metals 327
+
+Efflorescence 54
+
+Electric furnace 221
+
+Electro-chemical industries 269
+
+Electrode 99
+
+Electrolysis 99
+  of sodium chloride 102
+  of sodium sulphate 103
+  of water 41, 102
+
+Electrolytes 99
+
+Electrolytic dissociation 99
+
+Electroplating 366
+
+Electrotyping 359
+
+Elements, definition 8
+  atomic weights 232
+  earlier classification 165
+  names 11
+  natural groups 165
+  number of 9
+  occurrence 10
+  periodic division 166
+  physical state 10
+  symbols of 11
+
+Emery 331
+
+Energy 4
+  and plant life 89
+  chemical 5
+  conservation of 4
+  transformation of 5
+
+Enzyme 405
+
+Epsom salts 320
+
+Equations 68
+  are quantitative 72
+  knowledge requisite for 69
+  not algebraic 74
+  reading of 69
+
+Equilibrium 138
+  chemical 138
+  in solution 139
+  point of 138
+
+Equivalent 224
+  determination of 224
+  elements with more than one 225
+  relation to atomic weight 224
+
+Etching 177
+
+Ether 411
+
+Ethereal salts 409
+
+Ethers 411
+
+Ethylamine 412
+
+Ethylene series 399
+
+Eudiometer 43
+
+Evaporation  11
+
+
+Families in periodic groups 170
+  triads 165
+
+Family resemblances 170
+
+Fats 409
+
+Fatty acid series 405
+
+Feldspar 261, 335
+
+Fermentation 404
+  acetic 406
+  alcoholic 404, 405
+  lactic 414
+
+Ferric chloride 352
+  hydroxide 352
+  salts 351
+    reduction 353
+  sulphate 352
+
+Ferrochromium, 383
+
+Ferromanganese 343
+
+Ferrosilicon 259
+
+Ferrous carbonate 351
+  salts 350
+    oxidation of 353
+  sulphate 350
+  sulphide 350
+
+Fertilizers 245
+
+Filtration 6, 51
+  beds 52
+
+Fire damp 202
+
+Flames 213
+  appearance 214
+  blowpipe 216
+  Bunsen 214
+  conditions for 213
+  hydrogen 34
+  luminosity 216
+  oxidizing 214
+  oxyhydrogen 37
+  reactions 296
+  reducing 214
+  structure 214
+
+Flash lights 317
+
+Flint 260
+
+Fluorides 177
+
+Fluorine 175
+
+Fluorspar 175, 308
+
+Fluosilicic acid 259
+
+Flux 340
+
+Fool's gold 351
+
+Formaldehyde 405
+
+Formalin 405
+
+Formic acid 406
+
+Formulas 68
+  how determined 234
+  structural 119
+
+Fractional distillation 51
+
+Franklinite 321
+
+Fuels 220
+
+Furnace, arc 221
+  electric 221
+  resistance 221
+
+Fusion methods 271
+
+
+Galena 373
+
+Gallium 327
+
+Galvanized iron 323
+
+Gas, collection of 15
+  coal 217
+  fuel 217
+  illuminating 217
+  measurement of 23
+  natural 219
+  purification of 218
+  water 219
+
+Gases, table 220
+
+Gasoline 400
+
+German silver 323, 359
+
+Germanium 370
+
+Germs, effect of cold on 53
+  in air 84
+  in water 52
+
+Glass 262
+  coloring of 263
+  etching of 177
+  molding of 263
+  nature of 263
+  varieties 263
+
+Glauber's salt 281
+
+Glazing 336
+
+Glucose 414
+
+Glycerin 405
+  nitrates of 409
+
+Gold 393
+  alloys 396
+  chloride 396
+  coin 359
+  extraction of 394
+  in copper 358
+  mining 394
+  occurrence 393
+  properties 396

@@ -1,0 +1,412 @@
+Graphically represented the first two are:--
+
+      H	  H		      H	H   H H
+      |	  |		      |	|   | |
+(1) H-C-O-C-H.		(2) H-C-C-O-C-C-H.
+      |	  |		      |	|   | |
+      H	  H		      H	H   H H
+
+
+301. Substitutions.--A large number of other substitutions can be
+made in each symbol, thus giving rise to as many different
+compounds.
+
+
+In CH4, by substituting 3 Cl for 3 H,--
+
+
+  H 	        Cl
+  | 	        |
+H-C-H becomes H-C-CI, or CHCl3,the symbol for chloroform.
+  |	        |
+  H 	        Cl
+
+
+Replace successively one, two, and four atoms with Cl, and write
+the common symbols. Make the same changes with Br. For each atom
+of H in CH4 substitute the radical CH3, giving the graphic and
+common formulae. Also substitute C2H5. Are these radicals
+positive or negative? From the above series of formulae, of which
+CH4 is the basis, are derived, in addition to the alcohols and
+ethers, the natural oils, fatty acids, etc.
+
+302. Olefines.--A second series of hydro-carbons is represented
+by the general formula CnH2n. The first member of this series is
+C2H4 or, graphically,--
+
+
+ H   H
+ |   |
+ C = C.
+ |   |
+ H   H
+
+Compare it with that for C2H6, in the first series, noting
+the apparent molecular structure of each.
+
+H 	H
+|       |
+C = C - C - H, or C3H6 is the second member.
+|   |   |
+H   H   H
+
+
+Write formulae for the third and fourth members.
+
+Write the common formulae for the first ten of this series. This
+is the olefiant-gas series, and to it belong oxalic and tartaric
+acids, glycerin, and a vast number of other compounds, many of
+which are derived by replacements.
+
+303. Other Series.--In addition to the two series of hydro-
+carbons above given, CnH2n+2 and CnH2n, other series are known
+with the general formulm CnH2n-2, CnH2n-4, CnH2n-6, CnH2n-8,
+etc., as far as CnH2n-32, or C26H2O. Each of these has a large
+number of representatives, as was found in the marsh-gas series.
+Not far from two hundred direct compounds of C and H are known,
+not to mention substitutions. The formula CnH2n-6 represents a
+large and interesting group of compounds, called the benzine
+series. This is the basis of the aniline dyes, and of many
+perfumes and flavors.
+
+Chapter LV.
+
+ILLUMINATING GAS.
+
+304. Source.--The three main elements in combustion are O, H, C.
+Air supplies O, the supporter; C and H are usually united, as
+hydro-carbons, in luminants and combustibles. H gives little
+light in burning; C gives much. The fibers of plants contain
+hydro-carbons, and by destructive distillation these are
+separated, as gases, from wood and coal, and used for
+illuminating purposes. Mineral coal is fossilized vegetable
+matter; anthracite has had most of the volatile hydro-carbons
+removed by distillation in the earth; bituminous and cannel coals
+retain them. These latter coals are distilled, and furnish us
+illuminating gas.
+
+Experiment 129.--Put into a t.t. 20 g. of cannel coal in fine
+pieces. Heat, and collect the gas over H2O. Test its
+combustibility. Notice any impurities, such as tar, adhering to
+the sides of the t.t., or of the receiver after combustion. Try
+to ignite a piece of cannel coal by holding it in a Bunsen flame.
+Is it the C which burns, or the hydrocarbons? Distil some wood
+shavings in a small ignition-tube, and light the escaping gas.
+
+305. Preparation and Purification.--To make illuminating gas,
+fire-clay retorts filled with coal are heated to 1100 degrees or
+more, over a fire of coke or coal. Tubes lead the distilled gas
+into a horizontal pipe, called the hydraulic main, partly filled
+with water, into which the ends of the gas-pipe dip. The gas then
+passes through condensers consisting of several hundred feet of
+vertical pipe, through high towers, called washers, in which a
+fine spray Fig. 60. Gas Works.
+
+A, furnace; C, retorts containing coal; T, gas-tubes leading to
+B, the hydraulic main; D, condensers; O, washers, with a spray of
+water, and sometimes coke; M, purifiers-ferric oxide or lime; G,
+gas-holder. In C remain the coke and gas carbon. At B, D, E, and
+O, coal tar, H2O, NH3, CO2, and SO2 are removed. At M are taken
+out H2S and CO2.of water falls, into chambers with shelves
+containing the purifiers CaO or hydrated Fe2O3, and finally into
+a gas-holder, whence it is distributed. At the hydraulic main,
+condensers, washers, and purifiers, certain impurities are
+removed froth the gas. Coke is the solid C residue after
+distillation. Gas-carbon, also a solid, is formed by the
+separation of the heavier hydro-carbons at high temperature, and
+is deposited on the sides of the retort.
+
+Coal gas, as it leaves the retort, has many impurities. It is
+accompanied with about 3 its weight of coal tar, 1/2 its weight
+of H2O vapor, 1/50 NH3, 1/20 CO2, 1/20 to 1/50 H2S, 1/300 to
+1/600 S in other forms. The tar is mostly taken out at the
+hydraulic main, which also withdraws some H2O with other
+impurities in solution. The condensers remove the rest of the
+tar, and the H2O, except what is necessary to saturate the gas.
+At the main, the condensers, and the washers, NH3 is abstracted,
+CO2 and H2S are much reduced, and the other S compounds are
+diminished. Lime purification removes CO2 and H2S, and, to some
+extent, other S compounds. Iron purification removes H2S. Fe2O3 +
+3 H2S = 2 FeS + S + 3 H2O.
+
+The FeS is revivified by exposure to the air. 2 FeS + O3 = Fe2O3
++ 2S. It can then be used again. H2S, if not separated, burns
+with the gas, forming H2S03, which oxidizes in the air to H2SO4;
+hence the need of removing it. CO2 diminishes the illuminating
+power.
+
+306. Composition.--Even when freed from its impurities coal-gas
+is a very complex mixture, the chief components being nearly as
+follows:--
+
+
+Percent	                 Diluents, having little C, give
+H	45)	         very little light. Notice the small
+CH,	41) diluents.	 percentage of luminants, or light-
+CO	5 )	         giving compounds, also the proportion
+C,HB	1.3)             of C to H in them.
+C,H6	1.2)luminants.
+CZH4	2.5)	         Cannel coal contains more of
+C02	2) impurities.   the heavy bydro-carbons, CnH2n,
+N, etc. 2)	         etc., than the ordinary bituminous
+        100	         coal. Ten per cent of the coal should be
+cannel; naphtha is, however, often employed to subserve the same
+purpose, one ton of ordinary bituminous coal requiring four gallons
+of oil.
+
+In Boston, 7,000,000 cubic feet of gas have been burned in one
+day, consuming 500 tons of coal; the average is not more than
+half that quantity. Of the other products, coke is employed for
+heating purposes, gas carbon is used to some extent in electrical
+work, and coal-tar is the source of very many artificial products
+that were formerly only of natural origin. NH3, is the main
+source of ammonium salts, and S is made into H2SO4.
+
+307. Natural Gas occurs near Pittsburg, Pa., and in many other
+places, in immense quantities. It is not only employed to light
+the streets and houses, but is used for fires and in iron and
+glass manufactories. It is estimated that 600,000,000 cubic feet
+are burned, saving 10,000 tons of coal daily in Pittsburg, Only
+half a dozen factories now use coal. More than half the gas is
+wasted through safety valves, on account of the great pressure on
+the pipes as it issues from the earth.
+
+These reservoirs of natural gas very frequently occur in
+sandstone, usually in the vicinity of coal-beds, but sometimes
+remote from them. In all cases the origin of the gas is thought
+to be in the destructive distillation, extending through long
+geological periods, of coal or of other vegetable or animal
+matter in the earth's interior.
+
+Natural gas varies in composition, and even in the same well,
+from day to day; it consists chiefly of CH4, with some other
+hydro-carbons.
+
+CHAPTER LVI.
+
+ALCOHOL.
+
+308. Fermented Liquor.
+
+Experiment 130.--Introduce 20 cc.of molasses into a flask of 200
+cc, fill it with water to the neck, and put in half a cake of
+yeast. Fit to this a d.t., and pass the end of it into a t.t.
+holding a clear solution of lime water. Leave in a warm place for
+two or three days. Then look for a turbidity in the lime water,
+and account for it. See whether the liquid in the flask is sweet.
+The sugar should be changed to alcohol and CO2. This is fermented
+liquor; it contains a small percentage of alcohol.
+
+309. Distilled Liquor. Experiment 131.--Attach the flask used in
+the last experiment to the apparatus for distilling water (Fig.
+32), and distil not more than one-fifth of the liquid, leaving
+the rest in the flask. The greater part of the alcohol will pass
+over. To obtain it all, at least half of the liquid must be
+distilled; what passes over towards the last is mostly water.
+Taste and smell the distillate. Put some into an e.d. and touch a
+lighted match to it. If it does not burn, redistil half of the
+distillate and try to ignite the product. Try the combustibility
+of commercial alcohol; of Jamaica ginger, or of any other liquid
+known to contain alcohol.
+
+310. Effect on the System.
+
+Experiment 132.--Put a little of the white of egg into an e.d. or
+a beaker; cover it with strong alcohol and note the effect.
+Strong alcohol has the same coagulating action on the brain and
+on the tissues generally, when taken into the system, absorbing
+water from them, hardening them, and contracting them in bulk.
+
+311. Affinity for Water.
+
+Experiment 133.--To show the contraction in mixing alcohol and
+water, measure exactly 5cc.of alcohol and 5cc.of water. Pour them
+together, and presently measure the mixture. The volume is
+diminished. A strip of parchment soaked in water till it is limp,
+then dipped into strong alcohol, becomes again stiff, owing to
+the attraction of alcohol for water.
+
+312. Purity.--The most important alcohols are methyl alcohol and
+ethyl alcohol. The former, wood spirit, is obtained in an impure
+state by distilling wood; it is used to dissolve resins, fats,
+oils, etc., and to make aniline. It is poisonous, as are the
+others.
+
+Ethyl alcohol, spirit of wine, is the commercial article. It is
+prepared by fermenting glucose, and distilling the product. It
+boils at 78 degrees, vaporizing 22 degrees lower than water, from
+which it can be separated by fractional distillation. By
+successive distillations of alcohol ninety-four per cent can be
+obtained, which is the best commercial article, though most
+grades fall far below this. Five per cent more can be removed by
+distilling with CaO, which has a strong affinity for water. The
+last one per cent is removed by BaO. One hundred per cent
+constitutes absolute alcohol, which is a deadly poison. Diluted,
+it increases the circulation, stimulates the system, hardens the
+tissues by withdrawing water, and is the intoxicating principle
+in all liquors.--It is very inflammable, giving little light, and
+much heat, and readily evaporates.
+
+Beer has usually three to six per cent of alcohol; wines, eight
+to twenty per cent. The courts now regard all liquors having
+three per cent, or less, of alcohol, as not intoxicating. In
+Massachusetts it is one per cent.
+
+CHAPTER LVII.
+
+OILS, FATS, AND SOAPS.
+
+313. Sources and Kinds of Oils and Fats.--Oils and fats are
+insoluble in water; the former are liquid, the latter solid. Most
+fats are obtained from animals, oils from both plants and
+animals. Oils are classified as fixed and essential. Castor oil
+is an example of the former and oil of cloves of the latter.
+Fixed oils include drying and non-drying oils. They leave a stain
+on paper, while essential, or volatile oils, leave no trace, but
+evaporate readily. Essential oils dissolved in alcohol furnish
+essences. They are obtained by distilling with water the leaves,
+petals, etc., of plants. Drying oils, as linseed, absorb O from
+the air, and thus solidify. Non-drying ones, as olive, do not
+solidify, but develop acids and become rancid after some time.
+
+Oils and fats are salts of fatty acids and the base glycerin. The
+three most common of these salts are olein, found in olive oil,
+palmitin, in palm oil and human fat, and stearin, in lard. The
+first is liquid, the second semi-solid, the last solid. Most fats
+are mixtures of these and other salts.
+
+
+Olefin    = Glyceryl)		(   oleic)
+            oleate  )           (        )
+Pahnitin  = Glyceryl)salts from (palmitic)acid and glyceryl hydrate.
+           palmitate)		(	 )
+Stearin   = Glyceryl)           (stearic )
+            stearate)
+
+
+314. Saponification consists in separating these salts
+into their acids and the base glycerin; soap-making is the best
+illustration. To effect this separation, a strong soluble base is
+used, KOH for soft, and NaOH for hard soap. Study this reaction:
+
+
+Glyceryl oleate   )   (sodium )		 (oleate   )
+Glyceryl palmitate) + (hydrate)	= sodium (palmitate) + (glyceryl
+Glyceryl stearate )                      (stearate )   (hydrate
+
+
+Soaps are thus salts of fatty acids and of K or Na.
+
+315. Soap is soluble in soft water, but the sodium stearate
+probably unites with water to form hydrogen sodium stearate and
+NaOH. The grease which exudes from the skin, or appears in
+fabrics to be washed, is attacked by this NaOH and removed,
+together with the suspended dirt, and a new soap is formed and
+dissolved in the water. Hard water contains salts of Ca and Mg,
+and when soap is used with it the Na is at once replaced by these
+metals, and insoluble Ca or Mg soaps are formed. Hence in hard
+water soap will not cleanse till all the Ca and Mg compounds have
+combined.
+
+316. Glycerin, C3H5(OH)3, is a sweet, thick, colorless, unctuous
+liquid, used in cosmetics, unguents, pomades, etc. It is prepared
+in quantity by passing superheated steam over fats when under
+pressure.
+
+317. Dynamite.--Treated with HNO3 and H2SO4 glycerin forms the
+very explosive and poisonous liquid nitro-glycerin. In this
+process the C3H5(OH)3 becomes C3H5(NO3)3. C3H5(OH)3 + 3HNO3 =
+C3H5(NO3)3+3 H2O. H2SO4 is used to absorb the H2O which is
+formed. Nitro-glycerin, absorbed by gunpowder, diatomaceous
+earth, sawdust, etc., forms dynamite. For obvious reasons the
+pupil should not experiment with these substances.
+
+318. Butter and Oleomargarine.--Milk contains minute particles of
+fat, about 1/500 of an inch in diameter, which give it the
+whitecolor. These particles are lighter than the containing
+liquid, and rise to the top as cream. Churning unites the
+particles more closely, and separates them from the buttermilk.
+The flavor of butter is due to the presence of five or ten per
+cent of butyric and other acids of the same series.
+
+It was found that cows gave milk after they ceased to have food;
+hence it was inferred that the milk was produced at the expense
+of the cows' fat. Why could not butter be artificially made from
+the same fat? It was but a step from fat to milk, as it was from
+milk to butter. Oleomargarine, or butterine, was the result. Beef
+fat, suet, is washed in water, ground to a pulp, and partially
+melted and strained, the stearin is separated from the filtered
+liquid and made into soap, and an oily liquid is left. This is
+salted, colored with annotto, mixed with a certain portion of
+milk, and churned. The product is scarcely distinguishable from
+butter, and is chemically nearly identical with it, though less
+likely to become rancid from the absence of certain fatty acids;
+its cost is perhaps one-third as much as that of butter.
+
+Chapter LVIII
+
+CARBO-HYDRATES.
+
+319. Carbon and Water.--Some very important organic compounds
+have H and O, in the proper proportion to form water, united with
+C. The three leading ones are sugar, C12H22O11 or C12(H2O)11,
+starch, C6H10O6, or ?, and cellulose, C18H30O15 or ?. Note the
+significance of the name carbo-hydrates as applied to them.
+
+320. Sugars may be divided into two classes,--the sucroses,
+C12H22O11, and the glucoses, C6H12O6. Sucrose, the principal
+member of the first class, is obtained from the juice of the
+maple, the palm, the beet and the sugarcane; in Europe largely
+from the beet, in America from cane. Granulated sugar is that
+which has been refined; brown sugar is the unrefined. From the
+sap evaporated by boiling, brown sugar crystallizes, leaving
+molasses, which contains glucose and other substances. Good
+molasses has but a small percentage of glucose. To refine brown
+sugar it is dissolved in water, a small quantity of blood is
+added to remove certain vegetable substances, after which it is
+filtered through animal charcoal, i.e. bone-black, a process
+which takes out the coloring-matter. The water is then evaporated
+in vacuum-pans, so as to boil at about 74 degrees and to prevent
+conversion into grape sugar. By this process much glucose or
+syrup is formed, which is separated from the crystalline sucrose
+by rapidly revolving centrifugal machines. Great quantities of
+sucrose are used for food by all civilized nations. A single
+refinery in New York purifies 2,000,000 pounds per day.
+
+321. Glucose, or invert sugar, the principal member of the second
+class, consists of two distinct kinds of sugar, --dextrose and
+levulose. These differ in certain properties, but have the same
+symbol. Both are found in equal parts in ripe fruits, while
+sucrose occurs in the unripe. Honey contains these three kinds of
+sugar.
+
+Sucrose, by the action of heat, weak acids, or ferments, may be
+resolved into the other two varieties. C12H22O11 + H2O = C6H12O6
++ C6H12O6. No mode of reversing this process, or of transforming
+glucose into sucrose is known. Glucose is easily made from starch
+or from the cellulose in cotton rags, sawdust, etc. If boiled
+with dilute H2SO4 starch takes up water and becomes glucose.
+C6H10O5 + H2O = C6H12O6.
+
+CaCO3 is added to precipitate the H2SO4, which remains unchanged.
+State the reaction. The product is filtered and the filtrate is
+evaporated. Much glucose is made from the starch of corn and
+potatoes.
+
+322. Starch is found in all plants, especially in grains, seeds,
+and tubers. Green plants--those containing chlorophyll--
+manufacture their own starch from CO2 and H2O. These chlorophyll
+grains are the plant's chemical laboratories, and hundreds of
+thousands of them exist in every leaf. CO2 and a very little H2O
+enter the leaf from the air, H2O being also drawn up through the
+root and stem from the earth. In some unknown way in the leaf,
+light has the power of synthesizing these into starch and setting
+free O, which is returned to the atmosphere.6 CO2 + 5 H2O =
+C6H10O5 + 12 O. As no such change takes place in darkness, all
+green plants must have light. Parasitic plants, which are usually
+colorless, obtain starch ready-made from those on which they
+feed.
+
+323. Uses.--Glucose is used in the manufacture of alcohol and
+cheap confectionery, and in adulterating sucrose. It is only two-
+thirds as sweet as the latter. The seeds of all plants contain

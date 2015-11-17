@@ -1,0 +1,447 @@
+flame.
+
+         GASES ESCAPING DURING CHECKED COMBUSTION.
+
+                    |    Bunsen flame.      |     Luminous flame.
+                    +-----------+-----------+-------------+----------
+                    |   Inner.  |   Outer.  |     Inner.  |  Outer.
+                    +-----------+-----------+-------------+----------
+Nitrogen            |   75.75   |    79.17  |     77.52   |   69.41
+Water vapor         |   13.47   |    14.29  |     11.80   |   19.24
+Carbon dioxide      |    2.99   |     5.13  |      4.93   |    8.38
+Carbon monoxide     |    3.69   |     Nil.  |      2.45   |    2.58
+Marsh gas           |    0.51   |     0.31  |      0.95   |    0.39
+Acetylene           |    0.04   |     Nil.  |      0.27   |    Nil.
+Hydrogen            |    3.55   |     0.47  |      2.08   |    Nil.
+                    +-----------+-----------+-------------+----------
+                    |  100.00   |   100.00  |    100.00   |  100.00
+
+These figures are of the greatest interest, as they show conclusively
+that the extreme top of the Bunsen flame is the only portion of the
+flame which can be used for heating a solid substance without
+liberating deleterious gases; and this corroborates the previous
+experiment on the gases in the outer zone of a flame, which showed
+that the outer zone of a Bunsen flame is the only place where complete
+combustion is approached.
+
+Moreover, this sets at rest a question which has been over and over
+again under discussion, and that is whether it is better to use a
+luminous or a non-luminous flame for heating purposes. Using a
+luminous flame, it is impossible to prevent a deposit of carbon, which
+is kept by the flame at a red heat on its outer surface, and the
+carbon dioxide formed by the complete combustion of the carbon already
+burned up in flame is reduced by this back to carbon monoxide, so that
+even in the extreme tip of a luminous flame it is impossible to heat a
+cool body without giving rise to carbon monoxide, although acetylene
+being absent, gas stoves, in which small flat flame burners are used,
+have not that subtile and penetrating odor which marks the ordinary
+atmospheric burner stove, with the combustion checked just at the
+right spot for the formation of the greatest volume of noxious
+products.
+
+It is the contact of the body to be heated with the flame before
+combustion is complete which gives rise to the greatest mischief; any
+cooling of the flame extinguishes a portion of the flame, and the
+gases present in the flame at the moment of extinction creep along the
+cooled surface and escape combustion.
+
+Dr. Blochmann has shown the composition of the gases in various parts
+of the Bunsen flame to be as follows:
+
+  Height above tube. |In tube. |1 inch. |2 inch. |3 inch. |Complete
+                     |         |        |        |        |combustion
+  -------------------------------------------------------------------
+  Air with 100 vols. |         |        |        |        |
+    gas              | 253.9   | 284.7  | 284.5  | 484.3  | 608.8
+  Hydrogen           |  48.6   |  36.4  |  17.7  |  16.1  |  Nil.
+  Marsh gas          |  39.0   |  40.1  |  28.0  |   5.7  |  Nil.
+  Carbon monoxide    |   2.9   |   2.2  |  19.9  |  12.7  |  Nil.
+  Olefiant gas       |   4.0   |   3.4  |   2.2  |  Nil.  |  Nil.
+  Buteylene          |   3.0   |   2.5  |   1.6  |  Nil.  |  Nil.
+  Oxygen             |  52.7   |  52.0  |  21.7  |  Nil.  |  Nil.
+  Nitrogen           | 199.1   | 223.8  | 225.9  | 382.4  | 482.3
+  Carbon dioxide     |   0.8   |   3.5  |  13.0  |  41.7  |  62.4
+  Water vapor        |   3.1   |  11.8  |  45.8  | 116.1  | 141.2
+  -------------------------------------------------------------------
+
+Which results show that it would be impossible to check the flame
+anywhere short of the extreme tip (where complete combustion is
+approximately taking place), without liberating deleterious products.
+I think I have said enough to show that no gas stove, geyser or gas
+cooking stove should be used without ample and thorough means of
+ventilation being provided, and no trace of the products of combustion
+should be allowed to escape into the air; until this is done, the use
+of improper forms of stoves will continue to inflict serious injury on
+the health of the people using them, and this will gradually result in
+the abandonment of gas as a fuel, instead of, as should be the case,
+its coming into general use. The English householder is far too prone
+to accept what is offered to him, without using his own common sense,
+and will buy the article which tickles his eye the most and his pocket
+the least, on the bare assurance of the shopkeeper, who is only
+anxious to sell; but when he finds that health and comfort are in
+jeopardy, and has discarded the gas stove, it will take years of labor
+to convince him that it was the misuse of gas which caused the
+trouble. Already signs are not wanting that the employers of gas
+stoves are beginning to fight shy of them, and I earnestly hope that
+the gas managers of the kingdom will bring pressure to bear upon the
+stove manufacturers to give proper attention to this all important
+question.
+
+So strongly do I feel the importance of this question to the gas world
+and the public, that I freely offer to analyze the products of
+combustion given off by any gas stove or water heater sent to me at
+Greenwich during the next six months, on one condition, and that is
+that the results, good, bad, or indifferent, will be published in a
+paper before this Society, which has always been in the front when
+matters of great sanitary importance to the public had to be taken up.
+And if after that the public like to buy forms of apparatus which have
+not been certified, it is their own fault; but I do think that the
+maker of any stove or geyser which causes a death should be put upon
+his trial for manslaughter.
+
+In conclusion, let us consider for a moment what is likely to be the
+future of gas during the next half century. The labor troubles, bad as
+they are and have been, will not cease for many a weary year. The
+victims of imperfect education (more dangerous than none at all, as,
+while destroying natural instinct, it leaves nothing in its place)
+will still listen and be led by the baneful influence of irresponsible
+demagogues, who care for naught so long as they can read their own
+inflammatory utterances in the local press, and gain a temporary
+notoriety at the expense of the poor fools whose cause they profess to
+serve. The natural tendency of this will be that every labor-saving
+contrivance that can will be pressed into the gas manager's service;
+and that, although coal (of a poorer class than at present used) will
+still be employed as a source of gas, the present retort setting will
+quickly give way to inclined retorts on the Coze principle; while,
+instead of the present wasteful method of quenching the red hot coke,
+it will be shot direct into the generator of the water gas plant, and
+the water gas carbureted with the benzene hydrocarbons derived from
+the smoke of the blast furnace and coke oven, or from the creosote oil
+of the tar distiller, by the process foreshadowed in the concluding
+sentences of my last lecture. It will then be mixed with the gas from
+the retorts, and will supply a far higher illuminant than we at
+present possess. In parts of the United Kingdom, such as South Wales,
+where gas coal is dear, and anthracite and bastard coals are cheap,
+water gas highly carbureted will entirely supplant coal gas, with a
+saving of fifty per cent. on the prices now existing in those
+districts. While these changes have been going on, and while improved
+methods of manufacture have been tending to the cheapening of gas, it
+will have been steadily growing in public favor as a fuel; and if in
+years to come the generation of electricity should have been so
+cheapened as to allow it to successfully compete with gas as an
+illuminant, the gas works will still be found as busy as of yore, the
+holder of gas shares as contented as to-day; for with a desire for a
+purer atmosphere and a white mist instead of a yellow fog, gas will
+have largely supplanted coal as a fuel, and gas stoves, properly
+ventilated and free from the reproaches I have hurled at them
+to-night, will burn a gas far higher in its heating power, far better
+in its power of bearing illuminating hydrocarbons, and free from
+poisonous constituents.
+
+When the demand for it arises, hydrogen gas can be made as cheaply as
+water gas itself, and when time is ripe for a fuel gas for use in the
+house, it is hydrogen and not water gas which will form its basis.
+With carbureted water gas and 20 per cent. of carbon monoxide we are
+still below the limit of danger, but a pure water gas with over 40 per
+cent. of the same insidious element of danger will never be tolerated
+in our households. Already a patent has been taken by Messrs. Crookes
+and Ricarde-Seaver for purifying water gas from carbon monoxide, and
+converting it mainly into hydrogen by passing it at a high temperature
+through a mixture of lime and soda lime, a process which is chemically
+perfect, as the most expensive portion of the material used could be
+recovered; but in the present state of the labor market it is not
+practical, as for the making of every 100,000 cubic feet of gas,
+fifteen tons of material would have to be handled, the cost of labor
+alone being sufficient to prevent its being adopted; moreover,
+hydrogen can be made far cheaper directly.
+
+From the earliest days of gas making, the manufacture of hydrogen by
+the passage of steam over red-hot iron has been over and over again
+mooted, and attempted on a large scale, but several factors have
+combined to render it futile.
+
+In the first place, for every 478.5 cubic feet of hydrogen made under
+perfect theoretical conditions never likely to be obtained in
+practice, 56 lb. of iron were converted into the magnetic oxide, and
+as there was no ready sale for this article, this alone would prevent
+its being used as a cheap source of hydrogen; the next point was that
+when steam was passed over the red-hot iron, the temperature was so
+rapidly lowered that the generation of gas could only go on for a very
+short period, while, finally, the swelling of the mass in the retort
+and fusion of some of the magnetic oxide into the side renders the
+removal of the spent material almost an impossibility. These
+difficulties can, however, be got over. Take a fire clay retort, six
+feet long and a foot in diameter, and cap it with a casting bearing
+two outlet tubes closed by screw valves, while a similar tube leads
+from the bottom of the retort. Inclose this retort by a furnace
+chamber of iron lined with fire brick, leaving a space of two feet six
+inches round the retort, and connect the top of the furnace chamber
+with one opening at the top of the upright retort, while air blasts
+lead into the bottom of the furnace chamber, below rocking fire bars,
+which start at bottom of the retort, and slope upward, to leave room
+for ash holes closed by gas tight covers. The retort is filled with
+iron or steel borings, alone if pure hydrogen is required, or cast
+into balls with pitch if a little carbon monoxide is not a drawback,
+as in foundry work. The furnace chamber is now filled with coke, fed
+in through manholes, or hoppers, in the top, and the fuel being
+ignited, the blast is turned on, and the mixture of nitrogen and
+carbon monoxide passes over the iron, heating it to a red heat, while
+the fuel in contact with the retort does the same thing.
+
+When the fuel and retort full of iron are at a cherry-red heat, the
+air blast is cut off, and the pipe connecting the furnace and retort,
+together with the pipe in connection with the bottom of the retort,
+are closed, and steam, superheated by passing through a pipe led round
+the retort or interior wall of the furnace, is injected at the bottom
+of the red-hot mass of iron, which decomposes it, forming magnetic
+oxide of iron and hydrogen, which escapes by the second tube at the
+top of the retort, and is led away either to a carbureting chamber if
+required for illumination, or direct to the gasholder if wanted as a
+fuel. The mass of incandescent fuel in the furnace chamber,
+surrounding the retort, keeping up the temperature of retort and iron
+sufficiently long to enable the decomposition to be completed.
+
+The hydrogen and steam valves are now closed and the air blast turned
+on. The hot carbon monoxide passing over the hot magnetic oxide
+quickly reduces it down to metallic iron, which, being in a spongy
+condition, acts more freely on the steam during later makes than it
+did at first, and being infusible at the temperature employed, may be
+used for a practically unlimited period.
+
+What more simple method than this could be desired? Here we have the
+formation of the most valuable of all fuel gases at the cost of the
+coke and steam used, a gas also which has double the carrying power
+for hydrocarbon vapors possessed by coal gas, while its combustion
+gives rise to nothing but water vapor.
+
+In this course of lectures I have left much unsaid and undone which I
+should have liked to have had time to accomplish, and if I have been
+obliged to leave out of consideration many important points, it is the
+time at my disposal and not my will which is to blame. And now, in
+conclusion, I wish to express my thanks to my assistants, Messrs. J.A.
+Foster and J.B. Warden, who have heartily co-operated with me in much
+of the work embodied in these lectures.
+
+       *       *       *       *       *
+
+
+
+
+STEREOSCOPIC PROJECTIONS.
+
+
+The celebrated philosopher Bacon, the founder of the experimental
+method, claimed that we see better with one eye than with two, because
+the attention is more concentrated and becomes profounder. "On looking
+in a mirror," says he, "we may observe that, if we shut one eye, the
+pupil of the other dilates." To this question: "But why, then, have we
+two eyes?" he responds: "In order that one may remain if the other
+gets injured." Despite the reasoning of the learned philosopher, we
+may be permitted to believe that the reason that we have two eyes is
+for seeing better and especially for perceiving the effects of
+perspective and the relief of objects. We have no intention of setting
+forth here the theory of binocular vision; one simple experiment will
+permit any one to see that the real place of an object is poorly
+estimated with one eye. Seated before a desk, pen in hand, suddenly
+close one eye, and, at the same time, stretch out the arm in order to
+dip the pen in the inkstand; you will fail nine times out of ten. It
+is not in one day that the effects of binocular vision have been
+established, for the ancients made many observations on the subject.
+It was in 1593 that the celebrated Italian physicist Porta was the
+first to give an accurate figure of two images seen by each eye
+separately, but he desired no apparatus that permitted of
+reconstituting the relief on looking at them. Those savants who, after
+him, occupied themselves with the question, treated it no further
+than from a theoretical point of view. It was not till 1838 that the
+English physicist Wheatstone constructed the first stereoscopic
+apparatus permitting of seeing the relief on examining simultaneously
+with each of the eyes two different images of an object, one having
+the perspective that the right eye perceives, and the other that the
+left eye perceives.
+
+This apparatus is described in almost all treatises on physics. We may
+merely recall the fact that it operated by reflection, that is to say,
+the two images were seen through the intermedium of two mirrors making
+an angle of 45 degrees. The instrument was very cumbersome and not
+very practical. Another English physicist, David Brewster, in 1844
+devised the stereoscope that we all know; but, what is a curious
+thing, he could not succeed in having it constructed in England, where
+it was not at first appreciated. It was not till 1850 that he brought
+it to Paris, where it was constructed by Mr. Soleil and his son-in-law
+Duboscq. Abbot Moigno and the two celebrated opticians succeeded, not
+without some difficulty, in having it examined by the _official_
+savants; but, at the great exposition of 1851, it was remarked by the
+Queen of England, and from this moment Messrs. Soleil & Duboscq
+succeeded with difficulty only in satisfying the numerous orders that
+came from all parts. As photography permitted of easily making
+identical images, but with different perspective, it contributed
+greatly to the dissemination of the apparatus.
+
+The stereoscope, such as we know it, presents the inconvenience of
+being incapable of being used by but one person at once. Several
+inventors have endeavored to render the stereoscopic images visible to
+several spectators at the same time. In 1858, Mr. Claudet conceived
+the idea of projecting the two stereoscopic images upon ground glass
+in superposing them. The relief was seen, it appears, but we cannot
+very well explain why; the idea, however, had no outcome, because the
+image, being quite small, could be observed by but three or four
+persons at once. It was Mr. D'Almeida, a French physicist, who toward
+the same epoch solved the problem in a most admirable manner, and we
+cannot explain why his process (that required no special apparatus)
+fell into the desuetude from which Mr. Molteni has just rescued it and
+obtained much success.
+
+[Illustration: STEREOSCOPIC PROJECTIONS]
+
+This is in what it consists: The impression of the relief appears when
+each eye sees that one of the two images which presents the
+perspective that it would perceive if it saw the real object. If we
+take two transparent stereoscopic images and place each of them in a
+projection lantern, in such a way that they can be superposed upon the
+screen, we shall obtain thereby a single image. It will always be a
+little light and soft, as the superposition cannot be effected
+accurately, the perspective not being the same for each of them. It is
+a question now to make each eye see the one of the two images proper
+to it. To this effect, Mr. D'Almeida conceived the very ingenious idea
+of placing green glass in the lantern in front of the image having the
+perspective of the right eye, and a red glass in front of the other
+image. As green and red are complementary colors, the result was not
+changed upon the screen; there was a little less light, that was all.
+But if, at this moment, the spectator places a green glass before his
+right eye and a red one before his left, he will find himself in the
+condition desired for realizing the effect sought.
+
+Each eye will then see only the image responding to the coloration
+chosen, and, as it is precisely the one which has the perspective
+proper to it, the relief appears immediately. The effect is striking.
+We perceive a diffused image upon the screen with the naked eye, but
+as soon as we use one special eye-glass the relief appears with as
+much distinctness as in the best stereoscope. One must not, for
+example, reverse his eye-glass, for if (things being arranged as we
+have said) he looks through a red glass before his right eye, and
+through a green one before his left, it is the image carrying the
+perspective designed for the right eye that will be seen by the left
+eye, and reciprocally. There is then produced, especially with certain
+images, a very curious effect of reversed perspective, the background
+coming to the front.
+
+Now that photography is within every one's reach, and that many
+amateurs are making stereopticon views and own projection lanterns,
+we are persuaded that the experiment will be much more successful than
+it formerly was. An assemblage of persons all provided with colored
+eye-glasses is quite curious to contemplate. Our engraving represents
+a stereopticon seance, and the draughtsman has well rendered the
+effect of the two luminous and differently colored fascicles
+superposed upon the screen.
+
+In a preceding note upon the same subject, Mr. Hospitalier remarked
+that upon combining these effects of perspective with those of the
+praxinoscope, which give the sensation of motion, we would obtain
+entirely new effects. It would be perhaps complicated as to the
+installation, and especially as to the making of the images, but, in
+certain special cases (for giving the effect of a machine in motion,
+for example), it might render genuine services.--_La Nature_.
+
+       *       *       *       *       *
+
+
+
+
+THE EFFECT ON FOWLS OF NITROGENOUS AND CARBONACEOUS RATIONS.[1]
+
+[Footnote 1: This article is condensed by permission from a thesis
+prepared for the degree of Bachelor of Science in Agriculture, by
+James Edward Rice, a graduate of the class of 1890. The work was
+planned and wholly carried out in the most careful manner by Mr. Rice
+under the immediate supervision of the Director. The results have been
+thought worthy of publication in the _Cornell Station Bulletin_.]
+
+
+On July 2, 1889, ten Plymouth Rock hens, one year old, and as nearly
+as possible of uniform size, were selected from a flock of
+thirty-five. At the same time ten chickens, hatched from the same hens
+mated with a Plymouth Rock cock, were similarly chosen. The chickens
+were about six weeks old, healthy and vigorous and of nearly the same
+size. Up to the time of purchase both hens and chickens had full run
+of the farm. The hens foraged for themselves and were given no food;
+the chickens had been fed corn meal dough, sour milk and table scraps.
+
+A preliminary feeding trial was continued for twenty-five days, during
+which time both hens and chickens were confined, all together, in a
+fairly well lighted and ventilated room, and fed a great variety of
+food, in order that all should go into the feeding trial as nearly as
+possible in the same condition. During this preliminary feeding both
+hens and chickens increased in live weight. The ten hens from a total
+of 44 lb. 12 oz. to 47 lb. 1.5 oz., or 3.75 oz. each, and laid 93
+eggs. The chickens from a total of 9 lb. 15 oz. to 18 lb., or 12.9 oz.
+each.
+
+Food, shells and water were kept constantly before the fowls. Basins
+which contained the food and water were kept within a box constructed
+of lath, so arranged that the fowls could reach between the slats and
+procure food and drink without wasting or soiling.
+
+July 26th the hens and chickens were each separated into two lots of
+five each, as follows:
+
+      Hens, nitrogenous ration, weighed 23 lb. 8.5 oz.
+      Hens, carbonaceous ration, weighed 23 lb. 9 oz.
+      Chickens, nitrogenous ration, weighed 8 lb. 15 oz.
+      Chickens, carbonaceous ration, weighed 9 lb. 1 oz.
+
+The four lots were placed in separate pens where they remained during
+the entire experiment, which lasted 125 days. They were fed and
+watered once daily, and an account kept of the food eaten and water
+drank. At each feeding the food and water remaining were weighed back
+and deducted from the amount charged at the previous feeding.
+
+The hens and chickens fed a nitrogenous ration were given daily all
+they would eat of the following mixture: 1/3 part wheat bran, 1/3 part
+wheat shorts, 1/3 part cotton seed meal, 2 parts skimmed milk, and
+will be designated Lot I.
+
+The hens and chickens fed a carbonaceous ration were given daily all
+they would eat of a ration of cracked maize and maize dough, and will
+be designated Lot II.
+
+Both groups were given a small amount of green clover as long as it
+lasted, and afterward cabbage.
+
+For convenience the experiment was divided into five periods of twenty
+five days.
+
+
+FOOD CONSUMED AND INCREASE IN LIVE WEIGHT.
+
+During the first period all the fowls seemed in good health except the
+carbonaceous fed chickens; they, during this as in all succeeding
+periods, were restless and peevish, always moping or hunting for
+something to eat, though their trough was filled. When fed they would
+greedily take a few mouthfuls and then, with their hunger still
+unappeased, would leave the dish. They always ate ravenously the green
+food which was given them, as did the hens and chickens of Lot I. The
+hens of Lot II., on the contrary, seemed quite willing to squat about
+the pen and subsist on the maize diet, and strangely enough cared
+little for green food. The clear maize diet was accompanied by such
+ill effects that the chickens of each lot, after the first period,
+were given daily each one-fourth ounce of wheat, and the hens each one
+ounce. The wheat was increased during the fourth and fifth periods in
+the case of the chickens to one ounce each. During the second period
+one of the chickens fed nitrogenous food, and during the third period
+another of the same lot were taken ill and removed from the
+experiment. Both seemed to be suffering from impacted crops, as the
+stomach and gizzard in each case were found to be empty.
+
+The fact that the sick chickens disliked the nitrogenous ration, and
+since the first period the amount of food eaten by the hens and
+chickens of Lot I had continually decreased, led to the belief that
+their food might be too nitrogenous, and as during the last days of
+the third period one of the hens in Lot I was also ill, it was decided
+to discontinue the use of cotton seed meal and to use linseed meal
+instead. The hen recovered soon after the change in food.
+
+The supply of skim milk running short in the last two periods, water
+was used instead in mixing the ration of the lots fed nitrogenous
+food.
+
+At the beginning of the fifth period one-half of the linseed meal in

@@ -1,0 +1,425 @@
+_Particulars of Jupiter's Satellites,
+Illustrating their obedience to Kepler's third law._
+
+--------------------------------------------------------------------------
+          |       |            |  Distance|         |         |   T^2
+          |       |  Time of   |    from  |         |         |   ----
+Satellite.|Diameter revolution | Jupiter, |  T^2    |  d^3    |   d^3
+          | miles.|  in hours. |in Jovian |         |         | which is
+          | miles |   (T)      |   radii. |         |         |practically
+          |       |            |    (d)   |         |         | constant.
+----------|-------|------------|----------|---------|---------|-----------
+No. 1.    |  2437 |   42.47    |   6.049  |  1803.7 |  221.44 |  8.149
+No. 2.    |  2188 |   85.23    |   9.623  |  7264.1 |  891.11 |  8.152
+No. 3.    |  3575 |  177.72    |  15.350  | 29488.  | 3916.8  |  8.153
+No. 4.    |  3059 |  400.53    |  26.998  |160426.  |19679.   |  8.152
+--------------------------------------------------------------------------
+
+The diameter of Jupiter is 85,823 miles.
+
+
+_Falling Bodies._
+
+
+Since all bodies fall at the same rate, except for the disturbing effect
+of the resistance of the air, a statement of their rates of fall is of
+interest. In one second a freely falling body near the earth is found to
+drop 16 feet. In two seconds it drops 64 feet altogether, viz. 16 feet
+in the first, and 48 feet in the next second; because at the beginning
+of every second after the first it has the accumulated velocity of
+preceding seconds. The height fallen by a dropped body is not
+proportional to the time simply, but to what is rather absurdly called
+the square of the time, _i.e._ the time multiplied by itself.
+
+For instance, in 3 seconds it drops 9 x 16 = 144 feet; in 4 seconds 16 x
+16, or 256 feet, and so on. The distances travelled in 1, 2, 3, 4, &c.,
+seconds by a body dropped from rest and not appreciably resisted by the
+air, are 1, 4, 9, 16, 25, &c., respectively, each multiplied by the
+constant 16 feet.
+
+Another way of stating the law is to say that the heights travelled in
+successive seconds proceed in the proportion 1, 3, 5, 7, 9, &c.; again
+multiplied by 16 feet in each case.
+
+[Illustration: FIG. 35.--Curve described by a projectile, showing how it
+drops from the line of fire, _O D_, in successive seconds, the same
+distances _AP_, _BQ_, _CR_, &c., as are stated above for a dropped
+body.]
+
+All this was experimentally established by Galileo.
+
+A body takes half a second to drop 4 feet; and a quarter of a second to
+drop 1 foot. The easiest way of estimating a quarter of a second with
+some accuracy is to drop a bullet one foot.
+
+A bullet thrown or shot in any direction falls just as much as if merely
+dropped; but instead of falling from the starting-point it drops
+vertically from the line of fire. (See fig. 35).
+
+The rate of fall depends on the intensity of gravity; if it could be
+doubled, a body would fall twice as far in the same time; but to make it
+fall a given distance in half the time the intensity of gravity would
+have to be quadrupled. At a place where the intensity of gravity is
+1/3600 of what it is here, a body would fall as far in a minute as it
+now falls in a second. Such a place occurs at about the distance of the
+moon (_cf._ page 177).
+
+The fact that the height fallen through is proportional to the square
+of the time proves that the attraction of the earth or the intensity of
+gravity is sensibly constant throughout ordinary small ranges. Over
+great distances of fall, gravity cannot be considered constant; so for
+things falling through great spaces the Galilean law of the square of
+the time does not hold.
+
+The fact that things near the earth fall 16 feet in the first second
+proves that the intensity of ordinary terrestrial gravity is 32 British
+units of force per pound of matter.
+
+The fact that all bodies fall at the same rate (when the resistance of
+the air is eliminated), proves that weight is proportional to mass; or
+more explicitly, that the gravitative attraction of the earth on matter
+near its surface depends on the amount of that matter, as estimated by
+its inertia, and on nothing else.
+
+
+
+
+LECTURE IV
+
+GALILEO AND THE INVENTION OF THE TELESCOPE
+
+
+Contemporary with the life of Kepler, but overlapping it at both ends,
+comes the great and eventful life of Galileo Galilei,[5] a man whose
+influence on the development of human thought has been greater than that
+of any man whom we have yet considered, and upon whom, therefore, it is
+necessary for us, in order to carry out the plan of these lectures, to
+bestow much time. A man of great and wide culture, a so-called universal
+genius, it is as an experimental philosopher that he takes the first
+rank. In this capacity he must be placed alongside of Archimedes, and it
+is pretty certain that between the two there was no man of magnitude
+equal to either in experimental philosophy. It is perhaps too bold a
+speculation, but I venture to doubt whether in succeeding generations we
+find his equal in the domain of purely experimental science until we
+come to Faraday. Faraday was no doubt his superior, but I know of no
+other of whom the like can unhesitatingly be said. In mathematical and
+deductive science, of course, it is quite otherwise. Kepler, for
+instance, and many men before and since, have far excelled Galileo in
+mathematical skill and power, though at the same time his achievements
+in this department are by no means to be despised.
+
+Born at Pisa three centuries ago, on the very day that Michael Angelo
+lay dying in Rome, he inherited from his father a noble name, cultivated
+tastes, a keen love of truth, and an impoverished patrimony. Vincenzo de
+Galilei, a descendant of the important Bonajuti family, was himself a
+mathematician and a musician, and in a book of his still extant he
+declares himself in favour of free and open inquiry into scientific
+matters, unrestrained by the weight of authority and tradition.
+
+In all probability the son imbibed these precepts: certainly he acted on
+them.
+
+Vincenzo, having himself experienced the unremunerative character of
+scientific work, had a horror of his son's taking to it, especially as
+in his boyhood he was always constructing ingenious mechanical toys, and
+exhibiting other marks of precocity. So the son was destined for
+business--to be, in fact, a cloth-dealer. But he was to receive a good
+education first, and was sent to an excellent convent school.
+
+Here he made rapid progress, and soon excelled in all branches of
+classics and literature. He delighted in poetry, and in later years
+wrote several essays on Dante, Tasso, and Ariosto, besides composing
+some tolerable poems himself. He played skilfully on several musical
+instruments, especially on the lute, of which indeed he became a master,
+and on which he solaced himself when quite an old man. Besides this he
+seems to have had some skill as an artist, which was useful afterwards
+in illustrating his discoveries, and to have had a fine sensibility as
+an art critic, for we find several eminent painters of that day
+acknowledging the value of the opinion of the young Galileo.
+
+Perceiving all this display of ability, the father wisely came to the
+conclusion that the selling of woollen stuffs would hardly satisfy his
+aspirations for long, and that it was worth a sacrifice to send him to
+the University. So to the University of his native town he went, with
+the avowed object of studying medicine, that career seeming the most
+likely to be profitable. Old Vincenzo's horror of mathematics or science
+as a means of obtaining a livelihood is justified by the fact that while
+the University Professor of Medicine received 2,000 scudi a year, the
+Professor of Mathematics had only 60, that is L13 a year, or 7-1/2_d._ a
+day.
+
+So the son had been kept properly ignorant of such poverty-stricken
+subjects, and to study medicine he went.
+
+But his natural bent showed itself even here. For praying one day in the
+Cathedral, like a good Catholic as he was all his life, his attention
+was arrested by the great lamp which, after lighting it, the verger had
+left swinging to and fro. Galileo proceeded to time its swings by the
+only watch he possessed--viz., his own pulse. He noticed that the time
+of swing remained as near as he could tell the same, notwithstanding the
+fact that the swings were getting smaller and smaller.
+
+By subsequent experiment he verified the law, and the isochronism of the
+pendulum was discovered. An immensely important practical discovery
+this, for upon it all modern clocks are based; and Huyghens soon applied
+it to the astronomical clock, which up to that time had been a crude and
+quite untrustworthy instrument.
+
+The best clock which Tycho Brahe could get for his observatory was
+inferior to one that may now be purchased for a few shillings; and this
+change is owing to the discovery of the pendulum by Galileo. Not that he
+applied it to clocks; he was not thinking of astronomy, he was thinking
+of medicine, and wanted to count people's pulses. The pendulum served;
+and "pulsilogies," as they were called, were thus introduced to and used
+by medical practitioners.
+
+The Tuscan Court came to Pisa for the summer months, for it was then a
+seaside place, and among the suite was Ostillio Ricci, a distinguished
+mathematician and old friend of the Galileo family. The youth visited
+him, and one day, it is said, heard a lesson in Euclid being given by
+Ricci to the pages while he stood outside the door entranced. Anyhow he
+implored Ricci to help him into some knowledge of mathematics, and the
+old man willingly consented. So he mastered Euclid and passed on to
+Archimedes, for whom he acquired a great veneration.
+
+His father soon heard of this obnoxious proclivity, and did what he
+could to divert him back to medicine again. But it was no use.
+Underneath his Galen and Hippocrates were secreted copies of Euclid and
+Archimedes, to be studied at every available opportunity. Old Vincenzo
+perceived the bent of genius to be too strong for him, and at last gave
+way.
+
+[Illustration: FIG. 36.--Two forms of pulsilogy. The string is wound up
+till the swinging weight keeps time with the pulse, and the position of
+a bead or of an index connected with the string is then read on a scale
+or dial.]
+
+With prodigious rapidity the released philosopher now assimilated the
+elements of mathematics and physics, and at twenty-six we find him
+appointed for three years to the University Chair of Mathematics, and
+enjoying the paternally dreaded stipend of 7-1/2_d._ a day.
+
+Now it was that he pondered over the laws of falling bodies. He
+verified, by experiment, the fact that the velocity acquired by falling
+down any slope of given height was independent of the angle of slope.
+Also, that the height fallen through was proportional to the square of
+the time.
+
+Another thing he found experimentally was that all bodies, heavy and
+light, fell at the same rate, striking the ground at the same time.[6]
+
+Now this was clean contrary to what he had been taught. The physics of
+those days were a simple reproduction of statements in old books.
+Aristotle had asserted certain things to be true, and these were
+universally believed. No one thought of trying the thing to see if it
+really were so. The idea of making an experiment would have savoured of
+impiety, because it seemed to tend towards scepticism, and cast a doubt
+on a reverend authority.
+
+Young Galileo, with all the energy and imprudence of youth (what a
+blessing that youth has a little imprudence and disregard of
+consequences in pursuing a high ideal!), as soon as he perceived that
+his instructors were wrong on the subject of falling bodies, instantly
+informed them of the fact. Whether he expected them to be pleased or not
+is a question. Anyhow, they were not pleased, but were much annoyed by
+his impertinent arrogance.
+
+It is, perhaps, difficult for us now to appreciate precisely their
+position. These doctrines of antiquity, which had come down hoary with
+age, and the discovery of which had reawakened learning and quickened
+intellectual life, were accepted less as a science or a philosophy, than
+as a religion. Had they regarded Aristotle as a verbally inspired
+writer, they could not have received his statements with more
+unhesitating conviction. In any dispute as to a question of fact, such
+as the one before us concerning the laws of falling bodies, their method
+was not to make an experiment, but to turn over the pages of Aristotle;
+and he who could quote chapter and verse of this great writer was held
+to settle the question and raise it above the reach of controversy.
+
+It is very necessary for us to realize this state of things clearly,
+because otherwise the attitude of the learned of those days towards
+every new discovery seems stupid and almost insane. They had a
+crystallized system of truth, perfect, symmetrical--it wanted no
+novelty, no additions; every addition or growth was an imperfection, an
+excrescence, a deformity. Progress was unnecessary and undesired. The
+Church had a rigid system of dogma, which must be accepted in its
+entirety on pain of being treated as a heretic. Philosophers had a
+cast-iron system of truth to match--a system founded upon Aristotle--and
+so interwoven with the great theological dogmas that to question one was
+almost equivalent to casting doubt upon the other.
+
+In such an atmosphere true science was impossible. The life-blood of
+science is growth, expansion, freedom, development. Before it could
+appear it must throw off these old shackles of centuries. It must burst
+its old skin, and emerge, worn with the struggle, weakly and
+unprotected, but free and able to grow and to expand. The conflict was
+inevitable, and it was severe. Is it over yet? I fear not quite, though
+so nearly as to disturb science hardly at all. Then it was different; it
+was terrible. Honour to the men who bore the first shock of the battle!
+
+Now Aristotle had said that bodies fell at rates depending on their
+weight.
+
+A 5 lb. weight would fall five times as quick as a 1 lb. weight; a 50
+lb. weight fifty times as quick, and so on.
+
+Why he said so nobody knows. He cannot have tried. He was not above
+trying experiments, like his smaller disciples; but probably it never
+occurred to him to doubt the fact. It seems so natural that a heavy body
+should fall quicker than a light one; and perhaps he thought of a stone
+and a feather, and was satisfied.
+
+Galileo, however, asserted that the weight did not matter a bit, that
+everything fell at the same rate (even a stone and a feather, but for
+the resistance of the air), and would reach the ground in the same time.
+
+And he was not content to be pooh-poohed and snubbed. He knew he was
+right, and he was determined to make every one see the facts as he saw
+them. So one morning, before the assembled University, he ascended the
+famous leaning tower, taking with him a 100 lb. shot and a 1 lb. shot.
+He balanced them on the edge of the tower, and let them drop together.
+Together they fell, and together they struck the ground.
+
+The simultaneous clang of those two weights sounded the death-knell of
+the old system of philosophy, and heralded the birth of the new.
+
+But was the change sudden? Were his opponents convinced? Not a jot.
+Though they had seen with their eyes, and heard with their ears, the
+full light of heaven shining upon them, they went back muttering and
+discontented to their musty old volumes and their garrets, there to
+invent occult reasons for denying the validity of the observation, and
+for referring it to some unknown disturbing cause.
+
+They saw that if they gave way on this one point they would be letting
+go their anchorage, and henceforward would be liable to drift along with
+the tide, not knowing whither. They dared not do this. No; they _must_
+cling to the old traditions; they could not cast away their rotting
+ropes and sail out on to the free ocean of God's truth in a spirit of
+fearless faith.
+
+[Illustration: FIG. 37.--Tower of Pisa.]
+
+Yet they had received a shock: as by a breath of fresh salt breeze and
+a dash of spray in their faces, they had been awakened out of their
+comfortable lethargy. They felt the approach of a new era.
+
+Yes, it was a shock; and they hated the young Galileo for giving it
+them--hated him with the sullen hatred of men who fight for a lost and
+dying cause.
+
+We need scarcely blame these men; at least we need not blame them
+overmuch. To say that they acted as they did is to say that they were
+human, were narrow-minded, and were the apostles of a lost cause. But
+_they_ could not know this; _they_ had no experience of the past to
+guide them; the conditions under which they found themselves were novel,
+and had to be met for the first time. Conduct which was excusable then
+would be unpardonable now, in the light of all this experience to guide
+us. Are there any now who practically repeat their error, and resist new
+truth? who cling to any old anchorage of dogma, and refuse to rise with
+the tide of advancing knowledge? There may be some even now.
+
+Well, the unpopularity of Galileo smouldered for a time, until, by
+another noble imprudence, he managed to offend a semi-royal personage,
+Giovanni de Medici, by giving his real opinion, when consulted, about a
+machine which de Medici had invented for cleaning out the harbour of
+Leghorn. He said it was as useless as it in fact turned out to be.
+Through the influence of the mortified inventor he lost favour at Court;
+and his enemies took advantage of the fact to render his chair
+untenable. He resigned before his three years were up, and retired to
+Florence.
+
+His father at this time died, and the family were left in narrow
+circumstances. He had a brother and three sisters to provide for.
+
+He was offered a professorship at Padua for six years by the Senate of
+Venice, and willingly accepted it.
+
+Now began a very successful career. His introductory address was marked
+by brilliant eloquence, and his lectures soon acquired fame. He wrote
+for his pupils on the laws of motion, on fortifications, on sundials, on
+mechanics, and on the celestial globe: some of these papers are now
+lost, others have been printed during the present century.
+
+Kepler sent him a copy of his new book, _Mysterium Cosmographicum_, and
+Galileo in thanking him for it writes him the following letter:--[7]
+
+     "I count myself happy, in the search after truth, to have so great
+     an ally as yourself, and one who is so great a friend of the truth
+     itself. It is really pitiful that there are so few who seek truth,
+     and who do not pursue a perverse method of philosophising. But this
+     is not the place to mourn over the miseries of our times, but to
+     congratulate you on your splendid discoveries in confirmation of
+     truth. I shall read your book to the end, sure of finding much that
+     is excellent in it. I shall do so with the more pleasure, because
+     _I have been for many years an adherent of the Copernican system_,
+     and it explains to me the causes of many of the appearances of
+     nature which are quite unintelligible on the commonly accepted
+     hypothesis. _I have collected many arguments for the purpose of
+     refuting the latter_; but I do not venture to bring them to the
+     light of publicity, for fear of sharing the fate of our master,
+     Copernicus, who, although he has earned immortal fame with some,
+     yet with very many (so great is the number of fools) has become an
+     object of ridicule and scorn. I should certainly venture to publish
+     my speculations if there were more people like you. But this not
+     being the case, I refrain from such an undertaking."
+
+Kepler urged him to publish his arguments in favour of the Copernican
+theory, but he hesitated for the present, knowing that his declaration
+would be received with ridicule and opposition, and thinking it wiser to
+get rather more firmly seated in his chair before encountering the
+storm of controversy.
+
+The six years passed away, and the Venetian Senate, anxious not to lose
+so bright an ornament, renewed his appointment for another six years at
+a largely increased salary.
+
+Soon after this appeared a new star, the stella nova of 1604, not the
+one Tycho had seen--that was in 1572--but the same that Kepler was so
+much interested in.
+
+Galileo gave a course of three lectures upon it to a great audience. At
+the first the theatre was over-crowded, so he had to adjourn to a hall
+holding 1000 persons. At the next he had to lecture in the open air.
+
+He took occasion to rebuke his hearers for thronging to hear about an
+ephemeral novelty, while for the much more wonderful and important
+truths about the permanent stars and facts of nature they had but deaf
+ears.
+
+But the main point he brought out concerning the new star was that it
+upset the received Aristotelian doctrine of the immutability of the
+heavens. According to that doctrine the heavens were unchangeable,
+perfect, subject neither to growth nor to decay. Here was a body, not a
+meteor but a real distant star, which had not been visible and which
+would shortly fade away again, but which meanwhile was brighter than
+Jupiter.
+
+The staff of petrified professorial wisdom were annoyed at the
+appearance of the star, still more at Galileo's calling public attention
+to it; and controversy began at Padua. However, he accepted it; and now
+boldly threw down the gauntlet in favour of the Copernican theory,
+utterly repudiating the old Ptolemaic system which up to that time he
+had taught in the schools according to established custom.
+
+The earth no longer the only world to which all else in the firmament
+were obsequious attendants, but a mere insignificant speck among the
+host of heaven! Man no longer the centre and cynosure of creation, but,
+as it were, an insect crawling on the surface of this little speck! All
+this not set down in crabbed Latin in dry folios for a few learned
+monks, as in Copernicus's time, but promulgated and argued in rich
+Italian, illustrated by analogy, by experiment, and with cultured wit;
+taught not to a few scholars here and there in musty libraries, but
+proclaimed in the vernacular to the whole populace with all the energy
+and enthusiasm of a recent convert and a master of language! Had a
+bombshell been exploded among the fossilized professors it had been less
+disturbing.
+
+But there was worse in store for them.
+
+A Dutch optician, Hans Lippershey by name, of Middleburg, had in his
+shop a curious toy, rigged up, it is said, by an apprentice, and made
+out of a couple of spectacle lenses, whereby, if one looked through it,
+the weather-cock of a neighbouring church spire was seen nearer and
+upside down.
+
+The tale goes that the Marquis Spinola, happening to call at the shop,

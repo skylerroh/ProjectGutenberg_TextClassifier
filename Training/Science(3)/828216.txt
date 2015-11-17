@@ -1,0 +1,523 @@
+approximation, and we must rely upon the assumption that while the
+temperatures which are actually measured may not be the average
+temperature, the fluctuations of the average temperature are parallel to
+the fluctuations in the temperatures measured. Since every effort is
+made to keep these fluctuations at a minimum, it is seen that the error
+of this assumption is not as great as might appear at first sight.
+However, the calculation of the residual amount of oxygen in the chamber
+is dependent upon this assumption and hence any errors in the assumption
+will affect noticeably the calculation of the residual oxygen.
+
+Attempts to compare the determination of the oxygen by the exceedingly
+accurate Sonden apparatus with that calculated after determining the
+water-vapor and carbon dioxide, temperature and pressure of the air in
+the chamber have thus far led to results which indicate one of three
+things: (1) that there is not a homogeneous mixture; (2) that during the
+time required for making residual analyses, _i. e._, some three or four
+minutes, there may be a variation in the oxygen content in the air of
+the chamber due to the oxygen continually added from the cylinder; (3)
+that the oxygen supplied from the cylinder is not thoroughly mixed with
+the air in the chamber until some time has elapsed. That is to say, with
+the method now in use it is necessary to fill the tension-equalizer to a
+definite pressure immediately at the end of each experimental period.
+This is done by admitting oxygen from the cylinder, and obviously this
+oxygen was not present in the air when analyzed. A series of experiments
+with a somewhat differently arranged system is being planned in which
+the oxygen will be admitted to the respiration chamber directly and not
+into the tension-equalizer, and at the end of the experiment the
+tension-equalizer will be kept at such a point that when the motor is
+stopped the amount of oxygen to be added to bring the tension to a
+definite point will be small.
+
+Under these conditions it is hoped to secure a more satisfactory
+comparison of the analyses as made by means of the Sonden apparatus and
+as calculated from the composition of the residual air by the
+gravimetric analysis. It remains a fact, however, that no matter with
+what skill and care the gasometric analysis is made, either
+gravimetrically or volumetrically, the calculation of the residual
+amount of oxygen presents the same difficulties in both cases.
+
+
+CALCULATION OF TOTAL OUTPUT OF CARBON DIOXIDE AND WATER-VAPOR AND OXYGEN
+ABSORPTION.
+
+From the weights of the sulphuric-acid and potash-lime vessels, the
+amounts of water-vapor and carbon dioxide absorbed out of the
+air-current are readily obtained. The loss in weight of the oxygen
+cylinder increased by 0.4 per cent (see page 88) gives the weight of
+oxygen admitted to the chamber. It remains, therefore, to make proper
+allowance for the variations in composition of the air inside the
+chamber at the beginning and end of the different periods. From the
+residual sheets the amounts of water-vapor, carbonic acid, and oxygen
+present in the system at the beginning and end of each period are
+definitely known. If there is an increase, for example, in the amount of
+carbon dioxide in the chamber at the end of a period, this increase must
+be added to the amount absorbed out of the air-current in order to
+obtain the true value for the amount produced during the experimental
+period.
+
+A similar calculation holds true with regard to the water-vapor and
+oxygen. For convenience in calculating, the amounts of water-vapor and
+carbon dioxide residual in the chamber are usually expressed in grams,
+while the oxygen is expressed in liters. Hence, before making the
+additions or subtractions from the amount of oxygen admitted, the
+variations in the amount of oxygen residual in the system should be
+converted from liters to grams. This is done by dividing by 0.7.
+
+
+CONTROL EXPERIMENTS WITH BURNING ALCOHOL.
+
+After having brought to as high a degree of perfection as possible the
+apparatus for determining carbon dioxide, water, and oxygen, it becomes
+necessary to submit the apparatus to a severe test and thus demonstrate
+its ability to give satisfactory results under conditions that can be
+accurately controlled. The liberation of a definite amount of carbon
+dioxide from a carbonate by means of acid has frequently been employed
+for controlling an apparatus used for researches in gaseous exchange,
+but this only furnishes a definite amount of carbon dioxide and throws
+no light whatever upon the ability of the apparatus to determine the
+other two factors, water-vapor and oxygen. Some of the earlier
+experimenters have used burning candles, but these we have found to be
+extremely unsatisfactory. The necessity for an accurate elementary
+analysis, the high carbon content of the stearin and paraffin, and the
+possibility of a change in the chemical composition of the material all
+render this method unfit for the most accurate testing. As a result of a
+large number of experiments with different materials, we still rely upon
+the use of ethyl alcohol of known water-content. The experiments with
+absolute alcohol and with alcohol containing varying amounts of water
+showed no differences in the results, and hence it is now our custom to
+obtain the highest grade commercial alcohol, determine the specific
+gravity accurately, and burn this material. We use the Squibb
+pyknometer[28] and thereby can determine the specific gravity of the
+alcohol to the fifth or sixth decimal place with a high degree of
+accuracy. Using the alcoholometric tables of Squibb[29] or Morley,[30]
+the percentage of alcohol by weight is readily found, and from the
+chemical composition of the alcohol can be computed not only the amount
+of carbon dioxide and water-vapor formed and oxygen absorbed by the
+combustion of 1 gram of ethyl hydroxide containing a definite known
+amount of water, but also the heat developed during its combustion.
+
+With the construction of this apparatus it was found impracticable to
+employ the type of alcohol lamp formerly used with success in the
+Wesleyan University respiration chamber. Inability to illuminate the
+gage on the side of the lamp and the small windows on the side of the
+calorimeter precluded its use. It was necessary to resort to the use of
+an ordinary kerosene lamp with a large glass font and an Argand burner.
+Of the many check-tests made we quote one of December 31, 1908, made
+with the bed calorimeter:
+
+     Several preliminary weights of the rates of burning were made
+     before the lamp was introduced into the chamber. The lamp was
+     then put in place and the ventilation started without sealing
+     the cover. The lamp burned for about one hour and a quarter and
+     was then weighed again. Then the window was sealed in and the
+     experiment started as soon as possible. At the end of the
+     experiment the window was taken out immediately and the lamp
+     blown out and then weighed. The amount burned between the time
+     of weighing the alcohol and the beginning of the experiment was
+     calculated from the rate of burning before the experiment and
+     this amount subtracted from the total burned from the time that
+     the lamp was weighed before being sealed in until the end, when
+     it was weighed the second time. For the minute which elapsed
+     between the end of the experiment and the last weighing, the
+     rate for the length of the experiment itself was used.
+
+     During the experiment there were burned 142.7 grams of 92.20
+     per cent alcohol of a specific gravity of 0.8163.
+
+A tabular summary of results is given below:
+
+  +----------------------+--------+-----------+
+  |                      | Found. | Required. |
+  +----------------------+--------+-----------+
+  | Carbon dioxide  gms. | 259.9  |  251.4    |
+  | Oxygen           "   | 278.5  |  274.8    |
+  | Water-vapor      "   | 165.8  |  165.6    |
+  | Heat           cals. | 829.0  |  834.5    |
+  +----------------------+--------+-----------+
+
+Thus does the apparatus prove accurate for the determination of all four
+factors.
+
+
+BALANCE FOR WEIGHING SUBJECT.
+
+The loss or gain in body-weight has always been taken as indicating the
+nature of body condition, a loss usually indicating that there is a loss
+of body substance and a gain the reverse. In experiments in which a
+delicate balance between the income and outgo is maintained, as in these
+experiments, it is of special interest to compare the losses in weight
+as determined by the balance with the calculated metabolism of material
+and thus obtain a check on the computation of the whole process of
+metabolism. Since the days of Sanctorius the loss of weight of the body
+from period to period has been of special interest. The most recent
+contribution to these investigations is that of the balance described by
+Lombard,[31] in which the body-weight is recorded graphically from
+moment to moment with an extraordinarily sensitive balance.
+
+In connection with the experiments here described, however, the weighing
+with the balance has a special significance, in that it is possible to
+have an indirect determination of the oxygen consumption. As pointed out
+by Pettenkofer and Voit, if the weight of the excretions and the loss in
+body-weight are taken into consideration, the difference between the
+weight of the excretions and the loss in body-weight should be the
+weight of the oxygen absorbed. With this apparatus we are able to
+determine the water-vapor, the carbon-dioxide excretion, and the weight
+of the urine and feces when passed. If there is an accurate
+determination of the body-weight from hour to hour, this should give the
+data for computing exactly the oxygen consumption. Moreover, we have the
+direct determination of oxygen with which the indirect method can be
+compared.
+
+In the earlier apparatus this comparison was by no means as satisfactory
+as was desired. The balance there used was sensitive only to 2 grams,
+the experiments were long (24 hours or more), and it seemed to be
+absolutely impossible, even by exerting the utmost precaution, to secure
+the body-weight of the subject each day with exactly the same clothing
+and accessories. Furthermore, where there is a constant change in
+body-weight amounting to 0.5 gram or more per minute, it is obvious that
+the weighing should be done at exactly the same moment from day to day.
+It is seen, therefore, that the comparison with the direct oxygen
+determination is in reality an investigation by itself, involving the
+most accurate measurements and the most painstaking development of
+routine.
+
+With the hope of contributing materially to our knowledge regarding the
+indirect determination of oxygen, the special form of balance shown in
+fig. 9 was installed above the chair calorimeter. This balance is
+extremely sensitive. With a dead load of 100 kilograms in each pan it
+has shown a sensitiveness of 0.1 gram, but in order to have the
+apparatus absolutely air-tight for the oxygen and carbon-dioxide
+determination, the rod on which the weighing-chair is suspended must
+pass through an air-tight closure. For this closure we have used a thin
+rubber membrane, weighing about 1.34 grams, one end of which is tied to
+a hard-rubber tube ascending from the chair to the top of the
+calorimeter, the other end being tied to the suspension rod. In playing
+up and down this rod takes up a varying weight of the rubber diaphragm,
+depending upon the position which it assumes, and therefore the
+sensitiveness noted by the balance with a dead load and swinging freely
+is greater than that under conditions of actual use. Preliminary tests
+with the balance lead us to believe that with a slight improvement in
+the technique a man can be weighed to within 0.3 gram by means of this
+balance. A series of check-experiments to test the indirect with the
+direct determination of oxygen are in progress at the moment of writing,
+and it is hoped that this problem can be satisfactorily solved ere long.
+
+During the process of weighing, the ventilating air-current is stopped
+so as to prevent any slight tension on the rubber diaphragm and furnish
+the best conditions for sensitive equilibrium. After the weighing has
+been made and the time exactly recorded, the load is thrown off the
+knife-edges of the balance, and then provision has been made to raise
+the rod supporting the chair and simultaneously force a rubber stopper
+tightly into the hard rubber tube at the top of the calorimeter, thus
+making the closure absolutely tight. It is somewhat hazardous to rely
+during the entire period of an experiment upon the thin rubber membrane
+for the closure when the blower is moving the air-current.
+
+To raise the chair and the man suspended on it in such a way as to draw
+the cork into the hard-rubber tube, we formerly used a large hand-lever,
+which was not particularly satisfactory. Thanks to the suggestion of Mr.
+E. H. Metcalf, we have been able to attach a pneumatic lift (fig. 9) in
+that the cross-bar above the calorimeter chamber, to which the
+suspension rod is attached, rests on two oak uprights and can be raised
+by admitting air into an air-cushion, through the central opening of
+which passes the chair-suspending rod. As the air enters the air-cushion
+it expands and lifts a large wooden disk which, in turn, lifts the iron
+cross-bar, raising the chair and weight suspended upon it. At the proper
+height and when the stopper has been thoroughly forced into place, two
+movable blocks are slipped beneath the ends of the iron cross-bar and
+thus the stopper is held firmly in place. The tension is then released
+from the air-cushion. This apparatus functionates very satisfactorily,
+raising the man or lowering him upon the knife-edges of the balance with
+the greatest regularity and ease.
+
+
+PULSE RATE AND RESPIRATION RATE.
+
+The striking relationship existing between pulse rate and general
+metabolism, noted in the fasting experiments made with the earlier
+apparatus, has impressed upon us the desirability of obtaining records
+of the pulse rate as frequently as possible during an experiment.
+Records of the respiration rate also have an interest, though not of as
+great importance. In order to obtain the pulse rate, we attach a Bowles
+stethoscope over the apex beat of the heart and hold it in place with a
+light canvas harness. Through a long transmission-tube passing through
+an air-tight closure in the walls of the calorimeter it is possible to
+count the beats of the heart without difficulty. The respiration rate is
+determined by attaching a Fitz pneumograph about the trunk, midway
+between the nipples and the umbilicus. The excursions of the tambour
+pointer as recorded on the smoked paper of the kymograph give a true
+picture of the respiration rate.
+
+Of still more importance, however, is the fact that the expansion and
+contraction of the pneumograph afford an excellent means for noting the
+minor muscular activity of a subject, otherwise considered at complete
+rest. The slightest movement of the arm or the contraction or relaxation
+of any of the muscles of the body-trunk results in a movement of the
+tambour quite distinct from the respiratory movements of the thorax or
+abdomen. These movements form a very true picture of the muscular
+movements of the subject, and these graphic records have been of very
+great value in interpreting the results of many of the experiments.
+
+
+ROUTINE OF AN EXPERIMENT WITH MAN.
+
+In the numerous previously published reports which describe the
+construction of and experiments with the respiration calorimeter, but
+little attention has been devoted to a statement of the routine. Since,
+with the increasing interest in this form of apparatus and the possible
+construction of others of similar form, a detailed description of the
+routine would be of advantage, it is here included.
+
+
+PREPARATION OF SUBJECT.
+
+Prior to an experiment, the subject is usually given either a stipulated
+diet for a period of time varying with the nature of the experiment or,
+as in the case of some experiments, he is required to go without food
+for at least 12 hours preceding. Occasionally it has been deemed
+advisable to administer a cup of black coffee without sugar or cream,
+and by this means we have succeeded in studying the early stages of
+starvation without making it too uncomfortable for the subject. The
+stimulating effect of the small amount of black coffee on metabolism is
+hardly noticeable and for most experiments it does not introduce any
+error.
+
+The urine is collected usually for 24 hours before, in either 6 or 12
+hour periods. During the experiment proper urine is voided if possible
+at the end of each period. This offers an opportunity for studying the
+periodic elimination of nitrogen and helps frequently to throw light
+upon any peculiarities of metabolism.
+
+Even with the use of a long-continued preceding diet of constant
+composition, it is impossible to rely upon any regular time for
+defecation or for any definite separation of feces. For many experiments
+it is impracticable and highly undesirable to have the subject attempt
+to defecate inside the chamber, and for experiments of short duration
+the desire to defecate is avoided by emptying the lower bowel with a
+warm-water enema just before the subject enters the chamber. Emphasis
+should be laid upon the fact that a moderate amount of water only should
+be used and only the lower bowel emptied, so as not to increase the
+desire for defecation.
+
+The clothing is usually that of a normal subject, although occasionally
+experiments have been made to study the influence of various amounts of
+clothing upon the person. There should be opportunity for a comfortable
+adjustment of the stethoscope and pneumograph, etc., and the clothing
+should be warm enough to enable the subject to remain comfortable and
+quiet during his sojourn inside the chamber.
+
+The rectal thermometer, which has previously been carefully calibrated,
+is removed from a vessel of lukewarm water, smeared with vaseline, and
+inserted while warm in the rectum to the depth of 10 to 12 centimeters.
+The lead wires are brought out through the clothing in a convenient
+position.
+
+The stethoscope is attached as nearly as possible over the apex beat of
+the heart by means of a light harness of canvas. In the use of the
+Bowles stethoscope, it has been found that the heart-beats can easily be
+counted if there is but one layer of clothing between the stethoscope
+and the skin. Usually it is placed directly upon the undershirt of the
+subject.
+
+The pneumograph is placed about the body midway between the nipple and
+the umbilicus and sufficient traction is put upon the chain or strap
+which holds it in place to secure a good and clear movement of the
+tambour for each respiration.
+
+The subject is then ready to enter the chamber and, after climbing the
+stepladder, he descends into the opening of the chair calorimeter, sits
+in the chair, and is then ready to take care of the material to be
+handed in to him and adjust himself and his apparatus for the
+experiment. Usually several bottles of drinking-water are deposited in
+the calorimeter in a convenient position, as well as some urine bottles,
+reading matter, clinical thermometer, note-book, etc. Before the cover
+is finally put in place, the pneumograph is tested, stethoscope
+connections are tested to see if the pulse can be heard, the rectal
+thermometer connections are tested, and the telephone, call-bell, and
+electric light are all put in good working order. When the subject has
+been weighed in the chair, the balance is tested to see that it swings
+freely and has the maximum sensibility. All the adjustments are so made
+that only the minimum exertion will be necessary on the part of the
+subject after the experiment has once began.
+
+
+SEALING IN THE COVER.
+
+The cover is put in place and wax is well crowded in between it and the
+rim of the opening. The wax is preferably prepared in long rolls about
+the size of a lead-pencil and 25 to 30 centimeters long. This is crowded
+into place, a flat knife being used if necessary. An ordinary
+soldering-iron, which has previously been moderately heated in a gas
+flame, is then used to melt the wax into place. This process must be
+carried out with the utmost care and caution, as the slightest pinhole
+through the wax will vitiate the results. The sealing is examined
+carefully with an electric light and preferably by two persons
+independently. After the sealing is assured, the plugs connecting the
+thermal junctions and heating wires of the cover with those of the
+remainder of the chamber are connected, the water-pipe is put in place,
+and the unions well screwed together. After seeing that the electrical
+connections can not in any way become short-circuited on either the
+metal chamber or metal pipes, the asbestos cover is put in place.
+
+
+ROUTINE AT OBSERVER'S TABLE.
+
+Some time before the man enters the chamber, an electric lamp of from 16
+to 24 candle-power (depending upon the size of the subject) is placed
+inside of the chamber as a substitute for the man, and the cooling
+water-current is started and the whole apparatus is adjusted to bring
+away the heat prior to the entrance of the man. The rate of flow with
+the chair calorimeter is not far from 350 cubic centimeters per minute
+with a resting man. The proper mixture of cold and warm water is made,
+so that the electric reheater can be controlled readily by the
+resistance in series with it. Care is taken not to allow the water to
+enter the chamber below the dew-point and thus avoid the condensation of
+moisture on the absorbers. The thermal junctions indicate the
+temperature differences in the walls and the different sections are
+heated or cooled as is necessary until the whole system is brought as
+near thermal equilibrium as possible.
+
+After the man enters, the lamp is removed and the water-current is so
+varied, if necessary, and the heating and cooling of the various parts
+so adjusted as to again secure temperature equilibrium of all parts.
+When the amount of heat brought away by the water-current exactly
+compensates that generated by the subject, when the thermal-junction
+elements in the walls indicate a 0 or very small deflection, when the
+resistance thermometers indicate a constant temperature of the air
+inside the chamber and the walls of the chamber, the experiment proper
+is ready to begin.
+
+The physical observer keeps the chemical assistant thoroughly informed
+as to the probable time for the beginning of the experiment, so that
+there will be ample time for making the residual analyses of the air.
+After these analyses have been made and the experiment is about to
+begin, the observer at the table calls the time on the exact minute, at
+which time the blower is stopped and the purifying system changed. The
+physical observer takes the temperatures of the wall and air by the
+electric-resistance thermometers, reads the mercury thermometers,
+records the rectal thermometer, and at the exact moment of beginning the
+experiment the current of water which has previously been running into
+the drain is deflected into the water-meter. At the end of the period
+this routine is varied only in that the water-current is deflected from
+the water-meter into a small can holding about 4 liters, into which the
+water flows while the meter is being weighed.
+
+
+MANIPULATION OF THE WATER-METER.
+
+The rate of flow of water through the apparatus is determined before the
+experiment begins. This is done by deflecting the water for a certain
+number of seconds into a graduate or by deflecting it into the small can
+and weighing the water thus collected. The water is then directed into
+the drain during the preliminary period. Meanwhile the main valve at the
+bottom of the water-meter is opened, such water as has accumulated from
+tests in preceding experiments is allowed to run out, and the valve is
+closed after the can is empty. The meter is then carefully balanced on
+the scales and the weight is recorded. At the beginning of the
+experiment the water is deflected from the drain into the meter. At the
+end of the period, while the water is running into the small can, the
+water-meter is again carefully weighed and the weight recorded. Having
+recorded the weight, the water is again deflected into the large meter
+and what has accumulated in the small can is carefully poured into the
+large meter through a funnel. If the meter is nearly full, so that
+during the next period water will accumulate and overflow the meter, it
+is emptied immediately after weighing and while the small can is filling
+up. About 4 minutes is required to empty the can completely.
+
+After it is emptied, it is again weighed, the water-current deflected
+from the small can to the meter, and the water which has accumulated in
+the small can carefully poured into the meter. All weights on the
+water-meter, both of the empty can and the can at the end of each
+period, are checked by two observers.
+
+
+ABSORBER TABLE.
+
+Shortly after the subject has entered the chamber and in many instances
+before the sealing-in process has begun, the ventilating air-current is
+started by starting the blower. The air passes through one set of
+purifiers during this preliminary period, and as no measurements are
+made for this period it is not necessary that the weights of the
+absorbers be previously known.
+
+All precautions are taken, however, so far as securing tightness in
+coupling and installing them on the absorber system are concerned.
+During this period the other set of absorbers is carefully weighed and
+made ready to be put in place and tested and about 10 minutes before the
+experiment proper begins the residual analyses are begun. The series of
+U-tubes, which have previously been carefully weighed, are placed on
+small inclined racks and are connected with the meter and also with the
+tube leading to the mercury valve. The pet-cock which connects the
+return air-pipe with the drying-tower and the gas-meter is then opened
+and the mercury reservoir is lowered. The rate of flow of air through
+the U-tubes is regulated by a screw pinch-cock on the rubber tube
+leading to the first U-tube. This rate is so adjusted by means of the
+pinch-cock that about 3 liters of air per minute will flow through the
+U-tubes, and as the pointer on the gas-meter approaches 10 liters the
+mercury reservoir is raised at just such a point, gained by experience,
+as will shut off the air-current when the total volume registers 10
+liters on the meter. The pet-cock in the pipe behind the meter is then
+closed, the U-tubes disconnected, and a new set put in place. A
+duplicate and sometimes a triplicate analysis is made.
+
+When the physical observer calls the time for the end of the period, the
+switch which controls the motor is opened and the chemical assistant
+then opens the rear valve of the new set of absorbers and closes the
+rear valve of the old set, and likewise opens the front valve of the new
+set and closes the front valve of the old set. As soon as the signal is
+given that the oxygen connections have been properly made and that the
+oxygen has been admitted to the chamber in proper amount, the blower is
+again started. It is then necessary to weigh the U-tubes and disconnect
+the old set of absorbers and weigh them. If the sulphuric-acid absorbers
+have not exceeded the limit of gain in weight they are used again; if
+they have, new ones are put in their place.
+
+The first sulphuric-acid absorber is connected to the front valve, then
+the potash-lime can, and then the last sulphuric-acid absorber; but
+before connecting the last sulphuric-acid absorber with the
+sodium-bicarbonate can, a test is made of the whole system from the
+front valve to the end of the second sulphuric-acid absorber. This is
+made by putting a solid-rubber stopper in the exit end of the second
+sulphuric-acid absorber and, by means of a bicycle pump, forcing
+compressed air in through a pipe tapped into the pipe from the valve at
+the front end until a pressure of about 2 feet of water is developed in
+this part of the system. This scheme for testing and the method of
+connecting the extra pipe have been discussed in detail in an earlier
+publication.[32] Repeated tests have shown that this method of testing
+the apparatus for tightness is very successful, as the minutest leak is
+quickly shown.
+
+After the system has been thoroughly tested, the rubber stopper in the
+exit end of the second sulphuric-acid absorber is first removed, then
+the tube connected with the pump and manometer is disconnected and its
+end placed in the reservoir of mercury. Occasionally, through oversight,
+the pressure is released at the testing-tube with the result that the
+air compressed in the system expands, forcing sulphuric acid into the
+valves and down into the blower, thus spoiling completely the
+experiment. After the testing, the last sulphuric-acid absorber is
+coupled to the sodium-bicarbonate can. It is seen that this last
+connection is the only one not tested, and it has been found that care
+must be taken to use only the best gaskets at this point, as frequently
+leaks occur; in fact, it is our custom to moisten this connection with
+soapsuds. If new rubber gaskets are used a leak is never found.
+
+
+SUPPLEMENTAL APPARATUS.
+
+To maintain the apparent volume of air through the whole system
+constant, oxygen is admitted into the tension-equalizer until the same
+tension is exerted on this part of the system at the end as at the
+beginning. This is done by closing the valve connecting the
+tension-equalizer with the system and admitting oxygen to the
+tension-equalizer until the petroleum manometer shows a definite
+tension. After the motor is stopped, at the end of the experimental
+period, there is a small amount of air compressed in the blower which
+almost instantly leaks back through the blower and the whole system
+comes under atmospheric pressure, save that portion which is sealed off
+between the two levels of the sulphuric acid in the two absorbing
+vessels. A few seconds after the motor is stopped the valve cutting off
+the tension-equalizer from the rest of the system is closed, the
+pet-cock connecting this with the petroleum manometer is opened, and
+oxygen is admitted by short-circuiting the electrical connections at the
+two mercury cups. This is done by the hands of the observer and must be

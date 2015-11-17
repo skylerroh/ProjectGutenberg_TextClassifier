@@ -1,0 +1,443 @@
+The Project Gutenberg EBook of Scientific American Supplement, No. 633,
+February 18, 1888, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Scientific American Supplement, No. 633,  February 18, 1888
+
+Author: Various
+
+Release Date: November 27, 2005 [EBook #17167]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SCIENTIFIC AMERICAN ***
+
+
+
+
+Produced by Juliet Sutherland and the Online Distributed
+Proofreading Team at www.pgdp.net
+
+
+
+
+
+[Illustration]
+
+
+
+
+SCIENTIFIC AMERICAN SUPPLEMENT NO. 633
+
+
+
+
+NEW YORK, FEBRUARY 18, 1888.
+
+Scientific American Supplement. Vol. XXV., No. 633.
+
+Scientific American established 1845
+
+Scientific American Supplement, $5 a year.
+
+Scientific American and Supplement, $7 a year.
+
+       *       *       *       *       *
+
+
+
+
+TABLE OF CONTENTS
+
+
+I.    ARCHITECTURE.--Elements of Architectural Design.--By H.H.
+      STATHAM.--The commencement of a series of lectures
+      delivered before the London Society of Arts, giving the line
+      of development of the different styles and the aspirations
+      of their originators. 34 illustrations.                      10106
+
+II.   ASTRONOMY.--A Fivefold Comet.--A curious astronomical
+      deduction; the probable division of one comet into five by
+      the disturbing effects of the sun. 1 illustration.           10116
+
+III.  BIOGRAPHY.--Linnaeus.--By C.S. HALLBERG.--The life and
+      work of the great botanist, his portrait and birthplace.
+      2 illustrations.                                             10114
+
+IV.   CHEMISTRY.--An Apparatus for Preparing Sulphurous, Carbonic,
+      and Phosphoric Anhydrides.--By H.N. WARREN.--A simple
+      apparatus for this purpose described and illustrated.
+      1 illustration.                                              10117
+
+      The Arrangement of Atoms in Space in Organic Molecules.--A
+      review of Prof. JOHANNES WISLICENUS' recent theories
+      on this abstract subject.                                    10117
+
+      The Isolation of Fluorine.--Note on this last isolation of
+      an element, with the properties of the gas. 1 illustration.  10117
+
+V.    ELECTRICITY.--Observations on Atmospheric Electricity.--By
+      Prof. L. WEBER.--Abstract of a British Association paper
+      on this important subject.                                   10114
+
+      The Menges Thermo-Magnetic Generator and Motor.--The direct
+      conversion of electricity into heat; the generator fully
+      described. 5 illustrations.                                  10113
+
+VI.   ENGINEERING.--An Investigation into the Internal Stresses
+      Occurring in Cast Iron and Steel.--By General NICHOLAS
+      KALAKOUTZKY.--First installment of an elaborate paper,
+      giving theoretical and experimental examination of this
+      subject. 2 illustrations.                                    10105
+
+      Hargreaves' Thermo-Motor.--A new caloric engine.--Its
+      construction, theory, and cylinder diagrams.
+      6 illustrations.                                             10104
+
+      The Compound Steam Turbine.--A description and discussion
+      of this motor, in which a series of forty-five turbines are
+      acted on by the current of steam. 2 illustrations.           10103
+
+VII.  MISCELLANEOUS.--Cold Storage for Potatoes.--The application
+      of artificial cold to preserving potatoes.--Results obtained
+      in actual experience.--A practical paper by Mr. EDWIN
+      TAYLOR.                                                      10115
+
+VIII. PHYSICS.--On a Method of Making the Wave Length of Sodium
+      Light the Actual and Practical Standard of Length.--By ALBERT
+      A. MICHELSON and EDWARD W. MORLEY.--Description of the
+      new standard of length and outlines of the practical method for
+      its determination.--The question of check determinations.
+      1 illustration.                                              10115
+
+IX.   TECHNOLOGY.--Progress of the Sorghum Sugar Industry.--
+      Elaborate report on the diffusion process as developed at
+      the Fort Worth, Kan., station. 2 illustrations.              10110
+
+      The Lowe Incandescent Gas Burner.--The well known advanced
+      type of gas burner described and illustrated. 1
+      illustration.                                                10110
+
+       *       *       *       *       *
+
+
+
+
+THE COMPOUND STEAM TURBINE.
+
+
+Last year the whole of the lighting of the Newcastle Exhibition was
+effected by the agency of seventeen of these motors, of which four were
+spare, giving in the aggregate 280 electrical horse power. As the steam
+was provided by the authorities of the exhibition, it was good proof to
+the public that they had satisfied themselves that the consumption would
+not be extravagant, as however favorable might be the terms on which the
+manufacturers would be willing to lend their engines, they could
+scarcely be sufficiently tempting to compensate for an outrageous
+consumption of coal, even in Newcastle. At the time we gave an account
+of the result of the test, showing that the steam used was 65 lb. per
+electrical horse power, a very satisfactory result, and equal to 43 lb.
+per indicated horse power if compared with an ordinary engine driving a
+generator through a belt. Recently Mr. Parsons has given an account of
+the theory and construction of his motor before the Northeast Coast
+Institution, and has quoted 52 lb. of steam per electric horse power as
+the best result hitherto attained with a steam pressure of 90 lb. As now
+made there are forty-five turbines through which the steam passes in
+succession, expanding in each, until it is finally exhausted.
+
+[Illustration: THE COMPOUND STEAM TURBINE.]
+
+The theoretical efficiency of a motor of this kind is arrived at by Mr.
+Parsons in the following manner:
+
+The efflux of steam flowing from a vessel at 15.6 lb. per square inch
+absolute pressure through an orifice into another vessel at 15 lb.
+pressure absolute is 366 ft. per second, the drop of pressure of 0.6 lb.
+corresponding to a diminution of volume of 4 per cent. in the opposite
+direction. The whole 45 turbines are so proportioned that each one,
+starting from the steam inlet, has 4 per cent. more blade area or
+capacity than that preceding it. Taking the pressure at the exhaust end
+to be 15 lb. absolute, that at the inlet end will be 69 lb. above the
+atmosphere. The steam enters from the steam pipe at 69 lb. pressure, and
+in passing through the first turbine it falls 2.65 lb. in pressure, its
+velocity due to the fall being 386 ft. per second, and its increase of
+volume 3.85 per cent. of its original volume. It then passes through the
+second turbine, losing 2.55 lb. in pressure, and gaining 3.85 per cent.
+in volume, and so on until it reaches the last turbine, when its
+pressure is 15.6 lb. before entering, and 15 lb. on leaving. The
+velocity due to the last drop is 366 ft. per second. The velocity of the
+wheels at 9,200 revolutions per minute is 150 ft. per second, or 39.9
+per cent. of the mean velocity due to the head throughout the turbines.
+Comparing this velocity with the results of a series of experiments made
+by Mr. James B. Francis on a Tremont turbine at Lowell, Mass., it
+appears that there should be an efficiency of 72 per cent. if the
+blades be equally well shaped in the steam as in the water turbine, and
+that the clearances be kept small and the steam dry. Further, as each
+turbine discharges without check into the next, the residual energy
+after leaving the blades is not lost as it is in the case of the water
+turbine, but continues into the next guide blades, and is wholly
+utilized there. This gain should be equal to 3 to 5 per cent.
+
+As each turbine of the set is assumed to give 72.5 per cent. efficiency,
+the total number may be assumed to give the same result, or, in other
+words, over 72 per cent. of the power derived from using the steam in a
+perfect engine, without losses due to condensation, clearances,
+friction, and such like. A perfect engine working with 90 lb. boiler
+pressure, and exhausting into the atmosphere, would consume 20.5 lb. of
+steam per hour for each horse power. A motor giving 70 per cent.
+efficiency would, therefore, require 29.29 lb. of steam per horse power
+per hour. The best results hitherto attained have been 52 lb. of steam
+per hour per electrical horse power, as stated above, but it is
+anticipated that higher results will be attained shortly. Whether that
+be so or not, the motor has many advantages to recommend it, and among
+these is the increased life of the lamps due to the uniform rotation of
+the dynamo. At the Phoenix Mills, Newcastle, an installation of 159
+Edison-Swan lamps has been running, on an average, eleven hours a day
+for two years past, yet in that time only 94 lamps have failed, the
+remaining 65 being in good condition after 6,500 hours' service. Now,
+if the lamps had only lasted 1,000 hours on the average, as is commonly
+assumed, the renewals would have amounted to double the year's cost of
+fuel, as at present consumed.
+
+The present construction of the motor and dynamo is shown in the
+figures.
+
+[Illustration: Fig. 1 though 6]
+
+Fig. 2 shows the arrangement of 90 complete turbines, 45 lying on each
+side of the central steam inlet. The guide blades, R, are cut on the
+internal periphery of brass rings, which are afterward cut in halves and
+held in the top and bottom halves of the cylinder by feathers. The
+moving blades, S, are cut on the periphery of brass rings, which are
+afterward threaded and feathered on to the steel shaft, and retained
+there by the end rings, which form nuts screwed on to the spindle. The
+whole of this spindle with its rings rotate together in bearings, shown
+in enlarged section, Fig. 3. Steam entering at the pipe, O, flows all
+round the spindle and passes along right and left, first through the
+guide blades, R, by which it is thrown on to the moving blades, S, then
+back on to the next guide blades, and so on through the whole series on
+each hand, and escapes by the passages, P, at each end of the cylinder
+connected to the exhaust pipe at the back of cylinder. The bearings,
+Fig. 3, consist of a brass bush, on which is threaded an arrangement of
+washers, each successive washer alternately fitting to the bush and the
+block, while being alternately 1/32 smaller than the block outside and
+1/32 larger than the bush in the hole. One broad washer at the end holds
+the bearings central. These washers are pressed together by a spiral
+spring, N, and nut, and, by friction against each other, steady or damp
+any vibration in the spindle that may be set up by want of balance or
+other cause at the high rate of speed that is necessary for economical
+working.
+
+The bearings are oiled by a small screw propeller, I, attached to the
+shaft. The oil in the drain pipes, D and F, and the oil tank, D, lies at
+a lower level than the screw, but the suction of the fan, K, raises it
+up into the stand pipe, H, over and around the screw, which gripes it
+and circulates it along the pipes to the bearings. The course of the oil
+is as follows: The oil is forced by the propeller, I, and oils the
+bearing, A. The greater part passes along the pipe, E, to the end
+bearing, C; some after oiling the bearing, C, drains back by the pipe,
+F, to the reservoir, D; the remaining oil passes along through the
+armature spindle, oils the bearings, B, and drains into the reservoir,
+D, from which the oil is again drawn along the pipe, G, into the stand
+pipe, H, by the suction of the fan, K. The suction of the fan is also
+connected to the diaphragm, L, and forms, with it and the spring, M, the
+principal part of the governor which actuates the throttle valve, V.
+Fig. 4 is the electrical control governor, which will be further
+described in connection with the dynamo. It acts directly upon the
+controlling diaphragm, L, by admitting or closing a large access of air
+to it, and thus exercises a controlling influence upon it.
+
+The dynamo which forms the other portion of the electric generator, Fig.
+1, is coupled to the motor spindle by a square tube coupling fitted on
+to the square spindle ends. The armature is of the drum type. The body
+is built up of thin iron disks threaded on to the spindle and insulated
+from each other by tracing paper. This iron body is turned up and
+grooves milled out to receive the conducting wires. For pressures of 60
+to 80 volts there are fifteen convolutions of wire, or 30 grooves. The
+wire starting at b, Fig. 6, is led a quarter of a turn spirally, c,
+round the cylindrical portion, a, then passing along a groove
+longitudinally is again led a quarter turn spirally, d, round the
+cylindrical portion, a, then through the end washer, and back
+similarly a quarter turn, e, then led along the diametrically opposite
+groove, and lastly a little over a quarter turn, f, back to g, where
+it is coupled to the next convolution. The commutator is formed of rings
+of sections. Each section is formed of short lengths. Each length is
+dovetailed and interlocked between conical steel rings. The whole is
+insulated with asbestos, and, when screwed up by the end nut, forms,
+with the steel bush, a compact whole. There are fifteen sections in the
+commutator, and each coupling is connected to a section. The whole
+armature is bound externally from end to end with brass or pianoforte
+steel wire. The magnets are of soft cast iron and of the horseshoe type.
+They are shunt-wound only.
+
+On the top of the magnet yoke is the electrical control governor, Fig.
+4. It consists of one moving spindle on which are keyed a small soft
+iron bar, and also a double finger, T. There is also a spiral spring, X,
+attached at one end to the spindle, and at the other to an adjustable
+top head and clamping nut, Y. The double finger, T, covers or opens a
+small hole in the face, U, communicating by the pipe, W, to the
+diaphragm, L. The action of the magnet yoke is to attract the needle
+toward the poles of the magnet, while by turning the head the spiral
+spring, X, is brought into tension to resist and balance this force, and
+can be set and adjusted to any degree of tension. The double finger, T,
+turns with the needle, and, by more or less covering the small air inlet
+hole, U, it regulates the access of air to the regulating diaphragm, L.
+The second finger is for safety in case the brushes get thrown off, or
+the magnet circuit be broken, in which case the machine would otherwise
+gain a considerable increase of speed before the diaphragm would act. In
+these cases, however, the needle ceases to be attracted, falls back, and
+the safety finger closes the air inlet hole.
+
+There is no resistance to the free movement of this regulator. A
+fraction of a volt increase or decrease of potential produces a
+considerable movement of the finger, sufficient to govern the steam
+pressure, and in ordinary work it is found possible to maintain the
+potential within one volt of the standard at all loads within the
+capacity of the machine, excepting only a slight momentary variation
+when a large portion of the load is switched on or off.
+
+The resistance of the armature from brush to brush is only 0.0032 ohm,
+the resistance of the field magnets is only 17.7 ohms, while the normal
+output of the dynamo is 200 amperes at 80 volts. This, excluding other
+losses, gives an efficiency of 97 per cent. The other losses are due to
+eddy currents throughout the armature, magnetic retardation, and bearing
+friction. They have been carefully measured. By separately exciting the
+field magnets from another dynamo, and observing the increased steam
+pressure required to maintain the speed constant, the corresponding
+power was afterward calculated in watts.
+
+The commercial efficiency of this dynamo, after allowing for all losses,
+is a little over 90 per cent. In the larger sizes it rises to 94 per
+cent. Assuming the compound steam turbine to give a return of 70 per
+cent. of the total mechanical energy of the steam, and the dynamos to
+convert 90 per cent of this into electrical output, gives a resulting
+efficiency of 63 per cent. As steam at 90 lb. pressure above the
+atmosphere will with a perfect non-condensing engine give a horse power
+for every 20.5 lb. of steam consumed per hour, it follows that an
+electrical generator of 63 per cent. efficiency will consume 32.5 lb. of
+steam for every electrical horse power per hour.
+
+Again, with steam at 150 lb. pressure above the atmosphere, a generator
+of the same efficiency would consume only 22.2 lb. of steam per
+electrical horse power per hour.
+
+The results so far actually obtained are a consumption of 52 lb. per
+hour of steam for each electrical horse power with a steam pressure of
+90 lb. above the atmosphere.--_Engineering._
+
+       *       *       *       *       *
+
+
+
+
+HARGREAVES' THERMO-MOTOR.
+
+
+From the researches and investigations of Carnot, Joule, Rankine,
+Clausius, and Sir William Thomson, the science of thermo-dynamics has
+not only been brought into existence, but fully matured. We learn from
+it that whereas in the steam engine, on account of the limited range of
+temperature in the working cylinder and the rapid conduction of steam
+during condensation, no combination of cylinders can materially affect
+its present efficiency, internally fired engines, such as gas and
+caloric engines--being, as it were, less fettered--can have their
+already high efficiency increased by simply overcoming mechanical
+difficulties. To this fact is no doubt due the recent remarkable
+development of gas and caloric engines. The first caloric or hot air
+engine was invented by Sir George Cayley in 1807, and in 1827 Dr. Robert
+Stirling, a Scotch minister, took out his first patent for a hot air
+engine, which was the foundation of many subsequent machines, and by the
+invention of the regenerator he converted what was practically a
+scientific toy into an efficient machine.
+
+One of the most ardent workers in this field at the present time is Mr.
+James Hargreaves, of Widnes, who, with a thorough theoretical knowledge
+of the subject has, after many years of patient perseverance, over come
+many of the mechanical difficulties, and designed the engine of which
+the above is an illustration.
+
+The sectional elevation, shown in Fig. 1, is an expanded view of the
+machine, shown thus to enable the action of the machine to be more
+clearly understood; the relative position of the different parts, as
+actually made, is shown in the side elevation (Fig. 4). The principal
+working parts of the machine are the combustion chamber, D, which is of
+the form shown, lined with fire brick, and having an entrance, with the
+door screwed down like a manhole lid; the working cylinder, A,
+surrounded by the water casing, K; the piston, B, with a water lining,
+and coupled to the end of the working beam by a parallel motion, the
+beam being supported by two rocking columns, Z, as in engines of the
+"grasshopper" type; the air compressor, C, coupled directly to the
+piston of the working cylinder; the injection pump, F, for supplying the
+fuel--creosote or coal tar--to the combustion chamber; the regenerator
+E; the receiver and separator, V Y; the feed and exhaust valves, M.
+
+[Illustration: Fig. 1--SECTIONAL ELEVATION--HARGREAVES' THERMO-MOTOR.]
+
+[Illustration: Fig. 2.]
+
+The action of the machine is as follows: Assuming the engine to be in
+condition for starting, the sides of the combustion chamber, D, are red
+hot, the chamber charged with air, and the spray of creosote, injected
+by the pump, F, is ignited; the expansion of the gases produced by the
+combustion acts upon the bottom of the piston, B, forcing it to the top
+of the cylinder, and thus, by intermediate mechanism, causing the crank
+shaft to revolve. By the same stroke a charge of air is forced by the
+compressor, C, into the receiver through the pipe, R. The cylinder is,
+of course, single acting, and on the down stroke of the piston, B--which
+falls by its own weight and the momentum of the fly wheel--the exhaust
+gases are forced through the regenerator, E, which absorbs most of their
+heat; they then pass through the exhaust valve, placed immediately under
+the feed valve, M, along the pipe, Q, up through the pipes, T, fitted
+into the receiver, V, down the pipes, T, fitted into the saturator, Y,
+and out of the funnel fixed to the bottom of Y.
+
+[Illustration: Fig 3.]
+
+[Illustration: Fig. 4.]
+
+The charge of air for supplying the combustion chamber is forced by the
+compressor, C, through the pipe, R, _outside_ the tubes, T, in the
+chambers, V and Y, along the pipe, P, through the feed valve, M, and the
+regenerator, E, into the combustion chamber. In its passage from the
+compressor, it first picks up the residual heat of the exhaust gases in
+the tubes, T, and finally the heat absorbed by the regenerator, E, thus
+entering the combustion chamber in a highly heated state. Having
+described generally the passage of the air from the compressor to the
+working cylinder, and back again to the funnel, we will now describe the
+details. The working cylinder, A, is fitted into the casting which forms
+the water casing, K, a space being left between the bottom of the
+cylinder and the casing, which is filled with a non-conducting mixture
+of asbestos to protect it from the heat of combustion; the bottom of the
+piston, B, has a similar protection, and the regenerator has a lining
+of the same mixture, to prevent any heat from escaping through the
+casting which holds it. The water in the casing, K, and in the piston,
+B, is supplied by a small pump, G, which forces the water through the
+pipe, P4, into the telescopic pipe, L either into the piston, B, or
+through the pipe, P6, into the casing, K--the bottom of the casing
+being connected by the pipe, P10, with the auxiliary boiler, W. The
+steam generated in the casing, K, is carried to the boiler, W, by the
+pipe, P3, and from the boiler it passes along the pipe, P2,
+through the valve, A2, into the chamber, V, thus giving up its heat
+to the incoming air, with which it mixes. The vapor gradually condenses
+at the bottom of the vessel, Y, and the water so formed is drawn by the
+pump, J, along the suction pipe, P9, and forced through the pipe,
+P8, back to the chamber, Y, through the valve, A1, and in the form
+of spray plays on the tubes, T, and absorbing any residual heat. The
+heat generated by compression in the cylinder, C, is absorbed by a spray
+of water from the pump, H, the vapor being carried along with the air
+through the pipe, R, to the chamber, Y, where it is separated, and
+falling to the bottom is circulated, as just described, by the pump, J.
+X is a small auxiliary air compressor, to obtain the necessary
+compression to start the engine, and is worked from the boiler, W. In
+future engines this compressor will be superseded by a specially
+designed injector, which will produce the necessary pressure at a
+considerable reduction in cost. When once the engine is started, the
+fire of the auxiliary boiler can, of course, be drawn, as the main
+engine afterward makes its own steam. The regenerator, E, has circular

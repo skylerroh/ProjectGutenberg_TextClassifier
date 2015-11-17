@@ -1,0 +1,576 @@
+solid in a liquid depends upon several factors.
+
+1. _Nature of the solid._ Other conditions being the same, solids vary
+greatly in their solubility in liquids. This is illustrated in the
+following table:
+
+
+_Table of Solubility of Solids at 18 deg._
+
+100 cc. of water will dissolve:
+
+    Calcium chloride        71.0 g.
+    Sodium chloride         35.9
+    Potassium nitrate       29.1
+    Copper sulphate         21.4
+    Calcium sulphate         0.207
+
+No solids are absolutely insoluble, but the amount dissolved may be so
+small as to be of no significance for most purposes. Thus barium
+sulphate, one of the most insoluble of common substances, dissolves in
+water to the extent of 1 part in 400,000.
+
+2. _Nature of the solvent._ Liquids vary much in their power to dissolve
+solids. Some are said to be good solvents, since they dissolve a great
+variety of substances and considerable quantities of them. Others have
+small solvent power, dissolving few substances, and those to a slight
+extent only. Broadly speaking, water is the most general solvent, and
+alcohol is perhaps second in solvent power.
+
+3. _Temperature._ The weight of a solid which a given liquid can
+dissolve varies with the temperature. Usually it increases rapidly as
+the temperature rises, so that the boiling liquid dissolves several
+times the weight which the cold liquid will dissolve. In some instances,
+as in the case of common salt dissolved in water, the temperature has
+little influence upon the solubility, and a few solids are more soluble
+in cold water than in hot. The following examples will serve as
+illustrations:
+
+
+_Table of Solubility at 0 deg. and at 100 deg._
+
+100 cc. of water will dissolve:
+
+                                At 0 deg.           At 100 deg.
+
+    Calcium chloride            49.6 g.        155.0 g.
+    Sodium chloride             35.7            39.8
+    Potassium nitrate           13.3           247.0
+    Copper sulphate             15.5            73.5
+    Calcium sulphate             0.205           0.217
+    Calcium hydroxide            0.173           0.079
+
+~Saturated solutions.~ A liquid will not dissolve an unlimited quantity of
+a solid. On adding the solid to the liquid in small portions at a time,
+it will be found that a point is reached at which the liquid will not
+dissolve more of the solid at that temperature. The solid and the
+solution remain in contact with each other unchanged. This condition may
+be described by saying that they are in equilibrium with each other. A
+solution is said to be _saturated_ when it remains unchanged in
+concentration in contact with some of the solid. The weight of the solid
+which will completely saturate a definite volume of a liquid at a given
+temperature is called the _solubility_ of the substance at that
+temperature.
+
+~Supersaturated solutions.~ When a solution, saturated at a given
+temperature, is allowed to cool it sometimes happens that no solid
+crystallizes out. This is very likely to occur when the vessel used is
+perfectly smooth and the solution is not disturbed in any way. Such a
+solution is said to be _supersaturated_. That this condition is unstable
+can be shown by adding a crystal of the solid to the solution. All of
+the solid in excess of the quantity required to saturate the solution at
+this temperature will at once crystallize out, leaving the solution
+saturated. Supersaturation may also be overcome in many cases by
+vigorously shaking or stirring the solution.
+
+~General physical properties of solutions.~ A few general statements may
+be made in reference to the physical properties of solutions.
+
+1. _Distribution of the solid in the liquid._ A solid, when dissolved,
+tends to distribute itself uniformly through the liquid, so that every
+part of the solution has the same concentration. The process goes on
+very slowly unless hastened by stirring or shaking the solution. Thus,
+if a few crystals of a highly colored substance such as copper sulphate
+are placed in the bottom of a tall vessel full of water, it will take
+weeks for the solution to become uniformly colored.
+
+2. _Boiling points of solutions._ The boiling point of a liquid is
+raised by the presence of a substance dissolved in it. In general the
+extent to which the boiling point of a solvent is raised by a given
+substance is proportional to the concentration of the solution, that
+is, to the weight of the substance dissolved in a definite weight of the
+solvent.
+
+3. _Freezing points of solutions._ A solution freezes at a lower
+temperature than the pure solvent. The lowering of the freezing point
+obeys the same law which holds for the raising of the boiling point: the
+extent of lowering is proportional to the weight of dissolved substance,
+that is, to the concentration of the solution.
+
+~Electrolysis of solutions.~ Pure water does not appreciably conduct the
+electric current. If, however, certain substances such as common salt
+are dissolved in the water, the resulting solutions are found to be
+conductors of electricity. Such solutions are called _electrolytes_.
+When the current passes through an electrolyte some chemical change
+always takes place. This change is called _electrolysis_.
+
+[Illustration: Fig. 31]
+
+The general method used in the electrolysis of a solution is illustrated
+in Fig. 31. The vessel D contains the electrolyte. Two plates or rods,
+A and B, made of suitable material, are connected with the wires
+from a battery (or dynamo) and dipped into the electrolyte, as shown in
+the figure. These plates or rods are called _electrodes_. The electrode
+connected with the zinc plate of the battery is the negative electrode
+or _cathode_, while that connected with the carbon plate is the positive
+electrode or _anode_.
+
+~Theory of electrolytic dissociation.~ The facts which have just been
+described in connection with solutions, together with many others, have
+led chemists to adopt a theory of solutions called _the theory of
+electrolytic dissociation_. The main assumptions in this theory are the
+following.
+
+1. _Formation of ions._ Many compounds when dissolved in water undergo
+an important change. A portion of their molecules fall apart, or
+_dissociate_, into two or more parts, called _ions_. Thus sodium nitrate
+(NaNO_{3}) dissociates into the ions Na and NO_{3}; sodium chloride,
+into the ions Na and Cl. These ions are free to move about in the
+solution independently of each other like independent molecules, and for
+this reason were given the name ion, which signifies a wanderer.
+
+2. _The electrical charge of ions._ Each ion carries a heavy electrical
+charge, and in this respect differs from an atom or molecule. It is
+evident that the sodium in the form of an ion must differ in some
+important way from ordinary sodium, for sodium ions, formed from sodium
+nitrate, give no visible evidence of their presence in water, whereas
+metallic sodium at once decomposes the water. The electrical charge,
+therefore, greatly modifies the usual chemical properties of the
+element.
+
+3. _The positive charges equal the negative charges._ The ions formed by
+the dissociation of any molecule are of two kinds. One kind is charged
+with positive electricity and the other with negative electricity;
+moreover the sum of all the positive charges is always equal to the sum
+of all the negative charges. The solution as a whole is therefore
+electrically neutral. If we represent dissociation by the usual chemical
+equations, with the electrical charges indicated by + and - signs
+following the symbols, the dissociation of sodium chloride molecules is
+represented thus:
+
+    NaCl --> Na^{+}, Cl^{-}.
+
+The positive charge on each sodium ion exactly equals the negative
+charge on each chlorine ion. Sodium sulphate dissociates, as shown in
+the equation
+
+    Na_{2}SO_{4} --> 2Na^{+}, SO_{4}^{--}.
+
+Here the positive charge on the two sodium ions equals the double
+negative charge on the SO_{4} ion.
+
+4. _Not all compounds dissociate._ Only those compounds dissociate whose
+solutions form electrolytes. Thus salt dissociates when dissolved in
+water, the resulting solution being an electrolyte. Sugar, on the other
+hand, does not dissociate and its solution is not a conductor of the
+electric current.
+
+5. _Extent of dissociation differs in different liquids._ While
+compounds most readily undergo dissociation in water, yet dissociation
+often occurs to a limited extent when solution takes place in liquids
+other than water. In the discussion of solutions it will be understood
+that the solvent is water unless otherwise noted.
+
+~The theory of electrolytic dissociation and the properties of solutions.~
+In order to be of value, this theory must give a reasonable explanation
+of the properties of solutions. Let us now see if the theory is in
+harmony with certain of these properties.
+
+~The theory of electrolytic dissociation and the boiling and freezing
+points of solutions.~ We have seen that the boiling point of a solution
+of a substance is raised in proportion to the concentration of the
+dissolved substance. This is but another way of saying that the change
+in the boiling point of the solution is proportional to the number of
+molecules of the dissolved substance present in the solution.
+
+It has been found, however, that in the case of electrolytes the boiling
+point is raised more than it should be to conform to this law. If the
+solute dissociates into ions, the reason for this becomes clear. Each
+ion has the same effect on the boiling point as a molecule, and since
+their number is greater than the number of molecules from which they
+were formed, the effect on the boiling point is abnormally great.
+
+In a similar way, the theory furnishes an explanation of the abnormal
+lowering of the freezing point of electrolytes.
+
+~The theory of electrolytic dissociation and electrolysis.~ The changes
+taking place during electrolysis harmonize very completely with the
+theory of dissociation. This will become clear from a study of the
+following examples.
+
+[Illustration: Fig. 32]
+
+1. _Electrolysis of sodium chloride._ Fig. 32 represents a vessel in
+which the electrolyte is a solution of sodium chloride (NaCl). According
+to the dissociation theory the molecules of sodium chloride dissociate
+into the ions Na^{+} and Cl^{-}. The Na^{+} ions are attracted to the
+cathode owing to its large negative charge. On coming into contact with
+the cathode, the Na^{+} ions give up their positive charge and are then
+ordinary sodium atoms. They immediately decompose the water according to
+the equation
+
+    Na + H_{2}O = NaOH + H,
+
+and hydrogen is evolved about the cathode.
+
+The chlorine ions on being discharged at the anode in similar manner may
+either be given off as chlorine gas, or may attack the water, as
+represented in the equation
+
+    2Cl + H_{2}O = 2HCl + O.
+
+2. _Electrolysis of water._ The reason for the addition of sulphuric
+acid to water in the preparation of oxygen and hydrogen by electrolysis
+will now be clear. Water itself is not an electrolyte to an appreciable
+extent; that is, it does not form enough ions to carry a current.
+Sulphuric acid dissolved in water is an electrolyte, and dissociates
+into the ions 2 H^{+} and SO_{4}^{--}. In the process of electrolysis of
+the solution, the hydrogen ions travel to the cathode, and on being
+discharged escape as hydrogen gas. The SO_{4} ions, when discharged at
+the anode, act upon water, setting free oxygen and once more forming
+sulphuric acid:
+
+    SO_{4} + H_{2}O = H_{2}SO_{4} + O.
+
+The sulphuric acid can again dissociate and the process repeat itself as
+long as any water is left. Hence the hydrogen and oxygen set free in the
+electrolysis of water really come directly from the acid but indirectly
+from the water.
+
+3. _Electrolysis of sodium sulphate._ In a similar way, sodium sulphate
+(Na_{2}SO_{4}), when in solution, gives the ions 2 Na^{+} and
+SO_{4}^{--}. On being discharged, the sodium atoms decompose water about
+the cathode, as in the case of sodium chloride, while the SO_{4} ions
+when discharged at the anode decompose the water, as represented in the
+equation
+
+    SO_{4} + H_{2}O = H_{2}SO_{4} + O
+
+[Illustration: Fig. 33]
+
+That new substances are formed at the cathode and anode may be shown in
+the following way. A U-tube, such as is represented in Fig. 33, is
+partially filled with a solution of sodium sulphate, and the liquid in
+one arm is colored with red litmus, that in the other with blue litmus.
+An electrode placed in the red solution is made to serve as cathode,
+while one in the blue solution is made the anode. On allowing the
+current to pass, the blue solution turns red, while the red solution
+turns blue. These are exactly the changes which would take place if
+sodium hydroxide and sulphuric acid were to be set free at the
+electrodes, as required by the theory.
+
+~The properties of electrolytes depend upon the ions present.~ When a
+substance capable of dissociating into ions is dissolved in water, the
+properties of the solution will depend upon two factors: (1) the ions
+formed from the substance; (2) the undissociated molecules. Since the
+ions are usually more active chemically than the molecules, most of the
+chemical properties of an electrolyte are due to the ions rather than to
+the molecules.
+
+The solutions of any two substances which give the same ion will have
+certain properties in common. Thus all solutions containing the copper
+ion (Cu^{++}) are blue, unless the color is modified by the presence of
+ions or molecules having some other color.
+
+
+EXERCISES
+
+1. Distinguish clearly between the following terms: electrolysis,
+electrolyte, electrolytic dissociation, ions, solute, solvent, solution,
+saturated solution, and supersaturated solution.
+
+2. Why does the water from some natural springs effervesce?
+
+3. (a) Why does not the water of the ocean freeze? (b) Why will ice
+and salt produce a lower temperature than ice alone?
+
+4. Why does shaking or stirring make a solid dissolve more rapidly in a
+liquid?
+
+5. By experiment it was found that a certain volume of water was
+saturated at 100 deg. with 114 g. of potassium nitrate. On cooling to 0 deg. a
+portion of the substance crystallized. (a) How many grams of the
+substance remained in solution? (b) What was the strength of the
+solution at 18 deg.? (c) How much water had been used in the experiment?
+
+6. (a) 10 g. of common salt were dissolved in water and the solution
+evaporated to dryness; what weight of solid was left? (b) 10 g. of
+zinc were dissolved in hydrochloric acid and the solution evaporated to
+dryness; what weight of solid was left?
+
+7. Account for the fact that sugar sometimes deposits from molasses,
+even when no evaporation has taken place.
+
+8. (a) From the standpoint of the theory of electrolytic dissociation,
+write the simple equation for a dilute solution of copper sulphate
+(CuSO_{4}); this solution is blue. (b) In the same manner, write one
+for sodium sulphate; this solution is colorless. (c) How would you
+account for the color of the copper sulphate solution?
+
+9. (a) As in the preceding exercise, write a simple equation for a
+dilute solution of copper chloride (CuCl_{2}); this solution is blue.
+(b) In the same manner, write one for sodium chloride; this solution
+is colorless. To what is the blue color due?
+
+10. What component is present in concentrated sulphuric acid that is
+almost wanting in very dilute sulphuric acid?
+
+11. Why will vegetables cook faster when boiled in strong salt water
+than when boiled in pure water?
+
+12. How do you explain the foaming of soda water?
+
+
+
+
+CHAPTER X
+
+ACIDS, BASES, AND SALTS; NEUTRALIZATION
+
+
+~Acids, bases, and salts.~ The three classes of compounds known
+respectively as acids, bases, and salts include the great majority of
+the compounds with which we shall have to deal. It is important,
+therefore, for us to consider each of these classes in a systematic way.
+The individual members belonging to each class will be discussed in
+detail in the appropriate places, but a few representatives of each
+class will be described in this chapter with special reference to the
+common properties in accordance with which they are classified.
+
+~The familiar acids.~ _Hydrochloric acid_ is a gas composed of hydrogen and
+chlorine, and has the formula HCl. The substance is very soluble in
+water, and it is this solution which is usually called hydrochloric
+acid. _Nitric acid_ is a liquid composed of hydrogen, nitrogen, and
+oxygen, having the formula HNO_{3}. As sold commercially it is mixed
+with about 32% of water. _Sulphuric acid_, whose composition is
+represented by the formula H_{2}SO_{4}, is an oily liquid nearly twice
+as heavy as water, and is commonly called _oil of vitriol_.
+
+~Characteristics of acids.~ (1) All acids contain hydrogen. (2) When
+dissolved in water the molecules of the acid dissociate into two kinds
+of ions. One of these is always hydrogen and is the cation (+), while
+the other consists of the remainder of the molecule and is the anion
+(-). (3) The solution tastes sour. (4) It has the power to change the
+color of certain substances called _indicators_. Thus blue litmus is
+changed to red, and yellow methyl orange is changed to red. Since all
+acids produce hydrogen cations, while the anions of each are different,
+the properties which all acids have in common when in solution, such as
+taste and action on indicators, must be attributed to the hydrogen ions.
+
+DEFINITION: _An acid is a substance which produces hydrogen ions when
+dissolved in water or other dissociating liquids._
+
+~Undissociated acids.~ When acids are perfectly free from water, or are
+dissolved in liquids like benzene which do not have the power of
+dissociating them into ions, they should have no real acid properties.
+This is found to be the case. Under these circumstances they do not
+affect the color of indicators or have any of the properties
+characteristic of acids.
+
+The familiar bases. The bases most used in the laboratory are sodium
+hydroxide (NaOH), potassium hydroxide (KOH), and calcium hydroxide
+(Ca(OH)_{2}). These are white solids, soluble in water, the latter
+sparingly so. Some bases are very difficultly soluble in water. The very
+soluble ones with most pronounced basic properties are sometimes called
+the _alkalis_.
+
+~Characteristics of bases.~ (1) All bases contain hydrogen and oxygen. (2)
+When dissolved in water the molecules of the base dissociate into two
+kinds of ions. One of these is always composed of oxygen and hydrogen
+and is the anion. It has the formula OH and is called the _hydroxyl
+ion_. The remainder of the molecule, which usually consists of a single
+atom, is the cation. (3) The solution of a base has a soapy feel and a
+brackish taste. (4) It reverses the color change produced in indicators
+by acids, turning red litmus blue, and red methyl orange yellow. Since
+all bases produce hydroxyl anions, while the cations of each are
+different, the properties which all bases have in common when in
+solution must be due to the hydroxyl ions.
+
+DEFINITION: _A base is a substance which produces hydroxyl ions when
+dissolved in water or other dissociating liquids._
+
+~Undissociated bases.~ Bases, in the absence of water or when dissolved in
+liquids which do not dissociate them, should have none of the properties
+characteristic of this class of substances. This has been found to be
+the case. For example, they have no effect upon indicators under these
+circumstances.
+
+~Neutralization.~ When an acid and a base are brought together in solution
+in proper proportion, the characteristic properties of each disappear.
+The solution tastes neither sour nor brackish; it has no effect upon
+indicators. There can therefore be neither hydrogen nor hydroxyl ions
+present in the solution. A study of reactions of this kind has shown
+that the hydrogen ions of the acid combine with the hydroxyl ions of the
+base to form molecules of water, water being a substance which is not
+appreciably dissociated into ions. This action of an acid on a base is
+called _neutralization_. The following equations express the
+neutralization of the three acids by three bases, water being formed in
+each case.
+
+    Na^{+}, OH^{-} + H^{+}, Cl^{-} = Na^{+}, Cl^{-} + H_{2}O.
+
+    K^{+}, OH^{-} + H^{+}, NO_{3}^{-} = K^{+}, NO_{3}^{-} + H_{2}O.
+
+    Ca^{++}, (OH)_{2}^{--} + H_{2}^{++}, SO_{4}^{--}
+         = Ca^{++}, SO_{4}^{--} + 2H_{2}O.
+
+DEFINITION: _Neutralization consists in the union of the hydrogen ion of
+an acid with the hydroxyl ion of a base to form water._
+
+~Salts.~ It will be noticed that in neutralization the anion of the acid
+and the cation of the base are not changed. If, however, the water is
+expelled by evaporation, these two ions slowly unite, and when the water
+becomes saturated with the substance so produced, it separates in the
+form of a solid called a _salt_.
+
+DEFINITION: _A salt is a substance formed by the union of the anion of
+an acid with the cation of a base._
+
+~Characteristics of salts.~ (1) From the definition of a salt it will be
+seen that there is no element or group of elements which characterize
+salts. (2) Salts as a class have no peculiar taste. (3) In the absence
+of all other substances they are without action on indicators. (4) When
+dissolved in water they form two kinds of ions.
+
+     ~Heat of neutralization.~ If neutralization is due to the union
+     of hydrogen ions with hydroxyl ions, and nothing more, it
+     follows that when a given weight of water is formed in
+     neutralization, the heat set free should always be the same, no
+     matter from what acid and base the two kinds of ions have been
+     supplied. Careful experiments have shown that this is the case,
+     provided no other reactions take place at the same time. When
+     18g. of water are formed in neutralization, 13,700 cal. of heat
+     are set free. This is represented in the equations
+
+    Na^{+}, OH^{-} + H^{+}, Cl^{-}
+         = Na^{+}, Cl^{-} + H_{2}O + 13,700 cal.
+
+    K^{+}, OH^{-} + H^{+}, NO_{3}^{-}
+         = K^{+}, NO_{3}^{-} + H_{2}O + 13,700 cal.
+
+    Ca^{++}, (OH)_{2}^{--} + H_{2}^{++}, SO_{4}^{--}
+         = Ca^{++}, SO_{4}^{--} + 2H_{2}O + 2 x 13,700 cal.
+
+~Neutralization a quantitative act.~ Since neutralization is a definite
+chemical act, each acid will require a perfectly definite weight of each
+base for its neutralization. For example, a given weight of sulphuric
+acid will always require a definite weight of sodium hydroxide, in
+accordance with the equation
+
+    H_{2}, SO_{4} + 2Na, OH = Na_{2}, SO_{4} + 2H_{2}O.
+
+     ~Determination of the ratio in neutralization.~ The quantities of
+     acid and base required in neutralization may be determined in
+     the following way. Dilute solutions of the two substances are
+     prepared, the sulphuric acid being placed in one of the
+     burettes (Fig. 34) and the sodium hydroxide in the other. The
+     levels of the two liquids are then brought to the zero marks of
+     the burettes by means of the stopcocks. A measured volume of
+     the acid is drawn off into a beaker, a few drops of litmus
+     solution added, and the sodium hydroxide is run in drop by drop
+     until the red litmus just turns blue. The volume of the sodium
+     hydroxide consumed is then noted. If the concentrations of the
+     two solutions are known, it is easy to calculate what weight of
+     sodium hydroxide is required to neutralize a given weight of
+     sulphuric acid. By evaporating the neutralized solution to
+     dryness, the weight of the sodium sulphate formed can be
+     determined directly. Experiment shows that the weights are
+     always in accordance with the equation in the preceding
+     paragraph.
+
+[Illustration: Fig. 34]
+
+~Extent of dissociation.~ The question will naturally arise, When an acid,
+base, or salt dissolves in water, do all the molecules dissociate into
+ions, or only a part of them? The experiments by which this question can
+be answered cannot be described here. It has been found, however, that
+only a fraction of the molecules dissociate. The percentage which will
+dissociate in a given case depends upon several conditions, the chief of
+which are: (1) The concentration of the solution. In concentrated
+solutions only a very small percentage of dissociation occurs. As the
+solution is diluted the percentage increases, and in very dilute
+solutions it may be very large, though it is never complete in any
+ordinary solution. (2) The nature of the dissolved compound. At equal
+concentrations substances differ much among themselves in the percentage
+of dissociation. The great majority of salts are about equally
+dissociated. Acids and bases, on the contrary, show great differences.
+Some are freely dissociated, while others are dissociated to but a
+slight extent.
+
+~Strength of acids and bases.~ Since acid and basic properties are due to
+hydrogen and hydroxyl ions respectively, the acid or base which will
+produce the greatest percentage of these ions at a given concentration
+must be regarded as the strongest representative of its class. The acids
+and bases described in the foregoing paragraphs are all quite strong. In
+10% solutions they are dissociated to about 50%, and this is also
+approximately the extent to which most salts are dissociated at this
+same concentration.
+
+     ~Partial neutralization.~ 1. _Basic salts._ The chemical action
+     between an acid and a base is not always as complete as has
+     been represented in the foregoing paragraphs. For example, if
+     the base magnesium hydroxide (Mg(OH)_{2}) and hydrochloric acid
+     (HCl) are brought together in the ratio of an equal number of
+     molecules of each, there will be only half enough hydrogen ions
+     for the hydroxyl ions present.
+
+         Mg, (OH)_{2} + H, Cl = Mg, OH, Cl + H_{2}O.
+
+     Magnesium, hydroxyl, and chlorine ions are left at the close of
+     the reaction, and under the proper conditions unite to form
+     molecules of the compound Mg(OH)Cl. This compound, when
+     dissolved, can form hydroxyl ions and therefore possesses basic
+     properties; it can also form the ions of a salt (Mg and Cl),
+     and has properties characteristic of salts. Substances of this
+     kind are called _basic salts._
+
+     DEFINITION: _A basic salt is a substance which can give the
+     ions both of a base and of a salt when dissolved in water._
+
+     2. _Acid salts._ In a similar way, when sulphuric acid and
+     sodium hydroxide are brought together in the ratio of equal
+     numbers of the molecules of each, it is possible to have a
+     reaction expressed by the equation
+
+        Na, OH + H_{2}, SO_{4} = Na, H, SO_{4} + H_{2}O.
+
+     The ions remaining after all the hydroxyl ions have been used
+     up are those of an acid (H) and those of a salt (Na and
+     SO_{4}). These unite to form the substance NaHSO_{4}, and as
+     the solution becomes saturated with this substance through
+     evaporation, it separates in the form of crystals. In solution
+     this substance can give hydrogen ions, and therefore possesses
+     acid properties; it can also give the ions characteristic of a
+     salt. It is therefore called an _acid salt_.
+
+     DEFINITION: _An acid salt is one which can give the ions of an
+     acid and of a salt when in solution._
+
+     3. _Normal salts._ Salts which are the products of complete
+     neutralization, such as Na_{2}SO_{4}, and which in solution can
+     give neither hydrogen nor hydroxyl ions, but only the ions of a
+     salt, are called _normal salts_ to distinguish them from acid
+     and basic salts.
+
+~Methods of expressing reactions between compounds in solution.~ Chemical
+equations representing reactions between substances in solution may
+represent the details of the reaction, or they may simply indicate the
+final products formed. In the latter case the formation of ions is not
+indicated. Thus, if we wish to call attention to the details of the
+reaction between sodium hydroxide and hydrochloric acid in solution, the
+equation is written as follows:
+
+    Na^{+}, OH^{-} + H^{+}, Cl^{-} = Na^{+}, Cl^{-} + H_{2}O.
+
+On the other hand, if we wish simply to represent the final products
+formed, the following is used.
+
+    NaOH + HCl = NaCl + H_{2}O.
+
+Both of these methods will therefore be used:
+
+~Radicals.~ It has been emphasized that the hydroxyl group (OH) always
+forms the anion of a base, while the group NO_{3} forms the anion of
+nitric acid and sodium nitrate; the group SO_{4}, the anion of sulphuric
+acid and calcium sulphate. A group of elements which in this way
+constitutes a part of a molecule, acting as a unit in a chemical change,

@@ -1,0 +1,450 @@
+
+I will now refer to the valuable experiments of Messrs. Brooks and
+Steward, which were most carefully made. Everything was measured--the
+gas by a 60 light, and the air by a 300 light meter; the indicated
+horse power, by a steam-engine indicator; the useful work, by a Prony
+brake; the temperature of the water, by a standard thermometer; and
+that of the escaping gases, by a pyrometer. The gas itself was
+analyzed; and its heating power calculated, from its composition, as
+617.5[theta]. Its specific gravity was .464; and the volume of air was
+about seven times that of the gas used (or one-eighth of the mixture),
+and was only 111/2 per cent. by weight more than was needed for perfect
+combustion. The results arrived at were as follows:
+
+                                          Per cent.
+  Converted into indicated horse power,
+      including friction, etc.              17.0
+  Escaped with the exhaust gas.             15.5
+  Escaped in radiation.                     15.5
+  Communicated to water in the jacket.      52.0
+
+
+It will thus be seen that more than half of the heat is communicated
+to the water in the jacket. Now, this is the opposite of the
+steam-engine, where the jacket is used to transmit heat _to_ the
+cylinder, and not _from_ it. This cooling is rendered necessary,
+because without it the oil would be carbonized, and lubrication of the
+cylinder rendered impossible. Indeed, a similar difficulty has
+occurred with all hot-air engines, and is, I think, the reason they
+have not been more generally adopted. I felt this so strongly that,
+for some time after the introduction of the gas-engine, I was very
+cautious in recommending those who consulted me to adopt it. I was
+afraid that the wear and tear would be excessive. I have, however, for
+some time past been thoroughly satisfied that this fear was needless;
+as I am satisfied that a well-made gas-engine is as durable as a
+steam-engine, and the parts subject to wear can be replaced at
+moderate cost. We have no boiler, no feed pump, no stuffing-boxes to
+attend to--no water-gauges, pressure-gauges, safety-valve, or
+throttle-valve to be looked after; the governor is of a very simple
+construction; and the slide-valves may be removed and replaced in a
+few minutes. An occasional cleaning out of the cylinder at
+considerable intervals is all the supervision that the engine
+requires.
+
+The very large percentage of heat absorbed by the water-jacket should
+point out to the ingenuity of inventors the first problem to be
+attacked, viz., how to save this heat without wasting the lubricant or
+making it inoperative; and in the solution of this problem, I look for
+the most important improvement to be expected in the engine. The most
+obvious contrivance would be some sort of intercepting shield, which
+would save the walls of the cylinder and the rings of the piston from
+the heat of the ignited gases. I have just learned that something of
+the kind is under trial. Another solution may possibly be found in the
+employment of a fluid piston; but here we are placed in a dilemma
+between the liquids that are decomposed and the metals that are
+oxidized at high temperatures. Next, the loss by radiation--15 per
+cent.--seems large; but this is to be attributed to the fact that the
+inside surface of the cylinder is at each inward stroke exposed to the
+atmosphere--an influence which contributes to the cooling necessary
+for lubrication. The remaining 15 per cent., which is carried away by
+the exhaust, is small compared with the proportion passing away with
+the exhaust steam of a high-pressure or the water of a condensing
+engine. As the water in the jacket can be safely raised to 212 deg. Fahr.,
+the whole of the jacket heat can be utilized where hot water is
+required for other purposes; and this, with the exhaust gases, has
+been used for drying and heating purposes.
+
+With such advantages, it may be asked: Why does not the gas-engine
+everywhere supersede the steam-engine? My answer is a simple one: The
+gas we manufacture is a dear fuel compared with coal. Ordinary coal
+gas measures 30 cubic feet to the pound; and 1,000 cubic feet,
+therefore, weigh 33 lb. Taking the price at 2s. 9d. per 1,000 cubic
+feet, it costs 1d. per lb. The 30 cubic feet at 630[theta] give
+19,000[theta] all available heat. Although good coal may yield 14,000
+units by its combustion, only about 11,000 of these reach the boiler;
+so that the ratio of the useful heat is 11/19. The thermal efficiency
+of the best non-condensing engine to that of the gas-engine is in the
+ratio 4/22. Multiplying together these two ratios, we get
+
+        11     4        44
+        -- x ------- = ----
+        19   22_{1/2}  4.28
+
+That is, speaking roughly, 1 lb. of gas gives about ten times as much
+power as 1 lb. of coal does in a good non-condensing engine. But at
+18s. 8d. a ton we get 10 lb. of coal for 1d.; so that with these
+figures the cheapness of the coal would just compensate for the
+efficiency of the gas. As to the waste heat passing away from the
+engine being utilized, here the gas-engine has no advantage; and, so
+far as this is concerned, the gas is about eight times dearer than
+coal. The prices of gas and coal vary so much in different places that
+it is hard to determine in what cases gas or coal will be the dearer
+fuel, considering this point alone.
+
+But there are other kinds of non-illuminating gases--such as Wilson's,
+Strong's, and Dowson's--which are now coming into use; and at Messrs.
+Crossley's works you will have an opportunity of seeing a large
+engineering factory employing several hundred mechanics, and without a
+chimney, in which every shaft and tool is driven by gas-engines
+supplied by Dowson's gas, and in which the consumption of coal is only
+1.2 lb. per indicated horse power. The greatest economy ever claimed
+for the steam-engine was a consumption of 1.6 lb.; and this with steam
+of very high pressure, expanded in three cylinders successively. Thus
+in a quarter of a century the gas-engine has beaten in the race the
+steam-engine; although from Watt's first idea of improvement, nearly a
+century and a quarter have elapsed.
+
+As regards the steam-engine, it is the opinion of competent
+authorities that the limits of temperature between which it works are
+so restricted, and so much of the heat is expended in producing a
+change of state from liquid to vapor, that little further improvement
+can be made. With respect to gas-engines, the limits of temperature
+are much further apart. A change of state is not required, and so very
+great improvement may still be looked for. It is not impossible even
+that some of the younger members of our body may live to see that
+period foretold by one of the greatest of our civil engineers--that
+happy time when boiler explosions will only be matters of history;
+that period, not a millennium removed by a thousand years, but an era
+deferred perhaps by only half a dozen decades, when the use of the
+gas-engine will be universal, and "a steam-engine can be found only in
+a cabinet of antiquities."
+
+
+_Discussion._
+
+The President said this was a very delightful paper; and nothing could
+be finer than Mr. Lane's description of the conversion of heat into
+power, and the gradual growth of theory into practical work.
+
+Mr. W. Foulis (Glasgow) agreed that it was admirable; but it required
+to be read to be thoroughly appreciated. When members were able to
+read it, they would find Mr. Lane had given a very clear description
+of the elementary principles of thermo-dynamics in their relation to
+the gas-engine and the steam-engine. There was very little in the
+paper to raise discussion; but Mr. Lane had made exceedingly clear how
+the present loss in a gas-engine was occasioned, and had also shown
+how, in the future development of the engine, the loss might be saved,
+and the engine rendered more efficient.
+
+Mr. H.P. Holt (of Messrs. Crossley Bros., Limited) said he could
+indorse everything Mr. Lane had said. He had found the paper most
+interesting and instructive even to himself, though he had some little
+practical experience of gas-engines, and was supposed to know a little
+about them. He did not pretend to be able to teach other people; but
+if he could say anything as to indicator cards, or answer any
+questions, he should be happy to do so. (He then described the
+indicator diagram of the atmospheric gas-engine.) In this engine the
+proportion of the charging stroke to the whole sweep of the piston was
+about 10 per cent.; and as the charge drawn in consisted of about 10
+per cent. of gas, about 1-100 of the total sweep of the piston was
+composed of the gas.
+
+Mr. Foulis asked what proportion the power indicated on the diagram
+bore to the power indicated on the brake in the atmospheric engine.
+
+Mr. Holt said unfortunately he had not any figures with him which
+would give this information; and it was so long since he had anything
+practically to do with this form of engine, that he should not like to
+speak from memory. He might add that the largest size of gas-engine
+made (of about 100 horse power indicated) was at work at Messrs. Edwin
+Butterworth and Co.'s, of Manchester. It was now driven by ordinary
+coal gas; but Dowson plant was to be put up very shortly in order to
+reduce the cost of working, which, though not excessive, would be
+still more economical with the Dowson gas--probably only about 30s.
+per week. The present cost was about L4 per week, though it was not
+working always at full power.
+
+Mr. T. Holgate (Batley) said he thought it was generally understood,
+by those who had studied the subject, that the adoption of compression
+of the gaseous mixture before ignition had, so far, more than anything
+else, contributed to the improved working of gas-engines. This fact
+had not been sufficiently brought out in the paper, although Mr. Lane
+had clearly indicated some of the directions in which further
+improvements were likely to obtain. Gas engineers were largely
+indebted to Mr. Dugald Clerk for the statement he had made of the
+theory of the gas-engine.[4] Mr. Lane had given some figures, arrived
+at by Messrs. Brooks and Steward, from experiments made in America;
+but, prior to these Mr. Clerk had given others which were in the main
+in accordance with them. Professor Kennedy had also made experiments,
+the results of which agreed with them.[5] The extent of the loss by
+the cooling water was thus well ascertained; and it was no doubt by a
+reduction of this loss that further improvement in the working of
+gas-engines would eventually be obtained.
+
+   [Footnote 4: See Journal, vol. xxxix., p. 648.]
+
+   [Footnote 5: Ibid., vol. xl., p. 955.]
+
+Mr. J. Paterson (Warrington) expressed his appreciation of the paper,
+as one of exceptional interest and value. He said he did not rise with
+a view to make any observations thereon. The analysis of first
+principles required more matured consideration and thought than could
+be given to it here. The opinion, however, he had formed of the paper
+placed it beyond the reach of criticism. It was now many years since
+his attention had been drawn to the name of Denny Lane; and everything
+that had come from his facile pen conveyed sound scientific
+conclusions. The paper to which they had just listened was no
+exception. It was invested with great interest, and would be regarded
+as a valuable contribution to the Transactions of the Institute.
+
+Mr. Lane, in reply, thanked the members for the kind expressions used
+with respect to his paper. His object in writing it was that any one
+who had not paid any attention to the subject before should be able to
+understand thoroughly the principles on which gas and hot-air engines
+operated; and he believed any one who read it with moderate care would
+perfectly understand all the essential conditions of the gas-engine.
+He might mention that not long after the thermo-dynamic theory was so
+far developed as to determine the amount of heat converted into power,
+a very eminent French Engineer--M. Hirn--conducted some experiments on
+steam-engines at a large factory, and thought he could account for the
+whole heat of combustion in the condensed water and the heat which
+passed away; so much so that he actually doubted altogether the theory
+of thermo-dynamics. However, being open to conviction, he made further
+experiments, and discovered that he had been in error, and ultimately
+became one of the most energetic supporters of the theory. This showed
+how necessary it was to be careful before arriving at a conclusion on
+such a subject. He had endeavored, as far as the nature of the case
+allowed, to avoid any scientific abstractions, because he knew that
+when practical men came to theory--_x's_ and _y's_, differentials,
+integrals, and other mathematical formulae--they were apt to be
+terrified.
+
+The President said it was like coming down to every day life to say
+that it was important that gas managers should be familiar with the
+appliances used in the consumption of gas, and should be able, when
+called upon, to give an intelligent description of their method of
+working. A study of Mr. Lane's paper would reveal many matters of
+interest with regard to this wonderful motor, which was coming daily
+more and more into use, not only to the advantage of gas
+manufacturers, but of those who employed them.
+
+       *       *       *       *       *
+
+
+
+
+M. MEIZEL'S RECIPROCATING EXHAUSTER.
+
+
+At the recent Congress of the Societe Technique de l'Industrie du Gaz
+en France, M. Meizel, Chief Engineer of the St. Etienne Gas Works,
+described a new exhauster devised by him on the reciprocating
+principle, and for which he claims certain advantages over the
+appliances now in general use. Exhausters constructed on the
+above-named principle have hitherto, M. Meizel says, been costly to
+fit up, owing to the necessity for providing machinery and special
+mechanism for the transmission of motion. This has prevented the
+employment of cylinders of large dimensions; and, consequently, when
+the quantity of gas to be dealt with has been considerable, the number
+of exhausters has had to be increased. The result of this has been
+inconvenience, which has led to a preference being shown for other
+kinds of exhausters, notwithstanding the manifest advantages which, in
+M. Meizel's opinion, those of the reciprocating type possess. The
+improvement which he has effected in these appliances consists in the
+application to them of cylinders working automatically; and the
+general features of the arrangement are shown in the accompanying
+illustrations.
+
+[Illustration: IMPROVED RECIPROCATING GAS EXHAUSTER.]
+
+The principal advantages to be gained by the use of this exhauster are
+stated by M. Meizel to be the following: Considerably less motive
+force is necessary than is the case with other exhausters, which
+require steam engines and all the auxiliary mechanism for the
+transmission of power. By its quiet and regular action, it prevents
+oscillation and unsteadiness in the flow of gas in the hydraulic main,
+as well as in the pipes leading therefrom--a defect which has been
+found to exist with other exhausters. The bells, being of large area,
+serve the purpose of a condenser; and as, owing to its density, the
+tar falls to the bottom of the lower vessels, which are filled with
+water, contact between the gas and tar is avoided. Although the
+appliance is of substantial construction, its action is so sensitive
+that it readily adapts itself to the requirements of production. It
+may be placed in the open air; and therefore its establishment is
+attended with less outlay than is the case with other exhausters,
+which have to be placed under cover, and provided with driving
+machinery and, of course, a supply of steam.
+
+The total superficial area of the exhauster above described, including
+the governor, is 150 square feet; and its capacity per 24 hours is
+230,000 cubic feet. It works silently, with an almost entire absence
+of friction; and consequently there are few parts which require
+lubrication. Exhausters of this type (which, M. Meizel says, could be
+made available for ventilation purposes, in case of necessity) may be
+constructed of all sizes, from 500 cubic feet per hour upward.
+
+       *       *       *       *       *
+
+
+
+
+AUTOMATIC SIPHON FOR IRRIGATION.
+
+
+When, at an elevated point in a meadow, there exists a spring or vein
+of water that cannot be utilized at a distance, either because the
+supply is not sufficient, or because of the permeability of the soil,
+it becomes very advantageous to accumulate the water in a reservoir,
+which may be emptied from time to time through an aperture large
+enough to allow the water to flow in abundance over all parts of the
+field.
+
+[Illustration: GIRAL'S AUTOMATIC SIPHON.]
+
+The storing up of the water permits of irrigating a much greater area
+of land, and has the advantage of allowing the watering to be effected
+intermittingly, this being better than if it were done continuously.
+But this mode of irrigating requires assiduous attention. It is
+necessary, in fact, when the reservoir is full, to go and raise the
+plug, wait till the water has flowed out, and then put in the plug
+again as accurately as possible--a thing that it is not always easy to
+do. The work is a continuous piece of drudgery, and takes just as much
+the longer to do in proportion as the reservoir is more distant from
+one's dwelling. In order to do away with this inconvenience, Mr.
+Giral, of Langogne (Lozere), has invented a sort of movable siphon
+that primes itself automatically, however small be the spring that
+feeds the reservoir in which it is placed. The apparatus (see figure)
+consists of an elbowed pipe, C A B D E, of galvanized iron, whose
+extremity, C, communicates with the outlet, R, where it is fixed by
+means of a piece of rubber of peculiar form that allows the other
+extremity, B D E, to revolve around the axis, K, while at the same
+time keeping the outlet pipe hermetically closed. This rubber, whose
+lower extremity is bent back like the bell of a trumpet, forms a
+washer against which there is applied a galvanized iron ring that is
+fixed to the mouth of the outlet pipe by means of six small screws.
+This ring is provided with two studs which engage with two flexible
+thimbles, K and L, that are affixed to the siphon by four rivets.
+These studs and thimbles, as well as the screws, are likewise
+galvanized. Between the branches, A B D E, of the pipe there is
+soldered a sheet of galvanized iron, which forms isolatedly a
+receptacle or air-chamber, F, that contains at its upper part a small
+aperture, _b_, that remains always open, and, at its lower part, a
+copper screw-plug, _d_, and a galvanized hook, H.
+
+In the interior of this chamber there is arranged a small leaden
+siphon, _a b c_, whose longer leg, _a_, passes through the bottom,
+where it is soldered, and whose shorter one, _c_, ends in close
+proximity to the bottom. Finally, a galvanized iron chain, G H, fixed
+at G to the bottom of the reservoir, and provided with a weight, P, of
+galvanized iron, is hooked at H to the siphon and allows it to rise
+more or less, according as it is given a greater or less length.
+
+From what precedes, it will be seen that the outlet is entirely
+closed, so that, in order that the water may escape, it must pass into
+the pipe in the direction, E D B A C.
+
+This granted, let us see how the apparatus works: In measure as the
+water rises in the reservoir, the siphon gradually loses weight, and
+its extremity, B D H, is finally lifted by the thrust, so that the
+entire affair revolves upon the studs, K, until the chain becomes
+taut. The apparatus then ceases to rise; but the water, ever
+continuing to rise, finally reaches the apex, _b_, of the smaller
+siphon, and, through it, enters the air chamber and fills it. The
+equilibrium being thus broken, the siphon descends to the bottom,
+becomes primed, and empties the reservoir. When the level of the
+water, in descending, is at the height of the small siphon, _a b c_,
+this latter, which is also primed, empties the chamber, F, in turn, so
+that, at the moment the large siphon loses its priming, the entire
+apparatus is in the same state that it was at first.
+
+In short, when the water enters the reservoir, the siphon, movable
+upon its base, rises to the height at which it is desired that the
+flow shall take place. Being arrested at this point by the chain, it
+becomes primed, and sinks, and the water escapes. When the water is
+exhausted, the siphon rises anew in order to again sink; and this goes
+on as long as the period of irrigation lasts.
+
+This apparatus, which is simple in its operation, and not very costly,
+is being employed with success for irrigating several meadows in the
+upper basin of the Allier.--_Le Genie Civil._
+
+       *       *       *       *       *
+
+
+
+
+ASSAY OF EARTHENWARE GLAZE.
+
+
+Lead oxide melted or incompletely vitrified is still in common use in
+the manufacture of inferior earthenware, and sometimes leads to
+serious results. To detect lead in a glaze, M. Herbelin moistens a
+slip of white linen or cotton, free from starch, with nitric acid at
+10 per cent. and rubs it for ten to fifteen seconds on the side of the
+utensil under examination, and then deposits a drop of a solution of
+potassium iodide, at 5 per cent. on the part which has been in
+contact. A lead glaze simply fused gives a very highly colored yellow
+spot of potassium iodide; a lead glaze incompletely vitrified gives
+spots the more decided, the less perfect the vitrification; and a
+glaze of good quality gives no sensible color at all.--_M. Herbelin._
+
+       *       *       *       *       *
+
+
+
+
+ON THE ELECTRICAL FURNACE AND THE REDUCTION OF THE OXIDES OF BORON,
+SILICON, ALUMINUM, AND OTHER METALS BY CARBON.[1]
+
+   [Footnote 1: Read at the recent meeting of the American
+   Association, Ann Arbor, Mich.]
+
+By EUGENE H. COWLES, ALFRED H. COWLES, AND CHARLES F. MABERY.
+
+
+The application of electricity to metallurgical processes has hitherto
+been confined to the reduction of metals from solutions, and few
+attempts have been made to effect dry reductions by means of an
+electric current. Sir W. Siemens attempted to utilize the intense heat
+of an electric arc for this purpose, but accomplished little beyond
+fusing several pounds of steel. A short time since, Eugene H. Cowles
+and Alfred H. Cowles of Cleveland conceived the idea of obtaining a
+continuous high temperature on an extended scale by introducing into
+the path of an electric current some material that would afford the
+requisite resistance, thereby producing a corresponding increase in
+the temperature. After numerous experiments that need not be described
+in detail, coarsely pulverized carbon was selected as the best means
+for maintaining a variable resistance and at the same time as the most
+available substance for the reduction of oxides. When this material,
+mixed with the oxide to be reduced, was made a part of the electric
+circuit in a fire clay retort, and submitted to the action of a
+current from a powerful dynamo machine, not only was the oxide
+reduced, but the temperature increased to such an extent that the
+whole interior of the retort fused completely. In other experiments
+lumps of lime, sand, and corundum were fused, with indications of a
+reduction of the corresponding metal; on cooling, the lime formed
+large, well-defined crystals, the corundum beautiful red, green, and
+blue hexagonal crystals.
+
+Following up these results with the assistance of Charles F. Mabery,
+professor of chemistry in the Case School of Applied Science, who
+became interested at this stage of the experiments, it was soon found
+that the intense heat thus produced could be utilized for the
+reduction of oxides in large quantities, and experiments were next
+tried on a large scale with a current from two dynamos driven by an
+equivalent of fifty horse power. For the protection of the walls of
+the furnace, which were made of fire brick, a mixture of the ore and
+coarsely pulverized gas carbon was made a central core, and it was
+surrounded on the sides and bottom by fine charcoal, the current
+following the lesser resistance of the central core from carbon
+electrodes which were inserted at the ends of the furnace in contact
+with the core. In order to protect the machines from the variable
+resistance within the furnace, a resistance box consisting of a coil
+of German silver wire placed in a large tank of water was introduced
+into the main circuit, and a Brush ammeter was also attached by means
+of a shunt circuit, to indicate the quantity of current that was being
+absorbed in the furnace. The latter was charged by first filling it
+with charcoal, making a trough in the center, and filling this central
+space with the ore mixture, which was covered with a layer of coarse
+charcoal. The furnace was closed at the top with fire brick slabs
+containing two or three holes for the escape of the gaseous products

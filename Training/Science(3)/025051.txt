@@ -1,0 +1,355 @@
+The Project Gutenberg EBook of Space Platform, by Murray Leinster
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Space Platform
+
+Author: Murray Leinster
+
+Release Date: April 11, 2008 [EBook #25051]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SPACE PLATFORM ***
+
+
+
+
+Produced by Greg Weeks, Louise Blyton and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+                    Transcriber's Note
+
+Despite extensive research, no evidence was found that U.S. copyright
+                 on this book was renewed.
+
+
+
+
+_Space Platform_
+
+
+_Murray Leinster_
+
+
+
+
+_POCKET BOOKS, INC. NEW YORK, N. Y._
+
+
+
+_Reaching for the Stars...._
+
+
+_Ever_ since ancient man first gazed in wonder at the stars, humanity
+has dreamed of traveling to outer space. Now scientists agree that
+space-flight may very soon become a reality.
+
+_Space Platform_ tells of man's first step into outer space ... of the
+difficulties and dangers of reaching for the stars. It is also an
+exciting adventure. When young Joe Kenmore came to Bootstrap to install
+pilot gyros in the Platform he hadn't bargained for sabotage or murder
+or love. But Joe learned that ruthless agents were determined to wreck
+the project. He found that the beautiful girl he loved, and men like The
+Chief, a rugged Indian steelworker, and Mike, a midget who made up for
+his size by brains, would have to fight with their bare hands to make
+man's age old dream of space travel come true!
+
+       *       *       *       *       *
+
+_This science-fiction novel was originally published by Shasta
+Publishers._
+
+
+_Of other books by Murray Leinster, the following are science-fiction:_
+
+SIDEWISE IN TIME
+
+MURDER MADNESS
+
+THE LAST SPACE SHIP
+
+THE LAWS OF CHANCE (Anthology)
+
+GREAT STORIES OF SCIENCE FICTION (editor)
+
+
+This Pocket Book includes every word contained in the original,
+higher-priced edition. It is printed from brand-new plates made from
+completely reset, clear, easy-to-read type.
+
+       *       *       *       *       *
+
+SPACE PLATFORM
+
+Shasta edition published February, 1953
+
+Pocket Book edition published March, 1953
+
+1st printing                 January, 1953
+
+All rights reserved. This book, or any part thereof, may not be
+reproduced in any manner without written permission of the publisher,
+except for brief quotations embodied in critical articles or reviews.
+For information, address: SHASTA PUBLISHERS, 5525 South Blackstone
+Avenue, Chicago, 37, Illinois.
+
+_Copyright, 1953, by Will F. Jenkins. This POCKET BOOK edition is
+published by arrangement with Shasta Publishers. Printed in the U.S.A._
+
+       *       *       *       *       *
+
+[Illustration: Pocket Book]
+
+_Notice_: POCKET BOOK editions are published in the United States by
+Pocket Books, Inc., in Canada by Pocket Books of Canada, Ltd., and in
+England by News of the World, Registered User of the Trade Marks. Trade
+Marks registered in the United States and British Patent Offices by
+Pocket Books, Inc., and registered in Canada by Pocket Books of Canada,
+Ltd.
+
+
+
+
+ACKNOWLEDGMENTS
+
+
+This acknowledgment is necessary if I am to say thanks to some experts
+to whom I am indebted. There is Captain Charles Benjamin, who read over
+the aviation parts of this book with pursed lips and a belligerent
+attitude toward questionable statements of fact or observation. There is
+Dr. John Drury Clark, whose authoritative knowledge of rocket fuels was
+the basis for admitted but not extravagant extrapolation on my part.
+There is the crew of a four-engined transport ship, who argued over my
+manuscript and settled the argument by a zestful, full-scale
+crash-landing drill--repeat, "drill"--expressly to make sure I had
+described all the procedure just right. There is Willy Ley, whom I would
+like to exempt from responsibility for any statement in the book, while
+I acknowledge the value of personal talks with him and the pleasure
+anybody who has ever read his books will recognize. And there is Dr.
+Hugh S. Rice of the Hayden Planetarium, who will probably be surprised
+to find that I feel I owe him gratitude. They are in great part
+responsible for the factual matter in this book.
+
+I think I may add, though, that I worked on it too.
+
+
+                                        MURRAY LEINSTER
+"Ardudwy"
+Gloucester, Va.
+
+
+
+
+_Space Platform_
+
+
+
+
+1
+
+
+There wasn't anything underneath but clouds, and there wasn't anything
+overhead but sky. Joe Kenmore looked out the plane window past the
+co-pilot's shoulder. He stared ahead to where the sky and cloud bank
+joined--it was many miles away--and tried to picture the job before him.
+Back in the cargo space of the plane there were four big crates. They
+contained the pilot gyros for the most important object then being built
+on Earth, and it wouldn't work properly without them. It was Joe's job
+to take that highly specialized, magnificently precise machinery to its
+destination, help to install it, and see to its checking after it was
+installed.
+
+He felt uneasy. Of course the pilot and co-pilot--the only two other
+people on the transport plane--knew their stuff. Every imaginable
+precaution would be taken to make sure that a critically essential
+device like the pilot gyro assembly would get safely where it belonged.
+It would be--it was being--treated as if it were a crate of eggs instead
+of massive metal, smoothed and polished and lapped to a precision
+practically unheard of. But just the same Joe was worried. He'd seen the
+pilot gyro assembly made. He'd helped on it. He knew how many times a
+thousandth of an inch had been split in machining its bearings, and the
+breath-weight balance of its moving parts. He'd have liked to be back in
+the cargo compartment with it, but only the pilot's cabin was
+pressurized, and the ship was at eighteen thousand feet, flying west by
+south.
+
+He tried to get his mind off that impulse by remembering that at
+eighteen thousand feet a good half of the air on Earth was underneath
+him, and by hoping that the other half would be as easy to rise above
+when the gyros were finally in place and starting out for space. The
+gyros, of course, were now on their way to be installed in the
+artificial satellite to be blasted up and set in an orbit around the
+Earth as the initial stage of that figurative stepladder by which men
+would make their first attempt to reach the stars. Until that Space
+Platform left the ground, the gyros were Joe's responsibility.
+
+The plane's co-pilot leaned back in his chair and stretched luxuriously.
+He loosened his safety belt and got up. He stepped carefully past the
+column between the right- and left-hand pilot seats. That column
+contained a fraction of the innumerable dials and controls the pilots of
+a modern multi-engine plane have to watch and handle. The co-pilot went
+to the coffeepot and flipped a switch. Joe fidgeted again on his
+improvised seat. Again he wished that he could be riding in back with
+the crates. But it would be silly to insist on perching somewhere in the
+freight compartment.
+
+There was a steady roaring in the cabin--the motors. One's ears got
+accustomed to it, and by now the noise sounded as if it were heard
+through cushions. Presently the coffeepot bubbled, unheard. The co-pilot
+lighted a cigarette. Then he drew a paper cup of coffee and handed it to
+the pilot. The pilot seemed negligently to contemplate some dozens of
+dials, all of which were duly duplicated on the right-hand, co-pilot's
+side. The co-pilot glanced at Joe.
+
+"Coffee?"
+
+"Thanks," said Joe. He took the paper cup.
+
+The co-pilot said: "Everything okay with you?"
+
+"I'm all right," said Joe. He realized that the co-pilot felt talkative.
+He explained: "Those crates I'm traveling with----. The family firm's
+been working on that machinery for months. It was finished with the
+final grinding done practically with feather dusters. I can't help
+worrying about it. There was four months' work in just lapping the
+shafts and balancing rotors. We made a telescope mounting once, for an
+observatory in South Africa, but compared to this gadget we worked on
+that one blindfolded!"
+
+"Pilot gyros, eh?" said the co-pilot. "That's what the waybill said. But
+if they were all right when they left the plant, they'll be all right
+when they are delivered."
+
+Joe said ruefully: "Still I'd feel better riding back there with them."
+
+"Sabotage bad at the plant?" asked the co-pilot. "Tough!"
+
+"Sabotage? No. Why should there be sabotage?" demanded Joe.
+
+The co-pilot said mildly: "Not quite everybody is anxious to see the
+Space Platform take off. Not everybody! What on earth do you think is
+the biggest problem out where they're building it?"
+
+"I wouldn't know," admitted Joe. "Keeping the weight down? But there is
+a new rocket fuel that's supposed to be all right for sending the
+Platform up. Wasn't that the worst problem? Getting a rocket fuel with
+enough power per pound?"
+
+The co-pilot sipped his coffee and made a face. It was too hot.
+
+"Fella," he said drily, "that stuff was easy! The slide-rule boys did
+that. The big job in making a new moon for the Earth is keeping it from
+being blown up before it can get out to space! There are a few gentlemen
+who thrive on power politics. They know that once the Platform's
+floating serenely around the Earth, with a nice stock of atom-headed
+guided missiles on board, power politics is finished. So they're doing
+what they can to keep the world as it's always been--equipped with just
+one moon and many armies. And they're doing plenty, if you ask me!"
+
+"I've heard----" began Joe.
+
+"You haven't heard the half of it," said the co-pilot. "The Air
+Transport has lost nearly as many planes and more men on this particular
+airlift than it did in Korea while that was the big job. I don't know
+how many other men have been killed. But there's a strictly local hot
+war going on out where we're headed. No holds barred! Hadn't you heard?"
+
+It sounded exaggerated. Joe said politely: "I heard there was
+cloak-and-dagger stuff going on."
+
+The pilot drained his cup and handed it to the co-pilot. He said: "He
+thinks you're kidding him." He turned back to the contemplation of the
+instruments before him and the view out the transparent plastic of the
+cabin windows.
+
+"He does?" The co-pilot said to Joe, "You've got security checks around
+your plant. They weren't put there for fun. It's a hundred times worse
+where the whole Platform's being built."
+
+"Security?" said Joe. He shrugged. "We know everybody who works at the
+plant. We've known them all their lives. They'd get mad if we started to
+get stuffy. We don't bother."
+
+"That I'd like to see," said the co-pilot skeptically. "No barbed wire
+around the plant? No identity badges you wear when you go in? No
+security officer screaming blue murder every five minutes? What do you
+think all that's for? You built these pilot gyros! You had to have that
+security stuff!"
+
+"But we didn't," insisted Joe. "Not any of it. The plant's been in the
+same village for eighty years. It started building wagons and plows, and
+now it turns out machine tools and precision machinery. It's the only
+factory around, and everybody who works there went to school with
+everybody else, and so did our fathers, and we know one another!"
+
+The co-pilot was unconvinced. "No kidding?"
+
+"No kidding," Joe assured him. "In World War Two the only spy scare in
+the village was an FBI man who came around looking for spies. The
+village cop locked him up and wouldn't believe in his credentials. They
+had to send somebody from Washington to get him out of jail."
+
+The co-pilot grinned reluctantly. "I guess there are such places," he
+said enviously. "You should've built the Platform! It's plenty different
+on this job! We can't even talk to a girl without security clearance for
+an interview beforehand, and we can't speak to strange men or go out
+alone after dark--."
+
+The pilot grunted. The co-pilot's tone changed. "Not quite that bad," he
+admitted, "but it's bad! It's really bad! We lost three planes last
+week. I guess you'd call it in action against saboteurs. One flew to
+pieces in mid-air. Sabotage. Carrying critical stuff. One crashed on
+take-off, carrying irreplaceable instruments. Somebody'd put a detonator
+in a servo-motor. And one froze in its landing glide and flew smack-dab
+into its landing field. They had to scrape it up. When this ship got a
+major overhaul two weeks ago, we flew it with our fingers crossed for
+four trips running. Seems to be all right, though. We gave it the works.
+But I won't look forward to a serene old age until the Platform's out of
+atmosphere! Not me!"
+
+He went to put the pilot's empty cup in the disposal slot.
+
+The plane went on. There wasn't anything underneath but clouds, and
+there wasn't anything overhead but sky. The clouds were a long way down,
+and the sky was simply up. Joe looked down and saw a faint spot of
+racing brightness with a hint of colors around it. It was the sort of
+nimbus that substitutes for a shadow when a plane is high enough above
+the clouds. It raced madly over the irregular upper surface of the cloud
+layer. The plane flew and flew. Nothing happened at all. This was two
+hours from the field from which it had taken off with the pilot gyro
+cases as its last item of collected cargo. Joe remembered how grimly the
+two crew members had prevented anybody from even approaching it on the
+ground, except those who actually loaded the cases, and how one of the
+two had watched them every second.
+
+Joe fidgeted. He didn't quite know how to take the co-pilot's talk. The
+Kenmore Precision Tool plant was owned by his family, but it wasn't so
+much a family as a civic enterprise. The young men of the village grew
+up to regard fanatically fine workmanship with the casual
+matter-of-factness elsewhere reserved for plowing or deep-sea fishing.
+Joe's father owned it, and some day Joe might head it, but he couldn't
+hope to keep the respect of the men in the plant unless he could handle
+every tool on the place and split a thousandth at least five ways. Ten
+would be better! But as long as the feeling at the plant stayed as it
+was now, there'd never be a security problem there.
+
+If the co-pilot was telling the truth, though--.
+
+Joe found a slow burn beginning inside him. He had a picture in his mind
+that was practically a dream. It was of something big and bright and
+ungainly swimming silently in emptiness with a field of stars behind it.
+The stars were tiny pin points of light. They were unwinking and
+distinct because there was no air where this thing floated. The
+blackness between them was absolute because this was space itself. The

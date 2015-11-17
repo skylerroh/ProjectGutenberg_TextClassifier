@@ -1,0 +1,462 @@
+forming part of a radial line from a point E in its length. In these
+cases the plane of the pendulum's swing will indeed be shifted _bodily_,
+but the direction of swing will still continue to be from north to
+south.
+
+Now, let P O P' represent the polar axis of the earth; a b a horizontal
+rod at the pole bearing a pendulum, as in Fig. 1. It is clear that if
+the earth is rotating about P O P' in the direction shown by the arrow,
+the rod a b is being shifted round, precisely as in the case first
+considered. The swinging pendulum below it will not partake in its
+motion; and thus, through whatever arc the earth rotates from west to
+east, through the same arc will the plane of swing of the pendulum
+appear to travel from east to west under a b.
+
+But we cannot set up a pendulum to swing at the pole of the earth. Let
+us inquire, then, whether the experiment ought to have similar results
+if carried out elsewhere.
+
+Suppose A B to be our pendulum-bearing rod, placed (for convenience of
+description merely) in a north and south position. Then it is clear that
+A B produced meets the polar axis produced (in E, suppose), and when,
+owing to the earth's rotation, the rod has been carried to the position
+A' B', it still passes through the point E. Hence it has shifted through
+the angle A E A', a motion which corresponds to the case of the motion
+of A B (in Fig. 1) about the point E,[1] and the plane of the pendulum's
+swing will therefore show a displacement equal to the angle A E A'. It
+will be at once seen that for a given arc of rotation the displacement
+is smaller in this case than in the former, since the angle A E A' is
+obviously less than the angle A K A'.[2] In our latitude a free pendulum
+should seem to shift through one degree in about five minutes.
+
+[Footnote 1: In reality A E moves to the position A' E over the surface
+of a cone having E P' as axis, and E as vertex; but for any small part
+of its motion, the effect is the same as though it traveled in a plane
+through E, touching this cone; and the sum of the effects should clearly
+be proportioned to the sum of the angular displacements.]
+
+[Footnote 2: In fact, the former angle is less than the latter, in the
+same proportion that A K is less than A E, or in the proportion of the
+sine of the angle A E P, which is obviously the same as the sine of the
+latitude.]
+
+It is obvious that a great deal depends on the mode of suspension. What
+is needed is that the pendulum should be as little affected as possible
+by its connection with the rotating earth. It will surprise many,
+perhaps, to learn that in Foucault's original mode of suspension the
+upper end of the wire bearing the pendulum bob was fastened to a metal
+plate by means of a screw. It might be supposed that the torsion of
+the wire would appreciably affect the result. In reality, however, the
+torsion was very small.
+
+[Illustration: Fig. 2.]
+
+Still, other modes of suspension are obviously suggested by the
+requirements of the problem. Hansen made use of the mode of suspension
+exhibited in Fig. 3. Mr. Worms, in a series of experiments carried out
+at King's College, London, adopted a somewhat similar arrangement, but
+in place of the hemispherical segment he employed a conoid, as shown in
+Fig. 4, and a socket was provided in which the conoid could work freely.
+From some experiments I made myself a score of years ago, I am inclined
+to prefer a plane surface for the conoid to work upon. Care must be
+taken that the first swing of the pendulum may take place truly in one
+plane. The mode of liberation is also a matter of importance.
+
+[Illustration: Fig.3.]
+
+Many interesting experiments have been made upon the motions of a
+free pendulum, regarded as a proof of the earth's rotation, and when
+carefully conducted, the experiments have never failed to afford the
+most satisfactory results. Space, however, will only permit me to dwell
+on a single series of experiments. I select those made by Mr. Worms in
+the Hall of King's College, London, in the year 1859:
+
+"The bob was a truly turned ball of brass weighing 40 lb.; the
+suspending medium was a thick steel wire; the length of the pendulum was
+17 feet 9 inches. The amplitude of the first oscillation was 6 deg. 42', and
+during the time of the experiment--about half an hour--the arcs were
+not much diminished. As I had to demonstrate to a large number of
+spectators, I encountered considerable difficulty," says Mr. Worms, "in
+rendering the small deviations of the plane of oscillation visible to
+all. I accomplished it in three different ways." These he proceeds
+to describe. He had first a set of small cones set up, which were
+successively knocked down as the change in the plane of the pendulum
+slowly brought the pointer under the bob to bear on cone after cone.
+Secondly, a small cannon was so placed that the first touch of the
+pendulum pointer against a platinum wire across the touch-hole completed
+a galvanic circuit, and so fired the cannon. Lastly, a candle was placed
+so as to throw the shadow of the pendulum bob upon a ground-glass
+screen, and so to exhibit the gradual change of the plane of swing.
+
+The results accorded most satisfactorily with the deductions from the
+theory of the earth's rotation.
+
+[Illustration: Fig.4.]
+
+       *       *       *       *       *
+
+
+
+
+A NEW LUNARIAN.
+
+By Prof. C. W. MACCORD, Sc.D.
+
+
+The construction of apparatus for illustrating the motions of the
+heavenly bodies has often occupied the attention of both mathematicians
+and mechanicians, who have produced many very ingenious, and in some
+cases very complicated, combinations. These may be divided into two
+classes; the object of the first being to represent _exactly_ what
+occurs--to reproduce the precise movements of the various bodies
+represented in their true proportions and relations to each other, in
+respect to distances, magnitudes, times, and phases. When the absolute
+complexity of the movements of the bodies composing the solar system
+is considered, it is not so much a matter of wonder that a planetarium
+which shall thus imitate them is a very delicate and complicated machine
+as that it should lie within the limits of human ingenuity.
+
+In the second class, the object is to show the nature and the causes
+of specific phenomena, without regard to others perhaps, and without
+necessarily paying attention to exact proportions of distances and
+dimensions. Indeed, it is often the case that the illustration is made
+clearer by exaggerating some of these and reducing others; thus, for
+example, the causes of the variation in the lengths of the days and
+nights, and of the changes in the seasons, can be exhibited to much
+better advantage by an apparatus in which the diameter of the sun and
+its distance from the earth are enormously reduced than they possibly
+could be were they of their proper proportionate magnitudes; nor is the
+presence of any other planet, or the attendance of a satellite, at all
+necessary or even desirable for the purpose named.
+
+It is apparent that machines of this class can be made much more simple
+than those of the first, while at the same time it may safely be
+asserted that for educational purposes they are far more useful.
+
+In both classes, the action involves the use of some sort of epicyclic
+train, since the motions to be explained are both orbital and axial. The
+planetary body is carried round by a train-arm, and its rotation about
+its axis is usually given it by a train of gearing, the inner or
+central wheel of which is stationary, being fastened to the fixed frame
+supporting the whole.
+
+[Illustration: AN IMPROVED LUNARIAN.]
+
+The lunarian which we herewith present belongs to the second of the
+classes above named; in its construction an attempt has been made to
+show by as simple means and in as clear a manner as possible the nature
+of the following phenomena, viz.:
+
+1. Apogee and perigee.
+
+2. The moon's phases.
+
+3. The rotation on her axis, by reason of which she always presents
+nearly the same face to the earth.
+
+4. The inclination of her axis to the plane of her orbit, and her
+consequent libration in latitude.
+
+5. Her varying angular velocity, and consequent libration in longitude.
+
+The mechanism consists of a train-arm, T, which turns upon the vertical
+pivot, P, fixed in the stand. In this arm, T, are the bearings of two
+cranks, B and C. equal in length to each other and to a third crank, A,
+which is stationary, being fixed to the pivot, P, by a pin, p. To the
+crank-pin of A is secured a reverted arm, A', which supports the earth,
+E, and keeps it also stationary. The three cranks are connected by the
+rod, R, like the parallel rod of a locomotive: to which is fastened by a
+steady-pin, o, the bevel wheel, D, concentric with the crank-pin, b. The
+head of this crank-pin is first made spherical, then faced off at an
+angle with the axis of b, and in the sloping face is firmly fixed the
+long screw, S, forming the support for the moon, M, which is caused
+to rotate about the axis of S, by means of the wheel, F, equal to
+and engaging with D. The upper end of S projects slightly through a
+perforation in the moon, and to it the hemispherical black shell or cap,
+G, is fixed by the screw, K; this cap represents the unilluminated part
+of the moon, and since G, s, b, and B, are in effect but one piece, the
+cap moves precisely as the crank does.
+
+Now as the train-arm, T, is carried round, the cranks, B and C, will
+turn in their bearings; but by their connection with A, they are
+compelled to remain always parallel to themselves, and thus the axis of
+the moon receives a motion of translation. But since during this action
+the wheel D turns relatively to the pin b, the moon evidently rotates
+about its axis with an angular velocity precisely equal to that of its
+orbital motion.
+
+The black shell however has the motion of translation only, and thus
+exhibits the phases of the moon, on the supposition that the source
+of light is infinitely remote and the rays come always in the same
+direction, which is not strictly true, of course; but the reasons of the
+varying appearance are as clearly shown as if it were absolutely exact.
+The same may be said in regard to the phenomena of libration; the
+inclination of the moon's axis to the plane of her orbit is really
+small, but is purposely exaggerated in this apparatus in order to make
+the results apparent; in the position represented, it is quite obvious
+that an observer upon the earth can see a little past one pole, and
+cannot quite see the other, as well as that this condition will be
+reversed after half a revolution.
+
+The action in reference to the phases is clearly shown in the small
+diagram on the right. The one on the left illustrates the manner in
+which the libration in longitude is made apparent. It will be noted that
+the center of M is not directly over the axis of the bearing of the
+crank, B, so that after half a revolution the moon will be farther from
+the earth than she is here shown. Her orbit here is circular, whereas,
+in fact, it is an ellipse; but the earth not being in the center, her
+angular velocity in relation to the earth is variable, the result
+of which is that, when she is near her quadrature, the actual force
+presented to the earth is slightly different from that presented when in
+conjunction or opposition.
+
+Thus these various peculiarities of the motion of our satellite are
+exhibited by comparatively simple means--the number of moving parts
+being, it is believed, as small as it can be made; and the substitution
+of a crank motion for the usual train of wheels, we think, is a new
+device.
+
+       *       *       *       *       *
+
+
+
+
+THE UPRIGHT ATTITUDE OF MANKIND.
+
+
+Every one must have heard or have read of the supposed perfect
+adaptation of the human frame to bipedal locomotion and to an upright
+attitude, as well as the advantages which we gain by this erect
+position. We are told, and with perfect truth, that in man the occipital
+foramen--the aperture through which the brain is connected with the
+spinal cord--is so placed that the head is nearly in equilibrium when he
+stands upright. In other mammalia this aperture lies further back, and
+takes a more oblique direction, so that the head is thrown forward,
+and requires to be upheld partly by muscular effort and partly by the
+ligamentum nuchae, popularly known in cattle as the "pax-wax."
+
+Again, the relative lengths of the bones of the hinder extremities in
+man form an obstacle to his walking on all-fours. If we keep the legs
+straight we may touch the ground in front of our feet with the tips of
+the fingers, but we cannot place the palms of the hands upon the ground
+and use them to support any part of our weight in walking. Not a few
+other points of a similar tendency have been so often enlarged upon, in
+works of a teleological character, that there can be no need even to
+specify them at present.
+
+But till lately it has never been asked, "Is man's adaptation to
+an upright posture perfect?" and "Is this posture attended with no
+drawbacks?" These questions have been raised by Dr. S. V. Clevenger in a
+lecture delivered before the Chicago University Club, on April 18, 1882,
+and recently published in the _American Naturalist_. This lecture,
+we may add, cost the speaker the chair of Comparative Anatomy and
+Physiology at the Chicago University!
+
+Dr. Clevenger first discusses the position of the valves in the veins.
+The teleologists have long told us that the valves in the veins of
+the arms and legs assist in the return of blood to the heart against
+gravitation. But what earthly use has a man for valves in the
+intercostal veins which carry blood almost horizontally backward to the
+azygos veins? When recumbent, these valves are an actual obstacle to
+the free flow of the blood. The inferior thyroid veins which drop their
+blood into the innominate are obstructed by valves at their junction.
+Two pairs of valves are situate in the external jugular, and another
+pair in the internal jugular, but they do not prevent regurgitation of
+blood upward.
+
+An anomaly exists in the absence of valves from parts where they are
+most needed, such as the venae cavae, the spinal, iliac, haemorrhoidal, and
+portal veins.
+
+But if we place man upon all-fours these anomalies disappear, and a law
+is found regulating the presence or absence of valves, and, according to
+Dr. Clevenger, it is applicable to all quadrupeds and to the so-called
+Quadrumana. Veins flowing toward the back, i.e., against gravitation in
+the all-fours posture--are fitted with valves; those flowing in
+other directions are without. For the few exceptions a very feasible
+explanation is given.
+
+Valves in the haemorrhoidal veins would be useless to quadrupeds; but to
+man, in his upright position, they would be very valuable. "To their
+absence in man many a life has been and will be sacrificed, to say
+nothing of the discomfort and distress occasioned by the engorgement
+known as piles, which the presence of valves in their veins would
+obviate."
+
+A noticeable departure from the rule obtaining in the vascular system of
+mammalia also occurs to the exposed situation of the femoral artery in
+man. The arteries lie deeper than the veins, or are otherwise protected,
+for the purpose--as a teleologist would say--of preventing serious loss
+of blood from superficial cuts. Translating this view into evolutionary
+language, it appears that only animals with deeply placed arteries can
+survive and transmit their structural peculiarities to their offspring.
+The ordinary abrasions to which all animals are exposed, not to mention
+their onslaughts upon each other, would quickly kill off species with
+superficially placed arteries. But when man assumed the upright posture
+the femoral artery, which in the quadrupedal position is placed out of
+reach on the inner part of the thigh, became exposed. Were not this
+defect greatly compensated by man's ability to protect this part in ways
+not open to brutes, he, too, might have become extinct. As it is, this
+exposure of so large an artery is a fruitful cause of trouble and death.
+
+We may here mention some other disadvantages of the upright position
+which Dr. Clevenger has omitted. Foremost comes the liability to fall
+due to an erect posture supported upon two feet only. Four-footed
+animals in their natural haunts are little liable to fall; if one foot
+slips or fails to find hold, the other three are available. If a fall
+does occur on level ground, there is very little danger to any mammal
+nearly approaching man in bulk and weight. Their vital parts, especially
+the heart and the head, are ordinarily so near the ground that to them
+the shock is comparatively slight. To human beings the effects of a
+fall on smooth, level ground are often serious, or even deadly. We need
+merely call to mind the case of the illustrious physicist whom we have
+so recently and suddenly lost.
+
+The upright attitude involves a further sourge of danger. In few parts
+(if any) of the body is a blow more fatal than over what is popularly
+called the "pit of the stomach." In the quadruped this part is little
+exposed either to accidental or intentional injuries. In man it is quite
+open to both. A blow, a kick, a fall among stones, etc., may thus easily
+prove fatal.
+
+Another point is the exposure and prominence of the generative organs,
+which in most other animals are well protected. Leaving danger out of
+the question, it may be asked whether we have not here the origin of
+clothing? The assumption of the upright posture may have made primitive
+man aware of his nakedness.
+
+Returning to the illustrations furnished by Dr. Clevenger, we are
+reminded that another disadvantage which occurs from the upright
+position of man is his greater liability to inguinal hernia. In
+quadrupeds the main weight of the abdominal viscera is supported by the
+ribs and by strong pectoral and abdominal muscles. The weakest part of
+the latter group of muscles is in the region of Poupart's ligament,
+above the groin. Inguinal hernia is rare in other vertebrates because
+this weak part is relieved by the pressure of the viscera. In man the
+pelvis receives almost the entire load of the intestines, and hence Art
+is called in to compensate the deficiencies of nature, and an immense
+number of trusses have to be manufactured and used. It is calculated
+that 20 per cent. of the human family suffer in this way. Strangulated
+hernia frequently causes death. The liability to femoral hernia is in
+like manner increased by the upright position.
+
+Now, if man has always been erect from his creation--or, if that term be
+disliked, from his origin--we have evidently nothing to hope from the
+future in the way of an amendment of this and other defects. But if we
+have sprung from a quadrupedal animal, and have by degrees adopted
+an upright position, to which we are as yet imperfectly adapted, the
+muscular tissues of the abdomen will doubtless in the lapse of ages
+become strengthened to meet the demand made upon them, so that the
+liability to rupture will decrease. In like manner the other defects
+above enumerated may gradually be rendered less serious.
+
+A most important point remains; the peritoneal ligaments of the uterus
+fully subserve suspensory functions. The anterior, posterior, and
+lateral ligaments are mainly concerned in preventing the gravid uterus,
+in quadrupeds, from pitching too far forward toward the diaphragm. The
+round ligaments are utterly unmeaning in the human female, but in the
+lower animals they serve the same purpose as the other ligaments.
+Prolapsus uteri, from the erect position and the absence of supports
+adapted to the position, is thus rendered common, destroying the health
+and happiness of multitudes.
+
+As a simple deduction from mechanical laws, it would readily follow that
+any animal or race of men which had for the longest time maintained an
+erect position would have straighter abdomens, wider pelvic brims with
+contracted pelvic outlets, and that the weight of the spinal column
+would force the sacrum lower down. This, generally speaking, we find to
+be the case. In quadrupeds the box-shaped pelvis, which admits of easy
+parturition, is prevalent. Where the position of the animal is such as
+to throw the weight of the viscera into the pelvis, the brim necessarily
+widens, these weighty organs sink lower, and the beads of the
+thigh-bones acting as fulcra permit the crest of the ilium to be
+carried outward, while the lower part of the pelvis is at the same time
+contracted.
+
+In the innominate bones of a young child the box-shape exists, while its
+prominent abdomen resembles that of the gorilla. The gibbon exhibits
+this iliac expansion through the sitting posture which developed his
+ischial callosities. Similarly iliac expansion occurs in the chimpanzee.
+The megatherium had wide iliacal expansions due to its semi-erect
+habits; but as its weight was in great part supported by the huge tail,
+and as the fermora rested in acetabula placed far forward, the leverage
+necessary to contract the lower portion of the pelvis was absent.
+
+Prof. Weber, of Bonn, quoted in Karl Vogt's "Vorlesungen ueber den
+Mensohen," distinguishes four chief forms of the pelvis in mankind--the
+oval in Aryans, the round among the Red Indians, the square in the
+Mongols, and the wedge-shaped in the Negro. Examining this question
+mechanically it would seem that the longer a race had remained in
+an upright position the lower is the sacrum, and the greater is the
+tendency to approximate to the larger lateral diameter of the European
+female. The front to back diameter of the ape's pelvis is usually
+greater than the measurement from side to side. A similar condition
+affords the cuneiform, from which it may be inferred that the erect
+position in the Negro has not been maintained so long as in the Mongol,
+whose pelvis has assumed the quadrilateral shape owing to persistence
+of spinal axis weight for a greater time. This pressure has finally
+culminated in forcing the sacrum of the European nearer the pubes, with
+consequent lateral expansion and contraction of the diameter from
+front to back. From the marsupials to the lemurs the box-shaped pelvis
+remains. With the wedge-shape occasioned in the lowest human types there
+occurs a further remarkable phenomenon in the increased size of the
+foetal head accompanying the contraction of the pelvic outlet. While the
+marsupial head is about one-sixth the size of the narrowest part of the
+bony parturient canal, the moment we pass to erect animals the greater
+relative increase is there seen in cranial size, with a coexisting
+decrease in the area of the outlet. This altered condition of things
+has caused the death of millions of otherwise perfectly healthy and
+well-formed human mothers and children. The palaeontologist might tell us
+if some such case of ischial approximation by natural mechanical causes
+has not caused the probable extinction of whole genera of vertebrates.
+"If we are to believe that for our original sin the pangs and labor
+of childbirth were increased, and if we also believe in the
+disproportionate contraction of the pelvic space being an efficient
+cause of the same difficulties of parturition, the logical inference is
+that man's original sin consisted in his getting upon his hind legs."
+
+This subject is not without direct applications. Accoucheurs cause their
+patients to assume what is called the knee-chest position, a prone one,
+for the purpose of restoring the uterus to something near a natural
+position. Brown-Sequard recommends, in myelitis, or spinal congestion,
+drawing away the blood from the spine by placing the patient on his
+abdomen or side, with hands and feet somewhat hanging down. The
+liability to _spina bifida_ is greatest in the human infant, through
+the stress thrown on the spine. The easy parturition in the lower human
+races is due to the discrepancy between cranial and pelvic sizes not
+having been as yet reached by those races. The Sandwich Island mother
+has a difficult delivery only when her child is half white, and has
+consequently a longer head than the unmixed native strain.
+
+At present the world goes on in its blindness, apparently satisfied
+that everything is all right because its exists, ignorant of the evil
+consequences of apparently beneficial pecularities, vaunting man's
+erectness and its advantages, while ignoring the disadvantages.
+
+The observation that the lower the animal the more prolific (not
+universally true!) would warrant the belief that the higher the animal
+the more difficulties encompass its propagation and development. The
+cranio-pelvic difficulty may perhaps settle the Malthusian question as
+far as the higher races of men are concerned by their extinction.
+
+[If the facts brought forward by Dr. Clevenger cannot be controverted,
+they seem to prove that man must have originated by gradual development
+from a four-footed being. Had he been created an erect, bipedal animal,
+as we find him, his structure would have been not in partial, but in
+perfect, adaptation to the conditions of that attitude. That some of the
+peculiarities of his structure are better in harmony with a horizontal
+than a vertical position of the spinal column, is perhaps the strongest
+argument against the theory of direct creation and the radical _toto
+coelo_ distinction between man and beast that has yet been advanced. We
+cannot at the moment lay our hands upon any thorough and trustworthy
+account of the valves in the veins of the sloth: as that animal spends
+its life hanging, back downward, the structure of the veins would be
+interesting in this connection.--ED. J. S.]--_Journal of Science_.
+
+       *       *       *       *       *
+
+
+
+
+OUR ENEMIES, THE MICROBES.
+

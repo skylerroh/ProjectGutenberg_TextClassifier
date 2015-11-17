@@ -1,0 +1,716 @@
+                         _Critique of Pure Reason, Preface to the
+                         Second Edition [Mueller], (New York,
+                         1900), p. 690._
+
+
+=202.= [When followed in the proper spirit], there is no study in
+the world which brings into more harmonious action all the
+faculties of the mind than the one [mathematics] of which I
+stand here as the humble representative and advocate. There is
+none other which prepares so many agreeable surprises for its
+followers, more wonderful than the transformation scene of a
+pantomime, or, like this, seems to raise them, by successive
+steps of initiation to higher and higher states of conscious
+intellectual being.--SYLVESTER, J. J.
+
+                         _A Plea for the Mathematician, Nature,
+                         Vol. 1, p. 261._
+
+
+=203.= Thought-economy is most highly developed in mathematics,
+that science which has reached the highest formal development,
+and on which natural science so frequently calls for assistance.
+Strange as it may seem, the strength of mathematics lies in the
+avoidance of all unnecessary thoughts, in the utmost economy of
+thought-operations. The symbols of order, which we call numbers,
+form already a system of wonderful simplicity and economy. When
+in the multiplication of a number with several digits we employ
+the multiplication table and thus make use of previously
+accomplished results rather than to repeat them each time, when
+by the use of tables of logarithms we avoid new numerical
+calculations by replacing them by others long since performed,
+when we employ determinants instead of carrying through from the
+beginning the solution of a system of equations, when we
+decompose new integral expressions into others that are
+familiar,--we see in all this but a faint reflection of the
+intellectual activity of a _Lagrange_ or _Cauchy_, who with the
+keen discernment of a military commander marshalls a whole troop
+of completed operations in the execution of a new one.--MACH, E.
+
+                         _Populaer-wissenschafliche Vorlesungen
+                         (1908), pp. 224-225._
+
+
+=204.= Pure mathematics proves itself a royal science both
+through its content and form, which contains within itself the
+cause of its being and its methods of proof. For in complete
+independence mathematics creates for itself the object of which
+it treats, its magnitudes and laws, its formulas and symbols.
+
+                                                   --DILLMANN, E.
+
+                         _Die Mathematik die Fackeltraegerin einer
+                         neuen Zeit (Stuttgart, 1889), p. 94._
+
+
+=205.= The essence of mathematics lies in its freedom.
+
+                                                --CANTOR, GEORGE.
+
+                         _Mathematische Annalen, Bd. 21, p. 564._
+
+
+=206.= Mathematics pursues its own course unrestrained, not
+indeed with an unbridled licence which submits to no laws, but
+rather with the freedom which is determined by its own nature and
+in conformity with its own being.--HANKEL, HERMANN.
+
+                         _Die Entwickelung der Mathematik in den
+                         letzten Jahrhunderten (Tuebingen, 1884),
+                         p. 16._
+
+
+=207.= Mathematics is perfectly free in its development and is
+subject only to the obvious consideration, that its concepts must
+be free from contradictions in themselves, as well as definitely
+and orderly related by means of definitions to the previously
+existing and established concepts.--CANTOR, GEORGE.
+
+                         _Grundlagen einer allgemeinen
+                         Manigfaltigkeitslehre (Leipzig, 1883),
+                         Sect. 8._
+
+
+=208.= Mathematicians assume the right to choose, within the
+limits of logical contradiction, what path they please in
+reaching their results.--ADAMS, HENRY.
+
+                         _A Letter to American Teachers of
+                         History (Washington, 1910),
+                         Introduction, p. v._
+
+
+=209.= Mathematics is the predominant science of our time; its
+conquests grow daily, though without noise; he who does not
+employ it for himself, will some day find it employed against
+himself.--HERBART, J. F.
+
+                         _Werke [Kehrbach] (Langensalza, 1890),
+                         Bd. 5, p. 105._
+
+
+=210.= Mathematics is not the discoverer of laws, for it is not
+induction; neither is it the framer of theories, for it is not
+hypothesis; but it is the judge over both, and it is the arbiter
+to which each must refer its claims; and neither law can rule nor
+theory explain without the sanction of mathematics.
+
+                                              --PEIRCE, BENJAMIN.
+
+                         _Linear Associative Algebra, American
+                         Journal of Mathematics, Vol. 4 (1881),
+                         p. 97._
+
+
+=211.= Mathematics is a science continually expanding; and its
+growth, unlike some political and industrial events, is attended
+by universal acclamation.--WHITE, H. S.
+
+                         _Congress of Arts and Sciences (Boston
+                         and New York, 1905), Vol. 1, p. 455._
+
+
+=212.= Mathematics accomplishes really nothing outside of the
+realm of magnitude; marvellous, however, is the skill with which
+it masters magnitude wherever it finds it. We recall at once the
+network of lines which it has spun about heavens and earth; the
+system of lines to which azimuth and altitude, declination and
+right ascension, longitude and latitude are referred; those
+abscissas and ordinates, tangents and normals, circles of
+curvature and evolutes; those trigonometric and logarithmic
+functions which have been prepared in advance and await
+application. A look at this apparatus is sufficient to show that
+mathematicians are not magicians, but that everything is
+accomplished by natural means; one is rather impressed by the
+multitude of skilful machines, numerous witnesses of a manifold
+and intensely active industry, admirably fitted for the
+acquisition of true and lasting treasures.--HERBART, J. F.
+
+                         _Werke [Kehrbach] (Langensalza, 1890),
+                         Bd. 5, p. 101._
+
+
+=213.= They [mathematicians] only take those things into
+consideration, of which they have clear and distinct ideas,
+designating them by proper, adequate, and invariable names, and
+premising only a few axioms which are most noted and certain to
+investigate their affections and draw conclusions from them, and
+agreeably laying down a very few hypotheses, such as are in the
+highest degree consonant with reason and not to be denied by
+anyone in his right mind. In like manner they assign generations
+or causes easy to be understood and readily admitted by all, they
+preserve a most accurate order, every proposition immediately
+following from what is supposed and proved before, and reject all
+things howsoever specious and probable which can not be inferred
+and deduced after the same manner.--BARROW, ISAAC.
+
+                         _Mathematical Lectures (London, 1734),
+                         p. 66._
+
+
+=214.= The dexterous management of terms and being able to _fend_
+and _prove_ with them, I know has and does pass in the world for
+a great part of learning; but it is learning distinct from
+knowledge, for knowledge consists only in perceiving the
+habitudes and relations of ideas one to another, which is done
+without words; the intervention of sounds helps nothing to it.
+And hence we see that there is least use of distinction where
+there is most knowledge: I mean in mathematics, where men have
+determined ideas with known names to them; and so, there being no
+room for equivocations, there is no need of distinctions.
+
+                                                   --LOCKE, JOHN.
+
+                         _Conduct of the Understanding, Sect.
+                         31._
+
+
+=215.= In mathematics it [sophistry] had no place from the
+beginning: Mathematicians having had the wisdom to define
+accurately the terms they use, and to lay down, as axioms, the
+first principles on which their reasoning is grounded. Accordingly
+we find no parties among mathematicians, and hardly any disputes.
+
+                                                   --REID, THOMAS.
+
+                         _Essays on the Intellectual Powers of
+                         Man, Essay 1, chap. 1._
+
+
+=216.= In most sciences one generation tears down what another
+has built and what one has established another undoes. In
+Mathematics alone each generation builds a new story to the old
+structure.--HANKEL, HERMANN.
+
+                         _Die Entwickelung der Mathematik in den
+                         letzten Jahrhunderten (Tuebingen, 1884),
+                         p. 25._
+
+
+=217.= Mathematics, the priestess of definiteness and
+clearness.--HERBART, J. F.
+
+                         _Werke [Kehrbach] (Langensalza, 1890),
+                         Bd. 1, p. 171._
+
+
+=218.= ... mathematical analysis is co-extensive with nature
+itself, it defines all perceivable relations, measures times,
+spaces, forces, temperatures; it is a difficult science which
+forms but slowly, but preserves carefully every principle once
+acquired; it increases and becomes stronger incessantly amidst
+all the changes and errors of the human mind.
+
+Its chief attribute is clearness; it has no means for expressing
+confused ideas. It compares the most diverse phenomena and
+discovers the secret analogies which unite them. If matter
+escapes us, as that of air and light because of its extreme
+tenuity, if bodies are placed far from us in the immensity of
+space, if man wishes to know the aspect of the heavens at
+successive periods separated by many centuries, if gravity and
+heat act in the interior of the solid earth at depths which will
+forever be inaccessible, mathematical analysis is still able to
+trace the laws of these phenomena. It renders them present and
+measurable, and appears to be the faculty of the human mind
+destined to supplement the brevity of life and the imperfection
+of the senses, and what is even more remarkable, it follows the
+same course in the study of all phenomena; it explains them in
+the same language, as if in witness to the unity and simplicity
+of the plan of the universe, and to make more manifest the
+unchangeable order which presides over all natural causes.
+
+                                                    --FOURIER, J.
+
+                         _Theorie Analytique de la Chaleur,
+                         Discours Preliminaire._
+
+
+=219.= Let us now declare the means whereby our understanding can
+rise to knowledge without fear of error. There are two such
+means: intuition and deduction. By intuition I mean not the
+varying testimony of the senses, nor the deductive judgment of
+imagination naturally extravagant, but the conception of an
+attentive mind so distinct and so clear that no doubt remains to
+it with regard to that which it comprehends; or, what amounts to
+the same thing, the self-evidencing conception of a sound and
+attentive mind, a conception which springs from the light of
+reason alone, and is more certain, because more simple, than
+deduction itself....
+
+It may perhaps be asked why to intuition we add this other mode
+of knowing, by deduction, that is to say, the process which, from
+something of which we have certain knowledge, draws consequences
+which necessarily follow therefrom. But we are obliged to admit
+this second step; for there are a great many things which,
+without being evident of themselves, nevertheless bear the
+marks of certainty if only they are deduced from true and
+incontestable principles by a continuous and uninterrupted
+movement of thought, with distinct intuition of each thing; just
+as we know that the last link of a long chain holds to the first,
+although we can not take in with one glance of the eye the
+intermediate links, provided that, after having run over them in
+succession, we can recall them all, each as being joined to its
+fellows, from the first up to the last. Thus we distinguish
+intuition from deduction, inasmuch as in the latter case there is
+conceived a certain progress or succession, while it is not so in
+the former;... whence it follows that primary propositions,
+derived immediately from principles, may be said to be known,
+according to the way we view them, now by intuition, now by
+deduction; although the principles themselves can be known only
+by intuition, the remote consequences only by deduction.
+
+                                                      --DESCARTES.
+
+                         _Rules for the Direction of the Mind,
+                         Philosophy of D. [Torrey] (New York,
+                         1892), pp. 64, 65._
+
+
+=220.= Analysis and natural philosophy owe their most important
+discoveries to this fruitful means, which is called induction.
+Newton was indebted to it for his theorem of the binomial and the
+principle of universal gravity.--LAPLACE.
+
+                         _A Philosophical Essay on Probabilities
+                         [Truscott and Emory] (New York 1902), p.
+                         176._
+
+
+=221.= There is in every step of an arithmetical or algebraical
+calculation a real induction, a real inference from facts to facts,
+and what disguises the induction is simply its comprehensive
+nature, and the consequent extreme generality of its language.
+
+                                                     --MILL, J. S.
+
+                         _System of Logic, Bk. 2, chap. 6, 2._
+
+
+=222.= It would appear that Deductive and Demonstrative Sciences
+are all, without exception, Inductive Sciences: that their
+evidence is that of experience, but that they are also, in virtue
+of the peculiar character of one indispensable portion of the
+general formulae according to which their inductions are made,
+Hypothetical Sciences. Their conclusions are true only upon
+certain suppositions, which are, or ought to be, approximations
+to the truth, but are seldom, if ever, exactly true; and to this
+hypothetical character is to be ascribed the peculiar certainty,
+which is supposed to be inherent in demonstration.--MILL, J. S.
+
+                         _System of Logic, Bk. 2, chap. 6, 1._
+
+
+=223.= The peculiar character of mathematical truth is, that it
+is necessarily and inevitably true; and one of the most important
+lessons which we learn from our mathematical studies is a
+knowledge that there are such truths, and a familiarity with
+their form and character.
+
+This lesson is not only lost, but read backward, if the student
+is taught that there is no such difference, and that mathematical
+truths themselves are learned by experience.--WHEWELL, W.
+
+                         _Thoughts on the Study of Mathematics.
+                         Principles of English University
+                         Education (London, 1838)._
+
+
+=224.= These sciences, Geometry, Theoretical Arithmetic and Algebra,
+have no principles besides definitions and axioms, and no process
+of proof but _deduction_; this process, however, assuming a most
+remarkable character; and exhibiting a combination of simplicity
+and complexity, of rigour and generality, quite unparalleled in
+other subjects.--WHEWELL, W.
+
+                         _The Philosophy of the Inductive
+                         Sciences, Part 1, Bk. 2, chap. 1, sect.
+                         2 (London, 1858)._
+
+
+=225.= The apodictic quality of mathematical thought, the certainty
+and correctness of its conclusions, are due, not to a special mode
+of ratiocination, but to the character of the concepts with which
+it deals. What is that distinctive characteristic? I answer:
+_precision_, _sharpness_, _completeness_,[1] of definition. But
+how comes your mathematician by such completeness? There is no
+mysterious trick involved; some ideas admit of such precision,
+others do not; and the mathematician is one who deals with those
+that do.--KEYSER, C. J.
+
+                         _The Universe and Beyond; Hibbert
+                         Journal, Vol. 3 (1904-1905), p. 309._
+
+    [1]  i.e., in terms of the absolutely clear and
+         _in_definable.
+
+
+=226.= The reasoning of mathematicians is founded on certain and
+infallible principles. Every word they use conveys a determinate
+idea, and by accurate definitions they excite the same ideas in
+the mind of the reader that were in the mind of the writer. When
+they have defined the terms they intend to make use of, they
+premise a few axioms, or self-evident principles, that every one
+must assent to as soon as proposed. They then take for granted
+certain postulates, that no one can deny them, such as, that a
+right line may be drawn from any given point to another, and from
+these plain, simple principles they have raised most astonishing
+speculations, and proved the extent of the human mind to be more
+spacious and capacious than any other science.--ADAMS, JOHN.
+
+                         _Diary, Works (Boston, 1850), Vol. 2, p.
+                         21._
+
+
+=227.= It may be observed of mathematicians that they only meddle
+with such things as are certain, passing by those that are
+doubtful and unknown. They profess not to know all things,
+neither do they affect to speak of all things. What they know to
+be true, and can make good by invincible arguments, that they
+publish and insert among their theorems. Of other things they
+are silent and pass no judgment at all, choosing rather to
+acknowledge their ignorance, than affirm anything rashly. They
+affirm nothing among their arguments or assertions which is not
+most manifestly known and examined with utmost rigour, rejecting
+all probable conjectures and little witticisms. They submit
+nothing to authority, indulge no affection, detest subterfuges of
+words, and declare their sentiments, as in a court of justice,
+_without passion, without apology_; knowing that their reasons,
+as Seneca testifies of them, are not brought to _persuade_, but
+to compel.--BARROW, ISAAC.
+
+                         _Mathematical Lectures (London, 1734),
+                         p. 64._
+
+
+=228.= What is exact about mathematics but exactness? And is not
+this a consequence of the inner sense of truth?--GOETHE.
+
+                         _Sprueche in Prosa, Natur, 6, 948._
+
+
+=229.= ... the three positive characteristics that distinguish
+mathematical knowledge from other knowledge ... may be briefly
+expressed as follows: first, mathematical knowledge bears more
+distinctly the imprint of truth on all its results than any other
+kind of knowledge; secondly, it is always a sure preliminary step
+to the attainment of other correct knowledge; thirdly, it has no
+need of other knowledge.--SCHUBERT, H.
+
+                         _Mathematical Essays and Recreations
+                         (Chicago, 1898), p. 35._
+
+
+=230.= It is now necessary to indicate more definitely the reason
+why mathematics not only carries conviction in itself, but also
+transmits conviction to the objects to which it is applied. The
+reason is found, first of all, in the perfect precision with
+which the elementary mathematical concepts are determined; in
+this respect each science must look to its own salvation.... But
+this is not all. As soon as human thought attempts long chains of
+conclusions, or difficult matters generally, there arises not
+only the danger of error but also the suspicion of error, because
+since all details cannot be surveyed with clearness at the same
+instant one must in the end be satisfied with a _belief_ that
+nothing has been overlooked from the beginning. Every one knows
+how much this is the case even in arithmetic, the most elementary
+use of mathematics. No one would imagine that the higher parts of
+mathematics fare better in this respect; on the contrary, in more
+complicated conclusions the uncertainty and suspicion of hidden
+errors increases in rapid progression. How does mathematics
+manage to rid itself of this inconvenience which attaches to it
+in the highest degree? By making proofs more rigorous? By giving
+new rules according to which the old rules shall be applied? Not
+in the least. A very great uncertainty continues to attach to the
+result of each single computation. But there are checks. In the
+realm of mathematics each point may be reached by a hundred
+different ways; and if each of a hundred ways leads to the same
+point, one may be sure that the right point has been reached. A
+calculation without a check is as good as none. Just so it is
+with every isolated proof in any speculative science whatever;
+the proof may be ever so ingenious, and ever so perfectly true
+and correct, it will still fail to convince permanently. He will
+therefore be much deceived, who, in metaphysics, or in psychology
+which depends on metaphysics, hopes to see his greatest care in
+the precise determination of the concepts and in the logical
+conclusions rewarded by conviction, much less by success in
+transmitting conviction to others. Not only must the conclusions
+support each other, without coercion or suspicion of subreption,
+but in all matters originating in experience, or judging
+concerning experience, the results of speculation must be
+verified by experience, not only superficially, but in countless
+special cases.--HERBART, J. F.
+
+                         _Werke [Kehrbach] (Langensalza, 1890),
+                         Bd. 5, p. 105._
+
+
+=231.= [In mathematics] we behold the conscious logical activity
+of the human mind in its purest and most perfect form. Here we
+learn to realize the laborious nature of the process, the great
+care with which it must proceed, the accuracy which is necessary
+to determine the exact extent of the general propositions arrived
+at, the difficulty of forming and comprehending abstract concepts;
+but here we learn also to place confidence in the certainty, scope
+and fruitfulness of such intellectual activity.--HELMHOLTZ, H.
+
+                         _Ueber das Verhaeltniss der
+                         Naturwissenschaften zur Gesammtheit der
+                         Wissenschaft, Vortraege und Reden, Bd. 1
+                         (1896), p. 176._
+
+
+=232.= It is true that mathematics, owing to the fact that its
+whole content is built up by means of purely logical deduction
+from a small number of universally comprehended principles,
+has not unfittingly been designated as the science of the
+_self-evident_ [Selbstverstaendlichen]. Experience however, shows
+that for the majority of the cultured, even of scientists,
+mathematics remains the science of the _incomprehensible_
+[Unverstaendlichen].--PRINGSHEIM, ALFRED.
+
+                         _Ueber Wert und angeblichen Unwert der
+                         Mathematik, Jahresbericht der Deutschen
+                         Mathematiker Vereinigung (1904), p.
+                         357._
+
+
+=233.= Mathematical reasoning is deductive in the sense that it
+is based upon definitions which, as far as the validity of the
+reasoning is concerned (apart from any existential import), needs
+only the test of self-consistency. Thus no external verification
+of definitions is required in mathematics, as long as it is
+considered merely as mathematics.--WHITEHEAD, A. N.
+
+                         _Universal Algebra (Cambridge, 1898),
+                         Preface, p. vi._
+
+
+=234.= The mathematician pays not the least regard either to
+testimony or conjecture, but deduces everything by demonstrative
+reasoning, from his definitions and axioms. Indeed, whatever is
+built upon conjecture, is improperly called science; for
+conjecture may beget opinion, but cannot produce knowledge.
+
+                                                  --REID, THOMAS.
+
+                         _Essays on the Intellectual Powers of
+                         Man, Essay 1, chap. 3._
+
+
+=235.= ... for the saving the long progression of the thoughts to
+remote and first principles in every case, the mind should
+provide itself several stages; that is to say, intermediate
+principles, which it might have recourse to in the examining
+those positions that come in its way. These, though they are not
+self-evident principles, yet, if they have been made out from
+them by a wary and unquestionable deduction, may be depended on
+as certain and infallible truths, and serve as unquestionable
+truths to prove other points depending upon them, by a nearer and
+shorter view than remote and general maxims.... And thus
+mathematicians do, who do not in every new problem run it back to
+the first axioms through all the whole train of intermediate
+propositions. Certain theorems that they have settled to
+themselves upon sure demonstration, serve to resolve to them
+multitudes of propositions which depend on them, and are as
+firmly made out from thence as if the mind went afresh over every
+link of the whole chain that tie them to first self-evident
+principles.--LOCKE, JOHN.
+
+                         _The Conduct of the Understanding, Sect.
+                         21._
+
+
+=236.= Those intervening ideas, which serve to show the agreement
+of any two others, are called _proofs_; and where the agreement or
+disagreement is by this means plainly and clearly perceived, it is
+called _demonstration_; it being _shown_ to the understanding, and
+the mind made to see that it is so. A quickness in the mind to
+find out these intermediate ideas, (that shall discover the
+agreement or disagreement of any other) and to apply them right,
+is, I suppose, that which is called _sagacity_.--LOCKE, JOHN.
+
+                         _An Essay concerning Human
+                         Understanding, Bk. 6, chaps. 2, 3._
+
+
+=237.= ... the speculative propositions of mathematics do not
+relate to _facts_; ... all that we are convinced of by any
+demonstration in the science, is of a necessary connection
+subsisting between certain suppositions and certain conclusions.
+When we find these suppositions actually take place in a
+particular instance, the demonstration forces us to apply the
+conclusion. Thus, if I could form a triangle, the three sides of
+which were accurately mathematical lines, I might affirm of this
+individual figure, that its three angles are equal to two right
+angles; but, as the imperfection of my senses puts it out of my
+power to be, in any case, _certain_ of the exact correspondence
+of the diagram which I delineate, with the definitions given in
+the elements of geometry, I never can apply with confidence to a
+particular figure, a mathematical theorem. On the other hand, it
+appears from the daily testimony of our senses that the
+speculative truths of geometry may be applied to material objects
+with a degree of accuracy sufficient for the purposes of life;
+and from such applications of them, advantages of the most
+important kind have been gained to society.--STEWART, DUGALD.
+
+                         _Elements of the Philosophy of the Human
+                         Mind, Part 3, chap. 1, sect. 3._
+
+
+=238.= No process of sound reasoning can establish a result not
+contained in the premises.--MELLOR, J. W.
+
+                         _Higher Mathematics for Students of
+                         Chemistry and Physics (New York, 1902),
+                         p. 2._
+
+
+=239.= ... we cannot get more out of the mathematical mill than
+we put into it, though we may get it in a form infinitely more
+useful for our purpose.--HOPKINSON, JOHN.
+
+                         _James Forrest Lecture, 1894._
+
+
+=240.= The iron labor of conscious logical reasoning demands
+great perseverance and great caution; it moves on but slowly, and
+is rarely illuminated by brilliant flashes of genius. It knows
+little of that facility with which the most varied instances come
+thronging into the memory of the philologist or historian. Rather
+is it an essential condition of the methodical progress of
+mathematical reasoning that the mind should remain concentrated
+on a single point, undisturbed alike by collateral ideas on the
+one hand, and by wishes and hopes on the other, and moving on
+steadily in the direction it has deliberately chosen.
+
+                                                  --HELMHOLTZ, H.
+
+                         _Ueber das Verhaeltniss der
+                         Naturwissenschaften zur Gesammtheit der
+                         Wissenschaft, Vortraege und Reden, Bd. 1
+                         (1896), p. 178._
+
+
+=241.= If it were always necessary to reduce everything to
+intuitive knowledge, demonstration would often be insufferably
+prolix. This is why mathematicians have had the cleverness to
+divide the difficulties and to demonstrate separately the
+intervening propositions. And there is art also in this; for as
+the mediate truths (which are called _lemmas_, since they appear
+to be a digression) may be assigned in many ways, it is well, in
+order to aid the understanding and memory, to choose of them
+those which greatly shorten the process, and appear memorable and
+worthy in themselves of being demonstrated. But there is another
+obstacle, viz.: that it is not easy to demonstrate all the
+axioms, and to reduce demonstrations wholly to intuitive
+knowledge. And if we had chosen to wait for that, perhaps we
+should not yet have the science of geometry.--LEIBNITZ, G. W.
+
+                         _New Essay on Human Understanding
+                         [Langley], Bk. 4, chaps. 2, 8._
+
+
+=242.= In Pure Mathematics, where all the various truths are
+necessarily connected with each other, (being all necessarily
+connected with those _hypotheses_ which are the principles of the
+science), an arrangement is beautiful in proportion as the
+principles are few; and what we admire perhaps chiefly in the
+science, is the astonishing variety of consequences which may be
+demonstrably deduced from so small a number of premises.
+
+                                               --STEWART, DUGALD.
+
+                         _The Elements of the Philosophy of the
+                         Human Mind, Part 3, chap. 1, sect. 3._
+
+
+=243.= Whenever ... a controversy arises in mathematics, the
+issue is not whether a thing is true or not, but whether the
+proof might not be conducted more simply in some other way, or
+whether the proposition demonstrated is sufficiently important
+for the advancement of the science as to deserve especial
+enunciation and emphasis, or finally, whether the proposition is
+not a special case of some other and more general truth which is
+as easily discovered.--SCHUBERT, H.
+
+                         _Mathematical Essays and Recreations
+                         (Chicago, 1898), p. 28._
+
+
+=244.= ... just as the astronomer, the physicist, the geologist,
+or other student of objective science looks about in the world of
+sense, so, not metaphorically speaking but literally, the mind of
+the mathematician goes forth in the universe of logic in quest of
+the things that are there; exploring the heights and depths for
+facts--ideas, classes, relationships, implications, and the rest;
+observing the minute and elusive with the powerful microscope of
+his Infinitesimal Analysis; observing the elusive and vast with
+the limitless telescope of his Calculus of the Infinite; making
+guesses regarding the order and internal harmony of the data
+observed and collocated; testing the hypotheses, not merely by
+the complete induction peculiar to mathematics, but, like his
+colleagues of the outer world, resorting also to experimental tests
+and incomplete induction; frequently finding it necessary, in view
+of unforeseen disclosures, to abandon one hopeful hypothesis or to
+transform it by retrenchment or by enlargement:--thus, in his own
+domain, matching, point for point, the processes, methods and
+experience familiar to the devotee of natural science.
+
+                                              --KEYSER, CASSIUS J.
+
+                         _Lectures on Science, Philosophy and Art
+                         (New York, 1908), p. 26._
+
+
+=245.= That mathematics "do not cultivate the power of
+generalization," ... will be admitted by no person of competent
+knowledge, except in a very qualified sense. The generalizations
+of mathematics, are, no doubt, a different thing from the
+generalizations of physical science; but in the difficulty of
+seizing them, and the mental tension they require, they are no
+contemptible preparation for the most arduous efforts of the
+scientific mind. Even the fundamental notions of the higher
+mathematics, from those of the differential calculus upwards are
+products of a very high abstraction.... To perceive the
+mathematical laws common to the results of many mathematical
+operations, even in so simple a case as that of the binomial
+theorem, involves a vigorous exercise of the same faculty which
+gave us Kepler's laws, and rose through those laws to the theory
+of universal gravitation. Every process of what has been called
+Universal Geometry--the great creation of Descartes and his
+successors, in which a single train of reasoning solves whole
+classes of problems at once, and others common to large groups
+of them--is a practical lesson in the management of wide
+generalizations, and abstraction of the points of agreement from
+those of difference among objects of great and confusing
+diversity, to which the purely inductive sciences cannot furnish
+many superior. Even so elementary an operation as that of
+abstracting from the particular configuration of the triangles or
+other figures, and the relative situation of the particular lines
+or points, in the diagram which aids the apprehension of a common
+geometrical demonstration, is a very useful, and far from being
+always an easy, exercise of the faculty of generalization so
+strangely imagined to have no place or part in the processes of
+mathematics.--MILL, JOHN STUART.
+
+                         _An Examination of Sir William
+                         Hamilton's Philosophy (London, 1878),
+                         pp. 612, 613._
+
+
+=246.= When the greatest of American logicians, speaking of the
+powers that constitute the born geometrician, had named
+Conception, Imagination, and Generalization, he paused. Thereupon
+from one of the audience there came the challenge, "What of
+reason?" The instant response, not less just than brilliant, was:
+"Ratiocination--that is but the smooth pavement on which the

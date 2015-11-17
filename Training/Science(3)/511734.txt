@@ -1,0 +1,438 @@
+stopped when we commence to look in the direction of such a theory with the
+cynical question, What do you mean by explaining a property of matter? As
+to being stopped by any such question, all I can say is that if engineering
+were to be all and to end all physical science, we should perforce be
+content with merely finding properties of matter by observation, and using
+them for practical purposes. But I am sure very few, if any, engineers are
+practically satisfied with so narrow a view of their noble profession. They
+must and do patiently observe, and discover by observation, properties of
+matter and results of material combinations. But deeper questions are
+always present, and always fraught with interest to the true engineer, and
+he will be the last to give weight to any other objection to any attempt to
+see below the surface of things than the practical question, Is it likely
+to prove wholly futile? But now, instead of imagining the question, What do
+you mean by explaining a property of matter? to be put cynically, and
+letting ourselves be irritated by it, suppose we give to the questioner
+credit for being sympathetic, and condescend to try and answer his
+question. We find it not very easy to do so. All the properties of matter
+are so connected that we can scarcely imagine one _thoroughly explained_
+without our seeing its relation to all the others, without in fact having
+the explanation of all; and till we have this we cannot tell what we mean
+by "explaining a property" or "explaining the properties" of matter. But
+though this consummation may never be reached by man, the progress of
+science may be, I believe will be, step by step toward it, on many
+different roads converging toward it from all sides. The kinetic theory of
+gases is, as I have said, a true step on one of the roads. On the very
+distinct road of chemical science, St. Claire Deville arrived at his grand
+theory of dissociation without the slightest aid from the kinetic theory of
+gases. The fact that he worked it out solely from chemical observation and
+experiment, and expounded it to the world without any hypothesis whatever,
+and seemingly even without consciousness of the beautiful explanation it
+has in the kinetic theory of gases, secured for it immediately an
+independent solidity and importance as a chemical theory when he first
+promulgated it, to which it might even by this time scarcely have attained
+if it had first been suggested as a probability indicated by the kinetic
+theory of gases, and been only afterward confirmed by observation. Now,
+however, guided by the views which Clausius and Williamson have given us of
+the continuous interchange of partners between the compound molecules
+constituting chemical compounds in the gaseous state, we see in Deville's
+theory of dissociation a point of contact of the most transcendent interest
+between the chemical and physical lines of scientific progress.
+
+To return to elasticity: if we could make out of matter devoid of
+elasticity a combined system of relatively moving parts which, in virtue of
+motion, has the essential characteristics of an elastic body, this would
+surely be, if not positively a step in the kinetic theory of matter, at
+least a fingerpost pointing a way which we may hope will lead to a kinetic
+theory of matter. Now this, as I have already shown,[1] we can do in
+several ways. In the case of the last of the communications referred to, of
+which only the title has hitherto been published, I showed that, from the
+mathematical investigation of a gyrostatically dominated combination
+contained in the passage of Thomson and Tait's "Natural Philosophy"
+referred to, it follows that any ideal system of material particles, acting
+on one another mutually through massless connecting springs, may be
+perfectly imitated in a model consisting of rigid links jointed together,
+and having rapidly rotating fly wheels pivoted on some or on all of the
+links. The imitation is not confined to cases of equilibrium. It holds also
+for vibration produced by disturbing the system infinitesimally from a
+position of stable equilibrium and leaving it to itself. Thus we may make a
+gyrostatic system such that it is in equilibrium under the influence of
+certain positive forces applied to different points of this system; all the
+forces being precisely the same as, and the points of application similarly
+situated to, those of the stable system with springs. Then, provided proper
+masses (that is to say, proper amounts and distributions of inertia) be
+attributed to the links, we may remove the external forces from each
+system, and the consequent vibration of the points of application of the
+forces will be identical. Or we may act upon the systems of material points
+and springs with any given forces for any given time, and leave it to
+itself, and do the same thing for the gyrostatic system; the consequent
+motion will be the same in the two cases. If in the one case the springs
+are made more and more stiff, and in the other case the angular velocities
+of the fly wheels are made greater and greater, the periods of the
+vibrational constituents of the motion will become shorter and shorter, and
+the amplitudes smaller and smaller, and the motions will approach more and
+more nearly those of two perfectly rigid groups of material points moving
+through space and rotating according to the well known mode of rotation of
+a rigid body having unequal moments of inertia about its three principal
+axes. In one case the ideal nearly rigid connection between the particles
+is produced by massless, exceedingly stiff springs; in the other case it is
+produced by the exceedingly rapid rotation of the fly wheels in a system
+which, when the fly wheels are deprived of their rotation, is perfectly
+limp.
+
+[Footnote 1: Paper on "Vortex Atoms," _Proc_. R.S.E. February. 1867:
+abstract of a lecture before the Royal Institution of Great Britain, March
+4, 1881, on "Elasticity Viewed as possibly a Mode of Motion"; Thomson and
+Tait's "Natural Philosophy," second edition, part 1, Sec.Sec. 345 viii. to 345
+xxxvii.; "On Oscillation and Waves in an Adynamic Gyrostatic System" (title
+only), _Proc_. R.S.E. March, 1883.]
+
+The drawings (Figs. 1 and 2) before you illustrate two such material
+systems.[1] The directions of rotation of the fly-wheels in the gyrostatic
+system (Fig. 2) are indicated by directional ellipses, which show in
+perspective the direction of rotation of the fly-wheel of each gyrostat.
+The gyrostatic system (Fig. 2) might have been constituted of two
+gyrostatic members, but four are shown for symmetry. The inclosing circle
+represents in each case in section an inclosing spherical shell to prevent
+the interior from being seen. In the inside of one there are fly-wheels, in
+the inside of the other a massless spring. The projecting hooked rods seem
+as if they are connected by a spring in each case. If we hang any one of
+the systems up by the hook on one of its projecting rods, and hang a weight
+to the hook of the other projecting rod, the weight, when first put on,
+will oscillate up and down, and will go on doing so for ever if the system
+be absolutely unfrictional. If we check the vibration by hand, the weight
+will hang down at rest, the pin drawn out to a certain degree; and the
+distance drawn out will be simply proportional to the weight hung on, as in
+an ordinary spring balance.
+
+[Footnote 1: In Fig. 1 the two hooked rods seen projecting from the sphere
+are connected by an elastic coach-spring. In Fig. 2 the hooked rods are
+connected one to each of two opposite corners of a four-sided jointed
+frame, each member of which carries a gyrostat so that the axis of rotation
+of the fly-wheel is in the axis of the member of the frame which bears it.
+Each of the hooked rods in Fig. 2 is connected to the framework through a
+swivel joint, so that the whole gyrostatic framework may be rotated about
+the axis of the hooked rods in order to annul the moment of momentum of the
+framework about this axis due to rotation of the fly-wheels in the
+gyrostat.]
+
+[Illustration: FIG. 1]
+
+[Illustration: FIG. 2]
+
+Here, then, out of matter possessing rigidity, but absolutely devoid of
+elasticity, we have made a perfect model of a spring in the form of a
+spring balance. Connect millions of millions of particles by pairs of rods
+such as these of this spring balance, and we have a group of particles
+constituting an elastic solid; exactly fulfilling the mathematical ideal
+worked out by Navier, Poisson, and Cauchy, and many other mathematicians,
+who, following their example, have endeavored to found a theory of the
+elasticity of solids on mutual attraction and repulsion between a group of
+material particles. All that can possibly be done by this theory, with its
+assumption of forces acting according to any assumed law of relation to
+distance, is done by the gyrostatic system. But the gyrostatic system does,
+besides, what the system of naturally acting material particles cannot
+do--it constitutes an elastic solid which can have the Faraday
+magneto-optic rotation of the plane of polarization of light; supposing the
+application of our solid to be a model of the luminiferous ether for
+illustrating the undulatory theory of light. The gyrostatic model spring
+balance is arranged to have zero moment of momentum as a whole, and
+therefore to contribute nothing to the Faraday rotation; with this
+arrangement the model illustrates the luminiferous ether in a field
+unaffected by magnetic force. But now let there be a different rotational
+velocity imparted to the jointed square round the axis of the two
+projecting hooked rods, such as to give a resultant moment of momentum
+round any given line through the center of inertia of the system; and let
+pairs of the hooked rods in the model thus altered, which is no longer a
+model of a mere spring balance, be applied as connections between millions
+of pairs of particles as before, with the lines of resultant moment of
+momentum all similarly directed. We now have a model elastic solid which
+will have the property that the direction of vibration in waves of
+rectilinear vibrations propagated through it shall turn round the line of
+propagation of the waves, just as Faraday's observation proves to be done
+by the line of vibration of light in a dense medium between the poles of a
+powerful magnet. The case of wave front perpendicular to the lines of
+resultant moment of momentum (that is to say, the direction of propagation
+being parallel to these lines) corresponds, in our mechanical model, to the
+case of light traveling in the direction of the lines of force in a
+magnetic field.
+
+In these illustrations and models we have different portions of ideal rigid
+matter acting upon one another, by normal pressure at mathematical points
+of contact--of course no forces of friction are supposed. It is exceedingly
+interesting to see how thus, with no other postulates than inertia,
+rigidity, and mutual impenetrability, we can thoroughly model not only an
+elastic solid, and any combination of elastic solids, but so complex and
+recondite a phenomenon as the passage of polarized light through a magnetic
+field. But now, with the view of ultimately discarding the postulate of
+rigidity from all our materials, let us suppose some to be absolutely
+destitute of rigidity, and to possess merely inertia and incompressibility,
+and mutual impenetrability with reference to the still remaining rigid
+matter. With these postulates we can produce a perfect model of mutual
+action at a distance between solid particles, fulfilling the condition, so
+keenly desired by Newton and Faraday, of being explained by continuous
+action through an intervening medium. The law of the mutual force in our
+model, however, is not the simple Newtonian law, but the much more complex
+law of the mutual action between electro magnets--with this difference,
+that in the hydro-kinetic model in every case the force is opposite in
+direction to the corresponding force in the electro-magnetic analogue.
+Imagine a solid bored through with a hole, and placed in our ideal perfect
+liquid. For a moment let the hole be stopped by a diaphragm, and let an
+impulsure pressure be applied for an instant uniformly over the whole
+membrane, and then instantly let the membrane be dissolved into liquid.
+This action originates a motion of the liquid relatively to the solid, of a
+kind to which I have given the name of "irrotational circulation," which
+remains absolutely constant however the solid be moved through the liquid.
+Thus, at any time the actual motion of the liquid at any point in the
+neighborhood of the solid will be the resultant of the motion it would have
+in virtue of the circulation alone, were the solid at rest, and the motion
+it would have in virtue of the motion of the solid itself, had there been
+no circulation established through the aperture. It is interesting and
+important to remark in passing that the whole kinetic energy of the liquid
+is the sum of the kinetic energies which it would have in the two cases
+separately. Now, imagine the whole liquid to be inclosed in an infinitely
+large, rigid, containing vessel, and in the liquid, at an infinite distance
+from any part of the containing vessel, let two perforated solids, with
+irrotational circulation through each, be placed at rest near one another.
+The resultant fluid motion due to the two circulations, will give rise to
+fluid pressure on the two bodies, which, if unbalanced, will cause them to
+move. The force systems--force-and-torques, or pairs of forces--required to
+prevent them from moving will be mutual and opposite, and will be the same
+as, but opposite in direction to, the mutual force systems required to hold
+at rest two electromagnets fulfilling the following specification: The two
+electro magnets are to be of the same shape and size as the two bodies, and
+to be placed in the same relative positions, and to consist of infinitely
+thin layers of electric currents in the surfaces of solids possessing
+extreme diamagnetic quality--in other words, infinitely small permeability.
+The distribution of electric current on each body may be any whatever which
+fulfills the condition that the total current across any closed line drawn
+on the surface once through the aperture is equal to 1/4 [pi] of the
+circulation[1] through the aperture in the hydro-kinetic analogue.
+
+[Footnote 1: The integral of tangential component velocity all round any
+closed curve, passing once through the aperture, is defined as the
+"cyclic-constant" or the "circulation" ("Vortex Motion," Sec. 60 (a), _Trans_.
+R.S.E., April 29, 1867). It has the same value for all closed curves
+passing just once through the aperture, and it remains constant through all
+time, whether the solid body be in motion or at rest.]
+
+It might be imagined that the action at a distance thus provided for by
+fluid motion could serve as a foundation for a theory of the equilibrium,
+and the vibrations, of elastic solids, and the transmission of waves like
+those of light through an extended quasi-elastic solid medium. But
+unfortunately for this idea the equilibrium is essentially unstable, both
+in the case of magnets and, notwithstanding the fact that the forces are
+oppositely directed, in the hydro-kinetic analogue also, when the several
+movable bodies (two or any greater number) are so placed relatively as to
+be in equilibrium. If, however, we connect the perforated bodies with
+circulation through them in the hydro-kinetic system, by jointed rigid
+connecting links, we may arrange for configurations of stable equilibrium.
+Thus, without fly-wheels, but with fluid circulations through apertures, we
+may make a model spring balance or a model luminiferous ether, either
+without or with the rotational quality corresponding to that of the true
+luminiferous ether in the magnetic fluid--in short, do all by the
+perforated solids with circulations through them that we saw we could do by
+means of linked gyrostats. But something that we cannot do by linked
+gyrostats we can do by the perforated bodies with fluid circulation: we can
+make a model gas. The mutual action at a distance, repulsive or attractive
+according to the mutual aspect of the two bodies when passing within
+collisional distance[1] of one another, suffices to produce the change of
+direction of motion in collision, which essentially constitutes the
+foundation of the kinetic theory of gases, and which, as we have seen
+before, may as well be due to attraction as to repulsion, so far as we know
+from any investigation hitherto made in this theory.
+
+[Footnote 1: According to this view, there is no precise distance, or
+definite condition respecting the distance, between two molecules, at which
+apparently they come to be in collision, or when receding from one another
+they cease to be in collision. It is convenient, however, in the kinetic
+theory of gases, to adopt arbitrarily a precise definition of collision,
+according to which two bodies or particles mutually acting at a distance
+may be said to be in collision when their mutual action exceeds some
+definite arbitrarily assigned limit, as, for example, when the radius of
+curvature of the path of either body is less than a stated fraction (one
+one-hundredth, for instance) of the distance between them.]
+
+There remains, however, as we have seen before, the difficulty of providing
+for the case of actual impacts between the solids, which must be done by
+giving them massless spring buffers or, which amounts to the same thing,
+attributing to them repulsive forces sufficiently powerful at very short
+distances to absolutely prevent impacts between solid and solid; unless we
+adopt the equally repugnant idea of infinitely small perforated solids,
+with infinitely great fluid circulations through them. Were it not for this
+fundamental difficulty, the hydro-kinetic model gas would be exceedingly
+interesting; and, though we could scarcely adopt it as conceivably a true
+representation of what gases really are, it might still have some
+importance as a model configuration of solid and liquid matter, by which
+without elasticity the elasticity of true gas might be represented.
+
+But lastly, since the hydro-kinetic model gas with perforated solids and
+fluid circulations through them fails because of the impacts between the
+solids, let us annul the solids and leave the liquid performing
+irrotational circulation round vacancy,[1] in the place of the solid cores
+which we have hitherto supposed; or let us annul the rigidity of the solid
+cores of the rings, and give them molecular rotation according to
+Helmholtz's theory of vortex motion. For stability the molecular rotation
+must be such as to give the same velocity at the boundary of the rotational
+fluid core as that of the irrotationally circulating liquid in contact with
+it, because, as I have proved, frictional slip between two portions of
+liquid in contact is inconsistent with stability. There is a further
+condition, upon which I cannot enter into detail just now, but which may be
+understood in a general way when I say that it is a condition of either
+uniform or of increasing molecular rotation from the surface inward,
+analogous to the condition that the density of a liquid, resting for
+example under the influence of gravity, must either be uniform or must be
+greater below than above for stability of equilibrium. All that I have said
+in favor of the model vortex gas composed of perforated solids with fluid
+circulations through them holds without modification for the purely
+hydro-kinetic model, composed of either Helmholtz cored vortex rings or of
+coreless vortices, and we are now troubled with no such difficulty as that
+of the impacts between solids. Whether, however, when the vortex theory of
+gases is thoroughly worked out, it will or will not be found to fail in a
+manner analogous to the failure which I have already pointed out in
+connection with the kinetic theory of gases composed of little elastic
+solid molecules, I cannot at present undertake to speak with certainty. It
+seems to me most probable that the vortex theory cannot fail in any such
+way, because all I have been able to find out hitherto regarding the
+vibration of vortices,[2] whether cored or coreless, does not seem to imply
+the liability of translational or impulsive energies of the individual
+vortices becoming lost in energy of smaller and smaller vibrations.
+
+[Footnote 1: Investigations respecting coreless vortices will be found in a
+paper by the author, "Vibrations of a Columnar Vortex," _Proc_. R.S.E.,
+March 1, 1880; and a paper by Hicks, recently read before the Royal
+Society.]
+
+[Footnote 2: See papers by the author "On Vortex Motion." _Trans_. R.S.E.
+April, 1867, and "Vortex Statics," _Proc_. R.S.E. December, 1875; also a
+paper by J.J. Thomson, B.A., "On the Vibrations of a Vortex Ring," _Trans_.
+R.S. December, 1881, and his valuable book on "Vortex Motion."]
+
+As a step toward kinetic theory of matter, it is certainly most interesting
+to remark that in the quasi-elasticity, elasticity looking like that of an
+India-rubber band, which we see in a vibrating smoke-ring launched from an
+elliptic aperture, or in two smoke-rings which were circular, but which
+have become deformed from circularity by mutual collision, we have in
+reality a virtual elasticity in matter devoid of elasticity, and even
+devoid of rigidity, the virtual elasticity being due to motion, and
+generated by the generation of motion.
+
+       *       *       *       *       *
+
+
+
+
+APPLICATION OF ELECTRICITY TO TRAMWAYS.
+
+By M. HOLROYD SMITH.
+
+
+Last year, when I had the pleasure of reading a paper before you on my new
+system of electric tramways, I ventured to express the hope that before
+twelve months had passed, "to be able to report progress," and I am happy
+to say that notwithstanding the wearisome delay and time lost in fruitless
+negotiations, and the hundred and one difficulties within and without that
+have beset me, I am able to appear before you again and tell you of
+advance.
+
+[Illustration: FIG. 1]
+
+Practical men know well that there is a wide difference between a model and
+a full sized machine; and when I decided to construct a full sized tramcar
+and lay out a full sized track, I found it necessary to make many
+alterations of detail, my chief difficulty being so to design my work as to
+facilitate construction and allow of compensation for that inaccuracy of
+workmanship which I have come to regard as inevitable.
+
+In order to satisfy the directors of a tramway company of the practical
+nature of my system before disturbing their lines, I have laid, in a field
+near the works of Messrs. Smith, Baker & Co., Manchester, a track 110 yards
+long, 4 ft. 81/2 in. gauge, and I have constructed a full sized street
+tramcar to run thereon. My negotiations being with a company in a town
+where there are no steep gradients, and where the coefficient of friction
+of ordinary wheels would be sufficient for all tractive purposes, I thought
+it better to avoid the complication involved in employing a large central
+wheel with a broad surface specially designed for hilly districts, and with
+which I had mounted a gradient of one in sixteen.
+
+[Illustration: FIG. 2]
+
+But as the line in question was laid with all the curves unnecessarily
+quick, even those in the "pass-bies," I thought it expedient to employ
+differential gear, as illustrated at D, Fig. 1, which is a sketch plan
+showing the mechanism employed. M is a Siemens electric motor running at
+650 revolutions per minute; E is a combination of box gearing, frictional
+clutch, and chain pinion, and from this pinion a steel chain passes around
+the chain-wheel, H, which is free to revolve upon the axle, and carries
+within it the differential pinion, gearing with the bevel-wheel, B squared, keyed
+upon the sleeve of the loose tram-wheel, T squared, and with the bevel-wheel, B,
+keyed upon the axle, to which the other tram-wheel, T, is attached. To the
+other tram-wheels no gear is connected; one of them is fast to the axle,
+and the other runs loose, but to them the brake is applied in the usual
+manner.
+
+The electric current from the collector passes, by means of a copper wire,
+and a switch upon the dashboard of the car, and resistance coils placed
+under the seats, to the motor, and from the motor by means of an adjustable
+clip (illustrated in diagram, Fig. 2) to the axles, and by them through the
+four wheels to the rails, which form the return circuit.
+
+[Illustration: FIG. 3]
+
+I have designed many modifications of the track, but it is, perhaps, best
+at present to describe only that which I have in actual use, and it is
+illustrated in diagram, Fig. 3, which is a sectional and perspective view
+of the central channel. L is the surface of the road, and SS are the
+sleepers, CC are the chairs which hold the angle iron, AA forming the
+longitudinally slotted center rail and the electric lead, which consists of
+two half-tubes of copper insulated from the chairs by the blocks, I, I. A
+special brass clamp, free to slide upon the tube, is employed for this
+purpose, and the same form of clamp serves to join the two ends of the
+copper tubes together and to make electric contact. Two half-tubes instead
+of one slotted tube have been employed, in order to leave a free passage
+for dirt or wet to fall through the slot in the center rail to the drain
+space, G. Between chair and chair hewn granite or artificial stone is
+employed, formed, as shown in the drawing, to complete the surface of the
+road and to form a continuous channel or drain. In order that this drain
+may not become choked, at suitable intervals, in the length of the track,
+sump holes are formed as illustrated in diagram, Fig. 4 These sump holes
+have a well for the accumulation of mud, and are also connected with the
+main street drain, so that water can freely pass away. The hand holes
+afford facility for easily removing the dirt.
+
+In a complete track these hand holes would occasionally be wider than shown
+here, for the purpose of removing or fixing the collector, Fig. 5, which
+consists of two sets of spirally fluted rollers free to revolve upon
+spindles, which are held by knuckle-joints drawn together by spiral
+springs; by this means the pressure of the rollers against the inside of
+the tube is constantly maintained, and should any obstruction occur in the
+tube the spiral flute causes it to revolve, thus automatically cleansing
+the tubes.
+
+[Illustration: FIG. 4]
+
+The collector is provided with two steel plates, which pass through the
+slit in the center rail; the lower ends of these plates are clamped by the
+upper frame of the collector, insulating material being interposed, and the
+upper ends are held in two iron cheeks. Between these steel plates
+insulated copper strips are held, electrically connected with the collector
+and with the adjustable clip mounted upon the iron cheeks; this clip holds
+the terminal on the end of the wire (leading to the motor) firmly enough
+for use, the cheeks being also provided with studs for the attachment of
+leather straps hooked on to the framework of the car, one for the forward
+and one for backward movement of the collector. These straps are strong
+enough for the ordinary haulage of the collector, and for the removal of
+pebbles and dirt that may get into the slit; but should any absolute block
+occur then they break and the terminal is withdrawn from the clip; the
+electric contact being thereby broken the car stops, the obstruction can
+then be removed and the collector reconnected without damage and with
+little delay.
+
+[Illustration: FIG. 5]
+
+In order to secure continuity of the center rail throughout the length of
+the track, and still provide for the removal of the collector at frequent
+intervals, the framework of the collector is so made that, by slackening
+the side-bolts, the steel plates can be drawn upward and the collector
+itself withdrawn sideways through the hand holes, one of the half-tubes
+being removed for the purpose.

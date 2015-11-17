@@ -1,0 +1,351 @@
+different thing) may be localised to the lens.
+
+C.  The presence of flexure may be confirmed by altering the position
+of the points of support with respect to the eyepiece, the lens
+maintaining its original position.  The addition of more points of
+support will in general reduce the ill effects.  How to get rid of
+them I do not know;  they are only serious with large lenses.
+
+D.  Spherical aberration may be located by using stops and zonal
+screens, and observing the effect on the image.  Sir H.  Grubb
+determines whether any point on the lens requires to be raised or
+lowered, by touching the glass at that point with a warm hand or
+cooling it by ether.  The effects so produced are the differential
+results of the change of figure and of refractive index.  By observing
+the effect of the heating or cooling of any part, the operator will
+know whether to raise or lower that part, provided that by a suitable
+preliminary experiment he has determined the relation between the
+effect produced by the change of figure, and that due to the
+temperature variation of the refractive index.  In general it is
+sufficient to consider the change of shape only and neglect the change
+in refractive power.
+
+E.  Marked astigmatism has never been noticed by me, but I should
+think that the whole lens surface would require to be repolished or
+perhaps reground in this case.
+
+F.  To decide in which surface faults exist is not easy.  By placing a
+film of oil between the two surfaces nearly in contact these may be
+easily examined.  Thus a mixture of nut and almond oil of the right
+proportion, to be found by trial, for the temperature, will have the
+same refractive index as the crown glass, and will consequently reduce
+any errors of figure in the interior crown surface, if properly
+applied between the surfaces.  Similarly the interior of the flint
+surface may have its imperfections greatly reduced in effect by using
+almond oil alone, or mixed with bisulphide of carbon.  The outer
+surfaces, I presume, must be examined by warming or cooling over
+suitable areas or zones.
+
+The defects being detected, a matter requiring a great deal of skill
+and experience according to Sir H.  Grubb, the next step is to remedy
+them; and the remedial measures as applied to the glass constitute the
+process of figuring.  There are two ways of correcting local defects,
+one by means of small paper or pitch covered tools, which according to
+Sir H.  Grubb is dangerous, and according to the experience of Mr.
+Cook, and I think of many French opticians, safe and advantageous.
+
+Pitch polishing tools are generally used for figuring.  They are made
+by covering a slate backing with squares of pitch.  The backing is
+floated with pitch say one-eighth of an inch thick.  This is then
+scored into squares by a hot iron rod.  The tool, while slightly warm,
+is laid upon the lens surface, previously slightly smeared with dilute
+glycerine, until the pitch takes the figure of the glass.  The
+polishing material is rouge and water.  Small tools are applied
+locally, and probably can only be so applied with advantage for grave
+defects.
+
+The other method is longer and probably safer.  It consists in
+furnishing the polishing tool with squares of pitch as before.  These
+being slightly warm, the lens is placed upon them so that they will
+flow to the exact figure also as before.  I presume that the lens is
+to be slightly smeared with glycerine, or some equivalent, to keep the
+pitch from sticking.  The squares are most thickly distributed where
+the abrasion is most required, i.e.  less pitch is melted out by the
+iron rod.  This may be supplemented by taking advantage of differences
+of hardness of pitch, making some squares out of harder, others out of
+softer pitch.  The aim is to produce a polishing tool which will
+polish unequally so as to remove the glass chiefly from predetermined
+parts of the lens surface.  The tool is worked over the surface of the
+lens by the polishing machine, and part of the art consists in
+adjusting the strokes to assist in the production of the local
+variations required.
+
+A source of difficulty and danger lies in the fact that the pitch
+squares are rarely of the same hardness, so that some abrade the glass
+more rapidly than others.  This is particularly likely to occur if the
+pitch has been overheated.  [Footnote: When pitch is heated till it
+evolves bubbles of gas its hardness increases with the duration of the
+process.]  The reader must be good enough to regard these remarks as
+of the barest possible kind, and not intended to convey more than a
+general idea of the nature of the process of figuring.
+
+Sec. 68.  A few remarks on cleaning lenses will fittingly close this part
+of the subject.  There is no need to go beyond the following
+instructions given by Mr. Brashear in Popular Astronomy, 1894, which
+are reproduced here verbatim.
+
+"The writer does not advise the use of either fine chamois skin,
+tissue paper, or an old soft silk handkerchief, nor any other such
+material to wipe the lenses, as is usually advised.  It is not,
+however, these wiping materials that do the mischief, but the dust
+particles on the lenses, many of them perhaps of a silicious nature,
+which are always harder than optical glass, and as these particles
+attach themselves to the wiping material they cut microscopic or
+greater scratches on the surfaces of the objective in the process of
+wiping.
+
+"I write this article with the hope of helping to solve this
+apparently difficult problem, but which in reality is a very simple
+one.
+
+"Let us commence by taking the object glass out of its cell.  Take out
+the screws that hold the ring in place, and lift out the ring.
+Placing the fingers of both hands so as to grasp the objective on
+opposite sides, reverse the cell, and with the thumbs gently press the
+objective squarely out of the cell on to a book, block of wood, or
+anything a little less in diameter than the objective, which has had a
+cushion of muslin or any soft substance laid upon it.  One person can
+thus handle any objective up to 12 inches in diameter.
+
+"Before separating the lenses it should be carefully noted how they
+were put together with relation to the cell, and to one another, and
+if they art not marked they should be marked on the edges
+conspicuously with a hard lead pencil, so that when separated they may
+be put together in the same way, and placed in the same relation to
+the cell.  With only ordinary precaution this should be an easy
+matter.
+
+"Setting the objective on edge the two lenses may be readily
+separated.
+
+"And now as to the cleaning of the lenses.  I have, on rare occasions,
+found the inner surfaces of an object glass covered with a curious
+film, not caused directly by moisture but by the apparent oxidation of
+the tin-foil used to keep the lenses apart.  "A year or more ago a
+7-inch objective made by Mr. Clark was brought to me to clean.  It had
+evidently been sadly neglected.  The inside of the lenses were covered
+with such a film as I have mentioned, and I feared the glass was
+ruined.  When taken apart it was found that the tin-foil had oxidised
+totally and had distributed itself all over the inner surfaces.  I
+feared the result, but was delighted to find that nitric acid and a
+tuft of absorbent cotton cut all the deposit off, leaving no stains
+after having passed through a subsequent washing with soap and water.
+
+"I mention this as others may have a similar case to deal with.
+
+"For the ordinary cleaning of an objective let a suitable sized
+vessel, always a wooden one, be thoroughly cleaned with soap and
+water, then half filled with clean water about the same temperature as
+the glass.  Slight differences of temperature are of no moment.  Great
+differences are dangerous in large objectives.
+
+"I usually put a teaspoonful of ammonia in half a pail of water, and
+it is well to let a piece of washed 'cheese cloth' lie in the pail, as
+then there is no danger if the lens slips away from the hand, and, by
+the way, every observatory, indeed every amateur owning a telescope,
+should have plenty of 'cheese cloth' handy.  It is cheap (about 3 cts.
+per yard) and is superior for wiping purposes to any 'old soft silk
+handkerchief,' chamois skin, etc.  Before using it have it thoroughly
+washed with soap and water, then rinsed in clean water, dried and laid
+away in a box or other place where it can be kept clean.  When you use
+a piece to clean an objective throw it away, it is so cheap you can
+afford to do so.
+
+"If the lenses are very dirty or 'dusty,' a tuft of cotton or a
+camel's-hair brush may be used to brush off the loose material before
+placing the lenses in the water, but no pressure other than the weight
+of the cotton or brush should be used.  The writer prefers to use the
+palms of the hand with plenty of good soap on them to rub the
+surfaces, although the cheese cloth and the soap answers nicely, and
+there seems to be absolutely no danger of scratching when using the
+hands or the cheese cloth when plenty of water is used;  indeed when I
+wish to wipe off the front surface of an objective in use, and the
+lens cannot well be taken out, I first dust off the gross particles
+and then use the cheese cloth with soap and water, and having gone
+over the surface gently with one piece of cloth, throw it away and
+take another, perhaps a third one, and then when the dirt is, as it
+were, all lifted up from the surface, a piece of dry cheese cloth will
+finish the work, leaving a clean brilliant surface, and no scratches
+of any kind.
+
+"In washing large objectives in water I generally use a 'tub' and
+stand the lenses on their edge.  When thoroughly washed they are taken
+out and laid on a bundle of cheese cloth and several pieces of the
+same used to dry them.
+
+"I think it best not to leave them to drain dry;  better take up all
+moisture with the cloth, and vigorous rubbing will do no harm if the
+surfaces have no abrading material on them. I have yet to injure a
+glass cleaned in this way.
+
+"This process may seem a rather long and tedious one, but it is not so
+in practice, and it pays.
+
+"In some places objectives must be frequently cleaned, not only
+because they become covered with an adherent dust, but because that
+dust produces so much diffused light in the field as to ruin some
+kinds of telescope work.  Mr. Hale of the Kenwood Observatory tells me
+he cannot do any good prominence photography unless his objective has
+a clean surface; indeed every observer of faint objects or delicate
+planetary markings knows full well the value of a dark field free from
+diffused light.  The object-glass maker uses his best efforts to
+produce the most perfect polish on his lenses, aside from the accuracy
+of the curves, both for high light value and freedom from diffused
+light in the field, and if the surfaces are allowed to become covered
+with dust, his good work counts for little.
+
+"If only the front surface needs cleaning, the method of cleaning
+with cheese cloth, soap and water, as described above, answers very
+well, but always throw away the first and, if necessary, the second
+cloth, then wipe dry with a third or fourth cloth;  but if the
+surfaces all need cleaning I know of no better method than that of
+taking the objective out of its cell, always using abundance of soap
+and water, and keep in a good humor."
+
+Sec. 69.  The Preparation of Flat Surfaces of Rock Salt.
+
+The preliminary grinding is accomplished as in the case of glass,
+except that it goes on vastly faster.  The polishing process is the
+only part of the operation which presents any difficulty.  The
+following is an extract from a paper on the subject, by Mr. J.  A.
+Brashear, Pittsburg, Pa, U.S.A, from the Proceedings of the American
+Association for the Advancement of Science, 1885.  Practically the
+same method was shown me by Mr. Cook some years earlier, so that I can
+endorse all that Mr. Brashear says, with the following exceptions.  We
+consider that for small salt surfaces the pitch is better scored into
+squares than provided with the holes recommended by Mr. Brashear.
+
+Mr. Brashear's instructions are as follows.  After alluding to the
+difficulty of drying the polished salt surface--which is of course
+wet--Mr. Brashear says:-
+
+"Happily I have no trouble in this respect now, and as my method is
+easily carried out by any physicist who desires to work with rock salt
+surfaces, it gives me pleasure to explain it.  For polishing a prism I
+make an ordinary pitch bed of about two and one-half or three times
+the area of the surface of the prism to be polished.  While the pitch
+is still warm I press upon it any approximately flat surface, such as
+a piece of ordinary plate glass.  The pitch bed is then cooled by a
+stream of water, and conical holes are then drilled in the pitch with
+an ordinary counter sink bit, say one-quarter of an inch in diameter,
+and at intervals of half an inch over the entire surface.  This is
+done to relieve the atmospheric pressure in the final work.  The upper
+surface of the pitch is now very slightly warmed and a true plane
+surface (usually a glass one, prepared by grinding and polishing three
+surfaces in the ordinary way, previously wetted) is pressed upon it
+until the pitch surface becomes an approximately true plane itself.
+Fortunately, moderately hard pitch retains its figure quite
+persistently through short periods and small changes of temperature,
+and it always pays to spend a little time in the preparation of the
+pitch bed.
+
+"The polisher being now ready, a very small quantity of rouge and
+water is taken upon a fine sponge and equally distributed over its
+surface.  The previously ground and fined salt surface (this work is
+done the same as in glass working) is now placed upon the polisher and
+motion instantly set up in diametral strokes.  I usually walk around
+the polisher while working a surface.  It is well to note that motion
+must be constant, for a moment's rest is fatal to good results, for
+the reason that the surface is quickly eaten away, and irregularly so,
+owing to the holes that are in the pitch bed.  Now comes the most
+important part of this method.  After a few minutes' work the moisture
+will begin to evaporate quite rapidly.  No new application of water is
+to be made, but a careful watch must be kept upon the pitch bed, and
+as the last vestige of moisture disappears the prism is to be slipped
+off the polisher in a perfectly horizontal direction, and if the work
+has been well done, a clean, bright, and dry surface is the result.
+The surface is now tested by the well-known method of interference
+from a perfect glass test plate (see Fig.  178).
+
+"If an error of concavity presents itself the process of polishing is
+gone over again, using short diametral strokes.  If the error is one
+of convexity, the polishing strokes are to be made along the chords,
+extending over the edge of the polisher.  The one essential feature of
+this method is the fact that the surface is wiped dry in the final
+strokes, thus getting rid of the one great difficulty of pitch
+polishing, a method undoubtedly far superior to that of polishing on
+broadcloth.  If in the final strokes the surface is not quite cleaned
+I usually breathe upon the pitch bed, and thus by condensation place
+enough moisture upon it to give a few more strokes, finishing just the
+same as before.  In ten minutes I have polished prisms of rock salt in
+this manner that have not only shown the D line double, but Professor
+Langley has informed me that his assistant, Mr. Keeler (J.  E.), has
+seen the nickel line clearly between the D lines.  This speaks for the
+superiority of the surfaces over those polished on broadcloth.
+
+"In polishing prisms I prefer to work them on top of the polisher, as
+they can be easily held, but as it is difficult to hold lenses or
+planes in this way without injuring the surfaces, I usually support
+them in a block of soft wood, turned so as to touch only at their
+edges, and work the polisher over them. Though it takes considerable
+practice to succeed at first, the results are so good that it well
+repays the few hours' work it requires to master the few difficulties
+it presents."
+
+Fig.  58.
+
+Sec. 70.  Casting Specula for Mirrors.
+
+According to Sir H. Grubb (loc. cit.) the best alloy is made of four
+atoms of copper and one of tin;  this gives by weight,
+copper 252, tin 117.8.
+
+The copper is melted first in a plumbago crucible;  the tin is added
+gradually.  Of course, in the process of melting, even though a little
+fine charcoal be sprinkled over the copper, some loss of that metal
+will occur from oxidation.  It is convenient in practice, therefore to
+reserve a portion of the tin and test the contents of the crucible by
+lifting a little of the alloy out and examining it.
+
+The following indications may be noted:  When the copper is in excess
+the tint of the alloy is slightly red, and the structure, as shown at
+a fractured surface, is coarsely crystalline.  As the proper
+proportions are more nearly attained, the crystalline structure
+becomes finer, the colour whiter, and the crystals brighter.  The
+alloy is ready for use when the maximum brightness is attained and the
+grain is fine.
+
+If too much tin be added, the lustre diminishes.  The correct
+proportion is, therefore, attained when a further small addition of
+tin produces no apparent increase of brightness or fineness of grain.
+About three-quarters of the tin may be added at first, and the other
+quarter added with testing as described.  The alloy is allowed to cool
+until on skimming the surface the metal appears bright and remains so
+without losing its lustre by oxidation for a sensible time;  it will
+still be quite red-hot.
+
+Fig. 59.                                            Fig.   60.
+
+As the speculum alloy is too difficult to work with ordinary tools, it
+is best to cast the speculum of exactly the required shape and size.
+This is done by means of a ring of iron turned inside (and out) and on
+one edge.  This ring is laid on a plate of  figured iron, and before
+the metal is poured the plate (G)  (Figs 59 and 61) is heated to, say,
+300 deg. C.  In order to avoid the presence of oxide as far as possible,
+the following arrangements for pouring are made.  A portion of the
+lower surface of the ring is removed by radial filing until a notch
+equal to, say, one-twentieth of the whole circumference is produced.
+This is cut to an axial depth of, say, half an inch.
+
+A bar of iron is then dovetailed loosely into the notch (Fig.  60, B),
+so that it will rest on the iron plate, and half fill the notch.  The
+aperture thus left forms the port of ingress for the hot metal (see
+Fig.  61, M).  A bit of sheet iron is attached to the upper surface of
+the ring, and lies as a sort of flap, shaped like a deep shovel,
+against the outside of the ring overhanging the port (Figs.  59 and 61
+at F).  This flap does not quite reach the iron plate, and its sides
+are bent so as to be in contact with the ring.  A portion of a smaller
+ring is then applied in such a manner as to form a pouring lip or pool
+on the outside of the main ring at E, and the metal can only get into
+the main ring by passing under the edge of the flap and up through the
+port.  This forms an efficient skimming arrangement.  The process of
+casting is carried out by pouring steadily into the lip.
+
+To avoid air bubbles it is convenient to cause the metal to spread
+slowly over the chill, and Mr. Nasmyth's method of accomplishing this
+is shown in the figure (61).  The chill rests on three pins, A B C
+(Figs.  59 and 61).  Before pouring begins the chill is tilted up off
+C by means of the counterpoise D, which is insufficient to tilt it
+after the speculum is poured.  It is important that the chill should
+be horizontal at the close of the operation, in order that the
+speculum may be of even thickness throughout.  This is noted by means

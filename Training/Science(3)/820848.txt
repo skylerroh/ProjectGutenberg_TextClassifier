@@ -1,0 +1,576 @@
+    2HNO_{3} = H_{2}O + 2NO_{2} + O.
+
+The substance NO_{2}, called nitrogen peroxide, is a brownish gas, which
+is readily soluble in water and in nitric acid. It therefore dissolves
+in the undecomposed acid, and imparts a yellowish or reddish color to
+it. Concentrated nitric acid highly charged with this substance is
+called _fuming nitric acid_.
+
+3. _Oxidizing action._ According to its formula, nitric acid contains a
+large percentage of oxygen, and the reaction just mentioned shows that
+the compound is not a very stable one, easily undergoing decomposition.
+These properties should make it a good oxidizing agent, and we find that
+this is the case. Under ordinary circumstances, when acting as an
+oxidizing agent, it is decomposed according to the equation
+
+    2HNO_{3} = H_{2}O + 2NO + 3O.
+
+The oxygen is taken up by the substance oxidized, and not set free, as
+is indicated in the equation. Thus, if carbon is oxidized by nitric
+acid, the oxygen combines with carbon, forming carbon dioxide (CO_{2}):
+
+    C + 2O = CO_{2}.
+
+4. _Action on metals._ We have seen that when an acid acts upon a metal
+hydrogen is set free. Accordingly, when nitric acid acts upon a metal,
+such as copper, we should expect the reaction to take place which is
+expressed in the equation
+
+    Cu + 2HNO_{3} = Cu(NO_{3})_{2} + 2H.
+
+This reaction does take place, but the hydrogen set free is immediately
+oxidized to water by another portion of the nitric acid according to the
+equation
+
+    HNO_{3} + 3H = 2H_{2}O + NO.
+
+As these two equations are written, two atoms of hydrogen are given off
+in the first equation, while three are used up in the second. In order
+that the hydrogen may be equal in the two equations, we must multiply
+the first by 3 and the second by 2. We shall then have
+
+    3Cu + 6HNO_{3} = 3Cu(NO_{3})_{2} + 6H,
+
+    2HNO_{3} + 6H = 4H_{2}O + 2NO.
+
+The two equations may now be combined into one by adding the quantities
+on each side of the equality sign, canceling the hydrogen which is given
+off in the one reaction and used up in the other. We shall then have the
+equation
+
+    3Cu + 8HNO_{3} = 3Cu(NO_{3})_{2} + 2NO + 4H_{2}O.
+
+A number of other reactions may take place when nitric acid acts upon
+metals, resulting in the formation of other oxides of nitrogen, free
+nitrogen, or even ammonia. The reaction just given is, however, the
+usual one.
+
+     ~Importance of steps in a reaction.~ This complete equation has
+     the advantage of making it possible to calculate very easily
+     the proportions in which the various substances enter into the
+     reaction or are formed in it. It is unsatisfactory in that it
+     does not give full information about the way in which the
+     reaction takes place. For example, it does not suggest that
+     hydrogen is at first formed, and subsequently transformed into
+     water. It is always much more important to remember the steps
+     in a chemical reaction than to remember the equation expressing
+     the complete action; for if these steps in the reaction are
+     understood, the complete equation is easily obtained in the
+     manner just described.
+
+~Salts of nitric acid,--nitrates.~ The salts of nitric acid are called
+nitrates. Many of these salts will be described in the study of the
+metals. They are all soluble in water, and when heated to a high
+temperature undergo decomposition. In a few cases a nitrate on being
+heated evolves oxygen, forming a nitrite:
+
+    NaNO_{3} = NaNO_{2} + O.
+
+In other cases the decomposition goes further, and the metal is left as
+oxide:
+
+    Cu(NO_{3})_{2} = CuO + 2NO_{2} + O.
+
+~Nitrous acid~ (HNO_{2}). It is an easy matter to obtain sodium nitrite
+(NaNO_{2}), as the reaction given on the previous page indicates.
+Instead of merely heating the nitrate, it is better to heat it together
+with a mild reducing agent, such as lead, when the reaction takes place
+which is expressed by the equation
+
+    NaNO_{3} + Pb = PbO + NaNO_{2}.
+
+When sodium nitrite is treated with an acid, such as sulphuric acid, it
+is decomposed and nitrous acid is set free:
+
+    NaNO_{2} + H_{2}SO_{4} = NaHSO_{4} + HNO_{2}.
+
+The acid is very unstable, however, and decomposes readily into water
+and nitrogen trioxide (N_{2}O_{3}):
+
+    2HNO_{2} = H_{2}O + N_{2}O_{3}.
+
+Dilute solutions of the acid, however, can be obtained.
+
+
+COMPOUNDS OF NITROGEN WITH OXYGEN
+
+Nitrogen combines with oxygen to form five different oxides. The
+formulas and names of these are as follows:
+
+    N_{2}O       nitrous oxide.
+    NO           nitric oxide.
+    NO_{2}       nitrogen peroxide.
+    N_{2}O_{3}   nitrogen trioxide, or nitrous anhydride.
+    N_{2}O_{5}   nitrogen pentoxide, or nitric anhydride.
+
+These will now be briefly discussed.
+
+~Nitrous oxide~ (_laughing gas_) (N_{2}O). Ammonium nitrate, like all
+nitrates, undergoes decomposition when heated; and owing to the fact
+that it contains no metal, but does contain both oxygen and hydrogen,
+the reaction is a peculiar one. It is represented by the equation
+
+    NH_{4}NO_{3} = 2H_{2}O + N_{2}O.
+
+The oxide of nitrogen so formed is called nitrous oxide or laughing gas.
+It is a colorless gas having a slight odor. It is somewhat soluble in
+water, and in solution has a slightly sweetish taste. It is easily
+converted into a liquid and can be purchased in this form. When inhaled
+it produces a kind of hysteria (hence the name "laughing gas"), and even
+unconsciousness and insensibility to pain if taken in large amounts. It
+has long been used as an anaesthetic for minor surgical operations, such
+as those of dentistry, but owing to its unpleasant after effects it is
+not so much in use now as formerly.
+
+Chemically, nitrous oxide is remarkable for the fact that it is a very
+energetic oxidizing agent. Substances such as carbon, sulphur, iron, and
+phosphorus burn in it almost as brilliantly as in oxygen, forming oxides
+and setting free nitrogen. Evidently the oxygen in nitrous oxide cannot
+be held in very firm combination by the nitrogen.
+
+[Illustration Fig. 39]
+
+~Nitric oxide~ (NO). We have seen that when nitric acid acts upon metals,
+such as copper, the reaction represented by the following equation takes
+place:
+
+    3Cu + 8HNO_{3} = 3Cu(NO_{3})_{3} + 2NO + 4H_{2}O.
+
+Nitric oxide is most conveniently prepared in this way. The metal is
+placed in the flask A (Fig. 39) and the acid added slowly through the
+funnel tube B. The gas escapes through C and is collected over
+water.
+
+Pure nitric oxide is a colorless gas, slightly heavier than air, and is
+practically insoluble in water. It is a difficult gas to liquefy. Unlike
+nitrous oxide, nitric oxide does not part with its oxygen easily, and
+burning substances introduced into this gas are usually extinguished. A
+few substances like phosphorus, which have a very strong affinity for
+oxygen and which are burning energetically in the air, will continue to
+burn in an atmosphere of nitric oxide. In this case the nitric oxide
+loses all of its oxygen and the nitrogen is set free as gas.
+
+~Action of nitric oxide with oxygen.~ When nitric oxide comes into contact
+with oxygen or with the air, it at once combines with the oxygen even at
+ordinary temperatures, forming a reddish-yellow gas of the formula
+NO_{2}, which is called nitrogen peroxide. This action is not energetic
+enough to produce a flame, though considerable heat is set free.
+
+~Nitrogen peroxide~ (NO_{2}). This gas, as we have just seen, is formed by
+allowing nitric oxide to come into contact with oxygen. It can also be
+made by heating certain nitrates, such as lead nitrate:
+
+    Pb(NO_{3})_{2} = PbO + 2NO_{2} + O.
+
+It is a reddish-yellow gas of unpleasant odor, which is quite poisonous
+when inhaled. It is heavier than air and is easily condensed to a
+liquid. It dissolves in water, but this solution is not a mere physical
+solution; the nitrogen peroxide is decomposed, forming a mixture of
+nitric and nitrous acids:
+
+    2NO_{2} + H_{2}O = HNO_{2} + HNO_{3}.
+
+Nitrogen peroxide will not combine with more oxygen; it will, however,
+give up a part of its oxygen to burning substances, acting as an
+oxidizing agent:
+
+    NO_{2} = NO + O.
+
+~Acid anhydrides.~ The oxides N_{2}O_{3} (nitrogen trioxide) and
+N_{2}O_{5} (nitrogen pentoxide) are rarely prepared and need not be
+separately described. They bear a very interesting relation to the acids
+of nitrogen. When dissolved in water they combine with the water,
+forming acids:
+
+    N_{2}O_{3} + H_{2}O = 2HNO_{2},
+
+    N_{2}O_{5} + H_{2}O = 2HNO_{3}.
+
+On the other hand, nitrous acid very easily decomposes, yielding water
+and nitrogen trioxide, and by suitable means nitric acid likewise may be
+decomposed into water and nitrogen pentoxide:
+
+    2HNO_{2} = H_{2}O + N_{2}O_{3},
+
+    2HNO_{3} = H_{2}O + N_{2}O_{5}.
+
+In view of the close relation between these oxides and the corresponding
+acids, they are called _anhydrides_ of the acids, N_{2}O_{3} being
+nitrous anhydride and N_{2}O_{5} nitric anhydride.
+
+DEFINITION: _Any oxide which will combine with water to form an acid, or
+which together with water is formed by the decomposition of an acid, is
+called an anhydride of that acid._
+
+
+EXERCISES
+
+1. Perfectly dry ammonia does not affect litmus paper. Explain.
+
+2. Can ammonia be dried by passing the gas through concentrated
+sulphuric acid? Explain.
+
+3. Ammonium hydroxide is a weak base, i.e. it is not highly dissociated.
+When it is neutralized by strong acids the heat of reaction is less than
+when strong bases are so neutralized. Suggest some possible cause for
+this.
+
+4. Why is brine used in the manufacture of artificial ice?
+
+5. Discuss the energy changes which take place in the manufacture of
+artificial ice.
+
+6. What weight of ammonium chloride is necessary to furnish enough
+ammonia to saturate 1 l. of water at 0 deg. and 760 mm.?
+
+7. What weight of sodium nitrate is necessary to prepare 100 cc. of
+commercial nitric acid? What weight of potassium nitrate is necessary to
+furnish the same weight of acid?
+
+8. 100 l. of nitrogen peroxide were dissolved in water and neutralized
+with sodium hydroxide. What substances were formed and how much of
+each?(1 l. nitrogen peroxide weighs 2.05 grams.)
+
+9. How many liters of nitrous oxide, measured under standard conditions,
+can be prepared from 10 g. of ammonium nitrate?
+
+10. What weight of copper is necessary to prepare 50 l. of nitric oxide
+under standard conditions?
+
+11. (a) Calculate the percentage composition of the oxides of
+nitrogen. (b) What important law does this series of substances
+illustrate?
+
+12. Write the equations representing the reactions between ammonium
+hydroxide, and sulphuric acid and nitric acid respectively, in
+accordance with the theory of electrolytic dissociation.
+
+13. In the same way, write the equations representing the reactions
+between nitric acid and each of the following bases: NaOH, KOH,
+NH_{4}OH, Ca(OH)_{2}.
+
+
+
+
+CHAPTER XIII
+
+REVERSIBLE REACTIONS AND CHEMICAL EQUILIBRIUM
+
+
+~Reversible reactions.~ The reactions so far considered have been
+represented as continuing, when once started, until one or the other
+substance taking part in the reaction has been used up. In some
+reactions this is not the case. For example, we have seen that when
+steam is passed over hot iron the reaction is represented by the
+equation
+
+    3Fe + 4H_{2}O = Fe_{3}O_{4} + 8H.
+
+On the other hand, when hydrogen is passed over hot iron oxide the
+reverse reaction takes place:
+
+    Fe_{3}O_{4} +8H = 3Fe + 4H_{2}O.
+
+The reaction can therefore go in either direction, depending upon the
+conditions of the experiment. Such a reaction is called a _reversible
+reaction_. It is represented by an equation with double arrows in place
+of the equality sign, thus:
+
+    3Fe + 4H_{2}O <--> Fe_{3}O_{4} + 8H.
+
+In a similar way, the equation
+
+    N + 3H <--> NH_{3}
+
+expresses the fact that under some conditions nitrogen may unite with
+hydrogen to form ammonia, while under other conditions ammonia
+decomposes into nitrogen and hydrogen.
+
+The conversion of oxygen into ozone is also reversible and may be
+represented thus:
+
+    oxygen <--> ozone.
+
+~Chemical equilibrium.~ Reversible reactions do not usually go on to
+completion in one direction unless the conditions under which the
+reaction takes place are very carefully chosen. Thus, if iron and steam
+are confined in a heated tube, the steam acts upon the iron, producing
+iron oxide and hydrogen. But these substances in turn act upon each
+other to form iron and steam once more. When these two opposite
+reactions go on at such rates that the weight of the iron changed into
+iron oxide is just balanced by the weight of the iron oxide changed into
+iron, there will be no further change in the relative weights of the
+four substances present in the tube. The reaction is then said to have
+reached an equilibrium.
+
+~Factors which determine the point of equilibrium.~ There are two factors
+which have a great deal of influence in determining the point at which a
+given reaction will reach equilibrium.
+
+1. _Influence of the chemical nature of the substances._ If two
+reversible reactions of the same general kind are selected, it has been
+found that the point of equilibrium is different in the two cases. For
+example, in the reactions represented by the equations
+
+    3Fe + 4H_{2}O <--> Fe_{3}O_{4} + 8H,
+
+    Zn + H_{2}O <--> ZnO + 2H,
+
+the equilibrium will be reached when very different quantities of the
+iron and zinc have been changed into oxides. The individual chemical
+properties of the iron and zinc have therefore marked influence upon the
+point at which equilibrium will be reached.
+
+2. _Influence of relative mass._ If the tube in which the reaction
+
+    3Fe + 4H_{2}O <--> Fe_{3}O_{4} + 8H
+
+has come to an equilibrium is opened and more steam is admitted, an
+additional quantity of the iron will be changed into iron oxide. If more
+hydrogen is admitted, some of the oxide will be reduced to metal. The
+point of equilibrium is therefore dependent upon the relative masses of
+the substances taking part in the reaction. When one of the substances
+is a solid, however, its mass has little influence, since it is only the
+extent of its surface which can affect the reaction.
+
+~Conditions under which reversible reactions are complete.~ If, when the
+equilibrium between iron and steam has been reached, the tube is opened
+and a current of steam is passed in, the hydrogen is swept away as fast
+as it is formed. The opposing reaction of hydrogen upon iron oxide must
+therefore cease, and the action of steam on the iron will go on until
+all of the iron has been transformed into iron oxide.
+
+On the other hand, if a current of hydrogen is admitted into the tube,
+the steam will be swept away by the hydrogen, and all of the iron oxide
+will be reduced to iron. _A reversible reaction can therefore be
+completed in either direction when one of the products of the reaction
+is removed as fast as it is formed._
+
+~Equilibrium in solution.~ When reactions take place in solution in water
+the same general principles hold good. The matter is not so simple,
+however, as in the case just described, owing to the fact that many of
+the reactions in solution are due to the presence of ions. The
+substances most commonly employed in solution are acids, bases, or
+salts, and all of these undergo dissociation. Any equilibrium which may
+be reached in solutions of these substances must take place between the
+various ions formed, on the one hand, and the undissociated molecules,
+on the other. Thus, when nitric acid is dissolved in water, equilibrium
+is reached in accordance with the equation
+
+    H^{+} + NO_{3}^{-} <--> HNO_{3}.
+
+~Conditions under which reversible reactions in solution are complete.~
+The equilibrium between substances in solution may be disturbed and the
+reaction caused to go on in one direction to completion in either of
+three ways.
+
+1. _A gas may be formed which escapes from the solution._ When sodium
+nitrate and sulphuric acid are brought together in solution all four
+ions, Na^{+}, NO_{3}^{-}, H^{+}, SO_{4}^{--}, are formed. These ions are
+free to rearrange themselves in various combinations. For example, the
+H^{+} and the NO_{3}^{-} ions will reach the equilibrium
+
+    H^{+} + NO_{3}^{-} <--> HNO_{3}.
+
+If the experiment is performed with very little water present, as is the
+case in the preparation of nitric acid, the equilibrium will be reached
+when most of the H^{+} and the NO_{3}^{-} ions have combined to form
+undissociated HNO_{3}.
+
+Finally, if the mixture is now heated above the boiling point of nitric
+acid, the acid distills away as fast as it is formed. More and more
+H^{+} and NO_{3}^{-} ions will then combine, and the process will
+continue until one or the other of them has all been removed from the
+solution. The substance remaining is sodium acid sulphate (NaHSO_{4}),
+and the reaction can therefore be expressed by the equation
+
+    NaNO_{3} + H_{2}SO_{4} = NaHSO_{4} + HNO_{3}.
+
+2. _An insoluble solid may be formed._ When hydrochloric acid (HCl) and
+silver nitrate (AgNO_{3}) are brought together in solution the
+following ions will be present: H^{+}, Cl^{-}, Ag^{+}, NO_{3}^{-}. The
+ions Ag^{+} and Cl^{-} will then set up the equilibrium
+
+    Ag^{+} + Cl^{-} <--> AgCl.
+
+But silver chloride (AgCl) is almost completely insoluble in water, and
+as soon as a very little of it has formed the solution becomes
+supersaturated, and the excess of the salt precipitates. More silver and
+chlorine ions then unite, and this continues until practically all of
+the silver or the chlorine ions have been removed from the solution. We
+then say that the following reaction is complete:
+
+    AgNO_{3} + HCl = AgCl + HNO_{3}.
+
+3. _Two different ions may form undissociated molecules._ In the
+neutralization of sodium hydroxide by hydrochloric acid the ions H^{+}
+and OH^{-} come to the equilibrium
+
+    H^{+} + OH^{-} <--> H_{2}O.
+
+But since water is almost entirely undissociated, equilibrium can only
+be reached when there are very few hydroxyl or hydrogen ions present.
+Consequently the two ions keep uniting until one or the other of them is
+practically removed from the solution. When this occurs the
+neutralization expressed in the following equation is complete:
+
+    NaOH + HCl = H_{2}O + NaCl.
+
+~Preparation of acids.~ The principle of reversible reactions finds
+practical application in the preparation of most of the common acids. An
+acid is usually prepared by treating the most common of its salts with
+some other acid of high boiling point. The mixture is then heated until
+the lower boiling acid desired distills out. Owing to its high boiling
+point (338 deg.), sulphuric acid is usually employed for this purpose, most
+other acids boiling below that temperature.
+
+
+EXERCISES
+
+1. What would take place when solutions of silver nitrate and sodium
+chloride are brought together? What other chlorides would act in the
+same way?
+
+2. Is the reaction expressed by the equation NH_{3} + H_{2}O = NH_{4}OH
+reversible? If so, state the conditions under which it will go in each
+direction.
+
+3. Is the reaction expressed by the equation 2H + O = H_{2}O reversible?
+If so, state the conditions under which it will go in each direction.
+
+4. Suggest a method for the preparation of hydrochloric acid.
+
+
+
+
+CHAPTER XIV
+
+SULPHUR AND ITS COMPOUNDS
+
+
+~Occurrence.~ The element sulphur has been known from the earliest times,
+since it is widely distributed in nature and occurs in large quantities
+in the uncombined form, especially in the neighborhood of volcanoes.
+Sicily has long been famous for its sulphur mines, and smaller deposits
+are found in Italy, Iceland, Mexico, and especially in Louisiana, where
+it is mined extensively. In combination, sulphur occurs abundantly in
+the form of sulphides and sulphates. In smaller amounts it is found in a
+great variety of minerals, and it is a constituent of many animal and
+vegetable substances.
+
+~Extraction of sulphur.~ Sulphur is prepared from the native substance,
+the separation of crude sulphur from the rock and earthy materials with
+which it is mixed being a very simple process. The ore from the mines is
+merely heated until the sulphur melts and drains away from the earthy
+impurities. The crude sulphur obtained in this way is distilled in a
+retort-shaped vessel made of iron, the exit tube of which opens into a
+cooling chamber of brickwork. When the sulphur vapor first enters the
+cooling chamber it condenses as a fine crystalline powder called
+_flowers of sulphur_. As the condensing chamber becomes warm, the
+sulphur collects as a liquid in it, and is drawn off into cylindrical
+molds, the product being called _roll sulphur_ or _brimstone_.
+
+~Physical properties.~ Roll sulphur is a pale yellow, crystalline solid,
+without marked taste and with but a faint odor. It is insoluble in
+water, but is freely soluble in a few liquids, notably in carbon
+disulphide. Roll sulphur melts at 114.8 deg.. Just above the melting point
+it forms a rather thin, straw-colored liquid. As the temperature is
+raised, this liquid turns darker in color and becomes thicker, until at
+about 235 deg. it is almost black and is so thick that the vessel containing
+it can be inverted without danger of the liquid running out. At higher
+temperatures it becomes thin once more, and boils at 448 deg., forming a
+yellowish vapor. On cooling the same changes take place in reverse
+order.
+
+~Varieties of sulphur.~ Sulphur is known in two general forms, crystalline
+and amorphous. Each of these forms exists in definite modifications.
+
+~Crystalline sulphur.~ Sulphur occurs in two crystalline forms, namely,
+rhombic sulphur and monoclinic sulphur.
+
+1. _Rhombic sulphur._ When sulphur crystallizes from its solution in
+carbon disulphide it separates in crystals which have the same color and
+melting point as roll sulphur, and are rhombic in shape. Roll sulphur is
+made up of minute rhombic crystals.
+
+2. _Monoclinic sulphur._ When melted sulphur is allowed to cool until a
+part of the liquid has solidified, and the remaining liquid is then
+poured off, it is found that the solid sulphur remaining in the vessel
+has assumed the form of fine needle-shaped crystals. These differ much
+in appearance from the rhombic crystals obtained by crystallizing
+sulphur from its solution in carbon disulphide. The needle-shaped form
+is called _monoclinic sulphur_. The two varieties differ also in density
+and in melting point, the monoclinic sulphur melting at 120 deg..
+
+Monoclinic and rhombic sulphur remain unchanged in contact with each
+other at 96 deg.. Above this temperature the rhombic changes into
+monoclinic; at lower temperatures the monoclinic changes into rhombic.
+The temperature 96 deg. is therefore called the transition point of sulphur.
+Heat is set free when monoclinic sulphur changes into rhombic.
+
+~Amorphous sulphur.~ Two varieties of amorphous sulphur can be readily
+obtained. These are white sulphur and plastic sulphur.
+
+1. _White sulphur._ Flowers of sulphur, the preparation of which has
+been described, consists of a mixture of rhombic crystals and amorphous
+particles. When treated with carbon disulphide, the crystals dissolve,
+leaving the amorphous particles as a white residue.
+
+2. _Plastic sulphur._ When boiling sulphur is poured into cold water it
+assumes a gummy, doughlike form, which is quite elastic. This can be
+seen in a very striking manner by distilling sulphur from a small,
+short-necked retort, such as is represented in Fig. 40, and allowing the
+liquid to run directly into water. In a few days it becomes quite
+brittle and passes over into ordinary rhombic sulphur.
+
+[Illustration Fig. 40]
+
+~Chemical properties of sulphur.~ When sulphur is heated to its kindling
+temperature in oxygen or in the air it burns with a pale blue flame,
+forming sulphur dioxide (SO_{2}). Small quantities of sulphur trioxide
+(SO_{3}) may also be formed in the combustion of sulphur. Most metals
+when heated with sulphur combine directly with it, forming metallic
+sulphides. In some cases the action is so energetic that the mass
+becomes incandescent, as has been seen in the case of iron uniting with
+sulphur. This property recalls the action of oxygen upon metals, and in
+general the metals which combine readily with oxygen are apt to combine
+quite readily with sulphur.
+
+~Uses of sulphur.~ Large quantities of sulphur are used as a germicide in
+vineyards, also in the manufacture of gunpowder, matches, vulcanized
+rubber, and sulphuric acid.
+
+
+COMPOUNDS OF SULPHUR WITH HYDROGEN
+
+~Hydrosulphuric acid~ (H_{2}S). This substance is a gas having the
+composition expressed by the formula H_{2}S and is commonly called
+hydrogen sulphide. It is found in the vapors issuing from volcanoes, and
+in solution in the so-called sulphur waters of many springs. It is
+formed when organic matter containing sulphur undergoes decay, just as
+ammonia is formed under similar circumstances from nitrogenous matter.
+
+~Preparation.~ Hydrosulphuric acid is prepared in the laboratory by
+treating a sulphide with an acid. Iron sulphide (FeS) is usually
+employed:
+
+    FeS + 2HCl = FeCl_{2} + H_{2}S.
+
+A convenient apparatus is shown in Fig. 41. A few lumps of iron sulphide
+are placed in the bottle A, and dilute acid is added in small
+quantities at a time through the funnel tube B, the gas escaping
+through the tube C.
+
+[Illustration: Fig. 41]
+
+     ~Explanation of the reaction.~ Iron sulphide is a salt of

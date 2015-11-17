@@ -1,0 +1,452 @@
+the air, and the purifying is thus effected without smell or appreciable
+expense. Gas made by this process and with anthracite coal has no tar
+and no ammonia, and the small percentage of carbon dioxide present does
+not sensibly affect the heating power. A further advantage of this gas
+is that it cannot burn with a smoky flame, and there is no deposition of
+soot even when the object to be heated is placed over or in the flame,
+and this is of importance for the cylinder and valves of a gas engine.
+
+To produce 1,000 cubic feet only 12 lb. of anthracite are required,
+allowing 8 to 10 per cent, for impurities and waste; thus a generator
+A size, which produces 1,000 cubic feet per hour, needs only 12 lb. in
+that time, and this can be added once an hour or at longer intervals. No
+skilled labor is necessary, and in practice it is usual to employ a man
+who has other work to attend to near the generator, and to pay him a
+small addition to his usual wages.
+
+The comparative explosive force of coal gas and the Dowson gas
+calculated in the usual way is as 3.4:1, i. e., coal gas has 3.4 times
+more energy than the writer's gas. Messrs. Crossley, of Manchester, the
+makers of the Otto gas engines, have made several careful trials of this
+gas with some of their 31/2 horse power (nominal) engines, and in one
+trial they took diagrams every half-hour for nine consecutive days.
+These practical trials have shown that without altering the cylinder of
+the engine it is possible to admit enough of the Dowson gas to give
+the same power as with ordinary coal gas. It has been seen that the
+comparative explosive force of the two gases is as 3.4:1, but as it is
+well known the combustion of carbon monoxide proceeds at a comparatively
+slow rate, and for this reason, and because of the diluents present in
+the cylinder which affect the weaker gas more than coal gas, experience
+has shown that it is best to allow five volumes of the Dowson gas for
+one volume of coal gas, and then the same uniform power is obtained as
+with the latter.
+
+This gives very important economical results; for if the cost of the
+Dowson gas given in the tables as 41/4d., 3-1/3d., and 23/4d. per 1,000
+cubic feet, be multiplied by 5 there will be 1s. 91/4d., 1s. 43/4d., and 1s.
+23/4d., or a mean of 1s. 51/2d. for the equivalent of 1,000 cubic feet of
+coal gas, which usually costs from 3s. to 4s., and this represents an
+actual saving of about 50 to 60 per cent, in working cost. Another
+practical consideration is that coal gas requires 224 lb. to 250 lb. of
+coal per 1,000 cubic feet of gas, but the writer requires only 12 lb.
+per 1,000 cubic feet, and multiplying this by 5 to give the equivalent
+of 1,000 cubic feet of coal gas, for engine work, there are 60 lb.
+instead of 224 lb. to 250 lb. This is only 24 to 27 per cent, of the
+weight of the coal required for coal gas, and in many outlying districts
+this will effect an appreciable saving in the cost of transport.
+
+
+APPENDIX.
+
+   TABLE I.
+
+  _Generator A Size_ (producing 1,000 cubic feet per hour):
+    Anthracite to make gas at the rate of 1,000   s.  d.
+      cubic feet per hour=l2 lb x 9 working
+      hours=l08 lb., or say, 1 cwt. at 20s. a
+      ton....................................     1   0
+    Allowance for wages of attendant.........     1   0
+    Repairs and depreciation of generator,
+      gasholder, etc. (5 per cent. on Ll25)=
+      per working day........................     0   5
+    Interest on capital outlay, ditto........     0   5
+                                                 ______
+
+             Total...........................     2  10
+                                                  cub. ft.
+
+    Gas produced.............................     9.000
+    Less gas used for generating and
+       superheating steam.....................    1,000
+                                                  _____
+             Total effective gas for 2s. 10d.     8,000
+
+  Net cost 41/4 d. per 1,000 cubic feet.
+
+  TABLE II.
+
+  _Generator B Size_ (producing 1,500 cubic feet per hour)
+    Anthracite to make gas at the rate of 1,500   s.  d.
+      cubic feet per hour=18 lb. x 9 working
+      hours=162 lb., or, say, 11/2 cwt. 20s.
+      a ton..................................     1    6
+    Allowance for wages of attendant.........     1    0
+    Repairs and depreciation of generator,
+      gasholder, etc. (5 per cent, on L140)
+      =per working day.......................     0    51/2
+    Interest on capital outlay, ditto........     0    51/2
+                                                 ___  ___
+             Total...........................     3    5
+                                                 cub. ft.
+    Gas produced.............................    13,500
+    Less gas used for generating and
+      superheating steam.....................     1,200
+                                                 ______
+             Total effective gas for 3s. 5d..    12,300
+
+  Net cost 3 1/3d. per 1,000 cubic feet.
+
+  TABLE III.
+
+  _Generator C Size_ (producing 2,500 cubic feet per hour):
+    Anthracite to make gas at the rate of 2,500      s. d.
+    cubic feet per hour=30 lb. x 9 working
+    hours=270 lb. at 20s. a ton............          2  41/2
+    Allowance for wages of attendant.......          1  6
+    Repairs and depreciation of generator,
+      gasholder, etc. (5 per cent, on L160)=
+      per working day......................          0  61/2
+    Interest on capital outlay, ditto......          0  61/2
+                                                    _______
+             Total.........................          4 111/2
+
+                                                     cub. ft.
+    Gas produced...........................        22,500
+    Less gas used for generating and
+      superheating steam...................         1,500
+                                                   ______
+             Total effective gas for 4s. 111/2d      21,000
+
+  Net cost, say, 23/4 d. per 1,000 cubic feet.
+
+       *       *       *       *       *
+
+
+
+
+ON THE FLUID DENSITY OF CERTAIN METALS.
+
+[Footnote: Abstract of paper read before Section C (Chemical Science),
+British Association meeting, York.]
+
+By PROFESSOR W. CHANDLER ROBERTS, F.R.S., and T. WRIGHTSON.
+
+
+The authors described their experiments on the fluid density of metals
+made in continuation of those submitted to Section B at the Swansea
+meeting of the Association. Some time since one of the authors gave an
+account of the results of experiments made to determine the density of
+metallic silver, and of certain alloys of silver and copper when in a
+molten state. The method adopted was that devised by Mr. R. Mallet, and
+the details were as follows: A conical vessel of best thin Lowmoor plate
+(1 millimeter thick), about 16 centimeters in height, and having an
+internal volume of about 540 cubic centimeters, was weighed, first
+empty, and subsequently when filled with distilled water at a known
+temperature. The necessary data were thus afforded for accurately
+determining its capacity at the temperature of the air. Molten silver
+was then poured into it, the temperature at the time of pouring being
+ascertained by the calorimetric method. The precautions, as regards
+filling, pointed out by Mr. Mallet, were adopted; and as soon as the
+metal was quite cold, the cone with its contents was again weighed.
+Experiments were also made on the density of fluid bismuth; and two
+distinctive determinations gave the following results:
+
+  10.005 )
+         ) mean 10.039.
+  10.072 )
+
+The invention of the oncosimeter, which was described by one of the
+authors in the "Journal of the Iron and Steel Institute" (No. II.,
+1879, p. 418), appeared to afford an opportunity for resuming the
+investigation on a new basis, more especially as the delicacy of the
+instrument had already been proved by experiments on a considerable
+scale for determining the density of fluid cast iron. The following is
+the principle on which this instrument acts:
+
+If a spherical ball of any metal be plunged below the surface of a
+molten bath of the same or another metal, the cold ball will displace
+its own volume of molten metal. If the densities of the cold and molten
+metal be the same, there will be equilibrium, and no floating or sinking
+effect will be exhibited. If the density of the cold be greater than
+that of the molten metal, there will be a sinking effect, and if less a
+floating effect when first immersed. As the temperature of the submerged
+ball rises, the volume of the displaced liquid will increase or decrease
+according as the ball expands or contracts. In order to register these
+changes the ball is hung on a spiral spring, and the slightest change in
+buoyancy causes an elongation or contraction of this spring which can
+be read off on a scale of ounces, and is recorded by a pencil on a
+revolving drum. A diagram is thus traced out, the ordinates of which
+represent increments of volume, or, in other words, of weight of fluid
+displaced--the zero line, or line corresponding to a ball in a liquid of
+equal density, being previously traced out by revolving the drum without
+attaching the ball of metal itself to the spring, but with all other
+auxiliary attachments. By means of a simple adjustment the ball is kept
+constantly depressed to the same extent below the surface of the liquid;
+and the ordinate of this pencil line, measuring from the line of
+equilibrium, thus gives an exact measure of the floating or sinking
+effect at every stage of temperature, from the cold solid to the state
+when the ball begins to melt.
+
+If the weight and specific gravity of the ball be taken when cold,
+there are obtained, with the ordinate on the diagram at the moment of
+immersion, sufficient data for determining the density of the fluid
+metal; for
+
+W / W1 = D / D1
+
+the volumes being equal. And remembering that
+
+W (weight of liquid) = W1 (weight of ball) + x
+
+(where x is always measured as +_ve_ or -_ve_ floating effect), there is
+obtained the equation:
+
+       D1  x ( W1 + x)
+  D =  --------------- .
+            W1
+
+[TEX: D = \frac{D_1 \times (W_1 +x)}{W_1}]
+
+The results obtained with metallic silver are perhaps the most
+interesting, mainly from the fact that the metal melts at a higher
+temperature, which was determined with great care by the illustrious
+physicist and metallurgist, the late Henri St. Claire Deville, whose
+latest experiments led him to fix the melting point at 940 deg. Cent. The
+authors of the paper showed that the density of the fluid metal was 9.51
+as compared with 10.57, the density of the solid metal. Taking their
+results generally, it is found that the change of volume of the
+following metals in passing from the solid to the liquid state may be
+thus stated:
+
+               Specific       Specific
+   Metal.        Gravity,      Gravity,      Percentage of
+                 Solid.        Liquid.         Change.
+
+  Bismuth         9.82         10.055     Decrease of volume  2.3
+  Copper          8.8           8.217     Increase       "    7.1
+  Lead           11.4          10.37          "          "    9.93
+  Tin.            7.5           7.025         "          "    6.76
+  Zinc            7.2           6.48          "          "   11.10
+  Silver         10.57          9.51          "          "   11.20
+  Iron            6.95          6.88          "          "    1.02
+
+       *       *       *       *       *
+
+
+
+
+HYDROPHOBIA PREVENTED BY VACCINATION.
+
+
+M. Pasteur and other French savants have lately been devoting special
+attention to hydrophobia. The great authority on germs has, in fact,
+definitely announced that he does not intend to rest until he has made
+known the exact nature and life-history of this terrible disease, and
+discovered a means of preventing or curing it. The most curious result
+yet attained in this direction, however, has been announced by Professor
+V. Galtier, of the Lyons Veterinary School. This inquirer has found, in
+the first place, that if the virus of rabies be injected into the veins
+of a sheep, the animal does not subsequently exhibit any symptoms of
+hydrophobia. This in itself would be a sufficiently curious result
+to justify attention, though its importance, except as confirmatory
+testimony, becomes less striking when it is remembered that M. Pasteur
+has lately shown that the special _nidus_ of the disease appears to be
+the nervous tissue, and particularly the ganglionic centers. But there
+is this further curious consequence: sheep who have thus been treated
+through the blood, and who are afterwards inoculated in the ordinary
+way through the cellular tissue, as if by a bite, are proof against
+the disease. It is as though the injection into the veins acted as a
+vaccine. Twenty sheep were experimented upon; ten only were treated to
+the venous injection, and then all were inoculated through the cellular
+tissue. The ten which had been first "vaccinated" continue alive and
+well; they have not even shown any adverse symptoms. The other ten have
+all died of rabies. It remains to say why M. Galtier experimented
+upon sheep, and not upon dogs and cats, which usually communicate the
+disease. The incubation of the disease is much more rapid and less
+capricious in the sheep than in the dog or in man, and hence M. Galtier
+was able to get his results more certainly within a short period. Having
+succeeded so far, he is now justified in undertaking the more protracted
+series of observations which experiments upon the canine species will
+involve; and this he proposes to do. Experiments of this nature are not
+without a serious risk, and admiration is almost equally due to the
+courage and the intelligence of the experimentalist. But what will the
+anti-vaccinator say?--_Pall Mall Gazette_.
+
+       *       *       *       *       *
+
+
+
+
+ON DIPTERA AS SPREADERS OF DISEASE.
+
+By J.W. SLATER.
+
+
+The two-winged flies, in their behavior to man, stand in a marked
+contrast to all the other orders of insects. The Lepidoptera, the
+Coleoptera, the Neuroptera, the Hymenoptera no doubt occasion, in some
+of their forms at least, much damage to our crops. But none of them are
+parasitic in or upon our bodies; none of them persistently intrude into
+our dwellings, hover around us in our walks, and harass us with noise
+and constant attempts to bite, or at least to crawl upon us. Even the
+ants, except in a few tropical districts, rarely act upon the offensive.
+The Hemiptera contain one semi-parasitic species which has attained a
+"world-wide circulation," and one degraded, purely parasitic group.
+But the Diptera, among which the fleas are now generally included as a
+degenerated type, comprise more forms personally annoying to man than
+all the remaining insect orders put together. These hostile species are,
+further, incalculably numerous, and occur in every part of the globe.
+Mosquitoes swarm not merely in the swampy forests of the Orinoco or the
+Irrawaddy, but in the Tundras of Siberia, en the storm-beaten rocks of
+the Loffodens, and are even encountered by voyagers in quest of the
+North Pole. The common house fly was probably at one time peculiar to
+the Eastern Continent, but it followed the footsteps of the Pilgrim
+Fathers, and is now as great a nuisance in the United Slates and the
+Dominion as in any part of Europe. It is curious, but distressing, to
+note the tendency of evils to become international. We have communicated
+to America the house-fly and the Hessian fly, the "cabbage-white,"
+the small pox, and the cholera. She, in return, has given us the
+_Phylloxera_, a few visitations of yellow fever, the _Blatta gigantea_,
+and, climate allowing, may perhaps throw in the Colorado beetle as a
+make-weight. In this department, at least, free trade reigns undisputed.
+It is a singular thing that no beautiful, useful, or even harmless
+species of bird or insect seems capable of acclimatizing itself as do
+those characterized by ugliness and noisomeness.
+
+But, returning from this digression, we find in the Diptera the habit of
+obtrusion and intrusion, of coming in actual contact with our food and
+our persons, combined with another propensity--that of feeding upon
+carrion, excrement, blood, pus, and morbid matter of all kinds. This
+is a combination far more serious than is generally imagined. If the
+fly--which may at any moment settle upon our lips, our eyes, or upon
+an abraded part of our skin--were cleanly in its habits, we need feel
+little annoyance at its visits. Or if it were the most eager carrion
+devourer, but did not, after having dined, think it necessary to
+seek our company, we might hold it, as is done too hastily by some
+naturalists, a valuable scavenger. I fear, however, that I have already
+made too great a concession. So long as very many persons are suffering
+from disease--so long as many diseases are capable of being transmitted
+from the sick to the healthy--so long must any creature which is in the
+habit of flying about, and touching first one person and then another,
+be a possible medium of infection and death.
+
+Let us take the following case, by no means imaginary, but a
+generalization from occurrences far too frequent: A healthy man, sitting
+in his house or walking in the fields, especially in countries where the
+insectivorous birds have been shot down, suddenly feels a sharp prick on
+his neck or his cheek. Putting his hand to the place he perhaps crushes,
+perhaps merely brushes away, a fly which has bitten him so as to draw
+blood. The man thinks little of so trifling a hurt, but the next morning
+he finds the puncture exceedingly painful. An inflamed pimple forms,
+which quickly gets worse, while constitutional symptoms of a feverish
+kind come on. In alarm he seeks medical advice. The doctor tells him
+that it is a malignant pustule, and takes at once the most active
+measures. In spite of all possible skill and care the patient too often
+succumbs to the bite of a _mouche charbonneuse_, or carbuncle-fly. But
+has any kind of fly the property of producing malignant pustule by
+some specific inherent power of its own? Surely not. The antecedent
+circumstances are these: A sheep or heifer is attacked with the disease
+known in France as _charbon_, in Germany as _milz-brand_, and in England
+as _splenic fever_. Its blood on examination would be found plentifully
+peopled with bacteria. If a lancet were plunged into the body of the
+animal, and were then used to slightly scratch or cut the skin of a man,
+he would be inoculated with "charbon." The bite of the fly is precisely
+similar in its action. Its rostrum has been smeared with the poisoned
+blood, an infinitesimal particle of which is sufficient to inclose
+several of the disease "germs," and these are then transferred to the
+blood of the next man or animal which the fly happens to bite. The
+disease is reproduced as simply and certainly as the spores of some
+species of fern give rise to their like if scattered upon soil suitable
+for their growth. But flies which do not bite may transfer infection.
+Every one must know that if blood be spilt upon the ground a crowd of
+flies will settle upon and eagerly absorb it. Animals suffering from
+splenic fever in the later stages of the disease sometimes emit bloody
+urine. Often they are shot or slaughtered by way of stamping out the
+plague, and their carcasses are buried deep in the ground. But some loss
+of blood is sure to happen, and this will mostly be left to soak into
+the ground. Here again the flies will come, and their feet and mouth
+will become charged with the contagion. Such a fly, settling upon
+another animal or a man, and selecting--as it will do by preference, if
+such exist--a wound, or a place where the skin is broken, will convey
+the disease.
+
+Again, M. Pasteur has thoughtfully pointed out that if an animal has
+died of splenic fever, and has been carefully buried, the earth-worms
+may bring up portions of infectious matter to the surface, so that sheep
+grazing, or merely being folded over the spot in question, may take the
+plague and die. Hence be wisely counsels that the bodies of such animals
+should be buried in sandy or calcareous soils where earth-worms are not
+numerous. But it is perfectly legitimate to go a step farther. If such
+worm-borings retain the slightest savor of animal matter, flies will
+settle upon them and will convey the infectious dust to the most
+unexpected places, giving wings to the plague.
+
+Now it is very true that no one has seen a fly feasting upon the blood
+of a heifer or sheep dying or just dead of splenic fever, has then
+watched it settle upon and bite some person, and has traced the
+following stages of the disease. But it is positively known that a
+person has been bitten by a fly, and has then exhibited all the symptoms
+of charbon, the place of the bite being the primary seat of the
+infection. We know also, beyond all doubt, the eagerness with which
+flies will suck up blood, and we likewise know the strange persistence
+of the disease "germs."
+
+Again, the avidity of flies for purulent matter is not a thing of mere
+possibility. In Egypt, where ophthalmia is common, and where the "plague
+of flies" seems never to have been removed, it is reported as almost
+impossible to keep these insects away from the eyes of the sufferers.
+The infection which they thus take up they convey to the eyes of persons
+still healthy, and thus the scourge is continually multiplied.
+
+A third case which seems established beyond question is the agency of
+mosquitoes in spreading elephantiasis. These so-called sanitary agents
+suck from the blood of one person the Filariae, the direct cause of the
+disease, and transfer them to another. The manner in which this process
+is effected will appear simple enough if we reflect that the mosquito
+begins operations by injecting a few drops of fluid into its victim, so
+as to dilute the blood and make it easier to be sucked.
+
+So much being established it becomes in the highest degree probable that
+every infectious disease may be, and actually is, at times propagated
+by the agency of flies. Attention turned to this much neglected quarter
+will very probably go far to explain obscure phenomena connected with
+the distribution of epidemics and their sudden outbreaks in unexpected
+quarters. I have seen it stated that in former outbreaks of pestilence
+flies were remarkably numerous, and although mediaeval observations on
+Entomology are not to be taken without a grain of salt, the tradition
+is suggestive. Perhaps the Diptera have their seasons of unusual
+multiplication and emigration. A wave of the common flea appears to have
+passed over Maidstone in August, 1880.
+
+We now see the way to some practical conclusions not without importance.
+Recognizing a very considerable part of the order of Diptera, or
+two-winged flies, as agents in spreading disease, it surely follows
+that man should wage war against them in a much more systematic and
+consistent manner than at present. The destruction of the common
+house-fly by "_papier Moure_," by decoctions of quassia, by various
+traps, and by the so-called "catch 'em alive," is tried here and there,
+now and then, by some grocer, confectioner, or housewife angry at the
+spoliation and defilement caused by these little marauders. But there
+is no concerted continuous action--which after all would be neither
+difficult nor expensive--and consequently no marked success. Experiments
+with a view of finding out new modes of fly-killing are few and far
+between.
+
+Every one must occasionally have seen, in autumn, flies as if cemented
+to the window-pane, and surrounded with a whitish halo. That in some
+seasons numbers of flies thus perish--that the phenomenon is due to a
+kind of fungus, the spores of which readily transfer the disease from
+one fly to another--we know. But here our knowledge is at fault. We
+have not learnt why this fly-epidemic is more rife in some seasons than
+others. We are ignorant concerning the methods of multiplying this
+fungus at will, and of launching it against our enemies. We cannot tell
+whether it is capable of destroying _Stomoxys calcitram_, the blowflies,
+gadflies, gnats, mosquitoes, etc. Experiment on these points is rendered
+difficult by the circumstance that the fungus is rarely procurable
+except in autumn, when some of the species we most need to destroy are
+not to be found. Another question is whether the fungus, if largely
+multiplied and widely spread, might not prove fatal to other than
+Dipterous insects, especially to the Hymenoptera, so many of which,
+in their character of plant-fertilizers, are highly useful, or rather
+essential to man.
+

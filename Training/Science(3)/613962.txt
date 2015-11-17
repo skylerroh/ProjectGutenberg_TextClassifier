@@ -1,0 +1,460 @@
+it is for the return span, on which the parachutes are closed. Of course,
+if metal were used instead of hemp, the case would be entirely different,
+and intermediate supports would have to be used for anything but very
+moderate lengths.
+
+In practice, Mr. Jagn has employed two ropes wound upon the same pair of
+drums, which are mounted upon a pontoon. The ropes are spread out from
+each other, as in Fig. 1, making an angle of about 10 degrees. The low
+specific gravity of the system enables ropes to be employed of as great a
+length as 450 yards, each of them carrying 350 parachutes of 17.2 square
+feet area. As half of these are in action at the same time, the total
+working area for the two cables is 5,860 square feet. This immense area
+furnishes a considerable amount of power even in a river of feeble
+current. Comparing this with a floating water wheel of the type sometimes
+employed, and supposing this to have only 172 square feet of working area,
+such a wheel must have a length of 46 feet, a diameter of 23 feet, and
+seventy-two floats, each 21/2 feet wide. The enormous dimensions thus
+required for a comparatively small working area point sufficiently clearly
+to the advantage which remains on the side of the parachute motor.
+
+The general arrangement of the system is shown in the engraving. Behind
+the return pulleys, D D, are attached cords, A A, with some parachutes
+strung upon them. These present their openings to the current and preserve
+the tension of the connecting ropes. At the further end of each cord is a
+board, B, which is kept in a vertical plane, but lying at a slight angle
+to the direction of the current; and this acts to keep the two moving
+ropes apart from each other. The two return pulleys are, however,
+connected by a line, E, which can be shortened or lengthened from the
+pontoon, and in this way the angle of inclination between the two ropes
+can be varied if required. A grooved pulley presses upon the trailing span
+at the moment before it reaches the circumference of the drum. It is
+mounted on a screwed spindle, which is depressed by a nut, and thus makes
+the wet rope grip the outside of the drum in a thoroughly efficacious
+manner.
+
+The author has made a theoretical investigation of the power which may be
+developed by the system, and has worked out tables by which, when the
+velocity of the current and the other elements of the problem are known,
+the power developed by any given number of parachutes can be at once
+determined. We do not reproduce this investigation, which takes account of
+the resistance of the returning parachutes and other circumstances, but
+will content ourselves with quoting the final equation, which is as
+follows: T = 0.328 S V cubed. Here T is the work done in H.P., S is the total
+working area in sq. m., and V is the velocity of the current in m. per
+sec. Taking V = 1, and S = 1 sq. m., which is by no means an impracticable
+quantity, we have T = 0.328 H.P. per sq. m. We may check this result by
+the equation given, in English measures, by Rankine--"Applied Mechanics,"
+p. 398--for the pressure of a current upon a solid body immersed in it.
+This equation, F = 1.8 m A v squared / 2g, where m is the weight of a unit of
+volume of the fluid--say 62 lb.--A is the area exposed, and v the relative
+velocity of the current. Mr. Jagn finds that the maximum of efficiency is
+obtained when the rope moves at one-third the velocity of the stream. If
+this velocity be 3 feet per second, we shall have v = 2. and we then get F
+= 7 lb. per sq. ft. very nearly. Now 1 sq. meter = 10.76 sq. ft., and a
+speed of 1 ft. per second (which is that of the rope) is 60 ft. per
+minute. Hence the H.P. realized in the same case as that taken above will
+be 7 x 10.76 x 60 / 33,000 = 0.137 H.P. The difference between the two
+values is very large, but Rankine, of course, depends entirely on the
+value of the constant 1.8, which is quite empirical, and is for a flat
+band instead of a hollow parachute. Taking, however, his smaller figure,
+and an area of 544 square inches, which Mr. Jagn has actually employed, we
+get a gross power of = 0.137 x 544 = 7.43 H.P. Hence it will be seen that
+the amount of power which can be realized by the system is far from being
+inconsiderable.
+
+Lastly, we may point out that the durability of the apparatus will be
+considerable. There is no wear except at the moment when the rope is
+passing round the drum, and even then there need be no slipping or
+grinding. The apparatus worked in the Neva was in very good condition
+after running for four months day and night. After five months about
+one-fifth of the parachutes had to be replaced, but after seven months the
+hemp rope still showed no signs of wear. We think we have said enough to
+show that for certain purposes, and especially, as we have, already
+mentioned, for irrigation purposes, the new motor is well worthy of a
+careful and extended trial. It may be questioned even whether we have not
+here the germ of an idea which may hereafter enable us to solve one of the
+most interesting and important of engineering problems, viz., the
+utilization of the great store of power provided for us twice daily in the
+ebb and flow of the tide.--_The Engineer._
+
+       *       *       *       *       *
+
+
+
+
+IMPROVED SHAFTING LATHE.
+
+
+Our engraving represents a new departure in shaft turning lathes, and is
+the result of thirty years' experience in the manufacture of shafting,
+with many years' study, to perfect a machine of the greatest practical
+capacity and efficiency.
+
+[Illustration: IMPROVED SHAFTING LATHE.]
+
+The principal points of difference from a common engine lathe are readily
+distinguished, among which may be mentioned the absence of centers and
+tail stock, a traveling head with hollow driving spindle, and a stationary
+tool rest and water tank. By dispensing with a tail stock a much shorter
+bed may be used, and the hollow driving spindle enables any length shaft
+to be turned, with one setting of the tools. The tool rest is so arranged
+as to allow of perfect lubrication of the tools, keeping the shaft cool,
+and at the same time holding it perfectly rigid and strong; the operator
+is not required to travel the length of the bed, but remains near the
+driving belt, feed gearing, etc. Power is communicated to the driving
+spindle by means of a sliding pinion on a splined rod inside the bed, the
+driving belt and gears being at the end.
+
+The driving head, after having traveled the length of the bed and turned a
+shaft, is returned by a quick feed, and stops automatically, allowing
+nearly time enough for the operator to grind tools and be ready with
+another shaft, thus economizing the time completely.
+
+Wood, Jennison & Co., Worcester, Mass., are the makers, and they say that
+with a good quality of iron they have turned three hundred feet of two
+inch iron in ten hours.
+
+       *       *       *       *       *
+
+
+
+
+POWER STRAIGHTENING MACHINE.
+
+
+The machine is provided with a pair of rolls at each end of the bed, which
+are adjustable for different lengths of shaft, and are made to revolve by
+power applied through suitable gearing and a splined rod inside the bed;
+the bar of iron being placed on the periphery of the rolls receives a
+rotary motion by friction, and shows the crooked places in the same way
+and with the same ease as though rotating on centers in the usual manner;
+vertically adjustable blocks are arranged in the base of the press to
+support the iron; power is applied by means of gearing to a splined rod at
+the back of the machine, on which is a sliding clutch connecting, at the
+will of the operator, with an eccentric; the eccentric conveys motion and
+power through a link to the elbow joint at the front of the press, which
+forces a plunger down against the iron.
+
+[Illustration: POWER STRAIGHTENING MACHINE.]
+
+Sufficient adjustment is provided for different sizes of iron by turning a
+nut at the top of the press.
+
+Any point in the length of the bar can be reached by moving the press on
+the bed. Any length of iron can be straightened, and the most laborious
+and disagreeable work in the process of making shafting is rendered easy
+and rapid. Made by Wood, Jennison & Co., Worcester, Mass.
+
+       *       *       *       *       *
+
+
+
+
+HYDRAULIC MINING IN CALIFORNIA.
+
+By GEORGE O'BRIEN.
+
+
+Our knowledge of the primitive operations of the aboriginal inhabitants of
+the globe in pursuit of gold is barely traditional, as we are only aware
+that from very early times the precious metal was collected and highly
+prized by them, and that they chiefly extracted the visible gold, which
+existed in prodigious quantities on or closely beneath the surface of the
+earth, and of its being particularly abundant in Asia and Africa. But we
+can draw more positive conclusions as we survey remains of the rude but
+effective contrivances used by them in later, but still remote, periods,
+with full evidence as to the extent of their operations, in the numerous
+perpendicular shafts located at short distances from each other, over
+large areas of auriferous gravel in India, as well as from precisely
+similar memorials of ancient workings which remain also further
+demonstrations, in the abandoned "hill diggings," and shifted beds, and
+beds of rivers, in Peru South America, flowing between the sea and coast
+ranges of the Andes, descending in a northeasterly direction to the river
+Amazon, and that their much coveted and enormous productions were the
+accumulated riches of the Incas, transferred as spoils of war to their
+Spanish conquerors in the sixteenth century. And for similar explorations
+in the same class of depositions we have the experiences of our own times,
+and which explain by comparison all the previous operations alluded to.
+
+Thus in the year 1849, after the cession of the northern portion of Mexico
+to the United States of North America, the rich mineral district of
+California was at once invaded by hardy and intelligent bands of mining
+adventurers from all parts of the world, who, with little other means at
+their disposal but pick, shovel, and pan, soon fell on the productive bars
+of rivers and rich ravines where the gold was trapped, derived from its
+original birthplaces, where it had been sparsely disseminated, to be
+dispersed by the subsequent disintegrations and denudations of the
+mountains themselves, and deposited in a disengaged form for the first
+comer; and so perfect were sometimes these concentrations, in certain
+localities where water once streamed, that, divested of its earthy matrix,
+the cleansed pure metal was found deposited, detained by its superior
+specific gravity, on the bare rock, and only hidden from vision by a
+slight covering of vegetable mould. In this manner, as an example of such
+concentration, a "pot" or "find" (in mining parlance) to the value of
+L10,000 was collected in a space of 15 square yards, or within the limits
+of a particular "mining claim," at the foot of Mokulumne Hill, in a
+southern county of California, soon after the territorial transfer from
+Mexico. And in search of such locations we must account for the numberless
+shafts which still exist both in India and Peru, and sometimes sunk within
+a few feet of each other, passing through the alluvium to a depth of 40
+feet to the bed rock.
+
+These mining adventurers soon extended their explorations over the other
+recently acquired territories, and built Virginia City, the capital of
+Montana, with the gold derived from the alluvium of a river channel which
+they excavated; and its inhabitants were the founders of an institution
+called the Vigilance Committee, with "Lynch law," and by it ruled
+supremely for many years. But their surface diggings, by the manual
+operations alone of multitudes, were soon exhausted in every direction,
+and then their energies and powers of invention were dedicated to discover
+and explore deeper and more permanent depositions, along the western
+slopes of the Sierra Nevada, the Andes of the Western Territories, and
+which originally were without doubt several miles higher than they are at
+the present time--probably 20,000 feet above the sea-level--and of which,
+or whatever superior elevation they formerly had, the greater portion of
+it has already been removed, by the continuous natural action of
+centuries, to form there, as elsewhere, the plains and prairies of the
+earth, burying and diverting by the mutation the ancient river system,
+whose sources of supply were consequently extinguished by the removal of
+these altitudes. These denudations and subsequent depositions have been
+caused by alternations of temperature and combined action of air, water,
+and time since the creation of the world; and powerful demonstrations of
+these transformations instruct us in all directions, if we care to observe
+them. Thus in "Little Cottonwood" ravine, in the Wahsatch range of
+mountains in Utah Territory, lie isolated in the center of the valley huge
+masses of metamorphic granite, some blocks of which weigh individually
+thousands of tons, and were dislodged from the hills--which on either side
+are of limestone formation--with no visible granite in them, having been
+undermined by the removal of their pulverized basis by denudation, and
+which is the material now forming the tablelands, the foundation, of Salt
+Lake City. The blocks of granite, having alone resisted the atmospheric
+changes, were precipitated into the valley beneath, and the Mormons are
+now constructing their cathedral church from these granitic remains.
+
+The melting of the snow which formerly capped all these ranges of
+mountains furnished the water that once flowed in the extinguished
+channels of ancient rivers, and whose now diverted waters were also the
+powerful agent to assist in causing these marvelous alternations; and by
+the means of hydraulic mining we can advance our feeble knowledge on the
+subject.
+
+These mighty changes have gradually been accomplished, and the accumulated
+denudations of the mineral zones have defended themselves by strata of
+crystallized silicates of quartz of various thicknesses, and thus in
+places beneath such system of defense, or by their own concretion, have
+preserved in many localities a thickness of from 500 to 600 feet of
+conglomerate, but without this necessary cementation its further removal
+is very certain when again attacked by water. An example of this
+continuous process is very observable in "Death Valley," Lower California,
+where a width of about 100 miles has been filled up from the hills to the
+gulf of same name, invading and occupying its former bed; and this
+activity is still proceeding, and a temporary formation of tableland
+above it is in course of removal, although already overgrown with forest
+trees, which are toppling over the side which is being attacked. But
+eternal snow now only covers a small portion of these Sierras, and a
+period of comparative repose may be expected, as the distribution has
+already been far advanced by the excessive reduction of the mountains.
+
+The deep and extensive depositions which I now attempt to describe
+attracted the early attention of the mining adventurers, and were called
+"hill diggings," but not being properly understood were therefore not
+immediately operated upon, and remained in abeyance, while the lower,
+richer, and more manifest alluvials endured. They were designated "blue
+gravel," the color being due to the action of sulphuret of iron and other
+salts, the cementing auxiliaries requisite to form the hard conglomerate,
+and on exposure to the atmosphere changes color to yellow and violet,
+losing also its firmness by oxidation.
+
+The "great blue lead" is another important mining term and designates the
+alluvium found reposing in a well-defined channel on the bed rock, being
+the well-worn path of an ancient river; and it is obvious that the
+material in these channels should be richer than the general mass beyond
+their limits.
+
+"Rim rock" is the boundary line of the banks of the old channel, and, like
+the bottom, is well worn and corrugated by the running water into cavities
+and "pot holes," where the force of the stream eddied. The width of these
+channels varies from 60 to 400 feet, and the cement near the rim and
+bottom is always richer than elsewhere. The wider and deeper channels
+generally course from N. to N.W. The richest and most explored belt of
+gold-bearing alluvium in California lies between the South and Middle Yuba
+Rivers, commencing near Eureka, in Nevada county, and extends downwards to
+Smartsville and Timbuctoo, in Yuba county, a distance of 40 miles; and
+from among snowy mountains the country falls gradually from where the
+ravines or canons are cut by the actual rivers, which are 2,000 feet
+beneath the auriferous gravel and region near Smartsville, and 2,000 feet
+above the Yuba River, where snow is unknown, and near its terminus the
+ancient river bed courses more westerly than it does above it, and crosses
+Yuba below Timbuctoo, where the auriferous depositions disappear. The
+whole distance of 40 miles has been ransacked by the earlier adventurers,
+and around the village of Timbuctoo was a center famed for its wonderful
+yield of gold, obtained chiefly in the ravines, in holes, and depressions
+in the bed rock. These hollows detained the concentrations of the
+denudated alluvium from the altitudes, and were generally closely beneath
+the surface, and by such guidance and means of discovery the miners traced
+the gold up the ravines to their sources in the lofty mounds and deposits,
+or hills of cemented conglomerate, near Eureka in Nevada county; and by
+constructing canals from a higher level began the new system of "hydraulic
+mining" and washing, and gradually extended their operations over the area
+of the metallic zone mentioned, of 40 miles long by 20 wide, using the
+Yuba River below Timbuctoo to receive and discharge the tailings, or
+refuse from their operations. The result in gold was considerable, but the
+system is from its violent nature difficult to control, by presuming to
+handle and remove such huge depositions in order to collect the richest
+material. The idea was bold, being an anticipation of Nature's operations;
+but the equitable disposal of the "tailings" in a cultivated country is
+impossible, as the silt runs down the rivers, creating banks and bars in
+their channels, obstructing navigation and agricultural arrangements.
+
+_General Description of Hydraulic Mining._
+
+The first work to be accomplished, after calculating that the amount or
+value of the material to be operated upon is sufficient to guarantee the
+cost of the undertaking in general, is the construction of a canal or
+canals, to convey the requisite volume of water from the fountain-head,
+and of sufficient elevation to command the ground to be worked upon,
+having also in view the levels of the necessary tunnels and shafts as
+outlets for the discharge of the gravel through them, these being
+engineering operations requiring much skill and labor to avoid useless
+after-cost.
+
+Aqueducts of considerable elevation have to be constructed across deep
+valleys, and the speculation is at all times problematical, as the ground
+cannot be properly tested until the water arrives upon it, and disputes
+may arise between the shareholders of the canal and the mining company,
+ending frequently in the one devouring the other, unless the two interests
+be quickly amalgamated.
+
+The starting point should be the lowest level, or "bed rock," on the white
+cement in the ancient channel, which is probably the original silt
+collected in it, and is harder than the conglomerate above it, which is
+more easily removed. The courses of these beds can be easily traced by
+landmarks and undulations, and occasional exposures of the bed rock at low
+levels; also trial shafts are sunk in various places in search of it, to a
+depth of 100 feet, passing through blue gravel. The grades of these beds
+are not steep, being from 10 to 40 feet per mile as of an ordinary river,
+and the calculated thickness of the alluvial conglomerate is about 600
+feet in many places across the ridge between the South and Middle Yuba
+River across the Columbia.
+
+The power of the water for the operation is dependent on a given volume
+deposited in a reservoir, and at sufficient elevation above the points of
+discharge, as on this depends effectivity to tear down the gravel. It is
+delivered to the miner by huge pipes made of wrought iron, and laid down
+to follow the curvatures of the surface of the ground; and the pipe I now
+treat of, belonging to the Excelsior Water Company, has a diameter of 40
+inches on a length of 6,000 feet, and 20 inches on the rest of its length
+of 8,000 feet, being 9,000 feet in all; and this large pipe forms an
+inverted siphon across a valley, following on the gravel, to the top of
+the hill into the reservoir.
+
+These pipes offer advantages over wooden aqueducts for spanning chasms,
+and also to avoid coursing the sides of valleys; being also cheaper to
+construct in general, and less liable to accidents from fire and storms,
+and have the convenience for conveying the water from point to point, as
+the work of excavation advances, necessitating the removal of portions of
+the aqueduct forward. The watershed, or reservoir, of the Excelsior
+Company embraces the valley of the South Yuba and its affluents, and the
+entire cost of its eight amalgamated canals was 750,000 dollars.
+
+The rainfall during three years in the mountains averaged 49 inches
+annually, while the medium in the same period did not exceed 20 inches in
+the plains beneath. The height of the reservoir above the tailing, or Yuba
+River, is 393 feet: and the height of the head above the floor, or outlet
+sluice-tunnel, of the Blue Gravel Mining Company was 197 feet.
+
+The exact quantity of water required to wash every class of gravel is
+difficult to estimate, but no quantity or pressure would be excessive if
+properly arranged. The measurement of water is effected by miner's
+inches, by allowing it to flow from the reservoir of the seller to the
+purchaser through a box 10 or 12 feet square, with divisions to obtain a
+quiet head, with a slide or opening capable of adjustment to any required
+measure; thus an opening of 25 inches by 2 inches, with a quiet head of 6
+inches above the middle of the orifice, would give 50 inches, or about
+89,259 cubic feet of water, flowing during ten hours per day, being an
+amount necessary for a first-class operation. The capability of the
+Excelsior Canal in rainy seasons reached to a delivery in twenty-four
+hours, to the various mining companies, of 21,120,000 cubic feet of water,
+or 8,000 miner's inches, and the value of the water paid for by the Blue
+Gravel Company in forty-three months ending November 9, 1867, was 157,261
+dollars, being at the rate of 15 cents of a dollar per miner's inch; and
+the proportion of water used to wash down 989,165 cubic yards of gravel
+was 17,074,758 cubic yards, or 171/4 cubic yards of water to 1 cubic yard of
+gravel; and when at work the quantity of gravel daily moved was 1,298
+cubic yards, and the estimated cost to move one cubic yard of gravel was 5
+and 7/10 cents of a dollar. But in the face of contingencies the Blue
+Gravel Company moved 1,000,000 cubic yards of gravel in four years, or at
+the rate of 250,000 cubic yards per annum, and the cost of washing each
+cubic yard stands thus:
+
+                                                 Cents.
+  Cost of water, at 15 cents per miner's inch     5.77
+  Cost of labor, gunpowder, sluices, and
+      superintendence                            16.10
+                                                 -----
+                                                 21.87
+    Or 213/4 cents of a dollar per cubic yard.
+
+Thus the gravel should contain gold to the value of 22 cents of a dollar
+per cubic yard to cover cost, and the value of the gravel referred to
+ranged from 20 to 45 cents per cubic yard; and the cost of work done in
+shafts and tunnels, in the said Blue Gravel Company's Mining claim,
+reached 100,000 dollars. But with the cost of the necessary canals paid
+for by the Excelsior Water Company apart, the total cost amounted to about
+1,000,000 dollars, and we must note that the latter company sold water to
+other mining companies.
+
+The gross yield in gold of the Blue Gravel Company in four years was
+837,399 dollars, and in the year 1866 the returns from the Blue Gravel
+Company paid all the costs of the developments; but in 1867 assessments
+were paid by the owners to meet the deficiency arising from the cost of
+sinking two new shafts, and driving fresh tunnels on the lowest levels,
+which evidently contain on the bed rock the richest concentrations.
+
+In smaller mining adventures of this description, involving less capital,
+large profits have been made in the gold-bearing zone treated of, by also
+not having invested in costly canals, which would not have repaid the
+latter investment; and thus it is evident that the water companies are
+dependent blindly on the prosperity of the miners.
+
+I will now more minutely describe the actual mining operations. The mining
+ground being selected, a tunnel is projected from the nearest and most
+convenient ravine, so that the starting-point on the bed rock toward the
+face of the ravine shall approach the center of the material to be removed
+at a gradient of 1 in 10 to 1 in 30. The dimensions of such tunnels are
+usually 6 feet in width by 7 in height, and continuing in contact with the
+hard river-bed, for the greater ease of excavation, collection of gold,
+and conservation of quicksilver amalgam.
+
+These tunnels vary in length from a few hundred feet to a mile, and some
+of the longer ones occupying from one to seven years in execution, at a
+cost of from 10 to 60 dollars per foot of frontage. The tunnel of the Blue
+Gravel Company, with length of 1,358 feet, cost in labor alone 70,000
+dollars, but it could now be driven for 35,000 dollars, as skilled labor
+is cheaper now than then. The grade in this tunnel is about 12 per cent.,
+and the end of the tunnel is designed to be 170 feet of elevation, and
+reaching to a point beneath the surface of the gravel which is being
+operated upon, and where a shaft or incline is sunk to or through the bed
+rock or gravel, until it intersects the tunnel.
+
+The object of this laborious operation is obvious, as the long tunnel
+becomes a sluiceway, and through the whole length of which sluice boxes
+are laid, for the double motive of carrying off the material and saving
+the gold, and for this purpose a trough of strong planks is placed in the
+tunnel, 21/2 feet wide, and with sides high enough to contain the stream.
+The pavement of the trough is generally laid of blocks of wood 6 inches in
+thickness, cut across the grain, and placed on their ends, to the width of
+the sluiceway. The wooden blocks are usually alternated with sections of
+stone pavement, the stones being set endwise, and in the interstices
+between the stones and wooden blocks quicksilver is distributed, and as
+much as 2 tons of this metal is required to charge a long sluice. The
+water in the canal is brought by aqueducts, or other means, to the head of
+the mining ground, having an elevation of 100 to 200 ft. above the lowest
+level of the mining ground, and is finally conveyed to it by iron pipes,
+sometimes sustained on a strong incline of timber.
+
+These pipes are of sheet iron, of adequate strength, riveted at the
+joints, and measure from 12 to 20 inches in diameter, and communicate at
+the bottom with a strong prismatic box of cast-iron, on the top and sides
+of which are openings for the adaptation of flexible tubes, made of very

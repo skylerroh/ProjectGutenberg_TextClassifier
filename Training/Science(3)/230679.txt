@@ -1,0 +1,214 @@
+
+"So you've been thinking?" he asked, reaching for his curve-stemmed
+pipe.
+
+"How do you know?"
+
+"My spies tell me you haven't been out in the lab since the other day.
+Certainly you were doing something besides sulk in your office."
+
+"Yes."
+
+"Well, what did you come up with? Why did that switching operation
+fail out in space."
+
+"I don't know."
+
+His shaggy eyebrows shot up. "You don't know? Is that all COMCORP got
+for three days' pay?"
+
+"A confession of ignorance is a hell of a lot more revealing than a
+solid error," I snapped. "The honest answer that I get out of the
+telemetry data is that something in that gate broke the circuit and
+the switching operation failed. I think there are about seven thousand
+components in the gate. I don't know which one failed. A few I can
+rule out, because they would only cause part of the gate to fail. But
+a hundred different breaks could account for the data. So I don't
+know."
+
+He lit his pipe and blew smoke around the curved stem before he made
+reply. "So we got a philosopher for our money," he said. "A confession
+of ignorance, eh? What are you going to do about it?"
+
+"You tell me, Mr. Cleary. You're the old head around here."
+
+"So I am," he said evenly. "So I am. Well, my advice to young pups is
+that they should not be ashamed when they don't know. They should say
+so. But they should have something else to say along with it."
+
+"For example," I suggested grumpily.
+
+"They should say, 'I don't know, but I know where to find out,'" he
+said. "Tell me, Dr. Seaman, do you know where to find out?"
+
+He puffed at me for the two or three minutes I thought about it.
+Really, that's a very long time to think. Most ideas come to you the
+moment you identify the problem, which is the really hard part of
+thinking. But this problem took some thought, and I wanted him to
+think I was thinking.
+
+"Yes," I said at last. "I know where to find out."
+
+"Where?"
+
+"Out in space."
+
+       *       *       *       *       *
+
+This called for a lot more smoke. "You mean, go out there and look at
+the satellite, in space?"
+
+"Yes, I can't imagine any other way really to figure it out."
+
+He nodded. "You may be right, Mike. But do you know how much it costs
+to send a manned satellite aloft?"
+
+"Oh," I agreed. "There are cheaper ways. We can beef up every part in
+that gate, test it much tougher than we already have, and when we get
+the gate to where all seven thousand components can stand any
+imaginable strain, we can rebuild the twelve Telstars we haven't
+launched yet and be pretty sure they won't have switching failures.
+But that isn't what you asked me."
+
+"We'd have to fix eighteen of them," he said. "The first six are about
+sixty per cent useless. They'd have to be replaced."
+
+"I still think you should consider sending a man to examine the
+Telstars in orbit," I suggested.
+
+"Science demands it, eh" he growled.
+
+"No, I was thinking that perhaps a simple repair could be made in
+space, and that you wouldn't have to launch six extra birds."
+
+He got out of the chair and went to the clothes tree to put on his
+coat. The elbows were shiny from leaning on his desk. "It might be
+cheaper at that," he said. "The first six are launched in only two
+orbits. Three telstars in each orbit, separated by one hundred and
+twenty degrees. Two launches of a repair man might do it, with careful
+handling. Is that what you had in mind?"
+
+"Something like that."
+
+"We'd have to send a pretty rare kind of a repair man, Mike," he said,
+coming back to sit on the corner of his desk and glower down at me.
+That was about his kindest expression.
+
+"Yes," I agreed. "You need somebody who can test and diagnose, and
+then make a repair."
+
+"And who is an astronaut, too," he said. "I wonder if there is such a
+thing?"
+
+"Make one," I suggested.
+
+He scowled a little more fiercely. "Explain that," he ordered.
+
+"I figure you could take one of our men from my laboratory, who knows
+how to test the gate, and a man who is handy enough with miniature
+components to cut out the one that failed and replace it, and teach
+him how to get around in a spacesuit. That would surer than hell be
+quicker than taking one of these hot-shot astronauts and teaching him
+solid-state physics."
+
+"Yes," he agreed, looking down his fingers. "That was a pretty sneaky
+way to get out from between Fred Stone and me, young man."
+
+I couldn't resist it: "That's what took most of the three days," I
+said, just a little too smugly.
+
+"I liked you better in the middle," Cleary grumped. "Well, you have a
+thought, and it calls for a conference." He took his coat off again,
+hung it on the clothes tree, came back to his desk and got on the
+phone.
+
+"Sylvia? Have Fred Stone come up, and you come in with him, eh? That's
+a dear."
+
+He racked up the instrument and smiled at me as he stoked his pipe
+into more activity. "Relax," he advised me. "It always takes a while
+to round up Fred Stone."
+
+He wanted no small talk, so I fidgeted in my chair while Cleary rocked
+gently in his. In about ten minutes, curly-headed Sylvia brought Dr.
+Stone in with her.
+
+       *       *       *       *       *
+
+It was, "Hello, Fred," and "Hello there, Paul," when they came in.
+Sylvia didn't have anything to say, although she gave me a hot-eyed
+glance before pulling out the dictation board on Paul Cleary's desk
+and making herself comfortable with her notebook.
+
+Cleary offered Doc Stone some of his tobacco, which was politely
+refused. The old man began it:
+
+"Your Dr. Seaman has quite an idea, Fred," he said, in a mild, kindly
+voice, with a dumb, guileless look on his face.
+
+"Good, Paul," Doc Stone smiled thinly. "I've told you he's a good
+boy."
+
+"Hm-m-m," said Cleary. "He says his tests can't prove what went wrong
+with the switching gate on the satellites, and in effect that the
+telemetry doesn't make it plain whether we have design or assembly
+trouble."
+
+"Well, _well_!" said Fred Stone. I decided to start shopping for a
+marker for my grave.
+
+"Yes," Cleary said. "He made quite a suggestion, that we send a man
+out in space to look over the Telstars and find out what went wrong.
+Even better, he says it might be possible to make a repair at the same
+time and get the bird working. You can see the advantages of doing
+that, the way they are orbiting."
+
+"Yes, indeed," Doc Stone said, looking at me with slitted eyes. "Quite
+a unique adventure for some technician."
+
+"Just what I was thinking," Cleary said. "The problem resolves into:
+Who do we send? Now Mike, here, says we should take a man from his lab
+who knows the bird and its assembly and teach him how to get around in
+a spacesuit--that, he claims, would be quicker than taking one of
+these space jockeys and making a technician out of him."
+
+"I think he's right."
+
+"So--there we are. Who do we send?"
+
+"There can hardly be any choice," Dr. Stone said, looking at me with
+eyes like granite.
+
+"Hardly," Cleary agreed. "The head of the lab is the best man, beyond
+a doubt."
+
+They were talking about me! Try to get out of taking sides, would I?
+Cleary wanted me back in the middle. Stone wanted me dead. They were
+both likely to get their way, unless I told them off.
+
+I opened my mouth. Cleary cleared his throat loudly.
+
+"Oh, Dr. Seaman!" Sylvia cut in, breaking her careful silence. "What a
+thrilling opportunity for you!"
+
+I gaped at her. Well, Cleary had said it. She only went out with
+astronauts. She was space-happy.
+
+"There are men in the shop who deserve the chance...." I started.
+
+"Nonsense!" she said quickly. "It's your idea, doctor, and you deserve
+the fame!"
+
+"And the promotion this will undoubtedly earn--if you can bring it
+off," Cleary added.
+
+"Yes!" Dr. Stone said with relish. He didn't think I could, either.
+Well, that made three of us, unless Sylvia made four.
+
+"Thank you very much," I started, as a prelude to backing out.
+
+"Good, that's settled," Cleary said. "That's all, Sylvia."
+
+She got up and left. She had done her dirty work. If I hadn't been so
+sick at my stomach, I would have had to admire really great teamwork.
+

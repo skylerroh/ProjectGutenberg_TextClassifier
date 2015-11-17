@@ -1,0 +1,462 @@
+The Project Gutenberg EBook of Myths of the Norsemen, by H. A. Guerber
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Myths of the Norsemen
+       From the Eddas and Sagas
+
+Author: H. A. Guerber
+
+Release Date: April 4, 2009 [EBook #28497]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK MYTHS OF THE NORSEMEN ***
+
+
+
+
+Produced by the Online Distributed Proofreading Team at
+http://www.pgdp.net/
+
+
+
+
+
+
+
+
+                             Myths of the Norsemen
+
+                            From the Eddas and Sagas
+
+                                       By
+
+                                 H. A. Guerber
+
+                 Author of "The Myths of Greece and Rome" etc.
+
+
+
+
+                                     London
+                           George G. Harrap & Company
+                          15 York Street Covent Garden
+
+                                      1909
+
+
+
+
+
+
+
+
+                      Printed by Ballantyne & Co. Limited
+                    Tavistock Street, Covent Garden, London
+
+
+
+
+
+
+CONTENTS
+
+
+        Chap.                                                      Page
+
+        I.      The Beginning                                         1
+        II.     Odin                                                 16
+        III.    Frigga                                               42
+        IV.     Thor                                                 59
+        V.      Tyr                                                  85
+        VI.     Bragi                                                95
+        VII.    Idun                                                103
+        VIII.   Nioerd                                               111
+        IX.     Frey                                                117
+        X.      Freya                                               131
+        XI.     Uller                                               139
+        XII.    Forseti                                             142
+        XIII.   Heimdall                                            146
+        XIV.    Hermod                                              154
+        XV.     Vidar                                               158
+        XVI.    Vali                                                162
+        XVII.   The Norns                                           166
+        XVIII.  The Valkyrs                                         173
+        XIX.    Hel                                                 180
+        XX.     AEgir                                                185
+        XXI.    Balder                                              197
+        XXII.   Loki                                                216
+        XXIII.  The Giants                                          230
+        XXIV.   The Dwarfs                                          239
+        XXV.    The Elves                                           246
+        XXVI.   The Sigurd Saga                                     251
+        XXVII.  The Frithiof Saga                                   298
+        XXVIII. The Twilight of the Gods                            329
+        XXIX.   Greek and Northern Mythologies--A Comparison        342
+
+
+
+
+
+
+LIST OF ILLUSTRATIONS
+
+
+        Norsemen Landing in Iceland   (Oscar Wergeland)    Frontispiece
+
+                                                           To face page
+        The Giant with the Flaming Sword   (J. C. Dollman)            2
+        The Wolves Pursuing Sol and Mani   (J. C. Dollman)            8
+        Odin   (Sir E. Burne-Jones)                                  16
+        The Chosen Slain   (K. Dielitz)                              18
+        A Viking Foray   (J. C. Dollman)                             20
+        The Pied Piper of Hamelin   (H. Kaulbach)                    28
+        Odin   (B. E. Fogelberg)                                     36
+        Frigga Spinning the Clouds   (J. C. Dollman)                 42
+        Tannhaeuser and Frau Venus   (J. Wagrez)                      52
+        Eastre   (Jacques Reich)                                     54
+        Huldra's Nymphs   (B. E. Ward)                               58
+        Thor   (B. E. Fogelberg)                                     60
+        Sif   (J. C. Dollman)                                        64
+        Thor and the Mountain   (J. C. Dollman)                      72
+        A Foray   (A. Malmstroem)                                     88
+        The Binding of Fenris   (Dorothy Hardy)                      92
+        Idun   (B. E. Ward)                                         100
+        Loki and Thiassi   (Dorothy Hardy)                          104
+        Frey   (Jacques Reich)                                      118
+        Freya   (N. J. O. Blommer)                                  132
+        The Rainbow Bridge   (H. Hendrich)                          146
+        Heimdall   (Dorothy Hardy)                                  148
+        Jarl   (Albert Edelfelt)                                    152
+        The Norns   (C. Ehrenberg)                                  166
+        The Dises   (Dorothy Hardy)                                 170
+        The Swan-Maiden   (Gertrude Demain Hammond, R.I.)           174
+        The Ride of the Valkyrs   (J. C. Dollman)                   176
+        Brunhild and Siegmund   (J. Wagrez)                         178
+        The Road to Valhalla   (Severin Nilsson)                    182
+        AEgir   (J. P. Molin)                                        186
+        Ran   (M. E. Winge)                                         190
+        The Neckan   (J. P. Molin)                                  194
+        Loki and Hodur   (C. G. Qvarnstroem)                         202
+        The Death of Balder   (Dorothy Hardy)                       206
+        Hermod before Hela   (J. C. Dollman)                        210
+        Loki and Svadilfari   (Dorothy Hardy)                       222
+        Loki and Sigyn   (M. E. Winge)                              228
+        Thor and the Giants   (M. E. Winge)                         230
+        Torghatten                                                  234
+        The Peaks of the Trolls                                     244
+        The Elf-Dance   (N. J. O. Blommer)                          246
+        The White Elves   (Charles P. Sainton, R.I.)                248
+        Old Houses with Carved Posts                                250
+        The Were-Wolves   (J. C. Dollman)                           260
+        A Hero's Farewell   (M. E. Winge)                           264
+        The Funeral Procession   (H. Hendrich)                      268
+        Sigurd and Fafnir   (K. Dielitz)                            274
+        Sigurd Finds Brunhild   (J. Wagrez)                         278
+        Odin and Brunhild   (K. Dielitz)                            280
+        Aslaug   (Gertrude Demain Hammond, R.I.)                    282
+        Sigurd and Gunnar   (J. C. Dollman)                         284
+        The Death of Siegfried   (H. Hendrich)                      288
+        The End of Brunhild   (J. Wagrez)                           290
+        Ingeborg   (M. E. Winge)                                    304
+        Frithiof Cleaves the Shield of Helge   (Knut Ekwall)        308
+        Ingeborg Watches her Lover Depart   (Knut Ekwall)           312
+        Frithiof's Return to Framnaes   (Knut Ekwall)                316
+        Frithiof at the Shrine of Balder   (Knut Ekwall)            318
+        Frithiof at the Court of Ring   (Knut Ekwall)               320
+        Frithiof Watches the Sleeping King   (Knut Ekwall)          324
+        Odin and Fenris   (Dorothy Hardy)                           334
+        The Ride of the Valkyrs   (H. Hendrich)                     344
+        The Storm-Ride   (Gilbert Bayes)                            358
+
+
+
+
+
+
+INTRODUCTION
+
+
+The prime importance of the rude fragments of poetry preserved in
+early Icelandic literature will now be disputed by none, but there
+has been until recent times an extraordinary indifference to the
+wealth of religious tradition and mythical lore which they contain.
+
+The long neglect of these precious records of our heathen ancestors
+is not the fault of the material in which all that survives of
+their religious beliefs is enshrined, for it may safely be asserted
+that the Edda is as rich in the essentials of national romance
+and race-imagination, rugged though it be, as the more graceful
+and idyllic mythology of the South. Neither is it due to anything
+weak in the conception of the deities themselves, for although
+they may not rise to great spiritual heights, foremost students of
+Icelandic literature agree that they stand out rude and massive as the
+Scandinavian mountains. They exhibit "a spirit of victory, superior
+to brute force, superior to mere matter, a spirit that fights and
+overcomes." [1] "Even were some part of the matter of their myths
+taken from others, yet the Norsemen have given their gods a noble,
+upright, great spirit, and placed them upon a high level that is all
+their own." [2] "In fact these old Norse songs have a truth in them,
+an inward perennial truth and greatness. It is a greatness not of
+mere body and gigantic bulk, but a rude greatness of soul." [3]
+
+The introduction of Christianity into the North brought with it the
+influence of the Classical races, and this eventually supplanted the
+native genius, so that the alien mythology and literature of Greece
+and Rome have formed an increasing part of the mental equipment of the
+northern peoples in proportion as the native literature and tradition
+have been neglected.
+
+Undoubtedly Northern mythology has exercised a deep influence upon
+our customs, laws, and language, and there has been, therefore,
+a great unconscious inspiration flowing from these into English
+literature. The most distinctive traits of this mythology are a
+peculiar grim humour, to be found in the religion of no other race,
+and a dark thread of tragedy which runs throughout the whole woof,
+and these characteristics, touching both extremes, are writ large
+over English literature.
+
+But of conscious influence, compared with the rich draught of Hellenic
+inspiration, there is little to be found, and if we turn to modern
+art the difference is even more apparent.
+
+This indifference may be attributed to many causes, but it was due
+first to the fact that the religious beliefs of our pagan ancestors
+were not held with any real tenacity. Hence the success of the
+more or less considered policy of the early Christian missionaries
+to confuse the heathen beliefs, and merge them in the new faith,
+an interesting example of which is to be seen in the transference
+to the Christian festival of Easter of the attributes of the pagan
+goddess Eastre, from whom it took even the name. Northern mythology
+was in this way arrested ere it had attained its full development,
+and the progress of Christianity eventually relegated it to the limbo
+of forgotten things. Its comprehensive and intelligent scheme, however,
+in strong contrast with the disconnected mythology of Greece and Rome,
+formed the basis of a more or less rational faith which prepared the
+Norseman to receive the teaching of Christianity, and so helped to
+bring about its own undoing.
+
+The religious beliefs of the North are not mirrored with any
+exactitude in the Elder Edda. Indeed only a travesty of the faith of
+our ancestors has been preserved in Norse literature. The early poet
+loved allegory, and his imagination rioted among the conceptions of
+his fertile muse. "His eye was fixed on the mountains till the snowy
+peaks assumed human features and the giant of the rock or the ice
+descended with heavy tread; or he would gaze at the splendour of the
+spring, or of the summer fields, till Freya with the gleaming necklace
+stepped forth, or Sif with the flowing locks of gold." [4]
+
+We are told nothing as to sacrificial and religious rites, and
+all else is omitted which does not provide material for artistic
+treatment. The so-called Northern Mythology, therefore, may be regarded
+as a precious relic of the beginning of Northern poetry, rather than
+as a representation of the religious beliefs of the Scandinavians,
+and these literary fragments bear many signs of the transitional stage
+wherein the confusion of the old and new faiths is easily apparent.
+
+But notwithstanding the limitations imposed by long neglect it is
+possible to reconstruct in part a plan of the ancient Norse beliefs,
+and the general reader will derive much profit from Carlyle's
+illuminating study in "Heroes and Hero-worship." "A bewildering,
+inextricable jungle of delusions, confusions, falsehoods and
+absurdities, covering the whole field of Life!" he calls them,
+with all good reason. But he goes on to show, with equal truth,
+that at the soul of this crude worship of distorted nature was a
+spiritual force seeking expression. What we probe without reverence
+they viewed with awe, and not understanding it, straightway deified
+it, as all children have been apt to do in all stages of the world's
+history. Truly they were hero-worshippers after Carlyle's own heart,
+and scepticism had no place in their simple philosophy.
+
+It was the infancy of thought gazing upon a universe filled with
+divinity, and believing heartily with all sincerity. A large-hearted
+people reaching out in the dark towards ideals which were better than
+they knew. Ragnarok was to undo their gods because they had stumbled
+from their higher standards.
+
+We have to thank a curious phenomenon for the preservation of so much
+of the old lore as we still possess. While foreign influences were
+corrupting the Norse language, it remained practically unaltered in
+Iceland, which had been colonised from the mainland by the Norsemen
+who had fled thither to escape the oppression of Harold Fairhair after
+his crushing victory of Hafrsfirth. These people brought with them the
+poetic genius which had already manifested itself, and it took fresh
+root in that barren soil. Many of the old Norse poets were natives
+of Iceland, and in the early part of the Christian era, a supreme
+service was rendered to Norse literature by the Christian priest,
+Saemund, who industriously brought together a large amount of pagan
+poetry in a collection known as the Elder Edda, which is the chief
+foundation of our present knowledge of the religion of our Norse
+ancestors. Icelandic literature remained a sealed book, however,
+until the end of the eighteenth century, and very slowly since that
+time it has been winning its way in the teeth of indifference, until
+there are now signs that it will eventually come into its own. "To
+know the old Faith," says Carlyle, "brings us into closer and clearer
+relation with the Past--with our own possessions in the Past. For
+the whole Past is the possession of the Present; the Past had always
+something true, and is a precious possession."
+
+The weighty words of William Morris regarding the Volsunga Saga
+may also be fitly quoted as an introduction to the whole of this
+collection of "Myths of the Norsemen": "This is the great story of
+the North, which should be to all our race what the Tale of Troy was
+to the Greeks--to all our race first, and afterwards, when the change
+of the world has made our race nothing more than a name of what has
+been--a story too--then should it be to those that come after us no
+less than the Tale of Troy has been to us."
+
+
+
+
+
+
+CHAPTER I: THE BEGINNING
+
+
+Myths of Creation
+
+Although the Aryan inhabitants of Northern Europe are supposed by some
+authorities to have come originally from the plateau of Iran, in the
+heart of Asia, the climate and scenery of the countries where they
+finally settled had great influence in shaping their early religious
+beliefs, as well as in ordering their mode of living.
+
+The grand and rugged landscapes of Northern Europe, the midnight
+sun, the flashing rays of the aurora borealis, the ocean continually
+lashing itself into fury against the great cliffs and icebergs of
+the Arctic Circle, could not but impress the people as vividly as
+the almost miraculous vegetation, the perpetual light, and the blue
+seas and skies of their brief summer season. It is no great wonder,
+therefore, that the Icelanders, for instance, to whom we owe the most
+perfect records of this belief, fancied in looking about them that the
+world was originally created from a strange mixture of fire and ice.
+
+Northern mythology is grand and tragical. Its principal theme is the
+perpetual struggle of the beneficent forces of Nature against the
+injurious, and hence it is not graceful and idyllic in character,
+like the religion of the sunny South, where the people could bask
+in perpetual sunshine, and the fruits of the earth grew ready to
+their hand.
+
+It was very natural that the dangers incurred in hunting and fishing
+under these inclement skies, and the suffering entailed by the long
+cold winters when the sun never shines, made our ancestors contemplate
+cold and ice as malevolent spirits; and it was with equal reason that
+they invoked with special fervour the beneficent influences of heat
+and light.
+
+When questioned concerning the creation of the world, the Northern
+scalds, or poets, whose songs are preserved in the Eddas and Sagas,
+declared that in the beginning, when there was as yet no earth, nor
+sea, nor air, when darkness rested over all, there existed a powerful
+being called Allfather, whom they dimly conceived as uncreated as
+well as unseen, and that whatever he willed came to pass.
+
+In the centre of space there was, in the morning of time, a great
+abyss called Ginnunga-gap, the cleft of clefts, the yawning gulf,
+whose depths no eye could fathom, as it was enveloped in perpetual
+twilight. North of this abode was a space or world known as Nifl-heim,
+the home of mist and darkness, in the centre of which bubbled the
+exhaustless spring Hvergelmir, the seething cauldron, whose waters
+supplied twelve great streams known as the Elivagar. As the water of
+these streams flowed swiftly away from its source and encountered
+the cold blasts from the yawning gulf, it soon hardened into huge
+blocks of ice, which rolled downward into the immeasurable depths of
+the great abyss with a continual roar like thunder.
+
+South of this dark chasm, and directly opposite Nifl-heim, the realm
+of mist, was another world called Muspells-heim, the home of elemental
+fire, where all was warmth and brightness, and whose frontiers were
+continually guarded by Surtr, the flame giant. This giant fiercely
+brandished his flashing sword, and continually sent forth great showers
+of sparks, which fell with a hissing sound upon the ice-blocks in
+the bottom of the abyss, and partly melted them by their heat.
+
+
+    "Great Surtur, with his burning sword,
+    Southward at Muspel's gate kept ward,
+    And flashes of celestial flame,
+    Life-giving, from the fire-world came."
+
+            Valhalla (J. C. Jones).
+
+
+
+Ymir and Audhumla
+
+As the steam rose in clouds it again encountered the prevailing cold,
+and was changed into rime or hoarfrost, which, layer by layer, filled
+up the great central space. Thus by the continual action of cold and
+heat, and also probably by the will of the uncreated and unseen,
+a gigantic creature called Ymir or Orgelmir (seething clay), the
+personification of the frozen ocean, came to life amid the ice-blocks
+in the abyss, and as he was born of rime he was called a Hrim-thurs,
+or ice-giant.
+
+
+    "In early times,
+    When Ymir lived,
+    Was sand, nor sea,
+    Nor cooling wave;
+    No earth was found,
+    Nor heaven above;
+    One chaos all,
+    And nowhere grass."
+
+            Saemund's Edda (Henderson's tr.).
+
+
+Groping about in the gloom in search of something to eat, Ymir
+perceived a gigantic cow called Audhumla (the nourisher), which
+had been created by the same agency as himself, and out of the same
+materials. Hastening towards her, Ymir noticed with pleasure that
+from her udder flowed four great streams of milk, which would supply
+ample nourishment.
+
+All his wants were thus satisfied; but the cow, looking about her for
+food in her turn, began to lick the salt off a neighbouring ice-block
+with her rough tongue. This she continued to do until first the hair of
+a god appeared and then the whole head emerged from its icy envelope,
+until by-and-by Buri (the producer) stepped forth entirely free.
+
+While the cow had been thus engaged, Ymir, the giant, had fallen
+asleep, and as he slept a son and daughter were born from the
+perspiration under his armpit, and his feet produced the six-headed
+giant Thrudgelmir, who, shortly after his birth, brought forth in
+his turn the giant Bergelmir, from whom all the evil frost giants
+are descended.
+
+
+    "Under the armpit grew,
+    'Tis said of Hrim-thurs,
+    A girl and boy together;
+    Foot with foot begat,
+    Of that wise Joetun,
+    A six-headed son."
+
+            Saemund's Edda (Thorpe's tr.).
+
+
+
+Odin, Vili, and Ve
+
+When these giants became aware of the existence of the god Buri, and
+of his son Boerr (born), whom he had immediately produced, they began
+waging war against them, for as the gods and giants represented the
+opposite forces of good and evil, there was no hope of their living
+together in peace. The struggle continued evidently for ages, neither
+party gaining a decided advantage, until Boerr married the giantess
+Bestla, daughter of Bolthorn (the thorn of evil), who bore him three
+powerful sons, Odin (spirit), Vili (will), and Ve (holy). These three
+sons immediately joined their father in his struggle against the
+hostile frost-giants, and finally succeeded in slaying their deadliest
+foe, the great Ymir. As he sank down lifeless the blood gushed from
+his wounds in such floods that it produced a great deluge, in which
+all his race perished, with the exception of Bergelmir, who escaped

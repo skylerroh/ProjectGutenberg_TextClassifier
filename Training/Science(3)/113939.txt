@@ -1,0 +1,420 @@
+made several experimental runs in London; he also propelled a vessel with
+it upon the Thames, and fitted up a large engine for pumping purposes. A
+company was formed to introduce his engine, but it proved too wasteful of
+fuel, and the company went into voluntary liquidation. Like almost all
+engines of this time, the combustion of gas and air was used to produce a
+vacuum, the piston being driven by atmospheric pressure.
+
+Buren's locomotive carriage was thus in action three years before the
+great trial in 1829, from which George Stephenson emerged victorious with
+his wonderful engine "The Rocket." To those curious in the matter, I may
+mention that S. Buren's patents are dated 1823, No. 4,874, and 1826, No.
+5,350.
+
+From this time on, a continuous series of gas engine patents appear, 20
+engines being patented between 1826 and 1860, which is the next date
+worthy of particular mention.
+
+In this year, 1860, the famous "Lenoir" engine appeared. The use of high
+pressure steam engines had long been common, and Lenoir's engine was
+analogous to the high pressure engine, as Buren's was to the condensing
+engine. It created a very general interest, and many engines were
+constructed and used in France, England, and America; it resembled very
+much in external appearance an ordinary high pressure horizontal steam
+engine, and it was double acting.
+
+During the following six years, other 20 British patents were granted, and
+the gas engine passed from the state of a troublesome toy to a practicable
+and widely useful machine.
+
+From 1791 to the end of 1866, in all 46 British patents were granted for
+gas engines, and in these patents are to be found the principles upon
+which the gas engines of to-day are constructed, many years elapsing
+before experience enough was gained to turn the proposals of the older
+inventors to practical account.
+
+The most important of these patents are:
+
+                      No.  Year.
+Robert Street         1,983 1794  Direct-acting engine.
+Samuel Buren          4,874 1823  Vacuum engine.
+Samuel Buren          5,350 1826  Vacuum engine.
+W.L. Wright           6,525 1833  Direct-acting engine.
+Wm. Barnett           7,615 1838  Compression first proposed.
+Barsante & Matteucci  1,072 1854  Rack & clutch engine.
+Drake                   562 1855  Direct-acting engine.
+Lenoir                  335 1860  D.I. engine, electric ignition.
+C.W. Siemens          2,074 1860  Compression, _constant
+                                    pressure_.
+Hugon                 2,902 1860  Platinum ignition.
+Millein               1,840 1861  Compression, both constant vol. and
+                                    _pressure_.
+F.H. Wenham           1,873 1864  Free piston.
+Hugon                   986 1865  Flame ignition.
+Otto and Langen         434 1866  Rack and clutch, flame ignition.
+
+Leaving for the present the history of the gas engine, which brings us to
+a stage comparable to the state of the steam engine during the Newcomen's
+time, it will be advisable to give some consideration to the principles
+concerned in the economical and efficient working of gas engines, in order
+to understand the more recent developments.
+
+It has been seen that gunpowder was the explosive used to produce a vacuum
+in Huyghens' engine, and that it was abandoned in favor of gas by Buren in
+1823. The reason of departure is very obvious: a gunpowder explosion and a
+gaseous explosion differ in very important practical points.
+
+Gunpowder being a solid substance is capable of being packed into a very
+small space; the gas evolved by its decomposition is so great in volume
+that, even in the absence of any evolution of heat, a very high pressure
+would result. One cubic inch of gunpowder confined in a space of one cubic
+inch would cause a pressure by the gas it contains alone of 15,000 lb. per
+square inch; if the heating effect be allowed for, pressures of four times
+that amount, or 60,000 lb. per square inch, are easily accounted for.
+These pressures are far too high for use in any engine, and the bare
+possibility of getting such pressure by accident put gunpowder quite
+outside the purpose of the engineer, quite apart from any question of
+comparative cost. In a proper mixture of inflammable gas and air is found
+an exceedingly safe explosive, perfectly manageable and quite incapable of
+producing pressures in any sense dangerous to a properly constructed
+engine.
+
+The pressure produced by the explosion of any mixture of gas and air is
+strictly determined and limited, whereas the pressure produced by the
+explosion of gunpowder depends greatly upon the relation between the
+volume of the gunpowder and the space in which it is confined.
+
+Engines of the "Lenoir" type are the simplest in idea and construction; in
+them a mixture of gas and air is made in the cylinder during the first
+half of the piston stroke, air being taken from the atmosphere and drawn
+into the cylinder by the forward movement of the piston. At the same time
+gas entering by a number of holes, and streaming into the air to form an
+explosive mixture, the movement of a valve cuts off the supply, and brings
+the igniting arrangement into action. The pressure produced by the
+explosion acting upon the piston makes it complete its stroke, when the
+exhaust valve opens exactly as in the steam engine. The Lenoir and Hugon
+engines, the earlier forms of this type, were double acting, receiving two
+impulses for every revolution of the crank, the impulse differing from
+that in a high pressure steam engine in commencing at half stroke.
+
+The Lenoir igniting arrangement was complicated and troublesome. I have it
+upon the table; the mixture was ignited at the proper time by the electric
+spark produced from a primary battery and Ruhmkorff coil.
+
+The Hugon engine was an advance in this respect, using a flame ignited,
+and securing greater certainty of action in a comparatively simple manner.
+
+It is really a modification of Barnett's lighting cock described in his
+patent of 1838.
+
+Other difficulties were found in using these engines; the pistons became
+exceedingly hot. In the case of the Lenoir larger engines, it sometimes
+became red hot, and caused complete ruin of the cylinder by scoring and
+cutting up. Hugon to prevent this injected some water.
+
+In the all important question of economy, these engines were found
+grievously wanting, Lenoir consuming 95 cubic feet per I.H.P. per hour;
+Hugon consuming 85 cubic feet per I.H.P. per hour.
+
+The surviving engines of this type are only used for very small powers,
+from one to four man power, or 1/8 to 1/2 horse, the most widely known of
+this kind being the "Bischoff," which is very largely used; its
+consumption of gas is even greater than the Lenoir, being 110 cubic feet
+per horse power per hour, as tested with a half-horse engine at a late
+exhibition of gas apparatus at Stockport.
+
+So large a consumption of gas prevented these engines coming into extended
+use for engines of moderate power, and led inventors to work to obtain
+better results. The force generated by the explosion of a mixture of gas
+and air is very short lived, and if it is to be fully utilized must be
+used quickly; a high pressure is produced, but it very quickly disappears.
+
+The quicker the piston moves after the maximum pressure is reached, the
+less will be the loss of heat to the sides of the cylinder. The flame
+which fills the cylinder and causes the increase of pressure rapidly loses
+heat, and the pressure falls.
+
+The idea of using a free piston was proposed as a remedy; it was thought
+that a piston connected to a crank in the ordinary manner could not move
+fast enough to utilize the pressure before it was lost. Many inventors
+proposed to perform work upon a piston free from any direct connection
+with the crank or shaft of the engine; the explosion after attaining its
+maximum pressure expends its force in giving velocity to a piston; the
+velocity so acquired carries it on against atmospheric pressure until the
+energy is all absorbed, and a vacuum or deficit of pressure exists in the
+cylinder instead of an excess of pressure. The return stroke is
+accomplished by the atmospheric pressure, and the work is now done upon
+the engine shaft on the return only. The method of connecting on the
+return stroke while leaving the piston free on the out stroke varies, but
+in many engines the principle was the same.
+
+Barsante and Matteucci, year 1857, British patent No. 1,625, describe the
+first engine of this kind, but Messrs. Otto and Langen were the first to
+successfully overcome all difficulties and make a marketable engine of it.
+Their patent was dated 1866, No. 434. To distinguish it from Otto's later
+patents, it may be called the rack and clutch engine.
+
+The economy obtained by this engine was a great advance upon the Lenoir.
+According to a test by Prof. Tresca, at the Paris Exhibition of 1867, the
+gas consumed was 44 cubic feet per indicated horse power per hour.
+According to tests I have made myself in Manchester with a two horse power
+engine, Otto and Langen's free piston engine consumes 40 cubic feet per
+I.H.P. per hour. This is less than one-half of the gas used by the Hugon
+engine for one horse power.
+
+The igniting arrangement is a very good modification of Barnett's lighting
+cock, which I have explained already, but a slide valve is used instead of
+a cock.
+
+Other engines carried out the same principle in a different manner,
+including Gilles' engine, but they were not commercially so successful as
+the Otto and Langen. Mr. F.H. Wenham's engine was of this type, and was
+working in England, Mr. Wenham informed me, in 1866, his patent being
+taken out in 1864.
+
+The great objection to this kind of engine is the irregularity and great
+noise in working; this was so great as to prevent engines from being made
+larger than three horse power. The engine, however, did good work, and was
+largely used from 1866 until the end of 1876, when Mr. Otto produced his
+famous engine, now known as "The Otto Silent Gas Engine." In this engine
+great economy is attained without the objectionable free piston by a
+method proposed first by Burnett, 1838, and also by a Frenchman, Millein,
+in 1861; this method is compression before ignition. Other inventors also
+described very clearly the advantages to be expected from compression, but
+none were able to make it commercially successful till Mr. Otto. To him
+belongs the great credit of inventing a cycle of operations capable of
+realizing compression in a simple manner.
+
+Starting from the same point as inventors did to produce the free piston
+engine--namely, that the more quickly the explosive force is utilized, the
+less will be the loss, and the greater the power produced from a quantity
+of burning gas--it is evident that if any method can be discovered to
+increase the pressure upon the piston without increasing the temperature
+of the flame causing this pressure, then a great gain will result, and
+the engine will convert more of the heat given to it into work. This is
+exactly what is done by compression before ignition. Suppose we take a
+mixture of gas and air of such proportions as to cause when exploded, or
+rather ignited (because explosion is too strong a term), a pressure of 45
+lb. above atmosphere, or 60 lb. per square inch absolute pressure. Then
+this mixture, if compressed to half volume before igniting and kept at
+constant temperature, would give, when ignited, a pressure of 120 lb.
+total, or 105 lb. above atmosphere, and this without any increase of the
+temperature of the flame.
+
+The effect of compression is to make a small piston do the work of a large
+one, and convert more heat into work by lessening the loss of heat through
+the walls of the cylinder. In addition to this advantage, greater
+expansions are made possible, and therefore greatly increase economy.
+
+The Otto engine must be so familiar in appearance to all of you, that I
+need hardly trouble you with details of its external appearance. I shall
+briefly describe its action. Its strong points and its weak points are
+alike caused by its cycle. One cylinder and piston suffices to carry out
+its whole action. Its cycle is: First outstroke, gas and air sucked into
+the cylinder; first instroke, gas and air compressed into space; second
+outstroke, impulse due to ignition; second instroke, discharge of
+exhausted gases. When working at full power, it gets one impulse for every
+two revolutions; this seems to be a retrograde movement, but,
+notwithstanding, the advantages obtained are very great. The igniting
+arrangement is in the main similar to that used on the rack and clutch
+engine. The engine has been exceedingly successful, and is very
+economical. The Otto compression engine consumes 21 cubic feet of gas per
+I.H.P. per hour, and runs with great smoothness.
+
+In 1876 I commenced my work upon gas engines, and very soon concluded that
+the compression system was the true line to proceed upon. It took me two
+years to produce a workable engine. My efforts have always been directed
+toward producing an engine giving at least one impulse every revolution
+and, if possible, to start without hand labor, just as a steam engine
+does. My first gas engine was running in 1878, and patented and exhibited
+in 1879. It was first exhibited at the Kilburn Royal Agricultural
+Society's show.
+
+This engine was self-starting, gave an ignition at every revolution, and
+ignited without external flame. It consisted of two cylinders, a motor,
+and a compressing pump, with a small intermediate reservoir. Suitable
+valves introduced the mixture of gas and air into the pump, and passed it
+when compressed from the reservoir to the motor cylinder. The igniting
+arrangement consisted of a platinum cage firmly fixed in a valve port;
+this cage was heated in the first instance by a flame of gas and air
+mixed; it became white hot in a few seconds, and then the engine was
+started by opening a valve.
+
+The platinum was kept hot by the heat derived from the successive
+ignitions, and, the engine once started, no further external flame was
+required. I have here one of these platinum cages which has been in use.
+Finding this method not well suited for small engines, I produced the
+engine which is at present in the market under my name.
+
+The cycle is different, and is designed for greater simplicity and the
+avoidance of back ignitions. It also consists of two cylinders, motor
+cylinder and the displace or charging cylinder. There is no intermediate
+reservoir. The displace crank leads the motor by a right angle, and takes
+into it the mixed charge of gas and air, in some cases taking air alone
+during the latter part of its stroke.
+
+The motor on the outstroke crosses V-shaped parts about from one-sixth to
+one-seventh from the out end, the displacer charge now passing into the
+motor cylinder, displacing the exhaust gases by these ports and filling
+the cylinder and the space at the end of it with the explosive mixture.
+The introduction of some air in advance of the charge serves the double
+purpose of cooling down the exhaust gases and preventing direct contact of
+the inflammable mixture with flame which may linger in the cylinder from
+the previous stroke. The instroke of the motor compresses the charge into
+the conical space at the end of the cylinder, and, when fully compressed,
+ignition is effected by means of the slide I have upon the table.
+
+This system of ignition has been found very reliable, and capable of
+acting as often as 400 times per minute, which the Otto ignite is quite
+incapable of doing. By this cycle the advantages of compression are gained
+and one step nearer to the steam engine is attained, that is, an impulse
+is given for every revolution of the engine.
+
+As a consequence, I am able with my engine to give a greater amount of
+power for a comparatively small weight. In addition to this, I have
+introduced a method of self-starting; in this I believe I was the
+first--about 100 of my engines are now using self-starting.
+
+The largest single engine I have yet made indicates 30 H.P. The
+consumption of gas in Glasgow is: Clerk engine consumes in Glasgow 18
+cubic feet per I.H.P. per hour; Clerk engine consumes in Manchester 22
+cubic feet per I.H.P. per hour. So far as I know, the Otto engine and my
+own are the only compression engines which have as yet made any success in
+the market. Other engines are being continually prepared, gas engine
+patents being taken out just now at the rate of 60 per annum, but none of
+them have been able as yet to get beyond the experimental stage. The
+reason is simply the great experience necessary to produce these machines,
+which seem so very simple; but to the inexperienced inventor the subject
+fairly bristles with pitfalls.
+
+I have here sections of some of the earlier engines, including Dr.
+Siemens' and Messrs. Simon and Beechy. Although interesting and containing
+many good points, these have not been practically successful.
+
+The Simon engine is an adaptation of the well-known American petroleum
+motor, the Brayton, the only difference consisting in the use of steam as
+well as flame.
+
+Dr. Siemens worked for some twenty years on gas engines, but he aimed
+rather high at first to attain even moderate success. Had he lived, I
+doubt not but that he would have succeeded in introducing them for large
+powers. In 1882 he informed me that he had in hand a set of gas engines of
+some hundreds of horse power for use on board ship, to be supplied with
+gas from one of his gas producers modified to suit the altered
+conditions.
+
+Summarizing the ground over which we have passed, we find the origin of
+the gas engine in the minds of the same men as were first to propose the
+steam engine, Huyghens and Papin, 1680 and 1690. Greater mechanical
+difficulties and ignorance of the nature of explosives caused the
+abandonment of the internal combustion idea, and the mechanical
+difficulties with steam being less, the steam engine became successful,
+and triumphed over its rival. The knowledge and skill gained in the
+construction of steam engines made it possible once again to attack the
+more difficult problem, and simultaneously with the introduction and
+perfecting of the steam engine, the gas engine idea became more and more
+possible, the practicable stage commencing with Lenoir and continuing with
+Hugon, Millein, Otto and Langen, F.H. Wenham, then Otto and Clerk. In
+1860, 95 cubic feet of gas produced one horse power for an hour; in 1867,
+40 cubic feet accomplished the same thing; and now (1885) we can get one
+horse power for an hour for from 15 to 20 cubic feet of gas, depending on
+the size of the engine used.
+
+Considered as a heat engine, the gas engine is now twice as efficient as
+the very best modern steam engine. It is true the fuel used at present
+is more expensive than coal, and for large powers the steam engine is
+the best because of this. But the way is clearing to change this. Gas
+engines as at present, if supplied with producer gas, produced direct
+from coal without leaving any coke, as is done in the Siemens, the
+Wilson, and the Dawson producers, will give power at one-half the cost
+of steam power. They will use 7/8 of a pound of coal per horse power per
+hour, instead of 1-3/4 lb., as is done in the best steam engines. The
+only producer that makes gas for gas engines at present is the Dawson,
+and in it anthracite is used, because of the difficulty of getting rid
+of the tar coming from the Siemens and Wilson producers, using any
+ordinary slack.
+
+When this difficulty has been overcome, and that it will be overcome there
+can be no manner of doubt, gas engines will rapidly displace the steam
+engine, because a gas engine with a gas producer, producing gas from any
+ordinary coal with the same ease as steam is produced from a boiler, will
+be much safer, and will use one-half the fuel of the very best steam
+engines for equal power. The first cost also will not be greater than that
+of steam. The engine itself will be more expensive than a steam engine of
+equal power, but the gas producer will be less expensive than the boiler
+at present. Perfect as the gas engine now is, considered as a machine for
+converting heat into work, the possibility of great development is not yet
+exhausted. Its economy may be increased two or even three fold; in this
+lies the brilliant future before it. The steam engine is nearly as perfect
+as it can be made; it approaches very nearly the possibility of its
+theory. Its defect does not lie in its mechanism, but in the very
+properties of water and steam itself. The loss of heat which takes place
+in converting liquid water into gaseous steam is so great that by far the
+greater portion of the heat given out by the fuel passes away either in
+the condenser or the exhaust of a steam engine; but a small proportion of
+the heat is converted into work.
+
+The very best steam engines convert about 11 per cent. of the heat given
+them into useful work, the remaining 89 per cent. being wasted,
+principally in the exhaust of the engine.
+
+Gas engines now convert 20 per cent. of the heat given to them into work,
+and very probably will, in a few years more, convert 60 per cent. into
+useful work. The conclusion, then, is irresistible that, when engineers
+have gained greater experience with gas engines and gas producers, they
+will displace steam engines entirely for every use--mills, locomotives,
+and ships.
+
+       *       *       *       *       *
+
+
+
+
+RAPID CONSTRUCTION OF THE CANADIAN PACIFIC RAILWAY.
+
+By E.T. ABBOTT, Member of the Engineers' Club of Minnesota. Read December
+12, 1884.
+
+
+During the winter of 1881 and 1882, the contract was let to Messrs.
+Langdon, Sheppard & Co., of Minneapolis, to construct during the working
+season of the latter year, or prior to January 1, 1883, 500 miles of
+railroad on the western extension of the above company; the contract being
+for the grading, bridging, track-laying, and surfacing, also including the
+laying of the necessary depot sidings and their grading. The idea that any
+such amount of road could be built in that country in that time was looked
+upon by the writer hereof, as well as by railroad men generally, as a huge
+joke, perpetrated to gull the Canadians. At the time the contract was let,
+the Canadian Pacific Railway was in operation to Brandon, the crossing of
+the Assiniboine River, 132 miles west of Winnipeg. The track was laid,
+however, to a point about 50 miles west of this, and the grading done
+generally in an unfinished state for thirty miles further. This was the
+condition of things when the contract was entered into to build 500
+miles--the east end of the 500-mile contract being at Station 4,660
+(Station being at Brandon) and extending west to a few miles beyond the
+Saskatchewan River.
+
+The spring of 1882 opened in the most unpromising manner for railroad
+operations, being the wettest ever known in that country. Traffic over the
+St. Paul, Minneapolis & Manitoba Railroad, between St. Paul and Winnipeg,
+was entirely suspended from April 15 to the 28th, owing to the floods on
+the Red River at St. Vincent and Emerson, a serious blow to an early
+start, as on this single track depended the transportation of all
+supplies, men, timber, and contractors' plant, together with all track
+materials (except ties), all of these things having to come from or
+through St. Paul and Minneapolis. The writer hereof was appointed a
+division engineer, and reported at Winnipeg the 15th of April, getting
+through on the last train before the St. Vincent flood. No sooner was the
+line open from St. Paul to Winnipeg than the cotillon opened between
+Winnipeg and Brandon, with a succession of washouts that defied and
+defeated all efforts to get trains over, so it was not until the fifth day
+of May that I left Winnipeg to take charge of the second division of 30
+miles.
+
+By extremely "dizzy" speed I was landed at the end of the track, 180 miles
+from Winnipeg, on the evening of the 9th (4 days). My outfit consisted of
+three assistant engineers and the necessary paraphernalia for three
+complete camps, 30 days' provisions (which turned out to be about 20), 11
+carts and ponies, the latter being extremely poor after a winter's diet
+on buffalo grass and no grain. On the 18th day of May I had my division
+organized and camps in running order. The country was literally under

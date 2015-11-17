@@ -1,0 +1,694 @@
+The actual nature of the nebulae offers a problem of the greatest
+interest, which naturally occupied the mind of the first assiduous
+observer of nebulae, William Herschel, for many years. At first he
+assumed all nebulae to be nothing but dense aggregations of stars--a very
+natural conclusion for one who had so greatly advanced the optical power
+of telescopes, and was accustomed to see many objects which in a small
+telescope looked nebulous become "resolved" into stars when scrutinised
+with a telescope of large aperture. But in 1864, when Sir William
+Huggins first directed a telescope armed with a spectroscope to one of
+the planetary nebulae, it became evident that at least some nebulae were
+really clouds of fiery mist and not star clusters.
+
+We shall in our next chapter deal with the spectra of the fixed stars,
+but we may here in anticipation remark that these spectra are
+continuous, generally showing the whole length of spectrum, from red to
+violet, as in the sun's spectrum, though with many and important
+differences as to the presence of dark and bright lines. A star cluster
+must, of course, give a similar spectrum, resulting from the
+superposition of the spectra of the single stars in the cluster. Many
+nebulae give a spectrum of this kind; for instance, the great nebula in
+Andromeda. But it does not by any means follow from this that these
+objects are only clusters of ordinary stars, as a continuous spectrum
+may be produced not only by matter in the liquid or solid state, or by
+gases at high pressure, but also by gases at lower pressure but high
+temperature under certain conditions. A continuous spectrum in the case
+of a nebula, therefore, need not indicate that the nebula is a cluster
+of bodies comparable in size and general constitution with our sun. But
+if a spectrum of bright lines is given by a nebula, we can be certain
+that gases at low pressure are present in the object under examination.
+And this was precisely what Sir William Huggins discovered to be the
+case in many nebulae. When he first decided to study the spectra of
+nebulae, he selected for observation those objects known as planetary
+nebulae--small, round, or slightly oval discs, generally without central
+condensation, and looking like ill-defined planets. The colour of their
+light, which often is blue tinted with green, is remarkable, since this
+is a colour very rare among single stars. The spectrum was found to be
+totally different to that of any star, consisting merely of three or
+four bright lines. The brightest one is situated in the bluish-green
+part of the spectrum, and was at first thought to be identical with a
+line of the spectrum of nitrogen, but subsequent more accurate measures
+have shown that neither this nor the second nebular line correspond to
+any dark line in the solar spectrum, nor can they be produced
+experimentally in the laboratory, and we are therefore unable to ascribe
+them to any known element. The third and fourth lines were at once seen
+to be identical with the two hydrogen lines which in the solar spectrum
+are named F and g.
+
+[Illustration: PLATE E.
+
+NEBULAE IN THE PLEIADES.
+
+_From a Photograph by Dr. Isaac Roberts._]
+
+Spectrum analysis has here, as on so many other occasions, rendered
+services which no telescope could ever have done. The spectra of nebulae
+have, after Huggins, been studied, both visually and photographically,
+by Vogel, Copeland, Campbell, Keeler, and others, and a great many very
+faint lines have been detected in addition to those four which an
+instrument of moderate dimensions shows. It is remarkable that the red
+C-line of hydrogen, ordinarily so bright, is either absent or
+excessively faint in the spectra of nebulae, but experiments by Frankland
+and Lockyer have shown that under certain conditions of temperature and
+pressure the complicated spectrum of hydrogen is reduced to one green
+line, the F-line. It is, therefore, not surprising that the spectra of
+gaseous nebulae are comparatively simple, as the probably low density of
+the gases in them and the faintness of these bodies would tend to reduce
+the spectra to a small number of lines. Some gaseous nebulae also show
+faint continuous spectra, the place of maximum brightness of which is
+not in the yellow (as in the solar spectrum), but about the green. It is
+probable that these continuous spectra are really an aggregate of very
+faint luminous lines.
+
+A list of all the nebulae known to have a gaseous spectrum would now
+contain about eighty members. In addition to the planetary nebulae, many
+large and more diffused nebulae belong to this class, and this is also
+the case with the annular nebula in Lyra and the great nebula of Orion.
+It is needless to say that it is of special interest to find this grand
+object enrolled among the nebulae of a gaseous nature. In this nebula
+Copeland detected the wonderful D3 line of helium at a time when
+"helium" was a mere name, a hypothetical something, but which we now
+know to be an element very widely distributed through the universe. It
+has since been found in several other nebulae. The ease with which the
+characteristic gaseous spectrum is recognised has suggested the idea of
+sweeping the sky with a spectroscope in order to pick up new planetary
+nebulae, and a number of objects have actually been discovered by
+Pickering and Copeland in this manner, as also more recently by
+Pickering by examining spectrum photographs of various regions of the
+sky. Most of these new objects when seen through a telescope look like
+ordinary stars, and their real nature could never have been detected
+without the spectroscope.
+
+When we look up at the starry sky on a clear night, the stars seem at
+first sight to be very irregularly distributed over the heavens. Here
+and there a few bright stars form characteristic groups, like Orion or
+the Great Bear, while other equally large tracts are almost devoid of
+bright stars and only contain a few insignificant ones. If we take a
+binocular, or other small telescope, and sweep the sky with it, the
+result seems to be the same--now we come across spaces rich in stars;
+now we meet with comparatively empty places. But when we approach the
+zone of the Milky Way, we are struck with the rapid increase of the
+number of stars which fill the field of the telescope; and when we reach
+the Milky Way itself, the eye is almost unable to separate the single
+points of light, which are packed so closely together that they produce
+the appearance to the naked eye of a broad, but very irregular, band of
+dim light, which even a powerful telescope in some places can hardly
+resolve into stars. How are we to account for this remarkable
+arrangement of the stars? What is the reason of our seeing so few at the
+parts of the heavens farthest from the Milky Way, and so very many in or
+near that wonderful belt? The first attempt to give an answer to these
+questions was made by Thomas Wright, an instrument maker in London, in a
+book published in 1750. He supposed the stars of our sidereal system to
+be distributed in a vast stratum of inconsiderable thickness compared
+with its length and breadth. If we had a big grindstone made of glass,
+in which had become uniformly imbedded a vast quantity of grains of sand
+or similar minute particles, and if we were able to place our eye
+somewhere near the centre of this grindstone, it is easy to see that we
+should see very few particles near the direction of the axle of the
+grindstone, but a great many if we looked towards any point of the
+circumference. This was Wright's idea of the structure of the Milky Way,
+and he supposed the sun to be situated not very far from the centre of
+this stellar stratum.
+
+[Illustration: PLATE F.
+
+o CENTAURI.
+
+_From a Drawing in the Publications of Harvard College Observatory._]
+
+If the Milky Way itself did not exist--and we had simply the fact to
+build on that the stars appeared to increase rapidly in number towards a
+certain circle (almost a great circle) spanning the heavens--then the
+disc theory might have a good deal in its favour. But the telescopic
+study of the Milky Way, and even more the marvellous photographs of its
+complicated structure produced by Professor Barnard, have given the
+death blow to the old theory, and have made it most reasonable to
+conclude that the Milky Way is really, and not only apparently, a mighty
+stream of stars encircling the heavens. We shall shortly mention a few
+facts which point in this direction. A mere glance is sufficient to show
+that the Milky Way is not a single belt of light; near the constellation
+Aquila it separates into two branches with a fairly broad interval
+between them, and these branches do not meet again until they have
+proceeded far into the southern hemisphere. The disc theory had, in
+order to explain this, to assume that the stellar stratum was cleft in
+two nearly to the centre. But even if we grant this, how can we account
+for the numerous more or less dark holes in the Milky Way, the largest
+and most remarkable of which is the so-called "coal sack" in the
+southern hemisphere? Obviously we should have to assume the existence of
+a number of tunnels, drilled through the disc-like stratum, and by some
+strange sympathy all directed towards the spot where our solar system is
+situated. And the many small arms which stretch out from the Milky Way
+would have to be either planes seen edgeways or the convexities of
+curved surfaces viewed tangentially. The improbability of these various
+assumptions is very great. But evidence is not wanting that the
+relatively bright stars are crowded together along the same zone where
+the excessively faint ones are so closely packed. The late Mr. Proctor
+plotted all the stars which occur in Argelander's great atlas of the
+northern hemisphere, 324,198 in number, on a single chart, and though
+these stars are all above the tenth magnitude, and thus superior in
+brightness to that innumerable host of stars of which the individual
+members are more or less lost in the galactic zone, and on the
+hypothesis of uniform distribution ought to be relatively near to us,
+the chart shows distinctly the whole course of the Milky Way by the
+clustering of these stars. This disposes sufficiently of the idea that
+the Milky Way is nothing but a disc-like stratum seen projected on the
+heavenly sphere; after this it is hardly necessary to examine Professor
+Barnard's photographs and see how fairly bright and very faint regions
+alternate without any attempt at regularity, in order to become
+convinced that the Milky Way is more probably a stream of stars
+clustered together, a stream or ring of incredibly enormous dimensions,
+inside which our solar system happens to be situated. But it must be
+admitted that it is premature to attempt to find the actual figure of
+this stream or to determine the relative distance of the various
+portions of it.
+
+[Illustration: PLATE XVI.
+
+NEBULAE
+
+OBSERVED WITH LORD ROSSE'S GREAT TELESCOPE.]
+
+
+
+
+CHAPTER XXIII.
+
+THE PHYSICAL NATURE OF THE STARS.
+
+
+     Star Spectroscopes--Classification of Stellar Spectra--Type I.,
+     with very Few Absorption Lines--Type II., like the Sun--Type III.,
+     with Strongly Marked Dark Bands--Distribution of these Classes over
+     the Heavens--Motion in the Line of Sight--Orbital Motion Discovered
+     with the Spectroscope: New Class of Binaries--Spectra of Temporary
+     Stars--Nature of these Bodies.
+
+We have frequently in the previous chapters had occasion to refer to the
+revelations of the spectroscope, which form an important chapter in the
+history of modern science. By its aid a mighty stride has been taken in
+our attempt to comprehend the physical constitution of the sun. In the
+present chapter we propose to give an account of what the spectroscope
+tells us about the physical constitution of the fixed stars.
+
+Quite a new phase of astronomy is here opened up. Every improvement in
+telescopes revealed fainter and fainter objects, but all the telescopes
+in the world could not answer the question as to whether iron and other
+elements are to be found in the stars. The ordinary star is a mighty
+glowing globe, hotter than a Bessemer converter or a Siemens furnace; if
+iron is in the star, it must be not only white-hot and molten, but
+actually converted into vapour. But the vapour of iron is not visible in
+the telescope. How would you recognise it? How would you know if it
+commingled with the vapour of many other metals or other substances? It
+is, in truth, a delicate piece of analysis to discriminate iron in the
+glowing atmosphere of a star. But the spectroscope is adequate to the
+task, and it renders its analysis with an amount of evidence that is
+absolutely convincing.
+
+That the spectra of the moon and planets are practically nothing but
+faint reproductions of the spectrum of the sun was discovered by the
+great German optician Fraunhofer about the year 1816. By placing a prism
+in front of the object glass of a small theodolite (an instrument used
+for geodetic measurements) he was able to ascertain that Venus and Mars
+showed the same spectrum as the sun, while Sirius gave a very different
+one. This important observation encouraged him to procure better
+instrumental means with which to continue the work, and he succeeded in
+distinguishing the chief characteristics of the various types of stellar
+spectra. The form of instrument which Fraunhofer adopted for this work,
+in which the prism was placed outside the object glass of the telescope,
+has not been much used until within the last few years, owing to the
+difficulty of obtaining prisms of large dimensions (for it is obvious
+that the prism ought to be as large as the object glass if the full
+power of the latter is to be made use of), but this is the simplest form
+of spectroscope for observing spectra of objects of no sensible angular
+diameter, like the fixed stars. The parallel rays from the stars are
+dispersed by the prism into a spectrum, and this is viewed by means of
+the telescope. But as the image of the star in the telescope is nothing
+but a luminous point, its spectrum will be merely a line in which it
+would not be possible to distinguish any lines crossing it laterally
+such as those we see in the spectrum of the sun. A cylindrical lens is,
+therefore, placed before the eye-piece of the telescope, and as this has
+the effect of turning a point into a line and a line into a band, the
+narrow spectrum of the star is thereby broadened out into a luminous
+band in which we can distinguish any details that exist. In other forms
+of stellar spectroscope we require a slit which must be placed in the
+focus of the object glass, and the general arrangement is similar to
+that which we have described in the chapter on the sun, except that a
+cylindrical lens is required.
+
+The study of the spectra of the fixed stars made hardly any progress
+until the principles of spectrum analysis had been established by
+Kirchhoff in 1859. When the dark lines in the solar spectrum had been
+properly interpreted, it was at once evident that science had opened
+wide the gates of a new territory for human exploration, of the very
+existence of which hardly anyone had been aware up to that time. We have
+seen to what splendid triumphs the study of the sun has led the
+investigators in this field, and we have seen how very valuable results
+have been obtained by the new method when applied to observations of
+comets and nebulae. We shall now give some account of what has been
+learned with regard to the constitution of the fixed stars by the
+researches which were inaugurated by Sir William Huggins and continued
+and developed by him, as well as by Secchi, Vogel, Pickering, Lockyer,
+Duner, Scheiner and others. Here, as in the other modern branches of
+astronomy, photography has played a most important part, not only
+because photographed spectra of stars extend much farther at the violet
+end than the observer can follow them with his eye, but also because the
+positions of the lines can be very accurately measured on the
+photographs.
+
+The first observer who reduced the apparently chaotic diversity of
+stellar spectra to order was Secchi, who showed that they might all be
+grouped according to four types. Within the last thirty years, however,
+so many modifications of the various types have been found that it has
+become necessary to subdivide Secchi's types, and most observers now
+make use of Vogel's classification, which we shall also for convenience
+adopt in this chapter.
+
+_Type I._--In the spectra of stars of this class the metallic lines,
+which are so very numerous and conspicuous in the sun's violet spectrum,
+are very faint and thin, or quite invisible, and the blue and white
+parts are very intensely bright. Vogel subdivides the class into three
+groups. In the first (I.a) the hydrogen lines are present, and are
+remarkably broad and intense; Sirius, Vega, and Regulus are examples of
+this group. The great breadth of the lines probably indicates that these
+stars are surrounded by hydrogen atmospheres of great dimensions. It is
+generally acknowledged that stars of this group must be the hottest of
+all, and support is lent to this view by the appearance in their
+spectra of a certain magnesium line, which, as Sir Norman Lockyer showed
+many years ago, by laboratory experiments, does not appear in the
+ordinary spectrum of magnesium, but is indicative of the presence of the
+substance at a very high temperature. In the spectra of stars of Group
+I.b the hydrogen lines and the few metallic lines are of equal breadth,
+and the magnesium line just mentioned is the strongest of all. Rigel and
+several other bright stars in Orion belong to this group, and it is
+remarkable that helium is present at least in some of these stars, so
+that (as Professor Keeler remarks) the spectrum of Rigel may almost be
+regarded as the nebular spectrum reversed (lines dark instead of
+bright), except that the two chief nebular lines are not reversed in the
+star. This fact will doubtless eventually be of great importance to our
+understanding the successive development of a star from a nebula; and a
+star like Rigel is no doubt also of very high temperature. This is
+probably not the case with stars of the third subdivision of Type I.
+(I.c), the spectra of which are distinguished by the presence of bright
+hydrogen lines and the bright helium line D3. Among the stars having
+this very remarkable kind of spectrum is a very interesting variable
+star in the constellation Lyra (b) and the star known as g
+Cassiopeiae, both of which have been assiduously observed, their spectra
+possessing numerous peculiarities which render an explanation of the
+physical constitution of the stars of this subdivision a very difficult
+matter.
+
+Passing to _Type II._, we find spectra in which the metallic lines are
+strong. The more refrangible end of the spectrum is fainter than in the
+previous Class, and absorption bands are sometimes found towards the red
+end. In its first subdivision (II.a) are contained spectra with a large
+number of strong and well-defined lines due to metals, the hydrogen
+lines being also well seen, though they are not specially conspicuous.
+Among the very numerous stars of this group are Capella, Aldebaran,
+Arcturus, Pollux, etc. The spectra of these stars are in fact
+practically identical with the spectrum of our own sun, as shown, for
+instance, by Dr. Scheiner, of the Potsdam Astrophysical Observatory, who
+has measured several hundred lines on photographs of the spectrum of
+Capella, and found a very close agreement between these lines and
+corresponding ones in the solar spectrum. We can hardly doubt that the
+physical constitution of these stars is very similar to that of our sun.
+This cannot be the case with the stars of the second subdivision (II.b),
+the spectra of which are very complex, each consisting of a continuous
+spectrum crossed by numerous dark lines, on which is superposed a second
+spectrum of bright lines. Upwards of seventy stars are known to possess
+this extraordinary spectrum, the only bright one among them being a star
+of the third magnitude in the southern constellation Argus. Here again
+we have hydrogen and helium represented by bright lines, while the
+origin of the remaining bright lines is doubtful. With regard to the
+physical constitution of the stars of this group it is very difficult to
+come to a definite conclusion, but it would seem not unlikely that we
+have here to do with stars which are not only surrounded by an
+atmosphere of lower temperature, causing the dark lines, but which,
+outside of that, have an enormous envelope of hydrogen and other gases.
+In one star at least of this group Professor Campbell, of the Lick
+Observatory, has seen the F line as a long line extending a very
+appreciable distance on each side of the continuous spectrum, and with
+an open slit it was seen as a large circular disc about six seconds in
+diameter; two other principal hydrogen lines showed the same appearance.
+As far as this observation goes, the existence of an extensive gaseous
+envelope surrounding the star seems to be indicated.
+
+_Type III._ contains comparatively few stars, and the spectra are
+characterised by numerous dark bands in addition to dark lines, while
+the more refrangible parts are very faint, for which reason the stars
+are more or less red in colour. This class has two strongly marked
+subdivisions. In the first (III.a) the principal absorption lines
+coincide with similar ones in the solar spectrum, but with great
+differences as to intensity, many lines being much stronger in these
+stars than in the sun, while many new lines also appear. These
+dissimilarities are, however, of less importance than the peculiar
+absorption bands in the red, yellow, and green parts of the spectrum,
+overlying the metallic lines, and being sharply defined on the side
+towards the violet and shading off gradually towards the red end of the
+spectrum. Bands of this kind belong to chemical combinations, and this
+appears to show that somewhere in the atmospheres of these distant suns
+the temperature is low enough to allow stable chemical combinations to
+be formed. The most important star of this kind is Betelgeuze or a
+Orionis, the red star of the first magnitude in the shoulder of Orion;
+but it is of special importance to note that many variable stars of long
+period have spectra of Type III.a. Sir Norman Lockyer predicted in 1887
+that bright lines, probably of hydrogen, would eventually be found to
+appear at the maximum of brightness, when the smaller swarm is supposed
+to pass through the larger one, and this was soon afterwards confirmed
+by the announcement that Professor Pickering had found a number of
+hydrogen lines bright on photographs, obtained at Harvard College
+Observatory, of the spectrum of the remarkable variable, Mira Ceti, at
+the time of maximum. Professor Pickering has since then reported that
+bright lines have been found on the plates of forty-one previously known
+variables of this class, and that more than twenty other stars have been
+detected as variables by this peculiarity of their spectrum; that is,
+bright lines being seen in them suggested that the stars were variable,
+and further photometric investigations corroborated the fact.
+
+The second subdivision (III.b) contains only comparatively faint stars,
+of which none exceed the fifth magnitude, and is limited to a small
+number of red stars. The strongly marked bands in their spectra are
+sharply defined and dark on the red side, while they fade away gradually
+towards the violet, exactly the reverse of what we see in the spectra of
+III.a. These bands appear to arise from the absorption due to
+hydrocarbon vapours present in the atmospheres of these stars; but there
+are also some lines visible which indicate the presence of metallic
+vapours, sodium being certainly among these. There can be little doubt
+that these stars represent the last stage in the life of a sun, when it
+has cooled down considerably and is not very far from actual extinction,
+owing to the increasing absorption of its remaining light in the
+atmosphere surrounding it.
+
+The method employed for the spectroscopic determination of the motion of
+a star in the line of sight is the same as the method we have described
+in the chapter on the sun. The position of a certain line in the
+spectrum of a star is compared with the position of the corresponding
+bright line of an element in an artificially produced spectrum, and in
+this manner a displacement of the stellar line either towards the violet
+(indicating that the star is approaching us) or towards the red
+(indicating that it is receding) may be detected. The earliest attempt
+of this sort was made in 1867 by Sir William Huggins, who compared the F
+line in the spectrum of Sirius with the same line of the spectrum of
+hydrogen contained in a vacuum tube reflected into the field of his
+astronomical spectroscope, so that the two spectra appeared side by
+side. The work thus commenced and continued by him was afterwards taken
+up at the Greenwich Observatory; but the results obtained by these
+direct observations were never satisfactory, as remarkable discrepancies
+appeared between the values obtained by different observers, and even by
+the same observer on different nights. This is not to be wondered at
+when we bear in mind that the velocity of light is so enormous compared
+with any velocity with which a heavenly body may travel, that the change
+of wave length resulting from the latter motion can only be a very
+minute one, difficult to perceive, and still more difficult to measure.
+But since photography was first made use of for these investigations by
+Dr. Vogel, of Potsdam, much more accordant and reliable results have
+been obtained, though even now extreme care is required to avoid
+systematic errors. To give some idea of the results obtainable, we
+present in the following table the values of the velocity per second of
+a number of stars observed in 1896 and 1897 by Mr. H.F. Newall with the
+Bruce spectrograph attached to the great 25-inch Newall refractor of the
+Cambridge Observatory, and we have added the values found at Potsdam by
+Vogel and Scheiner. The results are expressed in kilometres (1 km. =
+0.62 English mile). The sign + means that the star is receding from
+us,-that it is approaching.
+
+                   Newall.   Vogel.   Scheiner.
+  Aldebaran        + 49.2    + 47.6    + 49.4
+  Betelgeuze       + 10.6    + 15.6    + 18.8
+  Procyon          -  4.2    -  7.2    - 10.5
+  Pollux           -  0.7    +  1.9    +  0.4
+  g Leonis          - 39.9    - 36.5    - 40.5
+  Arcturus         -  6.4    -  7.0    -  8.3
+
+These results have been corrected for the earth's orbital motion round
+the sun, but not for the sun's motion through space, as the amount of
+the latter is practically unknown, or at least very uncertain; so that
+the above figures really represent the velocity per second of the
+various stars relative to the sun. We may add that the direction and
+velocity of the sun's motion may eventually be ascertained from
+spectroscopic measures of a great number of stars, and it seems likely
+that the sun's velocity will be much more accurately found in this way
+than by the older method of combining proper motions of stars with
+speculations as to the average distances of the various classes of
+stars. This has already been attempted by Dr. Kempf, who from the
+Potsdam spectrographic observations found the sun's velocity to be 18.6
+kilometres, or 11.5 miles per second, a result which is probably not far
+from the truth.
+
+But the spectra of the fixed stars can also tell us something about
+orbital motion in these extremely distant systems. If one star revolved
+round another in a plane passing through the sun, it must on one side of
+the orbit move straight towards us and on the other side move straight
+away from us, while it will not alter its distance from us while it is
+passing in front of, or behind, the central body. If we therefore find
+from the spectroscopic observations that a star is alternately moving
+towards and away from the earth in a certain period, there can be no
+doubt that this star is travelling round some unseen body (or, rather,
+round the centre of gravity of both) in the period indicated by the
+shifting of the spectral lines. In Chapter XIX. we mentioned the
+variable star Algol in the constellation Perseus, which is one of a
+class of variable stars distinguished by the fact that for the greater
+part of the period they remain of unaltered brightness, while for a very
+short time they become considerably fainter. That this was caused by
+some sort of an eclipse--or, in other words, by the periodic passage of
+a dark body in front of the star, hiding more or less of the latter from
+us--was the simplest possible hypothesis, and it had already years ago
+been generally accepted. But it was not possible to prove that this was
+the true explanation of the periodicity of stars like Algol until
+Professor Vogel, from the spectroscopic observations made at Potsdam,
+found that before every minimum Algol is receding from the sun, while it
+is approaching us after the minimum. Assuming the orbit to be circular,
+the velocity of Algol was found to be twenty-six miles per second. From
+this and the length of the period (2d. 22h. 48m. 55s.) and the time of
+obscuration it was easy to compute the size of the orbit and the actual
+dimensions of the two bodies. It was even possible to go a step further
+and to calculate from the orbital velocities the masses of the two
+bodies,[41] assuming them to be of equal density--an assumption which is
+no doubt very uncertain. The following are the approximate elements of
+the Algol system found by Vogel:--
+
+  Diameter of Algol                      1,054,000 miles.
+  Diameter of companion                    825,000 miles.
+  Distance between their centres         3,220,000 miles.
+  Orbital velocity of Algol             26 miles per sec.
+  Orbital velocity of companion         55 miles per sec.
+  Mass of Algol                        4/9 of sun's mass.
+  Mass of companion                    2/9 of sun's mass.
+
+The period of Algol has been gradually decreasing during the last
+century (by six or seven seconds), but whether this is caused by the
+motion of the pair round a third and very much more distant body, as
+suggested by Mr. Chandler, has still to be found out.
+
+We have already mentioned that in order to produce eclipses, and thereby
+variations of light, it is necessary that the line of sight should lie
+nearly in the plane of the orbit. It is also essential that there should
+be a considerable difference of brightness between the two bodies. These
+conditions must be fulfilled in the fifteen variable stars of the Algol
+class now known; but according to the theory of probability, there must
+be many more binary systems like that of Algol where these conditions
+are not fulfilled, and in those cases no variations will occur in the
+stars' brightness. Of course, we know many cases of a luminous star
+travelling round another, but there must also be cases of a large
+companion travelling round another at so small a distance that our
+telescopes are unable to "divide" the double star. This has actually
+been discovered by means of the spectroscope. If we suppose an extremely
+close double star to be examined with the spectroscope, the spectra of
+the two components will be superposed, and we shall not be aware that we
+really see two different spectra. But during the revolution of the two
+bodies round their common centre of gravity there must periodically come
+a time when one body is moving towards us and the other moving from us,
+and consequently the lines in the spectrum of the former will be subject
+to a minute, relative shift towards the violet end of the spectrum, and
+those of the other to a minute shift towards the red. Those lines which
+are common to the two spectra will therefore periodically become double.
+A discovery of this sort was first made in 1889 by Professor Pickering
+from photographs of the spectrum of Mizar, or z Ursa Majoris, the
+larger component of the well-known double star in the tail of the Great
+Bear. Certain of the lines were found to be double at intervals of
+fifty-two days. The maximum separation of the two components of each
+line corresponds to a relative velocity of one star as compared with the
+other of about a hundred miles per second, but subsequent observations
+have shown the case to be very complicated, either with a very eccentric
+elliptic orbit or possibly owing to the presence of a third body. The
+Harvard College photographs also showed periodic duplicity of lines in
+the star b Aurigae, the period being remarkably short, only three
+days and twenty-three hours and thirty-seven minutes. In 1891 Vogel
+found, from photographs of the spectrum of Spica, the first magnitude
+star in Virgo, that this star alternately recedes from and approaches to
+the solar system, the period being four days. Certain other
+"spectroscopic binaries" have since then been found, notably one
+component of Castor, with a period of three days, found by M.
+Belopolsky, and a star in the constellation Scorpio, with a period of
+only thirty-four hours, detected on the Harvard spectrograms.
+
+Quite recently Mr. H.F. Newall, at Cambridge, and Mr. Campbell, of the
+Lick Observatory, have shown that a Aurigae, or Capella, consists
+of a sun-like star and a Procyon-like star, revolving in 104 days.
+
+At first sight there is something very startling in the idea of two suns
+circling round each other, separated by an interval which, in comparison
+with their diameters, is only a very small one. In the Algol system, for
+instance, we have two bodies, one the size of our own sun and the other
+slightly larger, moving round their common centre of gravity in less
+than three days, and at a distance between their surfaces equal to only
+twice the diameter of the larger one. Again, in the system of Spica we
+have two great suns swinging round each other in only four days, at a
+distance equal to that between Saturn and his sixth satellite. But
+although we have at present nothing analogous to this in our solar
+system, it can be proved mathematically that it is perfectly possible
+for a system of this kind to preserve its stability, if not for ever, at
+any rate for ages, and we shall see in our last chapter that there was
+in all probability a time when the earth and the moon formed a peculiar
+system of two bodies revolving rapidly at a very small distance compared
+to the diameters of the bodies.
+
+It is possible that we have a more complicated system in the star known
+as b Lyrae. This is a variable star of great interest, having a
+period of twelve days and twenty-two hours, in which time it rises from
+magnitude 4-1/2 to a little above 3-1/2, sinks nearly to the fourth
+magnitude, rises again to fully 3-1/2, and finally falls to magnitude
+4-1/2. In 1891 Professor Pickering discovered that the bright lines in
+the spectrum of this star changed their position from time to time,
+appearing now on one side, now on the other side of corresponding dark
+lines. Obviously these bright lines change their wave length, the
+light-giving source alternately receding from and approaching to the
+earth, and the former appeared to be the case during one-half of the
+period of variation of the star's light, the latter during the other
+half. The spectrum of this star has been further examined by Belopolsky
+and others, who have found that the lines are apparently double, but
+that one of the components either disappears or becomes very narrow from
+time to time. On the assumption that these lines were really single (the
+apparent duplicity resulting from the superposition of a dark line),
+Belopolsky determined the amount of their displacement by measuring the
+distances from the two edges of a line of hydrogen (F) to the artificial
+hydrogen line produced by gas glowing in a tube and photographed along
+with the star-spectrum. Assuming the alternate approach and recession to
+be caused by orbital revolution, Belopolsky found that the body emitting
+the light of the bright lines moved with an orbital velocity of
+forty-one miles. He succeeded in 1897 in observing the displacement of a
+dark line due to magnesium, and found that the body emitting it was also
+moving in an orbit, but while the velocities given by the bright F line
+are positive after the principal minimum of the star's light, those
+given by the dark line are negative. Therefore, during the principal
+minimum it is a star giving the dark line which is eclipsed, and during
+the secondary minimum another star giving the bright line is eclipsed.
+This wonderful variable will, however, require more observatioens before
+the problem of its constitution is finally solved, and the same may be
+said of several variable stars, _e.g._ e Aquilae and d Cephei,
+in which a want of harmony has been found between the changes of
+velocity and the fluctuations of the light.
+
+There are some striking analogies between the complicated spectrum of
+b Lyrae and the spectra of temporary stars. The first "new star"
+which could be spectroscopically examined was that which appeared in
+Corona Borealis in 1866, and which was studied by Sir W. Huggins. It
+showed a continuous spectrum with dark absorption lines, and also the
+bright lines of hydrogen; practically the same spectrum as the stars of
+Type II.b. This was also the case with Schmidt's star of 1876, which
+showed the helium line (D3) and the principal nebula line in addition
+to the lines of hydrogen; but in the autumn of 1877, when the star had
+fallen to the tenth magnitude, Dr. Copeland was surprised to find that
+only one line was visible, the principal nebula line, in which almost
+the whole light of the star was concentrated, the continuous spectrum
+being hardly traceable. It seemed, in fact, that the star had been
+transformed into a planetary nebula, but later the spectrum seems to
+have lost this peculiar monochromatic character, the nebula line having
+disappeared and a faint continuous spectrum alone being visible, which
+is also the case with the star of 1866 since it sank down to the tenth
+magnitude. A continuous spectrum was all that could be seen of the new
+star which broke out in the nebula of Andromeda in 1885, much the same
+as the spectrum of the nebula itself.
+
+When the new star in Auriga was announced, in February, 1892,
+astronomers were better prepared to observe it spectroscopically, as it
+was now possible by means of photography to study the ultra-violet part
+of the spectrum which to the eye is invisible. The visible spectrum was
+very like that of Nova Cygni of 1876, but when the wave-lengths of all
+the bright lines seen and photographed at the Lick Observatory and at
+Potsdam were measured, a strong resemblance to the bright line spectrum
+of the chromosphere of the sun became very evident. The hydrogen lines
+were very conspicuous, while the iron lines were very numerous, and
+calcium and magnesium were also represented. The most remarkable
+revelation made by the photographs was, however, that the bright lines
+were in many cases accompanied, on the side next the violet, by broad
+dark bands, while both bright and dark lines were of a composite
+character. Many of the dark lines had a thin bright line superposed in
+the middle, while on the other hand many of the bright lines had two or
+three points maxima of brightness. The results of the measures of motion
+in the line of sight were of special importance. They showed that the
+source of light, whence came the thin bright lines within the dark ones,
+was travelling towards the sun at the enormous rate of 400 miles per
+second, and if the bright lines were actual "reversals" of the dark
+ones, then the source of the absorption spectrum must have been endowed
+with much the same velocity. On the other hand, if the two or three
+maxima of brightness in the bright lines really represent two or three
+separate bodies giving bright lines, the measures indicate that the
+principal one was almost at rest as regards the sun, while the others
+were receding from us at the extraordinary rates of 300 and 600 miles
+per second. And as if this were not sufficiently puzzling, the star on
+its revival in August, 1892, as a tenth magnitude star had a totally
+different spectrum, showing nothing but a number of the bright lines
+belonging to planetary nebulae! It is possible that the principal ones of
+these were really present in the spectrum from the first, but that their
+wave lengths had been different owing to change of the motion in the
+line of sight, so that the nebula lines seen in the autumn were
+identical with others seen in the spring at slightly different places.
+Subsequent observations of these nebula lines seemed to point to a
+motion of the Nova towards the solar system (of about 150 miles per
+second) which gradually diminished.
+
+But although we are obliged to confess our inability to say for certain
+why a temporary star blazes up so suddenly, we have every cause to think
+that these strange bodies will by degrees tell us a great deal about the
+constitution of the fixed stars. The great variety of spectra which we
+see in the starry universe, nebula spectra with bright lines, stellar
+spectra of the same general character, others with broad absorption
+bands, or numerous dark lines like our sun, or a few absorption lines
+only--all this shows us the universe as teeming with bodies in various
+stages of evolution. We shall have a few more words to say on this
+matter when we come to consider the astronomical significance of heat;
+but we have reached a point where man's intellect can hardly keep pace
+with the development of our instrumental resources, and where our
+imagination stands bewildered when we endeavour to systematise the
+knowledge we have gained. That great caution will have to be exercised
+in the interpretation of the observed phenomena is evident from the
+recent experience of Professor Rowland, of Baltimore, from which we
+learn that spectral lines are not only widened by increased pressure of
+the light-giving vapour, but that they may be bodily shifted thereby.
+Dr. Zeeman's discovery, that a line from a source placed in a strong
+magnetic field may be both widened, broadened, and doubled, will also
+increase our difficulties in the interpretation of these obscure
+phenomena.
+
+
+
+
+CHAPTER XXIV.
+
+THE PRECESSION AND NUTATION OF THE EARTH'S AXIS.
+
+
+     The Pole is not a Fixed Point--Its Effect on the Apparent Places of
+     the Stars--The Illustration of the Peg-Top--The Disturbing Force
+     which acts on the Earth--Attraction of the Sun on a Globe--The
+     Protuberance at the Equator--The Attraction of the Protuberance by
+     the Sun and by the Moon produces Precession--The Efficiency of the
+     Precessional Agent varies inversely as the Cube of the
+     Distance--The Relative Efficiency of the Sun and the Moon--How the
+     Pole of the Earth's Axis revolves round the Pole of the
+     Ecliptic--Variation of Latitude.
+
+The position of the pole of the heavens is most conveniently indicated
+by the bright star known as the Pole Star, which lies in its immediate
+vicinity. Around this pole the whole heavens appear to rotate once in a
+sidereal day; and we have hitherto always referred to the pole as though

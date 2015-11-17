@@ -1,0 +1,496 @@
+them.
+
+It happens that I have myself succeeded in getting electric
+oscillations so slow as to be audible. The lowest I have got at
+present are 125 per second, and for some way above this the sparks
+emit a musical note; but no one has yet succeeded in directly making
+electric oscillations which are visible, though indirectly every one
+does it when they light a candle.
+
+Here, however, is an electric oscillator, which vibrates 300 million
+times a second, and emits ethereal waves a yard long. The whole range
+of vibrations between musical tones and some thousand million per
+second is now filled up.
+
+These electro-magnetic waves have long been known on the side of
+theory, but interest in them has been immensely quickened by the
+discovery of a receiver or detector for them. The great though simple
+discovery by Hertz of an "electric eye," as Sir W. Thomson calls it,
+makes experiments on these waves for the first time easy or even
+possible. We have now a sort of artificial sense organ for their
+appreciation--an electric arrangement which can virtually "see" these
+intermediate rates of vibration.
+
+The Hertz receiver is the simplest thing in the world--nothing but a
+bit of wire or a pair of bits of wire adjusted so that when immersed
+in strong electric radiation they give minute sparks across a
+microscopic air gap.
+
+The receiver I have here is adapted for the yard-long waves emitted
+from this small oscillator; but for the far longer waves emitted by a
+discharging Leyden jar an excellent receiver is a gilt wall paper or
+other interrupted metallic surface. The waves falling upon the
+metallic surface are reflected, and in the act of reflection excite
+electric currents, which cause sparks. Similarly, gigantic solar waves
+may produce aurorae; and minute waves from a candle do electrically
+disturb the retina.
+
+The smaller waves are, however, far the most interesting and the most
+tractable to ordinary optical experiments. From a small oscillator,
+which may be a couple of small cylinders kept sparking into each other
+end to end by an induction coil, waves are emitted on which all manner
+of optical experiments can be performed.
+
+They can be reflected by plain sheets of metal, concentrated by
+parabolic reflectors, refracted by prisms, concentrated by lenses. I
+have at the college a large lens of pitch, weighing over three
+hundredweight, for concentrating them to a focus. They can be made to
+show the phenomenon of interference, and thus have their wave length
+accurately measured. They are stopped by all conductors and
+transmitted by all insulators. Metals are opaque, but even imperfect
+insulators such as wood or stone are strikingly transparent, and waves
+may be received in one room from a source in another, the door between
+the two being shut.
+
+The real nature of metallic opacity and of transparency has long been
+clear in Maxwell's theory of light, and these electrically produced
+waves only illustrate and bring home the well known facts. The
+experiments of Hertz are in fact the apotheosis of that theory.
+
+Thus, then, in every way Maxwell's 1865 brilliant perception of the
+real nature of light is abundantly justified; and for the first time
+we have a true theory of light, no longer based upon analogy with
+sound, nor upon a hypothetical jelly or elastic solid.
+
+Light is an electro-magnetic disturbance of the ether. Optics is a
+branch of electricity. Outstanding problems in optics are being
+rapidly solved now that we have the means of definitely exciting light
+with a full perception of what we are doing and of the precise mode of
+its vibration.
+
+It remains to find out how to shorten down the waves--to hurry up the
+vibration until the light becomes visible. Nothing is wanted but
+quicker modes of vibrations. Smaller oscillators must be used--very
+much smaller--oscillators not much bigger than molecules. In all
+probability--one may almost say certainly--ordinary light is the
+result of electric oscillation in the molecules of hot bodies, or
+sometimes of bodies not hot--as in the phenomenon of phosphorescence.
+
+The direct generation of _visible_ light by electric means, so soon as
+we have learnt how to attain the necessary frequency of vibration,
+will have most important practical consequences.
+
+Speaking in this university, it is happily quite unnecessary for me to
+bespeak interest in a subject by any reference to possible practical
+applications. But any practical application of what I have dealt with
+this evening is apparently so far distant as to be free from any
+sordid gloss of competition and company promotion, and is interesting
+in itself as a matter of pure science.
+
+For consider our present methods of making artificial light; they are
+both wasteful and ineffective.
+
+We want a certain range of oscillation, between 7,000 and 4,000
+billion vibrations per second; no other is useful to us, because no
+other has any effect upon our retina; but we do not know how to
+produce vibrations of this rate. We can produce a definite vibration
+of one or two hundred or thousand per second; in other words, we can
+excite a pure tone of definite pitch; and we can demand any desired
+range of such tones continuously by means of bellows and a keyboard.
+We can also (though the fact is less well known) excite momentarily
+definite ethereal vibrations of some million per second, as I have
+explained at length; but we do not at present seem to know how to
+maintain this rate quite continuously. To get much faster rates of
+vibration than this we have to fall back upon atoms. We know how to
+make atoms vibrate; it is done by what we call "heating" the
+substance, and if we could deal with individual atoms unhampered by
+others, it is possible that we might get a pure and simple mode of
+vibration from them. It is possible, but unlikely; for atoms, even
+when isolated, have a multitude of modes of vibration special to
+themselves, of which only a few are of practical use to us, and we do
+not know how to excite some without also the others. However, we do
+not at present even deal with individual atoms; we treat them crowded
+together in a compact mass, so that their modes of vibration are
+really infinite.
+
+We take a lump of matter, say a carbon filament or a piece of
+quicklime, and by raising its temperature we impress upon its atoms
+higher and higher modes of vibration, not transmuting the lower into
+the higher, but superposing the higher upon the lower, until at length
+we get such rates of vibration as our retina is constructed for, and
+we are satisfied. But how wasteful and indirect and empirical is the
+process. We want a small range of rapid vibrations, and we know no
+better than to make the whole series leading up to them. It is as
+though, in order to sound some little shrill octave of pipes in an
+organ, we are obliged to depress every key and every pedal, and to
+blow a young hurricane.
+
+I have purposely selected as examples the more perfect methods of
+obtaining artificial light, wherein the waste radiation is only useless
+and not noxious. But the old-fashioned plan was cruder even than this;
+it consisted simply in setting something burning; whereby not the fuel
+but the air was consumed, whereby also a most powerful radiation was
+produced, in the waste waves of which we were content to sit stewing,
+for the sake of the minute--almost infinitesimal--fraction of it which
+enabled us to see.
+
+Every one knows now, however, that combustion is not a pleasant or
+healthy mode of obtaining light; but every one does not realize that
+neither is incandescence a satisfactory and unwasteful method which is
+likely to be practiced for more than a few decades, or perhaps a
+century.
+
+Look at the furnaces and boilers of a great steam engine driving a
+group of dynamos, and estimate the energy expended; and then look at
+the incandescent filaments of the lamps excited by them, and estimate
+how much of their radiated energy is of real service to the eye. It
+will be as the energy of a pitch pipe to an entire orchestra.
+
+It is not too much to say that a boy turning a handle could, if his
+energy were properly directed, produce quite as much real light as is
+produced by all this mass of mechanism and consumption of material.
+There might, perhaps, be something contrary to the laws of nature in
+thus hoping to get and utilize some specific kind of radiation without
+the rest, but Lord Rayleigh has shown in a short communication to the
+British Association at York that it is not so, and that, therefore, we
+have a right to try to do it.
+
+We do not yet know how, it is true, but it is one of the things we
+have got to learn.
+
+Any one looking at a common glow-worm must be struck with the fact
+that not by ordinary combustion, nor yet on the steam engine and
+dynamo principle, is that easy light produced. Very little waste
+radiation is there from phosphorescent things in general. Light of the
+kind able to affect the retina is directly emitted; and for this, for
+even a large supply of this, a modicum of energy suffices.
+
+Solar radiation consists of waves of all sizes, it is true; but then
+solar radiation has innumerable things to do besides making things
+visible. The whole of its energy is useful. In artificial lighting
+nothing but light is desired; when heat is wanted it is best obtained
+separately by combustion. And so soon as we clearly recognize that
+light is an electric vibration, so soon shall we begin to beat about
+for some mode of exciting and maintaining an electrical vibration of
+any required degree of rapidity. When this has been accomplished the
+problem of artificial lighting will have been solved.
+
+       *       *       *       *       *
+
+
+
+
+ON PURIFICATION OF AIR BY OZONE--WITH AN ACCOUNT OF A NEW METHOD.[1]
+
+    [Footnote 1: Paper read in Section C, Domestic Health, at the
+    Hastings Health Congress, on Friday, May 3, 1889.]
+
+By Dr. B. W. RICHARDSON.
+
+
+During the time when I was engaged in my preliminary medical
+studies--for I never admit to this day of being anything less than a
+medical student--the substance called ozone became the topic of much
+conversation and speculation. I cannot say that ozone was a discovery
+of that date, for in the early part of the century Von Marum had
+observed that when electrical discharges were made through oxygen in a
+glass cylinder inverted over water, the water rose in the cylinder as
+if something had either been taken away from the gas, or as if the gas
+itself had been condensed, and was therefore occupying a smaller
+space. It had also been observed by many electricians that during a
+passage of the electric spark through air or oxygen, there was a
+peculiar emanation or odor which some compared to fresh sea air,
+others to the air after a thunderstorm, when the sky has become very
+clear, the firmament blue, and the stars, if visible, extremely
+bright.
+
+But it was not until the time, or about the time, of which I have
+spoken, 1846-49, that these discovered but unexplained phenomena
+received proper recognition. The distinguished physicist Schonbein
+first, if I may so say, isolated the substance which yielded the
+phenomena, and gave to it the name, by which it has since generally
+been known, of _ozone_, which means, to emit an odor; a name, I have
+always thought, not particularly happy, but which has become,
+practically, so fully recognized and understood, that it would be
+wrong now to disturb it.
+
+Schonbein made ozone by the action of the electric spark on oxygen. He
+collected it, he tested its chemical properties, he announced it to be
+oxygen in a modified form, and he traced its action as an active
+oxidizer of various substances, and especially of organic substances,
+even when they were in a state of decomposition.
+
+But Schonbein went further than this. He argued that ozone was a
+natural part of the atmosphere, and that in places where there was no
+decomposition, that is to say, in places away from great towns, ozone
+was present. On the high tower of a cathedral in a big city he
+discovered ozone; in the city, at the foot of the tower, he found no
+ozone at the same time. He argued, therefore, that the ozone above was
+used up in purifying the town below, and so suggested quite a new
+explanation of the purification of air.
+
+The subject was very soon taken up by English observers, and I
+remember well a lecture upon it by Michael Faraday, in which that
+illustrious philosopher, confirming Schonbein, stated that he had
+discovered ozone freely on the Brighton Downs, and had found the
+evidence of it diminishing as he approached Brighton, until it was
+lost altogether in the town itself.
+
+Such was the beginning of our knowledge of ozone, the precise nature
+of which has not yet been completely made out. At the present time it
+is held to be oxygen condensed. To use a chemical phrase, the molecule
+of oxygen, which in the ordinary state is composed of two atoms, is
+condensed, in ozone, as three atoms. By the electric spark discharged
+in dry oxygen as much as 15 per cent. may, under proper conditions, be
+turned into ozone. Ozone has also been found to be heavier than air.
+Professor Zinno says, that compared with an equal volume of air its
+density is equal to 1,658, and that it is forty-eight times heavier
+than hydrogen. Heat decomposes it; at the temperature of boiling water
+it begins to decompose. In water it is much less soluble than oxygen,
+and indeed is practically insoluble; when made to bubble through
+boiling water, it ceases to be ozone. The oxidizing power of ozone is
+very much greater than that of oxygen, and, according to Saret, when
+ozone is decomposed, one part of it enters into combination, the other
+remains simply as oxygen.
+
+It is remarkable that some substances, like turpentine and cinnamon,
+absorb ozone and combine with it, a simple fact of much greater
+importance than has ever been attached to it. I found, for instance,
+that cinnamon which by exposure to the air has been made odorless and,
+as it is said, "spoiled," can be made to reabsorb ozone and gain a
+kind of freshness. It is certain also that some substances which are
+supposed to have disinfecting properties owe what virtues they possess
+to the presence of ozone.
+
+On some grand scale ozone is formed in the air, and my former friend
+and colleague, the late Dr. Moffatt, of Hawarden, with whom I wrote a
+paper on "Meteorology and Disease," read before the Epidemiological
+Society in 1852-53, described what he designated ozone periods of the
+atmosphere, connecting these with storms. When the atmospheric
+pressure is decreasing, when with that there is increasing warmth and
+moisture, and when south and southwesterly winds prevail, then ozone
+is active; but when the atmospheric pressure is increasing, when the
+air is becoming dry and cold, and north and northeasterly winds
+prevail, then the presence of ozone is less active. These facts have
+also been put in another way, namely, that the maximum period of ozone
+occurs when there is greatest evaporation of water from the earth, and
+the minimum when there is greatest condensation of water on the earth;
+a theory which tallies well with the idea that ozone is most freely
+present when electricity is being produced, least present when
+electricity is in smallest quantity. Mr. Buchan, reporting on the
+observations of the Scottish Meteorological Society, records that
+ozone is most abundant from February to June, when the average amount
+is 6.0; and least from July to January, when the average is 5.7; the
+maximum, 6.2, being reached in May, and the minimum, 5.3, in November.
+This same excellent observer states that "ozone is more abundant on
+the sea coast than inland; in the west than the east of Great Britain;
+in elevated than in low situations; with southwest than with northeast
+winds; in the country than in towns; and on the windward than the
+leeward side of towns."
+
+Recently a very singular hypothesis has been broached in regard to the
+blue color of the firmament and ozone. It has been observed that when
+a tube is filled with ozone, the light transmitted through it is of a
+blue color; from which fact it is assumed that the blue color of the
+sky is due to the presence of this body in the higher atmospheric
+strata. The hypothesis is in entire accord with the suggestion of
+Professor Dove, to which Moffatt always paid the greatest respect,
+viz., that the source of ozone for the whole of the planet is
+equatorial, and that the point of development of ozone is where the
+terrestrial atmosphere raised to its highest altitude, at the equator,
+expands out north and south in opposite directions toward the two
+poles, to return to the equator over the earth as the trade winds.
+
+It is necessary for all who would understand the applications of ozone
+for any purpose, whether for bleaching purposes or pure chemical
+purposes, or for medical or sanitary purposes, to understand these
+preliminary facts concerning it, facts which bring me to the
+particular point to which I wish to refer to-day.
+
+In my essay describing the model city, Hygeiopolis, it was suggested
+that in every town there should be a building like a gas house, in
+which ozone should be made and stored, and from which it should be
+dispensed to every street or house at pleasure. This suggestion was
+made as the final result of observations which had been going on since
+I first began to work at the subject in 1852. It occurred to me from
+the moment when I first made ozone by Schonbein's method, that the
+value of it in a hygienic point of view was incalculable.
+
+To my then young and enthusiastic mind it seemed that in ozone we had
+a means of stopping all putrefaction, of destroying all infectious
+substances, and of actually commanding and destroying the causes which
+produced the great spreading diseases; and, although increase of years
+and greater experience have toned down the enthusiasm, I still believe
+that here one of the most useful fields for investigation remains
+almost unexplored.
+
+In my first experiments I subjected decomposing blood to ozone, and
+found that the products of decomposition were instantly destroyed, and
+that the fluid was rendered odorless and sweet. I discovered that the
+red corpuscles of fresh blood decomposed ozone, and that coagulated
+blood underwent a degree of solution through its action. I put dead
+birds and pieces of animal substances that had undergone extreme
+decomposition into atmospheres containing ozone, and observed the
+rapidity with which the products of decomposition were neutralized and
+rendered harmless. I employed ozone medicinally, by having it inhaled
+by persons who were suffering from foetor of the breath, and with
+remarkable success, and I began to employ it and have employed it ever
+since (that is to say, for thirty-seven years), for purposes of
+disinfection and deodorization, in close rooms, closets, and the like.
+I should have used it much more largely but for one circumstance,
+namely, the almost impracticable difficulty of making it with
+sufficient ease and in sufficient quantities to meet the necessities
+of sanitary practice. We are often obstructed in this way. We know of
+something exceedingly useful, but we cannot utilize it. This was the
+case with ozone. I hope now that difficulty is overcome. If it is, we
+shall start from this day on a new era in regard to ozone as an
+instrument of sanitation.
+
+As we have seen, ozone was originally made by charging dry oxygen or
+common dry air with electricity from sparks or points. Afterward
+Faraday showed that it could be made by holding a warm glass rod in
+vapor of ether. Again he showed that it could be made by passing air
+over bright phosphorus half immersed in water. Then Siemens modified
+the electric process by inventing his well known ozone tube, which
+consists of a wide glass tube coated with tinfoil on its outside, and
+holding within it a smaller glass tube coated with tinfoil on its
+surface. When a current of dry air or oxygen was passed in current
+between these two tubes, and the electric spark from a Ruhmkorf coil
+was discharged by the terminal wires connected with tinfoil surfaces,
+ozone was freely produced, and this was no doubt the best method, for
+by means of a double-acting hand bellows currents of ozone could be
+driven over very freely. One of these tubes with hand bellows
+attached, which I have had in use for twenty-four years, is before the
+meeting, and answers as well as ever. The practical difficulty lies in
+the requirement of a battery, a large coil, and a separate bellows as
+well as the tube.
+
+My dear and most distinguished friend, the late Professor Polli, of
+Milan, tried to overcome the difficulties arising from the use of the
+coil by making ozone chemically, namely, by the decomposition of
+permanganate of potassa with strong sulphuric acid. He placed the
+permanganate in glass vessels, moistened it gradually with the acid,
+and then allowed the ozone, which is formed, to diffuse into the air.
+In this way he endeavored, as I had done, to purify the air of rooms,
+especially those vitiated by the breaths of many people. When he
+visited me, not very long before his death, he was enthusiastic as to
+the success that must attend the utilization of ozone for
+purification, and when I expressed a practical doubt, he rallied me by
+saying I must not desert my own child. At the theater La Scala, on the
+occasion of an unusually full attendance, Polli collected the
+condensible part of the exhaled organic matter, by means of a large
+glass bell filled with ice and placed over the circular opening in the
+roof, which corresponds with the large central light. The deposit on
+this bell was liquid and had a mouldy smell; was for some few days
+limpid, but then became very thick and had a nauseous odor. When mixed
+with a solution of one part glucose to four parts of water, and kept
+at a temperature of from 20 deg. to 24 deg. C., this liquid underwent a slow
+fermentation, with the formation, on the superficies, of green must;
+during the same period of time, and placed under the same conditions,
+a similar glucose solution underwent no change whatever.
+
+By the use of his ozone bottles Polli believed that he had supplied a
+means most suitable for directly destroying in the air miasmatic
+principles, without otherwise interfering with the respiratory
+functions. The ozonized air had neither a powerful nor an offensive
+smell, and it might be easily and economically made. The smell of
+ozone was scarcely perceptible, and was far less disagreeable than
+chlorine, bromine, and iodine, while it was more efficacious than
+either of these; if, therefore, its application as a purifier of a
+vitiated air succeeded, it would probably supply all the exigences of
+defective ventilation in crowded atmospheres. In confined places
+vessels might be placed containing mixtures of permanganate of potassa
+or soda and acid in proper quantities, and of which the duration of
+the action was known; or sulphuric acid could be dropped upon the
+permanganate.
+
+This idea of applying ozone was no doubt very ingenious, and in the
+bottles before us on the table, which have been prepared in Hastings
+by Mr. Rossiter, we see it in operation. The disadvantages of the plan
+are that manipulation with strong sulphuric acid is never an agreeable
+or safe process, and that the ozone evolved cannot be on a large scale
+without considerable trouble.
+
+In 1875 Dr. Lender published a process for the production of ozone. In
+this process he used equal parts of manganese, permanganate of potash,
+and oxalic acid. When this mixture is placed in contact with water,
+ozone is quickly generated. For a room of medium size two spoonfuls of
+this powder, placed in a dish and occasionally diluted with water,
+would be sufficient. As the ozone is developed, it disinfects the
+surrounding air without producing cough.
+
+Lender's process is very useful when ozone is wanted on a limited
+scale. We have some of it here prepared by Mr. Rossiter, and it
+answers exceedingly well; but it would be impossible to generate
+sufficient ozone by this plan for the large application that would be
+required should it come into general use. The process deserves to be
+remembered, and the physician may find it valuable as a means by which
+ozone may be medically applied, to wounds, or by inhalation when there
+are foetid exhalations from the mouth or nostrils.
+
+
+A NEW METHOD.
+
+For the past ten or fifteen years the manufacture of ozone, for the
+reasons related above, has remained in abeyance, and it is to a new
+mode, which will, I trust, mark another stage of advancement, that I
+now wish to direct attention. Some years since, Mr. Wimshurst, a most
+able electrician, invented the electrical machine which goes by his
+name. The machine, as will be seen from the specimen of it on the
+table, looks something like the old electrical machine, but differs in
+that there is no friction, and that the plates of glass with their
+metal sectors, separated a little distance from each other, revolve,
+when the handle of the machine is turned, in opposite directions. The
+machine when it is in good working order (and it is very easily kept
+in good working order) produces electricity abundantly, and in working
+it I observed that ozone was so freely generated, that more than once
+the air of my laboratory became charged with ozone to an oppressive
+degree. The fact led me to use this machine for the production of
+ozone on a large scale, in the following way.
+
+From the terminals of the machine two wires are carried and are
+conducted, by their terminals, to an ozone generator formed somewhat
+after the manner of Siemens', but with this difference, that the
+discharge is made through a series of fine points within the
+cylinders. The machine is placed on a table with the ozone generator
+at the back of it, and can be so arranged that with the turning of the
+handle which works the machine a blast of air is carried through the
+generator. Thus by one action electricity is generated, sparks are
+discharged in the ozone generator, air is driven through, and ozone is
+delivered over freely.
+
+If it be wished to use pure oxygen instead of common air, nothing more
+is required than to use compressed oxygen and to allow a gentle
+current to pass through the ozone generator in place of air. For this
+purpose Brin's compressed oxygen is the purest and best; but for
+ordinary service atmospheric air is sufficient.[2]
+
+    [Footnote 2: For illustration to-day, Messrs Mayfield, the
+    electrical engineers of Queen Victoria Street, E. C., have been
+    good enough to lend me a machine fitted up on the plan named. It
+    works so effectively that I can make the ozone given off from it
+    detectable in every part of this large hall.]
+
+The advantages of this apparatus are as follows:
+
+1. With care it is always ready for use, and as no battery is required
+nor anything more than the turning of a handle, any person can work
+it.
+
+2. It can be readily moved about from one part of a room or ward to
+another part.
+
+3. If required for the sick it can be wheeled near the bedside and, by
+a tube, the ozone it emits can be brought into action in any way
+desired by the physician.
+
+I refer in the above to the minor uses of ozone by this method, but I
+should add that it admits of application on a much grander scale. It
+would now be quite easy in any public institution to have a room in
+which a large compound Wimshurst could be worked with a gas engine,
+and from which, with the additional apparatus named, ozone could be
+distributed at pleasure into any part of the building. On a still
+larger scale ozone could be supplied to towns by this method, as
+suggested in Hygeiopolis, the model city.
+
+It will occur, I doubt not, to the learned president of this section,

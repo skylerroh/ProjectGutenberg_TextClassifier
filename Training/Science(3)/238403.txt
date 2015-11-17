@@ -1,0 +1,487 @@
+belts.
+
+There is a separate stairway inside of the tower for lubricating the
+journals, etc., and the top of the tower is covered with skylights
+protected underneath by a wire netting. In case of a fire in the belt
+tower, the heat will readily break the glass at the top, and the fire will
+tend to go up and out of the tower rather than through the mill.
+
+
+                             MILL FLOORS.
+
+The questions involved in designing the floors of a mill are of great
+importance, contributing in no small measure to elements concerned in the
+successful operation of the mill, and to a greater extent to its standing
+as a fire risk, and therefore affecting the constant expense of insurance.
+
+In the case of a building designed merely for sustaining of loads, as in a
+storehouse, a floor would naturally be designed on the basis of
+considering the breaking strength of the timber. But in the case of a
+mill, the limitation is the amount of flexure allowable under the
+circumstances; and therefore the floors of the building are made more
+nearly rigid than would be required merely from the consideration of the
+ultimate strength of the structure.
+
+The books on the subject, repeating over a constant which was first, I
+believe, given by Brunel in testimony before a parliamentary commission,
+have held that one four-hundredth of a span is the proper ratio of
+flexure. This may have been a very good rule to give to the parliamentary
+commission, but it is hardly the practical method of limitation for a
+matter of engineering construction, because the flexure of a loaded beam
+is in the form of a curve, and therefore its law is that of a curvilinear
+function, and not of a straight line. I have examined a great number of
+precedents of good construction in this connection, and for mill use have
+deduced the formula for deflection in inches, _d_ = 0.0012 L squared, in which L
+is the length of span in feet. It will be readily recognized that the true
+constant of deflection of span is measured by the radius of curvature
+which will give a uniform and allowable distortion to the floor in either
+direction to the limit of the radius upon which this formula is based,
+which is 1,250 feet.
+
+I do not propose to offer to you on this occasion any remarks in regard to
+the treatment of the mathematics of the problem of applied mechanics
+concerned in the questions of transverse stress, knowing that you have
+certainly received instruction upon these subjects. But referring to the
+questions of mill floors, I would state that Southern pine beams of solid
+timber twelve by fourteen up to fourteen by sixteen inches are used; and
+instead of attempting the use of one piece of timber, it is preferable to
+use two pieces of the same depth and of half the breadth. These should be
+bolted together, with a space of an inch or so between them left by
+placing small vertical pieces of wood between the timbers when they are
+bolted together. In this manner one is more sure of sound timber, and in
+the process of seasoning there is less liability of dry rot in the
+interior, or of injurious checking, warping, or twisting.
+
+The end of the beams should rest upon iron plates in the masonry, and
+should be secured by means of a tongue upon the plate entering a groove
+across the lower side of the beam. It is not feasible to make this groove
+to a close fit with the tongue; but it is cut a great deal larger, and the
+whole brought to a firm bearing by means of pairs of wedges or quoins
+driven into the groove each side of the iron tongue.
+
+The outer end of the plate contains ribs or tongues reaching down into the
+brickwork. In this manner the timber is securely fastened to the
+brickwork; and yet in time of accident or of fire the falling of the beam
+in the middle of the mill will raise it up sufficiently so that it will
+clear the tongue and fall without tearing the wall down, which is the case
+whenever the beams are secured by bolts entering the end of the beam from
+the face of the wall.
+
+At the points of support in a line of columns, the beams should be free
+from all compressive stress, transmitted through the lines of columns from
+floors above, by means of iron pintles between the cap of one column and
+the floor of the next one carrying this load.
+
+A faulty method of construction, quite frequently used, consists in
+covering each column with a bolster of timber, four or five feet long,
+reaching out under the floor beams.
+
+The transverse contraction of wood in seasoning after it is in position in
+the mill varies from three-eighths of an inch to double that quantity per
+foot; and the aggregation of such shrinkage amounts to a very considerable
+distortion or settling of the floor in a mill of several stories.
+Moreover, the resistance of timber to transverse crushing has been shown
+by experiments on the testing machine at the United States arsenal at
+Watertown to be about three times the resistance to longitudinal crushing.
+
+Iron columns for mills have been entirely displaced by those of timber, as
+it was found that the latter were more reliable in resistance to fire,
+were freer from defects in construction, and possessed less tendency to
+vibration. A series of tests on full-sized mill columns of various forms
+of construction and age, made in the experiments referred to, at the
+Watertown arsenal, showed that resistance to crushing of Southern pine
+columns was about 4,500 pounds to the square inch, and remarkably uniform
+as to the different results. In white oak there was a wider range, owing
+to the difference in the grain of the various samples, the generality of
+the specimens being of somewhat less resistance than that of Southern
+pine.
+
+It was furthermore found by these experiments, on comparing the crushing
+resistance of a full-sized column with that of a portion of the same,
+perhaps two feet in length, that the results were practically identical,
+likewise that within the limits of construction used for these columns the
+question of flexure did not enter at all in the problem, but they gave way
+by direct crushing, and that the resistance to crushing was proportional
+to its load upon the minimum cross section.
+
+The precedents of safe construction in this matter show that wood columns
+in mills have successfully sustained for many years a load of six hundred
+pounds to the square inch without deterioration. As the resistance of
+such columns is proportional to the cross section, the results of these
+experiments have changed the practice of mill engineers in the matter; and
+square columns are of almost universal use, which interfere with no
+greater area on the floor than the round column of the same diameter,
+while they furnish an increased resistance of a little over twenty per
+cent. in excess.
+
+Along the axis of such columns a hole of about one and one-half inches in
+diameter is bored, and near each end a couple of transverse holes,
+generally half an inch in diameter, furnish means of ventilating the
+inside of the column for the prevention of dry rot and also checking, due
+to contraction and seasoning.
+
+There are several methods of laying the floor plank upon these beams,
+which are placed from eight to ten feet apart, according to the dimensions
+of the machinery to be placed in the mill. The first floor of three-inch
+plank, planed on one side and grooved on both edges, is laid planed side
+down, and the hardwood splines are inserted into the grooves before the
+planks are pressed up and spiked to the beams. An agreeable finish is
+sometimes arranged underneath by plowing a rabbet in each of the corners,
+and inserting a bead in the groove thus formed, which is secured by nails
+driven diagonally into the plank on one side only, because if the nails
+were driven into both sides, the bead would be split by the contraction of
+the plank.
+
+These planks should be cut to sufficient length to cover two bays of the
+mill; and their transverse resistance is that of a beam fixed at one end
+and supported at the other, or one and three-fifths as much as a plank of
+the same size but half the length would support; but it should be
+remembered in this connection that, if evenly distributed on the floor,
+five-eighths of the load would be carried by every alternate beam unless
+the planks are so laid to break joints at convenient intervals of about
+three feet.
+
+The top flooring is generally laid directly upon the floor plank, with one
+or two thicknesses of roofing paper interposed; but the preferable method,
+which deadens the sound and vibration, and also greatly increases the
+fire-resisting qualities of the structure, is to lay a coat of mortar on
+the floor plank, preserving the uniform thickness by means of furring
+placed about sixteen inches apart, and then to lay the upper floor upon
+this.
+
+For these upper floors hardwood plank, one and one-fourth inches thick,
+and not over four inches wide, is used. The black birch is considered by
+many to possess the greater resistance to wear; and Southern pine is
+ranked next, although the latter wood gives trouble by stringing,
+especially when trucks are rolled over it. White maple forms an excellent
+top floor, although not so hard as others, especially where the floor is
+likely to be exposed to water, as in paper mills and bleacheries.
+
+
+                                 ROOFS.
+
+Benjamin Franklin once said that next to a good foundation a good roof was
+the most important feature of a building. Although the constructive
+features of mill roofs are well defined, yet with regard to roof covering
+there is a wide diversity of experience and opinion.
+
+The present form of factory roofing resembles a floor in its construction,
+being made, in a similar manner, of plank laid upon beams which project
+through the walls, where they act as a bracket to the cornice, the ends
+being sawed after any suitable ornamentation. The inclination for such
+roofs is about three-fourths of an inch to the foot. Where a mill is
+narrow enough for a single beam to reach from the wall to the ridge, they
+form cantilevers, the second point of support from the wall being by the
+columns one-third of the distance across the mill, and the ends of the
+beams are further secured together by means of iron dogs. For mills of
+greater width, the beam would reach only to the row of columns, and over
+the middle of the mill a beam is placed, usually horizontal on the under
+side, and hewn down from the middle to each end, so as to preserve the
+same slope on the upper side of the beam as for the roof.
+
+In many instances mills are built with brick cornices, without any of the
+wood projection from the side; and in other buildings the walls are
+carried above the roof, which slopes toward the center, and all water
+falling on it or melted from the snow is conducted from it by pipes
+leading down through the middle of the mill.
+
+It is not desirable to place gutters around the edge of the mill, as they
+serve no useful purpose, and are in continual need of repairs. By leaving
+the edge of the mill plank square and protecting it by sheet metal
+flashing, the rain falling from the roof can be received by a concave walk
+of coal tar concrete placed on the ground around the building. Suitable
+porches over doors, or some guard on the roof at these points, will
+prevent people who may be passing in at doors from being unduly wet by
+water from the roof.
+
+There are numerous forms of roof coverings, the use of the different
+varieties being to a great extent local; that is, the sheet iron coverings
+used in the Middle States are almost unknown in New England; and in the
+latter place the ordinary tinned iron roofing is universally painted,
+while in the Dominion of Canada it is laid obliquely and never painted.
+
+It is conceded by all that sheet copper forms the most desirable method of
+covering a roof; and, if one could be assured of the permanence of the
+structure, irrespective of the necessity for making changes every half
+year in order to keep pace with the march of invention, it would doubtless
+be shown that under such conditions of permanency copper would form the
+cheapest roof.
+
+The most widely used roofing materials for this class of buildings are the
+asphalt and the coal tar roof, the latter being the most widely used in
+New England. There are numerous varieties of these composition coverings,
+which are applied by various methods. Some of these are of the most
+satisfactory character, while others are poorly designed and unskillfully
+applied, and are a constant source of trouble and expense to the occupant
+of the building.
+
+One of the leading manufacturers, the efficiency of whose work for many
+years over a large amount of mill property I can vouch for by personal
+knowledge, uses the following method of applying the roofing. Three layers
+of roofing felt are placed on the plank parallel to the eaves, and
+continued by lapping each additional layer two thirds of its width upon
+the preceding one, and in this manner covering the roof with three
+thicknesses of the felt, breaking joints. This is secured to the roof by
+nails through tin washers and coated with a melted composition, and then
+two additional layers of felt are placed over the whole. Another coat of
+composition is then applied and gravel is placed over the whole while
+soft.
+
+This maker does not approve of the practice of cementing each sheet of
+felt when it is laid, because it does not allow the felt freedom to yield
+from the expansion and contraction of the roof. When tin is applied to
+roofs, resin-sized building paper should first be laid on the roof plank,
+and the sheets of tin should be painted on the lower side before being
+laid.
+
+Of late years cotton duck has been applied as a roof covering, and has
+been watched with a great deal of anticipation, although it has been used
+for similar purposes in covering ships' decks for many years. But the two
+uses are not strictly comparable, because the ship's deck is calked tight,
+and therefore the covering is free from the application of moisture
+underneath, while the roof is never tight, and the warm air underneath,
+heavily charged with moisture, which permeates the cracks between the
+planks, becomes chilled and condenses as it nears the top, carrying on a
+process of distillation.
+
+As an example of the extent to which this can be carried on, I have known
+of instances where people presumed they were making a good roof by leaving
+slight air spaces by means of the furring laid between the roof plank and
+the top boarding. The circulation of air in these spaces deposited
+sufficient moisture to rot the boards.
+
+A mill manager, wishing to have a roof over a very warm room, which should
+be both tight and a very perfect non-conductor, made a roof containing a
+space of about sixteen inches, which was filled with sawdust, and the roof
+boarding on top of this was covered with tar and gravel in the usual
+manner. In a few weeks the water began to drip through the ceiling as if
+the roof was leaking, although there was no snow on the top of the roof.
+Investigation showed that within that short time a sufficient amount of
+water had condensed with the sawdust to saturate the whole.
+
+I would say in this connection that three inches of plank afford an ample
+protection against condensation over any ordinary process of manufacture,
+although four inches of plank have been used as a roof over paper machines
+in order to be safe beyond peradventure; but it is necessary that nails
+should not be driven into the bottom of this roof plank, because the point
+of a nail will reach to a lower temperature near the outside of the roof
+in the winter, and being a better conductor, it will cause moisture to
+condense upon the head of the nail.
+
+Tin roofing is so general in use as not to require any allusion to methods
+of application, but the only course to reach economical and satisfactory
+results for a term of years, especially for locations near to the sea
+shore, is to use the best quality of dipped roofing plates of some brand
+which can be relied on as conforming to the standard and free from
+"wasters" or imperfect plates.
+
+Duck roofing has been successfully applied by first laying and tacking
+down a covering of two-ply asphalt paper, and upon this was spread a
+covering of resin-sized sheathing paper, tacked in the usual manner. Upon
+this was laid a covering consisting of cotton duck, forty-four inches wide
+and weighing twenty-six ounces to the yard. Several methods of joining the
+edges of the duck together have been tried, resulting in the abandonment
+of the method of sewing used, for the preferable method of nailing the
+duck down, laying one strip over the other, and then opening the duck, a
+lock joint is formed without any jointure between the two sheets exposed
+to the weather. After the duck is stretched on the roof, it is securely
+fastened by means of round-headed woodscrews, one and one-fourth inches
+long, through a concave tin washer three-fourths of an inch in diameter,
+resting upon a seven-eighths of an inch washer made of roofing felt.
+
+A coat of hot pine tar with a small quantity of linseed oil is laid upon
+the whole of the duck roofing, after being laid, for the purpose of
+filling the fiber and preserving the cotton fabric by means of the
+antiseptic principles of the pine tar. The surface is then covered with
+two coats of mineral paint.
+
+Within a year, paper has been very successfully used as a roof covering.
+Sheets of wood pulp board about one-sixteenth of an inch in thickness are
+treated by a process which renders them hard and elastic, and secured upon
+the roof by means of tacks through concave tin washers. The edge of each
+sheet is grooved, in order to allow for the expansion and contraction of
+the roof. The whole roof is then covered with a heavy mineral paint.
+Experience with this during the past severe winter in Maine has been of
+the most satisfactory nature.
+
+Shingles furnish a much better roof covering than slate, both in the
+matter of conduction of heat or cold in the extremes of summer and winter
+and also in resistance to fire. The heat of a slight fire underneath the
+roof will cause slates to crumble; and the same result will be obtained by
+heavy sparks falling and burning upon the roof. Some people treat shingles
+by boiling them under pressure in a solution of salt and chloride of lime,
+for the purpose of antiseptic treatment and also to render them fireproof.
+
+
+                              STOREHOUSES.
+
+The latest form of storehouses tends to one of two extremes. Where land is
+nearly level, and cheap, the greatest storage capacity can be obtained
+with the greatest economy by means of a one or two story storehouse built
+with a plank construction, with the beams secured to the posts by means of
+knees. A traveling crane or railroad runs along the middle of the
+storehouse, affording a ready means for rapid changes of the contents of
+the storehouse.
+
+Another form for storage is by means of very large brick buildings,
+especially arranged as a protection against outside fire. In designing a
+storehouse it is of especial importance that the stories should not be
+made so high that it will be possible for a dangerous load to be piled
+upon any one floor.
+
+The wool storehouse of the Pacific Mills at Lawrence can be safely said to
+be in its design and construction the finest example of mill engineering
+in the country.
+
+Another type of mill storehouse, designed for both raw material and
+finished goods, is designed by Mr. John Kilburn, of Lowell, and consists
+of two buildings placed at right angles to each other, and joining only
+at one corner. These buildings do not contain openings through the floors
+of any nature whatsoever, either for stairways, elevators, or any other
+purpose; but all vertical communication is furnished by means of a masonry
+tower at one corner of the buildings, which contains an elevator and
+stairway. At the level of each floor, substantial balconies lead through a
+doorway in the tower to one in the storehouse, and the storage is added to
+or withdrawn from the storehouse in this manner.
+
+I have not made any reference to the use of rolled iron for structural
+purposes, because such material has not been used to any extent in mill
+architecture. Irrespective of questions of space or of strength, wood
+beams possess advantages in the reduction of vibration, facility of
+securing the plank above and hangers below, and a great many other
+purposes in the changing and alterations of a mill, which render them
+peculiarly useful, and I believe that the results with Southern pine beams
+in American mills are much superior to those of the iron beams in European
+mills.
+
+No small part of the success attending the use of rolled iron in the
+structural purposes for which it is adapted, has been due to the excellent
+and reliable engineering information contained in the manuals and
+catalogues issued by the rolling mills. Such works are reliable and clear,
+and, as far as I know, can without exception be safely followed.
+
+The general tendency of American mill construction is toward as low
+buildings as the price of land will admit. The American mills being
+devoted to a large variety of operations, instead of being confined to a
+single process after the manner of those of European type, require a great
+deal more care in their organization, not merely in the original lay-out
+for the purpose of arranging for the passage of the stock in processes
+from the raw material to the finished product in as straight lines as
+possible, but due consideration should also be given to providing
+facilities for the enlargement of the mill.
+
+As an illustration of the methods employed, in a paper mill plan of my own
+design, [the view and plan being thrown on the screen], the various
+operations containing processes of different hazard in regard to fire are
+completely isolated from each other by means of fire walls, and the
+storage of the mill is in turn isolated from the manufactory.
+
+The storehouse consists of three sections, the largest section for paper
+stock, which is sorted in the upper story, the second section, one story
+in height, for other manufacturing supplies, and beyond the fire wall the
+storehouse is arranged to contain the finished paper. Goods can be taken
+away from or added to the storehouse at the single line of teams, or
+railroad siding.
+
+After the stock leaves the sorting room, it is carried to the dusting room
+over a covered bridge, which is protected from the weather on one side,
+yet does not form a flue for the spread of fire as does a closed bridge.
+
+The first room in the main mill is used for a dusting room, and thence the
+stock falls into the rotary bleach, whence it is carried through the fire
+doors to the engine room. Here it meets the wood pulp and clay wheeled
+from the middle section of the storehouse, which is on that same level.
+After washing and beating, the stock is run into the drainers below,
+whence it is raised again, and after suitable intermediate processes the
+pulp is converted into paper on the paper machine in the connecting
+building. This paper is then taken into the upper part of the main
+building, and after being dried on the lofts is suitably calendered and
+packed before being transferred into the extreme end of the storehouse to
+await shipment.
+
+At the present time it has been found that an inclined roof of the olden
+type is not a necessity over a paper machine, as has been decreed by the
+tradition passed down from old practices. Within the last year, a number
+of flat roofs have been placed over paper machines, without any trouble
+ensuing from condensed water forming on the ceiling and thence dropping
+upon the stock. It is well known that the use of a flat roof in such
+places is attended with a great many mechanical conveniences; and the
+pitched roof hitherto used for these purposes has been submitted to, only
+because it was presumed to be necessary. The whole tendency of mill design
+is in the line of fitness of means to ends, in the simplest and most
+direct manner.
+
+When the mills in Lowell were first built, they consisted of isolated
+buildings, which it was presumed would remain for all time; but when it
+became necessary to increase the plant, it was found that the engineer had
+wisely laid out the mills in the same yard in reference to a fixed grade,
+so that corresponding floors would meet when the buildings were extended
+so that they reached each other.
+
+Wherever a strong and diffused light is necessary for any manufacturing
+process, or the conditions are such as to require unusual stability of the
+building, one-story mills lighted by monitors afford accommodations not
+reached by any other form of construction.
+
+In presenting before you some of the salient features of modern mill
+construction, I have endeavored to show the various steps of progress
+leading up to the development of the present types of design, as well as
+some of the methods of construction in present use.
+
+These various steps in advance, producing mills better suited for the
+purposes for which a mill is built, are not generally due to elements
+originating with the manufacturers, but with the Factory Mutual
+Underwriters, who, finding it cheaper to prevent a fire than to settle a
+loss, have in every manner encouraged improvements in construction,
+equipment, and administration, with the result of diminishing the
+insurance on textile manufacturing property during the last generation
+from two and one-half down to one-fourth of one per cent., or reducing the
+cost of insurance eighty per cent.
+
+In designing any work, a careful regard should be given to precedents,
+remembering that a good designer must also be a good copyist.
+
+       *       *       *       *       *
+
+THE PASSIVE STATE OF IRON AND NICKEL.--E. Saint Edme.--The nickel of
+commerce immediately becomes passive if immersed in ordinary nitric acid.
+Iron, while being briskly attacked by common nitric acid, is rendered
+passive by contact with nickel. If steel and nickel are plunged into the
+acid together, the former metal is not even momentarily attacked. Nickel
+retains energetically a proportion of combined nitrogen, to which its
+passivity is due.
+
+
+
+
+                        IMPROVED TORPEDO BOAT.
+
+
+We give an illustration of the new type of second class torpedo boat which
+Messrs. Yarrow & Co. have recently constructed to the order of the
+Admiralty, and which was tried at the latter part of last year. The boat
+is 60 ft. long over all and 8 ft. 6 in. wide, 3 ft. shorter and from a
+foot to 15 in. wider than the old type of second class boats. She attained
+a speed of rather more than 17 knots per hour on her official trial with 4
+tons on board. The speed, when light, for six runs on the measured mile
+was 18-1/2 knots. The latter seems a very high speed for so small a vessel,
+and indeed it is a remarkable performance, but at the same time the speed
+of 17.031 knots on a four hours' trial with 4 tons on board is more
+remarkable still. It is well to note, says _Engineering_, in comparing
+speeds of torpedo boats, under what conditions as to weight carried and
+duration of running the trial is made. In our previous notice we referred
+to the manner in which this boat differs from ordinary second class boats
+in the manner of ejecting the torpedo; and the arrangement is well shown
+in the engraving. The more ordinary method of firing the torpedo from a
+tube or tubes, built into the hull and pointing forward through the bow,
+will be familiar to the majority of our readers; but here it will be seen
+the bow fire has been altogether abandoned, and a swiveling gun placed aft
+is substituted. The gun, of course, is not new; indeed, one was placed on
+the old Lightning, the first torpedo boat built for the English navy. That
+vessel was, however, a first class boat, and although not so large as the
+first class boats now built, was considerably bigger than No. 50, which is
+the official designation of the craft under notice. In the Lightning, too,
+the torpedo gun was placed forward, and was trained in quite a different
+manner to that of this second class boat. We have already commented on the
+offensive advantages of being able to eject the torpedo through a wide
+angle of range, and when going at speed, rather than having to bring the

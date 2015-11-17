@@ -1,0 +1,425 @@
+
+A heliometer is the most accurate astronomical instrument for relative
+measurements of position, as a transit circle is the most accurate for
+absolute determinations. It consists of an equatorial telescope with
+object-glass cut right across, and each half movable by a sliding
+movement one past the other, the amount by which the two halves are
+dislocated being read off by a refined method, and the whole instrument
+having a multitude of appendages conducive to convenience and accuracy.
+Its use is to act as a micrometer or measurer of small distances.[28]
+Each half of the object-glass gives a distinct image, which may be
+allowed to coincide or may be separated as occasion requires. If it be
+the components of a double star that are being examined, each component
+will in general be seen double, so that four images will be seen
+altogether; but by careful adjustment it will be possible to arrange
+that one image of each pair shall be superposed on or coincide with each
+other, in which case only three images are visible; the amount of
+dislocation of the halves of the object-glass necessary to accomplish
+this is what is read off. The adjustment is one that can be performed
+with extreme accuracy, and by performing it again and again with all
+possible modifications, an extremely accurate determination of the
+angular distance between the two components is obtained.
+
+[Illustration: FIG. 92.--Heliometer.]
+
+Bessel determined to apply this beautiful instrument to the problem of
+stellar parallax; and he began by considering carefully the kind of star
+for which success was most likely. Hitherto the brightest had been most
+attended to, but Bessel thought that quickness of proper motion would be
+a still better test of nearness. Not that either criterion is conclusive
+as to distance, but there was a presumption in favour of either a very
+bright or an obviously moving star being nearer than a faint or a
+stationary one; and as the "bright" criterion had already been often
+applied without result, he decided to try the other. He had already
+called attention to a record by Piazzi in 1792 of a double star in
+Cygnus whose proper motion was five seconds of arc every year--a motion
+which caused this telescopic object, 61 Cygni, to be known as "the
+flying star." Its motion is not really very perceptible, for it will
+only have traversed one-third of a lunar diameter in the course of a
+century; still it was the quickest moving star then known. The position
+of this interesting double he compared with two other stars which were
+seen simultaneously in the field of the heliometer, by the method I have
+described, throughout the whole year 1838; and in the last month of that
+year he was able to announce with confidence a distinct though very
+small parallax; substantiating it with a mass of detailed evidence which
+commanded the assent of astronomers. The amount of it he gave as
+one-third of a second. We know now that he was very nearly right, though
+modern research makes it more like half a second.[29]
+
+Soon afterwards, Struve announced a quarter of a second as the parallax
+of Vega, but that is distinctly too great; and Henderson announced for
+[alpha] Centauri (then thought to be a double) a parallax of one
+second, which, if correct, would make it quite the nearest of all the
+stars, but the result is now believed to be about twice too big.
+
+Knowing the distance of 61 Cygni, we can at once tell its real rate of
+travel--at least, its rate across our line of sight: it is rather over
+three million miles a day.
+
+Now just consider the smallness of the half second of arc, thus
+triumphantly though only approximately measured. It is the angle
+subtended by twenty-six feet at a distance of 2,000 miles. If a
+telescope planted at New York could be directed to a house in England,
+and be then turned so as to set its cross-wire first on one end of an
+ordinary room and then on the other end of the same room, it would have
+turned through half a second, the angle of greatest stellar parallax.
+Or, putting it another way. If the star were as near us as New York is,
+the sun, on the same scale, would be nine paces off. As twenty-six feet
+is to the distance of New York, so is ninety-two million miles to the
+distance of the nearest fixed star.
+
+Suppose you could arrange some sort of telegraphic vehicle able to carry
+you from here to New York in the tenth part of a second--_i.e._ in the
+time required to drop two inches--such a vehicle would carry you to the
+moon in twelve seconds, to the sun in an hour and a quarter. Travelling
+thus continually, in twenty-four hours you would leave the last member
+of the solar system behind you, and begin your plunge into the depths of
+space. How long would it be before you encountered another object? A
+month, should you guess? Twenty years you must journey with that
+prodigious speed before you reach the nearest star, and then another
+twenty years before you reach another. At these awful distances from one
+another the stars are scattered in space, and were they not brilliantly
+self-luminous and glowing like our sun, they would be hopelessly
+invisible.
+
+I have spoken of 61 Cygni as a flying star, but there is another which
+goes still quicker, a faint star, 1830 in Groombridge's Catalogue. Its
+distance is far greater than that of 61 Cygni, and yet it is seen to
+move almost as quickly. Its actual speed is about 200 miles a
+second--greater than the whole visible firmament of fifty million stars
+can control; and unless the universe is immensely larger than anything
+we can see with the most powerful telescopes, or unless there are crowds
+of invisible non-luminous stars mixed up with the others, it can only be
+a temporary visitor to this frame of things; it is rushing from an
+infinite distance to an infinite distance; it is passing through our
+visible universe for the first and only time--it will never return. But
+so gigantic is the extent of visible space, that even with its amazing
+speed of 200 miles every second, this star will take two or three
+million years to get out of sight of our present telescopes, and several
+thousand years before it gets perceptibly fainter than it is now.
+
+Have we any reason for supposing that the stars we see are all there
+are? In other words, have we any reason for supposing all celestial
+objects to be sufficiently luminous to be visible? We have every ground
+for believing the contrary. Every body in the solar system is dull and
+dark except the sun, though probably Jupiter is still red-hot. Why may
+not some of the stars be dark too? The genius of Bessel surmised this,
+and consistently upheld the doctrine that the astronomy of the future
+would have to concern itself with dark and invisible bodies; he preached
+"an astronomy of the invisible." Moreover he predicted the presence of
+two such dark bodies--one a companion of Sirius, the other of Procyon.
+He noticed certain irregularities in the motions of these stars which he
+asserted must be caused by their revolving round other bodies in a
+period of half a century. He announced in 1844 that both Sirius and
+Procyon were double stars, but that their companions, though large, were
+dark, and therefore invisible.
+
+No one accepted this view, till Peters, in America, found in 1851 that
+the hypothesis accurately explained the anomalous motion of Sirius, and,
+in fact, indicated an exact place where the companion ought to be. The
+obscure companion of Sirius became now a recognized celestial object,
+although it had never been seen, and it was held to revolve round Sirius
+in fifty years, and to be about half as big.
+
+In 1862, the firm of Alvan Clark and Sons, of New York, were completing
+a magnificent 18-inch refractor, and the younger Clark was trying it on
+Sirius, when he said: "Why, father, the star has a companion!" The elder
+Clark also looked, and sure enough there was a faint companion due east
+of the bright star, and in just the position required by theory. Not
+that the Clarks knew anything about the theory. They were keen-sighted
+and most skilful instrument-makers, and they made the discovery by
+accident. After it had once been seen, it was found that several of the
+large telescopes of the world were able to show it. It is half as big,
+but it only gives 1/10000th part of the light that Sirius gives. No
+doubt it shines partly with a borrowed light and partly with a dull heat
+of its own. It is a real planet, but as yet too hot to live on. It will
+cool down in time, as our earth has cooled and as Jupiter is cooling,
+and no doubt become habitable enough. It does revolve round Sirius in a
+period of 49.4 years--almost exactly what Bessel assigned to it.
+
+But Bessel also assigned a dark companion to Procyon. It and its
+luminous neighbour are considered to revolve round each other in a
+period of forty years, and astronomers feel perfectly assured of its
+existence, though at present it has not been seen by man.
+
+
+
+
+LECTURE XV
+
+THE DISCOVERY OF NEPTUNE
+
+
+We approach to-night perhaps the greatest, certainly the most
+conspicuous, triumphs of the theory of gravitation. The explanation by
+Newton of the observed facts of the motion of the moon, the way he
+accounted for precession and nutation and for the tides, the way in
+which Laplace explained every detail of the planetary motions--these
+achievements may seem to the professional astronomer equally, if not
+more, striking and wonderful; but of the facts to be explained in these
+cases the general public are necessarily more or less ignorant, and so
+no beauty or thoroughness of treatment appeals to them, nor can excite
+their imaginations. But to predict in the solitude of the study, with no
+weapons other than pen, ink, and paper, an unknown and enormously
+distant world, to calculate its orbit when as yet it had never been
+seen, and to be able to say to a practical astronomer, "Point your
+telescope in such a direction at such a time, and you will see a new
+planet hitherto unknown to man"--this must always appeal to the
+imagination with dramatic intensity, and must awaken some interest in
+almost the dullest.
+
+Prediction is no novelty in science; and in astronomy least of all is it
+a novelty. Thousands of years ago, Thales, and others whose very names
+we have forgotten, could predict eclipses with some certainty, though
+with only rough accuracy. And many other phenomena were capable of
+prediction by accumulated experience. We have seen, for instance (coming
+to later times), how a gap between Mars and Jupiter caused a missing
+planet to be suspected and looked for, and to be found in a hundred
+pieces. We have seen, also, how the abnormal proper-motion of Sirius
+suggested to Bessel the existence of an unseen companion. And these last
+instances seem to approach very near the same class of prediction as
+that of the discovery of Neptune. Wherein, then, lies the difference?
+How comes it that some classes of prediction--such as that if you put
+your finger in fire it will get burnt--are childishly easy and
+commonplace, while others excite in the keenest intellects the highest
+feelings of admiration? Mainly, the difference lies, first, in the
+grounds on which the prediction is based; second, on the difficulty of
+the investigation whereby it is accomplished; third, in the completeness
+and the accuracy with which it can be verified. In all these points, the
+discovery of Neptune stands out pre-eminently among the verified
+predictions of science, and the circumstances surrounding it are of
+singular interest.
+
+*      *      *      *      *
+
+In 1781, Sir William Herschel discovered the planet Uranus. Now you know
+that three distinct observations suffice to determine the orbit of a
+planet completely, and that it is well to have the three observations as
+far apart as possible so as to minimize the effects of minute but
+necessary errors of observation. (See p. 298.) Directly Uranus was
+found, therefore, old records of stellar observations were ransacked,
+with the object of discovering whether it had ever been unwittingly seen
+before. If seen, it had been thought of course to be a star (for it
+shines like a star of the sixth magnitude, and can therefore be just
+seen without a telescope if one knows precisely where to look for it,
+and if one has good sight), but if it had been seen and catalogued as a
+star it would have moved from its place, and the catalogue would by that
+entry be wrong. The thing to detect, therefore, was errors in the
+catalogues: to examine all entries, and see if the stars entered
+actually existed, or were any of them missing. If a wrong entry were
+discovered, it might of course have been due to some clerical error,
+though that is hardly probable considering the care taken over these
+things, or it might have been some tailless comet or other, or it might
+have been the newly found planet.
+
+So the next thing was to calculate backwards, and see if by any
+possibility the planet could have been in that place at that time.
+Examined in this way the tabulated observations of Flamsteed showed that
+he had unwittingly observed Uranus five distinct times, the first time
+in 1690, nearly a century before Herschel discovered its true nature.
+But more remarkable still, Le Monnier, of Paris, had observed it eight
+times in one month, cataloguing it each time as a different star. If
+only he had reduced and compared his observations, he would have
+anticipated Herschel by twelve years. As it was, he missed it
+altogether. It was seen once by Bradley also. Altogether it had been
+seen twenty times.
+
+These old observations of Flamsteed and those of Le Monnier, combined
+with those made after Herschel's discovery, were very useful in
+determining an exact orbit for the new planet, and its motion was
+considered thoroughly known. It was not an _exact_ ellipse, of course:
+none of the planets describe _exact_ ellipses--each perturbs all the
+rest, and these small perturbations must be taken into account, those of
+Jupiter and Saturn being by far the most important.
+
+For a time Uranus seemed to travel regularly and as expected, in the
+orbit which had been calculated for it; but early in the present century
+it began to be slightly refractory, and by 1820 its actual place showed
+quite a distinct discrepancy from its position as calculated with the
+aid of the old observations. It was at first thought that this
+discrepancy must be due to inaccuracies in the older observations, and
+they were accordingly rejected, and tables prepared for the planet based
+on the newer and more accurate observations only. But by 1830 it became
+apparent that it would not accurately obey even these. The error
+amounted to some 20". By 1840 it was as much as 90', or a minute and a
+half. This discrepancy is quite distinct, but still it is very small,
+and had two objects been in the heavens at once, the actual Uranus and
+the theoretical Uranus, no unaided eye could possibly have distinguished
+them or detected that they were other than a single star.
+
+[Illustration: FIG. 93.--Perturbations of Uranus.
+
+The chance observations by Flamsteed, by Le Monnier, and others, are
+plotted in this diagram, as well as the modern determinations made after
+Herschel had discovered the nature of the planet. The decades are laid
+off horizontally. Vertical distance represents the difference between
+observed and subsequently calculated longitudes--in other words, the
+principal perturbations caused by Neptune. To show the scale, a number
+of standard things are represented too by lengths measured upwards from
+the line of time, viz: the smallest quantity perceptible to the naked
+eye,--the maximum angle of aberration, of nutation, and of stellar
+parallax; though this last is too small to be properly indicated. The
+perturbations are much bigger than these; but compared with what can be
+seen without a telescope they are small--the distance between the
+component pairs of [epsilon] Lyrae (210") (see fig. 86, page 288), which
+a few keen-eyed persons can see as a simple double star, being about
+twice the greatest perturbation.]
+
+The diagram shows all the irregularities plotted in the light of our
+present knowledge; and, to compare with their amounts, a few standard
+things are placed on the same scale, such as the smallest interval
+capable of being detected with the unaided eye, the distance of the
+component stars in [epsilon] Lyrae, the constants of aberration, of
+nutation, and of stellar parallax.
+
+The errors of Uranus therefore, though small, were enormously greater
+than things which had certainly been observed; there was an unmistakable
+discrepancy between theory and observation. Some cause was evidently at
+work on this distant planet, causing it to disagree with its motion as
+calculated according to the law of gravitation. Some thought that the
+exact law of gravitation did not apply to so distant a body. Others
+surmised the presence of some foreign and unknown body, some comet, or
+some still more distant planet perhaps, whose gravitative attraction for
+Uranus was the cause of the whole difficulty--some perturbations, in
+fact, which had not been taken into account because of our ignorance of
+the existence of the body which caused them.
+
+But though such an idea was mentioned among astronomers, it was not
+regarded with any special favour, and was considered merely as one among
+a number of hypotheses which could be suggested as fairly probable.
+
+It is perfectly right not to attach much importance to unelaborated
+guesses. Not until the consequences of an hypothesis have been
+laboriously worked out--not until it can be shown capable of producing
+the effect quantitatively as well as qualitatively--does its statement
+rise above the level of a guess, and attain the dignity of a theory. A
+later stage still occurs when the theory has been actually and
+completely verified by agreement with observation.
+
+     Now the errors in the motion of Uranus, _i.e._ the discrepancy
+     between its observed and calculated longitudes--all known
+     disturbing causes, such as Jupiter and Saturn, being allowed
+     for--are as follows (as quoted by Dr. Haughton) in seconds of
+     arc:--
+
+  ANCIENT OBSERVATIONS (casually made, as of a star).
+
+  Flamsteed         1690    +61.2
+      "             1712    +92.7
+      "             1715    +73.8
+  Le Monnier        1750    -47.6
+  Bradley           1753    -39.5
+  Mayer             1756    -45.7
+  Le Monnier        1764    -34.9
+     "              1769    -19.3
+     "              1771     -2.3
+
+  MODERN OBSERVATIONS.
+
+  1780                 +3.46
+  1783                 +8.45
+  1786                +12.36
+  1789                +19.02
+  1801                +22.21
+  1810                +23.16
+  1822                +20.97
+  1825                +18.16
+  1828                +10.82
+  1831                 -3.98
+  1834                -20.80
+  1837                -42.66
+  1840                -66.64
+
+     These are the numbers plotted in the above diagram (Fig. 92), where
+     H marks the discovery of the planet and the beginning of its
+     regular observation.
+
+Something was evidently the matter with the planet. If the law of
+gravitation held exactly at so great a distance from the sun, there must
+be some perturbing force acting on it besides all those known ones which
+had been fully taken into account. Could it be an outer planet? The
+question occurred to several, and one or two tried if they could solve
+the problem, but were soon stopped by the tremendous difficulties of
+calculation.
+
+The ordinary problem of perturbation is difficult enough: Given a
+disturbing planet in such and such a position, to find the perturbations
+it produces. This problem it was that Laplace worked out in the
+_Mecanique Celeste_.
+
+But the inverse problem: Given the perturbations, to find the planet
+which causes them--such a problem had never yet been attacked, and by
+only a few had its possibility been conceived. Bessel made preparations
+for trying what he could do at it in 1840, but he was prevented by fatal
+illness.
+
+In 1841 the difficulties of the problem presented by these residual
+perturbations of Uranus excited the imagination of a young student, an
+undergraduate of St. John's College, Cambridge--John Couch Adams by
+name--and he determined to have a try at it as soon as he was through
+his Tripos. In January, 1843, he graduated as Senior Wrangler, and
+shortly afterwards he set to work. In less than two years he reached a
+definite conclusion; and in October, 1845, he wrote to the
+Astronomer-Royal, at Greenwich, Professor Airy, saying that the
+perturbations of Uranus would be explained by assuming the existence of
+an outer planet, which he reckoned was now situated in a specified
+latitude and longitude.
+
+We know now that had the Astronomer-Royal put sufficient faith in this
+result to point his big telescope to the spot indicated and commence
+sweeping for a planet, he would have detected it within 1-3/4 deg. of the
+place assigned to it by Mr. Adams. But any one in the position of the
+Astronomer-Royal knows that almost every post brings an absurd letter
+from some ambitious correspondent or other, some of them having just
+discovered perpetual motion, or squared the circle, or proved the earth
+flat, or discovered the constitution of the moon, or of ether, or of
+electricity; and out of this mass of rubbish it requires great skill and
+patience to detect such gems of value as there may be.
+
+Now this letter of Mr. Adams's was indeed a jewel of the first water,
+and no doubt bore on its face a very different appearance from the
+chaff of which I have spoken; but still Mr. Adams was an unknown man: he
+had graduated as Senior Wrangler it is true, but somebody must graduate
+as Senior Wrangler every year, and every year by no means produces a
+first-rate mathematician. Those behind the scenes, as Professor Airy of
+course was, having been a Senior Wrangler himself, knew perfectly well
+that the labelling of a young man on taking his degree is much more
+worthless as a testimony to his genius and ability than the general
+public are apt to suppose.
+
+Was it likely that a young and unknown man should have successfully
+solved so extremely difficult a problem? It was altogether unlikely.
+Still, he would test him: he would ask for further explanations
+concerning some of the perturbations which he himself had specially
+noticed, and see if Mr. Adams could explain these also by his
+hypothesis. If he could, there might be something in his theory. If he
+failed--well, there was an end of it. The questions were not difficult.
+They concerned the error of the radius vector. Mr. Adams could have
+answered them with perfect ease; but sad to say, though a brilliant
+mathematician, he was not a man of business. He did not answer Professor
+Airy's letter.
+
+It may to many seem a pity that the Greenwich Equatoreal was not pointed
+to the place, just to see whether any foreign object did happen to be in
+that neighbourhood; but it is no light matter to derange the work of an
+Observatory, and alter the work mapped out for the staff into a sudden
+sweep for a new planet, on the strength of a mathematical investigation
+just received by post. If observatories were conducted on these
+unsystematic and spasmodic principles, they would not be the calm,
+accurate, satisfactory places they are.
+
+Of course, if any one could have known that a new planet was to be had
+for the looking, _any_ course would have been justified; but no one
+could know this. I do not suppose that Mr. Adams himself could feel all
+that confidence in his attempted prediction. So there the matter
+dropped. Mr. Adams's communication was pigeon-holed, and remained in
+seclusion for eight or nine months.
+
+Meanwhile, and quite independently, something of the same sort was going
+on in France. A brilliant young mathematician, born in Normandy in 1811,
+had accepted the post of Astronomical Professor at the Ecole
+Polytechnique, then recently founded by Napoleon. His first published
+papers directed attention to his wonderful powers; and the official head
+of astronomy in France, the famous Arago, suggested to him the
+unexplained perturbations of Uranus as a worthy object for his fresh and
+well-armed vigour.

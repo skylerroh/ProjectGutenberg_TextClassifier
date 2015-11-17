@@ -1,0 +1,383 @@
+apparatus does not extend more than 20 cm. above the water bath. This
+arrangement prevents the fusel oil from passing over. If the alcohol is
+stronger than 70 per cent., and the height of the distillation apparatus
+is not more than 17 cm., the residue in the flask may be weighed as
+fusel oil. With a weaker alcohol, or an apparatus which projects further
+out of the water bath, the residual fusel oil is mixed with water. It
+can, however, be separated by adding strong alcohol and redistilling, or
+by treating with ether, which dissolves the amyl alcohol, and
+distilling, the temperature being raised finally to 60 deg..
+
+    [Footnote 7: Pharm. Centralhalle, xxii., 236.]
+
+Marquardt,[8] like Betelli, extracts the fusel oil from alcohol by means
+of chloroform, and by oxidation converts it into valeric acid. From the
+quantity of barium valerate found he calculates the amount of amyl
+alcohol present in the original solution; 150 c.c. of the spirit, which
+has been diluted so as to contain 12 to 15 per cent. of alcohol, are
+shaken up thoroughly with 50 c.c. of chloroform, the aqueous layer drawn
+off, and shaken with a fresh portion of chloroform. This treatment is
+repeated several times. The extracts are then united, and washed
+repeatedly with water. The chloroform, which is now free from alcohol
+and contains all the fusel oil, is treated with a solution of 5 grammes
+of potassium bichromate in 30 grammes of water and 2 grammes of
+sulphuric acid, and then heated in a closed flask for six hours on a
+water bath at 85 deg.. The contents of the flask are then distilled, the
+distillate saturated with barium carbonate, and the chloroform
+distilled; the residue is evaporated to a small volume, the excess of
+barium carbonate filtered off, and the filtrate evaporated to dryness
+and weighed. The residue is dissolved in water, a few drops of nitric
+acid added, and the solution divided into two portions. In the first
+portion the barium is determined; in the second the barium chloride. The
+total per cent. of barium minus that of barium chloride gives the amount
+present as barium valerate, from which is calculated the per cent. of
+amyl alcohol. By this process the author has determined one part of
+fusel oil in ten thousand of alcohol. To detect very minute quantities
+of fusel oil, the chloroform extracts are treated with several drops of
+sulphuric acid and enough potassium permanganate to keep the solution
+red for twenty-four hours. If allowed to stand in a test tube, the odor
+of valeric aldehyde will first be noticed, then that of amyl valerate,
+and lastly that of valeric acid.--_Amer. Chem. Journal._
+
+    [Footnote 8: Berichte d. Deutsch. Chem. Gesellsch., xv., 1,370
+    and 1,663.]
+
+       *       *       *       *       *
+
+
+
+
+ON SILICON.
+
+
+It is known that platinum heated in a forge fire, in contact with
+carbon, becomes fusible. Boussingault has shown that this is due to the
+formation of a silicide of platinum by means of the reduction of the
+silica of the carbon by the metal. MM. P. Schuetzenberger and A. Colson
+have produced the same phenomenon by heating to white heat a slip of
+platinum in the center of a thick layer of lampblack free from silica.
+
+The increase in weight of the metal and the augmentation of its
+fusibility were found to be due, in this case also, to a combination
+with silicon. As the silicon could not come directly from the carbon
+which surrounded the platinum, MM. Schuetzenberger and Colson have
+endeavored to discover under what form it could pass from the walls of
+the crucible through a layer of lampblack several centimeters in
+thickness, in spite of a volatility amounting to almost nothing under
+the conditions of the experiment. They describe the following
+experiments as serving to throw some light upon the question:
+
+1. A thin slip of platinum rolled in a spiral is placed in a small
+crucible of retort carbon closed by a turned cover of the same material.
+This is placed in a second larger crucible of refractory clay, and the
+intervening space filled with lampblack tightly packed. The whole is
+then heated to white heat for an hour and a half in a good wind furnace.
+After cooling, the platinum is generally found to have been fused into a
+button, with a marked increase in weight due to taking up silicon, which
+has penetrated in the form of vapor through the walls of the interior
+crucible.
+
+2. If, in the preceding experiment, the lampblack be replaced by a
+mixture of lampblack and rutile in fine powder, the slip of platinum
+remains absolutely intact, and does not change in weight. Thus the
+titaniferous packing recommended by Sainte-Claire Deville for preventing
+the access of nitrogen in experiments at high temperatures also prevents
+the passage of silicon. A mixture of carbon and finely divided iron is,
+on the contrary, ineffectual. These facts seem to indicate that nitrogen
+plays a part in the transportation of the silicon, as this is only
+prevented by the same means made use of in order to prevent the passage
+of nitrogen.
+
+3. The volatility of free silicon at a high temperature is too slight to
+account for the alteration of the platinum at a distance. This can be
+shown by placing several decigrammes of crystallized silicon on the
+bottom of a small crucible of retort carbon, covering the silicon with a
+small flat disk of retort carbon upon which is placed the slip of
+platinum. The crucible, closed by its turned cover, is then enveloped in
+a titaniferous packing and kept at a brilliant white heat for an hour
+and a half. The metal is found to have only very slightly increased in
+weight, and its properties remain unaltered. This experiment was
+repeated several times with the same result. If, however, the
+crystallized silicon be replaced by powdered calcined silica, the
+platinum, placed upon the carbon disk, fuses and increases in weight,
+while the silica loses weight. The theory of these curious phenomena is
+very difficult to establish on account of the high temperatures which
+are necessary for their manifestation, but it may be concluded, at
+present, that nitrogen and probably oxygen also play some part in the
+transportation of the silicon across the intervening space, and that the
+carbosilicious compounds recently described by MM. Schuetzenberger and
+Colson also take part in the phenomenon.--_Comptes Rendus_, xciv.,
+1,710.--_Amer. Chem. Journal._
+
+       *       *       *       *       *
+
+
+
+
+STANNOUS NITRATES.
+
+
+At the Royal Powder Works at Spandau, Prussia, frequent ignition of the
+powder at a certain stage of the process led to an examination of the
+machinery, when it was found that where, at certain parts, bronze pieces
+which were soldered were in constant contact with the moist powder, the
+solder was much corroded and in part entirely destroyed, and that in the
+joints had collected a substance which, on being scraped out with a
+chisel, exploded with emission of sparks. It was suspected that the
+formation of this explosive material was in some way connected with the
+corrosion of the solder, and the subject was referred for investigation
+to Rudolph Weber, of the School of Technology, at Berlin. The main
+results of his investigation are here given.
+
+The explosive properties of the substance indicated a probable
+nitro-compound of one of the solder metals (tin and lead), and as the
+lead salts are more stable and better understood than those of tin, it
+was resolved to investigate the latter, in hope of obtaining a similar
+explosive compound. Experiments on the action of moist potassium nitrate
+on pure tin led to no result, as no explosive body was formed. Stannous
+nitrate, Sn(NO_{3})_{2}, formed by the action of dilute nitric acid on
+tin, has long been known, but only in solution, as it is decomposed on
+evaporating. By adding freshly precipitated moist brown stannous oxide
+to cool nitric acid of sp. gr. 1.20, as long as solution occurred, and
+then cooling the solution to -20 deg., Weber obtained an abundance of
+crystals of the composition Sn(NO_{3})_{2} + 20H_{2}O. They resemble
+crystals of potassium chlorate. They cannot be kept, as they liquefy at
+ordinary temperatures. An insoluble _basic_ salt was obtained by
+digesting an excess of moist stannous oxide in solution of stannous
+nitrate, or by adding to a solution of stannous nitrate by degrees, with
+constant stirring, a quantity of sodium carbonate solution insufficient
+for complete precipitation. Thus obtained, the basic salt, which has the
+composition Sn_{2}N_{2}O_{7}, is a snow-white crystalline powder, which
+is partially decomposed by water, and slowly oxidized by long exposure
+to the air, or by heating to 100 deg.. By rapid heating to a higher
+temperature, as well as by percussion and friction, it explodes
+violently, giving off a shower of sparks. This compound is also formed
+when a fine spray of nitric acid (sp. gr. 1.20) is thrown upon a surface
+of tin or solder. It is also formed when tin or solder is exposed to the
+action of a solution of copper nitrate, and thus formed presents the
+properties already described.
+
+In this, then, we have a probable cause of the explosions occurring in
+the powder works; but the explanation of the formation of the substance
+is wanting, as potassium nitrate was shown not to give an explosive
+substance with tin. A thin layer of a mixture of sulphur and potassium
+nitrate was placed between sheets of tin and copper foil, and allowed to
+stand, being kept constantly moist. After a time the copper was found to
+have become coated with sulphide, while the tin was largely converted
+into the explosive basic nitrate. The conditions are obviously the same
+as those found in the powder machinery, where bronze and tin solder are
+constantly in contact with moist gunpowder. The chemical action is
+probably this: the sulphur of the powder forms, with the copper of the
+bronze, copper sulphide; this is oxidized to sulphate, which reacts with
+the niter of the powder, forming potassium sulphate and copper nitrate;
+the latter, as shown above, then forms with the tin of the solder the
+explosive basic nitrate, which, being insoluble, gradually collects in
+the joints, and finally leads to an explosion.--_Journal fuer Praktische
+Chemie._
+
+       *       *       *       *       *
+
+
+
+
+METALLIC THORIUM.
+
+By L.F. NILSON.
+
+
+The density of thorium as obtained by reducing the anhydrous chloride by
+means of sodium was found by Chydenius, 7.657 to 7.795. The author has
+obtained metallic thorium by heating sodium with the double anhydrous
+thorium potassium chloride, in presence of sodium chloride in an iron
+crucible. After treating the residue with water there remains a grayish,
+heavy, sparkling powder, which under the microscope appears to consist
+of very small crystals. Metallic thorium is brittle and almost
+infusible; the powder takes a metallic luster under pressure, is
+permanent in the air at temperatures up to 120 deg., takes fire below a red
+heat either in air or oxygen, and burns with a dazzling luster, leaving
+a residue of perfectly white thoria. If heated with chlorine, bromine,
+iodine, and sulphur, it combines with them with ignition. It is not
+attacked by water, cold or hot. Dilute sulphuric acid occasions the
+disengagement of hydrogen, especially if heated, but the metal is acted
+on very slowly. Concentrated sulphuric acid with the aid of heat attacks
+the metal very slightly, evolving sulphurous anhydride. Nitric acid,
+strong or weak, has no sensible action. Fuming hydrochloric acid and
+_aqua regia_ attack thorium readily, but the alkalies are without
+action. The metal examined by the author behaves with the reagents in
+question the same as did the specimens obtained by Berzelius. The mean
+specific gravity of pure thorium is about 11. Hence it would seem that
+the metal obtained by Chydenius must have contained much foreign matter.
+The specific gravity of pure thoria is 10.2207 to 10.2198. The
+equivalent and the density being known, we may calculate the atomic
+volume. If we admit that the metal is equivalent to 4 atoms of hydrogen,
+we obtain the value 21.1. This number coincides with the atomic volumes
+of zirconium (21.7), cerium (21.1), lanthanum (22.6), and didymium
+(21.5). This analogy is certainly not due to chance; it rather confirms
+the opinion which I have put forward in connection with my researches on
+the selenites, on certain chloro-platinates and chloro-platinites, etc.,
+that the elements of the rare earths form a series of quadrivalent
+metals.
+
+       *       *       *       *       *
+
+[AMERICAN CHEMICAL JOURNAL.]
+
+
+
+
+FRIEDRICH WOeHLER.
+
+
+No one but a chemist can appreciate the full significance of the brief
+message which came to us a month ago without warning--"Woehler is dead!"
+What need be added to it? No chemist was better known or more honored
+than Woehler, and none ever deserved distinction and honor more than he.
+His life was made up of a series of brilliant successes, which not only
+compelled the admiration of the world at large, but directed the
+thoughts of his fellow workers, and led to results of the highest
+importance to science.
+
+It is impossible in a few words to give a correct account of the work of
+Woehler, and to show in what way his life and work have been of such
+great value to chemistry. Could he himself direct the preparation of
+this notice, the writer knows that his advice would be, "Keep to the
+facts." So far as any one phrase can characterize the teachings of
+Woehler, that one does it; and though enthusiasm prompts to eulogy, let
+us rather recall the plain facts of his life, and let them, in the main,
+speak for themselves.[1]
+
+    [Footnote 1: See Kopp's "Geschichte der Chemie," iv., 440.]
+
+He was born in the year 1800 at Eschersheim, a village near
+Frankfort-on-the-Main. From his earliest years the study of nature
+appears to have been attractive to him. He took great delight in
+collecting minerals and in performing chemical and physical experiments.
+While still a boy, he associated with a Dr. Buch, of Frankfort, and was
+aided by this gentleman, who did what he could to encourage in the young
+student his inclination toward the natural sciences. The first paper
+which bears the name of Woehler dates from this period, and is upon the
+presence of selenium in the iron pyrites from Kraslitz. In 1820 he went
+to the University of Marburg to study medicine. While there he did not,
+however, neglect the study of chemistry. He was at that time
+particularly interested in an investigation on certain cyanogen
+compounds. In 1821 he went to Heidelberg, and in 1823 he received the
+degree of Doctor of Medicine. L. Gmelin became interested in him, and it
+was largely due to Gmelin's influence that Woehler gave up his intention
+of practicing medicine, and concluded to devote himself entirely to
+chemistry. For further instruction in his chosen science, Woehler went to
+Stockholm to receive instruction from Berzelius, in whose laboratory he
+continued to work from the fall of 1823 until the middle of the
+following year. Only a few years since, in a communication entitled
+"Jugenderinnerungen eines Chemikers," he gave a fascinating account of
+his journey to Stockholm and his experiences while working with
+Berzelius. On his return to Germany, he was called to teach chemistry in
+the recently founded municipal trade school (Gewerbschule) at Berlin. He
+accepted the call, and remained in Berlin until 1832, when he went to
+Cassel to live. In a short time he was called upon to take part in the
+direction of the higher trade school at Cassel. He continued to teach
+and work in Cassel until 1836, when he was appointed Professor of
+Chemistry in Goettingen. This office he held at the time of his death,
+September 23, 1882.
+
+In 1825 Woehler became acquainted with Liebig, and an intimate friendship
+resulted, which continued until the death of Liebig, a few years ago.
+Though they lived far apart, they met during the vacations at their
+homes, or traveled together. Many important investigations were
+conceived by them as they talked over the problems of chemistry, and
+many papers appeared under both their names, containing the results of
+their joint work. Among such papers may be mentioned: "On Cyanic Acid"
+(1830); "On Mellithic Acid" (1830); "On Sulphotartaric Acid" (1831); "On
+Oil of Bitter Almonds, Benzoic Acid, and Related Compounds" (1832); "On
+the Formation of Oil of Bitter Almonds from Amygdalin" (1837); and "On
+Uric Acid" (1837).
+
+Of the papers included in the above list, the two which most attract
+attention are those "On the Oil of Bitter Almonds" and "On Uric Acid."
+In the former it was shown for the first time that in analogous carbon
+compounds there are groups which remain unchanged, though the compounds
+containing them may, in other respects, undergo a variety of changes.
+This is the conception of radicals or residues as we use it at the
+present day. It cannot be denied that this conception has done very much
+to simplify the study of organic compounds. The full value of the
+discovery was recognized at once by Berzelius, who, in a letter to the
+authors of the paper, proposed that they should call their radical proin
+or orthrin (the dawn of day), for the reason that the assumption of its
+existence might be likened to the dawn of a new day in chemistry. The
+study of this paper should form a part of the work of every advanced
+student of chemistry. It is a model of all that is desirable in a
+scientific memoir. The paper on uric acid is remarkable for the number
+of interesting transformation products described in it, and the skill
+displayed in devising methods for the isolation and purification of the
+new compounds. Comparatively little has been added to our knowledge of
+uric acid since the appearance of the paper of Liebig and Woehler.
+
+It would lead too far to attempt to give a complete list of the papers
+which have appeared under the name of Woehler alone. In 1828 he made the
+remarkable discovery that when an aqueous solution of ammonium cyanate,
+CNONH_{4}, is evaporated, the salt is completely transformed into urea,
+which has the same percentage composition. It would be difficult to
+exaggerate the importance of this discovery. That a substance like urea,
+which up to that time had only been met with as a product of processes
+which take place in the animal body, should be formed in the laboratory
+out of inorganic compounds, appeared to chemists then to be little less
+than a miracle. To-day such facts are among the commonest of chemistry.
+The many brilliant syntheses of well-known and valuable organic
+compounds which have been made during the past twenty years are results
+of this discovery of Woehler.
+
+In 1823 he published a paper on secretion, in the urine, of substances
+which are foreign to the animal organism, but which are brought into the
+body. He discovered the transformation of neutral organic salts into
+carbonates by the process of assimilation.
+
+In 1832 he investigated the dimorphism of arsenious acid and antimony
+oxide. In 1841 he made the discovery that dimorphous bodies have
+different fusing points, according as they are in the crystallized or
+amorphous condition.
+
+Among the more remarkable of his investigations in inorganic chemistry
+are those on methods for the preparation of potassium (1823); on
+tungsten compounds (1824); the preparation of aluminum (1827); of
+glucinum and yttrium (1828). In 1856, working with Ste. Claire Deville,
+he discovered crystallized boron.
+
+Analytical methods were improved in many ways, and excellent new methods
+were introduced by him. Further, he did a great deal for the improvement
+of the processes of applied chemistry.
+
+With Liebig he was associated in editing the "Annalen der Chemie and
+Pharmacie" and the "Handwoerterbuch der Chemie." He wrote a remarkably
+useful and popular "Grundriss der Chemie." The part relating to
+inorganic chemistry appeared first in 1831, and was in use until a few
+years ago, when Fittig wrote his "Grundriss" on the same plan, a work
+which supplanted its prototype.
+
+The above will serve to give some idea of the great activity of Woehler's
+life, and the fruitfulness of his labors. While thus contributing
+largely by his own work directly to the growth of chemistry, he did
+perhaps as much in the capacity of teacher. Many of the active chemists
+of the present day have enjoyed the advantages of Woehler's instruction,
+and many can trace their success to the impulse gathered in the
+laboratory at Goettingen. The hand of the old master appears in
+investigations carried on to-day by his pupils.
+
+Woehler's was not a speculative mind. He took very little part in the
+many important discussions on chemical theories which engaged the
+attention of such men as Dumas, Gerhardt, Berzelius, and Liebig, during
+the active period of his life. He preferred to deal with the facts as
+such; and no one ever dealt with the facts of chemistry more
+successfully. He had a genius for methods which has never been equaled.
+The obstacles which had baffled his predecessors were surmounted by him
+with ease. He was in this respect a truly great man.
+
+Personally, Woehler was modest and retiring. His life was simple and
+unostentatious. He had a kindly disposition, which endeared him to his
+students, to which fact many American chemists who were students at
+Goettingen during the time of Woehler's activity can cordially testify. In
+short, it may be said deliberately that Woehler, as a chemist and as a
+man, was a fit model for all of us and for those who will come after us.
+Though he has gone, his methods live in every laboratory. His spirit
+reigns in many; could it reign in all, the chemical world would be the
+better for it.
+
+I.R.

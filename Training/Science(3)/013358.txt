@@ -1,0 +1,466 @@
+The Project Gutenberg EBook of Scientific American Supplement, No. 803,
+May 23, 1891, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Scientific American Supplement, No. 803, May 23, 1891
+
+Author: Various
+
+Release Date: September 3, 2004 [EBook #13358]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SCIENTIFIC AMERICAN ***
+
+
+
+
+Produced by Don Kretz, Juliet Sutherland, Victoria Woosley and the
+Online Distributed Proofreading Team.
+
+
+
+
+
+[Illustration]
+
+
+
+
+SCIENTIFIC AMERICAN SUPPLEMENT NO. 803
+
+
+
+
+NEW YORK, May 23, 1891
+
+Scientific American Supplement. Vol. XXXI., No. 803.
+
+Scientific American established 1845
+
+Scientific American Supplement, $5 a year.
+
+Scientific American and Supplement, $7 a year.
+
+
+         *       *       *       *       *
+
+
+
+
+TABLE OF CONTENTS.
+
+
+I.    ASTRONOMY.--The Great Equatorial of the Paris Observatory.--
+      The new telescope recently put in use in Paris.--Description of
+      the instrument and of its effects.--3 illustrations
+
+II.   CHEMISTRY.--An Apparatus for Heating Substances in Glass
+      Tubes under Pressure.--By H. PEMBERTON, Jr.--A simple apparatus
+      for effecting this purpose, avoiding risk of personal injury.--
+      2 illustrations
+
+      Table of Atomic Weights.--A revised table of atomic weights,
+      giving the results of the last determinations, and designed for
+      every-day use
+
+      Testing Cement.--A laboratory process for testing Portland cement
+
+III.  CIVIL ENGINEERING.--The Compressed Air System of Paris.
+      --An elaborate review of this great installation for the transmission
+      of power.--The new compressed air station, with full details
+      of performances of apparatus, etc.--10 illustrations
+
+IV.   ENTOMOLOGY.--Report on Insects.--Continuation of this report
+      on noxious insects.--Their habits and how to cope with them.
+      --18 illustrations
+
+V.    FLORICULTURE.--Lily of the Valley.--Practical notes on the
+      cultivation of this popular flower.--How to raise it and force the
+      growth
+
+VI.   MATHEMATICS.--The Conic Sections.--By Prof. C.W.
+      MACCORD.--Examination of the four conic sections with a general
+      definition applicable to all.--6 illustrations
+
+VII.  MECHANICAL ENGINEERING.--The Builders of the Steam
+      Engine--The Founders of Modern Industries and Nations.--By Dr.
+      R.H. THURSTON.--Prof. Thurston's address before the Centennial
+      Celebration of the American Patent System at Washington,
+      D.C.--The early history of the steam engine and its present position
+      in the world
+
+VIII. MISCELLANEOUS.--The Breeds of Dogs.--Popular description
+      of the different breeds of dogs most affected by amateurs.--6
+      illustrations
+
+IX.   NAVAL ENGINEERING.--Modern Armor.--By F.R. BRAINARD.--The
+      development of modern ship armor, from laminated
+      sandwiched and compound types to the present solid armor.--9
+      illustrations
+
+X.    PISCICULTURE.--Restocking the Seine with Fish.--The introduction
+      of 40,000 fry of California trout and salmon, designed to restock
+      the Seine, depopulated of fish by explosions of dynamite
+      used in breaking up the ice.--1 illustration
+
+XI.   RAILWAY ENGINEERING.--Improved Hand Car.--A novelty
+      in the construction of hand cars, avoiding the production of a
+      dead center.--1 illustration
+
+XII.  TECHNOLOGY.--The Tanning Materials of Europe.--The natural
+      tanning materials and pathological or abnormal growth tanning
+      materials described and classified, with relative power
+
+
+         *       *       *       *       *
+
+
+
+
+THE GREAT EQUATORIAL OF THE PARIS OBSERVATORY.
+
+
+The great instrument which has just completed the installation of our
+national observatory is constructed upon the same principle as the
+elbowed equatorial, 11 in. in diameter, established in 1882, according
+to the ingenious arrangement devised as long ago as 1872, by Mr.
+Loewy, assistant director of the Paris Observatory.
+
+We shall here recall the fact that the elbowed equatorial consists of
+two parts joined at right angles. One of these is directed according
+to the axis of the world, and is capable of revolving around its own
+axis, and the other, which is at right angles to it, is capable of
+describing around the first a plane representing the celestial
+equator. At the apex of the right angle there is a plane mirror of
+silvered glass inclined at an angle of 45 deg. with respect to the
+optical axis, and which sends toward the ocular the image coming from
+the objective and already reflected by another and similar plane
+mirror. The objective and this second mirror (which is inclined at an
+angle of 45 deg.) are placed at the extremity of the external part of
+the tube, and form part of a cube, movable around the axis of the
+instrument at right angles with the axis of the world. The diagram in
+Fig. 3 will allow the course of a luminous ray coming from space to be
+easily understood. The image of the star, A, toward which the
+instrument is directed, traverses the objective, B C, is reflected
+first from the mirror, B D, and next from the central mirror, E F, and
+finally reaches O, at the ocular where the observer is stationed.
+
+This new equatorial differs from the first model by its much larger
+dimensions and its extremely remarkable mechanical improvements. The
+optical part, which is admirably elaborated, consists of a large
+astronomical objective 24 in. in diameter, and of a photographic
+objective of the same aperture, capable of being substituted, one for
+the other, according to the nature of the work that it is desired to
+accomplish by the aid of this colossal telescope, the total length of
+which is 59 ft. The two plane mirrors which complete the optical
+system have, respectively, diameters of 34 in. and 29 in. These two
+magnificent objectives and the two mirrors were constructed by the
+Brothers Henry, whose double reputation as astronomers and opticians
+is so universally established. The mechanical part is the successful
+work of Mr. Gautier, who has looked after every detail with the
+greatest care, and has thus realized a true _chef d'oeuvre_. The
+colossal instrument, the total weight of which is 26,400 lb., is
+maneuvered by hand with the greatest ease. A clockwork movement, due
+to the same able manufacturer, is capable, besides, of moving the
+instrument with all the precision desirable, and of permitting it to
+follow the stars in their travel across the heavens. A star appearing
+in the horizon can thus be observed from its rising to its setting.
+The astronomer, his eye at the ocular, is always conveniently seated
+at the same place, observing the distant worlds, rendered immovable,
+so to speak, in the field of the instrument. For stars which, like the
+moon and the planets, have a course different from the diurnal motion,
+it is possible to modify the running of the clockwork, so that they
+can thus be as easily followed as in the preceding case. Fig. 1 gives
+a general view of the new installation, for which it became necessary
+to build a special edifice 65 ft. in height on the ground south of the
+observatory bordering on the Arago Boulevard. A large movable
+structure serves for covering the external part of the instrument.
+This structure rests on rails, upon which it slides toward the south
+when it is desired to make observations. It will be seen from the
+figure how the principal axis of the instrument rests upon the two
+masonry pillars, one of which is 49 ft. and the other 13 ft. in
+height.
+
+[Illustration: FIG 1.--THE GREAT EQUATORIAL OF THE PARIS OBSERVATORY.]
+
+The total cost of the pavilion, rolling structure, and instrument
+(including the two objectives) will amount to about $80,000 after the
+new equatorial has been provided with the scientific apparatus that
+necessarily have to accompany it for the various and numerous
+applications to which the use of it will give rise.
+
+[Illustration: FIG 2.--OCULAR OF THE GREAT EQUATORIAL.]
+
+Fig. 2 shows us the room in the observatory in which the astronomer,
+seated in his chair, is completely protected against the inclemencies
+of the weather. Here, with his eye applied to the ocular, he can,
+without changing position (owing to all the handles that act at his
+will upon the many transmissions necessary for the maneuvering),
+direct his instrument unaided toward every point of the heavens with
+wonderful sureness and precision. The observer has before him on the
+same plane two divided circles, one of which gives the right
+ascensions and the other the declinations, and which he consults at
+each observation for the exact orientation of the equatorial.
+
+[Illustration: FIG. 3.--DIAGRAM SHOWING THE COURSE OF A LUMINOUS RAY
+IN THE GREAT EQUATORIAL.]
+
+All the readings are done by the aid of electric lamps of very small
+dimensions, supplied by accumulators, and which are lighted at will.
+Each of these lamps is of one candle power; two of them are designed
+for the reading of the two circles of right ascension and of
+declination; a third serves for the reading of the position circle of
+the micrometer; two others are employed for the reading of the drums
+fixed upon the micrometric screws; four others serve for rendering the
+spider threads of the reticule brilliant upon a black ground; and
+still another serves for illuminating the field of the instrument
+where the same threads remain black upon a luminous ground. The
+currents that supply these lamps are brought over two different
+circuits, in which are interposed rheostats that permit of graduating
+the intensity of the light at will.
+
+Since the installation of the first model of an elbowed equatorial of
+11 in. aperture, in 1882, at the Paris Observatory, the numerous and
+indisputable advantages of this sort of instrument have led a certain
+number of observatories to have similar, but larger, instruments
+constructed. In France, the observatories of Alger, Besancon, and
+Lyons have telescopes of this kind, the objectives of which have
+diameters of from 12 in. to 13 in., and which have been used for
+several years past in equatorial observations of all kinds. The Vienna
+Observatory has for the last two years been using an instrument of
+this kind whose objective has an aperture of 15 inches. Another
+equatorial of the same kind, of 16 in. aperture, is now in course of
+construction for the Nice Observatory, where it will be especially
+employed as a seeker of exceptional power--a role to which this kind
+of instrument lends itself admirably. The optical part of all these
+instruments was furnished by the Messrs. Henry, and the mechanical
+part by Mr. Gautier.
+
+The largest elbowed equatorial is, therefore, that of the Paris
+Observatory. Its optical power, moreover, corresponds perfectly to its
+huge dimensions. The experimental observations which have already been
+made with it fully justify the hopes that we had a right to found upon
+the professional skill of the eminent artists to whom we owe this
+colossal instrument. The images of the stars were given with the
+greatest sharpness, and it was possible to study the details of the
+surface of the moon and other planets, and several star clusters, in
+all their peculiarities, in the most remarkable manner.
+
+When it shall become possible to make use of this equatorial for
+celestial photography, there is no doubt that we shall obtain the most
+important results. As regards the moon, in particular, the
+photographing of which has already made so great progress, its direct
+image at the focus of the large 24 in. photographic objective will
+have a diameter of 11 in., and, being magnified, will be capable of
+giving images of more than 3 ft. in diameter.--_La Nature_.
+
+       *       *       *       *       *
+
+
+
+
+LILY OF THE VALLEY.
+
+
+There is no flower more truly and universally popular than the lily of
+the valley. What can be more delicious and refreshing than the scent
+of its fragrant flowers? What other plant can equal in spring the
+attractiveness of its pillars of pure white bells half hidden in their
+beautiful foliage? There are few gardens without a bed of lily of the
+valley, but too often the place chosen for it is some dark corner
+where nothing else would be expected to grow, but it is supposed as a
+matter of course that "it will do for a lily bed." The consequence is
+that although these lilies are very easy things to cultivate, as
+indeed they ought to be, seeing that they grow wild in the woods of
+this and other countries, yet one hears so often from those who take
+only a slight interest in practical gardening, "I have a lily bed, but
+I scarcely ever get any lilies." Wild lilies are hardly worth the
+trouble of gathering, they are so thin and poor; it is interesting to
+find a plant so beautiful and precious in the garden growing wild in
+the woods, but beyond that the flowers themselves are worth but very
+little. This at once tells us an evident fact about the lily of the
+valley, viz., that it does require cultivation. It is not a thing to
+be left alone in a dark and dreary corner to take care of itself
+anyhow year after year. People who treat it so deserve to be
+disappointed when in May they go to the lily bed and find plenty of
+leaves, but no flowers, or, if any, a few poor, weak attempts at
+producing blossoms, which ought to be so beautiful and fragrant.
+
+One great advantage of this lovely spring flower is that it can be so
+readily and easily forced. Gardeners in large places usually spend
+several pounds in the purchase of crowns and clumps of the lily of the
+valley, which they either import direct from foreign nurserymen or
+else procure from their own dealer in such things, who imports his
+lilies in large quantities from abroad. But we may well ask, Have
+foreign gardeners found out some great secret in the cultivation of
+this plant? Or is their climate more suitable for it? Or their soil
+adapted to growing it and getting it into splendid condition for
+forcing? It is impossible that the conditions for growing large and
+fine heads of this lily can be in any way better in Berlin or
+elsewhere than they are in our own land, unless greater heat in summer
+than we experience in England is necessary for ripening the growths in
+autumn.
+
+There is another question certainly as to varieties; one variety may
+be superior to another, but surely if so it is only on the principle
+of the survival of the fittest, that is to say, by carefully working
+on the finest forms only and propagating from them, a strong and
+vigorous stock may be the result, and this stock may be dignified with
+a special name. For my own part what I want is to have a great
+abundance of lily of the valley from February till the out-door season
+is over. To do this with imported clumps would, of course, be most
+costly, and far beyond what any person ought to spend on mere flowers.
+Though it must be remembered that it is an immense advantage to the
+parish priest to be able to take bright and sweet flowers to the
+bedside of the sick, or to gratify the weary spirit of a confirmed
+invalid, confined through all the lovely spring time to the narrow
+limits of a dull room, with the fragrant flowers of the lily of the
+valley. I determined, therefore, that I would have an abundance of
+early lilies, and that they should not be costly, but simply produced
+at about the same expense as any other flowers, and I have been very
+successful in accomplishing this by very simple means. First of all,
+it is necessary to have the means of forcing, that is to say the
+required heat, which in my case is obtained from an early vinery. I
+have seen lilies forced by pushing the clumps in under the material
+for making a hot bed for early cucumbers, the clumps being drawn out,
+of course, as soon as the flowers had made a good start. They have
+then to be carefully and very gradually exposed to full light, but
+often, although fine heads of bloom may be produced in this way, the
+leaves will be few and poor.
+
+My method is simply this: In the kitchen garden there is the old
+original bed of lilies of the valley in a corner certainly, but not a
+dark corner. This is the reservoir, as were, from whence the regular
+supply of heads for special cultivation is taken. This large bed is
+not neglected and left alone to take care of itself, but carefully
+manured with leaf mould and peat moss manure from the stable every
+year. Especially the vacant places made by taking out the heads for
+cultivation are thus filled up.
+
+Then under the east wall another piece of ground is laid out and
+divided into four plots. When I first began to prepare for forcing I
+waited four years, and had one plot planted with divided heads each
+year. Clumps are taken up from the reserve bed and then shaken out and
+the heads separated, each with its little bunch of fibrous roots. They
+are then carefully planted in one of the plots about 4 in. or 5 in.
+apart, the ground having previously been made as light and rich as
+possible with plenty of leaf mould. I think the best time for doing
+this is in autumn, after the leaves have turned yellow and have rotted
+away; but frequently the operation has been delayed till spring,
+without much difference in the result.
+
+Asparagus is usually transplanted in spring, and there is a wonderful
+affinity between the two plants, which, of course, belong to the same
+order. It was a long time to wait--four years--but I felt there was no
+use in being in too great a hurry, and every year the plants
+manifestly improved, and the buds swelled up nicely and looked more
+plump each winter when the leaves were gone. It must be remembered
+also that a nice crop of flowers could be gathered each year. When the
+fourth year came, the first plot was divided up into squares about 2
+ft. each way, and taken up before any hard frost or snow had made
+their appearance, and put away on the floor of an unused stable. From
+the stable they are removed as required in the squares to the vinery,
+where they grow beautifully, not sending up merely fine heads of bloom
+without a vestige of leaf, but growing as they would in spring out of
+doors with a mass of foliage, among which one has to search for the
+spikes of flower, so precious for all sorts of purposes at that early
+season of the year.
+
+The spikes produced in this way do not equal in thickness and
+substance of petal the flowers which come from more carefully prepared
+clumps imported from Berlin, but they are fine and strong, and above
+all most abundant. I can not only supply the house and small vases for
+the church, but also send away boxes of the flowers to friends at a
+distance, besides the many gifts which can be made to those who are
+ill or invalids. Few gifts at such a time are more acceptable than a
+fragrant nosegay of lily of the valley. In order to keep the supply of
+prepared roots ready year after year, a plot of ground has only to be
+planted each autumn, so that in the rotation of years it may be ready
+for forcing when its turn shall come.
+
+As the season advances, as every one knows who has attempted to force
+the lily of the valley, much less time is taken in bringing the
+flowers to perfection under precisely the same circumstances as those
+in which the first sods are forced. In February or earlier the buds
+are more unwilling to start; there seems to be a natural repugnance
+against being so soon forced out of the winter's sleep and rest. But
+when the flowers do come, they are nearly as fine and their leaves are
+quite as abundant in this way of forcing as from the pieces introduced
+much later into heat. It would be easy to preserve the squares after
+all the flowers are gathered, but I found that they would not, like
+strawberries, kindly furnish forth another crop later on in the year,
+and, therefore, mine are flung away; and I have often pitied the
+tender leaves in the frost and snow after their short sojourn in the
+hot climate of the vinery. But the reserve bed will always supply an
+ample quantity of fresh heads, and it is best to take the new plants
+for preparation in the kitchen garden from this reserve bed.
+
+This very simple method of forcing lilies of the valley is within the
+reach of any one who has even a small garden and a warm house, and
+these two things are becoming more and more common among us every
+day.--_A Gloucestershire Parson, in The Garden_.
+
+       *       *       *       *       *
+
+[Continued from SUPPLEMENT, No. 802, page 12820.]
+
+
+
+
+REPORT ON INSECTS.
+
+THE ONION MAGGOT.
+
+_Phorbia ceparum_ (Meig.)
+
+
+Early in June a somewhat hairy fly, Fig. 9, may be seen flying about,
+and depositing its eggs on the leaves of the young onion plants, near
+the roots, Fig. 10.
+
+[Illustration: FIG. 9.]
+
+Dr. Fitch describes this fly as follows: "It has a considerable
+resemblance to the common house fly, though when the two are placed
+side by side, this is observed as being more slender in its form. The
+two sexes are readily distinguished from each other by the eyes, which
+in the males are close together, and so large as to occupy almost the
+whole surface of the head, while in the females they are widely
+separated from each other. These flies are of an ash gray color, with
+the head silvery, and a rusty black stripe between the eyes, forked at
+its hind end. And this species is particularly distinguished by having
+a row of black spots along the middle of the abdomen or hind body,
+which sometimes run into each other, and then forming a continuous
+stripe.
+
+"This row of spots is quite distinct in the male, but in the female is
+very faint, or is often wholly imperceptible. This fly measured 0.22
+to 0.25 inch in length, the females being usually rather larger than
+the males." The eggs are white, smooth, somewhat oval in outline, and
+about one twenty-fifth of an inch in length. Usually not more than
+half a dozen are laid on a single plant, and the young maggot burrows
+downward within the sheath, leaving a streak of pale green to indicate
+its path, and making its way into the root, devours all except the
+outer skin.
+
+[Illustration: FIG. 10.]
+
+The maggots reach their full growth in about two weeks, when they are
+about one-third of an inch long, white and glossy, tapering from the
+posterior end to the head, which is armed with a pair of black,
+hook-like jaws. The opposite end is cut off obliquely and has eight
+tooth-like projections around the edge, and a pair of small brown
+tubercles near the middle. Fig. 11 shows the eggs, larva, and pupa,
+natural size and enlarged.
+
+[Illustration: FIG. 11.]
+
+They usually leave the onions and transform to pupae within the ground.

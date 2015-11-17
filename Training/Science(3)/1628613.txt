@@ -1,0 +1,425 @@
+
+No. 13. A homogeneous sphere attracts as if its mass were concentrated
+at its centre. For any other figure, such as an oblate spheroid, this is
+not exactly true. A hollow concentric spherical shell exerts no force on
+small bodies inside it.
+
+A sphere composed of uniform material, or of materials arranged in
+concentric strata, can be shown to attract external bodies as if its
+mass were concentrated at its centre. A hollow sphere, similarly
+composed, does the same, but on internal bodies it exerts no force at
+all.
+
+Hence, at all distances above the surface of the earth, gravity
+decreases in inverse proportion as the square of the distance from the
+centre of the earth increases; but, if you descend a mine, gravity
+decreases in this case also as you leave the surface, though not at the
+same rate as when you went up. For as you penetrate the crust you get
+inside a concentric shell, which is thus powerless to act upon you, and
+the earth you are now outside is a smaller one. At what rate the force
+decreases depends on the distribution of density; if the density were
+uniform all through, the law of variation would be the direct distance,
+otherwise it would be more complicated. Anyhow, the intensity of gravity
+is a maximum at the surface of the earth, and decreases as you travel
+from the surface either up or down.
+
+No. 14. The earth's equatorial protuberance, being acted on by the
+attraction of the sun and moon, must disturb its axis of rotation in a
+calculated manner; and thus is produced the precession of the equinoxes.
+
+Here we come to a truly awful piece of reasoning. A sphere attracts as
+if its mass were concentrated at its centre (No. 12), but a spheroid
+does not. The earth is a spheroid, and hence it pulls and is pulled by
+the moon with a slightly uncentric attraction. In other words, the line
+of pull does not pass through its precise centre. Now when we have a
+spinning body, say a top, overloaded on one side so that gravity acts on
+it unsymmetrically, what happens? The axis of rotation begins to rotate
+cone-wise, at a pace which depends on the rate of spin, and on the shape
+and mass of the top, as well as on the amount and leverage of the
+overloading.
+
+Newton calculated out the rapidity of this conical motion of the axis of
+the earth, produced by the slightly unsymmetrical pull of the moon, and
+found that it would complete a revolution in 26,000 years--precisely
+what was wanted to explain the precession of the equinoxes. In fact he
+had discovered the physical cause of that precession.
+
+Observe that there were three stages in this discovery of precession:--
+
+First, the observation by Hipparchus, that the nodes, or intersections
+of the earth's orbit (the sun's apparent orbit) with the plane of the
+equator, were not stationary, but slowly moved.
+
+Second, the description of this motion by Copernicus, by the statement
+that it was due to a conical motion of the earth's axis of rotation
+about its centre as a fixed point.
+
+Third, the explanation of this motion by Newton as due to the pull of
+the moon on the equatorial protuberance of the earth.
+
+The explanation _could_ not have been previously suspected, for the
+shape of the earth, on which the whole theory depends, was entirely
+unknown till Newton calculated it.
+
+Another and smaller motion of a somewhat similar kind has been worked
+out since: it is due to the unsymmetrical attraction of the other
+planets for this same equatorial protuberance. It shows itself as a
+periodic change in the obliquity of the ecliptic, or so-called recession
+of the apses, rather than as a motion of the nodes.[21]
+
+No. 15. The waters of the ocean are attracted towards the sun and moon
+on one side, and whirled a little farther away than the solid earth on
+the other side: hence Newton explained all the main phenomena of the
+tides.
+
+And now comes another tremendous generalization. The tides had long been
+an utter mystery. Kepler likens the earth to an animal, and the tides to
+his breathings and inbreathings, and says they follow the moon.
+
+Galileo chaffs him for this, and says that it is mere superstition to
+connect the moon with the tides.
+
+Descartes said the moon pressed down upon the waters by the centrifugal
+force of its vortex, and so produced a low tide under it.
+
+Everything was fog and darkness on the subject. The legend goes that an
+astronomer threw himself into the sea in despair of ever being able to
+explain the flux and reflux of its waters.
+
+Newton now with consummate skill applied his theory to the effect of
+the moon upon the ocean, and all the main details of tidal action
+gradually revealed themselves to him.
+
+He treated the water, rotating with the earth once a day, somewhat as if
+it were a satellite acted on by perturbing forces. The moon as it
+revolves round the earth is perturbed by the sun. The ocean as it
+revolves round the earth (being held on by gravitation just as the moon
+is) is perturbed by both sun and moon.
+
+The perturbing effect of a body varies directly as its mass, and
+inversely as the cube of its distance. (The simple law of inverse square
+does not apply, because a perturbation is a differential effect: the
+satellite or ocean when nearer to the perturbing body than the rest of
+the earth, is attracted more, and when further off it is attracted less
+than is the main body of the earth; and it is these differences alone
+which constitute the perturbation.) The moon is the more powerful of the
+two perturbing bodies, hence the main tides are due to the moon; and its
+chief action is to cause a pair of low waves or oceanic humps, of
+gigantic area, to travel round the earth once in a lunar day, _i.e._ in
+about 24 hours and 50 minutes. The sun makes a similar but still lower
+pair of low elevations to travel round once in a solar day of 24 hours.
+And the combination of the two pairs of humps, thus periodically
+overtaking each other, accounts for the well-known spring and neap
+tides,--spring tides when their maxima agree, neap tides when the
+maximum of one coincides with the minimum of the other: each of which
+events happens regularly once a fortnight.
+
+These are the main effects, but besides these there are the effects of
+varying distances and obliquity to be taken into account; and so we have
+a whole series of minor disturbances, very like those discussed in No.
+7, under the lunar theory, but more complex still, because there are two
+perturbing bodies instead of only one.
+
+The subject of the tides is, therefore, very recondite; and though one
+may give some elementary account of its main features, it will be best
+to defer this to a separate lecture (Lecture XVII).
+
+I had better, however, here say that Newton did not limit himself to the
+consideration of the primary oceanic humps: he pursued the subject into
+geographical detail. He pointed out that, although the rise and fall of
+the tide at mid-ocean islands would be but small, yet on stretches of
+coast the wave would fling itself, and by its momentum would propel the
+waters, to a much greater height--for instance, 20 or 30 feet;
+especially in some funnel-shaped openings like the Bristol Channel and
+the Bay of Fundy, where the concentrated impetus of the water is
+enormous.
+
+He also showed how the tidal waves reached different stations in
+successive regular order each day; and how some places might be fed with
+tide by two distinct channels; and that if the time of these channels
+happened to differ by six hours, a high tide might be arriving by one
+channel and a low tide by the other, so that the place would only feel
+the difference, and so have a very small observed rise and fall;
+instancing a port in China (in the Gulf of Tonquin) where that
+approximately occurs.
+
+In fact, although his theory was not, as we now know, complete or final,
+yet it satisfactorily explained a mass of intricate detail as well as
+the main features of the tides.
+
+No. 16. The sun's mass being known, he calculated the height of the
+solar tide.
+
+No. 17. From the observed heights of spring and neap tides he determined
+the lunar tide, and thence made an estimate of the mass of the moon.
+
+Knowing the sun's mass and distance, it was not difficult for Newton to
+calculate the height of the protuberance caused by it in a pasty ocean
+covering the whole earth. I say pasty, because, if there was any
+tendency for impulses to accumulate, as timely pushes given to a
+pendulum accumulate, the amount of disturbance might become excessive,
+and its calculation would involve a multitude of data. The Newtonian
+tide ignored this, thus practically treating the motion as either
+dead-beat, or else the impulses as very inadequately timed. With this
+reservation the mid-ocean tide due to the action of the sun alone comes
+out about one foot, or let us say one foot for simplicity. Now the
+actual tide observed in mid-Atlantic is at the springs about four feet,
+at the neaps about two. The spring tide is lunar plus solar; the neap
+tide is lunar minus solar. Hence it appears that the tide caused by the
+moon alone must be about three feet, when unaffected by momentum. From
+this datum Newton made the first attempt to approximately estimate the
+mass of the moon. I said that the masses of satellites must be
+estimated, if at all, by the perturbation they are able to cause. The
+lunar tide is a perturbation in the diurnal motion of the sea, and its
+amount is therefore a legitimate mode of calculating the moon's mass.
+The available data were not at all good, however; nor are they even now
+very perfect; and so the estimate was a good way out. It is now
+considered that the mass of the moon is about one-eightieth that of the
+earth.
+
+*      *      *      *      *
+
+Such are some of the gems extracted from their setting in the
+_Principia_, and presented as clearly as I am able before you.
+
+Do you realize the tremendous stride in knowledge--not a stride, as
+Whewell says, nor yet a leap, but a flight--which has occurred between
+the dim gropings of Kepler, the elementary truths of Galileo, the
+fascinating but wild speculations of Descartes, and this magnificent and
+comprehensive system of ordered knowledge. To some his genius seemed
+almost divine. "Does Mr. Newton eat, drink, sleep, like other men?" said
+the Marquis de l'Hopital, a French mathematician of no mean eminence; "I
+picture him to myself as a celestial genius, entirely removed from the
+restrictions of ordinary matter." To many it seemed as if there was
+nothing more to be discovered, as if the universe were now explored, and
+only a few fragments of truth remained for the gleaner. This is the
+attitude of mind expressed in Pope's famous epigram:--
+
+  "Nature and Nature's laws lay hid in Night,
+  God said, Let Newton be, and all was light."
+
+This feeling of hopelessness and impotence was very natural after the
+advent of so overpowering a genius, and it prevailed in England for
+fully a century. It was very natural, but it was very mischievous; for,
+as a consequence, nothing of great moment was done by England in
+science, and no Englishman of the first magnitude appeared, till some
+who are either living now or who have lived within the present century.
+
+It appeared to his contemporaries as if he had almost exhausted the
+possibility of discovery; but did it so appear to Newton? Did it seem to
+him as if he had seen far and deep into the truths of this great and
+infinite universe? It did not. When quite an old man, full of honour and
+renown, venerated, almost worshipped, by his contemporaries, these were
+his words:--
+
+"I know not what the world will think of my labours, but to myself it
+seems that I have been but as a child playing on the sea-shore; now
+finding some pebble rather more polished, and now some shell rather more
+agreeably variegated than another, while the immense ocean of truth
+extended itself unexplored before me."
+
+And so it must ever seem to the wisest and greatest of men when brought
+into contact with the great things of God--that which they know is as
+nothing, and less than nothing, to the infinitude of which they are
+ignorant.
+
+Newton's words sound like a simple and pleasing echo of the words of
+that great unknown poet, the writer of the book of Job:--
+
+  "Lo, these are parts of His ways,
+  But how little a portion is heard of Him;
+  The thunder of His power, who can understand?"
+
+END OF PART I.
+
+
+
+
+PART II
+
+_A COUPLE OF CENTURIES' PROGRESS._
+
+
+
+
+NOTES TO LECTURE X
+
+_Science during the century after Newton_
+
+The _Principia_ published, 1687
+
+  Roemer                1644-1710
+  James Bradley         1692-1762
+  Clairaut              1713-1765
+  Euler                 1707-1783
+  D'Alembert            1717-1783
+  Lagrange              1736-1813
+  Laplace               1749-1827
+  William Herschel      1738-1822
+
+
+_Olaus Roemer_ was born in Jutland, and studied at Copenhagen. Assisted
+Picard in 1671 to determine the exact position of Tycho's observatory on
+Huen. Accompanied Picard to Paris, and in 1675 read before the Academy
+his paper "On Successive Propagation of Light as revealed by a certain
+inequality in the motion of Jupiter's First Satellite." In 1681 he
+returned to Copenhagen as Professor of Mathematics and Astronomy, and
+died in 1710. He invented the transit instrument, mural circle,
+equatorial mounting for telescopes, and most of the other principal
+instruments now in use in observatories. He made as many observations as
+Tycho Brahe, but the records of all but the work of three days were
+destroyed by a great fire in 1728.
+
+_Bradley_, Professor of Astronomy at Oxford, discovered the aberration
+of light in 1729, while examining stars for parallax, and the nutation
+of the earth's axis in 1748. Was appointed Astronomer-Royal in 1742.
+
+
+
+
+LECTURE X
+
+ROEMER AND BRADLEY AND THE VELOCITY OF LIGHT
+
+
+At Newton's death England stood pre-eminent among the nations of Europe
+in the sphere of science. But the pre-eminence did not last long. Two
+great discoveries were made very soon after his decease, both by
+Professor Bradley, of Oxford, and then there came a gap. A moderately
+great man often leaves behind him a school of disciples able to work
+according to their master's methods, and with a healthy spirit of
+rivalry which stimulates and encourages them. Newton left, indeed, a
+school of disciples, but his methods of work were largely unknown to
+them, and such as were known were too ponderous to be used by ordinary
+men. Only one fresh result, and that a small one, has ever been attained
+by other men working according to the methods of the _Principia_. The
+methods were studied and commented on in England to the exclusion of all
+others for nigh a century, and as a consequence no really important work
+was done.
+
+On the Continent, however, no such system of slavish imitation
+prevailed. Those methods of Newton's which had been simultaneously
+discovered by Leibnitz were more thoroughly grasped, modified, extended,
+and improved. There arose a great school of French and German
+mathematicians, and the laurels of scientific discovery passed to France
+and Germany--more especially, perhaps, at this time to France. England
+has never wholly recovered them. During the present century this country
+has been favoured with some giants who, as they become distant enough
+for their true magnitude to be perceived, may possibly stand out as
+great as any who have ever lived; but for the mass and bulk of
+scientific work at the present day we have to look to Germany, with its
+enlightened Government and extensive intellectual development. England,
+however, is waking up, and what its Government does not do, private
+enterprise is beginning to accomplish. The establishment of centres of
+scientific and literary activity in the great towns of England, though
+at present they are partially encumbered with the supply of education of
+an exceedingly rudimentary type, is a movement that in the course of
+another century or so will be seen to be one of the most important and
+fruitful steps ever taken by this country. On the Continent such centres
+have long existed; almost every large town is the seat of a University,
+and they are now liberally endowed. The University of Bologna (where,
+you may remember, Copernicus learnt mathematics) has recently celebrated
+its 800th anniversary.
+
+The scientific history of the century after Newton, summarized in the
+above table of dates, embraces the labours of the great mathematicians
+Clairaut, Euler, D'Alembert, and especially of Lagrange and Laplace.
+
+But the main work of all these men was hardly pioneering work. It was
+rather the surveying, and mapping out, and bringing into cultivation, of
+lands already discovered. Probably Herschel may be justly regarded as
+the next true pioneer. We shall not, however, properly appreciate the
+stages through which astronomy has passed, nor shall we be prepared
+adequately to welcome the discoveries of modern times unless we pay some
+attention to the intervening age. Moreover, during this era several
+facts of great moment gradually came into recognition; and the
+importance of the discovery we have now to speak of can hardly be
+over-estimated.
+
+Our whole direct knowledge of the planetary and stellar universe, from
+the early observations of the ancients down to the magnificent
+discoveries of a Herschel, depends entirely upon our happening to
+possess a sense of sight. To no other of our senses do any other worlds
+than our own in the slightest degree appeal. We touch them or hear them
+never. Consequently, if the human race had happened to be blind, no
+other world but the one it groped its way upon could ever have been
+known or imagined by it. The outside universe would have existed, but
+man would have been entirely and hopelessly ignorant of it. The bare
+idea of an outside universe beyond the world would have been
+inconceivable, and might have been scouted as absurd. We do possess the
+sense of sight; but is it to be supposed that we possess every sense
+that can be possessed by finite beings? There is not the least ground
+for such an assumption. It is easy to imagine a deaf race or a blind
+race: it is not so easy to imagine a race more highly endowed with
+senses than our own; and yet the sense of smell in animals may give us
+some aid in thinking of powers of perception which transcend our own in
+particular directions. If there were a race with higher or other senses
+than our own, or if the human race should ever in the process of
+development acquire such extra sense-organs, a whole universe of
+existent fact might become for the first time perceived by us, and we
+should look back upon our past state as upon a blind chrysalid form of
+existence in which we had been unconscious of all this new wealth of
+perception.
+
+It cannot be too clearly and strongly insisted on and brought home to
+every mind, that the mode in which the universe strikes us, our view of
+the universe, our whole idea of matter, and force, and other worlds, and
+even of consciousness, depends upon the particular set of sense-organs
+with which we, as men, happen to be endowed. The senses of force, of
+motion, of sound, of light, of touch, of heat, of taste, and of
+smell--these we have, and these are the things we primarily know. All
+else is inference founded upon these sensations. So the world appears to
+us. But given other sense-organs, and it might appear quite otherwise.
+What it is actually and truly like, therefore, is quite and for ever
+beyond us--so long as we are finite beings.
+
+Without eyes, astronomy would be non-existent. Light it is which conveys
+all the information we possess, or, as it would seem, ever can possess,
+concerning the outer and greater universe in which this small world
+forms a speck. Light is the channel, the messenger of information; our
+eyes, aided by telescopes, spectroscopes, and many other "scopes" that
+may yet be invented, are the means by which we read the information that
+light brings.
+
+Light travels from the stars to our eyes: does it come instantaneously?
+or does it loiter by the way? for if it lingers it is not bringing us
+information properly up to date--it is only telling us what the state of
+affairs was when it started on its long journey.
+
+Now, it is evidently a matter of interest to us whether we see the sun
+as he is now, or only as he was some three hundred years ago. If the
+information came by express train it would be three hundred years behind
+date, and the sun might have gone out in the reign of Queen Anne without
+our being as yet any the wiser. The question, therefore, "At what rate
+does our messenger travel?" is evidently one of great interest for
+astronomers, and many have been the attempts made to solve it. Very
+likely the ancient Greeks pondered over this question, but the earliest
+writer known to me who seriously discussed the question is Galileo. He
+suggests a rough experimental means of attacking it. First of all, it
+plainly comes quicker than sound. This can be perceived by merely
+watching distant hammering, or by noticing that the flash of a pistol is
+seen before its report is heard, or by listening to the noise of a
+flash of lightning. Sound takes five seconds to travel a mile--it has
+about the same speed as a rifle bullet; but light is much quicker than
+that.
+
+The rude experiment suggested by Galileo was to send two men with
+lanterns and screens to two distant watch-towers or neighbouring
+mountain tops, and to arrange that each was to watch alternate displays
+and obscurations of the light made by the other, and to imitate them as
+promptly as possible. Either man, therefore, on obscuring or showing his
+own light would see the distant glimmer do the same, and would be able
+to judge if there was any appreciable interval between his own action
+and the response of the distant light. The experiment was actually tried
+by the Florentine Academicians,[22] with the result that, as practice
+improved, the interval became shorter and shorter, so that there was no
+reason to suppose that there was any real interval at all. Light, in
+fact, seemed to travel instantaneously.
+
+Well might they have arrived at this result. Even if they had made far
+more perfect arrangements--for instance, by arranging a looking-glass at
+one of the stations in which a distant observer might see the reflection
+of his own lantern, and watch the obscurations and flashings made by
+himself, without having to depend on the response of human
+mechanism--even then no interval whatever could have been detected.
+

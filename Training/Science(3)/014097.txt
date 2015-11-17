@@ -1,0 +1,370 @@
+The Project Gutenberg EBook of Scientific American Supplement, No. 483,
+April 4, 1885, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Scientific American Supplement, No. 483, April 4, 1885
+
+Author: Various
+
+Release Date: November 20, 2004 [EBook #14097]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SCIENTIFIC AMERICAN ***
+
+
+
+
+Produced by Don Kretz, Juliet Sutherland, Charles Franks and the DP Team
+
+
+
+
+[Illustration]
+
+
+
+
+SCIENTIFIC AMERICAN SUPPLEMENT NO. 483
+
+
+
+
+NEW YORK, APRIL 4, 1885
+
+Scientific American Supplement. Vol. XIX, No. 483.
+
+Scientific American established 1845
+
+Scientific American Supplement, $5 a year.
+
+Scientific American and Supplement, $7 a year.
+
+       *       *       *       *       *
+
+
+TABLE OF CONTENTS.
+
+I.    CHEMISTRY AND METALLURGY.--The Determination of
+      Graphite in Minerals.--By J.B. MACKINTOSH.
+
+      Sulphocyanide of Potassium.
+
+      Sugar Nitro-glycerine.
+
+      On Remelting of Cast Iron.
+
+      The Hardness of Metals.
+
+
+II.   ENGINEERING, ETC.--The Jet Ventilator. 4 figures.
+      Feeding Boilers at the Bottom. 2 figures.
+
+      The Honigmann Fireless Engine.--The fireless working of steam
+      engines by means of a solution of hydrate of soda.--With
+      several figures and diagrams.
+
+      Simple Methods of Calculating Stress in Girders.--By CH. LEAN.--With
+      full page of illustrations.
+
+      A Spring Motor.
+
+      Steam Yachts.
+
+
+III.  TECHNOLOGY.--Foucault's Apparatus for Manufacturing
+      Illuminating Gas and Hydrogen. 2 figures.
+
+      The Circle Divider.
+
+      Soluble Glass.--Process of manufacture.--Use.
+
+      Iron Printing and Microscopic Photography.--Formulas for
+      printing solutions.--Compound negatives.
+
+      Practical Directions for Making Lantern Transparencies.--By
+      T.N. ARMSTRONG.
+
+      Casting Chilled Car Wheels. 6 figures.
+
+
+IV.   ELECTRICITY, ETC.--Electricity and Prestidigitation.
+      2 figures.
+
+      Portable Electric Safety Lamp. 6 figures.
+
+      The Electric Discharge and Spark Photographed Directly without
+      an Objective. 6 engravings.
+
+
+V.    PHYSICS, ETC.--The True Constant of Gravity.
+
+      Origin of Thunder Storms.
+
+      Physics without Apparatus.--Manufacture of illuminating
+      gas.--Elasticity of bodies. 2 figures.
+
+      Scientific Amusements.--Dance of electrified puppets.--Silhouette
+      portraits. 2 figures.
+
+      A Sunshine Recorder. 2 figures.
+
+
+VI.   MEDICINE, HYGIENE, ETC.--How Cholera is Spread.
+
+      Sulphurous Acid and Sulphide of Carbon as Disinfecting
+      Agents.--Methods of burning the same.
+
+
+VII.  MISCELLANEOUS.--Improvised Toys.--With numerous illustrations.
+
+      The AEolian Harp.--Kircher's harp, made in 1558.--Frost and
+      Kastner's harp.--Manner of making the harps. 4 figures.
+
+      How to Break a Cord with the Hands. 1 figure.
+
+      An Aquatic Velocipede for Duck Hunting. 2 engravings.
+
+      Skeleton of a Bear Found in a Cave in Styria, Austria.
+
+
+VIII. BIOGRAPHY.--Theodor Billroth, Prof, of Surgery at Vienna.--With
+      portrait.
+
+       *       *       *       *       *
+
+
+
+
+ACKNOWLEDGMENT.
+
+
+The illustrations and descriptions we give this week, entitled "How to
+Break a Cord," "Prestidigitation," "Circle Divider," "Sulphurous Acid,"
+"Production of Gas," "Aquatic Velocipede," "Several Toys," "Scientific
+Amusements," are from our excellent contemporary _La Nature_.
+
+       *       *       *       *       *
+
+
+
+
+THEODOR BILLROTH, PROFESSOR OF SURGERY AT VIENNA.
+
+
+The well known surgeon, Theodor Billroth, was born on the island of Ruegen
+in 1829. He showed great talent and liking for music, and it was the wish
+of his father, who was a minister, that he should cultivate this taste
+and become an artist; but the great masters of medicine, Johannes
+Mueller, Meckel v. Hemsbach, R. Wagner, Traube, and Schoenlein, who were
+Billroth's instructors at Greifswald, Goettingen, and Berlin, discovered
+his great talent for surgery and medicine, and induced him to adopt this
+profession. It was particularly the late Prof. Baum who influenced
+Billroth to make surgery a special study, and he was Billroth's first
+special instructor.
+
+In 1852 Billroth received his degree as doctor at the University of
+Berlin. After traveling for one year, and spending part of his time in
+Vienna and Paris, he was appointed assistant in the clinique of B. von
+Langenbeck, Berlin. At this time he published his works on pathological
+histology ("Microscopic Studies on the Structure of Diseased Human
+Tissues") which made him so well known that he was appointed a professor
+of pathology at Greifswald in 1858. Mr. Billroth did not accept that
+call, and was appointed professor of surgery at Zurich in 1860, and
+during that time his wonderful operations gave him a world-wide
+reputation. In 1867 the medical faculty of the Vienna University
+concluded to appoint Billroth as successor to Prof. Schuh, which position
+he still fills.
+
+[Illustration: THEODOR BILLROTH.]
+
+Billroth is a master of surgical technique, and his courage and composure
+increase with the difficulty of the operation. He always makes use of the
+most simple apparatus and instruments, and follows a theoretically
+scientific course which he has never left since he adopted surgery as a
+profession, and by which he has directed surgery into entirely new
+channels. He has given special attention to the study of the healing of
+wounds, the development of swellings and tumors, and the treatment of
+wounds in relation to decomposition and the formation of proud flosh. He
+has had wonderful success in performing plastic operations on the face,
+such as the formation of new noses, lips, etc., from flesh taken from
+other parts of the body or from the face. Although Billroth devoted much
+of his time to the solution of theoretical problems, he has also been
+very successful as an operator. He has removed diseased larynxes,
+performed dangerous goiter operations, and successfully removed parts of
+the oesophagus, stomach, and intestines.
+
+Billroth has been very careful in the selection of his scholars, and many
+of them are now professors of surgery and medicine in Germany, Belgium,
+and Austria. They all honor and admire him, his courage, his character,
+his humane treatment of the sick and suffering, arid his amiability.
+
+The accompanying portrait is from the _Illustrirte Zeitung._
+
+       *       *       *       *       *
+
+
+
+
+HOW CHOLERA IS SPREAD.
+
+
+DR. JOHN C. PETERS, of this city, in a recent contribution to the
+_Medical Record_, gives the following interesting particulars:
+
+I have read many brilliant essays of late on these topics, but not with
+unalloyed pleasure, for I believe that many writers have fallen into
+errors which it is important to correct. No really well informed person
+has believed for a long time that carbolic alcohol will destroy the
+cholera poison; but many fully and correctly believe that real germicides
+will. It has been known since 1872 that microbes, bacilli, and bacteria
+could live in very strong solutions of carbolic alcohol, and that the
+dilute mineral acids, tannin, chloride, corrosive sublimate, and others
+would kill them.
+
+In 1883 cholera did not arise alone in Egypt from filth, but from
+importation. It did not commence at Alexandria, but at Damietta, which is
+the nearest Nile port to Port Said, which is the outlet of the Suez
+Canal. There were 37,500 deaths from cholera in the Bombay Presidency in
+1883. Bombay merchants came both to Port Said and Damietta to attend a
+great fair there, to which at least 15,000 people congregated, in
+addition to the 35,000 inhabitants. The barbers who shave and prepare the
+dead are the first registrars of vital statistics in many Egyptian towns,
+and the principal barber of Damietta was among the first to die of
+cholera; hence all the earliest records of deaths were lost, and the more
+fatal and infective diarrhoeal cases were never recorded. Next the
+principal European physician of Damietta had his attention called to the
+rumors of numerous deaths, and investigated the matter, to find that
+cases of cholera had occurred in May, whereas none had been reported
+publicly until June 21. A _zadig_, or canal, runs through Damietta from
+one branch of the Nile to another, and this is the principal source of
+the water supply.
+
+Mosques and many houses are on the banks of this canal, and their
+drainage goes into it. Every mosque has a public privy, and also a tank
+for the ablution, which all good Mohammedans must use before entering a
+holy place. There was, of course, great choleraic water contamination,
+and a sudden outburst of cholera took place. The 15,000 people who came
+to the fair were stampeded out of Damietta, together with about 10,000 of
+the inhabitants, who carried the disease with them back into Egypt. Then
+only was a rigid quarantine established, and a cordon put round Damietta
+to keep everybody in, and let no one go out, neither food, medicines,
+doctors, nor supplies of any kind. Such is nearly the history of every
+town attacked in Egypt in 1883.
+
+When the pestilence had been let out _en masse_, severe measures were
+taken to keep it in Cairo, for up the Nile was attacked long before
+Alexandria suffered. This cholera broke out, as it almost always does in
+Egypt, when the river Nile is low and the water unusually bad. It
+disappeared like magic, as it always does in Egypt, when the Nile rises
+and washes all impurities away. There had been little or no cholera in
+Egypt since 1865, and there had often been as much filth as in 1883. It
+has never become endemic there, as it is a rainless country and generally
+too dry for the cholera germ to thrive.
+
+Marseilles had a small outbreak of cholera in the fall of 1883, probably
+derived from Egypt, which she carefully concealed. In addition, cholera
+was also brought to Toulon from Tonquin by the Sarthe and other vessels.
+Toulon concealed her cholera for at least seventeen days, and did not
+confess it until it had got such headway that it could no longer be
+concealed. At least twenty thousand Italians fled from Toulon and
+Marseilles, and others were brought away in transports by the Italian
+government. Rome refused to receive any fugitives; Genoa and Naples
+welcomed them. There were at least three large importations into Naples.
+The outbreak in Genoa was connected with washing soiled cholera clothes
+in one of the principal water supplies of the city, and Naples has many
+privy pits and surface wells. These privies, or _pozzis_, in the poorer
+parts of many Italian towns, are in the yards or cellars, and are so
+arranged that when they overflow, the surplusage is carried through
+drains or gutters into the streets.
+
+In the lowest parts of Toulon there were no privies at all, and the
+people emptied their chamberpots into the streets every morning. This
+flowed down toward the harbor, which is almost tideless. Toulon always
+has much typhoid fever from this cause; but no cholera unless it is
+imported.
+
+The great outbreaks of cholera in Paris in 1832, 1848, 1854, and 1865
+have been explained at last by Dr. Marcy. The canal de l'Ourcq is one of
+the principal water sources of Paris. The market boats or vessels upon it
+and at La Villette are so numerous that Marseilles and Havre alone
+outrank it in shipping. The parts of Paris which are always most severely
+attacked with cholera, and where the most typhoid fever prevails, are
+supplied with this water, into which not only all the filth of the boats
+goes, but many sewers empty.
+
+I agree with all that is generally said about civic filth favoring the
+spread of cholera, but it does not generate, but only supplies the
+pabulum for the germs. I believe as long as the Croton water is kept pure
+there can be no general outbreak of cholera in New York, only isolated
+cases, or at most a few in each house, and those only into which
+diarrhoeal cases come, or soiled clothes are brought; that it will not
+spread even to the next house, and that there are no pandemic waves of
+cholera.
+
+I think it impossible to pump New York dock water into the sewers, and
+that it would be very injurious if it could be done. Almost all our
+sewers empty into the docks, and the water there is of the foulest kind.
+I do not believe in a long quarantine, and think that of the Dutch is the
+best. They only detained the sick, but took the addresses of all who were
+let through, or kept back all their soiled clothing, which they had
+washed, disinfected, and sent after their owners in three days.
+
+St. Louis still has 20,000 privy pits and as many surface wells. The
+importation of cholera into St. Louis is well proved for 1832, 1848,
+1849, 1854, 1866, and 1873. Those who used surface well water suffered
+much more than those who drank Mississippi water, however foul that may
+have been. The history of cholera in St. Louis has been better and more
+accurately written up quite lately by Mr. Robert Moore, civil engineer,
+than that of any city in this country. He has kindly given me maps of the
+city, with every case marked down, with street and number, for all the
+epidemic.
+
+Hypodermic injections of atropine and morphine have failed sadly in many
+cases. Subcutaneous injections of large quantities of salt and water,
+with some soda, and large rectal injections of tannin and laudanum have
+been very successful in Italy. If there is plenty of acid gastric juice
+in the stomach, the cholera poison and microbes may be swallowed with
+impunity. The worst cases of cholera are produced by drinking large
+quantities of cholera contaminated water, when the stomach is empty and
+alkaline. I think it probable that large quantities, as much as the
+thirst requires, of a weak acid water will prove very beneficial in
+cholera. Water slightly acidulated with sulphuric, nitric, or muriatic
+acid will probably be the best, but it is hoped that phosphoric, acetic,
+and lactic acids will prove equally good. Lemon juice and vinegar are
+merely acetates and citrates of potash, and are not as good.
+
+       *       *       *       *       *
+
+It seems that the offensive smells noticed in the English Houses of
+Parliament last session have been traced to their source. It is found
+that the main sewer of the House of Commons is very large and out of all
+proportion to the requirements, is of two different levels, and
+discharges into the street sewer within eighteen inches of the bottom of
+the latter drain. There is thus a constant backflow of sewage. Another
+revelation is that the drain connected with the open furnace in the Clock
+Tower, for the purpose of ventilation, is hermetically closed at its
+opposite end.
+
+       *       *       *       *       *
+
+
+
+
+SULPHUROUS ACID AND SULPHIDE OF CARBON.
+
+
+Much attention has been paid in recent times to disinfecting agents, and
+among these sulphurous acid and sulphide of carbon must be placed in the
+list of the most efficient. Mr. Alf. Riche has recently summed up in the
+_Journal de Pharmacie et de Chimie_ the state of the question as regards
+these two agents, and we in turn shall furnish a few data on the subject
+in taking the above named scientist as a guide.
+

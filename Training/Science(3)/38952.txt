@@ -1,0 +1,322 @@
+feet in four miles, averaging 1 in 880 up for the whole distance. There
+were also long and easy curves upon this portion. The train was taken up
+and purposely stopped on the second mile, to be sure of starting again
+with no aid from momentum. The average speed was 5 miles an hour, and
+neither was the pressure of steam increased nor sand used except in
+starting from the stops purposely made. The engine, even were its full
+boiler pressure of 130 lbs. maintained as effective pressure upon the
+pistons throughout the whole length of their stroke, could not have
+exerted a tractive force greater than (17 x 17 x 130 lbs. x 2 ft.)/ 5
+ft = 15,028 lbs.; nor is it at all probable that the effective cylinder
+pressure could have approached this limit by from 10 lbs. to 15 lbs. per
+square inch. Supposing, however, for the sake of a reductio ad absurdum,
+that the full boiler pressure had been maintained upon the pistons for
+the whole length of their strokes, the adhesion of the coupled driving
+wheels, not deducting the internal resistances of the engine, would have
+been 15028/40050 3/8 of the weight upon them. In any case there was
+a resistance of 4,011 lbs. due to gravity, and if even 120 lbs. mean
+effective cylinder pressure be assumed, corresponding to a total
+tractive force of 13,872 lbs., the quotient representing the rolling and
+other resistances, exclusive of gravity, would be but 6.27 lbs. per tun
+of the entire train; a resistance including all the internal resistances
+of the engine, the resistance of the curves, easy although they were,
+and the loss in accelerating and retarding the train in starting and
+stopping. This estimate of resistance would correspond, at the observed
+speed of 5 miles an hour (upwards of 3/4 of an hour having been consumed
+on the 4 miles), to 185 indicated H.P., which, with the driving wheels,
+making but 28 revolutions per minute, would be the utmost that an engine
+with but 1,038 square feet of heating surface could be expected to
+exert. This was the highest result observed during the three weeks'
+trial, but one or two others are worthy of mention. On the Delaware
+division of the same line, the train, of 1,572 tuns' weight, was run
+over 5 consecutive miles of absolutely level line, at a mean rate of
+9.23 miles an hour, and during the same day, over 5 other consecutive
+miles of level at a mean rate of 9.7 miles per hour. On both levels
+there were 141/2 chain curves of good length, and the speed, from 9 to 12
+miles an hour, at which the train entered the respective levels, was not
+quite regularly maintained throughout the half hour expended in running
+over them. But if even 7 lbs. per tun of the total weight be taken as
+the resistance at these speeds, the tractive force will be 11,004 lbs.,
+which is more than one fourth the adhesion weight of 40,050 lbs. On
+the next day, the same engine drew 30 wagons weighing 4661/2 tuns, or,
+including engine and tender, 514 tuns nearly, up a gradient of 1 in
+1171/2, three miles long, at a mean speed of 101/4 miles an hour. The
+resistance due to gravity was 9,814 lbs., and supposing the other
+resistance to traction to amount to no more than 7 lbs. per tun, the
+total resistance would be 13,412 lbs., corresponding to a mean effective
+cylinder pressure of 117 lbs. per square inch, and to a co-efficient of
+adhesion of almost exactly one third.
+
+"It is needless to repeat instances of much the same kind, as occurring
+during the experiment referred to. The author is bound to say that they
+were, no doubt, influenced by the favorable circumstances of weather,
+and something is to be allowed also for the great length of train drawn,
+very long trains having a less tractive resistance per tun on a level
+than short ones, and something, possibly more than is commonly supposed,
+may have been due to the use of oil-tight axle boxes, the saponaceous
+compound known as 'railway grease' being nowhere in use on railways in
+the States. It could not possibly be used, except in a congealed form,
+in the severe American winters; and Messrs. Guebhard and Dieudonne's
+experiments (_vide_ "De la resistance des trains et de la puissance des
+machines." 8vo. Paris, 1868, p. 36) made in 1867, on the Eastern Railway
+of France, showed a very considerable diminution in the resistance of
+oil-boxed rolling stock as compared with that fitted with grease boxes.
+But, weighed upon the other hand, are the facts, first, that the line
+was of 6-feet gage, and, _pro tanto_, so much the worse for traction;
+secondly, that the wheels were comparatively small, and the inside
+journals of comparatively large diameter, the ratio of the former to the
+latter being as 73/4 to 1, instead of 12 to 1 as on English lines. It is
+difficult to believe that the length and steadiness of the double bogie
+goods wagons, scarcely liable as they are to lateral vibrations, had not
+something to do with the result, which is in some respects unique in the
+history of railway traction. The result, although not absolutely showing
+the real resistance to traction, nor the real adhesion of the engine,
+presents this alternative; namely, that the resistance must have been
+unusually small, or the adhesion unusually large."
+
+In the discussion which followed some doubts were expressed as to the
+accuracy of Mr. Colburn's conclusions, drawn from the experiments
+described; but it was conceded by some who took part in the discussion
+that some of the features of our practice might be advantageously copied
+in England. For the most part, however, the opinion prevailed that the
+features of our system, which are here regarded as almost indispensable,
+could not be introduced into English practice with advantage.
+
+       *       *       *       *       *
+
+
+
+
+BOILER COVERING.
+
+BY C.M. O'HARA, C.E.
+
+
+At the regular weekly meeting of the Polytechnic Association of the
+American Institute, held on Thursday evening, the 25th ult., the subject
+of boiler clothing was discussed at some length, but without any
+decisive conclusion being arrived at respecting the most serviceable and
+economical material for that purpose. It appeared from the testimony
+adduced, that though there is a variety of substances in use, even those
+which are practically acknowledged as being the most efficient are
+far from coming up to the required standard of utility, and are
+characterized by defects which are at once forced upon us by a little
+close examination. Felt is an admirable non-conductor of heat, but owing
+to its combustible nature it is quite unreliable when subject to the
+heat of a high pressure of steam. A large fragment of this material
+which had been taken off the boiler of a North River steamboat was
+exhibited at the meeting, scorched and charred as if it had been exposed
+to the direct action of fire. For these reasons felt covering is,
+generally speaking, confined to boilers in which a comparatively low
+pressure of steam is maintained. But even under the most favorable
+circumstances of actual wear its durability is limited to a short
+period.
+
+Powdered charcoal possesses the elements of efficiency as a
+non-conductor in an eminent degree; but its susceptibility of taking
+fire militates strongly against its adoption as a boiler covering.
+
+Besides the materials above mentioned, there are some which come under
+the denomination of cements; but the use of such is somewhat at variance
+with what a dull world would call "facts." Employing them as a clothing
+for a vessel in which it is necessary to retain heat is certainly the
+wrong way of doing a light thing, if the evidence of distinguished
+experimenters be worth anything.
+
+The researches of most well-informed physical philosophers go to prove
+that the conducting properties of bodies are augmented by cohesion, and
+that heat is conveyed profusely and energetically through all solid and
+ponderable substances. Thus gold, silver, and others of the most solid
+metals are the best conductors. Next to the pure metals in conducting
+powers are rocks, flints, porcelain, earthenware, and the denser liquids
+as the solutions of the acids and alkalies. As a further evidence to
+prove that the passage of heat through all substances is increased
+by cohesion, even some of those which are known to be among the best
+conductors are deprived of this property by a division or disintegration
+of their particles. Pure silica in the state of hard, rock crystal is
+a better conductor than bismuth or lead; but if the rock crystal be
+pulverized, the diffusion of heat through its powder is very slow and
+feeble. Heat is conducted swiftly and copiously through transparent
+rock salt, but pulverization converts the solid mass into a good
+non-conductor. Caloric has for the same reason a stronger affinity for
+pure metals than for their oxides.
+
+Again, wood is known to be a better non-conductor when reduced to
+shavings or sawdust than when in the solid state. It is probably on this
+account that trees are protected by bark, which is not nearly so dense
+and hard a body as the wood. Wool, silk, and cotton are much diminished
+in conducting qualities when spun and woven, for the reason that their
+fibers are brought closer together.
+
+Count Rumford discovered that hot water, at a given temperature, when
+placed in a vessel jacketed with a clothing of twisted silk, and plunged
+into a freezing mixture, cooled down to 185 deg. Fah. in 917 seconds. But
+when the same vessel was clothed with an equal thickness of raw silk,
+water at the same heat and under the same process required 1,264 seconds
+before it reached the same decrease of temperature. It was also found
+by Sir Humphry Davy that even metals became non-conductors when their
+cohesion was destroyed by reducing them to the gaseous state.
+
+It is now generally admitted that, heat being motion, anything, which,
+by the cohesion of particles, preserves the continuity of the molecular
+chain along which the motion is conveyed, must augment calorific
+transmission. On the other hand, when there is a division or
+disintegration of atoms, such as exists in sawdust, powdered charcoal,
+furs, and felt, the particles composing such bodies are separated from
+each other by spaces of air, which the instructed among us well know are
+good non-conductors of heat. The motion has, therefore, to pass from
+each particle of matter to the air, and again from the air to the
+particle adjacent to it. Hence, it will be readily seen, that in
+substances composed of separate or divided particles, the thermal
+bridge, so to speak, is broken, and the passage of heat is obstructed
+by innumerable barriers of confined air. The correctness of
+these assumptions has been so abundantly proved by experimental
+demonstrations, that every mind that is tolerably informed on the
+subject must be relieved of every shade of doubt respecting the greatly
+superior non-conducting powers which bodies consisting of separate atoms
+possess over those of a solid concrete nature.
+
+The next matter of interest connected with the subject under notice is
+its relation to the philosophy of radiation. It has long been known that
+the emission of heat from a polished metallic surface is very slight,
+but from a surface of porcelain, paper, or charcoal, heat is discharged
+profusely. Even many of the best non-conductors are powerful radiators,
+and throw off heat with a repellent energy difficult to conceive.
+
+"If two equal balls of thin, bright silver," says Sir John Leslie, "one
+of them entirely uncovered and the other sheathed in a case of cambric,
+be filled with water slightly warmed and then suspended in a close room,
+the former will lose only eleven parts in the same time that the latter
+will dissipate twenty parts." The superior heat-retaining capacity which
+a clean tin kettle possesses over one that has been allowed to
+collect smoke and soot, lies within the compass of the most ordinary
+observation.
+
+The experiments of the eminent philosopher just mentioned furnish a
+variety of suggestions on the radiation from heated surfaces. He found
+that, while the radiating power of clean lead was only 19, it rose to 45
+when tarnished by oxidation, that the radiating power of plumbago
+was 75, and that of red lead 80. He also discovered that, while the
+radiating power of gold, silver, and polished tin was only 12, that
+of paper was 98, and lamp black no less than 100. He further says: "A
+silver pot will emit scarcely half as much heat as one of porcelain. The
+addition of a flannel, though indeed a slow conductor, far from checking
+the dissipation of heat, has directly a contrary tendency, for it
+presents to the atmosphere a surface of much greater propulsive
+energy, which would require a thickness of no less than three folds to
+counterbalance."
+
+It is safe to infer from this analogy that the felt covering of boilers
+should not only be of considerable thickness, but should be protected
+by an external jacketing of some sort; for, though felt is a good
+non-conductor, it is a powerful absorber and radiator, more especially
+when it has been allowed to contract soot and dust.
+
+Various experiments have lead to the general conclusion that the
+power of absorption is always in the same proportion as the power of
+radiation. It must be so. Were any substance a powerful radiator and at
+the same time a bad absorber, it would necessarily radiate faster than
+it would absorb, and its reduction of temperature would continue without
+limit. It has, furthermore, been proved that the absorptive property of
+substances increases as their reflecting qualities diminish. Hence, the
+radiating power of a surface is inversely as its reflecting power. It is
+for this reason that the polished metallic sheathing on the cylinders
+of locomotive engines, and on the boilers of steam fire engines, is
+not only ornamental but essentially useful. Decisive tests have also
+established the fact that radiation is effected more or less by color.
+"A black porcelain tea pot," observes Dr. Lardner, "is the worst
+conceivable material for that vessel, for both its material and color
+are good radiators of heat, and the liquid contained in it cools with
+the greatest possible rapidity; a polished silver or brass tea urn is
+much better adapted to retain the heat of the water than one of a dull
+brown, such as is most commonly used."
+
+A few facts like those above stated afford more decisive information
+regarding the nature of heat than columns of theory or speculation. Yet
+it is rather strange that when so many learned and reliable men have,
+experimented so much and commented with such persuasiveness upon the
+subtile agency of heat and the vast amount of waste that must accrue by
+injudicious management, comparatively few have availed themselves of the
+united labors of these indefatigable pyrologists; manufacturing owners
+and corporations still persisting in having their steam boilers painted
+black or dull red and leaving them exposed to the atmosphere. Some
+persons, who pass themselves off very satisfactorily as clever
+engineers, affect a contempt for the higher branches of science, and
+assert, in a very positive and self-sufficient manner that experiments
+made in a study or laboratory are on too trifling and small a scale to
+be practically relied upon; that a tin kettle or a saucepan is a very
+different thing to the boiler of a steam engine.
+
+This may be so in one sense, but the same chemical forces which operate
+upon the one will be just as active in a proportionate degree in their
+action upon the other. It was said by Aristotle that the laws of the
+universe are best observed in the most insignificant objects; for the
+same physical causes which hold together the stupendous frame of the
+universe may be recognized even in a drop of rain. The same observation
+may be applied to the laws of heat in all their ramifications; for,
+after all, our experiments are, in many instances but defective copies
+of what is continually going on in the great workshop of nature.
+
+It would be needless to insist on the wasteful and destructive effects
+produced by the exposure of boiler surfaces to the open atmosphere.
+Such a practice can be neither supported by experience nor justified by
+analogy; and it is to be hoped that it may before long be consigned to
+the limbo of antiquated absurdities and be satisfactorily forgotten.
+Seeing that it cannot with any show of reason be affirmed that the
+boiler covering materials in present use possess the requirements
+necessary to recommend them; the question arises as to what is the best
+means of achieving the object required. This is an inquiry which it is
+the office of time alone to answer. As the problem is obviously one of
+primary importance, and well worthy of the attention of inventors, it
+is hazarding nothing to predict its satisfactory solution at no distant
+date.
+
+The plain truth is, boilers have of late become gigantic foes to
+human life. Explosions have increased, are increasing, and should be
+diminished; and they are, in many instances, caused by boilers being
+strained and weakened by sudden contraction from having their surfaces
+exposed when the fire has been withdrawn from them. Boilers are also
+materially injured by the excessive furnace heat which it is necessary
+to maintain to compensate for the large amount of caloric which
+is dissipated from their surfaces, not only by radiation but from
+absorption by the surrounding atmosphere.
+
+As the views here laid down are drawn exclusively from the region of
+fact and experiment, it is to be hoped that an enlightened sense of
+self-interest may prompt those whom the subject may concern, to give it
+that special attention which its importance demands.
+
+       *       *       *       *       *
+
+
+
+
+Attachment of Saws to Swing-Frames.
+
+
+To insure the efficiency of mill-saws, it is highly important to have
+them firmly secured in the frames by which they are reciprocated.
+Swing-frames for carrying saws are ordinarily of wrought iron or steel,
+and made up of several pieces mortised and tenoned together in the form
+of a rectangular frame or parallelogram, of which the longest sides are
+termed verticals and the shortest crossheads or crossrails. In the case
+of deal frames, the swing frame differs somewhat from that of a timber
+frame, in having two extra verticals, which separate it into two equal
+divisions. These are necessary in order that two deals may be operated
+upon simultaneously, each division being devoted to a separate deal, and
+likewise to enable the connecting-rod which works the frame to pass up
+the center and oscillate on a pin near the top, thereby avoiding the
+deep excavations and costly foundations required where the rod is
+engaged with the pin at the bottom. The rack that advances the deals to
+the saws passes through a "bow" in the connecting-rod and the middle
+of the frame, the deals are placed on either side of it, on rollers
+purposely provided. In sawing hard deals, the saws require to be
+sharpened about every tenth run or journey, and every twentieth for
+soft. Fifty runs, or one hundred deals, are reckoned an average day's
+work; this is inclusive of the time required for changing the saws,
+returning the rack for another run, and other exigencies. For attachment
+to swing-frames the saws have buckles riveted to them; these are by
+various modes connected to the crossheads. Each top buckle is passed
+through the crosshead and is pierced with a mortise for the reception
+of a thin steel wedge or key, by whose agency the blade is strained and
+tightened. The edge of the crosshead upon which the keys bed is steeled

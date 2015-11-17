@@ -1,0 +1,351 @@
+required shape as quickly as possible, and left to cool clamped in
+position.
+
+The sheet ebonite as it comes from the makers is generally far from
+flat.  It is often necessary to flatten a sheet of ebonite, and of
+course this is the more easily accomplished the smaller the sheet.
+Consequently a bit of ebonite of about the required size is first cut
+from the stock sheet by a hack-saw such as is generally used for
+metals.  This piece is then boiled and pressed between two planed iron
+plates previously warmed to near 100 deg. C.
+
+With pieces of ebonite such as are used for the tops of resistance
+boxes, measuring, say, 20 X 8 X 11 inches, very little trouble is
+experienced.  The sheets when cold are found to retain the flatness
+which has been forced upon them perfectly well.  It is otherwise with
+large thin sheets such as are used for Holtz machines.  I have
+succeeded fairly, but only fairly, by pressing them in a "gluing
+press," consisting of heavy planed iron slabs previously heated to
+100 deg. C.
+
+I do not know exactly how best to flatten very thin and large sheets.
+It is easy to make large tubes out of sheet ebonite by taking
+advantage of the softening which ebonite undergoes in boiling water.
+A wooden mandrel is prepared of the proper size and shape.  The
+ebonite is softened and bent round it; this may require two or three
+operations, for the ebonite gets stiff very quickly after it is taken
+out of the water.  Finally the tube is bound round the mandrel with
+sufficient force to bring it to the proper shape and boiled in water,
+mandrel and all.  The bath and its contents are allowed to cool
+together, so that the ebonite cools uniformly.
+
+Tubes made in this way are of course subject to the drawback of having
+an unwelded seam, but they do well enough to wind wire upon if very
+great accuracy of form is not required.  If very accurate spools are
+needed the mandrel is better made of iron or slate and the spool is
+turned up afterwards.  The seam may be strapped inside or at the ends
+by bits of ebonite acting as bridges, and the seam itself may be
+caulked with melted paraffin or anthracene.
+
+Working Ebonite.
+
+Ebonite is best worked as if it were brass, with ordinary
+brass-turning or planing tools.  These tools should be as hard as
+possible, for the edges are apt to suffer severely, and blunt tools
+leave a very undesirable woolly surface on the ebonite.  In turning or
+shaping ebonite sheets it is as well to begin by taking the skin off
+one side first, and then reversing the sheet, finishing the second
+side, and then returning to the first.  This is on account of the fact
+that ebonite sometimes springs a little out of shape when the skin is
+removed.
+
+Turned work in ebonite, if well done, requires no sand-papering, but
+may be sufficiently polished by a handful of its own shavings and a
+little vaseline.  The advantage of using a polished ebonite surface is
+that such a surface deteriorates more slowly under the influence of
+light and air than a surface left rough from the tool.  If very highly
+polished surfaces are required, the ebonite after tooling is worked
+with fine pumice dust and water, applied on felt, or where possible by
+means of a felt buff on the lathe, and finally polished with rouge and
+water, applied on felt or cloth.
+
+Ebonite works particularly well under a spiral milling cutter, and
+sufficiently well under an ordinary rounded planing tool, with cutting
+angle the same as for brass, and hardened to the lightest straw
+colour.
+
+It is not possible, on the other hand, to use the carpenter's plane
+with success, for the angle of the tool is too acute and causes the
+ebonite to chip.
+
+In boring ebonite the drill should be withdrawn from the hole pretty
+often and well lubricated, for if the borings jam, as they are apt to
+do, the heat developed is very great and the temper of the drill gets
+spoiled.  Ebonite will spoil a drill by heating as quickly as anything
+known;  on the other hand, it may be drilled very fast if proper
+precaution is taken.
+
+It is advisable to expose ebonite to the light as little as possible,
+especially if the surface is unpolished, for under the combined action
+of light and air the sulphur at the surface of the ebonite rapidly
+oxidises, and the ebonite becomes covered with a thin but highly
+conducting layer of sulphurous or sulphuric acid or their compounds.
+When this happens the ebonite may be improved by scrubbing with hot
+water, or washing freely with alcohol rubbed on with cotton waste in
+the case of apparatus that cannot be dismounted.
+
+A complete cure, however, can only be effected by scraping off the
+outer layer of ebonite so as to expose a fresh surface.  For this
+purpose a bit of sheet glass broken so as to leave a curved edge is
+very useful, and the ebonite is then scraped like a cricket bat.  In
+designing apparatus for laboratory use it is as well to bear in mind
+that sooner or later the ebonite parts will require to be taken down
+and scraped up.  Rods or tubes are, of course, most quickly treated on
+the lathe with rough glass cloth, and may be finished with fine
+sandpaper, then pumice dust and water, applied on felt.  After
+cleaning the pumice off by means of water and a rag, the final touch
+may be given by means of vaseline, applied on cloth or on ebonite
+shavings.
+
+Sec. 106.  Mica.
+
+A great variety of minerals go under this name.  Speaking generally,
+the Russian micas coming into commerce are potash micas, and mica
+purchased in England may be taken to be potash mica, especially if it
+is in large sheets.
+
+At ordinary temperatures "mica" of the kind found  in commerce is an
+excellent insulator.  Schultze (Wied. Ann. vol. xxxvi. p. 655) comes
+to the conclusion that both at high and at low temperatures mica (of
+all kinds?) is a better insulator than white "mirror glass," the
+composition of which is not stated.  The experiments of the author
+referred to were apparently left unfinished, and altogether too much
+stress must not be laid on the results obtained, one of which was that
+mica conducts electrolytically to some extent at high temperatures.
+
+Bouty (Journal de Physique, 1890 [9], 288) and J.  Curie (These de
+Doctorat, Paris, 1888) agree in making the final conductivity of the
+mica used in Carpentier's condensers exceedingly small--at all events
+at ordinary temperatures.  Bearing in mind that for such substances
+the term specific resistance has no very definite meaning, M. Bouty
+considers it is not less than 3.19 x 1028 E.M. units at ordinary
+temperatures.  M. Bouty gives a note or illustration of what such
+numbers mean--a precaution not superfluous in cases where magnitudes
+are denoted logarithmically.  Referring to the value quoted, viz.
+3.19 x 1028, M. Bouty says, "Ce serait la resistance d'une colonne de
+mercure de 1mmq de section et de longueur telle que la lumiere se
+propageant dans le vide, mettrait plus de 3000 ans A se transmettre
+d'une extremite a I'autre de la colonne."
+
+M. Bouty returns to the study of mica (muscovite) in the Journal de
+Physique for 1892, p.  5, and there deals with the specific inductive
+capacity, which for a very small period of charge he finds has the
+value 8--an enormous value for such a good insulator, and one that it
+would be desirable to verify by some totally distinct method.  This
+remark is enforced by the fact that M. Klemencic finds the number 6
+for the same constant.  The temperature coefficient of this constant
+was too small for M. Bouty to determine.  The electric intensity was
+of the order of 100 volts per centimetre, and the experiments seem to
+indicate that the specific inductive capacity would be only slightly
+less if referred to a period of charge indefinitely short.
+
+I have found that the residual charge in a mica condenser, made
+according to Carpentier's method (to be described below), is about 1
+per cent of the original charge under the following circumstances.
+
+Voltage 300 volts on a plate 0.2 mm. thick, duration of charge ten
+minutes, temperature about 20 deg. C.  To get this result the mica must be
+most carefully dried.  This and other facts indicate that the
+so-called residual charge on ordinary condensers is, to a very large
+extent, due to the creeping of the charge from the armatures over the
+more or less conducting varnished surfaces of the mica, and its slow
+return on discharge.
+
+This source of residual charge was carefully guarded against by
+Rowland and Nichols (Phil. Mag.  1881) in their work on quartz, and is
+referred to by M. Bouty, who adduces some experiments to show that his
+own results are not vitiated by it.  On the other hand, M. Bouty shows
+that a small rise in temperature enormously affects the state of a
+mica surface, and that the surface gets changed in such a way as to
+become very fairly conducting at 300 deg. C.  Also anybody can easily try
+for himself whether exposing a mica condenser plate which has been
+examined in presence of phosphorus pentoxide to ordinary air for five
+minutes will not enormously increase the residual charge, as has
+always been the case in the writer's experience, and if so, it is open
+to him to suggest some cause other than surface creeping as an
+explanation.
+
+M. Bouty, using less perfectly dried mica, did not get so good a
+result as to smallness of residual charge as the one above quoted.
+
+The chief use of mica for laboratory purposes depends on the ease with
+which it can be split, and also upon the fact that it may be
+considerably crumpled and bent without breaking.  It therefore makes
+an excellent dielectric in so far as convenience of construction is
+concerned in the preparation of condensers, and lends itself freely to
+the construction of insulating washers or separators of any kind.  Its
+success as a fair insulator at moderate temperatures has led to its
+use in resistance thermometers, where it appears to have given
+satisfaction up to, at all events, 400 deg. C.
+
+It is worth a note that according to Werner Siemens, who had immense
+experience (Wied. Ann. vol. clix.), soapstone is the only reliable
+insulator at a red heat, but, no doubt, a good deal depends on the
+particular specimen investigated.
+
+Sec. 107.  Use of Mica in Condensers.
+
+If good results are desired it is essential to select the mica very
+carefully.  Pieces appreciably stained,--particularly if the stain is
+not uniformly distributed,--cracked pieces, and pieces tending to
+flake off in patches should be rejected.  The best samples of mica
+that have come under the writer's observation are those sheets sold
+for the purpose of giving to silver photographic prints that hideous
+glazed surface which some years ago was so popular.
+
+Sheets of mica about 0.1 to 0.2 mm. thick form good serviceable
+condenser plates, and will certainly stand a pressure of 300 volts,
+and most likely a good deal more.  The general practice in England
+seems to have been to build up condensers of alternate sheets of
+varnished or paraffined-mica and tin-foil.
+
+This practice is open to several objections.  In the first place, the
+capacity of a condenser made in this way varies with the pressure
+binding the plates together.  In the second place, the amount of mica
+and tin-foil required is often excessive in consequence of the
+imperfect contact of these substances.  Again, the inevitable air film
+between the mica and tin-foil renders condensers so made unsuitable
+for use with alternating currents, owing to the heating set up through
+air discharges, and which is generally, though often (if not always)
+wrongly, attributed to dielectric hysteresis.
+
+These imperfections are to a great extent got over by M. Carpentier's
+method of construction, which is, however, rather more costly both in
+material and labour.  On the other hand, wonderful capacities are
+obtained with quite small amounts of mica.  M. Bouty mentions a
+condenser of one microfarad capacity weighing 1500 grms.  and
+contained in a square box measuring 12 centimetres on the side, and
+about 3 centimetres thick.
+
+The relation between the capacity and surface of doubly-coated plates
+is in electro-static units:
+
+Capacity = (sp. ind. capacity X area of one surface)/(4pi X thickness)
+
+This may be reduced to electro-magnetic units by dividing by 9x10^20,
+and to microfarads by further multiplying by 10^15.
+
+M. Carpentier begins, of course, by having his mica scrupulously clean
+and well selected.  It is then silvered by one of the silvering
+processes (Sec. 65) on both sides, for which purpose the sheets may be
+suspended in a paraffined wood rack, so as to lie horizontally in the
+silvering solution, a space of about half an inch being allowed
+between the sheets.  The silvering being finished, the sheets are
+dipped along two parallel edges in 75 per cent nitric acid.  With
+regard to the third and fourth edges of the sheet, the silver is
+removed on one side only, using a spun glass brush;  if we agree to
+call the two surfaces of the mica A and B respectively, and the two
+edges in question C and D, then the silver is removed from the A side
+along edge C, and from the B side along edge D.  The silvered part is
+shown shaded in Fig.  84.  By this arrangement the silver and mica
+plates may be built up together so as to form the same mutual
+arrangement of contacts as in an ordinary mica tin-foil condenser.
+
+Fig. 84.
+
+It need hardly be said that the sheets require very complete washing
+after treatment with nitric acid, followed by a varnishing of the
+edges as already described in the case of glass, and baking at a
+temperature of 140 deg. C.  in air free from flame gases, till the shellac
+begins to emit its characteristic odour and is absolutely hard when
+cold.
+
+The plates are then built up so as to connect the sheets which require
+to be connected, and to insulate the other set.  General contact is,
+if necessary, secured by means of a little silver leaf looped across
+from plate to plate--a part of the construction which requires
+particular attention and clean hands, for it is by no means so easy to
+make an unimpeachable contact as might at first appear.
+
+The condenser, having been built up, may be clamped solid and placed
+in its case;  the capacity will not depend appreciably on the
+tightness of the clamp screws--a great feature of the construction.
+Such a condenser will not give its best results unless absolutely dry.
+I have kept one very conveniently in a vacuum desiccator over
+phosphorus pentoxide, but if of any size, the condenser deserves a box
+to itself, and this must be air-tight and provided with a drying
+reagent, so arranged that it can be removed through a manhole of some
+sort.
+
+Contact to the brass-work on the lid may be made by pressing spring
+contacts tightly down upon the ends of the silver foils and carrying
+the connections through the lid.  This also serves to secure the
+condenser in position.
+
+Sec. 108.  Micanite.
+
+This substance, though probably comparing somewhat unfavourably with
+the insulators already enumerated, and being subject to the
+uncertainties of manufacture, has during the last few years achieved a
+considerable success in American electrical engineering construction.
+It is composed of scrap mica and shellac varnish worked under pressure
+to the desired shape, and may be obtained in sheets, plates, and rods,
+or in any of the forms for which a die happens to have been
+constructed.
+
+Of course, in special cases it would be worth while to prepare a die,
+and then the attainable forms would be limited by moulding
+considerations only.  The writer's experience is very limited in this
+matter, but Dr. Kennelly, with whom he communicated on the subject,
+was good enough to reply in favour of micanite for engineering work.
+
+Sec. 109.  Celluloid.
+
+This material is composed of nitrocellulose and camphor.
+
+It has fair insulating properties, and may be obtained in a variety of
+forms, but has now been generally abandoned for electrical work on
+account of its inflammability.
+
+Sec. 110.  Paper.
+
+Pure white filter paper, perfectly dry, is probably a very fair
+insulator;  the misfortune is that in practice it cannot be kept dry.
+Under the most favourable circumstances its specific resistance may
+approach 1024 E.M. units.  It must therefore be considered rather as a
+partial conductor than as an insulator.  The only case of the use of
+dry paper as an insulator in machine construction which has come under
+the writer's notice is in building up the commutators of the small
+motors which used to drive the Edison phonographs.
+
+Its advantages in this connection are to be traced to the fact that a
+commutator so built up is durable and keeps a clean surface.  Of
+course, the use of paper as an insulator for telephone wires is well
+known, but its success in this direction depends less upon its
+insulating properties than upon the fact that it can be arranged in
+such a way as to allow of the wires being partially air insulated, an
+arrangement tending to reduce the electrostatic capacity of the wire
+system.
+
+At one time it was the custom of instrument makers to employ ordinary
+printed paper in the shape of leaves torn from books or the folios of
+old ledgers to form the dielectric of the condensers used in
+connection with the contact breakers of induction coils.  This
+practice has nothing but economy to recommend it, for cases often
+occur in which the paper, by gradual absorption of moisture from the
+air, comes to insulate so badly that it practically short circuits the
+spark gap, and so stops the action of the coil.  Three separate cases
+have come within the writer's experience.
+
+Some measurements of the resistance of paper have been made by F.
+Uppenborn (Centralblatt fuer Electrotechnik, Vol.  xi.  p.  215,
+1889).  There is an abstract of the paper also in Wiedemann's
+Beiblaetter (1889, vol.  xiii.  P.  711).  Uppenborn examined the
+samples of paper under normal conditions as to moisture and obtained
+the following results:-
+
+Description of Paper
+
+I
+
+Pressure Intensity
+
+II.
+
+Specific Resistance corresponding to pressures as in Column I. Ohms.
+
+III
+
+Pressure Intensity.
+
+IV.

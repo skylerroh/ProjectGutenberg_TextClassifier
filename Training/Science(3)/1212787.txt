@@ -1,0 +1,427 @@
+[Note 5: The small quantity of ammonium oxalate solution is added
+before the second precipitation of the calcium oxalate to insure
+the presence of a slight excess of the reagent, which promotes the
+separation of the calcium compound.]
+
+[Note 6: On ignition the calcium oxalate loses carbon dioxide and
+carbon monoxide, leaving calcium oxide:
+
+CaC_{2}O_{4}.H_{2}O --> CaO + CO_{2} + CO + H_{2}O.
+
+For small weights of the oxalate (0.6 gram or less) this reaction may
+be brought about in a platinum crucible at the highest temperature of
+a Tirrill burner, but it is well to ignite larger quantities than this
+over the blast lamp until the weight is constant.]
+
+[Note 7: The heat required to burn the filter, and that subsequently
+applied as described, will convert most of the calcium oxalate to
+calcium carbonate, which is changed to sulphate by the sulphuric acid.
+The reactions involved are
+
+CaC_{2}O_{4} --> CaCO_{3} + CO,
+CaCO_{3} + H_{2}SO_{4} --> CaSO_{4} + H_{2}O + CO_{2}.
+
+If a porcelain crucible is employed for ignition, this conversion to
+sulphate is to be preferred, as a complete conversion to oxide is
+difficult to accomplish.]
+
+[Note 8: The determination of the calcium may be completed
+volumetrically by washing the calcium oxalate precipitate from
+the filter into dilute sulphuric acid, warming, and titrating
+the liberated oxalic acid with a standard solution of potassium
+permanganate as described on page 72. When a considerable number of
+analyses are to be made, this procedure will save much of the time
+otherwise required for ignition and weighing.]
+
+
+
+
+DETERMINATION OF MAGNESIUM
+
+
+PROCEDURE.--Evaporate the acidified filtrates from the calcium
+precipitates until the salts begin to crystallize, but do !not!
+evaporate to dryness (Note 1). Dilute the solution cautiously until
+the salts are brought into solution, adding a little acid if the
+solution has evaporated to very small volume. The solution should be
+carefully examined at this point and must be filtered if a precipitate
+has appeared. Heat the clear solution to boiling; remove the burner
+and add 25 cc. of a solution of disodium phosphate. Then add slowly
+dilute ammonia (1 volume strong ammonia (sp. gr. 0.90) and 9 volumes
+water) as long as a precipitate continues to form. Finally, add a
+volume of concentrated ammonia (sp. gr. 0.90) equal to one third of
+the volume of the solution, and allow the whole to stand for about
+twelve hours.
+
+Decant the solution through a filter, wash it with dilute ammonia
+water, proceeding as prescribed for the determination of phosphoric
+anhydride on page 122, including; the reprecipitation (Note 2),
+except that 3 cc. of disodium phosphate solution are added before the
+reprecipitation of the magnesium ammonium phosphate instead of
+the magnesia mixture there prescribed. From the weight of the
+pyrophosphate, calculate the percentage of magnesium oxide (MgO) in
+the sample of limestone. Remember that the pyrophosphate finally
+obtained is from one fifth of the original sample.
+
+[Note 1: The precipitation of the magnesium should be made in as small
+volume as possible, and the ratio of ammonia to the total volume of
+solution should be carefully provided for, on account of the relative
+solubility of the magnesium ammonium phosphate. This matter has
+been fully discussed in connection with the phosphoric anhydride
+determination.]
+
+[Note 2: The first magnesium ammonium phosphate precipitate is rarely
+wholly crystalline, as it should be, and is not always of the proper
+composition when precipitated in the presence of such large amounts of
+ammonium salts. The difficulty can best be remedied by filtering the
+precipitate and (without washing it) redissolving in a small quantity
+of hydrochloric acid, from which it may be again thrown down by
+ammonia after adding a little disodium phosphate solution. If the
+flocculent character was occasioned by the presence of magnesium
+hydroxide, the second precipitation, in a smaller volume containing
+fewer salts, will often result more favorably.
+
+The removal of iron or alumina from a contaminated precipitate is
+a matter involving a long procedure, and a redetermination of the
+magnesium from a new sample, with additional precautions, is usually
+to be preferred.]
+
+
+
+
+DETERMINATION OF CARBON DIOXIDE
+
+
+!Absorption Apparatus!
+
+[Illustration: Fig. 3]
+
+The apparatus required for the determination of the carbon dioxide
+should be arranged as shown in the cut (Fig. 3). The flask (A) is
+an ordinary wash bottle, which should be nearly filled with dilute
+hydrochloric acid (100 cc. acid (sp. gr. 1.12) and 200 cc. of water).
+The flask is connected by rubber tubing (a) with the glass tube (b)
+leading nearly to the bottom of the evolution flask (B) and having its
+lower end bent upward and drawn out to small bore, so that the carbon
+dioxide evolved from the limestone cannot bubble back into (b). The
+evolution flask should preferably be a wide-mouthed Soxhlet extraction
+flask of about 150 cc. capacity because of the ease with which tubes
+and stoppers may be fitted into the neck of a flask of this type. The
+flask should be fitted with a two-hole rubber stopper. The condenser
+(C) may consist of a tube with two or three large bulbs blown in
+it, for use as an air-cooled condenser, or it may be a small
+water-jacketed condenser. The latter is to be preferred if a number of
+determinations are to be made in succession.
+
+A glass delivery tube (c) leads from the condenser to the small U-tube
+(D) containing some glass beads or small pieces of glass rod and 3 cc.
+of a saturated solution of silver sulphate, with 3 cc. of concentrated
+sulphuric acid (sp. gr. 1.84). The short rubber tubing (d) connects
+the first U-tube to a second U-tube (E) which is filled with small
+dust-free lumps of dry calcium chloride, with a small, loose plug of
+cotton at the top of each arm. Both tubes should be closed by cork
+stoppers, the tops of which are cut off level with, or preferably
+forced a little below, the top of the U-tube, and then neatly sealed
+with sealing wax.
+
+The carbon dioxide may be absorbed in a tube containing soda lime
+(F) or in a Geissler bulb (F') containing a concentrated solution
+of potassium hydroxide (Note 2). The tube (F) is a glass-stoppered
+side-arm U-tube in which the side toward the evolution flask and one
+half of the other side are filled with small, dust-free lumps of soda
+lime of good quality (Note 3). Since soda lime contains considerable
+moisture, the other half of the right side of the tube is filled with
+small lumps of dry, dust-free calcium chloride to retain the moisture
+from the soda lime. Loose plugs of cotton are placed at the top of
+each arm and between the soda lime and the calcium chloride.
+
+The Geissler bulb (F'), if used, should be filled with potassium
+hydroxide solution (1 part of solid potassium hydroxide dissolved in
+two parts of water) until each small bulb is about two thirds full
+(Note 4). A small tube containing calcium chloride is connected with
+the Geissler bulb proper by a ground joint and should be wired to the
+bulb for safety. This is designed to retain any moisture from the
+hydroxide solution. A piece of clean, fine copper wire is so attached
+to the bulb that it can be hung from the hook above a balance pan, or
+other support.
+
+The small bottle (G) with concentrated sulphuric acid (sp. gr. 1.84)
+is so arranged that the tube (f) barely dips below the surface. This
+will prevent the absorption of water vapor by (F) or (F') and serves
+as an aid in regulating the flow of air through the apparatus. (H) is
+an aspirator bottle of about four liters capacity, filled with water;
+(k) is a safety tube and a means of refilling (H); (h) is a screw
+clamp, and (K) a U-tube filled with soda lime.
+
+[Note 1: The air current, which is subsequently drawn through the
+apparatus, to sweep all of the carbon dioxide into the absorption
+apparatus, is likely to carry with it some hydrochloric acid from
+the evolution flask. This acid is retained by the silver sulphate
+solution. The addition of concentrated sulphuric acid to this solution
+reduces its vapor pressure so far that very little water is carried on
+by the air current, and this slight amount is absorbed by the calcium
+chloride in (E). As the calcium chloride frequently contains a small
+amount of a basic material which would absorb carbon dioxide, it is
+necessary to pass carbon dioxide through (E) for a short time and then
+drive all the gas out with a dry air current for thirty minutes before
+use.]
+
+[Note 2: Soda-lime absorption tubes are to be preferred if a
+satisfactory quality of soda lime is available and the number of
+determinations to be made successively is small. The potash bulbs will
+usually permit of a larger number of successive determinations without
+refilling, but they require greater care in handling and in the
+analytical procedure.]
+
+[Note 3: Soda lime is a mixture of sodium and calcium hydroxides. Both
+combine with carbon dioxide to form carbonates, with the evolution
+of water. Considerable heat is generated by the reaction, and the
+temperature of the tube during absorption serves as a rough index of
+the progress of the reaction through the mass of soda lime.
+
+It is essential that soda lime of good quality for analytical purposes
+should be used. The tube should not contain dust, as this is likely to
+be swept away.]
+
+[Note 4: The solution of the hydroxide for use in the Geissler bulb
+must be highly concentrated to insure complete absorption of the
+carbon dioxide and also to reduce the vapor pressure of the solution,
+thus lessening the danger of loss of water with the air which passes
+through the bulbs. The small quantity of moisture which is then
+carried out of the bulbs is held by the calcium chloride in the
+prolong tube. The best form of absorption bulb is that to which the
+prolong tube is attached by a ground glass joint.
+
+After the potassium hydroxide is approximately half consumed in the
+first bulb of the absorption apparatus, potassium bicarbonate is
+formed, and as it is much less soluble than the carbonate, it often
+precipitates. Its formation is a warning that the absorbing power of
+the hydroxide is much diminished.]
+
+
+!The Analysis!
+
+PROCEDURE.-- Weigh out into the flask (B) about 1 gram of limestone.
+Cover it with 15 cc. of water. Weigh the absorption apparatus (F)
+or (F') accurately after allowing it to stand for 30 minutes in the
+balance case, and wiping it carefully with a lintless cloth, taking
+care to handle it as little as possible after wiping (Note 1). Connect
+the absorption apparatus with (e) and (f). If a soda-lime tube is
+used, be sure that the arm containing the soda lime is next the tube
+(E) and that the glass stopcocks are open.
+
+To be sure that the whole apparatus is airtight, disconnect the rubber
+tube from the flask (A), making sure that the tubes (a) and (b) do not
+contain any hydrochloric acid, close the pinchcocks (a) and (k) and
+open (h). No bubbles should pass through (D) or (G) after a few
+seconds. When assured that the fittings are tight, close (h) and open
+(a) cautiously to admit air to restore atmospheric pressure. This
+precaution is essential, as a sudden inrush of air will project liquid
+from (D) or (F'). Reconnect the rubber tube with the flask (A).
+Open the pinchcocks (a) and (k) and blow over about 10 cc. of the
+hydrochloric acid from (A) into (B). When the action of the acid
+slackens, blow over (slowly) another 10 cc.
+
+The rate of gas evolution should not exceed for more than a few
+seconds that at which about two bubbles per second pass through (G)
+(Note 2). Repeat the addition of acid in small portions until the
+action upon the limestone seems to be at an end, taking care to close
+(a) after each addition of acid (Note 3). Disconnect (A) and connect
+the rubber tubing with the soda-lime tube (K) and open (a). Then close
+(k) and open (h), regulating the flow of water from (H) in such a way
+that about two bubbles per second pass through (G). Place a small
+flame under (B) and !slowly! raise the contents to boiling and boil
+for three minutes. Then remove the burner from under (B) and continue
+to draw air through the apparatus for 20-30 minutes, or until (H)
+is emptied (Note 4). Remove the absorption apparatus, closing the
+stopcocks on (F) or stoppering the open ends of (F'), leave the
+apparatus in the balance case for at least thirty minutes, wipe it
+carefully and weigh, after opening the stopcocks (or removing plugs).
+The increase in weight is due to absorption of CO_{2}, from which its
+percentage in the sample may be calculated.
+
+After cleaning (B) and refilling (H), the apparatus is ready for the
+duplicate analysis.
+
+[Note 1: The absorption tubes or bulbs have large surfaces on which
+moisture may collect. By allowing them to remain in the balance case
+for some time before weighing, the amount of moisture absorbed on the
+surface is as nearly constant as practicable during two weighings, and
+a uniform temperature is also assured. The stopcocks of the U-tube
+should be opened, or the plugs used to close the openings of the
+Geissler bulb should be removed before weighing in order that the air
+contents shall always be at atmospheric pressure.]
+
+[Note 2: If the gas passes too rapidly into the absorption apparatus,
+some carbon dioxide may be carried through, not being completely
+retained by the absorbents.]
+
+[Note 3: The essential ionic changes involved in this procedure are
+the following: It is assumed that the limestone, which is typified by
+calcium carbonate, is very slightly soluble in water, and the ions
+resulting are Ca^{++} and CO_{3}^{--}. In the presence of H^{+} ions
+of the mineral acid, the CO_{3}^{--} ions form [H_{2}CO_{3}]. This
+is not only a weak acid which, by its formation, diminishes the
+concentration of the CO_{3}^{--} ions, thus causing more of the
+carbonate to dissolve to re-establish equilibrium, but it is also an
+unstable compound and breaks down into carbon dioxide and water.]
+
+[Note 4: Carbon dioxide is dissolved by cold water, but the gas is
+expelled by boiling, and, together with that which is distributed
+through the apparatus, is swept out into the absorption bulb by the
+current of air. This air is purified by drawing it through the tube
+(K) containing soda lime, which removes any carbon dioxide which may
+be in it.]
+
+
+
+
+DETERMINATION OF LEAD, COPPER, IRON, AND ZINC IN BRASS
+
+ELECTROLYTIC SEPARATIONS
+
+
+!General Discussion!
+
+When a direct current of electricity passes from one electrode to
+another through solutions of electrolytes, the individual ions present
+in these solutions tend to move toward the electrode of opposite
+electrical charge to that which each ion bears, and to be discharged
+by that electrode. Whether or not such discharge actually occurs in
+the case of any particular ion depends upon the potential (voltage) of
+the current which is passing through the solution, since for each ion
+there is, under definite conditions, a minimum potential below which
+the discharge of the ion cannot be effected. By taking advantage
+of differences in discharge-potentials, it is possible to effect
+separations of a number of the metallic ions by electrolysis, and at
+the same time to deposit the metals in forms which admit of direct
+weighing. In this way the slower procedures of precipitation and
+filtration may frequently be avoided. The following paragraphs present
+a brief statement of the fundamental principles and conditions
+underlying electro-analysis.
+
+The total energy of an electric current as it passes through a
+solution is distributed among three factors, first, its potential,
+which is measured in volts, and corresponds to what is called "head"
+in a stream of water; second, current strength, which is measured
+in amperes, and corresponds to the volume of water passing a
+cross-section of a stream in a given time interval; and third, the
+resistance of the conducting medium, which is measured in ohms. The
+relation between these three factors is expressed by Ohm's law,
+namely, that !I = E/R!, when I is current strength, E potential, and R
+resistance. It is plain that, for a constant resistance, the
+strength of the current and its potential are mutually and directly
+interdependent.
+
+As already stated, the applied electrical potential determines whether
+or not deposition of a metal upon an electrode actually occurs. The
+current strength determines the rate of deposition and the physical
+characteristics of the deposit. The resistance of the solution is
+generally so small as to fall out of practical consideration.
+
+Approximate deposition-potentials have been determined for a number
+of the metallic elements, and also for hydrogen and some of the
+acid-forming radicals. The values given below are those required
+for deposition from normal solutions at ordinary temperatures
+with reference to a hydrogen electrode. They must be regarded as
+approximate, since several disturbing factors and some secondary
+reactions render difficult their exact application under the
+conditions of analysis. They are:
+
+ Zn    Cd    Fe    Ni    Pb    H  Cu    Sb    Hg    Ag    SO_{4}
++0.77 +0.42 +0.34 +0.33 +0.13  0 -0.34 -0.67 -0.76 -0.79 +1.90
+
+From these data it is evident that in order to deposit copper from a
+normal solution of copper sulphate a minimum potential equal to the
+algebraic sum of the deposition-potentials of copper ions and sulphate
+ions must be applied, that is, +1.56 volts. The deposition of zinc
+from a solution of zinc sulphate would require +2.67 volts, but, since
+the deposition of hydrogen from sulphuric acid solution requires only
++1.90 volts, the quantitative deposition of zinc by electrolysis from
+a sulphuric acid solution of a zinc salt is not practicable. On the
+other hand, silver, if present in a solution of copper sulphate, would
+deposit with the copper.
+
+The foregoing examples suffice to illustrate the application of the
+principle of deposition potentials, but it must further be noted
+that the values stated apply to normal solutions of the compounds in
+question, that is, to solutions of considerable concentrations. As the
+concentration of the ions diminishes, and hence fewer ions approach
+the electrodes, somewhat higher voltages are required to attract and
+discharge them. From this it follows that the concentrations should be
+kept as high as possible to effect complete deposition in the least
+practicable time, or else the potentials applied must be progressively
+increased as deposition proceeds. In practice, the desired result is
+obtained by starting with small volumes of solution, using as large an
+electrode surface as possible, and by stirring the solution to bring
+the ions in contact with the electrodes. This is, in general, a more
+convenient procedure than that of increasing the potential of the
+current during electrolysis, although that method is also used.
+
+As already stated, those ions in a solution of electrolytes will first
+be discharged which have the lowest deposition potentials, and so
+long as these ions are present around the electrode in considerable
+concentration they, almost alone, are discharged, but, as their
+concentration diminishes, other ions whose deposition potentials are
+higher but still within that of the current applied, will also begin
+to separate. For example, from a nitric acid solution of copper
+nitrate, the copper ions will first be discharged at the cathode, but
+as they diminish in concentration hydrogen ions from the acid (or
+water) will be also discharged. Since the hydrogen thus liberated is a
+reducing agent, the nitric acid in the solution is slowly reduced to
+ammonia, and it may happen that if the current is passed through for a
+long time, such a solution will become alkaline. Oxygen is liberated
+at the anode, but, since there is no oxidizable substance present
+around that electrode, it escapes as oxygen gas. It should be noted
+that, in general, the changes occurring at the cathode are reductions,
+while those at the anode are oxidations.
+
+For analytical purposes, solutions of nitrates or sulphates of the
+metals are preferable to those of the chlorides, since liberated
+chlorine attacks the electrodes. In some cases, as for example, that
+of silver, solution of salts forming complex ions, like that of
+the double cyanide of silver and potassium, yield better metallic
+deposits.
+
+Most metals are deposited as such upon the cathode; a few, notably
+lead and manganese, separate in the form of dioxides upon the anode.
+It is evidently important that the deposited material should be so
+firmly adherent that it can be washed, dried, and weighed without
+loss in handling. To secure these conditions it is essential that the
+current density (that is, the amount of current per unit of area of
+the electrodes) shall not be too high. In prescribing analytical
+conditions it is customary to state the current strength in "normal
+densities" expressed in amperes per 100 sq. cm. of electrode surface,
+as, for example, "N.D_{100} = 2 amps."
+
+If deposition occurs too rapidly, the deposit is likely to be spongy
+or loosely adherent and falls off on subsequent treatment. This places
+a practical limit to the current density to be employed, for a given
+electrode surface. The cause of the unsatisfactory character of
+the deposit is apparently sometimes to be found in the coincident
+liberation of considerable hydrogen and sometimes in the failure of
+the rapidly deposited material to form a continuous adherent surface.
+The effect of rotating electrodes upon the character of the deposit is
+referred to below.
+
+The negative ions of an electrolyte are attracted to the anode and are
+discharged on contact with it. Anions such as the chloride ion yield
+chlorine atoms, from which gaseous chlorine molecules are formed
+and escape. The radicals which compose such ions as NO_{3}^{-} or
+SO_{4}^{--} are not capable of independent existence after discharge,
+and break down into oxygen and N_{2}O_{5} and SO_{3} respectively. The
+oxygen escapes and the anhydrides, reacting with water, re-form nitric
+and sulphuric acids.
+
+The law of Faraday expresses the relation between current strength and
+the quantities of the decomposition products which, under constant
+conditions, appear at the electrodes, namely, that a given quantity
+of electricity, acting for a given time, causes the separation of
+chemically equivalent quantities of the various elements or radicals.
+For example, since 107.94 grams of silver is equivalent to 1.008 grams
+of hydrogen, and that in turn to 8 grams of oxygen, or 31.78 grams of
+copper, the quantity of electricity which will cause the deposit of
+107.94 grams of silver in a given time will also separate the weights
+just indicated of the other substances. Experiments show that a
+current of one ampere passing for one second, i.e., a coulomb of
+electricity, causes the deposition of 0.001118 gram of silver from a

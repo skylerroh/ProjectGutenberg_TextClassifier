@@ -1,0 +1,445 @@
+To find the center of curvature at D, assume the crank pin A to have a
+velocity A_a_. Then, since the rod is at that instant turning about the
+farther end A', we will have D_d_ for the motion of D. The instantaneous
+axis of the connecting rod is found by drawing perpendiculars to the
+directions of the simultaneous motions of its two ends, and it therefore
+falls at A', in the present position. But the perpendicular to the motion
+of the crank pin is the line of the crank itself, and consequently is
+revolving about O with an angular velocity represented by AO_a_. The
+motion of A' is in the direction A'B', but its velocity at the instant is
+zero. Hence, drawing a vertical line at A', limited by the prolongation
+of _a_O, we have A'_a_' for the motion of the instantaneous axis.
+Therefore, by drawing _a_'_d_, cutting the normal at _x_, we determine
+D_x_, the radius of curvature.
+
+Placing the crank in the opposite position OB, we find by a construction
+precisely similar to the above, the radius of curvature E_z_ at the other
+extremity of the axis of the curve. It will at once be seen that E_z_ is
+less than D_x_, and that since the normal at P is vertical and infinite,
+the evolute of DPE will consist of two branches _x_N, _z_M, to which the
+vertical normal PL is a common asymptote. These two branches will not be
+similar, nor is the curve itself symmetrical with respect to PL or to any
+transverse line; all of which peculiarities characterize it as something
+quite different from the ellipse.
+
+[Illustration: FIG. 23.]
+
+[Illustration: FIG. 24.]
+
+[Illustration: FIG. 25.]
+
+Moreover, in Fig. 22, the locus of the instantaneous axis of the trammel
+bar (of which the part EH corresponds to the connecting rod, when a crank
+OH is added to the elliptograph there discussed) was found to be a
+circle. But in the present case this locus is very different. Beginning
+at A', the instantaneous axis moves downward and to the right, as the
+crank travels from A in the direction of the arrow, until it becomes
+vertical, when the axis will be found upon C'R, at an infinite distance
+below AB', the locus for this quarter of the revolution being a curve
+A'G, to which C'R is an asymptote. After the crank pin passes C, the axis
+will be found above AB' and to the right of C'R, moving in a curve HB',
+which is the locus for the second quadrant. Since the path of P is
+symmetrical with respect to DE, the completion of the revolution will
+result in the formation of two other curves, continuous and symmetrical
+with those above described, the whole appearing as in Fig. 24, the
+vertical line through C' being a common asymptote.
+
+In order to find the radius of curvature at any point on the generated
+curve, it is necessary to find not only the location of the instantaneous
+axis, but its motion. This is done as shown in Fig. 25. P being the given
+point, CD is the corresponding position of the connecting rod, OC that of
+the crank. Draw through D a perpendicular to OD, produce OC to cut it in
+E, the instantaneous axis. Assume C A perpendicular to OC, as the motion
+of the crank. Then the point E in OC produced will have the motion EF
+perpendicular to OE, of a magnitude determined by producing OA to cut
+this perpendicular in F. But since the _intersection_ E of the crank
+produced is to be with a vertical line through the other end of the rod,
+the instantaneous axis has a motion which, so far as it depends upon the
+movement of C only, is in the direction DE. Therefore EF is a component,
+whose resultant EG is found by drawing FG perpendicular to EF. Now D is
+moving to the left with a velocity which may be determined either by
+drawing through A a perpendicular to CD, and through C a horizontal line
+to cut this perpendicular in H, or by making the angle DEI equal to the
+angle CEA, giving on DO the distance DI, equal to CH. Make EK = DI or
+CH, complete the rectangle KEGL, and its diagonal ES is, finally, the
+motion of the instantaneous axis.
+
+EP is the normal, and the actual motion of P is PM, perpendicular to EP,
+the angle PEM being made equal to CEA. Find now the component EN of the
+motion ES, which is perpendicular to EP. Draw NM and produce it to cut EP
+produced in R the center of curvature at P.
+
+This point evidently lies upon the branch _z_M of the evolute in Fig. 23.
+The process of finding one upon the other branch _x_N is shown in the
+lower part of the diagram, Fig. 25. The operations being exactly like
+those above described, will be readily traced by the reader without
+further explanation.
+
+       *       *       *       *       *
+
+
+
+
+AUTOMATIC COMMUTATOR FOR INCANDESCENT LAMPS.
+
+
+Incandescent electric lighting, already pushed to such a degree of
+perfection in the details of construction and installation, continually
+finds new exigencies that have to be satisfied. As it is more and more
+firmly established, it has to provide for all the comforts of existence
+by simple solutions of problems of the smaller class.
+
+Take for example this case: Suppose a room, such as an office, lighted by
+a single lamp. The filament breaks; the room becomes dark. The bell push
+is not always within reach of the arm, and it is by haphazard that one
+has to wander around in the dark. This is certainly an unpleasant
+situation. The comfort we seek for in our houses is far from being
+provided.
+
+M. Clerc, the well known inventor of the sun lamp, has tried to overcome
+troubles of this sort, and has attained a simple, elegant, and at the
+same time cheap solution. The cut shows the arrangement. The apparatus is
+connected at the points, BB', with the lighting circuit. The current
+entering by the terminal, B', passes through the coils of a bobbin, S,
+before reaching the points of attachment, a and b, of the lamp, L, the
+normally working one. Thence the circuit runs to B. Within the coil, S,
+is a small hollow cylinder, T, of thin sheet iron, which is raised
+parallel with the axis of the bobbin during the passage of the current
+through the latter. At its base the cylinder is prolonged into two little
+rods, h and h', which plunge into two mercury cups, G and G'. The cut
+shows that one of the cups, G', is connected to the terminal, B', and the
+other, G, to the terminal, a', of the other lamp, L'. An inspection of
+the cut shows just what ensues when an accident happens to the first lamp
+while burning. The first circuit being broken at ab, the magnetizing
+action of the current in the bobbin ceases, the cylinder, T, descends,
+and the rods, h and h', dip into the mercury. It follows that the
+current, always starting from the terminal, B', will by means of the
+cups, G and G', pass through the lamp, L', to go by the original return
+wire to B.
+
+[Illustration]
+
+The substitution of the lamp, L, for L' is almost instantaneous. It can
+scarcely be perceived. It goes without saying that such an arrangement of
+automatic commutation is applicable to lamps with two or more filaments
+of which only one is to be lighted at a time. The apparatus costs little,
+and can be made as ornamental as desired. No exaggeration is indulged in
+if we pronounce it simple and ingenious. It may be used in a great
+variety of eases. The diameter of the wire is 55/100 (22 mm.), its length
+eighteen meters (60 feet), its resistance one ohm; 3/4 ampere is needed to
+work it, and less than a watt is absorbed by it.--_Electricite_.
+
+       *       *       *       *       *
+
+
+
+
+DEFINITIONS AND DESIGNATIONS IN ELECTROTECHNICS.
+
+
+We may discourse for some time to come upon the uniformity of electric
+language, for universal agreement is far from being established. An
+important step toward the unity of this language was taken in 1881 by the
+congress of Paris, which rendered the use of the C.G.S. system definitive
+and universal. This labor was completed in 1884 by the meeting of a new
+congress at Paris, at which a definition of the C.G.S. and practical
+units was distinctly decided upon. That the unit of light defined by the
+congress has not rapidly come into favor is due to the fact that its
+practical realization is not within everybody's reach.
+
+The work of unification should not come to a standstill on so good a
+road. How many times in scientific works or in practical applications do
+we find the same physical magnitude designated by different names, or
+even the use of the same expression to designate entirely different
+things!
+
+The result is an increase of difficulties and confusions, not only for
+persons not thoroughly initiated into these notions, but also for adepts,
+even, in this new branch of the engineer's art. The effects of such
+confusion make themselves still further felt in the reading of foreign
+publications. Thus, for example, in Germany that part of a dynamo
+electric machine that is called in France the _induit_ (armature) is
+sometimes styled _anker_, and more rarely _armatur_. The _north pole_ of
+a freely suspended magnetized needle is the one that points toward the
+geographical north of the earth. In France, and by some English authors,
+this pole is called the _south_ one. Among electricians of the same
+country, what by one is called _electro-motive force_ is by another
+styled _difference of potential_, by a third _tension_, and even
+_difference of tension_.
+
+Our confrere Ruhlmann, of the _Elektrotechnische Zeitschrift_, gives a
+still more remarkable example yet of such confusion. The word
+_polarization_, borrowed from optics, where it has an unequivocal sense,
+serves likewise to designate the development of the counter
+electro-motive force of galvanic elements, and also that essentially
+different condition of badly conducting substances that is brought about
+by the simultaneous influence of quantities of opposite electricity.
+
+In Germany, the word _induction_, coupled with the word _wire_, for
+example, according to the formation of compound words in that language,
+may also have a double meaning, and it is by the sense alone of the
+phrase that we learn whether we have to do with an induced wire or an
+inducting one. The examples might be multiplied.
+
+At its session of November 5, 1884, the International Society of
+Electricians, upon a motion of Mr. Hospitalier, who had made a
+communication upon this question, appointed a committee to study it and
+report upon it. The English Society of Electricians likewise took the
+subject into consideration, and one of its most active and distinguished
+members, Mr. Jamieson, presented the result of his labors at the May
+session of the society in 1885.
+
+A discussion arose in which the committee of the International Society of
+Electricians was invited to take part. The committee was represented by
+its secretary, Mr. Hospitalier, who expressed himself in about these
+words: "The committee on electric notations presided over by Mr. Blauvelt
+has finished a part of its task, that relative to abbreviations,
+notations, and symbols. It will soon take up the second part, which
+relates to definitions and agreements." He broadly outlined the
+committee's ideas as follows:
+
+In all physical magnitudes that are made use of, we have: (1) the
+physical magnitude itself, aside from the units that serve to measure it;
+(2) the C.G.S. unit that serves to measure such grandeur (granted the
+adoption of the C.G.S. system); (3) practical units, which, in general,
+have a special name for each kind of magnitude, and are a decimal
+multiple or sub-multiple of the C.G.S. unit, except for time and angles;
+(4) finally, decimal multiples and sub-multiples of these practical
+units, that are in current use.
+
+The committee likewise decided always to adopt a large capital to
+designate the physical magnitude; a small capital to designate the C.G.S.
+unit, when it has a special name; a "lower case" letter for the
+abbreviation of each practical unit; and prefixes, always the same, for
+the decimal multiples and sub-multiples of the practical units.
+
+Thus, for example, work would be indicated by the letter W (initial of
+the word); the C.G.S. unit is the _erg_, which would be written without
+abbreviation, on account of its being short; and the practical units
+would be the kilogrammeter (_kgm_), the grammeter (_gm_), etc. The
+multiples would be the _meg-erg_, the tonne-meter (_t-m_), etc.
+
+Mr. Jamieson's propositions have been in great part approved. Some
+criticisms, however, were made during the course of the discussion, and
+it is for this reason that the scheme still remains open to improvements.
+The proposed symbols are as follows:
+
+
+A.--PRACTICAL ELECTRIC UNITS.
+
+Total resistance of a circuit.                      R
+Internal resistance of a source of current.         r_{1}
+Resistance of the separate parts of a current.      _r__{1}, _r__{2}, etc.
+Specific resistance.                                [rho]
+1 ohm.                                              [omega]
+1 megohm.                                           [Omega]
+Intensity of a current.                             C
+Magnitude of 1 ampere.                              A
+1 milliampere.                                      [alpha]
+Electro-motive force.                               E
+Magnitude of 1 volt.                                _v_
+Capacity.                                           K
+Constant of specific induction.                     [sigma]
+1 farad.                                            [Phi]
+1 microfarad.                                       [phi]
+Quantity of electricity.                            Q
+1 coulomb.                                          C
+Electric work (volt coulomb).                       _v_C
+Electric effect (volt ampere, watt in one second).  W
+Horse power.                                        HP
+
+B.--MAGNETISM.
+
+Pole of magnet pointing toward the north.           N
+The opposite pole.                                  S
+Force of a pole, quantity of magnetism.             _m_
+Distance of the poles of a magnet.                  _l_
+Magnetic moment.                                    M = _m.l_
+Intensity of magnetization.                         J
+Intensity of the horizontal component of terrestrial
+magnetism.                                          H
+
+C.--ELECTRIC MEASUREMENTS.
+
+Galvanometer and its resistance.                    G
+Resistance of the shunt of a galvanometer.          _s_
+Battery and its internal resistance.                B
+
+For dynamo machines, the following designations
+are proposed:
+
+The machine itself.                                 D
+Positive terminal.                                  +T
+Negative terminal.                                  -T
+Magnet forming the field.                           FM
+Current indicator (amperemeter).                    AM
+Tension indicator (voltameter).                     MV
+Electro-magnet.                                     EM
+Luminous intensity of a lamp, in candles.           _c.p_.
+Resistance of the armature.                         R_{a}
+Resistance of the magnet forming the field.         R_{m}
+Resistance of the external circuit.                 R_{o}
+Intensity in the armature.                          C_{a}
+Intensity in the coils of the magnet.               C_{m}
+Intensity in the external circuit.                  C_{e}
+Coefficient of self-induction.                      L_{s}
+Coefficient of mutual induction.                    L_{m}
+
+
+A primary battery would be represented as in Fig. 1, and a battery of
+accumulators as in Fig. 2.
+
+[Illustration: FIG. 1.]
+
+[Illustration: FIG. 2.]
+
+In order to designate incandescent lamps, circles would be used, and
+stars for arc lamps. A system of incandescent lamps arranged in multiple
+arc would be represented as in Fig. 3.
+
+[Illustration: FIG. 3.]
+
+Fig. 4 and the formula
+
+R = B + Gs/(G + s) + r
+
+would serve for the total resistance, R, of an electric circuit, upon
+giving the letters the significations adopted.
+
+[Illustration: FIG. 4.]
+
+Such is, in brief, the present state of the question. The scientific
+bodies that have taken hold of it have not as yet furnished a fully
+co-ordinated work on the subject. Let us hope, however, that we shall not
+have to wait long. The question is of as much interest to scientific men
+as to practical ones.
+
+A collection of identical symbols would have the advantage of permitting
+us to abridge explanations in regard to the signification of terms used
+in mathematical formulas. A simple examination of a formula would suffice
+to teach us its contents without the aid of tiresome explanatory matter.
+
+But in order that the language shall be precise, it will be necessary for
+the words always to represent precise ideas that are universally
+accepted, and for their sense not to depend upon the manner of
+understanding the idea according to their arrangement in the phrase.
+
+Nothing can be more desirable than that the societies of electricians of
+all countries shall continue the study of these questions with the desire
+of coming to a common understanding through a mutual sacrifice of certain
+preferences and habitudes.--_E. Dieudonne, in La Lumiere Electrique_.
+
+       *       *       *       *       *
+
+
+
+
+IMPROVED MICROSCOPICAL SETTLING TUBE.
+
+By F. VANDERPOEL, of Newark, New Jersey.
+
+
+In the February number of this _Journal_ the writer described a new
+settling tube for urinary deposits which possessed several advantages
+over the old method with conical test-glass and pipette. For several
+reasons, however, the article was not illustrated, and it is for the
+purpose of elucidation by means of illustration, as well as to bring
+before the readers of the _Journal_ two new and improved forms of the
+tube, that space in these columns is again sought. The first two of the
+figures, 1 and 2, represent the tube as originally devised; 1 denoting
+the tube with movable cap secured to it by means of a rubber band, and 2
+the tube with a ground glass cap and stop cock. The first departure from
+these forms is shown at 3, and consists of a conical tube, as before, but
+provided with a perforated stopper, the side opening in which
+communicates with a side tube. The perforation in the stopper, which is
+easily made by a glass blower, thus allows the overflow, when the stopper
+is inserted into the full tube, to pass into the side tube. The stopper
+is then turned so as to cut off the urine in the latter from that in the
+large tube, and the latter is thus made tight. After allowing it to
+remain at rest long enough to permit subsidence of all that will settle,
+the stopper is gently turned and a drop taken off the lower end upon a
+slide, to be examined at leisure with the microscope. The cap, ground and
+fitted upon the lower end, is put there as a precautionary measure, as
+will be seen farther on.
+
+[Illustration: VANDERPOEL'S SETTLING TUBES.]
+
+The tube shown at 4 is, we think, an improvement upon all of the
+foregoing, for upon it there is no side tube to break off, and everything
+is comprised in a small space. As will be seen by referring to the
+figure, there is a slight enlargement in the ground portion of the
+stopper end of the tube, this protuberance coming down about one-half the
+length of the stopper, which is solid and ground to fit perfectly. The
+lower half, however, is provided with a small longitudinal slit or
+groove, the lower end of which communicates with the interior of the
+tube, while the upper end just reaches the enlargement in the side of the
+latter. Thus in one position of the stopper there is a communication
+between the tube and the outer air, while in all other positions the tube
+is quite shut. In all these tubes care must be taken to fill them
+_completely_ with the urine, and to allow no bubbles of air to remain
+therein.
+
+The first of these settling tubes was made without the ground cap on the
+lower end, the latter being inserted into a small test tube for safety.
+At the suggestion of Mr. J.L. Smith the test tube was made a part of the
+apparatus by fitting it (by grinding) upon the conical end, and in its
+present form it serves to protect the latter from dust and to prevent
+evaporation of the urine (or other liquid), and consequent deposition of
+salts, if, for any reason, the user should allow the tube to remain
+suspended for several days.
+
+These tubes will be found very useful for collecting and concentrating
+into a small bulk the sediment contained in any liquid, whether it be
+composed of urinary deposits, diatoms in process of being cleaned, or any
+thing of like nature; and, as the parts are all of glass, the strongest
+acids may be used, excepting, of course, hydrofluoric acid, without harm
+to the tubes.--_American Microscopical Journal_.
+
+       *       *       *       *       *
+
+[Continued from SUPPLEMENT, No. 594, page 9491.]
+
+
+
+
+CLIMATE IN ITS RELATION TO HEALTH. By G.V. POORE, M.D.
+
+[Footnote: Three lectures before the Society of Arts, London. From the
+Journal of the Society.]
+
+LECTURE III. DISEASES CAUSED BY FLOATING MATTER IN THE AIR.
+
+
+The information which modern methods of research have given us with
+regard to the floating matter in the air is of an importance which cannot
+be overestimated.
+
+That the air is full of organic particles capable of life and growth is
+now a matter of absolute certainty. It has long been a matter of
+speculation, but there is a great difference between a fact and a
+speculation. An eminent historian has recently deprecated the distinction
+which is conventionally drawn between science and knowledge, but,
+nevertheless, such a distinction is useful, and will continue to be
+drawn. A man's head may be filled with various things. His inclination
+may lead him, for example, to study archaic myths in the various dialects
+which first gave them birth; he may have a fancy for committing to memory
+the writings of authors on astrology, or the speculations of ancient
+philosophers, from Aristotle and Lucretius downward. Such a one may have
+a just claim to be considered a man of learning, and far be it from me to
+despise the branches of knowledge toward which his mind has a natural
+bent. But in so far as his knowledge is a knowledge of fancies rather
+than facts, it has no claim to be called science.
+
+Fancies, however beautiful, cannot form a solid basis for action or
+conduct, whereas a scientific fact does. It is all very well to suppose
+that such and such things may be, but mere possibilities, or even
+probabilities, do not breed a living faith. They often foster schism, and
+give rise to disunited or opposed action on the part of those who think
+that such and such things may not be.
+
+When, however, a fancy or a speculation becomes a fact which is capable
+of demonstration, its universal acceptance is only a matter of time, and
+the man who neglects such facts in regulating his actions or conduct is
+rightly regarded as insane all the world over.
+
+The influence of micro-organisms on disease is emerging more and more,

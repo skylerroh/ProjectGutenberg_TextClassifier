@@ -1,0 +1,716 @@
+to other sciences in nature, because it takes cognizance
+of quantity, which is apprehended by intuition (_intuitu
+intellectus_). "Moreover," he adds, "there have been found famous
+men, as Robert, bishop of Lincoln, and Brother Adam Marshman (de
+Marisco), and many others, who by the power of mathematics have
+been able to explain the causes of things; as may be seen in the
+writings of these men, for instance, concerning the Rainbow and
+Comets, and the generation of heat, and climates, and the
+celestial bodies."--WHEWELL, W.
+
+                         _History of the Inductive Sciences (New
+                         York, 1894), Vol. 1, p. 519. Bacon,
+                         Roger: Opus Majus, Part 4, Distinctia
+                         Prima, cap. 3._
+
+
+=1548.= The analysis which is based upon the conception of
+function discloses to the astronomer and physicist not merely the
+formulae for the computation of whatever desired distances,
+times, velocities, physical constants; it moreover gives him
+insight into the laws of the processes of motion, teaches him to
+predict future occurrences from past experiences and supplies him
+with means to a scientific knowledge of nature, i.e. it enables
+him to trace back whole groups of various, sometimes extremely
+heterogeneous, phenomena to a minimum of simple fundamental laws.
+
+                                                 --PRINGSHEIM, A.
+
+                         _Jahresbericht der Deutschen
+                         Mathematiker Vereinigung, Bd. 13, p.
+                         366._
+
+
+=1549.= "As is known, scientific physics dates its existence from
+the discovery of the differential calculus. Only when it was
+learned how to follow continuously the course of natural events,
+attempts, to construct by means of abstract conceptions the
+connection between phenomena, met with success. To do this two
+things are necessary: First, simple fundamental concepts with
+which to construct; second, some method by which to deduce, from
+the simple fundamental laws of the construction which relate to
+instants of time and points in space, laws for finite intervals
+and distances, which alone are accessible to observation (can be
+compared with experience)." [Riemann.]
+
+The first of the two problems here indicated by Riemann consists
+in setting up the differential equation, based upon physical
+facts and hypotheses. The second is the integration of this
+differential equation and its application to each separate
+concrete case, this is the task of mathematics.--WEBER, HEINRICH.
+
+                         _Die partiellen Differentialgleichungen
+                         der mathematischen Physik (Braunschweig,
+                         1882), Bd. 1, Vorrede._
+
+
+=1550.= Mathematics is the most powerful instrument which we
+possess for this purpose [to trace into their farthest results
+those general laws which an inductive philosophy has supplied]:
+in many sciences a profound knowledge of mathematics is
+indispensable for a successful investigation. In the most
+delicate researches into the theories of light, heat, and sound
+it is the only instrument; they have properties which no other
+language can express; and their argumentative processes are
+beyond the reach of other symbols.--PRICE, B.
+
+                         _Treatise on Infinitesimal Calculus
+                         (Oxford, 1858), Vol. 3, p. 5._
+
+
+=1551.= Notwithstanding the eminent difficulties of the
+mathematical theory of sonorous vibrations, we owe to it such
+progress as has yet been made in acoustics. The formation of the
+differential equations proper to the phenomena is, independent of
+their integration, a very important acquisition, on account of
+the approximations which mathematical analysis allows between
+questions, otherwise heterogeneous, which lead to similar
+equations. This fundamental property, whose value we have so
+often to recognize, applies remarkably in the present case; and
+especially since the creation of mathematical thermology, whose
+principal equations are strongly analogous to those of vibratory
+motion.--This means of investigation is all the more valuable on
+account of the difficulties in the way of direct inquiry into
+the phenomena of sound. We may decide the necessity of the
+atmospheric medium for the transmission of sonorous vibrations;
+and we may conceive of the possibility of determining by
+experiment the duration of the propagation, in the air, and then
+through other media; but the general laws of the vibrations of
+sonorous bodies escape immediate observation. We should know
+almost nothing of the whole case if the mathematical theory did
+not come in to connect the different phenomena of sound, enabling
+us to substitute for direct observation an equivalent examination
+of more favorable cases subjected to the same law. For instance,
+when the analysis of the problem of vibrating chords has shown us
+that, other things being equal, the number of oscillations is in
+inverse proportion to the length of the chord, we see that the
+most rapid vibrations of a very short chord may be counted, since
+the law enables us to direct our attention to very slow
+vibrations. The same substitution is at our command in many cases
+in which it is less direct.--COMTE, A.
+
+                         _Positive Philosophy [Martineau], Bk. 3,
+                         chap. 4._
+
+
+=1552.= Problems relative to the uniform propagation, or to the
+varied movements of heat in the interior of solids, are reduced
+... to problems of pure analysis, and the progress of this part
+of physics will depend in consequence upon the advance which may
+be made in the art of analysis. The differential equations ...
+contain the chief results of the theory; they express, in the
+most general and concise manner, the necessary relations of
+numerical analysis to a very extensive class of phenomena; and
+they connect forever with mathematical science one of the most
+important branches of natural philosophy.--FOURIER, J.
+
+                         _Theory of Heat [Freeman], (Cambridge,
+                         1878), Chap. 3, p. 131._
+
+
+=1553.= The effects of heat are subject to constant laws which
+cannot be discovered without the aid of mathematical analysis.
+The object of the theory is to demonstrate these laws; it reduces
+all physical researches on the propagation of heat, to problems
+of the integral calculus, whose elements are given by experiment.
+No subject has more extensive relations with the progress of
+industry and the natural sciences; for the action of heat is
+always present, it influences the processes of the arts, and
+occurs in all the phenomena of the universe.--FOURIER, J.
+
+                         _Theory of Heat [Freeman], (Cambridge,
+                         1878), Chap. 1, p. 12._
+
+
+=1554.= Dealing with any and every amount of static electricity,
+the mathematical mind has balanced and adjusted them with
+wonderful advantage, and has foretold results which the
+experimentalist can do no more than verify.... So in respect of
+the force of gravitation, it has calculated the results of the
+power in such a wonderful manner as to trace the known planets
+through their courses and perturbations, and in so doing has
+_discovered_ a planet before unknown.--FARADAY.
+
+                         _Some Thoughts on the Conservation of
+                         Force._
+
+
+=1555.= Certain branches of natural philosophy (such as physical
+astronomy and optics), ... are, in a great measure, inaccessible
+to those who have not received a regular mathematical education....
+
+                                                --STEWART, DUGALD.
+
+                         _Philosophy of the Human Mind, Part 3,
+                         chap. 1, sect. 3._
+
+
+=1556.= So intimate is the union between mathematics and physics
+that probably by far the larger part of the accessions to our
+mathematical knowledge have been obtained by the efforts of
+mathematicians to solve the problems set to them by experiment,
+and to create "for each successive class of phenomena, a new
+calculus or a new geometry, as the case might be, which might
+prove not wholly inadequate to the subtlety of nature."
+Sometimes, indeed, the mathematician has been before the
+physicist, and it has happened that when some great and new
+question has occurred to the experimentalist or the observer, he
+has found in the armoury of the mathematician the weapons which
+he has needed ready made to his hand. But, much oftener, the
+questions proposed by the physicist have transcended the utmost
+powers of the mathematics of the time, and a fresh mathematical
+creation has been needed to supply the logical instrument
+requisite to interpret the new enigma.--SMITH, H. J. S.
+
+                         _Presidential Address British
+                         Association for the Advancement of
+                         Science, Section A; Nature, Vol. 8
+                         (1873), p. 450._
+
+
+=1557.= Of all the great subjects which belong to the province of
+his section, take that which at first sight is the least within
+the domain of mathematics--I mean meteorology. Yet the part which
+mathematics plays in meteorology increases every year, and seems
+destined to increase. Not only is the theory of the simplest
+instruments essentially mathematical, but the discussions of the
+observations--upon which, be it remembered, depend the hopes
+which are already entertained with increasing confidence, of
+reducing the most variable and complex of all known phenomena to
+exact laws--is a problem which not only belongs wholly to
+mathematics, but which taxes to the utmost the resources of the
+mathematics which we now possess.--SMITH, H. J. S.
+
+                         _Presidential Address British
+                         Association for the Advancement of
+                         Science, Section A; Nature, Vol. 8
+                         (1873), p. 449._
+
+
+=1558.= You know that if you make a dot on a piece of paper, and
+then hold a piece of Iceland spar over it, you will see not one
+dot but two. A mineralogist, by measuring the angles of a
+crystal, can tell you whether or no it possesses this property
+without looking through it. He requires no scientific thought to
+do that. But Sir William Roman Hamilton ... knowing these facts
+and also the explanation of them which Fresnel had given,
+thought about the subject, and he predicted that by looking
+through certain crystals in a particular direction we should see
+not two dots but a continuous circle. Mr. Lloyd made the
+experiment, and saw the circle, a result which had never been
+even suspected. This has always been considered one of the most
+signal instances of scientific thought in the domain of physics.
+
+                                                --CLIFFORD, W. K.
+
+                         _Lectures and Essays (New York, 1901),
+                         Vol. 1, p. 144._
+
+
+=1559.= The discovery of this planet [Neptune] is justly reckoned
+as the greatest triumph of mathematical astronomy. Uranus failed
+to move precisely in the path which the computers predicted for
+it, and was misguided by some unknown influence to an extent
+which a keen eye might almost see without telescopic aid....
+These minute discrepancies constituted the data which were found
+sufficient for calculating the position of a hitherto unknown
+planet, and bringing it to light. Leverrier wrote to Galle, in
+substance: "_Direct your telescope to a point on the ecliptic in
+the constellation of Aquarius, in longitude 326 deg., and you will
+find within a degree of that place a new planet, looking like a
+star of about the ninth magnitude, and having a perceptible
+disc._" The planet was found at Berlin on the night of Sept. 26,
+1846, in exact accordance with this prediction, within half an
+hour after the astronomers began looking for it, and only about
+52' distant from the precise point that Leverrier had indicated.
+
+                                                   --YOUNG, C. A.
+
+                         _General Astronomy (Boston, 1891), Art.
+                         653._
+
+
+=1560.= I am convinced that the future progress of chemistry as
+an exact science depends very much indeed upon the alliance with
+mathematics.--FRANKLAND, A.
+
+                         _American Journal of Mathematics, Vol.
+                         1, p. 349._
+
+
+=1561.= It is almost impossible to follow the later developments
+of physical or general chemistry without a working knowledge of
+higher mathematics.--MELLOR, J. W.
+
+                         _Higher Mathematics (New York, 1902),
+                         Preface._
+
+
+=1562.=
+
+        ... Mount where science guides;
+        Go measure earth, weigh air, and state the tides;
+        Instruct the planets in what orb to run,
+        Correct old time, and regulate the sun.
+                                               --THOMSON, W.
+
+                         _On the Figure of the Earth, Title
+                         page._
+
+
+=1563.= Admission to its sanctuary [referring to astronomy] and
+to the privileges and feelings of a votary, is only to be gained
+by one means,--_sound and sufficient knowledge of mathematics,
+the great instrument of all exact inquiry, without which no man
+can ever make such advances in this or any other of the higher
+departments of science as can entitle him to form an independent
+opinion on any subject of discussion within their range._
+
+                                                   --HERSCHEL, J.
+
+                         _Outlines of Astronomy, Introduction,
+                         sect. 7._
+
+
+=1564.= The long series of connected truths which compose the
+science of astronomy, have been evolved from the appearances and
+observations by calculation, and a process of reasoning entirely
+geometrical. It was not without reason that Plato called geometry
+and arithmetic the wings of astronomy; for it is only by means of
+these two sciences that we can give a rational account of any of
+the appearances, or connect any fact with theory, or even render
+a single observation available to the most common astronomical
+purpose. It is by geometry that we are enabled to reason our
+way up through the apparent motions to the real orbits of
+the planets, and to assign their positions, magnitudes and
+eccentricities. And it is by application of geometry--a sublime
+geometry, indeed, invented for the purpose--to the general laws
+of mechanics, that we demonstrate the law of gravitation, trace
+it through its remotest effects on the different planets, and,
+comparing these effects with what we observe, determine the
+densities and weights of the minutest bodies belonging to the
+system. The whole science of astronomy is in fact a tissue of
+geometrical reasoning, applied to the data of observation; and it
+is from this circumstance that it derives its peculiar character
+of precision and certainty. To disconnect it from geometry,
+therefore, and to substitute familiar illustrations and vague
+description for close and logical reasoning, is to deprive it of
+its principal advantages, and to reduce it to the condition of
+an ordinary province of natural history.
+
+                         _Edinburgh Review, Vol. 58 (1833-1834),
+                         p. 168._
+
+
+=1565.= But geometry is not only the instrument of astronomical
+investigation, and the bond by which the truths are enchained
+together,--it is also the instrument of explanation, affording,
+by the peculiar brevity and perspicuity of its technical
+processes, not only aid to the learner, but also such facilities
+to the teacher as he will find it very difficult to supply,
+if he voluntarily undertakes to forego its assistance. Few
+undertakings, indeed, are attended with greater difficulty than
+that of attempting to exhibit the connecting links of a chain of
+mathematical reasoning, when we lay aside the technical symbols
+and notation which relieve the memory, and speak at once to the
+eyes and the understanding:....
+
+                         _Edinburgh Review, Vol. 58 (1833-1834),
+                         p. 169._
+
+
+=1566.= With an ordinary acquaintance of trigonometry, and the
+simplest elements of algebra, one may take up any well-written
+treatise on plane astronomy, and work his way through it, from
+beginning to end, with perfect ease; and he will acquire, in the
+course of his progress, from the mere examples put before him, an
+infinitely more correct and precise idea of astronomical methods
+and theories, than he could obtain in a lifetime from the most
+eloquent general descriptions that ever were written. At the same
+time he will be strengthening himself for farther advances, and
+accustoming his mind to habits of close comparison and rigid
+demonstration, which are of infinitely more importance than the
+acquisition of stores of undigested facts.
+
+                         _Edinburgh Review, Vol. 58 (1833-1834),
+                         p. 170._
+
+
+=1567.= While the telescope serves as a means of penetrating
+space, and of bringing its remotest regions nearer us, mathematics,
+by inductive reasoning, have led us onwards to the remotest
+regions of heaven, and brought a portion of them within the range
+of our possibilities; nay, in our own times--so propitious to the
+extension of knowledge--the application of all the elements
+yielded by the present conditions of astronomy has even revealed
+to the intellectual eyes a heavenly body, and assigned to it its
+place, orbit, mass, before a single telescope has been directed
+towards it.--HUMBOLDT, A.
+
+                         _Cosmos [Otte], Vol. 2, part 2, sect.
+                         3._
+
+
+=1568.= Mighty are numbers, joined with art resistless.--EURIPIDES.
+
+                         _Hecuba, Line 884._
+
+
+=1569.= No single instrument of youthful education has such
+mighty power, both as regards domestic economy and politics, and
+in the arts, as the study of arithmetic. Above all, arithmetic
+stirs up him who is by nature sleepy and dull, and makes him
+quick to learn, retentive, shrewd, and aided by art divine he
+makes progress quite beyond his natural powers.--PLATO.
+
+                         _Laws [Jowett,] Bk. 5, p. 747._
+
+
+=1570.= For all the higher arts of construction some acquaintance
+with mathematics is indispensable. The village carpenter, who,
+lacking rational instruction, lays out his work by empirical
+rules learned in his apprenticeship, equally with the builder of
+a Britannia Bridge, makes hourly reference to the laws of
+quantitative relations. The surveyor on whose survey the land is
+purchased; the architect in designing a mansion to be built on
+it; the builder in preparing his estimates; his foreman in laying
+out the foundations; the masons in cutting the stones; and the
+various artisans who put up the fittings; are all guided by
+geometrical truths. Railway-making is regulated from beginning to
+end by mathematics: alike in the preparation of plans and
+sections; in staking out the lines; in the mensuration of
+cuttings and embankments; in the designing, estimating, and
+building of bridges, culverts, viaducts, tunnels, stations. And
+similarly with the harbors, docks, piers, and various engineering
+and architectural works that fringe the coasts and overspread the
+face of the country, as well as the mines that run underneath it.
+Out of geometry, too, as applied to astronomy, the art of
+navigation has grown; and so, by this science, has been made
+possible that enormous foreign commerce which supports a large
+part of our population, and supplies us with many necessaries
+and most of our luxuries. And nowadays even the farmer, for the
+correct laying out of his drains, has recourse to the level--that
+is, to geometrical principles.--SPENCER, HERBERT.
+
+                         _Education, chap. 1._
+
+
+=1571.= [Arithmetic] is another of the great master-keys of life.
+With it the astronomer opens the depths of the heavens; the
+engineer, the gates of the mountains; the navigator, the pathways
+of the deep. The skillful arrangement, the rapid handling of
+figures, is a perfect magician's wand. The mighty commerce of the
+United States, foreign and domestic, passes through the books
+kept by some thousands of diligent and faithful clerks. Eight
+hundred bookkeepers, in the Bank of England, strike the monetary
+balance of half the civilized world. Their skill and accuracy in
+applying the common rules of arithmetic are as important as the
+enterprise and capital of the merchant, or the industry and
+courage of the navigator. I look upon a well-kept ledger with
+something of the pleasure with which I gaze on a picture or a
+statue. It is a beautiful work of art.--EVERETT, EDWARD.
+
+                         _Orations and Speeches (Boston, 1870),
+                         Vol. 3, p. 47._
+
+
+=1572.= [Mathematics] is the fruitful Parent of, I had almost
+said all, Arts, the unshaken Foundation of Sciences, and the
+plentiful Fountain of Advantage to Human Affairs. In which last
+Respect, we may be said to receive from the _Mathematics_, the
+principal Delights of Life, Securities of Health, Increase of
+Fortune, and Conveniences of Labour: That we dwell elegantly and
+commodiously, build decent Houses for ourselves, erect stately
+Temples to God, and leave wonderful Monuments to Posterity: That
+we are protected by those Rampires from the Incursions of the
+Enemy; rightly use Arms, skillfully range an Army, and manage War
+by Art, and not by the Madness of wild Beasts: That we have safe
+Traffick through the deceitful Billows, pass in a direct Road
+through the tractless Ways of the Sea, and come to the designed
+Ports by the uncertain Impulse of the Winds: That we rightly cast
+up our Accounts, do Business expeditiously, dispose, tabulate,
+and calculate scattered Ranks of Numbers, and easily compute
+them, though expressive of huge Heaps of Sand, nay immense Hills
+of Atoms: That we make pacifick Separations of the Bounds of
+Lands, examine the Moments of Weights in an equal Balance, and
+distribute every one his own by a just Measure: That with a light
+Touch we thrust forward vast Bodies which way we will, and stop a
+huge Resistance with a very small Force: That we accurately
+delineate the Face of this Earthly Orb, and subject the Oeconomy
+of the Universe to our Sight: That we aptly digest the flowing
+Series of Time, distinguish what is acted by due Intervals,
+rightly account and discern the various Returns of the Seasons,
+the stated Periods of Years and Months, the alternate Increments
+of Days and Nights, the doubtful Limits of Light and Shadow, and
+the exact Differences of Hours and Minutes: That we derive the
+subtle Virtue of the Solar Rays to our Uses, infinitely extend
+the Sphere of Sight, enlarge the near Appearances of Things,
+bring to Hand Things remote, discover Things hidden, search
+Nature out of her Concealments, and unfold her dark Mysteries:
+That we delight our Eyes with beautiful Images, cunningly imitate
+the Devices and portray the Works of Nature; imitate did I say?
+nay excel, while we form to ourselves Things not in being,
+exhibit Things absent, and represent Things past: That we
+recreate our Minds and delight our Ears with melodious Sounds,
+attemperate the inconstant Undulations of the Air to musical
+Tunes, add a pleasant Voice to a sapless Log and draw a sweet
+Eloquence from a rigid Metal; celebrate our Maker with an
+harmonious Praise, and not unaptly imitate the blessed Choirs of
+Heaven: That we approach and examine the inaccessible Seats of
+the Clouds, the distant Tracts of Land, unfrequented Paths of the
+Sea; lofty Tops of the Mountains, low Bottoms of the Valleys, and
+deep Gulphs of the Ocean: That in Heart we advance to the Saints
+themselves above, yea draw them to us, scale the etherial
+Towers, freely range through the celestial Fields, measure the
+Magnitudes, and determine the Interstices of the Stars, prescribe
+inviolable Laws to the Heavens themselves, and confine the
+wandering Circuits of the Stars within fixed Bounds: Lastly, that
+we comprehend the vast Fabrick of the Universe, admire and
+contemplate the wonderful Beauty of the Divine Workmanship, and
+to learn the incredible Force and Sagacity of our own Minds, by
+certain Experiments, and to acknowledge the Blessings of Heaven
+with pious Affection.--BARROW, ISAAC.
+
+                         _Mathematical Lectures (London, 1734),
+                         pp. 27-30._
+
+
+=1573.= Analytical and graphical treatment of statistics is
+employed by the economist, the philanthropist, the business
+expert, the actuary, and even the physician, with the most
+surprisingly valuable results; while symbolic language involving
+mathematical methods has become a part of wellnigh every large
+business. The handling of pig-iron does not seem to offer any
+opportunity for mathematical application. Yet graphical and
+analytical treatment of the data from long-continued experiments
+with this material at Bethlehem, Pennsylvania, resulted in the
+discovery of the law that fatigue varied in proportion to a
+certain relation between the load and the periods of rest.
+Practical application of this law increased the amount handled by
+each man from twelve and a half to forty-seven tons per day. Such
+study would have been impossible without preliminary acquaintance
+with the simple invariable elements of mathematics.--KARPINSKY, L.
+
+                         _High School Education (New York, 1912),
+                         chap. 6, p. 134._
+
+
+=1574.= They [computation and arithmetic] belong then, it seems,
+to the branches of learning which we are now investigating;--for
+a military man must necessarily learn them with a view to the
+marshalling of his troops, and so must a philosopher with the
+view of understanding real being, after having emerged from the
+unstable condition of becoming, or else he can never become an
+apt reasoner.
+
+That is the fact he replied.
+
+But the guardian of ours happens to be both a military man and a
+philosopher.
+
+Unquestionably so.
+
+It would be proper then, Glaucon, to lay down laws for this
+branch of science and persuade those about to engage in the most
+important state-matters to apply themselves to computation, and
+study it, not in the common vulgar fashion, but with the view of
+arriving at the contemplation of the nature of numbers by the
+intellect itself,--not for the sake of buying and selling as
+anxious merchants and retailers, but for war also, and that the
+soul may acquire a facility in turning itself from what is in the
+course of generation to truth and real being.--PLATO.
+
+                         _Republic [Davis], Bk. 7, p. 525._
+
+
+=1575.= The scientific part of Arithmetic and Geometry would be
+of more use for regulating the thoughts and opinions of men than
+all the great advantage which Society receives from the general
+application of them: and this use cannot be spread through the
+Society by the practice; for the Practitioners, however dextrous,
+have no more knowledge of the Science than the very instruments
+with which they work. They have taken up the Rules as they found
+them delivered down to them by scientific men, without the least
+inquiry after the Principles from which they are derived: and the
+more accurate the Rules, the less occasion there is for inquiring
+after the Principles, and consequently, the more difficult it is
+to make them turn their attention to the First Principles; and,
+therefore, a Nation ought to have both Scientific and Practical
+Mathematicians.--WILLIAMSON, JAMES.
+
+                         _Elements of Euclid with Dissertations
+                         (Oxford, 1781)._
+
+
+=1576.= _Where there is nothing to measure there is nothing to
+calculate_, hence it is impossible to employ mathematics in
+psychological investigations. Thus runs the syllogism compounded
+of an adherence to usage and an apparent truth. As to the latter,
+it is wholly untrue that we may calculate only where we have
+measured. Exactly the opposite is true. Every hypothetically
+assumed law of quantitative combination, even such as is
+recognized as invalid, is subject to calculation; and in case of
+deeply hidden but important matters it is imperative to try on
+hypotheses and to subject the consequences which flow from them
+to precise computation until it is found which one of the
+various hypotheses coincides with experience. Thus the ancient
+astronomers _tried_ eccentric circles, and Kepler _tried_ the
+ellipse to account for the motion of the planets, the latter also
+compared the squares of the times of revolution with the cubes of
+the mean distances before he discovered their agreement. In like
+manner Newton _tried_ whether a gravitation, varying inversely as
+the square of the distance, sufficed to keep the moon in its
+orbit about the earth; if this supposition had failed him, he
+would have tried some other power of the distance, as the fourth
+or fifth, and deduced the corresponding consequences to compare
+them with the observations. Just this is the greatest benefit of
+mathematics, that it enables us to survey the possibilities whose
+range includes the actual, long before we have adequate definite
+experience; this makes it possible to employ very incomplete
+indications of experience to avoid at least the crudest
+errors. Long before the transit of Venus was employed in the
+determination of the sun's parallax, it was attempted to
+determine the instant at which the sun illumines exactly one-half
+of the moon's disk, in order to compute the sun's distance from
+the known distance of the moon from the earth. This was not
+possible, for, owing to psychological reasons, our method of
+measuring time is too crude to give us the desired instant with
+sufficient accuracy; yet the attempt gave us the knowledge that
+the sun's distance from us is at least several hundred times as
+great as that of the moon. This illustration shows clearly that
+even a very imperfect estimate of a magnitude in a case where no
+precise observation is possible, may become very instructive, if
+we know how to exploit it. Was it necessary to know the scale of
+our solar system in order to learn of its order in general? Or,
+taking an illustration from another field, was it impossible to
+investigate the laws of motion until it was known exactly how far
+a body falls in a second at some definite place? Not at all. Such
+determinations of _fundamental measures_ are in themselves
+exceedingly difficult, but fortunately, such investigations form
+a class of their own; our knowledge of _fundamental laws_ does
+not need to wait on these. To be sure, computation invites
+measurement, and every easily observed regularity of certain
+magnitudes is an incentive to mathematical investigation.
+
+                                                 --HERBART, J. F.
+
+                         _Werke [Kehrbach], (Langensalza, 1890),
+                         Bd. 5, p. 97._
+
+
+=1577.= Those who pass for naturalists, have, for the most part,
+been very little, or not at all, versed in mathematicks, if not
+also jealous of them.--BOYLE, ROBERT.
+
+                         _Works (London, 1772), Vol. 3, p. 426._
+
+
+=1578.= However hurtful may have been the incursions of the
+geometers, direct and indirect, into a domain which it is not for
+them to cultivate, the physiologists are not the less wrong in
+turning away from mathematics altogether. It is not only that
+without mathematics they could not receive their due preliminary
+training in the intervening sciences: it is further necessary for
+them to have geometrical and mechanical knowledge, to understand
+the structure and the play of the complex apparatus of the living,
+and especially the animal organism. Animal mechanics, statical and
+dynamical, must be unintelligible to those who are ignorant of
+the general laws of rational mechanics. The laws of equilibrium
+and motion are ... absolutely universal in their action, depending
+wholly on the energy, and not at all on the nature of the forces
+considered: and the only difficulty is in their numerical
+application in cases of complexity. Thus, discarding all idea of a
+numerical application in biology, we perceive that the general
+theorems of statics and dynamics must be steadily verified in the
+mechanism of living bodies, on the rational study of which they
+cast an indispensable light. The highest orders of animals act in
+repose and motion, like any other mechanical apparatus of a
+similar complexity, with the one difference of the mover, which
+has no power to alter the laws of motion and equilibrium. The
+participation of rational mechanics in positive biology is thus
+evident. Mechanics cannot dispense with geometry; and beside, we
+see how anatomical and physiological speculations involve
+considerations of form and position, and require a familiar
+knowledge of the principal geometrical laws which may cast light
+upon these complex relations.--COMTE, A.
+
+                         _Positive Philosophy [Martineau], Bk. 5,
+                         chap. 1._
+
+
+=1579.= In mathematics we find the primitive source of
+rationality; and to mathematics must the biologists resort for
+means to carry on their researches.--COMTE, A.
+
+                         _Positive Philosophy [Martineau], Bk. 5,
+                         chap. 1._
+
+
+=1580.= In this school [of mathematics] must they [biologists]
+learn familiarly the real characters and conditions of scientific
+evidence, in order to transfer it afterwards to the province of
+their own theories. The study of it here, in the most simple and
+perfect cases, is the only sound preparation for its recognition
+in the most complex.
+
+The study is equally necessary for the formation of intellectual
+habits; for obtaining an aptitude in forming and sustaining
+positive abstractions, without which the comparative method
+cannot be used in either anatomy or physiology. The abstraction
+which is to be the standard of comparison must be first clearly
+formed, and then steadily maintained in its integrity, or the
+analysis becomes abortive: and this is so completely in the
+spirit of mathematical combinations, that practice in them is the
+best preparation for it. A student who cannot accomplish the
+process in the more simple case may be assured that he is not
+qualified for the higher order of biological researches, and must
+be satisfied with the humbler office of collecting materials for
+the use of minds of another order. Hence arises another use of
+mathematical training;--that of testing and classifying minds, as
+well as preparing and guiding them. Probably as much good would
+be done by excluding the students who only encumber the science
+by aimless and desultory inquiries, as by fitly instituting those
+who can better fulfill its conditions.--COMTE, A.
+
+                         _Positive Philosophy [Martineau], Bk. 5,
+                         chap. 1._
+
+
+=1581.= There seems no sufficient reason why the use of
+scientific fictions, so common in the hands of geometers, should
+not be introduced into biology, if systematically employed, and
+adopted with sufficient sobriety. In mathematical studies, great
+advantages have arisen from imagining a series of hypothetical
+cases, the consideration of which, though artificial, may aid the
+clearing up of the real subject, or its fundamental elaboration.
+This art is usually confounded with that of hypotheses; but it is
+entirely different; inasmuch as in the latter case the solution
+alone is imaginary; whereas in the former, the problem itself is
+radically ideal. Its use can never be in biology comparable to
+what it is in mathematics: but it seems to me that the abstract
+character of the higher conceptions of comparative biology
+renders them susceptible of such treatment. The process will be
+to intercalate, among different known organisms, certain purely
+fictitious organisms, so imagined as to facilitate their
+comparison, by rendering the biological series more homogeneous
+and continuous: and it might be that several might hereafter meet
+with more or less of a realization among organisms hitherto
+unexplored. It may be possible, in the present state of our
+knowledge of living bodies, to conceive of a new organism capable
+of fulfilling certain given conditions of existence. However that
+may be, the collocation of real cases with well-imagined ones,
+after the manner of geometers, will doubtless be practised
+hereafter, to complete the general laws of comparative anatomy
+and physiology, and possibly to anticipate occasionally the
+direct exploration. Even now, the rational use of such an
+artifice might greatly simplify and clear up the ordinary system

@@ -1,0 +1,447 @@
+[Illustration: FIG. 14--PRESSURE = 0.001 MM. = 1.3 M.]
+
+On passing the current with the concave pole negative, the small veins
+rotate in such a manner as to prove that at this high exhaustion a
+stream of molecules issues from the lower hole in the diaphragm, while
+at the same time a stream of freshly charged molecules is forced by
+the negative pole through the upper hole. The experiment speaks for
+itself, showing as forcibly as an experiment can show that so far the
+theory is right.
+
+This view of the ultra-gaseous state of matter is advanced merely as a
+working hypothesis, which, in the present state of our knowledge, may
+be regarded as a necessary help to be retained only so long as it
+proves useful. In experimental research early hypotheses have
+necessarily to be modified, or adjusted, or perhaps entirely
+abandoned, in deference to more accurate observations. Dumas said,
+truly, that hypotheses were like crutches, which we throw away when we
+are able to walk without them.
+
+
+RADIANT MATTER AND "RADIANT ELECTRODE MATTER."
+
+In recording my investigations on the subject of radiant matter and
+the state of gaseous residues in high vacua under electrical strain, I
+must refer to certain attacks on the views I have propounded. The most
+important of these questionings are contained in a volume of "Physical
+Memoirs," selected and translated from foreign sources under the
+direction of the Physical Society (vol. i., part 2). This volume
+contains two memoirs, one by Hittorff on the "Conduction of
+Electricity in Gases," and the other by Puluj on "Radiant Electrode
+Matter and the So-called Fourth State." Dr. Puluj's paper concerns me
+most, as the author has set himself vigorously to the task of opposing
+my conclusions. Apart from my desire to keep controversial matter out
+of an address of this sort, time would not permit me to discuss the
+points raised by my critic; I will, therefore, only observe in passing
+that Dr. Puluj has no authority for linking my theory of a fourth
+state of matter with the highly transcendental doctrine of four
+dimensional space.
+
+Reference has already been made to the mistaken supposition that I
+have pronounced the thickness of the dark space in a highly exhausted
+tube through which an induction spark is passed to be identical with
+the natural mean free path of the molecules of gas at that exhaustion.
+I could quote numerous passages from my writings to show that what I
+meant and said was the mean free path as amplified and modified by the
+electrification.[2] In this view I am supported by Prof. Schuster,[3]
+who, in a passage quoted below, distinctly admits that the mean free
+path of an electrified molecule may differ from that of one in its
+ordinary state.
+
+[Footnote 2: "The thickness of the dark space surrounding the negative
+pole is the measure of the mean length of the path of the gaseous
+molecules between successive collisions. The electrified molecules are
+projected from the negative pole with enormous velocity, varying,
+however, with the degree of exhaustion and intensity of the induction
+current."--_Phil. Trans._, part i., 1879, par. 530.
+
+"The extra velocity with which the molecules rebound from the excited
+negative pole keeps back the more slowly moving molecules which are
+advancing toward the pole. The conflict occurs at the boundary of the
+dark space, where the luminous margin bears witness to the energy of
+the discharge."--_Phil. Trans._, part i., 1879, par. 507.
+
+"Here, then, we see the induction spark actually illuminating the
+lines of molecular pressure caused by the excitement of the negative
+pole."--_R.I. Lecture_, Friday, April 4, 1879.
+
+"The electrically excited negative pole supplies the _force majeure_,
+which entirely, or partially, changes into a rectilinear action the
+irregular vibration in all directions."--_Proc. Roy. Soc._, 1880. page
+472.
+
+"It is also probable that the absolute velocity of the molecules
+is increased so as to make the mean velocity with which they
+leave the negative pole greater than that of ordinary gaseous
+molecules."--_Phil. Trans._, part ii., 1881, par. 719.]
+
+[Footnote 3: "It has been suggested that the extent of the dark space
+represents the mean free path of the molecules.... It has been pointed
+out by others that the extent of the dark space is really considerably
+greater than the mean free path of the molecules, calculated according
+to the ordinary way. My measurements make it nearly twenty times as
+great. This, however, is not in itself a fatal objection; for, as we
+have seen, the mean free path of an ion may be different from that of
+a molecule moving among others."--Schuster, _Proc. Roy. Soc_., xlvii.,
+pp. 556-7.]
+
+The great difference between Puluj and me lies in his statement
+that[4] "the matter which fills the dark space consists of mechanical
+detached particles of the electrodes which are charged with statically
+negative electricity, and move progressively in a straight direction."
+
+[Footnote 4: "Physical Memoirs," part ii., vol. i., p. 244. The
+paragraph is italicized in the original.]
+
+To these mechanically detached particles of the electrodes, "of
+different sizes, often large lumps,"[5] Puluj attributes all the
+phenomena of heat, force and phosphorescence that I from time to time
+have described in my several papers.
+
+[Footnote 5: _Loc. cit._, p. 242.]
+
+Puluj objects energetically to my definition "Radiant Matter," and
+then proposes in its stead the misleading term "Radiant Electrode
+Matter." I say "misleading," for while both his and my definitions
+equally admit the existence of "Radiant Matter," he drags in the
+hypothesis that the radiant matter is actually the disintegrated
+material of the poles.
+
+Puluj declares that the phenomena I have described in high vacua are
+produced by his irregularly shaped lumps of radiant electrode matter.
+My contention is that they are produced by radiant matter of the
+residual molecules of gas.
+
+Were it not that in this case we can turn to experimental evidence, I
+would not mention the subject to you. On such an occasion as this
+controversial matter must have no place; therefore I content myself at
+present by showing a few novel experiments which demonstratively prove
+my case.
+
+Let me first deal with the radiant electrode hypothesis. Some metals,
+it is well known, such as silver, gold or platinum, when used for the
+negative electrode in a vacuum tube, volatilize more or less rapidly,
+coating any object in their neighborhood with a very even film. On
+this depends the well known method of electrically preparing small
+mirrors, etc. Aluminum, however, seems exempt from this volatility.
+Hence, and for other reasons, it is generally used for electrodes.
+
+If, then, the phenomena in a high vacuum are due to the "electrode
+matter," the more volatile the metal used, the greater should be the
+effect.[6]
+
+[Footnote 6: In a valuable paper read before the Royal Society,
+November 20, 1890, by Professors Liveing and Dewar, on finely divided
+metallic dust thrown off the surface of various electrodes, in vacuum
+tubes, they find not only that dust, however fine, suspended in a gas
+will not act like gaseous matter in becoming luminous with its
+characteristic spectrum in an electric discharge, but that it is
+driven with extraordinary rapidity out of the course of the
+discharge.]
+
+Here is a tube (Fig. 15, P=0.00068 millimeter, or 0.9 M), with two
+negative electrodes, AA', so placed as to protect two luminous spots
+on the phosphorescent glass of the tube. One electrode, A', is of pure
+silver, a volatile metal; the other, A, is of aluminum, practically
+non-volatile. A quantity of "electrode matter" will be shot off from
+the silver pole, and practically none from the aluminum pole; but you
+see that in each case the phosphorescence, CC', is identical. Had the
+radiant electrode matter been the active agent, the more intense
+phosphorescence would proceed from the more volatile pole.
+
+A drawing of another experimental piece of apparatus is shown in Fig.
+16. A pear-shaped bulb of German glass has near the small end an inner
+concave negative pole, A, of pure silver, so mounted that its
+inverted image is thrown upon the opposite end of the tube. In front
+of this pole is a screen of mica, C, having a small hole in the
+center, so that only a narrow pencil of rays from the silver pole can
+pass through, forming a bright spot, D, at the far end of the bulb.
+The exhaustion is about the same as in the previous tube, and the
+current has been allowed to pass continuously for many hours so as to
+drive off a certain portion of the silver electrode; and upon
+examination it is found that the silver has all been deposited in the
+immediate neighborhood of the pole; while the spot, D, at the far end
+of the tube, that has been continuously glowing with phosphorescent
+light, is practically free from silver.
+
+[Illustration: FIG. 15.--PRESSURE = 0.00068 MM. = 0.9 M.]
+
+The experiment is too lengthy for me to repeat it here, so I shall not
+attempt it; but I have on the table the results for examination.
+
+The identity of action of silver and aluminum in the first case, and
+the non-projection of silver in this second instance, are in
+themselves sufficient to condemn Dr. Puluj's hypotheses, since they
+prove that phosphorescence is independent of the material of the
+negative electrode. In front of me is a set of tubes that to my mind
+puts the matter wholly beyond doubt. The tubes contain no inside
+electrodes with the residual gaseous molecules; and with them I will
+proceed to give some of the most striking radiant-matter experiments
+without any inner metallic poles at all.
+
+[Illustration: FIG. 16.--PRESSURE = 0.00068 MM. = 0.9 M.]
+
+In all these tubes the electrodes, which are of silver, are on the
+outside, the current acting through the body of the glass. The first
+tube contains gas only slightly rarefied and at the stratification
+stage. It is simply a closed glass cylinder, with a coat of silver
+deposited outside at each end, and exhausted to a pressure of 2
+millimeters. The outline of the tube is shown in Fig. 17. I pass a
+current, and, as you see, the stratifications, though faint, are
+perfectly formed.
+
+[Illustration: FIG. 17.--PRESSURE = 2 MM.]
+
+The next tube, seen in outline in Fig. 18, shows the dark space. Like
+the first it is a closed cylinder of glass, with a central indentation
+forming a kind of hanging pocket and almost dividing the tube into two
+compartments. This pocket, silvered on the air side, forms a hollow
+glass diaphragm that can be connected electrically from the outside,
+forming the negative pole, A; the two ends of the tube, also outwardly
+silvered, form the positive poles, B B. I pass the current, and you
+will see the dark space distinctly visible. The pressure here is 0.076
+millimeter, or 100 M. The next stage, dealing with more rarefied
+matter, is that of phosphorescence. Here is an egg-shaped bulb, shown
+in Fig 19, containing some pure yttria and a few rough rubies. The
+positive electrode, B, is on the bottom of the tube under the
+phosphorescent material; the negative, A, is on the upper part of the
+tube. See how well the rubies and yttria phosphorescence shows under
+molecular bombardment, at an internal pressure of 0.00068 millimeter,
+or 0.9 M.
+
+[Illustration: FIG. 18.--PRESSURE = 0.076 MM. = 100 M.]
+
+A shadow of an object inside a bulb can also be projected on to the
+opposite wall of the bulb by means of an outside pole. A mica cross is
+supported in the middle of the bulb (Fig. 20), and on connecting a
+small silvered patch, A, on one side of the bulb with the negative
+pole of the induction coil, and putting the positive pole to another
+patch of silver, B, at the top, the opposite side of the bulb glows
+with a phosphorescent light, on which the black shadow of the cross
+seems sharply cut out. Here the internal pressure is 0.00068
+millimeter, or 0.9 M.
+
+[Illustration: FIG. 19.--PRESSURE = 0.00068 MM. = 0.9 M.]
+
+[Illustration: FIG. 20.--PRESSURE = 0.00068 MM. = 0.9 M.]
+
+[Illustration: FIG. 21.--PRESSURE = 0.001 MM. = 1.3 M.]
+
+Passing to the next phenomenon, I proceed to show the production of
+mechanical energy in a tube without internal poles. It is shown in
+Fig. 21 (P = 0.001 millimeter, or 1.3 M). It contains a light wheel of
+aluminum, carrying vanes of transparent mica, the poles, A B, being in
+such a position outside that the molecular focus falls upon the vanes
+on one side only. The bulb is placed in the lantern and the image is
+projected on the screen; if I now pass the current, you see the wheels
+rotate rapidly, reversing in direction as I reverse the current.
+
+Here is an apparatus (Fig. 22) which shows that the residual gaseous
+molecules when brought to a focus produce heat. It consists of a glass
+tube with a bulb blown at one end and a small bundle of carbon wool,
+C, fixed in the center, and exhausted to a pressure of 0.000076
+millimeter, or 0.1 M. The negative electrode, A, is formed by coating
+part of the outside of the bulb with silver, and it is in such a
+position that the focus of rays falls upon the carbon wool. The
+positive electrode, B, is an outer coating at the other end of the
+tube. I pass the current, and those who are close may see the bright
+sparks of carbon raised to incandescence by the impact of the
+molecular stream.
+
+You thus have seen that all the old "radiant matter" effects can be
+produced in tubes containing no metallic electrodes to volatilize. It
+may be suggested that the sides of the tube in contact with the
+outside poles become electrodes in this case, and that particles of
+the glass itself may be torn off and projected across, and so produce
+the effects. This is a strong argument, which fortunately can be
+tested by experiment. In the case of this tube (Fig. 23, P = 0.00068
+millimeter, or 0.9 M), the bulb is made of lead glass phosphorescing
+blue under molecular bombardment. Inside the bulb, completely covering
+the part that would form the negative pole, A, I have placed a
+substantial coat of yttria, so as to interpose a layer of this earth
+between the glass and the inside of the tube. The negative and
+positive poles are silver disks on the outside of the bulb, A being
+the negative and B the positive poles. If, therefore, particles are
+torn off and projected across the tube to cause phosphorescence, these
+particles will not be particles of glass, but of yttria; and the spot
+of phosphorescent light, C, on the opposite side of the bulb will not
+be the dull blue of lead glass, but the golden yellow of yttria. You
+see there is no such indication; the glass phosphoresces with its
+usual blue glow, and there is no evidence that a single particle of
+yttria is striking it.
+
+[Illustration: Fig. 22.--Pressure = 0.000076 MM. = 0.1 M.]
+
+[Illustration: Fig. 23.--Pressure = 0.00068 MM. = 0.9 M.]
+
+Witnessing these effects I think you will agree I am justified in
+adhering to my original theory, that the phenomena are caused by the
+radiant matter of the residual gaseous molecules, and certainly not by
+the torn-off particles of the negative electrode.
+
+
+PHOSPHORESCENCE IN HIGH VACUA.
+
+I have already pointed out that the molecular motions rendered visible
+in a vacuum tube are not the motions of molecules under ordinary
+conditions, but are compounded of these ordinary or kinetic motions
+and the extra motion due to the electrical impetus.
+
+Experiments show that in such tubes a few molecules may traverse more
+than a hundred times the _mean_ free path, with a correspondingly
+increased velocity, until they are arrested by collisions. Indeed, the
+molecular free path may vary in one and the same tube, and at one and
+the same degree of exhaustion.
+
+Very many bodies, such as ruby, diamond, emerald, alumina, yttria,
+samaria, and a large class of earthy oxides and sulphides,
+phosphoresce in vacuum tubes when placed in the path of the stream of
+electrified molecules proceeding from the negative pole. The
+composition of the gaseous residue present does not affect
+phosphorescence; thus, the earth yttria phosphoresces well in the
+residual vacua of atmospherical air, of oxygen, nitrogen, carbonic
+anhydride, hydrogen, iodine, sulphur and mercury.
+
+With yttria in a vacuum tube, the point of maximum phosphorescence, as
+I have already pointed out, lies on the margin of the dark space. The
+diagram (Fig. 24) shows approximately the degree of phosphorescence in
+different parts of a tube at an internal pressure of 0.25 millimeter,
+or 330 M. On the top you see the positive and negative poles, A and B,
+the latter having the outline of the dark space shown by a dotted
+line, C. The curve, D E F, shows the relative intensities of the
+phosphorescence at different distances from the negative pole, and the
+position inside the dark space at which phosphorescence does not
+occur. The height of the curve represents the degree of
+phosphorescence. The most decisive effects of phosphorescence are
+reached by making the tube so large that the walls are outside the
+dark space, while the material submitted to experiment is placed just
+at the edge of the dark space.
+
+Hitherto I have spoken only of the phosphorescence of substances
+placed under the negative pole. But from numerous experiments I find
+that bodies will phosphoresce in actual contact with the negative
+pole.
+
+[Illustration: FIG. 24--PRESSURE = 0.25 MM. = 330 M.]
+
+This is only a temporary phenomenon, and ceases entirely when the
+exhaustion is pushed to a very high point. The experiment is one
+scarcely possible to exhibit to an audience, so I must content myself
+with describing it. A U-tube, shown in Fig. 25, has a flat aluminum
+pole, in the form of a disk, at each end, both coated with a paint of
+phosphorescent yttria. As the rarefaction approaches about 0.5
+millimeter the surface of the negative pole, A, becomes faintly
+phosphorescent. On continuing the exhaustion this luminosity rapidly
+diminishes, not only in intensity but in extent, contracting more and
+more from the edge of the disk, until ultimately it is visible only as
+a bright spot in the center. This fact does not prop a recent theory,
+that as the exhaustion gets higher the discharge leaves the center of
+the pole and takes place only between the edge and the walls of the
+tube.
+
+[Illustration: FIG. 25.]
+
+If the exhaustion is further pushed, then, at the point where the
+surface of the negative pole ceases to be luminous, the material on
+the positive pole, B, commences to phosphoresce, increasing in
+intensity until the tube refuses to conduct, its greatest brilliancy
+being just short of this degree of exhaustion. The probable
+explanation is that the vagrant molecules I introduce in the next
+experiment, happening to come within the sphere of influence of the
+positive pole, rush violently to it, and excite phosphorescence in the
+yttria, while losing their negative charge.
+
+       *       *       *       *       *
+
+[Continued from SUPPLEMENT, No. 794, page 12690.]
+
+
+
+
+GASEOUS ILLUMINANTS.[1]
+
+[Footnote 1: Lectures recently delivered before the Society of Arts,
+London. From the _Journal_ of the Society.]
+
+By Prof. VIVIAN B. LEWES.
+
+
+V.
+
+Having now brought before you the various methods by which ordinary
+coal gas can be enriched, so as to give an increased luminosity to the
+flame, I wish now to discuss the methods by which the gas can be
+burnt, in order to yield the greatest amount of light, and also the
+compounds which are produced during combustion.
+
+In the first lecture, while discussing the theory of luminous flames,
+I pointed out that, in an atmospheric burner, it was not the oxygen of
+the air introduced combining with and burning up the hydrocarbons, and
+so preventing the separation of incandescent carbon, which gave the
+non-luminous flame, but the diluting action of the nitrogen, which
+acted by increasing the temperature at which the hydrocarbons are
+broken up, and carbon liberated, a fact which was proved by
+observation that heating the mixture of gas and air again restored the
+luminosity of the flame. This experiment clearly shows that
+temperature is a most important factor in the illuminating value of a
+flame, and this is still further shown by a study of the action of the
+diluents present in coal gas, the non-combustible ones being far more
+deleterious than the combustible, as they not only dilute, but
+withdraw heat.
+
+Anything which will increase the temperature of the flame will also
+increase the illuminating power, provided, of course, that the
+increase in temperature is not obtained at the expense of the too
+rapid combustion of the hydrocarbons.
+
+As has been shown in the experiments relating to the action of
+diluents on flame, already quoted, oxygen, when added to coal gas,
+increases its illuminating value to a marked and increasing degree,
+until a certain percentage has been added, after which the
+illuminating power is rapidly decreased, until the point is reached
+when the mixture becomes explosive. This is due to the fact that the
+added oxygen increases the temperature of the flame by doing the work
+of the air, but without the cooling and diluting action of the
+nitrogen; when, however, a certain proportion is added, it begins to
+burn up the heavy hydrocarbons, and although the temperature goes on
+increasing, the light-giving power is rapidly diminished by the
+diminution of the amount of free carbon in the flame.
+
+It has been proposed to carburet and enrich poor coal gas by
+admixture with it of an oxy-oil gas made under Tatham's patents, in
+which crude oils are cracked at a comparatively low temperature, and
+are there mixed with from 12 to 24 per cent. of oxygen gas. Oil gas
+made at low temperatures, _per se_, is of little use as an illuminant,
+as it burns with a smoky flame, and does not travel well, but when
+mixed with a certain amount of oxygen, it gives a very brilliant white
+light, and no smoke, while as far as experiments have at present gone,
+its traveling powers are much improved.
+
+At first sight it seems a dangerous experiment to mix a heavy
+hydrocarbon gas with oxygen, but it must be remembered that although
+hydrogen and carbon monoxide only need to be mixed with half their own
+volume of oxygen to give a most explosive mixture, yet as the number
+of carbon and hydrogen atoms in the combustible gas increase, so does
+the amount of oxygen needed to give explosion. Thus coal gas needs
+rather more than its own volume, and ethylene three times its volume,
+to give the maximum explosive results, while these mixtures begin to
+be explosive when 10 per cent. of oxygen is mixed with hydrogen or
+water gas, 30 per cent. with coal gas, and over 50 per cent. of oil
+gas of the character used. It is claimed that if this gas was used as
+an enricher of coal gas, 5 per cent. of it would increase the
+luminosity of 16-candle gas by about 40 per cent.
+
+Oxygen has been obtained for some time past from the air on a
+commercial scale by the Brin process, and at the present time there
+seems every prospect of our being able to obtain oxygen at a rate of
+about 3s. 6d. per 1,000 cubic feet. Another process by which this
+important result can also be obtained was first introduced by Tessie
+du Mothay, and has now just been revived. It consists of passing
+alternate currents of steam and air over sodic manganate heated to
+dull redness in an iron tube; the process has never been commercially
+successful, for the reason that the contents of the tube fused, and
+flowing over the surface of the iron rapidly destroyed the tubes or
+retorts, and also as soon as fusion took place, the mass became so
+dense that it had little or no action on the air passing over it. Now,
+however, this difficulty has been partly overcome by so preparing the
+manganate as to prevent fusion, and to keep it in a spongy state,

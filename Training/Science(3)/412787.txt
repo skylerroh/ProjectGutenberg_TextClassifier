@@ -1,0 +1,427 @@
+stoppered weighing tube or weighing-bottle.
+
+
+STANDARDIZATION
+
+PROCEDURE.--Clean carefully the outside of a weighing-tube, or
+weighing-bottle, containing the pure sodium carbonate, taking care
+to handle it as little as possible after wiping. Weigh the tube
+accurately to 0.0001 gram, and record the weight in the notebook. Hold
+the tube over the top of a beaker (200-300 cc.) and cautiously remove
+the stopper, making sure that no particles fall from it or from the
+tube elsewhere than in the beaker. Pour out from the tube a portion
+of the carbonate, replace the stopper and determine approximately how
+much has been removed. Continue this procedure until 1.00 to 1.10
+grams has been taken from the tube. Then weigh the tube accurately
+and record the weight under the first weight in the notebook.
+The difference in the two weights is the weight of the carbonate
+transferred to the beaker. Proceed in the same way to transfer a
+second portion of the carbonate from the tube to another beaker of
+about the same size as the first. The beakers should be labeled and
+plainly marked to correspond with the entries in the notebook.
+
+Pour over the carbonate in each beaker about 80 cc. of water, stir
+until solution is complete, and add two drops of methyl orange
+solution. Fill the burettes with the standard acid and alkali
+solutions, noting the initial readings of the burettes and temperature
+of the solutions. Run in acid from the burette, stirring and avoiding
+loss by effervescence, until the solution has become pink. Wash down
+the sides of the beaker with a !little! water from a wash-bottle, and
+then run in alkali from the other burette until the pink is replaced
+by yellow; then finish the titration as described on page 37. Note the
+readings of the burettes after the proper interval, and record them in
+the notebook. Repeat the procedure, using the second portion of sodium
+carbonate. Apply the necessary calibration corrections to the volumes
+of the solutions used, and correct for temperature if necessary.
+
+From the data obtained, calculate the volume of the hydrochloric
+acid solution which is equivalent to the volume of sodium hydroxide
+solution used in this titration. Subtract this volume from the volume
+of hydrochloric acid. The difference represents the volume of acid
+used to react with the sodium carbonate. Divide the weight of sodium
+carbonate by this volume in cubic centimeters, thus obtaining the
+weight of sodium carbonate equivalent to each cubic centimeter of the
+acid.
+
+From this weight it is possible to calculate the corresponding weight
+of HCl in each cubic centimeter of the acid, and in turn the relation
+of the acid to the normal.
+
+If, however, it is recalled that normal solutions are equivalent to
+each other, it will be seen that the same result may be more readily
+reached by dividing the weight in grams of sodium carbonate per cubic
+centimeter just found by titration by the weight which would be
+contained in the same volume of a normal solution of sodium carbonate.
+A normal solution of sodium carbonate contains 53.0 grams per liter,
+or 0.0530 gram per cc. (see page 29). The relation of the acid
+solution to the normal is, therefore, calculated by dividing the
+weight of the carbonate to which each cubic centimeter of the acid is
+equivalent by 0.0530. The standardization must be repeated until the
+values obtained agree within, at most, two parts in one thousand.
+
+When the standard of the acid solution has been determined, calculate,
+from the known ratio of the two solutions, the relation of the sodium
+hydroxide solution to a normal solution (Notes 1 and 2).
+
+[Note 1: In the foregoing procedure the acid solution is standardized
+and the alkali solution referred to this standard by calculation. It
+is equally possible, if preferred, to standardize the alkali solution.
+The standards in a common use for this purpose are purified
+oxalic acid (H_{2}C_{2}O_{4}.2H_{2}O), potassium acid oxalate
+(KHC_{2}O_{4}.H_{2}O or KHC_{2}O_{4}), potassium tetroxalate
+(KHC_{2}O_{4}.H_{2}C_{2}O_{4}.2H_{2}O), or potassium acid tartrate
+(KHC_{4}O_{6}), with the use of a suitable indicator. The oxalic acid
+and the oxalates should be specially prepared to insure purity,
+the main difficulty lying in the preservation of the water of
+crystallization.
+
+It should be noted that the acid oxalate and the acid tartrate each
+contain one hydrogen atom replaceable by a base, while the tetroxalate
+contains three such atoms and the oxalic acid two. Each of the two
+salts first named behave, therefore, as monobasic acids, and the
+tetroxalate as a tribasic acid.]
+
+[Note 2: It is also possible to standardize a hydrochloric acid
+solution by precipitating the chloride ions as silver chloride and
+weighing the precipitate, as prescribed under the analysis of sodium
+chloride to be described later. Sulphuric acid solutions may be
+standardized by precipitation of the sulphate ions as barium sulphate
+and weighing the ignited precipitate, but the results are not above
+criticism on account of the difficulty in obtaining large precipitates
+of barium sulphate which are uncontaminated by inclosures or are not
+reduced on ignition.]
+
+
+
+
+DETERMINATION OF THE TOTAL ALKALINE STRENGTH OF SODA ASH
+
+
+Soda ash is crude sodium carbonate. If made by the ammonia process it
+may contain also sodium chloride, sulphate, and hydroxide; when made
+by the Le Blanc process it may contain sodium sulphide, silicate, and
+aluminate, and other impurities. Some of these, notably the hydroxide,
+combine with acids and contribute to the total alkaline strength,
+but it is customary to calculate this strength in terms of sodium
+carbonate; i.e., as though no other alkali were present.
+
+PROCEDURE.--In order to secure a sample which shall represent the
+average value of the ash, it is well to take at least 5 grams. As this
+is too large a quantity for convenient titration, an aliquot portion
+of the solution is measured off, representing one fifth of the entire
+quantity. This is accomplished as follows: Weigh out on an analytical
+balance two samples of soda ash of about 5 grams each into beakers
+of about 500 cc. capacity. (The weighings need be made to centigrams
+only.) Dissolve the ash in 75 cc. of water, warming gently, and filter
+off the insoluble residue; wash the filter by filling it at least
+three times with distilled water, and allowing it to drain, adding the
+washings to the main filtrate. Cool the filtrate to approximately the
+standard temperature of the laboratory, and transfer it to a 250 cc.
+measuring flask, washing out the beaker thoroughly. Add distilled
+water of laboratory temperature until the lowest point of the meniscus
+is level with the graduation on the neck of the flask and remove any
+drops of water that may be on the neck above the graduation by means
+of a strip of filter paper; make the solution thoroughly uniform by
+pouring it out into a dry beaker and back into the flask several
+times. Measure off 50 cc. of the solution in a measuring flask, or
+pipette, either of which before use should, unless they are dry on the
+inside, be rinsed out with at least two small portions of the soda ash
+solution to displace any water.
+
+If a flask is used, fill it to the graduation with the soda ash
+solution and remove any liquid from the neck above the graduation with
+filter paper. Empty it into a beaker, and wash out the small flask,
+unless it is graduated for !delivery!, using small quantities of
+water, which are added to the liquid in the beaker. A second 50 cc.
+portion from the main solution should be measured off into a second
+beaker. Dilute the solutions in each beaker to 100 cc., add two drops
+of a solution of methyl orange (Note 1) and titrate for the alkali
+with the standard hydrochloric acid solution, using the alkali
+solution to complete the titration as already prescribed.
+
+From the volumes of acid and alkali employed, corrected for burette
+errors and temperature changes, and the data derived from the
+standardization, calculate the percentage of alkali present, assuming
+it all to be present as sodium carbonate (Note 2).
+
+[Note 1: The hydrochloric acid sets free carbonic acid which is
+unstable and breaks down into water and carbon dioxide, most of which
+escapes from the solution. Carbonic acid is a weak acid and, as such,
+does not yield a sufficient concentration of H^{+} ions to cause the
+indicator to change to a pink (see page 32).
+
+The chemical changes involved may be summarized as follows:
+
+2H^{+}, 2Cl^{-} + 2Na^{+}, CO_{3}^{--} --> 2Na^{+}, 2Cl^{-} +
+[H_{2}CO_{3}] --> H_{2}O + CO_{2}]
+
+[Note 2: A determination of the alkali present as hydroxide in soda
+ash may be determined by precipitating the carbonate by the addition
+of barium chloride, removing the barium carbonate by filtration, and
+titrating the alkali in the filtrate.
+
+The caustic alkali may also be determined by first using
+phenolphthalein as an indicator, which will show by its change from
+pink to colorless the point at which the caustic alkali has been
+neutralized and the carbonate has been converted to bicarbonate, and
+then adding methyl orange and completing the titration. The amount of
+acid necessary to change the methyl orange to pink is a measure of one
+half of the carbonate present. The results of the double titration
+furnish the data necessary for the determination of the caustic alkali
+and of the carbonate in the sample.]
+
+
+
+
+DETERMINATION OF THE ACID STRENGTH OF OXALIC ACID
+
+
+PROCEDURE.--Weigh out two portions of the acid of about 1 gram
+each. Dissolve these in 50 cc. of warm water. Add two drops of
+phenolphthalein solution, and run in alkali from the burette until the
+solution is pink; add acid from the other burette until the pink is
+just destroyed, and then add 0.3 cc. (not more) in excess. Heat the
+solution to boiling for three minutes. If the pink returns during the
+boiling, discharge it with acid and again add 0.3 cc. in excess and
+repeat the boiling (Note 1). If the color does not then reappear, add
+alkali until it does, and a !drop or two! of acid in excess and boil
+again for one minute (Note 2). If no color reappears during this time,
+complete the titration in the hot solution. The end-point should be
+the faintest visible shade of color (or its disappearance), as the
+same difficulty would exist here as with methyl orange if an attempt
+were made to match shades of pink.
+
+From the corrected volume of alkali required to react with the
+oxalic acid, calculate the percentage of the crystallized acid
+(H_{2}C_{2}O_{4}.2H_{2}O) in the sample (Note 3).
+
+[Note 1: All commercial caustic soda such as that from which the
+standard solution was made contains some sodium carbonate. This reacts
+with the oxalic acid, setting free carbonic acid, which, in turn,
+forms sodium bicarbonate with the remaining carbonate:
+
+H_{2}CO_{3} + Na_{2}CO_{3} --> 2HNaCO_{3}.
+
+This compound does not hydrolyze sufficiently to furnish enough OH^{-}
+ions to cause phenolphthalein to remain pink; hence, the color of
+the indicator is discharged in cold solutions at the point at which
+bicarbonate is formed. If, however, the solution is heated to boiling,
+the bicarbonate loses carbon dioxide and water, and reverts to sodium
+carbonate, which causes the indicator to become again pink:
+
+2HNaCO_{3} --> H_{2}O + CO_{2} + Na_{2}CO_{3}.
+
+By adding successive portions of hydrochloric acid and boiling, the
+carbonate is ultimately all brought into reaction.
+
+The student should make sure that the difference in behavior of the
+two indicators, methyl orange and phenolphthalein, is understood.]
+
+[Note 2: Hydrochloric acid is volatilized from aqueous solutions,
+except such as are very dilute. If the directions in the procedure
+are strictly followed, no loss of acid need be feared, but the amount
+added in excess should not be greater than 0.3-0.4 cc.]
+
+[Note 3: Attention has already been called to the fact that the color
+changes in the different indicators occur at varying concentrations
+of H^{+} or OH^{-} ions. They do not indicate exact theoretical
+neutrality, but a particular indicator always shows its color change
+at a particular concentration of H^{+} or OH^{-} ions. The results
+of titration with a given indicator are, therefore, comparable. As a
+matter of fact, a small error is involved in the procedure as outlined
+above. The comparison of the acid and alkali solutions was made, using
+methyl orange as an indicator, while the titration of the oxalic acid
+is made with the use of phenolphthalein. For our present purposes the
+small error may be neglected but, if time permits, the student is
+recommended to standardize the alkali solution against one of the
+substances named in Note 1, page 41, and also to ascertain
+the comparative value of the acid and alkali solutions, using
+phenolphthalein as indicator throughout, and conducting the titrations
+as described above. This will insure complete accuracy.]
+
+
+
+
+II. OXIDATION PROCESSES
+
+GENERAL DISCUSSION
+
+
+In the oxidation processes of volumetric analysis standard solutions
+of oxidizing agents and of reducing agents take the place of the acid
+and alkali solutions of the neutralization processes already studied.
+Just as an acid solution was the principal reagent in alkalimetry, and
+the alkali solution used only to make certain of the end-point, the
+solution of the oxidizing agent is the principal reagent for the
+titration of substances exerting a reducing action. It is, in general,
+true that oxidizable substances are determined by !direct! titration,
+while oxidizing substances are determined by !indirect! titration.
+
+The important oxidizing agents employed in volumetric solutions are
+potassium bichromate, potassium permangenate, potassium ferricyanide,
+iodine, ferric chloride, and sodium hypochlorite.
+
+The important reducing agents which are used in the form of standard
+solutions are ferrous sulphate (or ferrous ammonium sulphate), oxalic
+acid, sodium thiosulphate, stannous chloride, arsenious acid, and
+potassium cyanide. Other reducing agents, as sulphurous acid,
+sulphureted hydrogen, and zinc (nascent hydrogen), may take part in
+the processes, but not as standard solutions.
+
+The most important combinations among the foregoing are: Potassium
+bichromate and ferrous salts; potassium permanganate and ferrous
+salts; potassium permanganate and oxalic acid, or its derivatives;
+iodine and sodium thiosulphate; hypochlorites and arsenious acid.
+
+
+
+
+BICHROMATE PROCESS FOR THE DETERMINATION OF IRON
+
+
+Ferrous salts may be promptly and completely oxidized to ferric salts,
+even in cold solution, by the addition of potassium bichromate,
+provided sufficient acid is present to hold in solution the ferric and
+chromic compounds which are formed.
+
+The acid may be either hydrochloric or sulphuric, but the former is
+usually preferred, since it is by far the best solvent for iron and
+its compounds. The reaction in the presence of hydrochloric acid is as
+follows:
+
+6FeCl_{2} + K_{2}Cr_{2}O_{7} + 14HCl --> 6FeCl_{3} + 2CrCl_{3} + 2KCl
++ 7H_{2}O.
+
+
+NORMAL SOLUTIONS OF OXIDIZING OR REDUCING AGENTS
+
+It will be recalled that the system of normal solutions is based upon
+the equivalence of the reagents which they contain to 8 grams of
+oxygen or 1 gram of hydrogen. A normal solution of an oxidizing agent
+should, therefore, contain that amount per liter which is equivalent
+in oxidizing power to 8 grams of oxygen; a normal reducing solution
+must be equivalent in reducing power to 1 gram of hydrogen. In order
+to determine what the amount per liter will be it is necessary to know
+how the reagents enter into reaction. The two solutions to be employed
+in the process under consideration are those of potassium bichromate
+and ferrous sulphate. The reaction between them, in the presence of an
+excess of sulphuric acid, may be expressed as follows:
+
+6FeSO_{4} + K_{2}Cr_{2}O_{7} + 7H_{2}SO_{4} --> 3Fe_{2}(SO_{4})_{3} +
+K_{2}SO_{4} + Cr_{2}(SO_{4})_{3} + 7H_{2}O.
+
+If the compounds of iron and chromium, with which alone we are now
+concerned, be written in such a way as to show the oxides of these
+elements in each, they would appear as follows: On the left-hand side
+of the equation 6(FeO.SO_{3}) and K_{2}O.2CrO_{3}; on the right-hand
+side, 3(Fe_{2}O_{3}.3SO_{3}) and Cr_{2}O_{3}.3SO_{3}. A careful
+inspection shows that there are three less oxygen atoms associated
+with chromium atoms on the right-hand side of the equation than on the
+left-hand, but there are three more oxygen atoms associated with iron
+atoms on the right than on the left. In other words, a molecule of
+potassium bichromate has given up three atoms of oxygen for oxidation
+purposes; i.e., a molecular weight in grams of the bichromate (294.2)
+will furnish 3 X 16 or 48 grams of oxygen for oxidation purposes.
+As this 48 grams is six times 8 grams, the basis of the system, the
+normal solution of potassium bichromate should contain per liter one
+sixth of 294.2 grams or 49.03 grams.
+
+A further inspection of the dissected compounds above shows that six
+molecules of FeO.SO_{3} were required to react with the three atoms of
+oxygen from the bichromate. From the two equations
+
+3H_{2} + 3O --> 3H_{2}O
+6(FeO.SO_{3}) + 3O --> 3(Fe_{2}O_{3}.3SO_{3})
+
+it is plain that one molecule of ferrous sulphate is equivalent to one
+atom of hydrogen in reducing power; therefore one molecular weight in
+grams of ferrous sulphate (151.9) is equivalent to 1 gram of
+hydrogen. Since the ferrous sulphate crystalline form has the formula
+FeSO_{4}.7H_{2}O, a normal reducing solution of this crystalline salt
+should contain 277.9 grams per liter.
+
+
+PREPARATION OF SOLUTIONS
+
+!Approximate Strength 0.1 N!
+
+It is possible to purify commercial potassium bichromate by
+recrystallization from hot water. It must then be dried and cautiously
+heated to fusion to expel the last traces of moisture, but not
+sufficiently high to expel any oxygen. The pure salt thus prepared,
+may be weighed out directly, dissolved, and the solution diluted in a
+graduated flask to a definite volume. In this case no standardization
+is made, as the normal value can be calculated directly. It is,
+however, more generally customary to standardize a solution of
+the commercial salt by comparison with some substance of definite
+composition, as described below.
+
+PROCEDURE.--Pulverize about 5 grams of potassium bichromate of good
+quality. Dissolve the bichromate in distilled water, transfer the
+solution to a liter bottle, and dilute to approximately 1000 cc. Shake
+thoroughly until the solution is uniform.
+
+To prepare the solution of the reducing agent, pulverize about 28
+grams of ferrous sulphate (FeSO_{4}.7H_{2}O) or about 40 grams of
+ferrous ammonium sulphate (FeSO_{4}.(NH_{4})_{2}SO_{4}.6H_{2}O) and
+dissolve in distilled water containing 5 cc. of concentrated sulphuric
+acid. Transfer the solution to a liter bottle, add 5 cc. concentrated
+sulphuric acid, make up to about 1000 cc. and shake vigorously to
+insure uniformity.
+
+
+INDICATOR SOLUTION
+
+No indicator is known which, like methyl orange, can be used within
+the solution, to show when the oxidation process is complete. Instead,
+an outside indicator solution is employed to which drops of the
+titrated solution are transferred for testing. The reagent used is
+potassium ferricyanide, which produces a blue precipitate (or color)
+with ferrous compounds as long as there are unoxidized ferrous ions in
+the titrated solution. Drops of the indicator solution are placed upon
+a glazed porcelain tile, or upon white cardboard which has been coated
+with paraffin to render it waterproof, and drops of the titrated
+solution are transferred to the indicator on the end of a stirring
+rod. When the oxidation is nearly completed only very small amounts
+of the ferrous compounds remain unoxidized and the reaction with the
+indicator is no longer instantaneous. It is necessary to allow a brief
+time to elapse before determining that no blue color is formed. Thirty
+seconds is a sufficient interval, and should be adopted throughout the
+analytical procedure. If left too long, the combined effect of light
+and dust from the air will cause a reduction of the ferric compounds
+already formed and a resultant blue will appear which misleads the
+observer with respect to the true end-point.
+
+The indicator solution must be highly diluted, otherwise its own color
+interferes with accurate observation. Prepare a fresh solution, as
+needed each day, by dissolving a crystal of potassium ferricyanide
+about the size of a pin's head in 25 cc. of distilled water. The salt
+should be carefully tested with ferric chloride for the presence of
+ferrocyanides, which give a blue color with ferric salts.
+
+In case of need, the ferricyanide can be purified by adding to its
+solution a little bromine water and recrystallizing the compound.
+
+
+COMPARISON OF OXIDIZING AND REDUCING SOLUTIONS
+
+PROCEDURE.--Fill one burette with each of the solutions, observing
+the general procedure with respect to cleaning and rinsing already
+prescribed. The bichromate solution is preferably to be placed in a
+glass-stoppered burette.
+
+Run out from a burette into a beaker of about 300 cc. capacity nearly
+40 cc. of the ferrous solution, add 15 cc. of dilute hydrochloric acid
+(sp. gr. 1.12) and 150 cc. of water and run in the bichromate
+solution from another burette. Since both solutions are approximately
+tenth-normal, 35 cc. of the bichromate solution may be added without
+testing. Test at that point by removing a very small drop of the
+iron solution on the end of a stirring rod, mixing it with a drop of
+indicator on the tile (Note 1). If a blue precipitate appears at once,
+0.5 cc. of the bichromate solution may be added before testing again.
+The stirring rod which has touched the indicator should be dipped in
+distilled water before returning it to the iron solution. As soon as
+the blue appears to be less intense, add the bichromate solution in
+small portions, finally a single drop at a time, until the point is
+reached at which no blue color appears after the lapse of thirty
+seconds from the time of mixing solution and indicator. At the close

@@ -1,0 +1,419 @@
+
+APPARATUS FOR EXTRACTING STARCH FROM POTATOES.
+
+
+In the apparatus of Mr. Angele, of Berlin, shown in the annexed cuts
+(Figs. 1 and 2), the potatoes, after being cleaned in the washer, C,
+slide through the chute, v, into a rasp, D, which reduces them to a fine
+pulp under the action of a continuous current of water led in by the
+pipe, d. The liquid pulp flows into the iron reservoir, B, from whence a
+pump, P, forces it through the pipe, w, to a sieve, g, which is
+suspended by four bars and has a backward and forward motion. By means
+of a rose, c, water is sprinkled over the entire surface of the sieve
+and separates the fecula from the fibrous matter. The water, charged
+with fine particles of fecula, and forming a sort of milk, flows through
+the tube, z, into the lower part, N, of the washing apparatus, F, while
+the pulp runs over the sieve and falls into the grinding-mill, H. This
+latter divides all those cellular portions of the fecula that have not
+been opened by the rasp, and allows them to run, through the tube, h,
+into the washing apparatus, F, where the fecula is completely separated
+from woody fibers. The fluid pulp is carried by means of a helix, i, to
+a revolving perforated drum at e. From this, the milky starch flows into
+the jacket, N, while the pulp (ligneous fibers) makes its exit from the
+apparatus through the aperture, n, and falls into the reservoir, o.
+
+[Illustration: ANGELE'S POTATO-STARCH APPARATUS.]
+
+The liquid from the jacket, N, passes to a refining sieve, K, which,
+like the one before mentioned, has a backward and forward motion, and
+which is covered with very fine silk gauze in order to separate the very
+finest impurities from the milky starch. The refined liquid then flows
+into the reservoir, m, and the impure mass of sediment runs into the
+pulp-reservoir, o. The pump, l, forces the milky liquid from the
+reservoir, m, to the settling back, while the pulp is forced by a pump,
+u, from the receptacle, o, into a large pulp-reservoir.
+
+The water necessary for the manufacture is forced by the pump, a, into
+the reservoir, W, from whence it flows, through the pipes, r, into the
+different machines. All the apparatus are set in motion by two
+shaftings, q. The principal shaft makes two hundred revolutions per
+minute, but the velocity of that of the pumps is but fifty
+revolutions.--_Polytech. Journ., and Bull. Musee de l'Indust_.
+
+       *       *       *       *       *
+
+
+
+
+A SIMPLE APPARATUS FOR DESCRIBING ELLIPSES.
+
+By Prof. E.J. HALLOCK.
+
+
+A very simple apparatus for describing an oval or ellipse may be
+constructed by any apprentice or school boy as follows: Procure a
+straight piece of wood about 1/4 inch wide by 1/8 inch thick and 13 inches
+long. Beginning 1/2 inch from the end, bore a row of small holes only
+large enough for a darning needle to pass through and half an inch
+apart. Mark the first one (at A) 0, the third 1, the fifth 2, and so on
+to 12, so that the numbers represent the distance from O in inches. A
+small slit may be made in the end of the ruler or strip of wood near A,
+but a better plan is to attach a small clip on one side.
+
+[Illustration: ELLIPSE INSTRUMENT.]
+
+Next procure a strong piece of linen thread about four feet long; pass
+it through the eye of a coarse needle, wax and twist it until it forms a
+single cord. Pass the needle _upward_ through the hole marked 0, and tie
+a knot in the end of the thread to prevent its slipping through. The
+apparatus is now ready for immediate use. It only remains to set it to
+the size of the oval desired.
+
+Suppose it is required to describe an ellipse the longer diameter of
+which is 8 inches, and the distance between the foci 5 inches. Insert a
+pin or small tack loosely in the hole between 6 and 7, which is distant
+6-1/2 inches from O. Pass the needle through hole 5, allowing the thread
+to pass around the tack or pin; draw it tightly and fasten it in the
+slit or clip at the end. Lay the apparatus on a smooth sheet of paper,
+place the point of a pencil at E, and keeping the string tight pass it
+around and describe the curve, just in the same manner as when the two
+ends of the string are fastened to the paper at the foci. The chief
+advantage claimed over the usual method is that it may be applied to
+metal and stone, where it is difficult to attach a string. On drawings
+it avoids the necessity of perforating the paper with pins.
+
+As the pencil point is liable to slip out of the loop formed by the
+string, it should have a nick cut or filed in one side, like a crochet
+needle.
+
+As the mechanic frequently wants to make an oval having a given width
+and length, but does not know what the distance between the foci must be
+to produce this effect, a few directions on this point may be useful:
+
+It is a fact well known to mathematicians that if the distance between
+the foci and the shorter diameter of an ellipse be made the sides of a
+right angled triangle, its hypothenuse will equal the greater diameter.
+Hence in order to find the distance between the foci, when the length
+and width of the ellipse are known, these two are squared and the lesser
+square subtracted from the greater, when the square root of the
+difference will be the quantity sought. For example, if it be required
+to describe an ellipse that shall have a length of 5 inches and a width
+of 3 inches, the distance between the foci will be found as follows:
+
+  (5 x 5) - (3 x 3) = (4 x 4)
+  or                   __
+     25 - 9 = 16 and \/16 = 4.
+
+In the shop this distance may be found experimentally by laying a foot
+rule on a square so that one end of the former will touch the figure
+marking the lesser diameter on the latter, and then bringing the figure
+on the rule that represents the greater diameter to the edge of the
+square; the figure on the square at this point is the distance sought.
+Unfortunately they rarely represent whole numbers. We present herewith a
+table giving the width to the eighth of an inch for several different
+ovals when the length and distance between foci are given.
+
+
+    Length.     Distance between foci.   Width.
+    Inches.          Inches.            Inches.
+
+      2              1                     13/4
+      2              11/2                    11/4
+
+      21/2             1                     21/4
+      21/2             11/2                    2
+      21/2             2                     11/2
+
+      3              1                     11/2
+      3              11/2                    2-7/8
+      3              2                     2-5/8
+      3              21/2                    21/4
+
+      31/2             1                     3-3/8
+      31/2             11/2                    3-1/8
+      31/2             2                     2-7/8
+      31/2             21/2                    21/2
+      31/2             3                     13/4
+
+      4              2                     31/2
+      4              21/2                    3-1/8
+      4              3                     2-5/8
+      4              31/2                    2
+
+      5              3                     4
+      5              4                     3
+
+For larger ovals multiples of these numbers may be taken; thus for 7 and
+4, take from the table twice the width corresponding to 31/2 and 2, which
+is twice 2-7/8, or 53/4. It will be noticed also that columns 2 and 3 are
+interchangeable.
+
+To use the apparatus in connection with the table: Find the length of
+the desired oval in the first column of the table, and the width most
+nearly corresponding to that desired in the third column. The
+corresponding number in the middle column tells which hole the needle
+must be passed through. The tack D, _around_ which the string must pass,
+is so placed that the total length of the string AD + DC, or its equal
+AE + EC, shall equal the greater diameter of the ellipse. In the figure
+it is placed 61/2 inches from A, and 11/2 inches from C, making the total
+length of string 8 inches. The oval described will then be 8 inches long
+and 61/4 inches wide.
+
+The above table will be found equally useful in describing ovals by
+fastening the ends of the string to the drawing as is recommended in all
+the text books on the subject. On the other hand, the instrument may be
+set "by guess" when no particular accuracy is required.
+
+       *       *       *       *       *
+
+
+
+
+THE MANUFACTURE OF CHARCOAL IN KILNS.
+
+
+The manufacture of charcoal in kilns was declared many years ago, after
+a series of experiments made in poorly constructed furnaces, to be
+unprofitable, and the subject is dismissed by most writers with the
+remark, that in order to use the method economically the products of
+distillation, both liquid and gaseous, must be collected. T. Egleston,
+Ph.D., of the School of Mines, New York, has read a paper on the subject
+before the American Institute of Mining Engineers, from which we extract
+as follows: As there are many SILVER DISTRICTS IN THE WEST where coke
+cannot be had at such a price as will allow of its being used, and where
+the ores are of such a nature that wood cannot be used in a
+reverberatory furnace, the most economical method of making charcoal is
+an important question.
+
+Kilns for the manufacture of charcoal are made of almost any shape and
+size, determined in most cases by the fancy of the builder or by the
+necessities of the shape of the ground selected. They do not differ from
+each other in any principle of manufacture, nor does there seem to be
+any appreciable difference in the quality of the fuel they produce, when
+the process is conducted with equal care in the different varieties; but
+there is a considerable difference in the yield and in the cost of the
+process in favor of small over large kilns. The different varieties have
+come into and gone out of use mainly on account of the cost of
+construction and of repairs. The object of a kiln is to replace the
+cover of a meiler by a permanent structure. Intermediate between the
+meiler and the kiln is the Foucauld system, the object of which is to
+replace the cover by a structure more or less permanent, which has all
+the disadvantages of both systems, with no advantages peculiar to
+itself.
+
+The kilns which are used may be divided into the rectangular, the round,
+and the conical, but the first two seem to be disappearing before the
+last, which is as readily built and much more easily managed.
+
+
+ALL VARIETIES OF KILNS
+
+Are usually built of red brick, or, rarely, of brick and stone together.
+Occasionally, refractory brick is used, but it is not necessary. The
+foundations are usually made of stone. There are several precautions
+necessary in constructing the walls. The brick should be sufficiently
+hard to resist the fire, and should therefore be tested before using. It
+is an unnecessary expense to use either second or third quality
+fire-brick. As the pyroligneous acid which results from the distillation
+of the wood attacks lime mortar, it is best to lay up the brick with
+fire-clay mortar, to which a little salt has been added; sometimes loam
+mixed with coal-tar, to which a little salt is also added, is used. As
+the principal office of this mortar is to fill the joints, special care
+must be taken in laying the bricks that every joint is broken, and
+frequent headers put in to tie the bricks together. It is especially
+necessary that all the joints should be carefully filled, as any small
+open spaces would admit air, and would materially decrease the yield of
+the kiln. The floor of the kiln was formerly made of two rows of brick
+set edgewise and carefully laid, but latterly it is found to be best
+made of clay. Any material, however, that will pack hard may be used. It
+must be well beaten down with paving mauls. The center must be about six
+inches higher than the sides, which are brought up to the bottom of the
+lower vents. Most kilns are carefully pointed, and are then painted on
+the outside with a wash of clay suspended in water, and covered with a
+coating of coal-tar, which makes them waterproof, and does not require
+to be renewed for several years.
+
+[Illustration: RECTANGULAR KILNS FOR THE MANUFACTURE OF CHARCOAL.]
+
+The kilns were formerly roofed over with rough boards to protect the
+masonry from the weather, but as no special advantage was found to
+result from so doing, since of late years they have been made
+water-proof, the practice has been discontinued.
+
+The wood used is cut about one and a fifth meters long. The diameter is
+not considered of much importance, except in so far as it is desirable
+to have it as nearly uniform as possible. When most of the wood is
+small, and only a small part of it is large, the large pieces are
+usually split, to make it pack well. It has been found most satisfactory
+to have three rows of vents around the kiln, which should be provided
+with a cast-iron frame reaching to the inside of the furnace. The vents
+near the ground are generally five inches high--the size of two
+bricks--and four inches wide--the width of one--and the holes are closed
+by inserting one or two bricks in them. They are usually the size of one
+brick, and larger on the outside than on the inside. These holes are
+usually from 0.45 m. to 0.60 m. apart vertically, and from 0.80 m. to
+0.90 m. apart horizontally. The lower vents start on the second row of
+the brickwork above the foundation, and are placed on the level with the
+floor, so that the fire can draw to the bottom. There is sometimes an
+additional opening near the top to allow of the rapid escape of the
+smoke and gas at the time of firing, which is then closed, and kept
+closed until the kiln is discharged. This applies mostly to the best
+types of conical kilns. In the circular and conical ones the top
+charging door is sometimes used for this purpose. Hard and soft woods
+are burned indifferently in the kilns. Hard-wood coal weighs more than
+soft, and the hard variety of charcoal is usually preferred for blast
+furnaces, and for such purposes there is an advantage of fully 33-1/3
+per cent. or even more in using hard woods. For the direct process in
+the bloomaries, soft-wood charcoal is preferred. It is found that it is
+not usually advantageous to build kilns of over 160 to 180 cubic meters
+in capacity. Larger furnaces have been used, and give as good a yield,
+but they are much more cumbersome to manage. The largest yield got from
+kilns is from 50 to 60 bushels for hard wood to 50 for soft wood. The
+average yield, however, is about 45 bushels. In meilers, two and a half
+to three cords of wood are required for 100 bushels, or 30 to 40 bushels
+to the cord. The kiln charcoal is very large, so that the loss in fine
+coal is very much diminished. The pieces usually come out the whole
+size, and sometimes the whole length of the wood.
+
+The rectangular kilns were those which were formerly exclusively in use.
+They are generally built to contain from 30 to 90 cords of wood. The
+usual sizes are given in the table below:
+
+                              1   2   3   4
+  Length                     50  40  40  48
+  Width                      12  15  14  17
+  Height                     12  15  18  18
+  Capacity, in cords         55  70  75  90
+
+1 and 2. Used in New England. 3. Type of those used in Mexico. 4. Kiln
+at Lauton, Mich.
+
+The arch is usually an arc of a circle. A kiln of the size of No. 4, as
+constructed at the Michigan Central Iron Works, with a good burn, will
+yield 4,000 bushels of charcoal.
+
+The vertical walls in the best constructions are 12 to 13 feet high, and
+1-1/2 brick thick, containing from 20 to 52 bricks to the cubic foot of
+wall. To insure sufficient strength to resist the expansion and
+contraction due to the heating and cooling, they should be provided with
+buttresses which are 1 brick thick and 2 wide, as at Wassaic, New York;
+but many of them are built without them, as at Lauton, Michigan, as
+shown in the engraving. In both cases they are supported with strong
+braces, from 3 to 4 feet apart, made of round or hewn wood, or of cast
+iron, which are buried in the ground below, and are tied above and below
+with iron rods, as in the engraving, and the lower end passing beneath
+the floor of the kiln. When made of wood they are usually 8 inches
+square or round, or sometimes by 8 inches placed edgewise. They are
+sometimes tied at the top with wooden braces of the same size, which are
+securely fastened by iron rods running through the corners, as shown.
+When a number of kilns are built together, as at the Michigan Central
+Iron Works, at Lauton, Michigan, shown in the plan view, only the end
+kilns are braced in this way. The intermediate ones are supported below
+by wooden braces, securely fastened at the bottom. The roof is always
+arched, is one brick, or eight inches, thick, and is laid in headers,
+fourteen being used in each superficial foot. Many of the kilns have in
+the center a round hole, from sixteen to eighteen inches in diameter,
+which is closed by a cast iron plate. It requires from 35 M. to 40 M.
+brick for a kiln of 45 cords, and 60 M. to 65 M. for one of 90 cords.
+
+       *       *       *       *       *
+
+The belief that population in the West Indies is stationary is so far
+from accurate that, as Sir Anthony Musgrave points out, it is increasing
+more rapidly than the population of the United Kingdom. The statistics
+of population show an increase of 16 per cent. on the last decennial
+period, while the increase in the United Kingdom in the ten years
+preceding the last census was under 11 per cent. This increase appears
+to be general, and is only slightly influenced by immigration. "The
+population of the West Indies," adds Sir A. Musgrave, "is now greater
+than that of any of the larger Australian colonies, and three times that
+of New Zealand."
+
+       *       *       *       *       *
+
+
+
+
+HEAT DEVELOPED IN FORGING.
+
+
+M. Tresca has lately presented to the Academy of Sciences some very
+interesting experiments on the development and distribution of heat
+produced by a blow of the steam hammer in the process of forging. The
+method used was as follows: The bar was carefully polished on both
+sides, and this polished part covered with a thin layer of wax. It was
+then placed on an anvil and struck by a monkey of known weight, P,
+falling from a height, H. The faces of the monkey and anvil were exactly
+alike, and care was taken that the whole work, T = PH, should be
+expended upon the bar. A single blow was enough to melt the wax over a
+certain zone; and this indicated clearly how much of the lateral faces
+had been raised by the shock to the temperature of melting wax. The form
+of this melted part could be made to differ considerably, but
+approximated to that of an equilateral hyperbola. Let A be the area of
+this zone, b the width of the bar, d the density, C the heat capacity,
+and t-t0 the excess of temperature of melting wax over the temperature
+of the air. Then, assuming that the area, A, is the base of a horizontal
+prism, which is everywhere heated to the temperature, t, the heating
+effect produced will be expressed by
+
+Ab x d x C(t-t0)
+
+Multiplying this by 425, or Joule's equivalent for the metrical system,
+the energy developed in heat is given by
+
+T1 = 425 AbdC(t-t0).
+
+Dividing T1 by T, we obtain the ratio which the energy developed in heat
+bears to the total energy of the blow.
+
+With regard to the form of the zone of melting, it was found always to
+extend round the edges of the indent produced in the bar by the blow. We
+are speaking for the present of cases where the faces of the monkey and
+anvil were sharp. On the sides of the bar the zone took the form of a
+sort of cross with curved arms, the arms being thinner or thicker
+according to the greater or less energy of the shock. These forms are
+shown in Figs. 1 to 6. It will be seen that these zones correspond to
+the zones of greatest sliding in the deformation of a bar forged with a
+sharp edged hammer, showing in fact that it is the mechanical work done
+in this sliding which is afterward transformed into heat.
+
+[Illustration]
+
+With regard to the ratio, above mentioned, between the heat developed
+and the energy of the blow, it is very much greater than had been
+expected when the other sources of loss were taken into consideration.
+In some cases it reached 80 per cent., and in a table given the limits
+vary for an iron bar between 68.4 per cent. with an energy of 40
+kilogram-meters, and 83.6 per cent. with an energy of 90
+kilogram-meters. With copper the energy is nearly constant at 70 per
+cent. It will be seen that the proportion is less when the energy is
+less, and it also diminishes with the section of the bar. This is no
+doubt due to the fact that the heat is then conducted away more rapidly.
+On the whole, the results are summed up by M. Tresca as follows:
+
+(1) The development of heat depends on the form of the faces and the
+energy of the blow.
+
+(2) In the case of faces with sharp edges, the process described allows
+this heat to be clearly indicated.
+
+(3) The development of heat is greatest where the shearing of the
+material is strongest. This shearing is therefore the mechanical cause
+which produces the heating effect.
+
+(4) With a blow of sufficient energy and a bar of sufficient size, about
+80 per cent. of the energy reappears in the heat.
+
+(5) The figures formed by the melted wax give a sort of diagram, showing
+the distribution of the heat and the character of the deformation in the
+bar.
+
+(6) Where the energy is small the calculation of the percentage is not
+reliable.
+
+So far we have spoken only of cases where the anvil and monkey have
+sharp faces. Where the faces are rounded the phenomena are somewhat
+different. Figs. 7 to 12 give the area of melted wax in the case of bars
+struck with blows gradually increasing in energy. It will be seen that,
+instead of commencing at the edges of the indent, the fusion begins near
+the middle, and appears in small triangular figures, which gradually

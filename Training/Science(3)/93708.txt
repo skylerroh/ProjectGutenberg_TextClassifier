@@ -1,0 +1,412 @@
+(Fig. 32a.)
+
+136. Test.
+
+Experiment 81.--Test the purity of distilled water by slowly
+evaporating a few drops on Pt foil in a room free from dust.
+There should be no spot or residue left on the foil. Test in the
+same way undistilled water. 137. Water exists in Three States,--
+solid, liquid, and vaporous. It freezes at 0 degrees, suddenly
+expanding considerably as it passes into the solid state. It
+boils, i.e. overcomes atmospheric pressure and is vaporized, at
+100 degrees (760 mm pressure). If the pressure is greater, the
+boiling-point is raised, i.e. it takes a higher temperature to
+overcome a greater pressure. If there be less pressure, as on a
+mountain, the boiling-point is lowered below 100 degrees. Salts
+dissolved in water raise its boiling-point, and lower its
+freezing-point to an extent depending on the kind and quantity of
+the salt. Water, however, evaporates at all temperatures, even
+from ice.
+
+Pure water has no taste or smell, and, in small quantities, no
+color. It is rarely if ever found on the earth. What is taken up
+by the air in evaporation is nearly pure; but when it falls as
+rain or snow, impurities are absorbed from the atmosphere. Water
+falling after a long rain, especially in the country, is
+tolerably free from impurities. Some springs have also nearly
+pure water; but to separate all foreign matter from it, water
+must be distilled. Even then it is liable to contain traces of
+ammonia, or some other substance which vaporizes at a lower
+temperature than water.
+
+138. Sea-Water.--The ocean is the ultimate source of all water.
+From it and from lakes, rivers, and soils, water is taken into
+the atmosphere, falls as rain or snow, and sinks into the ground,
+reappearing in springs, or flowing off in brooks and rivers to
+the ocean or inland seas. Ocean water must naturally contain
+soluble salts; and many salts which are not soluble in pure water
+are dissolved in sea-water. In fact, there is a probability that
+all elements exist to some extent in sea-water, but many of them
+in extremely minute quantities. Sodium and magnesium salts are
+the two most abundant, and the bitter taste is due to MgSO4 and
+MgCl2. A liter of sea- water, nearly 1000 g., holds over 37 g. of
+various salts, 29 of which are NaCl. See Hard Water.
+
+139. River Water.--River water holds fewer salts, but has a great
+deal of organic matter, living and dead, derived from the regions
+through which it flows. To render this harmless for drinking,
+such water should be boiled, or filtered through unglazed
+porcelain. Carbon filters are now thought to possess but little
+virtue for separating harmful germs.
+
+140. Spring Water.--The water of springs varies as widely in
+composition as do the rocks whence it bubbles forth. Sulphur
+springs contain much H2S; many geysers hold SiO2 in solution;
+chalybeate waters have compounds of Fe; others have Na2SO4, MgSO4
+NaCl, etc.
+
+CHAPTER XXIX.
+
+THE CHEMISTRY OF FLAME.
+
+141. Candle Flame.
+
+Experiment 82.--Examine a candle flame, holding a dark object
+behind it. Note three distinct portions: (1) a colorless interior
+about the wick, (2) a yellow light-giving portion beyond that,
+(3) a thin blue envelope outside of all, and scarcely
+discernible. Hold a small stick across the flame so that it may
+lie in all three parts, and observe that no combustion takes
+place in the inner portion.
+
+142. Explanation.--A candle of paraffine, or tallow, is chiefly
+composed of compounds of C and H, in the solid state. The burning
+wick melts the solid; the liquid is then drawn up by the wick
+till the heat vaporizes and decomposes it, and O of the air comes
+in contact with the outer heated portion of gas, and burns it
+completely. Air tends to penetrate the whole body of the flame,
+but only N can pass through uncombined, for the O that is left
+after combustion in the outer portion seizes upon the compounds
+of C and H in the next, or yellow, part. There is not enough O
+here for complete combustion; at this temperature H burns before
+C, and the latter is set free. In that state it is of course a
+solid. Now an incandescent solid, or one glowing with heat, gives
+light, while the combustion of a gas gives scarcely any light,
+though it may produce great heat. While C in the middle flame is
+glowing, during the moment of its dissociation from H, it gives
+light. In the outer flame the temperature is high enough to burn
+entirely the gaseous compounds of C and H together, so that no
+solid C is set free, and hence no light is given except the faint
+blue. No combustion takes place in the inner blue cone, because
+no O reaches there.
+
+By packing a wick into a cylindrical tin cup 5 or 10 cm high and
+4 cm in diameter, containing alcohol, and lighting it, gunpowder
+can be held in the middle of the flame in a def. spoon, without
+burning. This shows the low temperature of that portion. Burning
+P will also be extinguished, thus showing the exclusion of O.
+
+143. Bunsen Flame.
+
+Experiment 83.--Examine a Bunsen burner. Unscrew the top, and
+note the orifices for the admission of gas and of air. Make a
+drawing. Replace the parts; then light the gas at the top,
+opening the air-holes at the base. Notice that the flame burns
+with very little color. Try to distinguish the three parts, as in
+the candle flame. These parts can best be seen by allowing direct
+sunlight to fall on the flame and observing its shadow on a white
+ground. Make a drawing of the flame. Hold across it a Pt wire and
+note at what part the wire glows most. Also press down on the
+flame for an instant with a cardboard or piece of paper; remove
+before it takes fire, and notice the charred circle. Put the end
+of a match into the blue cone, and note that it does not burn.
+Put the end of a Pt wire into this blue cone, and observe that it
+glows when near the top of the cone. What do these experiments
+show? Ascertain whether this inner portion contains a combustible
+material, by holding in it one end of a small d.t., and trying to
+ignite any gas escaping at the other end. It should burn. This
+shows that no combustion takes place in the interior of the
+flame, because sufficient free O is not present.
+
+Next, close the air-holes, and note that the flame is yellow and
+gives much light. From this we infer the presence of solid
+particles in an incandescent state. But these could not come from
+the air. They must be C particles which have been set free from
+the C and H compounds of the gas, just as in the candle flame.
+The smoke that rises proves this. Hold an e.d. in the flame and
+collect some C. Try the same with the air-holes open. 144. Light
+and Heat of Flame.--Which of the two flames is hotter, the one
+with the air-holes open, or that with them closed? Evidently the
+former; for air is drawn in and mixes with the gas as it rises in
+the tube, and, on reaching the flame at the top, the two are well
+mingled, and the gaseous compounds of C and H burn at so high a
+temperature that solid C is not freed; hence there is little
+light. On closing the air-holes, no O can reach the flame except
+from the outside, and the heat is much less intense.
+
+(Fig 33.)                               (Fig 34.)
+
+The H burns first, and sets the C free, which, while glowing,
+gives the light. This again illustrates the facts (1) that flame
+is caused by burning gas; (2) that light is produced by
+incandescent solids. Charcoal, coke, and anthracite coal burn
+without flame, or with very little, because of the absence of
+gases.
+
+145. Temperature of Combustion.
+
+Experiment 84.--Light a Bunsen flame, with the basal orifices
+open, and hold over it a fine wire gauze. Notice that the flame
+does not rise above the gauze. Extinguish the light, and try to
+ignite the gas above the gauze, holding the latter within 5 or 6
+cm of the burner tube. Notice that it does not burn below the
+gauze (Fig. 33).
+
+Gas and O are both present. Evidently, then, the only condition
+wanting for combustion is a sufficiently high temperature. The
+gauze cools the gas below its kindling- point.
+
+This principle is made use of in the miner's lamp of Davy (Fig.
+34). In coal mines a very inflammable gas, CH4, called fire-damp,
+issues from the coal. If this collects in large quantities and
+mixes with O of the air, a kindling-point is all that is needed
+to make a violent explosion. An ordinary lamp would produce this,
+but the gauze lamp prevents it; for, though the inside may be
+filled with burning gas, CH4, the flame cannot communicate with
+the outside.
+
+(Fig 35.)                            (Fig 36.)
+a, reducing flame              b, oxidizing flame
+
+146. Oxidizing and Reducing Flames.--The hottest part of a Bunsen
+flame is just above the inner blue cone (b, Fig. 36). Evidently
+there is more O at that point. If a reducing agent, i.e. a
+substance which takes up O, be put into this part of the flame,
+the latter will remove the O and appropriate it, forming an
+oxide. Cu heated there would become copper oxide. This part is
+called the oxidizing flame. The inner blue part of the Bunsen
+flame is devoid of O. It ought to remove O from an oxidizing
+agent, i.e. a substance which supplies O. If copper oxide be
+heated there (a, Fig. 36) by means of a mouth blow-pipe (Fig.
+35), the flame will appropriate the O and leave the copper. This
+is called the reducing flame. Only the upper part of this blue
+central cone has heat enough to act in this way. By using a
+prepared piece of metal, to make the flame thin and to shut off
+the air, and then blowing the flame with a blow-pipe, greater
+strength can be obtained in both oxidizing and reducing flames
+(Fig. 36).
+
+147. Combustible and Supporter Interchangeable.-- H was found to
+burn in O. H was the combustible, O the supporter. Would O itself
+burn in H?--i.e. would the combustible become the supporter, and
+the supporter the combustible? As illuminating gas consists
+largely of H, and as air is part O, we may try the experiment
+with gas and air. Gas will burn in air. Will air burn in gas?
+
+Experiment 85.--Fit a cork with two holes in it to the large end
+of a lamp chimney. Through each hole pass a short piece of
+tubing, and connect one of these with a rubber tube leading to a
+gas-jet. Pass a metallic tube, long enough to reach the top of
+the chimney, through the other, so that it will move easily up
+and down. Turn on the gas, and light it at the top of the
+chimney. Hold the end of the tube passing through the cork in the
+flame for a minute, then draw it down to the middle of the
+chimney (Fig. 37, a) and finally slowly remove it (b). Note that
+O from the air is burning in the gas. Which is the supporter, and
+which the combustible in this case? O will burn equally well in
+an atmosphere of H, as can be shown by experiment.
+
+148. Explosive Mixture of Gases.
+
+Experiment 86.--Slowly turn down the burning gas of a Bunsen
+lamp, having the orifices open, and notice that it suddenly
+explodes and goes out at the top, but now burns at the base. As
+the gas was gradually turned off, more air became mixed with it,
+until there was the right proportion of each gas for an
+explosion. Figure 38 shows the same thing. Light the gas at the
+top a, when the tube c covers the jet b. Then gradually raise the
+tube c. At a certain place there is the same explosion as with
+the lamp.
+
+149. Generalizations.--These experiments show (1) that three
+conditions are necessary for combustion,--a combustible, a
+supporter, and a burning temperature which varies for different
+substances. Given these, "a fire" always results. The conditions
+for "spontaneous combustion" do not differ from those of any
+combustion. See Experiments 34, 112, 113, 114. (2) That
+combustible and supporter are interchangeable. If H burns in O, O
+will burn in H, the product, being the same in each case. (3) For
+any combustion there must be a certain proportion of combustible
+and of supporter. Twenty per cent of CO2 in the air dilutes the O
+to such an extent that C will not burn. Hence the utility of the
+chemical engine for putting out fires. (4) When two
+
+gases, a combustible and a supporter, are mixed in the requisite
+proportion, they form an explosive mixture, needing only the
+kindling temperature to unite them.
+
+Chemical combination is always accompanied by disengagement of
+heat. Chemical dissociation is always accompanied by absorption
+of heat. The disengagement, or the absorption, is not always
+evident to the senses.
+
+Combustion is the chemical combination of two or more substances
+with the self-evident disengagement of great heat, and usually of
+light.
+
+The temperature of ignition varies greatly with different
+substances. PH3 burns spontaneously at the usual temperatures of
+the air. P takes fire at 60 degrees, but even at 10 degrees it
+oxidizes with rapidity enough to produce phosphorescence. The
+vapor of CS2 may be set on fire by a glass rod heated to 150
+degrees, but a red-hot iron will not ignite illuminating gas.
+
+Spontaneous combustion often takes place in woolen or cotton rags
+which have been saturated with oil. The oil rapidly absorbs O,
+and sets fire to the cloth. This is thought to be the origin of
+some very destructive fires.
+
+CHAPTER XXX.
+
+CHLORINE.
+
+150. Preparation.
+
+Experiment 87.--Put into a t.t. 5 g. of fine granular MnO2 and 10
+cc. HCl. Apply heat carefully, and collect the gas by downward
+displacement in a receiver loosely covered with paper (Fig. 39).
+Add more HCl if needed. Have a good draft of air, and do not
+inhale the gas. If you have accidentally breathed it, inhale
+alcohol vapor from a handkerchief; alcohol has great affinity for
+Cl. Note the color of the gas, and compare its weight with that
+of air.
+
+MnO2 + 4 HCl = MnCl2 + 2 H2O + 2 Cl. How much Cl can be separated
+with 5 g. MnO2?
+
+If preferred, a flask may be used for a generator instead of a
+t.t. Cl can be obtained directly from NaCl by adding H2SO4 (which
+produces HCl) and MnO2. 2 NaCl + 2 H2SO4 + MnO2 = MnSO4 + Na2SO4
++ 2 H2O + 2 Cl. Try the experiment, using a t.t. and adding
+water.
+
+151. Cl from Bleaching-Powder.
+
+Experiment 88.--Put a few grams of bleaching- powder into a small
+beaker, and set this into a larger one. Cover the latter with
+pasteboard or paper, through which passes a thistle-tube reaching
+into the small beaker (Fig. 40). Pour through the tube a little
+H2SO4 dilated with its volume of H2O.
+
+152. Chlorine Water.--A solution of Cl in water is often useful,
+and may be made as follows:-- Experiment 89.--To 3 or 4 crystals
+of KClO3 add a few drops of HCl. Heat a minute, and when the gas
+begins to disengage, pour in 10 cc. H2O, which dissolves the gas.
+2 KClO3 + 4 HCl = 2 KCl + Cl2O4 + 2 H2O + 2 Cl.
+
+153. Bleaching Properties.
+
+Experiment 90.--Put into a receiver of Cl, preferably before
+generating it, two pieces of Turkey red cloth, one wet, the other
+dry; a small piece of printed paper and a written one; also a red
+rose or a green leaf, each wet. Note from which the color is
+discharged. If it is not discharged from all, put a little H2O
+into the receiver, shake it well, and state what ones are
+bleached.
+
+Experiment 91.--(1) Add 5 cc. of Cl water to 5 cc. of indigo
+solution. (2) Treat in the same way 5 cc. K2Cr2O7 (potassium
+dichromate) solution, and record the results.
+
+Indigo, writing-ink, and Turkey red or madder, are vegetable
+pigments; printer's ink contains C, and K2Cr2O7 is a mineral
+pigment. State what coloring matters Cl will bleach.
+
+154. Disinfecting Power.
+
+Experiment 92.--Pass a little H2S gas from a generator into a
+t.t. containing Cl water. Look for a deposit of S. Notice that
+the odor of H2S disappears. H2S + 2 Cl = 2 HCl + S.
+
+155. A Supporter of Combustion.
+
+Experiment 93.--Sprinkle into a receiver of Cl a very little fine
+powder or filings of Cu, As, or Sb, and notice the combustion.
+Observe that here is a case of combustion in which O does not
+take part. Chlorides of the metals are of course formed. Write
+the reactions. See whether Cl will support the combustion of
+paper or of a stick of wood.
+
+Experiment 94.--Warm 2 or 3 cc. of oil of turpentine (C1OH16) in
+an evaporating-dish; dip a piece of tissue paper into it, and
+very quickly thrust this into a receiver of Cl. It should take
+fire and deposit carbon. C1OH16 + 16 Cl = ? Test the moisture on
+the sides of the receiver with litmus. Clean the receiver with a
+little petroleum.
+
+Experiment 95.--Prepare a H generator with a lamp-tube bent as in
+Figure 41. Light the H, observing the cautions in Experiment 23,
+and when well burning, lower the flame into a receiver of Cl.
+Observe the change of color which the flame undergoes as it comes
+in contact with Cl. Give the reaction for the burning. Test with
+litmus any moisture on the sides of the receiver. A mixture of Cl
+and H, in direct sunlight combines with explosive violence;
+whereas in diffused sunlight it combines slowly, and in darkness
+it does not combine. From these experiments state the chief
+properties of Cl, and what combustion it will support.
+
+[Figure 41.]
+
+156. Sources and Uses.--The great source of Cl is NaCl, though it
+is often made from HCl. Its chief use is in making bleaching-
+powder, one pound of which will bleach 300 to 500 pounds of
+cloth. Cl is very easily liberated from this powder by a dilute
+acid, or, slowly, by taking moisture from the air. Hence its use
+as a disinfectant in destroying noxious gases and the germs of
+infectious diseases. Cl attacks organic matter and germs as it
+does the membrane of the throat or lungs, owing to its affinity
+for H.
+
+Cl is the best bleaching agent for cotton goods. It is not
+suitable for animal materials, such as silk and wool, as it
+attacks their fiber. It does not discharge either mineral or
+carbon colors. The chemistry of bleaching is obscure.
+
+As dry material will not bleach, Cl seems to unite with H in H2O
+and to set O free. The O then unites with some portion of the
+coloring matter, oxidizing it, and breaking up its molecule.
+Colors bleached by Cl cannot be restored.
+
+Chapter XXXI.
+
+BROMINE.
+
+Examine bromine, potassium bromide, sodium bromide, magnesium
+bromide.
+
+157. Preparation.
+
+Experiment 96.--Pulverize 2 or 3 g. KBr, and mix it with about
+the same bulk of MnO2. After putting this into a t.t, add as much
+H2SO4, mix them together by shaking, attach a d.t., and conduct
+the end of it into a t.t. that is immersed in a bottle of cold
+water. Slowly heat the contents of the t.t., and notice the color
+of the escaping vapor, and any liquid that condenses in the
+receiver. Avoid inhaling the fumes, or getting them into the
+eyes.
+
+MnO2 + 2 KBr + 2 H2SO4 = ? Compare this with the equation for
+making Cl from NaCl.
+
+158. Tests.
+
+Experiment 97.--Try the bleaching action of Br vapor as in the
+case of Cl. Bleach a piece of litmus paper, and try to restore
+the color with NH4OH. Explain its bleaching and disinfecting
+action. Try the combustibility of As, Sb, and Cu.
+
+159. Description.--Bromine at usual temperatures is a liquid
+element; it is the only common one except Hg; it. quickly
+evaporates on exposure to air. The chemistry of its manufacture
+is like that of Cl; its bleaching and disinfecting powers are
+similar to the latter, though they are not quite so strong as
+those of Cl. Its affinity for H and for metals is also strongly
+marked. A drop of Br on the skin produces a sore slow to heal.
+Bromine salts are mainly KBr, NaBr, MgBr2. These in small
+quantities accompany NaCl, and are most common in brine springs.
+The world's supply of Br comes chiefly from West Virginia and
+Ohio, over 300,000 pounds being produced from the salt (NaCl)
+wells there in 1884. The water taken from these wells is nearly
+evaporated, after which NaCl crystallizes out, leaving a thick
+liquid--bittern, or mother liquor--which contains the salts of
+Br. The bittern is treated with H2SO4 and Mn02, as above.

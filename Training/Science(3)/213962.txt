@@ -1,0 +1,460 @@
+other non-conducting material, is fixed a Blake steam pump. As soon as all
+the ten connections are made with the cistern cars, the pump is set to
+work, and in about one hour the whole of the cars are discharged into the
+main reservoir, the time depending of course upon the capacity of the
+pump. All the pipes used are of malleable iron, lap-welded, and of 5 in.
+internal diameter, having screwed coupling muffs for making the
+connections. At each engine shed, in addition to the main storage
+reservoir, there is a smaller distributing tank, which is erected at a
+sufficient height to supply the tenders, and very much resembles the
+ordinary water tanks. These distributing tanks are circular, about 81/2 ft.
+diameter and 6 ft. high, and of 1/4 in. plates; their inside mean area is
+calculated exactly, and a scale graduated in inches stands in the middle
+of the tank; a glass with scale is used outside in summer time. Each inch
+in height on the scale is converted into cubic feet, and then by means of
+a table is converted into Russian poods, according to the specific gravity
+at various temperatures. As it would be superfluous to graduate the table
+for each separate degree of temperature, the columns in the table show the
+weights for every 8 degrees Reaumur, which is quite sufficient: namely,
+from 24 deg. to 17 deg., from 16 deg. to 9 deg., and so on, down to -24
+deg.; the equivalent Fahrenheit range being from 86 deg. down to -22 deg.
+Suppose the filling of a tender tank draws off a height of 27 in. from the
+distributing tank, at a temperature of say -20 deg. R., these figures are
+shown by the table to correspond with 200.61 poods = 7,245 lb., or 3.23
+tons, of petroleum. This arrangement does very well in practice; both the
+quantity and the temperature are entered on the driver's fuel bill at the
+time of his taking in his supply.
+
+_Engines._--The engines used in the trials were built by Borsig, of
+Berlin, Schneider, of Creusot, and the Russian Mechanical and Mining
+Company, of St. Petersburg. Their main dimensions and weights were about
+the same, as follows, all of them having six wheels coupled, and 36 tons
+adhesive weight; as originally constructed they had ordinary fire boxes
+for burning anthracite or wood; cylinders 18-1/8 in. diameter and 24 in.
+stroke; slide valves, outside lap 1-1/16 in., inside lap 3/32 in., maximum
+travel, 4-9/16 in.; Stephenson link motion; boiler pressure, 120 lb. per
+square inch; six wheels, all coupled, 4 ft. 3 in. in diameter; distance
+between centers of leading and middle wheels, 6 ft. 2-3/4 in.; between
+middle and trailing, 4 ft. 9-1/4 in.; total length of wheel base, 11 ft.;
+weight empty, on leading wheels, 12.041 tons; middle, 10.782 tons;
+trailing, 10.685 tons; total weight, 33.508 tons empty; weight in running
+order, on leading wheels, 12.563 tons; middle, 11.885 tons; trailing
+12.790 tons; total weight, 37.238 tons in running order. Tubes number 151;
+outside diameter, 2-1/8 in.; length between tube plates, 13 ft. 10-1/8
+in.; outside heating surface, 1,166 square feet; fire box heating surface,
+82 square feet; total heating surface, 1,248 square feet; fire grate area,
+17 square feet; tractive power =
+65 per cent. of boiler pressure x (cyl. diam.) squared x stroke / diameter of wheels
+= 0.65 x 120 x (18.125) squared x 24 / 51 = 5.383 tons. Ratio of tractive power
+to adhesion weight = 5.383 / 37.238 = 1 / 6.9.
+
+_Tender._--Contents: water, 310 cubic feet, or 1,933 gallons, or 81/2
+tons; anthracite, 600 poods, or 10 tons; or wood, 11/2 cubic sajene, or
+514 cubic feet; weight empty, 13.477 tons; weight in running order, 28.665
+tons; six wheels.
+
+       *       *       *       *       *
+
+_Petroleum Refuse--Comparative Trials with Petroleum, Anthracite,
+Bituminous Coal, and Wood, between Archeda and Tsaritsin on Grazi and
+Tsaritsin Railway, in Winter Time._
+
+-----+---+-----+------+---+-----+------+-----------+-------------+------+------------
+     | L |     |          |     |      |           |             |      |
+     | o |     |  Train   |     |      |           | Consumption |      |
+     | c |     |  alone.  |     |      |           |  Including  |      |
+Date.| o |     |          |     |      |           | Lighting up.|      |
+1883.| m |     |----+-----|     |      |           |             | Cost |
+     | o |Train|Num-|     | Dis-| Car  |           |             |  of  |Atmospheric
+     | t |     |ber |Gross|tance|miles.|  Fuel.    |-------+-----| fuel |temperature
+     | i |     | of |load.| run.|      |           |       | Per | per  |   and
+     | v |     |Loa-|     |     |      |           | Total |train| train| weather.
+     | e |     |ded |     |     |      |           |       |mile.| mile.|
+     | . |     |cars|     |     |      |           |       |     |      |
+-----+---+-----+----+-----+-----+------+-----------+-------+-----+------+------------
+     |   |     | No.| Tons|Miles|      |           |       |     |Pence.|
+-----+---+-----+----+-----+-----+------+-----------+-------+-----+------+------------
+     |  8|32-23| 25 | 400 | 388 | 9,700|Anthracite.| 31799 |81.90|11.957|-17 deg. to -18 deg.
+     |   |32-23|    |     |     |      |           |  lb.  | lb. |      |   Reau.,
+ Feb.|   |     |    |     |     |      |           |       |     |      | equiv. to
+  8  |   |24-21|    |     |     |      |           |       |     |      |-6 deg. to -81/2 deg.
+     | 14|24-21| 25 | 400 | 388 | 9,700|Bituminous |37557.5|96.53|14.093|   Fah.
+     |   |     |    |     |     |      | Coal.     |  lb.  | lb. |      |
+     |  7|26-29| 25 | 400 | 194 | 4,830|Petroleum  | 9462  |48.77| 5.487|   Strong
+     |   |     |          |     |      | refuse.   |  lb.  | lb. |      | side wind.
+-----+---+-----+----+-----+-----+------+-----------+-------+-----+------+------------
+     | 24|32-23| 25 | 400 | 194 | 4,850|Anthracite.|12639.5|65.15| 9.512|-5 deg. to -9 deg.
+March|   |     |    |     |     |      |           |  lb.  | lb. |      |   Reau.,
+  6  | 21|24-21| 25 | 400 | 194 | 4,850|Wood, in   | 1071.8| 5.52| 8.5  | equiv. to
+     |   |     |    |     |     |      | billets.  | c. ft.|c. ft|      | 21 deg. to 12 deg.
+     |   |     |          |     |      |           |             |      |   Fah.
+     | 23|26-27| 25 | 400 | 194 | 4,850|Petroleum  | 7228  |37.28| 4.188|   Light
+     |   |     |          |     |      | refuse.   |  lb.  | lb. |      | side wind.
+-----+---+-----+----+-----+-----+------+-----------+-------+-----+------+------------
+
+Prices of fuel:
+  Petroleum refuse, 21s. per ton; Anthracite and bituminous coal, 27s. 3d. per ton;
+  Wood, in billets, 42s. per cubic sajene = 343 cubic feet;
+    equivalent to 1.47d. per cubic foot.
+
+Dimensions of locomotives:
+  Cylinders, 18 1/8 in. diam. and 24 in. stroke; Wheels, 4 feet 3 in. diam.;
+  Total heating surface, 1,248 sq. feet: Total adhesion weight, 36 tons;
+  Boiler pressure, 8 to 9 atm.
+
+The preceding table shows the results of comparative trials made in winter
+with different sorts of fuel, under exactly similar conditions as to type
+of engine, profile of line, and load of train. Two sets of comparative
+trials were made, both of them in winter. The three engines used were some
+of those built by Schneider. In comparison with anthracite, the economy in
+favor of petroleum refuse was 41 per cent. in weight, and 55 per cent. in
+cost. With bituminous coal there was a difference of 49 per cent. in favor
+of petroleum as to weight and 61 per cent. as to cost. As compared with
+wood petroleum was 50 per cent. cheaper. At a speed of fourteen miles an
+hour up an incline of 1 in 125 the steam pressure was easily kept up at 9
+to 91/2 atm. with a No. 9 injector feeding the boiler all the time.
+
+Up to the present time the author has altered seventy-two locomotives to
+burn petroleum; and from his own personal observations made on the foot
+plate with considerable frost he is satisfied that no other fuel can
+compare with petroleum either for locomotives or for other purposes. In
+illustration of its safety in case of accident, a photograph was exhibited
+of an accident that occurred on the author's line on 30th December, 1883,
+when a locomotive fired with petroleum ran down the side of an embankment,
+taking the train after it; no explosion or conflagration of any kind took
+place under such trying circumstances, thus affording some proof of the
+safety of the petroleum refuse in this mode of firing. Although it is
+scarcely possible that petroleum firing will ever be of use for
+locomotives on the ordinary railways of coal-bearing England, yet the
+author is convinced chat, even in such a country, its employment would be
+an enormous boon on underground lines.
+
+       *       *       *       *       *
+
+
+
+
+CHARCOAL KILNS.
+
+
+[Illustration: KILN FOR BURNING CHARCOAL.]
+
+In answer to the inquiry of a correspondent about charcoal making, we
+offer two illustrations that show a method of manufacture differing from
+that usually adopted, which is that of burning on the bare ground, and
+covering with soil or sods to exclude the air. These kilns are made of
+brick, one course being sufficient, bands of iron or timber framework
+being added to strengthen the brickwork with greater economy. The usual
+style is conical, and the size is 24 feet in diameter, with an equal
+height, holding about 40 cords of wood. The difference in price is 1-1/8
+d. per bushel in favor of these kilns as compared with the usual mounds,
+the burner being furnished with the use of the kilns, and the timber
+standing, the kiln burning costing 2-1/8 d., and the other 3-1/4 d. The
+kilns must be lined to about halfway up with fire-brick, the cost of which
+will vary with the locality, but will be about L200, and as 40 to 50
+bushels of coal have been made per cord the extra yield on good charcoal
+and the lessening of the cost of making soon covers any extra outlay on
+the cost of the kilns. The wall of the kiln is carried up nearly straight
+for 6 feet, when it is drawn in, so as to become bluntly conical. Upon the
+top a plate of iron is fastened in the manner of the keystone of an arch,
+and bands of iron are passed round the kiln and drawn tight with screw
+bolts and nuts to strengthen it. Double doors of sheet-iron are made at
+the bottom and near the tops, by which it is either filled or emptied, and
+a few air-holes (B), which may be stopped with loose bricks, left in the
+bottom. The second figure shows a kiln of another shape made to burn 3,000
+bushels of charcoal, or about 80 cords of wood. The shape is a
+parallelogram, having an arched roof, and it is strengthened by a
+framework of timber 10 inches square. As the pressure of the gas is
+sometimes very great, the walls must be built a brick and a half thick to
+prevent their bursting. The usual size is 16 feet wide and high, and 40
+feet in length, outside measure. The time occupied in filling, burning,
+and emptying a small cone is about three weeks, and four weeks is required
+for the larger ones.--_The Gardeners' Chronicle._
+
+[Illustration: KILN FOR BURNING CHARCOAL.]
+
+       *       *       *       *       *
+
+
+
+
+ENTRANCE, TIDDINGTON HOUSE, OXON.
+
+
+Our illustration is a view of the entrance facade to Tiddington House,
+Oxfordshire, the residence of the Rev. Joshua Bennett. The house is an old
+building of the Georgian period, and though originally plain and
+unpretentious, its bold coved cornices under the eaves, its rubbed and
+shaped arches, moulded strings, and thick sash bars, made it of
+considerable interest to the admirers of the "Queen Anne" school of
+architecture, and led to the adoption of that style in the alterations and
+additions made last year, of which the work shown in our illustration
+formed a small part. Between the "entrance facade" and the wall of the
+house there is a space of some twenty feet in length, which is inclosed by
+a substantially built conservatory-like erection of Queen Anne design,
+forming an outer hall.
+
+[Illustration: ENTRANCE TIDDINGTON HOUSE OXON.--Morris &
+Stallwood--Architects.]
+
+The works were executed by Messrs. Holly & Butler, of Nettlebed. The brick
+carving was beautifully done by the late Mr. Finlay; and the architects
+were Messrs. Morris & Stallwood, of Reading.--_The Architect._
+
+       *       *       *       *       *
+
+
+
+
+NEW ARRANGEMENT OF THE BICHROMATE OF POTASH PILE.
+
+
+Since Poggendorff in 1842 thought of substituting in the Bunsen battery a
+solution of bichromate of potash and sulphuric acid for nitric acid, and
+of thus making a single liquid pile of it, in suppressing the porous
+vessel, his idea has been taken up a considerable number of times. Some
+rediscovered it simply, while others, who were better posted in regard to
+the work of their predecessors, took Poggendorff's pile as he conceived
+it, and, considering the future that was in store for it, thought only of
+modifying it in order to render it better. Among these, Mr. Grenet was one
+of the first to present the bichromate of potash pile under a truly
+practical form. As long ago as 1856, in fact, he gave it the form that is
+still in use, and that is known as the bottle pile. Thus constructed, this
+pile, as is well known, presents a feeble internal resistance, and a
+greater electro-motive power than the Bunsen element. Unfortunately, its
+energy rapidly decreases, and the alteration of the liquid, as well as the
+large deposit of oxide of chromium that occurs on the positive electrode,
+prevents its being employed in experiments of quite long duration. Mr.
+Grenet, it is true, obviated these two defects by first renewing the
+liquid slowly and continuously, and causing a current of air to bubble up
+in the pile so as to detach the oxide of chromium in measure as the
+deposit formed. Thus improved, the bichromate pile was employed on a large
+scale in the lighting of the Comptoir d'Escompte. In an extensive
+application like this latter, the use of compressed air for renewing the
+liquid can be easily adapted to the bichromate pile, as the number of
+elements is great enough to allow of the putting in of all the piping
+necessary; but when it is only desired to use this pile for laboratory
+purposes, and when there is need of but a small number of elements, it is
+impossible to adopt Mr. Grenet's elements in the form required by an
+electric lighting installation. It becomes absolutely necessary, then, to
+come back to a simpler form, and attempt at the same time to obviate the
+defects which are inherent to its very principle. In accordance with this
+idea, it will be well to point out the arrangement adopted by Mr. Courtot
+for his bichromate of potash piles--an arrangement that is very simple,
+but, sufficiently well worked out to render the use of it convenient in a
+laboratory.
+
+[Illustration: Fig. 1.--COURTOT'S ARRANGEMENT OF THE BICHROMATE PILE.]
+
+Fig. 1 gives the most elementary form. It consists of an earthen vessel
+into which dip four carbon plates connected with each other by a copper
+ring which carries one of the terminals. In the center there is a
+cylindrical porous vessel that contains a very dilute and feebly
+acidulated solution of bichromate of potash into which dips a prism of
+zinc, which may be lifted by means of a rod when the pile ceases to
+operate. It is true that the presence of the porous vessel in the
+bichromate of potash element increases the internal resistance, but, as an
+offset, although it decreases the discharge, it secures constancy and
+quite a long duration for it.
+
+[Illustration: Fig. 2.--COURTOT'S ARRANGEMENT OF THE BICHROMATE PILE.]
+
+The elements thus constituted may be grouped, to the number of six, in a
+frame analogous to that shown in the engraving, and, sum total, form a
+small sized battery adapted to the current experiments of the laboratory,
+and capable of supplying two small four volt lamps for ten or twelve
+hours. We have had occasion to make use of these elements for the
+graduation of galvanometers, and, after ascertaining the constancy of the
+discharge, have found that the internal resistance of each couple is
+nearly 0.175 ohm, with an electro-motive force of two volts. As may be
+seen, these elements should, in general, all be mounted for tension, as
+they are in the figure, inasmuch as the mobility of the zincs permits,
+according to circumstances, of employing a variable number of them without
+changing anything. Moreover, with zincs amalgamated in a special manner,
+the attack is imperceptible, and the work in open circuit need scarcely to
+be taken into consideration.
+
+Yet, despite the qualities inherent to the arrangement that we have just
+described, that defect common to all bichromate of potash piles--the
+deposit of oxide of chromium upon the carbon--is not here avoided. It
+occurs quite slowly, to be sure, but it does occur, and, from this point
+of view, the arrangement shown in Fig. 2 is preferable. The elements here
+are composed of prismatic porcelain vessels containing, as before, the
+solution and porous vessel.
+
+[Illustration: Fig. 3.--COURTOT'S ARRANGEMENT OF THE BICHROMATE PILE.]
+
+The whole is covered with a sheet of ebonite connected with the zinc and
+the two carbon plates in such a way that when the pile is not in operation
+the whole can be lifted from the liquid. Under such circumstances the
+deposit of oxide is notably diminished, and the duration of the discharge
+is consequently greatly increased.
+
+Fig. 3 shows the details of a windlass that permits of lifting, according
+to circumstances, all the elements of the same trough or only a part of
+them. To effect this, the drum around which the chain winds that carries
+the carbons is mounted upon a sleeve fixed upon the axle. This latter is
+actuated by a winch; and a ratchet wheel, R, joined to a click which is
+actuated by a spiral spring, prevents the ebonite plates from falling back
+when it is desired to place the bolt under the button, B, of the spring.
+
+When it is desired to put an element out of the circuit, it is only
+necessary to act with the finger upon the extremity of the lever, D. Under
+the action of the latter, the piece, _s_, which carries a groove for the
+passage of the screws that fix it to the upper cross-piece, takes on a
+longitudinal motion and consequently gears with the drum through the
+toothed sleeve, E. When an experiment is finished the zinc may thus be
+lifted from the liquid, and the deposit of oxide be prevented from forming
+upon the carbon. As may be seen, the arrangements which we have just
+described exhibit nothing that is particularly original. The windlasses
+used for removing the elements from a pile when the circuit is open have
+been employed for a long time; the bichromate pile is itself old, and, as
+we said in the beginning, it has been modified in its details a number of
+times. In spite of this, we have thought it well to point out the mode of
+construction adopted by Mr. Courtot, since, owing to the simplicity of the
+arrangements, it renders convenient and easily manageable a pile of very
+great constancy that may be utilized for supplying incandescent lamps, as
+well as for the most varied experiments of the laboratory.--_La Lumiere
+Electrique._
+
+       *       *       *       *       *
+
+
+
+
+THE DISTRIBUTION OF ELECTRICITY BY INDUCTION.
+
+
+There has been much said in recent times about the distribution of
+electricity by means of induction coils, and the use of this process has
+given rise to several systems that differ but little from one another in
+principle.
+
+The following are a few details in regard to a system due to a Dutch
+engineer:
+
+In the month of December, 1881, a patent relating to the distribution of
+electricity was taken out in Germany and other countries by Mr. B.
+Haitzema Enuma, whose system is based upon a series of successive
+inductions. The primary current developed by a dynamo-electric machine
+gives rise to secondary, tertiary, etc., currents. The principal line runs
+through the streets parallel with their axes, and, when the arrangement of
+the places is adapted thereto, it is closed upon the generator itself. In
+those frequent cases where it is necessary to cause the line to return
+over a path that it has already traversed, it is more advantageous to
+effect the return through the earth or to utilize the street water mains
+or gas pipes as conductors. This return arrangement may likewise be
+applied to the lines of secondary, tertiary, etc., order, as may easily be
+seen.
+
+The induction is effected by the aid of bobbins whose interior consists of
+a bundle of soft iron. The wire of the inducting current is wound directly
+around this core. The wire of the induced current is superposed upon the
+first and presents a large number of spirals. It is useless to say that
+these wires must be perfectly insulated from each other, as well as from
+the soft iron core. We shall call primary bobbins those which are
+interposed in the principal line, and secondary bobbins those in which the
+inducting current is a secondary one, and so on.
+
+It will be at once seen that this arrangement permits of continuing the
+distribution of electricity to the interior of buildings by the simple
+adjunction of one or several bobbins. Each electric apparatus, whether it
+be a lamp or other mechanism, is furnished with a special current. If the
+number of these apparatus be increased, it is only necessary to increase
+the number of bobbins in the same ratio, on condition, be it understood,
+that the intensity of the currents remain sufficient to secure a proper
+working of the apparatus in question. When such intensity diminishes to
+too great a degree, the bobbin must be replaced by a stronger one.
+
+[Illustration: DISTRIBUTION OF ELECTRICITY BY INDUCTION.]
+
+It results from what precedes that each apparatus must be put in in such a
+way as to permit, of the opening and closing of the corresponding circuit.
+This arrangement, moreover, has no need of being dependent upon the
+apparatus, and may just as well be transferred to any part of this same
+circuit. As regards lighting, it is preferable to employ alternating
+current dynamo machines; yet there is nothing to prevent the use of
+continuous current ones, provided that there is an arrangement that
+permits of constantly opening and closing this same circuit. That portion
+of the line which is placed under ground is insulated in the ordinary way
+at the places where it is necessary. As for the underground circuit and
+the induction coils connected therewith, these are protected against all
+external influence, and are at the same time insulated very economically
+by covering them with a coat of very fine silicious sand mixed with
+asphalt.
+
+It is only necessary to inspect the annexed figure to get an accurate idea
+of this system of distribution. C represents the building in which the
+generator of electricity, D, is placed; B, the public street, and Q the
+house of a subscriber. The principal line, E, starts from the terminals,
+_a, b_, of the machine, passes through the primary bobbins, G, and is
+closed through the earth at F. It will be seen that the primary current
+communicates through _d_ and _c_ with the internal winding of the bobbins,
+G, while the secondary currents, H, are connected through _e_ and _f_ with
+the external winding. The same arrangement is repeated for the tertiary
+currents, M, and the quaternary ones, _o, p_. In the annexed example all
+the lines that run parallel with the axis of the streets are closed
+through the earth, while those that have a direction perpendicular thereto
+enter the houses of subscribers and form a closed circuit. In the interior
+of these houses the wires, as well as the induction coils, are insulated
+and applied to the walls. At Q is represented the arrangement that would
+have to be adopted in the case of a structure consisting of a vestibule,
+_r_, and two rooms, _s_, lighted by two electric lamps, R. In the portion
+of the figure situated to the left it is easy to see the process employed
+for insulating the line. A commencement is made by digging a ditch in the
+street and paving the bottom of it with bricks. Upon these latter there is
+laid a mixture of sand and asphalt, and then the wires and bobbins are put
+in, and the whole is finally covered with a new insulating layer.
+
+It is a simple statement that we make here, and it is therefore not for us
+to discuss the advantages and disadvantages of the system. If we are to
+believe Mr. Enuma, the advantages are very numerous, to wit: (1) The
+cables have no need of being of large size; (2) the intensity is the same
+through the entire extent of the primary circuit, secondary one, etc.; (3)
+the resistance is invariable in all portions of the line; (4) the
+apparatus are independent of each other, and consequently there may be a
+disturbance in one or several of them without the others suffering
+therefrom; (5) either a strong or weak luminous intensity may be produced,
+since, that depends only upon the size of the coil employed; (6) there is
+no style of lamp that may not be used, since each lamp is mounted upon a
+special circuit; (7) any number of lamps may be lighted or extinguished
+without the others being influenced thereby; (8) when a fire or other
+accident happens in a house, it in no wise interferes with the service in
+the rest of the line; (9) the system could, were it required, be connected
+with any other kind of existing line; and (10) the cost of installation is
+infinitely less than that of a system of gas pipes embracing the same
+extent of ground.--_La Lumiere Electrique._
+
+       *       *       *       *       *
+
+
+
+
+ELECTRICITY APPLIED TO THE STUDY OF SEISMIC MOVEMENTS.
+
+
+Italy, with her volcanic nature, has very naturally made a specialty of
+movements of the ground, or seismic perturbations. So the larger part of
+the apparatus designed for such study are due to Italians. Several of
+these instruments have already been, described in this journal, and on the
+present occasion we shall make known a few others that will serve to give
+an idea of the methods employed.
+
+For the observation of the vertical and horizontal motions of the ground,
+different apparatus are required. The following is a description of those
+constructed for each of such purposes by the Brassart Brothers.
+
+[Illustration: FIG. 1.--APPARATUS FOR THE STUDY OF HORIZONTAL SEISMIC
+MOVEMENTS.]
+
+_Apparatus for Studying Horizontal Movements._--A lever, (Fig. 1), movable
+about a horizontal axis, carries a corrugated funnel, _i_, at one of its
+extremities. At the other extremity it is provided with a counterpoise
+which permits of its being exactly balanced, while not interfering with
+its sensitiveness.
+
+[Illustration: FIGS. 2 AND 3.--DETAILS OF THE APPARATUS.]
+
+The opening of the funnel passes freely around a column, _v_ (Fig. 2),
+upon which is placed in equilibrium a rod that terminates in a weight, P.
+The corrugations of the funnel carry letters indicating the four cardinal

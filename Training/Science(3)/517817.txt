@@ -1,0 +1,425 @@
+heat are produced, nor converted into power, as we are sometimes told.
+But whatever the phenomena produced, the aggregate amount of static
+and dynamic caloric is always and ever the same.
+
+If we consider the Ritter-Plant-Faure-Battery, which is mentioned as
+storing electricity, we find that the phenomena exhibited by the use
+of this apparatus are produced by the same factor. The battery is
+composed of two sheets of lead, which are covered with a layer of
+minium (Pb3O4). The sheets are laid one upon the other with an
+intervening layer of felt. The pack is then rolled up in a spiral form
+and placed in a vessel containing acidulated water. One of the plates
+is connected with the positive, and the other plate with the negative
+pole of a battery or generator.
+
+When the current of electricity enters the battery, the Pb3O4 on the
+positive plate is reduced to Pb, and the oxygen so set free attacks
+the Pb3O4 on the negative plate, and oxidizes it to PbO2. In this
+chemical action, caloric is occluded in the Pb and unlocked in the
+PbO2, but a much greater amount of caloric is locked up than is
+unlocked, although the amount of oxygen used in both cases is
+precisely the same, which has been fully explained in the oxidation of
+carbon.
+
+Now after the battery has been thus charged and the wires disengaged,
+the chemical action ceases for want of the reducing agent (_dynamic
+caloric_), and the apparatus may be held at rest, or transported to
+any distance required. When it is desired to utilize the force thus
+stored, the poles are changed by grounding the positive wire, and
+attaching the other to the conduit through which the electricity is to
+flow. The chemical action is thus reversed, and the PbO2 is reduced to
+Pb3O4, the oxygen thus set free attacks the Pb on the other plate,
+oxidizing it to Pb3O4, thus unlocking all the caloric which was
+occluded by the first action. In a battery of this kind weighing 75
+pounds, we are informed by Sir William Thomson, that one million foot
+pounds of force may be stored, and again set free for use.
+
+Thus we find that the principle upon which the Faure battery is formed
+is not new, and the prime factor producing the phenomena is the same
+as has been shown to have caused all other phenomena referred to, and
+indeed the principle is the same as now employed by the author in the
+basic dephosphorizing process, i.e., caloric is occluded in
+phosphorus by smelting in a blast furnace, and unlocked in the
+converter, for the purpose of securing the fluidity of the metal
+during treatment. The difference being, that one is done by
+non-luminous, while the other is by luminous combustion.
+
+If we consider the phenomenon of light, we find that it is due to the
+same force. As before stated, when we oxidize carbon, or hydrogen, as
+in the rapid combustion of wood, oil, or coal, the escaping caloric
+flies off with such great speed as to cause the molecules in the
+circumambient medium to assume a velocity which exhibits luminosity.
+Thus the light produced by burning candles, oil, gas, wood, and coal,
+is caused by the same prime factor, dynamic caloric.
+
+The force of caloric is imponderable and invisible, and is only known
+by its effects. We do know that it is occluded in metals and other
+material, because we can unlock it and set it free, or we can transfer
+it from one body to another, and by measuring its effects, we can
+determine its quantity. We know that it prefers to travel over one
+vehicle more than another, and by this knowledge we are able to
+insulate it, and thus conduct it in any direction desired. The
+materials through which it passes with the greatest freedom are called
+conductors, and the materials which most retard its passage,
+non-conductors; but these terms must be taken in a comparative sense
+only, as in fact there are no absolute non-conductors of dynamic
+caloric, or of what we call electricity.
+
+The dynamo-electric generator simply draws the dynamic caloric from
+the air or earth, or both, and confines it in an insulated path. Now
+if that path be a No. 10 wire, the conduit may be sufficient to permit
+the caloric to pass without increasing the molecular velocity of the
+metal to an appreciable degree, but if we cut the No. 10 wire and
+insert a piece of No. 40 platinum wire in the path, the amount of
+caloric flowing through the No. 10 wire cannot pass through the No. 40
+wire, and the resistance so caused increases the molecular velocity of
+the No. 40 wire to such degree as to exhibit the phenomenon of
+incandescence, and this is the incandescent electric light. And if we
+consider the carbon light, we find that the current of caloric, in
+passing from one pencil to the other, produces a molecular velocity of
+luminosity in the adjoining atmosphere, and in addition a portion of
+the carbon is consumed, which sets free an additional amount of
+caloric, at a very high velocity, hence the intensity of the carbon
+electric light is largely due to the dynamic caloric unlocked from the
+pencils, and thus we find that the electric light produced by either
+method is due to the action of dynamic caloric.
+
+Taking this theory based upon physical science, and the facts which we
+know pertaining to electricity, I conceive that caloric exists in two
+conditions. _Static caloric_ is what we call _latent heat_, and
+_dynamic caloric_ is what we call _electricity_. Therefore what may we
+expect of it (electricity) is merely a matter of economy in the
+development and utilization of dynamic caloric; in other words, can we
+unlock static caloric by non-luminous combustion, and thus develop
+_dynamic caloric as a first power_ more economically per foot pound
+than we now do or can hereafter do by luminous combustion? Second, can
+we utilize water and wind for the production of _dynamic caloric as a
+first power_? Third, can we utilize the differential tension of
+dynamic caloric in the earth and the atmosphere as _a first power_?
+Fourth, will it pay to use luminous combustion as a first power to
+generate dynamic caloric as _a second power_?
+
+WHAT MAY WE EXPECT OF IT.
+
+Let us take the steam engine, and see what we are now doing by
+luminous combustion. Good Pittsburg coal contains 87 per cent. of
+carbon, 5 per cent. of hydrogen, 2 per cent. of oxygen and 6 per cent.
+of ash; we therefore have in one pound of such coal:
+
+    8,080 x 9   14,544 x 87
+    --------- = ----------- = 12,653 units in carbon.
+        5           100
+
+    34,662 x 9   62,391 x 5    3,119 units in hydrogen.
+    ---------- = ---------- = ------
+        5           100       15,772 units in coal.
+
+15,772 x 772[2] = 12,175,984 foot pounds of energy is occluded in the
+static caloric contained in one pound of such coal.
+
+   [Footnote 2: Dr. Joule--foot pounds in one unit.]
+
+A horse-power is estimated as capable of raising 33,000 pounds one
+foot high per minute, and for this reason it is termed 33,000 foot
+pounds per minute. So we have 33,000 x 60 = 1,980,000 foot pounds per
+hour, as a horse-power.
+
+The best class of _compound condensing_ engines,[3] with all the
+modern improvements, require 1.828 pounds of coal per 1 h.p. per hour.
+Thus we have--
+
+    12,175,984 x 1.828 .................22,257,699
+    Foot pounds in one h.p. .............1,980,000
+                                        ----------
+    Foot pounds lost per h.p. ..........20,277,699
+
+    Per cent utilized per h.p. ..............8.94
+    Per cent lost per h.p. .................91.06
+                                           ------
+                                           100.00
+
+   [Footnote 3: "American Engineer," Vol. II., No. 10, page 182.]
+
+In the ordinary practice of stationary non-condensing engines, from
+three to four pounds of coal are required per horse-power per hour.
+Now, taking the best of this class at 3 pounds, we have--
+
+    12,175,984 x 3 =      36,527,952
+    One h.p.               1,980,000
+                          ----------
+    Loss per h.p.         34,547,952
+
+    Per cent utilized per h.p.  5.42
+    Per cent lost per h.p.     94.58
+                              ------
+                              100.00
+
+From these facts it may be assumed that after making due allowance for
+variable qualities of the coal, the steam engine process, as at
+present practiced, will not utilize more than from 5 to 10 per cent.
+of the energy contained in the fuel used. It will thus be seen that
+the process of converting static to dynamic caloric by luminous
+combustion, by means of the steam engine, is an exceedingly wasteful
+and costly method, and leaves much room for economy.
+
+Taking an ordinary grade of petroleum as consisting of 13 per cent.
+hydrogen, 78 carbon, 6 oxygen, 3 nitrogen and ash, we have as its
+energy in foot pounds per pound of oil--
+
+    62,391 x 13              }
+    -----------  = 8,110 H.  }
+         100                 }
+                             } 19,454 units.
+    14,544 x 78              }
+    -----------  = 11,344 C. }
+         100                 }
+
+19,454 x 772 = 15,018,488 foot pounds. Thus, while our best coal
+contains twelve million, the petroleum contains fifteen million foot
+pounds of occluded energy in each pound, which is equal to 118,000,000
+foot pounds, or 60 horse power for one hour, from one gallon of such
+oil.
+
+At present electricity is generated by two methods, and both of these
+are _second powers_. Metals are smelted by luminous combustion as a
+first power, and then oxidized by non-luminous combustion as a _second
+power_, and coal is consumed by luminous combustion, by which steam is
+generated as a first power, to drive a dynamo-generator whereby
+electricity is obtained as a _second power_. Now, of the two methods,
+the latter is much the cheaper, and as I have shown that the best
+compound condensing engines only utilize 8.94, and a fair average
+single cylinder condensing engine only utilizes 5.42 per cent. of the
+energy of the fuel consumed, and as at the best not over 70 per cent.
+of the foot pounds obtained from the engine can be utilized as
+electricity, from which we must deduct loss by friction, etc., it will
+be readily seen that not more than 5 per cent. of the energy of the
+fuel can be developed by the dynamo-generator as electricity by the
+present method.
+
+The great want of the present age is a process by which the static
+caloric of carbon or a hydrocarbon maybe set free by non-luminous
+combustion; or, in other words, a process by which coal or oil may be
+oxidized at a low degree, within an insulated vessel; if this can be
+accomplished (and I can see no reason why we should not look for such
+invention), we would be able to produce from twelve to fifteen million
+foot pounds of energy (electricity) from one pound of petroleum, or
+from ten to twelve million foot pounds from one pound of good coal,
+which would be a saving of from 90 to 95 per cent. of present cost,
+and leave the steam engine for historical remembrance.
+
+Electricity may be generated by water or wind power to great
+advantage, and conveyed to a distance for motive power. The
+practicability of generating electricity at Niagara by which to propel
+trains to New York and return may be considered almost settled; and I
+conceive a second invention of importance which is now needed is an
+apparatus by which the rising and falling tides may be utilized for
+driving dynamo machines, by which electricity may be generated for
+lighting the coast cities, and it is not unreasonable to expect that
+such an apparatus will soon be provided; and in such an event gas
+companies would suffer.
+
+It is a well known fact among electricians that the volume and tension
+of electricity vary both in the earth and in the atmosphere at
+different sections of the earth's surface, and I conceive that we may
+yet find means of utilizing this differential tension of electricity;
+indeed, it is reported that during a recent storm the wires of an
+ocean cable were grounded at both ends and a sufficient current for
+all practical purpose flowed from the European to the American
+continent, with all batteries removed, showing that the tension was so
+much greater in Europe as to cause the electricity to flow through the
+copper cable to this side in preference to passing through the earth
+or the sea. It is also said that during an east-going storm it was
+found impossible to work the telegraph lines between New York and
+Buffalo, but on taking off the batteries at both ends and looping the
+ends of the wire in the air, that a constant current of electricity
+passed from Buffalo to New York, and the line was kept in constant use
+in that direction without any battery connection until the storm
+abated. Now, how far or to what advantage we may be able to utilize
+this differential tension of electricity in the earth and the air, we
+cannot now say; but I think that we may justly look for valuable
+developments in this direction.
+
+If, as I verily believe, a process will soon be discovered by which
+dynamic caloric can be produced by the oxidation of petroleum with
+non-luminous combustion in an insulated chamber, as we now oxidize
+zinc, electricity will then be obtained from so small a weight, and at
+such a low cost, as to insure aerial navigation beyond a doubt. Not
+with balloons and their cumbrous inflations, but with machines capable
+of carrying the load, and traveling by displacement of the air at high
+velocities. Therefore we may expect that aerial navigation will be
+developed in the near future to be one of the greatest enterprises of
+the world.
+
+And lastly, will it pay to use luminous combustion as a first power
+for generating dynamic caloric for use as a second power, as is now
+practiced?
+
+At the University of Pennsylvania, in Philadelphia, gas is consumed in
+an Otto gas engine, which drives a Gramme generator; and the lecture
+room is lighted with electricity, and I am informed that the light is
+both better _and cheaper_ than when they used the gas in the ordinary
+gas burners. Hence we may expect to see gas consumed to advantage for
+producing electric lights.
+
+Considering the difficulties of transmitting steam power to a
+considerable distance, and the comparative great cost of running small
+engines, it is more than likely that electricity as at present
+generated will be found to be economical for driving small motors.
+
+Having thus endeavored to explain what electricity is, and the laws
+which govern the occlusion of static caloric, and the development of
+dynamic caloric (electricity), in conclusion I call the attention of
+the inventors of the age to the great need of a process for oxidizing
+coal or oil at a low degree, within an insulated vessel. With such an
+invention electricity would be obtained at such a low cost that it
+would be used exclusively to light and heat our houses, to smelt,
+refine, and manipulate our metals, to propel our cars, wagons,
+carriages, and ships, cook our food, and drive all machinery requiring
+motive power.
+
+       *       *       *       *       *
+
+
+
+
+ELECTRIC LIGHT APPARATUS FOR PHOTOGRAPHIC PURPOSES.
+
+By A.J. JARMAN.
+
+
+For some time past it has been the desire of many photographers to
+have at hand a ready means of producing a powerful and highly actinic
+artificial light, suitable for the production of negatives, and easily
+controllable. Several forms of apparatus have been designed, and I
+believe have been, to a certain extent, employed successfully in
+portraiture. But it has been well known for many years that the
+electric light was just the light that would answer the photographer's
+requirements, owing to its possessing great actinic power; but the
+cost of its production was too great for general adoption; indeed,
+such might be said of it now as far as dynamo-electric machines and
+steam or gas motors are concerned, for the majority of photographers.
+It is true that several influential photographers have already adopted
+the use of the electric light for portraiture, but the primary cost of
+the apparatus employed by these firms is far beyond the reach of most
+portraitists. The apparatus about to be described is one that has been
+carefully worked out to meet the wants of the photographer in almost
+every particular; in fact, with this apparatus, portraits can, and
+have been, produced in an ordinary sitting room, as good and as
+perfect as if taken in a well-lighted studio.
+
+[Illustration: FIG. 1.]
+
+The generator of the electric current consists of a series of voltaic
+elements of zinc and carbon--forty-eight in number--these elements
+being made up of ninety-six zinc plates and forty-eight carbon plates;
+thus the generator consists of forty-eight voltaic elements arranged
+in rows of twelve; they are all carefully screwed upon suitable bars
+of wood, and these bars are joined by other cross bars, which bind the
+whole in a compact form; the battery being suitably connected so as to
+produce a current of very high electro-motive force, and so arranged
+over their exciting trough that the plates can be raised or lowered at
+will, as seen in Fig. 1, which will explain itself almost at first
+sight.
+
+The troughs are made of mahogany, put together with brass screws, and
+well saturated with an insulating compound which also makes them acid
+proof; the cells are charged with a saturated solution of bichromate
+of potash, to which has been added twenty fluid ounces of sulphuric
+acid to each gallon.
+
+[Illustration: FIG. 2.]
+
+To produce the electric current, all that is needed is to lower these
+suspended elements down into the trough, having previously connected
+the wires as shown in Fig. 1, to the electric lamp, Fig 2. At once a
+light starts up, between the carbon pencils, of a thousand-candle
+power or more. With a light of this power, a large head on cabinet or
+carte size plate may be produced in three or four seconds.
+
+The generator occupies a floor space of three feet six inches by two
+feet, and stands two feet six inches high. The cells will cost 5s. to
+charge, and will produce upward of sixty negatives before being
+exhausted. All that is necessary, in recharging, is to lift the
+elements up out of the way, take out the troughs by their handles and
+empty them, charging them again by means of a toilet jug. When
+replaced, the whole apparatus is fit for use again; the whole of the
+above operation occupies but a quarter of an hour, and as there are no
+earthenware cells employed, there is no fear of breakage.
+
+The small amount of labor and cost of working the above apparatus will
+compare favorably with the production of the electric light from a
+dynamo-electric machine for the photographer, and when we consider
+that the cost of the whole of the above apparatus, consisting of a
+generator automatic lamp, reflector, and all the necessary
+appendages, is less then one-tenth of the dynamo machine, motor,
+shafting, etc., to produce the same result, it would seem to have a
+greater claim for its adoption with those who wish to employ the
+electric light, whether for work at night, use in the sitting room, or
+to assist daylight on the dark and foggy days of winter.
+
+Fig. 2 shows the arrangement of the electric lamp. A is the automatic
+regulator; B, the reflector; C, top extension of the reflector; D,
+small tissue paper screen to prevent the intense arc-rays from coming
+in contact with the sitter; E, stand with sliding rod. This appendage
+can be wheeled about with ease, as it is arranged to run upon four
+casters.
+
+When the generator is in use it may be placed within easy reach of the
+operator, so that the exposure may be made by lowering the elements in
+their troughs just for the requisite time, and withdrawing immediately
+the exposure is made; there is no need to fear any inconvenience from
+deleterious fumes as none are given off, so it may be used in any
+studio or sitting-room without any inconvenience from this source, and
+as far as many trials have gone, it seems to meet every requirement
+demanded by the photographer for the production of portraits by means
+of the electric light.--_Photo. News._
+
+       *       *       *       *       *
+
+
+
+
+DESRUELLES'S ELECTRIC LIGHTER
+
+
+[Illustration: ELECTRIC LIGHTER.]
+
+The little apparatus shown in the accompanying cut will certainly find
+favor with smokers, as well as with persons generally who often have
+need of a fire or light. It forms one of the most direct applications
+of dry piles of all the systems on the Desruelles plan. Instead of
+filling piles with a liquid, this plan contemplates the introduction
+into them of a sort of asbestos sponge saturated with an acid or any
+suitable solution. In this way there is obtained the advantage of
+having a pile which is in some sort _dry_, that may be moved, shaken,
+or upset without any outflow of liquid, and which will prove of
+special value when applied to movable apparatus, such as portable
+lighters, alarms on ships, railroads, etc. It is hardly necessary to
+say that while the introduction of this inert substance diminishes the
+volume of the liquid, the electro-motive force of the pile is thereby
+in nowise affected, but its internal resistance is increased. This,
+however, is of no consequence in the application under consideration.
+The lighter consists of a small, round, wooden box containing the
+pile, and surmounted by a spirit lamp. A platinum spiral opposite the
+wick serves for producing the light. The pile is a bichromate of
+potash element, in which there is substituted for the liquid a
+solution of bichromate identical with that used in bottle piles. The
+zinc is suspended from a small lever, in which it is only necessary to
+press slightly to bring the former in contact with the asbestos paste,
+when, the zinc being attached, a current is set up which traverses the
+spiral, heats it to redness, and lights the spirit. The pile, when
+once charged, may be used for several hundred lightings. When the
+spiral no longer becomes red hot, it is only necessary to replace the
+paste--an operation of extreme simplicity. When the pressure is
+removed from the little lever, the zinc, being raised, is no longer
+acted upon by the liquid with which the asbestos is saturated. Mr
+Desruelles is constructing upon the same principle a gas lighter, the
+pile of which is fixed at the extremity of a handle whose length
+varies with the height of the gas burners to be reached. These little
+domestic apparatus are being exhibited at the Paris Electrical
+Exhibition.
+
+       *       *       *       *       *
+
+
+

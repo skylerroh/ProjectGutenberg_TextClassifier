@@ -1,0 +1,351 @@
+this way we easily get a sort of windlass quite strong enough for our
+purpose.
+
+Fig.   35.
+
+Provide a large blow-pipe, such as the blow-pipe of a Fletcher
+crucible furnace, Select a length of tubing and clean it.  Lash one
+end to the cylinder by means of a bit of wire, and hold the other end
+out nearly horizontally.  Then start the blow-pipe to play on the tube
+just where it runs on to the asbestos cylinder, and at first right up
+to the lashing.  Get an attendant to assist in turning the handle of
+the windlass, always keeping his eye on the tube, and never turning so
+fast as to tilt the tube upwards.  By means of the blow-pipe, which
+may be moved round the tubing, heat the latter continuously as it is
+drawn through the flame, and lay it on the cylinder in even spirals.
+
+If the tubing is thin, a good deal of care will have to be exercised
+in order to prevent a collapse.  A better arrangement, which, however,
+I have not yet tried, would, I think, be to replace the blow-pipe by
+two bats-wing burners, permanently fastened to a stand, one of them
+playing its flame downwards on to the top of the flame of the other.
+The angle between the directions of the jets might be, say, 130 deg., or
+whatever is found convenient.  In this way the glass would not be so
+likely to get overheated in spots, and better work would doubtless
+result.  However, I have made numbers of perfectly satisfactory
+spirals as described.  Three or four turns only make a sufficiently
+springy connection for nearly all purposes.
+
+Sec. 37.  On Auxiliary Operations on Glass:-
+
+Boring Holes through Glass:-  This is much more easily done than is
+generally supposed.  The best mode of procedure depends on the
+circumstances.  The following three cases will be considered:-
+
+1.  Boring holes up to one-quarter inch diameter through thick glass
+(say over one-eighth inch), or rather larger holes through thin glass.
+
+2.  Boring holes of any size through thick glass.
+
+3.  Boring round holes through ordinary window glass.
+
+Sec. 38.  Boring small Holes.
+
+Take a three-cornered file of appropriate dimensions, and snip the
+point off by means of a hammer;  grind out most of the file marks to
+get sharp corners.  Dip the file in kerosene, and have plenty of
+kerosene at hand in a small pot.  Place the broken end of the file
+against the glass, and with considerable pressure begin to rotate it
+(the file) backwards and forwards with the fingers, very much as one
+would operate a bradawl against a hard piece of wood.  The surface of
+the glass will shortly be ground away, and then the file bradawl will
+make much quicker progress than might be expected.  Two or three
+minutes should suffice to bore a bit of sheet window-glass.
+
+The following points require attention:
+
+(1) Use any quantity of oil.
+
+(2) After getting through the skin  reduce the pressure on the file.
+
+(3) Be sure to turn the file backwards and forwards through a complete
+revolution at least.
+
+(4) When the hole is nearly through reduce the pressure.
+
+(5) When the hole is through the glass be exceedingly careful not to
+force the file through too rapidly, otherwise it will simply act as a
+wedge and cause a complete fracture.
+
+(6) In many cases it is better to harden the file in mercury before
+commencing operations; both files and glass differ so much in hardness
+that this point can only be decided by a trial.  If it is found
+necessary to harden the file, use either a large blow-pipe and a coke
+or charcoal bed, or else a small forge.  A small blowpipe, such as is
+generally found in laboratories, does more harm than good, either by
+burning the end of the file or raising it to an insufficient
+temperature.
+
+(7) To sharpen the file, which is often necessary after passing
+through the "skin" of the glass, put it in a vice so that the point
+just protrudes clear of the jaws.  Then, using a bit of waste iron as
+an intermediary anvil or punch, knock off the least bit from the
+point, so as to expose a fresh natural surface.  The same result may
+be brought about by the use of a pair of pliers.
+
+If several holes have to be bored, it is convenient to mount the file
+in the lathe and use a bit of flat hard wood to press up the glass by
+means of the back rest.  A drilling machine, if not too heavy, does
+very well, and has the advantage of allowing the glass to remain
+horizontal so that plenty of oil can be kept in the hole.
+
+Use a very slow speed in either case--much slower than would be used
+for drilling wrought iron.  It is essential that the lubricant should
+flow on to the end of the file very freely, either from a pipette or
+from the regular oil-feed.  If a little chipping where the file
+pierces the back surface is inadmissible, it is better, on the whole,
+to finish the bore by hand, using a very taper file.  It is not
+necessary to use a special file for the lathe, for a well-handled file
+can be chucked very conveniently in a three-jaw chuck by means of the
+handle.
+
+Mr. Shenstone recommends a lubricant composed of camphor dissolved in
+turpentine for general purposes.  With the object of obtaining some
+decisive information as to the use of this lubricant, and to settle
+other points, I made the following experiments.  Using an old
+three-cornered French file, I chipped off the point and adjusted the
+handle carefully.  I also ground out the file marks near the point,
+without hardening the file in mercury.  Using kerosene and turpentine
+and camphor, I began to bore holes in a hard bit of 3/32 inch window
+glass.
+
+Each hole was bored to about one-eighth inch in diameter in four
+minutes with either lubricant.  After hardening the file in mercury
+and using kerosene, I also required four minutes per hole.  After
+mounting the file in a lathe which had been speeded to turn up brass
+rods of about one-half-inch diameter, and therefore ran too fast, I
+required one and a half minutes per hole, and bored them right
+through, using kerosene.  On the whole, I think kerosene does as well
+as anything, and for filing is, I think, better than the camphor
+solution.  However, I ought to say that the camphor-turpentine
+compound has probably a good deal to recommend it, for it has survived
+from long ago.  My assistant tells me he has seen his grandfather use
+it when filing glass.
+
+I beg to acknowledge my indebtedness to Mr. Pye, of the Cambridge
+Scientific Instrument Company, for showing me in 1886 (by the courtesy
+of the Company) the file method of glass-boring;  it is also described
+by Faraday in Chemical Manipulation, 1228.
+
+It is not necessary, however, to use a file at all, for the twist
+drills made by the Morse Drill Company are quite hard enough in their
+natural state to bore glass.  The circumferential speed of the drill
+should not much exceed 10 feet per minute.  In this way the author has
+bored holes through glass an inch thick without any trouble except
+that of keeping the lubricant sufficiently supplied.  For boring very
+small holes watchmaker's drills may be used perfectly well, especially
+those tempered for boring hardened steel.  The only difficulty is in
+obtaining a sufficient supply of the lubricant, and to secure this the
+drill must be frequently withdrawn.
+
+My reason for describing the file method at such length is to be found
+in the fact that a Morse drill requires to be sharpened after drilling
+glass before it can be used in the ordinary way, and this is often a
+difficulty.
+
+I ought to say that I have never succeeded in boring the barrel of a
+glass tap by either of these methods.  [Footnote: I have been lately
+informed that it is usual to employ a splinter of diamond set in a
+steel wire holder both for tap boring and for drilling earthenware for
+riveting.  The diamond must, of course, be set so as to give
+sufficient clearance for the wire holder.
+
+For methods of using and setting diamond tools see Sec. 55.  It will
+suffice to say here that a steel wire is softened and filed at one end
+so as to form a fork;  into this the diamond is set by squeezing with
+pliers.  The diamond is arranged so as to present a point in the axis
+of the wire, and must not project on one side of the wire more than on
+the other.  It is not always easy to get a fragment satisfying these
+conditions, and at the same time suitable for mounting.  A drop of
+solder occasionally assists the process of setting the diamond.
+
+In drilling, the diamond must be held against the work by a constant
+force, applied either by means of weight or a spring.  I made many
+trials by this method, using a watchmaker's lathe and pressing up the
+work by a weight and string, which passed over a pulley.  I used about
+40 ounces, and drilled a hole 3/32 in diameter in flint glass at a
+speed of 900 revolutions per minute to a depth of one-eighth of an
+inch in eight minutes.  I used soap and water as a lubricant, and the
+work was satisfactory.
+
+Since this was set up, I have been informed by Mr. Hicks of Hatton
+Garden that it is necessary to anneal glass rod by heating it up to
+the softening point and allowing it to cool very slowly under red-hot
+sand or asbestos before boring.  If this be done, no trouble will be
+experienced.  The annealing must be perfect.]
+
+Sec. 39.  For boring large holes through thick glass sheets, or, indeed,
+through anything where it is necessary to make sure that
+no accident can happen, or where great precision of position and form
+of hole is required, I find a boring tube mounted as shown in the
+picture (Fig.  36) is of great service.  Brass or iron tube borers do
+perfectly well, and the end of the spindle may be provided once for
+all with a small tube chuck, or the tubes may be separately mounted as
+shown.  A fairly high speed is desirable, and may be obtained either
+by foot, or, if power is available, is readily got by connecting to
+the speed cone of a lathe, which is presumably permanently belted to
+the motor.
+
+Fig.  36.
+
+After trying tubes armed with diamond dust, as will be presently
+explained, I find that emery and thin oil or turpentine, if liberally
+supplied below the glass, will do very nearly as well.  The tube
+should be allowed to rise from the work every few seconds, so as to
+allow of fresh emery and oil being carried into the circular grooves.
+This is done by lifting the hinged upper bearing, the drill being
+lifted by a spiral spring between the pulley and the lower bearing
+shown at B.  The glass may be conveniently supported on a few sheets
+of paper if flat, or held firm in position by wooden clamps if of any
+other shape.  In any case it should be firmly held down and should be
+well supported.  Any desired pressure upon the drill is obtained by
+weighting the hinged board A.
+
+Sec. 40.  The following method was shown to me by Mr. Wimshurst, but I
+have not had occasion to employ it myself.  It is suitable for boring
+large holes through such glass as the plates of Mr. Wimshurst's
+Influence machines are usually made of.  A diamond is mounted as the
+"pencil" of a compass, and with this a circle is drawn on the glass in
+the desired position.  The other leg of the compass of course rests on
+a suitable washer.
+
+To the best of my recollection the further procedure was as follows.
+A piece of steel rod about one-eighth inch in diameter was ground off
+flat and mounted in a vice vertically, so as to cause its plane end to
+form a small horizontal anvil.  The centre (approximately) of the
+diamond-cut circle of the glass was laid on this anvil so as to rest
+evenly upon it, and the upper surface (i.e.  that containing the cut)
+was then struck smartly with a hammer, completely pulverising the
+glass above the anvil.  The hole was gradually extended in a similar
+manner right up to the diamond cut, from which, of course, the glass
+broke away.
+
+A similar method has long been known to glaziers, differing from the
+preceding in that a series of diamond cuts are run across the circle
+parallel to two mutually perpendicular diameters.  A smart tap on the
+back of the scored disc will generally cause the fragments to tumble
+out.  I have never tried this myself, but I have seen it done.
+
+Large discs may easily be cut from sheet glass by drawing a circular
+diamond cut, and gradually breaking away the outer parts by the aid of
+additional cuts and a pair of pliers or "shanks" (see Fig.  44).
+
+Sec. 41.  Operations depending on Grinding: Ground-in Joints.
+
+The process will be perfectly understood by reference to a simple
+case.  Suppose it is desired to grind the end of a tube into the neck
+of a bottle.  If a stoppered bottle is available, the stopper must be
+taken out and measured as to its diameter at the top and bottom.
+Select a bit of tube as nearly as possible of the same diameter as the
+stopper at its thickest part.  Draw down the glass in the blow-pipe
+flame rather by allowing it to sink than by pulling it out.  After a
+few trials no difficulty will be experienced in making its taper
+nearly equal to that of the stopper, though there will in all
+probability be several ridges and inequalities.  When this stage is
+reached anneal the work carefully and see that the glass is not too
+thin.  Afterwards use emery and water, and grind the stopper into the
+bottle.
+
+There are six special directions to be note
+
+(1 )Turn the stopper through at least one revolution in each
+direction.
+
+(2) Lift it out often so as to give the fresh emery a chance of
+getting into the joint.
+
+(3) Rotate the bottle as well as the stopper in case there is any
+irregularity in the force brought to bear, which might cause one side
+of the neck to be more ground than another, or would cause the tube to
+set rather to one side or the other.
+
+(4) Use emery passing a 50 sieve, i.e.  a sieve with fifty threads to
+the inch run (see Sec. 144) to begin with, and when the stopper nearly
+fits, wash this thoroughly away, and finish with flour emery,
+previously washed to get rid of particles of excessive size;  the
+process of washing will be fully discussed in the chapter on
+glass-grinding, which see.
+
+(5) Any degree of fineness of surface may be obtained by using graded
+emery, as will be explained, but, in general, it is unnecessary to
+attempt a finer surface than can be got with washed flour emery.  A
+superficial and imperfect polish may be given by grinding for a short
+time with powdered pumice stone.
+
+(6) If the proper taper is not attained by blowing, or if ridges are
+left on the tapered part, the process may be both hastened and
+improved by giving the taper a preliminary filing with a
+three-cornered file and kerosene, just as one would proceed with iron
+or brass.  A little filing will often save a good deal of grinding and
+make a better job.
+
+If a bottle without a tapered neck is to be employed, it is as well to
+do the preliminary grinding by means of a cone turned up from a bit of
+cast iron.  This is put in the lathe and pushed into the mouth of the
+bottle, the latter being supported by the hands.  Use about the same
+surface speed as would be employed for turning cast iron.  In this
+case the emery is better used with kerosene.
+
+If a cylindrical bit of cast iron about an inch in diameter is turned
+down conically nearly to a point, it will save a good deal of trouble
+in making separate cones.  If it gets ground into rings, and it
+becomes necessary to turn it up, use a diamond tool until the skin is
+thoroughly removed;  the embedded emery merely grinds the edge off any
+ordinary steel tool.
+
+For diamond tools see Sec. 55.
+
+Sec. 42.  Use of the Lathe in Glass-working.
+
+If it is necessary to remove a good deal of glass, time may be saved
+by actually turning the glass in a lathe.  According to the direction
+given above for grinding a tube into the neck of a bottle, very little
+glass need be removed if the drawing down is well done, so that for
+this purpose turning is often unnecessary.
+
+If the taper of the stopper be small and it is permissible to use a
+thick tube, or if a solid stopper only has to be provided, or an old
+stopper quickly altered to a new form, turning is very useful.  The
+glass may be "chucked" in any suitable manner, and run at a speed not
+exceeding 10 feet per minute.  Prepare a three-cornered file by
+mercury-hardening and by grinding the end flat so as to form a cutting
+angle of about 80 deg., and use a moderate amount of kerosene lubrication,
+i.e.  enough to keep the glass damp, but even this is not essential.
+Use the file as an ordinary brass turning tool, and press much more
+lightly than for metal turning.  The glass will be found to scrape off
+quite pleasantly.
+
+By chucking glass tubes on wooden mandrells the ends may be nicely
+turned in this manner ready for accurate closing by glass plates.
+
+The process of grinding also is made much more rapid--at all events
+in the earlier stages--by chucking either the stopper or the bottle
+and holding the other member in the fingers, or in a wooden vice held
+in the hands.  The finishing touches are best given by hand.
+
+I ought to say that I think a good deal of glass-grinding, as
+practised in laboratories, might be advantageously replaced by glass
+turning or filing and certainly will be by any one who will give these
+methods a trial.
+
+If one tube is to be ground into another, as in grinding a retort into
+a receiver, the latter must be drawn down from a larger piece, few
+beginners being able to widen a tube by the method explained with
+sufficient ease and certainty.  The other operations are similar to
+the operations above described.
+
+Sec. 43.  Funnels often require to be ground to an angle of 60 deg..  For
+this purpose it is well to keep a cast-iron cone, tapering from
+nothing up to four inches in diameter.  This may be mounted on a
+lathe, and will be found of great use for grinding out the inside of
+funnels.  Care must be taken to work the funnel backwards and
+forwards, or it will tend to grind so as to form rings, which
+interfere with filtering.  A rough polish may be given on the lines
+explained in the next section.
+
+Sec. 44.  A rough polish may be easily given to a surface which has been
+finished by washed flour emery, in the following manner.  Turn up a
+disc of soft wood on the lathe, and run it at the highest wood-turning
+speed.  Rub into the periphery a paste of sifted powdered pumice stone
+and water.
+

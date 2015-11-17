@@ -1,0 +1,572 @@
+misfortunes of Methyl Green is that if the fabric dyed with it be boiled
+with water, at that temperature (212 deg. F.) the colour is decomposed and
+injured, for some of the methyl chloride in the compound is driven off.
+In fact, by stronger heating we may drive off all the methyl chloride
+and get the original Methyl Violet back again.
+
+But we have coal-tar colours which are not basic, but rather of the
+nature of acid,--a better term would be _phenolic_, or of the nature of
+phenol or carbolic acid. Let us see what phenol or carbolic acid is. We
+saw that water may be formulated HOH, and that benzene is C_{6}H_{6}.
+Well, carbolic acid or phenol is a derivative of water, or a derivative
+of benzene, just as you like, and it is formulated C_{6}H_{5}OH. You can
+easily prove this by dropping carbolic acid or phenol down a red-hot
+tube filled with iron-borings. The oxygen is taken up by the iron to
+give oxide of iron, and benzene is obtained, thus: C_{6}H_{5}OH gives O
+and C_{6}H_{6}. But there is another hydrocarbon called naphthalene,
+C_{10}H_{8}, and this forms not one, but two phenols. As the name of the
+hydrocarbon is naphthalene, however, we call these compounds naphthols,
+and one is distinguished as alpha- the other as beta-naphthol, both of
+them having the formula C_{10}H_{7}OH. But now with respect to the
+colours. If we treat phenol with nitric acid under proper conditions, we
+get a yellow dye called picric acid, which is trinitro-phenol
+C_{6}H_{2}(NO_{2})_{3}OH; you see this is no aniline dye; it is not a
+basic colour, for it would saturate, _i.e._ destroy the basicity of
+bases. Again, by oxidising phenol with oxalic acid and vitriol, we get a
+colour dyeing silk orange, namely, Aurin, HO.C[C_{6}H_{4}(OH)]_{3}. This
+is also an acid or phenolic dye, as a glance at its formula will show
+you. Its compound atom bristles, so to say, with phenol-residues, as
+some of the aniline dyes do with aniline residue-groups.
+
+We come now to a peculiar but immensely important group of colours known
+as the azo-dyes, and these can be basic or acid, or of mixed kind. Just
+suppose two ammonia groups, NH_{3} and NH_{3}. If we rob those nitrogen
+atoms of their hydrogen atoms, we should leave two unsatisfied nitrogen
+atoms, atoms with an exceedingly keen appetite represented in terms of
+hydrogen atoms as N*** and N***. We might suppose a group, though of two N
+atoms partially satisfied by partial union with each other, thus--N:N--.
+Now this group forms the nucleus of the azo-colours, and if we satisfy a
+nitrogen at one side with an aniline, and at the other with a phenol, or
+at both ends with anilines, and so on, we get azo-dyes produced. The
+number of coal-tar colours is thus very great, and the variety also.
+
+_Adjective Colours._--As regards the artificial coal-tar adjective
+dyestuffs, the principal are Alizarin and Purpurin. These are now almost
+entirely prepared from coal-tar anthracene, and madder and garancine are
+almost things of the past. Vegetable adjective colours are Brazil wood,
+containing the dye-generating principle Brasilin, logwood, containing
+Haematein, and santal-wood, camwood, and barwood, containing Santalin.
+Animal adjective colours are cochineal and lac dye. Then of wood colours
+we have further: quercitron, Persian berries, fustic and the tannins or
+tannic acids, comprising extracts, barks, fruits, and gallnuts, with
+also leaves and twigs, as with sumac. All these colours dye only with
+mordants, mostly forming with certain metallic oxides or basic salts,
+brightly-coloured compounds on the tissues to which they are applied.
+
+
+
+
+LECTURE XI
+
+DYEING OF WOOL AND FUR; AND OPTICAL PROPERTIES OF COLOURS
+
+
+You have no doubt a tolerably vivid recollection of the illustrations
+given in Lecture I., showing the structure of the fibre of wool and fur.
+We saw that the wool fibre, of which fur might be considered a coarser
+quality, possesses a peculiar, complex, scaly structure, the joints
+reminding one of the appearance of plants of the _Equisetum_ family,
+whilst the scaled structure resembles that of the skin of the serpent.
+Now you may easily understand that a structure like this, if it is to be
+completely and uniformly permeated by a dye liquor or any other aqueous
+solution, must have those scales not only well opened, but well
+cleansed, because if choked with greasy or other foreign matter
+impervious to or resisting water, there can be no chance of the
+mordanting or dye liquids penetrating uniformly; the resulting dye must
+be of a patchy nature. All wool, in its natural state, contains a
+certain amount of a peculiar compound almost like a potash soap, a kind
+of soft soap, but it also contains besides, a kind of fatty substance
+united with lime, and of a more insoluble nature than the first. This
+natural greasy matter is termed "yolk" or "suint"; and it ought never to
+be thrown away, as it sometimes is by the wool-scourers in this country,
+for it contains a substance resembling a fat named _cholesterin_ or
+_cholesterol_, which is of great therapeutical value. Water alone will
+wash out a considerable amount of this greasy matter, forming a kind of
+lather with it, but not all. As is almost invariably the case, after
+death, the matters and secretions which in life favour the growth and
+development of the parts, then commence to do the opposite. It is as if
+the timepiece not merely comes to a standstill, but commences to run
+backwards. This natural grease, if it be allowed to stand in contact
+with the wool for some time after shearing, instead of nourishing and
+preserving the fibres as it does on the living animal, commences to
+ferment, and injures them by making them hard and brittle. We see, then,
+the importance of "scouring" wool for the removal of "yolk," as it is
+called, dirt, oil, etc. If this important operation were omitted, or
+incompletely carried out, each fibre would be more or less covered or
+varnished with greasy matter, resisting the absorption and fixing of
+mordant and dye. As scouring agents, ammonia, carbonate of ammonia,
+carbonate of soda completely free from caustic, and potash or soda
+soaps, especially palm-oil soaps, which need not be made with bleached
+palm oil, but which must be quite free from free alkali, may be used. In
+making these palm-oil soaps it is better to err on the side of a little
+excess of free oil or fat, but if more than 1 per cent. of free fat be
+present, lathering qualities are then interfered with. Oleic acid soaps
+are excellent, but are rather expensive for wool; they are generally
+used for silks. Either as a skin soap or a soap for scouring wools, I
+should prefer one containing about 1/2 per cent. of free fatty matter,
+of course perfectly equally distributed, and not due to irregular
+saponification. On the average the soap solution for scouring wool may
+contain about 6-1/2 oz. of soap to the gallon of water. In order to
+increase the cleansing powers of the soap solution, some ammonia may be
+added to it. However, if soap is used for wool-scouring, one thing must
+be borne in mind, namely, that the water used must not be hard, for if
+insoluble lime and magnesia soaps are formed and precipitated on the
+fibre, the scouring will have removed one evil, but replaced it by
+another. The principal scouring material used is one of the various
+forms of commercial carbonate of soda, either alone or in conjunction
+with soap. Whatever be the form or name under which the carbonate of
+soda is sold, it must be free from hydrate of soda, _i.e._ caustic soda,
+or, as it is also termed, "causticity." By using this carbonate of soda
+you may dispense with soap, and so be able, even with a hard or
+calcareous water, to do your wool-scouring without anything like the ill
+effects that follow the use of soap and calcareous water. The carbonate
+of soda solutions ought not to exceed the specific gravity of 1 deg. to 2 deg.
+Twaddell (1-1/2 to 3 oz. avoird. per gallon of water). The safest plan
+is to work with as considerable a degree of dilution and as low a
+temperature as are consistent with fetching the dirt and grease off. The
+scouring of loose wool, as we may now readily discern, divides itself
+into three stages: 1st, the stage in which those "yolk" or "suint"
+constituents soluble in water, are removed by steeping and washing in
+water. This operation is generally carried out by the wool-grower
+himself, for he desires to sell wool, and not wool plus "yolk" or
+"suint," and thus he saves himself considerable cost in transport. The
+water used in this process should not be at a higher temperature than
+113 deg. F., and the apparatus ought to be provided with an agitator; 2nd,
+the cleansing or scouring proper, with a weak alkaline solution; 3rd,
+the rinsing or final washing in water.
+
+Thus far we have proceeded along the same lines as the woollen
+manufacturer, but now we must deviate from that course, for he requires
+softness and delicacy for special purposes, for spinning and weaving,
+etc.; but the felt manufacturer, and especially the manufacturer of felt
+for felt hats, requires to sacrifice some of this softness and delicacy
+in favour of greater felting powers, which can only be obtained by
+raising the scales of the fibres by means of a suitable process, such
+as treatment with acids. This process is one which is by no means
+unfavourable to the dyeing capacities of the wool; on the whole it is
+decidedly favourable.
+
+So far everything in the treatment of the wool has been perfectly
+favourable for the subsequent operations of the felt-hat dyer, but now I
+come to a process which I consider I should be perfectly unwarranted in
+passing over before proceeding to the dyeing processes. In fact, were it
+not for this "proofing process" (see Lecture VII.) the dyeing of felt
+hats would be as simple and easy of attainment as the ordinary dyeing of
+whole-wool fabrics. Instead of this, however, I consider the hat
+manufacturer, as regards his dyeing processes as applied to the stiffer
+classes of felt hats, has difficulties to contend with fully comparable
+with those which present themselves to the dyer of mixed cotton and
+woollen or Bradford goods. You have heard that the purpose of the
+wool-scourer is to remove the dirt, grease, and so-called yolk, filling
+the pores and varnishing the fibres. Now the effect of the work of the
+felt or felt-hat proofer is to undo nearly all this for the sake of
+rendering the felt waterproof and stiff. The material used, also, is
+even more impervious and resisting to the action of aqueous solutions of
+dyes and mordants than the raw wool would be. In short, it is impossible
+to mordant and to dye shellac by any process that will dye wool. To give
+you an idea of what it is necessary to do in order to colour or dye
+shellac, take the case of coloured sealing-wax, which is mainly composed
+of shellac, four parts, and Venice turpentine, one part. To make red
+sealing-wax this mixture is melted, and three parts of vermilion, an
+insoluble metallic pigment, are stirred in. If black sealing-wax is
+required, lamp-black or ivory-black is stirred in. The fused material is
+then cast in moulds, from which the sticks are removed on cooling. That
+is how shellac may be coloured as sealing-wax, but it is a totally
+different method from that by which wool is dyed. The difficulty then is
+this--in proofing, your hat-forms are rendered impervious to the dye
+solutions of your dye-baths, all except a thin superficial layer, which
+then has to be rubbed down, polished, and finished. Thus in a short
+time, since the bulk of that superficially dyed wool or fur on the top
+of every hat is but small, and has been much reduced by polishing and
+rubbing, you soon hear of an appearance of bareness--I was going to say
+threadbareness--making itself manifest. This is simply because the
+colour or dye only penetrates a very little way down into the substance
+of the felt, until, in fact, it meets the proofing, which, being as it
+ought to be, a waterproofing, cannot be dyed. It cannot be dyed either
+by English or German methods; neither logwood black nor coal-tar blacks
+can make any really good impression on it. Cases have often been
+described to me illustrating the difficulty in preventing hats which
+have been dyed black with logwood, and which are at first a handsome
+deep black, becoming rather too soon of a rusty or brownish shade. Now
+my belief is that two causes may be found for this deterioration. One is
+the unscientific method adopted in many works of using the same bath
+practically for about a month together without complete renewal. During
+this time a large quantity of a muddy precipitate accumulates, rich in
+hydrated oxide of iron or basic iron salts of an insoluble kind. This
+mud amounts to no less than 25 per cent. of the weight of the copperas
+used. From time to time carbonate of ammonia is added to the bath, as it
+is said to throw up "dirt." The stuff or "dirt," chiefly an ochre-like
+mass stained black with the dye, and rich in iron and carbonate of iron,
+is skimmed off, and fresh verdigris and copperas added with another lot
+of hat-forms. No doubt on adding fresh copperas further precipitation of
+iron will take place, and so this ochre-like precipitate will
+accumulate, and will eventually come upon the hats like a kind of thin
+black mud. Now the effect of this will be that the dyestuff, partly in
+the fibre as a proper dye, and not a little on the fibre as if
+"smudged" on or painted on, will, on exposure to the weather, moisture,
+air, and so on, gradually oxidise, the great preponderance of iron on
+the fibre changing to a kind of iron-rust, corroding the fibres in the
+process, and thus at once accounting for the change to the ugly brownish
+shade, and to the rubbing off and rapid wearing away of the already too
+thin superficial coating of dyed felt fibre. In the final spells of
+dyeing in the dye-beck already referred to, tolerably thick with black
+precipitate or mud, the application of black to the hat-forms begins, I
+fear, to assume at length a too close analogy to another blacking
+process closely associated with a pair of brushes and the time-honoured
+name of Day & Martin. With that logwood black fibre, anyone could argue
+as to a considerable proportion of the dye rubbing, wearing, or washing
+off. Thus, then, we have the second cause of the deterioration of the
+black, for the colour could not go into the fibre, and so it was chiefly
+laid or plastered on. You can also see that a logwood black hat dyer may
+well make the boast, and with considerable appearance of truth, that for
+the purposes of the English hat manufacturers, logwood black dyeing is
+the most appropriate, _i.e._ for the dyeing of highly proofed and stiff
+goods, but as to the permanent character of the black colour on those
+stiff hats, there you have quite another question. I firmly believe that
+in order to get the best results either with logwood black or "aniline
+blacks," it is absolutely necessary to have in possession a more
+scientific and manageable process of proofing. Such a process is that
+invented by F.W. Cheetham (see Lecture VII. p. 66).
+
+In the dyeing of wool and felt with coal-tar colours, it is in many
+cases sufficient to add the solution of the colouring matters to the
+cold or tepid water of the dye-bath, and, after introducing the woollen
+material, to raise the temperature of the bath. The bath is generally
+heated to the boiling-point, and kept there for some time. A large
+number of these coal-tar colours show a tendency of going so rapidly
+and greedily on to the fibre that it is necessary to find means to
+restrain them. This is done by adding a certain amount of Glauber's
+salts (sulphate of soda), in the solution of which coal-tar colours are
+not so soluble as in water alone, and so go more slowly, deliberately,
+and thus evenly upon the fibre. It is usually also best to dye in a bath
+slightly acid with sulphuric acid, or to add some bisulphate of soda.
+There is another point that needs good heed taking to, namely, in using
+different coal-tar colours to produce some mixed effect, or give some
+special shade, the colours to be so mixed must possess compatibility
+under like circumstances. For example, if you want a violet of a very
+blue shade, and you take Methyl Violet and dissolve it in water and then
+add Aniline Blue also in solution, you find that precipitation of the
+colour takes place in flocks. A colouring matter which requires, as some
+do, to be applied in an acid bath, ought not to be applied
+simultaneously with one that dyes best in a neutral bath. Numerous
+descriptions of methods of using coal-tar dyestuffs in hat-dyeing are
+available in different volumes of the _Journal of the Society of
+Chemical Industry_, and also tables for the detection of such dyestuffs
+on the fibre.
+
+Now I will mention a process for dyeing felt a deep dead black with a
+coal-tar black dye which alone would not give a deep pure black, but one
+with a bluish-purple shade. To neutralise this purple effect, a small
+quantity of a yellow dyestuff and a trifle of indigotin are added. A
+deep black is thus produced, faster to light than logwood black it is
+stated, and one that goes on the fibre with the greatest ease. But I
+have referred to the use of small quantities of differently coloured
+dyes for the purpose of neutralising or destroying certain shades in the
+predominating colour. Now I am conscious that this matter is one that is
+wrapped in complete mystery, and far from the true ken of many of our
+dyers; but the rational treatment of such questions possesses such vast
+advantages, and pre-supposes a certain knowledge of the theory of
+colour, of application and advantage so equally important, that I am
+persuaded I should not close this course wisely without saying a few
+words on that subject, namely, the optical properties of colours.
+
+Colour is merely an impression produced upon the retina, and therefore
+on the brain, by various surfaces or media when light falls upon them or
+passes through them. Remove the light, and colour ceases to exist. The
+colour of a substance does not depend so much on the chemical character
+of that substance, but rather and more directly upon the physical
+condition of the surface or medium upon which the light falls or through
+which it passes. I can illustrate this easily. For example, there is a
+bright-red paint known as Crooke's heat-indicating paint. If a piece of
+iron coated with this paint be heated to about 150 deg. F., the paint at
+once turns chocolate brown, but it is the same chemical substance, for
+on cooling we get the colour back again, and this can be repeated any
+number of times. Thus we see that it is the peculiar physical structure
+of bodies which appear coloured that has a certain effect upon the
+light, and hence it must be from the light itself that colour really
+emanates. Originally all colour proceeds from the source of light,
+though it seems to come to the eye from the apparently coloured objects.
+But without some elucidation this statement would appear as an enigma,
+since it might be urged that the light of the sun as well as that of
+artificial light is white, and not coloured. I hope, however, to show
+you that that light is white, because it is so much coloured, so
+variously and evenly coloured, though I admit the term "coloured" here
+is used in a special sense. White light contains and is made up of all
+the differently coloured rainbow rays, which are continually vibrating,
+and whose wave-lengths and number of vibrations distinguish them from
+each other. We will take some white light from an electric lantern and
+throw it on a screen. In a prism of glass we have a simple instrument
+for unravelling those rays, and instead of letting them all fall on the
+same spot and illumine it with a white light, it causes them to fall
+side by side; in fact they all fall apart, and the prism has actually
+analysed that light. We get now a coloured band, similar to that of the
+rainbow, and this band is called the spectrum (see Fig. 16). If we could
+now run all these coloured rays together again, we should simply
+reproduce white light. We can do this by catching the coloured band in
+another prism, when the light now emerging will be found to be white.
+Every part of that spectrum consists of homogeneous light, _i.e._ light
+that cannot be further split up. The way in which the white light is so
+unravelled by the prism is this: As the light passes through the prism
+its different component coloured rays are variously deflected from their
+normal course, so that on emerging we have each of these coloured rays
+travelling in its own direction, vibrating in its own plane. It is well
+to remember that the bending off, or deflection, or refraction, is
+towards the thick end of the prism always, and that those of the
+coloured rays in that analysed band, the spectrum, most bent away from
+the original line of direction of the white light striking the prism,
+are said to be the most refrangible rays, and consequently are situated
+in the most refrangible end or part of the spectrum, namely, that
+farthest from the original direction of the incident white light. These
+most refrangible rays are the violet, and we pass on to the least
+refrangible end, the red, through bluish-violet, blue, bluish-green,
+green, greenish-yellow, yellow, and orange. If you placed a prism say in
+the red part of the spectrum, and caught some of those red rays and
+allowed them to pass through your prism, and then either looked at the
+emerging light or let it fall on a white surface, you would find only
+red light would come through, only red rays. That light has been once
+analysed, and it cannot be further broken up. There is great diversity
+of shades, but only a limited number of primary impressions. Of these
+primary impressions there are only four--red, yellow, green, and blue,
+together with white and black. White is a collective effect, whilst
+black is the antithesis of white and the very negation of colour. The
+first four are called primary colours, for no human eye ever detected in
+them two different colours, while all of the other colours contain two
+or more primary colours. If we mix the following tints of the spectrum,
+_i.e._ the following rays of coloured light, we shall produce white
+light, red and greenish-yellow, orange and Prussian blue, yellow and
+indigo blue, greenish-yellow and violet. All those pairs of colours that
+unite to produce white are termed complementary colours. That is, one is
+complementary to the other. Thus if in white light you suppress any one
+coloured strip of rays, which, mingled uniformly with all the rest of
+the spectral rays, produces the white light, then that light no longer
+remains white, but is tinged with some particular tint. Whatever colour
+is thus suppressed, a particular other tint then pervades the residual
+light, and tinges it. That tint which thus makes its appearance is the
+one which, with the colour that was suppressed, gave white light, and
+the one is complementary to the other. Thus white can always be
+compounded of two tints, and these two tints are complementary colours.
+But it is important to remark here that I am now speaking of rays of
+coloured light proceeding to and striking the eye; for a question like
+this might be asked: "You say that blue and yellow are complementary
+colours, and together they produce white, but if we mix a yellow and a
+blue paint or dye we have as the result a green colour. How is this?"
+The cases are entirely different, as I shall proceed to show. In
+speaking of the first, the complementary colours, we speak of pure
+spectral colours, coloured rays of light; in the latter, of pigment or
+dye colours. As we shall see, in the first, we have an addition direct
+of coloured lights producing white; in the latter, the green colour,
+appearing as the result of the mixture of the blue and yellow pigments,
+is obtained by the subtraction of colours; it is due to the absorption,
+by the blue and yellow pigments, of all the spectrum, practically,
+except the green portion. In the case of coloured objects, we are then
+confronted with the fact that these objects appear coloured because of
+an absorption by the colouring matter of every part of the rays of light
+falling thereupon, except that of the colour of the object, which colour
+is thrown off or reflected. This will appear clearer as we proceed. Now
+let me point out a further fact and indicate another step which will
+show you the value of such knowledge as this if properly applied. I said
+that if we selected from the coloured light spectrum, separated from
+white light by a prism, say, the orange portion, and boring a hole in
+our screen, if we caught that orange light in another prism, it would
+emerge as orange light, and suffer no further analysis. It cannot be
+resolved into red and yellow, as some might have supposed, it is
+monochromatic light, _i.e._ light purely of one colour. But when a
+mixture of red and yellow light, which means, of course, a mixture of
+rays of greater and less refrangibility respectively than our spectral
+orange, the monochromatic orange--is allowed to strike the eye, then we
+have again the impression of orange. How are we to distinguish a pure
+and monochromatic orange colour from a colour produced by a mixture of
+red and yellow? In short, how are we to distinguish whether colours are
+homogeneous or mixed? The answer is, that this can only be done by the
+prism, apart from chemical analysis or testing of the substances.
+
+[Illustration: FIG. 16.]
+
+The spectroscope is a convenient prism-arrangement, such that the
+analytical effect produced by that prism is looked at through a
+telescope, and the light that falls on the prism is carefully preserved
+from other light by passing it along a tube after only admitting a small
+quantity through a regulated slit.
+
+Now all solid and liquid bodies when raised to a white heat give a
+continuous spectrum, one like the prismatic band already described, and
+one not interrupted by any dark lines or bands. The rays emitted from
+the white-hot substance of the sun have to pass, before reaching our
+earth, through the sun's atmosphere, and since the light emitted from
+any incandescent body is absorbed on passing through the vapour of that
+substance, and since the sun is surrounded by such an atmosphere of the
+vapours of various metals and substances, hence we have, on examining
+the sun's spectrum, instead of coloured bands or lines only, many dark
+ones amongst them, which are called Fraunhofer's lines. Ordinary
+incandescent vapours from highly heated substances give discontinuous
+spectra, _i.e._ spectra in which the rays of coloured light are quite
+limited, and they appear in the spectroscope only as lines of the
+breadth of the slit. These are called line-spectra, and every chemical
+element possesses in the incandescent gaseous state its own
+characteristic lines of certain colour and certain refrangibility, by
+means of which that element can be recognised. To observe this you place
+a Bunsen burner opposite the slit of the spectroscope, and introduce
+into its colourless flame on the end of a platinum wire a little of a
+volatile salt of the metal or element to be examined. The flame of the
+lamp itself is often coloured with a distinctiveness that is sufficient
+for a judgment to be made with the aid of the naked eye alone, as to the
+metal or element present. Thus soda and its salts give a yellow flame,
+which is absolutely yellow or monochromatic, and if you look through
+your prism or spectroscope at it, you do not see a coloured rainbow band
+or spectrum, as with daylight or gaslight, but only one yellow double
+line, just where the yellow would have been if the whole spectrum had
+been represented. I think it is now plain that for the sake of
+observations and exact discrimination, it is necessary to map out our
+spectrum, and accordingly, in one of the tubes, the third, the
+spectroscope is provided with a graduated scale, so adjusted that when
+we look at the spectrum we also see the graduations of the scale, and so
+our spectrum is mapped; the lines marked out and named with the large
+and small letters of the alphabet, are certain of the prominent
+Fraunhofer's lines (see A, B, C, a, d, etc., Fig. 16). We speak, for
+example, of the soda yellow-line as coinciding with D of the spectrum.
+These, then, are spectra produced by luminous bodies.
+
+The colouring matters and dyes, their solutions, and the substances dyed
+with them, are not, of course, luminous, but they do convert white light
+which strikes upon or traverses them into coloured light, and that is
+why they, in fact, appear either as coloured substances or solutions.
+The explanation of the coloured appearance is that the coloured
+substances or solutions have the power to absorb from the white light
+that strikes or traverses them, all the rays of the spectrum but those
+which are of the colour of the substance or solution in question, these
+latter being thrown off or reflected, and so striking the eye of the
+observer. Take a solution of Magenta, for example, and place a light
+behind it. All the rays of that white light are absorbed except the red
+ones, which pass through and are seen. Thus the liquid appears red. If a
+dyed piece be taken, the light strikes it, and if a pure red, from that
+light all the rays but red are absorbed, and so red light alone is
+reflected from its surface. But this is not all with a dyed fabric, for
+here the light is not simply reflected light; part of it has traversed
+the upper layers of that coloured body, and is then reflected from the
+interior, losing a portion of its coloured rays by absorption. This
+reflected coloured light is always mixed with a certain amount of white
+light reflected from the actual surface of the body before penetrating
+its uppermost layer. Thus, if dyed fabrics are examined by the
+spectroscope, the same appearances are generally observed as with the
+solution of the corresponding colouring matters. An absorption spectrum
+is in each case obtained, but the one from the solution is the purer,
+for it does not contain the mixed white light reflected from the
+surfaces of coloured objects. Let us now take an example. We will take a
+cylinder glass full of picric acid in water, and of a yellow colour. Now
+when I pass white light through that solution and examine the emerging
+light, which looks, to my naked eye, yellow, I find by the spectroscope
+that what has taken place is this: the blue part of the spectrum is
+totally extinguished as far as G and 2/3 of F. That is all. Then why,
+say you, does that liquid look yellow if all the rest of those rays pass
+through and enter the eye, namely, the blue-green with a trifle of blue,
+the green, yellow, orange, and red? The reason is this: we have already
+seen that the colours complementary to, and so producing white light
+with red, are green and greenish-blue or bluish-green. Hence these
+cancel, so to say, and we only see yellow. We do not see a pure yellow,
+then, in picric acid, but yellow with a considerable amount of white.
+Here is a piece of scarlet paper. Why does it appear scarlet? Because
+from the white light falling upon it, it practically absorbs all the
+rays of the spectrum except the red and orange ones, and these it
+reflects. If this be so, then, and we take our spectrum band of
+perfectly pure colours and pass our strip of scarlet paper along that
+variously coloured band of light, we shall be able to test the truth of
+several statements I have made as to the nature of colour. I have said
+colour is only an impression, and not a reality; and that it does not
+exist apart from light. Now, I can show you more, namely, that the
+colour of the so-called coloured object is entirely dependent on the
+existence in the light of the special coloured rays which it radiates,
+and that this scarlet paper depends on the red light of the spectrum for
+the existence of its redness. On passing the piece of scarlet paper
+along the coloured band of light, it appears red only when in the red
+portion of the spectrum, whilst in the other portions, though it is
+illumined, yet it has no colour, in fact it looks black. Hence what I
+have said is true, and, moreover, that red paper looks red because, as
+you see, it absorbs and extinguishes all the rays of the spectrum but
+the red ones, and these it radiates. A bright green strip of paper
+placed in the red has no colour, and looks black, but transferred to the
+pure green portion it radiates that at once, does not absorb it as it
+did the red, and so the green shines out finely. I have told you that
+sodium salts give to a colourless flame a fine monochromatic or pure
+yellow colour. Now, if this be so, and if all the light available in
+this world were of such a character, then such a colour as blue would be
+unknown. We will now ask ourselves another question, "We have a new blue
+colouring matter, and we desire to know if we may expect it to be one of
+the greatest possible brilliancy, what spectroscopic conditions ought it
+to fulfil?" On examining a solution of it, or rather the light passing
+through a solution of it, with the spectroscope, we ought to find that
+all the rays of the spectrum lying between and nearly to H and b (Fig.
+16), _i.e._ all the bluish-violet, blue, and blue-green rays pass
+through it unchanged, unabsorbed, whilst all the rest should be
+completely absorbed. In like manner a pure yellow colour would allow all
+the rays lying between orange-red and greenish-yellow (Fig. 16) to pass
+through unchanged, but would absorb all the other colours of the
+spectrum.
+
+Now we come to the, for you, most-important subject of mixtures of
+colours and their effects. Let us take the popular case of blue and
+yellow producing green. We have seen that the subjective effect of the
+mixture of blue and yellow light on the eye is for the latter to lose
+sense of colour, since colour disappears, and we get what we term white
+light; in strict analogy to this the objective effect of a pure yellow
+pigment and a blue is also to destroy colour, and so no colour comes
+from the object to the eye; that object appears black. Now the pure blue
+colouring matter would not yield a green with the pure yellow colouring
+matter, for if you plot off the two absorption spectra as previously
+described, on to the spectrum (Fig. 16), you will find that all the rays
+would be absorbed by the mixture, and the result would be a black. But,
+now, suppose a little less pure yellow were taken, one containing a
+little greenish-yellow and a trifle of green, and also a little
+orange-red on the other side to red, then whereas to the eye that yellow
+might be as good as the first; now, when mixed with a blue, we get a
+very respectable green. But, and this is very important, although of the
+most brilliant dyes and colours there are probably no two of these that
+would so unite to block out all the rays and produce black, yet this
+result can easily and practically be arrived at by using three colouring
+matters, which must be as different as possible from one another. Thus a
+combination of a red, a yellow, and a blue colouring matter, when
+concentrated enough, will not let any light pass through it, and can
+thus be used for the production of blacks, and this property is made use
+of in dyeing. And now we see why a little yellow dye is added to our
+coal-tar black. A purplish shade would else be produced; the yellow used
+is a colour complementary to that purple, and it absorbs just those blue
+and purple rays of the spectrum necessary to illuminate by radiation
+that purple, and _vice versa_; both yellow and purple therefore
+disappear. In like manner, had the black been of a greenish shade, I
+should have added Croceine Orange, which on the fabric would absorb just
+those green and bluish rays of light necessary to radiate from and
+illumine that greenish part, and the greenish part would do the like by
+the orange rays; the effects would be neutralised, and all would fall
+together into black.
+
+THE END.
+
+
+
+
+INDEX
+
+
+Acetone, 64
+
+Acid, boric. _See_ Boric acid.
+  "   carbolic. _See_ Phenol.
+  "   colours, mordanting, 74
+  "   hydrochloric. _See_ Hydrochloric acid.
+  "   nitric. _See_ Nitric acid.
+  "   sulphuric. _See_ Sulphuric acid.
+
+Acids, distinguishing, from alkalis, 23, 49
+  "    neutralisation of, 50
+  "    properties of, 49
+  "    specific gravities of, 49
+
+Affinity, chemical, 71
+
+Alizarin, 75, 76, 80, 83, 91, 99
+  "       blue, 90
+  "       paste, 91
+  "       pure, 91
+  "       purple, 77
+  "       red, 77
+
+Alkali, manufacture of, by ammonia-soda process, 55

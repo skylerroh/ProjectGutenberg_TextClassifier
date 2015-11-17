@@ -1,0 +1,395 @@
+    Affected. ax^2 + bx + c = 0.
+
+    Methods of solving
+        Completing the square.
+        Formula. Developed from ax^2 + bx + c = 0.
+        Factoring.
+
+    Equations in the quadratic form.
+
+    Properties of quadratics
+        r_1 = -b/2a + ([b^2 - 4ac]^(1/2))/(2a).
+        r_2 = -b/2a - ([b^2 - 4ac]^(1/2))/(2a).
+        Then
+            r_1 + r_2 = -b/a.
+            r_1 . r_2 = c/a.
+        Discriminant, b^2 - 4ac, and its discussion.
+        Nature or character of the roots.
+
+~Simultaneous Quadratics~
+
+    CASE I.
+
+        One equation linear.
+
+        The other quadratic.
+            3x - y = 12,
+            x^2 - y^2 = 16.
+
+    CASE II.
+
+        Both equations homogeneous and of the second degree.
+            x^2 - xy + y^2 = 21,
+            y^2 - 2xy = -15.
+
+    CASE III.
+
+        Any two of the quantities x + y, x^2 + y^2, xy, x^3 + y^3,
+        x^3 - y^3, x - y, x^2 +- xy + y^2, etc., given.
+            x^2 + y^2 = 41,
+            x + y = 9.
+
+    CASE IV.
+        Both equations symmetrical or symmetrical except for sign.
+        Usually one equation of high degree, the other of the first
+        degree.
+            x^5 + y^5 = 242,
+            x + y = 2.
+
+    CASE V. Special Devices
+
+        I. Solve for a compound unknown, like xy, x + y, (1)/(xy),
+        etc., first.
+            x^2y^2 + xy = 6,
+            x + 2y = -5.
+
+        II. Divide the equations, member by member.
+            x^4 - y^4 = 20,
+            x^2 - y^2 = 5.
+
+        III. Eliminate the quadratic terms.
+            4x + 3y = 2xy,
+            7x - 5y = 5xy.
+
+~Ratio and Proportion~
+
+    Proportionals
+        mean,
+        third,
+        fourth.
+
+    Theorems
+        1. Product of means equals product of extremes.
+        2. If the product of two numbers equals the product of two
+           other numbers, either pair, etc.
+        3. Alternation.
+        4. Inversion.
+        5. Composition.
+        6. Division.
+        7. Composition and division.
+        8. In a series of equal ratios, the sum of the antecedents
+           is to the sum of the consequents as any antecedent, etc.
+
+    Special method of proving four quantities in proportion. Let
+    a/b = x, a = bx, etc.
+
+~Progressions~
+
+    Development of formulas.
+                                       { l = ar^(n - 1).
+        { l = a + (n - 1)d.            { S = (ar^n - a)/(r - 1).
+        { S = (n/2)(a + l).            { S = (rl - a)/(r - 1).
+        { S = (n/2)[2a + (n - 1)d].    { S[infinity] = (a)/(1 - r).
+
+    Insertion of means
+        Arithmetical.
+        Geometrical.
+
+~Binomial Theorem~
+
+    Review of binomial theorem laws. See Involution.
+
+    Expansion of (a + b)^n.
+
+    Finding any term by
+        key number method.
+        r^(th) or (r + 1)^(th) term method.
+
+
+
+
+A REVIEW OF ALGEBRA
+
+
+
+
+ORDER OF OPERATIONS, EVALUATION, PARENTHESES
+
+
+    Order of operations:
+      First of all, raising to a power and extracting a root.
+      Next, multiplication and division.
+      Last of all, addition and subtraction.
+
+
+Find the value of:
+
+  1. 5 . 2^2 - 25^(1/2) / 5 + 2^2 . 8 / 4 - 2.
+
+  2. (3 x 6 / 9)/2 - 2[100^(1/2)] / 5 + 4 . 2^3 - (14 . 2)/28.
+
+  3. 9 . 2 / 6 + 3 - 2 . 4^2 / 8^(1/3) - 4 + (3 . 2^2)/6.
+
+Evaluate:
+
+  4. (a^4 - a^3 + b^3)/([a^2 b^2]^(1/2)) + (c[a^(1/2)] + a^3bc)/(abc),
+     if a = 1, b = 2, c = 3.
+
+  5. t^(1/3) + [tm]^(1/3)  +  m^(1/3), if t = 8, m = 27.
+
+  6. (2[3 + 2d + a]^(1/2))/(3[a + b - cx - c]^(1/2))
+     + ((3c - d)x)/(7ad - [abc]^(1/2)), if
+     a = 5, b = 3, c = -1, d = -2, x = 0.
+
+  7. a - {5b - [a - (3c - 3b) + 2c - 3(a - 2b - c)]},
+     if a = -3,  b = 4, c = -5.                          (_Yale._)
+
+Simplify:
+
+  8. m - [2m - {3r - (4r - 2m)}].
+
+  9. 2a - [5d + {3c - (a + [2d - 3a + 4c])}].
+
+  10. 3c^2 + c(2a - [6c - {3a + c - 4a}]).
+
+
+
+
+SPECIAL RULES OF MULTIPLICATION AND DIVISION
+
+
+Give results by inspection:
+
+  1. (g + 1/2 k)^2.
+
+  2. (s - (2m)/3)^2.
+
+  3. (2v + 3w)(2v - 3w).
+
+  4. (x + 3ts)(x - 7ts).
+
+  5. (2l + 3g)(4l - 11g).
+
+  6. (a - (2b)/3 + c - d)^2.
+
+  7. (x^3 + 8m^3)/(x + 2m).
+
+  8. (y^3 - 27k^(3m))/(y - 3k^m).
+
+  9. (c^5 - d^5)/(c - d).
+
+  10. (e^5 + d^5)/(e + d).
+
+  11. (x^4 - y^4)/(x - y).
+
+  12. (x^4 - y^4)/(x + y).
+
+  13. (a - .03)(a - .0007).
+
+  14. (g^n - 1/2)(g^n + 3/4).
+
+  15. (t^7 - v^(7/2))/(t - v^(1/2)).
+
+  16. (k^32 + 1)(k^16 +1)(k^8 + 1)(k^4 +1)(k^2 +1)(k + 1)(k - 1).
+
+  17. [(a + b) + (c + d)][(a + b) - (c + d)].
+
+  18. (p - q + r - s)(p - q - r + s).
+
+  19. (3m - n - l + 2r)(3m + n - l - 2r).
+
+  20. (x + 5)(x - 2)(x - 5)(x + 2).
+
+  21. (a^2 + b^2 - c - 2d + 3e)^2.
+
+  22. (s + t - 2v/5 + 3w/6 + z^2)^2.
+
+  23. (x^5 + 32)/(x + 2).
+
+
+~References:~ The chapter on Special Rules of Multiplication and
+                Division in any algebra.
+              Special Rules of Multiplication and Division in the
+                Outline in the front of the book.
+
+
+
+
+CASES IN FACTORING
+
+
+The number of terms in an expression usually gives the clue to the
+possible cases under which it may come. By applying the _test_ for each
+and eliminating the _possible_ cases one by one, the right case is
+readily found. Hence, the number of terms in the expression and a ready
+and accurate knowledge of the Cases in Factoring are the real keys to
+success in this vitally important part of algebra.
+
+
+CASE I. A common monomial factor. Applies to any number of terms.
+
+    5cx - 5ct + 5cv - 15 c^2 m + 25 c^3 m^2
+      = 5c(x - t + v - 3cm + 5c^2 m^2).
+
+CASE II. A trinomial that is a perfect square. Three terms.
+
+    x^2 +- 2xm + m^2 = (x +- m)^2.
+
+CASE III. The difference of two squares.
+
+    _A._ Two terms. x^2 - y^2 = (x + y)(x - y).
+
+    _B._ Four terms.
+
+         x^2 + 2xy + y^2 - m^2 = (x^2 + 2xy + y^2) - m^2
+                               = (x + y + m)(x + y - m)
+
+    _C._ Six terms. x^2 - 2xy + y^2 - m^2 - 2mn - n^2
+            = (x^2 - 2xy + y^2) - (m^2 + 2mn + n^2)
+            = (x - y)^2 - (m + n)^2
+            = [(x - y) + (m + n)][(x - y) - (m + n)].
+
+    _D._ An incomplete square. Three terms, and
+         4th powers or multiples of 4.
+
+         c^4 + c^2 d^2 + d^4 = c^4 + 2c^2 d^2 + d^4 - c^2 d^2
+                             = (c^2 + d^2)^2 - c^2 d^2
+                             = (c^2 + d^2 + cd)(c^2 + d^2 - cd).
+
+CASE IV. A trinomial of the form x^2 + bx + c. Three terms.
+
+    x^2 + x - 30 = (x + 6)(x - 5).
+
+
+CASE V. A trinomial of the form ax^2 + bx + c. Three terms.
+
+    20x^2 + 7x - 6 = (4x + 3)(5x - 2).
+
+CASE VI.
+
+    _A._ The sum or difference of two cubes. Two terms.
+
+         x^3 + y^3 = (x + y)(x^2 - xy + y^2);
+         x^3 - y^3 = (x - y)(x^2 + xy + y^2).
+
+    _B._ The sum or difference of two like powers. Two terms.
+
+         x^4 - y^4 = (x - y)(x^3 + x^2y + xy^2 + y^3);
+         x^5 + y^5 = (x + y)(x^4 - x^3y + x^2 y^2 - xy^3 + y^4).
+
+CASE VII. A common polynomial factor. Any _composite_ number of terms.
+
+    t^2 p + t^2 q - t^2 r - g^2 p - g^2 q + g^2 r
+    = t^2 (p + q - r) - g^2 (p + q -r)
+    = (p + q - r)(t^2 - g^2)
+    = (p + q - r)(t + g)(t - g).
+
+CASE VIII. The Factor Theorem. Any number of terms.
+
+    x^3 + 17x - 18 = (x - 1)(x^2 + x + 18).
+
+
+
+
+FACTORING
+
+
+Review the _Cases in Factoring_ (see Outline on preceding pages) and
+write out the prime factors of the following:
+
+  1. 8a^(13) + am^(12).
+
+  2. x^7 + y^7.
+
+  3. 4x^2 + 11x - 3.
+
+  4. m^2 + n^2 - (1 + 2mn).
+
+  5. -x^2 + 2x - 1 + x^4.
+
+  6. x^(16) - y^(16).  (Five factors.)
+
+  7. (x + 1)^2 - 5x - 29.
+
+  8. x^4 + x^2 y^2 + y^4.
+
+  9. x^4 - 11x^2 + 1.
+
+  10. x^(2m) + 2 + 1/(x^(2m)).
+
+  11. x^(6m) + 13x^(3m) + 12.
+
+  12. 4a^2 b^2 - (a^2 + b^2 - c^2)^2.
+
+  13. (x^2 - x - 6)(x^2 - x - 20).
+
+  14. a^4 - 8a - a^3 + 8.
+
+  15. p^3 + 7p^2 + 14p + 8.
+
+  16. 18a^2 b + 60ab^2 + 50b^3.
+
+  17. x^3 - 7x + 6.
+
+  18. 24c^2 d^2 - 47cd - 75.
+
+  19. (a^2 - b^2)^2 - (a^2 - ab)^2.
+
+  20. a^2 x^3 - (8a^2)/(y^3) - x^3 + 8/(y^3).
+
+  21. gt - gk + gl^2 + xt - xk + xl^2.
+
+  22. (m - n)(2a^2 - 2ab) + (n - m)(2ab - 2b^2).
+
+  23. a^2 - x^2 - y^2 + b^2 + 2ab + 2xy.
+
+  24. (2c^2 + 3d^2)a + (2a^2 + 3c^2)d.
+
+  25. (n(n - 1))/(1 . 2) a^(n - 2) b^2
+        + (n(n - 1)(n - 2))/(1 . 2 . 3) a^(n - 3) b^3.
+
+  26. (x - x^2)^3 + (x^2 - 1)^3 + (1 - x)^3.            (_M. I. T._)
+
+  27. (27y^3)^2 - 2(27y^3)(8b^3) + (8b^3)^2.          (_Princeton._)
+
+  28. (a^3 + 8b^3)(a + b) - 6ab(a^2 - 2ab + 4b^2).      (_M. I. T._)
+
+Solve by factoring:
+
+  29. x^3 = x.
+
+  30. z^2 - 4z - 45 = 0.
+
+  31. x^3 - x^2 = 4x - 4.
+
+~Reference:~ The chapter on Factoring in any algebra.
+
+
+
+
+HIGHEST COMMON FACTOR AND LOWEST COMMON MULTIPLE
+
+
+Define H. C. F. and L. C. M.
+
+Find by factoring the H. C. F. and L. C. M.:
+
+  1. 3x^2 - 3x,
+     12x^2 (x^2 - 1),
+     18x^3 (x^3 - 1).
+
+  2. (x^2 - 1)(x^2 + 5x + 6),
+     (x^2 + 3x)(x^2 - x - 6).                           (_Harvard._)
+
+  3. x^2 - y^2,
+     x^2 + y^2,
+     x^3 + y^3,
+     x^6 + y^6,
+     x^6 - y^6.                          (_College Entrance Board._)
+
+  4. x^3 + x^2 - 2,
+     x^3 + 2x^2 - 3.                                    (_Cornell._)
+
+  5. x^5 - 2x^4 + x^2,
+     2x^4 - 4x^3 - 4x + 6.                                 (_Yale._)
+

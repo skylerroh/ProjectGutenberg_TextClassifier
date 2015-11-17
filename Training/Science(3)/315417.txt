@@ -1,0 +1,508 @@
+In determining the proper dimensions of a conductor for railway
+purposes, Sir William Thomson's law should properly apply. But on a
+line where the gradients and traffic are very irregular, it is
+difficult to estimate the average current, and the desirability of
+having the rail mechanically strong, and of such low resistance that
+the potential shall not vary very materially throughout its length,
+becomes more important than the economic considerations involved in
+Sir William Thomson's law. At Portrush the resistance of a mile,
+including the return by earth and the ground rails, is actually about
+0.23 ohm. If calculated from the section of the iron, it would be 0.15
+ohm, the difference being accounted for by the resistance of the
+copper loops, and occasional imperfect contacts. The E.M.F. at which
+the conductor is maintained is about 225 volts, which is well within
+the limit of perfect safety assigned by Sir William Thomson and Dr.
+Siemens. At the same time the shock received by touching the iron is
+sufficient to be unpleasant, and hence is some protection against the
+conductor being tampered with.
+
+Consider a car requiring a given constant current; evidently the
+maximum loss due to resistance will occur when the car is at the
+middle point of the line, and will then be one-fourth of the total
+resistance of the line, provided the two extremities are maintained by
+the generators at the same potential. Again, by integration, the mean
+resistance can be shown to be one-sixth of the resistance of the line.
+Applying these figures, and assuming four cars are running, requiring
+4 horse power each, the loss due to resistance does not exceed 4 per
+cent. of the power developed on the cars; or if one car only be
+running, the loss is less than 1 per cent. But in actual practice at
+Portrush even these estimates are too high, as the generators are
+placed at the bottom of the hills, and the middle portion of the line
+is more or less level, hence the minimum current is required when the
+resistance is at its maximum value.
+
+The insulation of the conductor has been a matter of considerable
+difficulty, chiefly on account of the moistness of the climate. An
+insulation has now, however, been obtained of from 500 to 1,000 ohms
+per mile, according to the state of the weather, by placing a cap of
+insulite between the wooden posts and T-iron. Hence the total leakage
+cannot exceed 2.5 amperes, representing a loss of three-fourths of a
+horse power, or under 5 per cent, when four cars are running. But
+apart from these figures, we have materials for an actual comparison
+of the cost of working the line by electricity and steam. The steam
+tramway engines, temporarily employed at Portrush, are made by Messrs.
+Wilkinson, of Wigan, and are generally considered as satisfactory as
+any of the various tramway engines. They have a pair of vertical
+cylinders, 8 inches diameter and one foot stroke, and work at a boiler
+pressure of 120 lb., the total weight of the engine being 7 tons. The
+electrical car with which the comparison is made has a dynamo weighing
+13 cwt., and the tare of the car is 52 cwt. The steam-engines are
+capable of drawing a total load of about 12 tons up the hill,
+excluding the weight of the engine; the dynamo over six tons,
+including its own weight; hence, weight for weight, the dynamo will
+draw five times as much as the steam-engine. Finally, compare the
+following estimates of cost. From actual experience, the steam-engine,
+taking an average over a week, costs--
+
+                                          L  s. d.
+  Driver's wages.                         1 10  0
+  Cleaner's  "                            0 12  0
+  Coke, 581/2 cwt. at 25s. per ton.         3 13  11/2
+  Oil, 1 gallon at 3s. 1d.                0  3  1
+  Tallow, 4 lb. at 6d.                    0  2  0
+  Waste, 8 lb. at 2d.                     0  1  4
+  Depreciation, 15 per cent. on L750.     2  3  3
+                                        ----------
+                           Total.        L8  4  91/2
+
+The distance run was 312 miles. Also, from actual experience, the
+electrical car, drawing a second behind it, and hence providing for
+the same number of passengers, consumed 18 lb. of coke per mile run.
+Hence, calculating the cost in the same way, for a distance run of 312
+miles in a week--
+
+                                                            L s. d.
+  Wages of stoker of stationary engine.                     1  0 0
+  Coke, 52 cwt. at 25s. per ton.                            2 15 0
+  Oil, 1 gallon at 3s. 1d.                                  0  3 1
+  Waste, 4 lb. at 2d.                                       0  0 8
+  Depreciation on stationary engine, 10 per cent.      }
+    on L300 11s. 6d.                                   }
+  Depreciation of electrical apparatus, 15 per cent.   }    2  0 4
+    on L500, L1 8s. 10d.                               }
+                                                         ---------
+                            Total.                         L5 19 1
+
+A saving of over 25 per cent.
+
+The total mileage run is very small, on account of the light traffic
+early in the year. Heavier traffic will tell very much in favor of the
+electric car, as the loss due to leakage will be a much smaller
+proportion of the total power developed.
+
+It will be observed that the cost of the tramway engines is very much
+in excess of what is usual on other lines, but this is entirely
+accounted for by the high price of coke, and the exceedingly difficult
+nature of the line to work, on account of the curves and gradients.
+These causes send up the cost of electrical working in the same ratio,
+hence the comparison is valid as between the steam and electricity,
+but it would be unsafe to compare the cost of either with
+horse-traction or wire-rope traction on other lines. The same fuel was
+burnt in the stationary steam-engine and in the tramway engines, and
+the same rolling stock used in both cases; but, otherwise, the
+comparison was made under circumstances in favor of the tramway
+engine, as the stationary steam-engine is by no means economical,
+consuming at least 5 lb. of coke per horse-power hour, and the
+experiments were made, in the case of the electrical car, over a
+length of line three miles long, which included the worst hills and
+curves, and one-half of the conductor was not provided with the
+insulite caps, the leakage consequently being considerably larger than
+it will be eventually.
+
+Finally, as regards the speed of the electrical car, it is capable of
+running on the level at the rate of 12 miles per hour, but as the line
+is technically a tramway, the Board of Trade Regulations do not allow
+the speed to exceed 10 miles an hour.
+
+Taking these data as to cost, and remembering how this will be reduced
+when the water power is made available, and remembering such
+considerations as the freedom from smoke and steam, the diminished
+wear and tear of the permanent way, and the advantage of having each
+car independent, it may be said that there is a future for electrical
+railways.
+
+We must not conclude without expressing our best thanks to Messrs.
+Siemens Bros. for having kindly placed all this apparatus at our
+disposal to-night, and allowing us to publish the results of
+experiments made at their works.
+
+       *       *       *       *       *
+
+
+
+
+THE THOMSON-HOUSTON ELECTRIC LIGHTING SYSTEM.
+
+
+The generator is known as the "Thomson spherical," on account of the
+nearly spherical form of its armature, and differs radically from all
+others in all essential portions, viz., its field magnets, armature,
+and winding thereof, and in its commutator; both in principle and
+construction, and, besides, it is provided with an automatic
+regulator, an attachment not applied to other generators. The annexed
+view of the complete machine will convey an idea of the general
+appearance and disposition of its parts.
+
+The revolving armature which generates the electrical current is made
+internally of a hollow shell of soft iron secured to the central
+portion of the shaft between the bearings, and is wound externally
+with a copper conducting wire, constituting three coils or helices
+surrounding the armature, which coils are, however, permanently
+joined, and in reality act as a single three-branched wire.
+
+This wire, being wound on the exterior of the armature, is fully
+exposed to the powerful magnetic influence of the field poles, which
+inclose the armature almost completely. The armature will thus be seen
+to be thoroughly incased and protected, at the same time that all the
+wire upon it is subject to a powerful action of the surrounding
+magnets, resulting in an economy in the generation of current in its
+coils. The form of the armature being spherical, very little power is
+lost by air friction, and no injury can occur from increased speed
+developing centrifugal force. The field magnets, which surround the
+armature, are cast iron shells, wound outside with many convolutions
+of insulated copper wire, and are joined externally by iron bars to
+convey the magnetism. These outer bars serve also as a most efficient
+protection to the wire and armature of the machine during
+transportation or otherwise. Objects cannot fall upon or rest upon the
+wire coils and injure them. The coils of wire upon the field magnets
+surround not only the iron poles or shells, but are situated also so
+as to surround likewise the revolving armature, and increase the
+effect produced in it by direct induction and magnetism. This feature
+is not used in any other generator, nor does any other make use of a
+spherical armature. The shaft is mounted in babbitted bearings of
+ample size, sustained by a handsome frame therefor, and is of steel,
+finely turned and perfectly true. The shaft and armature together are
+balanced with the utmost care, and run without buzz or rumble. The
+armature wire is kept cool by an active circulation of air over its
+whole surface during revolution. The commutator, or portion from which
+the currents developed in the armature are carried out for use, is a
+beautiful piece of mechanism. It is mounted upon the end of the shaft,
+and has attached to it the wires, three only, coming from the armature
+wire through the tubular shaft.
+
+[Illustration: THE THOMSON SPHERICAL.]
+
+The commutator is peculiar, consisting of only three segments of a
+copper ring, while in the simplest of other continuous current
+generators several times that number exist, and frequently 120!
+segments are to be found. These three segments are made so as to be
+removable in a moment for cleaning or replacement. They are mounted
+upon a metal support, and are surrounded on all sides by a free air
+space, and cannot, therefore, lose their insulated condition. This
+feature of air insulation is peculiar to this system, and is very
+important as a factor in the durability of the commutator. Besides
+this, the commutator is sustained by supports carried in flanges upon
+the shaft, which flanges, as an additional safeguard, are coated all
+over with hard rubber, one of the finest known insulators. It may be
+stated, without fear of contradiction, that no other commutator made
+is so thoroughly insulated and protected. The three commutator
+segments virtually constitute a single copper ring, mounted in free
+air, and cut into three equal pieces by slots across its face. Four
+slit copper springs, called commutator brushes or collectors, are
+allowed to bear lightly upon the commutator when it revolves, and
+serve to take up the current and convey it to the circuit. These
+commutator brushes are carried by movable supports, and their position
+is automatically regulated so as to control the strength of the
+developed current--a feature not found in other systems. This feature,
+as well as the fact that the commutator can be oiled to prevent wear,
+saves attendance and greatly increases the durability of the wearing
+surfaces, while the commutator brushes are maintained in the position
+of best adjustment. The commutator and brushes, in consequence, after
+weeks of running, show scarcely any wear.
+
+
+THE AUTOMATIC CURRENT REGULATOR.
+
+This consists of a peculiar magnet attached to the frame of the
+generator, and the movable armature of which has connections to the
+supports of the commutator brushes for controlling their position. The
+regulator magnet is so formed as to give a uniform attraction upon
+its armature in different positions. In Thomson's improved form this
+is accomplished in a novel manner by making the pole of the magnet
+paraboloidal in form, and making an opening in the movable armature to
+encircle said pole.
+
+[Illustration: THE CURRENT REGULATOR]
+
+The armature is hung on pivots so as to be free to move only toward
+and from the regulating magnet on changes in the current traversing
+the latter, and being connected to the commutator brushes,
+automatically adjusts their position. By this means the power of the
+generator is adapted to run any number of lights within its limit of
+capacity, or may be short circuited purposely or by accident without
+difficulty arising therefrom; and a number of instances have occurred
+where the injurious effects of a short circuit accidentally formed
+have been entirely obviated by the presence of the regulator. In one
+instance four generators, in series representing over forty lights'
+capacity, were accidentally short circuited, and no injury or even
+noticeable action took place except a quick movement of the regulators
+in adapting themselves to the new conditions. Had this accident
+occurred to generators unprovided with regulators, great injury or
+possible destruction of the apparatus would have resulted. It is
+important to a full understanding of the regulation, to state that its
+action is independent of resistances introduced, that it saves power
+and carbons in proportion to lights extinguished, and that it
+compensates for speed variations above the minimum speed. The manner
+of its action is to control the generation of current at the source in
+the armature, and it does so by combining certain electrical actions
+so as to obtain a differential effect, such that when small force of
+current only is required it alone is furnished, and when the maximum
+force is needed the same shall be forthcoming.
+
+[Illustration: THE CONTROLLER MAGNET.]
+
+On the larger generators we combine with the regulator magnet above
+described an exceedingly sensitive controller magnet governing the
+regulation, and by whose accuracy the smallest variations of current
+are counteracted, and the operation of the generator rendered perfect.
+The controller magnet is contained in a box placed on the wall or
+other support near the generator, and consists of a delicate double
+axial magnet controlling the admission of current to the regulator,
+upon the generator, and its action is exceedingly simple and
+effective. So perfect is the action that in a circuit of twenty-five
+to thirty lights, lights may be removed or put out in rapid succession
+without apparently affecting those that remain. Besides, we have been
+enabled to put out even eight or ten lights together instantly, while
+the remainder burn as before. The features above set forth are
+peculiar to the Thomson-Houston system, and have been thoroughly
+covered by patents, and cannot therefore be adopted into other
+systems.
+
+
+THE THOMSON ARC LAMP.
+
+This lamp is essentially a series lamp; that is, any number of them
+can be put on one circuit wire, but a single lamp, used alone, burns
+equally well. It consists of a metal frame supporting at the bottom
+the holder for the globe and lower carbon, which is insulated from the
+frame.
+
+The annexed figure of the plain lamp will convey an understanding of
+its general appearance. The upper carbon is fed downward by the
+mechanism contained in the box above, and is carried by a vertical
+round rod called the carbon holding rod.
+
+[Illustration: THE THOMSON ARC LAMP.]
+
+In the regulating box of the lamp there exists a simple mechanism, the
+result of careful study and experiment to discover the best and
+simplest combination of appliances, which would obviate the necessity
+for the use of clockwork or dash-pots, from which fluids might be
+accidentally spilled, for obtaining a gradual feeding of the carbon as
+fast as it is consumed in producing the light, and at the same time to
+maintain the arc or space between the carbons in burning, of such
+extent as to give a steady, noiseless light, of greatest possible
+economy.
+
+The lamp, once adjusted, does not require any readjustment, and, in
+fact, is built in such a manner as to avoid the presence of adjusting
+devices in it. The lamp also contains an automatic safety device for
+preserving the continuity of the circuit in case of accidental injury
+to the feeding mechanism or the carbons of the lamps. This is quite
+important when a considerable number of lights are operated upon one
+circuit wire, as a break in the circuit, due to a defective lamp,
+would result in the extinguishment of all the lights. With the safety
+device mentioned, such a break does not occur, but the flow of current
+is preserved through the faulty lamp.
+
+By an exceedingly simple device upon the carbon holding rod, the lamps
+are extinguished when the carbons are burned out, and injury by
+burning the holders completely avoided.
+
+The system is based upon the joint inventions of Elihu Thomson and
+Edwin J. Houston, for generators, regulators, and electric lamps, and
+also the patents of Elihu Thomson, in generators, regulators, and
+electric lamps; all of which are now operated and controlled by the
+Thomson-Houston Electric Co., 131 Devonshire Street, Boston, Mass.
+
+       *       *       *       *       *
+
+
+
+
+
+A MODIFICATION OF THE VIBRATING BELL.
+
+
+One of the causes which gives rise to induction in the telephone lines
+running along the Belgian railroads is that there are so many electric
+bells in the stations.
+
+Mr. Lippens proposes as a remedy for the trouble a slight modification
+of the vibrating bell of his invention so as to exclude from the line
+the extra currents from the bell.
+
+In one of the styles (Fig. 1) a spring, R, is attached at T to a fixed
+metallic rod, and presses against the rod, T¹. The current enters
+through the terminal, B, traverses the bobbins, passes through T,
+through the spring, through T¹, and makes its exit through the other
+terminal. The armature is attracted, and the point, P, fixed thereto
+draws back the spring from the rod, T¹, and interrupts the current;
+but, at the moment at which the point touches the spring, and before
+the latter has been detached from the rod, T¹, the electro-magnet
+becomes included in a short circuit, and the line current, instead of
+passing through the bobbins for a very short time, passes through the
+wire, T, the armature, and the rod, T¹, so that the extra current is
+no longer sent into the line.
+
+[Illustration: FIG. 1.]
+
+In another style (Fig. 2) the current is not interrupted at all, but
+enters through the terminal, B, traverses the bobbins, and goes
+through C to the terminal, B.
+
+[Illustration: Fig. 2.]
+
+As soon as the armature is attracted, the spring, R, which is fixed to
+it presses against the fixed metallic rod, T, and thus gives the
+electricity a shorter travel than it would take by preference. The
+current ceases, then, to pass through the bobbins, demagnetization
+occurs, and the spring that holds the armature separates anew. The
+current now passes for a second time into the bobbins and produces a
+new action, and so on. There is no longer, then, any interruption of
+the current, and the motions of the hammer are brought about by the
+change in direction of the current, which alternately traverses and
+leaves the bobbins.
+
+In a communication that he has addressed to us on the subject of these
+bells, Mr. Lippens adds a few details in regard to the mode of
+applying the ground pile to micro-telephone stations.
+
+Being given any two stations, he puts into the ground at the first a
+copper plate, and at the second a zinc one, and connects the two by a
+line wire provided with two vibrating bells and two telephone
+apparatus. The earth current suffices to actuate the bells, but, in
+order to effect a call, the inventor is obliged to run them
+continuously and to interrupt them at the moment at which he wishes to
+communicate. The correspondent is then notified through the cessation
+of noise in the bells, and the two call-apparatus are thrown out of
+the circuit by the play of the commutator, and are replaced by the
+micro-telephone apparatus.
+
+It is certainly impracticable to allow vibrating bells to ring
+continuously in this manner. The ground pile would, at the most, be
+only admissible in cases where the call, having to be made from only
+one of the stations, might be effected by a closing of the
+circuit.--_La Lumiere Electrique_.
+
+       *       *       *       *       *
+
+
+The advantage of lighting vessels by electricity was shown when the
+steamer Carolina, of the old Bay Line between Baltimore and Norfolk,
+ran into the British steamship Riversdale in a dense fog off Cedar
+Point, on Chesapeake Bay. The electric lights of the Carolina were
+extinguished only in the damaged part of the boat, and her officers
+think that if she had been lighted in any other way, a conflagration
+would have followed the collision.
+
+       *       *       *       *       *
+
+
+
+
+PHOTO PLATES--WET AND DRY.
+
+
+Dr. Eder has recently published, in the _Correspondenz_, the first of
+a series of articles embodying the results of his more recent work on
+gelatino bromide; and we now reproduce the substance of the article in
+a somewhat abstracted form.
+
+The "sensitiveness of a wet" plate continues to be used as a rough and
+ready standard of comparison; and, notwithstanding the fact that it is
+physically impossible to exactly compare the sensitiveness of a wet
+plate with that of a gelatino bromide film, it is convenient to refer
+to wet plates as some kind of a rough standard.
+
+Experiments have shown that a gelatine plate which gives the number 10
+on the Warnerke sensitometer, may be regarded as approximately
+corresponding to the average wet plate; and setting out from this
+point, the following table has been constructed:
+
+  Sensitometer           Sensitiveness, expressed in terms
+    number.                       of a "Wet Plate."
+
+     10                                  1
+     11                                  1-1/3
+     12                                  1-3/4
+     13                                  2-1/3
+     14                                  3
+     15                                  4
+     16                                  5
+     17                                  7
+     18                                  9
+     19                                 12
+     20                                 16
+     21                                 21
+     22                                 27
+     23                                 36
+     24                                 48
+     25                                 63
+
+The nature of the developer used has, of course, some influence on the
+sensitiveness of the plates; but in the above cases it is assumed that
+oxalate developer, without any addition, is used; or pyro., to which
+ammonia is added at intervals of about thirty seconds, so as to
+produce a slight tendency to fog; the time of development being from
+three to four minutes. The numbers are supposed to be read after
+fixation, the plate being held against the sky.
+
+Schumann's statement that a gelatino bromide plate is less sensitive
+when developed at 30 deg. C. than when developed at 5 deg., is contested; the
+more recent investigations of Dr. Eder serving to demonstrate that a
+developer at a moderate high temperature acts very much more rapidly
+than when the temperature is low; but when a sufficient time is
+allowed for each developer to thoroughly penetrate the film, the
+difference becomes less apparent. Here are examples:
+
+      _A.--Oxalate Developer._
+
+    Temperature of developer    4-8 deg.  C.  16-17 deg. C.  26-28 deg. C.
+    Time of development 1 min.    3 deg.  W.      8 deg. W.     13 deg. W.
+          "      "      2 min.    91/2 deg. W.     10 deg. W.     15 deg. W.
+
+      _B.--Pyrogallic Developer._
+
+    Temperature of developer    1-2 deg. C.  26-28 deg. C.
+    Time of development 1/4 min.    6 deg. W.     10 deg. W.
+          "      "      3 min.   14 deg. W.     15 deg. W.
+
+       *       *       *       *       *
+
+
+
+
+INTENSIFIER FOR WET PLATES.
+
+By MAJOR WATERHOUSE.
+
+
+The collodion process is still preferred for reproducing black and
+white designs, drawings, engravings, etc., where very dense negatives
+are desirable. The fixed and washed plate is put in a bath of bromide
+of copper (ten per cent. solution); the film whitens immediately, and
+when the color is even all over, the plate is taken out and plunged
+into a bath of the ordinary ferrous oxalate developer. It takes a dark
+olive tint, which is very non-actinic, the shadows meanwhile remaining
+very clear.--_Photo. News._
+
+       *       *       *       *       *
+
+
+
+
+GELATINO BROMIDE EMULSION WITH BROMIDE OF ZINC.
+
+
+By this time of the year I have no doubt many, both amateur and
+professional photographers, are either contemplating or are actually
+at work making their stock of plates for the coming season, and it is
+to be hoped that we shall have more favorable weather than we had last
+year.
+
+Some four or five years since I tried using bromide of zinc instead of
+the ordinary salts, namely, bromide of ammonium or potassium. I only
+made one batch of plates at the time, which possessed several
+important features I considered an advantage, and I think well worth
+while following out. I do not think it can be denied that ordinary

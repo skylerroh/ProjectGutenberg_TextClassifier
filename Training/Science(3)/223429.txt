@@ -1,0 +1,81 @@
+        _Expected results_: a single muscle twitch.
+
+        _Obtained results_: a beautiful nerve twitch.
+
+        (Explanation: Eyesight? How can _nerves_ twitch?)??
+
+     3. _Hypotonic hemolysis_:
+
+        _Expected results_: red blood cell destruction.
+
+        _Obtained results_: crenation.
+
+        (Explanation: switched salt solutions _unconsciously_)?????
+
+     4. _Curarized muscle preparation_:
+
+        _Expected results_: a synaptic block with no response of nerve
+        when stimulated.
+
+        _Observed results_: a typical strychnine response, violent
+        _tetanus_, et cetera.
+
+        (Explanation: again, I switched bottles)????
+
+     5. I shall avoid the obvious mention of mishaps with mechanical or
+        electrical pieces of equipment. I assure you there were similar
+        deviations in initial attempts.
+
+Since I realize that you are preparing a paper on _Memory Registers:
+Stimulation Criteria_, for the VIth Annual International Meeting of the
+Society of Theoretical Biomathematicians in London, and are short of
+time, I shall avoid going into the same kind of detail as the above for
+other Biology Labs, and get into the real heart of the thing ... the
+research problem. (After all that is what both of us are interested in.)
+By the way, please send me a reprint of the paper when it comes out.
+
+I guess I am really hepped up on this, because I've just got to point
+out for emphasis other incidences usually of a type that involved
+missing a whole organ in dissections or a tissue structure in histology
+only on the _first_ study, and then re-reading the assignment--after
+knowing what to look for--and _subsequently finding it exactly where it
+is said to be_. (Ever hunt for an unknown quality--or quantity?) _So it
+was there all the time_, sloppy technique? Or is this branching at a
+control point? _cf._ LC: C. vs. B. p. 251.
+
+To get back to my thesis research, the pieces of equipment that I have
+been using in the research are fairly standard in physiological
+research: a Beckman spectrophotometer, a Coleman photometer, a van Slyke
+amino nitrogen apparatus, a Warburg respirometer, pH meters, Kjeldahls,
+Thunbergs, et cetera. Mostly, I'm in the process of getting used to
+them. Also there is a high voltage X-ray generator, U. V. source and
+other equipment for irradiation purposes. We also have an A. E. C.
+license so that we can get at least microcurie amounts of the usual
+isotopes for radioautographic work.
+
+Now the literature in my area is pretty controversial. (You can
+appreciate _that_, especially since Bergbottom at the Kaiser Wilhelm
+Institute bombarded you with criticisms of your theories.) Different and
+actually contradictory results have been obtained for the same substance
+in the same organism, _e. g._ alkaline phosphatase in the frog liver
+cell (Monnenblick, '55, Tripp, '56, and Stone, '57). To give an example,
+when I start a run for respiration effects using a Warburg I don't know
+what results to expect. Whenever this has been the case, my results have
+been confusing ... to say the least.
+
+On nitrogen-mustard treated cells, in some instances the controls
+respired significantly _more_--even with a statistical analysis of
+variance--in some instances the _experimentals_ respired significantly
+more; and in other cases the respiration for both was _exactly_ the
+same--even _closer_ than the expected deviations that should be found in
+any random population. One run, the blank run, _containing no cells_ ...
+and grease-free ... consumed the greatest amount of oxygen. To cut this
+letter short, the same inconstancies apply to other trials that I have
+made. Whenever I didn't know what to expect, and particularly where the
+literature was controversial, my results have been completely haywire.
+
+Needless to say, I was not happy with this so I discussed it with other
+graduate students. They have all encountered the _same thing_! But most
+professors won't admit this to be true and merely tell me that my
+technique is lousy. If anything, I am an overly careful worker. Why is
+it when I _know_ what results are expected, I get comparable results

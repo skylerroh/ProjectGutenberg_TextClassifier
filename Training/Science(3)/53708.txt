@@ -1,0 +1,412 @@
+
+48. Bituminous, or soft coal, crocks the hands, and burns rapidly
+with much flame and smoke. The greater part of the coal in the
+earth is bituminous. It represents incomplete distillation.
+Hence, by artificially distilling it, illuminating gas is made.
+See page 180. It is far less pure C than anthracite.
+
+49. Cannel Coal is a variety of bituminous coal which can be
+ignited like a candle. This is because so many of the gases are
+still left, and it shows cannel to be less pure C than bituminous
+coal.
+
+50. Lignite, Peat, Turf, etc., are still less pure varieties of
+C. Construct a table of the naturally occurring forms of this
+element, in the order of their purity. Carbon forms the basis of
+all vegetable and animal life; it is found in many rocks, mineral
+oils, asphaltum, natural gas, and in the air as CO2.
+
+51. C a Reducing Agent.
+
+Experiment 31.--Put into a small ignition-tube a mixture of 4 or
+5 g. of powdered copper oxide (CuO), with half its bulk of
+powdered charcoal. Heat strongly for ten or fifteen minutes.
+Examine the contents for metallic copper. With which element of
+CuO has C united? The reaction may be written: Cu0 + C = CO + Cu.
+Complete and explain.
+
+A Reducing, or Deoxidizing, Agent is a substance which takes away
+oxygen from a compound. C is the most common and important
+reducing agent, being used for this purpose in smelting iron and
+other ores, making water-gas, etc.
+
+An Oxidizing Agent is a substance that gives up its O to a
+reducing agent. What oxidizing agent in the above experiment?
+
+52. C a Decolorizer.
+
+Experiment 32.--Put 3 or 4 g. of bone-black into a receiver, and
+add 10 or 15 cc.of cochineal solution. Shake this thoroughly,
+covering the bottle with the hand. Then pour the whole on a
+filter paper, and examine the filtrate. If all the color is not
+removed, filter again. What property of C is shown by this
+experiment? Any other coloring solution may be tried.
+
+The decolorizing power of charcoal is an important
+characteristic. Animal charcoal is used in large quantities for
+decolorizing sugar. The coloring matter is taken out mechanically
+by the C, there being no chemical action. 53. C a Disinfectant.
+
+Experiment 33.--Repeat the previous experiment, adding a solution
+of H2S3 i.e. hydrogen sulphide, in water, instead of cochineal
+solution. See page 120. Note whether the bad odor is removed. If
+not, repeat.
+
+Charcoal has the property of absorbing large quantities of many
+gases. Ill-smelling and noxious gases are condensed in the pores
+of the C; O is taken in at the same time from the air, and these
+gases are there oxidized and rendered odorless and harmless. For
+this reason charcoal is much used in hospitals and sick-rooms, as
+a disinfectant. This property of condensing O, as well as other
+gases, is shown in the experiment below.
+
+54. C an Absorber of Gases and a Retainer of Heat.
+
+Experiment 34.--Put a piece of phosphorus of the size of a pea,
+and well dried, on a thick paper. Cover it well with bone-black,
+and look for combustion after a while. O has been condensed from
+the air, absorbed by the C, and thus communicated to the P. Burn
+all the P at last.
+
+VALENCE.
+
+55. The Symbols NaCl and MgCl2 differ in two ways.--What are
+they? Let us see why the atom of Mg unites with two Cl atoms,
+while that of Na takes but one. If the atoms of two elements
+attract each other, there must be either a general attraction all
+over their surfaces, or else some one or more points of
+attraction. Suppose the latter to be true, each atom must have
+one or more poles or bonds of attraction, like the poles of a
+magnet. Different elements differ in their number of bonds. Na
+has one, which may be written graphically Na-; Cl has one, -Cl.
+When Na unites with Cl, the bonds of each element balance, as
+follows: Na-Cl. The element Mg, however, has two such bonds, as
+Mg= or -Mg-. When Mg unites with Cl, in order to balance, or
+saturate, the bonds, it is evident that two atoms of Cl must be
+used, as Cl-Mg-Cl, or MgCl2.
+
+A compound or an element, in order to exist, must have no free
+bonds. In organic chemistry the exceptions to this rule are very
+numerous, and, in fact, we do not know that atoms have bonds at
+all; but we can best explain the phenomena by supposing them, and
+for a general statement we may say that there must be no free
+bonds. In binaries the bonds of each element must balance.
+
+56. The Valence, Quantivalence, of an Element is its Combining
+Power Measured by Bonds.--H, having the least number of bonds,
+one, is taken as the unit. Valence has always to be taken into
+account in writing the symbol of a compound. It is often written
+above and after the elements [i.e. written like an exponent], as
+K^I, Mg^II.
+
+An element having a valence of one is a monad; of two, a dyad;
+three, a triad; four, tetrad; five, pentad; six, hexad, etc. It
+is also said to be monovalent, di- or bivalent, etc. This theory
+of bonds shows why an atom cannot exist alone. It would have free
+or unused bonds, and hence must combine with its fellow to form a
+molecule, in case of an element as well as in that of a compound.
+This is illustrated by these graphic symbols in which there are
+no free bonds: H-H, O=O, N[3-bond symbol]N, C[4-bond symbol]C. A
+graphic symbol shows apparent molecular structure.
+
+After all, how do we know that there are twice as many Cl atoms
+in the chloride of magnesium as in that of sodium? The compounds
+have been analyzed over and over again, and have been found to
+correspond to the symbols MgCl2 and NaCl. This will be better
+understood after studying the chapter on atomic weights. In
+writing the symbol for the union of H with O, if we take an atom
+of each, the bonds do not balance, H-=O, the former having one;
+the latter, two. Evidently two atoms of H are needed, as H-O-H,
+or
+
+H
+  = O , or H2O. In the union of Zn and O, each has two bonds;
+H
+
+hence they unite atom with atom, Zn = O, or ZnO.
+
+Write the grapbic and the common symbols for the union of H^I and
+Cl^I; of K^I and Br^I; Ag^I and O^II; Na^I and S^II; H^I and
+P^III. Study valences. It will be seen that some elements have a
+variable quantivalence. Sn has either 2 or 4; P has 3 or 5. It
+usually varies by two for a given element, as though a pair of
+bonds sometimes saturated each other;. e.g. =Sn=, a quantivalence
+of 4, and |Sn=, a quantivalence of 2. There are, therefore, two
+oxides of tin, SnO and SnO2, or Sn=O and O=Sn=O. Write symbols
+for the two chlorides of tin; two oxides of P; two oxides of
+arsenic.
+
+The chlorides of iron are FeCl2 and Fe2Cl6. In the latter, it
+might be supposed that the quantivalence of Fe is 3, but the
+graphic symbol shows it to be 4. It is called a pseudo-triad, or
+false triad. Cr and Al are also pseudo-triads.
+
+Cl  Cl |   | Cl--Fe--Fe--Cl |   | Cl  Cl
+
+Write formulae for two oxides of iron; the oxide of Al.
+
+57. A Radical is a Group of Elements which has no separate
+existence, but enters into combination like a single atom; e.g.
+(NO3) in the compounds HNO3 or KNO3; (SO4) in H2SO4. In HNO3 the
+radical has a valence of 1, to balance that of H, H-NO3). In
+H2SO4, what is the valence of (SO4)? Give it in each of these
+radicals, noting first that of the first element: K(NO3),
+Na2(SO4), Na2(CO3), K(ClO3), H3(PO4), Ca3(PO4)2, Na4(SiO4).
+
+Suppose we wish to know the symbol for calcium phosphate. Ca and
+PO4 are the two parts. In H3(PO4) the radical is a triad, to
+balance H3. Ca is a dyad, Ca==(P04). The least common multiple of
+the bonds (2 and 3) is 6, which, divided by 2 (no. Ca bonds),
+gives 3 (no. Ca atoms to be taken). 6 / 3 (no. (PO4) bonds) gives
+2 (no. PO4 radicals to be taken). Hence the symbol Ca3(P04)2.
+Verify this by writing graphically.
+
+Write symbols for the union of Mg and (SO4), Na and (PO4), Zn and
+(NO3), K and (NO3), K and (SO4), Mg and (PO4), Fe and (SO4) (both
+valences of Fe), Fe and (NO3), taking the valences of the
+radicals from HNO3, H2SO4, H3PO4.
+
+Chapter XII.
+
+ELECTRO-CHEMICAL RELATION OF ELEMENTS.
+
+58. Examine untarnished pieces of iron, silver, nickel, lead,
+etc.; also quartz, resin, silk, wood, paper. Notice that from the
+first four light is reflected in a different way from that of the
+others. This property of reflecting light is known as luster.
+Metals have a metallic luster which is peculiar to themselves;
+and this, for the present, may be regarded as their chief
+characteristic. Are they at the positive or negative end of the
+list? See page 43. How is it with the non-metals? This
+arrangement has a significance in chemistry which we must now
+examine. The three appended experiments show how one metal can be
+withdrawn from solution by a second, this second by a third, the
+third by a fourth, and so on. For expedition, three pupils can
+work together for the three following experiments, each doing
+one, and examining the results of the others.
+
+59. Deposition of Silver.
+
+Experiment 35.--Put a ten-cent Ag coin into an evaporating-dish,
+and pour over it a mixture of 5 cc. HNO3 and 10 cc. H2O. Warm
+till all, or nearly all, the Ag dissolves. Remove the lamp. 3 Ag
++ 4 HNO3 = 3 AgNO3 + 2 H2O + NO. Then add 10 cc. H2O, and at once
+put in a short piece of Cu wire, or a cent. Leave till quite a
+deposit appears, then pour off the liquid, wash the deposit
+thoroughly, and remove it from the coin. See whether the metal
+resembles Ag. 2 AgNO3 + Cu =?60. Deposition of Copper.
+
+Experiment 36.--Dissolve a cent or some Cu turnings in dilute
+HNO3, as in Experiment 35, and dilute the solution. 3 Cu + 8 HN09
+- 3 Cu (NOA+4 H2O+2 NO.)
+
+Then put in a clean strip of Pb, and set aside as before,
+examining the deposit finally. Cu(NO3), + Pb - ?
+
+61. Deposition of Lead.
+
+Experiment 37.--Perform this experiment in the same manner as the
+two previous ones, dissolving a small piece of Pb, and using a
+strip of Zn to precipitate the Pb. 3 Pb + 8 HNO3 - 3 Pb (NO4)2 +
+4 Ha0 + 2 NO. Pb (NO3) 2 + Zn = ? h.
+
+62. Explanation. -These experiments show that Cu will replace Ag
+in a solution of AgNO3, that Pb will replace and deposit Cu from
+a similar compound, and that Zn will deposit Pb in the same way.
+They show that the affinity of Zn for (NO3) is stronger than
+either Ag, Cu, or Pb. We. express this affinity by saying that Zn
+is the most positive of the four metals, while Ag is the most
+nega- tive. Cu is positive to Ag, but negative to Pb and Zn.
+Which of the four elements are positive to Pb, and which
+negative? Mg would withdraw Zn from a similar solution, and be in
+its turn withdrawn by Na. The table on page 43 is founded on this
+relation. A given element is positive to every element above it
+in the list, and negative to all below it.
+
+Metals are usually classed as positive, non-metals as negative.
+Each in union with O and 1=I gives rise to a very important class
+of compounds,=--the negative to acids, the positive to bases.
+
+In the following, note whether the positive or the negative
+element is written first:--HCl, Na20,-As2S3, -MgBr2, Ag2S. Na2SO4
+is made up of two parts, Na2 being positive, the radical SO4
+negative. Like elements, radicals are either positive or
+negative. In the following, separate the positive element from
+the negative radical by a vertical line: Na2CO3, NaNO3, ZnSO4,
+KClO3.
+
+The most common positive radical is NH4, ammonium, as in NH4Cl.
+It always deports itself as a metal. The commonest radical is the
+negative OH, called hydroxyl, from hydrogen- oxygen. Take away H
+from the symbol of water, H-O-H, and hydroxyl --(OH) with one
+free bond is left. If an element takes the place of H, i.e.
+unites with OH, the compound is called a hydrate. KOH is
+potassium hydrate. Name NaOH, Ca(OH)2, NH4OH, Zn(OH)2, Al2(OH)6.
+Is the first part of each symbol above positive or negative?
+
+H has an intermediate place in the list. It is a constituent of
+both acids and bases, and of the neutral substance, water.
+
+ORDER.
+
+--
+
+
+Negative or Non-Metallic Elements.
+Acid-forming with H(usually OH).
+
+Oxygen
+Sulphur
+Nitrogen
+Fluorine
+Chlorine
+Bromine
+Iodine
+Phosphorus
+Arsenic
+Carbon
+Silicon
+Hydrogen
+
+Positive or Metallic Elements.
+Base-forming with OH.
+
+Gold
+Platinum
+Mercury
+Silver
+Copper
+Tin
+Lead
+Iron
+Zinc
+Aluminium
+Magnesium
+Calcium
+Sodium
+Potassium
+
+CHAPTER XIII.
+
+ELECTROLYSIS.
+
+The following experiment is to be performed only by the teacher,
+but pupils should make drawings and explain.
+
+63. Decomposition of Water.
+
+Experiment 38.--Arrange "in series" two or more cells of a Bunsen
+battery (Physics, page 164), [References are made in this book to
+Gage's Introduction to Physical Science.] and attach the terminal
+wires to an electrolytic apparatus (Fig. 19) filled with water
+made slightly acid with H2SO4. Construct a diagram of the
+apparatus, marking the Zn in the liquid +, since it is positive,
+and the C, or other element, -. Mark the electrode attached to
+the Zn -, and that attached to the C +; positive electricity at
+one end of a body commonly implies negative at the other.
+Opposites attract, while like electricities repel each other.
+These analogies will aid the memory. At the + electrode is the -
+element of H2O, and at the - electrode the + element. Note, page
+43, whether H or O is positive with reference to the other, and
+write the symbol for each at the proper electrode. Compare the
+diagram with the apparatus, to verify your conclusion. Why does
+gas collect twice as fast at one electrode as at the other? What
+does this prove of the composition of water? When filled, test
+the gases in each tube, for O and H, with a burning stick.
+Electrical analysis is called electrolysis.
+
+If a solution of NaCl be electrolyzed, which element will go to
+the + pole? Which, if the salt were K2SO4? Explain these
+reactions in the electrolysis of that salt. K2SO4 = K2 + S03 + O.
+SO4 is unstable, and breaks up into SO3 and O. Both K and SO3
+have great affinity for water. K2 + 2 H2O = 2 KOH + H2. S03 + H2O
+= H2SO4.
+
+The base KOH would be found at the - electrode, and the acid
+H2SO4 at the + electrode.
+
+The positive portion, K, uniting with H2O forms a base; the
+negative part, S03, with H2O forms an acid. Of what does this
+show a salt to be composed?
+
+64. Conclusions.--These experiments show (1) that at the +
+electrode there always appears the negative element, or radical,
+of the compound, and at the - electrode the positive element; (2)
+that these elements unite with those of water, to make, in the
+former case, acids, in the latter, bases; (3) that acids and
+bases differ as negative and positive elements differ, each being
+united with O and H, and yet producing compounds of a directly
+opposite character; (4) that salts are really compounded of acids
+and bases. This explains why salts are usually inactive and
+neutral in character, while acids and bases are active agents.
+Thus we see why the most positive or the most negative elements
+in general have the strongest affinities, while those
+intermediate in the list are inactive, and have weak affinities;
+why alloys of the metals are weak compounds; why a neutral
+substance, like water, has such a weak affinity for the salts
+which it holds in solution; and why an aqueous solution is
+regarded as a mechanical mixture rather than a chemical compound.
+In this view, the division line between chemistry and physics is
+not a distinct one. These will be better understood after
+studying the chapters on acids, bases and salts.
+
+Chapter XIV.
+
+UNION BY VOLUME.
+
+66. Avogadro's Law of Gases.--Equal volumes of all gases, the
+temperature and pressure being the same, have the same number of
+molecules. This law is the foundation of modern chemistry. A
+cubic centimeter of O has as many molecules as a cubic centimeter
+of H, a liter of N the same number as a liter of steam, under
+similar conditions. Compare the number of molecules in 5 l. of
+N2O with that in 10 l. Cl. 7 cc. vapor of I to 6 cc. vapor of S.
+The half-molecules of two gases have, of course, the same
+relation to each other, and in elements the half-molecule is
+usually the atom.
+
+The molecular volumes--molecules and the surrounding space--of
+all gases must therefore be equal, as must the half-volumes.
+Notice that this law applies only to gases, not to liquids or
+solids. Let us apply it to the experiment for the electrolysis of
+water. In this we found twice as much H by volume as O.
+Evidently, then, steam has twice as many molecules of H as of O,
+and twice as many half-molecules, or atoms. If the molecule has
+one atom of O, it must have two of H, and the formula will be
+H2O.
+
+Suppose we reverse the process and synthesize steam, which can be
+done by passing an electric spark through a mixture of H and O in
+a eudiometer over mercury; we should need to take twice as much H
+as O. Now when 2 cc. of H combine thus with 1 cc. of O, only 2
+cc.of steam are produced. Three volumes are condensed into two
+volumes, and of course three molecular volumes into two, three
+atomic volumes into two. This may be written as follows:--
+
+H + H + O = H2O.
+
+This is a condensation of one-third.
+
+If 2 l. of chlorhydric acid gas be analyzed, there will result 1
+l. of H and 1 l. of Cl. The same relation exists between the
+molecules and the atoms, and the reaction is:--
+
+HCl = H + Cl.
+
+Reverse the process, and 1 l. of H unites with 1 l. of Cl to
+produce 2 l. of the acid gas; there is no condensation, and the
+symbol is HCl. In seven volumes HCl how many of each constituent?
+
+The combination of two volumes of H with one volume of S is found
+to produce two volumes of hydrogen sulphide. Therefore two atoms
+of H combine with one of S to form a molecule whose symbol is
+H2S.
+
+H + H + S = H2S.
+
+What is the condensation in this case?
+
+PROBLEMS.
+
+(1) How many liters of S will it take to unite with 4 l. of H?
+How much H2S will be formed?

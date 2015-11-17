@@ -1,0 +1,194 @@
+Project Gutenberg's Five of Maxwell's Papers, by James Clerk Maxwell
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Five of Maxwell's Papers
+
+Author: James Clerk Maxwell
+
+Posting Date: February 25, 2014 [EBook #4908]
+
+Release Date: January, 2004
+
+[This file was first posted on March 24, 2002]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK FIVE OF MAXWELL'S PAPERS ***
+
+
+
+
+Produced by Gordon Keener
+
+
+
+
+
+
+This eBook includes 5 papers or speeches by James Clerk Maxwell.
+
+The contents are:
+
+   Foramen Centrale
+   Theory of Compound Colours
+   Poinsot's Theory
+   Address to the Mathematical
+   Introductory Lecture
+
+
+
+
+On the Unequal Sensibility of the Foramen Centrale to Light of
+different Colours.
+
+James Clerk Maxwell
+
+
+[From the _Report of the British Association_, 1856.]
+
+
+When observing the spectrum formed by looking at a long ve rtical slit
+through a simple prism, I noticed an elongated dark spot running up
+and down in the blue, and following the motion of the eye as it moved
+_up and down_ the spectrum, but refusing to pass out of the blue into
+the other colours.  It was plain that the spot belonged both to the
+eye and to the blue part of the spectrum.  The result to which I have
+come is, that the appearance is due to the yellow spot on the retina,
+commonly called the _Foramen Centrale_ of Soemmering.  The most
+convenient method of observing the spot is by presenting to the eye in
+not too rapid succession, blue and yellow glasses, or, still better,
+allowing blue and yellow papers to revolve slowly before the eye.  In
+this way the spot is seen in the blue.  It fades rapidly, but is
+renewed every time the yellow comes in to relieve the effect of the
+blue.  By using a Nicol's prism along with this apparatus, the brushes
+of Haidinger are well seen in connexion with the spot, and the fact of
+the brushes being the spot analysed by polarized light becomes
+evident.  If we look steadily at an object behind a series of bright
+bars which move in front of it, we shall see a curious bending of the
+bars as they come up to the place of the yellow spot.  The part which
+comes over the spot seems to start in advance of the rest of the bar,
+and this would seem to indicate a greater rapidity of sensation at the
+yellow spot than in the surrounding retina.  But I find the experiment
+difficult, and I hope for better results from more accurate observers.
+
+
+
+
+On the Theory of Compound Colours with reference to Mixtures of
+Blue and Yellow Light.
+
+James Clerk Maxwell
+
+
+[From the _Report of the British Association_, 1856.]
+
+
+When we mix together blue and yellow paint, we obtain green paint.
+This fact is well known to all who have handled colours; and it is
+universally admitted that blue and yellow make green.  Red, yellow,
+and blue, being the primary colours among painters, green is regarded
+as a secondary colour, arising from the mixture of blue and yellow.
+Newton, however, found that the green of the spectrum was not the same
+thing as the mixture of two colours of the spectrum, for such a
+mixture could be separated by the prism, while the green of the
+spectrum resisted further decomposition.  But still it was believed
+that yellow and blue would make a green, though not that of the
+spectrum.  As far as I am aware, the first experiment on the subject
+is that of M. Plateau, who, before 1819, made a disc with alternate
+sectors of prussian blue and gamboge, and observed that, when
+spinning, the resultant tint was not green, but a neutral gray,
+inclining sometimes to yellow or blue, but never to green.
+Prof. J. D. Forbes of Edinburgh made similar experiments in 1849, with
+the same result.  Prof. Helmholtz of Konigsberg, to whom we owe the
+most complete investigation on visible colour, has given the true
+explanation of this phenomenon.  The result of mixing two coloured
+powders is not by any means the same as mixing the beams of light
+which flow from each separately.  In the latter case we receive all
+the light which comes either from the one powder or the other.  In the
+former, much of the light coming from one powder falls on particles of
+the other, and we receive only that portion which has escaped
+absorption by one or other.  Thus the light coming from a mixture of
+blue and yellow powder, consists partly of light coming directly from
+blue particles or yellow particles, and partly of light acted on by
+both blue and yellow particles.  This latter light is green, since the
+blue stops the red, yellow, and orange, and the yellow stops the blue
+and violet.  I have made experiments on the mixture of blue and yellow
+light--by rapid rotation, by combined reflexion and transmission, by
+viewing them out of focus, in stripes, at a great distance, by
+throwing the colours of the spectrum on a screen, and by receiving
+them into the eye directly; and I have arranged a portable apparatus
+by which any one may see the result of this or any other mixture of
+the colours of the spectrum.  In all these cases blue and yellow do
+not make green.  I have also made experiments on the mixture of
+coloured powders.  Those which I used principally were "mineral blue"
+(from copper) and "chrome-yellow."  Other blue and yellow pigments gave
+curious results, but it was more difficult to make the mixtures, and
+the greens were less uniform in tint.  The mixtures of these colours
+were made by weight, and were painted on discs of paper, which were
+afterwards treated in the manner described in my paper "On Colour as
+perceived by the Eye," in the _Transactions of the Royal Society of
+Edinburgh_, Vol. XXI. Part 2.  The visible effect of the colour is
+estimated in terms of the standard-coloured papers:--vermilion (V),
+ultramarine (U), and emerald-green (E).  The accuracy of the results,
+and their significance, can be best understood by referring to the
+paper before mentioned.  I shall denote mineral blue by B, and
+chrome-yellow by Y; and B3 Y5 means a mixture of three parts blue and
+five parts yellow.
+
+       Given Colour.     Standard Colours.          Coefficient
+                          V.    U.    E.           of brightness.
+
+         B8    , 100  =   2    36     7   ............   45
+		 
+         B7  Y1, 100  =   1    18    17   ............   37
+		 
+         B6  Y2, 100  =   4    11    34   ............   49
+		 
+         B5  Y3, 100  =   9     5    40   ............   54
+		 
+         B4  Y4, 100  =  15     1    40   ............   56
+		 
+         B3  Y5, 100  =  22   - 2    44   ............   64
+		 
+         B2  Y6, 100  =  35   -10    51   ............   76
+		 
+         B1  Y7, 100  =  64   -19    64   ............  109
+		 
+             Y8, 100  = 180   -27   124   ............  277
+
+The columns V, U, E give the proportions of the standard colours which
+are equivalent to 100 of the given colour; and the sum of V, U, E
+gives a coefficient, which gives a general idea of the brightness.  It
+will be seen that the first admixture of yellow _diminishes_ the
+brightness of the blue.  The negative values of U indicate that a
+mixture of V, U, and E cannot be made equivalent to the given colour.
+The experiments from which these results were taken had the negative
+values transferred to the other side of the equation.  They were all
+made by means of the colour-top, and were verified by repetition at
+different times.  It may be necessary to remark, in conclusion, with
+reference to the mode of registering visible colours in terms of three
+arbitrary standard colours, that it proceeds upon that theory of three
+primary elements in the sensation of colour, which treats the
+investigation of the laws of visible colour as a branch of human
+physiology, incapable of being deduced from the laws of light itself,
+as set forth in physical optics.  It takes advantage of the methods of
+optics to study vision itself; and its appeal is not to physical
+principles, but to our consciousness of our own sensations.
+
+
+
+
+On an Instrument to illustrate Poinsot's Theory of Rotation.
+
+James Clerk Maxwell
+
+
+[From the _Report of the British Association_, 1856.]
+

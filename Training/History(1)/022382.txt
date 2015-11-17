@@ -1,0 +1,639 @@
+The Project Gutenberg EBook of The Iliad of Homer (1873), by Homer
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Iliad of Homer (1873)
+
+Author: Homer
+
+Translator: Theodore Alois Buckley
+
+Release Date: August 23, 2007 [EBook #22382]
+Last updated: December 8, 2012
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE ILIAD OF HOMER (1873) ***
+
+
+
+
+Produced by Juliet Sutherland, Renald Levesque and the
+Online Distributed Proofreaders Europe at
+http://dp.rastko.net.
+
+
+
+
+
+
+
+[Illustration: Homer by Hinchliff]
+
+                                 THE
+                           ILIAD OF HOMER,
+
+
+                       Literally Translated,
+                      WITH EXPLANATORY NOTES.
+
+                                 BY
+
+                   THEODORE ALOIS BUCKLEY, B.A.
+                         OF CHRIST CHURCH.
+
+
+                              LONDON:
+          BELL AND DALDY, YORK STREET, COVENT GARDEN.
+                               1873.
+
+    LONDON: PRINTED BY WILLIAM CLOWES AND SONS, STAMFORD STREET
+                        AND CHARING CROSS.
+
+
+
+
+                             PREFACE.
+
+
+The present translation of the Iliad will, it is hoped, be found to
+convey, more accurately than any which has preceded it, the words and
+thoughts of the original. It is based upon a careful examination of
+whatever has been contributed by scholars of every age towards the
+elucidation of the text, including the ancient scholiasts and
+lexicographers, the exegetical labours of Barnes and Clarke, and the
+elaborate criticisms of Heyne, Wolf, and their successors.
+
+The necessary brevity of the notes has prevented the full discussion of
+many passages where there is great room for difference of opinion, and
+hence several interpretations are adopted without question, which, had
+the editor's object been to write a critical commentary, would have
+undergone a more lengthened examination. The same reason has compelled
+him, in many instances, to substitute references for extracts,
+indicating rather than quoting those storehouses of information, from
+whose abundant contents he would gladly have drawn more copious
+supplies. Among the numerous works to which he has had recourse, the
+following deserve particular mention-Alberti's invaluable edition of
+Hesychius, the Commentary of Eustathius, and Buttmann's Lexilogus.
+
+In the succeeding volume, the Odyssey, Hymns, and minor poems will be
+produced in a similar manner.
+
+
+THEODORE ALOIS BUCKLEY,
+_Ch. Ch., Oxford._
+
+
+
+
+                        THE ILIAD OF HOMER.
+
+
+
+
+                          BOOK THE FIRST.
+
+
+                             ARGUMENT.
+
+Apollo, enraged at the insult offered to his priest, Chryses, sends a
+pestilence upon the Greeks. A council is called, and Agamemnon, being
+compelled to restore the daughter of Chryses, whom he had taken from
+him, in revenge deprives Achilles of Hippodameia. Achilles resigns her,
+but refuses to aid the Greeks in battle, and at his request, his mother,
+Thetis, petitions Jove to honour her offended son at the expense of the
+Greeks. Jupiter, despite the opposition of Juno, grants her request.
+
+
+Sing, O goddess, the destructive wrath of Achilles, son of Peleus, which
+brought countless woes upon the Greeks,[1] and hurled many valiant souls
+of heroes down to Hades, and made themselves[2] a prey to dogs and to
+all birds [but the will of Jove was being accomplished], from the time
+when Atrides, king of men, and noble Achilles, first contending, were
+disunited.
+
+   [Footnote 1: Although, as Ernesti observes, the verb [Greek:
+   proiapsen] does not necessarily contain the idea of a _premature_
+   death, yet the ancient interpreters are almost unanimous in
+   understanding it so. Thus Eustathius, p. 13, ed. Bas.: [Greek:
+   meta blazes eis Aioen pro to deontos epemphen, os tes protheseos]
+   (_i.e._ pro) [Greek: kairikon ti delouses, e aplos epemphen, os
+   pleonazouses tes protheseos.] Hesych. t. ii. p. 1029, s. n.:
+   [Greek: proiapsen--deloi de dia tes lezeos ten met' odunes auton
+   apoleian]. Cf. Virg. AEn. xii. 952: "Vitaque cum gemitu fugit
+   _indignata_ sub umbras," where Servius well observes, "quia
+   discedebat a juvene: nam volunt philosophi, invitam animam
+   discedere a corpore, cum quo adhuc habitare legibus naturae
+   poterat." I have, however, followed Ernesti, with the later
+   commentators.]
+
+   [Footnote 2: _I.e._ their bodies. Cf. AE. i. 44, vi. 362, where
+   there is a similar sense of the pronoun.]
+
+Which, then, of the gods, engaged these two in strife, so that they
+should fight?[3] The son of Latona and Jove; for he, enraged with the
+king, stirred up an evil pestilence through the army [and the people
+kept perishing][4]; because the son of Atreus had dishonoured the
+priest Chryses: for he came to the swift ships of the Greeks to ransom
+his daughter, and bringing invaluable ransoms, having in his hands the
+fillets of far-darting Apollo on his golden sceptre. And he supplicated
+all the Greeks, but chiefly the two sons of Atreus, the leaders of the
+people:
+
+"Ye sons of Atreus, and ye other well-greaved Greeks, to you indeed may
+the gods, possessing the heavenly dwellings, grant to destroy the city
+of Priam, and to return home safely: but for me, liberate my beloved
+daughter, and accept the ransoms, reverencing the son of Jove,
+far-darting Apollo."
+
+   [Footnote 3: Rut see Anthon.]
+
+   [Footnote 4: Observe the full force of the imperfect tense.]
+
+Upon this, all the other Greeks shouted assent, that the priest should
+be reverenced, and the splendid ransoms accepted; yet was it not
+pleasing in his mind to Agamemnon, son of Atreus; but he dismissed him
+evilly, and added a harsh mandate:
+
+"Let me not find thee, old man, at the hollow barks, either now
+loitering, or hereafter returning, lest the staff and fillet of the god
+avail thee not.[5] For her I will not set free; sooner shall old age
+come upon her, at home in Argos, far away from her native land, employed
+in offices of the loom, and preparing[6] my bed. But away! irritate me
+not, that thou mayest return the safer."
+
+   [Footnote 5: Of [Greek: chraismein], Buttmann, Lexil. p. 546,
+   observes that "it is never found in a positive sense, but
+   remained in ancient usage in negative sentences only; as, '_it is
+   of no use to thee_,' or, '_it helps thee not_,' and similar
+   expressions."]
+
+   [Footnote 6: The old mistake of construing [Greek: antioosan]
+   "sharing," which still clings to the translations, is exploded by
+   Buttm. Lex. p. 144. Eust. and Heysch. both give [Greek:
+   eutrepizonsan] as one of the interpretations; and that such is
+   the right one is evident from the collateral phrase [Greek:
+   porsynein lechos] in Od. iii. 403. [Greek: Lyphizezkas] is the
+   perfect tense, but with the force of the present.]
+
+Thus he spoke; but the old man was afraid, and obeyed the command. And
+he went in silence along the shore of the loud-resounding sea; but then,
+going apart, the aged man prayed much to king Apollo, whom fair-haired
+Latona bore:
+
+"Hear me, god of the silver bow, who art wont to protect Chrysa and
+divine Cilla, and who mightily rulest over Tenedos: O Sminthius,[7] if
+ever I have roofed[8] thy graceful temple, or if, moreover, at any time
+I have burned to thee the fat thighs of bulls or of goats, accomplish
+this entreaty for me. Let the Greeks pay for my tears, by thy arrows."
+
+   [Footnote 7: An epithet derived from [Greek: sminthos], the
+   Phrygian name for a _mouse_: either because Apollo had put an end
+   to a plague of mice among that people, or because a mouse was
+   thought emblematical of augury.--Grote, Hist. of Greece, vol. i.
+   p. 68, observes that this "worship of Sminthian Apollo, in
+   various parts of the Troad and its neighbouring territory, dates
+   before the earliest period of AEolic colonization." On the Homeric
+   description of Apollo, see Mueller, Dorians, vol. i. p. 315.]
+
+   [Footnote 8: Not "crowned," as Heyne says; for this was a later
+   custom.--See Anthon and Arnold.]
+
+Thus he spoke praying; but to him Phoebus Apollo hearkened. And he
+descended from the summits of Olympus, enraged in heart, having upon his
+shoulders his bow and quiver covered on all sides. But as he moved, the
+shafts rattled forthwith[9] upon the shoulders of him enraged; but he
+went along like unto the night. Then he sat down apart from the ships,
+and sent among them an arrow, and terrible arose the clang of the silver
+bow. First he attacked the mules, and the swift[10] dogs; but afterwards
+despatching a pointed arrow against [the Greeks] themselves, he smote
+them, and frequent funeral-piles of the dead were continually burning.
+Nine days through the army went the arrows of the god; but on the tenth,
+Achilles called the people to an assembly; for to his mind the
+white-armed goddess Juno had suggested it; for she was anxious
+concerning the Greeks, because she saw them perishing. But when they
+accordingly were assembled, and were met together, swift-footed
+Achilles, rising up amidst them, [thus] spoke:
+
+"O son of Atreus! now do I think that we would consent to return, having
+been defeated in our purpose, if we should but escape death, since at
+the same time[11] war and pestilence subdue the Greeks. But come now,
+let us consult some prophet, or priest, or even one who is informed by
+dreams (for dream also is from Jove),[12] who would tell us on what
+account Phoebus Apollo is so much enraged with us: whether he blames us
+on account of a vow [unperformed], or a hecatomb [unoffered]; and
+whether haply he may be willing, having partaken of the savour of lambs
+and unblemished goats, to avert from us the pestilence."
+
+   [Footnote 9: The force of [Greek: ara] is noticed by Naegelsbach.]
+
+   [Footnote 10: Or "white." Hesych. [Greek: tacheis, leykous].]
+
+   [Footnote 11: Ammonius, p. 14, foolishly supposes that [Greek:
+   amou] here denotes place, [Greek: in Troia]. Valcknaer justly
+   supports the ordinary interpretation.]
+
+   [Footnote 12: Cf. Plin. Ep. i. 18, and Duport, Gnom. Hom. p. 3,
+   sq.]
+
+He indeed, thus having spoken, sat down; but to them there arose by far
+the best of augurs, Calchas, son of Thestor, who knew the present, the
+future, and the past,[13] and who guided the ships of the Greeks to
+Ilium, by his prophetic art, which Phoebus Apollo gave him, who, being
+well disposed,[14] addressed them, and said:
+
+"O Achilles, dear to Jove, thou biddest me to declare the wrath of
+Apollo, the far-darting king. Therefore will I declare it; but do thou
+on thy part covenant, and swear to me, that thou wilt promptly assist me
+in word and hand. For methinks I shall irritate a man who widely rules
+over all the Argives, and whom the Greeks obey. For a king is more
+powerful[15] when he is enraged with an inferior man; for though he may
+repress his wrath[16] for that same day, yet he afterwards retains his
+anger in his heart, until he accomplishes it; but do thou consider
+whether thou wilt protect me."
+
+But him swift-footed Achilles, answering, addressed: "Taking full
+confidence, declare the divine oracle, whatsoever thou knowest. For, by
+Apollo, dear to Jove, to whom thou, praying, O Calchas, dost disclose
+predictions to the Greeks, no one of all the Greeks, while I am alive
+and have sight upon the earth, shall lay heavy hands upon thee at the
+hollow ships; not even if thou wast to name Agamemnon, who now boasts
+himself to be much the most powerful of the Greeks." [17]
+
+   [Footnote 13: A common formula in the ancient poets to express
+   the eternity of things. Empedocles apud Pseud. Arist. de Mundo:
+   [Greek: Panth' osa t' en, osa t' esti, kai ossa te estai opiso].
+   Virg. Georg. iv. 392: "Novit namque omnia vates, Quae sint, quae
+   fuerint, quae mox ventura trahantur."]
+
+   [Footnote 14: See Abresch. on AEschyl. p. 287. Ernesti.]
+
+   [Footnote 15: [Greek: anagaktousi gar dia ten yperochen].
+   A--rist. Rhet. ii. 2, quoting this verse.]
+
+   [Footnote 16: Lit. "digest his bile". Homer's distinction between
+   [Greek: cholos] and [Greek: kotos] is observed by Nemesius, de
+   Nat. Hom. Sec. 21.]
+
+   [Footnote 17: I have used "Greeks" wherever the whole army is
+   evidently meant. In other instances I have retained the specific
+   names of the different confederate nations.]
+
+And upon this, the blameless prophet then took confidence, and spoke:
+"Neither is he enraged on account of a vow [unperformed], nor of a
+hecatomb [unoffered], but on account of his priest, whom Agamemnon
+dishonoured; neither did he liberate his daughter, nor did he receive
+her ransom. Wherefore has the Far-darter given woes, and still will he
+give them; nor will he withhold his heavy hands from the pestilence,
+before that [Agamemnon] restore to her dear father the bright-eyed[18]
+maid, unpurchased, unransomed, and conduct a sacred hecatomb to Chrysa;
+then, perhaps, having appeased, we might persuade him."
+
+   [Footnote 18: See Arnold.]
+
+He indeed, having thus spoken, sat down. But to them arose the hero, the
+son of Atreus, wide-ruling Agamemnon,[19] agitated; and his all-gloomy
+heart was greatly filled with wrath, and his eyes were like unto
+gleaming fire. Sternly regarding Calchas most of all, he addressed
+[him]:
+
+"Prophet of ills, not at any time hast thou spoken anything good for me;
+but evils are always gratifying to thy soul to prophesy,[20] and never
+yet hast thou offered one good word, nor accomplished [one]. And now,
+prophesying amongst the Greeks, thou haranguest that forsooth the
+Far-darter works griefs to them upon this account, because I was
+unwilling to accept the splendid ransom of the virgin daughter of
+Chryses, since I much prefer to have her at home; and my reason is, I
+prefer her even to Clytemnestra, my lawful wife; for she is not inferior
+to her, either in person, or in figure, or in mind, or by any means in
+accomplishments. But even thus I am willing to restore her, if it be
+better; for I wish the people to be safe rather than to perish. But do
+thou immediately prepare a prize for me, that I may not alone, of the
+Argives, be without a prize; since it is not fitting. For ye all see
+this, that my prize is going elsewhere."
+
+   [Footnote 19: "In the assembly of the people, as in the courts of
+   justice, the nobles alone speak, advise, and decide, whilst the
+   people merely listen to their ordinances and decisions, in order
+   to regulate their own conduct accordingly; being suffered,
+   indeed, to follow the natural impulse of evincing, to a certain
+   extent, their approbation or disapprobation of their superiors,
+   but without any legal means of giving validity to their opinion."
+   Mueller, Gk. Lit. p. 30.]
+
+   [Footnote 20: But we must not join [Greek: manteyesthai] with
+   [Greek: kika].--Naegelsbach.]
+
+But him swift-footed godlike Achilles then answered: "Most noble son of
+Atreus, most avaricious of all! for how shall the magnanimous Greeks
+assign thee a prize? Nor do we know of many common stores laid up
+anywhere. But what we plundered[21] from the cities, these have been
+divided, and it is not fitting that the troops should collect these
+brought together again. But do thou now let her go to the God, and we
+Greeks will compensate thee thrice, or four-fold, if haply Jove grant to
+us to sack the well-fortified city of Troy."
+
+   [Footnote 21: More closely: "took from the cities, when we
+   destroyed them."]
+
+But him answering, king Agamemnon addressed: "Do not thus, excellent
+though thou be, godlike Achilles, practise deceit in thy mind; since
+thou shalt not overreach, nor yet persuade me. Dost thou wish that thou
+thyself mayest have a prize, whilst I sit down idly,[22] wanting one?
+And dost thou bid me to restore her? If, however, the magnanimous Greeks
+will give me a prize, having suited it to my mind, so that it shall be
+an equivalent, [it is well]. But if they will not give it, then I myself
+coming, will seize your prize, or that of Ajax,[23] or Ulysses,[24] and
+will bear it away; and he to whom I may come shall have cause for anger.
+On these things, however, we will consult afterwards. But now come, let
+us launch a sable ship into the boundless sea, and let us collect into
+it rowers in sufficient number, and place on board a hecatomb; and let
+us make the fair-cheeked daughter of Chryses to embark, and let some one
+noble man be commander, Ajax or Idomeneus, or divine Ulysses; or
+thyself, son of Peleus, most terrible of all men, that thou mayest
+appease for us the Far-darter, having offered sacrifices."
+
+   [Footnote 22: Buttmann would take [Greek: autos] as = frustra.]
+
+   [Footnote 23: Tecmessa.]
+
+   [Footnote 24: Laodice, daughter of Cyenus.]
+
+But him swift-footed Achilles sternly regarding, addressed: "Ha![25]
+thou clad in impudence, thou bent on gain, how can any of the Greeks
+willingly obey thy orders, either to undertake a mission, or to fight
+bravely with men? For I did not come hither to fight on account of the
+warlike Trojans, seeing that they are blameless as respects me. Since
+they have never driven away my oxen, nor my horses either nor ever
+injured my crops in fertile and populous Phthia: for very many shadowy
+mountains, and the resounding sea, are between us. But thee, O most
+shameless man, we follow, that thou mayest rejoice; seeking satisfaction
+from the Trojans for Menelaus, and for thy pleasure, shameless one! for
+which things thou hast neither respect nor care. And now thou hast
+threatened that thou wilt in person wrest from me my prize, for which I
+have toiled much, and which the sons of the Greeks have given me.
+Whenever the Greeks sacked a well-inhabited city of the Trojans, I never
+have had a prize equal to thine; although my hands perform the greater
+portion of the tumultuous conflict, yet when the division [of spoil] may
+come, a much greater prize is given to thee, while I come to my ships,
+when I am fatigued with fighting, having one small and agreeable. But
+now I will go to Phthia, for it is much better to return home with our
+curved ships; for I do not think that thou shalt amass wealth and
+treasures while I am dishonoured here."
+
+   [Footnote 25: See my note on Od. i. p. 2, n. 11, ed. Bohn.]
+
+But him, the king of men, Agamemnon, then answered: "Fly, by all means,
+if thy mind urges thee; nor will I entreat thee to remain on my account:
+there are others with me who will honour me, but chiefly the all-wise
+Jove. For to me thou art the most odious of the Jove-nourished princes,
+for ever is contention agreeable to thee, and wars and battles. If thou
+be very bold, why doubtless a deity has given this to thee. Going home
+with thy ships and thy companions, rule over the Myrmidons; for I do not
+regard thee, nor care for thee in thy wrath; but thus will I threaten
+thee: Since Phoebus Apollo is depriving me of the daughter of
+Chryses,[26] her indeed I will send, with my own ship, and with my own
+friends; but I myself, going to thy tent, will lead away the
+fair-cheeked daughter of Brises,[27] thy prize; that thou mayest well
+know how much more powerful I am than thou, and that another may dread
+to pronounce himself equal to me, and to liken himself openly [to me]."
+
+   [Footnote 26: Astynome. Cf. Eustath. fol. 58]
+
+   [Footnote 27: Hippodameia.]
+
+Thus he spoke, and grief arose to the son of Peleus, and the heart
+within, in his hairy breast, was pondering upon two courses; whether,
+drawing his sharp sword from his thigh, he should dismiss them,[28] and
+should kill the son of Atreus, or should put a stop to his wrath, and
+restrain his passion. While he was thus pondering in his heart and soul,
+and was drawing his mighty sword from the scabbard, came Minerva from
+heaven; for her the white-armed goddess Juno had sent forward, equally
+loving and regarding both from her soul. And she stood behind, and
+caught the son of Peleus by his yellow hair, appearing to him alone; but
+none of the others beheld her. But Achilles was amazed, and turned
+himself round, and immediately recognized Pallas Minerva; and
+awe-inspiring her eyes appeared to him. And addressing her, he spoke
+winged words:
+
+"Why, O offspring of aegis-bearing Jove, hast thou come hither? Is it
+that thou mayest witness the insolence of Agamemnon, the son of Atreus?
+But I tell thee, what I think will be accomplished, that he will
+probably soon lose his life by his haughtiness."
+
+   [Footnote 28: The princes assembled.]
+
+But him in turn the azure-eyed goddess Minerva addressed: "I came from
+heaven to assuage thy wrath, if thou wilt obey me; for the white-armed
+goddess Juno sent me forward, equally loving and regarding both from her
+soul. But come, cease from strife, nor draw the sword with thine hand.
+But reproach by words, as the occasion may suggest; for thus I declare,
+and it shall be accomplished, that thrice as many splendid gifts shall
+be presented to thee, because of this insolent act; only restrain
+thyself, and obey us."
+
+But her answering,[29] swift-footed Achilles addressed: "It behoves me
+to observe the command of you both, O goddess, although much enraged in
+my soul; for so it is better. Whosoever obeys the gods, to him they
+hearken propitiously."
+
+   [Footnote 29: Columna on Ennius, p. 17, ed. Hessel., compares
+   "Ollei respondet Rex Albai longai," and "Ollei respondet suavis
+   sonus Egeriaei," observing that this formula was probably as
+   common in the heroic annals of Ennius as [Greek: ton d'
+   apameixomenos] is in Homer.]
+
+He spoke, and held still his heavy hand upon the silvery hilt, and
+thrust back the great sword into the scabbard, nor did he disobey the
+mandate of Minerva; but she had gone to Olympus, to the mansions of
+aegis-bearing Jove, amongst the other deities. But the son of Peleus
+again addressed Atrides with injurious[30] words, nor as yet ceased from
+anger:
+
+"Wine-bibber, having the countenance of a dog, but the heart of a stag,
+never hast thou at any time dared in soul to arm thyself with the
+people for war, nor to go to ambuscade with the chiefs of the Greeks;
+for this always appears to thee to be death. Certainly it is much better
+through the wide army of the Achaeans, to take away the rewards of
+whoever may speak against thee. A people-devouring king [art thou],
+since thou rulest over fellows of no account; for assuredly, son of
+Atreus, thou [otherwise] wouldst have insulted now for the last time.
+But I will tell thee, and I will further swear a great oath: yea, by
+this sceptre, which will never bear leaves and branches, nor will bud
+again, after it has once left its trunk on the mountains; for the axe
+has lopped it all around of its leaves and bark; but now the sons of the
+Greeks, the judges, they who protect the laws [received] from Jove, bear
+it in their hands; and this will be a great oath to thee; surely will a
+longing desire for Achilles come upon all the sons of the Achaeans at
+some future day, and thou, although much grieved, wilt be unable to
+assist them, when many dying shall fall by the hand of man-slaying
+Hector. Then enraged, wilt thou inwardly fret thy soul, that thou didst
+in no way honour the bravest of the Greeks."
+
+   [Footnote 30: Epimerism. Hom. in Cramer's Anecdott. vol. i. p.
+   24. [Greek: atarteros, e para ten aten, o semainei ten blaxen,
+   ateros].--Hesych. [Greek: blaxros, ateros].]
+
+Thus spoke the son of Peleus; and he cast upon the earth his sceptre
+studded with golden nails, and sat down. But on the other hand, the son
+of Atreus was enraged; therefore to them arose the sweet-voiced
+Nestor,[31] the harmonious orator of the Pylians, from whose tongue
+flowed language sweeter than honey. During his life two generations of
+articulately-speaking men had become extinct, who, formerly, were reared
+and lived with him in divine Pylus, but he was now ruling over the
+third; who, wisely counselling, addressed them, and said:
+
+   [Footnote 31: I must refer the reader to a most happy sketch of
+   Nestor's exploits and character in Crete's Hist, of Greece, vol.
+   i. p. 153.]
+
+"O gods! surely a great sorrow comes upon the Grecian land. Verily,
+Priam would exult, and the sons of Priam, and the other Trojans, would
+greatly rejoice in their souls, if they were to hear these things of you
+twain contending: you who in council and in fighting surpass the Greeks.
+But be persuaded; for ye are both younger than I am. For already, in
+former times, I have associated with men braver than you, and they
+never disdained me. I never saw, nor shall I see, such men as Pirithous,
+and Dryas, shepherd of the people, and Caeneus, and Exadius, and god-like
+Polyphemus,[32] and Theseus, the son of AEgeus, like unto the immortals.
+Bravest indeed were they trained up of earthly men; bravest they were,
+and they fought with the bravest Centaurs of the mountain caves, and
+terribly slew them. With these was I conversant, coming from Pylus, far
+from the Apian land; for they invited me, and I fought to the best of my
+power; but with them none of these who now are mortals upon the earth
+could fight. And even they heard my counsels, and obeyed my words. But
+do ye also obey, since it is better to be obedient; nor do thou,
+although being powerful, take away the maid from him, but leave it so,
+seeing that the sons of the Greeks first gave [her as] a prize on him.
+Nor do thou, O son of Peleus, feel inclined to contend against the king;
+since never yet has any sceptre-bearing king, to whom Jove has given
+glory, been allotted an equal share of dignity. But though thou be of
+superior strength, and a goddess mother has given thee birth, yet he is
+superior in power, inasmuch as he rules more people. Do thou, son of
+Atreus, repress thine anger; for it is I that[33] entreat thee to forego
+thy resentment on behalf of Achilles, who is the great bulwark of
+destructive war to all the Achaeans."
+
+   [Footnote 32: A prince of the Lapithae, not the Cyclops.]
+
+   [Footnote 33: See Anthon, who has well remarked the force of the
+   particles.]
+
+But him king Agamemnon answering addressed: "Of a truth thou hast said
+all these things, old man, according to what is right. But this man is
+desirous to be above all other men; he wishes to have the mastery, and
+lord it over all, and to prescribe to all; with which his desires I
+think some one will not comply. But if the ever-existing gods have made
+him a warrior, do they therefore give him the right to utter insults?"
+
+But him noble Achilles interruptingly answered: "Yea, forsooth,[34] I
+may be called a coward and a man of no worth, if now I yield to thee in
+everything, whatever thou mayest say. Enjoin these things to other men;
+for dictate not to me, for I think that I shall no longer obey thee. But
+another thing will I tell thee, and do thou store it in thy mind: I
+will not contend with my hands, neither with thee, nor with others, on
+account of this maid, since ye, the donors, take her away. But of the
+other effects, which I have at my swift black ship, of those thou shalt
+not remove one, taking them away, I being unwilling. But if [thou wilt],
+come, make trial, that these also may know: quickly shall thy black
+blood flow around my lance."
+
+   [Footnote 34: Properly elliptical--_I have done right; for_,
+   &c.--Crusius.]
+
+Thus these twain, striving with contrary words, arose, and they broke up
+the assembly at the ships of the Greeks. The son of Peleus on his part
+repaired to his tents and well-proportioned[35] ships, with the son of
+Menoetius,[36] and his companions. But the son of Atreus[37] launched
+his swift ship into the sea, and selected and put into it twenty rowers,
+and embarked a hecatomb for the god. And he led the fair daughter of
+Chryses and placed her on board, and the very wise Ulysses embarked as
+conductor. They then embarking, sailed over the watery paths. But the
+son of Atreus ordered the armies to purify themselves;[38] and they were
+purified, and cast forth the ablutions into the sea. And they sacrificed
+to Apollo perfect hecatombs of bulls and goats, along the shore of the
+barren sea; and the savour involved in[39] smoke ascended to heaven.
+Thus were they employed in these things through the army. Nor did
+Agamemnon cease from the contention which at first he threatened against
+Achilles. But he thus addressed Talthybius and Eurybates, who were his
+heralds and zealous attendants:[40]
+
+   [Footnote 35: Equal on both sides, so as to preserve a balance.
+   But Blomfield, Obs. on Matth. Gr. Sec. 124, prefers to render it
+   "ships of due size," as [Greek: dais eise], ver. 468, "an
+   equalized meal."]
+
+   [Footnote 36: Patroclus.]
+
+   [Footnote 37: So Anthon, comparing ver. 142.]
+
+   [Footnote 38: Not a mere medicinal measure, but a symbolical
+   putting away of the guilt, which, through Agamemnon's
+   transgression, was brought upon the army also.--Wolf.]
+
+   [Footnote 39: Not _about_ the smoke, but _in_ the smoke; for
+   [Greek: peri] denotes also the staying within the compass of an
+   object.--Naegelsbach.]
+
+   [Footnote 40: [Greek: therapon] is a voluntary servant, as
+   opposed to [Greek: doulos].--See Arnold.]
+
+"Going to the tent of Achilles, the son of Peleus, lead away fair
+Briseis, having taken her by the hand; but if he will not give her, then
+I myself, coming with great numbers, will take her, and this will be
+more grievous[41] to him."
+
+Thus speaking, he despatched them, having added[42] a harsh command. But
+they reluctantly went along the shore of the barren sea, and came to the
+tents and ships of the Myrmidons. And they found him sitting at his tent
+and his black ship: nor did Achilles, seeing them, rejoice. But they,
+confused, and reverencing the king, stood still, nor addressed him at
+all, nor spoke [their bidding]. But he perceived [it] in his mind, and
+said:
+
+"Hail, heralds, messengers of Jove,[43] and also of men, come near, for
+ye are not blamable to me in the least, but Agamemnon, who has sent you
+on account of the maid Briseis. However, come, noble Patroclus, lead
+forth the maid, and give her to them to conduct; but let these be
+witnesses [of the insult offered me], both before the blessed gods, and
+before mortal men, and before the merciless king. But if ever again
+there shall be need of me to avert unseemly destruction from the rest,
+[appeal to me shall be in vain],[44] for surely he rages with an
+infatuated mind, nor knows at all how to view the future and the past,
+in order that the Greeks may fight in safety at their ships."
+
+Thus he spoke. And Patroclus obeyed his dear companion, and led forth
+fair-cheeked Briseis from the tent, and gave her to them to conduct; and
+they returned along by the ships of the Greeks. But the woman went with
+them reluctantly, whilst Achilles, weeping,[45] immediately sat down,
+removed apart from his companions, upon the shore of the hoary sea,
+gazing on the darkling main; and much he be sought his dear mother,
+stretching forth his hands:
+
+   [Footnote 41: Hesych. [Greek: rigion phoberoteron chalepoteron].]
+
+   [Footnote 42: "Misit eos, minaci jusso dato."--Heyne.]
+
+   [Footnote 43: So called from their inviolability,--[Greek: asylon
+   gar kai theion to genos to kerykon].--Schol. [Greek: Kai ezen
+   antois pantachose adeos ienai].--Pollux, viii. They were properly
+   sacred to Mercury (id. iv. 9. Cf. Feith, Antiq. Homer, iv. 1),
+   but are called the messengers of Jove, as being under his special
+   protection, with a reference to the supporting of regal
+   authority.]
+
+   [Footnote 44: Observe the aposiopesis.]
+
+   [Footnote 45: Not for the loss of Briseis, but on account of the
+   affront.]
+
+"O mother, since thou hast borne me, to be but short-lived, at least
+then ought high-thundering Olympian Jove to have vouchsafed honour to
+me; but now he has not honoured me ever so little; for the son of
+Atreus, wide-ruling Agamemnon, has dishonoured me; for he, taking away

@@ -1,0 +1,256 @@
+which is supplied by Messrs. Baird and Tatlock. It may be built up in
+stages as shown by _a_, _b_, and _c_, but the work involved requires
+considerable skill, and the majority of laboratory workers will find it
+cheaper to buy than to make.
+
+[Illustration: Fig. 10]
+
+_A Spherical Condenser._--Such a condenser as that shown by _f_, Fig 10,
+involves a method which may find application in a number of cases. The
+outer bulb is blown from a thick piece of tubing which has been inserted
+in a smaller piece (see _d_, Fig. 6); then the inner bulb by similar
+method. It is now necessary to introduce the smaller bulb into the
+larger, and for this purpose the larger bulb must be cut into halves. A
+small but deep cut is made with the file or glass-blowers' knife in the
+middle of the larger bulb, and at right angles to the axis of the tube
+on which it is blown. A minute bead of intensely heated glass is now
+brought in contact with the cut in order to start a crack. This crack
+may now be led round the bulb as described on page 30. If the work is
+carried out with care, it is possible to obtain the bulb in two halves
+as shown by _d_, and these two halves will correspond so exactly that
+when the cut edges are placed in contact they will be almost air-tight.
+The two tubes from the smaller bulb should be cut to such a length that
+they will just rest inside the larger, and the ends should be expanded.
+Place the inner bulb in position and fit the two halves of the outer
+bulb together, taking great care not to chip the edges. If the length of
+the tubes on the inner bulb has been adjusted properly, the inner bulb
+will be supported in position by their contact with the tubes on the
+outer bulb. Now rotate the cracked portion of the outer bulb in front
+of a blowpipe flame and press the halves together very gently as the
+glass softens. Expand slightly by blowing if necessary. If a small
+pin-hole develops at the joint it is sometimes possible to close this
+with a bead of hot glass; but if the bulb has been cut properly there
+should be no pin-holes formed. The condenser is finished by joining on
+the side tubes and sealing the inner tube through by the methods already
+given. In order to blow bulbs large enough to make a useful condenser,
+it will be convenient to employ the multiple-jet blowpipe described on
+page 4.
+
+_A Soxhlet-Tube or Extraction Apparatus._--This involves the
+construction of a re-entrant join where the syphon flows into the lower
+tube. It is of considerable value as an exercise and the complete
+apparatus is easy to make.
+
+A large tube is sealed at the bottom and the top is lipped, as in making
+a test-tube. A smaller tube is then joined on by a method similar to
+that given on page 18, but without making a perforation in the bottom of
+the large tube. Heating and expanding by air pressure, first through the
+large tube, then through the smaller tube and then again through the
+large tube, will give a satisfactory finish to this part of the work.
+
+[Illustration: Fig. 11]
+
+The syphon tube is now joined on to the large tube as shown by _a_, Fig.
+11, care being taken to seal the other end of the syphon tube before
+joining. The details of the final and re-entrant joint of the syphon
+tube are shown at the lower part of _a_. This join is made by expanding
+the sealed end of the syphon tube into a small, thick-walled bulb, and
+the bottom of this bulb is burst out by local heating and blowing; the
+fragments of glass are removed and the edges made smooth by melting. A
+similar operation is carried out on the side of the tube to which the
+syphon tube is to be joined. This stage is shown by _a_. Now heat the
+syphon tube at the upper bend until it is flexible, and press the bulb
+at its end into the opening on the side of the other tube. Hold the
+glass thus until the syphon is no longer flexible. The final join is
+made by heating the two contacting surfaces, if necessary pressing the
+edges in contact with the end of a turn-pin, fusing together and
+expanding. The finished apparatus is shown by _c_.
+
+_Electrodes._--A thin platinum wire may be sealed into a capillary tube
+without any special precautions being necessary. The capillary tube may
+be drawn out from the side of a larger tube by heating a spot on the
+glass, touching with a glass rod and drawing the rod away; or the
+exhaustion branch described on page 18 may be used for the introduction
+of an electrode. It is convenient sometimes to carry out the exhaustion
+through the same tube that will afterwards serve for the electrode. The
+electrode wire is laid inside the branch before connecting to the
+exhaustion pump. When exhaustion is completed the tube is heated until
+the soft glass flows round the platinum and makes the seal air-tight.
+The branch is now cut off close to the seal on the pump side, a loop is
+made in the projecting end of the platinum wire, and the seal is
+finished by melting the cut-off end.
+
+Platinum is usually employed for such work, but if care is taken to
+avoid oxidation it is not impossible to make fairly satisfactory seals
+with clean iron or nickel wire. Hard rods of fine graphite, such as are
+used in some pencils, may also be sealed into glass, but it seems
+probable that air would diffuse through the graphite in the course of
+time.
+
+Another method for the introduction of an electrode is illustrated by
+_d_, _e_, _f_ and _g_, Fig. 11. In this case the bulb or thin-walled
+tube into which the electrode is to be sealed is perforated by a quick
+stab with an intensely heated wire--preferably of platinum--which is
+then withdrawn before the glass has had time to harden, and thus a
+minute circular hole is made. The electrode is coated with a layer of
+similar glass, or of the specially made enamel which is sold for this
+purpose, inserted into the bulb or tube by any convenient opening, and
+adjusted by careful shaking until the platinum wire projects through the
+small hole. The bulb or tube is then fused to the coating of the
+electrode and the whole spot expanded slightly by blowing. The
+appearance of the finished seal is shown by _g_. It is well to anneal
+slightly by smoking.
+
+_Thermometers._--Apart from the notes on page 20 with respect to the
+blowing of a suitable bulb on capillary tubing there is little to say in
+connection with the glass working needed in making a plain thermometer.
+The size desirable for the bulb will be determined by the bore of the
+capillary tube, the coefficient of expansion of the liquid used for
+filling, and the range of temperature for which the thermometer is
+intended.
+
+Filling may be carried out as follows:--Fit a small funnel to the open
+end of the capillary by means of a rubber tube, and pour into the funnel
+rather more than enough of the liquid to be used than is required to
+fill the bulb. Mercury or alcohol will be used in practice, most
+probably. Warm the bulb until a few air bubbles have escaped through
+the liquid and then allow to cool. This will suck a certain amount of
+liquid into the bulb. Now heat the bulb again, and at the same time heat
+the capillary tube over a second burner. The liquid will boil and sweep
+out the residual air, but it is necessary to heat the capillary tube as
+well in order to prevent condensation. Allow the bulb and tube to cool,
+then repeat the heating once more. By this time the bulb and tube should
+be free from air, and cooling should give a completely filled
+thermometer. Remove the funnel and heat the thermometer to a few degrees
+above the maximum temperature for which it is to be used; the mercury or
+other filling liquid will overflow from the top, and, as the temperature
+falls, will recede, thus allowing the end of the capillary to be drawn
+out. Reheat again until the liquid rises to the top of the tube, then
+seal by means of the blowpipe flame. The thermometer is now finished
+except for graduation; this is dealt with on page 75.
+
+_An Alarm Thermometer._--A thermometer which will complete an electric
+circuit when a certain temperature is reached may be made by sealing an
+electrode in the bulb and introducing a wire into the top, which in this
+case is not sealed. Naturally, this thermometer will be filled with
+mercury. There is considerable difficulty in filling such a bulb without
+causing it to crack.
+
+Several elaborations of this form are made, in which electrodes are
+sealed through the walls of the capillary tube, thus making it possible
+to detect electrically the variation of temperature when it exceeds any
+given limits.
+
+_An Enclosed or Floating Thermometer._--The construction of this type of
+thermometer is shown by _h_ and _i_, Fig 11. It is made in the following
+stages:--A bulb is blown on the drawn-out end of a thin-walled tube as
+shown by _h_. A small bulb is blown on the end of a capillary tube,
+burst, and turned out to form a lip which will rest in the drawn-out
+part of the thin-walled tube but is just too large to enter the bulb.
+The capillary tube is introduced and sealed in position, care being
+taken to expand the joint a little. The thermometer is filled and the
+top of the capillary tube closed by the use of a small blowpipe flame. A
+paper scale having the necessary graduations is inserted, and the top
+of the outer tube is closed as shown by _i_.
+
+_A Maximum and Minimum Thermometer._--If a small dumb-bell-shaped rod of
+glass or metal is introduced into the capillary tube of a horizontally
+placed, mercury-filled thermometer in such a position that the rising
+mercury column will come in contact with it, the rod will be pushed
+forward. When the mercury falls again the rod will be left behind and
+thus indicate the maximum temperature attained. If a similar
+dumb-bell-shaped rod is introduced into an alcohol-filled thermometer
+and pushed down until it is within the alcohol column, it will be drawn
+down by surface tension as the column falls; but the rising column will
+flow passed it without causing any displacement; thus the minimum
+temperature will be recorded.
+
+Six's combined maximum and minimum thermometer is shown by _b_, Fig. 11.
+In this case both maximum and minimum records are obtained from a
+mercury column, although the thermometer bulb is filled with alcohol. It
+is an advantage to make the dumb-bell-shaped rods of iron, as the
+thermometer can then be reset by the use of a small magnet, another
+advantage consequent on the use of metal being that the rods can be
+easily adjusted, by slight bending, so as to remain stationary in the
+tubes when the thermometer is hanging vertically, and yet to move with
+sufficient freedom to yield to the pressure of the recording column.
+
+The thermometer may be filled by the following method:--When the
+straight tube has been made the first dumb-bell is introduced and shaken
+down well towards the lower bulb, the tube is now bent to its final
+shape and the whole thermometer filled with alcohol as described on page
+44. Now heat the thermometer to a little above the maximum temperature
+that it is intended to record, and pour clean mercury into the open bulb
+while holding the thermometer vertically. Allow to cool, and the mercury
+will be sucked down. The second dumb-bell is now introduced, sufficient
+alcohol being allowed to remain in the open bulb to about half fill it,
+and the alcohol in this bulb is boiled to expel air. The tube through
+which the bulb was filled in now sealed.
+
+_Clinical Thermometers._--The clinical thermometer is a maximum
+thermometer of a different type. In this case there is a constriction
+of the bore at a point just above the bulb. When the mercury in the bulb
+commences to contract, the mercury column breaks at the constriction and
+remains stationary in the tube, thus showing the maximum temperature to
+which it has risen.
+
+_Vacuum Tubes._--There are so many forms of these that it is scarcely
+practicable or desirable to give detailed instructions for making them;
+but an application of the various methods of glass-working which have
+already been explained should enable the student to construct most of
+the simpler varieties. An interesting vacuum tube is made which has no
+electrodes, but contains a quantity of mercury. When the tube is rocked
+so as to cause friction between the mercury and the glass sufficient
+charge is produced to cause the tube to glow.
+
+_A Sprengel Pump._--This, in its simplest form, is illustrated by _a_,
+Fig. 12. Such a form, although highly satisfactory in action, needs
+constant watching while in action, as should the mercury funnel become
+empty air will enter the exhausted vessel. Obviously, the fall-tube must
+be made not less than thirty inches long; the measurement being taken
+from the junction of the exhaustion branch with the fall-tube to the top
+of the turned-up end.
+
+[Illustration: Fig. 12]
+
+_A Macleod Pump._--One form of this is illustrated by _b_, Fig. 12. It
+has the advantage that the mercury reservoir may be allowed to become
+empty without affecting the vacuum in the vessel being exhausted.
+
+_"Spinning" Glass._--By the use of suitable appliances, it is quite
+possible to draw out a continuous thread of glass, which is so thin as
+to have almost the flexibility and apparent softness of woollen fibre; a
+mass of such threads constitutes the "glass wool" of commerce.
+
+The appliances necessary are:--a blowpipe capable of giving a
+well-formed flame of about six or eight inches in length, a wheel of
+from eighteen inches to three feet in diameter and having a flat rim of
+about three inches wide, and a device for rotating the wheel at a speed
+of about three hundred revolutions per minute.
+
+A very satisfactory arrangement may be made from an old bicycle; the
+back wheel having the tyre removed and a flat rim of tin fastened on in
+its place. The chain drive should be retained, but one of the cranks
+removed and a handle substituted for the remaining pedal. The whole
+device is shown by Fig. 13.
+
+[Illustration: Fig. 13]
+
+The procedure in "spinning" glass is as follows:--First melt the end of
+a glass rod and obtain a large mass of thoroughly softened glass, now
+spin the wheel at such a speed that its own momentum will keep it
+spinning for several seconds. Touch the end of the melted rod with
+another piece of glass and, without withdrawing the original rod from
+the blowpipe flame, draw out a thread of molten glass and twist it round
+the spinning wheel. If this is done properly, the thread of glass will
+grip on the flat rim, and by continuing to turn the wheel by hand it is
+possible to draw out a continuous thread from the melted rod, which must
+be advanced in the blowpipe flame as it is drawn on the wheel. If the
+rod is not advanced sufficiently the thread will melt off, if it is
+advanced too much, so as to heat the thick part and allow the glass to
+become too cool at the point of drawing out, then the thread will become
+too thick, but it is easy after a little practice to obtain the right
+conditions. Practice is necessary also in order to find the right speed
+for the wheel.
+
+When sufficient glass has been "spun," the whole "hank" of thin thread

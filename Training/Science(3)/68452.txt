@@ -1,0 +1,473 @@
+completely discharged, which is not the case with artificial ponceau.
+
+
+VIOLET COLORS.
+
+Violets are divided into two groups: those affected by potassa, and
+those upon which it has no action. The first group embraces logwood,
+orchil, alkanet, and aniline violets, including under the latter term
+Perkin's violet, (probably the original "mauve"), dahlia, Parme or
+magenta violet, methyl, and Hofmann's violets. The action of potassa
+gives indications for each of these violets. Logwood violet is browned;
+that of orchil, if slightly reddish, is turned to a blue-violet; that of
+alkanet is modified to a fine blue. Lastly, Perkin's mauve, dahlia, and
+methyl violet become of a grayish brown, which may be re-converted into
+a fine violet by washing in abundance of water. When the shades are
+very heavy, this grayish brown is almost of a violet-brown, so that the
+violets might seem to be unaltered.
+
+The action of hydrochloric acid distinguishes these colors better still
+if the aid of ammonia is called in for two cases.
+
+The acid turns logwood violet to a fine red, and equally reddens orchil
+violet. But the two colors cannot be confounded, first, because the two
+violet shades are very distinct, that of orchil being much the brighter;
+and secondly, because ammonia has no action on logwood violet, while it
+turns orchil violet, if at all reddish, to a blue shade. Hydrochloric
+acid, whether dilute or concentrated, is without action on alkanet
+violet. If the acid is dilute, it is equally without action on Perkin's
+violet and dahlia. If it is strong, it turns them blue, and even green
+if in excess. Hofmann's violet turns green even with dilute acid, but
+prolonged washing restores the original violet shade. Dahlia gives a
+more blue shade than Perkin's mauve. The action of acid is equally
+characteristic for methyl violet. It becomes green, then yellow. Washing
+in water re-converts it first to a green, and then to a violet.
+
+The second group includes madder violet, cochineal violet, and the
+compound violet of cochineal and extract of indigo. These three dyes are
+thus distinguished: Hydrochloric acid turns the madder violet-orange,
+slightly brownish, or a light brown, and it affords the characteristic
+reaction of the madder colors described above under reds. Cochineal
+violets are reddened. Sometimes they are decolorized, and become finally
+yellow, but do not pass through a brown stage.
+
+The compound violet of cochineal and extract of indigo presents this
+characteristic reaction, that if boiled with very weak solution of
+sodium carbonate the liquid becomes blue, rather greenish, while the
+cloth becomes a vinous-red--_Moniteur Scientifique.--Chem. News._
+
+       *       *       *       *       *
+
+
+
+
+CHEVALET'S CONDENSO-PURIFIER FOR GAS.
+
+
+The condenso-purifier shown in the accompanying cut operates as
+follows: Water is caused to flow over a metallic plate perforated with
+innumerable holes of from one to three millimeters in diameter, and
+then, under this disk, which is exactly horizontal, a current of gas is
+introduced. Under these circumstances the liquid does not traverse the
+holes in the plate, but is supported by the gas coming in an opposite
+direction. Provided that the gas has sufficient pressure, it bubbles up
+through the water and becomes so much the more divided in proportion as
+the holes are smaller and more numerous.
+
+The gas is washed by traversing the liquid, and freed from the tar and
+coal-dust carried along with it; while, at the same time, the ammonia
+that it contains dissolves in the water, and this, too, so much the
+better the colder the latter is. This apparatus, then, permits of
+obtaining two results: a mechanical one, consisting in the stoppage of
+the solid matters, and a chemical one, consisting in the stoppage of the
+soluble portions, such as ammonia, sulphureted hydrogen, and carbonic
+acid.
+
+[Illustration: FIG. 1.--CONDENSO-PURIFIER FOR GAS. (Elevation.)]
+
+The condenso-purifier consists of three perforated diaphragms, placed
+one over the other in rectilinear cast-iron boxes. These diaphragms are
+movable, and slide on projections running round the interior of the
+boxes. In each of the latter there is an overflow pipe, g, that runs to
+the box or compartment below, and an unperforated plate, f, that slides
+over the diaphragm so as to cover or uncover as many of the holes as may
+be necessary. A stream of common water runs in through the funnel, e,
+over the upper diaphragm, while the gas enters the apparatus through the
+pipe, a, and afterward takes the direction shown by the arrows.
+Reaching the level of the overflow, the water escapes, fills the lower
+compartment, covers the middle diaphragm, then passes through the second
+overflow-pipe to cover the lower diaphragm, next runs through the
+overflow-pipe of the third diaphragm on to the bottom of the purifier,
+and lastly makes its exit, through a siphon. A pressure gauge, having an
+inlet for the gas above and below, serves for regulating the pressure
+absorbed for each diaphragm, and which should vary between 0.01 and
+0.012 of a meter.
+
+The effect of this purifier is visible when the operation is performed
+with an apparatus made externally of glass. The gas is observed to enter
+in the form of smoke under the first diaphragm, and the water to become
+discolored and tarry. When the gas traverses the second diaphragm, it is
+observed to issue from the water entirely colorless, while the latter
+becomes slightly discolored, and finally, when it traverses the third
+diaphragm, the water is left perfectly limpid.
+
+Two diaphragms have been found sufficient to completely remove the solid
+particles carried along by the gas, the third producing only a chemical
+effect.
+
+This apparatus may replace two of the systems employed in gas works: (1)
+mechanical condensers, such as the systems of Pelouze & Audouin, and
+of Servier; and (2) scrubbers of different kinds and coke columns.
+Nevertheless, it is well to retain the last named, if the gas works have
+them, but to modify their work.
+
+[Illustration: FIG. 2.--PLAN VIEW WITH BY-PASS.]
+
+This purifier should always be placed directly after the condensers, and
+is to be supplied with a stream of pure water at the rate of 50 liters
+of water per 1,000 cubic meters of gas. Such water passes only once into
+the purifier, and issues therefrom sufficiently rich in ammonia to be
+treated.
+
+If there are coke columns in the works, they are placed after the
+purifier, filled with wood shavings or well washed gravel, and then
+supplied with pure cold water in the proportion stated above. The water
+that flows from the columns passes afterward into the condenso-purifier,
+where it becomes charged with ammonia, and removes from the gas the tar
+that the latter has carried along, and then makes its exit and goes to
+the decanting cistern.
+
+In operating thus, all the remaining ammonia that might have escaped the
+condenso-purifier is removed, and the result is obtained without pumps
+or motor, with apparatus that costs but little and does not occupy much
+space. The advantages that are derived from this, as regards sulphate
+of ammonia, are important; for, on treating ammoniacal waters with
+condensers, scarcely more than four to five kilogrammes of the sulphate
+are obtained per ton of coal distilled, while by washing the gas
+perfectly with the small quantity of water indicated, four to five
+kilogrammes more can be got per 1,000 kilogrammes of coal, or a total of
+eight to ten kilogrammes per ton.
+
+When the gas is not washed sufficiently, almost all of the ammonia
+condenses in the purifying material.
+
+The pressure absorbed by the condenso purifier is from ten to twelve
+millimeters per washing-diaphragm. In works that are not provided with
+an extractor, two diaphragms, or even a single one, are employed when it
+is desired simply to catch the tar.
+
+The apparatus under consideration was employed in the St. Quentin
+gas works during the winter of 1881-1882, without giving rise to any
+obstruction; and, besides, it was found that by its use there might be
+avoided all choking up of the pipes at the works and the city mains
+through naphthaline.
+
+In cases of obstruction, it is very easy to take out the perforated
+diaphragms; this being done by removing the bolts from the piece that
+holds the register, f, and then removing the diaphragm and putting in
+another. This operation takes about ten minutes. The advantages of such
+a mounting of the diaphragms is that it allows the gas manufacturer to
+employ (and easily change) the number of perforations that he finds best
+suited to his needs.
+
+These apparatus are constructed for productions of from 1,000 to 100,000
+cubic meters of gas per twenty four hours. They have been applied
+advantageously in the washing of smoke from potassa furnaces, in order
+to collect the ammonia that escapes from the chimneys. In one of such
+applications, the quantity of gas and steam washed reached a million
+cubic meters per twenty-four hours.--_Revue Industrielle._
+
+       *       *       *       *       *
+
+
+
+
+ARTIFICIAL IVORY.
+
+
+It is said that artificial ivory of a pure white color and very durable
+has been manufactured by dissolving shellac in ammonia, mixing the
+solution with oxide of zinc, driving off ammonia by heating, powdering,
+and strongly compressing in moulds.
+
+       *       *       *       *       *
+
+
+
+
+CREOSOTE IMPURITIES.
+
+[Footnote: Read at the meeting of the American Pharmaceutical
+Association held at Niagara Falls. 1882.]
+
+By Prof. P. W. BEDFORD.
+
+
+The object of this query can be but one, namely, to inquire whether the
+wood creosote offered for sale is a pure article, or not; and if not,
+what is the impurity present?
+
+The relative commercial value of the articles sold as coal tar creosote
+and wood creosote disposes of the question as to the latter being
+present in the former article, and we are quite certain that the cheap
+variety is nothing more or less than a phenol or carbolic acid. Wood
+creosote, it has been frequently stated, is adulterated with coal tar
+creosote, or phenol. The object of my experiments has been to prove the
+identity of wood creosote and its freedom from phenol. The following
+tests are laid down in various works as conclusive evidence of its
+purity, and each has been fully tried with the several samples of wood
+creosote to prove their identity and purity, and also with phenol, sold
+as commercial creosote or coal tar creosote, and for comparison with
+mixtures of the two, that even small percentages of admixture might be
+identified, should such exist in the wood creosote of the market.
+
+The following tests were used:
+
+1. Equal volumes of anhydrous glycerine and wood creosote make a turbid
+mixture, separating on standing. _Phenol dissolves_. If three volumes
+of water be added, the separation of the wood creosote is immediate.
+_Phenol remains in permanent solution_.
+
+2. One volume of wood creosote added to two volumes of glycerine; the
+former is not dissolved, but separates on standing. _Phenol dissolves_.
+
+3. Three parts of a mixture containing 75 per cent, of glycerine and
+25 of water to 1 part of wood creosote show no increase of volume of
+glycerine, and wood creosote separates. _Phenol dissolves, and forms
+a clear mixture_. Were any phenol present in the wood creosote, the
+increase in the volume of the glycerine solution, if in a graduated
+tube, would distinctly indicate the percentage of phenol present.
+
+4. Solubility in benzine. Wood creosote entirely soluble. _Phenol is
+insoluble_.
+
+5. A 1 per cent, solution of wood creosote. Take of this 10 cubic
+centimeters, add 1 drop of a test solution of ferric chloride; an
+evanescent blue color is formed, passing quickly into a red color.
+_Phenol gives a permanent blue color_.
+
+6. Collodion or albumen with an equal bulk of wood creosote makes a
+perfect mixture without coagulation. _Phenol at once coagulates into a
+more or less firm mass or clot_.
+
+7. Bromine solution with wood creosote gives a reddish brown
+precipitate. _Phenol gives a white precipitate_.
+
+All tests enumerated above were repeatedly tried with four samples of
+wood creosote sold as such; one a sample of Morson's, one of Merck's,
+one evidently of German origin, but bearing the label and capsule of an
+American manufacturer, and one of unknown origin, but sold as beech-wood
+creosote (German), and each proved to be _pure wood creosote_.
+
+Two samples of commercial creosote which, from the low cost, were known
+to be of coal tar origin gave the negative tests, showing that they were
+phenol.
+
+Corroborative experiments were made by mixing 10 to 20 per cent, of
+phenol with samples of the beechwood creosote, but in every case each of
+the tests named showed the presence of the phenol.
+
+The writer on other occasions applied single tests (the collodion test)
+to samples of beechwood creosote that he had an opportunity of procuring
+small specimens of, and satisfied himself that they were pure. The
+conclusion is that the wood creosote of the market of the present time
+is in abundant supply, is of unexceptionable quality, and reasonable in
+price, so that there is no excuse for the substitution of the phenol
+commonly sold for it. When it is directed for use for internal
+administration (the medicinal effect being entirely dissimilar), wood
+creosote only should be dispensed.
+
+The general sales of creosote by the pharmacist are in small quantities
+as a toothache remedy, and phenol has the power of coagulating albumen,
+which effectually relieves the suffering. Wood creosote does not
+coagulate albumen, and is, therefore, not as serviceable. This is,
+perhaps, the reason that it has become, in a great measure, supplanted
+in general sale by the coal tar creosote, to say nothing of the argument
+of a lower cost.
+
+       *       *       *       *       *
+
+
+
+
+REMEDY FOR SICK HEADACHE.
+
+
+Surgeon Major Roehring, of Amberg, reports, in No. 32 of the _Allg. Med.
+Centr. Zeit_., April 22, 1882, a case of headache of long standing,
+which he cured by salicylate of sodium, which confirms the observations
+of Dr. Oehlschlager, of Dantzig, who first contended that we possessed
+in salicylic acid one of the most reliable remedies for neuralgia. This
+cannot astonish us if we remember that the action of salicylic acid is,
+in more than one respect, and especially in its influence on the nervous
+centers, analogous to quinine.
+
+While out with the troops on maneuver, Dr. Roehring was called to visit
+the sixteen-year old son of a poor peasant family in a neighboring
+village. The boy, who gave all evidences of living under bad hygienic
+surroundings, but who had shown himself very diligent at school, had
+been suffering, from his sixth year, several days every week from the
+most intense headache, which had not been relieved by any of the many
+remedies tried for this purpose. A careful examination did not reveal
+any organic lesion or any cause for the pain, which seemed to be
+neuralgic in character, a purely nervous headache. Roehring had just
+been reading the observations of Oehlschlager, and knowing, from the
+names of the physicians who had been already attending the poor boy,
+that all the common remedies for neuralgia had been given a fair trial,
+thought this a good opportunity to test the virtue of salicylate of
+sodium. He gave the boy, who, in consequence of the severity of the
+pain, was not able to leave his bed, ten grains of the remedy every
+three hours, and was surprised to see the patient next day in his tent
+and with smiling face. The boy admitted that he for years had not been
+feeling so well as he did then. The remedy was continued, but in less
+frequent doses, for a few days longer; the headache did not return.
+Several months later Dr. Roehring wrote to the school-teacher of the
+boy, and was informed that the latter had, during all this time,
+been totally free of his former pain, that he was much brighter than
+formerly, and evidently enjoying the best of health.
+
+It may be worth while to give the remedy a more extensive trial, and the
+more so as we are only too often at a loss what to do in stubborn cases
+of so-called nervous headache.--_The Medical and Surgical Reporter_.
+
+       *       *       *       *       *
+
+
+
+
+SUNLIGHT AND SKYLIGHT AT HIGH ALTITUDES.
+
+
+At the Southampton meeting of the British Association, Captain Abney
+read a paper in which he called attention to the fact that photographs
+taken at high altitudes show skies that are nearly black by comparison
+with bright objects projected against them, and he went on to show that
+the higher above the sea level the observer went, the darker the sky
+really is and the fainter the spectrum. In fact, the latter shows but
+little more than a band in the violet and ultraviolet at a height of
+8,500 feet, while at sea-level it shows nearly the whole photographic
+spectrum. The only reason of this must be particles of some reflecting
+matter from which sunlight is reflected. The author refers this to
+watery stuff, of which nine-tenths is left behind at the altitude at
+which be worked. He then showed that the brightness of the ultra-violet
+of direct sunlight increased enormously the higher the observer went,
+but only to a certain point, for the spectrum suddenly terminated about
+2,940 wave-length. This abrupt absorption was due to extra-atmospheric
+causes and perhaps to space. The increase in brightness of the
+ultra-violet was such that the usually invisible rays, L, M, N, could be
+distinctly seen, showing that the visibility of these rays depended
+on the intensity of the radiation. The red and ultra-red part of the
+spectrum was also considered. He showed that the absorption lines were
+present in undiminished force and number at this high altitude, thus
+placing their origin to extra-atmospheric causes. The absorption from
+atmospheric causes of radiant enemy in these parts he showed was due
+to "water-stuff," which he hesitated to call aqueous vapor, since the
+banded spectrum of water was present, and not lines. The B and A line he
+also stated could not be claimed as telluric lines, much less as due to
+aqueous vapor, but must originate between the sun and our atmosphere.
+The author finally confirmed the presence of benzine and ethyl in the
+same region. He had found their presence indicated in the spectrum at
+sea-level, and found their absorption lines with undiminished intensity
+at 8,500 feet. Thus, without much doubt, hydrocarbons must exist between
+our atmosphere and the sun, and, it may be, in space.
+
+Prof. Langley, following Capt. Abney, observed: The very remarkable
+paper just read by Captain Abney has already brought information
+upon some points which the one I am about, by the courtesy of the
+Association, to present, leaves in doubt. It will be understood then
+that the references here are to his published memoirs only, and not to
+what we have just heard.
+
+The solar spectrum is so commonly composed to have been mapped with
+completeness, that the statement that much more than one-half its extent
+is not only unmapped but nearly unknown, may excite surprise. This
+statement is, however, I think, quite within the truth, as to that
+almost unexplored region discovered by the elder Herschel, which, lying
+below the red and invisible to the eye, is so compressed by the prism
+that, though its aggregate heat effects have been studied through the
+thermopile, it is only by the recent researches of Capt. Abney that we
+have any certain knowledge of the lines of absorption there, even in
+part. Though the last-named investigator has extended our knowledge of
+it to a point much beyond the lowest visible ray, there yet remains a
+still remoter region, more extensive than the whole visible spectrum,
+the study of which has been entered on at Alleghany, by means of the
+linear bolometer.
+
+The whole spectrum, visible and invisible, is powerfully affected by the
+selective absorption of our atmosphere and that of the sun; and we must
+first observe that could we get outside our earth's atmospheric shell,
+we should see a second and very different spectrum, and could we
+afterward remove the solar atmosphere also, we should have yet a third,
+different from either. The charts exhibited show:
+
+1st. The distribution of the solar energy as we receive it, at the
+earth's surface, throughout the entire invisible as well as visible
+portion, both on the prismatic and normal scales. This is what I have
+principally to speak of now, but this whole first research is but
+incidental to others upon the spectra before any absorption, which
+though incomplete, I wish to briefly allude to later. The other curves
+then indicate:
+
+2d. The distribution of energy before absorption by our own atmosphere.
+
+3d. This distribution at the photosphere of the sun. The extent of
+the field, newly studied, is shown by this drawing [chart exhibited].
+Between H in the extreme violet, and A in the furthest red, lies the
+visible spectrum, with which we are familiar, its length being about
+4,000 of Angstrom's units. If, then, 4,000 represent the length of the
+visible spectrum, the chart shows that the region below extends through
+24,000 more, and so much of this as lies below wave-length 12,000, I
+think, is now mapped for the first time.
+
+[Illustration: FIG. 1.--PRISMATIC SPECTRUM.]
+
+We have to pi = 12,000 relatively complete photographs, published by
+Capt. Abney, but, except some very slight indications by Lamansky,
+Desains, and Mouton, no further guide.
+
+Deviations being proportionate to abscissae, and measured solar energies
+to ordinates, we have here (1) the distribution of energy in the
+prismatic, and (2) its distribution in the normal spectrum. The total
+energy is in each case proportionate to the area of the curve (the two
+very dissimilar curves inclosing the same area), and on each, if the
+total energy be roughly divided into four parts, one of these will
+correspond to the visible, and three to the invisible or ultra-red part.
+The total energy at the ultra violet end is so small, then, as to be
+here altogether negligible.
+
+We observe that (owing to the distortion introduced by the prism) the
+maximum ordinate representing the heat in the prismatic spectrum is, as
+observed by Tyndall, below the red, while upon the normal scale this
+maximum ordinate is found in the orange.
+
+I would next ask your attention to the fact that in either spectrum,
+below pi = 12,000 are most extraordinary depressions and interruptions
+of the energy, to which, as will be seen, the visible spectrum offers
+no parallel. As to the agent producing these great gaps, which so
+strikingly interrupt the continuity of the curve, and, as you see,
+in one place, cut it completely into two, I have as yet obtained no
+conclusive evidence. Knowing the great absorption of water vapor in this
+lowest region, as we already do, from the observations of Tyndall, it
+would, _a priori_, seem not unreasonable to look to it as the cause. On
+the other hand, when I have continued observations from noon to sunset,
+making successive measures of each ordinate, as the sinking sun sent its
+rays through greater depths of absorbing atmosphere, I have not found
+these gaps increasing as much as they apparently should, if due to a
+terrestrial cause, and so far as this evidence goes, they might be
+rather thought to be solar. But my own means of investigation are not so
+well adapted to decide this important point as those of photography, to
+which we may yet be indebted for our final conclusion.
+
+[Illustration: FIG. 2.--NORMAL SPECTRUM. (At sea level.)]
+
+I am led, from a study of Capt. Abney's photographs of the region
+between pi = 8,000 and pi = 12,000, to think that these gaps are
+produced by the aggregation of finer lines, which can best be
+discriminated by the camera, an instrument which, where it can be used
+at all, is far more sensitive than the bolometer; while the latter, I
+think, has on the other hand some advantage in affording direct and
+trustworthy measures of the amount of energy inhering in each ray.
+
+One reason why the extent of this great region has been so singularly
+underestimated, is the deceptively small space into which it appears to
+be compressed by the distortion of the prism. To discriminate between
+these crowded rays, I have been driven to the invention of a special
+instrument. The bolometer, which I have here, is an instrument depending
+upon principles which I need not explain at length, since all present
+may be presumed to be familiar with the success which has before
+attended their application in another field in the hands of the
+President of this Association.
+
+I may remark, however, that this special construction has involved very
+considerable difficulties and long labor. For the instrument here shown,
+platinum has been rolled by Messrs. Tiffany, of New York, into sheets,

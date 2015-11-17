@@ -1,0 +1,496 @@
+of boron and titanium had received most attention from inventors. The
+nitride of boron, which is obtained by treating boracic acid with
+carbon in the presence of nitrogen, when acted upon by steam, forms
+boracic acid again and yields the whole of its nitrogen in the form of
+ammonia, but the high temperature at which the first reaction takes
+place, and the volatility of boracic acid in a current of steam, make
+it impossible to utilize this reaction industrially.
+
+There seemed to be a better chance for a process patented by M.
+Tessier du Mothay, who proposed to bring a mixture of nitrogen and
+hydrogen into contact with titanium nitride and thus to form ammonia
+continuously. Titanium is the only element of which we know at present
+several combinations with nitrogen, and the higher of these does, on
+being acted upon by a current of hydrogen at an elevated temperature,
+produce ammonia and a lower nitride of titanium; but this lower
+nitride does not absorb nitrogen under any of the conditions under
+which we tried it, which explains the fact that if we passed a current
+of hydrogen and nitrogen over the higher nitride, we at first obtained
+a quantity of ammonia corresponding to the quantity which the nitride
+would give with hydrogen alone, but that the formation of ammonia then
+ceased completely.
+
+Thus far we had quite failed to get the nitrogen of the air into
+action.
+
+With the third class of processes, however, based upon the formation
+in the first instance of cyanides, we found by our very first
+experiments that the nitrogen of the atmosphere can be easily led into
+combination. A few experiments showed that the cyanide of barium was
+much more readily formed than any other cyanide; so we gave our full
+attention from this time to the process for obtaining ammonia by means
+of cyanide of barium invented by MM. Margueritte and Sourdeval. This
+process consists in heating a mixture of carbonate of barium with
+carbon in the presence of nitrogen, and subsequently treating the
+cyanide of barium produced with steam, thus producing ammonia and
+regenerating the carbonate of barium. A great difficulty in this
+process is that the carbonate of barium fuses at high temperatures,
+and when fused attacks fireclay goods very powerfully.
+
+We found that this can be overcome by mixing the carbonate of barium
+with a sufficient quantity of carbon and a small quantity of pitch,
+and that in this way balls can be made which will not fuse, so that
+they can be treated in a continuous apparatus in which the broken
+briquettes can be charged from the top, and after treatment can be
+withdrawn from the bottom.
+
+We found that the formation of cyanides required a temperature of at
+least 1,200 deg. C., and proceeded most readily at 1,400 deg. C., temperatures
+which, although difficult to attain, are still quite within the range
+of practical working, and we found no difficulty in obtaining a
+product containing 30 per cent. of barium cyanide, corresponding to a
+conversion into cyanide of 40 per cent. of the barium present.
+
+We found, however, that the cyanide when exposed to the atmosphere at
+a temperature above 300 deg. C. is readily destroyed under reformation of
+carbonate of barium, so that it is absolutely necessary to cool it
+down to this temperature before exposing it to the atmosphere, a fact
+of great importance that had hitherto been overlooked.
+
+The operation for producing ammonia and regenerating the carbonate of
+barium by acting upon the cyanide with steam offers no difficulty
+whatever, and if the temperature is not allowed to exceed 500 deg. C., the
+results are quantitative. The regenerated carbonate of barium acts
+actually better than the ground witherite used in the first instance,
+and if care is taken that no impurities are introduced by the pitch
+which is used to remake the briquettes and to replace the small amount
+of carbon consumed at each operation, I see no reason why it should
+not continue to act for a very long time.
+
+The cyanide is not acted on by carbonic oxide, but carbonic acid
+destroys it at high temperatures, so that it is not possible to
+produce it by heating the briquettes directly in a flame free from
+oxygen, but containing carbonic acid. The process has, therefore, to
+be carried out in closed vessels, and I designed for this purpose the
+following apparatus:
+
+Clay retorts of moderate dimensions and thin walls are placed
+vertically in a furnace, passing through the hearth as well as through
+the arch of the furnace. These are joined at the bottom to cast iron
+retorts of the same shape as the earthenware retort. Through a cast
+iron mouthpiece on the top of the retort the material was introduced,
+while in the cast iron retort below the material was cooled to the
+necessary temperature by radiation and by the cold nitrogen gas
+introduced into the bottom of it. The lower end of the cast iron
+retort was furnished with an arrangement for taking out from time to
+time small quantities of the material, while fresh material was in the
+same proportion fed in at the top. As a source of nitrogen I used the
+gases escaping from the carbonating towers of the ammonia-soda
+process. The formation of cyanide of barium from barium carbonate,
+carbon, and nitrogen absorbs a very large amount of heat--no less than
+97,000 calories per equivalent of the cyanide formed--which heat has
+to be transmitted through the walls of the retort. I therefore
+considered it necessary to use retorts with very thin walls, but I did
+not succeed in obtaining retorts of this description which would
+resist the very high temperatures which the process requires, and for
+this reason I abandoned these experiments. I was at that time not
+acquainted with the excellent quality of clay retorts used in zinc
+works, with which I have since experimented for a different purpose. I
+have no doubt that with such retorts the production of cyanides by
+this process can be carried out without great difficulty.
+
+I believe that the process will prove remunerative for the manufacture
+of cyanogen products, which, if produced more cheaply, may in the
+future play an important role in organic synthesis, in the extraction
+of noble metals, and possibly other chemical and metallurgical
+operations.
+
+The process certainly also offers a solution of the problem of
+obtaining ammonia from the nitrogen of the atmosphere, but whether
+this can be done with satisfactory commercial results is a question I
+cannot at present answer, as I have not been able to secure the data
+for making the necessary calculations.
+
+I am the more doubtful about this point, as in the course of our
+investigations I have found means to produce ammonia at small cost and
+in great abundance from the immense store of combined nitrogen which
+we possess in our coal fields.
+
+Among the processes for obtaining ammonia from the nitrogen of the air
+which we investigated, was one apparently of great simplicity,
+patented by Messrs. Rickman and Thompson. These gentlemen state that
+by passing air and steam through a deep coal fire, the nitrogen so
+passed through is to a certain extent converted into ammonia. In
+investigating this statement we found that the process described
+certainly yields a considerable quantity of ammonia, but when we
+burned the same coal at a moderate temperature by means of steam
+alone in a tube heated from the outside, we obtained twice as much
+ammonia as we had done by burning it with a mixture of air and steam,
+proving in this case, as in all others, the source of the ammonia to
+have been the nitrogen contained in the coal. The quantity of ammonia
+obtained was, however, so large that I determined to follow up this
+experience, and at once commenced experiments on a semi-manufacturing
+scale to ascertain whether they would lead to practical and economic
+results.
+
+I came to the conclusion that burning coal by steam alone at a
+temperature at which the ammonia formed should not be dissociated,
+although it yielded more ammonia, would not lead to an economic
+process, because it would require apparatus heated from the outside,
+of great complication, bulk, and costliness, on account of the immense
+quantity of raw material to be treated for a small amount of ammonia
+obtainable.
+
+On the other hand, if the coal could be burned in gas producers by a
+mixture of air and steam, the plant and working of it would be simple
+and inexpensive, the gas obtained could be utilized in the same way as
+ordinary producer gas, and would pay to a large extent for the coal
+used in the operation, so that although only one-half of the ammonia
+would be obtained, it seemed probable that the result would be
+economical.
+
+I consequently constructed gas producers and absorbing plant of
+various designs and carried on experiments for a number of years.
+These experiments were superintended by Mr. G. H. Beckett, Dr. Carl
+Markel, and, during the last four years, by Dr. Adolf Staub, to whose
+zeal and energy I am much indebted for the success that has been
+achieved. The object of these experiments was to determine the most
+favorable conditions for the economic working of the process with
+respect to both the cost of manufacture as well as the first cost and
+simplicity of plant. The cost of manufacture depends mainly upon the
+yield of ammonia, as the expenses remain almost the same whether a
+large or a small amount of ammonia is obtained; the only other item of
+importance is the quantity of steam used in the process. We found the
+yield of ammonia to vary with the temperature at which the producer
+was working, and to be highest when the producer was worked as cool as
+was compatible with a good combustion of the fuel. The temperature
+again depended upon the amount of steam introduced into the producer,
+and of course decreased the more steam increased. We obtained the best
+practical results by introducing about two tons of steam for every ton
+of fuel consumed. We experimented upon numerous kinds of fuel, common
+slack and burgy of the Lancashire, Staffordshire, and Nottinghamshire
+districts. We found not much difference in the amount of nitrogen
+contained in these fuels, which varied between 1.2 and 1.6 per cent.,
+nor did we find much difference in the ammonia obtained from these
+fuels if worked under similar conditions. Employing the quantity of
+steam just named we recovered about half the nitrogen in the form of
+ammonia, yielding on an average 0.8 per cent. of ammonia, equal to 32
+kilos, of sulphate per ton of fuel. In order to obtain regular results
+we found it necessary to work with a great depth of fuel in the
+producers, so that slight irregularities in the working would not
+affect results. Open burning kinds of slack do of course work with the
+greater ease, but there is no difficulty in using a caking fuel, as
+the low temperature at which the producers work prevents clinkering
+and diminishes the tendency of such fuels to cake together.
+
+The quantity of steam thus required to obtain a good yield of ammonia
+is rather considerable, and threatened to become a serious item of
+expense. Only one-third of this steam is decomposed, in its passage
+through the producer, and two-thirds remain mixed with the gases which
+leave the producer. My endeavors were consequently directed toward
+finding means to recover this steam, and to return it to the
+producers, and also to utilize the heat of the gases which leave the
+producers with a temperature of 450 deg. to 500 deg. C., for raising steam for
+the same purpose. The difficulties in the way of attaining this end
+and at the same time of recovering, in a simple manner, the small
+amount of ammonia contained in the immense volume of gas we have to
+deal with, were very great. We obtain from one ton of coal 160,000
+cubic feet of dry gas at 0 deg. C. and atmospheric pressure. The steam
+mixed with this gas as it leaves the producer adds another 80,000
+cubic feet to this, and the large amount of latent heat in this
+quantity of steam makes the problem still more difficult. The
+application of cooling arrangements, such as have been successfully
+applied to blast furnace gases, in which there is no steam present,
+and which depend upon the cooling through the metallic sides of the
+apparatus, is here practically out of the question. After trying a
+number of different kinds of apparatus, I have succeeded in solving
+the problem in the following way:
+
+The gases issuing from the producers are led through a rectangular
+chamber partly filled with water, which is thrown up in a fine spray
+by revolving beaters so as to fill the whole area of the chamber. This
+water, of course, becomes hot; a certain quantity of it evaporates,
+the spray produced washes all dust and soot out of the gases, and also
+condenses the fixed ammonia. The water thus becomes, to a certain
+degree, saturated with ammonia salts, and a certain portion of it is
+regularly removed from the chamber and distilled with lime to recover
+the ammonia.
+
+[Illustration: Longitudinal Section of Plant for obtaining Ammonia
+from Gas Producers.
+
+Cross Section through Gas Producers.]
+
+This chamber is provided with water lutes, through which the tar
+condensed in it is from time to time removed. From this chamber the
+gases, which are now cooled down to about 100 deg. C., and are loaded with
+a large amount of water vapor, are passed through a scrubber filled
+with perforated bricks, in which the ammonia contained in the gases is
+absorbed by sulphuric acid. In this scrubber a fairly concentrated
+solution of sulphate of ammonia containing 36 to 38 per cent. is used,
+to which a small quantity of sulphuric acid is added, so that the
+liquid leaving the scrubber contains only 2.5 per cent. of free acid.
+This is necessary, as a liquid containing more acid would act upon the
+tarry matter and produce a very dark-colored solution. The liquid
+running from the scrubber is passed through a separator in which the
+solution of sulphate of ammonia separates from the tar. The greater
+portion of the clear liquid is, after adding a fresh quantity of acid
+to it, pumped back through the scrubber. A certain portion of it is,
+after treatment with a small quantity of heavy tar oils, which take
+the tarry matter dissolved in it out, evaporated in conical lead-lined
+pans furnished with lead steam coils, and which are kept constantly
+filled by the addition of fresh liquor until the whole mass is thick.
+This is then run out on a strainer and yields, after draining and
+washing with a little water, a sulphate of ammonia of very fair
+quality, which finds a ready sale. The mother liquor, which contains
+all the free acid, is pumped back to the scrubber.
+
+The gas on entering this scrubber contains only 0.13 volume per cent.
+of ammonia, and on leaving the scrubber it contains not more than
+one-tenth of this quantity. Its temperature has been reduced to
+80 deg. C., and is fully saturated with moisture, so that practically no
+condensation of water takes place in the scrubber. The gas is next
+passed through a second scrubber filled with perforated wood blocks.
+In this it meets with a current of cold water which condenses the
+steam, the water being thereby heated to about 78 deg. C. In this scrubber
+the gas is cooled down to about 40 deg.-50 deg. C., and passes from it to the
+gas main leading to the various places where it is to be consumed. The
+hot water obtained in this second scrubber is passed through a vessel
+suitably constructed for separating the tar which is mixed with it,
+and is then pumped through a third scrubber, through which, in an
+opposite direction to the hot water, cold air is passed. This is
+forced by means of a Roots blower through the scrubber into the
+producer.
+
+The air gets heated to about 76 deg. C. and saturated with moisture at
+that temperature by its contact with the hot water, and the water
+leaves this third scrubber cold enough to be pumped back through the
+second scrubber. The same quantity of water is thus constantly used
+for condensing the water vapor in one scrubber and giving it up to the
+air in the other. In this way we recover and return to the producer
+fully two-thirds of the steam which has been originally introduced, so
+that we have to add to the air, which has thus been loaded with
+moisture, an additional quantity of steam equal to only one-third of
+the total quantity required before it enters the producer. This
+additional quantity of steam, which amounts to 0.6 ton of steam for
+every ton of fuel burnt, we obtain as exhaust steam from the engines
+driving the blowers and pumps required for working the plant.
+
+The gas producers which I prefer to use are of rectangular shape, so
+that a number of them can be put into a row. They are six feet wide
+and 12 feet long inside. The air is introduced and the ashes removed
+at the two small sides of the producer which taper toward the middle
+and are closed at the bottom by a water lute of sufficient depth for
+the pressure under which the air is forced in, equal to about 4 inches
+of water. The ashes are taken out from underneath the water, the
+producers having no grate or fire bars at all. The air enters just
+above the level of the water through a pipe connected with the blower.
+These small sides of the producer rest upon cast iron plates lined to
+a certain height with brickwork, and this brickwork is carried by
+horizontal cast iron plates above the air entrance. In this way a
+chamber is formed of triangular shape, one side of which is closed by
+the ashes, and thus the air is distributed over the whole width of the
+producer.
+
+The gas is taken out in the middle of the top of the producer by an
+iron pipe, and fuel charged in by hoppers on both sides of this pipe.
+Between the pipe and the hoppers two hanging arches are put into the
+producers a certain distance down, and the fuel is kept above the
+bottom level of these hanging arches. This compels the products of
+distillation, produced when fresh fuel is charged in, to pass through
+the incandescent fuel between the two hanging arches, whereby the
+tarry products are to a considerable extent converted into permanent
+gas, and the coal dust arising from the charging is kept back in the
+producer.
+
+The details of construction of this plant will be easily understood by
+reference to the diagrams before you.
+
+The fuel we use is a common kind of slack, and contains, on an
+average, 33.5 per cent. of volatile matter, including water, and 11.5
+per cent. of ashes, leaving 55 per cent. of non-volatile carbon.
+
+The cinders which we take out of the producer contain, on an average,
+33 per cent. of carbon. Of this we recover about one-half by riddling
+or picking, which we return to the producer. The amount of unburnt
+carbon lost in the cinders is thus not more than 3 per cent. to 4 per
+cent. on the weight of fuel used.
+
+The gas we obtain contains, in a dry state, on an average, 15 per
+cent. of carbonic acid, 10 per cent. of carbonic oxide, 23 per cent.
+of hydrogen, 3 per cent. of hydrocarbons, and 49 per cent. of
+nitrogen.
+
+The caloric value of this gas is very nearly equal to 73 per cent. of
+the caloric value of the fuel used, but in using this gas for heating
+purposes, such as raising steam or making salt, we utilize the heat it
+can give very much better than in burning fuel, as we can completely
+burn it with almost the theoretical quantity of air, so that the
+products of combustion resulting do not contain more than 1 to 2 per
+cent. of free oxygen. Consequently the heat escaping into the chimney
+is very much less than when fuel is burnt direct, and we arrive at
+evaporating, by means of the gas, 85 per cent. of the water that we
+would evaporate by burning the fuel direct, in ordinary fireplaces.
+
+We have, however, to use a certain quantity of steam in the producers
+and in evaporating the sulphate of ammonia liquors, which has to be
+deducted from the steam that can be raised by the gas in order to get
+at the quantity of available steam therefrom obtainable. The former
+amounts, as already stated, to 0.6 ton, the latter to 0.1 ton of steam
+per ton of fuel burnt, making a total of 0.7 ton. The gas obtained
+from one ton of fuel evaporates 5.8 tons of water in good steam
+boilers, working at a rate of evaporation of 50 to 55 tons per 24
+hours under 90 lb. pressure. Deducting from this the 0.7 ton necessary
+for working the plant leaves an available amount of steam raised by
+the gas from one ton of fuel of 5.1 tons, equal to 75 per cent. of the
+steam that we can obtain from the same fuel by hand firing.
+
+In addition to the gas, we obtain about 3 per cent. of tar from the
+fuel. This tar is very thick, and of little commercial value. It
+contains only 4 per cent. of oils volatile below 200 deg. C., and 38 per
+cent. of oils of a higher boiling point, consisting mostly of creosote
+oils very similar to those obtained from blast furnaces; and only
+small quantities of anthracene and paraffin wax.
+
+I have made no attempts to utilize this tar except as fuel. It
+evaporates nearly twice as much water as its weight of coal, and we
+have thus to add its evaporative efficiency to that of the gas given
+above, leading to a total of about 80 per cent. of the evaporative
+efficiency of the fuel used in the producers. The loss involved in
+gasifying the fuel to recover the ammonia therefrom amounts thus to 20
+per cent. of the fuel used. This means that, where we have now to burn
+100 tons of fuel, we shall have to burn 125 tons in the producers in
+order to obtain ammonia equal to about half the nitrogen contained
+therein. Our actual yield of ammonia on a large scale amounting on an
+average to 32 kilos., equal to 70.6 lb. per ton of fuel, 125 tons of
+fuel will turn out 4 tons of sulphate of ammonia. We thus consume 6.25
+tons of fuel for every ton of sulphate obtained, or nearly the same
+quantity as is used in producing a ton of caustic soda by the Le Blanc
+process--a product not more than half the value of ammonium sulphate.
+At present prices in Northwich this fuel represents a value of 35s. If
+we add to this the extra cost of labor over and above the cost of
+burning fuel in ordinary fireplaces, the cost of sulphuric acid, bags,
+etc., we come to a total of 4l. 10s. to 5l. per ton of sulphate of
+ammonia, which at the present selling price of this article, say 12l.
+per ton, leaves, after a liberal allowance for wear and tear of plant,
+an ample margin of profit. With a rise in the price of fuel, this
+margin, however, rapidly decreases, and the working of the process
+will, of course, be much more expensive on a small scale, as will also
+be the cost of the plant, which under all circumstances is very
+considerable. The great advantages incidental to this process over and
+above the profit arising from the manufacture of sulphate of ammonia,
+viz., the absolute impossibility of producing smoke and the great
+regularity of the heating resulting from the use of gas, are,
+therefore, as far as I can see for the present, only available for
+large consumers of cheap fuel.
+
+We have tried many experiments to produce hydrochloric acid in the
+producers, with the hope of thereby increasing the yield of ammonia,
+as it is well known that ammonium chloride vapor, although it consists
+of a mixture of ammonia gas and hydrochloric acid gas, is not at all
+dissociated at temperatures at which the dissociation of ammonia alone
+has already taken place to a considerable extent.
+
+I had also hoped that I might in this way produce the acid necessary
+to combine with the ammonia at very small cost. For this purpose we
+moistened the fuel used with concentrated brine, and also with the
+waste liquors from the ammonia soda manufacture, consisting mainly of
+chloride of calcium; and we also introduced with the fuel balls made
+by mixing very concentrated chloride of calcium solution with clay,
+which allowed us to produce a larger quantity of hydrochloric acid in
+the producer than by the other methods.
+
+We did in this way succeed in producing hydrochloric acid sometimes
+less and sometimes more than was necessary to combine with the
+ammonia, but we did not succeed in producing with regularity the exact
+amount of acid necessary to neutralize the ammonia. When the ammonia
+was in excess, we had therefore to use sulphuric acid as before to
+absorb this excess, and we were never certain that sometimes the
+hydrochloric acid might not be in excess, which would have
+necessitated to construct the whole plant so that it could have
+resisted the action of weak hydrochloric acid--a difficulty which I
+have not ventured to attack. The yield of ammonia was not in any case
+increased by the presence of the hydrochloric acid. This explains
+itself if we consider that there is only a very small amount of
+ammonia and hydrochloric acid diffused through a very large volume of
+other gases, so that the very peculiar protective action which the
+hydrochloric acid does exercise in retarding the dissociation of
+ammonia in ammonium chloride vapor, where an atom of ammonia is always
+in contact with an atom of hydrochloric acid, will be diminished
+almost to zero in such a dilute gas where the atoms of hydrochloric
+acid and ammonia will only rarely come into immediate contact with
+each other.
+
+When we burnt coke by a mixture of air and steam in presence of a
+large excess of hydrochloric acid, the yield of ammonia certainly was
+thereby considerably increased, but such a large excess cannot be used
+on an industrial scale. I have therefore for the present to rest
+satisfied with obtaining only half the nitrogen contained in the fuel
+in the form of ammonia.
+
+The enormous consumption of fuel in this country--amounting to no less
+than 150 million tons per annum--would at this rate yield as much as
+five million tons of sulphate of ammonia a year, so that if only
+one-tenth of this fuel would be treated by the process, England alone
+could supply the whole of the nitrogenous compounds, sulphate of
+ammonia, and nitrate of soda at present consumed by the Old World. As
+the process is especially profitable for large consumers of fuel
+situated in districts where fuel is cheap, it seems to me particularly
+suitable to be adopted in this country. It promises to give England
+the privilege of supplying the Old World with this all-important
+fertilizer, and while yielding a fair profit to the invested capital
+and finding employment for a considerable number of men, to make us,
+last not least, independent of the New World for our supply of so
+indispensable a commodity.
+
+Before leaving my subject, I will, if you will allow me, give you in a
+few words a description of two other inventions which have been the
+outcome of this research. While looking one day at the beautiful,
+almost colorless, flame of the producer gas burning under one of our
+boilers, it occurred to me that a gas so rich in hydrogen might be
+turned to better use, and that it might be possible to convert it
+direct into electricity by means of a gas battery.
+
+You all know that Lord Justice Grove showed, now fifty years ago, that
+two strips of platinum partly immersed in dilute sulphuric acid, one
+of which is in contact with hydrogen and the other with oxygen,
+produce electricity. I will not detain you with the many and varied
+forms of gas batteries which Dr. Carl Langer (to whom I intrusted this
+investigation) has made and tried during the last four years, in order
+to arrive at the construction of a gas battery which would give a
+practical result, but I will call your attention to the battery before
+me on the table, which is the last result of our extended labors in
+this direction, and which we hope will mark a great step in advance in
+the economic production of electricity.
+
+The distinguishing feature of this battery is that the electrolyte is
+not employed as a mobile liquid, but in a quasi-solid form, and it is,
+therefore, named dry gas battery. It consists of a number of elements,
+which are formed of a porous diaphragm of a non-conducting material
+(in this instance plaster of Paris), which is impregnated with dilute
+sulphuric acid. Both sides of this diaphragm are covered with very
+fine platinum leaf perforated with very numerous small holes, and over
+this a thin film of platinum black. Both these coatings are in contact
+with frameworks of lead and antimony, insulated one from the other,
+which conduct the electricity to the poles of the battery.
+
+A number of these elements are placed side by side, with
+non-conducting frames intervening, so as to form chambers through
+which the hydrogen gas is passed along one side of the element and air
+along the other.
+
+This peculiar construction allows us to get a very large amount of
+duty from a very small amount of platinum. One of the batteries before
+you, consisting of seven elements, with a total effective surface of
+half a square meter, contains 21/2 grammes of platinum leaf and 7
+grammes of platinum black, a total of 91/2 grammes of platinum, and
+produces a current of 2 amperes and 5 volts, or 10 watts, when the
+outer resistance is properly adjusted. This current is equal to nearly
+50 per cent. of the total energy obtainable from the hydrogen absorbed
+in the battery.
+
+In order to maintain a constant current, we have from time to time
+(say once an hour) to interchange the gases, so as to counteract the
+disturbing influence produced by the transport of the sulphuric acid
+gas from one side of the diaphragm to the other. This operation can
+easily be performed automatically by a commutator worked by a clock.

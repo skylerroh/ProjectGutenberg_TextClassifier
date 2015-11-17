@@ -1,0 +1,507 @@
+The Project Gutenberg EBook of Scientific American Supplement, Vol. XV.,
+No. 388, June 9, 1883, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Scientific American Supplement, Vol. XV., No. 388, June 9, 1883
+
+Author: Various
+
+Release Date: March 20, 2005 [EBook #15417]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SCIENTIFIC AMERICAN ***
+
+
+
+
+Produced by Juliet Sutherland and the PG Online Distributed
+Proofreading Team at www.pgdp.net.
+
+
+
+
+
+[Illustration]
+
+
+
+
+SCIENTIFIC AMERICAN SUPPLEMENT NO. 388
+
+
+
+
+NEW YORK, June 9, 1883
+
+Scientific American Supplement. Vol. XV., No. 388.
+
+Scientific American established 1845
+
+Scientific American Supplement, $5 a year.
+
+Scientific American and Supplement, $7 a year.
+
+       *       *       *       *       *
+
+
+
+
+TABLE OF CONTENTS.
+
+
+I.  ENGINEERING.--Farcot's Improved Woolf Compound Engine.--4
+       figures.
+
+     The "Swallow," a New Vehicle.
+
+     Boring an Oil Well.
+
+     A Cement Reservoir.--2 figures.
+
+     "Flying."
+
+
+II.  TECHNOLOGY.--Iron and Steel.--By BARNARD SAMUELSON.
+        The world's production of pig iron.--Wonderful uses and demands
+        for iron and steel.--Progress of Bessemer steel.--Latest
+        improvements in iron making.--Honors and rewards to inventors.
+        --Growth of the Siemens-Martin process.--The future of iron and
+        steel.--Relations between employers and workmen.
+
+      Machine for Grinding Lithographic Inks and Colors.--1 figure.
+
+      A new Evaporating apparatus.--2 figures.
+
+      Photo Plates.--Wet and Dry.
+
+      Gelatino Bromide Emulsion with Bromide of Zinc.
+
+      The Removal of Ammonia from Crude Gas.
+
+III.  MEDICINE AND HYGIENE.--The Hair, its Uses and its Care.
+        The Influence of Effective Breathing in Delaying the Physical
+        Changes Incident to the Decline of Life, and in the Prevention
+        of Pneumonia. Consumption, and Diseases of Women.--By DAVID
+        WARK. M.D.--Pneumonia.--The true first stage of Consumption. The
+        development of tubercular matter in the blood.--The value of
+        cod-liver oil in the prevention of consumption.--The influence
+        of normal breathing on the female generative organs--Showing how
+        the breathing powers may be developed.--The effects of adequate
+        respiration in special cases.
+
+      Vital Discoveries in Obstructed Air and Ventilation.
+
+IV.   ELECTRICITY.--The Portrush Electric Railway, Ireland.--By Dr.
+        EDWARD HOPKINSON.
+
+      The Thomson-Houston Electric Lighting System.--4 figures.
+
+      A Modification of the Vibrating Bell.--2 figures.
+
+V.    CHEMISTRY.--Acetate of Lime.
+
+      Reconversion of Nitroglycerine into Glycerine. By C.L. BLOXAM.
+
+      Carbonic Acid and Bisulphide of Carbon. By JOHN TYNDALL.
+
+VI.   AGRICULTURE AND HORTICULTURE.--Propagation of Maple Trees.
+
+      Dioscorea Retusa.--Illustration.
+
+      Ravages of a Rare Scolytid Beetle in the Sugar Maples of
+        Northeastern New York.--Several figures.
+
+      The Red Spider. 4 figures.
+
+      Japanese Peppermint.
+
+VII.  NATURAL HISTORY.--The Recent Eruption of Etna.
+
+      The Heloderma Horridum.--Illustration.
+
+      The Kangaroo.
+
+VIII. ARCHITECTURE.--Design for a Villa.--Illustration.
+
+IX.   BIOGRAPHY.--William Spottiswoode.--Portrait.
+
+X.    MISCELLANEOUS.--Physics without Apparatus.--Illustration.
+
+      The Travels of the Sun.
+
+
+
+
+FARCOT'S IMPROVED WOOLF COMPOUND ENGINE.
+
+
+In a preceding article, we have described a ventilator which is in use
+at the Decazeville coal mines, and which is capable of furnishing, per
+second, 20 cubic meters of air whose pressure must be able to vary
+between 30 and 80 millimeters.
+
+In order to actuate such an apparatus, it was necessary to have a
+motor that was possessed of great elasticity, and that nevertheless
+presented no complications incompatible with the application that was
+to be made of it.
+
+In the ventilation of mines it has been demonstrated that the
+theoretic power in kilogrammes necessary to displace a certain number
+of cubic meters of air, at a pressure expressed in millimeters of
+water, is obtained by multiplying one number by the other. Applying
+this rule to the case of 20 cubic meters under a hydrostatic pressure
+of 30 millimeters, we find:
+
+           20 x 30 = 600 kilogrammeters.
+
+In the case of a pressure of 80 millimeters, we have:
+
+           20 x 80 = 1,600 kilogrammeters.
+
+If we admit a product of 50 per cent., we shall have in the two cases,
+for the power actually necessary:
+
+           600
+          ---- = 1,200 kilogrammeters, or 16 H.P.
+          0.05
+
+         1,600
+         ----- = 3,200 kilogrammeters, or 43 H.P.
+          0.05
+
+Such are the limits within which the power of the motor should be able
+to vary.
+
+After successively examining all the different systems of engines now
+in existence, and finding none which, in a plain form, was capable of
+fulfilling the conditions imposed, Mr. E.D. Farcot decided to study
+out one for himself. Almost from the very beginning of his researches
+in this direction, he adopted the Woolf system, which is one that
+permits of great variation in the expansion, and one in which the
+steam under full pressure acts only upon the small piston. There are
+many types of this engine in use, all of which present marked defects.
+In one of them, the large cylinder is arranged directly over the small
+one so as to have but a single rod for the two pistons; and the two
+cylinders have then one bottom in common, which is furnished with a
+stuffing-box in which the rod moves. With this arrangement we have but
+a single connecting rod and a single crank for the shaft; but, the
+stuffing-box not being accessible so that it can be kept in a clean
+state, there occur after a time both leakages of steam and entrances
+of air.
+
+Mr. Farcot has further simplified this last named type by suppressing
+the intermediate partition, and consequently the stuffing-box. The
+engine thus becomes direct acting, that is to say, the steam acts
+first upon the lower surface of the small piston during its ascent,
+and afterward expands in the large cylinder and exerts its pressure
+upon the upper surface of the large piston during its descent.
+Moreover, the expansion may be begun in the small cylinder, thanks to
+the use of a slide plate distributing valve, devised by the elder
+Farcot and slightly modified by the son.
+
+As the volume comprised between the two pistons varies with the
+position of the latter, annoying counter-pressures might result
+therefrom had not care been taken to put the chamber in communication
+with a reservoir of ten times greater capacity, and which is formed by
+the interior of the frame. This brings about an almost constant
+counter-pressure.
+
+The type of motor under consideration, which we represent in the
+accompanying plate, is possessed of remarkable simplicity. The number
+of parts is reduced to the extremest limits; it works at high speed
+without perceptible wear; it does not require those frequent repairs
+that many other cheap engines do; and the expansion of the steam is
+utilized without occasioning violent shocks in the parts which
+transmit motion. Finally, the plainness of the whole apparatus is
+perfectly in accordance with the uses for which it was devised.
+
+[Illustration: FARCOT'S IMPROVED WOOLF COMPOUND ENGINE.]
+
+_Details of Construction._--Figs. 1 and 2 represent the motor in
+vertical section made in the direction of two planes at right angles.
+Figs. 3 and 4 are horizontal sections made respectively in the
+direction of the lines 1-2 and 3-4.
+
+The frame, which is of cast iron and entirely hollow, consists of two
+uprights, B, connected at their upper part by a sort of cap, B¹, which
+is cast in a piece with the two cylinders, C and _c_. The whole rests
+upon a base, B squared, which is itself bolted to the masonry foundation.
+
+Each of the uprights is provided internally with projecting pieces for
+receiving the guides between which slides the cross-head, _g_, of the
+piston rod. The slides terminate in two lubricating cups designed for
+oiling the surfaces submitted to friction.
+
+The cross-head carries two bearings, _g¹_, to which is jointed the
+forked extremity, D, of the connecting rod, whose opposite extremity
+receives a strap that embraces the cranked end of the driving shaft,
+A. It will be remarked that the crank, A¹, and the bearings, _g¹_,
+are very long. The end the inventor had in view in constructing them
+thus was to diminish friction.
+
+To the shaft, A, are keyed the coupling disks, Q, which are cast solid
+at a portion of their circumference situated at 180 deg. with respect to
+the parts, A squared, of the cranked shaft, the object of this being to
+balance the latter as well as a portion of the connecting rod, D.
+
+The shaft, A, also receives the eccentric, E, of the slide valve, the
+rod, _e_, of which is jointed to the slide valve rod through the
+intermedium of a cross-head, _e¹_, analogous to that of the pistons,
+and which, like the latter, runs on guides held by the support, b.
+
+The two pistons, _p_ and P, are mounted very simply on the rod, T, as
+shown in Fig. 1, and slide in cylinders, _c_ and C, whose diameters
+are respectively equal to 270 and 470 millimeters.
+
+The slide valve box, F, is bolted to the cap-piece, B¹, as seen in
+Fig. 4. As for the slide valve, _t_, its arrangement may be
+distinguished in section in Fig. 2. Its eccentric is keyed at 170 deg. so
+as to admit steam into the small cylinder during the entire travel,
+which latter is 470 mm.
+
+To permit of the expansion beginning in the small cylinder, Mr. Farcot
+has added a sliding plate, _t¹_, which abuts at every stroke against
+the stops, _s_. These latter are affixed to the rod, S, whose lower
+extremity is threaded, and which may be moved vertically, as slightly
+as may be desired, through the medium of the pinions, S¹, when the
+hand-wheel, V, is revolved. A datum point, _v_, and a graduated
+socket, _v¹_, allow the position of the stops, _s_, and consequently
+the degree of expansion, to be known.
+
+Steam is introduced into the small cylinder through the conduit, _i_,
+and its passage into the large one is effected through the conduit,
+_f_. The escape into the interior of the frame is effected, after
+expansion, through the horizontal conduit, _h_. The pipe, H, leads
+this exhaust steam to the open air.
+
+The pipe, I, leads steam into the jacket, C¹, of the large cylinder,
+this latter being provided in addition with a casing of wood, C squared, so
+as to completely prevent chilling.
+
+The regulator, R, is after the Buess pattern, and is set in motion by a
+belt which runs over the pulleys, _a_ and _a¹_. It is mounted upon a
+distributing box, R¹, to which steam is led from the boiler by the
+pipe, _r¹_. After traversing this box, the steam enters the slide
+valve box through the pipe, _r squared_, its admission thereto being
+regulated by the hand-wheel, R squared, which likewise serves for stopping
+the engine.
+
+The cocks, _x_, are fixed at the base of the uprights, B, for drawing
+from the frame the condensed water that has accumulated therein.
+
+The lubricating apparatus, V, which communicates, through the tube,
+_u_, with the steam port, _r¹_, permits oil to be sent to the large
+and small cylinders through the tubes, _u¹_ and _u squared_.
+
+Mr. Farcot has recently adapted this type of motor to the direct
+running of electric machines that are required to make 400 revolutions
+per minute.--_Publication Industrielle._
+
+       *       *       *       *       *
+
+
+
+
+IRON AND STEEL.
+
+
+At the recent meeting of the Iron and Steel Institute, London, the
+president-elect (Mr. Bernard Samuelson, M.P.), delivered the following
+inaugural address:
+
+
+THE WORLD'S PRODUCTION OF PIG IRON.
+
+He showed that the world's production of pig iron has increased in
+round numbers from 10,500,000 tons in 1869 to 20,500,000 tons in 1882.
+The blast furnaces of 1869 produced on the average a little over 180
+tons per week, with a temperature of blast scarcely exceeding 800 deg.
+Fahr. The consumption of coke per ton of iron varied from 25 to 30
+cwt. To-day our blast furnaces produce on the average upward of 300
+tons per week.
+
+The Consett Company have reached a production of 3,400 tons in four
+weeks, or 850 tons per week, and of 134 tons in one day from a single
+furnace.
+
+From the United States we have authentic accounts of an average
+production of 1,120 tons per furnace per week having been attained,
+and that even this great output has lately been considerably exceeded
+there. Both as to consumption of fuel and wear and tear, per ton of
+iron produced, these enormous outputs are attended with economy.
+
+
+HEAT OF THE BLAST.
+
+In the case of the Consett furnace they were obtained although the
+heat of the blast was under 1,100 deg. Fahr., while heats of 1,500 deg. to
+1,600 deg. are not uncommon at the present day in brick stoves, thanks to
+the application of the regenerating principle of ex-president Sir W.
+Siemens.
+
+But an economy which promises to be of great importance is now sought
+in the recovery and useful application of those constituents of coal
+which, in the coking process, have hitherto been lost; or, as an
+alternative, in a similar recovery in those cases in which the coal is
+charged in a raw state into the blast furnace, as is the practice in
+Scotland and elsewhere. This recovery of the hydrocarbons and the
+nitrogen contained in the coal, and their collection as tar and
+ammoniacal liquors, and subsequent conversion into sulphate of ammonia
+as to the latter, and into the various light and heavy paraffin oils
+and the residual pitch as to the former, have now been carried on for
+a considerable time at two of the Gartsherrie furnaces; and they are
+already engaged in applying the necessary apparatus to eight more
+furnaces. In the coke oven the recovery of these by-products--if that
+name can be properly applied to substances which yield the most
+brilliant colors, the purest illuminants, and the flesh-forming
+constituents supplied by the vegetable world--would appear at first
+sight to be simpler; but it has presented its own peculiar
+difficulties; the chief of which was, or was believed to be, a
+deterioration in the quality of what has hitherto been the principal,
+but what may, perhaps, come to be regarded hereafter as the residual
+product, namely, the coke. But the more recent experience of Messrs.
+Pease, at Crook, appears not to justify this opinion. You will see on
+our table specimens of the coke produced in the Carves-Simon oven,
+yielding 75 to 77 per cent. of coke from the Pease's West coal, which
+they have now had at work for several months. Twenty-five of these
+ovens are at work, and the average yield of ammoniacal liquor per ton
+of coal has been 30 gallons of a strength of 7 deg. Twaddell, valued at
+1d. per gallon at the ovens; the quantity of tar per ton has been 7
+gallons, valued at 3d. per gallon. These products would therefore
+realize 4s. 3d. per ton of coal. Of course the profit on the ton of
+coke is considerably more, and to this has to be added the value of
+the additional weight of coke, which in the ordinary beehive ovens
+from coal of the same quality is only 60 per cent. or in beehive ovens
+having bottom flues about 66 per cent., while in the Carves ovens it
+is, as I have said, upward of 75 per cent. Against these figures there
+is a charge of 1s. 4d. per ton of coke for additional labor, including
+all the labor in collecting the by-products; the interest on the first
+cost of the plant, which is considerable, and probably some outlay for
+repairs in excess of that in the case of ordinary ovens, has also to
+be charged. Mr. Jameson takes credit for the combustible gas, which is
+used up in the Carves ovens, but which remains over in his process,
+and is available, though not nearly all consumed, in raising steam for
+the various purposes of a colliery, including, no doubt, before long,
+the generation of electricity for its illumination. It is right to
+state that prior to 1879 Mr. Henry Aitken had applied bottom flues for
+taking off the oil and ammoniacal water to beehive ovens at the Almond
+Ironworks, near Falkirk. He states that the largest quantity of oil
+obtained was eleven gallons, the specific gravity varying from 0.925
+to 1.000, and that the water contained a quantity of ammonia fully
+equal to 51/2 lb. of sulphate of ammonia to the ton of coal coked. The
+residual permanent or non-condensed gases were allowed to issue from
+the end of the condenser pipe, and were burnt for light in the
+engine-houses, but it was intended to force them into the oven again
+above the level of the coke. Owing to the works being closed, nothing
+has been done with these ovens for some years. I may mention, by the
+way, that it is proposed to apply the principle of Mr. Jameson's
+process to the recovery of oil and ammonia from the smouldering waste
+heaps at the pit-bank, by the introduction into these of conduits
+resembling those which he applies to the bottom of the beehive oven.
+There is every reason to expect that one or more of these various
+methods of utilizing valuable products which are at present lost will
+be carried to perfection, and will tend to cheapen the cost at which
+iron can be produced, and still further to increase its consumption
+for all the multifarious purposes to which it is applied.
+
+
+WONDERFUL USES AND DEMAND FOR IRON AND STEEL.
+
+But the world's annual production of 20,000,000 tons of pig iron is
+itself sufficiently startling, and without attempting to present to
+you the statistics of all its various uses--for which, in fact, we do
+not possess the necessary materials--the increased consumption of more
+than 9,000,000 tons since 1869 becomes conceivable when we consider
+how some of the great works in which it is employed have been
+extending during that or even a shorter interval. And of these I need
+only speak of the world's railways, of which there were in 1872
+155,000 miles, and in 1882 not less than 260,000, but probably more
+nearly 265,000 miles. In the United States alone about 60,000 miles
+of railway have been built since 1869--the year, I may remind you in
+passing, in which the Atlantic and Pacific States of the Union were
+first united by a railway; while in our Indian Empire the
+communication between Calcutta and Bombay was not completed till the
+following year.
+
+The substitution of iron and steel for wood in the construction of
+ships, and the enormous increase in the tonnage of the world, in spite
+of the economy arising from the employment of steamers in place of
+sailing ships, is perhaps the element of increased consumption next in
+importance to that of railways. I do not think that the materials are
+available for estimating with any accuracy the amount of this
+increase, but I believe I am rather understating it if I take the
+consumption of iron and steel used last year throughout the world in
+shipbuilding as having required considerably more than 1,000,000 tons
+of pig iron for its production, and that this is not far short of four
+times the quantity used for the same purpose before 1870. And so all
+the other great works in which iron and steel are employed have
+increased throughout the world. It would be tedious to indicate them
+all.
+
+Among those which rank next in importance to the preceding, I will
+only name the works for the distribution of water and gas, which in
+this country and in the United States have been extended in a ratio
+far greater than that of the increase of the population, and which,
+since the conclusion of the Franco-German war, and the consolidation
+of the German and Italian States, are now to be found in almost every
+European town of even secondary importance; and bridges and piers, in
+the construction of which iron has almost entirely superseded every
+other material.
+
+It is difficult to imagine what would have been the state of the iron
+industry in this country if we had been called upon to supply our full
+proportion of the enormously increased demand for iron. To meet that
+proportion, the British production of pig iron should have been close
+on 11,000,000 tons in 1882, a drain on our mineral resources which
+cannot be replaced, and which, especially if continued in the same
+ratio, would have been anything but desirable. Fortunately, as I am
+disposed to think, other countries have contributed more than a
+proportionate amount to the increase in the world's demand; and,
+paradoxical as it may appear, it is possible that, to this country at
+least, the encouragement given by protective duties to the production
+of iron abroad may have been a blessing in disguise.
+
+
+PROGRESS OF BESSEMER STEEL.
+
+To speak of the enormous increase in the production of steel by the
+introduction of the Bessemer process has become a commonplace on
+occasions like the present, and yet I doubt whether its real
+dimensions are generally known or remembered. In 1869 the manufacture
+of Bessemer steel had already acquired what was then looked upon as a
+considerable development in all the principal centers of metallurgical
+industry, except the United States, but including our own country,
+Germany, France, and Austria, and the world's production in that year
+was 400,000 tons. Last year it was over 5,000,000 tons, and it has
+doubled in every steel-producing country during the last four years,
+except in France, where, during this latter period, the increase has
+not been much more than one-fourth. What is almost as remarkable as
+the enormous increase in the production of Bessemer steel is the great
+diminution in its cost. In the years preceding 1875, the price of
+rails manufactured from Bessemer ingots fluctuated between L10 and L18
+per ton, and I remember Lord George Hamilton when he was
+Under-Secretary for India of Lord Beaconsfield's administration in
+1875 or 1876, congratulating himself on his good fortune in having
+been able to secure a quantity of steel rails for the Indian
+government at L13 per ton. Within the last three years we have seen
+them sold under L4 10s. in this country, and L5 10s. in Germany and
+Belgium.
+
+
+LATEST IMPROVEMENTS IN IRON MAKING.
+
+This great reduction is the cumulative result of a number of
+concurrent improvements, partly in the conversion of the iron, and
+partly in the subsequent treatment of the ingot steel. In most of the
+great steelworks the iron is no longer remelted, but is transferred
+direct from the blast furnace to the converter, a practice which
+originated at Terre-Noire, and was long considered in this country to
+be incompatible with uniformity in the quality of the steel produced.

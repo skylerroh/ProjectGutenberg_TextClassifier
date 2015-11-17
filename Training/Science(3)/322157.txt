@@ -1,0 +1,277 @@
+present only a few determinations are known), for which stars if amounts
+to nearly two magnitudes. So much fainter is a red star on a
+photographic plate than when observed with the eye.
+
+_The difference between the photographic and the visual magnitudes is
+called the colour-index (_c_)._ The correlation between this index and
+the spectral-index is found to be rather high (_r_ = +0.96). In L. M.
+II, 19 I have deduced the following tables giving the spectral-type
+corresponding to a given colour-index, and inversely.
+
+TABLE 1.
+
+_GIVING THE MEAN COLOUR-INDEX CORRESPONDING TO A GIVEN SPECTRAL TYPE OR
+SPECTRAL INDEX._
+
++-------------------+----------------+
+|   Spectral        |  Colour-index  |
+| type  |   index   |                |
++-------+-----------+----------------+
+|  B0   |   -1.0    |    -0.46       |
+|  B5   |   -0.5    |    -0.23       |
+|  A0   |    0.0    |     0.00       |
+|  A5   |   +0.5    |    +0.23       |
+|  F0   |   +1.0    |    +0.46       |
+|  F5   |   +1.5    |    +0.69       |
+|  G0   |   +2.0    |    +0.92       |
+|  G5   |   +2.5    |    +1.15       |
+|  K0   |   +3.0    |    +1.38       |
+|  K5   |   +3.5    |    +1.61       |
+|  M0   |   +4.0    |    +1.84       |
++-------+-----------+----------------+
+
+TABLE 1*.
+
+_GIVING THE MEAN SPECTRAL INDEX CORRESPONDING TO A GIVEN COLOUR-INDEX._
+
++----------------+-------------------+
+| Colour-index   |      Spectral     |
+|                | index   |   type  |
++----------------+---------+---------+
+|                |         |         |
+|     -0.4       | -0.70   |   B3    |
+|     -0.2       | -0.80   |   B7    |
+|      0.0       | +0.10   |   A1    |
+|     +0.2       | +0.50   |   A5    |
+|     +0.4       | +0.90   |   A9    |
+|     +0.6       | +1.30   |   F3    |
+|     +0.8       | +1.70   |   F7    |
+|     +1.0       | +2.10   |   G1    |
+|     +1.2       | +2.50   |   G5    |
+|     +1.4       | +2.90   |   G9    |
+|     +1.6       | +3.30   |   K3    |
+|     +1.8       | +3.70   |   K7    |
+|     +2.0       | +4.10   |   M1    |
++----------------+---------+---------+
+
+From each catalogue of visual magnitudes of the stars we may obtain
+their photographic magnitude through adding the colour-index. This may
+be considered as known (taking into account the high coefficient of
+correlation between _s_ and _c_) as soon as we know the spectral type of
+the star. We may conclude directly that the number of stars having a
+photographic magnitude brighter than 6.0 is considerably smaller than
+the number of stars visually brighter than this magnitude. There are,
+indeed, 4701 stars for which _m_ < 6.0 and 2874 stars having _m'_ < 6.0.
+
+
+16. _Radial velocity of the stars._ From the values of [alpha] and
+[delta] at different times we obtain the components of the proper
+motions of the stars perpendicular to the line of sight. The third
+component (_W_), in the radial direction, is found by the DOPPLER
+principle, through measuring the displacement of the lines in the
+spectrum, this displacement being towards the red or the violet
+according as the star is receding from or approaching the observer.
+
+The velocity _W_ will be expressed in siriometers per stellar year
+(sir./st.) and alternately also in km./sec. The rate of conversion of
+these units is given in Sec.5.
+
+
+17. Summing up the remarks here given on the apparent attributes of the
+stars we find them referred to the following principal groups:--
+
+I. _The position of the stars_ is here generally given in galactic
+longitude (_l_) and latitude (_b_). Moreover their equatorial
+coordinates ([alpha] and [delta]) are given in an abridged notation
+([alpha][delta]), where the first four numbers give the right ascension
+in hours and minutes and the last two numbers give the declination in
+degrees, the latter being printed in italics if the declination is
+negative.
+
+Eventually the position is given in galactic squares, as defined in Sec.2.
+
+II. _The apparent motion of the stars_ will be given in radial
+components (_W_) expressed in sir./st. and their motion perpendicular to
+the line of sight. These components will be expressed in one component
+(_u_0_) parallel to the galactic plane, and one component (_v_0_)
+perpendicular to it. If the distance (_r_) is known we are able to
+convert these components into components of the linear velocity
+perpendicular to the line of sight (_U_ and _V_).
+
+III. _The intensity of the light_ of the stars is expressed in
+magnitudes. We may distinguish between the _apparent_ magnitude (_m_)
+and the _absolute_ magnitude (_M_), the latter being equal to the value
+of the apparent magnitude supposing the star to be situated at a
+distance of one siriometer.
+
+The apparent magnitude may be either the _photographic_ magnitude
+(_m'_), obtained from a photographic plate, or the _visual_ magnitude
+(_m_) obtained with the eye.
+
+The difference between these magnitudes is called the _colour-index_
+(_c_ = _m'_-_m_).
+
+IV. _The characteristics of the stellar radiation_ are the mean
+wave-length ([lambda]_0) and the dispersion ([sigma]) in the
+wave-length. _The mean wave-length_ may be either directly determined
+(perhaps as _effective_ wave-length) or found from the spectral type
+(spectral index) or from the colour-index.
+
+There are in all eight attributes of the stars which may be found from
+the observations:--the spherical position of the star (_l_, _b_), its
+distance (_r_), proper motion (_u_0_ and _v_0_), radial velocity (_W_),
+apparent magnitude (_m_ or _m'_), absolute magnitude (_M_), spectral
+type (_Sp_) or spectral index (_s_), and colour-index (_c_). Of these
+the colour-index, the spectral type, the absolute magnitude and also (to
+a certain degree) the radial velocity may be considered as independent
+of the place of the observer and may therefore be considered not as only
+apparent but also as _absolute_ attributes of the stars.
+
+Between three of these attributes (_m_, _M_ and _r_) a mathematical
+relation exists so that one of them is known as soon as the other two
+have been found from observations.
+
+FOOTNOTES:
+
+[Footnote 1: Meddelanden fran Lunds Observatorium, No. 41.]
+
+[Footnote 2: Meddelanden fran Lunds Astronomiska Observatorium, Serie
+II, No. 14.]
+
+[Footnote 3: Annals of the Harvard Observatory, vol. 50.]
+
+[Footnote 4: In order to deduce from _M_ the apparent magnitude at a
+distance corresponding to a parallax of 1" we may subtract 3m.48. To
+obtain the magnitude corresponding to a parallax of 0".1 we may add
+1.57. The latter distance is chosen by some writers on stellar
+statistics.]
+
+[Footnote 5: The best colour-scale of the latter sort seems to be that
+of OSTHOFF.]
+
+[Footnote 6: Compare H. A. 50 and H. A. 56 and the remarks in L. M. II,
+19.]
+
+
+
+
+CHAPTER II.
+
+SOURCES OF OUR PRESENT KNOWLEDGE OF THE STARS.
+
+
+18. In this chapter I shall give a short account of the publications in
+which the most complete information on the attributes of the stars may
+be obtained, with short notices of the contents and genesis of these
+publications. It is, however, not my intention to give a history of
+these researches. We shall consider more particularly the questions
+relating to the position of the stars, their motion, magnitude, and
+spectra.
+
+
+19. _Place of the stars._ _Durchmusterungs._ The most complete data on
+the position of the stars are obtained from the star catalogues known as
+"Durchmusterungs". There are two such catalogues, which together cover
+the whole sky, one--visual--performed in Bonn and called the _Bonner
+Durchmusterung_ (B. D.), the other--photographic--performed in Cape _The
+Cape Photographic Durchmusterung_ (C. P. D.). As the first of these
+catalogues has long been--and is to some extent even now--our principal
+source for the study of the sky and is moreover the first enterprise of
+this kind, I shall give a somewhat detailed account of its origin and
+contents, as related by ARGELANDER in the introduction to the B. D.
+
+B. D. was planned and performed by the Swedish-Finn ARGELANDER (born in
+Memel 1799). A scholar of BESSEL he was first called as director in Abo,
+then in Haelsingfors, and from there went in 1836 to Bonn, where in the
+years 1852 to 1856 he performed this great _Durchmusterung_. As
+instrument he used a FRAUENHOFER comet-seeker with an aperture of 76 mm,
+a focal length of 650 mm, and 10 times magnifying power. The field of
+sight had an extension of 6 deg..
+
+In the focus of the objective was a semicircular piece of thin glass,
+with the edge (= the diameter of the semicircle) parallel to the circle
+of declination. This edge was sharply ground, so that it formed a
+narrow dark line perceptible at star illumination. Perpendicular to this
+diameter (the "hour-line") were 10 lines, at each side of a middle line,
+drawn at a distance of 7'. These lines were drawn with black oil colour
+on the glass.
+
+The observations are performed by the observer A and his assistant B. A
+is in a dark room, lies on a chair having the eye at the ocular and can
+easily look over 2 deg. in declination. The assistant sits in the room
+below, separated by a board floor, at the _Thiede_ clock.
+
+From the beginning of the observations the declination circle is fixed
+at a certain declination (whole degrees). All stars passing the field at
+a distance smaller than one degree from the middle line are observed.
+Hence the name "Durchmusterung". When a star passes the "hour line" the
+magnitude is called out by A, and noted by B together with the time of
+the clock. Simultaneously the declination is noted by A in the darkness.
+On some occasions 30 stars may be observed in a minute.
+
+The first observation was made on Febr. 25, 1852, the last on March 27,
+1859. In all there were 625 observation nights with 1841 "zones". The
+total number of stars was 324198.
+
+The catalogue was published by ARGELANDER in three parts in the years
+1859, 1861 and 1862[7] and embraces all stars between the pole and 2 deg.
+south of the equator brighter than 9m.5, according to the scale of
+ARGELANDER (his aim was to register all stars up to the 9th magnitude).
+To this scale we return later. The catalogue is arranged in accordance
+with the declination-degrees, and for each degree according to the right
+ascension. Quotations from B. D. have the form B. D. 23 deg..174, which
+signifies: Zone +23 deg., star No. 174.
+
+ARGELANDER's work was continued for stars between [delta] = -2 deg. and
+[delta] = -23 deg. by SCHOeNFELD, according to much the same plan, but with a
+larger instrument (aperture 159 mm, focal length 1930 mm, magnifying
+power 26 times). The observations were made in the years 1876 to 1881
+and include 133659 stars.[8]
+
+The positions in B. D. are given in tenths of a second in right
+ascension and in tenths of a minute in declination.
+
+
+20. _The Cape Photographic Durchmusterung_[9] (C. P. D.). This embraces
+the whole southern sky from -18 deg. to the south pole. Planned by GILL, the
+photographs were taken at the Cape Observatory with a DALLMEYER lens
+with 15 cm. aperture and a focal-length of 135 cm. Plates of 30 x 30 cm.
+give the coordinates for a surface of 5 x 5 square degrees. The
+photographs were taken in the years 1885 to 1890. The measurements of
+the plates were made by KAPTEYN in Groningen with a "parallactic"
+measuring-apparatus specially constructed for this purpose, which
+permits of the direct obtaining of the right ascension and the
+declination of the stars. The measurements were made in the years 1886
+to 1898. The catalogue was published in three parts in the years 1896 to
+1900.
+
+The positions have the same accuracy as in B. D. The whole number of
+stars is 454875. KAPTEYN considers the catalogue complete to at least
+the magnitude 9m.2.
+
+In the two great catalogues B. D. and C. P. D. we have all stars
+registered down to the magnitude 9.0 (visually) and a good way below
+this limit. Probably as far as to 10m.
+
+A third great Durchmusterung has for some time been in preparation at
+Cordoba in Argentina.[10] It continues the southern zones of SCHOeNFELD
+and is for the present completed up to 62 deg. southern declination.
+
+All these Durchmusterungs are ultimately based on star catalogues of
+smaller extent and of great precision. Of these catalogues we shall not
+here speak (Compare, however, Sec.23).
+
+A great "Durchmusterung", that will include all stars to the 11th
+magnitude, has for the last thirty years been in progress at different
+observatories proposed by the congress in Paris, 1888. The observations
+proceed very irregularly, and there is little prospect of getting the
+work finished in an appreciable time.
+
+
+21. _Star charts._ For the present we possess two great photographic
+star charts, embracing the whole heaven:--The _Harvard Map_ (H. M.) and
+the _FRANKLIN-ADAMS Charts_ (F. A. C.).
+
+_The Harvard Map_, of which a copy (or more correctly two copies) on
+glass has kindly been placed at the disposal of the Lund Observatory by
+Mr. PICKERING, embraces all stars down to the 11th magnitude. It

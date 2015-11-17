@@ -1,0 +1,894 @@
+similar instrument had already for some years been in its place at
+Pulkowa. It was long before the possibility of surpassing these
+masterpieces of German skill presented itself to any optician. For
+fifteen years it seemed as if a line had been drawn just there. It was
+first transgressed in America. A portrait-painter of Cambridgeport,
+Massachusetts, named Alvan Clark, had for some time amused his leisure
+with grinding lenses, the singular excellence of which was discovered in
+England by Mr. Dawes in 1853.[1632] Seven years passed, and then an
+order came from the University of Mississippi for an object-glass of the
+unexampled size of eighteen inches. An experimental glance through it to
+test its definition resulted, as we have seen, in the detection of the
+companion of Sirius, January 31, 1862. It never reached its destination
+in the South. War troubles supervened, and it was eventually sent to
+Chicago, where it served Professor Hough in his investigations of
+Jupiter, and Mr. Burnham in his scrutiny of double stars.
+
+The next step was an even longer one, and it was again taken by a
+self-taught optician, Thomas Cooke, the son of a shoemaker at
+Allerthorpe, in the East Riding of Yorkshire. Mr. Newall of Gateshead
+ordered from him in 1863 a 25-inch object-glass. It was finished early
+in 1868, but at the cost of shortening the life of its maker, who died
+October 19, 1868, before the giant refractor he had toiled at for five
+years was completely mounted. This instrument, the fine qualities of
+which had long been neutralized by an unfavourable situation, was
+presented by Mr. Newall to the University of Cambridge, a few weeks
+before his death, April 21, 1889. Under the care of his son, Mr. Frank
+Newall, it has proved highly efficient in the delicate work of measuring
+stellar radial motions.
+
+Close upon its construction followed that of the Washington 26-inch, for
+which twenty thousand dollars were paid to Alvan Clark. The most
+illustrious point in its career, entered upon in 1873, has been the
+discovery of the satellites of Mars. Once known to be there, these were,
+indeed, found to be perceptible with very moderate optical means (Mr.
+Wentworth Erck saw Deimos with a 7-inch Clark); but the first detection
+of such minute objects is a feat of a very different order from their
+subsequent observation. Dr. See's perception with this instrument, in
+1899, of Neptune's cloud-belts, and his refined series of micrometrical
+measures of the various planets, attest the unimpaired excellence of its
+optical qualities.
+
+It held the primacy for more than eight years. Then, in December, 1880,
+the place of honour had to be yielded to a 27-inch achromatic, built by
+Howard Grubb (son and successor of Thomas Grubb) for the Vienna
+Observatory. This, in its turn, was surpassed by two of respectively
+29-1/2 and 30 inches, sent by Gautier of Paris to Nice, and by Alvan
+Clark to Pulkowa; and an object-glass, three feet in diameter, was in
+1886 successfully turned out by the latter firm for the Lick Observatory
+in California. The difficulties, however, encountered in procuring discs
+of glass of the size and purity required for this last venture seemed to
+indicate that a term to progress in this direction was not far off. The
+flint was, indeed, cast with comparative ease in the workshops of M.
+Feil at Paris. The flawless mass weighed 170 kilogrammes, was over 38
+inches across, and cost 10,000 dollars. But with the crown part of the
+designed achromatic combination things went less smoothly. The
+production of a perfect disc was only achieved after _nineteen_
+failures, involving a delay of more than two years; and the glass for a
+third lens, designed to render the telescope available at pleasure for
+photographic purposes, proved to be strained, and consequently went to
+pieces in the process of grinding. It has been replaced by one of 33
+inches, with which a series of admirable lunar and other photographs
+have been taken.
+
+Nor is the difficulty in obtaining suitable material the only obstacle
+to increasing the size of refractors. The "secondary spectrum," as it is
+called, also interposes a barrier troublesome to surmount. True
+achromatism cannot be obtained with ordinary flint and crown-glass; and
+although in lenses of "Jena glass," outstanding colour is reduced to
+about one-sixth its usual amount, their term of service is fatally
+abridged by rapid deterioration. Nevertheless, a 13-inch objective of
+the new variety was mounted at Koenigsberg in 1898; and discs of Jena
+crown and flint, 23 inches across, were purchased by Brashear at the
+Chicago Exhibition of 1893. An achromatic combination of three kinds of
+glass, devised by Mr. A. Taylor[1633] for Messrs. Cooke of York, has
+less serious drawbacks, but has not yet come into extensive use.
+Meanwhile, in giant telescopes affected to the full extent by chromatic
+aberration, such as the Lick and Yerkes refractors, the differences of
+focal length for the various colours are counted by inches,[1634] and
+this not through any lack of skill in the makers, but by the necessity
+of the case. Embarrassing consequences follow. Only a small part of the
+spectrum of a heavenly body, for instance, can be distinctly seen at one
+time; and a focal adjustment of half an inch is required in passing from
+the observation of a planetary nebula to that of its stellar nucleus. A
+refracting telescope loses, besides, one of its chief advantages over a
+reflector when its size is increased beyond a certain limit. That
+advantage is the greater luminosity of the images given by it.
+Considerably more light is transmitted through a glass lens than is
+reflected from an equal metallic surface. But only so long as both are
+of moderate dimensions. For the glass necessarily grows in thickness as
+its area augments, and consequently stops a larger percentage of the
+rays it refracts. So that a point at length arrives--fixed by the late
+Dr. Robinson at a diameter a little short of 3 feet[1635]--where the
+glass and the metal are, in this respect, on an equality; while above it
+the metal has the advantage. And since silvered glass gives back
+considerably more light than speculum metal, the stage of equalisation
+with lenses is reached proportionately sooner where this material is
+employed.[1636]
+
+The most distinctive faculty of reflectors, however, is that of bringing
+rays of all refrangibilities to a focus together. They are naturally
+achromatic. None of the beams they collect are thrown away in
+colour-fringes, obnoxious both in themselves and as a waste of the chief
+object of astrophysicists' greed--light. Reflectors, then, are in this
+respect specially adapted to photographic and spectrographic use. But
+they have a countervailing drawback. The penalties imposed by bigness
+are for them peculiarly heavy. Perfect definition becomes with
+increasing size, more and more difficult to attain; once attained, it
+becomes more and more difficult to keep. For the huge masses of material
+employed to form great object-glasses or mirrors tend with every
+movement to become deformed by their own weight. Now, the slightest
+bending of a mirror is fatal to its performance, the effect being
+doubled by reflection; while in a lens alteration of figure is
+compensated by the equal and contrary flexures of the opposing surfaces,
+so that the emergent beams pursue much the same paths as if the curves
+of the refracting medium had remained theoretically perfect. For this
+reason work of precision must remain the province of refracting
+telescopes, although great reflectors retain the primacy in the
+portraiture of the heavenly bodies, as well as in certain branches of
+spectroscopy. Professor Hale, accordingly, summarised a valuable
+discussion on the subject by asserting[1637] "that the astrophysicist
+may properly consider the reflector to be an even more important part of
+his instrumental equipment than the refractor." A new era in its
+employment west of the Atlantic opened with the transfer from Halifax to
+Mount Hamilton of the Crossley reflector. Its prerogatives in nebular
+photography were splendidly indicated in 1899 by Professor Keeler's
+exquisite and searching portrayals of the cloud-worlds of space, and
+those obtained two years later, with a similar, though smaller,
+instrument, by Professor Ritchey of the Yerkes Observatory, were fully
+comparable with them. The performances of the Yerkes 5-foot reflector
+still belong to the future.
+
+Ambition as regards telescopic power is by no means yet satisfied. Nor
+ought it to be. The advance of astrophysical researches of all kinds
+depends largely upon light-grasp. For the spectroscopic examination of
+stars, for the measurement of their motions in the line of sight, for
+the discovery and study of nebulae, for stellar and nebular photography,
+the cry continually is "more light." There is no enterprising head of an
+observatory but must feel cramped in his designs if he can command no
+more than 14 or 15 inches of aperture, and he aspires to greater
+instrumental capacity, not merely with a view to the chances of
+discovery, but for the steady prosecution of some legitimate line of
+inquiry. Thus projects of telescope-building on a large scale are rife,
+and some obtain realisation year by year. Sir Howard Grubb finished in
+1893 a 28-inch achromatic for the Royal Observatory, Greenwich; the
+Thompson equatoreal, mounted at the same establishment in 1897, carries
+on a single axis a 26-inch photographic refractor and a 30-inch
+silvered-glass reflector; the Victoria telescope, inaugurated at the
+Cape in 1901, comprises a powerful spectrographic apparatus, together
+with a chemically corrected 24-inch refractor, the whole being the
+munificent gift of Mr. Frank McClean; at Potsdam, at Meudon, at Paris,
+at Alleghany, engines for light-concentration have been, or shortly will
+be, erected of dimensions which, two generations back, would have seemed
+extravagant and impossible.
+
+Perhaps the finest, though not absolutely the greatest, among them,
+marked the summit and end of the performances of Alvan G. Clark, the
+last survivor of the Cambridgeport firm.
+
+In October, 1892, Mr. Yerkes of Chicago offered an unlimited sum for the
+provision of the University of that city with a "superlative" telescope.
+And it happened, fortunately, that a pair of glass discs, nearly 42
+inches in diameter, and of perfect quality, were ready at hand. They had
+been cast by Mantois for the University of Southern California, when the
+erection of a great observatory on Wilson's Peak was under
+consideration. In the Clark workshop they were combined into a superb
+objective, brought to perfection by trials and delicate touches
+extending over nearly five years. Then the maker accompanied it to its
+destination, by the shore of a far Western Lake Geneva, and died
+immediately after his return, June 9, 1897. Nor has the implement of
+celestial research he just lived to complete been allowed to "rust
+unburnished." Manipulated by Hale, Burnham, and Barnard, it has done
+work that would have been impracticable with less efficient optical aid.
+Its construction thus marks a noticeable enlargement of astronomical
+possibilities, exemplified--to cite one among many performances--by
+Barnard's success in keeping track of cluster-variables when below the
+common limit of visual perception.
+
+With the Lick telescope results have also been achieved testifying to
+its unsurpassed excellence. Holden's and Schaeberle's views of planetary
+nebulae, Burnham's and Hussey's hair's-breadth star-splitting operations,
+Keeler's measurements of nebular radial motion, Barnard's detections and
+prolonged pursuit of faint comets, his discovery of Jupiter's tiny moon,
+Campbell's spectroscopic determinations--all this could only have been
+accomplished, even by an exceptionally able and energetic staff, with
+the aid of an instrument of high power and quality. But there was
+another condition which should not be overlooked.
+
+The best telescope may be crippled by a bad situation. The larger it is,
+indeed, the more helpless is it to cope with atmospheric troubles. These
+are the worst plagues of all those that afflict the astronomer. No
+mechanical skill avails to neutralise or alleviate them. They augment
+with each increase of aperture; they grow with the magnifying powers
+applied. The rays from the heavenly bodies, when they can penetrate the
+cloud-veils that too often bar their path, reach us in an enfeebled,
+scattered, and disturbed condition. Hence the twinkling of stars, the
+"boiling" effects at the edges of sun, moon, and planets; hence
+distortions of bright, effacements of feeble telescopic images; hence,
+too, the paucity of the results obtained with many powerful
+light-gathering machines.
+
+No sooner had the Parsonstown telescope been built than it became
+obvious that the limit of profitable augmentation of size had, under
+climatic conditions at all nearly resembling those prevailing there,
+been reached, if not overpassed; and Lord Rosse himself was foremost to
+discern the need of pausing to look round the world for a clearer and
+stiller air than was to be found within the bounds of the United
+Kingdom. With this express object Mr. Lassell transported his 2-foot
+Newtonian to Malta in 1852, and mounted there, in 1860, a similar
+instrument of fourfold capacity, with which, in the course of about two
+years, 600 new nebulae were discovered. Professor Piazzi Smyth's
+experiences during a trip to the Peak of Teneriffe in 1856 in search of
+astronomical opportunities[1638] gave countenance to the most sanguine
+hopes of deliverance, at suitable elevated stations, from some of the
+oppressive conditions of low-level star-gazing; yet for a number of
+years nothing effectual was done for their realisation. Now, at last,
+however, mountain observatories are not only an admitted necessity but
+an accomplished fact; and Newton's long forecast of a time when
+astronomers would be compelled, by the developed powers of their
+telescopes, to mount high above the "grosser clouds" in order to use
+them,[1639] had been justified by the event.
+
+James Lick, the millionaire of San Francisco, had already chosen, when
+he died, October 1, 1876, a site for the new observatory, to the
+building and endowment of which he had devoted a part of his large
+fortune. The situation of the establishment is exceptional and splendid.
+Planted on one of the three peaks of Mount Hamilton, a crowning summit
+of the Californian Coast Range, at an elevation of 4,200 feet above the
+sea, in a climate scarce rivalled throughout the world, it commands
+views both celestial and terrestrial which the lover of nature and
+astronomy may alike rejoice in. Impediments to observation are there
+found to be most materially reduced. Professor Holden, who was
+appointed, in 1885, president of the University of California and
+director of the new observatory affiliated to it, stated that during six
+or seven months of the year an unbroken serenity prevails, and that half
+the remaining nights are clear.[1640] The power of continuous work thus
+afforded is of itself an inestimable advantage; and the high visual
+excellences testified to by Mr. Burnham's discovery, during a two
+months' trip to Mount Hamilton in the autumn of 1879, of forty-two new
+double stars with a 6-inch achromatic, gave hopes since fully realised
+of a brilliant future for the Lick establishment. Its advantages are
+shared, as Professor Holden desired them to be, by the whole
+astronomical world.[1641] A sort of appellate jurisdiction was at once
+accorded to the great equatoreal, and more than one disputed point has
+been satisfactorily settled by recourse to it.
+
+Its performances, considered both as to quality and kind, are unlikely
+to be improved upon by merely outbidding it in size, unless the care
+expended upon the selection of its site be imitated. Professor Pickering
+thus showed his customary prudence in reserving his efforts to procure a
+great telescope until Harvard College owned a dependent observatory
+where it could be employed to advantage. This was found by Mr. W. H.
+Pickering, after many experiments in Colorado, California, and Peru, at
+Arequipa, on a slope of the Andes, 8,000 feet above the sea-level. Here
+the post provided for by the "Boyden Fund" was established in 1891,
+under ideal meteorological conditions. Temperature preserves a "golden
+mean"; the barometer is almost absolutely steady; the yearly rainfall
+amounts to no more than three or four inches. No wonder, then, that the
+"seeing" there is of the extraordinary excellence attested by Mr.
+Pickering's observations. In the absence of bright moonlight, he tells
+us,[1642] eleven Pleiades can always be counted; the Andromeda nebula
+appears to the naked eye conspicuously bright, and larger than the full
+moon; third magnitude stars have been followed to their disappearance at
+the true horizon; the zodiacal light spans the heavens as a complete
+arch, the "Gegenschein" forming a regular part of the scenery of the
+heavens. Corresponding telescopic facilities are enjoyed. The chief
+instrument at the station, a 13-inch equatoreal by Clark, shows the
+fainter parts of the Orion nebula, photographed at Harvard College in
+1887, by which the dimensions given to it in Bond's drawing are doubled;
+stars are at times seen encircled by half a dozen immovable diffraction
+rings, up to twelve of which have been counted round Alpha Centauri;
+while on many occasions no available increase of magnifying power
+availed to bring out any wavering in the limbs of the planets. Moreover,
+the series of fine nights is nearly unbroken from March to November.
+
+The facilities thus offered for continuous photographic research
+rendered feasible Professor Bailey's amazing discovery of variable
+star-clusters. They belong exclusively to the "globular" class, and the
+peculiarity is most strikingly apparent in the groups known as
+Omega Centauri, and Messier 3, 5, and 15. A large number of their minute
+components run through perfectly definite cycles of change in periods
+usually of a few hours.[1643] Altogether, about 500 "cluster-variables"
+have been recorded since 1895. It should be mentioned that Mr. David
+Packer and Dr. Common discerned, about 1890, some premonitory symptoms
+of light-fluctuation among the crowded stars of Messier 5.[1644] With
+the Bruce telescope, a photographic doublet 24 inches in diameter, a
+store of 5,686 negatives was collected at Arequipa between 1896 and
+1901. Some were exposed directly, others with the intervention of a
+prism; and all are available for important purposes of detection or
+investigation.
+
+Vapours and air-currents do not alone embarrass the use of giant
+telescopes. Mechanical difficulties also oppose a formidable barrier to
+much further growth in size. But what seems a barrier often proves to be
+only a fresh starting-point; and signs are not wanting that it may be
+found so in this case. It is possible that the monumental domes and huge
+movable tubes of our present observatories will, in a few decades, be as
+much things of the past as Huygens's "aerial" telescopes. It is certain
+that the thin edge of the wedge of innovation has been driven into the
+old plan of equatoreal mounting.
+
+M. Loewy, the present director of the Paris Observatory, proposed to
+Delaunay in 1871 the direction of a telescope on a novel system. The
+design seemed feasible, and was adopted; but the death of Delaunay and
+the other untoward circumstances of the time interrupted its execution.
+Its resumption, after some years, was rendered possible by M.
+Bischoffsheim's gift of 25,000 francs for expenses, and the _coude_ or
+"bent" equatoreal has been, since 1882, one of the leading instruments
+at the Paris establishment.
+
+Its principle is briefly this: The telescope is, as it were, its own
+polar axis. The anterior part of the tube is supported at both ends, and
+is thus fixed in a direction pointing towards the pole, with only the
+power of twisting axially. The posterior section is joined on to it at
+right angles, and presents the object-glass, accordingly, to the
+celestial equator, in the plane of which it revolves. Stars in any other
+part of the heavens have their beams reflected upon the object-glass by
+means of a plane rotating mirror placed in front of it. The observer,
+meanwhile, is looking steadfastly down the bent tube towards the
+invisible _southern_ pole. He would naturally see nothing whatever were
+it not that a second plane mirror is fixed at the "elbow" of the
+instrument, so as to send the rays which have traversed the object-glass
+to his eye. He never needs to move from his place. He watches the stars,
+seated in an arm-chair in a warm room, with as perfect convenience as if
+he were examining the seeds of a fungus with a microscope. Nor is this a
+mere gain of personal ease. The abolition of hardship includes a vast
+accession of power.[1645]
+
+Among other advantages of this method of construction are, first, that
+of added stability, the motion given to the ordinary equatoreal being
+transferred, in part, to an auxiliary mirror. Next, that of increased
+focal length. The fixed part of the tube can be made almost indefinitely
+long without inconvenience, and with enormous advantage to the optical
+qualities of a large instrument. Finally, the costly and unmanageable
+cupola is got rid of, a mere shed serving all purposes of protection
+required for the "coude."
+
+The desirability of some such change as that which M. Loewy has realised
+has been felt by others. Professor Pickering sketched, in 1881, a plan
+for fixing large refractors in a permanently horizontal position, and
+reflecting into them, by means of a shifting mirror, the objects desired
+to be observed.[1646] The observations for his photometric catalogues
+are, in fact, made with a "broken transit," in which the line of sight
+remains permanently horizontal, whatever the altitude of the star
+examined. Sir Howard Grubb, moreover, set up, in 1882, a kind of
+siderostat at the Crawford Observatory, Cork. In a paper read before the
+Royal Society, January 21, 1884, he proposed to carry out the principle
+on a more extended scale;[1647] and shortly afterwards undertook its
+application to a telescope 18 inches in aperture for the Armagh
+Observatory.[1648] The chief honours, however, remain to the Paris
+inventor. None of the prognosticated causes of failure have proved
+effective. The loss of light from the double reflection is
+insignificant. The menaced deformation of images is, through the
+exquisite skill of the MM. Henry in producing plane mirrors of all but
+absolute perfection, quite imperceptible. The definition was admitted to
+be singularly good. Sir David Gill stated in 1884 that he had never
+measured a double star so easily as he did Gamma Leonis by its
+means.[1649] Sir Norman Lockyer pronounced it to be "one of the
+instruments of the future"; and the principle of its construction was
+immediately adopted by the directors of the Besancon and Algiers
+Observatories, as well as for a 17-inch telescope destined for a new
+observatory at Buenos Ayres. At Paris, it has since been carried out on
+a larger scale. A "coude," of 23-1/2 inches aperture and 62 feet focal
+length was in 1890 installed at the National Observatory, and has served
+M. Loewy for his ingenious studies on refraction and aberration--above
+all, for taking the magnificent plates of his lunar atlas. The "bent"
+form is capable of being, but has not yet been, adapted to
+reflectors.[1650]
+
+The "coelostat," in the form given to it by Professor Turner, has
+proved an invaluable adjunct to eclipse-equipments. It consists
+essentially of a mirror rotating in forty-eight hours on an axis in its
+own plane, and parallel to the earth's axis. In the field of a telescope
+kept rigidly pointed towards such a mirror, stars appear immovably
+fixed. The employment of long-focus lenses for coronal photography is
+thus facilitated, and the size of the image is proportional to the
+length of the focus. Professor Barnard, accordingly, depicted the
+totality of 1900 with a horizontal telescope 61-1/2 feet long, fed by a
+mirror 18 inches across, the diameter of the moon on his plates being 7
+inches. The largest siderostat in the world is the Paris 50-inch
+refractor, which formed the chief attraction of the Palais d'Optique at
+the Exhibition of 1900. It has a focal length of nearly 200 feet, and
+can be used either for photographic or for visual purposes.
+
+Celestial photography has not reached its grand climacteric; yet its
+earliest beginnings already seem centuries behind its present
+performances. The details of its gradual yet rapid improvement are of
+too technical a nature to find a place in these pages. Suffice it to say
+that the "dry-plate" process, with which such wonderful results have
+been obtained, appears to have been first made available by Sir William
+Huggins in photographing the spectrum of Vega in 1876, and was then
+successively adopted by Common, Draper, and Janssen. Nor should Captain
+Abney's remarkable extension of the powers of the camera be left
+unnoticed. He began his experiments on the chemical action of red and
+infra-red rays in 1874, and at length succeeded in obtaining a
+substance--the "blue" bromide of silver--highly sensitive to these
+slower vibrations of light. With its aid he explored a vast, unknown,
+and for ever invisible region of the solar spectrum, presenting to the
+Royal Society, December 5, 1879,[1651] a detailed map of its infra-red
+portion (wave-lengths 7,600 to 10,750), from which valuable inferences
+may yet be derived as to the condition of the various kinds of matter
+ignited in the solar atmosphere. Upon plates rendered "orthochromatic"
+by staining with alizarine, or other dye-stuffs, the whole visible
+spectrum can now be photographed; but those with their maximum of
+sensitiveness near G are found preferable, except where the results of
+light-analysis are sought to be completely recorded. And since
+photographic refractors are corrected for the blue rays, exposures with
+them of orthochromatic surfaces would be entirely futile.
+
+The chemical plate has two advantages over the human retina:[1652]
+First, it is sensitive to rays which are utterly powerless to produce
+any visual effect; next, it can accumulate impression almost
+indefinitely, while from the retina they fade after one-tenth part of a
+second, leaving it a continually renewed _tabula rasa_.
+
+It is, accordingly, quite possible to photograph objects so faint as to
+be altogether beyond the power of any telescope to reveal--witness the
+chemical disclosure of the invisible nebula encircling Nova Persei--and
+we may thus eventually learn whether a blank space in the sky truly
+represents the end of the stellar universe in that direction, or whether
+farther and farther worlds roll and shine beyond, veiled in the
+obscurity of immeasurable distance.
+
+Of many ingenious improvements in spectroscopic appliances the most
+fundamentally important relate to what are known as "gratings." These
+are very finely striated surfaces, by which light-waves are brought to
+interfere, and are thus sifted out, strictly according to their
+different lengths, into "normal" spectra. Since no universally valid
+measures can be made in any others, their production is quite
+indispensable to spectroscopic science. Fraunhofer, who initiated the
+study of the diffraction spectrum, used a real grating of very fine
+wires: but rulings on glass were adopted by his successors, and were by
+Nobert executed with such consummate skill that a single square inch of
+surface was made to contain 100,000 hand-drawn lines. Such rare and
+costly triumphs of art, however, found their way into very few hands,
+and practical availability was first given to this kind of instrument by
+the inventiveness and mechanical dexterity of two American
+investigators. Both Rutherfurd's and Rowland's gratings are
+machine-ruled, and reflect instead of transmitting the rays they
+analyse; but Rowland's present to them a very much larger diffractive
+surface, and consequently possess a higher resolving power. The first
+preliminary to his improvements was the production, in 1882, of a
+faultless screw, those previously in use having been the inevitable
+source of periodical errors in striation, giving, in their turn,
+ghost-lines as subjects of spectroscopic study.[1653] Their abolition
+was not one of Rowland's least achievements. With his perfected machine
+a metallic area of 6-1/4 by 4-1/4 inches can be ruled with exquisite
+accuracy to almost any degree of fineness; he considered, however,
+43,000 lines to the inch to be the limit of usefulness.[1654] The ruled
+surface is, moreover, concave, and hence brings the spectrum to a focus
+without a telescope. A slit and an eye-piece are alone needed to view
+it, and absorption of light by glass lenses is obviated--an advantage
+especially sensible in dealing with the ultra- or infra-visible rays.
+
+The high qualities of Rowland's great photographic map of the solar
+spectrum were thus based upon his previous improvement of the
+instrumental means used in its execution. The amount of detail shown in
+it is illustrated by the appearance on the negatives of 150 lines
+between H and K; and many lines depict themselves as double which, until
+examined with a concave grating, had passed for one and indivisible. A
+corresponding hand-drawing, for which M. Thollon received in 1886 the
+Lalande Prize, exhibits, not the diffractive, but the prismatic spectrum
+as obtained with bisulphide of carbon prisms of large dispersive power.
+About one-third of the visible gamut of the solar radiations (A to _b_)
+is covered by it; it includes 3,200 lines, and is over ten metres
+long.[1655] The grating is an expensive tool in the way of light. Where
+there is none to spare, its advantages must be foregone. They could not,
+accordingly, be turned to account in stellar spectroscopy until the Lick
+telescope was at hand to supply more abundant material for research. By
+the use thus made possible of Rowland's gratings, Professor Keeler was
+able to apply enormous dispersion to the rays of stars and nebulae, and
+so to attain a previously unheard-of degree of accuracy in their
+measurement. His memorable detection of nebular movement in line of
+sight ensued as a consequence. Professor Campbell, his successor, has
+since obtained, by the same means, the first satisfactory photographs of
+stellar diffraction-spectra.
+
+The means at the disposal of astronomers have not multiplied faster than
+the tasks imposed upon them. Looking back to the year 1800, we cannot
+fail to be astonished at the change. The comparatively simple and serene
+science of the heavenly bodies known to our predecessors, almost perfect
+so far as it went, incurious of what lay beyond its grasp, has developed
+into a body of manifold powers and parts, each with its separate mode
+and means of growth, full of strong vitality, but animated by a restless
+and unsatisfied spirit, haunted by the sense of problems unsolved, and
+tormented by conscious impotence to sound the immensities it perpetually
+confronts.
+
+Knowledge might be said, when the _Mecanique Celeste_ issued from the
+press, to be bounded by the solar system; but even the solar system
+presented itself under an aspect strangely different from what it now
+wears. It consisted of the sun, seven planets, and twice as many
+satellites, all circling harmoniously in obedience to a universal law,
+by the compensating action of which the indefinite stability of their
+mutual relations was secured. The occasional incursion of a comet, or
+the periodical presence of a single such wanderer chained down from
+escape to outer space by planetary attraction, availed nothing to impair
+the symmetry of the majestic spectacle.
+
+Now, not alone the ascertained limits of the system have been widened by
+a thousand millions of miles, with the addition of one more giant planet
+and seven satellites to the ancient classes of its members, but a
+complexity has been given to its constitution baffling description or
+thought. Five hundred circulating planetary bodies bridge the gap
+between Jupiter and Mars, the complete investigation of the movements of
+any one of which would overtask the energies of a lifetime. Meteorites,
+strangers, apparently, to the fundamental ordering of the solar
+household, swarm, nevertheless, by millions in every cranny of its
+space, returning at regular intervals like the comets so singularly
+associated with them, or sweeping across it with hyperbolic velocities,
+brought, perhaps, from some distant star. And each of these cosmical
+grains of dust has a theory far more complex than that of Jupiter; it
+bears within it the secret of its origin, and fulfils a function in the
+universe. The sun itself is no longer a semi-fabulous, fire-girt globe,
+but the vast scene of the play of forces as yet imperfectly known to us,
+offering a boundless field for the most arduous and inspiring
+researches. Among the planets the widest variety in physical habitudes
+is seen to prevail, and each is recognised as a world apart, inviting
+inquiries which, to be effective, must necessarily be special and
+detailed. Even our own moon threatens to break loose from the trammels
+of calculation, and commits "errors" which sap the very foundations of
+the lunar theory, and suggest the formidable necessity for its complete
+revision. Nay, the steadfast earth has forfeited the implicit confidence
+placed in it as a time-keeper, and questions relating to the stability
+of the earth's axis and the constancy of the earth's rate of rotation
+are among those which it behoves the future to answer. Everywhere there
+is multiformity and change, stimulating a curiosity which the rapid
+development of methods of research offers the possibility of at least
+partially gratifying.
+
+Outside the solar system, the problems which demand a practical solution
+are virtually infinite in number and extent. And these have all arisen
+and crowded upon our thoughts within less than a hundred years. For
+sidereal science became a recognised branch of astronomy only through
+Herschel's discovery of the revolutions of double stars in 1802. Yet
+already it may be, and has been called, "the astronomy of the future,"
+so rapidly has the development of a keen and universal interest attended
+and stimulated the growth of power to investigate this sublime subject.
+What has been done is little--is scarcely a beginning; yet it is much in
+comparison with the total blank of a century past. And our knowledge
+will, we are easily persuaded, appear in turn the merest ignorance to
+those who come after us. Yet it is not to be despised, since by it we
+reach up groping fingers to touch the hem of the garment of the Most
+High.
+
+
+FOOTNOTES:
+
+[Footnote 1630: _Comptes Rendus_, t. xliv., p. 339.]
+
+[Footnote 1631: A. A. Common, _Memoirs R. Astr. Soc._, vol. i., p. 118.]
+
+[Footnote 1632: Newcomb, _Pop. Astr._, p. 137.]
+
+[Footnote 1633: _Month. Not._, vol. liv., p. 67.]
+
+[Footnote 1634: Keeler, _Publ. Astr. Pac. Soc._, vol. ii., p. 160.]
+
+[Footnote 1635: H. Grubb, _Trans. Roy. Dub. Soc._, vol. i. (new ser.),
+p. 2.]
+
+[Footnote 1636: Hale, nevertheless (_Astroph. Jour._, vol. v., p. 128),
+considers that refractors preserve their superiority of visual
+light-grasp over Newtonian reflectors up to an aperture of 52-1/2, while
+equalisation is reached for the photographic rays at 34 inches.]
+
+[Footnote 1637: _Astroph. Jour._, vol. v., p. 130.]
+
+[Footnote 1638: _Phil. Trans._, vol. cxlviii., p. 465.]
+
+[Footnote 1639: _Optics_, p. 107 (2nd ed., 1719).]
+
+[Footnote 1640: _Observatory_, vol. viii., p. 85.]
+
+[Footnote 1641: Holden on Celestial Photography, _Overland Monthly_,
+Nov., 1886.]
+
+[Footnote 1642: _Observatory_, vol. xv., p. 283.]
+
+[Footnote 1643: Bailey, _Astroph. Jour._, vol. x., p. 255.]
+
+[Footnote 1644: _Harvard Circulars_, Nos. 2, 18, 24, 33;]
+
+[Footnote 1645: Loewy, _Bull. Astr._, t. i., p. 286; _Nature_, vol.
+xxix., p. 36.]
+
+[Footnote 1646: _Nature_, vol. xxiv., p. 389.]
+
+[Footnote 1647: _Ibid._, vol. xxix., p. 470.]
+
+[Footnote 1648: _Trans. R. Dublin Soc._, vol. iii., p. 61.]
+
+[Footnote 1649: _Observatory_, vol. vii., p. 167.]
+
+[Footnote 1650: Loewy, _Bull. Astr._, t. i., p. 265.]
+
+[Footnote 1651: _Phil. Trans._, vol. clxxi., p. 653.]
+
+[Footnote 1652: Janssen, _L'Astronomie_, t. ii., p. 121.]
+
+[Footnote 1653: Rev. A. L. Cortie, _Astr. and Astrophysics_, vol. xi.,
+p. 400.]
+
+[Footnote 1654: _Phil. Mag._, vol. xiii., 1882, p. 469.]
+
+[Footnote 1655: _Bull. Astr._, t. iii., p. 331.]
+
+
+
+
+
+                               APPENDIX
+
+
+                                TABLE I
+
+                          CHRONOLOGY, 1774-1893
+
+  1774, March 4    Herschel's first observation. Subject, the Orion Nebula.
+  1774             Sun-spots geometrically proved to be depressions by
+                     Wilson.
+  1774             First experimental determination of the earth's mean
+                     density by Maskelyne.
+  1781, March 13   Discovery of Uranus.
+  1782             Herschel's first Catalogue of Double Stars.
+  1783             Herschel's first investigation of the sun's movement
+                     in space.
+  1783             Goodricke's discovery of Algol's law of variation.
+  1784             Analogy between Mars and the Earth pointed out by
+                     Herschel.
+  1784             Construction of the Heavens investigated by Herschel's
+                     method of star-gauging. "Cloven-disc" plan of the
+                     Milky Way.
+  1784             Discovery of binary stars anticipated by Michell.
+  1786             Herschel's first Catalogue of Nebulae.
+  1787, Jan. 11    Discovery by Herschel of two Uranian moons
+                  (Oberon and Titania).
+  1787, Nov. 19    Acceleration of the moon explained by Laplace.
+  1789             Herschel's second Catalogue of Nebulae, and
+                     classification by age of these objects.
+  1789             Completion of Herschel's forty-foot reflector.
+  1789, Aug. 28    His discovery with it of the two inner Saturnian
+   and Sept. 17      satellites.
+  1789             Repeating-circle invented by Borda.
+  1789             Five-foot circle constructed by Ramsden for Piazzi.
+  1790             Maskelyne's Catalogue of thirty-six fundamental stars.
+  1791             Herschel propounds the hypothesis of a fluid
+                     constitution for nebulae.
+  1792             Atmospheric refraction in Venus announced by Schroeter.
+  1794             Rotation-period of Saturn fixed by Herschel at 10h. 16m.
+  1795             Herschel's theory of the solar constitution.
+  1796             Herschel's first measures of comparative stellar
+                     brightness.
+  1796             Laplace's Nebular Hypothesis published in _Exposition
+                     du Systeme du Monde_.
+  1797             Publication of Olbers's method of computing
+                     cometary orbits.
+  1798             Retrograde motions of Uranian satellites detected
+                     by Herschel.
+  1799             Publication of first two volumes of _Mecanique Celeste_.
+  1799, May 7      Transit of Mercury observed by Schroeter.
+  1799, Nov. 12    Star-shower observed by Humboldt at Cumana.
+  1800             _Monatliche Correspondenz_ started by Von Zach.
+  1800             Invisible heat-rays detected in the solar spectrum
+                     by Herschel.
+  1801, Jan. 1     Discovery of Ceres by Piazzi.
+  1801             Publication of Lalande's _Histoire Celeste_.
+  1801             Investigation by Herschel of solar emissive variability
+                     in connection with spot-development.
+  1802, March 28   Discovery of Pallas by Olbers.
+  1802             Herschel's third Catalogue of Nebulae.
+  1802             Herschel's discovery of binary stars.
+  1802             Marks of clustering in the Milky Way noted by Herschel.
+  1802             Wollaston records seven dark lines in the solar
+                     spectrum.
+  1802, Nov. 9     Transit of Mercury observed by Herschel.
+  1804, Sept. 2    Discovery of Juno by Harding.
+  1804             Foundation of Optical Institute at Munich.
+  1805             Herschel's second determination of the solar apex.
+  1807, March 29   Discovery of Vesta by Olbers.
+  1811             Herschel's theory of the development of stars from
+                     nebulae.
+  1811, Feb. 9     Death of Maskelyne. Pond appointed to succeed him
+                     as Astronomer-Royal.
+  1811, Sept. 12   Perihelion passage of great comet.
+  1812             Theory of electrical repulsion in comets originated
+                     by Olbers.
+  1812, Sept. 15   Perihelion passage of Pons's comet.
+  1814             Herschel demonstrates the irregular distribution of
+                     stars in space.
+  1815             Fraunhofer maps 324 dark lines in the solar spectrum.
+  1818             Publication of Bessel's _Fundamenta Astronomiae_.
+  1819             Recognition by Encke of the first short-period comet.
+  1819, June 26    Passage of the earth through the tail of a comet.
+  1820             Foundation of the Royal Astronomical Society.
+  1821             Foundation of Paramatta Observatory.
+  1821, September  First number of _Astronomische Nachrichten_.
+  1822, May 24     First calculated return of Encke's comet.
+  1822, August 25  Death of Herschel.
+  1823             Bessel introduces the correction of observations for
+                     personal equation.
+  1823             Fraunhofer examines the spectra of fixed stars.
+  1824             Distance of the sun concluded by Encke to be
+                     95-1/4 million miles.
+  1824             Publication of Lohrmann's Lunar Chart.
+  1824             Dorpat refractor mounted equatoreally.
+  1826             Commencement of Schwabe's observations of sun-spots.
+  1826, Feb. 27    Biela's discovery of a comet.
+  1827             Orbit of a binary star calculated by Savary.
+  1829             Completion of the Royal Observatory at the Cape of
+                     Good Hope.
+  1829             The Koenigsberg heliometer mounted.
+  1830             Publication of Bessel's _Tabulae Regiomontanae_.
+  1832             Discovery by Brewster of "atmospheric lines" in the
+                     solar spectrum.
+  1833             Magnetic observatory established at Gottingen.
+  1833, Nov. 12,13 Star-shower visible in North America.
+  1833             Completion of Sir J. Herschel's survey of the northern
+                     heavens.
+  1834, Jan. 16    Sir J. Herschel's landing at the Cape.
+  1835, September  Airy appointed Astronomer-Royal in succession to Pond.
+  1835, Nov. 16    Perihelion passage of Halley's comet.
+  1837             Solar movement determined by Argelander.
+  1837             Bessel's application of the heliometer to measurements
+                    of stellar parallax.
+  1837             Publication of Beer and Maedler's _Der Mond_.
+  1837             Publication of Struve's _Mensurae Micrometricae_.
+  1837, Dec. 16    Outburst of Eta Carinae observed by Sir J. Herschel.
+  1837             Thermal power of the sun measured by Herschel and
+                     Pouillet.
+  1838             Parallax of 61 Cygni determined by Bessel.
+  1839, Jan. 9     Parallax of Alpha Centauri announced by Henderson.
+  1839             Completion of Pulkowa Observatory.
+  1839             Solidity of the earth concluded by Hopkins.
+  1840, March 2    Death of Olbers.
+  1840             First attempt to photograph the moon by J. W. Draper.
+  1842             Doppler enounces principle of colour-change by motion.
+  1842             Conclusion of Baily's experiments in weighing the Earth.
+  1842, July 8     Total solar eclipse. Corona and prominences observed
+                     by Airy, Baily, Arago, and Struve.
+  1843, Feb. 27    Perihelion-passage of great comet.
+  1845, February   Completion of Parsonstown reflector.
+  1845, April      Discovery with it of spiral nebulae.
+  1845, April 2    Daguerreotype of the sun taken by Foucault and Fizeau.
+  1845, Oct. 21    Place of Neptune assigned by Adams.
+  1845, Dec. 8     Discovery of Astraea by Hencke.
+  1845, Dec. 29    Duplication of Biela's comet observed at Yale College.
+  1846             Melloni's detection of heating effects from moonlight.
+  1846, March 17   Death of Bessel.
+  1846, Sept. 23   Discovery of Neptune by Galle.
+  1846, Oct. 10    Neptune's satellite discovered by Lassell.
+  1847             Publication of Sir J. Herschel's _Results of
+                     Observations at the Cape of Good Hope_.
+  1847             Cyclonic theory of sun-spots stated by him.
+  1848             J. R. Mayer's meteoric hypothesis of solar conservation.
+  1848             Motion-displacements of Fraunhofer lines adverted to
+                     by Fizeau.
+  1848, April 27   New Star in Ophiuchus observed by Hind.
+  1848, Sept. 19   Simultaneous discovery of Hyperion by Bond and Lassell.
+  1849             First experimental determination of the velocity of
+                     light (Fizeau).
+  1850, July 17    Vega photographed at Harvard College.
+  1850, Nov. 15    Discovery by Bond of Saturn's dusky ring.
+  1851             O. Struve's first measurements of Saturn's ring-system
+  1851, July 28    Total solar eclipse observed in Sweden.
+  1851, Oct. 24    Discovery by Lassell of two inner Uranian satellites.
+  1851             Schwabe's discovery of sun-spot periodicity published by
+                     Humboldt.
+  1852, May 6      Coincidence of magnetic and sun-spot periods announced
+                     by Sabine.
+  1852, Oct. 11    Variable nebula in Taurus discovered by Hind.
+  1852             Lassell's two-foot reflector transported to Malta.
+  1853             Adams shows Laplace's explanation of the moon's
+                     acceleration to be incomplete.
+  1854             Hansen infers from lunar theory a reduced value for
+                     the distance of the sun.
+  1854             Helmholtz's "gravitation theory" of solar energy.
+  1856             Piazzi Smyth's observations on the Peak of Teneriffe.
+  1857             Saturn's rings shown by Clerk Maxwell to be of meteoric
+                     formation.
+  1857, April 27   Double-star photography initiated at Harvard College.
+  1858             Solar photography begun at Kew.
+  1858, Sept. 30   Perihelion of Donati's comet.
+  1859             Spectrum analysis established by Kirchhoff and Bunsen.
+  1859             Carrington's discovery of the compound nature of the
+                     sun's rotation.
+  1859, Sept. 1    Luminous solar outburst and magnetic storm.
+  1859, Oct. 19    Merope nebula discovered by Tempel.
+  1859, Dec. 15    Chemical constitution of the sun described by Kirchhoff.
+  1860, Feb. 27    Discovery by Liais of a "double comet."
+  1860, May 21     New star in Scorpio detected by Auwers.
+  1860, July 18    Total solar eclipse observed in Spain. Prominences
+                     shown by photography to be solar appendages.
+  1861, June 30    The earth involved in the tail of a great comet.
+  1861-1862        Kirchhoff's map of the solar spectrum.
+  1862             Solar hydrogen-absorption recognised by Angstrom.
+  1862, Jan. 31    Discovery by Alvan G. Clark of the companion of Sirius.
+  1862             Foucault determines the sun's distance by the velocity
+                     of light.
+  1862             Opposition of Mars. Determination of solar parallax.
+  1862             Completion of _Bonner Durchmusterung_.
+  1863             Secchi's classification of stellar spectra.
+  1863             Foundation of the German Astronomical Society.
+  1864, March 5    Rotation period of Mars determined by Kaiser.
+  1864             Huggins's first results in stellar spectrum analysis.
+  1864, Aug. 5     Spectroscopic examination of Tempel's comet by
+                     Donati shows it to be composed of glowing gas.
+  1864, Aug. 29    Discovery by Huggins of gaseous nebulae.
+  1864             Value of 91,000,000 miles adopted for the sun's
+                     distance.
+  1864             Croll's explanation of glacial epochs.
+  1864, Nov. 23    Death of Struve.
+  1865, Jan. 4     Spectroscopic observation by Huggins of the occultation
+                     of Eta Piscium.
+  1865, Jan. 16    Faye's theory of the solar constitution.
+  1865             Kew results published.
+  1865             Zoellner argues for a high temperature in the great
+                     planets.
+  1866             Identity of the orbits of the August meteors and
+                     of comet 1862 iii. demonstrated by Schiaparelli.
+  1866             Delaunay explains lunar acceleration by a lengthening
+                     of the day through tidal friction.
+  1866, March 4    Spectroscopic study of the sun's surface by Lockyer.
+  1866, March 12   New star in Corona Borealis detected by Birmingham.
+  1866, October    Schmidt announces the disappearance of the lunar crater
+                     Linne.
+  1866, Nov. 13    Meteoric shower visible in Europe.
+  1867             Period of November meteors determined by Adams.
+  1867, Aug. 29    Total solar eclipse. Minimum sun-spot type of corona
+                     observed by Grosch at Santiago.
+  1867             Discovery of gaseous stars in Cygnus by Wolf and Rayet.
+  1868, February   Principle of daylight spectroscopic visibility of
+                     prominences started by Huggins.
+  1868, Aug. 18    Great Indian eclipse. Spectrum of prominences observed.
+  1868, Aug. 19    Janssen's first daylight view of a prominence.
+  1868, Oct. 26    Lockyer and Janssen independently announce their
+                     discovery of the spectroscopic method.
+  1868             Doppler's principle applied by Huggins to measure
+                     stellar radial movements.
+  1868             Publication of Angstrom's map of the normal solar
+                     spectrum.
+  1868             Spectrum of Winnecke's comet found by Huggins to agree
+                     with that of olefiant gas.
+  1869, Feb. 11    Tenuity of chromospheric gases inferred by Lockyer and
+                     Frankland.
+  1869, Feb. 13    Huggins observes a prominence with an "open slit."
+  1869, Aug. 7     American eclipse. Detection of bright-line coronal
+                     spectrum.
+  1870             Mounting of Newall's 25-inch achromatic at Gateshead.
+  1870             Proctor indicates the prevalence of drifting movements
+                     among the stars.
+  1870             A solar prominence photographed by Young.
+  1870, Dec. 22    Sicilian eclipse. Young discovers reversing layer.
+  1871, May 11     Death of Sir J. Herschel.
+  1871, June 9     Line-displacements due to solar rotation detected by
+                      Vogel.
+  1871, Dec. 12    Total eclipse visible in India. Janssen observes
+                     reflected Fraunhofer lines in spectrum of corona.
+  1872             Conclusion of a three years' series of observations on
+                     lunar heat by Lord Rosse.
+  1872             Spectrum of Vega photographed by H. Draper.
+  1872             Faye's cyclonic hypothesis of sun-spots.
+  1872             Young's solar-spectroscopic observations at Mount
+                     Sherman.
+  1872             Cornu's experiments on the velocity of light.
+  1872, Nov. 27    Meteoric shower connected with Biela's comet.
+  1873             Determination of mean density of the earth by
+                     Cornu and Baille.
+  1873             Solar photographic work begun at Greenwich.
+  1873             Erection of 26-inch Washington refractor.
+  1874             Light-equation redetermined by Glasenapp.
+  1874             Vogel's classification of stellar spectra.
+  1874, Dec. 8     Transit of Venus.
+  1876             Publication of Neison's _The Moon_.
+  1876, Nov. 24    New star in Cygnus discovered by Schmidt.
+  1876             Spectrum of Vega photographed by Huggins. First
+                     use of dry gelatine plates in celestial photography.
+  1877, May 19     Klein observes a supposed new lunar crater (Hyginus N.).
+  1877             Measurement by Vogel of selective absorption in solar
+                     atmosphere.
+  1877, Aug. 16-17 Discovery of two satellites of Mars by Hall at
+                     Washington.
+  1877, Sept. 23   Death of Leverrier.
+  1877             Canals of Mars discovered by Schiaparelli.
+  1877             Opposition of Mars observed by Gill at Ascension.
+                     Solar parallax deduced = 8.78".
+  1878, January    Stationary meteor-radiants described by Denning.
+  1878             Publication of Schmidt's
+                     _Charte der Gebirge des Mondes_.
+  1878             First observations of Great Red Spot on Jupiter.
+  1878             Conclusion of Newcomb's researches on the lunar theory.
+  1878, May 6      Transit of Mercury.
+  1878             Foundation of Selenographical Society.
+  1878, July 29    Total eclipse visible in America. Vast equatoreal
+                     extension of the corona.

@@ -1,0 +1,420 @@
+a a_, may all be normal to a true plane, and yet errors of depression, as
+at _e_, or elevation, as at _b_, exist between them, so that the
+instrument must be used over every available part of the surface if it is
+to be tested rigorously. As to how exact this method is I cannot say from
+actual experience, as in my work I have had recourse to other methods that
+I shall describe. I have already quoted you the words of Prof. Harkness.
+Dr. Hastings, whose practical as well as theoretical knowledge is of the
+most critical character, tells me that he considers it quite easy to
+measure to 1/80000 of an inch with the ordinary form of instrument. Here
+is a very fine spherometer that Dr. Hastings works with from time to time,
+and which he calls his standard spherometer. It is delicately made, its
+screw being 50 to the inch, or more exactly 0.01998 inch, or within
+2/100000 of being 1/50 of an inch pitch. The principal screw has a point
+which is itself an independent screw, that was put in to investigate the
+errors of the main screw, but it was found that the error of this screw
+was not as much as the 0.00001 of an inch. The head is divided into two
+hundred parts, and by estimation can be read to 1/100000 of an inch. Its
+constants are known, and it may be understood that it would not do to
+handle it very roughly. I could dwell here longer on this fascinating
+subject, but must haste. I may add that if this spherometer is placed on a
+plate of glass and exact contact obtained, and then removed, and the hand
+held over the plate without touching it, the difference in the temperature
+of the glass and that of the hand would be sufficient to distort the
+surface enough to be readily recognized by the spherometer when replaced.
+Any one desiring to investigate this subject further will find it fully
+discussed in that splendid series of papers by Dr. Alfred Mayer on the
+minute measurements of modern science published in SCIENTIFIC AMERICAN
+SUPPLEMENTS, to which I was indebted years ago for most valuable
+information, as well as to most encouraging words from Prof. Thurston,
+whom you all so well and favorably know. I now invite your attention to
+the method for testing the flat surfaces on which Prof. Rowland rules the
+beautiful diffraction gratings now so well known over the scientific
+world, as also other plane surfaces for heliostats, etc., etc. I am now
+approaching the border land of what may be called the abstruse in science,
+in which I humbly acknowledge it would take a vast volume to contain all I
+don't know; yet I hope to make plain to you this most beautiful and
+accurate method, and for fear I may forget to give due credit, I will say
+that I am indebted to Dr. Hastings for it, with whom it was an original
+discovery, though he told me he afterward found it had been in use by
+Steinheil, the celebrated optician of Munich. The principle was discovered
+by the immortal Newton, and it shows how much can be made of the ordinary
+phenomena seen in our every-day life when placed in the hands of the
+investigator. We have all seen the beautiful play of colors on the soap
+bubble, or when the drop of oil spreads over the surface of the water.
+Place a lens of long curvature on a piece of plane polished glass, and,
+looking at it obliquely, a black central spot is seen with rings of
+various width and color surrounding it. If the lens is a true curve, and
+the glass beneath it a true plane, these rings of color will be perfectly
+concentric and arranged in regular decreasing intervals. This apparatus is
+known as Newton's color glass, because he not only measured the phenomena,
+but established the laws of the appearances presented. I will now endeavor
+to explain the general principle by which this phenomenon is utilized in
+the testing of plane surfaces. Suppose that we place on the lower plate,
+lenses of constantly increasing curvature until that curvature becomes
+nil, or in other words a true plane. The rings of color will constantly
+increase in width as the curvature of the lens increases, until at last
+one color alone is seen over the whole surface, provided, however, the
+same angle of observation be maintained, and provided further that the
+film of air between the glasses is of absolutely the same relative
+thickness throughout. I say the film of air, for I presume that it would
+be utterly impossible to exclude particles of dust so that absolute
+contact could take place. Early physicists maintained that absolute
+molecular contact was impossible, and that the central separation of the
+glasses in Newton's experiment was 1/250,000 of an inch, but Sir Wm.
+Thomson has shown that the separation is caused by shreds or particles of
+dust. However, if this separation is equal throughout, we have the
+phenomena as described; but if the dust particles are thicker under one
+side than the other, our phenomena will change to broad parallel bands as
+in Fig. 8, the broader the bands the nearer the absolute parallelism of
+the plates. In Fig. 7 let _a_ and _b_ represent the two plates we are
+testing. Rays of white light, _c_, falling upon the upper surface of plate
+_a_, are partially reflected off in the direction of rays _d_, but as
+these rays do not concern us now, I have not sketched them. Part of the
+light passes on through the upper plate, where it is bent out of its
+course somewhat, and, falling upon the _lower_ surface of the upper plate,
+some of this light is again reflected toward the eye at _d_. As some of
+the light passes through the upper plate, and, passing through the film of
+air between the plates, falling on the upper surface of the _lower_ one,
+this in turn is reflected; but as the light that falls on this surface has
+had to traverse the film of air _twice_, it is retarded by a certain
+number of half or whole wave-lengths, and the beautiful phenomena of
+interference take place, some of the colors of white light being
+obliterated, while others come to the eye. When the position of the eye
+changes, the color is seen to change. I have not time to dwell further on
+this part of my subject, which is discussed in most advanced works on
+physics, and especially well described in Dr. Eugene Lommel's work on "The
+Nature of Light." I remarked that if the two surfaces were perfectly
+_plane_, there would be one color seen, or else colors of the first or
+second order would arrange themselves in broad parallel bands, but this
+would also take place in plates of slight curvature, for the requirement
+is, as I said, a film of air of equal thickness throughout. You can see at
+once that this condition could be obtained in a perfect convex surface
+fitting a perfect concave of the same radius. Fortunately we have a check
+to guard against this error. To produce a perfect plane, _three surfaces
+must_ be worked together, unless we have a true plane to commence with;
+but to make this true plane by this method we _must_ work three together,
+and if each one comes up to the demands of this most rigorous test, we may
+rest assured that we have attained a degree of accuracy almost beyond
+human conception. Let me illustrate. Suppose we have plates 1, 2, and 3,
+Fig. 11. Suppose 1 and 2 to be accurately convex and 3 accurately concave,
+of the same radius. Now it is evident that 3 will exactly fit 1 and 2, and
+that 1 and 2 will separately fit No. 3, _but_ when 1 and 2 are placed
+together, they will only touch in the center, and there is no possible
+way to make three plates coincide when they are alternately tested upon
+one another than to make _perfect planes_ out of them. As it is difficult
+to see the colors well on metal surfaces, a one-colored light is used,
+such as the sodium flame, which gives to the eye in our test, dark and
+bright bands instead of colored ones. When these plates are worked and
+tested upon one another until they all present the same appearance, one
+may be reserved for a test plate for future use. Here is a small test
+plate made by the celebrated Steinheil, and here two made by myself, and I
+may be pardoned in saying that I was much gratified to find the
+coincidence so nearly perfect that the limiting error is much less than
+0.00001 of an inch. My assistant, with but a few months' experience, has
+made quite as accurate plates. It is necessary of course to have a glass
+plate to test the metal plates, as the upper plate _must_ be transparent.
+So far we have been dealing with perfect surfaces. Let us now see what
+shall occur in surfaces that are not plane. Suppose we now have our
+perfect test plate, and it is laid on a plate that has a compound error,
+say depressed at center and edge and high between these points. If this
+error is regular, the central bands arrange themselves as in Fig. 9. You
+may now ask, how are we to know what sort of surface we have? A ready
+solution is at hand. The bands _always travel in the direction of the
+thickest film of air_, hence on lowering the eye, if the convex edge of
+the bands travel in the direction of the arrow, we are absolutely certain
+that that part of the surface being tested is convex, while if, as in the
+central part of the bands, the concave edges advance, we know that part is
+hollow or too low. Furthermore, any small error will be rigorously
+detected, with astonishing clearness, and one of the grandest qualities of
+this test is the absence of "personal equation;" for, given a perfect test
+plate, _it won't lie_, neither will it exaggerate. I say, won't lie, but I
+must guard this by saying that the plates must coincide absolutely in
+temperature, and the touch of the finger, the heat of the hand, or any
+disturbance whatever will vitiate the results of this lovely process; but
+more of that at a future time. If our surface is plane to within a short
+distance of the edge, and is there overcorrected, or convex, the test
+shows it, as in Fig. 10. If the whole surface is regularly convex, then
+concentric rings of a breadth determined by the approach to a perfect
+plane are seen. If concave, a similar phenomenon is exhibited, except in
+the case of the convex, the broader rings are near the center, while in
+the concave they are nearer the edge. In lowering the eye while observing
+the plates, the rings of the convex plate will advance outward, those of
+the concave inward. It may be asked by the mechanician, Can this method be
+used for testing our surface plates? I answer that I have found the
+scraped surface of iron bright enough to test by sodium light. My
+assistant in the machine work scraped three 8 inch plates that were tested
+by this method and found to be very excellent, though it must be evident
+that a single cut of the scraper would change the spot over which it
+passed so much as to entirely change the appearance there, but I found I
+could use the test to get the general outline of the surface under process
+of correction. These iron plates, I would say, are simply used for
+preliminary formation of polishers. I may have something to say on the
+question of surface plates in the future, as I have made some interesting
+studies on the subject. I must now bring this paper to a close, although I
+had intended including some interesting studies of curved surfaces. There
+is, however, matter enough in that subject of itself, especially when we
+connect it with the idiosyncrasies of the material we have to deal with, a
+vital part of the subject that I have not touched upon in the present
+paper. You may now inquire, How critical is this "color test"? To answer
+this I fear I shall trench upon forbidden grounds, but I call to my help
+the words of one of our best American physicists, and I quote from a
+letter in which he says by combined calculation and experiment I have
+found the limiting error for white light to be 1/50000000 of an inch, and
+for Na or sodium light about fifty times greater, or less than 1/800000 of
+an inch. Dr. Alfred Mayer estimated and demonstrated by actual experiment
+that the smallest black spot on a white ground visible to the naked eye is
+about 1/800 of an inch at the distance of normal vision, namely, 10
+inches, and that a line, which of course has the element of extension,
+1/5000 of an inch in thickness could be seen. In our delicate "color test"
+we may decrease the diameter of our black spot a thousand times and still
+its perception is possible by the aid of our monochromatic light, and we
+may diminish our line ten thousand times, yet find it just perceivable on
+the border land of our test by white light. Do not presume I am so foolish
+as to even think that the human hand, directed by the human brain, can
+ever work the material at his command to such a high standard of
+exactness. No; from the very nature of the material we have to work with,
+we are forbidden even to hope for such an achievement; and could it be
+possible that, through some stroke of good fortune, we could attain this
+high ideal, it would be but for a moment, as from the very nature of our
+environment it would be but an ignis fatuus. There is, however, to the
+earnest mind a delight in having a high model of excellence, for as our
+model is so will our work approximate; and although we may go on
+approximating _our_ ideal forever, we can never hope to reach that which
+has been set for us by the great Master Workman.
+
+       *       *       *       *       *
+
+
+
+
+[JOURNAL OF GAS LIGHTING.]
+
+PHOTOMETRICAL STANDARDS.
+
+
+In carrying out a series of photometrical experiments lately, I found that
+it was a matter of considerable difficulty to keep the flames of the
+standard candles always at their proper distance from the light to be
+measured, because the wick was continually changing its position (of
+course carrying the flame with it), and thus practically lengthening or
+shortening the scale of the photometer, according as the flame was carried
+nearer to or farther from the light at the other end of the scale. In
+order, therefore, to obtain a correct idea of the extent to which this
+variation of the position of the wick might influence the readings of the
+photometer scale, I took a continuous number of photographs of the flame
+of a candle while it was burning in a room quite free from draught; no
+other person being in it during the experiment except a photographer, who
+placed sensitive dry plates in a firmly fixed camera, and changed them
+after an exposure of 30 seconds. In doing this he was careful to keep
+close to the camera, and disturb the air of the room as little as
+possible. In front of the candle a plumb-line was suspended, and remained
+immovable over its center during the whole operation. The candle was
+allowed to get itself into a normal state of burning, and then the wick
+was aligned, as shown in the photographs Nos. 1 and 2, after which it was
+left to itself.
+
+[Illustration: VARIATION IN PHOTOMETRICAL STANDARDS.]
+
+With these photographs (represented in the cuts) I beg to hand you
+full-sized drawings of the scales of a 100 inch Evans and a 60 inch
+Letheby photometer, in order to give your readers an opportunity of
+estimating for themselves the effect which such variations from the true
+distance between the standard light and that to be measured, as shown in
+this series of photographs, must exercise on photometrical observations
+made by the aid of either of the instruments named.
+
+W. SUGG.
+
+       *       *       *       *       *
+
+
+
+
+BLEACHING OR DYEING-YARNS AND GOODS IN VACUO.
+
+
+[Illustration]
+
+Many attempts have been made to facilitate the penetration of textile
+fabrics by the dyeing and bleaching solutions, with which they require to
+be treated, by carrying out the treatment in vacuo, _i.e._, in such
+apparatus as shall allow of the air being withdrawn. The apparatus shown
+in the annexed engraving--Austrian Pat. Jan. 15, 1884--although not
+essentially different from those already in use, embodies, the _Journal of
+the Society of Chemical Industry_ says, some important improvements in
+detail. It consists of a drum A, the sides of which are constructed of
+stout netting, carried on a vertical axis working through a stuffing-box,
+which is fitted in the bottom of the outer or containing vessel or keir B.
+The air can be exhausted from B by means of an air pump. A contains a
+central division P, also constructed of netting, into which is inserted
+the extremity of the tube R, after being twice bent at a right angle. P is
+also in direct connection with the efflux tube E, E and R serving to
+convey the dye or bleach solutions to and from the reservoir C. The
+combination of the rotary motion communicated to A, which contains the
+goods to be dyed or bleached, with the very thorough penetration and
+circulation of the liquids effected by means of the vacuum established in
+B, is found to be eminently favorable to the rapidity and evenness of the
+dye or bleach.
+
+       *       *       *       *       *
+
+
+
+
+ON THE MOULDING OF PORCELAIN.
+
+By CHAS. LAUTH.
+
+
+The operation of moulding presents numerous advantages over other methods
+of shaping porcelain, for by this process we avoid irregularities of form,
+twisting, and visible seams, and can manufacture thin pieces, as well as
+pieces of large dimensions, of a purity of form that it is impossible to
+obtain otherwise.
+
+The method of moulding small objects has been described with sufficient
+detail in technical works, but such is not the case with regard to large
+ones, and for this reason it will be of interest to quote some practical
+observations from a note that has been sent me by Mr. Constantine Renard,
+who, for several years, has had the superintendence of the moulding rooms
+of the Sevres works.
+
+The process of moulding consists in pouring porcelain paste, thinned with
+water, into very dry plaster moulds. This mixture gradually hardens
+against the porous sides with which it is in contact, and, when the
+thickness of the hardened layer is judged sufficient, the mould is emptied
+by inverting it. The excess of the liquid paste is thus eliminated, while
+the thicker parts remain adherent to the plaster. Shortly afterward, the
+absorption of the water continuing, the paste so shrinks in drying as to
+allow the object to detach itself from the mould. As may be seen, nothing
+is simpler when it concerns pieces of small dimensions; but the same is
+not the case when we have to mould a large one. In this case we cannot get
+rid of the liquid paste by turning the mould upside down, because of the
+latter's size, and, on another hand, it is necessary to take special
+precautions against the subsidence of the paste. Recourse is therefore had
+to another method. In the first place, an aperture is formed in the lower
+part of the mould through which the liquid may flow at the desired moment.
+Afterward, in order to prevent the solidified but still slightly soft
+paste from settling under its own weight at this moment, it is supported
+by directing a current of compressed air into the mould, or, through
+atmospheric pressure, by forming a vacuum in the metallic jacket in which
+the mould is inclosed.
+
+The history and description of these processes have been several times
+given, and I shall therefore not dwell upon them, but shall at once
+proceed to make known the new points that Mr. Renard has communicated to
+me.
+
+The first point to which it is well to direct the manufacturer's attention
+is the preparation of the plaster moulds. When it concerns an object of
+large dimensions, of a vase a yard in height, for example, the moulder is
+obliged to cut the form or core horizontally into three parts, each of
+which is moulded separately. To this effect, it is placed upon a core
+frame and surrounded with a cylinder of sheet zinc. The workman pours the
+plaster into the space between the latter and the core, and, while doing
+so, must stir the mass very rapidly with a stick, so that at the moment
+the plaster sets, it shall be as homogeneous as possible. In spite of such
+precautions, it is impossible to prevent the densest parts of the plaster
+from depositing first, through the action of gravity. These will naturally
+precipitate upon the table or upon the slanting sides of the core, and the
+mould will therefore present great inequalities as regards porosity. Since
+this defect exists in each of the pieces that have been prepared in
+succession, it will be seen that when they come to be superposed for the
+moulding of the piece, the mould as a whole will be formed of zones of
+different porosities, which will absorb water from the paste unequally.
+Farther along we shall see the inconveniences that result from this, and
+the manner of avoiding them.
+
+[Illustration: FIG. 1]
+
+The mould, when finished, is dried in a stove. Under such circumstances it
+often happens that there forms upon the surface of the plaster a hard
+crust which, although it is of no importance as regards the outside of the
+mould, is prejudicial to the interior because it considerably diminishes
+its absorbing power. This trouble may be avoided by coating the surfaces
+that it is necessary to preserve with clear liquid paste; but Mr. Renard
+advises that the mould be closed hermetically, so that the interior shall
+be kept from contact with warm air. In this way it is possible to prevent
+the plaster from hardening, as a result of too quick a desiccation. I now
+come to the operation of moulding. In the very first place, it is
+necessary to examine whether it is well to adopt the arrangement by
+pressure of air or by vacuum. The form of the objects will determine the
+choice. A very open piece, like a bowl, must be moulded by vacuum, on
+account of the difficulty of holding the closing disk in place if it be of
+very large dimensions. The same is the case with large vases of wood form.
+On the contrary, an elongated piece tapering from above is more easily
+moulded by pressure of the air, as are also ovoid vessels 16 to 20 inches
+in height. In any case it must not be forgotten that the operation by
+vacuum should be preferred every time the form of the objects is adapted
+to it, because this process permits of following and directing the drying,
+while with pressure it is impossible to see anything when once the
+apparatus is closed.
+
+[Illustration: FIG. 2.]
+
+_Moulding by Pressure of the Air._--The plaster mould having been put in
+place upon the mould board, and the liquid paste having been long and
+thoroughly stirred in order to make it homogeneous, and get rid of the air
+bubbles, we open the cock that puts the paste reservoir in communication
+with the lower part of the mould, care having been taken beforehand to
+pour a few pints of water into the bottom of the mould. The paste in
+ascending pushes this water ahead of it, and this slightly wets the
+plaster and makes the paste rise regularly. When the mould is entirely
+filled, the paste is still allowed to flow until it slightly exceeds the
+upper level, and, spreading out over the entire thickness of the plaster,
+forms a sort of thick flange. The absorption of the liquid begins almost
+immediately, and, consequently, the level lowers. A new quantity of paste
+is introduced, and we continue thus, in regulating its flow so as to keep
+the mould always full. This operation is prolonged until the layer is
+judged to be sufficiently thick, this depending upon the dimensions, form,
+or construction of the vessel. The operation may take from one to five
+hours.
+
+The desired thickness having been obtained, it becomes a question of
+allowing the paste to descend and at the same time to support the piece by
+air pressure. The flange spoken of above is quickly cut, and the paste is
+made to rise again for the last time, in order to form a new flange, but
+one that this time will be extremely thin; then a perforated disk designed
+for forming the top joint, and acting as a conduit for the air, is placed
+upon the mould. This disk is fastened down with a screw press, and when
+the apparatus is thus arranged the eduction cock is opened, and the air
+pump maneuvered.
+
+If the flange did not exist, the air would enter between the mould and the
+piece at the first strokes of the piston, and the piece would be
+inevitably broken. Its object, then, is to form a hermetical joint,
+although it must at the same time present but a slight resistance, since,
+as soon as the liquid paste has flowed out, the piece begins to shrink,
+and it is necessary that at the first movement downward it shall be able
+to disengage itself, since it would otherwise crack.
+
+As soon as the piece begins to detach itself from the mould the air enters
+the apparatus, and the pressure gauge connected with the air pump begins
+to lower. It is then necessary, without a moment's loss of time, to remove
+the screw press, the disk, and the upper part of the mould itself, in
+order to facilitate as much as possible the contraction of the piece.
+Finally, an hour or an hour and a half later, it is necessary to remove
+the lower part of the mould, this being done in supporting the entire
+affair by the middle. The piece and what remains of the mould are, in
+reality, suspended in the air. All these preparations are designed to
+prevent cracking.
+
+_Moulding by Vacuum._--The operation by vacuum follows the same phases as
+those just described. It is well, in order to have a very even surface,
+not to form a vacuum until about three hours after the paste has been made
+to ascend. Without such a precaution the imperfections in the mould will
+be shown on the surface of the object by undulations that are
+irremediable.
+
+The first flange or vein must be preserved, and it is cut off at the
+moment the piece is detached.
+
+Moulding by vacuum, aside from the advantages noted above, permits of
+giving the pieces a greater thickness than is obtained in the pressure
+process. According to Mr. Renard, when it is desired to exceed one inch at
+the base of the piece (the maximum thickness usually obtained), the
+operation is as follows: The piece is moulded normally, and it is
+supported by a vacuum; but, at the moment at which, under ordinary
+circumstances, it would be detached, the paste is made to ascend a second
+time, when the first layer (already thick and dry) acts as a sort of

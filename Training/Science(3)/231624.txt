@@ -1,0 +1,101 @@
+Workers using traditional analytical techniques continued to search for
+these elements, but their efforts were foredoomed to failure. None of
+the nuclei of the isotopes of elements 43, 61, 85, and 87 are stable;
+hence weighable quantities of them do not exist in nature, and new
+techniques had to be developed before we could really say we had
+"discovered" them.
+
+In 1919, Rutherford accomplished scientifically what medieval alchemists
+had failed to do with "magic" experiments and other less sophisticated
+techniques. It wasn't gold (the goal of the alchemists) he found but
+something more valuable with even greater potential for good and evil: a
+method of transmuting one element into another. By bombarding nitrogen
+nuclei with alpha particles from radium, he found that nitrogen was
+changed into oxygen.
+
+The process for radioactive transmutation is somewhat like a common
+chemical reaction. An alpha particle, which has the same charge (+2) and
+atomic mass (4) as a helium nucleus, penetrates the repulsive forces of
+the nitrogen nucleus and deposits one proton and one neutron; this
+changes the nitrogen atom into an oxygen atom. The reaction is written
+
+    {7}N<14> + {2}He<4> --> {1}H<1> + {8}O<17>.
+
+The number at the lower left of each element symbol in the above
+reaction is the proton number. This number determines the basic chemical
+identity of an atom, and it is this number scientists must change before
+one element can be transformed into another. The common way to
+accomplish this artificially is by bombarding nuclei with nuclear
+projectiles.
+
+Rutherford used naturally occurring alpha particles from radium as his
+projectiles because they were the most effective he could then find. But
+these natural alpha particles have several drawbacks: they are
+positively charged, like the nucleus itself, and are therefore more or
+less repulsed depending on the proton number of the element being
+bombarded; they do not move fast enough to penetrate the nuclei of
+heavier elements (those with many protons); and, for various other
+reasons (some of them unexplained), are inefficient in breaking up the
+nucleus. It is estimated that only 1 out of 300,000 of these alpha
+particles will react with nitrogen.
+
+Physicists immediately began the search for artificial means to
+accelerate a wider variety of nuclear particles to high energies.
+
+Protons, because they have a +1 charge rather than the +2 charge of the
+alpha particles, are repulsed less strongly by the positive charge on
+the nucleus, and are therefore more useful as bombarding projectiles. In
+1929, E. T. S. Walton and J. D. Cockcroft passed an electric discharge
+through hydrogen gas, thereby removing electrons from the hydrogen atom;
+this left a beam of protons (i. e., hydrogen ions), which was then
+accelerated by high voltages. This Cockcroft-Walton voltage multiplier
+accelerated the protons to fairly high energies (about 800,000 electron
+volts), but the protons still had a plus charge and their energies were
+still not high enough to overcome the repulsive forces (Coulombic
+repulsion) of the heavier nuclei.
+
+A later development, the Van de Graaff electrostatic generator, produced
+a beam of hydrogen ions and other positively charged ions, and electrons
+at even higher energies. An early model of the linear accelerator also
+gave a beam of heavy positive ions at high energies. These were the next
+two instruments devised in the search for efficient bombarding
+projectiles. However, the impasse continued: neither instrument allowed
+scientists to crack the nuclei of the heavier elements.
+
+Ernest O. Lawrence's cyclotron, built in 1931, was the first device
+capable of accelerating positive ions to the very high energies needed.
+Its basic principle of operation is not difficult to understand. A
+charged particle accelerated in a cyclotron is analogous to a ball being
+whirled on a string fastened to the top of a pole. A negative electric
+field attracts the positively charged particle (ball) towards it and
+then switches off until the particle swings halfway around; the field
+then becomes negative in front of the particle again, and again attracts
+it. As the particle moves faster and faster it spirals outward in an
+ever increasing circle, something like a tether ball unwinding from a
+pole. The energies achieved would have seemed fantastic to earlier
+scientists. The Bevatron, a modern offspring of the first cyclotron,
+accelerates protons to 99.13% the speed of light, thereby giving them
+6.2 billion electron volts (BeV).
+
+Another instrument, the heavy-ion linear accelerator (Hilac),
+accelerates ions as heavy as neon to about 15% the speed of light. It is
+called a linear accelerator because it accelerates particles in a
+straight line. Stanford University is currently (1963) in the process of
+building a linear accelerator approximately two miles long which will
+accelerate charged particles to 99.9% the speed of light.
+
+But highly accelerated charged particles did not solve all of science's
+questions about the inner workings of the nucleus.
+
+In 1932, during the early search for more efficient ways to bombard
+nuclei, James Chadwick discovered the neutron. This particle, which is
+neutral in charge and is approximately the same mass as a proton, has
+the remarkable quality of efficiently producing nuclear reactions even
+at very low energies. No one exactly knowns why. At low energies,
+protons, alpha particles, or other charged particles do not interact
+with nuclei because they cannot penetrate the electrostatic energy
+barriers. For example, slow positive particles pick up electrons, become
+neutral, and lose their ability to cause nuclear transformations. Slow
+neutrons, on the other hand, can enter nearly all atomic nuclei and
+induce fission of certain of the heavier ones. It is, in fact, these
+properties of the neutron which have made possible the utilization of

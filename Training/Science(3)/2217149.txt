@@ -1,0 +1,312 @@
+combine them chemically we can get isoprene, which is the mother
+substance of ordinary India rubber. From acetone also is made the "war
+rubber" of the Germans (methyl rubber), which I have mentioned in a
+previous chapter. The Germans had been getting about half their supply
+of acetone from American acetate of lime and this was of course shut
+off. That which was produced in Germany by the distillation of beech
+wood was not even enough for the high explosives needed at the front. So
+the Germans resorted to rotting potatoes--or rather let us say, since it
+sounds better--to the cultivation of _Bacillus macerans_. This
+particular bacillus converts the starch of the potato into two-thirds
+alcohol and one-third acetone. But soon potatoes got too scarce to be
+used up in this fashion, so the Germans turned to calcium carbide as a
+source of acetone and before the war ended they had a factory capable of
+manufacturing 2000 tons of methyl rubber a year. This shows the
+advantage of having several strings to a bow.
+
+The reason why acetylene is such an active and acquisitive thing the
+chemist explains, or rather expresses, by picturing its structure in
+this shape:
+
+  H-C[triple bond]C-H
+
+Now the carbon atoms are holding each other's hands because they have
+nothing else to do. There are no other elements around to hitch on to.
+But the two carbons of acetylene readily loosen up and keeping the
+connection between them by a single bond reach out in this fashion with
+their two disengaged arms and grab whatever alien atoms happen to be in
+the vicinity:
+
+    | |
+  H-C-C-H
+    | |
+
+Carbon atoms belong to the quadrumani like the monkeys, so they are
+peculiarly fitted to forming chains and rings. This accounts for the
+variety and complexity of the carbon compounds.
+
+So when acetylene gas mixed with other gases is passed over a catalyst,
+such as a heated mass of iron ore or clay (hydrates or silicates of iron
+or aluminum), it forms all sorts of curious combinations. In the
+presence of steam we may get such simple compounds as acetic acid,
+acetone and the like. But when three acetylene molecules join to form a
+ring of six carbon atoms we get compounds of the benzene series such as
+were described in the chapter on the coal-tar colors. If ammonia is
+mixed with acetylene we may get rings with the nitrogen atom in place of
+one of the carbons, like the pyridins and quinolins, pungent bases such
+as are found in opium and tobacco. Or if hydrogen sulfide is mixed with
+the acetylene we may get thiophenes, which have sulfur in the ring. So,
+starting with the simple combination of two atoms of carbon with two of
+hydrogen, we can get directly by this single process some of the most
+complicated compounds of the organic world, as well as many others not
+found in nature.
+
+In the development of the electric furnace America played a pioneer
+part. Provost Smith of the University of Pennsylvania, who is the best
+authority on the history of chemistry in America, claims for Robert
+Hare, a Philadelphia chemist born in 1781, the honor of constructing the
+first electrical furnace. With this crude apparatus and with no greater
+electromotive force than could be attained from a voltaic pile, he
+converted charcoal into graphite, volatilized phosphorus from its
+compounds, isolated metallic calcium and synthesized calcium carbide. It
+is to Hare also that we owe the invention in 1801 of the oxy-hydrogen
+blowpipe, which nowadays is used with acetylene as well as hydrogen.
+With this instrument he was able to fuse strontia and volatilize
+platinum.
+
+But the electrical furnace could not be used on a commercial scale until
+the dynamo replaced the battery as a source of electricity. The
+industrial development of the electrical furnace centered about the
+search for a cheap method of preparing aluminum. This is the metallic
+base of clay and therefore is common enough. But clay, as we know from
+its use in making porcelain, is very infusible and difficult to
+decompose. Sixty years ago aluminum was priced at $140 a pound, but one
+would have had difficulty in buying such a large quantity as a pound at
+any price. At international expositions a small bar of it might be seen
+in a case labeled "silver from clay." Mechanics were anxious to get the
+new metal, for it was light and untarnishable, but the metallurgists
+could not furnish it to them at a low enough price. In order to extract
+it from clay a more active metal, sodium, was essential. But sodium also
+was rare and expensive. In those days a professor of chemistry used to
+keep a little stick of it in a bottle under kerosene and once a year he
+whittled off a piece the size of a pea and threw it into water to show
+the class how it sizzled and gave off hydrogen. The way to get cheaper
+aluminum was, it seemed, to get cheaper sodium and Hamilton Young
+Castner set himself at this problem. He was a Brooklyn boy, a student of
+Chandler's at Columbia. You can see the bronze tablet in his honor at
+the entrance of Havemeyer Hall. In 1886 he produced metallic sodium by
+mixing caustic soda with iron and charcoal in an iron pot and heating in
+a gas furnace. Before this experiment sodium sold at $2 a pound; after
+it sodium sold at twenty cents a pound.
+
+But although Castner had succeeded in his experiment he was defeated in
+his object. For while he was perfecting the sodium process for making
+aluminum the electrolytic process for getting aluminum directly was
+discovered in Oberlin. So the $250,000 plant of the "Aluminium Company
+Ltd." that Castner had got erected at Birmingham, England, did not make
+aluminum at all, but produced sodium for other purposes instead. Castner
+then turned his attention to the electrolytic method of producing sodium
+by the use of the power of Niagara Falls, electric power. Here in 1894
+he succeeded in separating common salt into its component elements,
+chlorine and sodium, by passing the electric current through brine and
+collecting the sodium in the mercury floor of the cell. The sodium by
+the action of water goes into caustic soda. Nowadays sodium and chlorine
+and their components are made in enormous quantities by the
+decomposition of salt. The United States Government in 1918 procured
+nearly 4,000,000 pounds of chlorine for gas warfare.
+
+The discovery of the electrical process of making aluminum that
+displaced the sodium method was due to Charles M. Hall. He was the son
+of a Congregational minister and as a boy took a fancy to chemistry
+through happening upon an old text-book of that science in his father's
+library. He never knew who the author was, for the cover and title page
+had been torn off. The obstacle in the way of the electrolytic
+production of aluminum was, as I have said, because its compounds were
+so hard to melt that the current could not pass through. In 1886, when
+Hall was twenty-two, he solved the problem in the laboratory of Oberlin
+College with no other apparatus than a small crucible, a gasoline burner
+to heat it with and a galvanic battery to supply the electricity. He
+found that a Greenland mineral, known as cryolite (a double fluoride of
+sodium and aluminum), was readily fused and would dissolve alumina
+(aluminum oxide). When an electric current was passed through the melted
+mass the metal aluminum would collect at one of the poles.
+
+In working out the process and defending his claims Hall used up all his
+own money, his brother's and his uncle's, but he won out in the end and
+Judge Taft held that his patent had priority over the French claim of
+Herault. On his death, a few years ago, Hall left his large fortune to
+his Alma Mater, Oberlin.
+
+Two other young men from Ohio, Alfred and Eugene Cowles, with whom Hall
+was for a time associated, wore the first to develop the wide
+possibilities of the electric furnace on a commercial scale. In 1885
+they started the Cowles Electric Smelting and Aluminum Company at
+Lockport, New York, using Niagara power. The various aluminum bronzes
+made by absorbing the electrolyzed aluminum in copper attracted
+immediate attention by their beauty and usefulness in electrical work
+and later the company turned out other products besides aluminum, such
+as calcium carbide, phosphorus, and carborundum. They got carborundum as
+early as 1885 but miscalled it "crystallized silicon," so its
+introduction was left to E.A. Acheson, who was a graduate of Edison's
+laboratory. In 1891 he packed clay and charcoal into an iron bowl,
+connected it to a dynamo and stuck into the mixture an electric light
+carbon connected to the other pole of the dynamo. When he pulled out the
+rod he found its end encrusted with glittering crystals of an unknown
+substance. They were blue and black and iridescent, exceedingly hard and
+very beautiful. He sold them at first by the carat at a rate that would
+amount to $560 a pound. They were as well worth buying as diamond dust,
+but those who purchased them must have regretted it, for much finer
+crystals were soon on sale at ten cents a pound. The mysterious
+substance turned out to be a compound of carbon and silicon, the
+simplest possible compound, one atom of each, CSi. Acheson set up a
+factory at Niagara, where he made it in ten-ton batches. The furnace
+consisted simply of a brick box fifteen feet long and seven feet wide
+and deep, with big carbon electrodes at the ends. Between them was
+packed a mixture of coke to supply the carbon, sand to supply the
+silicon, sawdust to make the mass porous and salt to make it fusible.
+
+[Illustration: The first American electric furnace, constructed by
+Robert Hare of Philadelphia. From "Chemistry in America," by Edgar Fahs
+Smith]
+
+The substance thus produced at Niagara Falls is known as "carborundum"
+south of the American-Canadian boundary and as "crystolon" north of this
+line, as "carbolon" by another firm, and as "silicon carbide" by
+chemists the world over. Since it is next to the diamond in hardness it
+takes off metal faster than emery (aluminum oxide), using less power and
+wasting less heat in futile fireworks. It is used for grindstones of
+all sizes, including those the dentist uses on your teeth. It has
+revolutionized shop-practice, for articles can be ground into shape
+better and quicker than they can be cut. What is more, the artificial
+abrasives do not injure the lungs of the operatives like sandstone. The
+output of artificial abrasives in the United States and Canada for 1917
+was:
+
+                         Tons        Value
+  Silicon carbide       8,323       $1,074,152
+  Aluminum oxide       48,463        6,969,387
+
+A new use for carborundum was found during the war when Uncle Sam
+assumed the role of Jove as "cloud-compeller." Acting on carborundum
+with chlorine--also, you remember, a product of electrical
+dissolution--the chlorine displaces the carbon, forming silicon
+tetra-chloride (SiCl_{4}), a colorless liquid resembling chloroform.
+When this comes in contact with moist air it gives off thick, white
+fumes, for water decomposes it, giving a white powder (silicon
+hydroxide) and hydrochloric acid. If ammonia is present the acid will
+unite with it, giving further white fumes of the salt, ammonium
+chloride. So a mixture of two parts of silicon chloride with one part of
+dry ammonia was used in the war to produce smoke-screens for the
+concealment of the movements of troops, batteries and vessels or put in
+shells so the outlook could see where they burst and so get the range.
+Titanium tetra-chloride, a similar substance, proved 50 per cent. better
+than silicon, but phosphorus--which also we get from the electric
+furnace--was the most effective mistifier of all.
+
+Before the introduction of the artificial abrasives fine grinding was
+mostly done by emery, which is an impure form of aluminum oxide found in
+nature. A purer form is made from the mineral bauxite by driving off its
+combined water. Bauxite is the ore from which is made the pure aluminum
+oxide used in the electric furnace for the production of metallic
+aluminum. Formerly we imported a large part of our bauxite from France,
+but when the war shut off this source we developed our domestic fields
+in Arkansas, Alabama and Georgia, and these are now producing half a
+million tons a year. Bauxite simply fused in the electric furnace makes
+a better abrasive than the natural emery or corundum, and it is sold for
+this purpose under the name of "aloxite," "alundum," "exolon," "lionite"
+or "coralox." When the fused bauxite is worked up with a bonding
+material into crucibles or muffles and baked in a kiln it forms the
+alundum refractory ware. Since alundum is porous and not attacked by
+acids it is used for filtering hot and corrosive liquids that would eat
+up filter-paper. Carborundum or crystolon is also made up into
+refractory ware for high temperature work. When the fused mass of the
+carborundum furnace is broken up there is found surrounding the
+carborundum core a similar substance though not quite so hard and
+infusible, known as "carborundum sand" or "siloxicon." This is mixed
+with fireclay and used for furnace linings.
+
+Many new forms of refractories have come into use to meet the demands of
+the new high temperature work. The essentials are that it should not
+melt or crumble at high heat and should not expand and contract greatly
+under changes of temperature (low coefficient of thermal expansion).
+Whether it is desirable that it should heat through readily or slowly
+(coefficient of thermal conductivity) depends on whether it is wanted as
+a crucible or as a furnace lining. Lime (calcium oxide) fuses only at
+the highest heat of the electric furnace, but it breaks down into dust.
+Magnesia (magnesium oxide) is better and is most extensively employed.
+For every ton of steel produced five pounds of magnesite is needed.
+Formerly we imported 90 per cent. of our supply from Austria, but now we
+get it from California and Washington. In 1913 the American production
+of magnesite was only 9600 tons. In 1918 it was 225,000. Zirconia
+(zirconium oxide) is still more refractory and in spite of its greater
+cost zirkite is coming into use as a lining for electric furnaces.
+
+Silicon is next to oxygen the commonest element in the world. It forms a
+quarter of the earth's crust, yet it is unfamiliar to most of us. That
+is because it is always found combined with oxygen in the form of silica
+as quartz crystal or sand. This used to be considered too refractory to
+be blown but is found to be easily manipulable at the high temperatures
+now at the command of the glass-blower. So the chemist rejoices in
+flasks that he can heat red hot in the Bunsen burner and then plunge
+into ice water without breaking, and the cook can bake and serve in a
+dish of "pyrex," which is 80 per cent. silica.
+
+At the beginning of the twentieth century minute specimens of silicon
+were sold as laboratory curiosities at the price of $100 an ounce. Two
+years later it was turned out by the barrelful at Niagara as an
+accidental by-product and could not find a market at ten cents a pound.
+Silicon from the electric furnace appears in the form of hard,
+glittering metallic crystals.
+
+An alloy of iron and silicon, ferro-silicon, made by heating a mixture
+of iron ore, sand and coke in the electrical furnace, is used as a
+deoxidizing agent in the manufacture of steel.
+
+Since silicon has been robbed with difficulty of its oxygen it takes it
+on again with great avidity. This has been made use of in the making of
+hydrogen. A mixture of silicon (or of the ferro-silicon alloy containing
+90 per cent. of silicon) with soda and slaked lime is inert, compact and
+can be transported to any point where hydrogen is needed, say at a
+battle front. Then the "hydrogenite," as the mixture is named, is
+ignited by a hot iron ball and goes off like thermit with the production
+of great heat and the evolution of a vast volume of hydrogen gas. Or the
+ferro-silicon may be simply burned in an atmosphere of steam in a closed
+tank after ignition with a pinch of gunpowder. The iron and the silicon
+revert to their oxides while the hydrogen of the water is set free. The
+French "silikol" method consists in treating silicon with a 40 per cent.
+solution of soda.
+
+Another source of hydrogen originating with the electric furnace is
+"hydrolith," which consists of calcium hydride. Metallic calcium is
+prepared from lime in the electric furnace. Then pieces of the calcium
+are spread out in an oven heated by electricity and a current of dry
+hydrogen passed through. The gas is absorbed by the metal, forming the
+hydride (CaH_{2}). This is packed up in cans and when hydrogen is
+desired it is simply dropped into water, when it gives off the gas just
+as calcium carbide gives off acetylene.
+
+This last reaction was also used in Germany for filling Zeppelins. For
+calcium carbide is convenient and portable and acetylene, when it is
+once started, as by an electric shock, decomposes spontaneously by its
+own internal heat into hydrogen and carbon. The latter is left as a
+fine, pure lampblack, suitable for printer's ink.
+
+Napoleon, who was always on the lookout for new inventions that could be
+utilized for military purposes, seized immediately upon the balloon as
+an observation station. Within a few years after the first ascent had
+been made in Paris Napoleon took balloons and apparatus for generating
+hydrogen with him on his "archeological expedition" to Egypt in which he
+hoped to conquer Asia. But the British fleet in the Mediterranean put a
+stop to this experiment by intercepting the ship, and military aviation
+waited until the Great War for its full development. This caused a
+sudden demand for immense quantities of hydrogen and all manner of means
+was taken to get it. Water is easily decomposed into hydrogen and oxygen
+by passing an electric current through it. In various electrolytical
+processes hydrogen has been a wasted by-product since the balloon demand
+was slight and it was more bother than it was worth to collect and
+purify the hydrogen. Another way of getting hydrogen in quantity is by
+passing steam over red-hot coke. This produces the blue water-gas, which
+contains about 50 per cent. hydrogen, 40 per cent. carbon monoxide and
+the rest nitrogen and carbon dioxide. The last is removed by running the
+mixed gases through lime. Then the nitrogen and carbon monoxide are
+frozen out in an air-liquefying apparatus and the hydrogen escapes to
+the storage tank. The liquefied carbon monoxide, allowed to regain its
+gaseous form, is used in an internal combustion engine to run the plant.
+
+There are then many ways of producing hydrogen, but it is so light and
+bulky that it is difficult to get it where it is wanted. The American
+Government in the war made use of steel cylinders each holding 161 cubic
+feet of the gas under a pressure of 2000 pounds per square inch. Even
+the hydrogen used by the troops in France was shipped from America in
+this form. For field use the ferro-silicon and soda process was adopted.
+A portable generator of this type was capable of producing 10,000 cubic

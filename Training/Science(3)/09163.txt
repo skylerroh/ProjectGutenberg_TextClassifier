@@ -1,0 +1,332 @@
+Project Gutenberg's Scientific American Supplement, No. 417, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Scientific American Supplement, No. 417
+
+Author: Various
+
+Posting Date: October 10, 2012 [EBook #9163]
+Release Date: October, 2005
+First Posted: September 10, 2003
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SCIENTIFIC AMERICAN SUPPL., NO. 417 ***
+
+
+
+
+Produced by J. Paolucci, D. Kretz, J. Sutherland, and
+Distributed Proofreaders
+
+
+
+
+
+
+
+
+
+
+[Illustration]
+
+
+
+
+SCIENTIFIC AMERICAN SUPPLEMENT NO. 417
+
+
+
+
+NEW YORK, DECEMBER 29, 1883
+
+Scientific American Supplement. Vol. XVI, No. 417.
+
+Scientific American established 1845
+
+Scientific American Supplement, $5 a year.
+
+Scientific American and Supplement, $7 a year.
+
+
+       *       *       *       *       *
+
+TABLE OF CONTENTS
+
+I.   ENGINEERING AND MECHANICS.--Machine for Making Electric
+     Light Carbons.--2 figures
+
+     The Earliest Gas Engine
+
+     The Moving of Large Masses.--With engravings of the removal
+     of a belfry at Cresentino in 1776, and of the winged bulls from
+     Nineveh to Mosul in 1854
+
+     Science and Engineering.--The relation they bear to one another.
+     By WALTER R. BROWNE
+
+     Hydraulic Plate Press.--With engraving
+
+     Fast Printing Press for Engravings.--With engraving
+
+     French Cannon
+
+     Apparatus for Heating by Gas.--5 figures
+
+     Improved Gas Burner for Singeing Machines.--1 figure
+
+II.  TECHNOLOGY.--China Grass, or Rhea.--Different processes and
+     apparatus used in preparing the fiber for commerce
+
+III. ARCHITECTURE.--Woodlands, Stoke Pogis, Bucks.--With engraving.
+
+IV.  ELECTRICITY, LIGHT, ETC.--Volta Electric Induction as Demonstrated
+     by Experiment.--Paper read by WILLOUGHBY SMITH before the Society
+     of Telegraph Engineers and Electricians.--Numerous figures
+
+     On Telpherage.--The Transmission of vehicles by electricity to a
+     distance.--By Prof. FLEEMING JENKIN
+
+     New Electric Battery Lights
+
+     The Siemens Electric Railway at Zankeroda Mines.--3 figures
+
+     Silas' Chronophore.--3 figures
+
+V.   NATURAL HISTORY.--A New Enemy of the Bee
+
+     Crystallization of Honey
+
+     An Extensive Sheep Range
+
+VI.  HORTICULTURE, ETC.--The Zelkowas.--With full description
+     of the tree, manner of identification, etc., and several
+     engravings showing the tree as a whole, and the leaves,
+     fruit, and flowers in detail
+
+VII. MEDICINE, HYGIENE, ETC.-The Disinfection of the Atmosphere.
+     --Extract from a lecture by Dr. R.J. LEE, delivered at the
+     Parkes Museum of Hygiene. London
+
+     A New Method of Staining Bacillus Tuberculosis
+
+     Cure for Hemorrhoids
+
+       *       *       *       *       *
+
+
+
+
+VOLTA-ELECTRIC INDUCTION.
+
+[Footnote: A paper read at the Society of Telegraph Engineers and
+Electricians on the 8th November, 1883]
+
+By WILLOUGHBY SMITH.
+
+
+In my presidential address, which I had the pleasure of reading before
+this society at our first meeting this year, I called attention,
+somewhat hurriedly, to the results of a few of my experiments on
+induction, and at the same time expressed a hope that at a future date I
+might be able to bring them more prominently before you. That date has
+now arrived, and my endeavor this evening will be to demonstrate to you
+by actual experiment some of what I consider the most important results
+obtained. My desire is that all present should see these results, and
+with that view I will try when practicable to use a mirror reflecting
+galvanometer instead of a telephone. All who have been accustomed to the
+use of reflecting galvanometers will readily understand the difficulty,
+on account of its delicacy, of doing so where no special arrangements
+are provided for its use; but perhaps with a little indulgence on your
+part and patience on mine the experiments may be brought to a successful
+issue.
+
+[Illustration: VOLTA-ELECTRIC INDUCTION.]
+
+Reliable records extending over hundreds of years show clearly with what
+energy and perseverance scientific men in every civilized part of the
+world have endeavored to wrest from nature the secret of what is termed
+her "phenomena of magnetism," and, as is invariably the case under
+similar circumstances, the results of the experiments and reasoning of
+some have far surpassed those of others in advancing our knowledge. For
+instance, the experimental philosophers in many branches of science were
+groping as it were in darkness until the brilliant light of Newton's
+genius illumined their path. Although, perhaps, I should not be
+justified in comparing Oersted with Newton, yet he also discovered what
+are termed "new" laws of nature, in a manner at once precise, profound,
+and amazing, and which opened a new field of research to many of the
+most distinguished philosophers of that time, who were soon engaged in
+experimenting in the same direction, and from whose investigations arose
+a new science, which was called "electro-dynamics." Oersted demonstrated
+from inductive reasoning that every conductor of electricity possessed
+all the known properties of a magnet while a current of electricity was
+passing through it. If you earnestly contemplate the important adjuncts
+to applied science which have sprung from that apparently simple fact,
+you will not fail to see the importance of the discovery; for it was
+while working in this new field of electro-magnetism that Sturgeon made
+the first electro-magnet, and Faraday many of his discoveries relating
+to induction.
+
+Soon after the discovery by Oersted just referred to, Faraday, with the
+care and ability manifest in all his experiments, showed that when an
+intermittent current of electricity is passing along a wire it induces
+a current in any wire forming a complete circuit and placed parallel
+to it, and that if the two wires were made into two helices and placed
+parallel to each other the effect was more marked. This Faraday
+designated "Volta-electric induction," and it is with this kind of
+induction I wish to engage your attention this evening; for it is a
+phenomenon which presents some of the most interesting and important
+facts in electrical science.
+
+Here are two flat spirals of silk-covered copper wire suspended
+separately, spider-web fashion, in wooden frames marked respectively A
+and B. The one marked A is so connected that reversals at any desired
+speed per minute from a battery of one or more cells can be passed
+through it. The one marked B is so connected to the galvanometer and a
+reverser as to show the deflection caused by the induced currents, which
+are momentary in duration, and in the galvanometer circuit all on the
+same side of zero, for as the battery current on making contact produces
+an induced current in the reverse direction to itself, but in the same
+direction on breaking the contact, of course the one would neutralize
+the other, and the galvanometer would not be affected; the galvanometer
+connections are therefore reversed with each reversal of the battery
+current, and by that means the induced currents are, as you perceive,
+all in the same direction and produce a steady deflection. The
+connections are as shown on the sheet before you marked 1, which I think
+requires no further explanation.
+
+Before proceeding, please to bear in mind the fact that the inductive
+effects vary inversely as the square of the distance between the two
+spirals, when parallel to each other; and that the induced current in
+B is proportional to the number of reversals of the battery current
+passing through spiral A, and also to the strength of the current so
+passing. Faraday's fertile imagination would naturally suggest the
+question, "Is this lateral action, which we call magnetism, extended to
+a distance by the action of intermediate particles?" If so, then it is
+reasonable to expect that all substances would not be affected in the
+same way, and therefore different results would be obtained if different
+media were interposed between the inductor and what I will merely call,
+for distinction, the inductometer.
+
+With a view to proving this experimentally, Faraday constructed three
+flat helices and placed them parallel to each other a convenient
+distance apart. The middle helix was so arranged that a voltaic current
+could be sent through it at pleasure. A differential galvanometer was
+connected with the other helices in such a manner that when a voltaic
+current was sent through the middle helix its inductive action on
+the lateral helices should cause currents in them, having contrary
+directions in the coils of the galvanometer. This was a very prettily
+arranged electric balance, and by placing plates of different substances
+between the inductor and one of the inductometers Faraday expected to
+see the balance destroyed to an extent which would be indicated by the
+deflection of the needle of the galvanometer. To his surprise he found
+that it made not the least difference whether the intervening space was
+occupied by such insulating bodies as air, sulphur, and shellac, or such
+conducting bodies as copper and the other non-magnetic metals. These
+results, however, did not satisfy him, as he was convinced that the
+interposition of the non-magnetic metals, especially of copper, did
+have an effect, but that his apparatus was not suitable for making it
+visible. It is to be regretted that so sound a reasoner and so careful
+an experimenter had not the great advantage of the assistance of
+such suitable instruments for this class of research as the
+mirror-galvanometer and the telephone. But, although he could not
+practically demonstrate the effects which by him could be so clearly
+seen, it redounds to his credit that, as the improvement in instruments
+for this kind of research has advanced, the results he sought for have
+been found in the direction in which he predicted.
+
+A and B will now be placed a definite distance apart, and comparatively
+slow reversals from ten Leclanche cells sent through spiral A; you will
+observe the amount of the induced current in B, as shown on the scale of
+the galvanometer in circuit with that spiral. Now midway between the two
+spirals will be placed a plate of iron, as shown in Plate 2, and at once
+you observe the deflection of the galvanometer is reduced by less than
+one half, showing clearly that the presence of the iron plate is in some
+way influencing the previous effects. The iron will now be removed, but
+the spirals left in the same position as before, and by increasing the
+speed of the reversals you see a higher deflection is given on the
+galvanometer. Now, on again interposing the iron plate the deflection
+falls to a little less than one-half, as before. I wish this fact to be
+carefully noted.
+
+The experiment will be repeated with a plate of copper of precisely the
+same dimensions as the iron plate, and you observe that, although the
+conditions are exactly alike in both cases, the interposition of the
+copper plate has apparently no effect at the present speed of the
+reversals, although the interposition of the iron plate under the same
+conditions reduced the deflection about fifty per cent. We will now
+remove the copper plate, as we did the iron one, and increase the speed
+of the reversals to the same as in the experiment with the iron, and you
+observe the deflection on the galvanometer is about the same as it was
+on that occasion. Now, by replacing the copper plate to its former
+position you will note how rapidly the deflection falls. We will now
+repeat the experiment with a plate of lead; you will see that, like the
+copper, it is unaffected at the low speed, but there the resemblance
+ceases; for at the high speed it has but very slight effect. Thus these
+metals, iron, copper, and lead, appear to differ as widely in their
+electrical as they do in their mechanical properties. Of course it would
+be impossible to obtain accurate measurements on an occasion like the
+present, but careful and reliable measurements have been made, the
+results of which are shown on the sheet before you, marked 3.
+
+It will be seen by reference to these results that the percentage of
+inductive energy intercepted does not increase for different speeds of
+the reverser in the same rate with different metals, the increase with
+iron being very slight, while with tin it is comparatively enormous. It
+was observed that time was an important element to be taken into account
+while testing the above metals, that is to say, the lines of force took
+an appreciable time to polarize the particles of the metal placed in
+their path, but having accomplished this, they passed more freely
+through it.
+
+Now let us go more minutely into the subject by the aid of Plate IV.,
+Figs. 1 and 2. In Fig. 1 let A and B represent two flat spirals, spiral
+A being connected to a battery with a key in circuit and spiral B
+connected to a galvanometer; then, on closing the battery circuit, an
+instantaneous current is induced in spiral B. If a non-magnetic metal
+plate half an inch thick be placed midway between the spirals, and the
+experiment repeated, it will be found that the induced current received
+by B is the same in amount as in the first case. This does not prove,
+as would at first appear, that the metal plate fails to intercept the
+inductive radiant energy; and it can scarcely be so, for if the plate is
+replaced by a coil of wire, it is found that induced currents are set
+up therein, and therefore inductive radiant energy must have been
+intercepted. This apparent contradiction may be explained as follows:
+
+In Fig. 2 let D represent a source of heat (a vessel of boiling water
+for instance) and E a sensitive thermometer receiving and measuring the
+radiant heat. Now, if for instance a plate of vulcanite is interposed,
+it cuts off and absorbs a part of the radiant heat emitted by D, and
+thus a fall is produced in the thermometer reading. But the vulcanite,
+soon becoming heated by the radiant heat cut off and absorbed by itself,
+radiates that heat and causes the thermometer reading to return to about
+its original amount. The false impression is thus produced that the
+original radiated heat was unaffected by the vulcanite plate; instead of
+which, as a matter of fact, the vulcanite plate had cut off the radiant
+heat, becoming heated itself by so doing, and was consequently then the
+radiating body affecting the thermometer.
+
+The effect is similar in the case of induction between the two spirals.
+Spiral A induces and spiral B receives the induced effect. The metal
+plate being then interposed, cuts off and absorbs either all or part of
+the inductive radiant energy emitted by A. The inductive radiant energy
+thus cut off, however, is not lost, but is converted into electrical
+energy in the metal plate, thereby causing it to become, as in the case
+of the vulcanite in the heat experiment, a source of radiation which
+compensates as far as spiral B is concerned for the original inductive
+radiant energy cut off. The only material difference noticeable in
+the two experiments is that in the case of heat the time that elapses
+between the momentary fall in the thermometer reading (due to the
+interception by the vulcanite plate of the radiant beat) and the
+subsequent rise (due to the interposing plate, itself radiating that
+heat) is long enough to render the effect clearly manifest; whereas in
+the case of induction the time that elapses is so exceedingly short
+that, unless special precautions are taken, the radiant energy emitted
+by the metal plate is liable to be mistaken for the primary energy

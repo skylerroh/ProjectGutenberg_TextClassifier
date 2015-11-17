@@ -1,0 +1,518 @@
+on the parabolas obtained by this method. Find and explain this
+restriction.
+
+13. State and explain the similar problem for problem 9.
+
+14. The last four problems are a study of the consequences of the
+following transformation: A point _O_ is fixed in the plane. Then to any
+point _P_ is made to correspond the line _p_ at right angles to _OP_ and
+bisecting it. In this correspondence, what happens to _p_ when _P_ moves
+along a straight line? What corresponds to the theorem that two lines have
+only one point in common? What to the theorem that the angle sum of a
+triangle is two right angles? Etc.
+
+
+
+
+
+CHAPTER X - ON THE HISTORY OF SYNTHETIC PROJECTIVE GEOMETRY
+
+
+
+
+*161. Ancient results.*  The theory of synthetic projective geometry as we
+have built it up in this course is less than a century old. This is not to
+say that many of the theorems and principles involved were not discovered
+much earlier, but isolated theorems do not make a theory, any more than a
+pile of bricks makes a building. The materials for our building have been
+contributed by many different workmen from the days of Euclid down to the
+present time. Thus, the notion of four harmonic points was familiar to the
+ancients, who considered it from the metrical point of view as the
+division of a line internally and externally in the same ratio(1) the
+involution of six points cut out by any transversal which intersects the
+sides of a complete quadrilateral as studied by Pappus(2); but these
+notions were not made the foundation for any general theory. Taken by
+themselves, they are of small consequence; it is their relation to other
+theorems and sets of theorems that gives them their importance. The
+ancients were doubtless familiar with the theorem, _Two lines determine a
+point, and two points determine a line_, but they had no glimpse of the
+wonderful law of duality, of which this theorem is a simple example. The
+principle of projection, by which many properties of the conic sections
+may be inferred from corresponding properties of the circle which forms
+the base of the cone from which they are cut--a principle so natural to
+modern mathematicians--seems not to have occurred to the Greeks. The
+ellipse, the hyperbola, and the parabola were to them entirely different
+curves, to be treated separately with methods appropriate to each. Thus
+the focus of the ellipse was discovered some five hundred years before the
+focus of the parabola! It was not till 1522 that Verner(3) of Nuernberg
+undertook to demonstrate the properties of the conic sections by means of
+the circle.
+
+
+
+
+*162. Unifying principles.*  In the early years of the seventeenth
+century--that wonderful epoch in the history of the world which produced a
+Galileo, a Kepler, a Tycho Brahe, a Descartes, a Desargues, a Pascal, a
+Cavalieri, a Wallis, a Fermat, a Huygens, a Bacon, a Napier, and a goodly
+array of lesser lights, to say nothing of a Rembrandt or of a
+Shakespeare--there began to appear certain unifying principles connecting
+the great mass of material dug out by the ancients. Thus, in 1604 the
+great astronomer Kepler(4) introduced the notion that parallel lines
+should be considered as meeting at an infinite distance, and that a
+parabola is at once the limiting case of an ellipse and of a hyperbola. He
+also attributes to the parabola a "blind focus" (_caecus focus_) at
+infinity on the axis.
+
+
+
+
+*163. Desargues.*  In 1639 Desargues,(5) an architect of Lyons, published
+a little treatise on the conic sections, in which appears the theorem upon
+which we have founded the theory of four harmonic points (§ 25).
+Desargues, however, does not make use of it for that purpose. Four
+harmonic points are for him a special case of six points in involution
+when two of the three pairs coincide giving double points. His development
+of the theory of involution is also different from the purely geometric
+one which we have adopted, and is based on the theorem (§ 142) that the
+product of the distances of two conjugate points from the center is
+constant. He also proves the projective character of an involution of
+points by showing that when six lines pass through a point and through six
+points in involution, then any transversal must meet them in six points
+which are also in involution.
+
+
+
+
+*164. Poles and polars.*  In this little treatise is also contained the
+theory of poles and polars. The polar line is called a _traversal_.(6) The
+harmonic properties of poles and polars are given, but Desargues seems not
+to have arrived at the metrical properties which result when the infinite
+elements of the plane are introduced. Thus he says, "When the _traversal_
+is at an infinite distance, all is unimaginable."
+
+
+
+
+*165. Desargues's theorem concerning conics through four points.* We find
+in this little book the beautiful theorem concerning a quadrilateral
+inscribed in a conic section, which is given by his name in § 138. The
+theorem is not given in terms of a system of conics through four points,
+for Desargues had no conception of any such system. He states the theorem,
+in effect, as follows: _Given a simple quadrilateral inscribed in a conic
+section, every transversal meets the conic and the four sides of the
+quadrilateral in six points which are in involution._
+
+
+
+
+*166. Extension of the theory of poles and polars to space.* As an
+illustration of his remarkable powers of generalization, we may note that
+Desargues extended the notion of poles and polars to space of three
+dimensions for the sphere and for certain other surfaces of the second
+degree. This is a matter which has not been touched on in this book, but
+the notion is not difficult to grasp. If we draw through any point _P_ in
+space a line to cut a sphere in two points, _A_ and _S_, and then
+construct the fourth harmonic of _P_ with respect to _A_ and _B_, the
+locus of this fourth harmonic, for various lines through _P_, is a plane
+called the _polar plane_ of _P_ with respect to the sphere. With this
+definition and theorem one can easily find dual relations between points
+and planes in space analogous to those between points and lines in a
+plane. Desargues closes his discussion of this matter with the remark,
+"Similar properties may be found for those other solids which are related
+to the sphere in the same way that the conic section is to the circle." It
+should not be inferred from this remark, however, that he was acquainted
+with all the different varieties of surfaces of the second order. The
+ancients were well acquainted with the surfaces obtained by revolving an
+ellipse or a parabola about an axis. Even the hyperboloid of two sheets,
+obtained by revolving the hyperbola about its major axis, was known to
+them, but probably not the hyperboloid of one sheet, which results from
+revolving a hyperbola about the other axis. All the other solids of the
+second degree were probably unknown until their discovery by Euler.(7)
+
+
+
+
+*167.*  Desargues had no conception of the conic section of the locus of
+intersection of corresponding rays of two projective pencils of rays. He
+seems to have tried to describe the curve by means of a pair of compasses,
+moving one leg back and forth along a straight line instead of holding it
+fixed as in drawing a circle. He does not attempt to define the law of the
+movement necessary to obtain a conic by this means.
+
+
+
+
+*168. Reception of Desargues's work.*  Strange to say, Desargues's
+immortal work was heaped with the most violent abuse and held up to
+ridicule and scorn! "Incredible errors! Enormous mistakes and falsities!
+Really it is impossible for anyone who is familiar with the science
+concerning which he wishes to retail his thoughts, to keep from laughing!"
+Such were the comments of reviewers and critics. Nor were his detractors
+altogether ignorant and uninstructed men. In spite of the devotion of his
+pupils and in spite of the admiration and friendship of men like
+Descartes, Fermat, Mersenne, and Roberval, his book disappeared so
+completely that two centuries after the date of its publication, when the
+French geometer Chasles wrote his history of geometry, there was no means
+of estimating the value of the work done by Desargues. Six years later,
+however, in 1845, Chasles found a manuscript copy of the
+"Bruillon-project," made by Desargues's pupil, De la Hire.
+
+
+
+
+*169. Conservatism in Desargues's time.*  It is not necessary to suppose
+that this effacement of Desargues's work for two centuries was due to the
+savage attacks of his critics. All this was in accordance with the fashion
+of the time, and no man escaped bitter denunciation who attempted to
+improve on the methods of the ancients. Those were days when men refused
+to believe that a heavy body falls at the same rate as a lighter one, even
+when Galileo made them see it with their own eyes at the foot of the tower
+of Pisa. Could they not turn to the exact page and line of Aristotle which
+declared that the heavier body must fall the faster! "I have read
+Aristotle's writings from end to end, many times," wrote a Jesuit
+provincial to the mathematician and astronomer, Christoph Scheiner, at
+Ingolstadt, whose telescope seemed to reveal certain mysterious spots on
+the sun, "and I can assure you I have nowhere found anything similar to
+what you describe. Go, my son, and tranquilize yourself; be assured that
+what you take for spots on the sun are the faults of your glasses, or of
+your eyes." The dead hand of Aristotle barred the advance in every
+department of research. Physicians would have nothing to do with Harvey's
+discoveries about the circulation of the blood. "Nature is accused of
+tolerating a vacuum!" exclaimed a priest when Pascal began his experiments
+on the Puy-de-Dome to show that the column of mercury in a glass tube
+varied in height with the pressure of the atmosphere.
+
+
+
+
+*170. Desargues's style of writing.*  Nevertheless, authority counted for
+less at this time in Paris than it did in Italy, and the tragedy enacted
+in Rome when Galileo was forced to deny his inmost convictions at the
+bidding of a brutal Inquisition could not have been staged in France.
+Moreover, in the little company of scientists of which Desargues was a
+member the utmost liberty of thought and expression was maintained. One
+very good reason for the disappearance of the work of Desargues is to be
+found in his style of writing. He failed to heed the very good advice
+given him in a letter from his warm admirer Descartes.(8) "You may have
+two designs, both very good and very laudable, but which do not require
+the same method of procedure: The one is to write for the learned, and
+show them some new properties of the conic sections which they do not
+already know; and the other is to write for the curious unlearned, and to
+do it so that this matter which until now has been understood by only a
+very few, and which is nevertheless very useful for perspective, for
+painting, architecture, etc., shall become common and easy to all who wish
+to study them in your book. If you have the first idea, then it seems to
+me that it is necessary to avoid using new terms; for the learned are
+already accustomed to using those of Apollonius, and will not readily
+change them for others, though better, and thus yours will serve only to
+render your demonstrations more difficult, and to turn away your readers
+from your book. If you have the second plan in mind, it is certain that
+your terms, which are French, and conceived with spirit and grace, will be
+better received by persons not preoccupied with those of the ancients....
+But, if you have that intention, you should make of it a great volume;
+explain it all so fully and so distinctly that those gentlemen who cannot
+study without yawning; who cannot distress their imaginations enough to
+grasp a proposition in geometry, nor turn the leaves of a book to look at
+the letters in a figure, shall find nothing in your discourse more
+difficult to understand than the description of an enchanted palace in a
+fairy story." The point of these remarks is apparent when we note that
+Desargues introduced some seventy new terms in his little book, of which
+only one, _involution_, has survived. Curiously enough, this is the one
+term singled out for the sharpest criticism and ridicule by his reviewer,
+De Beaugrand.(9) That Descartes knew the character of Desargues's audience
+better than he did is also evidenced by the fact that De Beaugrand
+exhausted his patience in reading the first ten pages of the book.
+
+
+
+
+*171. Lack of appreciation of Desargues.*  Desargues's methods, entirely
+different from the analytic methods just then being developed by Descartes
+and Fermat, seem to have been little understood. "Between you and me,"
+wrote Descartes(10) to Mersenne, "I can hardly form an idea of what he may
+have written concerning conics." Desargues seems to have boasted that he
+owed nothing to any man, and that all his results had come from his own
+mind. His favorite pupil, De la Hire, did not realize the extraordinary
+simplicity and generality of his work. It is a remarkable fact that the
+only one of all his associates to understand and appreciate the methods of
+Desargues should be a lad of sixteen years!
+
+
+
+
+*172. Pascal and his theorem.*  One does not have to believe all the
+marvelous stories of Pascal's admiring sisters to credit him with
+wonderful precocity. We have the fact that in 1640, when he was sixteen
+years old, he published a little placard, or poster, entitled "Essay pour
+les conique,"(11) in which his great theorem appears for the first time.
+His manner of putting it may be a little puzzling to one who has only seen
+it in the form given in this book, and it may be worth while for the
+student to compare the two methods of stating it. It is given as follows:
+_"If in the plane of __M__, __S__, __Q__ we draw through __M__ the two
+lines __MK__ and __MV__, and through the point __S__ the two lines __SK__
+and __SV__, and let __K__ be the intersection of __MK__ and __SK__; __V__
+the intersection of __MV__ and __SV__; __A__ the intersection of __MA__
+and __SA__ (__A__ is the intersection of __SV__ and __MK__), and __{~GREEK SMALL LETTER MU~}__ the
+intersection of __MV__ and __SK__; and if through two of the four points
+__A__, __K__, __{~GREEK SMALL LETTER MU~}__, __V__, which are not in the same straight line with
+__M__ and __S__, such as __K__ and __V__, we pass the circumference of a
+circle cutting the lines __MV__, __MP__, __SV__, __SK__ in the points
+__O__, __P__, __Q__, __N__; I say that the lines __MS__, __NO__, __PQ__
+are of the same order."_ (By "lines of the same order" Pascal means lines
+which meet in the same point or are parallel.) By projecting the figure
+thus described upon another plane he is able to state his theorem for the
+case where the circle is replaced by any conic section.
+
+
+
+
+*173.*  It must be understood that the "Essay" was only a resume of a more
+extended treatise on conics which, owing partly to Pascal's extreme youth,
+partly to the difficulty of publishing scientific works in those days, and
+also to his later morbid interest in religious matters, was never
+published. Leibniz(12) examined a copy of the complete work, and has
+reported that the great theorem on the mystic hexagram was made the basis
+of the whole theory, and that Pascal had deduced some four hundred
+corollaries from it. This would indicate that here was a man able to take
+the unconnected materials of projective geometry and shape them into some
+such symmetrical edifice as we have to-day. Unfortunately for science,
+Pascal's early death prevented the further development of the subject at
+his hands.
+
+
+
+
+*174.*  In the "Essay" Pascal gives full credit to Desargues, saying of
+one of the other propositions, "We prove this property also, the original
+discoverer of which is M. Desargues, of Lyons, one of the greatest minds
+of this age ... and I wish to acknowledge that I owe to him the little
+which I have discovered." This acknowledgment led Descartes to believe
+that Pascal's theorem should also be credited to Desargues. But in the
+scientific club which the young Pascal attended in company with his
+father, who was also a scientist of some reputation, the theorem went by
+the name of 'la Pascalia,' and Descartes's remarks do not seem to have
+been taken seriously, which indeed is not to be wondered at, seeing that
+he was in the habit of giving scant credit to the work of other scientific
+investigators than himself.
+
+
+
+
+*175. De la Hire and his work.*  De la Hire added little to the
+development of the subject, but he did put into print much of what
+Desargues had already worked out, not fully realizing, perhaps, how much
+was his own and how much he owed to his teacher. Writing in 1679, he
+says,(13) "I have just read for the first time M. Desargues's little
+treatise, and have made a copy of it in order to have a more perfect
+knowledge of it." It was this copy that saved the work of his master from
+oblivion. De la Hire should be credited, among other things, with the
+invention of a method by which figures in the plane may be transformed
+into others of the same order. His method is extremely interesting, and
+will serve as an exercise for the student in synthetic projective
+geometry. It is as follows: _Draw two parallel lines, __a__ and __b__, and
+select a point __P__ in their plane. Through any point __M__ of the plane
+draw a line meeting __a__ in __A__ and __b__ in __B__. Draw a line through
+__B__ parallel to __AP__, and let it meet __MP__ in the point __M'__. It
+may be shown that the point __M'__ thus obtained does not depend at all on
+the particular ray __MAB__ used in determining it, so that we have set up
+a one-to-one correspondence between the points __M__ and __M'__ in the
+plane._ The student may show that as _M_ describes a point-row, _M'_
+describes a point-row projective to it. As _M_ describes a conic, _M'_
+describes another conic. This sort of correspondence is called a
+_collineation_. It will be found that the points on the line _b_ transform
+into themselves, as does also the single point _P_. Points on the line _a_
+transform into points on the line at infinity. The student should remove
+the metrical features of the construction and take, instead of two
+parallel lines _a_ and _b_, any two lines which may meet in a finite part
+of the plane. The collineation is a special one in that the general one
+has an invariant triangle instead of an invariant point and line.
+
+
+
+
+*176. Descartes and his influence.*  The history of synthetic projective
+geometry has little to do with the work of the great philosopher
+Descartes, except in an indirect way. The method of algebraic analysis
+invented by him, and the differential and integral calculus which
+developed from it, attracted all the interest of the mathematical world
+for nearly two centuries after Desargues, and synthetic geometry received
+scant attention during the rest of the seventeenth century and for the
+greater part of the eighteenth century. It is difficult for moderns to
+conceive of the richness and variety of the problems which confronted the
+first workers in the calculus. To come into the possession of a method
+which would solve almost automatically problems which had baffled the
+keenest minds of antiquity; to be able to derive in a few moments results
+which an Archimedes had toiled long and patiently to reach or a Galileo
+had determined experimentally; such was the happy experience of
+mathematicians for a century and a half after Descartes, and it is not to
+be wondered at that along with this enthusiastic pursuit of new theorems
+in analysis should come a species of contempt for the methods of the
+ancients, so that in his preface to his "Mechanique Analytique," published
+in 1788, Lagrange boasts, "One will find no figures in this work." But at
+the close of the eighteenth century the field opened up to research by the
+invention of the calculus began to appear so thoroughly explored that new
+methods and new objects of investigation began to attract attention.
+Lagrange himself, in his later years, turned in weariness from analysis
+and mechanics, and applied himself to chemistry, physics, and
+philosophical speculations. "This state of mind," says Darboux,(14) "we
+find almost always at certain moments in the lives of the greatest
+scholars." At any rate, after lying fallow for almost two centuries, the
+field of pure geometry was attacked with almost religious enthusiasm.
+
+
+
+
+*177. Newton and Maclaurin.*  But in hastening on to the epoch of Poncelet
+and Steiner we should not omit to mention the work of Newton and
+Maclaurin. Although their results were obtained by analysis for the most
+part, nevertheless they have given us theorems which fall naturally into
+the domain of synthetic projective geometry. Thus Newton's "organic
+method"(15) of generating conic sections is closely related to the method
+which we have made use of in Chapter III. It is as follows: _If two
+angles, __AOS__ and __AO'S__, of given magnitudes turn about their
+respective vertices, __O__ and __O'__, in such a way that the point of
+intersection, __S__, of one pair of arms always lies on a straight line,
+the point of intersection, __A__, of the other pair of arms will describe
+a conic._ The proof of this is left to the student.
+
+
+
+
+*178.*  Another method of generating a conic is due to Maclaurin.(16) The
+construction, which we also leave for the student to justify, is as
+follows: _If a triangle __C'PQ__ move in such a way that its sides,
+__PQ__, __QC'__, and __C'P__, turn __ around three fixed points, __R__,
+__A__, __B__, respectively, while two of its vertices, __P__, __Q__, slide
+along two fixed lines, __CB'__ and __CA'__, respectively, then the
+remaining vertex will describe a conic._
+
+
+
+
+*179. Descriptive geometry and the second revival.* The second revival of
+pure geometry was again to take place at a time of great intellectual
+activity. The period at the close of the eighteenth and the beginning of
+the nineteenth century is adorned with a glorious list of mighty names,
+among which are Gauss, Lagrange, Legendre, Laplace, Monge, Carnot,
+Poncelet, Cauchy, Fourier, Steiner, Von Staudt, Moebius, Abel, and many
+others. The renaissance may be said to date from the invention by
+Monge(17) of the theory of _descriptive geometry_. Descriptive geometry is
+concerned with the representation of figures in space of three dimensions
+by means of space of two dimensions. The method commonly used consists in
+projecting the space figure on two planes (a vertical and a horizontal
+plane being most convenient), the projections being made most simply for
+metrical purposes from infinity in directions perpendicular to the two
+planes of projection. These two planes are then made to coincide by
+revolving the horizontal into the vertical about their common line. Such
+is the method of descriptive geometry which in the hands of Monge acquired
+wonderful generality and elegance. Problems concerning fortifications were
+worked so quickly by this method that the commandant at the military
+school at Mezieres, where Monge was a draftsman and pupil, viewed the
+results with distrust. Monge afterward became professor of mathematics at
+Mezieres and gathered around him a group of students destined to have a
+share in the advancement of pure geometry. Among these were Hachette,
+Brianchon, Dupin, Chasles, Poncelet, and many others.
+
+
+
+
+*180. Duality, homology, continuity, contingent relations.* Analytic
+geometry had left little to do in the way of discovery of new material,
+and the mathematical world was ready for the construction of the edifice.
+The activities of the group of men that followed Monge were directed
+toward this end, and we now begin to hear of the great unifying notions of
+duality, homology, continuity, contingent relations, and the like. The
+devotees of pure geometry were beginning to feel the need of a basis for
+their science which should be at once as general and as rigorous as that
+of the analysts. Their dream was the building up of a system of geometry
+which should be independent of analysis. Monge, and after him Poncelet,
+spent much thought on the so-called "principle of continuity," afterwards
+discussed by Chasles under the name of the "principle of contingent
+relations." To get a clear idea of this principle, consider a theorem in
+geometry in the proof of which certain auxiliary elements are employed.
+These elements do not appear in the statement of the theorem, and the
+theorem might possibly be proved without them. In drawing the figure for
+the proof of the theorem, however, some of these elements may not appear,
+or, as the analyst would say, they become imaginary. "No matter," says the
+principle of contingent relations, "the theorem is true, and the proof is
+valid whether the elements used in the proof are real or imaginary."
+
+
+
+
+*181. Poncelet and Cauchy.*  The efforts of Poncelet to compel the
+acceptance of this principle independent of analysis resulted in a bitter
+and perhaps fruitless controversy between him and the great analyst
+Cauchy. In his review of Poncelet's great work on the projective
+properties of figures(18) Cauchy says, "In his preliminary discourse the
+author insists once more on the necessity of admitting into geometry what
+he calls the 'principle of continuity.' We have already discussed that
+principle ... and we have found that that principle is, properly speaking,
+only a strong induction, which cannot be indiscriminately applied to all
+sorts of questions in geometry, nor even in analysis. The reasons which we
+have given as the basis of our opinion are not affected by the
+considerations which the author has developed in his Traite des Proprietes
+Projectives des Figures." Although this principle is constantly made use
+of at the present day in all sorts of investigations, careful
+geometricians are in agreement with Cauchy in this matter, and use it only
+as a convenient working tool for purposes of exploration. The one-to-one
+correspondence between geometric forms and algebraic analysis is subject
+to many and important exceptions. The field of analysis is much more
+general than the field of geometry, and while there may be a clear notion
+in analysis to, correspond to every notion in geometry, the opposite is
+not true. Thus, in analysis we can deal with four cooerdinates as well as
+with three, but the existence of a space of four dimensions to correspond
+to it does not therefore follow. When the geometer speaks of the two real
+or imaginary intersections of a straight line with a conic, he is really
+speaking the language of algebra. _Apart from the algebra involved_, it is
+the height of absurdity to try to distinguish between the two points in
+which a line _fails to meet a conic!_
+
+
+
+
+*182. The work of Poncelet.*  But Poncelet's right to the title "The
+Father of Modern Geometry" does not stand or fall with the principle of
+contingent relations. In spite of the fact that he considered this
+principle the most important of all his discoveries, his reputation rests
+on more solid foundations. He was the first to study figures _in
+homology_, which is, in effect, the collineation described in § 175, where
+corresponding points lie on straight lines through a fixed point. He was
+the first to give, by means of the theory of poles and polars, a
+transformation by which an element is transformed into another of a
+different sort. Point-to-point transformations will sometimes generalize a
+theorem, but the transformation discovered by Poncelet may throw a theorem
+into one of an entirely different aspect. The principle of duality, first
+stated in definite form by Gergonne,(19) the editor of the mathematical
+journal in which Poncelet published his researches, was based by Poncelet
+on his theory of poles and polars. He also put into definite form the
+notions of the infinitely distant elements in space as all lying on a
+plane at infinity.
+
+
+
+
+*183. The debt which analytic geometry owes to synthetic geometry.* The
+reaction of pure geometry on analytic geometry is clearly seen in the
+development of the notion of the _class_  of a curve, which is the number
+of tangents that may be drawn from a point in a plane to a given curve
+lying in that plane. If a point moves along a conic, it is easy to
+show--and the student is recommended to furnish the proof--that the polar
+line with respect to a conic remains tangent to another conic. This may be
+expressed by the statement that the conic is of the second order and also
+of the second class. It might be thought that if a point moved along a
+cubic curve, its polar line with respect to a conic would remain tangent
+to another cubic curve. This is not the case, however, and the
+investigations of Poncelet and others to determine the class of a given
+curve were afterward completed by Pluecker. The notion of geometrical
+transformation led also to the very important developments in the theory
+of invariants, which, geometrically, are the elements and configurations
+which are not affected by the transformation. The anharmonic ratio of four
+points is such an invariant, since it remains unaltered under all
+projective transformations.
+
+
+
+
+*184. Steiner and his work.*  In the work of Poncelet and his

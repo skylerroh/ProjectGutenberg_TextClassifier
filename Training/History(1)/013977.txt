@@ -1,0 +1,383 @@
+The Project Gutenberg EBook of The Argonautica, by Apollonius Rhodius
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: The Argonautica
+
+Author: Apollonius Rhodius
+
+Release Date: November 8, 2004 [EBook #13977]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE ARGONAUTICA ***
+
+
+
+
+Produced by Ted Garvin, Aaron A. Reed and the Online Distributed
+Proofreading Team at www.pgdp.net
+
+
+
+
+
+
+                    APOLLONIUS RHODIUS
+
+                     THE ARGONAUTICA
+
+
+              With An English Translation By
+
+                     R.C. SEATON, M.A.
+
+        Formerly Fellow Of Jesus College, Cambridge
+
+
+
+                        _ 1912 _
+
+
+
+
+
+CONTENTS
+
+
+INTRODUCTION
+BIBLIOGRAPHY
+BOOK I
+BOOK II
+BOOK III
+BOOK IV
+STEMMA MEDEAE
+INDEX
+
+
+
+
+INTRODUCTION
+
+
+Much has been written about the chronology of Alexandrian literature and
+the famous Library, founded by Ptolemy Soter, but the dates of the chief
+writers are still matters of conjecture. The birth of Apollonius Rhodius
+is placed by scholars at various times between 296 and 260 B.C., while
+the year of his death is equally uncertain. In fact, we have very little
+information on the subject. There are two "lives" of Apollonius in the
+Scholia, both derived from an earlier one which is lost. From these we
+learn that he was of Alexandria by birth,[1] that he lived in the time
+of the Ptolemies, and was a pupil of Callimachus; that while still a
+youth he composed and recited in public his _Argonautica_, and that the
+poem was condemned, in consequence of which he retired to Rhodes; that
+there he revised his poem, recited it with great applause, and hence
+called himself a Rhodian. The second "life" adds: "Some say that he
+returned to Alexandria and again recited his poem with the utmost
+success, so that he was honoured with the libraries of the Museum[2] and
+was buried with Callimachus." The last sentence may be interpreted by
+the notice of Suidas, who informs us that Apollonius was a contemporary
+of Eratosthenes, Euphorion and Timarchus, in the time of Ptolemy
+Euergetes, and that he succeeded Eratosthenes in the headship of the
+Alexandrian Library. Suidas also informs us elsewhere that Aristophanes
+at the age of sixty-two succeeded Apollonius in this office. Many modern
+scholars deny the "bibliothecariate" of Apollonius for chronological
+reasons, and there is considerable difficulty about it. The date of
+Callimachus' _Hymn to Apollo,_ which closes with some lines (105-113)
+that are admittedly an allusion to Apollonius, may be put with much
+probability at 248 or 247 B.C. Apollonius must at that date have been at
+least twenty years old. Eratosthenes died 196-193 B.C. This would make
+Apollonius seventy-two to seventy-five when he succeeded Eratosthenes.
+This is not impossible, it is true, but it is difficult. But the
+difficulty is taken away if we assume with Ritschl that Eratosthenes
+resigned his office some years before his death, which allows us to put
+the birth of Apollonius at about 280, and would solve other
+difficulties. For instance, if the Librarians were buried within the
+precincts, it would account for the burial of Apollonius next to
+Callimachus--Eratosthenes being still alive. However that may be, it is
+rather arbitrary to take away the "bibliothecariate" of Apollonius,
+which is clearly asserted by Suidas, on account of chronological
+calculations which are themselves uncertain. Moreover, it is more
+probable that the words following "some say" in the second "life" are a
+remnant of the original life than a conjectural addition, because the
+first "life" is evidently incomplete, nothing being said about the end
+of Apollonius' career.
+
+[Footnote 1: "Or of Naucratis," according to Aelian and Athenaeus.]
+
+[Footnote 2: [Greek: hos kai ton bibliothekon tou mouseiou axiothenai
+auton.]]
+
+The principal event in his life, so far as we know, was the quarrel with
+his master Callimachus, which was most probably the cause of his
+condemnation at Alexandria and departure to Rhodes. This quarrel appears
+to have arisen from differences of literary aims and taste, but, as
+literary differences often do, degenerated into the bitterest personal
+strife. There are references to the quarrel in the writings of both.
+Callimachus attacks Apollonius in the passage at the end of the _Hymn to
+Apollo_, already mentioned, also probably in some epigrams, but most of
+all in his _Ibis_, of which we have an imitation, or perhaps nearly a
+translation, in Ovid's poem of the same name. On the part of Apollonius
+there is a passage in the third book of the _Argonautica_ (11. 927-947)
+which is of a polemical nature and stands out from the context, and the
+well-known savage epigram upon Callimachus.[1] Various combinations have
+been attempted by scholars, notably by Couat, in his _Poesie
+Alexandrine_, to give a connected account of the quarrel, but we have
+not _data_ sufficient to determine the order of the attacks, and
+replies, and counter-attacks. The _Ibis_ has been thought to mark the
+termination of the feud on the curious ground that it was impossible for
+abuse to go further. It was an age when literary men were more inclined
+to comment on writings of the past than to produce original work.
+Literature was engaged in taking stock of itself. Homer was, of course,
+professedly admired by all, but more admired than imitated. Epic poetry
+was out of fashion and we find many epigrams of this period--some by
+Callimachus--directed against the "cyclic" poets, by whom were meant at
+that time those who were always dragging in conventional and commonplace
+epithets and phrases peculiar to epic poetry. Callimachus was in
+accordance with the spirit of the age when he proclaimed "a great book"
+to be "a great evil," and sought to confine poetical activity within the
+narrowest limits both of subject and space. Theocritus agreed with him,
+both in principle and practice. The chief characteristics of
+Alexandrianism are well summarized by Professor Robinson Ellis as
+follows: "Precision in form and metre, refinement in diction, a learning
+often degenerating into pedantry and obscurity, a resolute avoidance of
+everything commonplace in subject, sentiment or allusion." These traits
+are more prominent in Callimachus than in Apollonius, but they are
+certainly to be seen in the latter. He seems to have written the
+_Argonautica_ out of bravado, to show that he _could_ write an epic
+poem. But the influence of the age was too strong. Instead of the unity
+of an Epic we have merely a series of episodes, and it is the great
+beauty and power of one of these episodes that gives the poem its
+permanent value--the episode of the love of Jason and Medea. This
+occupies the greater part of the third book. The first and second books
+are taken up with the history of the voyage to Colchis, while the fourth
+book describes the return voyage. These portions constitute a metrical
+guide book, filled no doubt with many pleasing episodes, such as the
+rape of Hylas, the boxing match between Pollux and Amycus, the account
+of Cyzicus, the account of the Amazons, the legend of Talos, but there
+is no unity running through the poem beyond that of the voyage itself.
+
+[Footnote 1: Anth. Pal. xi. 275.]
+
+The Tale of the Argonauts had been told often before in verse and prose,
+and many authors' names are given in the Scholia to Apollonius, but
+their works have perished. The best known earlier account that we have
+is that in Pindar's fourth Pythian ode, from which Apollonius has taken
+many details. The subject was one for an epic poem, for its unity might
+have been found in the working out of the expiation due for the crime of
+Athamas; but this motive is barely mentioned by our author.
+
+As we have it, the motive of the voyage is the command of Pelias to
+bring back the golden fleece, and this command is based on Pelias'
+desire to destroy Jason, while the divine aid given to Jason results
+from the intention of Hera to punish Pelias for his neglect of the
+honour due to her. The learning of Apollonius is not deep but it is
+curious; his general sentiments are not according to the Alexandrian
+standard, for they are simple and obvious. In the mass of material from
+which he had to choose the difficulty was to know what to omit, and much
+skill is shewn in fusing into a tolerably harmonious whole conflicting
+mythological and historical details. He interweaves with his narrative
+local legends and the founding of cities, accounts of strange customs,
+descriptions of works of art, such as that of Ganymede and Eros playing
+with knucklebones,[1] but prosaically calls himself back to the point
+from these pleasing digressions by such an expression as "but this would
+take me too far from my song." His business is the straightforward tale
+and nothing else. The astonishing geography of the fourth book reminds
+us of the interest of the age in that subject, stimulated no doubt by
+the researches of Eratosthenes and others.
+
+[Footnote 1: iii. 117-124.]
+
+The language is that of the conventional epic. Apollonius seems to have
+carefully studied Homeric glosses, and gives many examples of isolated
+uses, but his choice of words is by no means limited to Homer. He freely
+avails himself of Alexandrian words and late uses of Homeric words.
+Among his contemporaries Apollonius suffers from a comparison with
+Theocritus, who was a little his senior, but he was much admired by
+Roman writers who derived inspiration from the great classical writers
+of Greece by way of Alexandria. In fact Alexandria was a useful bridge
+between Athens and Rome. The _Argonautica_ was translated by Varro
+Atacinus, copied by Ovid and Virgil, and minutely studied by Valerius
+Flaccus in his poem of the same name. Some of his finest passages have
+been appropriated and improved upon by Virgil by the divine right of
+superior genius.[1] The subject of love had been treated in the romantic
+spirit before the time of Apollonius in writings that have perished, for
+instance, in those of Antimachus of Colophon, but the _Argonautica_ is
+perhaps the first poem still extant in which the expression of this
+spirit is developed with elaboration. The Medea of Apollonius is the
+direct precursor of the Dido of Virgil, and it is the pathos and passion
+of the fourth book of the Aeneid that keep alive many a passage of
+Apollonius.
+
+[Footnote 1: e.g. compare _Aen._ iv. 305 foll, with Ap. Rh. iv. 355
+foll., _Aen._ iv. 327-330 with Ap. Rh. i. 897, 898, _Aen._ iv. 522
+foll., with Ap. Rh. iii. 744 foll.]
+
+
+
+
+BIBLIOGRAPHY.
+
+
+Two editions of the Argonautica were published by Apollonius. Of these
+we have only the second. The Scholia preserve a few passages of the
+first edition, from which the second seems to have differed only
+slightly. The old opinion that our MSS. preserve any traces of the first
+edition has long been given up. The principal MSS. are the following:--
+
+     The Laurentian, also called the Medicean, XXXII. 9, of the early
+     eleventh century, the excellent MS. at Florence which contains
+     Sophocles, Aeschylus and Apollonius Rhodius. This is far the best
+     authority for the text (here denoted by L).
+
+     The Guelferbytanus of the thirteenth century, which closely agrees
+     with another Laurentian, XXXII. 16, of the same date (here denoted
+     by G and L^2 respectively).
+
+There were in the early eleventh century two types of text, the first
+being best known to us by L, the second by G and L^2 and the corrections
+made in L. Quotations in the Etymologicum Magnum agree with the second
+type and show that this is as old as the fifth century. Besides these
+there are, of inferior MSS., four Vatican and five Parisian which are
+occasionally useful. Most of them have Scholia; the best Scholia are
+those of L.
+
+The principal editions are:--
+
+Florence, 1496, 4to. This is the _editio princeps_, by Lascaris, based
+on L, with Scholia, a very rare book.
+
+Venice, 1521, 8vo. The Aldine, by Franciscus Asulanus, with Scholia.
+
+Paris, 1541, 8vo, based on the Parisian MSS.
+
+Geneva, 1574, 4to, by Stephanus, with Scholia.
+
+Leyden, 1641, 2 vols., 8vo, by J. Hoelzlin, with a Latin version.
+
+Oxford, 1777, 2 vols., 4to, by J. Shaw, with a Latin version.
+
+Strassburg, 1780, 8vo and 4to, by R.F.P. Brunck.
+
+Rome, 1791-1794, 2 vols., 4to, by Flangini, with an Italian translation.
+
+Leipzig, 1797, 8vo, by Ch. D. Beck, with a Latin version. A second
+volume, to contain the Scholia and a commentary, was never published.
+
+Leipzig, 1810-1813, 2 vols., 8vo. A second edition of Brunck by G.H.
+Schaefer, with the Florentine and Parisian Scholia, the latter printed
+for the first time.
+
+Leipzig, 1828, 8vo, by A. Wellauer, with the Scholia, both Florentine
+and Parisian.
+
+Paris, 1811, 4to, by F.S. Lehrs, with a Latin version. In the Didot
+series.
+
+Leipzig, 1852, 8vo, by R. Merkel, "ad cod. MS. Laurentianum." The
+Teubner Text.
+
+Leipzig, 1854, 2 vols., 8vo, by R. Merkel. The second volume contains
+Merkel's prolegomena and the Scholia to L, edited by H. Keil.
+
+Oxford, 1900, 8vo, by R.C. Seaton. In the "Scriptorum Classicorum
+Bibliotheca Oxoniensis" series.
+
+The text of the present edition is, with a few exceptions, that of the
+Oxford edition prepared by me for the Delegates of the Clarendon Press,
+whom I hereby thank for their permission to use it.
+
+The English translations of Apollonius are as follows:--
+
+By E.B. Greene, by F. Fawkes, both 1780; by W. Preston, 1803. None of
+these are of value. There is a prose translation by E.P. Coleridge in
+the Bohn Series. The most recent and also the best is a verse
+translation by Mr. A.S. Way, 1901, in "The Temple Classics."
+
+I may also mention the excellent translation in French by Prof. H. de La
+Ville de Mirmont of the University of Bordeaux, 1892.
+
+Upon Alexandrian literature in general Couat's _Poesie Alexandrine, sous
+les trois premiers Ptoletmees_, 1882, may be recommended. Susemihl's
+_Geschichte der Griechischen Litteratur in der Alexandinerzeit_, 2
+vols., 1891, is a perfect storehouse of facts and authorities, but more
+adapted for reference than for general reading. Morris' _Life and Death
+of Jason_ is a poem that in many passages singularly resembles
+Apollonius in its pessimistic tone and spirit.
+
+
+
+
+APOLLONIUS RHODIUS
+
+THE ARGONAUTICA
+
+BOOK I
+
+
+SUMMARY OF BOOK I
+
+     Invocation of Phoebus and cause of the expedition
+     (1-22).--Catalogue of the Argonauts (23-233).--March of the heroes
+     to the port: farewell of Jason and Alcimede
+     (234-305).--Preparations for departure and launching of Argo:
+     sacrifice to Apollo: prediction of Idmon (306-447).--The festival,
+     insolence of Idas, song of Orpheus and departure (448-558).--Voyage
+     along the coast of Thessaly and across to Lemnos (559-608).--Recent
+     history of Lemnos and stay of the Argonauts there: farewell of
+     Jason and Hypsipyle (609-909).--Voyage from Lemnos by Samothrace to
+     the Propontis: reception by the Doliones of Cyzicus
+     (910-988).--Fight against the Giants: departure and return of the
+     Argonauts to Cyzicus: sacrifice to Rhea on Mt. Dindymum
+     (989-1152).--Arrival among the Mysians: rape of Hylas, which is
+     announced to Heracles (1153-1260).--While Heracles and Polyphemus
+     search for Hylas they are left behind (1261-1328).--The fate of
+     Heracles and Polyphemus: arrival of Argo among the Bebrycians
+     (1329-1362).
+
+
+
+APOLLONIUS RHODIUS THE ARGONAUTICA
+
+BOOK I
+
+
+Beginning with thee, O Phoebus, I will recount the famous deeds of men
+of old, who, at the behest of King Pelias, down through the mouth of
+Pontus and between the Cyanean rocks, sped well-benched Argo in quest of
+the golden fleece.
+
+Such was the oracle that Pelias heard, that a hateful doom awaited
+him--to be slain at the prompting of the man whom he should see coming
+forth from the people with but one sandal. And no long time after, in
+accordance with that true report, Jason crossed the stream of wintry
+Anaurus on foot, and saved one sandal from the mire, but the other he
+left in the depths held back by the flood. And straightway he came to
+Pelias to share the banquet which the king was offering to his father
+Poseidon and the rest of the gods, though he paid no honour to Pelasgian
+Hera. Quickly the king saw him and pondered, and devised for him the
+toil of a troublous voyage, in order that on the sea or among strangers
+he might lose his home-return.
+
+The ship, as former bards relate, Argus wrought by the guidance of
+Athena. But now I will tell the lineage and the names of the heroes, and
+of the long sea-paths and the deeds they wrought in their wanderings;
+may the Muses be the inspirers of my song!
+
+First then let us name Orpheus whom once Calliope bare, it is said,
+wedded to Thracian Oeagrus, near the Pimpleian height. Men say that he
+by the music of his songs charmed the stubborn rocks upon the mountains
+and the course of rivers. And the wild oak-trees to this day, tokens of
+that magic strain, that grow at Zone on the Thracian shore, stand in
+ordered ranks close together, the same which under the charm of his lyre
+he led down from Pieria. Such then was Orpheus whom Aeson's son welcomed
+to share his toils, in obedience to the behest of Cheiron, Orpheus ruler
+of Bistonian Pieria.
+
+Straightway came Asterion, whom Cometes begat by the waters of eddying

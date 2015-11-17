@@ -1,0 +1,323 @@
+a certain definite amount, say 4h 44m 30s, what he actually does is to
+count from a meridian just that far east of Cambridge. When he changes
+the assumed longitude of Cambridge he counts from a meridian farther
+east or farther west of his former one: in other words, he always
+counts from an assumed Greenwich, which changes its position from time
+to time, relative to our own country.
+
+Having two meridians to look after, the form of the American Ephemeris,
+to be best adapted to the wants both of navigators and astronomers was
+necessarily peculiar. Had our navigators referred their longitudes to
+any meridian of our own country the arrangement of the work need not
+have differed materially from that of foreign ones. But being referred
+to a meridian far outside our limits and at the same time designed for
+use within those limits, it was necessary to make a division of the
+matter. Accordingly, the American Ephemeris has always been divided
+into two parts: the first for the use of navigators, referred to the
+meridian of Greenwich, the second for that of astronomers, referred to
+the meridian of Washington. The division of the matter without serious
+duplication is more easy than might at first be imagined. In explaining
+it, I will take the ephemeris as it now is, with the small changes
+which have been made from time to time.
+
+One of the purposes of any ephemeris, and especially of that of the
+navigators, is to give the position of the heavenly bodies at
+equidistant intervals of time, usually one day. Since it is noon at
+some point of the earth all the time, it follows that such an ephemeris
+will always be referred to noon at some meridian. What meridian this
+shall be is purely a practical question, to be determined by
+convenience and custom. Greenwich noon, being that necessarily used by
+the navigator, is adopted as the standard, but we must not conclude
+that the ephemeris for Greenwich noon is referred to the meridian of
+Greenwich in the sense that we refer a longitude to that meridian.
+Greenwich noon is 18h 51m 48s, Washington mean time; so the ephemeris
+which gives data for every Greenwich noon may be considered as referred
+to the meridian of Washington giving the data for 17h 51m 48s,
+Washington time, every day. The rule adopted, therefore, is to have all
+the ephemerides which refer to absolute time, without any reference to
+a meridian, given for Greenwich noon, unless there may be some special
+reason to the contrary. For the needs of the navigator and the
+theoretical astronomer these are the most convenient epochs.
+
+Another part of the ephemeris gives the position of the heavenly
+bodies, not at equidistant intervals, but at transit over some
+meridian. For this purpose the meridian of Washington is chosen for
+obvious reasons. The astronomical part of our ephemeris, therefore,
+gives the positions of the principal fixed stars, the sun, moon, and
+all the larger planets at the moment of transit over our own meridian.
+
+The third class of data in the ephemeris comprises phenomena to be
+predicted and observed. Such are eclipses of the sun and moon,
+occultations of fixed stars by the moon, and eclipses of Jupiter's
+satellites. These phenomena are all given in Washington mean time as
+being most convenient for observers in our own country. There is a
+partial exception, however, in the case of eclipses of the sun and
+moon. The former are rather for the world in general than for our own
+country, and it was found difficult to arrange them to be referred to
+the meridian of Washington without having the maps referred to the same
+meridian. Since, however, the meridian of Greenwich is most convenient
+outside of our own territory, and since but a small portion of the
+eclipses are visible within it, it is much the best to have the
+eclipses referred entirely to the meridian of Greenwich. I am the more
+ready to adopt this change because when the eclipses are to be computed
+for our own country the change of meridians will be very readily
+understood by those who make the computation.
+
+It may be interesting to say something of the tables and theories from
+which the astronomical ephemerides are computed. To understand them
+completely it is necessary to trace them to their origin. The problem
+of calculating the motions of the heavenly bodies and the changes in
+the aspect of the celestial sphere was one of the first with which the
+students of astronomy were occupied. Indeed, in ancient times, the only
+astronomical problems which could be attacked were of this class, for
+the simple reason that without the telescope and other instruments of
+research it was impossible to form any idea of the physical
+constitution of the heavenly bodies. To the ancients the stars and
+planets were simply points or surfaces in motion. They might have
+guessed that they were globes like that on which we live, but they were
+unable to form any theory of the nature of these globes. Thus, in The
+Almagest of Ptolemy, the most complete treatise on the ancient
+astronomy which we possess, we find the motions of all the heavenly
+bodies carefully investigated and tables given for the convenient
+computation of their positions. Crude and imperfect though these tables
+may be, they were the beginnings from which those now in use have
+arisen.
+
+No radical change was made in the general principles on which these
+theories and tables were constructed until the true system of the world
+was propounded by Copernicus. On this system the apparent motion of
+each planet in the epicycle was represented by a motion of the earth
+around the sun, and the problem of correcting the position of the
+planet on account of the epicycle was reduced to finding its geocentric
+from its heliocentric position. This was the greatest step ever taken
+in theoretical astronomy, yet it was but a single step. So far as the
+materials were concerned and the mode of representing the planetary
+motions, no other radical advance was made by Copernicus. Indeed, it is
+remarkable that he introduced an epicycle which was not considered
+necessary by Ptolemy in order to represent the inequalities in the
+motions of the planets around the sun.
+
+The next great advance made in the theory of the planetary motion was
+the discovery by Kepler of the celebrated laws which bear his name.
+When it was established that each planet moved in an ellipse having the
+sun in one focus it became possible to form tables of the motions of
+the heavenly bodies much more accurate than had before been known. Such
+tables were published by Kepler in 1632, under the name of Rudolphine
+Tables, in memory of his patron, the Emperor Rudolph. But the laws of
+Kepler took no account of the action of the planets on one another. It
+is well known that if each planet moved only under the influence of the
+gravitating force of the sun its motion would accord rigorously with
+the laws of Kepler, and the problems of theoretical astronomy would be
+greatly simplified. When, therefore, the results of Kepler's laws were
+compared with ancient and modern observations it was found that they
+were not exactly represented by the theory. It was evident that the
+elliptic orbits of the planets were subject to change, but it was
+entirely beyond the power of investigation, at that time, to assign any
+cause for such changes. Notwithstanding the simplicity of the causes
+which we now know to produce them, they are in form extremely complex.
+Without the knowledge of the theory of gravitation it would be entirely
+out of the question to form any tables of the planetary motions which
+would at all satisfy our modern astronomers.
+
+When the theory of universal gravitation was propounded by Newton he
+showed that a planet subjected only to the gravitation of a central
+body, like the sun, would move in exact accordance with Kepler's laws.
+But by his theory the planets must attract one another and these
+attractions must cause the motions of each to deviate slightly from the
+laws in question. Since such deviations were actually observed it was
+very natural to conclude that they were due to this cause, but how
+shall we prove it? To do this with all the rigor required in a
+mathematical investigation it is necessary to calculate the effect of
+the mutual action of the planets in changing their orbits. This
+calculation must be made with such precision that there shall be no
+doubt respecting the results of the theory. Then its results must be
+compared with the best observations. If the slightest outstanding
+difference is established there is something wrong and the requirements
+of astronomical science are not satisfied. The complete solution of
+this problem was entirely beyond the power of Newton. When his methods
+of research were used he was indeed able to show that the mutual action
+of the planets would produce deviations in their motions of the same
+general nature with those observed, but he was not able to calculate
+these deviations with numerical exactness. His most successful attempt
+in this direction was perhaps made in the case of the moon. He showed
+that the sun's disturbing force on this body would produce several
+inequalities the existence of which had been established by
+observation, and he was also able to give a rough estimate of their
+amount, but this was as far as his method could go. A great improvement
+had to be made, and this was effected not by English, but by
+continental mathematicians.
+
+The latter saw, clearly, that it was impossible to effect the required
+solution by the geometrical mode of reasoning employed by Newton. The
+problem, as it presented itself to their minds, was to find algebraic
+expressions for the positions of the planets at any time. The latitude,
+longitude, and radius-vector of each planet are constantly varying, but
+they each have a determined value at each moment of time. They may
+therefore be regarded as functions of the time, and the problem was to
+express these functions by algebraic formulae. These algebraic
+expressions would contain, besides the time, the elements of the
+planetary orbits to be derived from observation. The time which we may
+suppose to be represented algebraically by the symbol t, would remain
+as an unknown quantity to the end. What the mathematician sought to do
+was to present the astronomer with a series of algebraic expressions
+containing t as an indeterminate quantity, and so, by simply
+substituting for t any year and fraction of a year whatever--1600,
+1700, 1800, for example, the result would give the latitude, longitude,
+or radius-vector of a planet.
+
+The problem as thus presented was one of the most difficult we can
+perceive of, but the difficulty was only an incentive to attacking it
+with all the greater energy. So long as the motion was supposed purely
+elliptical, so long as the action of the planets was neglected, the
+problem was a simple one, requiring for its solution only the analytic
+geometry of the ellipse. The real difficulties commenced when the
+mutual action of the planets was taken into account. It is, of course,
+out of the question to give any technical description or analysis of
+the processes which have been invented for solving the problem; but a
+brief historical sketch may not be out of place. A complete and
+rigorous solution of the problem is out of the question--that is, it is
+impossible by any known method to form an algebraic expression for the
+co-ordinates of a planet which shall be absolutely exact in a
+mathematical sense. In whatever way we go to work the expression comes
+out in the form of an infinite series of terms, each term being, on the
+whole, a little smaller as we increase the number. So, by increasing
+the number of these various terms, we can approach nearer and nearer to
+a mathematical exactness, but can never reach it. The mathematician and
+astronomer have to be satisfied when they have carried the solution so
+far that the neglected quantities are entirely beyond the powers of
+observation.
+
+Mathematicians have worked upon the problem in its various phases for
+nearly two centuries, and many improvements in detail have, from time
+to time, been made, but no general method, applicable to all cases, has
+been devised. One plan is to be used in treating the motion of the
+moon, another for the interior planets, another for Jupiter and Saturn,
+another for the minor planets, and so on. Under these circumstances it
+will not surprise you to learn that our tables of the celestial motions
+do not, in general, correspond in accuracy to the present state of
+practical astronomy. There is no authority and no office in the world
+whose duty it is to look after the preparations of the formulae I have
+described. The work of computing them has been almost entirely left to
+individual mathematicians whose taste lay in that direction, and who
+have sometimes devoted the greater part of their lives to calculations
+on a single part of the work. As a striking instance of this, the last
+great work on the Motion of the Moon, that of Delaunay, of Paris,
+involved some fifteen years of continuous hard labor.
+
+Hansen, of Germany, who died five years ago, devoted almost his whole
+life to investigations of this class and to the development of new
+methods of computation. His tables of the moon are those now used for
+predicting the places of the moon in all the ephemerides of the world.
+
+The only successful attempt to prepare systematic tables for all the
+large planets is that completed by Le Verrier just before his death;
+but he used only a small fraction of the material at his disposal, and
+did not employ the modern methods, confining himself wholly to those
+invented by his countrymen about the beginning of the present century.
+For him Jacobi and Hansen had lived in vain.
+
+The great difficulty which besets the subject arises from the fact that
+mathematical processes alone will not give us the position of a planet,
+there being seven unknown quantities for each planet which must be
+determined by observations. A planet, for instance, may move in any
+ellipse whatever, having the sun in one focus, and it is impossible to
+tell what ellipse it is, except from observation. The mean motion of a
+planet, or its period of revolution, can only be determined by a long
+series of observations, greater accuracy being obtained the longer the
+observations are continued. Before the time of Bradley, who commenced
+work at the Greenwich Observatory about 1750, the observations were so
+far from accurate that they are now of no use whatever, unless in
+exceptional cases. Even Bradley's observations are in many cases far
+less accurate than those made now. In consequence, we have not
+heretofore had a sufficiently extended series of observations to form
+an entirely satisfactory theory of the celestial motions.
+
+As a consequence of the several difficulties and drawbacks, when the
+computation of our ephemeris was started, in the year 1849, there were
+no tables which could be regarded as really satisfactory in use. In the
+British Nautical Almanac the places of the moon were derived from the
+tables of Burckhardt published in the year 1812. You will understand,
+in a case like this, no observations subsequent to the issue of the
+tables are made use of; the place of the moon of any day, hour, and
+minute of Greenwich time, mean time, was precisely what Burckhardt
+would have computed nearly a half a century before. Of the tables of
+the larger planets the latest were those of Bouvard, published in 1812,
+while the places of Venus were from tables published by Lindenau in
+1810. Of course such tables did not possess astronomical accuracy. At
+that time, in the case of the moon, completely new tables were
+constructed from the results reached by Professor Airy in his reduction
+of the Greenwich observations of the moon from 1750 to 1830. These were
+constructed under the direction of Professor Pierce and represented the
+places of the moon with far greater accuracy than the older tables of
+Burckhardt. For the larger planets corrections were applied to the
+older tables to make them more nearly represent observations before new
+ones were constructed. These corrections, however, have not proved
+satisfactory, not being founded on sufficiently thorough
+investigations. Indeed, the operation of correcting tables by
+observation, as we would correct the dead-reckoning of a ship, is a
+makeshift, the result of which must always be somewhat uncertain, and
+it tends to destroy that unity which is an essential element of the
+astronomical ephemeris designed for permanent future use. The result of
+introducing them, while no doubt an improvement on the old tables, has
+not been all that should be desired. The general lack of unity in the
+tables hitherto employed is such that I can only state what has been
+done by mentioning each planet in detail.
+
+For Mercury, new tables were constructed by Professor Winlock, from
+formulae published by Le Verrier in 1846. These tables have, however,
+been deviating from the true motion of the planet, owing to the motion
+of the perihelion of Mercury, subsequently discovered by Le Verrier
+himself. They are now much less accurate than the newer tables
+published by Le Verrier ten years later.
+
+Of Venus new tables were constructed by Mr. Hill in 1872. They are more
+accurate than any others, being founded on later data than those of Le
+Verrier, and are therefore satisfactory so far as accuracy of
+prediction is concerned.
+
+The place of Mars, Jupiter, and Saturn are still computed from the old
+tables, with certain necessary corrections to make them better
+represent observations.
+
+The places of Uranus and Neptune are derived from new tables which will
+probably be sufficiently accurate for some time to come.
+
+For the moon, Pierce's tables have been employed up to the year 1882
+inclusive. Commencing with the ephemeris for the year 1883, Hansen's
+tables are introduced with corrections to the mean longitude founded on
+two centuries of observation.
+
+With so great a lack of uniformity, and in the absence of any existing
+tables which have any other element of unity than that of being the
+work of the same authors, it is extremely desirable that we should be
+able to compute astronomical ephemerides from a single uniform and
+consistent set of astronomical data. I hope, in the course of years, to
+render this possible.
+
+When our ephemeris was first commenced, the corrections applied to
+existing tables rendered it more accurate than any other. Since that
+time, the introduction into foreign ephemerides of the improved tables
+of Le Verrier have rendered them, on the whole, rather more accurate
+than our own. In one direction, however, our ephemeris will hereafter
+be far ahead of all others. I mean in its positions of the fixed stars.
+This portion of it is of particular importance to us, owing to the
+extent to which our government is engaged in the determination of
+positions on this continent, and especially in our western territories.
+Although the places of the stars are determined far more easily than
+those of the planets, the discussion of star positions has been in
+almost as backward a state as planetary positions. The errors of old
+observers have crept in and been continued through two generations of
+astronomers. A systematic attempt has been made to correct the places
+of the stars for all systematic errors of this kind, and the work of
+preparing a catalogue of stars which shall be completely adapted to the
+determination of time and longitude, both in the fixed observatory and
+in the field, is now approaching completion. The catalogue cannot be
+sufficiently complete to give places of the stars for determining the
+latitude by the zenith telescope, because for such a purpose a much
+greater number of stars is necessary than can be incorporated in the
+ephemeris.
+
+From what I have said, it will be seen that the astronomical tables, in
+general, do not satisfy the scientific condition of completely
+representing observations to the last degree of accuracy. Few, I think,
+have an idea how unsystematically work of this kind has hitherto been

@@ -1,0 +1,308 @@
+    Clavius, 178.
+    Cleomenes, 159.
+    Condorcet, 160.
+    Copernicus, 175.
+    Cyrillus, 170.
+    Delisle, 174
+    Endymion, 160.
+    Eratosthenes, 175.
+    Eudoxus, 162.
+    Euler, 174.
+    Firmicus, 160.
+    Fracastorius, 169, 179.
+    Furnerius, 161.
+    Gassendi, 179.
+    Gauss, 159.
+    Geminus, 160.
+    Goclenius, 169.
+    Godin, 168.
+    Grimaldi, 179.
+    Guttemberg, 169.
+    Hainzel, 179.
+    Hansen, 160.
+    Helicon, 174.
+    Hell, 176.
+    Hercules, 160.
+    Herodotus, 174.
+    Herschel, Caroline, 174.
+    Hipparchus, 171.
+    Humboldt, 161.
+    Hyginus, 168.
+    Julius Caesar, 168.
+    Kepler, 176.
+    Lambert, 174.
+    Landsberg, 180.
+    Langrenus, 160, 168.
+    Letronne, 179.
+    Leverrier, 174.
+    Lexell, 176.
+    Lichtenberg, 174.
+    Linne, 165.
+    Longomontanus, 178.
+    Macrobius, 159.
+    Maginus, 178.
+    Manilius, 166.
+    Maurolycus, 172.
+    Menelaus, 166.
+    Mercator, 179.
+    Mersenius, 179.
+    Messala, 160.
+    Messier, 169.
+    Newton, 178.
+    Petavius, 160, 168.
+    Picard, 157.
+    Piccolomini, 171.
+    Pico, 172.
+    Plato, 172.
+    Plinius, 166.
+    Posidonius, 163, 164.
+    Proclus, 158.
+    Ptolemaeus, 176.
+    Purbach, 176.
+    Sacrobosco, 171.
+    Schickard, 178.
+    Schiller, 178.
+    Silberschlag, 168.
+    Stoefler, 171.
+    Sulpicius Gallus, 166.
+    Theaetetus, 167.
+    Thebit, 176.
+    Theophilus, 170.
+    Timocharis, 174.
+    Tobias Mayer, 176.
+    Tralles, 159.
+    Triesnecker, 168.
+    Tycho, 177, 178.
+    Vendelinus, 160, 168.
+    Vieta, 179.
+    Vitello, 179.
+    Walter, 171.
+    Wargentin, 179.
+    Werner, 171.
+    Wilhelm I, 178.
+  _Maria_, or "Seas":
+    _Lacus Somniorum_, 163.
+    _Mare Crisium_, 157, 159, 160.
+    _Mare Fecunditatis_, 160, 168.
+    _Mare Frigoris_, 162, 172.
+    _Mare Humboldtianum_, 160.
+    _Mare Humorum_, 176, 179.
+    _Mare Imbrium_, 163, 172, 174.
+    _Mare Nectaris_, 168.
+    _Mare Nubium_, 176.
+    _Mare Serenitatis_, 163, 164, 165.
+    _Mare Tranquilitatis_, 168.
+    _Mare Vaporum_, 166, 167.
+    _Oceanus Procellarum_, 172, 176, 179.
+    _Palus Nebularum_, 167.
+    _Palus Putredinis_, 167.
+    _Palus Somnii_, 159.
+    _Sinus AEstuum_, 172.
+    _Sinus Iridum_, 172, 173.
+  Other formations:
+    Alps Mountains, 163.
+    Apennine Mountains, 163, 167, 175.
+    Cape Agarum, 158.
+    Cape Heraclides, 173.
+    Cape Laplace, 173.
+    Carpathian Mountains, 176.
+    Caucasus Mountains, 163.
+    Cordilleras Mountains, 180.
+    D'Alembert Mountains, 180.
+    Doerfel Mountains, 180.
+    Haemus Mountains, 165.
+    Harbinger Mountains, 174.
+    Leibnitz Mountains, 180.
+    "Lunar Railroad," 176.
+    Mt. Argaeus, 165, 167.
+    Mt. Hadley, 167.
+    Mt. Huygens, 175.
+    Pyrenees Mountains, 169.
+    Taurus Mountains, 164.
+
+
+THE PLANETS: Are there planets among the stars? 183.
+  Mars, two views of, 17.
+    best advertised of planets, 151.
+    favorable oppositions of, 152.
+    seen with 5-inch telescope, 152.
+    polar caps of, 152.
+      color of, 152.
+    dark markings on, 152.
+      "canals," 153.
+    earthlike condition of, 153.
+  Mercury, phases of, 155.
+    peculiar rotation of, 155.
+    markings on, 155.
+    probably not habitable, 155.
+  Jupiter, easiest planet for amateurs, 141.
+    seen with 5-inch glass, 141.
+    satellites, swift motions of, 142.
+    velocity of planet's equator, 142.
+    how to see all sides of, 142, 143.
+    watching rotation of, 143.
+    eclipses and transits of satellites, 144, 147.
+    belts and clouds of, 145.
+    different rates of rotation, 145.
+    names and numbers of satellites, 146.
+  Saturn, next to Jupiter in attractiveness, 147.
+    seen with 5-inch glass, 148.
+    its moons and their orbits, 148, 149.
+    polar view of system, 149.
+    Roche's limit, 149, 150.
+    origin of the rings, 150.
+    Pickering's ninth satellite, 151.
+    the satellites as telescopic objects, 151.
+  Venus, her wonderful brilliance, 153.
+    her atmosphere seen, 153.
+    Lowell's observations, 153.
+    Schiaparelli's observations, 154.
+    her peculiar rotation, 154.
+    how to see, in daytime, 155.
+  Neptune and Uranus, 155.
+
+
+THE SUN, 181.
+  shade glasses for telescopes in viewing, 181.
+  solar prism, 181.
+  helioscope, 181.
+  periodicity of spots, 181.
+  to see, by projection, 182.
+  spectroscope for solar observation, 182.
+
+
+THE TELESCOPE:
+  refractors and reflectors, 2, 8.
+  eyepieces, 6, 9, 10.
+  aberration (chromatic), 6;
+    (spherical), 6, 17.
+  achromatic telescopes, how made, 7.
+    object glass, 8.
+  magnifying power, 11.
+  mountings, 12.
+  rules for testing, 13.
+  image of star in, 14.
+  image in and out of focus, 14, 15, 17.
+  astigmatism, 16.
+
+
+THE END
+
+[Illustration]
+
+
+
+
+    1692 S. _Pleasures of the Telescope_ _GARRETT P. SERVISS_
+
+    This book says to the amateur, in effect:--"What if you have not all
+    advantages of clockwork and observatory equipment. You may know
+    something of the witchery of the heavens even with a little
+    telescope of three to five inches aperture!" "Pleasures of the
+    Telescope" is popular in style rather than technical. For setting
+    forth "the chief attractions of the starry heavens," a complete set
+    of star-maps is included, showing "all the stars visible to the
+    naked eye in the regions of sky represented, and in addition some
+    stars that can only be seen with optical aid." In six chapters these
+    twenty-six maps are described so plainly that the amateur can
+    readily find all the interesting star-groups, clusters, and nebulae,
+    and also the colored or double stars. In the three concluding
+    chapters the moon and planets receive special consideration. In the
+    opening chapter the amateur is told how to select and test a glass.
+
+    _Booklovers Bulletin._
+
+
+
+
+Transcriber's Note
+
+
+Minor errors and inconsistencies in punctuation and hyphenation have
+been silently corrected.
+
+Some illustrations have been relocated a short distance within the text.
+
+Original page numbers have been retained in the index.
+
+Greek letters, used to identify stars, are replaced with the full name
+of the Greek letter, e.g. alpha. Upper case Greek letters are shown by
+capitalising the initial letter, e.g. Sigma 1126
+
+A caret (^) is used to represent superscripts, e.g. nu^1 and nu^2
+
+The following minor corrections have also been made:
+
+p3: "wil" has been corrected to "will".
+
+p28: Sigma 629 is not shown on Map No. 1. The location of _m_ Orionis
+is marked as Sigma 696. This inconsistency has not been corrected.
+
+p54: "for colors" has been corrected to "four colors".
+
+p68: "1,065,790,250,000,000" has been corrected to
+"1,065,702,500,000,000".
+
+p163-164: "magnical" has been corrected to "magical".
+
+p179: A repeated "and" has been removed.
+
+
+
+
+
+
+End of Project Gutenberg's Pleasures of the telescope, by Garrett Serviss
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PLEASURES OF THE TELESCOPE ***
+
+***** This file should be named 28752.txt or 28752.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/8/7/5/28752/
+
+Produced by V. L. Simpson, Nigel Blower and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/American Libraries.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to

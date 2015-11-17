@@ -1,0 +1,694 @@
+it were a fixed point in the heavens. This language is sufficiently
+correct when we embrace only a moderate period of time in our review. It
+is no doubt true that the pole lies near the Pole Star at the present
+time. It did so during the lives of the last generation, and it will do
+so during the lives of the next generation. All this time, however, the
+pole is steadily moving in the heavens, so that the time will at length
+come when the pole will have departed a long way from the present Pole
+Star. This movement is incessant. It can be easily detected and measured
+by the instruments in our observatories, and astronomers are familiar
+with the fact that in all their calculations it is necessary to hold
+special account of this movement of the pole. It produces an apparent
+change in the position of a star, which is known by the term
+"precession."
+
+[Illustration: Fig. 100.]
+
+The movement of the pole is very clearly shown in the accompanying
+figure (Fig. 100), for which I am indebted to the kindness of the late
+Professor C. Piazzi Smyth. The circle shows the track along which the
+pole moves among the stars.
+
+The centre of the circle in the constellation of Draco is the pole of
+the ecliptic. A complete journey of the pole occupies the considerable
+period of about 25,867 years. The drawing shows the position of the
+pole at the several dates from 4000 B.C. to 2000 A.D. A glance at this
+map brings prominently before us how casual is the proximity of the pole
+to the Pole Star. At present, indeed, the distance of the two is
+actually lessening, but afterwards the distance will increase until,
+when half of the revolution has been accomplished, the pole will be at a
+distance of twice the radius of the circle from the Pole Star. It will
+then happen that the pole will be near the bright star Vega or a
+Lyrae, so that our successors some 12,000 years hence may make use of
+Vega for many of the purposes for which the Pole Star is at present
+employed! Looking back into past ages, we see that some 2,000 or 3,000
+years B.C. the star a Draconis was suitably placed to serve as the
+Pole Star, when b and d of the Great Bear served as pointers.
+It need hardly be added, that since the birth of accurate astronomy the
+course of the pole has only been observed over a very small part of the
+mighty circle. We are not, however, entitled to doubt that the motion of
+the pole will continue to pursue the same path. This will be made
+abundantly clear when we proceed to render an explanation of this very
+interesting phenomenon.
+
+The north pole of the heavens is the point of the celestial sphere
+towards which the northern end of the axis about which the earth rotates
+is directed. It therefore follows that this axis must be constantly
+changing its position. The character of the movement of the earth, so
+far as its rotation is concerned, may be illustrated by a very common
+toy with which every boy is familiar. When a peg-top is set spinning, it
+has, of course, a very rapid rotation around its axis; but besides this
+rotation there is usually another motion, whereby the axis of the
+peg-top does not remain in a constant direction, but moves in a conical
+path around the vertical line. The adjoining figure (Fig. 101) gives a
+view of the peg-top. It is, of course, rotating with great rapidity
+around its axis, while the axis itself revolves around the vertical line
+with a very deliberate motion. If we could imagine a vast peg-top which
+rotated on its axis once a day, and if that axis were inclined at an
+angle of twenty-three and a half degrees to the vertical, and if the
+slow conical motion of the axis were such that the revolution of the
+axis were completed in about 26,000 years, then the movements would
+resemble those actually made by the earth. The illustration of the
+peg-top comes, indeed, very close to the actual phenomenon of
+precession. In each case the rotation about the axis is far more rapid
+than that of the revolution of the axis itself; in each case also the
+slow movement is due to an external interference. Looking at the figure
+of the peg-top (Fig. 101) we may ask the question, Why does it not fall
+down? The obvious effect of gravity would seem to say that it is
+impossible for the peg-top to be in the position shown in the figure.
+Yet everybody knows that this is possible so long as the top is
+spinning. If the top were not spinning, it would, of course, fall. It
+therefore follows that the effect of the rapid rotation of the top so
+modifies the effect of gravitation that the latter, instead of producing
+its apparently obvious consequence, causes the slow conical motion of
+the axis of rotation. This is, no doubt, a dynamical question of some
+difficulty, but it is easy to verify experimentally that it is the case.
+If a top be constructed so that the point about which it is spinning
+shall coincide with the centre of gravity, then there is no effect of
+gravitation on the top, and there is no conical motion perceived.
+
+[Illustration: Fig. 101.--Illustration of the Motion of Precession.]
+
+If the earth were subject to no external interference, then the
+direction of the axis about which it rotates must remain for ever
+constant; but as the direction of the axis does not remain constant, it
+is necessary to seek for a disturbing force adequate to the production
+of the phenomena which are observed. We have invariably found that the
+dynamical phenomena of astronomy can be accounted for by the law of
+universal gravitation. It is therefore natural to enquire how far
+gravitation will render an account of the phenomenon of precession; and
+to put the matter in its simplest form, let us consider the effect which
+a distant attracting body can have upon the rotation of the earth.
+
+To answer this question, it becomes necessary to define precisely what
+we mean by the earth; and as for most purposes of astronomy we regard
+the earth as a spherical globe, we shall commence with this assumption.
+It seems also certain that the interior of the earth is, on the whole,
+heavier than the outer portions. It is therefore reasonable to assume
+that the density increases as we descend; nor is there any sufficient
+ground for thinking that the earth is much heavier in one part than at
+any other part equally remote from the centre. It is therefore usual in
+such calculations to assume that the earth is formed of concentric
+spherical shells, each one of which is of uniform density; while the
+density decreases from each shell to the one exterior thereto.
+
+A globe of this constitution being submitted to the attraction of some
+external body, let us examine the effects which that external body can
+produce. Suppose, for instance, the sun attracts a globe of this
+character, what movements will be the result? The first and most obvious
+result is that which we have already so frequently discussed, and which
+is expressed by Kepler's laws: the attraction will compel the earth to
+revolve around the sun in an elliptic path, of which the sun is in the
+focus. With this movement we are, however, not at this moment concerned.
+We must enquire how far the sun's attraction can modify the earth's
+rotation around its axis. It can be demonstrated that the attraction of
+the sun would be powerless to derange the rotation of the earth so
+constituted. This is a result which can be formally proved by
+mathematical calculation. It is, however, sufficiently obvious that the
+force of attraction of any distant point on a symmetrical globe must
+pass through the centre of that globe: and as the sun is only an
+enormous aggregate of attracting points, it can only produce a
+corresponding multitude of attractive forces; each of these forces
+passes through the centre of the earth, and consequently the resultant
+force which expresses the joint result of all the individual forces must
+also be directed through the centre of the earth. A force of this
+character, whatever other potent influence it may have, will be
+powerless to affect the rotation of the earth. If the earth be rotating
+on an axis, the direction of that axis would be invariably preserved; so
+that as the earth revolves around the sun, it would still continue to
+rotate around an axis which always remained parallel to itself. Nor
+would the attraction of the earth by any other body prove more
+efficacious than that of the sun. If the earth really were the
+symmetrical globe we have supposed, then the attraction of the sun and
+moon, and even the influence of all the planets as well, would never be
+competent to make the earth's axis of rotation swerve for a single
+second from its original direction.
+
+We have thus narrowed very closely the search for the cause of the
+"precession." If the earth were a perfect sphere, precession would be
+inexplicable. We are therefore forced to seek for an explanation of
+precession in the fact that the earth is not a perfect sphere. This we
+have already demonstrated to be the case. We have shown that the
+equatorial axis of the earth is longer than the polar axis, so that
+there is a protuberant zone girdling the equator. The attraction of
+external bodies is able to grasp this protuberance, and thereby force
+the earth's axis of rotation to change its direction.
+
+There are only two bodies in the universe which sensibly contribute to
+the precessional movement of the earth's axis: these bodies are the sun
+and the moon. The shares in which the labour is borne by the sun and the
+moon are not what might have been expected from a hasty view of the
+subject. This is a point on which it will be desirable to dwell, as it
+illustrates a point in the theory of gravitation which is of very
+considerable importance.
+
+The law of gravitation asserts that the intensity of the attraction
+which a body can exercise is directly proportional to the mass of that
+body, and inversely proportional to the square of its distance from the
+attracted point. We can thus compare the attraction exerted upon the
+earth by the sun and by the moon. The mass of the sun exceeds the mass
+of the moon in the proportion of about 26,000,000 to 1. On the other
+hand, the moon is at a distance which, on an average, is about one-386th
+part of that of the sun. It is thus an easy calculation to show that the
+efficiency of the sun's attraction on the earth is about 175 times as
+great as the attraction of the moon. Hence it is, of course, that the
+earth obeys the supremely important attraction of the sun, and pursues
+an elliptic path around the sun, bearing the moon as an appendage.
+
+But when we come to that particular effect of attraction which is
+competent to produce precession, we find that the law by which the
+efficiency of the attracting body is computed assumes a different form.
+The measure of efficiency is, in this case, to be found by taking the
+mass of the body and dividing it by the _cube_ of the distance. The
+complete demonstration of this statement must be sought in the formulae
+of mathematics, and cannot be introduced into these pages; we may,
+however, adduce one consideration which will enable the reader in some
+degree to understand the principle, though without pretending to be a
+demonstration of its accuracy. It will be obvious that the nearer the
+disturbing body approaches to the earth the greater is the _leverage_
+(if we may use the expression) which is afforded by the protuberance at
+the equator. The efficiency of a given force will, therefore, on this
+account alone, increase in the inverse proportion of the distance. The
+actual intensity of the force itself augments in the inverse square of
+the distance, and hence the capacity of the attracting body for
+producing precession will, for a double reason, increase when the
+distance decreases. Suppose, for example, that the disturbing body is
+brought to half its original distance from the disturbed body, the
+leverage is by this means doubled, while the actual intensity of the
+force is at the same time quadrupled according to the law of
+gravitation. It will follow that the effect produced in the latter case
+must be eight times as great as in the former case. And this is merely
+equivalent to the statement that the precession-producing capacity of a
+body varies inversely as the cube of the distance.
+
+It is this consideration which gives to the moon an importance as a
+precession-producing agent to which its mere attractive capacity would
+not have entitled it. Even though the mass of the sun be 26,000,000
+times as great as the mass of the moon, yet when this number is divided
+by the cube of the relative value of the distances of the bodies (386),
+it is seen that the efficiency of the moon is more than twice as great
+as that of the sun. In other words, we may say that one-third of the
+movement of precession is due to the sun, and two-thirds to the moon.
+
+For the study of the joint precessional effect due to the sun and the
+moon acting simultaneously, it will be advantageous to consider the
+effect produced by the two bodies separately; and as the case of the sun
+is the simpler of the two, we shall take it first. As the earth travels
+in its annual path around the sun, the axis of the earth is directed to
+a point in the heavens which is 23-1/2 deg. from the pole of the ecliptic.
+The precessional effect of the sun is to cause this point--the pole of
+the earth--to revolve, always preserving the same angular distance from
+the pole of the ecliptic; and thus we have a motion of the type
+represented in the diagram. As the ecliptic occupies a position which
+for our present purpose we may regard as fixed in space, it follows that
+the pole of the ecliptic is a fixed point on the surface of the heavens;
+so that the path of the pole of the earth must be a small circle in the
+heavens, fixed in its position relatively to the surrounding stars. In
+this we find a motion strictly analogous to that of the peg-top. It is
+the gravitation of the earth acting upon the peg-top which forces it
+into the conical motion. The immediate effect of the gravitation is so
+modified by the rapid rotation of the top, that, in obedience to a
+profound dynamical principle, the axis of the top revolves in a cone
+rather than fall down, as it would do were the top not spinning. In a
+similar manner the immediate effect of the sun's attraction on the
+protuberance at the equator would be to bring the pole of the earth's
+axis towards the pole of the ecliptic, but the rapid rotation of the
+earth modifies this into the conical movement of precession.
+
+The circumstances with regard to the moon are much more complicated.
+The moon describes a certain orbit around the earth; that orbit lies in
+a certain plane, and that plane has, of course, a certain pole on the
+celestial sphere. The precessional effect of the moon would accordingly
+tend to make the pole of the earth's axis describe a circle around that
+point in the heavens which is the pole of the moon's orbit. This point
+is about 5 deg. from the pole of the ecliptic. The pole of the earth is
+therefore solicited by two different movements--one a revolution around
+the pole of the ecliptic, the other a revolution about another point 5 deg.
+distant, which is the pole of the moon's orbit. It would thus seem that
+the earth's pole should make a certain composite movement due to the two
+separate movements. This is really the case, but there is a point to be
+very carefully attended to, which at first seems almost paradoxical. We
+have shown how the potency of the moon as a precessional agent exceeds
+that of the sun, and therefore it might be thought that the composite
+movement of the earth's pole would conform more nearly to a rotation
+around the pole of the plane of the moon's orbit than to a rotation
+around the pole of the ecliptic; but this is not the case. The
+precessional movement is represented by a revolution around the pole of
+the ecliptic, as is shown in the figure. Here lies the germ of one of
+those exquisite astronomical discoveries which delight us by
+illustrating some of the most subtle phenomena of nature.
+
+The plane in which the moon revolves does not occupy a constant
+position. We are not here specially concerned with the causes of this
+change in the plane of the moon's orbit, but the character of the
+movement must be enunciated. The inclination of this plane to the
+ecliptic is about 5 deg., and this inclination does not vary (except within
+very narrow limits); but the line of intersection of the two planes does
+vary, and, in fact, varies so quickly that it completes a revolution in
+about 18-2/3 years. This movement of the plane of the moon's orbit
+necessitates a corresponding change in the position of its pole. We thus
+see that the pole of the moon's orbit must be actually revolving around
+the pole of the ecliptic, always remaining at the same distance of 5 deg.,
+and completing its revolution in 18-2/3 years. It will, therefore, be
+obvious that there is a profound difference between the precessional
+effect of the sun and of the moon in their action on the earth. The sun
+invites the earth's pole to describe a circle around a fixed centre; the
+moon invites the earth's pole to describe a circle around a centre which
+is itself in constant motion. It fortunately happens that the
+circumstances of the case are such as to reduce considerably the
+complexity of the problem. The movement of the moon's plane, only
+occupying about 18-2/3 years, is a very rapid motion compared with the
+whole precessional movement, which occupies about 26,000 years. It
+follows that by the time the earth's axis has completed one circuit of
+its majestic cone, the pole of the moon's plane will have gone round
+about 1,400 times. Now, as this pole really only describes a
+comparatively small cone of 5 deg. in radius, we may for a first
+approximation take the average position which it occupies; but this
+average position is, of course, the centre of the circle which it
+describes--that is, the pole of the ecliptic.
+
+We thus see that the average precessional effect of the moon simply
+conspires with that of the sun to produce a revolution around the pole
+of the ecliptic. The grosser phenomena of the movements of the earth's
+axis are to be explained by the uniform revolution of the pole in a
+circular path; but if we make a minute examination of the track of the
+earth's axis, we shall find that though it, on the whole, conforms with
+the circle, yet that it really traces out a sinuous line, sometimes on
+the inside and sometimes on the outside of the circle. This delicate
+movement arises from the continuous change in the place of the pole of
+the moon's orbit. The period of these undulations is 18-2/3 years,
+agreeing exactly with the period of the revolution of the moon's nodes.
+The amount by which the pole departs from the circle on either side is
+only about 9.2 seconds--a quantity rather less than the
+twenty-thousandth part of the radius of the sphere. This phenomenon,
+known as "nutation," was discovered by the beautiful telescopic
+researches of Bradley, in 1747. Whether we look at the theoretical
+interest of the subject or at the refinement of the observations
+involved, this achievement of the "Vir incomparabilis," as Bradley has
+been called by Bessel, is one of the masterpieces of astronomical
+genius.
+
+The phenomena of precession and nutation depend on movements of the
+earth itself, and not on movements of the axis of rotation within the
+earth. Therefore the distance of any particular spot on the earth from
+the north or south pole is not disturbed by either of these phenomena.
+The latitude of a place is the distance of the place from the earth's
+equator, and this quantity remains unaltered in the course of the long
+precession cycle of 26,000 years. But it has been discovered within the
+last few years that latitudes are subject to a small periodic change of
+a few tenths of a second of arc. This was first pointed out about 1880
+by Dr. Kuestner, of Berlin, and by a masterly analysis of all available
+observations, made in the course of many years past at various
+observatories, Dr. Chandler, of Boston, has shown that the latitude of
+every point on the earth is subject to a double oscillation, the period
+of one being 427 days and the other about a year, the mean amplitude of
+each being O".14. In other words, the spot in the arctic regions,
+directly in the prolongation of the earth's axis of rotation, is not
+absolutely fixed; the end of the imaginary axis moves about in a
+complicated manner, but always keeping within a few yards of its average
+position. This remarkable discovery is not only of value as introducing
+a new refinement in many astronomical researches depending on an
+accurate knowledge of the latitude, but theoretical investigations show
+that the periods of this variation are incompatible with the assumption
+that the earth is an absolutely rigid body. Though this assumption has
+in other ways been found to be untenable, the confirmation of this view
+by the discovery of Dr. Chandler is of great importance.
+
+
+
+
+CHAPTER XXV.
+
+THE ABERRATION OF LIGHT.
+
+
+     The Real and Apparent Movements of the Stars--How they can be
+     Discriminated--Aberration produces Effects dependent on the
+     Position of the Stars--The Pole of the Ecliptic--Aberration makes
+     Stars seem to Move in a Circle, an Ellipse, or a Straight Line
+     according to Position--All the Ellipses have Equal Major Axes--How
+     is this Movement to be Explained?--How to be Distinguished from
+     Annual Parallax--The Apex of the Earth's Way--How this is to be
+     Explained by the Velocity of Light--How the Scale of the Solar
+     System can be Measured by the Aberration of Light.
+
+We have in this chapter to narrate a discovery of a recondite character,
+which illustrates in a forcible manner some of the fundamental truths of
+Astronomy. Our discussion of it will naturally be divided into two
+parts. In the first part we must describe the nature of the phenomenon,
+and then we must give the extremely elegant explanation afforded by the
+properties of light. The telescopic discovery of aberration, as well as
+its explanation, are both due to the illustrious Bradley.
+
+The expression _fixed_ star, so often used in astronomy, is to be
+received in a very qualified sense. The stars are, no doubt, well fixed
+in their places, so far as coarse observation is concerned. The
+lineaments of the constellations remain unchanged for centuries, and, in
+contrast with the ceaseless movements of the planets, the stars are not
+inappropriately called fixed. We have, however, had more than one
+occasion to show throughout the course of this work that the expression
+"fixed star" is not an accurate one when minute quantities are held in
+estimation. With the exact measures of modern instruments, many of these
+quantities are so perceptible that they have to be always reckoned with
+in astronomical enquiry. We can divide the movements of the stars into
+two great classes: the real movements and the apparent movements. The
+proper motion of the stars and the movements of revolution of the binary
+stars constitute the real movements of these bodies. These movements are
+special to each star, so that two stars, although close together in the
+heavens, may differ in the widest degree as to the real movements which
+they possess. It may, indeed, sometimes happen that stars in a certain
+region are animated with a common movement. In this phenomenon we have
+traces of a real movement shared by a number of stars in a certain
+group. With this exception, however, the real movements of the stars
+seem to be governed by no systematic law, and the rapidly moving stars
+are scattered here and there indiscriminately over the heavens.
+
+The apparent movements of the stars have a different character, inasmuch
+as we find the movement of each star determined by the place which it
+occupies in the heavens. It is by this means that we discriminate the
+real movements of the star from its apparent movements, and examine the
+character of both.
+
+In the present chapter we are concerned with the apparent movements
+only, and of these there are three, due respectively to precession, to
+nutation, and to aberration. Each of these apparent movements obeys laws
+peculiar to itself, and thus it becomes possible to analyse the total
+apparent motion, and to discriminate the proportions in which the
+precession, the nutation, and the aberration have severally contributed.
+We are thus enabled to isolate the effect of aberration as completely as
+if it were the sole agent of apparent displacement, so that, by an
+alliance between mathematical calculation and astronomical observation,
+we can study the effects of aberration as clearly as if the stars were
+affected by no other motions.
+
+Concentrating our attention solely on the phenomena of aberration we
+shall describe its particular effect upon stars in different regions of
+the sky, and thus ascertain the laws according to which the effects of
+aberration are exhibited. When this step has been taken, we shall be in
+a position to give the beautiful explanation of those laws dependent
+upon the velocity of light.
+
+At one particular region of the heavens the effect of aberration has a
+degree of simplicity which is not manifested anywhere else. This region
+lies in the constellation Draco, at the pole of the ecliptic. At this
+pole, or in its immediate neighbourhood, each star, in virtue of
+aberration, describes a circle in the heavens. This circle is very
+minute; it would take something like 2,000 of these circles together to
+form an area equal to the area of the moon. Expressed in the usual
+astronomical language, we should say that the diameter of this small
+circle is about 40.9 seconds of arc. This is a quantity which, though
+small to the unaided eye, is really of great relative magnitude in the
+present state of telescopic research. It is not only large enough to be
+perceived, but it can be measured, with an accuracy which actually does
+not admit of a doubt, to the hundredth part of the whole. It is also
+observed that each star describes its little circle in precisely the
+same period of time; and that period is one year, or, in other words,
+the time of the revolution of the earth around the sun. It is found that
+for all stars in this region, be they large stars or small, single or
+double, white or coloured, the circles appropriate to each have all the
+same size, and are all described in the same time. Even from this alone
+it would be manifest that the cause of the phenomenon cannot lie in the
+star itself. This unanimity in stars of every magnitude and distance
+requires some simpler explanation.
+
+Further examination of stars in different regions sheds new light on the
+subject. As we proceed from the pole of the ecliptic, we still find that
+each star exhibits an annual movement of the same character as the stars
+just considered. In one respect, however, there is a difference. The
+apparent path of the star is no longer a circle; it has become an
+ellipse. It is, however, soon perceived that the shape and the position
+of this ellipse are governed by the simple law that the further the star
+is from the pole of the ecliptic the greater is the eccentricity of the
+ellipse. The apparent path of the stars at the same distance from the
+pole have equal eccentricity, and of the axes of the ellipse the shorter
+is always directed to the pole, the longer being, of course,
+perpendicular to it. It is, however, found that no matter how great the
+eccentricity may become, the major axis always retains its original
+length. It is always equal to about 40.9 seconds--that is, to the
+diameter of the circle of aberration at the pole itself. As we proceed
+further and further from the pole of the ecliptic, we find that each
+star describes a path more and more eccentric, until at length, when we
+examine a star on the ecliptic, the ellipse has become so attenuated
+that it has flattened into a line. Each star which happens to lie on the
+ecliptic oscillates to and fro along the ecliptic through an amplitude
+of 40.9 seconds. Half a year accomplishes the journey one way, and the
+other half of the year restores the star to its original position. When
+we pass to stars on the southern side of the ecliptic, we see the same
+series of changes proceed in an inverse order. The ellipse, from being
+actually linear, gradually grows in width, though still preserving the
+same length of major axis, until at length the stars near the southern
+pole of the ecliptic are each found to describe a circle equal to the
+paths pursued by the stars at the north pole of the ecliptic.
+
+The circumstance that the major axes of all those ellipses are of equal
+length suggests a still further simplification. Let us suppose that
+every star, either at the pole of the ecliptic or elsewhere, pursues an
+absolutely circular path, and that all these circles agree not only in
+magnitude, but also in being all parallel to the plane of the ecliptic:
+it is easy to see that this simple supposition will account for the
+observed facts. The stars at the pole of the ecliptic will, of course,
+show their circles turned fairly towards us, and we shall see that they
+pursue circular paths. The circular paths of the stars remote from the
+pole of the ecliptic will, however, be only seen somewhat edgewise, and
+thus the apparent paths will be elliptical, as we actually find them. We
+can even calculate the degree of ellipticity which this surmise would
+require, and we find that it coincides with the observed ellipticity.
+Finally, when we observe stars actually moving in the ecliptic, the
+circles they follow would be seen edgewise, and thus the stars would
+have merely the linear movement which they are seen to possess. All the
+observed phenomena are thus found to be completely consistent with the
+supposition that every star of all the millions in the heavens describes
+once each year a circular path; and that, whether the star be far or
+near, this circle has always the same apparent diameter, and lies in a
+plane always parallel to the plane of the ecliptic.
+
+We have now wrought the facts of observation into a form which enables
+us to examine into the cause of a movement so systematic. Why is it that
+each star should seem to describe a small circular path? Why should that
+path be parallel to the ecliptic? Why should it be completed exactly in
+a twelvemonth? We are at once referred to the motion of the earth around
+the sun. That movement takes place in the ecliptic. It is completed in a
+year. The coincidences are so obvious that we feel almost necessarily
+compelled to connect in some way this apparent movement of the stars
+with the annual movement of the earth around the sun. If there were no
+such connection, it would be in the highest degree improbable that the
+planes of the circles should be all parallel to the ecliptic, or that
+the time of revolution of each star in its circle should equal that of
+the revolution of the earth around the sun. As both these conditions are
+fulfilled, the probability of the connection rises to a value almost
+infinite.
+
+The important question has then arisen as to why the movement of the
+earth around the sun should be associated in so remarkable a manner with
+this universal star movement. There is here one obvious point to be
+noticed and to be dismissed. We have in a previous chapter discussed the
+important question of the annual parallax of stars, and we have shown
+how, in virtue of annual parallax, each star describes an ellipse. It
+can further be demonstrated that these ellipses are really circles
+parallel to the ecliptic; so that we might hastily assume that annual
+parallax was the cause of the phenomenon discovered by Bradley. A single
+circumstance will, however, dispose of this suggestion. The circle
+described by a star in virtue of annual parallax has a magnitude
+dependent on the distance of the star, so that the circles described by
+various stars are of various dimensions, corresponding to the varied
+distances of different stars. The phenomena of aberration, however,
+distinctly assert that the circular path of each star is of the same
+size, quite independently of what its distance may be, and hence annual
+parallax will not afford an adequate explanation. It should also be
+noticed that the movements of a star produced by annual parallax are
+much smaller than those due to aberration. There is not any known star
+whose circular path due to annual parallax has a diameter one-twentieth
+part of that of the circle due to aberration; indeed, in the great
+majority of cases the parallax of the star is an absolutely insensible
+quantity.
+
+There is, however, a still graver and quite insuperable distinction
+between the parallactic path and the aberrational path. Let us, for
+simplicity, think of a star situated near the pole of the ecliptic, and
+thus appearing to revolve annually in a circle, whether we regard either
+the phenomenon of parallax or of aberration. As the earth revolves, so
+does the star appear to revolve; and thus to each place of the earth in
+its orbit corresponds a certain place of the star in its circle. If the
+movement arise from annual parallax, it is easy to see where the place
+of the star will be for any position of the earth. It is, however, found
+that in the movement discovered by Bradley the star never has the
+position which parallax assigns to it, but is, in fact, a quarter of the
+circumference of its little circle distant therefrom.
+
+A simple rule will find the position of the star due to aberration. Draw
+from the centre of the ellipse a radius parallel to the direction in
+which the earth is moving at the moment in question, then the extremity
+of this radius gives the point on its ellipse where the star is to be
+found. Tested at all seasons, and with all stars, this law is found to
+be always verified, and by its means we are conducted to the true
+explanation of the phenomenon.
+
+We can enunciate the effects of aberration in a somewhat different
+manner, which will show even more forcibly how the phenomenon is
+connected with the motion of the earth in its orbit. As the earth
+pursues its annual course around the sun, its movement at any moment may
+be regarded as directed towards a certain point of the ecliptic. From
+day to day, and even from hour to hour, the point gradually moves along
+the ecliptic, so as to complete the circuit in a year. At each moment,
+however, there is always a certain point in the heavens towards which
+the earth's motion is directed. It is, in fact, the point on the
+celestial sphere towards which the earth would travel continuously if,
+at the moment, the attraction of the sun could be annihilated. It is
+found that this point is intimately connected with the phenomenon of
+aberration. In fact, the aberration is really equivalent to drawing each
+star from its mean place towards the Apex of the Earth's Way, as the
+point is sometimes termed. It can also be shown by observation that the
+amount of aberration depends upon the distance from the apex. A star
+which happened to lie on the ecliptic will not be at all deranged by
+aberration from its mean place when it happens that the apex coincides
+with the star. All the stars 10 deg. from the apex will be displaced each by
+the same amount, and all directly in towards the apex. A star 20 deg. from
+the apex will undergo a larger degree of displacement, though still in
+the same direction, exactly towards the apex; and all stars at the same
+distance will be displaced by the same amount. Proceeding thus from the
+apex, we come to stars at a distance of 90 deg. therefrom. Here the amount
+of displacement will be a maximum. Each one will be about twenty seconds
+from its average place; but in every case the imperative law will be
+obeyed, that the displacement of the star from its mean place lies
+towards the apex of the earth's way. We have thus given two distinct
+descriptions of the phenomenon of aberration. In the first we find it
+convenient to speak of a star as describing a minute circular path; in
+the other we have regarded aberration as merely amounting to a
+derangement of the star from its mean place in accordance with specified
+laws. These descriptions are not inconsistent: they are, in fact,
+geometrically equivalent; but the latter is rather the more perfect,
+inasmuch as it assigns completely the direction and extent of the
+derangement caused by aberration in any particular star at any
+particular moment.
+
+The question has now been narrowed to a very definite form. What is it
+which makes each star seem to close in towards the point towards which
+the earth is travelling? The answer will be found when we make a minute
+enquiry into the circumstances in which we view a star in the telescope.
+
+The beam of rays from a star falls on the object-glass of a telescope;
+those rays are parallel, and after they pass through the object-glass
+they converge to a focus near the eye end of the instrument. Let us
+first suppose that the telescope is at rest; then if the telescope be
+pointed directly towards the star, the rays will converge to a point at
+the centre of the field of view where a pair of cross wires are placed,
+whose intersection defines the axis of the telescope. The case will,
+however, be altered if the telescope be moved after the light has passed
+through the objective; the rays of light in the interior of the tube
+will pursue a direct path, as before, and will proceed to a focus at the
+same precise point as before. As, however, the telescope has moved, it
+will, of course, have carried with it the pair of cross wires; they will
+no longer be at the same point as at first, and consequently the image
+of the star will not now coincide with their intersection.
+
+The movement of the telescope arises from its connection with the earth:
+for as the earth hurries along at a speed of eighteen miles a second,
+the telescope is necessarily displaced with this velocity. It might at
+first be thought, that in the incredibly small fraction of time
+necessary for light to pass from the object-glass to the eye-piece, the
+change in the position of the telescope must be too minute to be
+appreciable. Let us suppose, for instance, that the star is situated
+near the pole of the ecliptic, then the telescope will be conveyed by
+the earth's motion in a direction perpendicular to its length. If the
+tube of the instrument be about twenty feet long, it can be readily
+demonstrated that during the time the light travels down the tube the
+movement of the earth will convey the telescope through a distance of
+about one-fortieth of an inch.[42] This is a quantity very distinctly
+measurable with the magnifying power of the eye-piece, and hence this
+derangement of the star's place is very appreciable. It therefore
+follows that if we wish the star to be shown at the centre of the
+instrument, the telescope is not to be pointed directly at the star, as
+it would have to be were the earth at rest, but the telescope must be
+pointed a little in advance of the star's true position; and as we
+determine the apparent place of the star by the direction in which the
+telescope is pointed, it follows that the apparent place of the star is
+altered by the motion of the earth.
+
+Every circumstance of the change in the star's place admits of complete
+explanation in this manner. Take, for instance, the small circular path
+which each star appears to describe. We shall, for simplicity, refer
+only to a star at the pole of the ecliptic. Suppose that the telescope
+is pointed truly to the place of the star, then, as we have shown, the
+image of the star will be at a distance of one-fortieth of an inch from
+the cross wires. This distance will remain constant, but each night the
+direction of the star from the cross wires will change, so that in the
+course of the year it completes a circle, and returns to its original
+position. We shall not pursue the calculations relative to other stars;
+suffice it here to say that the movement of the earth has been found
+adequate to account for the phenomena, and thus the doctrine of the
+aberration of light is demonstrated.
+
+It remains to allude to one point of the utmost interest and importance.
+We have seen that the magnitude of the aberration can be measured by
+astronomical observation. The amount of this aberration depends upon the
+velocity of light, and on the velocity with which the earth's motion is
+performed. We can measure the velocity of light by independent
+measurements, in the manner already explained in Chapter XII. We are
+thus enabled to calculate what the velocity of the earth must be, for
+there is only one particular velocity for the earth which, when combined
+with the measured velocity of light, will give the measured value of
+aberration. The velocity of the earth being thus ascertained, and the
+length of the year being known, it is easy to find the circumference of
+the earth's path, and therefore its radius; that is, the distance from
+the earth to the sun.
+
+Here is indeed a singular result, and one which shows how profoundly the
+various phenomena of science are interwoven. We make experiments in our
+laboratory, and find the velocity of light. We observe the fixed stars,
+and measure the aberration. We combine these results, and deduce
+therefrom the distance from the earth to the sun! Although this method
+of finding the sun's distance is one of very great elegance, and admits
+of a certain amount of precision, yet it cannot be relied upon as a
+perfectly unimpeachable method of deducing the great constant. A perfect
+method must be based on the operations of mere surveying, and ought not
+to involve recondite physical considerations. We cannot, however, fail
+to regard the discovery of aberration by Bradley as a most pleasing and
+beautiful achievement, for it not only greatly improves the calculations
+of practical astronomy, but links together several physical phenomena of
+the greatest interest.
+
+
+
+
+CHAPTER XXVI.
+
+THE ASTRONOMICAL SIGNIFICANCE OF HEAT.
+
+
+     Heat and Astronomy--Distribution of Heat--The Presence of Heat in
+     the Earth--Heat in other Celestial Bodies--Varieties of
+     Temperature--The Law of Cooling--The Heat of the Sun--Can its
+     Temperature be Measured?--Radiation connected with the Sun's
+     Bulk--Can the Sun be Exhausting his Resources?--No marked Change
+     has occurred--Geological Evidence as to the Changes of the Sun's
+     Heat Doubtful--The Cooling of the Sun--The Sun cannot be merely an
+     Incandescent Solid Cooling--Combustion will not Explain the
+     Matter--Some Heat is obtained from Meteoric Matter, but this is not
+     Adequate to the Maintenance of the Sun's Heat--The Contraction of a
+     Heated Globe of Gas--An Apparent Paradox--The Doctrine of
+     Energy--The Nebular Theory--Evidence in Support of this
+     Theory--Sidereal Evidence of the Nebular Theory--Herschel's View of
+     Sidereal Aggregation--The Nebulae do not Exhibit Changes within the
+     Limits of our Observation.
+
+That a portion of a work on astronomy should bear the title placed at
+the head of this chapter will perhaps strike some of our readers as
+unusual, if not actually inappropriate. Is not heat, it may be said, a
+question merely of experimental physics? and how can it be legitimately
+introduced into a treatise upon the heavenly bodies and their movements?
+Whatever weight such objections might have once had need not now be
+considered. The recent researches on heat have shown not only that heat
+has important bearings on astronomy, but that it has really been one of
+the chief agents by which the universe has been moulded into its actual
+form. At the present time no work on astronomy could be complete without
+some account of the remarkable connection between the laws of heat and

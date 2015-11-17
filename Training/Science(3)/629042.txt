@@ -1,0 +1,409 @@
+letting them stand. There are 10 necessary marks in the 1st row, and in
+the 3rd; but only 7 in the 2nd. Hence we erase all optional marks in the
+1st and 3rd rows, but let them stand in the 2nd.
+
+       *       *       *       *       *
+
+Twenty-two answers have been received. Of these 11 give no working; so,
+in accordance with what I announced in my last review of answers, I
+leave them unnamed, merely mentioning that 5 are right and 6 wrong.
+
+Of the eleven answers with which some working is supplied, 3 are wrong.
+C. H. begins with the rash assertion that under the given conditions
+"the sum is impossible. For," he or she adds (these initialed
+correspondents are dismally vague beings to deal with: perhaps "it"
+would be a better pronoun), "10 is the least possible number of
+pictures" (granted): "therefore we must either give 2 x's to 6, or 2 o's
+to 5." Why "must," oh alphabetical phantom? It is nowhere ordained that
+every picture "must" have 3 marks! FIFEE sends a folio page of solution,
+which deserved a better fate: she offers 3 answers, in each of which 10
+pictures are marked, with 30 marks; in one she gives 2 x's to 6
+pictures; in another to 7; in the 3rd she gives 2 o's to 5; thus in
+every case ignoring the conditions. (I pause to remark that the
+condition "2 x's to 4 or 5 pictures" can only mean "_either_ to 4 _or
+else_ to 5": if, as one competitor holds, it might mean _any_ number not
+less than 4, the words "_or_ 5" would be superfluous.) I. E. A. (I am
+happy to say that none of these bloodless phantoms appear this time in
+the class-list. Is it IDEA with the "D" left out?) gives 2 x's to 6
+pictures. She then takes me to task for using the word "ought" instead
+of "nought." No doubt, to one who thus rebels against the rules laid
+down for her guidance, the word must be distasteful. But does not I. E.
+A. remember the parallel case of "adder"? That creature was originally
+"a nadder": then the two words took to bandying the poor "n" backwards
+and forwards like a shuttlecock, the final state of the game being "an
+adder." May not "a nought" have similarly become "an ought"? Anyhow,
+"oughts and crosses" is a very old game. I don't think I ever heard it
+called "noughts and crosses."
+
+In the following Class-list, I hope the solitary occupant of III. will
+sheathe her claws when she hears how narrow an escape she has had of not
+being named at all. Her account of the process by which she got the
+answer is so meagre that, like the nursery tale of "Jack-a-Minory" (I
+trust I. E. A. will be merciful to the spelling), it is scarcely to be
+distinguished from "zero."
+
+
+CLASS LIST.
+
+I.
+
+   GUY.
+   OLD CAT.
+   SEA-BREEZE.
+
+II.
+
+   AYR.
+   BRADSHAW OF THE FUTURE.
+   F. LEE.
+   H. VERNON.
+
+III.
+
+CAT.
+
+
+ANSWERS TO KNOT VI.
+
+_Problem 1._--_A_ and _B_ began the year with only 1,000_l._ a-piece.
+They borrowed nought; they stole nought. On the next New-Year's Day they
+had 60,000_l._ between them. How did they do it?
+
+_Solution._--They went that day to the Bank of England. _A_ stood in
+front of it, while _B_ went round and stood behind it.
+
+       *       *       *       *       *
+
+Two answers have been received, both worthy of much honour. ADDLEPATE
+makes them borrow "0" and steal "0," and uses both cyphers by putting
+them at the right-hand end of the 1,000_l._, thus producing 100,000_l._,
+which is well over the mark. But (or to express it in Latin) AT SPES
+INFRACTA has solved it even more ingeniously: with the first cypher she
+turns the "1" of the 1,000_l._ into a "9," and adds the result to the
+original sum, thus getting 10,000_l._: and in this, by means of the
+other "0," she turns the "1" into a "6," thus hitting the exact
+60,000_l._
+
+
+CLASS LIST
+
+I.
+
+AT SPES INFRACTA.
+
+II.
+
+ADDLEPATE.
+
+       *       *       *       *       *
+
+_Problem 2._--_L_ makes 5 scarves, while _M_ makes 2: _Z_ makes 4 while
+_L_ makes 3. Five scarves of _Z_'s weigh one of _L_'s; 5 of _M_'s weigh
+3 of _Z_'s. One of _M_'s is as warm as 4 of _Z_'s: and one of _L_'s as
+warm as 3 of _M_'s. Which is best, giving equal weight in the result to
+rapidity of work, lightness, and warmth?
+
+_Answer._--The order is _M_, _L_, _Z_.
+
+       *       *       *       *       *
+
+_Solution._--As to rapidity (other things being constant) _L_'s merit is
+to _M_'s in the ratio of 5 to 2: _Z_'s to _L_'s in the ratio of 4 to 3.
+In order to get one set of 3 numbers fulfilling these conditions, it is
+perhaps simplest to take the one that occurs _twice_ as unity, and
+reduce the others to fractions: this gives, for _L_, _M_, and _Z_, the
+marks 1, 2/5, 4/3. In estimating for _lightness_, we observe that the
+greater the weight, the less the merit, so that _Z_'s merit is to _L_'s
+as 5 to 1. Thus the marks for _lightness_ are 1/5, 5/3, 1. And
+similarly, the marks for warmth are 3, 1, 1/4. To get the total result,
+we must _multiply_ _L_'s 3 marks together, and do the same for _M_ and
+for _Z_. The final numbers are 1 x 1/5 x 3, 2/5 x 5/3 x 1, 4/3 x 1 x
+1/4; _i.e._ 3/5, 2/3, 1/3; _i.e._ multiplying throughout by 15 (which
+will not alter the proportion), 9, 10, 5; showing the order of merit to
+be _M_, _L_, _Z_.
+
+       *       *       *       *       *
+
+Twenty-nine answers have been received, of which five are right, and
+twenty-four wrong. These hapless ones have all (with three exceptions)
+fallen into the error of _adding_ the proportional numbers together, for
+each candidate, instead of _multiplying_. _Why_ the latter is right,
+rather than the former, is fully proved in text-books, so I will not
+occupy space by stating it here: but it can be _illustrated_ very easily
+by the case of length, breadth, and depth. Suppose _A_ and _B_ are rival
+diggers of rectangular tanks: the amount of work done is evidently
+measured by the number of _cubical feet_ dug out. Let _A_ dig a tank 10
+feet long, 10 wide, 2 deep: let _B_ dig one 6 feet long, 5 wide, 10
+deep. The cubical contents are 200, 300; _i.e._ _B_ is best digger in
+the ratio of 3 to 2. Now try marking for length, width, and depth,
+separately; giving a maximum mark of 10 to the best in each contest, and
+then _adding_ the results!
+
+Of the twenty-four malefactors, one gives no working, and so has no real
+claim to be named; but I break the rule for once, in deference to its
+success in Problem 1: he, she, or it, is ADDLEPATE. The other
+twenty-three may be divided into five groups.
+
+First and worst are, I take it, those who put the rightful winner
+_last_; arranging them as "Lolo, Zuzu, Mimi." The names of these
+desperate wrong-doers are AYR, BRADSHAW OF THE FUTURE, FURZE-BUSH and
+POLLUX (who send a joint answer), GREYSTEAD, GUY, OLD HEN, and SIMPLE
+SUSAN. The latter was _once_ best of all; the Old Hen has taken
+advantage of her simplicity, and beguiled her with the chaff which was
+the bane of her own chickenhood.
+
+Secondly, I point the finger of scorn at those who have put the worst
+candidate at the top; arranging them as "Zuzu, Mimi, Lolo." They are
+GRAECIA, M. M., OLD CAT, and R. E. X. "'Tis Greece, but----."
+
+The third set have avoided both these enormities, and have even
+succeeded in putting the worst last, their answer being "Lolo, Mimi,
+Zuzu." Their names are AYR (who also appears among the "quite too too"),
+CLIFTON C., F. B., FIFEE, GRIG, JANET, and MRS. SAIREY GAMP. F. B. has
+not fallen into the common error; she _multiplies_ together the
+proportionate numbers she gets, but in getting them she goes wrong, by
+reckoning warmth as a _de_-merit. Possibly she is "Freshly Burnt," or
+comes "From Bombay." JANET and MRS. SAIREY GAMP have also avoided this
+error: the method they have adopted is shrouded in mystery--I scarcely
+feel competent to criticize it. MRS. GAMP says "if Zuzu makes 4 while
+Lolo makes 3, Zuzu makes 6 while Lolo makes 5 (bad reasoning), while
+Mimi makes 2." From this she concludes "therefore Zuzu excels in speed
+by 1" (_i.e._ when compared with Lolo; but what about Mimi?). She then
+compares the 3 kinds of excellence, measured on this mystic scale. JANET
+takes the statement, that "Lolo makes 5 while Mimi makes 2," to prove
+that "Lolo makes 3 while Mimi makes 1 and Zuzu 4" (worse reasoning than
+MRS. GAMP'S), and thence concludes that "Zuzu excels in speed by 1/8"!
+JANET should have been ADELINE, "mystery of mysteries!"
+
+The fourth set actually put Mimi at the top, arranging them as "Mimi,
+Zuzu, Lolo." They are MARQUIS AND CO., MARTREB, S. B. B. (first initial
+scarcely legible: _may_ be meant for "J"), and STANZA.
+
+The fifth set consist of AN ANCIENT FISH and CAMEL. These ill-assorted
+comrades, by dint of foot and fin, have scrambled into the right answer,
+but, as their method is wrong, of course it counts for nothing. Also AN
+ANCIENT FISH has very ancient and fishlike ideas as to _how_ numbers
+represent merit: she says "Lolo gains 2-1/2 on Mimi." Two and a half
+_what_? Fish, fish, art thou in thy duty?
+
+Of the five winners I put BALBUS and THE ELDER TRAVELLER slightly below
+the other three--BALBUS for defective reasoning, the other for scanty
+working. BALBUS gives two reasons for saying that _addition_ of marks is
+_not_ the right method, and then adds "it follows that the decision must
+be made by _multiplying_ the marks together." This is hardly more
+logical than to say "This is not Spring: _therefore_ it must be Autumn."
+
+
+CLASS LIST.
+
+I.
+
+   DINAH MITE.
+   E. B. D. L.
+   JORAM.
+
+II.
+
+   BALBUS.
+   THE ELDER TRAVELLER.
+
+       *       *       *       *       *
+
+With regard to Knot V., I beg to express to VIS INERTIAE and to any
+others who, like her, understood the condition to be that _every_ marked
+picture must have _three_ marks, my sincere regret that the unfortunate
+phrase "_fill_ the columns with oughts and crosses" should have caused
+them to waste so much time and trouble. I can only repeat that a
+_literal_ interpretation of "fill" would seem to _me_ to require that
+_every_ picture in the gallery should be marked. VIS INERTIAE would have
+been in the First Class if she had sent in the solution she now offers.
+
+
+ANSWERS TO KNOT VII.
+
+_Problem._--Given that one glass of lemonade, 3 sandwiches, and 7
+biscuits, cost 1_s._ 2_d._; and that one glass of lemonade, 4
+sandwiches, and 10 biscuits, cost 1_s._ 5_d._: find the cost of (1) a
+glass of lemonade, a sandwich, and a biscuit; and (2) 2 glasses of
+lemonade, 3 sandwiches, and 5 biscuits.
+
+_Answer._--(1) 8_d._; (2) 1_s._ 7_d._
+
+_Solution._--This is best treated algebraically. Let _x_ = the cost (in
+pence) of a glass of lemonade, _y_ of a sandwich, and _z_ of a biscuit.
+Then we have _x_ + 3_y_ + 7_z_ = 14, and _x_ + 4_y_ + 10_z_ = 17. And we
+require the values of _x_ + _y_ + _z_, and of 2_x_ + 3_y_ + 5_z_. Now,
+from _two_ equations only, we cannot find, _separately_, the values of
+_three_ unknowns: certain _combinations_ of them may, however, be found.
+Also we know that we can, by the help of the given equations, eliminate
+2 of the 3 unknowns from the quantity whose value is required, which
+will then contain one only. If, then, the required value is
+ascertainable at all, it can only be by the 3rd unknown vanishing of
+itself: otherwise the problem is impossible.
+
+Let us then eliminate lemonade and sandwiches, and reduce everything to
+biscuits--a state of things even more depressing than "if all the world
+were apple-pie"--by subtracting the 1st equation from the 2nd, which
+eliminates lemonade, and gives _y_ + 3_z_ = 3, or _y_ = 3-3_z_; and then
+substituting this value of _y_ in the 1st, which gives _x_-2_z_ = 5,
+_i.e._ _x_ = 5 + 2_z_. Now if we substitute these values of _x_, _y_, in
+the quantities whose values are required, the first becomes (5 + 2_z_) +
+(3-3_z_) + _z_, _i.e._ 8: and the second becomes 2(5 + 2_z_) + 3(3-3_z_)
++ 5_z_, _i.e._ 19. Hence the answers are (1) 8_d._, (2) 1_s._ 7_d._
+
+       *       *       *       *       *
+
+The above is a _universal_ method: that is, it is absolutely certain
+either to produce the answer, or to prove that no answer is possible.
+The question may also be solved by combining the quantities whose values
+are given, so as to form those whose values are required. This is merely
+a matter of ingenuity and good luck: and as it _may_ fail, even when the
+thing is possible, and is of no use in proving it _im_possible, I cannot
+rank this method as equal in value with the other. Even when it
+succeeds, it may prove a very tedious process. Suppose the 26
+competitors, who have sent in what I may call _accidental_ solutions,
+had had a question to deal with where every number contained 8 or 10
+digits! I suspect it would have been a case of "silvered is the raven
+hair" (see "Patience") before any solution would have been hit on by
+the most ingenious of them.
+
+Forty-five answers have come in, of which 44 give, I am happy to say,
+some sort of _working_, and therefore deserve to be mentioned by name,
+and to have their virtues, or vices as the case may be, discussed.
+Thirteen have made assumptions to which they have no right, and so
+cannot figure in the Class-list, even though, in 10 of the 13 cases, the
+answer is right. Of the remaining 28, no less than 26 have sent in
+_accidental_ solutions, and therefore fall short of the highest honours.
+
+I will now discuss individual cases, taking the worst first, as my
+custom is.
+
+FROGGY gives no working--at least this is all he gives: after stating
+the given equations, he says "therefore the difference, 1 sandwich + 3
+biscuits, = 3_d._": then follow the amounts of the unknown bills, with
+no further hint as to how he got them. FROGGY has had a _very_ narrow
+escape of not being named at all!
+
+Of those who are wrong, VIS INERTIAE has sent in a piece of incorrect
+working. Peruse the horrid details, and shudder! She takes _x_ (call it
+"_y_") as the cost of a sandwich, and concludes (rightly enough) that a
+biscuit will cost (3-_y_)/3. She then subtracts the second equation from
+the first, and deduces 3_y_ + 7 x (3-_y_)/3-4_y_ + 10 x (3-_y_)/3 = 3.
+By making two mistakes in this line, she brings out _y_ = 3/2. Try it
+again, oh VIS INERTIAE! Away with INERTIAE: infuse a little more VIS: and
+you will bring out the correct (though uninteresting) result, 0 = 0!
+This will show you that it is hopeless to try to coax any one of these 3
+unknowns to reveal its _separate_ value. The other competitor, who is
+wrong throughout, is either J. M. C. or T. M. C.: but, whether he be a
+Juvenile Mis-Calculator or a True Mathematician Confused, he makes the
+answers 7_d._ and 1_s._ 5_d._ He assumes, with Too Much Confidence, that
+biscuits were 1/2_d._ each, and that Clara paid for 8, though she only
+ate 7!
+
+We will now consider the 13 whose working is wrong, though the answer is
+right: and, not to measure their demerits too exactly, I will take them
+in alphabetical order. ANITA finds (rightly) that "1 sandwich and 3
+biscuits cost 3_d._," and proceeds "therefore 1 sandwich = 1-1/2_d._, 3
+biscuits = 1-1/2_d._, 1 lemonade = 6_d._" DINAH MITE begins like ANITA:
+and thence proves (rightly) that a biscuit costs less than a 1_d._:
+whence she concludes (wrongly) that it _must_ cost 1/2_d._ F. C. W. is
+so beautifully resigned to the certainty of a verdict of "guilty," that
+I have hardly the heart to utter the word, without adding a "recommended
+to mercy owing to extenuating circumstances." But really, you know,
+where _are_ the extenuating circumstances? She begins by assuming that
+lemonade is 4_d._ a glass, and sandwiches 3_d._ each, (making with the 2
+given equations, _four_ conditions to be fulfilled by _three_ miserable
+unknowns!). And, having (naturally) developed this into a contradiction,
+she then tries 5_d._ and 2_d._ with a similar result. (N.B. _This_
+process might have been carried on through the whole of the Tertiary
+Period, without gratifying one single Megatherium.) She then, by a
+"happy thought," tries half-penny biscuits, and so obtains a consistent
+result. This may be a good solution, viewing the problem as a conundrum:
+but it is _not_ scientific. JANET identifies sandwiches with biscuits!
+"One sandwich + 3 biscuits" she makes equal to "4." Four _what_? MAYFAIR
+makes the astounding assertion that the equation, _s_ + 3_b_ = 3, "is
+evidently only satisfied by _s_ = 3/2, _b_ = 1/2"! OLD CAT believes that
+the assumption that a sandwich costs 1-1/2_d._ is "the only way to avoid
+unmanageable fractions." But _why_ avoid them? Is there not a certain
+glow of triumph in taming such a fraction? "Ladies and gentlemen, the
+fraction now before you is one that for years defied all efforts of a
+refining nature: it was, in a word, hopelessly vulgar. Treating it as a
+circulating decimal (the treadmill of fractions) only made matters
+worse. As a last resource, I reduced it to its lowest terms, and
+extracted its square root!" Joking apart, let me thank OLD CAT for some
+very kind words of sympathy, in reference to a correspondent (whose name
+I am happy to say I have now forgotten) who had found fault with me as a
+discourteous critic. O. V. L. is beyond my comprehension. He takes the
+given equations as (1) and (2): thence, by the process [(2)-(1)] deduces
+(rightly) equation (3) viz. _s_ + 3_b_ = 3: and thence again, by the
+process [x3] (a hopeless mystery), deduces 3_s_ + 4_b_ = 4. I have
+nothing to say about it: I give it up. SEA-BREEZE says "it is immaterial
+to the answer" (why?) "in what proportion 3_d._ is divided between the
+sandwich and the 3 biscuits": so she assumes _s_ = l-1/2_d._, _b_ =
+1/2_d._ STANZA is one of a very irregular metre. At first she (like
+JANET) identifies sandwiches with biscuits. She then tries two
+assumptions (_s_ = 1, _b_ = 2/3, and _s_ = 1/2 _b_ = 5/6), and
+(naturally) ends in contradictions. Then she returns to the first
+assumption, and finds the 3 unknowns separately: _quod est absurdum_.
+STILETTO identifies sandwiches and biscuits, as "articles." Is the word
+ever used by confectioners? I fancied "What is the next article, Ma'am?"
+was limited to linendrapers. TWO SISTERS first assume that biscuits are
+4 a penny, and then that they are 2 a penny, adding that "the answer
+will of course be the same in both cases." It is a dreamy remark,
+making one feel something like Macbeth grasping at the spectral dagger.
+"Is this a statement that I see before me?" If you were to say "we both
+walked the same way this morning," and _I_ were to say "_one_ of you
+walked the same way, but the other didn't," which of the three would be
+the most hopelessly confused? TURTLE PYATE (what _is_ a Turtle Pyate,
+please?) and OLD CROW, who send a joint answer, and Y. Y., adopt the
+same method. Y. Y. gets the equation _s_ + 3_b_ = 3: and then says "this
+sum must be apportioned in one of the three following ways." It _may_
+be, I grant you: but Y. Y. do you say "must"? I fear it is _possible_
+for Y. Y. to be _two_ Y's. The other two conspirators are less positive:
+they say it "can" be so divided: but they add "either of the three
+prices being right"! This is bad grammar and bad arithmetic at once, oh
+mysterious birds!
+
+Of those who win honours, THE SHETLAND SNARK must have the 3rd class all
+to himself. He has only answered half the question, viz. the amount of
+Clara's luncheon: the two little old ladies he pitilessly leaves in the
+midst of their "difficulty." I beg to assure him (with thanks for his
+friendly remarks) that entrance-fees and subscriptions are things
+unknown in that most economical of clubs, "The Knot-Untiers."
+
+The authors of the 26 "accidental" solutions differ only in the number
+of steps they have taken between the _data_ and the answers. In order
+to do them full justice I have arranged the 2nd class in sections,
+according to the number of steps. The two Kings are fearfully
+deliberate! I suppose walking quick, or taking short cuts, is
+inconsistent with kingly dignity: but really, in reading THESEUS'
+solution, one almost fancied he was "marking time," and making no
+advance at all! The other King will, I hope, pardon me for having
+altered "Coal" into "Cole." King Coilus, or Coil, seems to have reigned
+soon after Arthur's time. Henry of Huntingdon identifies him with the
+King Coel who first built walls round Colchester, which was named after
+him. In the Chronicle of Robert of Gloucester we read:--
+
+   "Aftur Kyng Aruirag, of wam we habbeth y told,
+   Marius ys sone was kyng, quoynte mon & bold.
+   And ys sone was aftur hym, _Coil_ was ys name,
+   Bothe it were quoynte men, & of noble fame."
+
+BALBUS lays it down as a general principle that "in order to ascertain
+the cost of any one luncheon, it must come to the same amount upon two
+different assumptions." (_Query._ Should not "it" be "we"? Otherwise the
+_luncheon_ is represented as wishing to ascertain its own cost!) He then
+makes two assumptions--one, that sandwiches cost nothing; the other,
+that biscuits cost nothing, (either arrangement would lead to the shop
+being inconveniently crowded!)--and brings out the unknown luncheons as
+8_d._ and 19_d._, on each assumption. He then concludes that this
+agreement of results "shows that the answers are correct." Now I propose
+to disprove his general law by simply giving _one_ instance of its
+failing. One instance is quite enough. In logical language, in order to
+disprove a "universal affirmative," it is enough to prove its
+contradictory, which is a "particular negative." (I must pause for a
+digression on Logic, and especially on Ladies' Logic. The universal
+affirmative "everybody says he's a duck" is crushed instantly by proving
+the particular negative "Peter says he's a goose," which is equivalent
+to "Peter does _not_ say he's a duck." And the universal negative
+"nobody calls on her" is well met by the particular affirmative "_I_

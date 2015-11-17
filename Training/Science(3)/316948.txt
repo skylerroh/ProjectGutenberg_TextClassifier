@@ -1,0 +1,466 @@
+proposal to use it commercially; but it is claimed that this is the
+first successful working of it on a large scale.
+
+The gases from a large limekiln supply the dilute carbonic acid gas,
+which contains 25 per cent. to 30 per cent. of pure gas, the principal
+diluting gas being, of course, nitrogen. This kiln gas is drawn from
+the kiln by a blowing engine, and is first cooled in two large
+receivers. It is then forced into the solution of sodium carbonate in
+the absorption tower, 65 ft. high by 6 ft. diameter, filled with the
+liquor. The tower has many diaphragms and perforated "mushrooms," to
+cause a proper dispersion of the gases as they ascend through the
+liquor. The strength of liquor found best adapted for the work is
+equal to a density of about 30 deg. Twaddell. After saturation the mud of
+bicarbonate of sodium is drawn off and passed into the "decomposer," a
+tower 35 ft. high by 6 ft. 6 in. in diameter, with perforated shelves,
+into which steam is blown from below, the liquor passing downward. The
+bicarbonate is decomposed, pure carbonic acid being given off. This is
+passed through a scrubber and into a gas holder ready for use. The
+liquor, which has now returned to the state of simple carbonate of
+sodium, only requires cooling to be ready to absorb a fresh lot of
+carbonic acid gas. The cooling is effected in a tower packed loosely
+with bricks, the hot liquor trickling down against a powerful current
+of air blown in from below. Liquor has been cooled in this way, in
+once passing through the tower, from 220 deg. Fahr. to 58 deg. Fahr., but of
+course the exact cooling obtained depends more or less on the
+temperature of the atmosphere.
+
+The next stage of the process, if we follow on after the preparation
+of the pure carbonic acid, is the employment of the gas for the
+decomposition of the ammonium sulphide absorbed in a brine liquor as
+above explained. The brine and ammonium sulphide are contained in what
+is known as a "Solvay tower," provided with proper means for
+dispersion and absorption of the carbonic acid gas. The precipitated
+bicarbonate of sodium is removed and washed, and prepared for the
+market in whatever form is required, the sulphureted hydrogen gas
+being led to a holder and stored, as before stated.
+
+The decomposition of the ammonium chloride by means of "alkali waste"
+is carried out in a specially designed still. This is a tower 45 ft.
+high by 8 ft. diameter, divided by horizontal plates into compartments
+of about 3 ft. 8 in. in height. These compartments communicate with
+one another by means of pockets, or recesses, in the shell of the
+tower. A vertical shaft, with arms, revolves in the tower. The "waste"
+is fed in at the top by means of hopper and screw feed. The liquor is
+heated by steam blown in to over 212 deg. Fahr. The ammonium sulphide is
+led direct into an absorbing vessel full of brine.
+
+It now only remains to see how it is proposed to deal with the
+sulphureted hydrogen gas which represents the sulphur recovered from
+the waste. It can be burnt direct to sulphurous acid and utilized for
+the production of vitriol perfectly pure and free from arsenic,
+commanding a special price. But Messrs. Parnell & Simpson state that
+by a method of restricted combustion they are able to obtain nearly
+all the sulphur as such, and put it on the market on equal terms with
+the best Sicilian sulphur. We did not gather that this has yet been
+done on the working scale, however.
+
+It will be seen that it is proposed that a Leblanc alkali maker shall
+continue to produce a portion of his make by the old process, but
+shall erect plant to enable him to make another portion by the Parnell
+& Simpson method, using his Leblanc "waste" in place of the caustic
+lime now employed by the ammonia soda people. He is thus to have the
+benefit of the cheaper process for, say, half his make, while he
+further cheapens the ammonia method by saving the cost of lime and by
+recovering the sulphur otherwise lost in his waste.
+
+The saving in lime is stated to be one ton for each ton of sodium
+carbonate produced, or in cash value about 10s. per ton at Widnes,
+while the sulphur saved is estimated to be 6 cwt. per ton of sodium
+carbonate. We reproduce these figures with all reserve, not being
+ourselves sufficiently specialists to judge of them. But we were
+assured that they represent the minimum expected, and reasons were
+given to us to show that they would probably be exceeded.
+
+Another gain for the Leblanc maker would be that he will escape the
+cost of removal and disposal of a portion of his refuse or waste.
+
+The plant now erected was calculated for a yield of one hundred tons
+carbonate of sodium and about thirty-five tons of sulphur per week,
+but it now appears likely that this will be exceeded; while the
+carbonic acid plant was supposed to be equal to a yield of 6 tons of
+pure gas per day, and is now found capable of doing twice as much.
+
+A few weeks will now bring this new combination process into the
+active and crucial test of the markets. Chemists and chemical
+engineers have all along taken a keen interest in the ingenious ideas
+of Parnell & Simpson. Commercial men are no less interested in the
+financial result of the experiment about to be tried at the expense of
+a few gentlemen of Liverpool and district. So far as we can learn,
+opinions are to some extent divided, though many good judges are very
+hopefully inclined. For our own part, speaking with diffidence, as
+being a little off our regular track of work, we will only say that we
+were favorably impressed with what we saw and heard; and we certainly
+wish the venture that full success which its cleverness and its pluck,
+as well as its great importance at this crisis, deserve for
+it.--_Engineering_.
+
+       *       *       *       *       *
+
+
+
+
+TEMPERATURE OF GAS DISTILLATION.
+
+
+An important subject for investigation, which has not yet been
+satisfactorily determined, is the temperature at which it is most
+beneficial to distill coals of various qualities. The practice of
+allowing the charge to remain in the retort for some time after most
+of the gas has been driven off, to enable (it is said) the retort to
+recover heat for the next charge, often leads to misconception as to
+the true temperature of carbonization. The effect of this is to
+equalize the temperatures inside and outside the retort. This inside
+temperature is not maintained, the temperature outside not being high
+enough to transmit the heat with sufficient rapidity; and so, in an
+apparently hot retort, the coal may be carbonized at a comparatively
+low temperature. A truer test of temperature is that of the outside of
+the retort, which should be not less than 400 deg. to 500 deg. Fahr. above the
+temperature necessary for proper carbonization. In all experiments
+relating to temperature pretending to any degree of accuracy, a
+pyrometer of some kind should be used. Judging of the temperature by
+the color is often misleading. Not only may the eye be deceived, but
+different clays do not present the same appearance at the same
+temperature. A good, reliable pyrometer to estimate temperatures to
+(say) 2500 deg. Fahr. is much wanted.
+
+Experience during the last few years with the high temperatures
+obtained by the use of regenerative furnaces has led me to the
+conclusion that higher heats than are usual may be employed with
+advantage, as regards both the quantity and the quality of gas,
+provided the retorts are heated uniformly throughout their length, and
+the weight and duration of the charge are so adjusted that the coal
+does not remain longer in the retort than is just sufficient to drive
+off the gas; and that the more rapidly the coal is carbonized, the
+better are the results. In two retorts of the same size, one making
+5,000 and the other 10,000 cubic feet per day, the gas will be twice
+as long in contact with the surface of the retort in the former as in
+the latter--to the probable detriment of its quality, and increased
+tendency to stoppage in the ascension pipes.
+
+A subject closely allied to that just alluded to is the temperature of
+the gas as it leaves the retort. Until within the last few years, it
+was generally assumed that this was not higher than from 200 deg. to 300 deg.
+Fahr.; and a very plausible theory was given to account for such a
+comparatively low temperature. A discussion which took place a few
+years ago in the _Journal of Gas Lighting_ showed that at that time
+opinions on this subject were not unanimous. But the conclusion
+arrived at seemed to be that the gas was not higher in temperature
+than that before stated; and if higher temperatures were observed,
+they were due to the tarry matter in the gas, and were not those of
+the gas itself. A little reflection is sufficient to show that the
+existence of gas intimately mixed with tarry matter at a high
+temperature, without being itself raised to that temperature, is a
+physical impossibility.
+
+In a paper read to a Continental gas association about a year ago, the
+writer stated, as the result of many experiments, that unless the
+temperature in the ascension pipe rises above 480 deg. Fahr., thickening
+of the tar in the hydraulic main and choking of the ascension pipe
+will certainly occur. This led me to make a series of experiments,
+extending over many months, on the temperature of the gas in the
+ascension pipes at different points and at various times during the
+charge. The results of these experiments may be of some interest, and
+may lead to further investigation. The temperatures were taken by
+mercurial thermometers registering 600 deg. Fahr., except those near the
+mouthpiece, which were taken by a Siemens water pyrometer. Every care
+was exercised to insure accuracy; and the instruments were carefully
+adjusted. At a distance of 18 inches from the mouthpiece, the
+temperatures varied from an average of 890 deg., shortly after the retort
+was charged, to 518 deg. at the end of the charge; at 12 feet distant from
+the mouthpiece, the corresponding temperature was 444 deg., falling to
+167 deg. at the end of the charge; and at 22 feet, the average temperature
+varied from 246 deg. at the commencement to 144 deg. at the end of the charge.
+These are the averages of a number of experiments. In some instances
+they were considerably above these averages--temperatures over 900 deg.
+being frequently obtained. This is about the temperature of a low red
+heat, and is much higher than any I have seen recorded. When the gas
+was allowed to issue from a hole in the ascension pipe, 11/4 inches in
+diameter, 18 inches above the mouthpiece, a strip of lead held about
+an inch from the orifice was freely melted.
+
+In the settings on which these experiments were made, the middle
+ascension pipe takes the gas from the two central retorts; and it is
+of interest to note that in this pipe the temperature of the gas 18
+inches from the upper retort was found to be 1014 deg. Fahr., and at the
+point where it entered the hydraulic main it was 440 deg. Fahr. Zinc was
+freely melted by the gas issuing from a hole 18 inches from the
+mouthpiece. The temperatures always fall toward the end of the charge;
+the fall of temperature in the ascension pipe being a good indication
+that the charge is worked off. They increase with the heat of the
+retort and with the weight of the charge.
+
+Experiments were also made to ascertain the temperature of the gas in
+the retort; and for this purpose one of Murrie's pyrometers was used,
+the action of which depends on the pressure produced by the
+vaporization of mercury in a malleable iron tube. The end of this tube
+was first rested on the top of the coal, but not in contact with the
+retort. It reached about 18 inches into the retort, and therefore was
+not in the hottest part. In this position the temperature indicated
+shortly after charging the retort was 1110 deg. Fahr., gradually rising to
+1640 deg. Fahr. The end of the tube was then embedded in the coal, when
+the pyrometer indicated a temperature of 1260 deg. Fahr. within 30 minutes
+after the retort was charged; gradually rising toward the end of the
+charge as before. At the time these temperatures were taken, the
+retorts were each producing 10,000 cubic feet of gas per day. I had no
+opportunity of testing the accuracy of the statement that, with lower
+temperatures, there is a tendency to stoppage of the ascension pipes;
+but with these high temperatures (contrary to what might be expected)
+there is no trouble from stoppages.
+
+These experiments, so far as they have gone, lead to the conclusion
+that the temperature of the gas as it is evolved from the coal is not
+less than 1200 deg. Fahr., and that cooling commences immediately on the
+gas leaving the retort. The temperatures being far above that of
+liquefaction, the gases are cooled very rapidly. The temperature of
+the gas in the ascension pipe depends on the rapidity with which the
+gas is evolved--that is to say, the greater the quantity produced in a
+given time, the less effective is the cooling action of the mouthpiece
+and the ascension pipe; and although I had no opportunity of testing
+it, I should expect to find that with retorts making from 5,000 to
+6,000 cubic feet of gas per day, the maximum temperature in the
+ascension pipe 18 inches from the mouthpiece will not exceed 400 deg. to
+500 deg. Fahr., while with lower heats and lighter charges the
+temperatures will be still lower. That these temperatures have some
+effect in causing or preventing stoppage in the ascension pipes there
+can be no doubt; and it is important that this subject should be
+thoroughly investigated.
+
+It is of interest to consider what must be the physical condition of
+the gas at these high temperatures. All the hydrocarbons which are
+afterward condensed must then be in the condition of gases having
+various degrees of condensability, mixed with and rendered visible by
+a cloud of carbon particles or soot. If this soot could be removed
+from the gas at this stage without reducing the temperature, we should
+probably have no thick tar or pitch, but only comparatively
+light-colored oils; and it might possibly lead to an entirely
+different mode of conducting the process of condensation.
+
+These are a few of the subjects on which it is extremely desirable
+that we should possess that complete information which can only be
+obtained by well-directed investigations with different materials and
+under varying conditions. There are many others in connection with
+carbonization and purification which might be mentioned; but I think I
+have said sufficient to show the necessity that exists for more minute
+investigation and research. Investigations such as are here indicated
+do not involve any large expenditure of money; but they do require
+care and intelligence to prevent errors being made. Experiments should
+not be condemned as defective because the results differ from
+old-established theories; yet when this does happen, it is in all
+cases better to suspect the new experiment rather than the old theory,
+until the results have been fully established.--_Wm. Foulis, Journal
+of Gas Lighting._
+
+       *       *       *       *       *
+
+
+THE LARGEST BLACK ASH FURNACE IN THE WORLD.
+
+The Widnes Alkali Company have recently erected an enormous revolving
+black ash furnace, which is 30 ft. in length and has a diameter of 12
+ft. 6 in. The inside length is 28 ft. 6 in., with a diameter of 11 ft.
+4 in. The furnace is lined with 16,000 fire bricks and 120 fire-clay
+breakers, each weighing 11/4 cwt. The weight of salt cake per charge,
+i.e., contained in each charge of salt cake, limestone, mud, and
+slack, is 8 tons 12 cwt. For 110 tons of salt cake charged there are
+also used about 100 tons of lime mud and limestone and 55 tons of
+mixing slack. The total amount of salt cake decomposed weekly is about
+400 tons, which may be calculated to yield 240 tons of 60 per cent
+caustic soda. There is claimed for this massive furnace an economy in
+iron plate, in expense on the engine power and on fuel consumed, as
+well as on wear and tear.--_Watson Smith, in Industries._
+
+       *       *       *       *       *
+
+
+
+
+THE STATUE OF PHILIP LEBON.
+
+
+The inauguration of the statue of Philip Lebon, the inventor of
+lighting by gas, occurred on the 26th of June, at Chaumont, under the
+auspices of the Technical Gas Society of France. The statue, which we
+illustrate herewith, is due to the practiced chisel of the young
+sculptor Antide Pechine, who has perfectly understood his work, and
+has represented the inventor at the moment at which he observes a
+flame start from a glass balloon in which he had heated some sawdust.
+The attitude is graceful and the expression of the face is meditative
+and intelligent. The statue, which is ten feet in height, was
+exhibited at the last _Salon_. It was cast at the Barbedienne works.
+
+It would be impossible to applaud too much the homage that has just
+been rendered to the inventor of gas lighting, for Philip Lebon, like
+so many other benefactors of humanity, has not by far the celebrity
+that ought to belong to him. When we study the documents that relate
+to his existence, when we follow the flashes of genius that darted
+through his brain, when we see the obstacles that he had to conquer,
+and when we thoroughly examine his great character and the lofty
+sentiments that animated him, we are seized with admiration for the
+humble worker who endowed his country with so great a benefit.
+
+Lebon was born at Brachay on the 29th of May, 1767. At the age of
+twenty, he was admitted to the School of Bridges and Roads, where he
+soon distinguished himself by his ingenious and investigating turn of
+mind. His first labors were in connection with the steam engine, then
+in its infancy, and on April 18, 1792, the young engineer obtained a
+national award of $400 to continue the experiments that he had begun
+on the improvement of this apparatus.
+
+It was at about the same epoch that Lebon was put upon the track of
+lighting by gas, during a sojourn at Brachay. He one day threw a
+handful of sawdust into a glass vial that he heated over a fire. He
+observed issuing from the bottle a dense smoke which suddenly caught
+fire and produced a beautiful luminous flame. The inventor understood
+the importance of the experiment that he had just performed, and
+resolved to work it further. He had just found that wood and other
+combustibles were, under the action of heat, capable of disengaging a
+gas fit for lighting and heating. He had seen that the gas which is
+disengaged from wood is accompanied with blackish vapors of an acrid
+and empyreumatic odor. In order that it might serve for the production
+of light, it was necessary to free it from these foreign products.
+
+Lebon passed the vapor through a tube into a flask of water, which
+condensed the tarry and acid substances, and the gas escaped in a
+state of purity. This modest apparatus was the first image of the gas
+works; and it comprised the three essential parts thereof--the
+generating apparatus, the purifying apparatus, and the receiver for
+collecting the gas.
+
+One year afterward, the inventor had seen Fourcroy, Prony, and the
+great scientists of his epoch. On the 28th of September, 1799, he took
+out a patent in which he gives a complete description of his thermo
+lamp, by means of which he produced a luminous gas, while at the same
+time manufacturing wood tar and pyroligneous or acetic acid. In this
+patent he mentions coal as proper to replace wood, and he explains his
+system with a visible emotion and singular ardor. In reading what he
+has written we are struck with that form of persuasion that does not
+permit of doubting that he foresaw the future in reserve for his
+system.
+
+Unfortunately, Lebon could not devote all his time to his discovery.
+Being a government engineer, without money and fortune, he had to
+attend to his duties. He went as an ordinary engineer to Angouleme,
+but he did not forget his illuminating gas, and he strongly regretted
+Paris, which he termed "an incomparable focus of study." He devoted
+himself to mathematics and science, he made himself beloved by all,
+and his mind wandered far from his daily occupation. The engineer in
+chief soon complained of him, but a committee appointed to investigate
+the charges that had been made against him affirmed that he was free
+from any reproach. He was sent back to his post, but war was
+decimating the resources of France, and the republic, while Bonaparte
+was in Italy, no longer had any time to pay its engineers. Lebon wrote
+some pressing letters to the minister, asking for the sums due on his
+work, but all of them remained without reply. His wife went to Paris,
+but her applications were fruitless. She wrote herself to the minister
+the following letter, which exists in the archives of the School of
+Bridges and Roads:
+
+    "Liberty, equality, fraternity--Paris. 22 Messidor, year VII. of
+    the French Republic, one and indivisible--the wife of Citizen
+    Lebon to Citizen Minister of the Interior:
+
+    "It is neither alms nor a favor that I ask of you, it is
+    justice. I have for two months been languishing at 120 leagues
+    from my household. Do not, by further delay, force the father of
+    a family, for want of means, to leave a state for which he has
+    sacrificed everything. ... Have regard for our position,
+    citizen. It is oppressive, and my demand is just. There is more
+    than one motive to persuade me that my application will not be
+    fruitless with a minister who makes it a law and duty for
+    himself to be just.
+
+    "Greeting and esteem. Your devoted fellow-citizen,
+
+                                "Madame Lebon, _nee_ De Brambille."
+
+In 1801, Lebon was called to Paris, as _attache_ in the service of
+Blin, engineer in chief of pavements. He took a second patent--a true
+scientific memoir full of facts and ideas. It speaks of the numerous
+applications of illuminating gas and its mode of production, lays down
+the basis of the entire manufacture--furnaces, condensers, purifiers,
+gas burners. Nothing is forgotten, not even the steam engine and
+balloon. Lebon proposed to the government to construct an apparatus
+for heating and lighting the public buildings, but the offer was
+rejected. It was then that the unfortunate inventor, wearied by all
+his tentatives, fatigued by his thousands of vexations, made up his
+mind to have recourse to the public in order to convince it of the
+utility of his invention. He rented the hotel Seignelay, St.
+Dominique-St. Germain St., and invited the public thither. Here he
+arranged a gas apparatus, which distributed light and heat to all the
+rooms. He lighted the gardens with thousands of gas jets in the form
+of rosettes and flowers. A fountain was illuminated with the new gas,
+and the water that flowed from it seemed to be luminous. The crowd
+hastened from all parts and came to salute the new invention. Lebon,
+excited by this success, published a prospectus, a sort of profession
+of faith, a model of grandeur and sincerity, a true monument of
+astonishing foresight. He followed his gas into the future and saw it
+circulating through pipes, whence it threw light into all the streets
+of future capitals. We reproduce a few passages from this remarkable
+production:
+
+"It is painful," says he, "and I experience the fact at this moment,
+to have extraordinary effects to announce. Those who have not seen cry
+out against the possibility, and those who have seen often judge of
+the facility of a discovery by what they have to conceive of its
+demonstration. If the difficulty is conquered, the merit of the
+inventor vanishes with it. I would rather destroy every idea of merit
+than allow the slightest appearance of mystery or charlatanism to
+exist.
+
+"This aeriform principle is freed from those humid vapors that are so
+injurious and disagreeable to the organs of sight and smell, and of
+the soot which soils apartments. Purified to perfect transparency, it
+travels in the state of cold air, and is led by the smallest as well
+as frailest pipes, by conduits an inch square, formed in the plaster
+of ceilings or walls, and even tubes of gummed taffety would perfectly
+answer the purpose. Only the extremity of the tube, which puts the
+inflammable gas in contact with the air, and upon which the flame
+rests, should be of metal."
+
+[Illustration: STATUE OF PHILIP LEBON.]
+
+Every one finally paid homage to the illustrious inventor, and a
+committee appointed in the name of the minister affirmed that "the
+advantageous results given by the experiments of Citizen Lebon have
+met and even exceeded the hopes of the friends of the sciences and
+arts." Napoleon I. soon granted Lebon a concession in the forest of
+Rouvray for the organization of an industry of wood distillation and
+gas making. Unfortunately, Lebon was obliged to undertake too many
+things at once. He prepared the gas, and produced acetic acid and tar
+that he had to send to Harve for the use of the navy. Despite all his
+trouble and fatigue, he had something like a ray of hope. He believed
+that he saw the day of fortune dawning. His works were visited by
+numerous scientists, and among others the Russian princes Galitzin and
+Dolgorouki, who, in the name of their government, proposed to the
+inventor to transfer his plant to Russia, he to be free to set forth
+the conditions. Lebon refused this splendid offer, and, in an outburst
+of patriotism, answered that his discovery belonged to his country,
+and that no other nation should before his own have the benefit of his
+labors.
+
+The hopes of Lebon were of short duration. Enemies and competitors
+caused him a thousand troubles, and the elements themselves seemed to
+turn against him. During a hurricane, the humble house in which he
+dwelt was destroyed, and a fire shortly afterward consumed a portion
+of his works. Fatality, like the genius of old, seemed to be following
+up the unfortunate inventor; but sorrows and reverses could not have
+any hold on this invincible spirit, who was so well seconded by a wife
+of lofty character. Lebon, always at work, was seemingly about to
+triumph over all obstacles, and the hour of the realization of his
+project of lighting on a large scale was near, when a death as tragic
+as it was mysterious snatched him from his labors. On the very day of
+the crowning of the emperor, December 2, 1804, the body of Philip
+Lebon was found lying inert and lifeless in the Champs Elysees,
+exhibiting thirteen deep wounds made by a dagger.--_La Nature._
+
+       *       *       *       *       *
+
+
+
+
+A NEW PROCESS FOR THE DISTILLATION AND CONCENTRATION OF CHEMICAL
+LIQUIDS.
+
+ESPECIALLY ADAPTED TO THE MANUFACTURE OF SULPHATE OF AMMONIA.
+INVENTOR, ALEX. ANGUS CROLL.[1].

@@ -1,0 +1,894 @@
+  +--------------+-----------+------------+-------------+------------------+
+  | Royal        |           |            | T. Grubb,   | Presented by     |
+  | Observatory, |    15.1   |   --       | 1872        | Lord Crawford.   |
+  | Edinburgh    |           |            |             |                  |
+  +--------------+-----------+------------+-------------+------------------+
+  | Madrid       |           |            | Merz        |                  |
+  | Observatory  |    15     |   --       |             |                  |
+  +--------------+-----------+------------+-------------+------------------+
+  | Tulse Hill   |           |            |Sir H. Grubb,| Lent by the      |
+  | Observatory  |    15     |   15       | 1870        | Royal Society to |
+  |              |           |            |             | Sir William      |
+  |              |           |            |             | Huggins. Mounted |
+  |              |           |            |             | with an 18-inch  |
+  |              |           |            |             | Cassegrain       |
+  |              |           |            |             | reflector.       |
+  +--------------+-----------+------------+-------------+------------------+
+  | National     |           |            | Lerebours   |                  |
+  | Observatory, |    15     |   29       |             |                  |
+  | Paris        |           |            |             |                  |
+  +--------------+-----------+------------+-------------+------------------+
+  | Harvard      |           |            | Merz, 1847  |                  |
+  | College      |    15     |   22       |             |                  |
+  | Observatory  |           |            |             |                  |
+  +--------------+-----------+------------+-------------+------------------+
+  | National     |           |            |             |                  |
+  | Observatory, |    15     |   --       |             |                  |
+  | Rio de       |           |            |             |                  |
+  | Janeiro      |           |            |             |                  |
+  +--------------+-----------+------------+-------------+------------------+
+  | Tacubaya     |           |            |Sir H. Grubb,|                  |
+  | Observatory, |    15     |   15       | 1880        |                  |
+  | Mexico       |           |            |             |                  |
+  +--------------+-----------+------------+-------------+------------------+
+  | Stonyhurst   |           |            |Sir H. Grubb,|                  |
+  | College      |    15     |   15       | 1893        |                  |
+  | Observatory  |           |            |             |                  |
+  +--------------+-----------+------------+-------------+------------------+
+  | Brera        |           |            |             |                  |
+  | Observatory, |    15     |   --       |             |                  |
+  | Milan        |           |            |             |                  |
+  +--------------+-----------+------------+-------------+------------------+
+  | University   |           |            |Sir H. Grubb,| Visual.          |
+  | of           |    15     |   15       | 1893        | Mounted with a   |
+  | Mississippi  |           |            |             | photographic     |
+  |              |           |            |             | 9-inch refractor.|
+  +--------------+-----------+------------+-------------+------------------+
+  | Imperial     |           |            | Merz and    |                  |
+  | Observatory, |    15     |   22.5     | Mahler, 1840|                  |
+  | Pulkowa      |           |            |             |                  |
+  +--------------+-----------+------------+-------------+------------------+
+  | Maidenhead   |           |            |Sir H. Grubb,| The property of  |
+  | Observatory  |    15     |   --       | 1893        | Mr. Dunn.        |
+  |              |           |            |             | Mounted with a   |
+  |              |           |            |             | twin photographic|
+  |              |           |            |             | reflector.       |
+  +--------------+-----------+------------+-------------+------------------+
+  | Odessa       |           |            | Merz, 1881  |                  |
+  | Observatory  |    14.9   |   --       |             |                  |
+  +--------------+-----------+------------+-------------+------------------+
+  |Bischoffsheim |           |            | Henrys and  |                  |
+  | Observatory, |    14.9   |   23       | Gautier     |                  |
+  | Nice         |           |            |             |                  |
+  +--------------+-----------+------------+-------------+------------------+
+  | Brussels     |           |            | Merz and    |                  |
+  | Observatory  |    14.9   |   20       | Cooke, 1877 |                  |
+  +--------------+-----------+------------+-------------+------------------+
+  | Observatory  |           |            | Merz and    |                  |
+  | of Bordeaux  |    14.9   |   22.4     |Gautier, 1880|                  |
+  +--------------+-----------+------------+-------------+------------------+
+  | Observatory  |           |            | Merz and    |                  |
+  | of Lisbon    |    14.9   |   --       | Mahler      |                  |
+  +--------------+-----------+------------+-------------+------------------+
+
+
+                                TABLE VI.
+
+List of Observatories employed in the Construction of the Photographic
+Chart and Catalogue of the Heavens.
+
+All are provided with 13-inch photographic, coupled with 11-inch visual
+refractors:
+
+  ----------------------------------------------------------
+  |   Name of Observatory. |   Constructors of Instruments.|
+  |                        |-------------------------------|
+  |                        | Optical Part.|Mechanical Part.|
+  |------------------------|--------------|----------------|
+  |Paris                   |    Henrys    |     Gautier    |
+  |Algiers                 |       "      |        "       |
+  |Bordeaux                |       "      |        "       |
+  |Toulouse                |       "      |        "       |
+  |San Fernando (Spain)    |       "      |        "       |
+  |Vatican                 |       "      |        "       |
+  |Cordoba                 |       "      |        "       |
+  |Montevideo              |       "      |        "       |
+  |Perth, Western Australia|       "      |        "       |
+  |Helsingfors             |       "      |     Repsold    |
+  |Potsdam                 |   Steinheil  |        "       |
+  |Catania                 |       "      |   Salmoiraghi  |
+  |Greenwich               | Sir H. Grubb |  Sir H. Grubb  |
+  |Oxford                  |       "      |        "       |
+  |The Cape                |       "      |        "       |
+  |Melbourne               |       "      |        "       |
+  |Sydney                  |       "      |        "       |
+  |Tacubaya (Mexico)       |       "      |        "       |
+  ----------------------------------------------------------
+
+
+
+
+  INDEX
+
+
+  Abbe, Cleveland, corona of 1878, 176, 177
+
+  Aberdour, Lord, solar chromosphere, 68
+
+  Aberration, discovered by Bradley, 3, 15;
+    cause of, 31, 231;
+    investigations of, 241, 438
+
+  Abney, daylight coronal photographs, 179;
+    infra-red photography, 210, 223, 438
+
+  Absorption, terrestrial atmospheric, 134, 211, 214-216, 225;
+    solar, 134-136, 172, 213, 221, 222, 225, 277;
+    correlative with emission, 135, 136, 140
+
+  Adams, discovery of Neptune, 79-82;
+    lunar acceleration, 271;
+    orbit of November meteors, 331
+
+  Aerolites, falls of, 339, 340
+
+  Airy, solar translation, 39;
+    observations during eclipses, 62, 64, 70;
+    Astronomer-Royal, 79;
+    search for Neptune, 80, 81;
+    corona of 1851, 175;
+    solar parallax, 227, 236;
+    transit of Venus, 233;
+    Mercurian halo, 235;
+    lunar atmosphere, 264
+
+  Aitken, double star discoveries, 419
+
+  Albedo, of Mercury, 246;
+    of Venus, 255;
+    of Mars, 283;
+    of minor planets, 288;
+    of Jupiter, 290;
+    of Saturn, 303;
+    of Uranus, 304
+
+  Alexander, spiral nebulae, 118;
+    observation during eclipse, 245
+
+  Algol, variability of light, 10, 390;
+    eclipses, 390;
+    nature of system, 391
+
+  Altitude and azimuth instrument, 120 _note_, 121
+
+  Amici, comet of 1843, 103
+
+  Anderson, discovery of Nova Aurigae, 396;
+    of Nova Persei, 400
+
+  Andrews, conditions of liquefaction, 151
+
+  Angstrom, C. J., _Optical Researches_, 138;
+    spark spectrum, 139;
+    nature of photosphere, 152;
+    solar spectroscopy, 210, 212;
+    hydrogen in sun, 211;
+    temperature of stars, 375
+
+  Angstrom, K., infra-red solar spectrum, 210;
+    solar constant, 225
+
+  Arago, eclipse of 1842, 62, 64, 65;
+    prominences, 69;
+    polarization in comets, 103;
+    magnetic relations of aurorae, 130;
+    nature of photosphere, 151;
+    meteor-systems, 329
+
+  Arai, photographs of corona of 1887, 185
+
+  Arcturus, spectrum, 373, 383;
+    radial movement, 387
+
+  Argelander, Bonn Durchmusterung, 32, 423;
+    solar motion, 39;
+    centre of Milky Way, 40;
+    comet of 1811, 100
+
+  Aristotle, description of a comet, 350
+
+  Arrhenius, light-pressure theory of comets, 348
+
+  Asten, movements of Encke's comet, 94
+
+  Asteroids, so designated by Herschel, 75
+
+  Astronomical circles, 121, 122
+
+  Astronomical physics, 7, 141, 142
+
+  Astronomical Society founded, 6;
+    Herschel its first President, 14
+
+  Astronomy, classification, 1;
+    popularity and progress, 5;
+    in United States, 6;
+    in Germany, 28;
+    practical reform, 32;
+    of the invisible, 42;
+    physical, 141
+
+  Atmosphere, solar, 94, 182, 192, 221, 225;
+    of Venus, 236, 239, 253, 254;
+    of Mercury, 246-248;
+    of the moon, 263, 264;
+    of Mars, 276;
+    of minor planets, 288
+
+  Aurorae, periodicity, 129, 162;
+    excited by meteors, 335
+
+  Auwers, reduction of Bradley's observations, 39;
+    system of Procyon, 42;
+    opposition of Victoria, 238;
+    solar parallax, 240;
+    new star in Scorpio, 395
+
+
+  Babinet, nebular hypothesis, 314
+
+  Backlund, movements of Encke's comet, 94, 360
+
+  Baden-Powell, Sir George, eclipse expedition, 188
+
+  Bailey, nebulosity round Pleiades, 411;
+    stellar photometric observations, 421;
+    discovery of variable clusters, 436
+
+  Baily, early life and career, 59-61;
+    observations of eclipses, 61-64;
+    density of the earth, 60, 261
+
+  Baily's Beads, 61, 62
+
+  Bakhuyzen, rotation of Mars, 275
+
+  Ball, Sir Robert, parallaxes of stars, 36 _note_, 416;
+    contacts in transits, 239
+
+  Balmer's Law, 198, 383
+
+  Barnard, micrometrical measures of Neptune, 84;
+    of minor planets, 288;
+    of Saturn's rings, 301;
+    photographs of solar corona, 186, 190;
+    transit of Mercury, 245;
+    halo round Venus, 254;
+    surface of Mars, 280;
+    ellipticity of Jupiter's first satellite, 292;
+    of Uranus, 304;
+    discovery of inner Jovian satellite, 293, 434;
+    red spot on Jupiter, 296;
+    eclipse of Japetus, 300;
+    attendants on comet of 1882, 363;
+    on Brooks's comet, 366, 367;
+    Swift's comet, 368;
+    photographic discovery of a comet, 369;
+    observations of Nova Aurigae, 398, 399;
+    Hind's variable nebula, 403;
+    exterior Pleiades nebulosities, 411;
+    galactic stars, 423;
+    photographs of Milky Way, 424, 425;
+    cluster variables, 433;
+    horizontal telescope, 438
+
+  Bartlett, photograph of a partial eclipse, 166
+
+  Basic lines, 206, 207
+
+  Baxendell, meteors of 1866, 331
+
+  Becker, drawings of solar spectrum, 211
+
+  Beckett, Sir E. (Lord Grimthorpe), value of solar parallax, 232
+
+  Beer and Maedler, surveys of lunar surface, 265, 267;
+    studies of Mars, 275
+
+  Belopolsky, coronal photographs, 185;
+    theory of corona, 191;
+    rotation of Venus, 252;
+    of Jupiter, 297;
+    spectroscopic determinations of Saturn's rings, 300;
+    spectrum of Gamma Cassiopeiae, 378;
+    system of Castor, 389, 391;
+    detection of variable stars as spectroscopic binaries, 391
+
+  Berberich, mass of asteroids, 287;
+    orbit of Holmes's comet, 337
+
+  Berkowski, daguerrotype of eclipsed sun, 166
+
+  Bessel, biographical sketch, 28-30;
+    reduction of Bradley's observations, 32;
+    parallax of 61 Cygni, 36;
+    disturbed motion of Sirius and Procyon, 41;
+    trans-Uranian planet, 79;
+    Halley's comet, 102;
+    theory of instrumental errors, 122;
+    personal equation, 123;
+    rotation of Mercury, 246;
+    lunar atmosphere, 263;
+    cometary emanations, 325, 345;
+    multiple tails, 347;
+    comet of 1807, 352
+
+  Betelgeux, remoteness, 37, 417;
+    spectrum, 373, 381, 383, 384;
+    radial movement, 387
+
+  Bianchini, rotation of Venus, 250
+
+  Biela, discovery of a comet, 95
+
+  Bigelow, magnetic and solar disturbances, 161;
+    theory of corona, 191
+
+  Bigourdan, eclipse of 1893, 187;
+    velocity of comet of 1882, 364
+
+  Bird's quadrants, 4, 112, 121
+
+  Birmingham, colours of stars, 375 _note_;
+    discovery of T Coronae, 393
+
+  Birt, rotation of a sun-spot, 144;
+    Selenographical Society, 266
+
+  Bischoffsheim, Coude telescope, 436
+
+  Black Ligament, 235
+
+  Bode, popular writings, 5;
+    solar constitution, 57;
+    missing planet, 72, 73
+
+  Bode's Law, 71, 83, 286
+
+  Boeddicker, heat-phases during lunar eclipses, 269, 270;
+    drawings of Jupiter, 296;
+    of the Milky Way, 424
+
+  Boehm, solar observations, 146, 148
+
+  Boguslawski, centre of sidereal revolutions, 41;
+    observation of Halley's comet, 102
+
+  Bolometer, principle of construction, 222
+
+  Bond, G. P., his father's successor, 86;
+    light of Jupiter, 289;
+    Saturn's rings, 298;
+    Donati's comet, 324, 325;
+    Andromeda nebula, 409;
+    double-star photography, 409
+
+  Bond, W. C., observation of Neptune's satellite, 84;
+    discovery of Hyperion, 85;
+    of Saturn's dusky ring, 86;
+    resolution of nebulae, 119;
+    celestial photography, 153, 409;
+    satellite-transit on Jupiter, 291
+
+  Borda, repeating circle, 121
+
+  Boss, solar translation, 40;
+    observations on comets, 352, 356
+
+  Bossert, proper motions of stars, 415
+
+  Bouguer, solar atmospheric absorption, 221
+
+  Boulliaud, period of Mira, 10
+
+  Bouvard, tables of Uranus, 78;
+    Encke's comet, 90
+
+  Boys, radio-micrometer, 220;
+    density of the earth, 261
+
+  Bradley, discoveries of aberration and nutation, 3;
+    solar translation, 10;
+    star-distances, 10, 16;
+    observation
+    on Castor, 17;
+    instruments, 28, 120;
+    observations reduced by Bessel and Auwers, 32, 39
+
+  Brahe, Tycho, star of 1572, 24
+
+  Brandes, observations of meteors, 327, 334;
+
+  Braun, prominence photography, 197;
+    density of the earth, 261
+
+  Brayley, meteoric origin of planets, 311
+
+  Bredikhine, theory of cometary appendages, 100, 348;
+    repulsive forces, 346, 347;
+    chemical differences, 347, 348;
+    formative types, 351, 352, 355, 363, 369;
+    structure of chromosphere, 199;
+    red spot on Jupiter, 294;
+    Andromede meteors, 337;
+    stationary radiants, 341;
+    spectrum of Coggia's comet, 343
+
+  Bremiker, star maps, 81
+
+  Brenner, rotation of Venus, 252
+
+  Brester, _Theorie du Soleil_, 152
+
+  Brewster, diffraction theory of corona, 67;
+    telluric lines in solar spectrum, 134;
+    absorption spectra, 136
+
+  Brinkley, ostensible stellar parallaxes, 33
+
+  Brisbane, establishment of Paramatta Observatory, 6, 90
+
+  Brooks, fragment of 1882 comet, 363;
+    cometary discoveries, 365, 366
+
+  Bruennow, stellar parallaxes, 113, 416
+
+  Bruno, Giordano, motion of stars, 9
+
+  Buffham, rotation of Uranus, 303
+
+  Buffon, internal heat of Jupiter, 289
+
+  Bunsen, discovery of spectrum analysis, 132
+
+  Burchell, magnitude of Eta Carinae, 48
+
+  Burnham, stellar orbits, 46;
+    coronal photographs, 186;
+    measures of Nova Aurigae, 399;
+    of planetary nebulae, 404;
+    discoveries of double stars, 418, 430, 433, 435;
+    catalogue, 419;
+    system of 61 Cygni, 419
+
+  Burton, canals of Mars, 279;
+    rotation of Jupiter's satellites, 292
+
+
+  Calandrelli, stellar parallaxes, 33
+
+  Callandreau, capture theory of comets, 98
+
+  Campani, Saturn's dusky ring, 86
+
+  Campbell, Lieutenant, polarisation of corona, 170
+
+  Campbell, Professor, stellar radial velocities, 39, 406, 434;
+    flash spectrum, 189;
+    spectroscopic observations of Saturn's rings, 300;
+    Wolf-Rayet stars, 380;
+    spectroscopic binaries, 389;
+    Nova Aurigae, 398;
+    translation of solar system, 406;
+    stellar diffraction-spectra, 440
+
+  Canals of Mars, 278-280
+
+  Cannon, Miss A. J., spectrographic researches, 386
+
+  Canopus, remoteness, 37, 417;
+    spectrum, 416
+
+  Capella, spectrum, 373, 383, 384;
+    a spectroscopic binary, 389
+
+  Carbon, material of photosphere, 152;
+    absorption by, in sun, 212;
+    in stars, 374
+
+  Carbonelle, origin of meteorites, 340
+
+  Carinae, Eta, light variation, 48, 49;
+    spectrum, 379
+
+  Carrington, astronomical career, 144, 145;
+    sun-spot observations, 146;
+    solar rotation, 147;
+    spot-distribution, 148;
+    luminous outburst on sun, 159, 160;
+    Jovian and sun-spot periods, 163;
+    origin of comets, 370
+
+  Cassini, Domenico, discoveries of Saturnian satellites, 84;
+    of division in ring, 85;
+    solar rotation period, 146;
+    solar parallax, 228;
+    rotation of Venus, 250;
+    of Mars, 274;
+    of Jupiter, 290, 295;
+    satellite of Venus, 256;
+    satellite-transit on Jupiter, 291
+
+  Cassini, J. J., stellar proper motions, 10;
+    sun-spots on limb, 54;
+    theory of corona, 66;
+    rotation of Venus, 250;
+    structure of Saturn's rings, 299
+
+  Castor, system of, 18, 389
+
+  Cavendish experiment, 60, 261
+
+  Ceres, discovery, 73, 74;
+    diameter, 75, 288
+
+  Chacornac, observation of sun-spot, 156;
+    star-maps, 284, 413;
+    variable nebula, 403
+
+  Challis, search for Neptune, 81, 82;
+    duplication of Biela's comet, 96
+
+  Charlois, discoveries of minor planets, 283
+
+  Charroppin, coronal photographs, 186
+
+  Chase, photographic discovery of a comet, 338;
+    stellar parallaxes, 416
+
+  Chladni, origin of meteors, 327, 332
+
+  Christie, Mercurian halo, 245
+
+  Chromosphere, early indications, 68;
+    distinct recognition, 69, 70, 167;
+    depth, 174, 175, 200;
+    metallic injections, 195;
+    eruptive character, 199;
+    spectrum, 200
+
+  Clark, Alvan, large refractors, 114, 429, 430, 436
+
+  Clark, Alvan G., discovery of Sirian companion, 42, 430;
+    40-inch refractor, 433
+
+  Clarke, Colonel, figure of the earth, 262
+
+  Clarke, F. W., celestial dissociation, 206
+
+  Clausen, period of 1843 comet, 105;
+    cometary systems, 362
+
+  Clerihew, secondary tail of 1843 comet, 103
+
+  Clusters, variable stars in, 436
+
+  Coggia, discovery of a comet, 343
+
+  Comet, Halley's, return in 1759, 4, 88;
+    orbit computed by Bessel, 29;
+    capture by Neptune, 98, 365;
+    return in 1835, 101-103, 345;
+    type of tail, 346, 352;
+    of 1843, 7, 103-105;
+    type of tail, 346, 352;
+    relationships, 349-351;
+    Newton's, 88, 364;
+    Encke's, 90;
+    changes of volume, 92;
+    of brightness, 95;
+    acceleration, 93, 94;
+    capture by Mercury, 99;
+    Winnecke's, 94, 342;
+    Biela's, 95-97, 333;
+    Brorsen's, 97;
+    Vico's, 97, 367;
+    Faye's, 98;
+    of 1811, 99-101, 346;
+    of 1807, 100, 347, 352;
+    of 1819, 101, 103;
+    Lexell's, 106, 367;
+    Tewfik, 178, 358, 362, 369;
+    Donati's, 323-325, 347, 348;
+    of 1861, 326, 327, 346;
+    Perseid, 327, 332;
+    Leonid, 327, 332, 333, 343;
+    Klinkerfues's, 335;
+    Holmes's, 337, 343, 369;
+    Coggia's, 343, 346, 347;
+    of 1901, 343;
+    of 1880, 349, 351;
+    Aristotle's, 350;
+    Tebbutt's, 352-355;
+    Schaeberle's, 355, 356;
+    Wells's, 356, 357;
+    of September, 1882, 358-361, 362-364;
+    Thome's, 361;
+    Pons-Brooks, 365, 366;
+    Sawerthal's, 366;
+    Brooks's, of 1889, 366, 367;
+    Swift's, 368
+
+  Cometary tails, repulsive action upon, 100, 103, 104, 346-348;
+    coruscations in, 105;
+    three types, 346-348, 355, 363;
+    multiple, 347, 348, 351, 352, 355, 363, 368
+
+  Comets, subject to gravitation, 88;
+    of short period, 92, 93;
+    translucency, 95, 105, 106, 353;
+    small masses, 96, 106;
+    capture by planets, 98, 306, 367;
+    changes of volume, 102, 365, 369;
+    polarisation of light, 103, 354, 355;
+    refractive inertness, 106, 353;
+    relations to meteor-systems, 327, 332-336;
+    disintegration, 333, 339, 362, 363;
+    spectra, 342-344, 354, 355, 362-364;
+    luminous by electricity, 344, 355, 357;
+    systems, 353, 355, 357, 362, 365;
+    origin, 369-371
+
+  Common, reflectors for eclipse photography, 187;
+    Jupiter's inner satellite, 293;
+    detection of great comet near the sun, 358;
+    its five nuclei, 362;
+    photographs of Andromeda nebula, 395;
+    of Orion nebula and Jupiter, 407, 408;
+    great reflectors, 412, 429;
+    cluster variables, 436
+
+  Common, Miss, drawing of eclipsed sun, 187
+
+  Comstock, lunar atmosphere, 264
+
+  Comte, celestial chemistry, 140;
+    astronomy, 142
+
+  Cooke, 25-inch refractor, 430
+
+  Copeland, comets of 1843 and 1880, 349;
+    spectrum of comet of 1882, 364;
+    of Gamma Cassiopeiae, 378;
+    of Nova Andromedae, 395; of Orion nebula, 407;
+    discoveries of gaseous stars, 379;
+    Nova Aurigae, 396, 398
+
+  Copernicus, stellar parallax, 16
+
+  Cornu, telluric lines in solar spectrum, 202;
+    velocities in prominences, 205;
+    ultra-violet solar spectrum, 210, 215;
+    velocity of light, 232 _note_, 241;
+    spectrum of hydrogen, 383;
+    of Nova Cygni, 393
+
+  Cornu and Bailie, density of the earth, 261
+
+  Corona of 1842, 62-64, 67;
+    early records and theories, 65-67;
+    photographs, 166, 173, 178, 181, 185-190;
+    spectrum, 170, 173, 178, 188, 190, 193;
+    varying types, 174-176, 193;
+      of 1877, 175-177;
+      of 1882, 177;
+      of 1869, 183;
+      of 1886, 185;
+      of 1889, 185-187;
+      of 1893, 188;
+      of 1898, 189;
+      of 1900, 189;
+      of 1901, 190;
+    daylight photography of, 178-180;
+    glare theory, 182;
+    mechanical theory, 191;
+    electro-magnetic theories, 191, 192
+
+  Coronium, 171, 174, 193
+
+  Cortie, movements in sun-spots, 157;
+    their spectral changes, 208
+
+  Cotes, corona of 1715, 176
+
+  Croll, secular changes of climate, 259, 260;
+    derivation of solar energy, 313
+
+  Crookes, chemical elements, 210
+
+  Crova, solar constant, 225
+
+  Cruls, comet of 1882, 358, 364
+
+  Cusa, solar constitution, 57
+
+  Cysatus, Orion nebula, 21;
+    comet of 1618, 362
+
+
+  Damoiseau, theory of Halley's comet, 101
+
+  D'Arrest, orbits of minor planets, 285;
+    Andromede meteors, 334;
+    ages of stars, 375;
+    variable nebulae, 403;
+    measures of nebulae, 404
+
+  Darwin, G. H., rigidity of the earth, 258;
+    Saturn's ring system, 301;
+    origin of the moon, 316-318;
+    development of solar system, 318, 319, 322;
+    solar tidal friction, 319
+
+  Daubree, falls of aerolites, 339
+
+  Davidson, satellite-transit on Jupiter, 292
+
+  Davis, stellar parallaxes, 417
+
+  Dawes, prominences in 1851, 70;
+    Saturn's dusky ring, 86;
+    a star behind a comet, 106;
+    solar observations, 143, 164;
+    observations and drawings of Mars, 276, 278, 280;
+    satellite-transits on Jupiter, 291, 292
+
+  De Ball, markings on Mercury, 248
+
+  Delambre, Greenwich observations, 3;
+    solar rotation, 146;
+    light-equation, 231
+
+  De la Roche, Newton's law of cooling, 217
+
+  De la Rue, celestial photography, 152, 153, 268;
+    solar investigations, 154;
+    expedition to Spain, 166, 167
+
+  De la Tour, experiments on liquefaction, 151
+
+  Delaunay, tidal friction, 271, 272;
+    Coude telescope, 436
+
+  Delisle, diffraction theory of corona, 67;
+    transits of Venus, 233, 239
+
+  Dembowski, double star measurements, 418
+
+  Denning, observations of Mercury, 246, 247;
+    mountain on Venus, 253;
+    rotation of Jupiter, 290;
+    red spot, 295;
+    periodicity of markings, 297;
+    rotation of Saturn, 302;
+    meteors of 1885, 336;
+    of 1892, 338;
+    stationary radiants, 341
+
+  Denza, meteors of 1872, 334
+
+  Derham, theory of sun-spots, 53;
+    ashen light on Venus, 255
+
+  Deslandres, eclipse expedition, 187;
+    rotation of corona, 188;
+    prominence photography, 198;
+    hydrogen spectrum in prominences, 198, 383;
+    photographs of Jupiter, 297;
+    radial movements of Saturn's rings, 300;
+    helium absorption in stars, 376;
+    stellar radial velocities, 406
+
+  Diffraction, corona explained by, 67, 70, 181;
+    spectrum, 139, 210, 223, 439
+
+  Dissociation in the sun, 152, 206-210;
+    in space, 312
+
+  Doberck, orbits of double stars, 38, 418
+
+  Dollond, discovery of achromatic telescope, 4, 112
+
+  Donati, discovery of comet, 323;
+    spectra of comets, 342;
+    of stars, 372
+
+  Doppler, effect of motion on light, 200
+
+  Douglass, observations of Jupiter's satellites, 292
+
+  Downing, perturbations of the Leonids, 338
+
+  Draper, H., ultra-violet spectrum, 210;
+    oxygen in sun, 213;
+    photographs of the moon, 268;
+    of Jupiter's spectrum, 291;
+    of Tebbutt's comet, 354;
+    of spectrum of Vega, 382;
+    of Orion nebula 407
+
+  Draper, J. W., lunar photographs, 152;
+    distribution of energy in spectrum, 223 _note_
+
+  Draper Memorial, 384-386
+
+  Dreyer, Catalogue of Nebulae, 50
+
+  Dulong and Petit, law of radiation, 217, 219
+
+  Duner, spectra of sun-spots, 156;
+    spectroscopic measurement of solar rotation, 203;
+    spectroscopic star catalogue, 381
+
+  Dunkin, solar translation, 39
+
+  Duponchel, sun-spot period, 163
+
+  Durchmusterung, Bonn, 33, 412;
+    Cape photographic, 412;
+    parallax, 418;
+    photometric, 421
+
+  Dyson, coronal photographs, 190
+
+
+  Earth, mean density, 60, 261;
+    knowledge regarding, 257;
+    rigidity, 257, 259;
+    variation of latitude, 258, 259;
+    figure, 261, 262;
+    effects of tidal friction, 271-273;
+    bodily tides, 316;
+    primitive disruption, 317
+
+  Easton, structure of Milky Way, 423, 424
+
+  Ebert, coronoidal discharges, 192
+
+  Eclipse, solar, of 1836, 61;
+    of 1842, 62-65, 67, 69;
+    of 1851, 69, 70, 166;
+    of 1860, 166, 167;
+    of 1868, 167-170;
+    of 1869, 170;
+    of 1870, 171;
+    of 1871, 173;
+    of 1878, 174-177;
+    of 1882, 177, 178;
+    of 1883, 180, 181;
+    of 1885, 183;
+    of 1886, 184;
+    of 1887, 185;
+    of 1889, 185-187;
+    of 1893, 187, 188;
+    of 1896, 188;
+    of 1898, 189;
+    of 1900, 189, 190;
+    of 1901, 190
+
+  Eclipses, lunar, heat-phases during, 269, 270
+
+  Eclipses, solar, importance, 59;
+    ancient, 60, 273;
+    classification, 61;
+    results, 192, 193
+
+  Eddie, comet of 1880, 349;
+    of 1882, 363
+
+  Edison, tasimeter, 177
+
+  Egoroff, telluric lines in solar spectrum, 211, 214
+
+  Elements, chemical, dissociation in sun, 206, 209, 210
+

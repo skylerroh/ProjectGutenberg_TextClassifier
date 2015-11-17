@@ -1,0 +1,448 @@
+20. Thus, in Welsh, 36 is _unarbymtheg ar ugain_, 1 + 5  + 10 + 20; and in
+Nahuatl the same number is _cempualli caxtolli oce_, 20 + 15 + 1. Hence
+these and similar number systems, though commonly alluded to as vigesimal,
+are really mixed scales, with 20 as their primary base. The Canaque scale
+differs from the Nahuatl only in forming a compound word for 15, instead of
+introducing a new and simple term.
+
+In the examples which follow, it is not thought best to extend the lists of
+numerals beyond 10, except in special instances where the illustration of
+some particular point may demand it. The usual quinary scale will be found,
+with a few exceptions like those just instanced, to have the following
+structure or one similar to it in all essential details: 1, 2, 3, 4, 5,
+5-1, 5-2, 5-3, 5-4, 10, 10-1, 10-2, 10-3, 10-4, 10-5, 10-5-1, 10-5-2,
+10-5-3, 10-5-4, 20. From these forms the entire system can readily be
+constructed as soon as it is known whether its principal base is to be 10
+or 20.
+
+Turning first to the native African languages, I have selected the
+following quinary scales from the abundant material that has been collected
+by the various explorers of the "Dark Continent." In some cases the
+numerals of certain tribes, as given by one writer, are found to differ
+widely from the same numerals as reported by another. No attempt has been
+made at comparison of these varying forms of orthography, which are usually
+to be ascribed to difference of nationality on the part of the collectors.
+
+
+  FELOOPS.[246]
+
+   1.  enory.
+   2.  sickaba, or cookaba.
+   3.  sisajee.
+   4.  sibakeer.
+   5.  footuck.
+   6.  footuck-enory    = 5-1.
+   7.  footuck-cookaba  = 5-2.
+   8.  footuck-sisajee  = 5-3.
+   9.  footuck-sibakeer = 5-4.
+  10.  sibankonyen.
+
+
+  KISSI.[247]
+
+   1.  pili.
+   2.  miu.
+   3.  nga.
+   4.  iol.
+   5.  nguenu.
+   6.  ngom-pum   = 5-1.
+   7.  ngom-miu   = 5-2.
+   8.  ngommag    = 5-3.
+   9.  nguenu-iol = 5-4.
+  10.  to.
+
+
+  ASHANTEE.[248]
+
+   1.  tah.
+   2.  noo.
+   3.  sah.
+   4.  nah.
+   5.  taw.
+   6.  torata      = 5 + 1.
+   7.  toorifeenoo = 5 + 2.
+   8.  toorifeessa = 5 + 3.
+   9.  toorifeena  = 5 + 4.
+  10.  nopnoo.
+
+
+  BASA.[249]
+
+   1.  do.
+   2.  so.
+   3.  ta.
+   4.  hinye.
+   5.  hum.
+   6.  hum-le-do    = 5 + 1.
+   7.  hum-le-so    = 5 + 2.
+   8.  hum-le-ta    = 5 + 3.
+   9.  hum-le-hinyo = 5 + 4.
+  10.  bla-bue.
+
+
+  JALLONKAS.[250]
+
+   1.  kidding.
+   2.  fidding.
+   3.  sarra.
+   4.  nani.
+   5.  soolo.
+   6.  seni.
+   7.  soolo ma fidding = 5 + 2.
+   8.  soolo ma sarra   = 5 + 3.
+   9.  soolo ma nani    = 5 + 4.
+  10.  nuff.
+
+
+  KRU.
+
+   1.  da-do.
+   2.  de-son.
+   3.  de-tan.
+   4.  de-nie.
+   5.  de-mu.
+   6.  dme-du = 5-1.
+   7.  ne-son = [5] + 2.
+   8.  ne-tan = [5] + 3.
+   9.  sepadu = 10 - 1?
+  10.  pua.
+
+
+  JALOFFS.[251]
+
+   1.  wean.
+   2.  yar.
+   3.  yat.
+   4.  yanet.
+   5.  judom.
+   6.  judom-wean  = 5-1.
+   7.  judom-yar   = 5-2.
+   8.  judom-yat   = 5-3.
+   9.  judom yanet = 5-4.
+  10.  fook.
+
+
+  GOLO.[252]
+
+   1.  mbali.
+   2.  bisi.
+   3.  bitta.
+   4.  banda.
+   5.  zonno.
+   6.  tsimmi tongbali = 5 + 1.
+   7.  tsimmi tobisi   = 5 + 2.
+   8.  tsimmi tobitta  = 5 + 3.
+   9.  tsimmi to banda = 5 + 4.
+  10.  nifo.
+
+
+  FOULAH.[253]
+
+   1.  go.
+   2.  deeddee.
+   3.  tettee.
+   4.  nee.
+   5.  jouee.
+   6.  jego      = 5-1.
+   7.  jedeeddee = 5-2.
+   8.  je-tettee = 5-3.
+   9.  je-nee    = 5-4.
+  10.  sappo.
+
+
+  SOUSSOU.[254]
+
+   1.  keren.
+   2.  firing.
+   3.  sarkan.
+   4.  nani.
+   5.  souli.
+   6.  seni.
+   7.  solo-fere     = 5-2.
+   8.  solo-mazarkan = 5 + 3.
+   9.  solo-manani   = 5 + 4.
+  10.  fu.
+
+
+  BULLOM.[255]
+
+   1.  bul.
+   2.  tin.
+   3.  ra.
+   4.  hyul.
+   5.  men.
+   6.  men-bul  = 5-1.
+   7.  men-tin  = 5-2.
+   8.  men-ra   = 5-3.
+   9.  men-hyul = 5-4.
+  10.  won.
+
+
+  VEI.[256]
+
+   1.  dondo.
+   2.  fera.
+   3.  sagba.
+   4.  nani.
+   5.  soru.
+   6.  sun-dondo = 5-1.
+   7.  sum-fera  = 5-2.
+   8.  sun-sagba = 5-3.
+   9.  sun-nani  = 5-4.
+  10.  tan.
+
+
+  DINKA.[257]
+
+   1.  tok.
+   2.  rou.
+   3.  dyak.
+   4.  nuan.
+   5.  wdyets.
+   6.  wdetem   = 5-1.
+   7.  wderou   = 5-2.
+   8.  bet, bed = 5-3.
+   9.  wdenuan  = 5-4.
+  10.  wtyer    = 5 x 2.
+
+
+  TEMNE.
+
+   1.  in.
+   2.  ran.
+   3.  sas.
+   4.  anle.
+   5.  tr-amat.
+   6.  tr-amat rok-in    = 5 + 1.
+   7.  tr-amat de ran    = 5 + 2.
+   8.  tr-amat re sas    = 5 + 3.
+   9.  tr-amat ro n-anle = 5 + 4.
+  10.  tr-ofatr.
+
+
+  ABAKER.[258]
+
+   1.  kili.
+   2.  bore.
+   3.  dotla.
+   4.  ashe.
+   5.  ini.
+   6.  im kili   = 5-1.
+   7.  im-bone   = 5-2.
+   8.  ini-dotta = 5-3.
+   9.  tin ashe  = 5-4.
+  10.  chica.
+
+
+  BAGRIMMA.[259]
+
+   1.  kede.
+   2.  sab.
+   3.  muta.
+   4.  so.
+   5.  mi.
+   6.  mi-ga = 5 + 1.
+   7.  tsidi.
+   8.  marta = 5 + 2.
+   9.  do-so = [5] + 3
+  10.  duk-keme.
+
+
+  PAPAA.[260]
+
+   1.  depoo.
+   2.  auwi.
+   3.  ottong.
+   4.  enne.
+   5.  attong.
+   6.  attugo.
+   7.  atjuwe    = [5] + 2.
+   8.  attiatong = [5] + 3.
+   9.  atjeenne  = [5] + 4.
+  10.  awo.
+
+
+  EFIK.[261]
+
+   1.  kiet.
+   2.  iba.
+   3.  ita.
+   4.  inan.
+   5.  itiun.
+   6.  itio-kiet = 5-1.
+   7.  itia-ba   = 5-2.
+   8.  itia-eta  = 5-3.
+   9.  osu-kiet  = 10 - 1?
+  10.  duup.
+
+
+  NUPE.[262]
+
+   1.  nini.
+   2.  gu-ba.
+   3.  gu-ta.
+   4.  gu-ni.
+   5.  gu-tsun.
+   6.  gu-sua-yin = 5 + 1.
+   7.  gu-tua-ba  = 5 + 2.
+   8.  gu-tu-ta   = 5 + 3.
+   9.  gu-tua-ni  = 5 + 4.
+  10.  gu-wo.
+
+
+  MOKKO.[263]
+
+   1.  kiae.
+   2.  iba.
+   3.  itta.
+   4.  inan.
+   5.  uettin.
+   6.  itjueekee = 5 + 1.
+   7.  ittiaba  = 5 + 2.
+   8.  itteiata = 5 + 3.
+   9.  huschukiet.
+  10.  bueb.
+
+
+  KANURI.[264]
+
+   1.  tilo.
+   2.  ndi.
+   3.  yasge.
+   4.  dege.
+   5.  ugu.
+   6.  arasge = 5 + 1.
+   7.  tulur.
+   8.  wusge  = 5 + 3.
+   9.  legar.
+  10.  megu   = 2 x 5.
+
+
+  BININ.[265]
+
+   1.  bo.
+   2.  be.
+   3.  la.
+   4.  nin.
+   5.  tang.
+   6.  tahu = 5 + 1?
+   7.  tabi = 5 + 2.
+   8.  tara = 5 + 3.
+   9.  ianin (tanin?) = 5 + 4?
+  10.  te.
+
+
+  KREDY.[266]
+
+   1.  baia.
+   2.  rommu.
+   3.  totto.
+   4.  sosso.
+   5.  saya.
+   6.  yembobaia  = [5] + 1.
+   7.  yemborommu = [5] + 2.
+   8.  yembototto = [5] + 3.
+   9.  yembososso = [5] + 4.
+  10.  puh.
+
+
+  HERERO.[267]
+
+   1.  mue.
+   2.  vari.
+   3.  tatu.
+   4.  ne.
+   5.  tano.
+   6.  hambou-mue  = [5] + 1.
+   7.  hambou-vari = [5] + 2.
+   8.  hambou-tatu = [5] + 3.
+   9.  hambou-ne   = [5] + 4.
+  10.
+
+
+  KI-YAU.[268]
+
+   1.  jumo.
+   2.  wawiri.
+   3.  watatu.
+   4.  mcheche.
+   5.  msano.
+   6.  musano na jumo    = 5 + 1.
+   7.  musano na wiri    = 5 + 2.
+   8.  musano na watatu  = 5 + 3.
+   9.  musano na mcheche = 5 + 4.
+  10.  ikumi.
+
+
+  FERNANDO PO.[269]
+
+   1.  muli.
+   2.  mempa.
+   3.  meta.
+   4.  miene.
+   5.  mimito.
+   6.  mimito na muli  = 5 + 1.
+   7.  mimito na mempa = 5 + 2.
+   8.  mimito na meta  = 5 + 3.
+   9.  mimito na miene = 5 + 4.
+  10.  miemieu = 5-5?
+
+
+  KI-NYASSA
+
+   1.  kimodzi.
+   2.  vi-wiri.
+   3.  vi-tatu.
+   4.  vinye.
+   5.  visano.
+   6.  visano na kimodzi = 5 + 1.
+   7.  visano na vi-wiri = 5 + 2.
+   8.  visano na vitatu  = 5 + 3.
+   9.  visano na vinye   = 5 + 4.
+  10.  chikumi.
+
+
+  BALENGUE.[270]
+
+   1.  guevoho.
+   2.  ibare.
+   3.  raro.
+   4.  inai.
+   5.  itano.
+   6.  itano na guevoho = 5 + 1.
+   7.  itano na ibare   = 5 + 2.
+   8.  itano na raro    = 5 + 3.
+   9.  itano na inai    = 5 + 4.
+  10.  ndioum, or nai-hinai.
+
+
+  KUNAMA.[271]
+
+   1.  ella.
+   2.  bare.
+   3.  sadde.
+   4.  salle.
+   5.  kussume.
+   6.  kon-t'-ella  = hand 1.
+   7.  kon-te-bare  = hand 2.
+   8.  kon-te-sadde = hand 3.
+   9.  kon-te-salle = hand 4.
+  10.  kol-lakada.
+
+
+  GOLA.[272]
+
+   1.  ngoumou.
+   2.  ntie.
+   3.  ntai.
+   4.  tina.
+   5.  nonon.
+   6.  diegoum = [5] + 1.
+   7.  dientie = [5] + 2.
+   8.  dietai  = [5] + 3.
+   9.  dectina = [5] + 4.
+  10.  esia.
+
+
+  BAREA.[273]
+

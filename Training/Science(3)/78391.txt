@@ -1,0 +1,518 @@
+mangles and barbers' brushes, among other things, as well as to give
+everybody an electric light."
+
+It is possible, as Prof. Ayrton first showed in his Sheffield lecture,
+that electrical energy can be transmitted through long distances by
+means of small wires, and that the opinion that wires of enormous
+thickness would be required is erroneous. The desideratum required was
+good insulation. He also showed that, instead of a limiting efficiency
+of 50 per cent., the only thing preventing our receiving the whole of
+our power was the mechanical friction which occurs in the machines. He
+showed, in fact, how to get rid of electrical friction. A machine at
+Niagara receives mechanical power, and generates electricity. Call this
+the generator. Let there be Wires to another electric machine in New
+York, which will receive electricity, and give out mechanical work.
+Now this machine, which may be called the motor, produces a back
+electromotive force, and the mechanical power given out is proportional
+to the back electromotive force multiplied into the current. The
+current, which is, of course, the same at Niagara as at New York, is
+proportional to the difference of the two electromotive forces, and the
+heat wasted is proportional to the square of the current. You see, from
+the last table, that we have the simple proportion: power utilized is
+to power wasted, as the back electromotive force of the motor is to the
+difference between electromotive forces of generator and motor. This
+reason is very shortly and yet very exactly given as follows:
+
+Let electromotive force of generator be E; of motor F. Let total
+resistance of circuit be R. Then if we call P the horse-power received
+by the generator at Niagara, Q, the horse-power given out by motor
+at New York, that is, utilized; H, the horse-power wasted as heat in
+machines and circuit; C, the current flowing through the circuit:
+
+  C=(E-F) / R
+
+  P=E(E-F) / (746 R)
+
+  Q=F(E-F) / (746 R)
+
+  H=(E-F)_2 / (746 R)
+
+  Q:H::F:E-F
+
+The water analogy was again called into play in the shape of a model
+for the better demonstration of the problem. The defects in existing
+electric machines and the means of increasing the E.M.F. were discussed,
+the conclusions pointing to the future use of very large machines and
+very high velocities. The future of telephonic communication received a
+passing remark, and attention called to the future of electric railways.
+The small experiments of Siemens have determined the ultimate success of
+this kind of railway. Their introduction is merely a question of time
+and capital. The first cost of electric railways would be smaller than
+that of steam railways; the working expenses would also be reduced.
+The rails would be lighter, the rolling stock lighter, the bridges and
+viaducts less costly, and in the underground railways the atmosphere
+would not be vitiated.
+
+"About two years ago, it struck Professor Ayrton and myself, when
+thinking how very faint musical sounds are heard distinctly from the
+telephone, in spite of loud noises in the neighborhood, that there
+was an application of this principle of recurrent effects of far more
+practical importance than any other, namely, in the use of musical notes
+for coast warnings in thick weather. You will say that fog bells and
+horns are an old story, and that they have not been particularly
+successful, since in some states of the weather they are audible, in
+others not.
+
+"Now, it seems to be forgotten by everybody that there is a medium of
+communicating with a distant ship, namely, the water, which is not at
+all influenced by changes in the weather. At some twenty or thirty feet
+below the surface there is exceedingly little disturbance of the water,
+although there may be large waves at the surface. Suppose a large
+water-siren like this--experiment shown--is working at as great a depth
+as is available, off a dangerous coast, the sound it gives out is
+transmitted so as to be heard at exceedingly great distances by an ear
+pressed against a strip of wood or metal dipping into the water. If the
+strip is connected with a much larger wooden or metallic surface in the
+water the sound is heard much more distinctly. Now, the sides of a ship
+form a very large collecting surface, and at the distance of several
+miles from such a water siren as might be constructed, we feel quite
+sure that, above the noise of engines and flapping sails, above the far
+more troublesome noise of waves striking the ship's side, the musical
+note of the distant siren would be heard, giving warning of a dangerous
+neighborhood. In considering this problem, you must remember that
+Messrs. Colladon and Sturn heard distinctly the sound of a bell struck
+underwater at the distance of nearly nine miles, the sound being
+communicated by the water of Lake Geneva."
+
+The next portion of the lecture discussed the great value of a rapid
+recurrence of effects, the obtaining of sound by means of a rapid
+intermission of light rays on selenium joined up in an electric circuit
+being instanced as an example. Then recent experiments on the refractive
+power of ebonite were detailed--the rough results tending to give
+greater weight to Clerk-Maxwell's electro-magnetic theory of light. The
+index of refraction of ebonite was found by Profs. Ayrton and Perry to
+be roughly 1.7. Clerk-Maxwell's theory requires that the square of this
+number should be equal to the electric specific inductive capacity of
+the substance. For ebonite this electric constant varies from 2.2 to 3.5
+for different specimens, the mean of which is almost exactly equal to
+the square of 1.7.
+
+       *       *       *       *       *
+
+
+
+
+RESEARCHES ON THE RADIANT MATTER OF CROOKES AND THE MECHANICAL THEORY OF
+ELECTRICITY.
+
+By DR. W. F. GINTL, abstracted by DR. VON GERICHTEN.
+
+
+The author discusses the question whether, according to the experiments
+of Crookes, the assumption of an especial fourth state of aggregation is
+necessary, or whether the facts may be satisfactorily explained without
+such hypothesis? He shows that the latter alternative is possible with
+the aid of a mechanical theory of electricity. If the radiant matter
+produced in the vacuum is a phenomenon _sui generis,_ produced by the
+action of electricity and heat upon the molecules of gas remaining in
+the receiver, it is, in the first place, doubtful to apply to it the
+conception of an aggregate condition. The author considers it impossible
+to form a clear understanding of the phenomena in accordance with the
+theory of Crookes, or to find in the facts any evidence of the existence
+of radiant matter. An explanation of the latter phenomenon is thus
+given: Particles become separated from the surface of the substance of
+the negative pole, they are repelled, and they move away from the pole
+with a speed resulting from the antagonistic forces in a parallel and
+rectilinear direction, preserving their speed and their initial path so
+long as they do not meet with obstacles which influence their movement.
+At a certain density of the gases present in the exhausted space, these
+particles, in consequence of the impact of gaseous molecules more or
+less opposed to their direction of movement, lose their velocity after
+traveling a short distance and soon come to rest. The more dilute the
+gas the smaller is the number of the impacts of the gaseous molecules
+encountering the molecules of the poles, and at a certain degree of
+dilution the repelled polar particles will be able to traverse the space
+open to them without any essential alteration in their speed, the small
+number of the existing gaseous molecules being no longer able to retard
+the molecules of the polar no their journey through the apparatus. The
+luminous phenomena of the Geissler tubes the author supposes to be
+produced by the intense blows which the gaseous molecules receive from
+the polar molecules flying rapidly through the apparatus. The intensity
+of the luminous phenomena will naturally decrease with the number of
+the photophorous particles occupying the space. Accordingly in the
+experiments of Crookes, on continued rarefaction of the gas, a condition
+was reached where a display of light is no longer perceptible, or can be
+made visible merely by the aid of fluorescent bodies. A condition may
+also appear, as is shown by Crookes' experiment, with the metallic plate
+intercalated as negative pole in the middle of. a Geissler tube, with
+the positive poles at the ends. In this case the gaseous molecules are,
+so to speak, driven away by the polar particles endowed with an equal
+initial velocity, till at a certain distance from the pole the mass of
+the gaseous molecules and their speed become so great that a luminous
+display begins. In an analogous manner the author explains the phenomena
+of phosphorescence which Crookes' elicits by the action of his radiant
+matter. In like manner the thermic and the mechanical effects are most
+simply explained, according to the expression selected by Crookes
+himself, as the results of a "continued molecular bombardment." The
+attraction of the so called radiant matter, regarded as a stream of
+metallic particles by the magnet, will not appear surprising.
+
+       *       *       *       *       *
+
+
+
+
+ECONOMY OF THE ELECTRIC LIGHT.
+
+
+Mr. W. H. Preece writes to the _Journal of Arts_ as follows:
+
+At the South Kensington Museum, very careful observations have been made
+on the relative cost of the two systems, _i. e._, gas and electricity.
+The court lighted is that known as the "Lord President's" (or the Loan)
+Court. It is 138 feet long by 114 feet wide, and has an average height
+of about 42 feet. It is divided down the middle lengthwise by a central
+gallery. There are cloisters all around it on the ground floor, and the
+walls above are decorated in such a way that they do not assist in the
+reflection or diffusion of the light. The absence of a ceiling--the
+court being sky-lighted--is to some extent compensated for by drawing
+the blinds under the sky-lights.
+
+The experiments commenced about twelve months ago, with eight lamps
+only on one side of the court. The system was that of Brush. The dynamo
+machine was driven by an eight horse-power Otto gas engine, supplied by
+Messrs. Crossley. The comparison with the gas was so much in favor of
+electricity, and the success of the experiment so encouraging, that it
+was determined to light up the whole court.
+
+The gas engine, which was not powerful enough, was replaced by a
+14-horse power "semi-portable" steam engine, by Ransomes & Co., of
+Ipswich--an engine of sufficient power to drive double the required
+number of lights. The dynamo machine is a No. 7 Brush. There are sixteen
+lamps in all--eight on each side of the court. The machine has given no
+trouble whatever, and it has, as yet, shown no signs of wear. The
+lamps were not all good, and it was found that they required careful
+adjustment, but when once they were got to go right they continued to
+do so, and have, up to the present, shown no signs of deterioration,
+although the time during which they have been in operation is nine
+months.
+
+The first outlay has been as follows:
+
+Engine and fixing, including shafting and
+belting................................ L420
+Dynamo machine.........................  400
+Lamps, apparatus, and conducting wire .  384
+                                      ------
+                                      L1,204
+
+The cost of working has been, from June 22, to December 31, during which
+period the lights were going on 87 nights for a total time of 359 hours:
+
+                                        L  s.  d.
+Carbons............................... 18   9   0
+Oil, etc..............................  4  11   6
+Coal.................................. 11  14   0
+Wages................................. 34   7   6
+                                       ----------
+                                      L69   2   0
+
+being at the rate of 3s. 10d. per hour of light.
+
+Now, the consumption of gas in the court would have been 4,800 cubic
+feet per hour, which, at 3s. 4d. per 1,000 cubic feet, would amount to
+16s. per hour, thus showing a saving of working expenses of 12s. 2d. per
+hour, or, since the museum is lit up for 700 hours every year, a total
+saving at the rate of L426 per annum.
+
+In estimating the cost as applied to this court, only half the cost of
+the engine should be taken, for a second dynamo machine has lately been
+added to light up some of the picture galleries, and the "Life" room of
+the Art School. The capital outlay should, therefore, be L994. In making
+a fair estimate of the annual cost, we should also allow something for
+percentage on capital, and something for wear and tear. Take--
+
+                                                         L s.
+5 per cent, on the capital............................. 49 10
+5 per cent, for wear and tear of electrical apparatus.. 39  0
+5 per cent, for depreciation of engines, etc........... 21  0
+                                                      -------
+                                      Total.......... L109 10
+
+leaving a handsome balance to the good of L316 10s. as against gas. The
+results of the working, both practically and financially, have proved to
+be, at South Kensington, a decided success.
+
+I am indebted to Colonel Festing, R.E., who has charge of the lighting,
+for these details.
+
+The same comparison cannot be made at the British Museum, for no gas was
+used in the reading-room before the introduction of the electric light,
+but the cost of lighting has proved to be 5s. 6d. per hour--at least
+one-third of that which would be required for gas. The system in use
+at the Museum is Siemens', the engine being by Wallis and Steevens, of
+Basingstoke.
+
+"An excellent example of economic electric lighting, is that of Messrs.
+Henry Tate & Sons, sugar refinery, Silvertown. A small Tangye engine,
+placed under the supervision of the driver of a large engine of the
+works, drives an 'A' size 'Gramme' machine, which feeds a 'Crompton' 'E'
+lamp. This is hung at a height of about 12 feet from the ground in a
+single story shed, about 80 feet long, and 50 feet wide, and having an
+open trussed roof. The light, placed about midway, lengthways, has a
+flat canvas frame, forming a sort of ceiling directly over it, to help
+to diffuse the illumination. The whole of the shed is well lit; and a
+large quantity of light also penetrates into an adjoining one of similar
+dimensions, and separated by a row of columns. The light is used
+regularly all through the night, and has been so all through the winter.
+Messrs. Tate speak highly of its efficiency. To ascertain the exact cost
+of the light, as well as of the gas illumination which it replaced, a
+gas-meter was placed to measure the consumption of the gas through
+the jets affected; and also the carbons consumed by the electric
+illumination were noted. A series of careful experiments showed that
+during a winter's night of 14 hours' duration the illumination by
+electricity cost 1s. 9d., while that by gas was 3s. 6d., or 11/2d. per
+hour against 3d. per hour. To this must be added the greatly increased
+illumination, four to five times, given by the electric light, to the
+benefit of the work; while this last illuminant also allowed, during the
+process of manufacture of the sugar, the delicate gradations of tint
+to be detected; and so to avoid those mistakes, sometimes costly ones,
+liable to arise through the yellow tinge of gas illumination. This alone
+would add much to the above-named economy, arising from the use of
+electric illumination in sugar works."
+
+I am indebted for these facts to Mr. J. N. Shoolbred, under whose
+supervision the arrangements were made.
+
+Some excellent experience has been gained at the shipbuilding docks in
+Barrow-in-Furness, where the Brush system has been applied to illuminate
+several large sheds covering the punching and shearing machinery,
+bending blocks, furnaces, and other branches of this gigantic business.
+In one shed, which was formerly lighted by large blast-lamps, in which
+torch oil was burnt, costing about 5d. per gallon, and involving an
+expenditure of L8 9s. per week, the electric light has been adopted at
+an expenditure of L4 14s. per week.
+
+The erecting shop, 450 feet by 150 feet, formerly dimly lit by gas at a
+cost of L22 per week, is now efficiently lit by electricity at half the
+cost.
+
+I am indebted for these facts to Mr. Humphreys, the manager of the
+works.
+
+The Post office authorities have contracted with Mr. M. E. Crompton,
+to light up the Post-office at Glasgow for the same price as they have
+hitherto paid for gas, and there is no doubt that in many instances this
+arrangement will leave a handsome profit to the Electric Light Company.
+They are about to try the Brockie system in the telegraph galleries,
+and the Brush system in the newspaper sorting rooms of the General
+Post-office in St. Martin's-le-Grand.
+
+       *       *       *       *       *
+
+
+
+
+ON THE SPACE PROTECTED BY A LIGHTNING-CONDUCTOR.
+
+By WILLIAM HENRY PREECE.
+
+[Footnote: From the _Philosophical Magazine_ for December, 1880.]
+
+
+Any portion of non-conducting space disturbed by electricity is called
+an electric field. At every point of this field, if a small electrified
+body were placed there, there would be a certain resultant force
+experienced by it dependent upon the distribution of electricity
+producing the field. When we know the strength and direction of this
+resultant force, we know all the properties of the field, and we can
+express them numerically or delineate them graphically, Faraday (Exp.
+Res., Sec. 3122 _et seq._) showed how the distribution of the forces in any
+electric field can be graphically depicted by drawing lines (which he
+called _lines of force_) whose direction at every point coincides with
+the direction of the resultant force at that point; and Clerk-Maxwell
+(Camb. Phil. Trans., 1857) showed how the magnitude of the forces can
+be indicated by the way in which the lines of force are drawn. The
+magnitude of the resultant force at any point of the field is a function
+of the potential at that point; and this potential is measured by the
+work done in producing the field. The potential at any point is, in
+fact, measured by the work done in moving a unit of electricity from the
+point to an infinite distance. Indeed the resultant force at any point
+is directly proportional to the rate of fall of potential per unit
+length along the line of force passing through that point. If there be
+no fall of potential there can be no resultant force; hence if we take
+any surface in the field such that the potential is the same at every
+point of the surface, we have what is called an _equipotential surface._
+The difference of potential between any two points is called an
+electromotive force. The lines of force are necessarily perpendicular to
+the surface. When the lines of force and the equipotential surfaces are
+straight, parallel, and equidistant, we have a _uniform field._ The
+intensity of the field is shown by the number of lines passing through
+unit area, and the rate of variation of potential by the number of
+equipotential surfaces cutting unit length of each line of force. Hence
+the distances separating the equipotential surfaces are a measure of the
+electromotive force present. Thus an electric field can be mapped or
+plotted out so that its properties can be indicated graphically.
+
+[Illustration: Fig. 1]
+
+The air in an electric field is in a state of tension or strain; and
+this strain increases along the lines of force with the electromotive
+force producing it until a limit is reached, when a rent or split occurs
+in the air along the line of least resistance--which is disruptive
+discharge, or lightning.
+
+[Illustration: Fig. 2]
+
+Since the resistance which the air or any other dielectric opposes to
+this breaking strain is thus limited, there must be a certain rate of
+fall of potential per unit length which corresponds to this resistance.
+It follows, therefore, that the number of equipotential surfaces per
+unit length can represent this limit, or rather the stress which leads
+to disruptive discharge. Hence we can represent this limit by a
+length. We can produce disruptive discharge either by approaching the
+electrified surfaces producing the electric field near to each other, or
+by increasing the quantity of electricity present upon them; for in each
+case we should increase the electromotive force and close up, as it
+were, the equipotential surfaces beyond the limit of resistance. Of
+course this limit of resistance varies with every dielectric; but we are
+now dealing only with air at ordinary pressures. It appears from
+the experiments of Drs. Warren De La Rue and Hugo Muller that the
+electromotive force determining disruptive discharge in air is about
+40,000 volts per centimeter, except for very thin layers of air.
+
+[Illustration: Fig. 3]
+
+If we take into consideration a flat portion of the earth's surface, A
+B (fig. 1), and assume a highly charged thunder-cloud, C D, floating at
+some finite distance above it, they would, together with the air, form
+an electrified system. There would be an electric field; and if we take
+a small portion of this system, it would be uniform. The lines, a b,
+a' b'...would be lines of force; and cd, c' d', c" d' ...would be
+equipotential planes. If the cloud gradually approached the earth's
+surface (Fig. 2), the field would become more intense, the equipotential
+surfaces would gradually close up, the tension of the air would increase
+until at last the limit of resistance of the air, _e f_, would be
+reached; disruptive discharge would take place, with its attendant
+thunder and lightning. We can let the line, _e f_, represent the limit
+of resistance of the air if the field be drawn to scale; and we can thus
+trace the conditions that determine disruptive discharge.
+
+[Illustration: Fig. 4]
+
+If the earth-surface be not flat, but have a hill or a building, as H or
+L, upon it, then the lines of force and the equipotential planes will be
+distorted, as shown in Fig. 3. If the hill or building be so high as to
+make the distance H h or L l equal to e f (Fig. 2), then we shall again
+have disruptive discharge.
+
+If instead of a hill or building we erect a solid rod of metal, G H,
+then the field will be distorted as shown in Fig. 4. Now, it is quite
+evident that whatever be the relative distance of the cloud and earth,
+or whatever be the motion of the cloud, there must be a space, g g',
+along which the lines of force must be longer than a' a or H H'; and
+hence there must be a circle described around G as a center which is
+less subject to disruptive discharge than the space outside the circle;
+and hence this area may be said to be protected by the rod, G H. The
+same reasoning applies to each equipotential plane; and as each circle
+diminishes in radius as we ascend, it follows that the rod virtually
+protects a cone of space whose height is the rod, and whose base is the
+circle described by the radius, G a. It is important to find out what
+this radius is.
+
+[Illustration: Fig. 5]
+
+Let us assume that a thunder-cloud is approaching the rod, A B (Fig. 5),
+from above, and that it has reached a point, D', where the distance. D'
+B, is equal to the perpendicular height, D' C'. It is evident that, if
+the potential at D be increased until the striking-distance be attained,
+the line of discharge will be along D' C or D' B, and that the length, A
+C', is under protection. Now the nearer the point D' is to D the shorter
+will be the length A C' under protection; but the minimum length will be
+A C, since the cloud would never descend lower than the perpendicular
+distance D C.
+
+Supposing, however, that the cloud had actually descended to D when the
+discharge took place. Then the latter would strike to the nearest point;
+and any point within the circumference of the portion of the circle, B
+C (whose radius is D B), would be at a less distance from D than either
+the point B or the point C.
+
+_Hence a lightning-rod protects a conic space whose height is the length
+of the rod, whose base is a circle having its radius equal to the height
+of the rod, and whose side is the quadrant of a circle whose radius is
+equal to the height of the rod._
+
+I have carefully examined every record of accident that was available,
+and I have not yet found one case where damage was inflicted inside this
+cone when the building was properly protected. There are many cases
+where the pinnacles of the same turret of a church have been struck
+where one has had a rod attached to it; but it is clear that the other
+pinnacles were outside the cone; and therefore, for protection, each
+pinnacle should have had its own rod. It is evident also that every
+prominent point of a building should have its rod, and that the higher
+the rod the greater is the space protected.
+
+       *       *       *       *       *
+
+
+
+
+PHOTO-ELECTRICITY OF FLUOR-SPAR CRYSTALS.
+
+
+Hantzel has communicated to the Saxon Royal Society of Science some
+interesting observations on the production of electricity by light
+in colored fluor-spar. The centers of the fluor-spar cubes become
+negatively electric by the action of light. The electric tension
+diminishes toward the edges and angles, and frequently positive polarity
+is produced there. With very sensitive crystals a short exposure to
+daylight is sufficient; by a long exposure to light the electric current
+increases. The direct rays of the sun act much more powerfully than
+diffused daylight, and the electric carbon light is more powerful even
+than sunlight. The photo-electric action of light belongs principally
+to the "chemically active" rays; this is shown by the fact that the
+production of electricity is extremely small behind a glass colored with
+cuprous oxide, and behind a film of a solution of quinine sulphate;
+while it is not appreciably diminished by a film of a solution of alum.
+The photo-electric excitability of fluor-spar crystals is increased by a
+moderate heat (80 deg. to 100 deg. C.).
+
+       *       *       *       *       *
+
+
+
+
+THE AURORA BOREALIS AND TELEGRAPH CABLES.
+
+
+The January and February numbers of the _Elektrotechnische Zeitschrift_
+contain a number of articles on this interesting subject by several
+eminent electricians. Professor Foerster, director of the observatory in
+Berlin, points out the great importance of the careful study of earth
+currents, first observed at Greenwich, and now being investigated by a
+committee appointed by the German Government. He further points out,
+according to Professor Wykander, of Lund, in Sweden, that a close
+connection exists between earth currents, the protuberances of the
+sun, and the aurora borealis, and that the nearly regular periodical
+reappearance of protuberances in intervals of eleven years coincides
+with similar periods of excessive magnetic earth currents and the
+appearance of the aurora borealis. The remarkable disturbing influences
+on telegraph wires and cables of the aurora borealis observed from the
+11th to 14th of August, 1880, have been carefully recorded by Herr Geh.
+Postnath Ludwig in Berlin, and a map of Europe compiled, showing the
+places affected, with the extent to which telegraph wires and cables
+were influenced and disturbed. Although the aurora was but faintly
+visible in England and Germany, and in Russia only as far as 35 deg. north,
+disturbing influences were reported from all parts of Europe, the
+Mediterranean, and Africa, and even Japan and the east coast of Asia.
+As far south as Zanzibar, Mozambique, and Natal disturbances were also
+noticed. They were in Europe most intense on the morning of August 12,
+when they lasted the whole day, and increased again in intensity toward
+eight o'clock in the evening, while they suddenly ceased everywhere
+almost simultaneously. Scientific and careful observations were only
+taken at a few places, but the existence of earth currents in frequently
+changing direction and varying intensity, was noticed everywhere. Long
+lines of wires were more affected than short ones, and although some
+lines--for instance the Berlin-Hamburg in an east-west direction--were
+not at all influenced, no general law was noticed according to which

@@ -1,0 +1,425 @@
+that, in ten years' time, there would not be a welded tire made; that
+is one of the few prophecies that, being made before the event, have
+been fulfilled. I may perhaps be permitted to mention, that at the
+same time I laid before the section plans and suggestions for the
+making of the cylindrical parts of boilers equally without seam, or
+even welding. This is rarely done at the present time, but I am sure
+that, in twenty years' time, such a thing as a longitudinal seam of
+rivets in a boiler will be unknown. There is no reason why the
+successive rings of boiler shells should not be made weldless, as
+tires are now made weldless.
+
+
+MOTORS.
+
+The next subject I intend to deal with is that of motors. In 1831, we
+had the steam-engine, the water-wheel, the windmill, horse-power,
+manual power, and Stirling's hot air engines. Gas engines, indeed,
+were proposed in 1824, but were not brought to the really practical
+stage. We had then tide mills; indeed, we have had them until quite
+lately, and it may be that some still exist; they were sources of
+economy in our fuel, and their abandonment is to me a matter of
+regret. I remember tide mills on the coast between Brighton and
+Newhaven, another between Greenwich and Woolwich, another at
+Northfleet, and in many other places. Indeed, such mills were used
+pretty extensively; they were generally erected at the mouth of a
+stream, and in that way the river bed made the reservoir, and even
+when they were erected in other situations, those were of a kind
+suitable for the purpose, that is, lowlying lands were selected, and
+were embanked to form reservoirs. In 1881, windmills and water-wheels
+are much the same, but the turbines are greatly improved, and by means
+of turbines we are enabled to make available the pressure derived from
+heads of water which formerly could not be used at all, or if used,
+involved the erection of enormous water-wheels, such as those at
+Glasgow and in the Isle of Man, wheels of some eighty feet in
+diameter. But now, by means of a small turbine, an excellent effect is
+produced from high heads of water. The same effect is obtained from
+the water-engines which our president has employed with such great
+success. In addition to these motors, we have the gas-engine, which,
+within the last few years only, has become a really useful working and
+economical machine. With respect to horse-power motors, we have not
+only the old horse engines, but we have a new application, as it seems
+to me, of the work of the horse as a motor. I allude to those cases
+where the horse drawing a reaping or thrashing machine, not only pulls
+it forward as he might pull a cart, but causes its machinery to
+revolve, so as to perform the desired kind of work. This species of
+horse-engine, though known, was but little used in 1831. With respect
+to hot-air engines there have been many attempts to improve them, and
+some hot-air engines are working, and are working with considerable
+success; but the amount of power they develop in relation to their
+size is small, and I am inclined to doubt whether it can be much
+increased.
+
+
+TRANSMISSION OF POWER.
+
+I now come to the subject of the transmission of power. I do not mean
+transmission in the ordinary sense by means of shafting, gearing, or
+belting, but I mean transmission over long distances. In 1831, we had
+for this purpose flat rods, as they were called, rods transmitting
+power from pumping engines for a considerable distance to the pits
+where the pumps were placed, and we had also the pneumatic, the
+exhaustion system--the invention of John Hague, a Yorkshire-man, my
+old master, to whom I was apprenticed--which mode of transmission was
+then used to a very considerable extent. The recollection of it, I
+find, however, has nearly died out, and I am glad to have this
+opportunity of reviving it. But in 1881, we have, for the transmission
+of power, first of all, quick moving ropes, and there is not, so far
+as I know a better instance of this system than that at Schaffhausen.
+Any one who has ever, in recent years, gone a mile or two above the
+falls at Schaffhausen, must have seen there--in a house, on the bank
+of the Rhine, opposite to that on which the town is situated--large
+turbines driven by the river, which is slightly dammed up for the
+purpose. These work quick-going ropes, carried on pulleys, erected at
+intervals along the river bank, for the whole length of the town; and
+power is delivered from them to shafting below the streets, and from
+it into any house where it is required for manufacturing purposes.
+Then we have the compressed air transmission of power, which is very
+largely used for underground engines, and for the working of rock
+drills in mines and tunnels.
+
+
+COMPRESSED AIR LOCOMOTIVES.
+
+We have also compressed air in a portable form, and it is now employed
+with great success in driving tram-cars. I had occasion last January
+to visit Nantes, where, for eighteen months, tram-cars had been driven
+by compressed air, carried on the cars themselves, coupled with an
+extremely ingenious arrangement for overcoming the difficulties
+commonly attendant on the use of compressed air engines. This consists
+in the provision of a cylindrical vessel half filled with hot water
+and half with steam, at a pressure of eighty pounds on the square
+inch. The compressed air, on its way from the reservoir to the engine,
+passes through the water and steam, becoming thereby heated and
+moistened, and in that way all the danger of forming ice in the
+cylinders was prevented, and the parts were susceptible of good
+lubrication. These cars, which start every ten minutes from each end,
+make a journey of 33/4 miles, and have proved to be a commercial and an
+engineering success. I believe, moreover, that they are capable of
+very considerable improvement.
+
+
+HYDRAULIC TRANSMISSION OF POWER.
+
+Then there is, although not much used, the transmitting of power by
+means of long steam pipes. There is also the transmission
+hydraulically. This may be carried out in an intermittent manner, so
+as to replace the reciprocating flat rods of old days; that is to say,
+if two pipes containing water are laid down, and if the pressure in
+those pipes at the one end be alternated, there will be produced an
+alternating and a reciprocative effect at the other, to give motion to
+pumps or other machinery. There is also that thoroughly well known
+mode of transmission, hydraulically, for which the engineering world
+owes so much to our president. We have, by Sir William Armstrong's
+system, coupled with his accumulator, the means of transmitting
+hydraulically the power of a central motor to any place requiring it,
+and by the means of the principal accumulator, or if need be by that
+aided by local accumulators, a comparatively small engine is enabled
+to meet very heavy demands made upon it for a short time. I think I am
+right in saying that, at the ordinary pressure which Sir William
+Armstrong uses in practice, viz., 700 lb. to the square inch, one foot
+a second of motion along an inch pipe would deliver at the rate to
+produce one-horse power. Therefore, a ten-inch pipe, with the water
+traveling at no greater pace than three feet in a second, would
+deliver 300 horse-power. This 300 horse-power would no doubt be
+somewhat reduced by the loss in the hydraulic engine, which would
+utilize the water. But the total energy received would be equivalent
+to producing 300 horse-power. Such a transmission would be effected
+with an exceedingly small loss infliction in transit. I believe I am
+right in saying that a 10 inch pipe a mile long would not involve much
+more than about 14 or 15 lb. differential pressure to propel the
+water through it at the rate of three feet in a second. If that be so,
+then, with 700 lb. to the inch, the loss under such circumstances
+would be only two per cent. in transmission. There is no doubt that
+this transmission of power hydraulically has been of the greatest
+possible use. It has enabled work to be done which could not be done
+before. Enormous weights are raised with facility wherever required,
+as by the aid of power hydraulically transmitted, it is perfectly easy
+for one man to manage the heaviest cranes. Moreover, as I have said in
+other places, the system which we owe to Sir William Armstrong has
+gone far to elevate the human race, and it has done so in this manner.
+So long as it is competent for a man to earn a living by mere
+unintelligent exercise of his muscles, he is very likely to do it. You
+may see in the old London docks the crane-heads covered by structures
+that look like paddle-boxes. If you go to them, there is, I am glad to
+say, nothing now to fill them up; but when the British Association
+first met, these paddle-boxes covered large tread-wheels, in which men
+trod, so as to raise a weight. Now, although I know that in fact there
+is nothing more objectionable in a man turning a wheel by treading
+inside of it than there is if he turn it round by a winch-handle, yet
+somehow it strikes one more as being merely the work of an animal, a
+turnspit, or a squirrel, or, indeed, as the task imposed on the
+criminal. But, nevertheless, in this way there were a large number of
+persons getting their living by the mere exercise of their muscles,
+but, as might be expected, a very poor living, derived as it was from
+unintelligent labor. That work is no longer possible, and is not so,
+for the powerful reason that it does not pay. Those persons,
+therefore, who would now have been thus occupied, are compelled to
+elevate themselves, and to become competent to earn their living in a
+manner which is more worthy of an intelligent human being. It is on
+these grounds that I say we owe very much the elevation of the working
+classes, especially of the class below the artisan, to this invention
+of our distinguished president.
+
+
+ELECTRIC TRANSMISSION OF POWER.
+
+In addition to the modes of transmission I have already mentioned,
+there is the transmission of power by means of gas. I think that there
+is a very large future indeed for gas engines. I do not know whether
+this may be the place to state it, but I believe the way in which we
+shall utilize our fuel hereafter will, in all probability, not be by
+the way of the steam-engine. Sir William Armstrong alluded to this
+probability in his address, and I entirely agree, if he will allow me
+to say so, that such a change in the production of power from fuel
+appears to be impending, if not in the immediate future, at all events
+in a time not very far remote; and however much the Mechanical Section
+of the British Association may to-day contemplate with regret, even
+the mere distant prospect of the steam-engine being a thing of the
+past, I very much doubt whether those who meet here fifty years hence
+will then speak of it as anything more than a curiosity to be found in
+a museum. With respect to the transmission of power electrically, I
+won't venture to touch upon that; but will content myself by reminding
+you that while Sir William Armstrong did say that there were
+comparatively small streams which could be utilized, he did not inform
+you of that which he himself had done in this direction; let me say
+that Sir William Armstrong thus utilized a fall of water, situated
+about a mile from his house, to work a turbine, which drives a dynamo
+machine, generating electricity, for the illumination of the house.
+When I was last at Crag Side, that illumination was being effected by
+the arc light, but since then, as Sir William Armstrong has been good
+enough to write to me, he has replaced the arc light by the
+incandescent lamp (a form of electrical lighting far more applicable
+than the arc light to domestic purposes), and with the greatest
+possible success. Thus, in Sir William Armstrong's own case, a small
+stream is made to afford light in a dwelling a mile away. Certainly
+nothing could have seemed more improbable fifty years ago than that
+the light of a house should be derived from a fall of water without
+the employment of any kind or description of fuel.
+
+The next subject upon which I propose to touch is that of
+
+
+THE MANUFACTURE OF IRON AND STEEL.
+
+In 1831, Neilson's hot blast specification had been published for two
+and a half years only. The Butterly Company had tried the hot blast
+for the first time in the November preceding the meeting of the
+British Association. The heating of the blast was coming very slowly
+into use, and the temperature attained when it was employed was only
+some 600 degrees. The ordinary blast furnace of those days was 35 to
+40 feet high, and about 12 feet diameter at the boshes, and turned out
+about 60 tons a week. It used about 21/2 tons of coal per ton of iron,
+and no attempt was made to utilize the waste gases, whether escaping
+in the form of gas or in the form of flame, the country being
+illuminated for miles around at night by these fires. The furnaces
+were also open at the hearth, and continuous fire poured out along
+with the slag.
+
+In 1881, blast furnaces are from 90 ft. to 100 ft. high, and 25 ft. in
+diameter at the boshes; they turn out from 500 to 800 tons a week. The
+tops and also the hearths are closed, and the blast--thanks to the use
+of Mr. E.A. Cowper's stoves--is at 1,200 degrees. The manufacture of
+iron has also now enlisted in its service the chemist as well as the
+engineer, and among those who have done much for the improvement of
+the blast furnaces, to no one is greater praise due than to Mr. Isaac
+Lowthian Bell, who has brought the manufacture of iron to the position
+of a highly scientific operation. In the production of wrought iron by
+the puddling process, and in the subsequent mill operations, there is
+no very considerable change, except in the magnitude of the machines
+employed, and, in the greater rapidity with which they now run. In
+saying this, I am not forgetting the various "mechanical puddlers"
+which have been put to work, nor the attempts that have been made by
+the use of some of them to make wrought iron direct from the ore; but
+neither the "mechanical puddler" nor the "direct process" has yet come
+into general use; and I desire to be taken as speaking of that which
+is the ordinary process pursued at the present in puddled iron
+manufactures. In 1831, a few hundredweights was the limit of weight of
+a plate, while in 1881, there may readily be obtained, for
+boiler-making purposes, plates of at least four times the weight of
+those that were made in 1831. I may, perhaps, be allowed to say that
+there is an extremely interesting blue-book of the year 1818,
+containing the report of a parliamentary committee which sat on boiler
+explosions, and I recommend any mechanical engineer who is interested
+in the history of the subject to read that book; he will find it there
+stated that in the North of England there was a species of engines
+called locomotives, the boilers of which were made of wrought iron,
+beaten, not rolled, because the rolled plate was not considered fit;
+it was added that if made of beaten iron the boiler would last at
+least a year.
+
+In 1831, thirteen years later, the dimensions of rolled plates were no
+doubt raised; but few then would have supposed it possible there
+should be rolled such plates as are now produced for boiler purposes,
+and still fewer would have believed that in the year 1881 we should
+make, for warlike purposes, rolled plates 22 inches in thickness and
+30 tons in weight. I have said there is very little alteration in the
+process of making wrought iron by puddling, and I do not think there
+is likely to be much further, if any, improvement in this process,
+because I believe that, with certain exceptions, the manufacture of
+iron by puddling is a doomed industry. I ventured to say, in a lecture
+I delivered at the Royal Institution three years ago on "The Future of
+Steel," that I believed puddled iron, except for the mere hand wrought
+forge purposes of the country blacksmith, and for such like purposes,
+would soon become a thing of the past. Mr. Harrison, the engineer of
+the North-Eastern Railway, told me that about eighteen months ago the
+North-Eastern Railway applied for tenders for rails in any quantities
+between 2,000 and 10,000 tons, and they issued alternative
+specifications for iron and for steel. They received about ten
+tenders. Some did not care to tender for iron at all; but when they
+did tender alternatively, the price quoted for the iron was greater
+than for the steel. I have no doubt whatever that, in a short time, it
+will be practically impossible to procure iron made by the puddling
+process, of dimensions fit for many of the purposes for which a few
+years ago it alone was used.
+
+With respect to steel, in 1831 the process in use was that of
+cementation, producing blistered steel, which was either piled and
+welded to make shear steel, or was broken into small pieces, melted in
+pots, and run into an ingot weighing only some 50 lb. or 60 lb. At
+that time steel was dealt in by the pound; nobody thought of steel in
+tons. In 1881, we are all aware that, by Sir Henry Bessemer's
+well-known discovery, carried out by him with such persistent vigor,
+cast iron is, by the blowing process, converted into steel, and that
+of Dr. Siemens' equally well-known process (now that, owing to his
+invention of the regenerative furnace, it is possible to obtain the
+necessary high temperature), steel is made upon the open hearth. We
+are, moreover, aware that, by both of these processes, steel is
+produced in quantities of many tons at a single operation, with the
+result that as instanced in the case of the North-Eastern rails, steel
+is a cheaper material than the wrought iron made by the puddling
+process. One cannot pass away from the steel manufacture without
+alluding to Sir Joseph Whitworth's process of putting a pressure on
+the steel while in a tried state. By this means, the cavities which
+are frequently to be found in the ingot of a large size are, while the
+steel is fluid, rendered considerably smaller, and the steel is
+thereby rendered much more sound. In conclusion of my observations on
+the subject of iron and steel manufacture, I wish to call attention to
+the invention of Messrs. Thomas & Gilchrist, by which ores of iron,
+containing impurities that unfitted them to be used in the manufacture
+of steel, are now freed from these impurities, and are thus brought
+into use for steel-making purposes.
+
+
+BRIDGES.
+
+In the year 1831, bridges of cast iron existed; but no attempt had
+been made to employ wrought iron in girder bridges, although Telford
+had employed it in the Menai Suspension Bridge; but in 1881, the
+introduction of railways, and the improvement in iron manufactures,
+have demanded, and have rendered possible the execution of such
+bridges as the tubular one, spanning the Menai Straits, in span of 400
+feet, and the Saltash, over the Tamar, with spans of 435 feet; while
+recent great improvements in the manufacture of steel have rendered
+possible the contemplated construction of the Forth Bridge, where
+there are to be spans of 1,700 feet, or one-third of a mile in length.
+Mr. Barlow, one of the engineers of this bridge, has told me that
+there will be used upwards of 2,000 more tons of material in the Forth
+Bridge, to resist the wind pressure, than would have been needed if no
+wind had to be taken into account, and if the question of the simple
+weight to be carried had alone to be considered. With respect to the
+foundation of bridges, that ingenious man, Lord Cochrane, patented a
+mode of sinking foundations, even before the first meeting of the
+British Association, viz., as far back, I believe, as 1825 or 1826;
+and the improvements which he then invented are almost universally in
+use in bridge construction at the present day. Cylinders sunk by the
+aid of compressed air, airlocks to obtain access to the cylinder, and,
+in fact, every means that I know of as having been used in the modern
+sinking of cylinder foundations, were described by Lord Cochrane
+(afterwards Earl of Dundonald) in that specification.
+
+The next subject I propose to touch on is that of
+
+
+MACHINE TOOLS.
+
+In 1831, the mention of lathes, drilling machines, and screwing
+machines brings me very nearly to the end of the list of the machine
+tools used by turners and fitters, and at that time many lathes were
+without slide rests. The boiler-maker had then his punching-press and
+shearing machine; the smith, leaving on one side his forges and their
+bellows, had nothing but hand tools, and the limit of these was a huge
+hammer, with two handles, requiring two men to work it. In anchor
+manufacture, it is true, a mechanical drop-hammer, known as a
+Hercules, was employed, while in iron works, the Helve and the Tilt
+hammer were in use. For ordinary smith's work, however, there were, as
+has been said, practically no machine tools at all.
+
+This paucity or absence in some trades, as we have seen, of machine
+tools, involved the need of very considerable skill on the part of the
+workman. It required the smith to be a man not only of great muscular
+power, but to be possessed of an accurate eye and a correct judgment,
+in order to produce the forgings which were demanded of him, and to
+make the sound work that was needed, especially when that soundness
+was required in shafts, and in other pieces which, in those days, were
+looked upon as of magnitude; which, indeed, they were, relatively to
+the tools which could be brought to operate upon them. The
+boiler-maker in his work had to trust almost entirely to the eye for
+correctness of form and for regularity of punching, while all parts of
+engines and machines which could not be dealt with in the lathe, in
+the drilling, or in the screwing machine, had to be prepared by the
+use of the chisel and the file.
+
+At the present day, the turning and fitting shops are furnished not
+only with the slide lathe, self acting in both directions, and
+screw-cutting, the drilling-machine, and the screwing machine, but
+with planing machines competent to plane horizontally, vertically, or
+at an angle; shaping machines, rapidly reciprocating, and dealing with
+almost any form of work; nut shaping machines, slot drilling
+machines, and slotting machines, while the drills have become multiple
+and radial; and the accuracy of the work is insured by testing on
+large surface plates, and by the employment of Whitworth internal and
+external standard gauges.
+
+The boiler maker's tools now comprise the steam, compressed air,
+hydraulic or other mechanical riveter, rolls for the bending of plates
+while cold into the needed cylindrical or conical forms, multiple
+drills for the drilling of rivet holes, planing machines to plane the
+edges of the plates, ingenious apparatus for flanging them, thereby
+dispensing with one row of rivets out of two, and roller expanders for
+expanding the tubes in locomotive and in marine boilers; while the
+punching press, where still used, is improved so as to make the holes
+for seams of rivets in a perfect line, and with absolute accuracy of
+pitch.
+
+With respect to the smith's shop, all large pieces of work are now
+manipulated under heavy Nasmyth or other steam hammers; while smaller
+pieces of work are commonly prepared either in forging machines or
+under rapidly moving hammers, and when needed in sufficient numbers
+are made in dies. And applicable to all the three industries of the
+fitting shop, the boiler shop, and the smith's shop, and also to that
+other industry carried on in the foundry, are the traveling and swing
+cranes, commonly worked by shafting, or by quick moving ropes for the
+travelers, and by hydraulic power or by steam engines for the swing
+cranes. It may safely be said, that without the aid of these
+implements, it would be impossible to handle the weights that are met
+with in machinery of the present day.
+
+I now come to one class of machine which, humble and small as it is,
+has probably had a greater effect upon industry and upon domestic life
+than almost any other. I mean
+
+
+THE SEWING MACHINE.
+
+In 1831, there was no means of making a seam except by the laborious
+process of the hand needle. In 1846, Eldred Walker patented a machine
+for parsing the basting thread through the gores of umbrellas, a
+machine that was very ingenious and very simple, but was utterly
+unlike the present sewing machine, with its eye-pointed needle, using
+sometimes two threads (the second being put in by a shuttle or by
+another needle), and making stitches at twenty-fold the rapidity with
+which the most expert needlewoman could work. By means of the sewing
+machine not only are all textile fabrics operated upon, but even the
+thickest leather is dealt with, and as a _tour de force_, but as a
+matter of fact, sheet-iron plates themselves have been pierced, and
+have been united by a seam no boilermaker ever contemplated, the
+piercing and the seam being produced by a Blake sewing machine. I
+believe all in this section will agree that the use of the sewing
+machine has been unattended by loss to those who earn their living by
+the needle; in fact, it would not be too much to say that there has
+been a positive improvement in their wages.
+
+The next matter I have to touch upon is
+
+

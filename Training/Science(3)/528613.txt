@@ -1,0 +1,425 @@
+
+He specially attacked the motion of the planet Mars, because that was
+sufficiently rapid in its changes for a considerable collection of data
+to have accumulated with respect to it. He tried all manner of circular
+orbits for the earth and for Mars, placing them in all sorts of aspects
+with respect to the sun. The problem to be solved was to choose such an
+orbit and such a law of speed, for both the earth and Mars, that a line
+joining them, produced out to the stars, should always mark correctly
+the apparent position of Mars as seen from the earth. He had to arrange
+the size of the orbits that suited best, then the positions of their
+centres, both being supposed excentric with respect to the sun; but he
+could not get any such arrangement to work with uniform motion about the
+sun. So he reintroduced the equant, and thus had another variable at his
+disposal--in fact, two, for he had an equant for the earth and another
+for Mars, getting a pattern of the kind suggested in Fig. 29.
+
+The equants might divide the line in any arbitrary ratio. All sorts of
+combinations had to be tried, the relative positions of the earth and
+Mars to be worked out for each, and compared with Tycho's recorded
+observations. It was easy to get them to agree for a short time, but
+sooner or later a discrepancy showed itself.
+
+[Illustration: FIG. 29.--_S_ represents the sun; _EC_, the centre of the
+earth's orbit, to be placed as best suited; _MC_, the same for Mars;
+_EE_, the earth's equant, or point about which the earth uniformly
+revolved (_i.e._ the point determining the law of speed about the sun),
+likewise to be placed anywhere, but supposed to be in the line joining
+_S_ to _EC_; _ME_, the same thing for Mars; with _?ME_ for an
+alternative hypothesis that perhaps Mars' equant was on line joining
+_EC_ with _MC_.]
+
+I need not say that all these attempts and gropings, thus briefly
+summarized, entailed enormous labour, and required not only great
+pertinacity, but a most singularly constituted mind, that could thus
+continue groping in the dark without a possible ray of theory to
+illuminate its search. Grope he did, however, with unexampled diligence.
+
+At length he hit upon a point that seemed nearly right. He thought he
+had found the truth; but no, before long the position of the planet, as
+calculated, and as recorded by Tycho, differed by eight minutes of arc,
+or about one-eighth of a degree. Could the observation be wrong by this
+small amount? No, he had known Tycho, and knew that he was never wrong
+eight minutes in an observation.
+
+So he set out the whole weary way again, and said that with those eight
+minutes he would yet find out the law of the universe. He proceeded to
+see if by making the planet librate, or the plane of its orbit tilt up
+and down, anything could be done. He was rewarded by finding that at any
+rate the plane of the orbit did not tilt up and down: it was fixed, and
+this was a simplification on Copernicus's theory. It is not an absolute
+fixture, but the changes are very small (see Laplace, page 266).
+
+[Illustration: FIG. 30.--Excentric circle supposed to be divided into
+equal areas. The sun, _S_, being placed at a selected point, it was
+possible to represent the varying speed of a planet by saying that it
+moved from _A_ to _B_, from _B_ to _C_, and so on, in equal times.]
+
+At last he thought of giving up the idea of _uniform_ circular motion,
+and of trying _varying_ circular motion, say inversely as its distance
+from the sun. To simplify calculation, he divided the orbit into
+triangles, and tried if making the triangles equal would do. A great
+piece of luck, they did beautifully: the rate of description of areas
+(not arcs) is uniform. Over this discovery he greatly rejoices. He feels
+as though he had been carrying on a war against the planet and had
+triumphed; but his gratulation was premature. Before long fresh little
+errors appeared, and grew in importance. Thus he announces it himself:--
+
+"While thus triumphing over Mars, and preparing for him, as for one
+already vanquished, tabular prisons and equated excentric fetters, it is
+buzzed here and there that the victory is vain, and that the war is
+raging anew as violently as before. For the enemy left at home a
+despised captive has burst all the chains of the equations, and broken
+forth from the prisons of the tables."
+
+Still, a part of the truth had been gained, and was not to be abandoned
+any more. The law of speed was fixed: that which is now known as his
+second law. But what about the shape of the orbit--Was it after all
+possible that Aristotle, and every philosopher since Aristotle, had been
+wrong? that circular motion was not the perfect and natural motion, but
+that planets might move in some other closed curve?
+
+Suppose he tried an oval. Well, there are a great variety of ovals, and
+several were tried: with the result that they could be made to answer
+better than a circle, but still were not right.
+
+Now, however, the geometrical and mathematical difficulties of
+calculation, which before had been tedious and oppressive, threatened to
+become overwhelming; and it is with a rising sense of despondency that
+Kepler sees his six years' unremitting labour leading deeper and deeper
+into complication.
+
+One most disheartening circumstance appeared, viz. that when he made the
+circuit oval his law of equable description of areas broke down. That
+seemed to require the circular orbit, and yet no circular orbit was
+quite accurate.
+
+While thinking and pondering for weeks and months over this new dilemma
+and complication of difficulties, till his brain reeled, an accidental
+ray of light broke upon him in a way not now intelligible, or barely
+intelligible. Half the extreme breadth intercepted between the circle
+and oval was 429/100,000 of the radius, and he remembered that the
+"optical inequality" of Mars was also about 429/100,000. This
+coincidence, in his own words, woke him out of sleep; and for some
+reason or other impelled him instantly to try making the planet
+oscillate in the diameter of its epicycle instead of revolve round it--a
+singular idea, but Copernicus had had a similar one to explain the
+motions of Mercury.
+
+[Illustration: FIG. 31.--Mode of drawing an ellipse. The two pins _F_
+are the foci.]
+
+Away he started through his calculations again. A long course of work
+night and day was rewarded by finding that he was now able to hit off
+the motions better than before; but what a singularly complicated motion
+it was. Could it be expressed no more simply? Yes, the curve so
+described by the planet is a comparatively simple one: it is a special
+kind of oval--the ellipse. Strange that he had not thought of it before.
+It was a famous curve, for the Greek geometers had studied it as one of
+the sections of a cone, but it was not so well known in Kepler's time.
+The fact that the planets move in it has raised it to the first
+importance, and it is familiar enough to us now. But did it satisfy the
+law of speed? Could the rate of description of areas be uniform with
+it? Well, he tried the ellipse, and to his inexpressible delight he
+found that it did satisfy the condition of equable description of areas,
+if the sun was in one focus. So, moving the planet in a selected
+ellipse, with the sun in one focus, at a speed given by the equable area
+description, its position agreed with Tycho's observations within the
+limits of the error of experiment. Mars was finally conquered, and
+remains in his prison-house to this day. The orbit was found.
+
+[Illustration: FIG. 32.]
+
+In a paroxysm of delight Kepler celebrates his victory by a triumphant
+figure, sketched actually on his geometrical diagram--the diagram which
+proves that the law of equable description of areas can hold good with
+an ellipse. The above is a tracing of it.
+
+Such is a crude and bald sketch of the steps by which Kepler rose to his
+great generalizations--the two laws which have immortalized his name.
+
+All the complications of epicycle, equant, deferent, excentric, and the
+like, were swept at once away, and an orbit of striking and beautiful
+properties substituted. Well might he be called, as he was, "the
+legislator," or law interpreter, "of the heavens."
+
+[Illustration: FIG. 33.--If _S_ is the sun, a planet or comet moves from
+_P_ to _P_1_, from _P_2_ to _P_3_, and from _P_4_ to _P_5_ in
+the same time; if the shaded areas are equal.]
+
+He concludes his book on the motions of Mars with a half comic appeal to
+the Emperor to provide him with the sinews of war for an attack on
+Mars's relations--father Jupiter, brother Mercury, and the rest--but the
+death of his unhappy patron in 1612 put an end to all these schemes, and
+reduced Kepler to the utmost misery. While at Prague his salary was in
+continual arrear, and it was with difficulty that he could provide
+sustenance for his family. He had been there eleven years, but they had
+been hard years of poverty, and he could leave without regret were it
+not that he should have to leave Tycho's instruments and observations
+behind him. While he was hesitating what best to do, and reduced to the
+verge of despair, his wife, who had long been suffering from low spirits
+and despondency, and his three children, were taken ill; one of the sons
+died of small-pox, and the wife eleven days after of low fever and
+epilepsy. No money could be got at Prague, so after a short time he
+accepted a professorship at Linz, and withdrew with his two quite young
+remaining children.
+
+He provided for himself now partly by publishing a prophesying almanack,
+a sort of Zadkiel arrangement--a thing which he despised, but the
+support of which he could not afford to do without. He is continually
+attacking and throwing sarcasm at astrology, but it was the only thing
+for which people would pay him, and on it after a fashion he lived. We
+do not find that his circumstances were ever prosperous, and though
+8,000 crowns were due to him from Bohemia he could not manage to get
+them paid.
+
+About this time occurred a singular interruption to his work. His old
+mother, of whose fierce temper something has already been indicated, had
+been engaged in a law-suit for some years near their old home in
+Wuertemberg. A change of judge having in process of time occurred, the
+defendant saw his way to turn the tables on the old lady by accusing her
+of sorcery. She was sent to prison, and condemned to the torture, with
+the usual intelligent idea of extracting a "voluntary" confession.
+Kepler had to hurry from Linz to interpose. He succeeded in saving her
+from the torture, but she remained in prison for a year or so. Her
+spirit, however, was unbroken, for no sooner was she released than she
+commenced a fresh action against her accuser. But fresh trouble was
+averted by the death of the poor old dame at the age of nearly eighty.
+
+This narration renders the unflagging energy shown by her son in his
+mathematical wrestlings less surprising.
+
+Interspersed with these domestic troubles, and with harassing and
+unsuccessful attempts to get his rights, he still brooded over his old
+problem of some possible connection between the distances of the planets
+from the sun and their times of revolution, _i.e._ the length of their
+years.
+
+It might well have been that there was no connection, that it was purely
+imaginary, like his old idea of the law of the successive distances of
+the planets, and like so many others of the guesses and fancies which
+he entertained and spent his energies in probing. But fortunately this
+time there was a connection, and he lived to have the joy of discovering
+it.
+
+The connection is this, that if one compares the distance of the
+different planets from the sun with the length of time they take to go
+round him, the cube of the respective distances is proportional to the
+square of the corresponding times. In other words, the ratio of r^3
+to T^2 for every planet is the same. Or, again, the length of a
+planet's year depends on the 3/2th power of its distance from the sun.
+Or, once more, the speed of each planet in its orbit is as the inverse
+square-root of its distance from the sun. The product of the distance
+into the square of the speed is the same for each planet.
+
+This (however stated) is called Kepler's third law. It welds the planets
+together, and shows them to be one system. His rapture on detecting the
+law was unbounded, and he breaks out into an exulting rhapsody:--
+
+"What I prophesied two-and-twenty years ago, as soon as I discovered the
+five solids among the heavenly orbits--what I firmly believed long
+before I had seen Ptolemy's _Harmonies_--what I had promised my friends
+in the title of this book, which I named before I was sure of my
+discovery--what sixteen years ago, I urged as a thing to be sought--that
+for which I joined Tycho Brahe, for which I settled in Prague, for which
+I have devoted the best part of my life to astronomical contemplations,
+at length I have brought to light, and recognized its truth beyond my
+most sanguine expectations. It is not eighteen months since I got the
+first glimpse of light, three months since the dawn, very few days since
+the unveiled sun, most admirable to gaze upon, burst upon me. Nothing
+holds me; I will indulge my sacred fury; I will triumph over mankind by
+the honest confession that I have stolen the golden vases of the
+Egyptians to build up a tabernacle for my God far away from the
+confines of Egypt. If you forgive me, I rejoice; if you are angry, I can
+bear it; the die is cast, the book is written, to be read either now or
+by posterity, I care not which; it may well wait a century for a reader,
+as God has waited six thousand years for an observer."
+
+Soon after this great work his third book appeared: it was an epitome of
+the Copernican theory, a clear and fairly popular exposition of it,
+which had the honour of being at once suppressed and placed on the list
+of books prohibited by the Church, side by side with the work of
+Copernicus himself, _De Revolutionibus Orbium Coelestium_.
+
+This honour, however, gave Kepler no satisfaction--it rather occasioned
+him dismay, especially as it deprived him of all pecuniary benefit, and
+made it almost impossible for him to get a publisher to undertake
+another book.
+
+Still he worked on at the Rudolphine tables of Tycho, and ultimately,
+with some small help from Vienna, completed them; but he could not get
+the means to print them. He applied to the Court till he was sick of
+applying: they lay idle four years. At last he determined to pay for the
+type himself. What he paid it with, God knows, but he did pay it, and he
+did bring out the tables, and so was faithful to the behest of his
+friend.
+
+This great publication marks an era in astronomy. They were the first
+really accurate tables which navigators ever possessed; they were the
+precursors of our present _Nautical Almanack_.
+
+After this, the Grand Duke of Tuscany sent Kepler a golden chain, which
+is interesting inasmuch as it must really have come from Galileo, who
+was in high favour at the Italian Court at this time.
+
+Once more Kepler made a determined attempt to get his arrears of salary
+paid, and rescue himself and family from their bitter poverty. He
+travelled to Prague on purpose, attended the imperial meeting, and
+pleaded his own cause, but it was all fruitless; and exhausted by the
+journey, weakened by over-study, and disheartened by the failure, he
+caught a fever, and died in his fifty-ninth year. His body was buried at
+Ratisbon, and a century ago a proposal was made to erect a marble
+monument to his memory, but nothing was done. It matters little one way
+or the other whether Germany, having almost refused him bread during his
+life, should, a century and a half after his death, offer him a stone.
+
+[Illustration: FIG. 34.--Portrait of Kepler, older.]
+
+The contiguity of the lives of Kepler and Tycho furnishes a moral too
+obvious to need pointing out. What Kepler might have achieved had he
+been relieved of those ghastly struggles for subsistence one cannot
+tell, but this much is clear, that had Tycho been subjected to the same
+misfortune, instead of being born rich and being assisted by generous
+and enlightened patrons, he could have accomplished very little. His
+instruments, his observatory--the tools by which he did his work--would
+have been impossible for him. Frederick and Sophia of Denmark, and
+Rudolph of Bohemia, are therefore to be remembered as co-workers with
+him.
+
+Kepler, with his ill-health and inferior physical energy, was unable to
+command the like advantages. Much, nevertheless, he did; more one cannot
+but feel he might have done had he been properly helped. Besides, the
+world would have been free from the reproach of accepting the fruits of
+his bright genius while condemning the worker to a life of misery,
+relieved only by the beauty of his own thoughts and the ecstasy awakened
+in him by the harmony and precision of Nature.
+
+Concerning the method of Kepler, the mode by which he made his
+discoveries, we must remember that he gives us an account of all the
+steps, unsuccessful as well as successful, by which he travelled. He
+maps out his route like a traveller. In fact he compares himself to
+Columbus or Magellan, voyaging into unknown lands, and recording his
+wandering route. This being remembered, it will be found that his
+methods do not differ so utterly from those used by other philosophers
+in like case. His imagination was perhaps more luxuriant and was allowed
+freer play than most men's, but it was nevertheless always controlled by
+rigid examination and comparison of hypotheses with fact.
+
+Brewster says of him:--"Ardent, restless, burning to distinguish
+himself by discovery, he attempted everything; and once having obtained
+a glimpse of a clue, no labour was too hard in following or verifying
+it. A few of his attempts succeeded--a multitude failed. Those which
+failed seem to us now fanciful, those which succeeded appear to us
+sublime. But his methods were the same. When in search of what really
+existed he sometimes found it; when in pursuit of a chimaera he could not
+but fail; but in either case he displayed the same great qualities, and
+that obstinate perseverance which must conquer all difficulties except
+those really insurmountable."
+
+To realize what he did for astronomy, it is necessary for us now to
+consider some science still in its infancy. Astronomy is so clear and so
+thoroughly explored now, that it is difficult to put oneself into a
+contemporary attitude. But take some other science still barely
+developed: meteorology, for instance. The science of the weather, the
+succession of winds and rain, sunshine and frost, clouds and fog, is now
+very much in the condition of astronomy before Kepler.
+
+We have passed through the stage of ascribing atmospheric
+disturbances--thunderstorms, cyclones, earthquakes, and the like--to
+supernatural agency; we have had our Copernican era: not perhaps brought
+about by a single individual, but still achieved. Something of the laws
+of cyclone and anticyclone are known, and rude weather predictions
+across the Atlantic are roughly possible. Barometers and thermometers
+and anemometers, and all their tribe, represent the astronomical
+instruments in the island of Huen; and our numerous meteorological
+observatories, with their continual record of events, represent the work
+of Tycho Brahe.
+
+Observation is heaped on observation; tables are compiled; volumes are
+filled with data; the hours of sunshine are recorded, the fall of rain,
+the moisture in the air, the kind of clouds, the temperature--millions
+of facts; but where is the Kepler to study and brood over them? Where
+is the man to spend his life in evolving the beginnings of law and order
+from the midst of all this chaos?
+
+Perhaps as a man he may not come, but his era will come. Through this
+stage the science must pass, ere it is ready for the commanding
+intellect of a Newton.
+
+But what a work it will be for the man, whoever he be that undertakes
+it--a fearful monotonous grind of calculation, hypothesis, hypothesis,
+calculation, a desperate and groping endeavour to reconcile theories
+with facts.
+
+A life of such labour, crowned by three brilliant discoveries, the world
+owes (and too late recognizes its obligation) to the harshly treated
+German genius, Kepler.
+
+
+
+
+SUMMARY OF FACTS FOR LECTURES IV AND V
+
+
+In 1564, Michael Angelo died and Galileo was born; in 1642, Galileo died
+and Newton was born. Milton lived from 1608 to 1674.
+
+For teaching the plurality of worlds, with other heterodox doctrines,
+and refusing to recant, Bruno, after six years' imprisonment in Rome,
+was burnt at the stake on the 16th of February, 1600 A.D. A "natural"
+death in the dungeons of the Inquisition saved Antonio de Dominis, the
+explainer of the rainbow, from the same fate, but his body and books
+were publicly burned at Rome in 1624.
+
+The persecution of Galileo began in 1615, became intense in 1632, and so
+lasted till his death and after.
+
+*      *      *      *      *
+
+Galileo Galilei, eldest son of Vincenzo de Bonajuti de Galilei, a noble
+Florentine, was born at Pisa, 18th of February, 1564. At the age of 17
+was sent to the University of Pisa to study medicine. Observed the swing
+of a pendulum and applied it to count pulse-beats. Read Euclid and
+Archimedes, and could be kept at medicine no more. At 26 was appointed
+Lecturer in Mathematics at Pisa. Read Bruno and became smitten with the
+Copernican theory. Controverted the Aristotelians concerning falling
+bodies, at Pisa. Hence became unpopular and accepted a chair at Padua,
+1592. Invented a thermometer. Wrote on astronomy, adopting the Ptolemaic
+system provisionally, and so opened up a correspondence with Kepler,
+with whom he formed a friendship. Lectured on the new star of 1604, and
+publicly renounced the old systems of astronomy. Invented a calculating
+compass or "Gunter's scale." In 1609 invented a telescope, after hearing
+of a Dutch optician's discovery. Invented the microscope soon after.
+Rapidly completed a better telescope and began a survey of the heavens.
+On the 8th of January, 1610, discovered Jupiter's satellites. Observed
+the mountains in the moon, and roughly measured their height. Explained
+the visibility of the new moon by _earth-shine_. Was invited to the
+Grand Ducal Court of Tuscany by Cosmo de Medici, and appointed
+philosopher to that personage. Discovered innumerable new stars, and the
+nebulae. Observed a triple appearance of Saturn. Discovered the phases
+of Venus predicted by Copernicus, and spots on the sun. Wrote on
+floating bodies. Tried to get his satellites utilized for determining
+longitude at sea.
+
+Went to Rome to defend the Copernican system, then under official
+discussion, and as a result was formally forbidden ever to teach it. On
+the accession of Pope Urban VIII. in 1623, Galileo again visited Rome to
+pay his respects, and was well received. In 1632 appeared his
+"Dialogues" on the Ptolemaic and Copernican systems. Summoned to Rome,
+practically imprisoned, and "rigorously questioned." Was made to recant
+22nd of June, 1633. Forbidden evermore to publish anything, or to teach,
+or receive friends. Retired to Arcetri in broken down health. Death of
+his favourite daughter, Sister Maria Celeste. Wrote and meditated on the
+laws of motion. Discovered the moon's libration. In 1637 he became
+blind. The rigour was then slightly relaxed and many visited him: among
+them John Milton. Died 8th of January, 1642, aged 78. As a prisoner of
+the Inquisition his right to make a will or to be buried in consecrated
+ground was disputed. Many of his manuscripts were destroyed.
+
+Galileo, besides being a singularly clear-headed thinker and
+experimental genius, was also something of a musician, a poet, and an
+artist. He was full of humour as well as of solid common-sense, and his
+literary style is brilliant. Of his scientific achievements those now
+reckoned most weighty, are the discovery of the Laws of Motion, and the
+laying of the foundations of Mechanics.
+

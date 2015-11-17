@@ -1,0 +1,576 @@
+
+The potassium and ammonium salts of this acid are nearly insoluble in
+water and alcohol. The acid is therefore used as a reagent to
+precipitate potassium in analytical work. With potassium chloride the
+equation is
+
+    2KCl + H_{2}PtCl_{6} = K_{2}PtCl_{6} + 2HCl.
+
+     ~Other metals of the family.~ The other members of the family
+     have few applications. Iridium is used in the form of a
+     platinum alloy, since the alloy is much harder than pure
+     platinum and is even less fusible. This alloy is sometimes used
+     to point gold pens. Osmium tetroxide (OsO_{4}) is a very
+     volatile liquid and is used under the name of osmic acid as a
+     stain for sections in microscopy.
+
+
+GOLD
+
+~Occurrence.~ Gold has been found in many localities, the most famous
+being South Africa, Australia, Russia, and the United States. In this
+country it is found in Alaska and in nearly half of the states of the
+union, notably in California, Colorado, and Nevada. It is usually found
+in the native condition, frequently alloyed with silver; in combination
+it is sometimes found as telluride (AuTe_{2}), and in a few other
+compounds.
+
+~Mining.~ Native gold occurs in the form of small grains or larger nuggets
+in the sands of old rivers, or imbedded in quartz veins in rocks. In the
+first case it is obtained in crude form by placer mining. The sand
+containing the gold is shaken or stirred in troughs of running waters
+called sluices. This sweeps away the sand but allows the heavier gold to
+sink to the bottom of the sluice. Sometimes the sand containing the gold
+is washed away from its natural location into the sluices by powerful
+streams of water delivered under pressure from pipes. This is called
+hydraulic mining. In vein mining the gold-bearing quartz is mined from
+the veins, stamped into fine powder in stamping mills, and the gold
+extracted by one of the processes to be described.
+
+~Extraction.~ 1. _Amalgamation process._ In the amalgamation process the
+powder containing the gold is washed over a series of copper plates
+whose surfaces have been amalgamated with mercury. The gold sticks to
+the mercury or alloys with it, and after a time the gold and mercury are
+scraped off and the mixture is distilled. The mercury distills off and
+the gold is left in the retort ready for refining.
+
+2. _Chlorination process._ When gold occurs along with metallic
+sulphides it is often extracted by chlorination. The ore is first
+roasted, and is then moistened and treated with chlorine. This dissolves
+the gold but not the metallic oxides:
+
+    Au + 3Cl = AuCl_{3}.
+
+The gold chloride, being soluble, is extracted from the mixture with
+water, and the gold is precipitated from the solution, usually by adding
+ferrous sulphate:
+
+    AuCl_{3} + 3FeSO_{4} = Au + FeCl_{3} + Fe_{2}(SO_{4})_{3}.
+
+3. _Cyanide process._ This process depends upon the fact that gold is
+soluble in a solution of potassium cyanide in the presence of the oxygen
+of the air. The powder from the stamping mills is treated with a very
+dilute potassium cyanide solution which extracts the gold:
+
+    2Au + 4KCN + H_{2}O + O = 2KOH + 2KAu(CN)_{2}.
+
+From this solution the gold can be obtained by electrolysis or by
+precipitation with metallic zinc:
+
+    2KAu(CN)_{2} + Zn = K_{2}Zn(CN)_{4} + 2Au.
+
+~Refining of gold.~ Gold is refined by three general methods:
+
+1. _Electrolysis._ When gold is dissolved in a solution of potassium
+cyanide, and the solution electrolyzed, the gold is deposited in very
+pure condition on the cathode.
+
+2. _Cupellation._ When the gold is alloyed with easily oxidizable
+metals, such as copper or lead, it may be refined by cupellation. The
+alloy is fused with an oxidizing flame on a shallow hearth made of bone
+ash, which substance has the property of absorbing metallic oxides but
+not the gold. Any silver which may be present remains alloyed with the
+gold.
+
+3. _Parting with sulphuric acid._ Gold may be separated from silver, as
+well as from many other metals, by heating the alloy with concentrated
+sulphuric acid. This dissolves the silver, while the gold is not
+attacked.
+
+~Physical properties.~ Gold is a very heavy bright yellow metal,
+exceedingly malleable and ductile, and a good conductor of electricity.
+It is quite soft and is usually alloyed with copper or silver to give it
+the hardness required for most practical uses. The degree of fineness is
+expressed in terms of carats, pure gold being twenty-four carats; the
+gold used for jewelry is usually eighteen carats, eighteen parts being
+gold and six parts copper or silver. Gold coinage is 90% gold and 10%
+copper.
+
+~Chemical properties.~ Gold is not attacked by any one of the common
+acids; aqua regia easily dissolves it, forming gold chloride (AuCl_{3}),
+which in turn combines with hydrochloric acid to form chlorauric acid
+(HAuCl_{4}). Fused alkalis also attack it. Most oxidizing agents are
+without action upon it, and in general it is not an active element.
+
+     ~Compounds.~ The compounds of gold, though numerous and varied in
+     character, are of comparatively little importance and need not
+     be described in detail. The element forms two series of salts
+     in which it acts as a metal: in the aurous series the gold is
+     univalent, the chloride having the formula AuCl; in the auric
+     series it is trivalent, auric chloride having the formula
+     AuCl_{3}. Gold also acts as an acid-forming element, forming
+     such compounds as potassium aurate (KAuO_{2}). Its compounds
+     are very easily decomposed, however, metallic gold separating
+     from them.
+
+
+EXERCISES
+
+1. From the method of preparation of platinum, what metal is likely to
+be alloyed with it?
+
+2. The "platinum chloride" of the laboratory is made by dissolving
+platinum in aqua regia. What is the compound?
+
+3. How would you expect potassium aurate and platinate to be formed?
+What precautions would this suggest in the use of platinum vessels?
+
+4. Why must gold ores be roasted in the chlorination process?
+
+
+
+
+CHAPTER XXXII
+
+SOME SIMPLE ORGANIC COMPOUNDS
+
+
+~Division of chemistry into organic and inorganic.~ Chemistry is usually
+divided into two great divisions,--organic and inorganic. The original
+significance of these terms was entirely different from the meaning
+which they have at the present time.
+
+1. _Original significance._ The division into organic and inorganic was
+originally made because it was believed that those substances which
+constitute the essential parts of living organisms were built up under
+the influence of the life force of the organism. Such substances,
+therefore, should be regarded as different from those compounds prepared
+in the laboratory or formed from the inorganic or mineral constituents
+of the earth. In accordance with this view organic chemistry included
+those substances formed by living organisms. Inorganic chemistry, on the
+other hand, included all substances formed from the mineral portions of
+the earth.
+
+In 1828 the German chemist Woehler prepared urea, a typical organic
+compound, from inorganic materials. The synthesis of other so-called
+organic compounds followed, and at present it is known that the same
+chemical laws apply to all substances whether formed in the living
+organism or prepared in the laboratory from inorganic constituents. The
+terms "organic" and "inorganic" have therefore lost their original
+significance.
+
+2. _Present significance._ The great majority of the compounds found in
+living organisms contain carbon, and the term "organic chemistry," as
+used at present, includes not only these compounds but all compounds of
+carbon. _Organic chemistry_ has become, therefore, _the chemistry of the
+compounds of carbon_, all other substances being treated under the head
+of inorganic chemistry. This separation of the compounds of carbon into
+a group by themselves is made almost necessary by their great number,
+over one hundred thousand having been recorded. For convenience some of
+the simpler carbon compounds, such as the oxides and the carbonates, are
+usually discussed in inorganic chemistry.
+
+~The grouping of compounds in classes.~ The study of organic chemistry is
+much simplified by the fact that the large number of bodies included in
+this field may be grouped in classes of similar compounds. It thus
+becomes possible to study the properties of each class as a whole, in
+much the same way as we study a group of elements. The most important of
+these classes are the _hydrocarbons_, the _alcohols_, the _aldehydes_,
+the _acids_, the _ethereal salts_, the _ethers_, the _ketones_, the
+_organic bases_, and the _carbohydrates_. A few members of each of these
+classes will now be discussed briefly.
+
+THE HYDROCARBONS
+
+Carbon and hydrogen combine to form a large number of compounds. These
+compounds are known collectively as the _hydrocarbons_. They may be
+divided into a number of groups or series, each being named from its
+first member. Some of the groups are as follows:
+
+    METHANE SERIES
+    CH_{4}      methane
+    C_{2}H_{6}  ethane
+    C_{3}H_{8}  propane
+    C_{4}H_{10} butane
+    C_{5}H_{12} pentane
+    C_{6}H_{14} hexane
+    C_{7}H_{16} heptane
+    C_{8}H_{18} octane
+
+    ETHYLENE SERIES
+    C_{2}H_{4} ethylene
+    C_{3}H_{6} propylene
+    C_{4}H_{8} butylene
+
+    BENZENE SERIES
+    C_{6}H_{6}  benzene
+    C_{7}H_{8}  toluene
+    C_{8}H_{10} xylene
+
+    ACETYLENE SERIES
+    C_{2}H_{2} acetylene
+    C_{3}H_{4} allylene
+
+Only the lower members (that is, those which contain a small number of
+carbon atoms) of the above groups are given. The methane series is the
+most extensive, all of the compounds up to C_{24}H_{50} being known.
+
+It will be noticed that the successive members of each of the above
+series differ by the group of atoms (CH_{2}). Such a series is called an
+_homologous series_. In general, it may be stated that the members of an
+homologous series show a regular gradation in most physical properties
+and are similar in chemical properties. Thus in the methane group the
+first four members are gases at ordinary temperatures; those containing
+from five to sixteen carbon atoms are liquids, the boiling points of
+which increase with the number of carbon atoms present. Those containing
+more than sixteen carbon atoms are solids.
+
+~Sources of the hydrocarbons.~ There are two chief sources of the
+hydrocarbons, namely, (1) crude petroleum and (2) coal tar.
+
+1. _Crude petroleum._ This is a liquid pumped from wells driven into the
+earth in certain localities. Pennsylvania, Ohio, Kansas, California, and
+Texas are the chief oil-producing regions in the United States. The
+crude petroleum consists largely of liquid hydrocarbons in which are
+dissolved both gaseous and solid hydrocarbons. Before being used it must
+be refined. In this process the petroleum is run into large iron stills
+and subjected to fractional distillation. The various hydrocarbons
+distill over in the general order of their boiling points. The
+distillates which collect between certain limits of temperature are kept
+separate and serve for different uses; they are further purified,
+generally by washing with sulphuric acid, then with an alkali, and
+finally with water. Among the products obtained from crude petroleum in
+this way are the naphthas, including benzine and gasoline, kerosene or
+coal oil, lubricating oils, vaseline, and paraffin. None of these
+products are definite chemical compounds, but each consists of a mixture
+of hydrocarbons, the boiling points of which lie within certain limits.
+
+2. _Coal tar._ This product is obtained in the manufacture of coal gas,
+as already explained. It is a complex mixture and is refined by the same
+general method used in refining crude petroleum. The principal
+hydrocarbons obtained from the coal tar are benzene, toluene,
+naphthalene, and anthracene. In addition to the hydrocarbons, coal tar
+contains many other compounds, such as carbolic acid and aniline.
+
+~Properties of the hydrocarbons.~ The lower members of the first two
+series of hydrocarbons mentioned are all gases; the succeeding members
+are liquids. In some series, as the methane series, the higher members
+are solids. The preparation and properties of methane and acetylene have
+been discussed in a previous chapter. Ethylene is present in small
+quantities in coal gas and may be obtained in the laboratory by
+treating alcohol (C_{2}H_{6}O) with sulphuric acid:
+
+    C_{2}H_{6}O = C_{2}H_{4} + H_{2}O.
+
+Benzene, the first member of the benzene series, is a liquid boiling at
+80 deg..
+
+The hydrocarbons serve as the materials from which a large number of
+compounds can be prepared; indeed, it has been proposed to call organic
+chemistry _the chemistry of the hydrocarbon derivatives_.
+
+~Substitution products of the hydrocarbons.~ As a rule, at least a part of
+the hydrogen in any hydrocarbon can be displaced by an equivalent amount
+of certain elements or groups of elements. Thus the compounds CH_{3}Cl,
+CH_{2}Cl_{2}, CHCl_{3}, CCl_{4} can be obtained from methane by
+treatment with chlorine. Such compounds are called _substitution
+products_.
+
+~Chloroform~ (CHCl_{3}). This can be made by treating methane with
+chlorine, as just indicated, although a much easier method consists in
+treating alcohol or acetone (which see) with bleaching powder.
+Chloroform is a heavy liquid having a pleasant odor and a sweetish
+taste. It is largely used as a solvent and as an anaesthetic in surgery.
+
+~Iodoform~ (CHI_{3}). This is a yellow crystalline solid obtained by
+treating alcohol with iodine and an alkali. It has a characteristic odor
+and is used as an antiseptic.
+
+
+ALCOHOLS
+
+When such a compound as CH_{3}Cl is treated with silver hydroxide the
+reaction expressed by the following equation takes place:
+
+    CH_{3}Cl + AgOH = CH_{3}OH + AgCl.
+
+Similarly C_{2}H_{5}Cl will give C_{2}H_{5}OH and AgCl. The compounds
+CH_{3}OH and C_{2}H_{5}OH so obtained belong to the class of substances
+known as _alcohols_. From their formulas it will be seen that they may
+be regarded as derived from hydrocarbons by substituting the hydroxyl
+group (OH) for hydrogen. Thus the alcohol CH_{3}OH may be regarded as
+derived from methane (CH_{4}) by substituting the group OH for one atom
+of hydrogen. A great many alcohols are known, and, like the
+hydrocarbons, they may be grouped into series. The relation between the
+first three members of the methane series and the corresponding alcohols
+is shown in the following table:
+
+    CH_{4}     (methane)       CH_{3}OH       (methyl alcohol).
+    C_{2}H_{6} (ethane)        C_{2}H_{5}OH   (ethyl alcohol).
+    C_{3}H_{8} (propane)       C_{3}H_{7}OH   (propyl alcohol).
+
+~Methyl alcohol~ (_wood alcohol_) (CH_{3}OH). When wood is placed in an
+air-tight retort and heated, a number of compounds are evolved, the most
+important of which are the three liquids, methyl alcohol, acetic acid,
+and acetone. Methyl alcohol is obtained entirely from this source, and
+on this account is commonly called _wood alcohol_. It is a colorless
+liquid which has a density of 0.79 and boils at 67 deg.. It burns with an
+almost colorless flame and is sometimes used for heating purposes, in
+place of the more expensive ethyl alcohol. It is a good solvent for
+organic substances and is used especially as a solvent in the
+manufacture of varnishes. It is very poisonous.
+
+~Ethyl alcohol~ (_common alcohol_) (C_{2}H_{5}OH). 1. _Preparation._ This
+compound may be prepared from glucose (C_{6}H_{12}O_{6}), a sugar easily
+obtained from starch. If some baker's yeast is added to a solution of
+glucose and the temperature is maintained at about 30 deg., bubbles of gas
+are soon evolved, showing that a change is taking place. The yeast
+contains a large number of minute organized bodies, which are really
+forms of plant life. The plant grows in the glucose solution, and in so
+doing secretes a substance known as _zymase_, which breaks down the
+glucose in accordance with the following equation:
+
+    C_{6}H_{12}O_{6} = 2C_{2}H_{5}OH + 2CO_{2}.
+
+     ~Laboratory preparation of alcohol.~ The formation of alcohol and
+     carbon dioxide from glucose may be shown as follows: About 100
+     g. of glucose are dissolved in a liter of water in flask A
+     (Fig. 90). This flask is connected with the bottle B, which
+     is partially filled with limewater. The tube C contains solid
+     sodium hydroxide. A little baker's yeast is now added to the
+     solution in flask A, and the apparatus is connected, as shown
+     in the figure. If the temperature is maintained at about 30 deg.,
+     the reaction soon begins. The bubbles of gas escape through the
+     limewater in B. A precipitate of calcium carbonate soon forms
+     in the limewater, showing the presence of carbon dioxide. The
+     sodium hydroxide in tube C prevents the carbon dioxide in the
+     air from acting on the limewater. The alcohol remains in the
+     flask A and may be separated by fractional distillation.
+
+[Illustration: Fig. 90]
+
+2. _Properties._ Ethyl alcohol is a colorless liquid with a pleasant
+odor. It has a density of 0.78 and boils at 78 deg.. It resembles methyl
+alcohol in its general properties. It is sometimes used as a source of
+heat, since its flame is very hot and does not deposit carbon, as the
+flame from oil does. When taken into the system in small quantities it
+causes intoxication; in larger quantities it acts as a poison. The
+intoxicating properties of such liquors as beer, wine, and whisky are
+due to the alcohol present. Beer contains from 2 to 5% of alcohol, wine
+from 5 to 20%, and whisky about 50%. The ordinary alcohol of the
+druggist contains 94% of alcohol and 6% of water. When this is boiled
+with lime and then distilled nearly all the water is removed, the
+distillate being called _absolute alcohol_.
+
+     ~Commercial preparation of alcohol.~ Alcohol is prepared
+     commercially from starch obtained from corn or potatoes. The
+     starch is first converted into a sugar known as maltose, by the
+     action of _malt_, a substance prepared by moistening barley
+     with water, allowing it to germinate, and then drying it. There
+     is present in the malt a substance known as diastase, which has
+     the property of changing starch into maltose. This sugar, like
+     glucose, breaks down into alcohol and carbon dioxide in the
+     presence of yeast. The resulting alcohol is separated by
+     fractional distillation.
+
+     ~Denatured alcohol.~ The 94% alcohol is prepared at present at a
+     cost of about 35 cents per gallon, which is about half the cost
+     of the preparation of methyl alcohol. The government, however,
+     imposes a tax on all ethyl alcohol which amounts to $2.08 per
+     gallon on the 94% product. This increases its cost to such an
+     extent that it is not economical to use it for many purposes
+     for which it is adapted, such as a solvent in the preparation
+     of paints and varnishes and as a material for the preparation
+     of many important organic compounds. By an act of Congress in
+     1906, the tax was removed from _denatured_ alcohol, that is
+     alcohol mixed with some substance which renders it unfit for
+     the purposes of a beverage but will not impair its use for
+     manufacturing purposes. Some of the European countries have
+     similar laws. The substances ordinarily used to denature
+     alcohol are wood alcohol and pyridine, the latter compound
+     having a very offensive odor.
+
+     ~Fermentation.~ The reaction which takes place in the preparation
+     of ethyl alcohol belongs to the class of changes known under
+     the general name of fermentation. Thus we say that the yeast
+     causes the glucose to ferment, and the process is known as
+     alcoholic fermentation. There are many kinds of fermentations,
+     and each is thought to be due to the presence of a definite
+     substance known as an _enzyme_, which acts by catalysis. In
+     many cases, as in alcoholic fermentation, the change is brought
+     about by the action of minute forms of life. These probably
+     secrete the enzymes which cause the fermentation to take place.
+     Thus the yeast plant is supposed to bring about alcoholic
+     fermentation by secreting the enzyme known as zymase.
+
+~Glycerin~ (C_{3}H_{5}(OH)_{3}). This compound may be regarded as derived
+from propane (C_{3}H_{8}) by displacing three atoms of hydrogen by three
+hydroxyl groups, and must therefore be regarded as an alcohol. It is
+formed in the manufacture of soaps, as will be explained later. It is an
+oily, colorless liquid having a sweetish taste. It is used in medicine
+and in the manufacture of the explosives nitroglycerin and dynamite.
+
+
+ALDEHYDES
+
+When alcohols are treated with certain oxidizing agents two hydrogen
+atoms are removed from each molecule of the alcohol. The resulting
+compounds are known as aldehydes. The relation of the aldehydes derived
+from methyl and ethyl alcohol to the alcohols themselves may be shown as
+follows:
+
+    Alcohols  {CH_{3}OH          Corresponding aldehydes  {CH_{2}O
+              {C_{2}H_{5}OH                               {C_{2}H_{4}O
+
+The first of these (CH_{2}O) is a gas known as formaldehyde. Its aqueous
+solution is largely used as an antiseptic and disinfectant under the
+name of _formalin_. Acetaldehyde (C_{2}H_{4}O) is a liquid boiling at
+21 deg..
+
+
+ACIDS
+
+Like the other classes of organic compounds, the organic acids may be
+arranged in homologous series. One of the most important of these series
+is the _fatty-acid series_, the name having been given to it because
+the derivatives of certain of its members are constituents of the fats.
+Some of the most important members of the series are given in the
+following table. They are all monobasic, and this fact is expressed in
+the formulas by separating the replaceable hydrogen atom from the rest
+of the molecule:
+
+    H.CHO_{2}            formic acid, a liquid boiling at 100 deg..
+    H.C_{2}H_{3}O        acetic acid, a liquid boiling at 118 deg..
+    H.C_{3}H_{5}O_{2}    propionic acid, a liquid boiling at 140 deg..
+    H.C_{4}H_{7}O_{2}    butyric acid, a liquid boiling at 163 deg..
+    H.C_{16}H_{31}O_{2}  palmitic acid, a solid melting at 62 deg..
+    H.C_{18}H_{35}O_{2}  stearic acid, a solid melting at 69 deg..
+
+~Formic acid~ (H.CHO_{2}). The name "formic" is derived from the Latin
+_formica_, signifying ant. This name was given to the acid because it
+was formerly obtained from a certain kind of ants. It is a colorless
+liquid and occurs in many plants such as the stinging nettles. The
+inflammation caused by the sting of the bee is due to formic acid.
+
+~Acetic acid~ (H.C_{2}H_{3}O_{2}). Acetic acid is the acid present in
+vinegar, the sour taste being due to it. It can be prepared by either of
+the following methods.
+
+1. _Acetic fermentation._ This consists in the change of alcohol into
+acetic acid through the agency of a minute organism commonly called
+mother of vinegar. The change is represented by the following equation:
+
+    C_{2}H_{5}OH + 2O = HC_{2}H_{3}O_{2} + H_{2}O.
+
+The various kinds of vinegars are all made by this process. In the
+manufacture of cider vinegar the sugar present in the cider first
+undergoes alcoholic fermentation; the resulting alcohol then undergoes
+acetic fermentation. The amount of acetic acid present in vinegars
+varies from 3 to 6%.
+
+2. _From the distillation of wood._ The liquid obtained by heating wood
+in the absence of air contains a large amount of acetic acid, and this
+can be separated readily in a pure state. This is the most economical
+method for the preparation of the concentrated acid.
+
+Acetic acid is a colorless liquid and has a strong pungent odor.
+Many of its salts are well-known compounds. Lead acetate
+(Pb(C_{2}H_{3}O_{2})_{2}) is the ordinary _sugar of lead_. Sodium
+acetate (NaC_{2}H_{3}O_{2}) is a white solid largely used in making
+chemical analyses. Copper acetate (Cu(C_{2}H_{3}O_{2})_{2}) is a blue
+solid. When copper is acted upon by acetic acid in the presence of air a
+green basic acetate of copper is formed. This is commonly known as
+verdigris. All acetates are soluble in water.
+
+~Butyric acid~ (H.C_{4}H_{7}O_{2}). Derivatives of butyric acid are
+present in butter and impart to it its characteristic flavor.
+
+~Palmitic and stearic acids.~ Ordinary fats consist principally of
+derivatives of palmitic and stearic acids. When the fats are heated with
+sodium hydroxide the sodium salts of these acids are formed. If
+hydrochloric acid is added to a solution of the sodium salts, the free
+palmitic and stearic acids are precipitated. They are white solids,
+insoluble in water. Stearic acid is often used in making candles.
+
+~Acids belonging to other series.~ In addition to members of the
+fatty-acid series, mention may be made of the following well-known
+acids.
+
+~Oxalic acid~ (H_{2}C_{2}O_{4}). This is a white solid which occurs in
+nature in many plants, such as the sorrels. Its ammonium salt
+((NH_{4})_{2}C_{2}O_{4}) is used as a reagent for the detection of
+calcium. When added to a solution of a calcium compound the white,
+insoluble calcium oxalate (CaC_{2}O_{4}) precipitates.
+
+~Tartaric acid~ (H_{2}.C_{4}H_{4}O_{6}). This compound occurs either in a
+free state or in the form of its salts in many fruits. The potassium
+acid salt (KHC_{4}H_{4}O_{6}) occurs in the juice of grapes. When the
+juice ferments in the manufacture of wine, this salt, being insoluble in
+alcohol, separates out on the sides of the cask and in this form is
+known as argol. This is more or less colored by the coloring matter of
+the grape. When purified it forms a white solid and is sold under the
+name of cream of tartar. The following are also well-known salts of
+tartaric acid: potassium sodium tartrate (Rochelle salt)
+(KNaC_{4}H_{4}O_{6}), potassium antimonyl tartrate (tartar emetic)
+(KSbOC_{4}H_{4}O_{6}).
+
+     ~Cream of tartar baking powders.~ The so-called cream of tartar
+     baking powders consist of a mixture of cream of tartar,
+     bicarbonate of soda, and some starch or flour. When water is
+     added to this mixture the cream of tartar slowly acts upon the
+     soda present liberating carbon dioxide in accordance with the
+     following equation:
+
+     KHC_{4}H_{4}O_{6} + NaHCO_{3} = KNaC_{4}H_{4}O_{6} + H_{2}O +
+     CO_{2}.
+
+     The carbon dioxide evolved escapes through the dough, thus
+     making it light and porous.
+
+~Citric acid~ (H_{3}.C_{6}H_{5}O_{7}). This acid occurs in many fruits,
+especially in lemons. It is a white solid, soluble in water, and is
+often used as a substitute for lemons in making lemonade.
+
+~Lactic acid~ (H.C_{3}H_{5}O_{3}). This is a liquid which is formed in the
+souring of milk.
+
+~Oleic acid~ (H.C_{18}H_{33}O_{2}). The derivatives of this acid
+constitute the principal part of many oils and liquid fats. The acid
+itself is an oily liquid.
+
+
+ETHEREAL SALTS
+
+When acids are brought in contact with alcohols under certain conditions
+a reaction takes place similar to that which takes place between acids
+and bases. The following equations will serve as illustrations:
+
+    KOH + HNO_{3} = KNO_{3} + H_{2}O,
+
+    CH_{3}OH + HNO_{3} = CH_{3}NO_{3} + H_{2}O.
+
+The resulting compounds of which methyl nitrate (CH_{3}NO_{3}) may be
+taken as the type belong to the class known as _ethereal salts_, the
+name having been given them because some of them possess pleasant
+ethereal odors. It will be seen that the ethereal salts differ from
+ordinary salts in that they contain a hydrocarbon radical, such as
+CH_{3}, C_{2}H_{5}, C_{3}H_{5}, in place of a metal.
+
+~The nitrates of glycerin~ (_nitroglycerin_). Nitric acid reacts with
+glycerin in the same way that it reacts with a base containing three
+hydroxyl groups such as Fe(OH)_{3}:
+
+    Fe(OH)_{3} + 3HNO_{3} = Fe(NO_{3})_{3} + 3H_{2}O,
+
+    C_{3}H_{5}(OH)_{3} + 3HNO_{3} = C_{3}H_{5}(NO_{3})_{3} + 3H_{2}O.
+
+The resulting nitrate (C_{3}H_{5}(NO_{3})_{3}) is the main constituent
+of _nitroglycerin_, a slightly yellowish oil characterized by its
+explosive properties. Dynamite consists of porous earth which has
+absorbed nitroglycerin, and its strength depends on the amount present.
+It is used much more largely than nitroglycerin itself, since it does
+not explode so readily by concussion and hence can be transported with
+safety.
+
+~The fats.~ These are largely mixtures of the ethereal salts known
+respectively as olein, palmitin, and stearin. These salts may be

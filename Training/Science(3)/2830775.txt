@@ -1,0 +1,451 @@
+        14            2                                 .8674
+        13            3                                 .8815
+        12            4                                 .8947
+        11            5                                 .9075
+        10            6                                 .9199
+         9            7                                 .9317
+         8            8                                 .9427
+         7            9                                 .9519
+         6           10                                 .9594
+         5           11                                 .9674
+         4           12                                 .9733
+         3           13                                 .9791
+         2           14                                 .9852
+         1           15                                 .9919
+
+Sulphuric ether                                         .7394
+Nitric ether                                            .9088
+Muriatic ether                                          .7298
+Acetic ether                                            .8664
+Sulphuric acid                                         1.8409
+Nitric ditto                                           1.2715
+Muriatic ditto                                         1.1940
+Red acetous ditto                                      1.0251
+White acetous ditto                                    1.0135
+Distilled ditto ditto                                  1.0095
+Acetic ditto                                           1.0626
+Formic ditto                                            .9942
+Solution of caustic ammoniac, or volatil alkali fluor   .8970
+Essential or volatile oil of turpentine                 .8697
+Liquid turpentine                                       .9910
+Volatile oil of lavender                                .8938
+Volatile oil of cloves                                 1.0363
+Volatile oil of cinnamon                               1.0439
+Oil of olives                                           .9153
+Oil of sweet almonds                                    .9170
+Lintseed oil                                            .9403
+Oil of poppy seed                                       .9288
+Oil of beech mast                                       .9176
+Whale oil                                               .9233
+Womans milk                                            1.0203
+Mares milk                                             1.0346
+Ass milk                                               1.0355
+Goats milk                                             1.0341
+Ewe milk                                               1.0409
+Cows milk                                              1.0324
+Cow whey                                               1.0193
+Human urine                                            1.0106
+
+
+Sec. 6. _Resins and Gums_
+
+Common yellow or white rosin                     1.0727
+Arcanson                                         1.0857
+Galipot(A)                                       1.0819
+Baras(A)                                         1.0441
+Sandarac                                         1.0920
+Mastic                                           1.0742
+Storax                                           1.1098
+Opake copal                                      1.1398
+Transparent ditto                                1.0452
+Madagascar ditto                                 1.0600
+Chinese ditto                                    1.0628
+Elemi                                            1.0182
+Oriental anime                                   1.0284
+Occidental ditto                                 1.0426
+Labdanum                                         1.1862
+Ditto _in tortis_                           2.4933
+Resin of guaiac                                  1.2289
+Ditto of jallap                                  1.2185
+Dragons blood                                    1.2045
+Gum lac                                          1.1390
+Tacamahaca                                       1.0463
+Benzoin                                          1.0924
+Alouchi(B)                                       1.0604
+Caragna(C)                                       1.1244
+Elastic gum                                       .9335
+Camphor                                           .9887
+Gum ammoniac                                     1.2071
+Sagapenum                                        1.2008
+Ivy gum(D)                                       1.2948
+Gamboge                                          1.2216
+Euphorbium                                       1.1244
+Olibanum                                         1.1732
+Myrrh                                            1.3600
+Bdellium                                         1.3717
+Aleppo Scamony                                   1.2354
+Smyrna ditto                                     1.2743
+Galbanum                                         1.2120
+Assafoetida                                      1.3275
+Sarcocolla                                       1.2684
+Opoponax                                         1.6226
+Cherry tree gum                                  1.4817
+Gum Arabic                                       1.4523
+Tragacanth                                       1.3161
+Basora gum                                       1.4346
+Acajou gum(E)                                    1.4456
+Monbain gum(F)                                   1.4206
+Inspissated juice of liquorice                   1.7228
+---- Acacia                                      1.5153
+---- Areca                                       1.4573
+Terra Japonica                                   1.3980
+Hepatic aloes                                    1.3586
+Socotrine aloes                                  1.3795
+Inspissated juice of St John's wort              1.5263
+Opium                                            1.3366
+Indigo                                            .7690
+Arnotto                                           .5956
+Yellow wax                                        .9648
+White ditto                                       .9686
+Ouarouchi ditto(G)                                .8970
+Cacao butter                                      .8916
+Spermaceti                                        .9433
+Beef fat                                          .9232
+Veal fat                                          .9342
+Mutton fat                                        .9235
+Tallow                                            .9419
+Hoggs fat                                         .9368
+Lard                                              .9478
+Butter                                            .9423
+
+[Note A: Resinous juices extracted in France from the Pine. _Vide
+Bomare's Dict._]
+
+[Note B: Odoriferous gum from the tree which produces the Cortex
+Winteranus. _Bomare._]
+
+[Note C: Resin of the tree called in Mexico Caragna, or Tree of Madness.
+_Ibid._]
+
+[Note D: Extracted in Persia and the warm countries from Hedera
+terrestris.--_Bomare._]
+
+[Note E: From a Brasilian tree of this name.--_Ibid._]
+
+[Note F: From a tree of this name.--_Ibid._]
+
+[Note G: The produce of the Tallow Tree of Guayana. _Vide Bomare's
+Dict._]
+
+
+Sec. 7. _Woods._
+
+Heart of oak 60 years old   1.1700
+Cork                         .2400
+Elm trunk                    .6710
+Ash ditto                    .8450
+Beech                        .8520
+Alder                        .8000
+Maple                        .7550
+Walnut                       .6710
+Willow                       .5850
+Linden                       .6040
+Male fir                     .5500
+Female ditto                 .4980
+Poplar                       .3830
+White Spanish ditto          .5294
+Apple tree                   .7930
+Pear tree                    .6610
+Quince tree                  .7050
+Medlar                       .9440
+Plumb tree                   .7850
+Olive wood                   .9270
+Cherry tree                  .7150
+Filbert tree                 .6000
+French box                   .9120
+Dutch ditto                 1.3280
+Dutch yew                    .7880
+Spanish ditto                .8070
+Spanish cypress              .6440
+American cedar               .5608
+Pomgranate tree              1.3540
+Spanish mulberry tree        .8970
+Lignum vitae                1.3330
+Orange tree                  .7050
+
+_Note_--The numbers in the above Table, if the Decimal point be carried
+three figures farther to the right hand, nearly express the absolute
+weight of an English cube foot of each substance in averdupois ounces.
+See No. VIII. of the Appendix.--E.
+
+
+No. VIII. ADDITIONAL.
+
+RULES _for Calculating the Absolute Gravity in English Troy Weight of a
+Cubic Foot and Inch, English Measure, of any Substance whose Specific
+Gravity is known[64]._
+
+In 1696, Mr Everard, balance-maker to the Exchequer, weighed before the
+Commissioners of the House of Commons 2145.6 cubical inches, by the
+Exchequer standard foot, of distilled water, at the temperature of 55 deg.
+of Fahrenheit, and found it to weigh 1131 oz. 14 dts. Troy, of the
+Exchequer standard. The beam turned with 6 grs. when loaded with 30
+pounds in each scale. Hence, supposing the pound averdupois to weigh
+7000 grs. Troy, a cubic foot of water weighs 62-1/2 pounds averdupois,
+or 1000 ounces averdupois, wanting 106 grains Troy. And hence, if the
+specific gravity of water be called 1000, the proportional specific
+gravities of all other bodies will nearly express the number of
+averdupois ounces in a cubic foot. Or more accurately, supposing the
+specific gravity of water expressed by 1. and of all other bodies in
+proportional numbers, as the cubic foot of water weighs, at the above
+temperature, exactly 437489.4 grains Troy, and the cubic inch of water
+253.175 grains, the absolute weight of a cubical foot or inch of any
+body in Troy grains may be found by multiplying their specific gravity
+by either of the above numbers respectively.
+
+By Everard's experiment, and the proportions of the English and French
+foot, as established by the Royal Society and French Academy of
+Sciences, the following numbers are ascertained.
+
+Paris grains in a Paris cube foot of water            = 645511
+
+English grains in a Paris cube foot of water          = 529922
+
+Paris grains in an English cube foot of water         = 533247
+
+English grains in an English cube foot of water       = 437489.4
+
+English grains in an English cube inch of water       = 253.175
+
+By an experiment of Picard with the measure and
+  weight of the Chatelet, the Paris cube foot of
+  water contains of Paris grains                      = 641326
+
+By one of Du Hamel, made with great care              = 641376
+
+By Homberg                                            = 641666
+
+These show some uncertainty in measures or in weights; but the above
+computation from Everard's experiment may be relied on, because the
+comparison of the foot of England with that of France was made by the
+joint labours of the Royal Society of London and the French Academy of
+Sciences: It agrees likewise very nearly with the weight assigned by Mr
+Lavoisier, 70 Paris pounds to the cubical foot of water.
+
+
+No. IX.
+
+TABLES _for Converting Ounces, Drams, and Grains, Troy, into Decimals of
+the Troy Pound of 12 Ounces, and for Converting Decimals of the Pound
+Troy into Ounces, &c._
+
+
+I. _For Grains._
+
+Grains = Pound.
+
+   1  .0001736
+   2  .0003472
+   3  .0005208
+   4  .0006944
+   5  .0008681
+   6  .0010417
+   7  .0012153
+   8  .0013889
+   9  .0015625
+  10  .0017361
+
+  20  .0034722
+  30  .0052083
+  40  .0069444
+  50  .0086806
+  60  .0104167
+  70  .0121528
+  80  .0138889
+  90  .0156250
+
+ 100  .0173611
+ 200  .0374222
+ 300  .0520833
+ 400  .0694444
+ 500  .0868055
+ 600  .1041666
+ 700  .1215277
+ 800  .1388888
+ 900  .1562499
+1000  .1736110
+
+2000  .3472220
+3000  .5208330
+4000  .6944440
+5000  .8680550
+6000 1.0418660
+7000 1.2152770
+8000 1.3888880
+9000 1.5624990
+
+
+II. _For Drams._
+
+Drams = Pound.
+
+1   .0104167
+2   .0208333
+3   .0312500
+4   .0416667
+5   .0520833
+6   .0625000
+7   .0729167
+8   .0833333
+
+
+III. _For Ounces._
+
+Ounces = Pounds.
+
+ 1    .0833333
+ 2    .1666667
+ 3    .2500000
+ 4    .3333333
+ 5    .4166667
+ 6    .5000000
+ 7    .5833333
+ 8    .6666667
+ 9    .7500000
+10    .8333333
+11    .9166667
+12   1.0000000
+
+
+IV. _Decimals of the Pound into Ounces, &c._
+
+_Tenth parts._
+
+lib. =  oz. dr. gr.
+
+0.1     1   1   36
+0.2     2   3   12
+0.3     3   4   48
+0.4     4   6   24
+0.5     6   0    0
+0.6     7   1   36
+0.7     8   3   12
+0.8     9   4   48
+0.9    10   6   24
+
+_Hundredth parts._
+
+0.01    0   0   57.6
+0.02    0   1   55.2
+0.03    0   2   52.8
+0.04    0   3   50.4
+0.05    0   4   48.0
+0.06    0   5   45.6
+0.07    0   6   43.2
+0.08    0   7   40.8
+0.09    0   3   38.4
+
+_Thousandths._
+
+0.001   0   0    5.76
+0.002   0   0   11.52
+0.003   0   0   17.28
+0.004   0   0   23.04
+0.005   0   0   28.80
+
+lib. =          grs.
+
+0.006           34.56
+0.007           40.32
+0.008           46.08
+0.009           51.84
+
+_Ten thousandth parts._
+
+0.0001           0.576
+0.0002           1.152
+0.0003           1.728
+0.0004           2.304
+0.0005           2.880
+0.0006           3.456
+0.0007           4.032
+0.0008           4.608
+0.0009           5.184
+
+_Hundred thousandth parts._
+
+0.00001          0.052
+0.00002          0.115
+0.00003          0.173
+0.00004          0.230
+0.00005          0.288
+0.00006          0.346
+0.00007          0.403
+0.00008          0.461
+0.00009          0.518
+
+
+No. X.
+
+TABLE _of the English Cubical Inches and Decimals corresponding to a
+determinate Troy Weight of Distilled Water at the Temperature of 55 deg.,
+calculated from Everard's experiment._
+
+_For Grains._
+
+Grs.  Cubical inches.
+
+ 1 = .0039
+ 2   .0078
+ 3   .0118
+ 4   .0157
+ 5   .0197
+ 6   .0236
+ 7   .0275
+ 8   .0315
+ 9   .0354
+10   .0394
+20   .0788
+30   .1182
+40   .1577
+50   .1971
+
+_For Drams._
+
+Drams. Cubical inches.
+
+1 =     .2365
+2       .4731
+3       .7094
+4       .9463
+5      1.1829
+6      1.4195
+7      1.6561
+
+_For Ounces._
+
+Oz.  Cubical inches.
+
+ 1 =      1.8927
+ 2        3.7855
+ 3        5.6782
+ 4        7.5710
+ 5        9.4631
+ 6       11.3565
+ 7       13.2493
+ 8       15.1420
+ 9       17.0748
+10       18.9276
+11       20.8204
+
+_For Pounds._
+
+Libs.  Cubical inches.
+
+   1 =  22.7131
+   2    45.4263
+   3    68.1394
+   4    90.8525
+   5   113.5657
+   6   136.2788
+   7   158.9919

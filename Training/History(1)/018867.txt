@@ -1,0 +1,444 @@
+Project Gutenberg's The Poems and Fragments of Catullus, by Catullus
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Poems and Fragments of Catullus
+
+Author: Catullus
+
+Translator: Robinson Ellis
+
+Release Date: July 19, 2006 [EBook #18867]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK CATULLUS ***
+
+
+
+
+Produced by Melissa Er-Raqabi, Ted Garvin, Taavi Kalju and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+
+THE
+POEMS AND FRAGMENTS
+OF
+CATULLUS,
+
+TRANSLATED IN THE METRES OF THE ORIGINAL
+
+
+BY
+
+ROBINSON ELLIS,
+
+FELLOW OF TRINITY COLLEGE, OXFORD,
+PROFESSOR OF LATIN IN UNIVERSITY COLLEGE, LONDON.
+
+
+LONDON:
+JOHN MURRAY, ALBEMARLE STREET.
+1871.
+
+
+LONDON:
+BRADBURY, EVANS, AND CO., PRINTERS, WHITEFRIARS.
+
+
+
+
+TO ALFRED TENNYSON.
+
+
+
+
+[Transcriber's note: The preface uses macrons and breves above some
+letters to indicate stresses. I have rendered the letters with breve
+inside parenthesis (like th(i)s) and the letters with macron inside
+square brackets (like th[i]s).]
+
+
+
+
+PREFACE.
+
+
+The idea of translating Catullus in the original metres adopted by the
+poet himself was suggested to me many years ago by the admirable,
+though, in England, insufficiently known, version of Theodor Heyse
+(Berlin, 1855). My first attempts were modelled upon him, and were so
+unsuccessful that I dropt the idea for some time altogether. In 1868,
+the year following the publication of my larger critical edition[A] of
+Catullus, I again took up the experiment, and translated into English
+glyconics the first Hymenaeal, _Collis o Heliconici_. Tennyson's Alcaics
+and Hendecasyllables had appeared in the interval, and had suggested to
+me the new principle on which I was to go to work. It was not sufficient
+to reproduce the ancient metres, unless the ancient quantity was
+reproduced also. Almost all the modern writers of classical metre had
+contented themselves with making an accented syllable long, an
+unaccented short; the most familiar specimens of hexameter,
+Longfellow's _Evangeline_ and Clough's _Bothie of Tober-na-Vuolich_ and
+_Amours de Voyage_ were written on this principle, and, as a rule,
+stopped there. They almost invariably disregarded position, perhaps the
+most important element of quantity. In the first line of _Evangeline_--
+
+    _This is the forest primeval, the murmuring pines and the hemlocks,_
+
+there are no less than five violations of position, to say nothing of
+the shortening of a syllable so distinctly long as the _i_ in
+_primeval_. Mr. Swinburne, in his Sapphics and Hendecasyllables, while
+writing on a manifestly artistic conception of those metres, and, in my
+judgment, proving their possibility for modern purposes by the superior
+rhythmical effect which a classically trained ear enabled him to make in
+handling them, neglects position as a rule, though his nice sense of
+metre leads him at times to observe it, and uniformly rejects any
+approach to the harsh combinations indulged in by other writers. The
+nearest approach to quantitative hexameters with which I am acquainted
+in modern English writers is the _Andromeda_ of Mr. Kingsley, a poem
+which has produced little effect, but is interesting as a step to what
+may fairly be called a new development of the metre. For the experiments
+of the Elizabethan writers, Sir Philip Sidney and others, by that
+strange perversity which so often dominates literature, were as
+decidedly unsuccessful from an accentual, as the modern experiments from
+a quantitative point of view. Sir Philip Sidney has given in his
+_Arcadia_ specimens of hexameters, elegiacs, sapphics, asclepiads,
+anacreontics, hendecasyllables. The following elegiacs will serve as a
+sample.
+
+    _Unto a caitif wretch, whom long affliction holdeth,
+      And now fully believ's help to bee quite perished;
+    Grant yet, grant yet a look, to the last moment of his anguish,
+      O you (alas so I finde) caus of his onely ruine:
+    Dread not awhit (O goodly cruel) that pitie may enter
+      Into thy heart by the sight of this Epistle I send:
+    And so refuse to behold of these strange wounds the recitall,
+      Lest it might m' allure home to thyself to return._
+
+In these the classical laws of position are most carefully observed;
+every dactyl ending in a consonant is followed by a word beginning with
+a vowel or _h_--_affl[i]ct(i)(o)n holdeth_, _mom[e]nt (o)f h(i)s
+anguish_, _ca[u]se (o)f h(i)s onely_; _affliction wasteth_, _moment of
+his dolour_, _cause of his dreary_, would have been as impossible to Sir
+Philip Sidney as _mo[e]r(o)r t(e)nebat_, _mom[e]nt(a) p(e)r curae_,
+_ca[u]s(a) v(e)l sola_ in a Latin writer of hexameters. Similarly where
+the dactyl is incided after the second syllable, the third syllable
+beginning a new word, the utmost care is taken that that word shall
+begin not only with a syllable essentially short, but, when the second
+syllable ends in a consonant, with a vowel: _[o]f th(i)s (e)pistle_,
+but not _[o]f th(i)s d(i)saster_, still less _[o]f th(i)s d(i)rection._
+The other element of quantity is less rigidly defined; for (1) syllables
+strictly long, as _I_, _thy_, _so_, are allowed to be short; (2)
+syllables made long by the accent falling upon them are in some cases
+shortened, as _r(u)[i]ne_, _p(e)r(i)sh[e]d_, _cr(u)[e]l_; (3) syllables
+which the absence of the accent only allows to be long _in thesi_, are,
+in virtue of the classical laws of position, permitted to rank as long
+elsewhere--_mom[e]nt of his_, _[o]f this epistle_. It needs little
+reflection to see that it is to one or other of these three
+peculiarities that the failure of the Elizabethan writers of classical
+metres must be ascribed. Pentameters like
+
+    _Gratefulness, sweetness, holy love, hearty regard,
+    That the delights of life shall be to him dolorous,
+    And even in that love shall I reserve him a spite;_
+
+sapphics like
+
+    _Are then humane mindes privileg'd so meanly
+    As that hateful death can abridg them of power
+    With the vow of truth to record to all worlds
+                    That we bee her spoils?_
+
+hexameters like
+
+    _F[i]re n(o) l(i)quor can cool: Nept[u]ne's re[a]lm would not avail us.
+    Nurs inw[a]rd m(a)l(a)di[e]s, which have not scope to bee breath'd out.
+    Oh n(o) n(o), worthie sheph[e]rd, worth c[a]n never enter a title;_
+
+are too alien from ordinary pronunciation to please either an average
+reader or a classically trained student. The same may be said of the
+translation into English hexameters of the two first Eclogues of Virgil,
+appended by William Webbe to his _Discourse of English Poetrie_ (1586,
+recently reprinted by Mr. Arber). Here is his version of Ecl. I., 1-10.
+
+              MELIBAEUS.
+
+    _Tityrus, happilie then lyste tumbling under a beech tree,
+    All in a fine oate pipe these sweete songs lustilie chaunting:
+    We, poore soules goe to wracke, and from these coastes be remoued,
+    And fro our pastures sweete: thou Tityr, at ease in a shade plott
+    Makst thicke groues to resound with songes of brave Amarillis._
+
+              TITYRUS.
+
+    _O Melibaeus, he was no man, but a God who releeude me:
+    Euer he shalbe my God: from this same Sheepcot his alters
+    Neuer, a tender lambe shall want, with blood to bedew them.
+    This good gift did he giue, to my steeres thus freelie to wander,
+    And to my selfe (thou seest) on pipe to resound what I listed._
+
+      _ib._ 50-56.
+
+    _Here no unwoonted foode shall grieue young theaues who be laded,
+    Nor the infections foule of neighbours flocke shall annoie them.
+    Happie olde man. In shaddowy bankes and coole prettie places,
+    Heere by the quainted floodes and springs most holie remaining.
+    Here, these quicksets fresh which lands seuer out fro thy neighbors
+    And greene willow rowes which Hiblae bees doo rejoice in,
+    Oft fine whistring noise, shall bring sweete sleepe to thy sences._
+
+The following stanzas are from a Sapphic ode into which Webbe
+translated, or as we should say, transposed the fourth Eclogue of
+Spenser's _Sheepheardes Calendar_.
+
+    _Say, behold did ye euer her Angelike face,
+    Like to Phoebe fayre? or her heauenly hauour
+    And the princelike grace that in her remaineth?
+                        haue yee the like seene?_
+
+    _Vnto that place Caliope dooth high her,
+    Where my Goddesse shines: to the same the Muser
+    After her with sweete Violines about them
+                        cheerefully tracing._
+
+    _All ye Sheepheardes maides that about the greene dwell,
+    Speede ye there to her grace, but among ye take heede
+    All be Virgins pure that aproche to deck her,
+                        dutie requireth._
+
+    _When ye shall present ye before her in place,
+    See ye not your selues doo demeane too rudely:
+    Bynd the fillets: and to be fine the waste gyrt
+                        fast with a tawdryne._
+
+    _Bring the Pinckes therewith many Gelliflowres sweete,
+    And the Cullambynes: let vs haue the Wynesops,
+    With the Coronation that among the loue laddes
+                        wontes to be worne much._
+
+    _Daffadowndillies all a long the ground strowe,
+    And the Cowslyppe with a prety paunce let heere lye.
+    Kyngcuppe and Lillies so beloude of all men
+                        and the deluce flowre._
+
+There are many faults in these verses; over quaintnesses of language,
+constructions impossible in English, quantities of doubtful
+correctness, harsh elisions, for Webbe has tried even elisions. Yet, if
+I may trust my judgment, all of them can still be read with pleasure;
+the sapphics may almost be called a success. This is even more true of
+metres, where these faults are less perceptible or more easily avoided,
+for instance, Asclepiads. Take the verses on solitariness, Arcadia, B.
+II. fin.
+
+    _O sweet woods, the delight [o]f s(o)l(i)t[a]riness!
+    O how much I do like your solitariness!
+    Where man's mind hath a freed consideration
+    Of goodness to receive lovely direction._
+
+or the hendecasyllables immediately preceding,
+
+    _Reason tell me thy minde, if here be reason,
+    In this strange violence, to make resistance,
+    Where sweet graces erect the stately banner._
+
+It is obvious that a very little more trouble would have converted these
+into very perfect and very pleasing poems. Had Sir Philip Sidney written
+every asclepiad on the model of _Where man's mind hath a freed
+consideration_, every hendecasyllable like _Where sweet graces erect the
+stately banner_, the adjustment of accent and quantity thus attained
+might, I think, have induced greater poets than he to make the
+experiment on a larger scale. But neither he nor his contemporaries
+were permitted to grasp as a principle a regularity which they sometimes
+secured by chance; nor, so far as I am aware, have the various revivals
+of ancient metre in this country or Germany in any case consistently
+carried out the _whole_ theory, without which the reproduction is
+partial, and cannot look for a more than partial success. Even the four
+specimens given in the posthumous edition of Clough's poems, two of them
+elegiac, one alcaic, one in hexameters, though professedly constructed
+on a quantitative basis, and, in one instance (_Trunks the forest
+yielded, with gums ambrosial oozing, &c._) combining legitimate quantity
+(in which accent and position are alike observed) with illegitimate (in
+which position is observed, but accent disregarded) into a not
+unpleasing rhythm, cannot be considered as more than imperfect
+realizations of the true positional principle. Tennyson's three
+specimens are, at least in English, still unique. It is to be hoped that
+he will not suffer them to remain so. Systems of Glyconics and
+Asclepiads are, if I mistake not, easily manageable, and are only
+thought foreign to the genius of our language because they have never
+been written on strict principles of art by a really great master.
+
+What, then, are the rules on which such rhythms become possible? They
+are, briefly, these:--(1) accented syllables, _as a general rule_, are
+long, though some syllables which count as long need not be accented,
+as in
+
+    _All that on earth's leas blooms, what blossoms Thessaly nursing,_
+
+_blossoms_, though only accented on the first syllable, counts for a
+spondee, the shortness of the second _o_ being partly helped out by the
+two consonants which follow it; partly by the fact that the syllable is
+_in thesi_; (2) the laws of position are to be observed, according to
+the general rules of classical prosody: (_a_) dactyls terminating in a
+consonant like _beautiful_, _bounteous_, or ending in a double vowel or
+a diphthong like _all of you, surely may, come to thee_, must be
+followed by a word beginning with a vowel or _y_ or _h_; dactyls
+terminating in a vowel or _y_, like _slippery_, should be followed,
+except in rare cases, by words beginning with a consonant; trochees,
+whether composed of one word or more, should, if ending in a consonant,
+be followed by a vowel, if ending in the vowel _a_, by a consonant,
+thus, _planted around_ not _planted beneath_, _Aurora the sun's_ not
+_Aurora a sun's_ (see however, lxiv. 253), but _unto a wood, any again,
+sorry at all, you be amused_. (_b_) Syllables made up of a vowel
+followed by two or more consonants, each of which is distinctly heard in
+pronunciation, as _long_, _sins_, _part_, _band_, _waits_, _souls_,
+_ears_, _must_, _heart_, _bright_, _strength_, _end_, _and_, _rapt_,
+_hers_, _dealt_, mo_ment_, bo_soms_, _answers_, moun_tains_, bear_est_,
+tum_bling_, gi_ving_, com_ing_, harbour_ing_, diffi_cult_, immi_nent_,
+strata_gems_, utter_ance_, happi_est_, trem_bling_ly, can never rank as
+short, even if unaccented and followed by a vowel, _h_ or _y_. Thus, to
+go back to Longfellow's line,
+
+    _This is the forest primeval, the murmuring pines and the hemlocks,_
+
+_for(e)st_, _murmur(i)ng_, _pines (a)nd the_, are all inadmissible. But
+where a vowel is followed by two consonants, one of which is unheard or
+only heard slightly, as in _acc_use, sh_all_, _ass_emble, _diss_emble,
+kind_ness_, com_pass_, _aff_ect, _app_ear, _ann_oy, or when the second
+or third consonant is a liquid, as in _betray_, _beslime_, _besmear_,
+_depress_, _dethrone_, _agree_, the vowel preceding is so much more
+short than long as to be regularly admissible as short, rarely
+admissible as long. On this principle I have allowed _dis[o]rd(e)rl(y)_,
+_t[e]n(a)ntl(e)ss_, _heav(e)nl(y)_, to rank as dactyls.
+
+These rules are after all only an outline, and perhaps can never be made
+more. It will be observed that they are more negative than positive. The
+reason of this is not far to seek. The main difference between my verses
+and those of other contemporary writers--the one point on which I claim
+for myself the merit of novelty--is the strict observance throughout of
+the rules of position. But the strict observance of position is in
+effect the strict avoidance of unclassical collocations of syllables: it
+is almost wholly negative. To illustrate my meaning I will instance the
+poems written in pure iambics, the _Phaselus ille_ and _Quis hoc potest
+uidere_. Heyse translates the first line of the former of these poems by
+
+    _Die Galeotte, die ihr schauet, liebe Herrn,_
+
+and this would be a fair representation of a pure iambic line, according
+to the views of most German and most English writers. Yet not only is
+_Die_ no short syllable, but _ihr_, itself long, is made more hopelessly
+long by preceding three consonants in _schauet_, just as the last
+syllable of _schauet_, although in itself short, loses its right to
+stand for a true short in being followed by the first consonant of
+_liebe_. My own translation,
+
+    _The puny pinnace yonder you, my friends, discern,_
+
+whatever its defects, is at least a pretty exact representation of a
+pure iambic line. xxix. 6-8, are thus translated by Heyse:--
+
+    _Und jener soll in Uebermuthes Ueberfluss
+    Von einem Bett zum andern in die Runde gehn?_
+
+by me thus,
+
+    _Shall he in o'er-assumption, o'er-repletion he,
+    Sedately saunter every dainty couch along?_
+
+The difference is purely negative; I have bound myself to avoid certain
+positions forbidden by the laws of ancient prosody. To some I may seem
+to have lost in vigour by the process; yet I believe the sense of
+triumph over the difficulties of our language, the satisfaction of
+approaching in a novel and perceptibly felt manner one of those
+excellences which, as much as anything, contributes to the permanent
+charm of Catullus, his dainty versification, will more than compensate
+for any shortcomings which the difficulty of the task has made
+inevitable. The same may be said of the elaborately artificial poem to
+Camerius (c. lv.), and the almost unapproachable Attis (c. lxiii.).
+Here, at least half the interest lies in the varied turns of the metre;
+if these can be represented with anything like faithfulness, the gain in
+exactness of prosody is enough, in my judgment, to counterbalance the
+possible loss of freedom in expression.
+
+There is another circumstance which tends to make modern rules of
+prosody necessarily negative. Quantity, in English revivals of ancient
+metre, depends not only on position, but on accent. But accent varies
+greatly in different words; _heavy level ever cometh any_, have the same
+accent as _empty evil either boometh penny_; but the first syllable in
+the former set of words is lighter than in the latter. Hence, though
+accented, they may, on occasion, be considered and used as short; as, on
+the same principle, _dolorous stratagem echoeth family_, usually
+dactyls, may, on occasion, become tribrachs. But how lay down any
+positive rule in matter necessarily so fluctuating? We cannot. All we
+can do is to refuse admission as short syllables to any heavier accented
+syllable. Here, then, much must be left to individual discretion. My
+translation of the Attis will best show my own feeling in the matter.
+But I am fully aware that in this respect I have fallen far short of
+consistency. I have made _any_ sometimes short, more often long; _to_,
+usually short, is lengthened in lxi. 26, lxvii. 19, lxviii. 143; _with_
+is similarly long, though not followed by a consonant, in lxi. 36;
+_given_ is long in xxviii. 7, short in xi. 17, lxiv. 213; _are_ is short
+in lxvii. 14; and more generally many syllables allowed to pass for
+short in the Attis are elsewhere long. Nor have I scrupled to forsake
+the ancient quantity in proper names; following Heyse, I have made the
+first syllable of _Verona_ short in xxxv. 3, lxvii. 34, although it
+retains its proper quantity in lxviii. 27. Again, _Pheneos_ is a dactyl
+in lxviii. 111, while _Satrachus_ is an anapaest in xcv. 5. In many of
+these instances I have acted consciously; if the writers of Greece and
+Rome allowed many syllables to be doubtful, and almost as a principle
+avoid perfect uniformity in the quantity of proper names, a greater
+freedom may not unfairly be claimed by their modern imitators. If
+Catullus could write _Phars(a)liam coeunt, Phars(a)lia regna
+frequentant_, similar license may surely be extended to me. I believe,
+indeed, that nothing in my translation is as violent as the double
+quantity just mentioned in Catullus; but if there is, I would remind my
+readers of Goethe's answer to the boy who told him he had been guilty of
+a hexameter with seven feet, and applying the remark to any seeming
+irregularities in my own translation would say, _Lass die Bestie
+stehen_.
+
+It would not be difficult to swell this Preface by enlarging on the
+novelty of the attempt, and indirectly panegyrising my own undertaking.
+I doubt whether any real advantage would thus be gained. If I have
+merely produced an elaborate failure, however much I might expatiate on
+the principles which guided me, my work would be an elaborate failure
+still. I shall therefore say no more, and shall be contented if I please
+the, even in this classically trained country, too limited number of
+readers who can really hear with their ears--if, to use the borrowed
+language of a great poet, I succeed in making myself vocal to the
+intelligent alone.
+
+[Footnote A: The translation follows this edition (Oxford, 1867), in the
+constitution of the text, as well as in the sectional division of the
+poems.]
+
+
+
+
+CATULLUS.
+
+
+I.
+
+    Who shall take thee, the new, the dainty volume,
+      Purfled glossily, fresh with ashy pumice?
+
+    You, Cornelius; you of old did hold them
+      Something worthy, the petty witty nothings,
+
+    While you venture, alone of all Italians,                          5
+      Time's vast chronicle in three books to circle,

@@ -1,0 +1,333 @@
+[Illustration: _Fig. 19._ GALVANIC ELECTRICITY. CROWN OF CUPS]
+
+THE CELL AND BATTERY.--From the foregoing it will be seen that within
+each cup the current flows from the zinc to the copper plates, and
+exteriorly from the copper to the zinc plates through the conductors (B
+and E).
+
+A few years afterwards Volta devised what is known as the voltaic pile
+(Fig. 20).
+
+VOLTAIC PILE--HOW MADE.--This is made of alternate discs of copper and
+zinc with a piece of cardboard of corresponding size between each zinc
+and copper plate. The cardboard discs are moistened with acidulated
+water. The bottom disc of copper has a strip which connects with a cup
+of acid, and one wire terminal (A) runs therefrom. The upper disc, which
+is of zinc, is also connected, by a strip, with a cup of acid from which
+extends the other terminal wire (B).
+
+[Illustration: _Fig. 20._ VOLTAIC ELECTRICITY]
+
+_Plus and Minus Signs._--It will be noted that the positive or copper
+disc has the plus sign (+) while the zinc disc has the minus (-) sign.
+These signs denote the positive and the negative sides of the current.
+
+The liquid in the cells, or in the moistened paper, is called the
+_electrolyte_ and the plates or discs are called _electrodes_. To define
+them more clearly, the positive plate is the _anode_, and the negative
+plate the _cathode_.
+
+The current, upon entering the zinc plate, decomposes the water in the
+electrolyte, thereby forming oxygen. The hydrogen in the water, which
+has also been formed by the decomposition, is carried to the copper
+plate, so that the plate finally is so coated with hydrogen that it is
+difficult for the current to pass through. This condition is called
+"polarization," and to prevent it has been the aim of all inventors. To
+it also we may attribute the great variety of primary batteries, each
+having some distinctive claim of merit.
+
+THE COMMON PRIMARY CELL.--The most common form of primary cell contains
+sulphuric acid, or a sulphuric acid solution, as the electrolyte, with
+zinc for the _anode_, and carbon, instead of copper, for the _cathode_.
+
+The ends of the zinc and copper plates are called _terminals_, and while
+the zinc is the anode or positive element, its _terminal_ is designated
+as the positive pole. In like manner, the carbon is the negative
+element or cathode, and its terminal is designated as negative pole.
+
+Fig. 21 will show the relative arrangement of the parts. It is customary
+to term that end or element from which the current flows as positive. A
+cell is regarded as a whole, and as the current passes out of the cell
+from the copper element, the copper terminal becomes positive.
+
+[Illustration: _Fig. 21._ PRIMARY BATTERY]
+
+BATTERY RESISTANCE, ELECTROLYTE AND CURRENT.--The following should be
+carefully memorized:
+
+A cell has reference to a single vessel. When two or more cells are
+coupled together they form a _battery_.
+
+_Resistance_ is opposition to the movement of the current. If it is
+offered by the electrolyte, it is designated "Internal Resistance." If,
+on the other hand, the opposition takes place, for instance, through the
+wire, it is then called "External Resistance."
+
+The electrolyte must be either acid, or alkaline, or saline, and the
+electrodes must be of dissimilar metals, so the electrolyte will attack
+one of them.
+
+The current is measured in amperes, and the force with which it is
+caused to flow is measured in volts. In practice the word "current" is
+used to designate ampere flow; and electromotive force, or E. M. F., is
+used instead of voltage.
+
+ELECTRO-MAGNETIC ELECTRICITY.--The third method of generating
+electricity is by electro-magnets. The value and use of induction will
+now be seen, and you will be enabled to utilize the lesson concerning
+magnetic action referred to in the previous chapter.
+
+MAGNETIC RADIATION.--You will remember that every piece of metal which
+is within the path of an electric current has a space all about its
+surface from end to end which is electrified. This electrified field
+extends out a certain distance from the metal, and is supposed to
+maintain a movement around it. If, now, another piece of metal is
+brought within range of this electric or magnetic zone and moved across
+it, so as to cut through this field, a current will be generated
+thereby, or rather added to the current already exerted, so that if we
+start with a feeble current, it can be increased by rapidly "cutting the
+lines of force," as it is called.
+
+DIFFERENT KINDS OF DYNAMO.--While there are many kinds of dynamo, they
+all, without exception, are constructed in accordance with this
+principle. There are also many varieties of current. For instance, a
+dynamo may be made to produce a high voltage and a low amperage; another
+with high amperage and low voltage; another which gives a direct current
+for lighting, heating, power, and electroplating; still another which
+generates an alternating current for high tension power, or
+transmission, arc-lighting, etc., all of which will be explained
+hereafter.
+
+In this place, however, a full description of a direct-current dynamo
+will explain the principle involved in all dynamos--that to generate a
+current of electricity makes it necessary for us to move a field of
+force, like an armature, rapidly and continuously through another field
+of force, like a magnetic field.
+
+DIRECT-CURRENT DYNAMO.--We shall now make the simplest form of dynamo,
+using for this purpose a pair of permanent magnets.
+
+[Illustration: _Fig. 22._ DYNAMO FIELD AND POLE PIECE]
+
+SIMPLE MAGNET CONSTRUCTION.--A simple way to make a pair of magnets for
+this purpose is shown in Fig. 22. A piece of round 3/4-inch steel core
+(A), 5-1/2 inches long, is threaded at both ends to receive at one end a
+nut (B), which is screwed on a sufficient distance so that the end of
+the core (A) projects a half inch beyond the nut. The other end of the
+steel core has a pole piece of iron (C) 2" x 2" x 4", with a hole
+midway between the ends, threaded entirely through, and provided along
+one side with a concave channel, within which the armature is to turn.
+Now, before the pole piece (C) is put on, we will slip on a disc (E),
+made of hard rubber, then a thin rubber tube (F), and finally a rubber
+disc (G), so as to provide a positive insulation for the wire coil which
+is wound on the bobbin thus made.
+
+HOW TO WIND.--In practice, and as you go further along in this work, you
+will learn the value, first, of winding one layer of insulated wire on
+the spool, coating it with shellac, and then putting on the next layer,
+and so on; when completely wound, the two wire terminals may be brought
+out at one end; but for our present purpose, and to render the
+explanation clearer, the wire terminals are at the opposite ends of the
+spool (H, H').
+
+THE DYNAMO FIELDS.--Two of these spools are so made and they are called
+the _fields_ of the dynamo.
+
+We will next prepare an iron bar (I), 5 inches long and 1/2 inch thick
+and 1-1/2 inches wide, then bore two holes through it so the distance
+measures 3 inches from center to center. These holes are to be threaded
+for the 3/4-inch cores (A). This bar holds together the upper ends of
+the cores, as shown in Fig. 23.
+
+[Illustration: _Fig. 23._ BASE AND FIELDS ASSEMBLED]
+
+We then prepare a base (J) of any hard wood, 2 inches thick, 8 inches
+long and 8 inches wide, and bore two 3/4-inch holes 3 inches apart on a
+middle line, to receive a pair of 3/4-inch cap screws (K), which pass
+upwardly through the holes in the base and screw into the pole pieces
+(C). A wooden bar (L), 1-1/2" x 1-1/2", 8 inches long, is placed under
+each pole piece, which is also provided with holes for the cap screws
+(K). The lower side of the base (J) should be countersunk, as at M, so
+the head of the nut will not project. The fields of the dynamo are now
+secured in position to the base.
+
+[Illustration: _Fig. 24._ DETAILS OF THE ARMATURE, CORE
+
+_Fig. 25._ DETAILS OF THE ARMATURE, BODY]
+
+THE ARMATURE.--A bar of iron (Fig. 24), 1" x 1" and 2-1/4 inches long,
+is next provided. Through this bar (1) are then bored two 5/16-inch
+holes 1-3/4 inches apart, and on the opposite sides of this bar are two
+half-rounded plates of iron (3) (Fig. 25).
+
+ARMATURE WINDING.--Each plate is 1/2 inch thick, 1-3/4 inches wide and 4
+inches long, each plate having holes (4) to coincide with the holes (2)
+of the bar (1), so that when the two plates are applied to opposite
+sides of the bar, and riveted together, a cylindrical member is formed,
+with two channels running longitudinally, and transversely at the ends;
+and in these channels the insulated wires are wound from end to end
+around the central block (1).
+
+MOUNTING THE ARMATURE.--It is now necessary to provide a means for
+revolving this armature. To this end a brass disc (5, Fig. 26) is made,
+2 inches in diameter, 1/8 inch thick. Centrally, at one side, is a
+projecting stem (6) of round brass, which projects out 2 inches, and the
+outer end is turned down, as at 7, to form a small bearing surface.
+
+[Illustration: _Fig. 26._ JOURNALS _Fig. 27._ COMMUTATOR,
+ARMATURE MOUNTINGS]
+
+The other end of the armature has a similar disc (8), with a central
+stem (9), 1-1/2 inches long, turned down to 1/4-inch diameter up to
+within 1/4 inch of the disc (7), so as to form a shoulder.
+
+THE COMMUTATOR.--In Fig. 27 is shown, at 10, a wooden cylinder, 1 inch
+long and 1-1/4 inches in diameter, with a hole (11) bored through
+axially, so that it will fit tightly on the stem (6) of the disc (5). On
+this wooden cylinder is driven a brass or copper tube (12), which has
+holes (13) opposite each other. Screws are used to hold the tube to the
+wooden cylinder, and after they are properly secured together, the tube
+(12) is cut by a saw, as at 14, so as to form two independent tubular
+surfaces.
+
+[Illustration: _Fig. 28._ END VIEW ARMATURE, MOUNTED]
+
+These tubular sections are called the commutator plates.
+
+[Illustration: _Fig. 29._ TOP VIEW OF ARMATURE ON BASE]
+
+In order to mount this armature, two bearings are provided, each
+comprising a bar of brass (15, Fig. 28), each 1/4 inch thick, 1/2 inch
+wide and 4-1/2 inches long. Two holes, 3 inches apart, are formed
+through this bar, to receive round-headed wood screws (16), these screws
+being 3 inches long, so they will pass through the wooden pieces (I)
+and enter the base (J). Midway between the ends, each bar (15) has an
+iron bearing block (17), 3/4" x 1/2" and 1-1/2 inches high, the 1/4-inch
+hole for the journal (7) being midway between its ends.
+
+COMMUTATOR BRUSHES.--Fig. 28 shows the base, armature and commutator
+assembled in position, and to these parts have been added the commutator
+brushes. The brush holder (18) is a horizontal bar made of hard rubber
+loosely mounted upon the journal pin (7), which is 2-1/2 inches long. At
+each end is a right-angled metal arm (19) secured to the bar (18) by
+screws (20). To these arms the brushes (21) are attached, so that their
+spring ends engage with the commutator (12). An adjusting screw (22) in
+the bearing post (17), with the head thereof bearing against the
+brush-holder (18), serves as a means for revolubly adjusting the brushes
+with relation to the commutator.
+
+DYNAMO WINDINGS.--There are several ways to wind the dynamos. These
+can be shown better by the following diagrams (Figs. 30, 31, 32, 33):
+
+THE FIELD.--If the field (A, Fig. 30) is not a permanent magnet, it must
+be excited by a cell or battery, and the wires (B, B') are connected up
+with a battery, while the wires (C, C') may be connected up to run a
+motor. This would, therefore, be what is called a "separately excited"
+dynamo. In this case the battery excites the field and the armature
+(D), cutting the lines of force at the pole pieces (E), so that the
+armature gathers the current for the wires (C, C').
+
+[Illustration: _Fig. 30._ FIELD WINDING]
+
+[Illustration: _Fig. 31._ SERIES-WOUND]
+
+SERIES-WOUND FIELD.--Fig. 31 shows a "series-wound" dynamo. The wires of
+the fields (A) are connected up in series with the brushes of the
+armature (D), and the wires (G, G') are led out and connected up with a
+lamp, motor or other mechanism. In this case, as well as in Figs. 32 and
+33, both the field and the armature are made of soft gray iron. With
+this winding and means of connecting the wires, the field is constantly
+excited by the current passing through the wires.
+
+SHUNT-WOUND FIELD.--Fig. 32 represents what is known as a "shunt-wound"
+dynamo. Here the field wires (H, H) connect with the opposite brushes
+of the armature, and the wires (I, I') are also connected with the
+brushes, these two wires being provided to perform the work required.
+This is a more useful form of winding for electroplating purposes.
+
+[Illustration: _Fig. 32._ SHUNT-WOUND _Fig. 32._ COMPOUND-WOUND]
+
+COMPOUND-WOUND FIELD.--Fig. 33 is a diagram of a "compound-wound"
+dynamo. The regular field winding (J) has its opposite ends connected
+directly with the armature brushes. There is also a winding, of a
+comparatively few turns, of a thicker wire, one terminal (K) of which is
+connected with one of the brushes and the other terminal (K') forms one
+side of the lighting circuit. A wire (L) connects with the other
+armature brush to form a complete lighting circuit.
+
+
+
+
+CHAPTER V
+
+HOW TO DETECT AND MEASURE ELECTRICITY
+
+
+MEASURING INSTRUMENTS.--The production of an electric current would not
+be of much value unless we had some way by which we might detect and
+measure it. The pound weight, the foot rule and the quart measure are
+very simple devices, but without them very little business could be
+done. There must be a standard of measurement in electricity as well as
+in dealing with iron or vegetables or fabrics.
+
+As electricity cannot be seen by the human eye, some mechanism must be
+made which will reveal its movements.
+
+THE DETECTOR.--It has been shown in the preceding chapter that a current
+of electricity passing through a wire will cause a current to pass
+through a parallel wire, if the two wires are placed close together, but
+not actually in contact with each other. An instrument which reveals
+this condition is called a _galvanometer_. It not only detects the
+presence of a current, but it shows the direction of its flow. We shall
+now see how this is done.
+
+For example, the wire (A, Fig. 35) is connected up in an electric
+circuit with a permanent magnet (B) suspended by a fine wire (C), so
+that the magnet (B) may freely revolve.
+
+[Illustration: _Fig. 34._     _Fig. 35._      _Fig. 36._
+             TO THE RIGHT,  COMPASS MAGNET,  TO THE LEFT]
+
+For convenience, the magnetic field is shown flowing in the direction of
+the darts, in which the dart (D) represents the current within the
+magnet (B) flowing toward the north pole, and the darts (E) showing the
+exterior current flowing toward the south pole. Now, if the wire (A) is
+brought up close to the magnet (B), and a current passed through A, the
+magnet (B) will be affected. Fig. 35 shows the normal condition of the
+magnetized bar (B) parallel with the wire (A) when a current is not
+passing through the latter.
+
+DIRECTION OF CURRENT.--If the current should go through the wire (A)
+from right to left, as shown in Fig. 34, the magnet (B) would swing in
+the direction taken by the hands of a clock and assume the position
+shown in Fig. 34. If, on the other hand, the current in the wire (A)
+should be reversed or flow from left to right, the magnet (B) would
+swing counter-clock-wise, and assume the position shown in Fig. 36. The
+little pointer (G) would, in either case, point in the direction of the
+flow of the current through the wire (A).
+
+[Illustration: _Fig. 37._ INDICATING DIRECTION OF CURRENT]
+
+SIMPLE CURRENT DETECTOR.--A simple current detector may be made as
+follows:
+
+Prepare a base 3' x 4' in size and 1 inch thick. At each corner of one
+end fix a binding post, as at A, A', Fig. 37. Then select 20 feet of No.
+28 cotton-insulated wire, and make a coil (B) 2 inches in diameter,
+leaving the ends free, so they may be affixed to the binding posts (A,
+A'). Now glue or nail six blocks (C) to the base, each block being 1" x
+1" x 2", and lay the coil on these blocks. Then drive an L-shaped nail
+(D) down into each block, on the inside of the coil, as shown, so as to
+hold the latter in place.
+
+[Illustration: _Fig. 38._ THE BRIDGE]
+
+Now make a bridge (E, Fig. 38) of a strip of brass 1/2 inch wide, 1/16
+inch thick and long enough to span the coil, and bend the ends down, as
+at F, so as to form legs. A screw hole (G) is formed in each foot, so it
+may be screwed to the base.
+
+Midway between the ends this bridge has a transverse slot (H) in one
+edge, to receive therein the pivot pin of the swinging magnet. In order
+to hold the pivot pin in place, cut out an H-shaped piece of sheet brass
+(I), which, when laid on the bridge, has its ends bent around the

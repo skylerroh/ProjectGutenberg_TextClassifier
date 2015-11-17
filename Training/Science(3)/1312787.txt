@@ -1,0 +1,427 @@
+normal solution of a silver salt. The number of coulombs required to
+deposit 107.94 grams is 107.94/0.001118 or 96,550 and the same number
+of coulombs will also cause the separation of 1.008 grams of hydrogen,
+8 grams of oxygen or 31.78 grams of copper. While it might at first
+appear that Faraday's law could thus be used as a basis for the
+calculation of the time required for the deposition of a given
+quantity of an electrolyte from solution, it must be remembered that
+the law expresses what occurs when the concentration of the ions in
+the solution is kept constant, as, for example, when the anode in
+a silver salt solution is a plate of metallic silver. Under the
+conditions of electro-analysis the concentration of the ions is
+constantly diminishing as deposition proceeds and the time actually
+required for complete deposition of a given weight of material by
+a current of constant strength is, therefore, greater than that
+calculated on the basis of the law as stated above.
+
+The electrodes employed in electro-analysis are almost exclusively
+of platinum, since that metal alone satisfactorily resists chemical
+action of the electrolytes, and can be dried and weighed without
+change in composition. The platinum electrodes may be used in the
+form of dishes, foil or gauze. The last, on account of the ease of
+circulation of the electrolyte, its relatively large surface in
+proportion to its weight and the readiness with which it can be washed
+and dried, is generally preferred.
+
+Many devices have been described by the use of which the electrode
+upon which deposition occurs can be mechanically rotated. This has an
+effect parallel to that of greatly increasing the electrode surface
+and also provides a most efficient means of stirring the solution.
+With such an apparatus the amperage may be increased to 5 or even 10
+amperes and depositions completed with great rapidity and accuracy. It
+is desirable, whenever practicable, to provide a rotating or stirring
+device, since, for example, the time consumed in the deposition of the
+amount of copper usually found in analysis may be reduced from the
+20 to 24 hours required with stationary electrodes, and unstirred
+solutions, to about one half hour.
+
+
+
+
+DETERMINATION OF COPPER AND LEAD
+
+
+PROCEDURE.--Weigh out two portions of about 0.5 gram each (Note 1)
+into tall, slender lipless beakers of about 100 cc. capacity. Dissolve
+the metal in a solution of 5 cc. of dilute nitric acid (sp. gr. 1.20)
+and 5 cc. of water, heating gently, and keeping the beaker covered.
+When the sample has all dissolved (Note 2), wash down the sides of the
+beaker and the bottom of the watch-glass with water and dilute the
+solution to about 50 cc. Carefully heat to boiling and boil for a
+minute or two to expel nitrous fumes.
+
+Meanwhile, four platinum electrodes, two anodes and two cathodes,
+should be cleaned by dipping in dilute nitric acid, washing with water
+and finally with 95 per cent alcohol (Note 3). The alcohol may be
+ignited and burned off. The electrodes are then cooled in a desiccator
+and weighed. Connect the electrodes with the binding posts (or other
+device for connection with the electric circuit) in such a way that
+the copper will be deposited upon the electrode with the larger
+surface, which is made the cathode. The beaker containing the solution
+should then be raised into place from below the electrodes until the
+latter reach nearly to the bottom of the beaker. The support for the
+beaker must be so arranged that it can be easily raised or lowered.
+
+If the electrolytic apparatus is provided with a mechanism for the
+rotation of the electrode or stirring of the electrolyte, proceed as
+follows: Arrange the resistance in the circuit to provide a direct
+current of about one ampere. Pass this current through the solution
+to be electrolyzed, and start the rotating mechanism. Keep the beaker
+covered as completely as possible, using a split watch-glass (or other
+device) to avoid loss by spattering. When the solution is colorless,
+which is usually the case after about 35 minutes, rinse off the cover
+glass, wash down the sides of the beaker, add about 0.30 gram of urea
+and continue the electrolysis for another five minutes (Notes 4 and
+5).
+
+If stationary electrodes are employed, the current strength should be
+about 0.1 ampere, which may, after 12 to 15 hours, be increased to 0.2
+ampere. The time required for complete deposition is usually from 20
+to 24 hours. It is advisable to add 5 cc. of nitric acid (sp. gr. 1.2)
+if the electrolysis extends over this length of time. No urea is added
+in this case.
+
+When the deposition of the copper appears to be complete, stop the
+rotating mechanism and slowly lower the beaker with the left hand,
+directing at the same time a stream of water from a wash bottle on
+both electrodes. Remove the beaker, shut off the current, and, if
+necessary, complete the washing of the electrodes (Note 6). Rinse the
+electrodes cautiously with alcohol and heat them in a hot closet until
+the alcohol has just evaporated, but no longer, since the copper is
+likely to oxidize at the higher temperature. (The alcohol may be
+removed by ignition if care is taken to keep the electrodes in motion
+in the air so that the copper deposit is not too strongly heated at
+any one point.)
+
+Test the solution in the beaker for copper as follows, remembering
+that it is to be used for subsequent determinations of iron and zinc:
+Remove about 5 cc. and add a slight excess of ammonia. Compare the
+mixture with some distilled water, holding both above a white surface.
+The solution should not show any tinge of blue. If the presence of
+copper is indicated, add the test portion to the main solution,
+evaporate the whole to a volume of about 100 cc., and again
+electrolyze with clean electrodes (Note 7).
+
+After cooling the electrodes in a desiccator, weigh them and from the
+weight of copper on the cathode and of lead dioxide (PbO_{2}) on the
+anode, calculate the percentage of copper (Cu) and of lead (Pb) in the
+brass.
+
+[Note 1: It is obvious that the brass taken for analysis should be
+untarnished, which can be easily assured, when wire is used, by
+scouring with emery. If chips or borings are used, they should be well
+mixed, and the sample for analysis taken from different parts of the
+mixture.]
+
+[Note 2: If a white residue remains upon treatment of the alloy with
+nitric acid, it indicates the presence of tin. The material is not,
+therefore, a true brass. This may be treated as follows: Evaporate the
+solution to dryness, moisten the residue with 5 cc. of dilute nitric
+acid (sp. gr. 1.2) and add 50 cc. of hot water. Filter off the
+meta-stannic acid, wash, ignite in porcelain and weigh as SnO_{2}.
+This oxide is never wholly free from copper and must be purified for
+an exact determination. If it does not exceed 2 per cent of the alloy,
+the quantity of copper which it contains may usually be neglected.]
+
+[Note 3: The electrodes should be freed from all greasy matter before
+using, and those portions upon which the metal will deposit should not
+be touched with the fingers after cleaning.]
+
+[Note 4: Of the ions in solution, the H^{+}, Cu^{++}, Zn^{++}, and
+Fe^{+++} ions tend to move toward the cathode. The NO_{3}^{-} ions and
+the lead, probably in the form of PbO_{2}^{--} ions, move toward the
+anode. At the cathode the Cu^{++} ions are discharged and plate out as
+metallic copper. This alone occurs while the solution is relatively
+concentrated. Later on, H^{+} ions are also discharged. In the
+presence of considerable quantities of H^{+} ions, as in this acid
+solution, no Zn^{++} or Fe^{+++} ions are discharged because of their
+greater deposition potentials. At the anode the lead is deposited as
+PbO_{2} and oxygen is evolved.
+
+For the reasons stated on page 141 care must be taken that the
+solution does not become alkaline if the electrolysis is long
+continued.]
+
+[Note 5: Urea reacts with nitrous acid, which may be formed in the
+solution as a result of the reducing action of the liberated hydrogen.
+Its removal promotes the complete precipitation of the copper. The
+reaction is
+
+CO(NH_{2})_{2} + 2HNO_{2} --> CO_{2} + 2N_{2} + 3H_{2}O.]
+
+[Note 6: The electrodes must be washed nearly or quite free from
+the nitric acid solution before the circuit is broken to prevent
+re-solution of the copper.
+
+If several solutions are connected in the same circuit it is obvious
+that some device must be used to close the circuit as soon as the
+beaker is removed.]
+
+[Note 7: The electrodes upon which the copper has been deposited
+may be cleaned by immersion in warm nitric acid. To remove the lead
+dioxide, add a few crystals of oxalic acid to the nitric acid.]
+
+
+
+
+DETERMINATION OF IRON
+
+
+Most brasses contain small percentages of iron (usually not over 0.1
+per cent) which, unless removed, is precipitated as phosphate and
+weighed with the zinc.
+
+PROCEDURE.--To the solution from the precipitation of copper and
+lead by electrolysis, add dilute ammonia (sp. gr. 0.96) until the
+precipitate of zinc hydroxide which first forms re-dissolves, leaving
+only a slight red precipitate of ferric hydroxide. Filter off the
+iron precipitate, using a washed filter, and wash five times with hot
+water. Test a portion of the last washing with a dilute solution of
+ammonium sulphide to assure complete removal of the zinc.
+
+The precipitate may then be ignited and weighed as ferric oxide, as
+described on page 110.
+
+Calculate the percentage of iron (Fe) in the brass.
+
+
+
+
+DETERMINATION OF ZINC
+
+
+PROCEDURE.--Acidify the filtrate from the iron determination with
+dilute nitric acid. Concentrate it to 150 cc. Add to the cold solution
+dilute ammonia (sp. gr. 0.96) cautiously until it barely smells of
+ammonia; then add !one drop! of a dilute solution of litmus (Note 1),
+and drop in, with the aid of a dropper, dilute nitric acid until the
+blue of the litmus just changes to red. It is important that this
+point should not be overstepped. Heat the solution nearly to boiling
+and pour into it slowly a filtered solution of di-ammonium hydrogen
+phosphate[1] containing a weight of the phosphate about equal
+to twelve times that of the zinc to be precipitated. (For this
+calculation the approximate percentage of zinc is that found by
+subtracting the sum of the percentages of the copper, lead and iron
+from 100 per cent.) Keep the solution just below boiling for fifteen
+minutes, stirring frequently (Note 2). If at the end of this time the
+amorphous precipitate has become crystalline, allow the solution to
+cool for about four hours, although a longer time does no harm (Note
+3), and filter upon an asbestos filter in a porcelain Gooch crucible.
+The filter is prepared as described on page 103, and should be dried
+to constant weight at 105 deg.C.
+
+[Footnote 1: The ammonium phosphate which is commonly obtainable
+contains some mono-ammonium salt, and this is not satisfactory as a
+precipitant. It is advisable, therefore, to weigh out the amount of
+the salt required, dissolve it in a small volume of water, add a drop
+of phenolphthalein solution, and finally add dilute ammonium hydroxide
+solution cautiously until the solution just becomes pink, but do not
+add an excess.]
+
+Wash the precipitate until free from sulphates with a warm 1 per cent
+solution of the di-ammonium phosphate, and then five times with 50 per
+cent alcohol (Note 4). Dry the crucible and precipitate for an hour at
+105 deg.C., and finally to constant weight (Note 5). The filtrate should
+be made alkaline with ammonia and tested for zinc with a few drops of
+ammonium sulphide, allowing it to stand (Notes 6, 7 and 8).
+
+From the weight of the zinc ammonium phosphate (ZnNH_{4}PO_{4})
+calculate the percentage of the zinc (Zn) in the brass.
+
+[Note 1: The zinc ammonium phosphate is soluble both in acids and in
+ammonia. It is, therefore, necessary to precipitate the zinc in a
+nearly neutral solution, which is more accurately obtained by adding
+a drop of a litmus solution to the liquid than by the use of litmus
+paper.]
+
+[Note 2: The precipitate which first forms is amorphous, and may have
+a variable composition. On standing it becomes crystalline and then
+has the composition ZnNH_{4}PO_{4}. The precipitate then settles
+rapidly and is apt to occasion "bumping" if the solution is heated to
+boiling. Stirring promotes the crystallization.]
+
+[Note 3: In a carefully neutralized solution containing a considerable
+excess of the precipitant, and also ammonium salts, the separation
+of the zinc is complete after standing four hours. The ionic changes
+connected with the precipitation of the zinc as zinc ammonium
+phosphate are similar to those described for magnesium ammonium
+phosphate, except that the zinc precipitate is soluble in an excess of
+ammonium hydroxide, probably as a result of the formation of complex
+ions of the general character Zn(NH_{3})_{4}^{++}.]
+
+[Note 4: The precipitate is washed first with a dilute solution of the
+phosphate to prevent a slight decomposition of the precipitate (as a
+result of hydrolysis) if hot water alone is used. The alcohol is added
+to the final wash-water to promote the subsequent drying.]
+
+[Note 5: The precipitate may be ignited and weighed as
+Zn_{2}P_{2}O_{7}, by cautiously heating the porcelain Gooch crucible
+within a nickel or iron crucible, used as a radiator. The heating
+must be very slow at first, as the escaping ammonia may reduce the
+precipitate if it is heated too quickly.]
+
+[Note 6: If the ammonium sulphide produced a distinct precipitate,
+this should be collected on a small filter, dissolved in a few cubic
+centimeters of dilute nitric acid, and the zinc reprecipitated as
+phosphate, filtered off, dried, and weighed, and the weight added to
+that of the main precipitate.]
+
+[Note 7: It has been found that some samples of asbestos are acted
+upon by the phosphate solution and lose weight. An error from this
+source may be avoided by determining the weight of the crucible
+and filter after weighing the precipitate. For this purpose the
+precipitate may be dissolved in dilute nitric acid, the asbestos
+washed thoroughly, and the crucible reweighed.]
+
+[Note 8. The details of this method of precipitation of zinc are fully
+discussed in an article by Dakin, !Ztschr. Anal. Chem.!, 39 (1900),
+273.]
+
+
+
+
+DETERMINATION OF SILICA IN SILICATES
+
+
+Of the natural silicates, or artificial silicates such as slags and
+some of the cements, a comparatively few can be completely decomposed
+by treatment with acids, but by far the larger number require fusion
+with an alkaline flux to effect decomposition and solution
+for analysis. The procedure given below applies to silicates
+undecomposable by acids, of which the mineral feldspar is taken as a
+typical example. Modifications of the procedure, which are applicable
+to silicates which are completely or partially decomposable by acids,
+are given in the Notes on page 155.
+
+
+PREPARATION OF THE SAMPLE
+
+Grind about 3 grams of the mineral in an agate mortar (Note 1) until
+no grittiness is to be detected, or, better, until it will entirely
+pass through a sieve made of fine silk bolting cloth. The sieve may be
+made by placing a piece of the bolting cloth over the top of a small
+beaker in which the ground mineral is placed, holding the cloth in
+place by means of a rubber band below the lip of the beaker. By
+inverting the beaker over clean paper and gently tapping it, the fine
+particles pass through the sieve, leaving the coarser particles within
+the beaker. These must be returned to the mortar and ground, and the
+process of sifting and grinding repeated until the entire sample
+passes through the sieve.
+
+[Note 1: If the sample of feldspar for analysis is in the massive or
+crystalline form, it should be crushed in an iron mortar until the
+pieces are about half the size of a pea, and then transferred to a
+steel mortar, in which they are reduced to a coarse powder. A wooden
+mallet should always be used to strike the pestle of the steel mortar,
+and the blows should not be sharp.
+
+It is plain that final grinding in an agate mortar must be continued
+until the whole of the portion of the mineral originally taken has
+been ground so that it will pass the bolting cloth, otherwise the
+sifted portion does not represent an average sample, the softer
+ingredients, if foreign matter is present, being first reduced to
+powder. For this reason it is best to start with not more than the
+quantity of the feldspar needed for analysis. The mineral must be
+thoroughly mixed after the grinding.]
+
+
+FUSION AND SOLUTION
+
+PROCEDURE.--Weigh into platinum crucibles two portions of the ground
+feldspar of about 0.8 gram each. Weigh on rough balances two portions
+of anhydrous sodium carbonate, each amounting to about six times the
+weight of the feldspar taken for analysis (Note 1). Pour about three
+fourths of the sodium carbonate into the crucible, place the latter on
+a piece of clean, glazed paper, and thoroughly mix the substance and
+the flux by carefully stirring for several minutes with a dry glass
+rod, the end of which has been recently heated and rounded in a flame
+and slowly cooled. The rod may be wiped off with a small fragment of
+filter paper, which may be placed in the crucible. Place the remaining
+fourth of the carbonate on the top of the mixture. Cover the crucible,
+heat it to dull redness for five minutes, and then gradually increase
+the heat to the full capacity of a Bunsen or Tirrill burner for
+twenty minutes, or until a quiet, liquid fusion is obtained (Note 2).
+Finally, heat the sides and cover strongly until any material which
+may have collected upon them is also brought to fusion.
+
+Allow the crucible to cool, and remove the fused mass as directed on
+page 116. Disintegrate the mass by placing it in a previously prepared
+mixture of 100 cc. of water and 50 cc. of dilute hydrochloric acid
+(sp. gr. 1.12) in a covered casserole (Note 3). Clean the crucible and
+lid by means of a little hydrochloric acid, adding this acid to the
+main solution (Notes 4 and 5).
+
+[Note 1: Quartz, and minerals containing very high percentages of
+silica, may require eight or ten parts by weight of the flux to insure
+a satisfactory decomposition.]
+
+[Note 2: During the fusion the feldspar, which, when pure, is a
+silicate of aluminium and either sodium or potassium, but usually
+contains some iron, calcium, and magnesium, is decomposed by the
+alkaline flux. The sodium of the latter combines with the silicic acid
+of the silicate, with the evolution of carbon dioxide, while about two
+thirds of the aluminium forms sodium aluminate and the remainder
+is converted into basic carbonate, or the oxide. The calcium and
+magnesium, if present, are changed to carbonates or oxides.
+
+The heat is applied gently to prevent a too violent reaction when
+fusion first takes place.]
+
+[Note 3: The solution of a silicate by a strong acid is the result of
+the combination of the H^{+} ions of the acid and the silicate ions
+of the silicate to form a slightly ionized silicic acid. As a
+consequence, the concentration of the silicate ions in the solution is
+reduced nearly to zero, and more silicate dissolves to re-establish
+the disturbed equilibrium. This process repeats itself until all of
+the silicate is brought into solution.
+
+Whether the resulting solution of the silicate contains ortho-silicic
+acid (H_{4}SiO_{4}) or whether it is a colloidal solution of some
+other less hydrated acid, such as meta-silicic acid (H_{2}SiO_{3}),
+is a matter that is still debatable. It is certain, however, that the
+gelatinous material which readily separates from such solutions is of
+the nature of a hydrogel, that is, a colloid which is insoluble in
+water. This substance when heated to 100 deg.C., or higher, is completely
+dehydrated, leaving only the anhydride, SiO_{2}. The changes may be
+represented by the equation:
+
+SiO_{3}^{--} + 2H^{+} --> [H_{2}SiO_{3}] --> H_{2}O + SiO_{2}.]
+
+[Note 4: A portion of the fused mass is usually projected upward by
+the escaping carbon dioxide during the fusion. The crucible must
+therefore be kept covered as much as possible and the lid carefully
+cleaned.]
+
+[Note 5: A gritty residue remaining after the disintegration of
+the fused mass by acid indicates that the substance has been but
+imperfectly decomposed. Such a residue should be filtered, washed,
+dried, ignited, and again fused with the alkaline flux; or, if the
+quantity of material at hand will permit, it is better to reject the
+analysis, and to use increased care in grinding the mineral and in
+mixing it with the flux.]
+
+
+DEHYDRATION AND FILTRATION
+
+PROCEDURE.--Evaporate the solution of the fusion to dryness, stirring
+frequently until the residue is a dry powder. Moisten the residue with
+5 cc. of strong hydrochloric acid (sp. gr. 1.20) and evaporate again
+to dryness. Heat the residue for at least one hour at a temperature
+of 110 deg.C. (Note 1). Again moisten the residue with concentrated
+hydrochloric acid, warm gently, making sure that the acid comes into
+contact with the whole of the residue, dilute to about 200 cc. and
+bring to boiling. Filter off the silica without much delay (Note 2),
+and wash five times with warm dilute hydrochloric acid (one part
+dilute acid (1.12 sp. gr.) to three parts of water). Allow the filter
+to drain for a few moments, then place a clean beaker below the funnel
+and wash with water until free from chlorides, discarding these
+washings. Evaporate the original filtrate to dryness, dehydrate at
+110 deg.C. for one hour (Note 3), and proceed as before, using a second
+filter to collect the silica after the second dehydration. Wash this
+filter with warm, dilute hydrochloric acid (Note 4), and finally with
+hot water until free from chlorides.
+
+[Note 1: The silicic acid must be freed from its combination with
+a base (sodium, in this instance) before it can be dehydrated.
+The excess of hydrochloric acid accomplishes this liberation. By
+disintegrating the fused mass with a considerable volume of dilute

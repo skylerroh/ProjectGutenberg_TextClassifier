@@ -1,0 +1,474 @@
+motor.               miles run.    oil, tallow,    per train mile
+                                   etc.            run.
+
+                                   lb.
+Electric             2,358.9       99.0            0.038
+Rowan, steam         2,616.9      106.7            0.038
+Krauss, steam        2,457.8      188.5            0.073
+Wilkinson, steam     2,473.3      255.4            0.101
+Compressed air       2,259.1      585.2            0.255
+
+In addition to these considerations, it was thought useful to investigate
+the quantity of water consumed in the case of those engines which used
+steam. The experiments made on this point showed as the consumption of
+water:
+
+                 Gallons per mile.
+Rowan                 0.75
+Compressed air        1.06
+Wilkinson             5.89
+Krauss                6.52
+
+Thus, owing to the large proportion of water returned from the condenser
+to the tanks, the Rowan actually used less water than the compressed air
+engine.
+
+
+CONCLUSION.
+
+The general conclusion to which these experiments bring us is that,
+undoubtedly, if it could certainly be relied upon, the electric car would
+be the preferable form of tramway motor in towns, because it is simply a
+self-contained ordinary tram-car, and in a town the service requires a
+number of separate cars, occupying as small a space each as is compatible
+with accommodating the passengers, and which follow each other at rapid
+intervals.
+
+But the practicability and the economy of a system of electric tram-cars
+has yet to be proved; for the experiments at Antwerp, while they show the
+perfection of the electric car as a means of conveyance, have not yet
+finally determined all the questions which arise in the consideration of
+the subject. For instance, with regard to economy, the engine employed to
+generate the electricity was not in thoroughly good order, and from its
+being used to do other work than charging the accumulators of the
+tram-car, the consumption of fuel had to be to some extent estimated. In
+the next place, the durability of the accumulators is still to be
+ascertained; upon this much of the economy would depend. And in addition
+to this question, there is also that of the durability of parts of the
+machinery if exposed to dust and mud.
+
+After the electric car, there is no question but that at the Antwerp
+Exhibition the most taking of the tramway motors was the Rowan, which was
+very economical in fuel, quite free from the appearance of steam, and
+very convenient and manageable.
+
+The economy of the Rowan motor arises in a large degree from the extent
+of its condensing power, by means of which a considerable supply of warm
+water is constantly supplied for use in the boiler, and consequently the
+quantity of water which has to be carried is lessened, and the fuel is
+economized.
+
+Independently, however, of its convenience as a motor for tramways in
+towns, the Rowan machine has been adapted on the Continent to the
+conveyance of goods as well as passenger traffic on light branch
+railways, and fitted to pass over curves of 50 feet radius, and up
+gradients of 1:10.
+
+In England, with our depressed trade and agriculture, there is a great
+want in many parts of the country of a cheap means of conveyance from the
+railway stations into the surrounding districts; such a means of
+conveyance might be afforded by light railways along or near the
+road-side, the cost of which would be comparatively small, provided that
+the expensive methods of construction, of signaling, and of working which
+have been required for main lines, and which are perfectly unnecessary
+for such light railways, were dispensed with.
+
+It is certain that this question will acquire prominence as soon as a
+system of local government has been adopted, in which the wants of the
+several communities have full opportunity of asserting themselves, and in
+which each local authority shall have power to decide on those measures
+which are essential to the development of the resources of its own
+district, without interference from a centralized bureaucracy.
+
+       *       *       *       *       *
+
+
+
+
+ON THE THEORY OF THE ELECTRO-MAGNETIC TELEPHONE TRANSMITTER.
+
+By E. MERCADIER.
+
+[Footnote: Note presented to the Academy of Sciences, Oct. 19, 1885.]
+
+
+The first point to be studied in this theory is the _role_ performed by
+the iron or steel diaphragm of the telephone, both as regards the nature
+of the movements that it effects through elasticity and the conversion of
+mechanical into magnetic energy as a result of its motions.
+
+I. When we produce simple or complex vibratory motions in the air in
+front of the diaphragm, like those that result from articulate speech,
+either the fundamental and harmonic sounds of the diaphragm are not
+produced, or else they play but a secondary _role_.
+
+(1.) In fact, diaphragms are never set in vibration, as is supposed, when
+we desire to determine the series of harmonics and nodal lines, since we
+do not leave them to themselves until they have been set in motion, and
+we do not allow a free play to the action of elastic forces; in a word,
+the vibrations that they are capable of effecting are constantly _forced_
+ones.
+
+(2.) When a disk is set into a groove, and its edges are fixed, theory
+indicates that the first harmonics of the free disk should only rise a
+little. Let us take steel disks 4 inches in diameter and but 0.08 inch in
+thickness, and of which the fundamental sound in a free state is about
+_ut_{5}_, and which the setting only further increases. It is impossible
+to see how this fundamental and the harmonics can be set in play when a
+continuous series of sounds or accords below _ut_{5}_, are produced
+before the disk; and yet these sounds are produced perfectly (with feeble
+intensity, it is true, in an ordinary telephone) with their pitch and
+quality. They produce, then, in the transmitting diaphragm other motions
+than those of the fundamental sound and of its peculiar harmonics.
+
+(3.) It is true that in practice the edges of the telephone diaphragm are
+in nowise fixed, but merely set into a groove, or rather clamped between
+wooden or metallic rings, whose mass is comparable to their own; and they
+are, therefore, as regards elasticity, in an ill ascertained state. Yet a
+diaphragm of the usual diameter (from 2 to 4 inches), and very thin (from
+0.001 to 0.02 inch), clamped in this way by its edges, is capable of
+vibrating when a continuous series of sounds are produced near it, by
+means, for example, of a series of organ pipes. But the series of sounds
+that it clearly re-enforces, in exhibiting a kind of complex nodal lines,
+is plainly _discontinuous_; and how, therefore, would the existence of
+such series suffice to explain the production of a _continuous_ scale of
+isolated or superposed sounds, the chief property of the telephone?
+
+(4.) The interposition of a plate of any substance whatever between the
+diaphragm and the source of the vibratory motions in nowise alters the
+telephonic qualities of the diaphragm, and consequently the _nature_ of
+the motions that it effects--a fact that would be very astonishing if the
+motions were those that corresponded to the peculiar sounds of the
+diaphragm. This fact is already known, and I have verified it with mica,
+glass, zinc, copper, cork, wood, paper, cotton, a feather, soft wax,
+sand, and water, even in taking thicknesses of from 5 to 8 inches of
+these substances.
+
+(5.) We can put a diaphragm manifestly out of condition to effect its
+peculiar scale of harmonics by placing small, unequal, and irregularly
+distributed bodies upon its surface, by cutting it out in the form of a
+wheel, and by punching a sufficient number of holes in it to reduce it
+half in bulk. None of these modifications removes its telephonic
+qualities.
+
+(6.) We can go still further, and employ diaphragms of scarcely any
+stiffness and elasticity without altering their essential telephonic
+properties, the reproduction of a continuous series of sounds, accords,
+and timbres. Such is the case with a sheet iron diaphragm. It is very
+difficult, then, to imagine a fundamental sound and its harmonics.
+
+The conclusion from all this appears to me to be that the mechanism by
+virtue of which telephone diaphragms perform their motions is at least
+analogous to, if not identical with, that through which solid bodies of
+any form whatever (a wall, for example) transmit to all of their surfaces
+all the simple or complex successive or simultaneous vibratory motions,
+of periods varying in a continuous or discontinuous manner, that are
+produced in the air in contact with the other surface. In a word, we have
+here a phenomenon of _resonance_. In diaphragms of sufficient thickness
+this kind of motion would exist alone. In thin diaphragms the motions
+that correspond to their special sounds might become superposed upon the
+preceding, and this would be prejudicial rather than useful, since, in
+such a case, if there resulted a re-enforcement of the effects produced,
+it would be at the expense of the reproduction of the timbre, the
+harmonics of the diaphragm being capable of coinciding only through the
+merest accident with those of the sounds that were setting in play the
+fundamental sound of the diaphragm. This is what experiment clearly
+demonstrates.
+
+II. Let us now pass to the _magnetic role_ of the telephone diaphragm.
+Such _role_ can be clearly enough defined by the following facts:
+
+(1.) The presence of the magnetic field of the telephone in nowise
+changes the preceding conclusions.
+
+(2.) Upon farther and farther diminishing the stiffness and elasticity of
+the diaphragm, I have succeeded in suppressing it entirely. In fact, it
+is only necessary to substitute for it, in any telephone whatever, a few
+grains of iron filings, thrown upon the pole of the magnet, covered with
+a bit of paper or cardboard, in order to render it possible to reproduce
+all sounds, and articulate speech with its characteristic quality,
+although, it is true, with very feeble intensity.
+
+(3.) In order to increase the intensity of the effect produced, it
+suffices to substitute for the iron diaphragm a thin disk of any sort of
+slightly flexible substance, metallic or otherwise, cardboard, for
+example, and through the aperture of the usual cover of the instrument to
+scatter over it from 11/2 to 3 grains of iron filings. In this way we
+obtain an iron filings telephone. By properly increasing the intensity of
+the magnetic field, I have been able to form telephones of this kind that
+produced in an ordinary receiver as intense effects as those given by
+the usual transmitters with stiff disks, and which, too, were reversible.
+But for a field of given intensity, there is a weight of iron filings
+that produces a maximum of effect.
+
+We thus see that the advantage of the iron diaphragm over filings is
+truly reduced to the presentation of a much larger number of magnetic
+molecules to the action of the field and to external actions, within the
+same volume. It increases the _intensity_ of the telephonic effects,
+although for _the production_ of the latter with all their variety,
+fineness, and perfection it is nowise indispensable. It suffices, after a
+manner, to materialize the lines of force with iron filings, and to act
+mechanically upon them, and consequently upon the field itself.
+
+       *       *       *       *       *
+
+
+
+
+ON THE THEORY OF THE RECEIVER OF THE ELECTRO-MAGNETIC TELEPHONE.
+
+By E. MERCADIER.
+
+[Footnote: Note presented to the Academy of Sciences, November 16, 1885.]
+
+
+On a former occasion I described some experiments that had led me to a
+theory of the telephone transmitter; a few words will suffice to expose
+that of the receiver.
+
+Such theory gave rise during the first years succeeding the invention of
+the telephone to a considerable number of investigations, the principal
+results of which may be summed up in the two following points:
+
+1. All the parts of a telephone receiver--core, helix, disk, handle,
+etc.--vibrate simultaneously (Boudet, Laborde, Breguet, Ader, Du Moncel,
+and others). But there is no doubt that by far the most energetic effects
+are those of the disk. It has been possible to put the vibrations of the
+core and helix beyond a doubt only by employing very energetic
+transmitter currents, or very simplified and special arrangements of the
+receiver (Ader, Du Moncel, and others).
+
+2. In telephone receivers we may employ disks or diaphragms of any
+thickness up to six inches (Bell, Breguet, and others).
+
+From the first point it had already resulted that the diaphragm was no
+more indispensable in the receiver than it was in the transmitter, as I
+have already shown (_Comptes Rendus_, t. ci., p. 944); and, from the
+second point, that there were other effects in a receiver than those that
+could result from the transverse vibrations corresponding to the
+fundamental sound and to the harmonics of the diaphragm.
+
+So Du Moncel, basing a theory upon these two categories of facts,
+asserted that the effects of the telephone receiver were principally due
+to the molecular vibrations of the core of the electro-magnet (analogous
+to those that had been studied by Page, De la Rive, Wetheim, Reis, and
+others), super-excited and re-enforced by the iron diaphragm operating as
+an armature.
+
+This theory has certainly truth for a basis; but it is incomplete, in
+that the molecular vibrations of the core are but a very feeble accessory
+phenomenon, and not a prominent one. At all events, I believe that we
+can, in a few words, and very simply, present the theory of the telephone
+receiver by going back to the facts that served me as a basis for the
+theory of the transmitter, and that result from studies made with
+telephones of ordinary forms.
+
+In fact, it is enough to remark that the iron filings telephone
+transmitter described in a preceding article (_1. c_.) is reversible and
+capable of serving as a receiver--not a very intense one, it is true, but
+here it is a question of the _nature_ of the phenomena, and not of their
+intensity. It at once results that in receivers, as in transmitters, the
+rigidity of the iron diaphragm is in nowise indispensable for telephonic
+effects, such as the production of continuous series of successive or
+simultaneous sounds and of articulate speech.
+
+The diaphragm serves but to increase the intensity of these effects, as
+in the transmitter, by concentrating the lines of force of the field, and
+by presenting a greater surface to the air--the necessary vehicle of
+sound. When it is thick, the internal motions that it takes on in
+consequence of variations in the field, and which are transmitted to the
+surrounding air and the ear, are solely those of resonance. When it is
+very thin, the peculiar motions resulting from its geometric form and its
+structure may become superposed upon the preceding, because it may then
+happen that the corresponding sounds remain within the limits of the
+pitch wherein the human voice usually moves (from ut_{2} to ut_{5});
+but then, also, as the harmonics of the voice in nowise coincide with the
+proper sounds of the diaphragm, the intensity of the effects is obtained
+at the expense of a good reproduction of the timbre. This is certainly
+one of the causes of the nasal timbre of most thin-diaphragmed
+telephones. By diminishing their thickness, we lose in quality what we
+gain in intensity.
+
+But even in this latter respect there is a maximum for receivers, as I
+have already pointed out that there is for iron filings transmitters. For
+a magnetic field of given intensity, there is, all things equal, a
+diaphragm thickness that gives a maximum telephonic result. Such result,
+which is analogous to those that occur in other electro-magnetic
+phenomena, may explain the want of success of many tentatives made
+somewhat at haphazard, with a view to increasing the intensity of
+telephonic effects.
+
+       *       *       *       *       *
+
+
+
+
+DECOMPOSITION AND FERMENTATION OF MILK.
+
+
+Dr. F. Hueppe, who has paid great attention to this subject, describes
+five distinct organisms which he finds to be invariable accompaniments of
+lactic fermentation. One of these he isolated on nutrient gelatine in the
+form of white, shining, flat, minute beads. This organism has the power
+of transforming milk sugar and other saccharoses into lactic acid, with
+evolution of carbonic acid gas. It is rarely found in the saliva or
+mucilage of the teeth. In these are two micrococci, both of which cause
+the production of lactic acid, but which manifest differences in their
+development under cultivation. There are also two pigment forming
+bacteria, _Micrococcus prodigiosus,_ which produces intensely red spots,
+and the yellow micrococcus of osteomyelitis. These five bacteria are so
+different and so constant in their properties that they must, in Dr.
+Hueppe's opinion, be regarded as distinct species. In addition to them
+there is in milk an organism resembling _Mycoderma aceti_, which
+transforms milk sugar into gluconic acid.
+
+       *       *       *       *       *
+
+
+
+
+THE NEW "BURGTHEATER" IN VIENNA.
+
+
+At last the new "Burgtheater" in Vienna is completed. We say "at last,"
+for work was begun on this new theater more than ten years ago. One after
+another, monumental architectural works have been erected, which are no
+less grand and beautiful than this. They were finished long ago, and
+given over to their respective uses--the Parliament buildings, the
+"Rathhaus," the University; but Baron Hasenauer, who had charge of the
+construction of this building, as well as of many others, could not bring
+himself to the quicker _tempo_ of Messrs Hansen, Schmid, and Ferstel. The
+citizens of Vienna were naturally impatient to see their beautiful
+"Ringstrasse" completed, and only the Hasenauer buildings were needed to
+make it perfect.
+
+[Illustration: THE NEW IMPERIAL PALACE THEATRE, VIENNA. ORIGINAL
+DESIGN BY J.J. KIRCHNER.]
+
+The building was built according to the plans of Semper and Hasenauer;
+for, as in the other great buildings erected by Hasenauer, the new palace
+and the museums, Semper's plans served as a foundation. All the modern
+improvements in the architecture of theaters have been embodied in the
+new theater, for the terrible catastrophe at the Ringtheater taught a
+lesson which has not been forgotten, and the greatest care has been taken
+to guard against fire.
+
+The new "Burgtheater" stands directly opposite the imposing "Rathhaus"
+(senate-house), and is separated from the same by a charming park; to
+the right stands the University, and to the left the Houses of
+Parliament. In order to be worthy of such company, and not be
+overshadowed by these buildings, it was necessary that the theater should
+be very grand. The most important requirements have been perfectly
+fulfilled; beauty, elegance, appropriateness, and security against fire,
+nothing has been neglected.
+
+The principal part of the building stands out strongly, and is flanked on
+either side by a pavilion-like wing. The audience room will accommodate
+about two thousand people.
+
+The public and the actors alike rejoice in the new Burgtheater, for which
+they have waited so long.
+
+       *       *       *       *       *
+
+
+
+
+THE NEW GERMAN BOOKDEALERS' EXCHANGE IN LEIPZIG.
+
+
+It seems strange that book-printing and the book trade in general should
+have developed so slowly in the busy city of Leipzig, where a university
+was established as early as the beginning of the fifteenth century. The
+first honorable mention of the printing of Leipzig was made during the
+first decade of the sixteenth century, but it was not until the end of
+the seventeenth century that the printing and publishing of books
+received a notable impulse, which was given it by Messrs. J.F. Gleditsch
+and Thomas Fritsche and Profs. Carpzov and Mericke, who published many
+works of great typographical beauty.
+
+From 1682 to 1700 ninety-one papers and periodicals appeared in Leipzig,
+of which the _Acta eruditorum_ was the oldest, being the first German
+scientific paper. At this time there were seventeen printing
+establishments in Leipzig, and the seventy presses in use printed, on an
+average, 2,000 bales of paper yearly.
+
+One of the leading bookdealers, Philipp Emanuel Reich, won the
+approbation of his fellow citizens by establishing the first Bookdealers'
+Association at the time of the Easter Fair in Leipzig, in 1764, and it
+was through his efforts that the Book Exchange or Fair was founded, which
+has placed Leipzig at the head of the book trade; but several years
+passed before this private undertaking become a public association. About
+1834 a building was erected specially for a book exchange or bourse, but
+this building was soon outgrown, and it was decided to build a new one
+which should be adequate to the requirements of the institution.
+
+A competition for designs for the new building was opened, and five
+designs were presented, from which the plan of Messrs. Kayser and Von.
+Grossheim, of Berlin, was selected. This design, which is shown in the
+accompanying cut, taken from the _Illustrirte Zeitung,_ presents a
+picturesque grouping of the different parts of the building, the main
+building being on one street and the adjoining building on another
+street. The roof, which forms a beautiful sky-line, is ornamented with
+dormer-windows and little towers, there being a large tower on the main
+building.
+
+[Illustration: PRIZE PLAN FOR THE NEW BOOK EXCHANGE IN LEIPZIG, BY
+MESSRS. KAYSER AND VON GROSSHEIM, ARCHITECTS.]
+
+To the left of the principal hall in the main building, which has three
+large ornamental windows, there is a little hall, the central office, and
+committee rooms, while the restaurant and the assembly rooms are on the
+right. In the smaller building, through which there is a central
+corridor, are the order rooms, assorting rooms, editorial sanctum of the
+_Borsenblat_ (Bourse journal), and the post office, with telegraph
+offices.
+
+A low building runs almost the entire length of the main building, to
+which it is joined at the right and left by side wings, thus inclosing an
+open court. In this low building the exhibition rooms are arranged, and
+in the middle is a vestibule through which these exhibition rooms, the
+wardrobes, and the great hall can be reached. Over the vestibule is a
+cupola.
+
+The arrangements for lighting, heating, and ventilation are excellent.
+Steam heat is used, and the large hall is ventilated by the pulsation
+system.
+
+The building, which is of red brick and sandstone, is worthy of holding a
+place among the numerous beautiful buildings which have been erected in
+Leipzig during the last few years. The cost of the building was limited
+to 700,000 M., or about $160,000.
+
+       *       *       *       *       *
+
+
+
+
+A correspondent has transmitted to the editor of _L'Union Pharmaceutique_
+the prospectus of an oyster dealer who, besides dealing in the ordinary
+bivalves, advertises specialties in medicinal oysters, such as "huitres
+ferrugineuses" and "huitres au goudron." The "huitres ferrugineuses" are
+recommended to anaemic persons, and the "huitres au goudron" are said to
+replace with advantage all other means of administering tar, while of
+both it is alleged that analyses made by "distinguished _savants_" leave
+no doubt as to their valuable qualities.
+
+       *       *       *       *       *
+
+
+
+
+ALIZARINE DYES.
+
+
+Notwithstanding the unprecedented progress of the coal-tar dyestuff
+industry during the past few decades, the time-honored indigo, logwood,
+fustic, etc., have been only partly displaced by the coal-tar products in
+wool dyeing. The cause is that, though the dyer handled many aniline
+dyestuffs which dyed as fast against light as logwood or fustic, the dye
+proved unsatisfactory for fulling goods, because it bled in the treatment
+with soap and soda, and often more or less changed its tone. We intend to
+render a service to our readers by calling their special attention to
+some products of the coal-tar industry which are free from these defects
+of aniline dyestuffs, and for which it is claimed that they far surpass

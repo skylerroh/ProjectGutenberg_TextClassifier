@@ -1,0 +1,117 @@
+fragmentation, are distinguished. One of the goals of this research is
+to learn more about the constitution of the nucleus and of the forces
+which bind the particles in the interior of the nucleus.
+
+FOOTNOTES:
+
+[7] Mesons are elementary particles intermediate in mass between the
+electron and proton.
+
+[8] It may be interesting to note that the [pi]^0 meson was discovered
+with this cyclotron in 1950. This was the first particle to be
+discovered with an accelerator. All particles that had been previously
+discovered were observed first in cosmic rays or some other form of
+natural radiation.
+
+
+
+
+BIBLIOGRAPHY
+
+
+1. Gerald A. Behman, Particle Accelerators: I. Bibliography, II. List
+   of Accelerator Installations, UCRL-8050, January 1, 1958.
+
+2. Samuel Glasstone, The Acceleration of Charged Particles, in
+   _Sourcebook on Atomic Energy_, Second Edition (Van Nostrand,
+   Princeton, 1958), Ch. IX.
+
+3. M. S. Livingston, _High-Energy Accelerators_ (Interscience
+   Publishers, New York, 1954).
+
+4. M. Stanley Livingston and Edwin M. McMillan, History of the
+   Cyclotron, Physics Today _12_, 18-34 (October 1959).
+
+5. E. M. McMillan, Particle Accelerators, in _Experimental Nuclear
+   Physics_, Emilio Segre, Editor, Vol. III (Wiley, New York, 1959),
+   Part XIII.
+
+6. Bob H. Smith _et al._, The Electrical Aspects of the UCRL 740-Mev
+   Synchrocyclotron, UCRL-3779 Rev., October 2, 1957.
+
+7. Robert L. Thornton, Frequency-Modulation and Radiofrequency System
+   for the Modified Berkeley Cyclotron, UCRL-3362, April 3, 1956.
+
+8. Robert R. Wilson, Particle Accelerators, Scientific American _198_,
+   64-76 (March 1958).
+
+
+
+
+APPENDIX
+
+
+SUMMARY OF SPECIFICATIONS
+
+  Present fields of research    % of time
+  --------------------------    ---------
+    Nuclear physics                 86
+    Nuclear chemistry                2
+    Biophysics                      12
+
+  _Scheduled operation_         156 hours/week
+
+
+_Performance_
+
+_Internal Beams_
+
+                                                      Alpha     Helium-3
+                                Protons  Deuterons  particles     ions
+                                -------  ---------  ---------   --------
+  Maximum energy (Mev)             730       460        910        1140
+  Energy spread (Mev)               55
+  Beam intensity
+    Average current ([mu]a)       0.75      0.75       0.25
+    Peak current ([mu]a)           120       120         40
+  Beam radius, maximum (in.)        82        82         82          82
+  Time required for
+    acceleration (msec)              6       4.5        4.5
+  Number of revolutions
+    during acceleration         75,000    60,000     60,000
+  Distance traveled during
+    acceleration (miles)           450       360        360
+  Velocity at maximum energy
+    (% of speed of light)           82        60         60          69
+  Mass increase at maximum
+    energy (% of rest mass)         75        25         25          40
+  Range of full-energy
+    particles (in. of aluminum)     37        12          7
+
+_External Beams_
+
+                                  Physics cave             Meson cave
+                            -----------------------  -------------------
+                            Protons Neutrons [pi]^+   [pi]^+    [pi]^-
+                            ------- -------- ------  --------  ---------
+  Energy (Mev)               730              310     100|250   100| 300
+  Energy spread (Mev)         14                       10| 20    10|  30
+  Beam area (cm^2)            25               40     100|100   100| 100
+  Flux (particles/cm^2-sec) 2x10^10  5x10^5  5x10^4  1000|100  1500|1000
+
+
+_Acceleration chamber (vacuum tank)_
+
+  Size
+    length (ft)                                              25
+    width (ft)                                               20
+    height (ft)                                               4
+
+  Material: mild steel
+
+  Operating pressure (mm Hg)                                 10^-5
+
+  Vacuum pumps: six 20-in. oil-diffusion pumps with 8-in. boosters:
+                one Beach-Russ 750-cfm; one Kinney 300-cfm; two
+                Kinney 105-cfm.
+

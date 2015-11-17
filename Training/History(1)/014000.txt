@@ -1,0 +1,373 @@
+The Project Gutenberg EBook of Six Lectures on Light, by John Tyndall
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Six Lectures on Light
+       Delivered In The United States In 1872-1873
+
+Author: John Tyndall
+
+Release Date: November 10, 2004 [EBook #14000]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SIX LECTURES ON LIGHT ***
+
+
+
+
+Produced by Clare Boothby, Stephen Schulze and the PG Online
+Distributed Proofreading Team.
+
+
+
+
+
+
+
+
+
+SIX LECTURES ON LIGHT
+
+DELIVERED IN THE UNITED STATES
+IN
+1872-1873
+
+BY
+
+JOHN TYNDALL, D.C.L., LL,D., F.R.S.
+
+LATE PROFESSOR OF NATURAL PHILOSOPHY IN THE
+ROYAL INSTITUTION OF GREAT BRITAIN
+
+
+
+[Illustration: Sir Thomas Laurence PRA Pinx
+
+Henry Adlarc. Sc.
+
+Signature: Thomas Young]
+
+
+London: Longmans & Co.
+
+_SIXTH IMPRESSION_
+
+LONGMANS, GREEN, AND CO.
+
+39 PATERNOSTER ROW, LONDON
+
+NEW YORK AND BOMBAY
+
+1906
+
+
+
+
+PREFACE TO THE FOURTH EDITION.
+
+
+In these Lectures I have sought to render clear a difficult but
+profoundly interesting subject. My aim has been not only to describe
+and illustrate in a familiar manner the principal laws and phenomena
+of light, but to point out the origin, and show the application, of
+the theoretic conceptions which underlie and unite the whole, and
+without which no real interpretation is possible.
+
+The Lectures, as stated on the title-page, were delivered in the
+United States in 1872-3. I still retain a vivid and grateful
+remembrance of the cordiality with which they were received.
+
+My scope and object are briefly indicated in the 'Summary and
+Conclusion,' which, as recommended in a former edition, might be, not
+unfitly, read as an introduction to the volume.
+
+J.T.
+
+ALP LUSGEN: _October_ 1885.
+
+
+
+
+CONTENTS.
+
+
+LECTURE I.
+
+  Introductory
+  Uses of Experiment
+  Early Scientific Notions
+  Sciences of Observation
+  Knowledge of the Ancients regarding Light
+  Defects of the Eye
+  Our Instruments
+  Rectilineal Propagation of Light
+  Law of Incidence and Reflection
+  Sterility of the Middle Ages
+  Refraction
+  Discovery of Snell
+  Partial and Total Reflection
+  Velocity of Light
+  Roemer, Bradley, Foucault, and Fizeau
+  Principle of Least Action
+  Descartes and the Rainbow
+  Newton's Experiments on the Composition of Solar Light
+  His Mistake regarding Achromatism
+  Synthesis of White Light
+  Yellow and Blue Lights produce White by their Mixture
+  Colours of Natural Bodies
+  Absorption
+  Mixture of Pigments contrasted with Mixture of Lights
+
+
+LECTURE II.
+
+  Origin of Physical Theories
+  Scope of the Imagination
+  Newton and the Emission Theory
+  Verification of Physical Theories
+  The Luminiferous Ether
+  Wave-theory of Light
+  Thomas Young
+  Fresnel and Arago
+  Conception of Wave-motion
+  Interference of Waves
+  Constitution of Sound-waves
+  Analogies of Sound and Light
+  Illustrations of Wave-motion
+  Interference of Sound Waves
+  Optical Illustrations
+  Pitch and Colour
+  Lengths of the Waves of Light and Rates of Vibration of the
+    Ether-particles
+  Interference of Light
+  Phenomena which first suggested the Undulatory Theory
+  Boyle and Hooke
+  The Colours of thin Plates
+  The Soap-bubble
+  Newton's Rings
+  Theory of 'Fits'
+  Its Explanation of the Rings
+  Overthrow of the Theory
+  Diffraction of Light
+  Colours produced by Diffraction
+  Colours of Mother-of-Pearl.
+
+
+LECTURE III.
+
+  Relation of Theories to Experience
+  Origin of the Notion of the Attraction of Gravitation
+  Notion of Polarity, how generated
+  Atomic Polarity
+  Structural Arrangements due to Polarity
+  Architecture of Crystals considered as an Introduction to their
+    Action upon Light
+  Notion of Atomic Polarity applied to Crystalline Structure
+  Experimental Illustrations
+  Crystallization of Water
+  Expansion by Heat and by Cold
+  Deportment of Water considered and explained
+  Bearings of Crystallization on Optical Phenomena
+  Refraction
+  Double Refraction
+  Polarization
+  Action of Tourmaline
+  Character of the Beams emergent from Iceland Spar
+  Polarization by ordinary Refraction and Reflection
+  Depolarization.
+
+
+LECTURE IV.
+
+  Chromatic Phenomena produced by Crystals in Polarized Light
+  The Nicol Prism
+  Polarizer and Analyzer
+  Action of Thick and Thin Plates of Selenite
+  Colours dependent on Thickness
+  Resolution of Polarized Beam into two others by the Selenite
+  One of them more retarded than the other
+  Recompounding of the two Systems of Waves by the Analyzer
+  Interference thus rendered possible
+  Consequent Production of Colours
+  Action of Bodies mechanically strained or pressed
+  Action of Sonorous Vibrations
+  Action of Glass strained or pressed by Heat
+  Circular Polarization
+  Chromatic Phenomena produced by Quartz
+  The Magnetization of Light
+  Rings surrounding the Axes of Crystals
+  Biaxal and Uniaxal Crystals
+  Grasp of the Undulatory Theory
+  The Colour and Polarization of Sky-light
+  Generation of Artificial Skies.
+
+
+LECTURE V.
+
+  Range of Vision not commensurate with Range of Radiation
+  The Ultra-violet Rays
+  Fluorescence
+  The rendering of invisible Rays visible
+  Vision not the only Sense appealed to by the Solar and Electric Beam
+  Heat of Beam
+  Combustion by Total Beam at the Foci of Mirrors and Lenses
+  Combustion through Ice-lens
+  Ignition of Diamond
+  Search for the Rays here effective
+  Sir William Herschel's Discovery of dark Solar Rays
+  Invisible Rays the Basis of the Visible
+  Detachment by a Ray-filter of the Invisible Rays from the Visible
+  Combustion at Dark Foci
+  Conversion of Heat-rays into Light-rays
+  Calorescence
+  Part played in Nature by Dark Rays
+  Identity of Light and Radiant Heat
+  Invisible Images
+  Reflection, Refraction, Plane Polarization, Depolarization,
+    Circular Polarization, Double Refraction, and Magnetization of
+    Radiant Heat
+
+
+LECTURE VI.
+
+  Principles of Spectrum Analysis
+  Prismatic Analysis of the Light of Incandescent Vapours
+  Discontinuous Spectra
+  Spectrum Bands proved by Bunsen and Kirchhoff to be characteristic
+    of the Vapour
+  Discovery of Rubidium, Caesium, and Thallium
+  Relation of Emission to Absorption
+  The Lines of Fraunhofer
+  Their Explanation by Kirchhoff
+  Solar Chemistry involved in this Explanation
+  Foucault's Experiment
+  Principles of Absorption
+  Analogy of Sound and Light
+  Experimental Demonstration of this Analogy
+  Recent Applications of the Spectroscope
+  Summary and Conclusion
+
+
+APPENDIX.
+
+On the Spectra of Polarized Light
+
+Measurement of the Waves of Light
+
+INDEX
+
+
+
+
+ON LIGHT
+
+
+
+
+LECTURE I.
+
+  INTRODUCTORY
+  USES OF EXPERIMENT
+  EARLY SCIENTIFIC NOTIONS
+  SCIENCES OF OBSERVATION
+  KNOWLEDGE OF THE ANCIENTS REGARDING LIGHT
+  DEFECTS OF THE EYE
+  OUR INSTRUMENTS
+  RECTILINEAL PROPAGATION OF LIGHT
+  LAW OF INCIDENCE AND REFLECTION
+  STERILITY OF THE MIDDLE AGES
+  REFRACTION
+  DISCOVERY OF SNELL
+  PARTIAL AND TOTAL REFLECTION
+  VELOCITY OF LIGHT
+  ROEMER, BRADLEY, FOUCAULT, AND FIZEAU
+  PRINCIPLE OF LEAST ACTION
+  DESCARTES AND THE RAINBOW
+  NEWTON'S EXPERIMENTS ON THE COMPOSITION OF SOLAR LIGHT
+  HIS MISTAKE AS REGARDS ACHROMATISM
+  SYNTHESIS OF WHITE LIGHT
+  YELLOW AND BLUE LIGHTS PRODUCE WHITE BY THEIR MIXTURE
+  COLOURS OF NATURAL BODIES
+  ABSORPTION
+  MIXTURE OF PIGMENTS CONTRASTED WITH MIXTURE OF LIGHTS.
+
+
+Sec. 1. _Introduction_.
+
+Some twelve years ago I published, in England, a little book entitled
+the 'Glaciers of the Alps,' and, a couple of years subsequently, a
+second book, entitled 'Heat a Mode of Motion.' These volumes were
+followed by others, written with equal plainness, and with a similar
+aim, that aim being to develop and deepen sympathy between science and
+the world outside of science. I agreed with thoughtful men[1] who
+deemed it good for neither world to be isolated from the other, or
+unsympathetic towards the other, and, to lessen this isolation, at
+least in one department of science, I swerved, for a time, from those
+original researches which have been the real pursuit and pleasure of
+my life.
+
+The works here referred to were, for the most part, republished by the
+Messrs. Appleton of New York,[2] under the auspices of a man who is
+untiring in his efforts to diffuse sound scientific knowledge among
+the people of the United States; whose energy, ability, and
+single-mindedness, in the prosecution of an arduous task, have won for
+him the sympathy and support of many of us in 'the old country.' I
+allude to Professor Youmans. Quite as rapidly as in England, the aim
+of these works was understood and appreciated in the United States,
+and they brought me from this side of the Atlantic innumerable
+evidences of good-will. Year after year invitations reached me[3] to
+visit America, and last year (1871) I was honoured with a request so
+cordial, signed by five-and-twenty names, so distinguished in science,
+in literature, and in administrative position, that I at once resolved
+to respond to it by braving not only the disquieting oscillations of
+the Atlantic, but the far more disquieting ordeal of appearing in
+person before the people of the United States.
+
+This invitation, conveyed to me by my accomplished friend Professor
+Lesley, of Philadelphia, and preceded by a letter of the same purport
+from your scientific Nestor, the celebrated Joseph Henry, of
+Washington, desired that I should lecture in some of the principal
+cities of the Union. This I agreed to do, though much in the dark as
+to a suitable subject. In answer to my inquiries, however, I was given
+to understand that a course of lectures, showing the uses of
+experiment in the cultivation of Natural Knowledge, would materially
+promote scientific education in this country. And though such lectures
+involved the selection of weighty and delicate instruments, and their
+transfer from place to place, I determined to meet the wishes of my
+friends, as far as the time and means at my disposal would allow.
+
+
+Sec. 2. _Subject of the Course. Source of Light employed._
+
+Experiments have two great uses--a use in discovery, and a use in
+tuition. They were long ago defined as the investigator's language
+addressed to Nature, to which she sends intelligible replies. These
+replies, however, usually reach the questioner in whispers too feeble
+for the public ear. But after the investigator comes the teacher,
+whose function it is so to exalt and modify the experiments of his
+predecessor, as to render them fit for public presentation. This
+secondary function I shall endeavour, in the present instance, to
+fulfil.
+
+Taking a single department of natural philosophy as my subject, I
+propose, by means of it, to illustrate the growth of scientific
+knowledge under the guidance of experiment. I wish, in the first
+place, to make you acquainted with certain elementary phenomena; then
+to point out to you how the theoretical principles by which phenomena
+are explained take root in the human mind, and finally to apply these
+principles to the whole body of knowledge covered by the lectures. The
+science of optics lends itself particularly well to this mode of
+treatment, and on it, therefore, I propose to draw for the materials
+of the present course. It will be best to begin with the few simple
+facts regarding light which were known to the ancients, and to pass
+from them, in historic gradation, to the more abstruse discoveries of
+modern times.
+
+All our notions of Nature, however exalted or however grotesque, have

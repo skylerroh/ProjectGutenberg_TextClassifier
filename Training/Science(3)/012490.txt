@@ -1,0 +1,439 @@
+The Project Gutenberg EBook of Scientific American Supplement, No. 492,
+June 6, 1885, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Scientific American Supplement, No. 492, June 6, 1885
+
+Author: Various
+
+Release Date: June 2, 2004 [EBook #12490]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SCIENTIFIC AMERICAN ***
+
+
+
+
+Produced by Don Kretz, Juliet Sutherland, Charles Franks and the DP Team
+
+
+
+
+[Illustration]
+
+
+
+
+SCIENTIFIC AMERICAN SUPPLEMENT NO. 492
+
+
+
+
+NEW YORK, JUNE 6, 1885.
+
+Scientific American Supplement. Vol. XIX, No. 492.
+
+Scientific American established 1845
+
+Scientific American Supplement, $5 a year.
+
+Scientific American and Supplement, $7 a year.
+
+
+       *       *       *       *       *
+
+
+TABLE OF CONTENTS.
+
+I.    ENGINEERING AND MECHANICS.--The New Spanish Artillery.--2
+      engravings.
+
+      Qualitative Tests for Steel Rails.--By L. TETMAJER.
+
+      A New Form of Small Bessemer Plant.--By A. TRAPPEN.
+
+      Triple Compound Engines.--A paper read by A.E. SEATON
+      before the Institution of Naval Architects.
+
+      Early History of the Steam Jack.
+
+      Bridge over the River Adige, at Verona.--13 figures.
+
+      Pumping Machinery.--Mine pumps.--Direct acting steam pumps.
+      By E.D. LEAVITT.
+
+      Improved Gun Pressure Gauge.--2 figures.
+
+      Measuring the Thickness of Boiler Plates.
+
+      On an Express Engine.
+
+
+II.   TECHNOLOGY.--Improved Plaiting Machine.--With engraving.
+
+      Self-acting Shuttle Guard.--1 figure.
+
+      Ruler and Triangle for Hatching.
+
+      The Distillation of Sea Water.--1 figure.
+
+      Aids to Correct Exposure on Photographic Plates.--An
+      interesting paper by W. GOODMAN.
+
+      Isochromatic Photography.--By FRED. E. IVES.--2 figures.
+
+      Distortion from Expansion of the Paper in Photography.
+
+
+III.  ELECTRICITY, ETC.--On the Fritts Selenium Cells and
+      Batteries.--A paper read before the American Association
+      by C.E. FRITTS.
+
+      Electricity Applied to the Manufacture of Varnish.--2 figures.
+
+      Naglo Brothers' Telephone System.--3 figures.
+
+      The Gerard Electric Lamp.--1 figure.
+
+      A New Reflecting Galvanometer.--3 figures.
+
+
+IV.   ART AND ARCHITECTURE.--Groups of Statuary for the Pediment
+      of the House of Parliament in Vienna.--2 engravings.
+
+      The Casino at Monte Carlo.--An engraving.
+
+
+V.    PHYSICS.--Determining the Density of the Earth.--1 figure.
+
+      Physics without Apparatus.--The Porosity and Permeability of
+      Bodies.--A Hot Air Balloon.--2 engravings.
+
+
+VI.   NATURAL HISTORY.--Winter and the Insects.--An engraving.
+
+      Silk Worm Eggs.--With engraving.
+
+
+VII.  HORTICULTURE.--The Melleco.--Ullucus tuberosa.--With
+      engraving.
+
+
+VIII. PHYSIOLOGY, MEDICINE, ETC.--Histological Methods.--Section
+      cutting machines.--Methods of preserving the
+      tissues.--Preservative media.--Preparation for mounting
+      tissues.--1 figure.
+
+      Life History of a New Septic Organism.
+
+      Erythroxylon Coca as a Therapeutic Agent.--By Dr. E.R. SQUIBB.
+
+       *       *       *       *       *
+
+
+
+
+NEW SPANISH ARTILLERY.
+
+
+The Spanish Government is now engaged in supplying some of its principal
+fortifications with heavy guns of the most improved construction. The
+defenses of Cadiz and Ceuta have been greatly strengthened in this
+respect. The most recent additions are some very powerful Krupp guns for
+the fortress of Isabel II., at Mahon.
+
+[Illustration: NEW KRUPP BREECH LOADING GUNS FOR SPANISH FORTIFICATIONS.]
+
+We give engravings from photographs, as presented in _La Illustracion
+Espanola_. These guns are breech loaders, of steel, 301/2 centimeters
+caliber, or 12 inches, 49 tons weight.
+
+[Illustration: NEW KRUPP BREECH LOADING GUNS FOR SPANISH FORTIFICATIONS.]
+
+One of our engravings shows the great revolving crane by which the guns
+were lifted and placed on the truck for conveyance over a track to their
+intended position. This crane is worked by eight men, and readily lifts
+burdens of about 200,000 lb. The other engraving shows the jack frame and
+jacks employed to remove the gun from the temporary truck. At a range of
+7,000 yards these guns are able to penetrate iron plates of two feet
+thickness.
+
+       *       *       *       *       *
+
+
+
+
+QUALITATIVE TESTS FOR STEEL RAILS.
+
+By Mr. L. TETMAJER.
+
+
+This memoir is the first of a series upon the unification of nomenclature
+and classification of building materials, undertaken by the author at the
+request of the Swiss Engineers' and Architects' Union. For its
+preparation numerous mechanical tests have been made upon steel rails,
+both good and bad, taken from the Swiss railways, while the corresponding
+chemical analyses have been made by Dr. Treadwell in the Polytechnic
+Laboratory, at Zurich. The results are given for twenty-two examples,
+about one-half of which have stood well, while the remainder have either
+broken, split, or suffered considerable abrasion in wear; but in many
+instances the mechanical test of tensile strength, elongation, and
+contraction, and the figures of quality (Wohler's sum and Tetmajer's
+coefficient) deduced from these have varied very considerably for the
+results obtained in practice.
+
+The best wearing rails, which often give contradictory results with the
+tensile test, were comparatively pure manganese steels, low in silicon,
+only exceptionally up to 0.2 per cent., but generally below 0.1 per
+cent., and with less than 0.1 per cent. of phosphorus and sulphur. On the
+other hand, rails with a tendency to break or split are low in carbon,
+with variable proportions of manganese, but contain much silicon, 0.3 to
+0.9 per cent., and often above 0.1 per cent. of phosphorus. Another
+series of experiments upon rails for the Finland lines made by the author
+in 1879-80 shows the high quality of manganese steel. These are
+essentially highly carburized (0.3-0.4 per cent. carbon) with 0.7 to 1.4
+per cent. manganese, and have stood three and a half years' wear without
+a single one being broken; while those of silicon steel with 0.106-0.144
+per cent. carbon, 0.592-0.828 manganese, and 0.423-0.435 silicon have
+failed in many cases, showing a great tendency to split. In both of the
+latter instances, however, the figures deduced from tensile tests of both
+good and bad specimens were substantially the same.
+
+The causes of the difference between the two kinds of steel the author
+attributes to differences in the structure of the ingot due to the agent
+used in "chemical consolidation," which may be either manganese or
+silicon, which structures are illustrated by photographs of ingot
+fractures. When silicon is used there is a tendency to unsoundness about
+the exterior of the ingot, which is surrounded by a honeycomb-like
+cellular casing of greater or less depth; while with manganese the
+vesicular cavities are more or less dispersed through the whole
+substance, or concentrated toward the interior of the ingot. Rails made
+from the former are, therefore, more likely to contain unsound portions
+near the outer wearing surface, and to give unsatisfactory results in
+wear, than those from the latter; but as the test pieces are usually cut
+from the center of the railhead, the tensile resistance of the interior
+may be equal to or surpass that of the superior material. In summing up
+his observations the author concludes that the method of tensile testing
+is mainly of value in determining the quality of the material, but that
+for the finished product properly arranged falling weight tests are
+necessary. He also considers that the test pieces should be flat bars of
+2.5 to 3.5 centimeters in area, cut as near as possible to the outer
+surface of both head and foot of the rail. He reprobates especially the
+research for microscopic imperfections (mikrobensuecherei) upon the
+fractured surfaces, as an annoyance to the producer, and perfectly
+useless to the consumer.--_Stahl und Eisen_, vol. iv., page 608; through
+_Proc. Inst. Civ. Eng_.
+
+       *       *       *       *       *
+
+
+
+
+A NEW FORM OF SMALL BESSEMER PLANT.
+
+By Mr. A. TRAPPEN.
+
+
+The success of the Bessemer process when carried out on the small scale
+at Avesta in Sweden, as described by Professor Ehrenwerth, and subsequent
+experiments of a similar kind made at Pravali, in Carinthia, and
+elsewhere, have led the author, who is specially occupied in the building
+of Bessemer works, to design a plant suitable for operation upon small
+charges. This consists essentially of a converter about 1 meter outside
+diameter, and 1.5 meters high, connected by a single trunnion to a
+horizontal steel shaft carried by the arm of a hydraulic crane which is
+very similar in character to the ladle crane of a large sized converter.
+The sweep of the crane is such as to allow the converter to be brought
+close up to the tap hole of the blast furnace or cupola, so that the use
+of open gutters for the fluid metal may be avoided as much as possible.
+The converter is turned on its axis by a screw and worm wheel, which is
+manipulated by a workman standing on a platform at the opposite arm of
+the crane. The blast is brought in from above by a pipe down the central
+pillar of the crane, which is connected with the blast-main by a flexible
+tube and packed joint. The outer trunnion bearing is open, so that by
+slightly raising and lowering the ram of the crane, the converter may be
+left suspended to a weighing machine in front of the furnace, if it is
+required to determine the weight of the charge. When the converter is
+filled, it is borne by the crane into a convenient position for blowing,
+and if the basic method is followed for removing the slag, the converted
+metal is cast into ingot moulds, which are manipulated by a small ingot
+crane of the ordinary pattern. In the case of small existing
+blast-furnaces, which usually have their tap holes near to the ground, it
+may be necessary to have a shallow ingot pit (20 to 24 inches deep); but
+with cupolas this will not generally be necessary, and the whole of the
+operations may be carried on at the ground level. Each crane is intended
+to be supplied with two or three converters, so that operations may be
+carried on continuously. The weight of charge proposed is 15 cwt., which
+should under ordinary conditions give 12 cwt. of ingots. Taking the time
+of a single converting operation at half an hour it will be easy to
+obtain fifty blows per day, or a production of 30 tons. This may be
+easily increased by placing a second converting crane on the other side
+of the furnace, for which the same blowing engine will be sufficient, as
+the actual blowing time will not exceed twelve minutes. The labor
+required for each converter will be about six men per shift.
+
+The blast required has been experimentally determined at 40-50 cubic
+meters per minute at 15 lb. pressure. This will be supplied by a single
+cylinder engine of 900 millimeters blast, and 786 millimeters steam
+piston, diameter 786 millimeters, stroke making fifty revolutions per
+minute, which is also to work a Root blower and the accumulator pumps.
+Having regard to these very different demands upon the power of the
+engine, it will be provided with expansion gear, allowing a considerable
+variation in the cut-off. A single boiler of 70 to 75 square meters
+heating surface will be sufficient. The accumulator is intended to work
+at 300 lb. pressure.
+
+The cost of the plant, including one of each of the following items,
+converter, converter truck, blowing engine, accumulator, ingot crane,
+centesimal weighing machine, and accumulator pump, is estimated at L2,050
+to L2,100; and that of the steam boiler, L325. The buildings may be of
+the simplest and cheapest possible character. As the productive power of
+such a plant contrasts very favorably with its cost, the author considers
+that it may be fairly expected to meet the competition of large works,
+especially in the manufacture of a high-class product.--_Stahl und
+Eisen_, vol. iv., page 524; through _Proc. Inst. Civ. Eng_.
+
+       *       *       *       *       *
+
+
+
+
+TRIPLE COMPOUND ENGINES.
+
+[Footnote: Paper read before the Institution of Naval Architects, March
+27, 1885.]
+
+By Mr. A.E. SEATON.
+
+
+My attention was first called to the modern triple compound engine by the
+published reports of the trial trip of the yacht Isa, and in it I plainly
+discerned the germs of a successful new type of engine; but it was not
+until I had seen the engines of the screw steamer Aberdeen erected in the
+workshops of Messrs. Robert Napier & Sons that I became convinced that it
+was the engine of the immediate future. It is, however, due to the
+farsightedness and enterprise of Mr. C.H. Wilson, M.P., that I was
+enabled to try the merits of the new system and compare it with the old.
+Mr. Wilson had already viewed the triple compound engine with more than
+ordinary interest, and it required little persuasion on my part to allow
+the company to which I have the honor to belong to construct a triple
+expansion engine in lieu of the ordinary compound for one of four sister
+ships which it then had in hand for Messrs. Thomas Wilson, Sons & Co.,
+the latter only stipulating that it was to be of the same power as the
+engine already contracted for. As I was quite convinced that economy was
+due to the system rather than to the higher pressure, it was decided not
+to increase the boiler pressure more than was necessary to suit the
+triple system. The other three ships already alluded to were being fitted
+with engines having cylinders 25 inches and 50 inches diameter by 45
+inches stroke, and supplied with steam of 90 lb. pressure from a double
+ended boiler 13 feet 9 inches diameter by 15 feet long, having a total
+heating surface of 2,310 feet, so that these engines have every
+qualification for being economical so far as general proportions go, the
+stroke being an abnormally long one and the boiler of ample size.
+Experience has since shown that these engines are economical in coal,
+and the wear and tear exceptionally small.
+
+The new engines for the fourth boat were made with considerably shorter
+stroke, and the cylinders proportioned so as to give equal power; they
+are 21 inches, 32 inches, and 56 inches diameter by 36 inches stroke, the
+high pressure cylinder being supported on columns immediately over the
+medium cylinder, and in other respects these engines were made as near as
+possible like the other ones above named. Steam at 110 lb. pressure is
+supplied from a double ended boiler 12 feet 9 inches diameter and fifteen
+feet long, having a total heating surface of 2,270 square feet, and
+identical in design with the boiler supplied for the other engines. The
+propellers were made exactly alike in all respects, and the ships being
+likewise precisely alike, a comparison of the performances of the one
+fitted with the triple engines could be made with as little grounds for
+differences of opinion as is possible. One of the ships fitted with the
+ordinary compound engines was named the Kovno, that with the triple
+compound engines the Draco. Their dimensions are as follows:
+
+                                 Feet. Inches.
+Length between perpendiculars.    270    0
+Breadth.                           34    0
+Depth of hold.                     18    3
+
+And of 1,700 tons gross register. They are ordinary cargo boats, built of
+steel, having a raised quarter deck and long bridge amidships, but
+nothing about them otherwise requires comment.
+
+After making a voyage or two to the Baltic, and finding that everything
+was working satisfactorily, the Kovno was loaded with 2,400 tons dead
+weight, and sailed in January, 1883, for Buenos Ayres; the Draco was
+loaded with 2,425 tons dead weight, and sailed March, 1883, for Bombay,
+the distance in both cases being about 6,400 miles. It was thought
+advisable, for purposes of comparison, that the ships should steam at as
+near as possible the same speed; and to attain this object, we considered
+the safest plan was to instruct the engineers as to the average amount of
+coal they were to burn per day, and experience with these ships on their
+Baltic voyages had fixed this at 12 tons in the case of the Kovno and 10
+tons in the case of the Draco. During the voyage each ship seems to have
+had fair average weather, and equal care was taken in getting the best
+results possible. The average speed of the Draco was, however, 8.625
+knots, or 207 miles per day, the engines making on the average 57.5
+revolutions per minute, while the Kovno did only 8.1 knots, or 194 miles
+per day, the engines making 55.5 revolutions. The coal used was ordinary
+South Yorkshire, just as it comes from the pits for bunker purposes. The
+indicated horse power in each case would average about 600. The total
+coal consumed was 326 tons in the Draco and 405 tons in the Kovno, or a
+saving of 19.5 per cent. over the ordinary compounds, with an increase of
+speed of 6.5 per cent.
+
+In December, 1883, one of the others, the Grodno, sailed from Bombay, and
+attained an average speed of 8.5 knots, or 204 miles per day, the engines
+making 57 revolutions, with a coal consumption of 12.8 tons per day, or
+469 tons on the voyage. The Draco's consumption is therefore 30.5 per
+cent. less than that of the Grodno on the round voyage, and 20.3 percent
+per day.
+
+The success of the triple compound engine was in these instances more
+than had been anticipated, and induced Mr. Wilson to go a step further.
+The S.S. Yeddo had been refitted with boilers made for a working pressure
+of 90 lb. per square inch, but owing to the size of the shafting the
+working pressure was limited to 70 lb.; the average consumption of coal
+under these circumstances on two voyages was 17 tons per day. These
+boilers had a margin of safety beyond what was required by the rules when
+made, and as the Board of Trade rules had been modified in the mean
+while, it was found that they could with safety be worked at 100 lb. per
+square inch. A third cylinder was now fitted on the top of the original
+low pressure, and the safety valves loaded to the 100 lb., and the ship
+was dispatched to Cronstadt. After making two voyages under similar
+circumstances to the two previous ones, the average consumption was 13.5
+tons per day only. In this case it was the same ship, same boilers, same
+engines, same propeller, and same men, the only difference being the
+addition of a third cylinder and the increase of pressure.
+
+So far all the trials had been made with two crank engines; so it was now
+decided to construct another set of engines for 150 lb. pressure, having
+a crank to each cylinder. These engines had cylinders 201/2 inches, 33
+inches, and 58 inches diameter by 36 inches stroke, and were fitted into
+the screw steamer Rosario, whose dimensions are 275 feet 3 inches between
+perpendiculars, 34 feet 3 inches beam, and 19 feet 2 inches depth of
+hold, 1,862 tons gross, and the deadweight capacity 2,550 tons. In March
+last year she was loaded with 2,530 tons deadweight, and did the voyage
+to Bombay at an average speed of 8.6 knots on a consumption of 10.5 tons
+per day of South Yorkshire coal, and burnt on the voyage 347 tons. This
+result is superior to that of the Draco when the size of the ship is
+taken into account, but is not so much so as might have been anticipated
+from the increase of pressure and the rate of expansion, which was 14.4
+in the Rosario and 12 in the Draco. Another set of engines was made from
+the patterns of those of the Draco, but with the high pressure cylinder
+20 inches diameter, steam at 150 lb. pressure being supplied from two
+single ended boilers, having a total heating surface of 2,200 square
+feet. They are fitted in the S.S. Finland, a cargo boat 270 feet long, 35
+feet beam, by 18 feet depth of hold, and 1,954 tons gross register. In
+January she was loaded with 2,500 tons deadweight, and sailed for
+Rangoon. The average speed attained was 8.42 knots per hour, or 202 miles
+per day, on a consumption of 10.3 tons of Welsh coal per day, the rate of
+expansion being 12. It should be mentioned that all these ships named are
+fitted and steered with steam stearing gear, so that in comparing these
+results and those published of the engines made by an eminent engineer in

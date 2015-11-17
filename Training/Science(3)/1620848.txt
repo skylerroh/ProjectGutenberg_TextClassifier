@@ -1,0 +1,576 @@
+acids which may be regarded as derived from the union of several
+molecules of the orthosilicic acid, with the loss of water. Thus we have
+
+    3H_{4}SiO_{4} = H_{4}Si_{3}O_{8} + 4H_{2}O.
+
+These acids cannot be prepared in the pure state, but their salts form
+many of the crystalline rocks in nature. Feldspar, for example, has the
+formula KAlSi_{3}O_{8}, and is a mixed salt of the acid
+H_{4}Si_{3}O_{8}, whose formation is represented in the equation above.
+Kaolin has the formula Al_{2}Si_{2}O_{7}.2H_{2}O. Many other examples
+will be met in the study of the metals.
+
+~Glass.~ When sodium and calcium silicates, together with silicon dioxide,
+are heated to a very high temperature, the mixture slowly fuses to a
+transparent liquid, which on cooling passes into the solid called glass.
+Instead of starting with sodium and calcium silicates it is more
+convenient and economical to heat sodium carbonate (or sulphate) and
+lime with an excess of clean sand, the silicates being formed during the
+heating:
+
+    Na_{2}CO_{3} + SiO_{2} = Na_{2}SiO_{3} + CO_{2},
+
+    CaO + SiO_{2} = CaSiO_{3}.
+
+[Illustration: Fig. 74]
+
+The mixture is heated below the fusing point for some time, so that the
+escaping carbon dioxide may not spatter the hot liquid; the heat is then
+increased and the mixture kept in a state of fusion until all gases
+formed in the reaction have escaped.
+
+_Molding and blowing of glass._ The way in which the melted mixture is
+handled in the glass factory depends upon the character of the article
+to be made. Many articles, such as bottles, are made by blowing the
+plastic glass into hollow molds of the desired shape. The mold is first
+opened, as shown in Fig. 74. A lump of plastic glass A on the hollow
+rod B is lowered into the mold, which is then closed by the handles
+C. By blowing into the tube the glass is blown into the shape of the
+mold. The mold is then opened and the bottle lifted out. The neck of the
+bottle must be cut off at the proper place and the sharp edges rounded
+off in a flame.
+
+Other objects, such as lamp chimneys, are made by getting a lump of
+plastic glass on the end of a hollow iron rod and blowing it into the
+desired shape without the help of a mold, great skill being required in
+the manipulation of the glass. Window glass is made by blowing large
+hollow cylinders about 6 ft. long and 1-1/2 ft. in diameter. These are
+cut longitudinally, and are then placed in an oven and heated until they
+soften, when they are flattened out into plates (Fig. 75). Plate glass
+is cast into flat slabs, which are then ground and polished to perfectly
+plane surfaces.
+
+_Varieties of glass._ The ingredients mentioned above make a soft,
+easily fusible glass. If potassium carbonate is substituted for the
+sodium carbonate, the glass is much harder and less easily fused;
+increasing the amount of sand has somewhat the same effect. Potassium
+glass is largely used in making chemical glassware, since it resists the
+action of reagents better than the softer sodium glass. If lead oxide is
+substituted for the whole or a part of the lime, the glass is very soft,
+but has a high index of refraction and is valuable for making optical
+instruments and artificial jewels.
+
+[Illustration: Fig. 75]
+
+_Coloring of glass._ Various substances fused along with the glass
+mixture give characteristic colors. The amber color of common bottles is
+due to iron compounds in the glass; in other cases iron colors the glass
+green. Cobalt compounds color it deep blue; those of manganese give it
+an amethyst tint and uranium compounds impart a peculiar yellowish green
+color. Since iron is nearly always present in the ingredients, glass is
+usually slightly yellow. This color can be removed by adding the proper
+amount of manganese dioxide, for the amethyst color of manganese and the
+yellow of iron together produce white light.
+
+_Nature of glass._ Glass is not a definite chemical compound and its
+composition varies between wide limits. Fused glass is really a solution
+of various silicates, such as those of calcium and lead, in fused sodium
+or potassium silicate. A certain amount of silicon dioxide is also
+present. This solution is then allowed to solidify under such conditions
+of cooling that the dissolved substances do not separate from the
+solvent. The compounds which are used to color the glass are sometimes
+converted into silicates, which then dissolve in the glass, giving it a
+uniform color. In other cases, as in the milky glasses which resemble
+porcelain in appearance, the color or opaqueness is due to the finely
+divided color material evenly distributed throughout the glass, but not
+dissolved in it. Milky glass is made by mixing calcium fluoride, tin
+oxide, or some other insoluble substance in the melted glass. Copper or
+gold in metallic form scattered through glass gives it shades of red.
+
+
+TITANIUM
+
+     Titanium is a very widely distributed element in nature, being
+     found in almost all soils, in many rocks, and even in plant and
+     animal tissues. It is not very abundant in any one locality,
+     and it possesses little commercial value save in connection
+     with the iron industry. Its most common ore is rutile
+     (TiO_{2}), which resembles silica in many respects.
+
+     In both physical and chemical properties titanium resembles
+     silicon, though it is somewhat more metallic in character. This
+     resemblance is most marked in the acids of titanium. It not
+     only forms metatitanic and orthotitanic acids but a great
+     variety of polytitanic acids as well.
+
+
+BORON
+
+~Occurrence.~ Boron is never found free in nature. It occurs as boric acid
+(H_{3}BO_{3}), and in salts of polyboric acids, which usually have very
+complicated formulas.
+
+~Preparation and properties.~ Boron can be prepared from its oxide by
+reduction with magnesium, exactly as in the case of silicon. It
+resembles silicon very strikingly in its properties. It occurs in
+several allotropic forms, is very hard when crystallized, and is rather
+inactive toward reagents. It forms a hydride, BH_{3}, and combines
+directly with the elements of the chlorine family. Boron fluoride
+(BF_{3}) is very similar to silicon fluoride in its mode of formation
+and chemical properties.
+
+~Boric oxide~ (B_{2}O_{3}). Boron forms one well-known oxide, B_{2}O_{3},
+called boric anhydride. It is formed as a glassy mass by heating boric
+acid to a high temperature. It absorbs water very readily, uniting with
+it to form boric acid again:
+
+    B_{2}O_{3} + 3H_{2}O = 2H_{3}BO_{3}.
+
+In this respect it differs from silicon dioxide, which will not combine
+directly with water.
+
+~Boric acid~ (H_{3}BO_{3}). This is found in nature in considerable
+quantities and forms one of the chief sources of boron compounds. It is
+found dissolved in the water of hot springs in some localities,
+particularly in Italy. Being volatile with steam, the vapor which
+escapes from these springs has some boric acid in it. It is easily
+obtained from these sources by condensation and evaporation, the
+necessary heat being supplied by other hot springs.
+
+Boric acid crystallizes in pearly flakes, which are greasy to the touch.
+In the laboratory it is easily prepared by treating a strong, hot
+solution of borax with sulphuric acid. Boric acid being sparingly
+soluble in water crystallizes out on cooling:
+
+    Na_{2}B_{4}O_{7} + 5H_{2}O + H_{2}SO_{4} = Na_{2}SO_{4} + 4H_{3}BO_{3}.
+
+The substance is a mild antiseptic, and on this account is often used in
+medicine and as a preservative for canned foods and milk.
+
+~Metaboric and polyboric acids.~ When boric acid is gently heated it is
+converted into metaboric acid (HBO_{2}):
+
+    H_{3}BO_{3} = HBO_{2} + H_{2}O.
+
+On heating metaboric acid to a somewhat higher temperature tetraboric
+acid (H_{2}B_{4}O_{7}) is formed:
+
+    4HBO_{2} = H_{2}B_{4}O_{7} + H_{2}O.
+
+Many other complex acids of boron are known.
+
+~Borax.~ Borax is the sodium salt of tetraboric acid, having the formula
+Na_{2}B_{4}O_{7}.10 H_{2}O. It is found in some arid countries, as
+southern California and Tibet, but is now made commercially from the
+mineral colemanite, which is the calcium salt of a complex boric acid.
+When this is treated with a solution of sodium carbonate, calcium
+carbonate is precipitated and borax crystallizes from the solution.
+
+When heated borax at first swells up greatly, owing to the expulsion of
+the water of crystallization, and then melts to a clear glass. This
+glass has the property of easily dissolving many metallic oxides, and on
+this account borax is used as a flux in soldering, for the purpose of
+removing from the metallic surfaces to be soldered the film of oxide
+with which they are likely to be covered. These oxides often give a
+characteristic color to the clear borax glass, and borax beads are
+therefore often used in testing for the presence of metals, instead of
+the metaphosphoric acid bead already described.
+
+     The reason that metallic oxides dissolve in borax is that borax
+     contains an excess of acid anhydride, as can be more easily
+     seen if its formula is written 2NaBO_{2} + B_{2}O_{3}. The
+     metallic oxide combines with this excess of acid anhydride,
+     forming a mixed salt of metaboric acid.
+
+Borax is extensively used as a constituent of enamels and glazes for
+both metal ware and pottery. It is also used as a flux in soldering and
+brazing, and in domestic ways it serves as a mild alkali, as a
+preservative for meats, and in a great variety of less important
+applications.
+
+
+EXERCISES
+
+1. Account for the fact that a solution of borax in water is alkaline.
+
+2. What weight of water of crystallization does 1 kg. of borax contain?
+
+3. When a concentrated solution of borax acts on silver nitrate a borate
+of silver is formed. If the solution of borax is dilute, however, an
+hydroxide of silver forms. Account for this difference in behavior.
+
+
+
+
+CHAPTER XXII
+
+THE METALS
+
+
+~The metals.~ The elements which remain to be considered are known
+collectively as the metals. They are also called the base-forming
+elements, since their hydroxides are bases. A metal may therefore be
+defined as an element whose hydroxide is a base. When a base dissolves
+in water the hydroxyl groups form the anions, while the metallic element
+forms the cations. From this standpoint a metal can be defined as an
+element capable of forming simple cations in solution.
+
+The distinction between a metal and a non-metal is not a very sharp one,
+since the hydroxides of a number of elements act as bases under some
+conditions and as acids under others. We have seen that antimony is an
+element of this kind.
+
+~Occurrence of metals in nature.~ A few of the metals are found in nature
+in the free state. Among these are gold, platinum, and frequently
+copper. They are usually found combined with other elements in the form
+of oxides or salts of various acids. Silicates, carbonates, sulphides,
+and sulphates are the most abundant salts. All inorganic substances
+occurring in nature, whether they contain a metal or not, are called
+_minerals_. Those minerals from which a useful substance can be
+extracted are called _ores_ of the substance. These two terms are most
+frequently used in connection with the metals.
+
+~Extraction of metals,--metallurgy.~ The process of extracting a metal
+from its ores is called the metallurgy of the metal. The metallurgy of
+each metal presents peculiarities of its own, but there are several
+methods of general application which are very frequently employed.
+
+1. _Reduction of an oxide with carbon._ Many of the metals occur in
+nature in the form of oxides. When these oxides are heated to a high
+temperature with carbon the oxygen combines with it and the metal is set
+free. Iron, for example, occurs largely in the form of the oxide
+Fe_{2}O_{3}. When this is heated with carbon the reaction expressed in
+the following equation takes place:
+
+    Fe_{2}O_{3} + 3 C = 2 Fe + 3 CO.
+
+Many ores other than oxides may be changed into oxides which can then be
+reduced by carbon. The conversion of such ores into oxides is generally
+accomplished by heating, and this process is called _roasting_. Many
+carbonates and hydroxides decompose directly into the oxide on heating.
+Sulphides, on the other hand, must be heated in a current of air, the
+oxygen of the air entering into the reaction. The following equations
+will serve to illustrate these changes in the case of the ores of iron:
+
+    FeCO_{3} = FeO + CO_{2},
+
+    2Fe(OH)_{3} = Fe_{2}O_{3} + 3H_{2}O,
+
+    2FeS_{2} + 11O = Fe_{2}O_{3} + 4SO_{2}.
+
+2. _Reduction of an oxide with aluminium._ Not all oxides, however, can
+be reduced by carbon. In such cases aluminium may be used. Thus chromium
+may be obtained in accordance with the following equation:
+
+    Cr_{2}O_{3} + 2 Al = 2 Cr + Al_{2}O_{3}.
+
+This method is a comparatively new one, having been brought into use by
+the German chemist Goldschmidt; hence it is sometimes called the
+Goldschmidt method.
+
+3. _Electrolysis._ In recent years increasing use is being made of the
+electric current in the preparation of metals. In some cases the
+separation of the metal from its compounds is accomplished by passing
+the current through a solution of a suitable salt of the metal, the
+metal usually being deposited upon the cathode. In other cases the
+current is passed through a fused salt of the metal, the chloride being
+best adapted to this purpose.
+
+~Electro-chemical industries.~ Most of the electro-chemical industries of
+the country are carried on where water power is abundant, since this
+furnishes the cheapest means for the generation of electrical energy.
+Niagara Falls is the most important locality in this country for such
+industries, and many different electro-chemical products are
+manufactured there. Some industries depend upon electrolytic processes,
+while in others the electrical energy is used merely as a source of heat
+in electric furnaces.
+
+~Preparation of compounds of the metals.~ Since the compounds of the
+metals are so numerous and varied in character, there are many ways of
+preparing them. In many cases the properties of the substance to be
+prepared, or the material available for its preparation, suggest a
+rather unusual way. There are, however, a number of general principles
+which are constantly applied in the preparation of the compounds of the
+metals, and a clear understanding of them will save much time and effort
+in remembering the details in any given case. The most important of
+these general methods for the preparation of compounds are the
+following:
+
+1. _By direct union of two elements._ This is usually accomplished by
+heating the two elements together. Thus the sulphides, chlorides, and
+oxides of a metal can generally be obtained in this way. The following
+equations serve as examples of this method:
+
+    Fe + S = FeS,
+
+    Mg + O = MgO,
+
+    Cu + 2Cl = CuCl_{2}.
+
+2. _By the decomposition of a compound._ This decomposition may be
+brought about either by heat alone or by the combined action of heat and
+a reducing agent. Thus when the nitrate of a metal is heated the oxide
+of the metal is usually obtained. Copper nitrate, for example,
+decomposes as follows:
+
+    Cu(NO_{3})_{2} = CuO + 2NO_{2} + O.
+
+Similarly the carbonates of the metals yield oxides, thus:
+
+    CaCO_{3} = CaO + CO_{2}.
+
+Most of the hydroxides form an oxide and water when heated:
+
+    2Al(OH)_{3} = Al_{2}O_{3} + 3H_{2}O.
+
+When heated with carbon, sulphates are reduced to sulphides, thus:
+
+    BaSO_{4} + 2C = BaS + 2CO_{2}.
+
+3. _Methods based on equilibrium in solution._ In the preparation of
+compounds the first requisite is that the reactions chosen shall be of
+such a kind as will go on to completion. In the chapter on chemical
+equilibrium it was shown that reactions in solution may become complete
+in either of three ways: (1) a gas may be formed which escapes from
+solution; (2) an insoluble solid may be formed which precipitates; (3)
+two different ions may combine to form undissociated molecules. By the
+judicious selection of materials these principles may be applied to the
+preparation of a great variety of compounds, and illustrations of such
+methods will very frequently be found in the subsequent pages.
+
+4. _By fusion methods._ It sometimes happens that substances which are
+insoluble in water and in acids, and which cannot therefore be brought
+into double decomposition in the usual way, are soluble in other
+liquids, and when dissolved in them can be decomposed and converted into
+other desired compounds. Thus barium sulphate is not soluble in water,
+and sulphuric acid, being less volatile than most other acids, cannot
+easily be driven out from this salt When brought into contact with
+melted sodium carbonate, however, it dissolves in it, and since barium
+carbonate is insoluble in melted sodium carbonate, double decomposition
+takes place:
+
+    Na_{2}CO_{3} + BaSO_{4} = BaCO_{3} + Na_{2}SO_{4}.
+
+On dissolving the cooled mixture in water the sodium sulphate formed in
+the reaction, together with any excess of sodium carbonate which may be
+present, dissolves. The barium carbonate can then be filtered off and
+converted into any desired salt by the processes already described.
+
+5. _By the action of metals on salts of other metals._ When a strip of
+zinc is placed in a solution of a copper salt the copper is precipitated
+and an equivalent quantity of zinc passes into solution:
+
+    Zn + CuSO_{4} = Cu + ZnSO_{4}.
+
+In like manner copper will precipitate silver from its salts:
+
+    Cu + Ag_{2}SO_{4} = 2Ag + CuSO_{4}.
+
+It is possible to tabulate the metals in such a way that any one of them
+in the table will precipitate any one following it from its salts. The
+following is a list of some of the commoner metals arranged in this way:
+
+    Zinc
+    Iron
+    Tin
+    Lead
+    Copper
+    Bismuth
+    Mercury
+    Silver
+    Gold
+
+According to this table copper will precipitate bismuth, mercury,
+silver, or gold from their salts, and will in turn be precipitated by
+zinc, iron, tin, or lead. Advantage is taken of this principle in the
+purification of some of the metals, and occasionally in the preparation
+of metals and their compounds.
+
+~Important insoluble compounds.~ Since precipitates play so important a
+part in the reactions which substances undergo, as well as in the
+preparation of many chemical compounds, it is important to know what
+substances are insoluble. Knowing this, we can in many cases predict
+reactions under certain conditions, and are assisted in devising ways to
+prepare desired compounds. While there is no general rule which will
+enable one to foretell the solubility of any given compound,
+nevertheless a few general statements can be made which will be of much
+assistance.
+
+1. _Hydroxides._ All hydroxides are insoluble save those of ammonium,
+sodium, potassium, calcium, barium, and strontium.
+
+2. _Nitrates._ All nitrates are soluble in water.
+
+3. _Chlorides._ All chlorides are soluble save silver and mercurous
+chlorides. (Lead chloride is but slightly soluble.)
+
+4. _Sulphates._ All sulphates are soluble save those of barium,
+strontium, and lead. (Sulphates of silver and calcium are only
+moderately soluble.)
+
+5. _Sulphides._ All sulphides are insoluble save those of ammonium,
+sodium, and potassium. The sulphides of calcium, barium, strontium, and
+magnesium are insoluble in water, but are changed by hydrolysis into
+acid sulphides which are soluble. On this account they cannot be
+prepared by precipitation.
+
+6. _Carbonates, phosphates, and silicates._ All normal carbonates,
+phosphates, and silicates are insoluble save those of ammonium, sodium
+and potassium.
+
+
+EXERCISES
+
+1. Write equations representing four different ways for preparing
+Cu(NO_{3})_{2}.
+
+2. Write equations representing six different ways for preparing
+ZnSO_{4}.
+
+3. Write equations for two reactions to illustrate each of the three
+ways in which reactions in solutions may become complete.
+
+4. Give one or more methods for preparing each of the following
+compounds: CaCl_{2}, PbCl_{2}, BaSO_{4}, CaCO_{3}, (NH_{4})_{2}S,
+Ag_{2}S, PbO, Cu(OH)_{2} (for solubilities, see last paragraph of
+chapter). State in each case the general principle involved in the
+method of preparation chosen.
+
+
+
+
+CHAPTER XXIII
+
+THE ALKALI METALS
+
+
+=================================================================
+          |        |        |         |         |
+          | SYMBOL | ATOMIC | DENSITY | MELTING | FIRST PREPARED
+          |        | WEIGHT |         |  POINT  |
+__________|________|________|_________|_________|________________
+          |        |        |         |         |
+Lithium   |   Li   |   7.03 |   0.59  |  186. deg.  | Davy     1820
+Sodium    |   Na   |  23.05 |   0.97  |   97.6 deg. |  "       1807
+Potassium |   K    |  39.15 |   0.87  |   62.5 deg. |  "       1807
+Rubidium  |   Rb   |  85.5  |   1.52  |   38.5 deg. | Bunsen   1861
+Caesium    |   Cs   | 132.9  |   1.88  |   26.5 deg. |  "       1860
+=================================================================
+
+~The family.~ The metals listed in the above table constitute the even
+family in Group I in the periodic arrangement of the elements, and
+therefore form a natural family. The name alkali metals is commonly
+applied to the family for the reason that the hydroxides of the most
+familiar members of the family, namely sodium and potassium, have long
+been called alkalis.
+
+1. _Occurrence._ While none of these metals occur free in nature, their
+compounds are very widely distributed, being especially abundant in sea
+and mineral waters, in salt beds, and in many rocks. Only sodium and
+potassium occur in abundance, the others being rarely found in any
+considerable quantity.
+
+2. _Preparation._ The metals are most conveniently prepared by the
+electrolysis of their fused hydroxides or chlorides, though it is
+possible to prepare them by reducing their oxides or carbonates with
+carbon.
+
+3. _Properties._ They are soft, light metals, having low melting points
+and small densities, as is indicated in the table. Their melting points
+vary inversely with their atomic weights, while their densities (sodium
+excepted) vary directly with these. The pure metals have a silvery
+luster but tarnish at once when exposed to the air, owing to the
+formation of a film of oxide upon the surface of the metal. They are
+therefore preserved in some liquid, such as coal oil, which contains no
+oxygen. Because of their strong affinity for oxygen they decompose water
+with great ease, forming hydroxides and liberating hydrogen in
+accordance with the equation
+
+    M + H_{2}O = MOH + H,
+
+where M stands for any one of these metals. These hydroxides are white
+solids; they are readily soluble in water and possess very strong basic
+properties. These bases are nearly equal in strength, that is, they all
+dissociate in water to about the same extent.
+
+4. _Compounds._ The alkali metals almost always act as univalent
+elements in the formation of compounds, the composition of which can be
+represented by such formulas as MH, MCl, MNO_{3}, M_{2}SO_{4},
+M_{3}PO_{4}. These compounds, when dissolved in water, dissociate in
+such a way as to form simple, univalent metallic ions which are
+colorless. With the exception of lithium these metals form very few
+insoluble compounds, so that it is not often that precipitates
+containing them are obtained. Only sodium and potassium will be studied
+in detail, since the other metals of the family are of relatively small
+importance.
+
+The compounds of sodium and potassium are so similar in properties that
+they can be used interchangeably for most purposes. Other things being
+equal, the sodium compounds are prepared in preference to those of
+potassium, since they are cheaper. When a given sodium compound is
+deliquescent, or is so soluble that it is difficult to purify, the
+corresponding potassium compound is prepared in its stead, provided its
+properties are more desirable in these respects.
+
+
+SODIUM
+
+~Occurrence in nature.~ Large deposits of sodium chloride have been found
+in various parts of the world, and the water of the ocean and of many
+lakes and springs contains notable quantities of it. The element also
+occurs as a constituent of many rocks and is therefore present in the
+soil formed by their disintegration. The mineral cryolite
+(Na_{3}AlF_{6}) is an important substance, and the nitrate, carbonate,
+and borate also occur in nature.
+
+~Preparation.~ In 1807 Sir Humphry Davy succeeded in preparing very small
+quantities of metallic sodium by the electrolysis of the fused
+hydroxide. On account of the cost of electrical energy it was for many
+years found more economical to prepare it by reducing the carbonate with
+carbon in accordance with the following equation:
+
+    Na_{2}CO_{3} + 2C = 2Na + 3CO.
+
+The cost of generating the electric current has been diminished to such
+an extent, however, that it is now more economical to prepare sodium by
+Davy's original method, namely, by the electrolysis of the fused
+hydroxide or chloride. When the chloride is used the process is
+difficult to manage, owing to the higher temperature required to keep
+the electrolyte fused, and because of the corroding action of the fused
+chloride upon the containing vessel.
+
+[Illustration: SIR HUMPHRY DAVY (English) (1778-1829)
+
+Isolated sodium, lithium, potassium, barium, strontium, and calcium by
+means of electrolysis; demonstrated the elementary nature of chlorine;
+invented the safety lamp; discovered the stupefying effects of nitrous
+oxide]
+
+     ~Technical preparation.~ The sodium hydroxide is melted in a
+     cylindrical iron vessel (Fig. 76) through the bottom of which
+     rises the cathode K. The anodes A, several in number, are
+     suspended around the cathode from above. A cylindrical vessel
+     C floats in the fused alkali directly over the cathode, and
+     under this cap the sodium and hydrogen liberated at the cathode
+     collect. The hydrogen escapes by lifting the cover, and the
+     sodium, protected from the air by the hydrogen, is skimmed or
+     drained off from time to time. Oxygen is set free upon the
+     anode and escapes into the air through the openings O without
+     coming into contact with the sodium or hydrogen. This process
+     is carried on extensively at Niagara Falls.
+
+[Illustration: Fig. 76]
+
+~Properties.~ Sodium is a silver-white metal about as heavy as water, and
+so soft that it can be molded easily by the fingers or pressed into
+wire. It is very active chemically, combining with most of the
+non-metallic elements, such as oxygen and chlorine, with great energy.
+It will often withdraw these elements from combination with other
+elements, and is thus able to decompose water and the oxides and
+chlorides of many metals.
+
+~Sodium peroxide~ (NaO). Since sodium is a univalent element we should
+expect it to form an oxide of the formula Na_{2}O. While such an oxide
+can be prepared, the peroxide (NaO) is much better known. It is a
+yellowish-white powder made by burning sodium in air. Its chief use is
+as an oxidizing agent. When heated with oxidizable substances it gives

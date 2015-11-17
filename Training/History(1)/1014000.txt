@@ -1,0 +1,374 @@
+perforated at the centre, and into the orifice a bit of copper wire is
+introduced. Placing the square between the prisms, and heating the
+wire, the heat passes by conduction to the glass, through which it
+spreads from the centre outwards. You immediately see four luminous
+quadrants and a dim cross, which becomes gradually blacker, by
+comparison with the adjacent brightness. And as, in the case of
+pressure, we produced colours, so here also, by the proper application
+of heat, gorgeous chromatic effects may be evoked. The condition
+necessary to the production of these colours may be rendered permanent
+by first heating the glass sufficiently, and then cooling it, so that
+the chilled mass shall remain in a state of permanent strain and
+pressure. Two or three examples will illustrate this point. Figs. 40
+and 41 represent the figures obtained with two pieces of glass thus
+prepared; two rectangular pieces of unannealed glass, crossed and
+placed between the polarizer and analyzer, exhibit the beautiful iris
+fringes represented in fig. 42.
+
+[Illustration: Fig. 42.]
+
+
+Sec. 6. _Circular Polarization._
+
+But we have to follow the ether still further into its hiding-places.
+Suspended before you is a pendulum, which, when drawn aside and
+liberated, oscillates to and fro. If, when the pendulum is passing the
+middle point of its excursion, I impart a shock to it tending to drive
+it at right angles to its present course, what occurs? The two
+impulses compound themselves to a vibration oblique in direction to
+the former one, but the pendulum still oscillates in _a plane_. But,
+if the rectangular shock be imparted to the pendulum when it is at the
+limit of its swing, then the compounding of the two impulses causes
+the suspended ball to describe, not a straight line, but an ellipse;
+and, if the shock be competent of itself to produce a vibration of the
+same amplitude as the first one, the ellipse becomes a circle.
+
+Why do I dwell upon these things? Simply to make known to you the
+resemblance of these gross mechanical vibrations to the vibrations of
+light. I hold in my hand a plate of quartz cut from the crystal
+perpendicular to its axis. The crystal thus cut possesses the
+extraordinary power of twisting the plane of vibration of a polarized
+ray to an extent dependent on the thickness of the crystal. And the
+more refrangible the light the greater is the amount of twisting; so
+that, when white light is employed, its constituent colours are thus
+drawn asunder. Placing the quartz plate between the polarizer and
+analyzer, this vivid red appears; and, turning the analyzer in front
+from right to left, the other colours of the spectrum appear in
+succession. Specimens of quartz have been found which require the
+analyzer to be turned from left to right to obtain the same succession
+of colours. Crystals of the first class are therefore called
+right-handed, and of the second class, left-handed crystals.
+
+With profound sagacity, Fresnel, to whose genius we mainly owe the
+expansion and final triumph of the undulatory theory of light,
+reproduced mentally the mechanism of these crystals, and showed their
+action to be due to the circumstance that, in them, the waves of
+ether so act upon each other as to produce the condition represented
+by our rotating pendulum. Instead of being plane polarized, the light
+in rock crystal is _circularly polarized_. Two such rays, transmitted
+along the axis of the crystal, and rotating in opposite directions,
+when brought to interference by the analyzer, are demonstrably
+competent to produce all the observed phenomena.
+
+
+Sec. 7. _Complementary Colours of Bi-refracting Spar in Circularly
+Polarized Light. Proof that Yellow and Blue are Complementary._
+
+I now remove the analyzer, and put in its place the piece of Iceland
+spar with which we have already illustrated double refraction. The two
+images of the carbon-points are now before you, produced, as you know,
+by two beams vibrating at right angles to each other. Introducing a
+plate of quartz between the polarizer and the spar, the two images
+glow with complementary colours. Employing the image of an aperture
+instead of that of the carbon-points, we have two coloured circles. As
+the analyzer is caused to rotate, the colours pass through various
+changes: but they are always complementary. When the one is red, the
+other is green; when the one is yellow, the other is blue. Here we
+have it in our power to demonstrate afresh a statement made in our
+first lecture, that although the mixture of blue and yellow pigments
+produces green, the mixture of blue and yellow lights produces white.
+By enlarging our aperture, the two images produced by the spar are
+caused to approach each other, and finally to overlap. The one image
+is now a vivid yellow, the other a vivid blue, and you notice that
+where these colours are superposed we have a pure white. (See fig. 43,
+where N is the end of the polarizer, Q the quartz plate, L a lens, and
+B the bi-refracting spar. The two images overlap at O, and produce
+white by their mixture.)
+
+[Illustration: Fig. 43.]
+
+
+Sec. 8. _The Magnetization of Light._
+
+This brings us to a point of our inquiries which, though rarely
+illustrated in lectures, is nevertheless so likely to affect
+profoundly the future course of scientific thought that I am unwilling
+to pass it over without reference. I refer to the experiment which
+Faraday, its discoverer, called the 'magnetization of light.' The
+arrangement for this celebrated experiment is now before you. We have,
+first, our electric lamp, then a Nicol prism, to polarize the beam
+emergent from the lamp; then an electro-magnet, then a second Nicol,
+and finally our screen. At the present moment the prisms are crossed,
+and the screen is dark. I place from pole to pole of the
+electro-magnet a cylinder of a peculiar kind of glass, first made by
+Faraday, and called Faraday's heavy glass. Through this glass the beam
+from the polarizer now passes, being intercepted by the Nicol in
+front. On exciting the magnet light instantly appears upon the screen.
+By the action of the magnet upon the heavy glass the plane of
+vibration is caused to rotate, the light being thus enabled to get
+through the analyzer.
+
+The two classes into which quartz-crystals are divided have been
+already mentioned. In my hand I hold a compound plate, one half of it
+taken from a right-handed, and the other from a left-handed crystal.
+Placing the plate in front of the polarizer, I turn one of the Nicols
+until the two halves of the plate show a common puce colour. This
+yields an exceedingly sensitive means of rendering visible the action
+of a magnet upon light. By turning either the polarizer or the
+analyzer through the smallest angle, the uniformity of the colour
+disappears, and the two halves of the quartz show different colours.
+The magnet produces an effect equivalent to this rotation. The
+puce-coloured circle is now before you on the screen. (See fig. 44,
+where N is the nozzle of the lamp, H the first Nicol, Q the biquartz
+plate, L a lens, M the electro-magnet, with the heavy glass across its
+perforated poles, and P the second Nicol.) Exciting the magnet, one
+half of the image becomes suddenly red, the other half green.
+Interrupting the current, the two colours fade away, and the primitive
+puce is restored.
+
+The action, moreover, depends upon the polarity of the magnet, or, in
+other words, on the direction of the current which surrounds the
+magnet. Reversing the current, the red and green reappear, but they
+have changed places. The red was formerly to the right, and the green
+to the left; the green is now to the right, and the red to the left.
+With the most exquisite ingenuity, Faraday analyzed all those actions
+and stated their laws. This experiment, however, long remained a
+scientific curiosity rather than a fruitful germ. That it would bear
+fruit of the highest importance, Faraday felt profoundly convinced,
+and present researches are on the way to verify his conviction.
+
+[Illustration: Fig. 44]
+
+
+Sec. 9. _Iris-rings surrounding the Axes of Crystals._
+
+A few more words are necessary to complete our knowledge of the
+wonderful interaction between ponderable molecules and the ether
+interfused among them. Symmetry of molecular arrangement implies
+symmetry on the part of the ether; atomic dissymmetry, on the other
+hand, involves the dissymmetry of the ether, and, as a consequence,
+double refraction. In a certain class of crystals the structure is
+homogeneous, and such crystals produce no double refraction. In
+certain other crystals the molecules are ranged symmetrically round a
+certain line, and not around others. Along the former, therefore, the
+ray is undivided, while along all the others we have double
+refraction. Ice is a familiar example: its molecules are built with
+perfect symmetry around the perpendiculars to the planes of freezing,
+and a ray sent through ice in this direction is not doubly refracted;
+whereas, in all other directions, it is. Iceland spar is another
+example of the same kind: its molecules are built symmetrically round
+the line uniting the two blunt angles of the rhomb. In this direction
+a ray suffers no double refraction, in all others it does. This
+direction of no double refraction is called the _optic axis_ of the
+crystal.
+
+Hence, if a plate be cut from a crystal of Iceland spar perpendicular
+to the axis, all rays sent across this plate in the direction of the
+axis will produce but one image. But, the moment we deviate from the
+parallelism with the axis, double refraction sets in. If, therefore, a
+beam that has been rendered _conical_ by a converging lens be sent
+through the spar so that the central ray of the cone passes along the
+axis, this ray only will escape double refraction. Each of the others
+will be divided into an ordinary and an extraordinary ray, the one
+moving more slowly through the crystal than the other; the one,
+therefore, retarded with reference to the other. Here, then, we have
+the conditions for interference, when the waves are reduced by the
+analyzer to a common plane.
+
+Placing the plate of Iceland spar between the crossed Nicol prisms,
+and employing the conical beam, we have upon the screen a beautiful
+system of iris-rings surrounding the end of the optic axis, the
+circular bands of colour being intersected by a black cross (fig. 45).
+The arms of this cross are parallel to the two directions of vibration
+in the polarizer and analyzer. It is easy to see that those rays whose
+planes of vibration within the spar coincide with the plane of
+vibration of _either_ prism, cannot get through _both_. This complete
+interception produces the arms of the cross.
+
+[Illustration: Fig. 45.]
+
+With monochromatic light the rings would be simply bright and
+black--the bright rings occurring at those thicknesses of the spar
+which cause the rays to conspire; the black rings at those thicknesses
+which cause them to quench each other. Turning the analyzer 90 deg. round,
+we obtain the complementary phenomena. The black cross gives place to
+a bright one, and every dark ring is supplanted also by a bright one
+(fig. 46). Here, as elsewhere, the different lengths of the
+light-waves give rise to iris-colours when white light is employed.
+
+[Illustration: Fig. 46.]
+
+[Illustration: Fig. 47.]
+
+Besides the _regular_ crystals which produce double refraction in no
+direction, and the _uniaxal_ crystals which produce it in all
+directions but one, Brewster discovered that in a large class of
+crystals there are _two_ directions in which double refraction does
+not take place. These are called _biaxal_ crystals. When plates of
+these crystals, suitably cut, are placed between the polarizer and
+analyzer, the axes (A A', fig. 47) are seen surrounded, not by
+circles, but by curves of another order and of a perfectly definite
+mathematical character. Each band, as proved experimentally by
+Herschel, forms a _lemniscata_; but the experimental proof was here,
+as in numberless other cases, preceded by the deduction which showed
+that, according to the undulatory theory, the bands must possess this
+special character.
+
+
+Sec. 10. _Power of the Wave Theory_.
+
+I have taken this somewhat wide range over polarization itself, and
+over the phenomena exhibited by crystals in polarized light, in order
+to give you some notion of the firmness and completeness of the theory
+which grasps them all. Starting from the single assumption of
+transverse undulations, we first of all determine the wave-lengths,
+and find that on them all the phenomena of colour are dependent. The
+wavelengths may be determined in many independent ways. Newton
+virtually determined them when he measured the periods of his Fits:
+the length of a fit, in fact, is that of a quarter of an undulation.
+The wave-lengths may be determined by diffraction at the edges of a
+slit (as in the Appendix to these Lectures); they may be deduced from
+the interference fringes produced by reflection; from the fringes
+produced by refraction; also by lines drawn with a diamond upon glass
+at measured distances asunder. And when the length determined by these
+independent methods are compared together, the strictest agreement is
+found to exist between them.
+
+With the wave-lengths once at our disposal, we follow the ether into
+the most complicated cases of interaction between it and ordinary
+matter, 'the theory is equal to them all. It makes not a single new
+physical hypothesis; but out of its original stock of principles it
+educes the counterparts of all that observation shows. It accounts
+for, explains, simplifies the most entangled cases; corrects known
+laws and facts; predicts and discloses unknown ones; becomes the guide
+of its former teacher Observation; and, enlightened by mechanical
+conceptions, acquires an insight which pierces through shape and
+colour to force and cause.'[18]
+
+But, while I have thus endeavoured to illustrate before you the power
+of the undulatory theory as a solver of all the difficulties of
+optics, do I therefore wish you to close your eyes to any evidence
+that may arise against it? By no means. You may urge, and justly urge,
+that a hundred years ago another theory was held by the most eminent
+men, and that, as the theory then held had to yield, the undulatory
+theory may have to yield also. This seems reasonable; but let us
+understand the precise value of the argument. In similar language a
+person in the time of Newton, or even in our time, might reason thus:
+Hipparchus and Ptolemy, and numbers of great men after them, believed
+that the earth was the centre of the solar system. But this deep-set
+theoretic notion had to give way, and the helio-centric theory may, in
+its turn, have to give way also. This is just as reasonable as the
+first argument. Wherein consists the strength of the present theory of
+gravitation? Solely in its competence to account for all the phenomena
+of the solar system. Wherein consists the strength of the theory of
+undulation? Solely in its competence to disentangle and explain
+phenomena a hundred-fold more complex than those of the solar system.
+Accept if you will the scepticism of Mr. Mill[19] regarding the
+undulatory theory; but if your scepticism be philosophical, it will
+wrap the theory of gravitation in the same or in greater doubt.[20]
+
+
+Sec. 11. _The Blue of the Sky_.
+
+I am unwilling to quit these chromatic phenomena without referring to
+a source of colour which has often come before me of late in the blue
+of your skies at noon, and the deep crimson of your horizon after the
+set of sun. I will here summarize and extend what I have elsewhere
+said upon this subject. Proofs of the most cogent description could be
+adduced to show that the blue light of the firmament is reflected
+light. That light comes to us across the direction of the solar rays,
+and even against the direction of the solar rays; and this lateral and
+opposing rush of wave-motion can only be due to the rebound of the
+waves from the air itself, or from something suspended in the air. The
+solar light, moreover, is not scattered by the sky in the proportions
+which produce white. The sky is blue, which indicates an excess of the
+smaller waves. The blueness of the air has been given as a reason for
+the blueness of the sky; but then the question arises, How, if the air
+be blue, can the light of sunrise and sunset, which travels through
+vast distances of air, be yellow, orange, or even red? The passage of
+the white solar light through a blue medium could by no possibility
+redden the light; the hypothesis of a blue atmosphere is therefore
+untenable. In fact, the agent, whatever it be, which sends us the
+light of the sky, exercises in so doing a dichroitic action. The light
+reflected is blue, the light transmitted is orange or red, A marked
+distinction is thus exhibited between reflection from the sky and that
+from an ordinary cloud, which exercises no such dichroitic action.
+
+The cloud, in fact, takes no note of size on the part of the waves of
+ether, but reflects them all alike. Now the cause of this may be that
+the cloud-particles are so large in comparison with the size of the
+waves of ether as to scatter them all indifferently. A broad cliff
+reflects an Atlantic roller as easily as it reflects a ripple produced
+by a sea-bird's wing; and, in the presence of large reflecting
+surfaces, the existing differences of magnitude among the waves of
+ether may also disappear. But supposing the reflecting particles,
+instead of being very large, to be very small, in comparison with the
+size of the waves. Then, instead of the whole wave being fronted and
+in great part thrown back, a small portion only is shivered off by the
+obstacle. Suppose, then, such minute foreign particles to be diffused
+in our atmosphere. Waves of all sizes impinge upon them, and at every
+collision a portion of the impinging wave is struck off. All the waves
+of the spectrum, from the extreme red to the extreme violet, are thus
+acted upon; but in what proportions will they be scattered? Largeness
+is a thing of relation; and the smaller the wave, the greater is the
+relative size of any particle on which the wave impinges, and the
+greater also the relative reflection.
+
+A small pebble, placed in the way of the ring-ripples produced by
+heavy rain-drops on a tranquil pond, will throw back a large fraction
+of each ripple incident upon it, while the fractional part of a larger
+wave thrown back by the same pebble might be infinitesimal. Now to
+preserve the solar light white, its constituent proportions must not
+be altered; but in the scattering of the light by these very small
+particles we see that the proportions _are_ altered. The smaller waves
+are in excess, and, as a consequence, in the scattered light blue will
+be the predominant colour. The other colours of the spectrum must, to
+some extent, be associated with the blue: they are not absent, but
+deficient. We ought, in fact, to have them all, but in diminishing
+proportions, from the violet to the red.
+
+We have thus reasoned our way to the conclusion, that were particles,
+small in comparison to the size of the ether waves, sown in our
+atmosphere, the light scattered by those particles would be exactly
+such as we observe in our azure skies. And, indeed, when this light is
+analyzed, all the colours of the spectrum are found in the proportions
+indicated by our conclusion.
+
+By its successive collisions with the particles the white light is
+more and more robbed of its shorter waves; it therefore loses more and
+more of its due proportion of blue. The result may be anticipated. The
+transmitted light, where moderate distances are involved, will appear
+yellowish. But as the sun sinks towards the horizon the atmospheric
+distance increases, and consequently the number of the scattering
+particles. They weaken in succession the violet, the indigo, the blue,
+and even disturb the proportions of green. The transmitted light under
+such circumstances must pass from yellow through orange to red. This
+also is exactly what we find in nature. Thus, while the reflected
+light gives us, at noon, the deep azure of the Alpine skies, the
+transmitted light gives us, at sunset, the warm crimson of the Alpine
+snows.
+
+But can small particles be really proved to act in the manner
+indicated? No doubt of it. Each one of you can submit the question to
+an experimental test. Water will not dissolve resin, but spirit will;
+and when spirit which holds resin in solution is dropped into water,
+the resin immediately separates in solid particles, which render the
+water milky. The coarseness of this precipitate depends on the
+quantity of the dissolved resin. Professor Bruecke has given us the
+proportions which produce particles particularly suited to our present
+purpose. One gramme of clean mastic is dissolved in eighty-seven
+grammes of absolute alcohol, and the transparent solution is allowed
+to drop into a beaker containing clear water briskly stirred. An
+exceedingly fine precipitate is thus formed, which declares its
+presence by its action upon light. Placing a dark surface behind the
+beaker, and permitting the light to fall into it from the top or
+front, the medium is seen to be of a very fair sky-blue. A trace of
+soap in water gives it a tint of blue. London milk makes an
+approximation to the same colour, through the operation of the same
+cause: and Helmholtz has irreverently disclosed the fact that a blue
+eye is simply a turbid medium.
+
+
+Sec. 12. _Artificial Sky_.
+
+But we have it in our power to imitate far more closely the natural

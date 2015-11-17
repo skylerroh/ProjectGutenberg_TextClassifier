@@ -1,0 +1,474 @@
+The front part of the compound vehicle contained the motor, as well as a
+compartment for six inside passengers, with roof space for twenty
+passengers, and weighed about 15,400 lb. when empty; the hind part
+contained accommodation inside for twelve passengers, and outside for
+fourteen passengers, and weighed 6,600 lb.
+
+The combined vehicle was entered from the platform in the rear, which
+could hold four passengers, and from thence, as already mentioned, the
+staircase led on to the roof. The total number of passengers this vehicle
+could accommodate was thus eighteen inside, thirty-four on the roof, four
+on the platform, or fifty-six in all.
+
+The total length of the carriage was 29 ft. 7 in., the width 7 ft. The
+distance between the axes of the bogies was 16 ft. 9 in. The distances
+apart of the centers of the wheels were in the case of the hind bogie 3
+ft. 9 in., and in the case of the front bogie 4 ft. 4.6 in.
+
+The motor is a compound engine, the diameters of the cylinders being 4.9
+in. and 1.9 in., with a 12 in. stroke. The diameter of the wheels was 2
+ft. 4 in. A small boiler is placed on one side, in front, for creating
+steam, which passes into a steam-jacket, inclosing the pipe of
+communication from the reservoir to the cylinders, as well as the
+cylinders themselves, so that the air was warmed before it escaped. The
+reservoirs on the motor contained 71 cubic feet.
+
+In an experiment made on charging the reservoir in the motor, the
+pressure in the fixed reservoirs, at the time of charging the reservoirs
+on the motor, was 63.8 atmospheres, at a temperature of 68 deg. F. One
+atmosphere was lost by letting the air into the pipe laid between the
+shed and the tramway where the motor stood; when the reservoir on the
+motor was charged, the pressure fell to 42.6 atmospheres in the fixed
+reservoirs, at a temperature of 55 deg. F.
+
+The pressure in the reservoir on the motor, when ready to start, was 42.6
+atmospheres, at a temperature of 84 deg. F. On its return, at the end of
+forty-six minutes, after a journey as above mentioned of about three and
+a quarter miles including the triangle, the pressure had fallen to 20.9
+atmospheres, and the temperature to 71 deg. F. The weight of air used during
+the journey was thus about 110 lb., or, say, 34 lb. per mile. The coal
+consumed by the stationary engine to compress the air amounted to 39 lb.
+per mile, in addition to 3 lb. of coke per mile for warming the exhaust.
+
+While the motor was performing its journey, the stationary steam-engine
+was employed in raising the pressure in the fixed cylinders to 63
+atmospheres, and worked, on an average, during fifty minutes in each
+hour; during the rest of the journey it remained idle. It was thus always
+employed in doing work in excess of the pressure which could be utilized
+on the car, and the work was, under the circumstances of the case,
+necessarily intermittent. This was a very unfavorable condition of
+working.
+
+In the electric tram-car the haulage was effected by means of
+accumulators. The car was of the ordinary type with two platforms. It was
+said to have been running as an ordinary tram-car since 1876. It had been
+altered in 1884 by raising the body about six inches, so as to lift it
+clear of the wheels, in order to allow the space under the seats to be
+available for receiving the accumulators, which consisted of Faure
+batteries of a modified construction. The accumulators employed were of
+an improved kind, devised by M. Julien, the under manager of the
+Compagnie l'Electrique, which undertook the work.
+
+The principal modification consists in the substitution, for the lead
+core of the plates, of one composed of a new unalterable metal. By this
+change the resistance is considerably diminished, the electromotive force
+rises to 2.40 volts, the return is greater, the output more constant, and
+the weight is considerably reduced. The plates being no longer subject to
+deformation have the prospect of lasting indefinitely. The accumulators
+used were constructed in August, 1884.
+
+The car, as altered, had been running as an electric tram-car on the
+Brussels tramways since October, 1884, till it was transferred to the
+experimental tramway at Antwerp. The accumulators had been in use upon
+the car during the whole of this period, and they were in good order at
+the end of the experiments, that is to say, when the exhibition closed at
+the end of October, 1885.
+
+The accumulator had forty elements, divided into four series, each series
+communicating, by means of wires fixed to the floor of the car, with
+commutators which connected them with the dynamo used as a motor.
+
+There were two sets of these batteries or accumulators, one of which was
+being charged in the shed while the other was in use. The exchange
+required ten minutes, including the time for the car to go off the
+tramway into the shed and return to the tramway. This exchange took place
+after every seven journeys. Therefore, the two batteries would have
+sufficed for working the car over a distance of about forty-two miles
+during sixteen hours.
+
+It may be observed that the first service in the morning would be
+performed by means of the accumulators charged during the afternoon and
+evening of the previous day.
+
+Each element of a battery was composed of nineteen plates, of which nine
+were positive, four millimeters thick, and ten negative, three
+millimeters thick. Each positive plate weighed 1.44 lb., of which about
+twenty-five per cent. consisted of active material. Each negative plate
+weighed nearly 1 lb., of which one-third consisted of active matter. The
+weight of the metallic part of the battery amounted, therefore, to 1,846
+lb.; and the whole battery, including the case and the liquid, amounted
+to 2,464 lb., which contained 499 lb. of active matter, or about 20.25
+per cent. The four cases in which the battery was contained were so
+arranged as to divide the weight equally between the wheels.
+
+Two commutators inclosed in a box were placed on the platforms at the two
+ends of the carriage, so as to be available for moving in either
+direction.
+
+The accumulators were divided into four series of ten double elements,
+which, by means of the commutators, could be united under four
+combinations, viz.:
+
+ 1st.  4 series in quantity--1 in tension.
+ 2d.   2    "    "    "      2     "
+ 3d.                         3     "
+ 4th.                        4     "
+
+Finally, a fifth movement united the four series in quantity, coupling
+them on each other, and putting the dynamo out of circuit, thus restoring
+equilibrium. When in a state of repose, the handle was so arranged as to
+keep this latter switch turned on. The accumulators were arranged for
+charging in two series united in quantity, each containing twenty double
+elements. The charge was effected by a Gramme machine, worked by a
+portable engine. Each of these series received its charge during seven
+hours for the ordinary service of the car, and during nine hours for the
+accelerated service.
+
+The accumulators on the car actuated a Siemens dynamo, acting as a motor,
+such as is used for lighting, having a normal speed of 1,000 revolutions,
+fixed on the frame of the carriage. The motion was conveyed from the
+pulley on the dynamo by means of a belt passing round a shaft fixed on
+movable bearings to regulate its tension, and thence to the axles by
+means of a flat chain of phosphor bronze. The chain was adopted as the
+means of moving the axle, on account of its simplicity and facility of
+repair by unskilled labor.
+
+The speed was fixed at 4 meters per second (which corresponds with a
+speed of nearly 9 miles per hour) for 1,000 revolutions of the dynamo;
+and it was regulated by cutting a certain number of the accumulators out
+of circuit, instead of by the device of inserting resistances, which
+cause a waste of energy. By breaking the circuit entirely the motive
+power ceased, and the vehicle might either be stopped by the brakes or
+allowed to run forward by gravity, if the road were sufficiently
+inclined. The reversal of the motor was effected by means of a lever
+which reversed the position of the brushes of the dynamo.
+
+The dynamo could be set in motion, and the carriage worked from either
+end, as desired. The handle to effect this was movable, and as there was
+only one handle, and this one was in charge of the conductor, he used it
+at either end as required.
+
+It should be mentioned that the car was lighted at night by two
+incandescent lamps, which absorbed 1.5 amperes each; and the brakes also
+were worked by the accumulators.
+
+The weight of the tram-car was 5,654 lb.; the weight of the accumulators
+was 2,460 lb.; the weight of the machinery, including dynamo, 1,232 lb.
+The car contained room for fourteen persons inside and twenty outside.
+Under the conditions of the competition the car was required to draw a
+second car occasionally.
+
+The jury made special observations upon the work required to move the car
+between the 20th September and 15th October, 1885. Seals were attached to
+the accumulators. Moreover, from the 27th of September, after each
+charge, seals were placed on the belts from the steam-engine to prevent
+any movement of the Gramme machine, so that there could be no charges put
+into the accumulators beyond those measured by the jury.
+
+The instruments used for measuring were Ayrton's amperemeter and Deprez's
+voltmeter, which had been tested in the exhibition by the Commission for
+Experiments on Electrical Instruments, under the presidency of Professor
+Rousseau. Besides this, Siemens' electro-dynamometer and Ayrton's
+voltmeter were used to check the results; but there was no practical
+difference discovered. During the period of charging the accumulators,
+the intensity of the current and the electromotive force was measured
+every quarter of an hour, and thence the energy stored up in the battery
+was deduced. It may be mentioned that the charge in the accumulators,
+when the experiments were commenced, was equal in amount to that at their
+termination.
+
+An experiment was made on 21st October to ascertain, as a practical
+question, what was the work absorbed by the Gramme machine in charging
+the accumulators. The work transmitted from the steam-engine was measured
+every quarter of an hour by a Siemens dynamometer; at the same time the
+intensity of the electromotive force given out by the machine, as well as
+the number of the revolutions it was making, was noted. It resulted that
+for a mean development of 4 mechanical horse power, the dynamometer gave
+into the accumulators to be stored up 2.28 electrical horse power, or 57
+per cent. The intensity varied between 25.03 and 23.51 amperes during the
+whole time of charging. Of this amount stored up in the accumulators a
+further loss took place in working the motor; so that from 30 to 40 per
+cent. of the work originally given out by the steam-engine must be taken
+as the utmost useful effect on the rail.
+
+It was estimated that to draw the carriage on the level 0.714 horse power
+was required, or if a second carriage was attached, 0.848 horse power
+would draw the two together. This would mean that, say, 2 horse power on
+the fixed engine would be employed to create the electricity for
+producing the energy required to draw the carriage on the level.
+
+The electric tram-car was quite equal in speed to those driven by steam
+or compressed air, and was characterized by its noiselessness and by the
+care with which it was manipulated.
+
+Assuming the car, by itself, cost the same as an ordinary tram-car, the
+extra cost relatively to other systems was stated as being according to
+the following figures, viz.: the Gramme machine cost L48, the motor L208,
+and the accumulators 2.25 francs per kilogramme (10d. per pound). To
+these must be added the cost of erection, and of switches for
+manipulating the current; as well as the proportion of the cost of a
+fixed engine to create the electricity.
+
+Having thus given a general description of the various motors which were
+presented for competition, I will now give a brief summary of some of the
+principal particulars obtained during the competition. In the first
+place, it may be mentioned that the jury consisted of the following:
+
+President.--M. Hubert, Ingenieur en Chef, Inspecteur de Direction a
+l'administration des chemins de fer de l'Etat Belge.
+
+Vice-President.--M. Beliard, Ingenieur des Arts et Manufactures, delegue
+par le Gouvernenent Francais.
+
+Members.--MM. Douglas Galton, Capitaine du Genie, delegue par le
+Gouvernement Anglais; Gunther, Ingenieur, Commissaire General de la
+Section allemande a l'Exposition d'Anvers; Huberti, Ingenieur a
+l'administration des chemins de fer de l'Etat Belge, Professeur a
+l'Universite de Bruxelles; Dery, Ingenieur Chef de service a
+l'administration des chemins de fer de l'Etat Belge.
+
+Secretary.--M. Dupuich, Ingenieur Chef du service du material et de la
+traction a la Societe Generale des chemins de fer economiques.
+
+Reporter.--M. Belleroche, Ingenieur en Chef, a la traction et au material
+des chemins de fer du Grand Central.
+
+Members added by the Jury.--MM. Vincotte, Ingenieur, Directeur de
+l'Association pour la surveillance des machines a vapeur; Laurent,
+Ingenieur des mines et de l'Institut electro-technique de l'Universite de
+Liege.
+
+The original programme of the conditions which were laid down in the
+invitation to competitors, as those upon which the adjudication of merit
+would be awarded, contained twenty heads, to each of which a certain
+value was to be attached; and, in addition to these special heads, there
+were also to be weighed the following general considerations, viz.:
+
+a. The defects or inconveniences established in the course of the trials.
+
+b. The necessity or otherwise of turning the motor, or the carriage with
+motor, at the termini.
+
+c. Whether one or two men would be required for the management of the
+engine.
+
+As regards these preliminary special points, the compressed air motor, as
+well as the Rowan engine, required to be turned for the return journey,
+whereas the other motors could run in either direction.
+
+In regard to this, the electric car was peculiarly manageable, as it
+moved in either direction, and the handle by which it was managed was
+always in front, close to the brake. This carriage was the only one which
+was entirely free from the necessity of attending to the fire during the
+progress of the journey, for even the compressed air engine had its small
+furnace and boiler for heating the air.
+
+Each of the motors under trial was managed by one man.
+
+The several conditions of the programme may be conveniently classified in
+three groups, under the letters A, B, C. Under the letter A have been
+classed accessory considerations, such as those of safety and of police.
+These are of special importance in towns. But their relative importance
+varies somewhat with the habits of the people as well as with the
+requirements of the authorities; for instance, in one locality or country
+conditions are not objected to which, in another locality, are considered
+entirely prohibitory.
+
+    The conditions under this head are:
+    1. Absence of steam.
+    2. Absence of smoke and cinders.
+    3. Absence, more or less complete, of noise.
+    4. Elegance of aspect.
+    5. The facility with which the motor can be separated
+         from the carriage itself.
+    6. Capacity of the brake for acting upon the greatest
+         possible number of wheels of the vehicle or vehicles.
+    7. The degree to which the outside covering of the
+         motor conceals the machinery from the public, while
+         allowing it to be visible and accessible in all parts to
+         the engineer.
+    8. Facility of communication between the engineer
+         and the conductor of the train.
+
+In deciding upon the relative merits of the several motors, so far as the
+eight points included under this heading are concerned, it is clear that,
+except possibly as regards absence of noise, the electrical car surpassed
+all the others.
+
+The compressed air car followed, in its superiority in respect of the
+first three points, viz., absence of steam, absence of smoke, and
+absence of noise; but the Rowan was considered superior in respect of the
+other points included in this class.
+
+Under the letter B have been classed considerations of maintenance and
+construction.
+
+    9.  Protection, more or less complete, of the machinery against the
+          action of dust and mud.
+   10.  Regularity and smoothness of motion.
+   11.  Capacity for passing over curves of small radius.
+   12.  The simplest and most rational construction.
+   13.  Facility for inspecting and cleaning the interior of the boilers.
+   14.  Dead weight of the train compared with the number of places.
+   15.  Effective power of traction when the carriages are completely full.
+   16.  Rapidity with which the motor can be taken out of the shed and
+          made ready for running.
+   17. The longest daily service without stops other than those
+          compatible with the requirements of the service.
+   18. Cost of maintenance per kilometer. (It was assumed, for the
+          purposes of this sub-heading, that the motor or carriage which
+          gave the best results under the conditions relating to
+          paragraphs 9, 10, 12, and 13 would be least costly for repairs.)
+
+As regards the first of these, viz., protection of the machinery against
+dirt, the machinery of the electrical car had no protection. It was not
+found in the experiments at Antwerp that inconvenience resulted from
+this; but it is a question whether in very dusty localities, and
+especially in a locality where there is metallic dust, the absence of
+protection might not entail serious difficulties, and even cause the
+destruction of parts of the machinery.
+
+In respect to the smoothness of motion and facility of passing curves,
+the cars did not present vary material differences, except that the cars
+in which the motor formed part of the car had the preference.
+
+In the case of simplicity of construction, it is evident that the
+simplest and most rational construction is that of a car which depends on
+itself for its movement, which can move in either direction with equal
+facility, which can be applied to any existing tramway without expense
+for altering the road, and the use of which will not throw out of
+employment vehicles already used on the lines; the electric car fulfilled
+this condition best, as also the condition numbered 13, as it possessed
+no boiler.
+
+In respect to No. 14, viz., the ratio of the dead weight of the train to
+passengers, if we assume 154 lb. as the average weight per passenger, the
+following is the result in respect of the three cars in which the power
+formed part of the car:
+
+                   9,350 lb.
+Electric car.      --------- = 1.78
+                    154 x 34
+
+                  15,950 lb.
+Rowan.            ---------- = 2.30
+                  154 x 45
+
+                  22,000 lb.
+Compressed air.   ---------- = 2.55
+                  154 x 56
+
+The detached engines gave, of course, less favorable results under this
+head.
+
+Under head No. 15 the tractive power of all the motors was sufficient
+during the trials, but the line was practically level, therefore this
+question could only be resolved theoretically, so far as these trials
+were concerned, and the table before given affords all the necessary data
+for the theoretical calculation.
+
+As regards the rapidity with which the motors could be brought into use
+from standing empty in the shed, the electric car could receive its
+accumulators more rapidly than could the boiler for heating the exhaust
+of the compressed-air car be brought into use.
+
+As regards the steam motors, the following were the results from the time
+of lighting the fires:
+
+The Rowan--
+  In 34 minutes                   3 atmospheres.
+   " 36    "                      4     "
+
+     At this pressure the vehicle could move--
+
+ In 40 minutes                    8 atmospheres.
+
+The Wilkinson--
+  In 35 minutes                   2 atmospheres.
+   " 40    "                      4     "
+   " 44    "                      6     "
+   " 47    "                      8     "
+
+The Krauss machine required two hours to give 6 atmospheres, which was
+the lowest pressure at which it could be worked.
+
+The results under No. 17, viz., the fewest interruptions to the daily
+service, class the motors in the following order: Krauss, electric,
+Rowan, Wilkinson, compressed air. The chief cause of injury to the
+compressed air motor arose from the carelessness of the drivers, who
+allowed the steam boiler to be burnt out. Unfortunately, these drivers
+were new to the work.
+
+Under the letter C are classed considerations of economy in the
+consumption of materials used for generating the power necessary for
+working.
+
+  19.   Minimum consumption of fuel (either coke or coal),
+          in proportion to the number of kilometers run, and
+          to the number of places, assuming for the seats a
+          width of at least sixteen inches for each person seated.
+
+It must be borne in mind that the conditions of the competition required
+that a second car should be periodically drawn by the motor, and that the
+calculations which follow include the total number of miles run, the
+total amount of fuel, etc., consumed, and the total number of passengers
+which could be conveyed by each motor, during the total time that the
+experiments were being carried on.
+
+                           TABLE II.
+
+                          Total
+Description of motor.   number of      Total       No. of lb.
+                       train miles  Consumption       per
+                           run.       of fuel.     train mile.
+
+                                        lb.
+Electric.               2,358.9       14 786         6.16
+Rowan.                  2,616.9       14,498         5.42
+Wilkinson.              2,473.3       22,000         8.82
+Krauss.                 2,457.8       22,726         9.10
+Compressed air.         2,259.1       90,420        39.48
+
+                           TABLE III.
+
+                       No. of places                      No. of lb. of
+Description of motor.  indicated on                       fuel consumed
+                       the cars, per       Consumption    per places
+                       mile run.             of fuel.     indicated
+                                                          per mile run.
+                                               lb.
+Electric               80,203.5              14,786        0.18
+Rowan                 148,399.6              14,498        0.09
+Wilkinson             119,085.1              22,000        0.18
+Krauss                108,983.9              22,726        0.20
+Compressed air        128,189.3              90,420        0.69
+
+
+                           TABLE IV.
+
+Description of motor.  No. of seats per                 No, of lb. of
+                       mile run.          Consumption   fuel consumed
+                                          of fuel.      per seat
+                                                        per mile run.
+                                           lb.
+Electric               61,591.2           14,786        0.23
+Rowan                 135,928.8           14,498        0.10
+Wilkinson              93,965.6           22,000        0.23
+Krauss                 86,039.9           22,726        0.25
+Compressed air        132,732.7           90,420        0.66
+
+As regards the figures in these tables, it is to be observed that the
+consumption of fuel for the electric car is, to a certain extent, an
+estimate; because the engine which furnished the electricity to the motor
+also supplied electricity for electric lights, as well as for an
+experimental electric motor which was running on the lines of tramway,
+but was not brought into competition.
+
+20. Minimum consumption of oil, of grease, tallow, etc. (the same
+conditions as in No. 19).
+
+                           TABLE V.
+
+                                   Total           Consumption
+                     Total         consumption     of oil, tallow,
+Description of       number of     of              etc.,

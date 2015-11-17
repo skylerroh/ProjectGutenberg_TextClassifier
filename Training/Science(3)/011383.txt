@@ -1,0 +1,466 @@
+The Project Gutenberg EBook of Scientific American Supplement, Vol. XXI.,
+No. 531, March 6, 1886, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Scientific American Supplement, Vol. XXI., No. 531, March 6, 1886
+
+Author: Various
+
+Release Date: February 29, 2004 [EBook #11383]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SCIENTIFIC AMERICAN SUPP. 531 ***
+
+
+
+
+Produced by Produced by Josephine Paolucci, Don Kretz, Juliet Sutherland,
+Charles Franks and the DP Team
+
+
+
+
+
+[Illustration]
+
+
+
+
+SCIENTIFIC AMERICAN SUPPLEMENT NO. 531
+
+
+
+
+NEW YORK, MARCH 6, 1886
+
+Scientific American Supplement. Vol. XXI, No. 531.
+
+Scientific American established 1845
+
+Scientific American Supplement, $5 a year.
+
+Scientific American and Supplement, $7 a year.
+
+
+       *       *       *       *       *
+
+TABLE OF CONTENTS.
+
+I.   CHEMISTRY AND METALLURGY.--Annatto.-Analyses of the same.--By
+     WM. LAWSON
+
+     Aluminum.--By J.A. PRICE.--Iron the basis of civilization.--
+     Aluminum the metal of the future.--Discovery of aluminum.--Art
+     of obtaining the metal.--Uses and possibilities
+
+II.  ENGINEERING AND MECHANICS.--The Use of Iron in Fortification.
+     --Armor-plated casements.--The Schumann-Gruson chilled iron
+     cupola.--Mougin's rolled iron cupola.--With full page
+     of engravings
+
+     High Speed on the Ocean
+
+     Sibley College Lectures.--Principles and Methods of Balancing
+     Forces developed in Moving Bodies.--Momentum and centrifugal
+     force.--By CHAS.T. PORTER.--3 figures
+
+     Compressed Air Power Schemes.--By J. STURGEON.--Several
+     figures
+
+     The Berthon Collapsible Canoe.--2 engravings
+
+     The Fiftieth Anniversary of the Opening of the First German
+     Steam Railroad.--With full page engraving
+
+     Improved Coal Elevator.--With engraving
+
+III. TECHNOLOGY.--Steel-making Ladles.--4 figures
+
+     Water Gas.--The relative value of water gas and other gases as
+     Iron-reducing Agents.--By B.H. THWAITE.--Experiments.--With
+     tables and 1 figure
+
+     Japanese Rice Wine and Soja Sauce.--Method of making
+
+IV.  ELECTRICITY, MICROSCOPY, ETC.-Apparatus for demonstrating
+     that Electricity develops only on the Surface of Conductors.--1
+     figure
+
+     The Colson Telephone.--3 engravings
+
+     The Meldometer.--An apparatus for determining the melting
+     points of minerals
+
+     Touch Transmission by Electricity in the Education of Deaf
+     Mutes.--By S. TEFFT WALKER.--With 1 figure
+
+V.   HORTICULTURE.--Candelabra Cactus and the California Woodpecker.--By
+     C.F. HOLDER.--With 2 engravings
+
+     How Plants are reproduced.--By C.E. STUART.--A paper read
+     before the Chemists' Assistants' Association
+
+VI.  MISCELLANEOUS--The Origin of Meteorites.--With 1 figure
+
+       *       *       *       *       *
+
+
+
+
+THE USE OF IRON IN FORTIFICATION.
+
+
+Roumania is thinking of protecting a portion of the artillery of the
+forts surrounding her capital by metallic cupolas. But, before deciding
+upon the mode of constructing these formidable and costly affairs, and
+before ordering them, she has desired to ascertain their efficacy and
+the respective merits of the chilled iron armor which was recently in
+fashion and of rolled iron, which looks as if it were to be the fashion
+hereafter.
+
+[Illustration: FIG. 1.--MOUGIN'S ROLLED IRON TURRET.]
+
+The Krupp works have recommended and constructed a cupola of
+casehardened iron, while the Saint Chamond works have offered a turret
+of rolled iron. Both of these recommend themselves by various merits,
+and by remarkably ingenious arrangements, and it only remains to be seen
+how they will behave under the fire of the largest pieces of artillery.
+
+[Illustration: FIG. 2.]
+
+We are far in advance of the time when cannons with smooth bore were
+obliged to approach to within a very short range of a scarp in order to
+open a breach, and we are far beyond that first rifled artillery which
+effected so great a revolution in tactics.
+
+[Illustration: FIG. 3.]
+
+To-day we station the batteries that are to tear open a rampart at
+distances therefrom of from 1,000 to 2,000 yards, and the long, 6 inch
+cannon that arms them has for probable deviations, under a charge of 20
+pounds of powder, and at a distance of 1,000 yards, 28 feet in range, 16
+inches in direct fire and 8 inches in curved.
+
+The weight of the projectile is 88 pounds, and its remanent velocity at
+the moment of impact is 1,295 feet. Under this enormous live force, the
+masonry gradually crumbles, and carries along the earth of the parapet,
+and opens a breach for the assaulting columns.
+
+[Illustration: FIG. 4--STATE OF A CUPOLA AFTER THE ACTION OF
+THIRTY-SEVEN 6 IN. PROJECTILES.]
+
+In order to protect the masonry of the scarp, engineers first lowered
+the cordon to the level of the covert-way. Under these circumstances,
+the enemy, although he could no longer see it, reached it by a curved or
+"plunging" shot. When, in fact, for a given distance we load a gun with
+the heaviest charge that it will stand, the trajectory, AMB (Fig. 2), is
+as depressed as possible, and the angles, a and a', at the start and
+arrival are small, and we have a direct shot. If we raise the chase of
+the piece, the projectile will describe a curve in space which would be
+a perfect parabola were it not for the resistance of the air, and the
+summit of such curve will rise in proportion as the angle so increases.
+So long as the falling angle, a, remains less than 45 deg., we shall have a
+curved shot. When the angle exceeds this, the shot is called "vertical."
+If we preserve the same charge, the parabolic curve in rising will meet
+the horizontal plane at a greater distance off. This is, as well known,
+the process employed for reaching more and more distant objects.
+
+[Illustration: Fig. 5.--STATE OF A CAST-IRON CUPOLA AFTER THE BREAKAGE
+OF A VOUSSOIR.]
+
+The length of a gun depends upon the maximum charge burned in it, since
+the combustion must be complete when the projectile reaches the open
+air. It results from this that although guns of great length are capable
+of throwing projectiles with small charges, it is possible to use
+shorter pieces for this purpose--such as howitzers for curved shots and
+mortars for vertical ones. The curved shot finds one application in the
+opening of breaches in scarp walls, despite the existence of a covering
+of great thickness. If, from a point, a (Fig. 3), we wish to strike the
+point, b, of a scarp, over the crest, c, of the covert-way, it will
+suffice to pass a parabolic curve through these three points--the
+unknown data of the problem, and the charge necessary, being
+ascertained, for any given piece, from the artillery tables. In such
+cases it is necessary to ascertain the velocity at the impact, since the
+force of penetration depends upon the live force (mv squared) of the
+projectile, and the latter will not penetrate masonry unless it have
+sufficient remanent velocity. Live force, however, is not the sole
+factor that intervenes, for it is indispensable to consider the angle at
+which the projectile strikes the wall. Modern guns, such as the Krupp 6
+inch and De Bange 6 and 8 inch, make a breach, the two former at a
+falling angle of 22 deg., and the latter at one of 30 deg.. It is not easy to
+lower the scarps enough to protect them from these blows, even by
+narrowing the ditch in order to bring them near the covering mass of the
+glacis.
+
+The same guns are employed for dismounting the defender's pieces, which
+he covers as much as possible behind the parapet. Heavy howitzers
+destroy the _materiel_, while shrapnel, falling nearly vertically, and
+bursting among the men, render all operations impossible upon an open
+terre-plein.
+
+[Illustration: FIG. 6.--STATE OF A CHILLED IRON CUPOLA BROKEN BY A 12
+INCH BALL.]
+
+The effect of 6 and 8 inch rifled mortars is remarkable. The Germans
+have a 9 inch one that weighs 3,850 pounds, and the projectile of which
+weighs 300. But French mortars in nowise cede to those of their
+neighbors; Col. De Bange, for example, has constructed a 101/2 inch one of
+wonderful power and accuracy.
+
+Seeing the destructive power of these modern engines of war, it may well
+be asked how many pieces the defense will be able to preserve intact for
+the last period of a siege--for the very moment at which it has most
+need of a few guns to hold the assailants in check and destroy the
+assaulting columns. Engineers have proposed two methods of protecting
+these few indispensable pieces. The first of these consists in placing
+each gun under a masonry vault, which is covered with earth on all sides
+except the one that contains the embrasure, this side being covered with
+armor plate.
+
+The second consists in placing one or two guns under a metallic cupola,
+the embrasures in which are as small as possible. The cannon, in a
+vertical aim, revolves around the center of an aperture which may be of
+very small dimensions. As regards direct aim, the carriages are
+absolutely fixed to the cupola, which itself revolves around a vertical
+axis. These cupolas may be struck in three different ways: (1) at right
+angles, by a direct shot, and consequently with a full charge--very
+dangerous blows, that necessitate a great thickness of the armor plate;
+(2) obliquely, when the projectile, if the normal component of its real
+velocity is not sufficient to make it penetrate, will be deflected
+without doing the plate much harm; and (3) by a vertical shot that may
+strike the armor plate with great accuracy.
+
+General Brialmont says that the metal of the cupola should be able to
+withstand both penetration and breakage; but these two conditions
+unfortunately require opposite qualities. A metal of sufficient
+ductility to withstand breakage is easily penetrated, and, conversely,
+one that is hard and does not permit of penetration does not resist
+shocks well. Up to the present, casehardened iron (Gruson) has appeared
+to best satisfy the contradictory conditions of the problem. Upon the
+tempered exterior of this, projectiles of chilled iron and cast steel
+break upon striking, absorbing a part of their live force for their own
+breakage.
+
+In 1875 Commandant Mougin performed some experiments with a chilled iron
+turret established after these plans. The thickness of the metal
+normally to the blows was 231/2 inches, and the projectiles were of cast
+steel. The trial consisted in firing two solid 12 in. navy projectiles,
+46 cylindrical 6 in. ones, weighing 100 lb., and 129 solid, pointed
+ones, 12 in. in diameter. The 6 inch projectiles were fired from a
+distance of 3,280 feet, with a remanent velocity of 1,300 feet. The
+different phases of the experiment are shown in Figs. 4, 5, and 6. The
+cupola was broken; but it is to be remarked that a movable and
+well-covered one would not have been placed under so disadvantageous
+circumstances as the one under consideration, upon which it was easy to
+superpose the blows. An endeavor was next made to substitute a tougher
+metal for casehardened iron, and steel was naturally thought of. But
+hammered steel broke likewise, and a mixed or compound metal was still
+less successful. It became necessary, therefore, to reject hard metals,
+and to have recourse to malleable ones; and the one selected was rolled
+iron. Armor plate composed of this latter has been submitted to several
+tests, which appear to show that a thickness of 18 inches will serve as
+a sufficient barrier to the shots of any gun that an enemy can
+conveniently bring into the field.
+
+[Illustration: FIG. 7.--CASEMATE OF CHILLED IRON AFTER RECEIVING
+NINETY-SIX SHOTS.]
+
+_Armor Plated Casemates_.--Fig. 7 shows the state of a chilled iron
+casemate after a vigorous firing. The system that we are about to
+describe is much better, and is due to Commandant Mougin.
+
+[Illustration: FIG. 8.--MOUGIN'S ARMOR-PLATE CASEMATE.]
+
+The gun is placed under a vault whose generatrices are at right angles
+to the line of fire (Fig. 8), and which contains a niche that traverses
+the parapet. This niche is of concrete, and its walls in the vicinity of
+the embrasure are protected by thick iron plate. The rectangular armor
+plate of rolled iron rests against an elastic cushion of sand compactly
+rammed into an iron plate caisson. The conical embrasure traverses this
+cushion by means of a cast-steel piece firmly bolted to the caisson, and
+applied to the armor through the intermedium of a leaden ring.
+Externally, the cheeks of the embrasure and the merlons consist of
+blocks of concrete held in caissons of strong iron plate. The
+surrounding earthwork is of sand. For closing the embrasure, Commandant
+Mougin provides the armor with a disk, c, of heavy rolled iron, which
+contains two symmetrical apertures. This disk is movable around a
+horizontal axis, and its lower part and its trunnions are protected by
+the sloping mass of concrete that covers the head of the casemate. A
+windlass and chain give the disk the motion that brings one of its
+apertures opposite the embrasure or that closes the latter. When this
+portion of the disk has suffered too much from the enemy's fire, a
+simple maneuver gives it a half revolution, and the second aperture is
+then made use of.
+
+_The Schumann-Gruson Chilled Iron Cupola_.--This cupola (Fig. 9) is
+dome-shaped, and thus offers but little surface to direct fire; but it
+can be struck by a vertical shot, and it may be inquired whether its top
+can withstand the shock of projectiles from a 10 inch rifled mortar. It
+is designed for two 6 inch guns placed parallel. Its internal diameter
+is 191/2 feet, and the dome is 8 inches in thickness and has a radius of
+161/2 feet. It rests upon a pivot, p, around which it revolves through the
+intermedium of rollers placed in a circle, r. The dome is of relatively
+small bulk--a bad feature as regards resistance to shock. To obviate
+this difficulty, the inventor partitions it internally in such a way as
+to leave only sufficient space to maneuver the guns. The partitions
+consist of iron plate boxes filled with concrete. The form of the dome
+has one inconvenience, viz., the embrasure in it is necessarily very
+oblique, and offers quite an elongated ellipse to blows, and the edges
+of the bevel upon a portion of the circumference are not strong enough.
+In order to close the embrasure as tightly as possible, the gun is
+surrounded with a ring provided with trunnions that enter the sides of
+the embrasure. The motion of the piece necessary to aim it vertically is
+effected around this axis of rotation. The weight of the gun is balanced
+by a system of counterpoises and the chains, l, and the breech
+terminates in a hollow screw, f, and a nut, g, held between two
+directing sectors, h. The cupola is revolved by simply acting upon the
+rollers.
+
+[Illustration: FIG. 9.--THE SCHUMANN-GRUSON CUPOLA.]
+
+_Mougin's Rolled Iron Cupola_.--The general form of this cupola (Fig. 1)
+is that of a cylindrical turret. It is 123/4 feet in diameter, and rises
+31/4 feet above the top of the glacis. It has an advantage over the one
+just described in possessing more internal space, without having so
+large a diameter; and, as the embrasures are at right angles with the
+sides, the plates are less weakened. The turret consists of three plates
+assembled by slit and tongue joints, and rests upon a ring of strong
+iron plate strengthened by angle irons. Vertical partitions under the
+cheeks of the gun carriages serve as cross braces, and are connected
+with each other upon the table of the hydraulic pivot around which the
+entire affair revolves. This pivot terminates in a plunger that enters a
+strong steel press-cylinder embedded in the masonry of the lower
+concrete vault.
+
+The iron plate ring carries wheels and rollers, through the intermedium
+of which the turret is revolved. The circular iron track over which
+these move is independent of the outer armor.
+
+The whole is maneuvered through the action of one man upon the piston of
+a very small hydraulic press. The guns are mounted upon hydraulic
+carriages. The brake that limits the recoil consists of two bronze pump
+chambers, a and b (Fig. 10). The former of these is 4 inches in
+diameter, and its piston is connected with the gun, while the other is 8
+inches in diameter, and its piston is connected with two rows of 26
+couples of Belleville springs, d. The two cylinders communicate through
+a check valve.
+
+When the gun is in battery, the liquid fills the chamber of the 4 inch
+pump, while the piston of the 8 inch one is at the end of its stroke. A
+recoil has the effect of driving in the 4 inch piston and forcing the
+liquid into the other chamber, whose piston compresses the springs. At
+the end of the recoil, the gunner has only to act upon the valve by
+means of a hand-wheel in order to bring the gun into battery as slowly
+as he desires, through the action of the springs.
+
+[Illustration: FIG. 10.--MOUGIN'S HYDRAULIC GUN CARRIAGE.]
+
+For high aiming, the gun and the movable part of its carriage are
+capable of revolving around a strong pin, c, so placed that the axis of
+the piece always passes very near the center of the embrasure, thus
+permitting of giving the latter minimum dimensions. The chamber of the 8
+inch pump is provided with projections that slide between circular
+guides, and carries the strap of a small hydraulic piston, p, that
+suffices to move the entire affair in a vertical plane, the gun and
+movable carriage being balanced by a counterpoise, q.
+
+The projectiles are hoisted to the breech of the gun by a crane.
+
+Between the outer armor and turret sufficient space is left for a man to
+enter, in order to make repairs when necessary.
+
+Each of the rolled iron plates of which the turret consists weighs 19
+tons. The cupolas that we have examined in this article have been
+constructed on the hypothesis than an enemy will not be able to bring
+into the field guns of much greater caliber than 6 inches.--_Le Genie
+Civil_.
+
+       *       *       *       *       *
+
+
+
+
+HIGH SPEED ON THE OCEAN.
+
+
+_To the Editor of the Scientific American_:
+
+Although not a naval engineer, I wish to reply to some arguments
+advanced by Capt. Giles, and published in the SCIENTIFIC AMERICAN of
+Jan. 2, 1886, in regard to high speed on the ocean.
+
+Capt. Giles argues that because quadrupeds and birds do not in
+propelling themselves exert their force in a direct line with the plane
+of their motion, but at an angle to it, the same principle would, if
+applied to a steamship, increase its speed. But let us look at the
+subject from another standpoint. The quadruped has to support the weight
+of his body, and propel himself forward, with the same force. If the
+force be applied perpendicularly, the body is elevated, but not moved
+forward. If the force is applied horizontally, the body moves forward,
+but soon falls to the ground, because it is not supported. But when the
+force is applied at the proper angle, the body is moved forward and at
+the same time supported. Directly contrary to Capt. Giles' theory, the
+greater the speed of the quadruped, the nearer in a direct line with his
+motion does he apply the propulsive force, and _vice versa_. This may
+easily be seen by any one watching the motions of the horse, hound,
+deer, rabbit, etc., when in rapid motion. The water birds and animals,
+whose weight is supported by the water, do not exert the propulsive
+force in a downward direction, but in a direct line with the plane of
+their motion. The man who swims does not increase his motion by kicking
+out at an angle, but by drawing the feet together with the legs
+straight, thus using the water between them as a double inclined plane,
+on which his feet and legs slide and thus increase his motion. The
+weight of the steamship is already supported by the water, and all that
+is required of the propeller is to push her forward. If set so as to act
+in a direct line with the plane of motion, it will use all its force to
+push her forward; if set so as to use its force in a perpendicular
+direction, it will use all its force to raise her out of the water. If
+placed at an angle of 45 deg. with the plane of motion, half the force will
+be used in raising the ship out of the water, and only half will be left
+to push her forward.
+
+ENOS M. RICKER.
+
+Park Rapids, Minn., Jan. 23, 1886.
+
+       *       *       *       *       *
+
+
+
+
+SIBLEY COLLEGE LECTURES.
+
+BY THE CORNELL UNIVERSITY NON-RESIDENT LECTURERS IN MECHANICAL
+ENGINEERING.
+
+
+
+
+PRINCIPLES AND METHODS OF BALANCING FORCES DEVELOPED IN MOVING BODIES.
+
+BY CHAS. T. PORTER.
+
+INTRODUCTION.
+
+
+On appearing for the first time before this Association, which, as I am
+informed, comprises the faculty and the entire body of students of the
+Sibley College of Mechanical Engineering and the Mechanic Arts, a
+reminiscence of the founder of this College suggests itself to me, in
+the relation of which I beg first to be indulged.
+
+In the years 1847-8-9 I lived in Rochester, N.Y., and formed a slight
+acquaintance with Mr. Sibley, whose home was then, as it has ever since
+been, in that city. Nearly twelve years afterward, in the summer of
+1861, which will be remembered as the first year of our civil war, I met
+Mr. Sibley again. We happened to occupy a seat together in a car from
+New York to Albany. He recollected me, and we had a conversation which
+made a lasting impression on my memory. I said we had a conversation.

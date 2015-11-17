@@ -1,0 +1,475 @@
+The Project Gutenberg EBook of Scientific American Supplement, No. 794,
+March 21, 1891, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Scientific American Supplement, No. 794, March 21, 1891
+
+Author: Various
+
+Release Date: April 25, 2005 [EBook #15708]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SCIENTIFIC AMERICAN ***
+
+
+
+
+Produced by Juliet Sutherland and the Online Distributed Proofreading
+Team at www.pgdp.net.
+
+
+
+
+
+[Illustration]
+
+
+
+
+SCIENTIFIC AMERICAN SUPPLEMENT NO. 794
+
+
+
+
+NEW YORK, March 21, 1891
+
+Scientific American Supplement. Vol. XXXI., No. 794.
+
+Scientific American established 1845
+
+Scientific American Supplement, $5 a year.
+
+Scientific American and Supplement, $7 a year.
+
+       *       *       *       *       *
+
+
+
+
+TABLE OF CONTENTS
+
+
+I.    BOTANY.--New Race of Dwarf Dahlias.--A new and valuable
+      flowering plant, with portrait of the introducer.--1 illustration.
+
+II.   CHEMISTRY.--Carbon in Organic Substances.--By J. MESSINGER.--
+      An improved method of determining carbon by inorganic
+      combustions.--1 illustration.
+
+III.  CIVIL ENGINEERING.--A New Integrator.--By Prof. KARL
+      PEARSON. M.A.--An apparatus for use for the engineer in working
+      up areas, indicator diagrams, etc.--4 illustrations.
+
+      Best Diameter of Car Wheels.--The size of car wheels from the
+      standpoint of American engineering.--A plea for a moderate sized
+      wheel.
+
+      Improved Overhead Steam Traveling Crane.--A crane constructed
+      for use in steel works.--Great power and range.--3 illustrations.
+
+      Some Hints on Spiking Track.--A most practical article for telling
+      exactly how to conduct the operation on the ground.--1 illustration.
+
+IV.   ELECTRICITY.--Electrical Laboratory for Amateurs.--By GEO.
+      M. HOPKINS.--A simple collection of apparatus for conducting a
+      complete series of electrical experiments.--17 illustrations.
+
+      The Action of the Silent Discharge on Chlorine.--How an electric
+      discharge affects chlorine gas.--An important negative result.
+
+V.    ETHNOLOGY.--Some Winnebago Arts.--An interesting article
+      upon the arts of the Winnebago Indians.--A recent paper before
+      the New York Academy of Sciences.
+
+VI.   MEDICINE AND HYGIENE.--The Philosophy of Consumption.
+      --By Dr. J.S. CHRISTISON.--A review of the present theories of
+      consumption, and the role played in it by its bacillus.
+
+VII.  MUSIC.--Spacing the Frets on a Banjo Neck.--By Prof. C.W.
+      MACCORD.--A most practical treatment of this subject, with full
+      explanations.--1 illustration.
+
+VIII. ORDNANCE.--High Explosives in Warfare.--By Commander
+      F.M. BARBER, U.S.N.--An elaborate review of modern explosives
+      in their applicability to ordnance, etc.
+
+      The Experiments at the Annapolis Proving Grounds.--The recent
+      tests at Annapolis described and illustrated.--Views of the
+      projectiles, plates, etc.--3 illustrations.
+
+IX.   PHYSICS.--Araeo-Picnometer.--An entirely novel form of hydrometer,
+      of very extended use and application.--1 illustration.
+
+X.    TECHNOLOGY.--Fabric for Upholstery Purposes.--Full technical
+      description of the method of producing a new and characteristic
+      fabric.--1 illustration.
+
+      Gaseous Illuminants.--By Prof. VIVIAN B. LEWES.--Continuation
+      of this important article, treating of the water gas and special
+      processes, with analyses.
+
+      Glove Making.--Early history of glove making in America.--Its
+      present aspects and processes.
+
+      Reversible Ingrain or Pro-Brussels Carpet.--An imitation of
+      Brussels carpet on the Ingrain principle.--Full description of the
+      process of making.--3 illustrations.
+
+      The Manufacture and Use of Plaster of Paris.--An excellent
+      treatment of a subject hitherto little written about.--Full
+      particulars of the manufacturing process.
+
+       *       *       *       *       *
+
+
+
+
+IMPROVED OVERHEAD STEAM TRAVELING CRANE.
+
+
+We show in Fig. 1 a general view, and in Figs. 2 and 3 a side
+elevation and plan of an overhead steam traveling crane, which has
+been constructed by Mr. Thomas Smith, of Rodley, near Leeds, for use
+in a steel works, to lift, lower, and travel with loads up to 15 tons.
+For our engravings and description we are indebted to _Industries._
+The crane is designed for hoisting and lowering while traveling
+transversely or longitudinally, and all the movements are readily
+controlled from the cage, which is placed at one end of and underneath
+the transverse beams, and from which the load can be readily seen. All
+the gear wheels are of steel and have double helical teeth; the shafts
+are also of steel, and the principal bearings are adjustable and
+bushed with hard gun metal. This crane has a separate pair of engines
+for each motion, which are supplied with steam by the multitubular
+boiler placed in the cage as shown. The hoisting motions consist of
+double purchase gearing, with grooved drum, treble best iron chain
+with block and hook, driven by one pair of 8 in. by 12 in. engines.
+The transverse traveling motion consists of gearing, chain, and
+carriage on four tram wheels, with grooved chain pulleys, driven by
+the second pair of 6 in. by 10 in. engines, and the longitudinal
+traveling motion driven by the other pair of 8 in. by 12 in. engines.
+The transverse beams are wrought iron riveted box girders, firmly
+secured to the end carriages, which are mounted on four double flanged
+steel-tired wheels, set to suit a 38 foot span.
+
+[Illustration: IMPROVED OVERHEAD TRAVELING CRANE]
+
+[Illustration: FIG. 2 SIDE ELEVATION]
+
+[Illustration: FIG. 3 PLAN]
+
+       *       *       *       *       *
+
+
+
+
+BEST DIAMETER CAR WHEELS.[1]
+
+[Footnote 1: By Samuel Porcher, assistant engineer motive power
+department, Pennsylvania Railroad. Read at a regular meeting of the
+New York Railroad Club, Feb. 19, 1891.]
+
+
+It goes almost without saying that for any given service we want the
+best car wheel, and in general it is evident that this is the one best
+adapted to the efficient, safe and prompt movement of trains, to the
+necessary limitations improved by details of construction, and also
+the one most economical in maintenance and manufacture.
+
+It is our aim this afternoon to look into this question in so far as
+the diameter of the wheel affects it, and in doing it we must consider
+what liability there is to breakage or derangement of the parts of the
+wheel, hot journals, bent axles, the effect of the weight of the wheel
+itself, and the effect upon the track and riding of the car, handling
+at wrecks and in the shop, the first cost of repairs, the mileage,
+methods of manufacture, the service for which the wheel is intended
+and the material of which it is made.
+
+Confining ourselves to freight and passenger service, and to cast iron
+and steel wheels in the general acceptation of the term as being the
+most interesting, we know that cast iron is not as strong as wrought
+iron or steel, that the tendency of a rotating wheel to burst is
+directly proportional to its diameter, and that the difficulty of
+making a suitable and perfect casting increases with the diameter.
+Cast iron, therefore, would receive no attention if it were not for
+its far greater cheapness as compared to wrought iron or steel. This
+fact makes its use either wholly or in part very desirable for freight
+service, and even causes some roads in this country, notably the one
+with which I am connected, to find it profitable to develop and
+perfect the cast iron wheel for use in all but special cases.
+
+Steel, on the other hand, notwithstanding its great cost, is coming
+more and more into favor, and has the great recommendations of
+strength and safety. It is also of such a nature that wheels tired
+with it run much further before being unfit for further service than
+those made of cast iron, and consequently renewals are less frequent.
+The inference would seem to be that a combination of steel and cast
+iron would effect the desirable safeness with the greatest cheapness;
+but up to the present this state of affairs has not yet been realized
+to the proper extent, because of the labor and cost necessary to
+accomplish this combination and the weakness involved in the manner of
+joining the two kinds of material together.
+
+Taking up the consideration of the diameter of the wheel now, and
+allowing that on the score of economy cast iron must be used for
+wheels in freight service, we are led to reflect that here heavy loads
+are carried, and there is a growing tendency to increase them by
+letting the floor of the car down to a level with the draft timbers.
+All this makes it desirable to have the wheels strong and small to
+avoid bent axles and broken flanges, to enable us to build a strong
+truck, to reduce the dead weight of cars to a minimum, and have wrecks
+quickly cleared away. The time has not yet come when we have to
+consider seriously hot journals arising from high speed on freight
+trains, and a reasonable degree only of easy riding is required. The
+effect on the track is, however, a matter of moment. Judging from the
+above, I should say that no wheel larger than one 33 in. in diameter
+should be used under freight cars. Since experience in passenger
+service shows that larger cast iron wheels do not make greater mileage
+and cost more per 1,000 miles run, and that cast iron wheels smaller
+than 33 in., while sometimes costing less per 1,000 miles run, are
+more troublesome in the end, it is apparent that 33 in. is the best
+diameter for the wheels we have to use in freight service.
+
+When we take up passenger service we come to a much more difficult and
+interesting part of the subject, for here we must consider it in all
+its bearings, and meet the complications that varying conditions of
+place and service impose. In consequence, I do not believe we can
+recommend one diameter for all passenger car wheels although such a
+state of simplicity would be most desirable. For instance, in a sandy
+country where competition is active, and consequently speed is high
+and maintained for a length of time without interruption, I would
+scarcely hesitate to recommend the use of cast iron for car wheels,
+because steel will wear out so rapidly in such a place that its use
+will be unsatisfactory. If then cast iron is used, we will find that
+we cannot make with it as large a wheel as we may determine is
+desirable when steel is used. And just to follow this line out to its
+close I will state here that we find that 36 in. seems to be the
+maximum satisfactory diameter for cast iron wheels, because this size
+does not give greater mileage than 33 in., costs more per 1,000 miles
+run, and seems to be nearer the limit for good foundry results. On the
+other hand, a 36 in. wheel rides well and gives immunity from hot
+boxes--a most fruitful source of annoyance in sandy districts. It is
+also easily applicable where all modern appliances under the car are
+found, including good brake rigging. In all passenger service, then, I
+would recommend 36 in. as the best diameter for cast iron wheels.
+
+Next taking up steel wheels, a great deal might be said about the
+different makes and patterns, but as the diameter of wheels of this
+kind is not limited practically to any extent by the methods of
+manufacture, except as to the fastening of the wheel and tire
+together, we will note this point only. Tires might be so deeply cut
+into for the introduction of a retaining ring that a small wheel would
+be unduly weakened after a few turnings.
+
+On the other hand, when centers and tires are held together by
+springing the former into the latter under pressure, it is possible
+that a tire of larger diameter might be overstrained. But allowing
+that the method of manufacture does not limit the diameter of a steel
+wheel as it does a cast iron one, the claim that the larger diameter
+is the best is open to debate at least, and, I believe, is proved to
+the contrary on several accounts. It is argued that increasing the
+diameter of a wheel increases its total mileage in proportion, or even
+more. Whether this be so or not, there are two other very
+objectionable features that come with an increase in diameter--the
+wheel becomes more costly and weighs more, without giving in all cases
+a proportionate return. We have to do more work in starting and
+stopping, and in lifting the large wheel over the hills, and when the
+diameter exceeds a certain figure we have to pay more per 1,000 miles
+run. I am very firmly convinced that the matter of dead weight should
+receive more attention than it does, with a view to reducing it. The
+weight of six pairs of 42 in. wheels and axles alone is 15,000 to
+16,000 lb.
+
+The matter of brakes is coming up for more attention in these days of
+high speed, heavy cars and crowded roads, and the total available
+braking power, which has hitherto been but partially taken advantage
+of, must be fully utilized. I refer to the fact that many of our
+wheels in six-wheel trucks have gone unbraked where they should not.
+As the height of cars and length of trucks cannot well be increased
+for obvious reasons, it is necessary to keep the size of the wheels
+within the limits that will enable us to get efficient brakes on all
+of them that carry any weight. This is not easy with a 42 in. wheel in
+a six-wheel truck, which is usually the kind that requires most
+adjustment and repairs after long runs. The Pullman Co. has recognized
+this fact, and is now replacing its 42 in. wheel with one 38 in. in
+diameter.
+
+A 42 in. wheel with 4 in. journal has a greater leverage wherewith to
+overcome the resistance of journal friction than the 38 in. wheel with
+the same journal, and even more than the 36 in. and 33 in. wheels with
+33/4 in. and 31/2 in. journals respectively, but the fact remains that the
+same amount of work has to be done in overcoming the friction in each
+case, and what may be gained in ease of starting with the large wheel
+is lost in time necessary to do it, and in the extra weight put into
+motion.
+
+A large wheel increases the liability to bent axles in curving on
+account of greater leverage unless the size and weight of the axle are
+increased to correspond, and the wheel itself must be made stronger. A
+four or six wheel truck will not retain its squareness and dependent
+good riding qualities so well with 42 in. wheels as with 33 in. ones.
+Besides the brakes, the pipes for air and steam under the cars
+interfere with large wheels, and as a consequence of all this 42 in.
+wheels have been replaced by 36 in. ones to some extent in some places
+with satisfactory results. On one road in particular so strong is the
+inclination away from large wheels that 30 in. is advocated as the
+proper size for passenger cars.
+
+On the other hand, there is no doubt a car wheel may be too small, for
+the tires of small wheels probably do not get as much working up under
+the rolls, and therefore are not as tough or homogeneous. Small wheels
+are more destructive to frogs and rail joints. They revolve faster at
+a given speed, and when below a certain size increase the liability to
+hot journals if carrying the weight they can bear without detriment to
+the rest of the wheel. Speed alone I am not willing to admit is the
+most prolific source of hot boxes. The weight per square inch upon the
+bearing is a very important factor. I have found by careful
+examination of a great many cars that the number of hot boxes bears a
+close relation to the weight per square inch on the journal and the
+character of lubrication, and is not so much affected by the size of
+wheel or speed. These observations were made upon 42 in., 36 in. and
+33 in. wheels in the same trains. We find, furthermore, that while a
+3-3/8 in. journal on a 33 in. wheel is apt to heat under our passenger
+coaches, a 33/4 in., even when worn 3-5/8 in., journal on a 36 in. wheel
+runs uniformly cool. In 1890 on one division there were about 180 hot
+boxes with the small wheel, against 29 with the larger one, with a
+preponderance of the latter size in service and cars of the same
+weight over them.
+
+I do not know that there is any more tendency for a large wheel to
+slide than a small one under the action of the brakes, but large
+wheels wear out more brake shoes than small ones, if there is any
+difference in this particular.
+
+My conclusions are that 42 in. is too large a diameter for steel
+wheels in ordinary passenger service, and that 36 in. is right. But as
+steel-tired wheels usually become 3 in. smaller in diameter before
+wearing out, the wheel should be about 38 in. in diameter when new.
+Such a wheel can be easily put under all passenger cars and will not
+have become too small when worn out. A great many roads are using 36
+in. wheels, but when their tires have lost 3 in. diameter they have
+become 33 in. wheels, which I think too small.
+
+There are many things I have left unsaid, and I am aware that some of
+the members of the club have had most satisfactory service with 42 in.
+wheels so far as exemption from all trouble is concerned, and others
+have never seen any reason for departing from the most used size of 33
+in.
+
+One more word about lightness. A wrought iron or cast steel center, 8
+or 9 light spokes on a light rim inside a steel tire, makes the
+lightest wheel, and one that ought to be in this country, as it is
+elsewhere, the cheapest not made of cast iron.
+
+       *       *       *       *       *
+
+
+
+
+A NEW INTEGRATOR.[1]
+
+[Footnote 1: A paper read before the University College Engineering
+Society on January 22.--_Engineering_.]
+
+BY PROFESSOR KARL PEARSON, M.A.
+
+
+As I fear the title of my paper to our Society to-night contains two
+misstatements of fact in its three words, I must commence by
+correcting it. In the first place, the instrument to which I propose
+to draw your attention to-night is, in the narrow sense of the words,
+neither an integrator nor new. The name "integrator" has been
+especially applied to a class of instruments which measure off on a
+scale attached to them the magnitude of an area, arc, or other
+quantity. Such instruments do not, as a rule, represent their results
+graphically, and we may take, as characteristic examples of them,
+Amsler's planimeter and some of the sphere integrating machines.
+
+An integrator which draws an absolute picture of the sum or integral
+is better termed an "integraph." The distinction is an important and
+valuable one, for while the integraph theoretically can do all the
+work of the integrator, the latter gives us in niggardly fashion one
+narrow answer, _et praeterea nil_. The superiority of the integraph
+over the integrator cannot be better pointed out than by a concrete
+example. The integrator could determine by one process, the bending
+moment, from the shear curve, at any one chosen point of a beam; the
+integraph would, by an equally simple single process, gives us the
+bending moment at all points of the beam.
+
+In the language of the mathematician, the integrator gives only that
+miserly result, a definite integral, but the integraph yields an
+indefinite integral, a picture of the result at all times or all
+points--a much greater boon in most mechanical and physical
+investigations. Members of our Society as students of University
+College have probably become acquainted with a process termed "drawing
+the sum curve from the primitive curve." Many have probably found this
+process somewhat wearisome; but this is not an unmixed evil, as the
+irksomeness of any manual process has more than once led to the
+invention of a valuable machine by the would-be idler. Thus our innate
+desire to take things easy is a real incentive to progress. It was
+some such desire as this on my part which led me, three years ago, to
+inquire whether a practical instrument had not been, or could not be,
+constructed to draw sum curves. Such an instrument is an integraph,
+and the one I have to describe to you to-night is the outcome of that
+inquiry. It is something better than my title, for it is an integraph,
+and not an integrator.
+
+[Illustration: A NEW INTEGRATOR]
+
+Before I turn to its claims to be considered new, I must first remind
+you of the importance of an instrument of this kind to the
+draughtsman. I put aside its purely mechanical applications, where it
+has been, or can be, attached to the indicators of steam engines, to
+dynamometers, dynamos, and a variety of other instruments where
+mechanical integration is of value. These lie entirely outside my
+field, and I propose only to refer to a few of the possible services
+of the integrator when used by hand, and not attached to a machine.
+
+The simple finding of areas we may omit, as the planimeter will do
+that equally well. But of purely graphical processes which the
+integraph will undertake for us, I may mention the discovery of
+centroids, of moments of inertia (or second moments), of a scale of
+logarithms, of the real roots of cubic equations, and of equations of
+higher order (with, however, increasing labor). Further, the
+calculation of the cost of cutting and embanking for railways by the
+method of Bruckner & Culmann, the solution of a very considerable
+number of rather complex differential equations, various problems in
+the storage of water, and a great variety of statistical questions may
+all be completely dealt with, or very much simplified by aid of the
+integraph.
+
+In graphical statics proper the integraph draws successively the
+curves of shear, bending moment slope, and deflection for simple
+beams; it does the like service for continuous beams, after certain
+analytical or graphical calculations have first been made; it can
+further lighten greatly the graphical work in the treatment of masonry
+arches and of metal ribs. In graphical hydrostatics it finds centers
+of pressure and gives a complete solution for the shear and bending
+moment, curves in ships, besides curves for their stability. In
+graphical dynamics the applications of the integraph seem still more
+numerous. It enables us to pass from curves of acceleration to curves
+of speed, and from curves of speed to curves of position. Applied to
+the curve of energy of either a particle or the index point of a rigid
+body, it enables us by the aid of easy auxiliary processes to
+ascertain speeds and curves of action. In a slightly altered form,
+that of "inverse summation," we can pass from curves of action to
+curves of position, and deal with a great range of resisted motions,
+the analysis of which still puzzles the pure mathematician; the
+variations of motion in flywheels, connecting rods, and innumerable
+other parts of mechanism, may all be calculated with much greater ease
+by the aid of an integraph. Shortly, it is the fundamental instrument
+of graphic dynamics.
+
+It would be needless to further multiply the instances of its
+application; the questions we have rather to ask are: Can a practical
+instrument be made which will serve all these purposes? Has such an
+instrument been already put upon the market? If I have to answer these
+questions in the negative, it is rather a doubtful negative, for the
+instrument I have to show you to-night goes so far, and suggests so

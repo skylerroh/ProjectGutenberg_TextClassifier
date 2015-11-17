@@ -1,0 +1,716 @@
+from which in their hands grew that magnificent science to which
+every Englishman is indebted for his first lessons in right
+seeing and thinking.--GOW, JAMES.
+
+                         _A Short History of Greek Mathematics
+                         (Cambridge, 1884), p. 131._
+
+
+=1833.=
+
+        A figure and a step onward:
+        Not a figure and a florin.
+                     --MOTTO OF THE PYTHAGOREAN BROTHERHOOD.
+
+                         _W. B. Frankland: Story of Euclid
+                         (London, 1902), p. 33._
+
+
+=1834.= The doctrine of proportion, as laid down in the fifth
+book of Euclid, is, probably, still unsurpassed as a masterpiece
+of exact reasoning; although the cumbrousness of the forms of
+expression which were adopted in the old geometry has led to the
+total exclusion of this part of the elements from the ordinary
+course of geometrical education. A zealous defender of Euclid
+might add with truth that the gap thus created in the elementary
+teaching of mathematics has never been adequately supplied.
+
+                                                --SMITH, H. J. S.
+
+                         _Presidential Address British
+                         Association for the Advancement of
+                         Science (1873); Nature, Vol. 8, p. 451._
+
+
+=1835.= The Definition in the Elements, according to Clavius, is
+this: Magnitudes are said to be in the same Reason [ratio], a
+first to a second, and a third to a fourth, when the Equimultiples
+of the first and third according to any Multiplication whatsoever
+are both together either short of, equal to, or exceed the
+Equimultiples of the second and fourth, if those be taken,
+which answer one another.... Such is Euclid's Definition of
+Proportions; that _scare_-Crow at which the over modest or
+slothful Dispositions of Men are generally affrighted: they are
+modest, who distrust their own Ability, as soon as a Difficulty
+appears, but they are slothful that will not give some Attention
+for the learning of Sciences; as if while we are involved in
+Obscurity we could clear ourselves without Labour. Both of which
+Sorts of Persons are to be admonished, that the former be not
+discouraged, nor the latter refuse a little Care and Diligence
+when a Thing requires some Study.--BARROW, ISAAC.
+
+                         _Mathematical Lectures (London, 1734),
+                         p. 388._
+
+
+=1836.= Of all branches of human knowledge, there is none which,
+like it [geometry] has sprung a completely armed Minerva from the
+head of Jupiter; none before whose death-dealing Aegis doubt
+and inconsistency have so little dared to raise their eyes.
+It escapes the tedious and troublesome task of collecting
+experimental facts, which is the province of the natural sciences
+in the strict sense of the word: the sole form of its scientific
+method is deduction. Conclusion is deduced from conclusion, and
+yet no one of common sense doubts but that these geometrical
+principles must find their practical application in the real
+world about us. Land surveying, as well as architecture, the
+construction of machinery no less than mathematical physics, are
+continually calculating relations of space of the most varied
+kinds by geometrical principles; they expect that the success of
+their constructions and experiments shall agree with their
+calculations; and no case is known in which this expectation has
+been falsified, provided the calculations were made correctly and
+with sufficient data.--HELMHOLTZ, H.
+
+                         _The Origin and Significance of
+                         Geometrical Axioms; Popular Scientific
+                         Lectures [Atkinson], Second Series (New
+                         York, 1881), p. 27._
+
+
+=1837.= The amazing triumphs of this branch of mathematics
+[geometry] show how powerful a weapon that form of deduction is
+which proceeds by an artificial reparation of facts, in
+themselves inseparable.--BUCKLE, H. T.
+
+                         _History of Civilization in England (New
+                         York, 1891), Vol. 2, p. 343._
+
+
+=1838.= Every theorem in geometry is a law of external nature,
+and might have been ascertained by generalizing from observation
+and experiment, which in this case resolve themselves into
+comparisons and measurements. But it was found practicable, and
+being practicable was desirable, to deduce these truths by
+ratiocination from a small number of general laws of nature, the
+certainty and universality of which was obvious to the most
+careless observer, and which compose the first principles and
+ultimate premises of the science.--MILL, J. S.
+
+                         _System of Logic, Bk. 3, chap. 24, sect.
+                         7._
+
+
+=1839.= All such reasonings [natural philosophy, chemistry,
+agriculture, political economy, etc.] are, in comparison with
+mathematics, very complex; requiring so much _more_ than that
+does, beyond the process of merely deducing the conclusion
+logically from the premises: so that it is no wonder that the
+longest mathematical demonstration should be much more easily
+constructed and understood, than a much shorter train of just
+reasoning concerning real facts. The former has been aptly
+compared to a long and steep, but even and regular, flight of
+steps, which tries the breath, and the strength, and the
+perseverance only; while the latter resembles a short, but rugged
+and uneven, ascent up a precipice, which requires a quick eye,
+agile limbs, and a firm step; and in which we have to tread now
+on this side, now on that--ever considering as we proceed,
+whether this or that projection will afford room for our foot, or
+whether some loose stone may not slide from under us. There are
+probably as many steps of pure reasoning in one of the longer of
+Euclid's demonstrations, as in the whole of an argumentative
+treatise on some other subject, occupying perhaps a considerable
+volume.--WHATELY, R.
+
+                         _Elements of Logic, Bk. 4, chap. 2,
+                         sect. 5._
+
+
+=1840.=
+
+        [Geometry] that held acquaintance with the stars,
+        And wedded soul to soul in purest bond
+        Of reason, undisturbed by space or time.
+                                               --WORDSWORTH.
+
+                         _The Prelude, Bk. 5._
+
+
+=1841.= The statement that a given individual has received a
+sound geometrical training implies that he has segregated from
+the whole of his sense impressions a certain set of these
+impressions, that he has eliminated from their consideration all
+irrelevant impressions (in other words, acquired a subjective
+command of these impressions), that he has developed on the basis
+of these impressions an ordered and continuous system of logical
+deduction, and finally that he is capable of expressing the
+nature of these impressions and his deductions therefrom in terms
+simple and free from ambiguity. Now the slightest consideration
+will convince any one not already conversant with the idea, that
+the same sequence of mental processes underlies the whole career
+of any individual in any walk of life if only he is not concerned
+entirely with manual labor; consequently a full training in the
+performance of such sequences must be regarded as forming an
+essential part of any education worthy of the name. Moreover the
+full appreciation of such processes has a higher value than is
+contained in the mental training involved, great though this be,
+for it induces an appreciation of intellectual unity and beauty
+which plays for the mind that part which the appreciation of
+schemes of shape and color plays for the artistic faculties; or,
+again, that part which the appreciation of a body of religious
+doctrine plays for the ethical aspirations. Now geometry is not
+the sole possible basis for inculcating this appreciation. Logic
+is an alternative for adults, provided that the individual is
+possessed of sufficient wide, though rough, experience on which
+to base his reasoning. Geometry is, however, highly desirable in
+that the objective bases are so simple and precise that they can
+be grasped at an early age, that the amount of training for the
+imagination is very large, that the deductive processes are not
+beyond the scope of ordinary boys, and finally that it affords a
+better basis for exercise in the art of simple and exact
+expression than any other possible subject of a school course.
+
+                                               --CARSON, G. W. L.
+
+                         _The Functions of Geometry as a Subject
+                         of Education (Tonbridge, 1910), p. 3._
+
+
+=1842.= It seems to me that the thing that is wanting in the
+education of women is not the acquaintance with any facts, but
+accurate and scientific habits of thought, and the courage to
+think that true which appears unlikely. And for supplying this
+want there is a special advantage in geometry, namely that it
+does not require study of a physically laborious kind, but rather
+that rapid intuition which women certainly possess; so that it is
+fit to become a scientific pursuit for them.--CLIFFORD, W. K.
+
+                         _Quoted by Pollock in Clifford's
+                         Lectures and Essays (London, 1901), Vol.
+                         1, Introduction, p. 43._
+
+
+=1843.=
+
+              On the lecture slate
+        The circle rounded under female hands
+        With flawless demonstration.
+                                                 --TENNYSON.
+
+                         _The Princess, II, l. 493._
+
+
+=1844.= It is plain that that part of geometry which bears upon
+strategy does concern us. For in pitching camps, or in occupying
+positions, or in closing or extending the lines of an army, and
+in all the other manoeuvres of an army whether in battle or on
+the march, it will make a great difference to a general, whether
+he is a geometrician or not.--PLATO.
+
+                         _Republic, Bk. 7, p. 526._
+
+
+=1845.= Then nothing should be more effectually enacted, than
+that the inhabitants of your fair city should learn geometry.
+Moreover the science has indirect effects, which are not small.
+
+Of what kind are they? he said.
+
+There are the military advantages of which you spoke, I said; and
+in all departments of study, as experience proves, any one who
+has studied geometry is infinitely quicker of apprehension.--PLATO.
+
+                         _Republic [Jowett], Bk. 7, p. 527._
+
+
+=1846.= It is doubtful if we have any other subject that does so
+much to bring to the front the danger of carelessness, of
+slovenly reasoning, of inaccuracy, and of forgetfulness as this
+science of geometry, which has been so polished and perfected as
+the centuries have gone on.--SMITH, D. E.
+
+                         _The Teaching of Geometry (Boston,
+                         1911), p. 12._
+
+
+=1847.= The culture of the geometric imagination, tending to
+produce precision in remembrance and invention of visible forms
+will, therefore, tend directly to increase the appreciation of
+works of belles-letters.--HILL, THOMAS.
+
+                         _The Uses of Mathesis; Bibliotheca
+                         Sacra, Vol. 32, p. 504._
+
+
+=1848.=
+
+        Yet may we not entirely overlook
+        The pleasures gathered from the rudiments
+        Of geometric science. Though advanced
+        In these inquiries, with regret I speak,
+        No farther than the threshold, there I found
+        Both elevation and composed delight:
+        With Indian awe and wonder, ignorance pleased
+        With its own struggles, did I meditate
+        On the relations those abstractions bear
+        To Nature's laws.
+
+               *       *       *       *       *
+
+        More frequently from the same source I drew
+        A pleasure quiet and profound, a sense
+        Of permanent and universal sway,
+        And paramount belief; there, recognized
+        A type, for finite natures, of the one
+        Supreme Existence, the surpassing life
+        Which to the boundaries of space and time,
+        Of melancholy space and doleful time,
+        Superior and incapable of change,
+        Nor touched by welterings of passion--is,
+        And hath the name of God. Transcendent peace
+        And silence did wait upon these thoughts
+        That were a frequent comfort to my youth.
+
+               *       *       *       *       *
+
+                   Mighty is the charm
+        Of those abstractions to a mind beset
+        With images and haunted by himself,
+        And specially delightful unto me
+        Was that clear synthesis built up aloft
+        So gracefully; even then when it appeared
+        Not more than a mere plaything, or a toy
+        To sense embodied: not the thing it is
+        In verity, an independent world,
+        Created out of pure intelligence.
+                                               --WORDSWORTH.
+
+                         _The Prelude, Bk. 6._
+
+
+=1849.=
+
+        'Tis told by one whom stormy waters threw,
+        With fellow-sufferers by the shipwreck spared,
+        Upon a desert coast, that having brought
+        To land a single volume, saved by chance,
+        A treatise of Geometry, he wont,
+        Although of food and clothing destitute,
+        And beyond common wretchedness depressed,
+        To part from company, and take this book
+        (Then first a self taught pupil in its truths)
+        To spots remote, and draw his diagrams
+        With a long staff upon the sand, and thus
+        Did oft beguile his sorrow, and almost
+        Forget his feeling:
+                                               --WORDSWORTH.
+
+                         _The Prelude, Bk. 6._
+
+
+=1850.= We study art because we receive pleasure from the great
+works of the masters, and probably we appreciate them the more
+because we have dabbled a little in pigments or in clay. We do
+not expect to be composers, or poets, or sculptors, but we wish
+to appreciate music and letters and the fine arts, and to derive
+pleasure from them and be uplifted by them....
+
+So it is with geometry. We study it because we derive pleasure
+from contact with a great and ancient body of learning that has
+occupied the attention of master minds during the thousands of
+years in which it has been perfected, and we are uplifted by it.
+To deny that our pupils derive this pleasure from the study is to
+confess ourselves poor teachers, for most pupils do have positive
+enjoyment in the pursuit of geometry, in spite of the tradition
+that leads them to proclaim a general dislike for all study. This
+enjoyment is partly that of the game,--the playing of a game that
+can always be won, but that cannot be won too easily. It is
+partly that of the aesthetic, the pleasure of symmetry of form,
+the delight of fitting things together. But probably it lies
+chiefly in the mental uplift that geometry brings, the contact
+with absolute truth, and the approach that one makes to the
+Infinite. We are not quite sure of any one thing in biology; our
+knowledge of geology is relatively very slight, and the economic
+laws of society are uncertain to every one except some individual
+who attempts to set them forth; but before the world was
+fashioned the square on the hypotenuse was equal to the sum of
+the squares on the other two sides of a right triangle, and it
+will be so after this world is dead; and the inhabitant of Mars,
+if he exists, probably knows its truth as we know it. The uplift
+of this contact with absolute truth, with truth eternal, gives
+pleasure to humanity to a greater or less degree, depending upon
+the mental equipment of the particular individual; but it
+probably gives an appreciable amount of pleasure to every student
+of geometry who has a teacher worthy of the name.--SMITH, D. E.
+
+                         _The Teaching of Geometry (Boston,
+                         1911), p. 16._
+
+
+=1851.= No other person can judge better of either [the merits of
+a writer and the merits of his works] than himself; for none have
+had access to a closer or more deliberate examination of them. It
+is for this reason, that in proportion that the value of a work
+is intrinsic, and independent of opinion, the less eagerness will
+the author feel to conciliate the suffrages of the public. Hence
+that inward satisfaction, so pure and so complete, which the
+study of geometry yields. The progress which an individual makes
+in this science, the degree of eminence which he attains in it,
+all this may be measured with the same rigorous accuracy as the
+methods about which his thoughts are employed. It is only when we
+entertain some doubts about the justness of our own standard,
+that we become anxious to relieve ourselves from our uncertainty,
+by comparing it with the standard of another. Now, in all matters
+which fall under the cognizance of taste, this standard is
+necessarily somewhat variable; depending on a sort of gross
+estimate, always a little arbitrary, either in whole or in part;
+and liable to continual alteration in its dimensions, from
+negligence, temper, or caprice. In consequence of these
+circumstances I have no doubt, that if men lived separate from
+each other, and could in such a situation occupy themselves about
+anything but self-preservation, they would prefer the study of
+the exact sciences to the cultivation of the agreeable arts. It
+is chiefly on account of others, that a man aims at excellence in
+the latter, it is on his own account that he devotes himself to
+the former. In a desert island, accordingly, I should think that
+a poet could scarcely be vain; whereas a geometrician might still
+enjoy the pride of discovery.--D'ALEMBERT.
+
+                         _Essai sur les Gens Lettres; Melages
+                         (Amsterdam 1764), t. 1, p. 334._
+
+
+=1852.= If it were required to determine inclined planes of
+varying inclinations of such lengths that a free rolling body
+would descend on them in equal times, any one who understands the
+mechanical laws involved would admit that this would necessitate
+sundry preparations. But in the circle the proper arrangement
+takes place of its own accord for an infinite variety of
+positions yet with the greatest accuracy in each individual case.
+For all chords which meet the vertical diameter whether at its
+highest or lowest point, and whatever their inclinations, have
+this in common: that the free descent along them takes place in
+equal times. I remember, one bright pupil, who, after I had
+stated and demonstrated this theorem to him, and he had caught
+the full import of it, was moved as by a miracle. And, indeed,
+there is just cause for astonishment and wonder when one beholds
+such a strange union of manifold things in accordance with such
+fruitful rules in so plain and simple an object as the circle.
+Moreover, there is no miracle in nature, which because of its
+pervading beauty or order, gives greater cause for astonishment,
+unless it be, for the reason that its causes are not so clearly
+comprehended, marvel being a daughter of ignorance.--KANT.
+
+                         _Der einzig moegliche Beweisgrund zu
+                         einer Demonstration des Daseins Gottes;
+                         Werke (Hartenstein), Bd. 2, p. 137._
+
+
+=1853.= These examples [taken from the geometry of the circle]
+indicate what a countless number of other such harmonic relations
+obtain in the properties of space, many of which are manifested
+in the relations of the various classes of curves in higher
+geometry, all of which, besides exercising the understanding
+through intellectual insight, affect the emotion in a similar or
+even greater degree than the occasional beauties of nature.--KANT.
+
+                         _Der einzig moegliche Beweisgrund zu
+                         einer Demonstration des Daseins Gottes;
+                         Werke (Hartenstein), Bd. 2, p. 138._
+
+
+=1854.= But neither thirty years, nor thirty centuries, affect
+the clearness, or the charm, of Geometrical truths. Such a
+theorem as "the square of the hypotenuse of a right-angled
+triangle is equal to the sum of the squares of the sides" is as
+dazzlingly beautiful now as it was in the day when Pythagoras
+first discovered it, and celebrated its advent, it is said, by
+sacrificing a hecatomb of oxen--a method of doing honor to
+Science that has always seemed to me _slightly_ exaggerated and
+uncalled-for. One can imagine oneself, even in these degenerate
+days, marking the epoch of some brilliant scientific discovery by
+inviting a convivial friend or two, to join one in a beefsteak
+and a bottle of wine. But a _hecatomb_ of oxen! It would produce
+a quite inconvenient supply of beef.--DODGSON, C. L.
+
+                         _A New Theory of Parallels (London,
+                         1895), Introduction, p. 16._
+
+
+=1855.= After Pythagoras discovered his fundamental theorem he
+sacrificed a hecatomb of oxen. Since that time all dunces[10]
+[Ochsen] tremble whenever a new truth is discovered.--BOERNE.
+
+                         _Quoted in Moszkowski: Die unsterbliche
+                         Kiste (Berlin, 1908), p. 18._
+
+    [10]  In the German vernacular a dunce or blockhead
+          is called an ox.
+
+
+=1856.=
+
+              _Vom Pythagorieschen Lehrsatz._
+
+          Die Wahrheit, sie besteht in Ewigkeit,
+        Wenn erst die bloede Welt ihr Licht erkannt:
+        Der Lehrsatz, nach Pythagoras benannt,
+        Gilt heute, wie er galt in seiner Zeit.
+
+          Ein Opfer hat Pythagoras geweiht
+        Den Goettern, die den Lichtstrahl ihm gesandt;
+        Es thaten kund, geschlachtet und verbrannt,
+        Ein hundert Ochsen seine Dankbarkeit.
+
+          Die Ochsen seit den Tage, wenn sie wittern,
+        Dass eine neue Wahrheit sich enthuelle,
+        Erheben ein unmenschliches Gebruelle;
+
+          Pythagoras erfuellt sie mit Entsetzen;
+        Und machtlos, sich dem Licht zu wiedersetzen,
+        Verschiessen sie die Augen und erzittern.
+                                   --CHAMISSO, ADELBERT VON.
+
+                         _Gedichte, 1835 (Haushenbusch), (Berlin,
+                         1889), p. 302._
+
+          Truth lasts throughout eternity,
+        When once the stupid world its light discerns:
+        The theorem, coupled with Pythagoras' name,
+        Holds true today, as't did in olden times.
+
+          A splendid sacrifice Pythagoras brought
+        The gods, who blessed him with this ray divine;
+        A great burnt offering of a hundred kine,
+        Proclaimed afar the sage's gratitude.
+
+          Now since that day, all cattle [blockheads] when they
+            scent
+        New truth about to see the light of day,
+        In frightful bellowings manifest their dismay;
+
+          Pythagoras fills them all with terror;
+        And powerless to shut out light by error,
+        In sheer despair they shut their eyes and tremble.
+
+
+=1857.= To the question "Which is the signally most beautiful of
+geometrical truths?" Frankland replies: "One star excels another
+in brightness, but the very sun will be, by common consent, a
+property of the circle [Euclid, Book 3, Proposition 31] selected
+for particular mention by Dante, that greatest of all exponents
+of the beautiful."--FRANKLAND, W. B.
+
+                         _The Story of Euclid (London, 1902), p.
+                         70._
+
+
+=1858.=
+
+                                       As one
+        Who vers'd in geometric lore, would fain
+        Measure the circle; and, though pondering long
+        And deeply, that beginning, which he needs,
+        Finds not; e'en such was I, intent to scan
+        The novel wonder, and trace out the form,
+        How to the circle fitted, and therein
+        How plac'd: but the flight was not for my wing;
+                                                    --DANTE.
+
+                         _Paradise [Carey] Canto 33, lines
+                         122-129._
+
+
+=1859.= If geometry were as much opposed to our passions and
+present interests as is ethics, we should contest it and violate
+it but little less, notwithstanding all the demonstrations of
+Euclid and of Archimedes, which you would call dreams and believe
+full of paralogisms; and Joseph Scaliger, Hobbes, and others, who
+have written against Euclid and Archimedes, would not find
+themselves in such a small company as at present.--LEIBNITZ.
+
+                         _New Essays concerning Human
+                         Understanding [Langley], Bk. 1, chap. 2,
+                         sect. 12._
+
+
+=1860.= I have no fault to find with those who teach geometry.
+That science is the only one which has not produced sects; it is
+founded on analysis and on synthesis and on the calculus; it does
+not occupy itself with probable truth; moreover it has the same
+method in every country.--FREDERICK THE GREAT.
+
+                         _Oeuvres (Decker), t. 7, p. 100._
+
+
+=1861.= There are, undoubtedly, the most ample reasons for
+stating both the principles and theorems [of geometry] in their
+general form, .... But, that an unpractised learner, even in
+making use of one theorem to demonstrate another, reasons rather
+from particular to particular than from the general proposition,
+is manifest from the difficulty he finds in applying a theorem to
+a case in which the configuration of the diagram is extremely
+unlike that of the diagram by which the original theorem was
+demonstrated. A difficulty which, except in cases of unusual
+mental powers, long practice can alone remove, and removes
+chiefly by rendering us familiar with all the configurations
+consistent with the general conditions of the theorem.--MILL, J. S.
+
+                         _System of Logic, Bk. 2, chap. 3, sect.
+                         3._
+
+
+=1862.= The reason why I impute any defect to geometry, is,
+because its original and fundamental principles are deriv'd
+merely from appearances; and it may perhaps be imagin'd, that
+this defect must always attend it, and keep it from ever reaching
+a greater exactness in the comparison of objects or ideas, than
+what our eye or imagination alone is able to attain. I own that
+this defect so far attends it, as to keep it from ever aspiring
+to a full certainty. But since these fundamental principles
+depend on the easiest and least deceitful appearances, they
+bestow on their consequences a degree of exactness, of which
+these consequences are singly incapable.--HUME, D.
+
+                         _A Treatise of Human Nature, Part 3,
+                         sect. 1._
+
+
+=1863.= I have already observed, that geometry, or the art, by
+which we fix the proportions of figures, tho' it much excels both
+in universality and exactness, the loose judgments of the senses
+and imagination; yet never attains a perfect precision and
+exactness. Its first principles are still drawn from the general
+appearance of the objects; and that appearance can never afford
+us any security, when we examine the prodigious minuteness of
+which nature is susceptible....
+
+There remain, therefore, algebra and arithmetic as the only
+sciences, in which we can carry on a chain of reasoning to any
+degree of intricacy, and yet preserve a perfect exactness and
+certainty.--HUME, D.
+
+                         _A Treatise of Human Nature, Part 3,
+                         sect. 1._
+
+
+=1864.= All geometrical reasoning is, in the last resort,
+circular: if we start by assuming points, they can only be
+defined by the lines or planes which relate them; and if we start
+by assuming lines or planes, they can only be defined by the
+points through which they pass.--RUSSELL, BERTRAND.
+
+                         _Foundations of Geometry (Cambridge,
+                         1897), p. 120._
+
+
+=1865.= The description of right lines and circles, upon which
+Geometry is founded, belongs to Mechanics. Geometry does not
+teach us to draw these lines, but requires them to be drawn....
+it requires that the learner should first be taught to describe
+these accurately, before he enters upon Geometry; then it shows
+how by these operations problems may be solved. To describe right
+lines and circles are problems, but not geometrical problems. The
+solution of these problems is required from Mechanics; by
+Geometry the use of them, when solved, is shown.... Therefore
+Geometry is founded in mechanical practice, and is nothing but
+that part of universal Mechanics which accurately proposes and
+demonstrates the art of measuring. But since the manual arts are
+chiefly conversant in the moving of bodies, it comes to pass
+that Geometry is commonly referred to their magnitudes, and
+Mechanics to their motion.--NEWTON.
+
+                         _Philosophiae Naturalis Principia
+                         Mathematica, Praefat._
+
+
+=1866.= We must, then, admit ... that there is an independent
+science of geometry just as there is an independent science of
+physics, and that either of these may be treated by mathematical
+methods. Thus geometry becomes the simplest of the natural
+sciences, and its axioms are of the nature of physical laws, to
+be tested by experience and to be regarded as true only within
+the limits of error of observation--BOCHER, MAXIME.
+
+                         _Bulletin American Mathematical Society,
+                         Vol. 2 (1904), p. 124._
+
+
+=1867.= Geometry is not an experimental science; experience forms
+merely the occasion for our reflecting upon the geometrical ideas
+which pre-exist in us. But the occasion is necessary, if it did
+not exist we should not reflect, and if our experiences were
+different, doubtless our reflections would also be different.
+Space is not a form of sensibility; it is an instrument which
+serves us not to represent things to ourselves, but to reason
+upon things.--POINCARE, H.
+
+                         _On the Foundations of Geometry; Monist,
+                         Vol. 9 (1898-1899), p. 41._
+
+
+=1868.= It has been said that geometry is an instrument. The
+comparison may be admitted, provided it is granted at the same
+time that this instrument, like Proteus in the fable, ought
+constantly to change its form.--ARAGO.
+
+                         _Oeuvres, t. 2 (1854), p. 694._
+
+
+=1869.= It is essential that the treatment [of geometry] should
+be rid of everything superfluous, for the superfluous is an
+obstacle to the acquisition of knowledge; it should select
+everything that embraces the subject and brings it to a focus,
+for this is of the highest service to science; it must have great
+regard both to clearness and to conciseness, for their opposites
+trouble our understanding; it must aim to generalize its
+theorems, for the division of knowledge into small elements
+renders it difficult of comprehension.--PROCLUS.
+
+                         _Quoted in D. E. Smith: The Teaching of
+                         Geometry (Boston, 1911), p. 71._
+
+
+=1870.= Many are acquainted with mathematics, but mathesis few
+know. For it is one thing to know a number of propositions and to
+make some obvious deductions from them, by accident rather than
+by any sure method of procedure, another thing to know clearly
+the nature and character of the science itself, to penetrate into
+its inmost recesses, and to be instructed by its universal
+principles, by which facility in working out countless problems
+and their proofs is secured. For as the majority of artists, by
+copying the same model again and again, gain certain technical
+skill in painting, but no other knowledge of the art of painting
+than what their eyes suggest, so many, having read the books of
+Euclid and other geometricians, are wont to devise, in imitation
+of them and to prove some propositions, but the most profound
+method of solving more difficult demonstrations and problems they
+are utterly ignorant of.--LAFAILLE, J. C.
+
+                         _Theoremata de Centro Gravitatis
+                         (Anvers, 1632), Praefat._
+
+
+=1871.= The elements of plane geometry should precede algebra for
+every reason known to sound educational theory. It is more
+fundamental, more concrete, and it deals with things and their
+relations rather than with symbols.--BUTLER, N. M.
+
+                         _The Meaning of Education etc. (New
+                         York, 1905), p. 171._
+
+
+=1872.= The reason why geometry is not so difficult as algebra,
+is to be found in the less general nature of the symbols
+employed. In algebra a general proposition respecting numbers is
+to be proved. Letters are taken which may represent any of the
+numbers in question, and the course of the demonstration, far
+from making use of a particular case, does not even allow that
+any reasoning, however general in its nature, is conclusive,
+unless the symbols are as general as the arguments.... In
+geometry on the contrary, at least in the elementary parts, any
+proposition may be safely demonstrated on reasonings on any one
+particular example.... It also affords some facility that the
+results of elementary geometry are in many cases sufficiently
+evident of themselves to the eye; for instance, that two sides of
+a triangle are greater than the third, whereas in algebra many

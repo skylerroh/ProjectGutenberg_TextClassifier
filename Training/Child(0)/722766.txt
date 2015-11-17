@@ -1,0 +1,333 @@
+[Illustration: _Fig. 76._ WIRELESS SENDING APPARATUS]
+
+The secondary coil has one of its terminals connected with a binding
+post (E). This binding post has an adjustable rod with a knob (F) on its
+end, and the other binding post (G), which is connected up with the
+other terminal of the secondary coil, carries a similar adjusting rod
+with a knob (H).
+
+From the post (E) is a wire (I), which extends upwardly, and is called
+the aerial wire, or wire for the antennae, and this wire also connects
+with one side of the condenser by a conductor (J). The ground wire (K)
+connects with the other binding post (G), and a branch wire (L) also
+connects the ground wire (K) with one end of the condenser.
+
+[Illustration: _Fig. 77._ WIRELESS RECEIVING APPARATUS]
+
+THE RECEIVING APPARATUS.--The receiving station, on the other hand, has
+neither condenser, induction coil, nor key. When the apparatus is in
+operation, the coherer switch is closed, and the instant a current
+passes through the coherer and operates the telegraph sounder, the
+galvanometer indicates the current.
+
+Of course, when the coherer switch is closed, the battery operates the
+decoherer.
+
+HOW THE CIRCUITS ARE FORMED.--By referring again to Fig. 76, it will be
+seen that when the key is depressed, a circuit is formed from the
+battery through wire B to the primary coil, and back again to the
+battery through wire D. The secondary coil is thereby energized, and,
+when the full potential is reached, the current leaps across the gap
+formed between the two knobs (F, H), thereby setting up a disturbance in
+the ether which is transmitted through space in all directions.
+
+It is this impulse, or disturbance, which is received by the coherer at
+the receiving station, and which is indicated by the telegraph sounder.
+
+
+
+
+CHAPTER XII
+
+THE TELEPHONE
+
+
+VIBRATIONS.--Every manifestation in nature is by way of vibration. The
+beating of the heart, the action of the legs in walking, the winking of
+the eyelid; the impulses from the sun, which we call light; sound, taste
+and color appeal to our senses by vibratory means, and, as we have
+hereinbefore stated, the manifestations of electricity and magnetism are
+merely vibrations of different wave lengths.
+
+THE ACOUSTIC TELEPHONE.--That sound is merely a product of vibrations
+may be proven in many ways. One of the earliest forms of telephones was
+simply a "sound" telephone, called the _Acoustic Telephone_. The
+principle of this may be illustrated as follows:
+
+Take two cups (A, B), as in Fig. 78, punch a small hole through the
+bottom of each, and run a string or wire (C) from the hole of one cup to
+that of the other, and secure it at both ends so it may be drawn taut.
+Now, by talking into the cup (A) the bottom of it will vibrate to and
+fro, as shown by the dotted lines and thereby cause the bottom of the
+other cup (B) to vibrate in like manner, and in so vibrating it will
+receive not only the same amplitude, but also the same character of
+vibrations as the cup (A) gave forth.
+
+[Illustration: _Fig. 78._ ACOUSTIC TELEPHONE]
+
+[Illustration: _Fig. 79._ ILLUSTRATING VIBRATIONS]
+
+SOUND WAVES.--Sound waves are long and short; the long waves giving
+sounds which are low in the musical scale, and the short waves high
+musical tones. You may easily determine this by the following
+experiment:
+
+Stretch a wire, as at B (Fig. 79), fairly tight, and then vibrate it.
+The amplitude of the vibration will be as indicated by dotted line A.
+Now, stretch it very tight, as at C, so that the amplitude of vibration
+will be as shown at E. By putting your ear close to the string you will
+find that while A has a low pitch, C is very much higher. This is the
+principle on which stringed instruments are built. You will note that
+the wave length, which represents the distance between the dotted lines
+A is much greater than E.
+
+HEARING ELECTRICITY.--In electricity, mechanism has been made to enable
+man to note the action of the current. By means of the armature,
+vibrating in front of a magnet, we can see its manifestations. It is now
+but a step to devise some means whereby we may hear it. In this, as in
+everything else electrically, the magnet comes into play.
+
+[Illustration: _Fig. 80._ THE MAGNETIC FIELD]
+
+In the chapter on magnetism, it was stated that the magnetic field
+extended out beyond the magnet, so that if we were able to see the
+magnetism, the end of a magnet would appear to us something like a
+moving field, represented by the dotted lines in Fig. 80.
+
+The magnetic field is shown in Fig. 80 at only one end, but its
+manifestations are alike at both ends. It will be seen that the magnetic
+field extends out to a considerable distance and has quite a radius of
+influence.
+
+THE DIAPHRAGM IN A MAGNETIC FIELD.--If, now, we put a diaphragm (A) in
+this magnetic field, close up to the end of the magnet, but not so close
+as to touch it, and then push it in and out, or talk into it so that the
+sound waves strike it, the movement or the vibration of the diaphragm
+(A) will disturb the magnetic field emanating from the magnet, and this
+disturbance of the magnetic field at one end of the magnet also affects
+the magnetic field at the other end in the same way, so that the
+disturbance there will be of the same amplitude. It will also display
+the same characteristics as did the magnetic field when the diaphragm
+(A) disturbed it.
+
+A SIMPLE TELEPHONE CIRCUIT.--From this simple fact grew the telephone.
+If two magnets are connected up in the same circuit, so that the
+magnetic fields of the two magnets have the same source of electric
+power, the disturbance of one diaphragm will affect the other similarly,
+just the same as the two magnetic fields of the single magnet are
+disturbed in unison.
+
+HOW TO MAKE A TELEPHONE.--For experimental and testing purposes two of
+these telephones should be made at the same time. The case or holder
+(A) may be made either of hard wood or hard rubber, so that it is of
+insulating material. The core (B) is of soft iron, 3/8 inch in diameter
+and 5 inches long, bored and threaded at one end to receive a screw (C)
+which passes through the end of the case (A).
+
+The enlarged end of the case should be, exteriorly, 2-1/4 inches in
+diameter, and the body of the case 1 inch in diameter.
+
+[Illustration: _Fig. 81._ SECTION OF TELEPHONE RECEIVER]
+
+Interiorly, the large end of the case is provided with a circular recess
+1-3/4 inches in diameter and adapted to receive therein a spool which
+is, diametrically, a little smaller than the recess. The spool fits
+fairly tight upon the end of the core, and when in position rests
+against an annular shoulder in the recess. A hollow space (F) is thus
+provided behind the spool (D), so the two wires from the magnet may
+have room where they emerge from the spool.
+
+The spool is a little shorter than the distance between the shoulder (E)
+and the end of the casing, at G, and the core projects only a short
+distance beyond the end of the spool, so that when the diaphragm (H) is
+put upon the end of the case, and held there by screws (I) it will not
+touch the end of the core. A wooden or rubber mouthpiece (J) is then
+turned up to fit over the end of the case.
+
+[Illustration: _Fig. 82._ THE MAGNET AND RECEIVER HEAD]
+
+The spool (D) is made of hard rubber, and is wound with No. 24
+silk-covered wire, the windings to be well insulated from each other.
+The two ends of the wire are brought out, and threaded through holes (K)
+drilled longitudinally through the walls of the case, and affixed to the
+end by means of screws (L), so that the two wires may be brought
+together and connected with a duplex wire (M).
+
+As the screw (C), which holds the core in place, has its head hidden
+within a recess, which can be closed up by wax, the two terminals of the
+wires are well separated so that short-circuiting cannot take place.
+
+TELEPHONE CONNECTIONS.--The simplest form of telephone connection is
+shown in Fig. 83. This has merely the two telephones (A and B), with a
+single battery (C) to supply electricity for both. One line wire (D)
+connects the two telephones directly, while the other line (E) has the
+battery in its circuit.
+
+[Illustration: _Fig. 83._ SIMPLE TELEPHONE CONNECTION]
+
+COMPLETE INSTALLATION.--To install a more complete system requires, at
+each end, a switch, a battery and an electro-magneto bell. You may use,
+for this purpose, a bell, made as shown in the chapter on bells.
+
+Fig. 84 shows such a circuit. We now dispense with one of the line
+wires, because it has been found that the ground between the two
+stations serves as a conductor, so that only one line wire (A) is
+necessary to connect directly with the telephones of the two stations.
+The telephones (B, B', respectively) have wires (C, C') running to the
+pivots of double-throw switches (D, D'), one terminal of the switches
+having wires (E, E'), which go to electric bells (F, F'), and from the
+bells are other wires (G, G'), which go to the ground. The ground wires
+also have wires (H, H'), which go to the other terminals of the switch
+(D, D'). The double-throw switch (D, D'), in the two stations, is thrown
+over so the current, if any should pass through, will go through the
+bell to the ground, through the wires (E, G or E', G').
+
+[Illustration: _Fig. 84._ TELEPHONE STATIONS IN CIRCUIT]
+
+Now, supposing the switch (D'), in station 2, should be thrown over so
+it contacts with the wire (H'). It is obvious that the current will then
+flow from the battery (I') through wires (H', C') and line (A) to
+station 1; then through wire C, switch D, wire E to the bell F, to the
+ground through wire G. From wire G the current returns through the
+ground to station 2, where it flows up wire G' to the battery, thereby
+completing the circuit.
+
+[Illustration: _Fig. 85._ ILLUSTRATING LIGHT CONTACT POINTS]
+
+The operator at station 2, having given the signal, again throws his
+switch (D') back to the position shown in Fig. 84, and the operator at
+station 1 throws on his switch (D), so as to ring the bell in station 2,
+thereby answering the signal, which means that both switches are again
+to be thrown over so they contact with the battery wires (H and H'),
+respectively. When both are thus thrown over, the bells (G, G') are cut
+out of the circuit, and the batteries are both thrown in, so that the
+telephones are now ready for talking purposes.
+
+MICROPHONE.--Originally this form of telephone system was generally
+employed, but it was found that for long distances a more sensitive
+instrument was necessary.
+
+LIGHT CONTACT POINTS.--In 1877 Professor Hughes discovered,
+accidentally, that a light contact point in an electric circuit
+augmented the sound in a telephone circuit. If, for instance, a light
+pin, or a nail (A, Fig. 85) should be used to connect the severed ends
+of a wire (B), the sounds in the telephone not only would be louder, but
+they would be more distinct, and the first instrument made practically,
+to demonstrate this, is shown in Fig. 86.
+
+[Illustration: _Fig. 86._ MICROPHONE]
+
+[Illustration: _Fig. 87._ TRANSMITTER]
+
+HOW TO MAKE A MICROPHONE.--This instrument has simply a base (A) of
+wood, and near one end is a perpendicular sounding-board (B) of wood, to
+one side of which is attached, by wax or otherwise, a pair of carbon
+blocks (C, D). The lower carbon block (C) has a cup-shaped depression in
+its upper side, and the upper block has a similar depression in its
+lower side. A carbon pencil (E) is lightly held within these cups, so
+that the lightest contact of the upper end of the pencil with the
+carbon block, makes the instrument so sensitive that a fly, walking upon
+the sounding-board, may be distinctly heard through the telephone which
+is in the circuit.
+
+MICROPHONE THE FATHER OF THE TRANSMITTER.--This instrument has been
+greatly modified, and is now used as a transmitter, the latter thereby
+taking the place of the pin (A), shown in Fig. 85.
+
+AUTOMATIC CUT-OUTS FOR TELEPHONES.--In the operation of the telephone,
+the great drawback originally was in inducing users of the lines to
+replace or adjust their instruments carefully. When switches were used,
+they would forget to throw them back, and all sorts of trouble resulted.
+
+It was found necessary to provide an automatic means for throwing in and
+cutting out an instrument, this being done by hanging the telephone on
+the hook, so that the act merely of leaving the telephone made it
+necessary, in replacing the instrument, to cut out the apparatus.
+
+Before describing the circuiting required for these improvements, we
+show, in Fig. 87, a section of a transmitter.
+
+A cup-shaped case (A) is provided, made of some insulating material,
+which has a diaphragm (B) secured at its open side. This diaphragm
+carries the carbon pencil (C) on one side and from the blocks which
+support the carbon pencil the wires run to binding posts on the case.
+Of course the carbon supporting posts must be insulated from each other,
+so the current will go through the carbon pencil (C).
+
+COMPLETE CIRCUITING WITH TRANSMITTER.--In showing the circuiting (Fig.
+88) it will not be possible to illustrate the boxes, or casings, which
+receive the various instruments. For instance, the hook which carries
+the telephone or the receiver, is hinged within the transmitter box. The
+circuiting is all that it is intended to show.
+
+[Illustration: _Fig. 88._ COMPLETE TELEPHONIC CIRCUIT]
+
+The batteries of the two stations are connected up by a wire (A), unless
+a ground circuit is used. The other side of each battery has a wire
+connection (B, B') with one terminal of the transmitter, and the other
+terminal of the transmitter has a wire (C, C') which goes to the
+receiver. From the other terminal of the receiver is a wire (D, D')
+which leads to the upper stop contact (E, E') of the telephone hook. A
+wire (F, F') from the lower stop contact (G, G') of the hook goes to one
+terminal of the bell, and from the other terminal of the bell is a wire
+(H, H') which makes connection with the line wire (A). In order to make
+a complete circuit between the two stations, a line wire (I) is run from
+the pivot of the hook in station 1 to the pivot of the hook in station
+2.
+
+In the diagram, it is assumed that the receivers are on the hooks, and
+that both hooks are, therefore, in circuit with the lower contacts (G,
+G'), so that the transmitter and receiver are both out of circuit with
+the batteries, and the bell in circuit; but the moment the receiver, for
+instance, in station 1 is taken off the hook, the latter springs up so
+that it contacts with the stop (E), thus establishing a circuit through
+the line wire (I) to the hook of station 2, and from the hook through
+line (F') to the bell. From the bell, the line (A) carries the current
+back to the battery of station (A), thence through the wire (B) to the
+transmitter wire (C) to receiver and wire (D) to the post (E), thereby
+completing the circuit.
+
+When, at station 2, the receiver is taken off the hook, and the latter
+contacts with the post (E'), the transmitter and receiver of both
+stations are in circuit with each other, but both bells are cut out.
+
+
+
+
+CHAPTER XIII
+
+ELECTROLYSIS, WATER PURIFICATION, ELECTROPLATING
+
+
+DECOMPOSING LIQUIDS.--During the earlier experiments in the field of
+electricity, after the battery or cell was discovered, it was noted that
+when a current was formed in the cell, the electrolyte was charged and
+gases evolved from it. A similar action takes place when a current of
+electricity passes through a liquid, with the result that the liquid is
+decomposed--that is, the liquid is broken up into its original
+compounds. Thus, water is composed of two parts, by bulk, of hydrogen
+and of oxygen, so that if two electrodes are placed in water, and a
+current is sent through the electrodes in either direction, all the
+water will finally disappear in the form of hydrogen and oxygen gases.
+
+MAKING HYDROGEN AND OXYGEN.--During this electrical action, the hydrogen
+is set free at the negative pole and the oxygen at the positive pole. A
+simple apparatus, which any boy can make, to generate pure oxygen and
+pure hydrogen, is shown in Fig. 89.
+
+It is constructed of a glass or earthen jar (A), preferably square, to
+which is fitted a wooden top (B), this top being provided with a
+packing ring (C), so as to make it air-tight. Within is a vertical
+partition (D), the edges of which, below the cap, fit tightly against
+the inner walls of the jar. This partition extends down into the jar a
+sufficient distance so it will terminate below the water level. A pipe
+is fitted through the top on each side of the partition, and each pipe
+has a valve. An electrode, of any convenient metal, is secured at its
+upper end to the top of the cap, on each side of the partition. These
+electrodes extend down to the bottom of the jar, and an electric wire
+connects with each of them at the top.
+
+[Illustration: _Fig. 89._ DEVICE FOR MAKING HYDROGEN AND OXYGEN]
+
+If a current of electricity is passed through the wires and the
+electrodes, in the direction shown by the darts, hydrogen will form at

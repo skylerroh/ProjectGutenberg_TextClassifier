@@ -1,0 +1,504 @@
+Among the most important of the apparatus exhibited we must reckon Mr.
+Cailletet's devices for liquefying gases, and those of Mr. Mascart for
+determining the ohm. The results obtained by Mr. Mascart (which have
+been submitted to the Committee on Unities of the Congress of
+Electricians now in session at Paris), are sensibly concordant with
+those obtained independently in England by Lord Rayleigh. Everything
+leads to the hope, then, that a rapid and definite solution will be
+given of this important question of electric unities, and that nothing
+further will prevent the international development of the C.G.S.
+system.
+
+Mr. Jules Duboscq made a number of very successful projections, and we
+particularly remarked the peculiar experiment made in conjunction with
+Mr. Parinaud, that gave in projection two like spectra produced by the
+same prism, and which, through superposition, were capable of
+increasing the intensity of the colors, or, on the contrary, of
+reconstituting white light.
+
+Among the optical applications we may cite Mr. Leon Laurent's
+apparatus for controlling plane, parallel, perpendicular, and oblique
+surfaces, and magic mirrors obtained with an ordinary light; Mr. S.P.
+Thompson's apparatus for demonstrating the propagation of
+electro-magnetic waves in ether (according to Maxwell's theory), as
+well as some new polarizing prisms; and a mode of lighting the
+microscope (presented by Mr. Yvon), that was quite analogous to the
+one employed more than a year ago by Dr. Van Heurck, director of the
+Botanical Garden of Anvers.
+
+Acoustics were represented by an electro-magnetic brake siren of Mr.
+Bourbouze; Konig's apparatus for the synthesis of sounds; and Mr. S.P.
+Thompson's cymatograph--a pendulum apparatus for demonstrating the
+phenomena of beats.
+
+It was electricity again that occupied the largest space in the
+programme of the session.
+
+Apparatus for teaching are assuming greater and greater importance
+every day, and the exhibit of Mr. Ducretet included a large number of
+the most interesting of these. The house of Breguet exhibited on a
+reduced scale the magnificent experiments of Gaston Plante, wherein
+320 leaden wire secondary elements charged for quantity with 3 Daniell
+elements, and afterward coupled for tension, served to charge a
+rheostatic machine formed of 50 condensers coupled for quantity. These
+latter, coupled anew for tension, furnished upon being discharged a
+spark due to a difference of potential of about 32,000 volts that
+presented all the characters of the spark produced by induction coils
+on the machines so improperly called "static." Finally, we may cite
+the apparatus arranged by Mr. S.P. Thompson for studying the
+development of currents in magneto-electric machines. The inventor
+studies the influence of the forms of the inductors and armatures of
+machines by means of an arrangement that allows him to change the
+rings or armatures at will and to take out the induced bobbins in
+order to sound every part of the magnetic field. Upon giving the
+armature an angular motion limited by two stops, there develops a
+certain quantity of electricity that may be measured by causing it to
+traverse an appropriate ballistic galvanometer. Messrs. Deprez and
+D'Arsonval's galvanometer answers very well for this purpose, and its
+aperiodicity, which causes it quickly to return to zero as soon as the
+induced current ceases, permits of a large number of readings being
+taken within a very short space of time.
+
+Measuring apparatus were represented by a new and very elegant
+arrangement of Sir William Thomson's reflecting galvanometers, due to
+Mr. J. Carpentier. The mounting adopted by Mr. Carpentier permits of
+an easy removal of the bobbins and of an instantaneous substitution
+therefor. The galvanometric part, composed of the needles and mirror,
+therefore remains entirely free, thus allowing of its being verified,
+and making it convenient to attach the silken fiber. Mr. Carpentier
+has, moreover, adopted for all the minor apparatus a transparent
+celluloid scale which simplifies them, facilitates observations, and
+renders the use of reflection almost industrial.
+
+We shall complete our enumeration of the measuring apparatus by citing
+Ducretet's non-oscillating galvanometer, Sir William Thomson's
+amperemeters, voltameters, ohmmeters, and mhosmeters, constructed and
+exhibited by Breguet, and a new aperiodic galvanoscope of Mr. Maiche.
+Mr. Baudot exhibited the recent improvements that he has made in his
+multiplex printing telegraph, and M. Boudet of Paris showed a new
+system of telephone transmission by submarine cables.
+
+[Illustration: FIG. 1.--DIAGRAM EXHIBITING THE ARRANGEMENT FOR
+TELEPHONIC TRANSMISSIONS WITHOUT A RECEIVER.]
+
+Finally, we shall conclude our enumeration by referring to the
+curiosities. The house of Siemens exhibited a miniature electric
+railway actuated by a new model of Reynier accumulators; M. Maiche
+operated a system of musical telephonic auditions that differed only
+in detail from those instituted by Mr. Ader at the exhibition of 1881;
+and Mr. Hospitalier presented a new form of an experiment devised by
+Mr. Giltay, consisting of a telephonic transmission of sounds without
+the use of receivers. Mr. Giltay's experiment is nothing but Mr.
+Dunand's speaking condenser without the condenser. A glance at Fig. 1
+will show how things are arranged for the experiment. The transmitting
+system comprises two distinct circuits, viz.: (1) one formed of a
+pile, P, of 2 or 3 Leclanche elements, or of 1 or 2 small sized
+accumulators, an Ader microphane transmitter, M, and the inducting
+wire of a small induction coil, B; and (2) the other formed of the
+induced wire of the coil, B, of a pile, P', of 10 or 12 Leclanche
+elements, and of a line whose extremities terminate at R, in two
+ordinary electro-medical handles. With this arrangement the experiment
+performed is as follows: When any one speaks or sings in front of the
+transmitter, T, while two persons, A and B, each having one hand
+gloved, are holding the handles in the ungloved hand, it is only
+necessary for A to place his gloved hand upon B's ear, or for the
+latter to place his hand upon A's, or for each to place his hand on
+the other's ear simultaneously, in order that A or B, or A and B
+simultaneously, may hear a voice issuing from the glove. Under these
+circumstances, Mr. Giltay's experiment is explained like Dunand's
+speaking condenser--the hand of A and the ear of B here constituting
+the armature of an elementary condenser in which the glove performs
+the role of dielectric.
+
+Upon repeating this experiment at the laboratory of the School of
+Physics and Industrial Chemistry of Paris, it has been found that the
+glove maybe replaced by a sheet of plain or paraffined paper. In this
+case, when two persons are holding the handles, and have their ears
+applied, one against the other, if a sheet of paper be interposed,
+airs or words will be heard to proceed therefrom. Finally, it has been
+found possible to entirely suppress the paper, or dielectric, and to
+hear directly, by simply interposing the auditor or auditors in the
+circuit. One of the most curious forms of the experiment is the one
+shown in Fig. 2. Here a third person, C, hears the hands of A and B
+speak when a circuit is formed by means of three persons, A, B, and C,
+the two former, A and B, each holding one of the wires of the circuit
+and applying his free hand to the ear of C. Although the experiment is
+one that requires entire silence, and could not on that account be
+performed at the laboratory, a sort of telephonic chain can be formed
+in which five or six persons may hear at the same time. A, putting his
+hand on the ear of B, the latter putting his to that of C, and so on
+up to the last person, who closes the circuit by grasping one of the
+handles, the other one being held by A.
+
+[Illustration: EXPERIMENT ON TELEPHONIC TRANSMISSION WITHOUT
+RECEIVING APPARATUS.]
+
+It is difficult in the present state of science to explain very
+clearly how these telephonic transmissions are effected without a
+receiver. All that we can conclude from it so far is that the ear is
+an instrument of incomparable delicacy and of exquisite sensitiveness,
+since it perceives vibrations in which the energy developer,
+particularly in the telephonic chain, is exceedingly feeble.
+
+Without any desire to seek an application for an experiment that is
+simply curious, we yet believe that there is here a phenomenon of a
+nature to be studied by physicists. Discoveries in telephony and
+microphony have certainly opened up to science, as regards both theory
+and practice, new horizons that still promise other surprises for the
+future. But to return to the observatory: The success obtained by the
+exhibition of the French Society of Physics shows that these reunions
+respond to a genuine need--that of instructing in and popularizing
+science. While warmly congratulating the organizers of these meetings,
+we may express a wish that the good example set by the Society of
+Physics may be followed by other societies. We are convinced in
+advance that an equal success awaits them.--_La Nature._
+
+       *       *       *       *       *
+
+
+
+
+ON THE ARRANGEMENT OF GROUND CONDUCTORS.
+
+
+In telegraphy, as well as in the question of lightning rods, attention
+has been but incidentally paid to the improvement of ground
+conductors, and this point has not been the object of that careful
+study that has been bestowed upon the establishment of aerial lines.
+It is only recently that the interest created by lightning rods has
+given rise to new forms of conductors differing from those formerly
+used. The publications of the Prussian Academy of Sciences of from
+1876 to 1880 contain some information of special importance in regard
+to this. It is stated therein that the effect of ground conductors may
+be notably increased by the division of the earth plates and the use
+of metallic rods, without necessitating a greater output of material.
+These facts, however, have not as yet been put to profit in practice
+for the reason, perhaps, that the considerations, which have remained
+general, have not at once permitted of obtaining forms what could be
+employed with perfect knowledge of the results. This is what led Mr.
+Ulbricht, of Dresden, to make calculations for a few forms of
+conductors, and to test their approximate values. The results of these
+researches are printed in the _Elektrotechnischen Zeitschrift_ for
+1883 (p. 18).
+
+[Illustration]
+
+The equations found show, in the first place, that there exist three
+means of obtaining a considerable effect, as regards the ground
+conductor, with a slight expenditure of material: The cylindrical
+electrode may be drawn out into the form of a bar or wire; the plate
+may be rendered narrow, and elongated in the form of a ribbon; and,
+besides, the annular plate may be enlarged in lessening the metallic
+surface.
+
+Finally, a short, open cylinder with a vertical axis may be formed by
+curving a narrow plate or ribbon. It is not necessary to see the
+formula to recognize the fact that this cylinder must behave like a
+ribbon and a flat ring. The radius increasing, and the surface
+remaining constant, the resistance of the earth here likewise
+approaches zero.
+
+As the resistance of the earth is inversely proportional to the
+diameter of the plates, the zero resistance can also be reached by
+dividing a plate _ad infinitum_. As the parts of the plate may be
+brought quite close to each other without perceptibly interfering with
+the action, a _network_ has finally been reached by a division carried
+very far, yet limited, and by connecting the parts with one another by
+conducting cylinders.
+
+If we seek to determine what forms of ground conductors are efficient
+and economical under given conditions, we shall have to begin by
+informing ourselves as to the choice of material to be used for the
+electrode, and shall then have to ascertain whether putting it in the
+ground will or will not necessitate much outlay. The most suitable
+material is copper, which may be used with advantage, in that it lasts
+pretty well underground, and that the facility which it may be worked
+permits of easily giving it more appropriate forms than those that can
+be obtained with cast iron, which is of itself less costly.
+
+If the burying in the ground requires little or no labor, as when
+there exist ponds, rivers, and wells, or subterranean strata of water
+near the surface of the earth, elongated forms of conductors will be
+employed, such as the solid or hollow cylinder, the wire, the ribbon,
+the narrow ring, and the network. Plates approaching a square or
+circular shape are not advantageous. But if the ground has to be dug
+deeply in order to sink the conductor, the form of the electrode must
+be more condensed, and selected in such a way that the necessary
+action may be obtained with a minimum output of copper and labor. For
+great depths, and when the ground will permit of boring, an elongated
+and narrow cylinder will be used. Such a system, however, can only be
+employed when the cylinder is surrounded by spring water, since,
+without that, an intimate contact with earth that is only moist,
+cannot be obtained with certainty. In earth that is only moist and for
+moderate depths, preference may be given to an electrode laid down
+flat. The digging necessary in this case is onerous, it is true, but
+it permits of very accurately determining the state of the earth
+beneath and of obtaining a very perfect adherence of the electrode
+therewith. Two forms, the annular ribbon or the flat ring and the
+network, present themselves, according to calculations, as a
+substitute for copper plates, which are so expensive; and these forms
+are satisfactory on condition that the labor of digging be not notably
+increased. These forms should always have a diameter a little greater
+than that of the plate. The flat ring and the network, however, offer
+one weak point, which they possess in common with the plate, and that
+is, their dimensions cannot be easily adapted to the nature of the
+ground met with without a notable increase in the expense. Now, if the
+ground should offer a conductivity less than what was anticipated, and
+it were desired to increase the plate, say by one-third, it would be
+impossible to do so as a consequence of the closed form.
+
+One important advantage is realized in this respect by combining the
+ring and the network in the form of a reticulated ring having a
+diameter of from 1 to 11/2 meters. On cutting this ring at a given place
+and according to a certain radius we obtain the reticulated ribbon
+shown in the accompanying figure. The thickness of the wires is 2.5
+mm., and their weight is 0.475 kilo. per meter. L, L, and L are the
+points at which the conducting cable is soldered. A reticulated ribbon
+of copper can be made in advance of any length whatever, and,
+according to local exigencies, it may be easily curved and given the
+form of a flat or cylindrical ring of varying width. Even though the
+ribbon has already been cut for a ring of given diameter, it may be
+still further enlarged by drawing it out and leaving a bit of the ring
+open, so as to thus obtain a nearly corresponding diminution in the
+resistance. Such a resistance may be still further diminished by
+rendering the ring higher, that is to say, by employing an annular
+cylindrical form.
+
+After assuring himself, by experiments on a small scale, that
+calculation and observation gave concordant results for the flat ring,
+the author made an experiment on a larger scale with the annular
+network. For practical reasons he employed for this purpose a copper
+wire 2.5 mm. in diameter, which may be expected to last as long as one
+of iron plate 2 mm. in thickness. Calculation showed that in a ribbon
+160 mm. wide, meshes 40 mm. in breadth were advantageous and favorable
+as regards rigidity. A reticulated ribbon like this, 4 meters in
+length, was made and formed into a flat ring having an external
+diameter of 1.42 m. and an internal one of 1.10 m. The resistance of
+this ring was found to be W = 0.3485 (1/_k_), and that of a plate one
+meter square, W0 = 0.368 (1/_k_).
+
+As the conductivity of the earth is very variable, and as we cannot
+have an absolute guarantee that the ramming will be uniform, it seemed
+proper to make the measurements of the resistance by fixing the plate
+and the ring in succession to the lower surface of a small raft, in
+such a way that the contact with the water should correspond as well
+as possible to the suppositions made for the calculation. As a second
+ground conductor, a system of water pipes was used, and, after this, a
+lightning rod conductor, etc.
+
+Repeated and varied experiments gave, for the calculation of the
+values of the resistances, equations so concordant that the following
+results may be considered very approximate.
+
+The square plate had a resistance of 35.5 Siemens units, and the
+reticulated ring one of 32.5. From the first figure we deduce k =
+1/91.12, that is to say, the specific conductivity of river-water is
+1:91120000. Calculation, then, gives as the resistance of the earth in
+Siemens units:
+
+                                    Calculated. Observed.
+       Square plate.                   33.5       33.5
+       Annular ring.                   31.76      32.5
+
+These figures prove the accuracy of the calculations that had been
+made in an approximate way.
+
+The experiments were performed upon the Elba, above Dresden. Other
+experiments still had reference to the influence of immersion. In
+order to diminish polarization, only instantaneous currents from the
+measuring pile were employed. It was to be supposed that the current
+of water through which the bubbles of gas were removed from the
+electrodes would not have permitted of a notable resistance of
+polarization. Later measurements, made upon a ribbon buried, like the
+plates, in the earth, gave likewise most favorable results.
+
+As a result of these experiments, the State railways of Saxony have,
+in such cases as were practicable, introduced the annular network of
+copper. There are some manufacturers, too, who seem desirous of
+adopting this system, although it has hardly emerged from the period
+of experiment. The pecuniary advantages that will result from an
+application of it ought, it would seem, to dispel a large proportion
+of the criticisms directed against the erection of lightning rods,
+from the standpoint of expense, and contribute to extend an
+arrangement which may be considered as a very happy one.
+
+If we compare the square plate with the equivalent annular network,
+constructed as above indicated, and which should possess, according to
+the author an external diameter of 1.26 m. and of 3.45 m., we find
+that:
+
+    The square plate, 1 mm. thick weighs 8.9 kilos.
+                 "    2  "    "     "   17.8   "
+    The annular network             "    1.64  "
+
+The cost of reticulated ribbon per meter amounts to about 4.4 francs,
+supposing it to be arranged as shown in the cut.
+
+As term of comparison, we may admit that the following forms are
+nearly the equivalent of a horizontal, unburied plate one meter
+square.
+
+                                   Length. Diameter.
+    Vertical cylinder buried       1.40 m.  0.13  m.
+        "       "      "           1.80 m.  0.06  m.
+    Vertical bar       "           2.60 m.  0.013 m.
+    Horizontal bar     "           5.20 m.  0.013 m.
+
+Horizontal flat ring 1.32 m. in external diameter, and 1.08 m.
+internal.
+
+Horizontal network 1.01 m. square, and having meshes of the same size
+as those of the reticulated ribbon.
+
+Horizontal reticulated ribbon 3 m. in length and of the structure
+described.
+
+Horizontal annular ring 1.26 m. in external diameter, 0.94 m.
+internal.
+
+In conclusion, let us meet an objection that might be made to the
+accuracy of the hypotheses that serve as a base to the preceding
+calculations, in cases where ground plates for lightning rods and not
+for telegraphs are concerned. Between the two ground plates of a
+telegraph line there is generally a distance such that the curves of
+the current undergo no deviation in the vicinity of one of the
+electrodes (the only part important for integrations) through the
+influence of the other. But it might be admitted that such would prove
+the case with a lightning rod in a storm, at the time of the passage
+of the fluid into the earth. The ground plate here is one of the
+electrodes, and the other is replaced by the surface of the earth
+strongly charged to a great distance under the storm clouds. If we
+suppose (what may be admitted in a good lightning rod) that there no
+longer occurs any spark from the point downward, the curves of the
+current, in starting perpendicularly from the ground plate, would be
+obliged to leave their rectilinear trajectory and strike the surface
+of the earth at right angles. When the electricity flows through a
+plane surface into an infinite body, it is only when such surface
+presents a very great development that the respective potentials
+decrease very slowly in the vicinity of the said surface. No notable
+modification occurs, then, in the curves of equal potential, in the
+vicinity of the ground plate through the action of this extended
+charge, nor consequently any modification in the curves of the
+current; but the electricity which spreads has but a short distance to
+travel in order to overcome the most important resistances.
+
+The calculations of resistances given above have, then, the same value
+for discharges of atmospheric electricity.--_Bull. du Musee de
+l'Industrie._
+
+       *       *       *       *       *
+
+
+
+
+ON ELECTROLYSIS.
+
+By H. SCHUCHT.
+
+
+Concerning the separations which take place at the positive pole, the
+composition of the peroxides, and the manner of their determination,
+relatively little has been done.
+
+If solutions of the salts of lead, thallium, silver, bismuth, nickel,
+and cobalt are decomposed by the current between platinum electrodes,
+metal is deposited at the negative, and oxide at the positive
+electrode. Manganese is precipitated only as peroxide. The formation
+of peroxide is, of course, effected by the ozone found in the
+electrolytic oxygen at the positive pole; the oxide existing in
+solution is brought to a higher degree of oxidation, and is separated
+out. Its formation may be decreased or entirely prevented by the
+addition of readily oxidizible bodies, such as organic acids, lactose,
+glycerine, and preferably by an excess of oxalic acid; but only until
+the organic matter is transformed into carbonic acid. In this manner
+Classen separates other metals from manganese in order to prevent the
+saline solutions from being retained by the peroxide.
+
+With solutions of silver, bismuth, nickel, and cobalt, it is often
+practicable to prevent the separation of oxide by giving the current a
+greater resistance--increasing the distance between the electrodes.
+
+The proportion between the quantities of metal and of peroxide
+deposited is not constant, and even if we disregard the concentration
+of the solution, the strength of the current and secondary influences
+(action of nascent hydrogen) is different in acid and in alkaline
+solutions. In acid solutions much peroxide is formed; in alkaline
+liquids, little or none. The reason of the difference is that ozone is
+evolved principally in acid solutions, but appears in small quantities
+only in alkaline liquids, or under certain circumstances not at all.
+The quantity of peroxide deposited depends also on the temperature of
+the saline solution; at ordinary temperatures the author obtained more
+peroxide--the solution, the time, and the strength of current being
+equal--than from a heated liquid. The cause is that ozone is destroyed
+by heat and converted into ordinary oxygen. With the exception of lead
+and thallium the quantity of metal deposited from an acid solution is
+always greater than that of the peroxide.
+
+_Lead._--Luckow has shown that from acid solutions--no matter what may
+be the acid--lead is deposited at the anode as a mixture of anhydrous
+and hydrated peroxide of variable composition. Only very strongly acid
+solutions let all their lead fall down as peroxide; the precipitation
+is rapid immediately on closing the circuit, and complete separation
+is effected only in presence of at least 10 per cent. of free nitric
+acid. As the current becomes stronger with the increase of free acid,
+there is deposited upon the first compact layer a new stratum of
+loosely adhering peroxide.
+
+In presence of small quantities of other metals which are thrown down
+by the current in the metallic state, such as copper, mercury, etc.,
+peroxide alone is deposited from a solution of lead containing small
+quantities only of free nitric acid.
+
+The lead peroxide deposited is at first light brown or dark red, and
+becomes constantly darker and finally taking a velvet-black. As its
+stratification upon the platinum is unequal, it forms beautifully
+colored rings.
+
+Experiments show that the quantity of peroxide deposited depends on
+the nature of the solution and the strength of the current. In case of
+very feeble currents and slight acidity, its quantity is so small that
+it does not need to be taken into consideration. If the lead solution
+is very dilute scarcely any current is observed, lead solutions _per
+se_ being very bad conductors of electricity.
+
+Faintly acid concentrated lead solutions give loose peroxide along
+with much spongy metallic lead. Free alkali decreases the separation
+of peroxide; feebly alkaline solutions, concentrated and dilute, yield
+relatively much peroxide along with metallic lead, while strongly
+alkaline solutions deposit no peroxide.
+
+Dried lead peroxide is so sparingly hygroscopic that it may be weighed
+as such; its weight remains constant upon the balance for a long time.
+In order to apply the peroxide for quantitative determinations, a
+large surface must be exposed to action. As positive electrode a
+platinum capsule is convenient, and a platinum disk as negative pole.
+The capsule shape is necessary because the peroxide when deposited in
+large quantities adheres only partially, and falls in part in thin
+loose scales. It is necessary to siphon off the nitric solution,
+since, like all peroxides, that of lead is not absolutely insoluble in
+nitric acid. The methods of Riche and May give results which are
+always too high, since portions of saline solution are retained by the
+spongy deposit and can be but very imperfectly removed by washing.
+This is especially the case in presence of free alkali.
+
+The author has proceeded as follows: The lead peroxide is dried in the
+capsule, and there is passed over it pure dry gaseous sulphurous acid
+in a strong current from a rather narrow delivery tube. Lead sulphate
+is formed with evolution of heat; it is let cool under the exsiccator,
+and weighed as such. Or he ignites the peroxide along with finely
+pulverized ammonium sulphite; the mass must have a pure white color.
+After the conclusion of the reaction it is ignited for about 20
+minutes. The results are too high. The proportion of actual lead
+peroxide in the deposit ranges from 94 to 94.76 per cent. The peroxide
+precipitated from a nitric solution may, under certain circumstances,
+be anhydrous. This result is due to the secondary influences at the
+positive pole, where the free acid gradually withdraws water from the
+peroxide.
+
+The peroxide thrown down from alkaline solutions retains alkali so
+obstinately that it cannot be removed by washing; the peroxide plays
+here the part of an acid. The lead nitrate mechanically inclosed in
+the peroxide is resolved by ignition into oxide, hyponitric acid, and
+oxygen; this small proportion of lead oxide does not exert an
+important influence on the final result. The quantity of matter
+mechanically inclosed is relatively high, as in the precipitation of

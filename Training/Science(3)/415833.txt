@@ -1,0 +1,504 @@
+Not a small part of what Mr. Morse said on this occasion had reference
+to the future of his invention, its influence upon communities and
+individuals, and I remember regarding as the wild speculations of an
+active imagination what he prophesied in this connection, and which I
+have lived to see even more than realized. Nor was his conversation
+confined to his invention. A distinguished artist, an educated
+gentleman, an observant traveler, it was delightful to hear him talk,
+and at this late day I recall few more pleasant evenings than the only
+one I passed in his company.
+
+Of course, my first visit the next morning was to Mr. McLane to make
+my report. By this time I had become almost as enthusiastic as Mr.
+Morse himself, and repeated what had passed between us. I soon saw
+that Mr. McLane was becoming as eager for the construction of the line
+to Washington as Mr. Morse could desire. He entered warmly into the
+spirit of the thing, and laughed heartily, if not incredulously, when
+I told him that although he had been Minister to England, Secretary of
+State, and Secretary of the Treasury, his name would be forgotten,
+while that of Morse would never cease to be remembered with gratitude
+and praise. We then considered the question as to the right of the
+company to permit the line to be laid in the bed of the road--the plan
+of construction at that time being to bury in a trench some eight or
+ten inches deep a half inch leaden tube containing the wrapped wire
+that was to form the electric circuit. About this there was, in my
+opinion, no doubt, and it was not long after that the work of
+construction commenced. I met Mr. Morse from time to time while he
+lived, and often recurred to the evening's discussion at my house in
+Baltimore.
+
+The above is the substance of what I have more than once related to
+other persons. I hope you will persist in your design of putting on
+paper your own very interesting recollections in this connection, and
+if what I have contributed of mine is of service to you, I shall be
+much pleased.
+
+                                  Most truly yours,
+                                    JOHN H.B. LATROBE.
+March 3, 1881.
+
+       *       *       *       *       *
+
+
+
+
+THE KRAVOGL ELECTRIC MOTOR.
+
+
+At the origin of every science, of whatever nature it may be, there is
+always a fruitless period, of greater or less length, characterized by
+the warfare of a few superior minds against general apathy. The finest
+discoveries pass unperceived, so to speak, since they cannot cross the
+limits of a narrow circle; and it often happens that they fall into
+oblivion before they have been seriously judged. Meanwhile, a slow
+progress is imperceptibly made, and, in measure as theoretical
+principles more clearly disengage themselves, a few industrial
+applications spring up and have the effect of awakening curiosity. An
+impulse is thus given, and from this moment a movement in advance goes
+on increasing at a headlong pace from day to day.
+
+With electricity this period has been of comparatively short duration,
+since scarcely a century and a half separate us from the first
+experiments made in this line of research. Now that it has truly taken
+its place in a rank with the other sciences, we like to go back to the
+hesitations of the first hour, and trace, step by step, the history of
+the progress made, so as to assign to each one that portion of the
+merit that belongs to him in the common work. When we thus cast a
+retrospective glance we find ourselves in the presence of one strange
+fact, and that is the simultaneousness of discoveries. That an
+absolutely original idea, fertile in practical consequences, should
+rise at a given moment in a fine brain is well; we admire the
+discovery, and, in spite of us, a little surprise mingles with our
+admiration. But is it not a truly curious thing that _several_
+individuals should have had at nearly the same time that idea that was
+so astonishing in one? This, however, is a fact that the history of
+electrical inventions offers more than one example of. No one ignores
+the fact that the invention of the telephone gave rise to a notorious
+lawsuit, two inventors having had this ingenious apparatus patented on
+the same day and at nearly the same hour. This is one example among a
+thousand. In the history of dynamo-electric machines it is an equally
+delicate matter to fix upon the one to whom belongs the honor of
+having first clearly conceived the possibility of engendering
+continuous currents.
+
+We do not wish to take up this debate nor to go over the history of
+the question again. Every one knows that the first continuous current
+electric generator whose form was practical is due to Zenobius Gramme,
+and dates back to July, 1871, an epoch at which appeared a memoir
+(entitled "Note upon a magneto-electric machine that produces
+continuous currents") that was read to the Academy of Sciences by Mr.
+Jamin. Ten years previous, Pacinotti had had a glimpse of the
+phenomenon, and of its practical realization, but was unfortunately
+unable to appreciate the importance of his discovery and the benefit
+that might be reaped from it. It is of slight consequence whether
+Gramme knew of this experiment or not, for the glory that attaches to
+his name could not be diminished for all that. But an interesting fact
+that we propose to dwell upon now has recently been brought to light
+in an electrical review published at Vienna.[1] It results from
+documents whose authenticity cannot be doubted that, as far back as
+1867, Mr. L. Pfaundler, a professor at Innsbruck, very clearly
+announced the reversibility of a magneto-electric motor constructed by
+Kravogl, a mechanician of the same place, and that he succeeded some
+time before Gramme in obtaining continuous currents.
+
+   [Footnote 1: _Zeitschrift des Electrotechnischen Vereines_ in
+   _Wien_, July, 1883.]
+
+The Kravogl motor that figured at the Universal Exhibition of 1867 is
+but little known, and it is now very difficult to obtain drawings of
+it. What is certain is that this motor is an application of the
+properties of the solenoid, and, from this standpoint, resembles the
+Bessolo motor that was patented in 1855. We may figure the apparatus
+to our mind very well if we suppose that in the Gramme ring a half and
+almost two-thirds of the core are removed, and the spirals are movable
+around the said core. If a current be sent into a portion of the
+spirals only, and in such a way that only half of the core be exposed,
+the latter will move with respect to the bobbin or the bobbin with
+respect to the core, according as we suppose the solenoid or the
+bobbin fixed. In the first case we have a Bessolo motor, and in the
+second a Kravogl one.
+
+In order to obtain a continuous motion it is only necessary to allow
+the current to circulate successively in the different portions of the
+solenoid. It is difficult to keep the core in place, since it is
+unreachable, being placed in the interior of the bobbin. Kravogl
+solved this difficulty by constructing a hollow core into which he
+poured melted lead. This heavy piece, mounted upon rollers, assumed a
+position of equilibrium that resulted from its weight, from friction,
+and from magnetic attraction. But for a current of given intensity
+this position, once reached, did not vary, and so necessitated a
+simple adjustment of the rubbers. Under such circumstances, with a
+somewhat large number of sections, the polarity of the core was nearly
+constant. The spirals as a whole were attached to a soft iron armature
+that had the effect of closing up the lines of forces and forming a
+shell, so to speak.
+
+Like Bessolo, Kravogl never thought of making anything but a motor,
+and did not perceive that his machine was reversible. It results from
+some correspondence between Dr. A. Von Waltenhofen and Mr. L.
+Pfaundler at this epoch that the latter clearly saw the possibility of
+utilizing this motor as a current generator. Under date of November 9,
+1867, he wrote, in speaking of the Kravogl motor, which had just been
+taken to Innsbruck in order to send it to Paris. "I regret that I
+shall not be able to see it any more, for I should have liked to try
+to make it act in an opposite direction, that is to say, to produce a
+current or an electric light by means of mechanical work." A little
+more than two years later these experiments were carried out on a
+larger motor constructed by Kravogl in 1869, and Mr. Pfaundler was
+enabled to write as follows: "Upon running the machine by hand we
+obtain a current whose energy is that of one Bunsen element." This
+letter is dated February 11, 1870, that is to say, it is a year
+anterior to the note of Gramme.
+
+[Illustration: FIG. 1.]
+
+In the presence of the historic interest that attaches to the
+question, we do not think it will be out of place to reproduce here
+the considerations that guided Prof. Pfaundler in the researches that
+led him to convert the Kravogl motor into a dynamo-electric machine.
+Let us consider two magnetized bars, _db_ and _bd'_, placed end to end
+and surrounded by a cylindrical armature forming a shell, this
+armature being likewise supposed to be a permanent magnet and to
+present poles of contrary direction opposite the poles of the bars.
+For the sake of greater simplicity this shell is represented by a part
+only in the figure, _s n n s_. If, into a magnetic field thus
+formed, we pass a spiral from left to right, the spiral will be
+traversed by a current whose direction will change according to the
+way in which the moving is done. It is only necessary to apply Lenz's
+law to see that a reversal of the currents will occur at the points,
+_a_ and _c_, the direction of the current being represented by arrows
+in the figure. If we suppose a continual displacement of the spirals
+from left to right, we shall collect a continuous current by placing
+two rubbers at _a_ and _c_. Either the core or the shell may be
+replaced by a piece of soft iron. In such a case this piece will move
+with the spiral and keep its poles that are developed by induction
+fixed in space. From this, in order to reach a dynamo-electric machine
+it is necessary to try to develop the energy of the magnetic field by
+the action of the current itself. If we suppose the core to be of soft
+iron, and make a closer study of the action of the current as regards
+the polarity that occurs under the influence of the poles, _s_, _n_,
+_s_, we shall see that from _d_ to _a_ and from _b_ to _c_ the current
+is contrary, while that from _a_ to _b_ and from _c_ to _d'_ it is
+favorable to the development of such polarity. In short, with a spiral
+moving from _d_ to _d'_ the resulting effect is _nil_, a fact,
+moreover, that is self-evident. Under such circumstances, if we
+suppose the shell, as well as the core, to be of soft iron, we shall
+obtain a feeble current due to the presence of remanent magnetism; but
+this magnetism will not be able to continue increasing under the
+influence of the current. To solve this difficulty two means present
+themselves: (1) to cause a, favorable magnetic current and act upon
+the armature, and (2) to suppress such portions of the current in the
+spirals as are injurious in effect. The first solution was thought of
+by Gramme in 1871, and is represented diagramatically in Fig. 2. The
+second is due to Prof. Pfaundler, and dates back to 1870. The core is
+cut through the center (Fig. 3), and the portion to the right is
+suppressed; the current is interrupted between _da_ and _cd'_, and is
+closed only between _a_ and _c_ (_v_, Fig. 1). It results from this
+arrangement that, under the action of the current, the polarity due to
+remanent magnetism does nothing but increase. It suffices then for but
+little remanent magnetism to prime the machine; the polarity of the
+shell continues to increase, and the energy of the magnetic field, and
+consequently of the current, has for a limit only the saturation of
+the soft iron. If, now, we curve the core, the spirals, and the
+armature into a circle, we have a Gramme or a Pfaundler machine,
+according as we consider Fig. 2 or Fig. 3.
+
+[Illustration: FIG. 2.]
+
+[Illustration: FIG. 3.]
+
+This latter apparatus has in this case the form shown in Fig. 4.
+
+[Illustration: FIG. 4.]
+
+The spiral, _s m b_, is movable, and the core, N _o s_, is kept in a
+position of equilibrium by virtue of its weight, and is provided with
+rollers. For the sake of greater clearness, the front part of the
+armature is supposed to be removed. The current does not circulate in
+the spirals to the right of the diameter, W O, which latter is not
+absolutely vertical. The position of the rubbers and armature is
+regulated once for all. We do not know just what were the means
+devised by Kravogl to suppress the current in the spheres to the
+right. At all events, it is probable that the system has grown old
+since Gramme invented his collector. In the application of the Kravogl
+motor to the generation of continuous currents, Professor Pfaundler
+now proposes to ingeniously utilize the Gramme collector. In such a
+case the arrangement shown in Fig. 5 would be adopted. Let us suppose
+an ordinary collector having as many plates as there are sections in
+the ring, these plates being connected as usual with the entrance and
+exit wires of the sections. The diametrically opposite touches that
+are in the line, W O, are divided, and one of the halves is connected
+at the entrance, _c a'_ (Fig. 4), with the corresponding section,
+while the other communicates with the exit, _c' a_, of the neighboring
+section. Each of these halves is prolonged by a piece of metal bent
+into the form of an arc of a circle and embracing a little less than a
+semi-circumference. Between these prolongations there is an insulating
+part. In the rotary motion of the spiral, at least one of the touches
+is always outside of the arc comprised between the brushes, R. In
+order to secure a continuity of the circuit in the effective arc, W S_ o_,
+it is only necessary to arrange a rubber, M, in such a way as to
+establish a communication between the two parts of the divided touch
+as soon as this latter enters the arc under consideration.
+
+In order to produce a current in the direction of the arrows shown in
+Fig. 4, the spiral and axle must revolve from right to left. In this
+case the rubber, M, occupies the position shown in the same figure,
+the brushes embracing an arc of a little less than 180 deg.. As soon as
+the lower touch comes in contact with the brush, R, when the
+revolution is being effected from left to right, the rubber, M,
+establishes a communication between the two halves that have until now
+been isolated, and the current is no longer interrupted. The second
+touch during this time is at any point whatever of the arc, W N _o_,
+and the spirals corresponding to the latter arc outside of the
+circuit. In short, thanks to the rubber, M, we have an ordinary Gramme
+collector in that portion of the circuit comprised between the
+brushes, and a collector with a breakage of the circuit in the portion
+to the right.
+
+[Illustration: FIG. 5.]
+
+This type of machine is entirely theoretical. In the apparatus used
+for Prof. Pfaundler's experiments in 1870, the armature revolved with
+the solenoid. The core and armature were of soft iron, and the core
+was arranged in a manner analogous to the preceding, and remained in
+place under the action of its weight, and the shell, forming a
+complete circle, revolved with poles fixed in space.
+
+Practically, the machine that we have just described would prove
+inconvenient to realize, and would present serious inconveniences. In
+the first place, it seems to us quite difficult to transmit the motion
+of the solenoid to the axle, supposing the former to revolve within
+the armature. In the second place, considerable friction would surely
+occur between the spirals and core, and the axle, being submitted to a
+lateral stress, would be placed in a poor condition for work. It is
+even allowable to doubt whether such a type could be practically got
+up. At all events, no trial has as yet been made of it.
+
+Compared with the Gramme machine, from an absolutely theoretical point
+of view, the Pfaundler apparatus presents undoubted advantages. A
+theoretically perfect dynamo electric machine would be one in which
+there was a complete reciprocity between the magnetizing action of the
+current and the inductive action of the magnetic field. Now, such is
+not the case in the Gramme machine. In this apparatus the soft iron
+core is at the same time a magnet through favorable induction and a
+disadvantageous electro-magnet. This double polarization is only
+remedied to a certain extent by the adjustment of the brushes. In the
+Pfaundler machine, on the contrary, the electro-magnetism and
+magnetism through induction act in the same direction, and concur in
+effecting a polarization that favors the production of the current.
+Looked at it in this light, the latter machine more nearly approaches
+the type of perfection than does that of Gramme.
+
+But we must not forget that such qualities are purely theoretical. In
+practice the best machine is that in which the copper is best
+utilized, that is to say, that which with a given weight of this metal
+furnishes the most work. Now, this is certainly not the case in the
+Pfaundler machine, for here half or more than half of the ring is
+inert--a defect which is apparent at first sight. It results from this
+that as soon as we propose to obtain an electromotive force, however
+slight it be, we must get it with machines of large dimensions. Now,
+it is permissible to believe that under such circumstances (taking
+into consideration the complication of mechanical means that the
+construction of such apparatus necessitates, and the great friction
+that occurs) it would be impossible to obtain practical rotary
+velocities. Comparing his machine with Gramme's, Prof. Pfaundler
+expresses the idea that between them there is the same analogy as
+there is between a constant pressure and an expansion engine. With
+cylinders of equal diameters the work performed by the former of these
+is greater than that done by the second, but in the latter the
+expansive force of the steam is better utilized. This comparison seems
+to us to be more ingenious than exact. Would it not be coming nearer
+to the truth if we were to suppose a case of a hydraulic motor whose
+performance continued diminishing with the height of the fall, and
+would it not be advantageous under such circumstances to utilize only
+a portion of the fall for the purpose of increasing the motor's
+performance?
+
+This machine, however, as before stated, has never as yet been
+constructed, so that experimental data relative to its mode of working
+are wanting. It is especially interesting as regards its origin, which
+dates back to an epoch at which researches on the dynamo electric
+machine were at their heat. It is in its historical aspect that it is
+proper to regard it, and it is from such a point of view that we have
+deemed it well to say a few words about it in this place.--_La Lumiere
+Electrique._
+
+       *       *       *       *       *
+
+
+
+
+BORNHARDT'S ELECTRIC MACHINE FOR BLASTING IN MINES.
+
+
+We shall not attempt to pass in review the several apparatus that have
+hitherto been devised for igniting blasts in mining operations, but
+shall simply describe in this place a machine recently invented for
+this purpose by Mr. Bornhardt, an engineer to the Grand Duke of
+Brunswick.
+
+This apparatus (shown in the accompanying engravings) consists
+essentially of two hard-rubber disks, A (Figs. 2 and 3), keyed to an
+iron axle, and of two rubbers, B, that are formed of skin and are held
+against the disks by small springs, R; motion is communicated to the
+axle, _a_, by means of a pair of gearings, _a_ and _b_, and a crank,
+_f_.
+
+[Illustration: BORNHARDT'S ELECTRIC MACHINE FOR BLASTING IN MINES.]
+
+Each disk revolves between two metallic rings, _c_, provided with
+points that attract and collect in Leyden jars, D, the electricity
+produced by the friction. For discharging the condensers there is
+employed a manipulator formed of a rod, mm, which can be acted upon,
+from the exterior, by means of a button, _k_. Upon bringing the ball,
+_m_, of the rod in contact with the ball, _p_, of the condenser, the
+lever (which then takes the position shown by the dotted line)
+continues to remain in connection with a small ring, _q_, through a
+special spring. Another ring, _t_, is connected in the same way with
+the external armature of the condenser. Upon connecting the rings, _p_
+and _t_, by a wire to which cartridges are attached, any number of the
+latter may be ignited.
+
+The parts that we have just enumerated are inclosed in a tin box
+covered with a wooden casing, P. Between the two there is inserted a
+sheet of hard rubber in order to prevent a loss of electricity; the
+whole is held in place by strong springs.
+
+In order to show the normal state of the condenser, a scale consisting
+of 15 metallic buttons to give the dimensions of the sparks, is
+arranged at X. This scale is capable of being connected with the
+rings, _q_ and _t_, by means of chains; when the spark obtained after 15
+or 20 revolutions considerably exceeds the intervals of the scale, it
+is a sure thing that the machine is in a proper state.
+
+In order to prepare the apparatus for carriage, the winch is taken off
+and placed in the compartment, _m_, which is closed by means of a
+door, Q.
+
+Figs. 5 and 6 show the arrangement of the dynamite cartridges and
+wires in the blast hole. Figs. 7 to 10 show different arrangements of
+the igniting wires. Figs. 11 and 12 give the general arrangement for
+igniting a number of cartridges simultaneously by means of the
+electric machine. Fig. 13 shows the arrangement where powder is
+employed. Fig. 14 shows the arrangement of a horizontal
+hole.--_Annales Industrielles._
+
+       *       *       *       *       *
+
+
+
+
+IMPROVED ELECTRIC FIRE ALARM.
+
+
+The object of this apparatus is to close an electric circuit when the
+temperature of a room rises above a certain point. Many devices have
+been invented for effecting this object, each of which have their own
+advantages or disadvantages. The invention of Mr. Pritchett enables
+the required result to be obtained in a very satisfactory manner. The
+apparatus consists (as shown by the figure) of a long glass vessel
+containing air; connected to this vessel there is a glass tube filled
+with mercury. The whole is mounted on a metal cradle, which turns on
+pivots. According to the position which the glass vessel and its
+adjuncts occupy in the cradle (this position being adjustable by means
+of a thumb-screw, seen at the upper part of the cradle), so will the
+same have a tendency to rock longitudinally over to one side or the
+other. Now, if we suppose the position to be such that the right hand
+end of the glass vessel is depressed, and the left hand end raised,
+then if the vessel becomes subjected to an elevation of temperature,
+the air inside the same will become expanded, and the mercury column
+in the tube will be driven over to the left, and will rise in the
+turned up end of the tube. This will cause the left hand branch of the
+glass vessel, and its attachments, to become increased in weight,
+while the right hand branch will become proportionally lighter; the
+consequence of this will be that the vessel and its cradle will cant
+over, and by falling on an electrical contact will close a circuit and
+sound an alarm. It is obvious that the apparatus is equally well
+adapted for indicating a diminution as well as an increase of
+temperature, for if the electrical contact be placed under the right
+hand portion of the cradle, and the latter be adjusted so that in its
+normal position its left hand portion is depressed, then when the
+glass vessel becomes cooled, the air in it will contract, and the
+mercury will fall in the turned-up portion of the tube before referred
+to, and will rise in the limb connected to the vessel, consequently
+the cradle and glass vessel will cant over in the reverse way to that
+which it did in the first case.
+
+Owing to the surface which the glass vessel exposes, the air inside
+quickly responds to any external change of temperature, consequently
+the apparatus is very sensitive. Another important feature is the fact
+that the cradle and vessel in canting over acquires a certain
+momentum, and thus the contact made becomes very certain.
+
+[Illustration: PRITCHETT'S ELECTRIC FIRE ALARM.]
+
+Mr. Pritchett proposes that his apparatus shall give external evidence
+outside the house by ringing a gong, and by dropping a semaphore arm
+released by an electromagnet. He also proposes (as has often been
+suggested) that a water supply shall be automatically turned
+on.--_Electrical Review._
+
+       *       *       *       *       *
+
+
+
+
+A STANDARD THERMOPILE.
+
+
+Dr. G. Gore, F.R.S., has invented an improved thermopile for
+measuring small electromotive forces. It consists of about 300 pairs
+of horizontal, slender, parallel wires of iron and German silver, the
+former being covered with cotton. They are mounted on a wooden frame.
+About 11/2 in. of the opposite ends of the wires are bent downward to a
+vertical position to enable them to dip into liquids at different
+temperatures contained in long narrow troughs; the liquids being
+non-conductors, such as melted paraffin for the hot junctions, and the
+non-volatile petroleum, known as thin machinery oil. The electromotive
+force obtained varies with the temperature; a pile of 295 pairs having
+a resistance of 95.6 ohms at 16 deg. Cent. gave with a difference of
+temperature of 100 deg. Cent. an electromotive force of 0.7729 volts,
+or with 130 deg. Cent. an electromotive force of 1.005 volt. Each
+element, therefore, equaled 0.0000262 volt for each degree Cent.
+difference of temperature. On having been verified with a standard
+voltaic cell the apparatus becomes itself a standard, especially for
+small electromotive forces. It is capable of measuring the 1/34861
+part of a volt. For higher electromotive forces than a volt, several
+of these piles would have to be connected in series. The fractional
+electromotive force is obtained by means of a sliding contact which
+cuts out so many pairs as is required.
+
+       *       *       *       *       *
+
+
+
+
+TELEPHONIC TRANSMISSION WITHOUT RECEIVERS.
+
+
+The annual meeting of the French Society of Physics, the success of
+which is continually increasing, took place this year in the salons of
+the Observatory, which were kindly placed at the Society's disposal by
+Admiral Mouchez.
+
+There were three consecutive sessions, the one of Tuesday, April 15,
+being set apart for the members of the Association, the one of the
+16th for the invited guests of Admiral Mouchez, and that of the 17th
+for the invited guests of the Society. The salons were partially
+lighted by the Siemens differential arc, continuous current lamps, and
+partially by the Swan incandescent lamp supplied by a distributing
+machine that permitted of the lamps being lighted and extinguished at
+will without changing the normal operation of all the rest. Many
+apparatus figured at this exhibition, but we shall on the present
+occasion merely call attention to those that presented a certain
+character of novelty or of originality.
+
+Among the apparatus that we shall reserve a description of for the
+present was Messrs. Richard Bros.' registering thermometer designed
+for the Concarneau laboratory, an instrument which, when sunk at one
+mile from the coast, and to a depth of 40 meters, will give a diagram
+of the temperature of the ocean at that depth; and Mr. Hospitalier's
+continuous electrical indicators, designed for making known from a
+distance such mechanical or physical phenomena as velocities, levels,
+temperatures, pressures, etc.
+

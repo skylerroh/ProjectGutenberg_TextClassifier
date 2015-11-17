@@ -1,0 +1,415 @@
+intimately connected with mathematics than any other branch of science.
+But even he did not soar far beyond the philosophers of his day, since
+he held to the immobility of the earth,--the grand error of the
+ancients. Some few speculators in science (like Heraclitus of Pontus,
+and Hicetas) conceived a motion of the earth itself upon its axis, so as
+to account for the apparent motion of the sun; but they also thought it
+was in the centre of the universe.
+
+The introduction of the gnomon (time-pillar) and dial into Greece
+advanced astronomical knowledge, since they were used to determine the
+equinoxes and solstices, as well as parts of the day. Meton set up a
+sun-dial at Athens in the year 433 B.C., but the length of the hour
+varied with the time of the year, since the Greeks divided the day into
+twelve equal parts. Dials were common at Rome in the time of Plautus,
+224 B.C.; but there was a difficulty in using them, since they failed at
+night and in cloudy weather, and could not be relied on. Hence the
+introduction of water-clocks instead.
+
+Aristarchus is said to have combated (280 B.C.) the geocentric theory so
+generally received by philosophers, and to have promulgated the
+hypothesis "that the fixed stars and the sun are immovable; that the
+earth is carried round the sun in the circumference of a circle of
+which the sun is the centre; and that the sphere of the fixed stars,
+having the same centre as the sun, is of such magnitude that the orbit
+of the earth is to the distance of the fixed stars as the centre of the
+sphere of the fixed stars is to its surface." Aristarchus also,
+according to Plutarch, explained the apparent annual motion of the sun
+in the ecliptic by supposing the orbit of the earth to be inclined to
+its axis. There is no evidence that this great astronomer supported his
+heliocentric theory with any geometrical proof, although Plutarch
+maintains that he demonstrated it. This theory gave great offence,
+especially to the Stoics; and Cleanthes, the head of the school at that
+time, maintained that the author of such an impious doctrine should be
+punished. Aristarchus left a treatise "On the Magnitudes and Distances
+of the Sun and Moon;" and his methods to measure the apparent diameters
+of the sun and moon are considered theoretically sound by modern
+astronomers, but practically inexact owing to defective instruments. He
+estimated the diameter of the sun at the seven hundred and twentieth
+part of the circumference of the circle which it describes in its
+diurnal revolution, which is not far from the truth; but in this
+treatise he does not allude to his heliocentric theory.
+
+Archimedes of Syracuse, born 287 B.C., is stated to have measured the
+distance of the sun, moon, and planets, and he constructed an orrery in
+which he exhibited their motions. But it was not in the Grecian colony
+of Syracuse, but of Alexandria, that the greatest light was shed on
+astronomical science. Here Aristarchus resided, and also Eratosthenes,
+who lived between the years 276 and 196 B.C. The latter was a native of
+Athens, but was invited by Ptolemy Euergetes to Alexandria, and placed
+at the head of the library. His great achievement was the determination
+of the circumference of the earth. This was done by measuring on the
+ground the distance between Syene, a city exactly under the tropic, and
+Alexandria, situated on the same meridian. The distance was found to be
+five thousand stadia. The meridional distance of the sun from the zenith
+of Alexandria he estimated to be 7 deg. 12', or a fiftieth part of the
+circumference of the meridian. Hence the circumference of the earth was
+fixed at two hundred and fifty thousand stadia,--which is not very
+different from our modern computation. The circumference being known,
+the diameter of the earth was easily determined. The moderns have added
+nothing to this method. He also calculated the diameter of the sun to be
+twenty-seven times greater than that of the earth, and the distance of
+the sun from the earth to be eight hundred and four million stadia, and
+that of the moon seven hundred and eighty thousand stadia,--a close
+approximation to the truth.
+
+Astronomical science received a great impulse from the school of
+Alexandria, the greatest light of which was Hipparchus, who flourished
+early in the second century before Christ. He laid the foundation of
+astronomy upon a scientific basis. "He determined," says Delambre, "the
+position of the stars by right ascensions and declinations, and was
+acquainted with the obliquity of the ecliptic. He determined the
+inequality of the sun and the place of its apogee, as well as its mean
+motion; the mean motion of the moon, of its nodes and apogee; the
+equation of the moon's centre, and the inclination of its orbit. He
+calculated eclipses of the moon, and used them for the correction of his
+lunar tables, and he had an approximate knowledge of parallax." His
+determination of the motions of the sun and moon, and his method of
+predicting eclipses evince great mathematical genius. But he combined
+with this determination a theory of epicycles and eccentrics which
+modern astronomy discards. It was however a great thing to conceive of
+the earth as a solid sphere, and to reduce the phenomena of the heavenly
+bodies to uniform motions in circular orbits. "That Hipparchus should
+have succeeded in the first great steps of the resolution of the
+heavenly bodies into circular motions is a circumstance," says Whewell,
+"which gives him one of the most distinguished places in the roll of
+great astronomers." But he did even more than this: he discovered that
+apparent motion of the fixed stars round the axis of the ecliptic, which
+is called the Precession of the Equinoxes,--one of the greatest
+discoveries in astronomy. He maintained that the precession was not
+greater than fifty-nine seconds, and not less than thirty-six seconds.
+Hipparchus also framed a catalogue of the stars, and determined their
+places with reference to the ecliptic by their latitudes and longitudes.
+Altogether he seems to have been one of the greatest geniuses of
+antiquity, and his works imply a prodigious amount of calculation.
+
+Astronomy made no progress for three hundred years, although it was
+expounded by improved methods. Posidonius constructed an orrery, which
+exhibited the diurnal motions of the sun, moon, and five planets.
+Posidonius calculated the circumference of the earth to be two hundred
+and forty thousand stadia, by a different method from Eratosthenes. The
+barrenness of discovery from Hipparchus to Ptolemy,--the Alexandrian
+mathematician, astronomer, and geographer in the second century of the
+Christian era,--in spite of the patronage of the royal Ptolemies of
+Egypt, was owing to the want of instruments for the accurate measure of
+time (like our clocks), to the imperfection of astronomical tables, and
+to the want of telescopes. Hence the great Greek astronomers were unable
+to realize their theories. Their theories however were magnificent, and
+evinced great power of mathematical combination; but what could they do
+without that wondrous instrument by which the human eye indefinitely
+multiplies its power? Moreover, the ancients had no accurate almanacs,
+since the care of the calendar belonged not so much to the astronomers
+as to the priests, who tampered with the computation of time for
+sacerdotal objects. The calendars of different communities differed.
+Hence Julius Caesar rendered a great service to science by the reform of
+the Roman calendar, which was exclusively under the control of the
+college of pontiffs, or general religious overseers. The Roman year
+consisted of three hundred and fifty-five days; and in the time of
+Caesar the calendar was in great confusion, being ninety days in
+advance, so that January was an autumn month. He inserted the regular
+intercalary month of twenty-three days, and two additional ones of
+sixty-seven days. These, together with ninety days, were added to three
+hundred and sixty-five days, making a year of transition of four hundred
+and forty-five days, by which January was brought back to the first
+month in the year after the winter solstice; and to prevent the
+repetition of the error, he directed that in future the year should
+consist of three hundred and sixty-five and one-quarter days, which he
+effected by adding one day to the months of April, June, September, and
+November, and two days to the months of January, Sextilis, and
+December, making an addition of ten days to the old year of three
+hundred and fifty-five. And he provided for a uniform intercalation of
+one day in every fourth year, which accounted for the remaining
+quarter of a day.
+
+Caesar was a student of astronomy, and always found time for its
+contemplation. He is said even to have written a treatise on the motion
+of the stars. He was assisted in his reform of the calendar by
+Sosigines, an Alexandrian astronomer. He took it out of the hands of the
+priests, and made it a matter of pure civil regulation. The year was
+defined by the sun, and not as before by the moon.
+
+Thus the Romans were the first to bring the scientific knowledge of the
+Greeks into practical use; but while they measured the year with a great
+approximation to accuracy, they still used sun-dials and water-clocks to
+measure diurnal time. Yet even these were not constructed as they should
+have been. The hour-marks on the sun-dial were all made equal, instead
+of varying with the periods of the day,--so that the length of the hour
+varied with the length of the day. The illuminated interval was divided
+into twelve equal parts; so that if the sun rose at five A.M., and set
+at eight P.M., each hour was equal to eighty minutes. And this rude
+method of measurement of diurnal time remained in use till the sixth
+century. Clocks, with wheels and weights, were not invented till the
+twelfth century.
+
+The last great light among the ancients in astronomical science was
+Ptolemy, who lived from 100 to 170 A.D., in Alexandria. He was
+acquainted with the writings of all the previous astronomers, but
+accepted Hipparchus as his guide. He held that the heaven is spherical
+and revolves upon its axis; that the earth is a sphere, and is situated
+within the celestial sphere, and nearly at its centre; that it is a mere
+point in reference to the distance and magnitude of the fixed stars, and
+that it has no motion. He adopted the views of the ancient astronomers,
+who placed Saturn, Jupiter, and Mars next under the sphere of the fixed
+stars, then the sun above Venus and Mercury, and lastly the moon next to
+the earth. But he differed from Aristotle, who conceived that the earth
+revolves in an orbit around the centre of the planetary system, and
+turns upon its axis,--two ideas in common with the doctrines which
+Copernicus afterward unfolded. But even Ptolemy did not conceive the
+heliocentric theory,--the sun the centre of our system. Archimedes and
+Hipparchus both rejected this theory.
+
+In regard to the practical value of the speculations of the ancient
+astronomers, it may be said that had they possessed clocks and
+telescopes, their scientific methods would have sufficed for all
+practical purposes. The greatness of modern discoveries lies in the
+great stretch of the perceptive powers, and the magnificent field they
+afford for sublime contemplation. "But," as Sir G. Cornewall Lewis
+remarks, "modern astronomy is a science of pure curiosity, and is
+directed exclusively to the extension of knowledge in a field which
+human interests can never enter. The periodic time of Uranus, the nature
+of Saturn's ring, and the occultation of Jupiter's satellites are as far
+removed from the concerns of mankind as the heliacal rising of Sirius,
+or the northern position of the Great Bear." This may seem to be a
+utilitarian view, with which those philosophers who have cultivated
+science for its own sake, finding in the same a sufficient reward, can
+have no sympathy.
+
+The upshot of the scientific attainments of the ancients, in the
+magnificent realm of the heavenly bodies, would seem to be that they
+laid the foundation of all the definite knowledge which is useful to
+mankind; while in the field of abstract calculation they evinced
+reasoning and mathematical powers that have never been surpassed.
+Eratosthenes, Archimedes, and Hipparchus were geniuses worthy to be
+placed by the side of Kepler, Newton, and La Place, and all ages will
+reverence their efforts and their memory. It is truly surprising that
+with their imperfect instruments, and the absence of definite data,
+they reached a height so sublime and grand. They explained the doctrine
+of the sphere and the apparent motions of the planets, but they had no
+instruments capable of measuring angular distances. The ingenious
+epicycles of Ptolemy prepared the way for the elliptic orbits and laws
+of Kepler, which in turn conducted Newton to the discovery of the law of
+gravitation,--the grandest scientific discovery in the annals of
+our race.
+
+Closely connected with astronomical science was geometry, which was
+first taught in Egypt,--the nurse and cradle of ancient wisdom. It arose
+from the necessity of adjusting the landmarks disturbed by the
+inundations of the Nile. There is hardly any trace of geometry among the
+Hebrews. Among the Hindus there are some works on this science, of great
+antiquity. Their mathematicians knew the rule for finding the area of a
+triangle from its sides, and also the celebrated proposition concerning
+the squares on the sides of the right-angled triangle. The Chinese, it
+is said, also knew this proposition before it was known to the Greeks,
+among whom it was first propounded by Thales. He applied a circle to the
+measurement of angles. Anaximander made geographical charts, which
+required considerable geometrical knowledge. Anaxagoras employed
+himself in prison in attempting to square the circle. Thales, as has
+been said, discovered the important theorem that in a right-angled
+triangle the squares on the sides containing the right angle are
+together equal to the square on the opposite side of it. Pythagoras
+discovered that of all figures having the same boundary, the circle
+among plane figures and the sphere among solids are the most capacious.
+Hippocrates treated of the duplication of the cube, and wrote elements
+of geometry, and knew that the area of a circle was equal to a triangle
+whose base is equal to its circumference and altitude equal to its
+radius. The disciples of Plato invented conic sections, and discovered
+the geometrical foci.
+
+It was however reserved for Euclid to make his name almost synonymous
+with geometry. He was born 323 B.C., and belonged to the Platonic sect,
+which ever attached great importance to mathematics. His "Elements" are
+still in use, as nearly perfect as any human production can be. They
+consist of thirteen books. The first four are on plane geometry; the
+fifth is on the theory of proportion, and applies to magnitude in
+general; the seventh, eighth, and ninth are on arithmetic; the tenth on
+the arithmetical characteristics of the division of a straight line; the
+eleventh and twelfth on the elements of solid geometry; the thirteenth
+on the regular solids. These "Elements" soon became the universal study
+of geometers throughout the civilized world; they were translated into
+the Arabic, and through the Arabians were made known to mediaeval
+Europe. There can be no doubt that this work is one of the highest
+triumphs of human genius, and it has been valued more than any single
+monument of antiquity; it is still a text-book, in various English
+translations, in all our schools. Euclid also wrote various other works,
+showing great mathematical talent.
+
+Perhaps a greater even than Euclid was Archimedes, born 287 B.C. He
+wrote on the sphere and cylinder, terminating in the discovery that the
+solidity and surface of a sphere are two thirds respectively of the
+solidity and surface of the circumscribing cylinder. He also wrote on
+conoids and spheroids. "The properties of the spiral and the quadrature
+of the parabola were added to ancient geometry by Archimedes, the last
+being a great step in the progress of the science, since it was the
+first curvilineal space legitimately squared." Modern mathematicians may
+not have the patience to go through his investigations, since the
+conclusions he arrived at may now be reached by shorter methods; but the
+great conclusions of the old geometers were reached by only prodigious
+mathematical power. Archimedes is popularly better known as the inventor
+of engines of war and of various ingenious machines than as a
+mathematician, great as were his attainments in this direction. His
+theory of the lever was the foundation of statics till the discovery of
+the composition of forces in the time of Newton, and no essential
+addition was made to the principles of the equilibrium of fluids and
+floating bodies till the time of Stevin, in 1608. Archimedes detected
+the mixture of silver in a crown of gold which his patron, Hiero of
+Syracuse, ordered to be made; and he invented a water-screw for pumping
+water out of the hold of a great ship which he had built. He contrived
+also the combination of pulleys, and he constructed an orrery to
+represent the movement of the heavenly bodies. He had an extraordinary
+inventive genius for discovering new provinces of inquiry and new points
+of view for old and familiar objects. Like Newton, he had a habit of
+abstraction from outward things, and would forget to take his meals. He
+was killed by Roman soldiers when Syracuse was taken; and the Sicilians
+so soon forgot his greatness that in the time of Cicero they did not
+know where his tomb was.
+
+Eratosthenes was another of the famous geometers of antiquity, and did
+much to improve geometrical analysis. He was also a philosopher and
+geographer. He gave a solution of the problem of the duplication of the
+cube, and applied his geometrical knowledge to the measurement of the
+magnitude of the earth,--being one of the first who brought
+mathematical methods to the aid of astronomy, which in our day is almost
+exclusively the province of the mathematician.
+
+Apollonius of Perga, probably about forty years younger than Archimedes,
+and his equal in mathematical genius, was the most fertile and profound
+writer among the ancients who treated of geometry. He was called the
+Great Geometer. His most important work is a treatise on conic sections,
+which was regarded with unbounded admiration by contemporaries, and in
+some respects is unsurpassed by any thing produced by modern
+mathematicians. He however made use of the labors of his predecessors,
+so that it is difficult to tell how far he is original. But all men of
+science must necessarily be indebted to those who have preceded them.
+Even Homer, in the field of poetry, made use of the bards who had sung
+for a thousand years before him; and in the realms of philosophy the
+great men of all ages have built up new systems on the foundations which
+others have established. If Plato or Aristotle had been contemporaries
+with Thales, would they have matured so wonderful a system of
+dialectics? Yet if Thales had been contemporaneous with Plato, he might
+have added to the great Athenian's sublime science even more than did
+Aristotle. So of the great mathematicians of antiquity; they were all
+wonderful men, and worthy to be classed with the Newtons and Keplers of
+our times. Considering their means and the state of science, they made
+as _great_ though not as _fortunate_ discoveries,--discoveries which
+show patience, genius, and power of calculation. Apollonius was one of
+these,--one of the master intellects of antiquity, like Euclid and
+Archimedes; one of the master intellects of all ages, like Newton
+himself. I might mention the subjects of his various works, but they
+would not be understood except by those familiar with mathematics.
+
+Other famous geometers could also be named, but such men as Euclid,
+Archimedes, and Apollonius are enough to show that geometry was
+cultivated to a great extent by the philosophers of antiquity. It
+progressively advanced, like philosophy itself, from the time of Thales
+until it had reached the perfection of which it was capable, when it
+became merged into astronomical science. It was cultivated more
+particularly by the disciples of Plato, who placed over his school this
+inscription: "Let no one ignorant of geometry enter here." He believed
+that the laws by which the universe is governed are in accordance with
+the doctrines of mathematics. The same opinion was shared by Pythagoras,
+the great founder of the science, whose main formula was that _number_
+is the essence or first principle of all things. No thinkers ever
+surpassed the Greeks in originality and profundity; and mathematics,
+being highly prized by them, were carried to the greatest perfection
+their method would allow. They did not understand algebra, by the
+application of which to geometry modern mathematicians have climbed to
+greater heights than the ancients; but then it is all the more
+remarkable that without the aid of algebraic analysis they were able to
+solve such difficult problems as occupied the minds of Archimedes and
+Apollonius. No positive science can boast of such rapid development as
+geometry for two or three hundred years before Christ, and never was the
+intellect of man more severely tasked than by the ancient
+mathematicians.
+
+No empirical science can be carried to perfection by any one nation or
+in any particular epoch; it can only expand with the progressive
+developments of the human race itself. Nevertheless, in that science
+which for three thousand years has been held in the greatest honor, and
+which is one of the three great liberal professions of our modern times,
+the ancients, especially the Greeks, made considerable advance. The
+science of medicine, having in view the amelioration of human misery and
+the prolongation of life itself, was very early cultivated. It was,
+indeed, in old times another word for _physics_,--the science of
+Nature,--and the _physician_ was the observer and expounder of physics.
+The physician was supposed to be acquainted with the secrets of
+Nature,--that is, the knowledge of drugs, of poisons, of antidotes to
+them, and the way to administer them. He was also supposed to know the
+process of preserving the body after death. Thus Joseph, seventeen
+hundred years before the birth of Christ, commanded his physician to
+embalm the body of his father; and the process of embalming was probably
+known to the Egyptians before the period when history begins. Helen, of
+Trojan fame, put into wine a drug that "frees man from grief and anger,
+and causes oblivion of all ills." Solomon was a great botanist,--a realm
+with which the science of medicine is indissolubly connected. The origin
+of Hindu medicine is lost in remote antiquity. The Ayur Veda, written
+nine hundred years before Hippocrates was born, sums up the knowledge of
+previous periods relating to obstetric surgery, to general pathology, to
+the treatment of insanity, to infantile diseases, to toxicology, to
+personal hygiene, and to diseases of the generative functions.
+
+Thus Hippocrates, the father of European medicine, must have derived his
+knowledge not merely from his own observations, but from the writings of
+men unknown to us and from systems practised for an indefinite period.
+The real founders of Greek medicine are fabled characters, like Hercules
+and Aesculapius,--that is, benefactors whose fictitious names alone
+have descended to us. They are mythical personages, like Hermes and
+Chiron. Twelve hundred years before Christ temples were erected to
+Aesculapius in Greece, the priests of which were really physicians, and
+the temples themselves hospitals. In them were practised rites
+apparently mysterious, but which modern science calls by the names of
+mesmerism, hydropathy, the use of mineral springs, and other essential
+elements of empirical science. And these temples were also medical
+schools. That of Cos gave birth to Hippocrates, and it was there that
+his writings were begun. Pythagoras--for those old Grecian philosophers
+were the fathers of all wisdom and knowledge, in mathematics and
+empirical sciences as well as philosophy itself--studied medicine in the
+schools of Egypt, Phoenicia, Chaldaea, and India, and came in conflict
+with sacerdotal power, which has ever been antagonistic to new ideas in
+science. He travelled from town to town as a teacher or lecturer,
+establishing communities in which _medicine_ as well as _numbers_
+was taught.
+
+The greatest name in medical science in ancient or in modern times, the
+man who did the most to advance it, the greatest medical genius of whom
+we have any early record, was Hippocrates, born on the island of Cos,
+460 B.C., of the great Aesculapian family. He received his instruction
+from his father. We know scarcely more of his life than we do of Homer
+himself, although he lived in the period of the highest splendor of
+Athens. Even his writings, like those of Homer, are thought by some to
+be the work of different men. They were translated into Arabic, and were
+no slight means of giving an impulse to the Saracenic schools of the
+Middle Ages in that science in which the Saracens especially excelled.
+The Hippocratic collection consists of more than sixty works, which were
+held in the highest estimation by the ancient physicians. Hippocrates
+introduced a new era in medicine, which before his time had been
+monopolized by the priests. He carried out a system of severe induction
+from the observation of facts, and is as truly the creator of the
+inductive method as Bacon himself. He abhorred theories which could not
+be established by facts; he was always open to conviction, and candidly
+confessed his mistakes; he was conscientious in the practice of his
+profession, and valued the success of his art more than silver and gold.
+The Athenians revered Hippocrates for his benevolence as well as genius.
+The great principle of his practice was _trust in Nature_; hence he was
+accused of allowing his patients to die. But this principle has many
+advocates among scientific men in our day; and some suppose that the
+whole successful practice of Homoeopathy rests on the primal principle
+which Hippocrates advanced, although the philosophy of it claims a
+distinctly scientific basis in the principle _similia similibus
+curantur_. Hippocrates had great skill in diagnosis, by which medical
+genius is most severely tested; his practice was cautious and timid in
+contrast with that of his contemporaries. He is the author of the
+celebrated maxim, "Life is short and art is long." He divides the causes
+of disease into two principal classes,--the one comprehending the
+influence of seasons, climates, and other external forces; the other
+including the effects of food and exercise. To the influence of climate
+he attributes the conformation of the body and the disposition of the

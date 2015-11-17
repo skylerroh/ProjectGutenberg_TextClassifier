@@ -1,0 +1,694 @@
+to Uranus; there must therefore be some further influence acting upon
+Uranus besides those already known. To the development of this subject
+the next chapter will be devoted.
+
+
+
+
+CHAPTER XV.
+
+NEPTUNE.
+
+
+     Discovery of Neptune--A Mathematical Achievement--The Sun's
+     Attraction--All Bodies attract--Jupiter and Saturn--The Planetary
+     Perturbations--Three Bodies--Nature has simplified the
+     Problem--Approximate Solution--The Sources of Success--The Problem
+     Stated for the Earth--The Discoveries of Lagrange--The
+     Eccentricity--Necessity that all the Planets revolve in the same
+     Direction--Lagrange's Discoveries have not the Dramatic Interest of
+     the more Recent Achievements--The Irregularities of Uranus--The
+     Unknown Planet must revolve outside the Path of Uranus--The Data
+     for the Problem--Le Verrier and Adams both investigate the
+     Question--Adams indicates the Place of the Planet--How the Search
+     was to be conducted--Le Verrier also solves the Problem--The
+     Telescopic Discovery of the Planet--The Rival Claims--Early
+     Observation of Neptune--Difficulty of the Telescopic Study of
+     Neptune--Numerical Details of the Orbit--Is there any Outer
+     Planet?--Contrast between Mercury and Neptune.
+
+We describe in this chapter a discovery so extraordinary that the whole
+annals of science may be searched in vain for a parallel. We are not
+here concerned with technicalities of practical astronomy. Neptune was
+first revealed by profound mathematical research rather than by minute
+telescopic investigation. We must develop the account of this striking
+epoch in the history of science with the fulness of detail which is
+commensurate with its importance; and it will accordingly be necessary,
+at the outset of our narrative, to make an excursion into a difficult
+but attractive department of astronomy, to which we have as yet made
+little reference.
+
+The supreme controlling power in the solar system is the attraction of
+the sun. Each planet of the system experiences that attraction, and, in
+virtue thereof, is constrained to revolve around the sun in an elliptic
+path. The efficiency of a body as an attractive agent is directly
+proportional to its mass, and as the mass of the sun is more than a
+thousand times as great as that of Jupiter, which, itself, exceeds that
+of all the other planets collectively, the attraction of the sun is
+necessarily the chief determining force of the movements in our system.
+The law of gravitation, however, does not merely say that the sun
+attracts each planet. Gravitation is a doctrine much more general, for
+it asserts that every body in the universe attracts every other body. In
+obedience to this law, each planet must be attracted, not only by the
+sun, but by innumerable bodies, and the movement of the planet must be
+the joint effect of all such attractions. As for the influence of the
+stars on our solar system, it may be at once set aside as inappreciable.
+The stars are no doubt enormous bodies, in many cases possibly
+transcending the sun in magnitude, but the law of gravitation tells us
+that the intensity of the attraction decreases as the square of the
+distance increases. Most of the stars are a million times as remote as
+the sun, and consequently their attraction is so slight as to be
+absolutely inappreciable in the discussion of this question. The only
+attractions we need consider are those which arise from the action of
+one body of the system upon another. Let us take, for instance, the two
+largest planets of our system, Jupiter and Saturn. Each of these globes
+revolves mainly in consequence of the sun's attraction, but every planet
+also attracts every other, and the consequence is that each one is
+slightly drawn away from the position it would have otherwise occupied.
+In the language of astronomy, we would say that the path of Jupiter is
+perturbed by the attraction of Saturn; and, conversely, that the path of
+Saturn is perturbed by the attraction of Jupiter.
+
+For many years these irregularities of the planetary motions presented
+problems with which astronomers were not able to cope. Gradually,
+however, one difficulty after another has been vanquished, and though
+there are no doubt some small irregularities still outstanding which
+have not been completely explained, yet all the larger and more
+important phenomena of the kind are well understood. The subject is one
+of the most difficult which the astronomer has to encounter in the
+whole range of his science. He has here to calculate what effect one
+planet is capable of producing on another planet. Such calculations
+bristle with formidable difficulties, and can only be overcome by
+consummate skill in the loftiest branches of mathematics. Let us state
+what the problem really is.
+
+When two bodies move in virtue of their mutual attraction, both of them
+will revolve in a curve which admits of being exactly ascertained. Each
+path is, in fact, an ellipse, and they must have a common focus at the
+centre of gravity of the two bodies, considered as a single system. In
+the case of a sun and a planet, in which the mass of the sun
+preponderates enormously over the mass of the planet, the centre of
+gravity of the two lies very near the centre of the sun; the path of the
+great body is in such a case very small in comparison with the path of
+the planet. All these matters admit of perfectly accurate calculation of
+a somewhat elementary character. But now let us add a third body to the
+system which attracts each of the others and is attracted by them. In
+consequence of this attraction, the third body is displaced, and
+accordingly its influence on the others is modified; they in turn act
+upon it, and these actions and reactions introduce endless complexity
+into the system. Such is the famous "problem of three bodies," which has
+engaged the attention of almost every great mathematician since the time
+of Newton. Stated in its mathematical aspect, and without having its
+intricacy abated by any modifying circumstances, the problem is one that
+defies solution. Mathematicians have not yet been able to deal with the
+mutual attractions of three bodies moving freely in space. If the number
+of bodies be greater than three, as is actually the case in the solar
+system, the problem becomes still more hopeless.
+
+Nature, however, has in this matter dealt kindly with us. She has, it is
+true, proposed a problem which cannot be accurately solved; but she has
+introduced into the problem, as proposed in the solar system, certain
+special features which materially reduce the difficulty. We are still
+unable to make what a mathematician would describe as a rigorous
+solution of the question; we cannot solve it with the completeness of a
+sum in arithmetic; but we can do what is nearly if not quite as useful.
+We can solve the problem approximately; we can find out what the effect
+of one planet on the other is _very nearly_, and by additional labour we
+can reduce the limits of uncertainty to as low a point as may be
+desired. We thus obtain a practical solution of the problem adequate for
+all the purposes of science. It avails us little to know the place of a
+planet with absolute mathematical accuracy. If we can determine what we
+want with so close an approximation to the true position that no
+telescope could possibly disclose the difference, then every practical
+end will have been attained. The reason why in this case we are enabled
+to get round the difficulties which we cannot surmount lies in the
+exceptional character of the problem of three bodies as exhibited in the
+solar system. In the first place, the sun is of such pre-eminent mass
+that many matters may be overlooked which would be of moment were he
+rivalled in mass by any of the planets. Another source of our success
+arises from the small inclinations of the planetary orbits to each
+other; while the fact that the orbits are nearly circular also greatly
+facilitates the work. The mathematicians who may reside in some of the
+other parts of the universe are not equally favoured. Among the sidereal
+systems we find not a few cases where the problem of three bodies, or
+even of more than three, would have to be faced without any of the
+alleviating circumstances which our system presents. In such groups as
+the marvellous star Th Orionis, we have three or four bodies
+comparable in size, which must produce movements of the utmost
+complexity. Even if terrestrial mathematicians shall ever have the
+hardihood to face such problems, there is no likelihood of their being
+able to do so for ages to come; such researches must repose on accurate
+observations as their foundation; and the observations of these distant
+systems are at present utterly inadequate for the purpose.
+
+The undisturbed revolution of a planet around the sun, in conformity
+with Kepler's law, would assure for that planet permanent conditions of
+climate. The earth, for instance, if guided solely by Kepler's laws,
+would return each day of the year exactly to the same position which it
+had on the same day of last year. From age to age the quantity of heat
+received by the earth would remain constant if the sun continued
+unaltered, and the present climate might thus be preserved indefinitely.
+But since the existence of planetary perturbation has become recognised,
+questions arise of the gravest importance with reference to the possible
+effects which such perturbations may have. We now see that the path of
+the earth is not absolutely fixed. That path is deranged by Venus and by
+Mars; it is deranged, it must be deranged, by every planet in our
+system. It is true that in a year, or even in a century, the amount of
+alteration produced is not very great; the ellipse which represents the
+path of our earth this year does not differ considerably from the
+ellipse which represented the movement of the earth one hundred years
+ago. But the important question arises as to whether the slight
+difference which does exist may not be constantly increasing, and may
+not ultimately assume such proportions as to modify our climates, or
+even to render life utterly impossible. Indeed, if we look at the
+subject without attentive calculation, nothing would seem more probable
+than that such should be the fate of our system. This globe revolves in
+a path inside that of the mighty Jupiter. It is, therefore, constantly
+attracted by Jupiter, and when it overtakes the vast planet, and comes
+between him and the sun, then the two bodies are comparatively close
+together, and the earth is pulled outwards by Jupiter. It might be
+supposed that the tendency of such disturbances would be to draw the
+earth gradually away from the sun, and thus to cause our globe to
+describe a path ever growing wider and wider. It is not, however,
+possible to decide a dynamical question by merely superficial reasoning
+of this character. The question has to be brought before the tribunal of
+mathematical analysis, where every element in the case is duly taken
+into account. Such an enquiry is by no means a simple one. It worthily
+occupied the splendid talents of Lagrange and Laplace, whose
+discoveries in the theory of planetary perturbation are some of the most
+remarkable achievements in astronomy.
+
+We cannot here attempt to describe the reasoning which these great
+mathematicians employed. It can only be expressed by the formulae of the
+mathematician, and would then be hardly intelligible without previous
+years of mathematical study. It fortunately happens, however, that the
+results to which Lagrange and Laplace were conducted, and which have
+been abundantly confirmed by the labours of other mathematicians, admit
+of being described in simple language.
+
+Let us suppose the case of the sun, and of two planets circulating
+around him. These two planets are mutually disturbing each other, but
+the amount of the disturbance is small in comparison with the effect of
+the sun on each of them. Lagrange demonstrated that, though the ellipse
+in which each planet moved was gradually altered in some respects by the
+attraction of the other planet, yet there is one feature of the curve
+which the perturbation is powerless to alter permanently: the longest
+axis of the ellipse, and, therefore, the mean distance of the planet
+from the sun, which is equal to one-half of it, must remain unchanged.
+This is really a discovery as important as it was unexpected. It at once
+removes all fear as to the effect which perturbations can produce on the
+stability of the system. It shows that, notwithstanding the attractions
+of Mars and of Venus, of Jupiter and of Saturn, our earth will for ever
+continue to revolve at the same mean distance from the sun, and thus the
+succession of the seasons and the length of the year, so far as this
+element at least is concerned, will remain for ever unchanged.
+
+But Lagrange went further into the enquiry. He saw that the mean
+distance did not alter, but it remained to be seen whether the
+eccentricity of the ellipse described by the earth might not be affected
+by the perturbations. This is a matter of hardly less consequence than
+that just referred to. Even though the earth preserved the same average
+distance from the sun, yet the greatest and least distance might be
+widely unequal: the earth might pass very close to the sun at one part
+of its orbit, and then recede to a very great distance at the opposite
+part. So far as the welfare of our globe and its inhabitants is
+concerned, this is quite as important as the question of the mean
+distance; too much heat in one half of the year would afford but
+indifferent compensation for too little during the other half. Lagrange
+submitted this question also to his analysis. Again he vanquished the
+mathematical difficulties, and again he was able to give assurance of
+the permanence of our system. It is true that he was not this time able
+to say that the eccentricity of each path will remain constant; this is
+not the case. What he does assert, and what he has abundantly proved, is
+that the eccentricity of each orbit will always remain small. We learn
+that the shape of the earth's orbit gradually swells and gradually
+contracts; the greatest length of the ellipse is invariable, but
+sometimes it approaches more to a circle, and sometimes becomes more
+elliptical. These changes are comprised within narrow limits; so that,
+though they may probably correspond with measurable climatic changes,
+yet the safety of the system is not imperilled, as it would be if the
+eccentricity could increase indefinitely. Once again Lagrange applied
+the resources of his calculus to study the effect which perturbations
+can have on the inclination of the path in which the planet moves. The
+result in this case was similar to that obtained with respect to the
+eccentricities. If we commence with the assumption that the mutual
+inclinations of the planets are small, then mathematics assure us that
+they must always remain small. We are thus led to the conclusion that
+the planetary perturbations are unable to affect the stability of the
+solar system.
+
+We shall perhaps more fully appreciate the importance of these memorable
+researches if we consider how easily matters might have been otherwise.
+Let us suppose a system resembling ours in every respect save one. Let
+that system have a sun, as ours has; a system of planets and of
+satellites like ours. Let the masses of all the bodies in this
+hypothetical system be identical with the masses in our system, and let
+the distances and the periodic times be the same in the two cases. Let
+all the planes of the orbits be similarly placed; and yet this
+hypothetical system might contain seeds of decay from which ours is
+free. There is one point in the imaginary scheme which we have not yet
+specified. In our system all the planets revolve in the _same direction_
+around the sun. Let us suppose this law violated in the hypothetical
+system by reversing one planet on its path. That slight change alone
+would expose the system to the risk of destruction by the planetary
+perturbations. Here, then, we find the necessity of that remarkable
+uniformity of the directions in which the planets revolve around the
+sun. Had these directions not been uniform, our system must, in all
+probability, have perished ages ago, and we should not be here to
+discuss perturbations or any other subject.
+
+Great as was the success of the eminent French mathematician who made
+these beautiful discoveries, it was left for this century to witness the
+crowning triumph of mathematical analysis applied to the law of
+gravitation. The work of Lagrange lacks the dramatic interest of the
+discovery made by Le Verrier and Adams, which gave still wider extent to
+the solar system by the discovery of the planet Neptune revolving far
+outside Uranus.
+
+We have already alluded to the difficulties which were experienced when
+it was sought to reconcile the early observations of Uranus with those
+made since its discovery. We have shown that the path in which this
+planet revolved experienced change, and that consequently Uranus must be
+exposed to the action of some other force besides the sun's attraction.
+
+The question arises as to the nature of these disturbing forces. From
+what we have already learned of the mutual deranging influence between
+any two planets, it seems natural to inquire whether the irregularities
+of Uranus could not be accounted for by the attraction of the other
+planets. Uranus revolves just outside Saturn. The mass of Saturn is much
+larger than the mass of Uranus. Could it not be that Saturn draws Uranus
+aside, and thus causes the changes? This is a question to be decided by
+the mathematician. He can compute what Saturn is able to do, and he
+finds, no doubt, that Saturn is capable of producing some displacement
+of Uranus. In a similar manner Jupiter, with his mighty mass, acts on
+Uranus, and produces a disturbance which the mathematician calculates.
+When the figures had been worked out for all the known planets they were
+applied to Uranus, and we might expect to find that they would fully
+account for the observed irregularities of his path. This was, however,
+not the case. After every known source of disturbance had been carefully
+allowed for, Uranus was still shown to be influenced by some further
+agent; and hence the conclusion was established that Uranus must be
+affected by some unknown body. What could this unknown body be, and
+where must it be situated? Analogy was here the guide of those who
+speculated on this matter. We know no cause of disturbance of a planet's
+motion except it be the attraction of another planet. Could it be that
+Uranus was really attracted by some other planet at that time utterly
+unknown? This suggestion was made by many astronomers, and it was
+possible to determine some conditions which the unknown body should
+fulfil. In the first place its orbit must lie outside the orbit of
+Uranus. This was necessary, because the unknown planet must be a large
+and massive one to produce the observed irregularities. If, therefore,
+it were nearer than Uranus, it would be a conspicuous object, and must
+have been discovered long ago. Other reasonings were also available to
+show that if the disturbances of Uranus were caused by the attraction of
+a planet, that body must revolve outside the globe discovered by
+Herschel. The general analogies of the planetary system might also be
+invoked in support of the hypothesis that the path of the unknown
+planet, though necessarily elliptic, did not differ widely from a
+circle, and that the plane in which it moved must also be nearly
+coincident with the plane of the earth's orbit.
+
+The measured deviations of Uranus at the different points of its orbit
+were the sole data available for the discovery of the new planet. We
+have to fit the orbit of the unknown globe, as well as the mass of the
+planet itself, in such a way as to account for the various
+perturbations. Let us, for instance, assume a certain distance for the
+hypothetical body, and try if we can assign both an orbit and a mass for
+the planet, at that distance, which shall account for the perturbations.
+Our first assumption is perhaps too great. We try again with a lesser
+distance. We can now represent the observations with greater accuracy. A
+third attempt will give the result still more closely, until at length
+the distance of the unknown planet is determined. In a similar way the
+mass of the body can be also determined. We assume a certain value, and
+calculate the perturbations. If the results seem greater than those
+obtained by observations, then the assumed mass is too great. We amend
+the assumption, and recompute with a lesser amount, and so on until at
+length we determine a mass for the planet which harmonises with the
+results of actual measurement. The other elements of the unknown
+orbit--its eccentricity and the position of its axis--are all to be
+ascertained in a similar manner. At length it appeared that the
+perturbations of Uranus could be completely explained if the unknown
+planet had a certain mass, and moved in an orbit which had a certain
+position, while it was also manifest that no very different orbit or
+greatly altered mass would explain the observed facts.
+
+These remarkable computations were undertaken quite independently by two
+astronomers--one in England and one in France. Each of them attacked,
+and each of them succeeded in solving, the great problem. The scientific
+men of England and the scientific men of France joined issue on the
+question as to the claims of their respective champions to the great
+discovery; but in the forty years which have elapsed since these
+memorable researches the question has gradually become settled. It is
+the impartial verdict of the scientific world outside England and
+France, that the merits of this splendid triumph of science must be
+divided equally between the late distinguished Professor J.C. Adams, of
+Cambridge, and the late U.J.J. Le Verrier, the director of the Paris
+Observatory.
+
+Shortly after Mr. Adams had taken his degree at Cambridge, in 1843, when
+he obtained the distinction of Senior Wrangler, he turned his attention
+to the perturbations of Uranus, and, guided by these perturbations
+alone, commenced his search for the unknown planet. Long and arduous was
+the enquiry--demanding an enormous amount of numerical calculation, as
+well as consummate mathematical resource; but gradually Mr. Adams
+overcame the difficulties. As the subject unfolded itself, he saw how
+the perturbations of Uranus could be fully explained by the existence of
+an exterior planet, and at length he had ascertained, not alone the
+orbit of this outer body, but he was even able to indicate the part of
+the heavens in which the unknown globe must be sought. With his
+researches in this advanced condition, Mr. Adams called on the
+Astronomer-Royal, Sir George Airy, at Greenwich, in October, 1845, and
+placed in his hands the computations which indicated with marvellous
+accuracy the place of the yet unobserved planet. It thus appears that
+seven months before anyone else had solved this problem Mr. Adams had
+conquered its difficulties, and had actually located the planet in a
+position but little more than a degree distant from the spot which it is
+now known to have occupied. All that was wanted to complete the
+discovery, and to gain for Professor Adams and for English science the
+undivided glory of this achievement, was a strict telescopic search
+through the heavens in the neighbourhood indicated.
+
+Why, it may be said, was not such an enquiry instituted at once? No
+doubt this would have been done, if the observatories had been generally
+furnished forty years ago with those elaborate star-charts which they
+now possess. In the absence of a chart (and none had yet been published
+of the part of the sky where the unknown planet was) the search for the
+planet was a most tedious undertaking. It had been suggested that the
+new globe could be detected by its visible disc; but it must be
+remembered that even Uranus, so much closer to us, had a disc so small
+that it was observed nearly a score of times without particular notice,
+though it did not escape the eagle glance of Herschel. There remained
+then only one available method of finding Neptune. It was to construct a
+chart of the heavens in the neighbourhood indicated, and then to compare
+this chart night after night with the stars in the heavens. Before
+recommending the commencement of a labour so onerous, the
+Astronomer-Royal thought it right to submit Mr. Adams's researches to a
+crucial preliminary test. Mr. Adams had shown how his theory rendered an
+exact account of the perturbations of Uranus in longitude. The
+Astronomer-Royal asked Mr. Adams whether he was able to give an equally
+clear explanation of the notable variations in the distance of Uranus.
+There can be no doubt that his theory would have rendered a satisfactory
+account of these variations also; but, unfortunately, Mr. Adams seems
+not to have thought the matter of sufficient importance to give the
+Astronomer-Royal any speedy reply, and hence it happened that no less
+than nine months elapsed between the time when Mr. Adams first
+communicated his results to the Astronomer-Royal and the time when the
+telescopic search for the planet was systematically commenced. Up to
+this time no account of Mr. Adams's researches had been published. His
+labours were known to but few besides the Astronomer-Royal and Professor
+Challis of Cambridge, to whom the duty of making the search was
+afterwards entrusted.
+
+In the meantime the attention of Le Verrier, the great French
+mathematician and astronomer, had been specially directed by Arago to
+the problem of the perturbations of Uranus. With exhaustive analysis Le
+Verrier investigated every possible known source of disturbance. The
+influences of the older planets were estimated once more with every
+precision, but only to confirm the conclusion already arrived at as to
+their inadequacy to account for the perturbations. Le Verrier then
+commenced the search for the unknown planet by the aid of mathematical
+investigation, in complete ignorance of the labours of Adams. In
+November, 1845, and again on the 1st of June, 1846, portions of the
+French astronomer's results were announced. The Astronomer-Royal then
+perceived that his calculations coincided practically with those of
+Adams, insomuch that the places assigned to the unknown planet by the
+two astronomers were not more than a degree apart! This was, indeed, a
+remarkable result. Here was a planet unknown to human sight, yet felt,
+as it were, by mathematical analysis with a certainty so great that two
+astronomers, each in total ignorance of the other's labours, concurred
+in locating the planet in almost the same spot of the heavens. The
+existence of the new globe was thus raised nearly to a certainty, and it
+became incumbent on practical astronomers to commence the search
+forthwith. In June, 1846, the Astronomer-Royal announced to the visitors
+of the Greenwich Observatory the close coincidence between the
+calculations of Le Verrier and of Adams, and urged that a strict
+scrutiny of the region indicated should be at once instituted. Professor
+Challis, having the command of the great Northumberland equatorial
+telescope at Cambridge, was induced to undertake the work, and on the
+29th July, 1846, he began his labours.
+
+The plan of search adopted by Professor Challis was an onerous one. He
+first took the theoretical place of the planet, as given by Mr. Adams,
+and after allowing a very large margin for the uncertainties of a
+calculation so recondite, he marked out a certain region of the heavens,
+near the ecliptic, in which it might be anticipated that the unknown
+planet must be found. He then determined to observe all the stars in
+this region and measure their relative positions. When this work was
+once done it was to be repeated a second time. His scheme even
+contemplated a third complete set of observations of the stars contained
+within this selected region. There could be no doubt that this process
+would determine the planet if it were bright enough to come within the
+limits of stellar magnitude which Professor Challis adopted. The globe
+would be detected by its motion relatively to the stars, when the three
+series of measures came to be compared. The scheme was organised so
+thoroughly that it must have led to the expected discovery--in fact, it
+afterwards appeared that Professor Challis did actually observe the
+planet more than once, and a subsequent comparison of its positions must
+infallibly have led to the detection of the new globe.
+
+Le Verrier was steadily maturing his no less elaborate investigations in
+the same direction. He felt confident of the existence of the planet,
+and he went so far as to predict not only the situation of the globe but
+even its actual appearance. He thought the planet would be large enough
+(though still of course only a telescopic object) to be distinguished
+from the stars by the possession of a disc. These definite predictions
+strengthened the belief that we were on the verge of another great
+discovery in the solar system, so much so that when Sir John Herschel
+addressed the British Association on the 10th of September, 1846, he
+uttered the following words:--"The past year has given to us the new
+planet Astraea--it has done more, it has given us the probable prospect
+of another. We see it as Columbus saw America from the shores of Spain.
+Its movements have been felt trembling along the far-reaching line of
+our analysis, with a certainty hardly inferior to ocular demonstration."
+
+The time of the discovery was now rapidly approaching. On the 18th of
+September, 1846, Le Verrier wrote to Dr. Galle of the Berlin
+Observatory, describing the place of the planet indicated by his
+calculations, and asking him to make its telescopic discovery. The
+request thus preferred was similar to that made on behalf of Adams to
+Professor Challis. Both at Berlin and at Cambridge the telescopic
+research was to be made in the same region of the heavens. The Berlin
+astronomers were, however, fortunate in possessing an invaluable aid to
+the research which was not at the time in the hands of Professor
+Challis. We have mentioned how the search for a telescopic planet can be
+facilitated by the use of a carefully-executed chart of the stars. In
+fact, a mere comparison of the chart with the sky is all that is
+necessary. It happened that the preparation of a series of star charts
+had been undertaken by the Berlin Academy of Sciences some years
+previously. On these charts the place of every star, down even to the
+tenth magnitude, had been faithfully engraved. This work was one of much
+utility, but its originators could hardly have anticipated the brilliant
+discovery which would arise from their years of tedious labour. It was
+found convenient to publish such an extensive piece of surveying work by
+instalments, and accordingly, as the chart was completed, it issued from
+the press sheet by sheet. It happened that just before the news of Le
+Verrier's labours reached Berlin the chart of that part of the heavens
+had been engraved and printed.
+
+It was on the 23rd of September that Le Verrier's letter reached Dr.
+Galle at Berlin. The sky that night was clear, and we can imagine with
+what anxiety Dr. Galle directed his telescope to the heavens. The
+instrument was pointed in accordance with Le Verrier's instructions. The
+field of view showed a multitude of stars, as does every part of the
+heavens. One of these was really the planet. The new chart was unrolled,
+and, star by star, the heavens were compared with it. As the
+identification of the stars went on, one object after another was found
+to lie in the heavens as it was engraved on the chart, and was of course
+rejected. At length a star of the eighth magnitude--a brilliant
+object--was brought into review. The chart was examined, but there was
+no star there. This object could not have been in its present place when
+the chart was formed. The object was therefore a wanderer--a planet. Yet
+it was necessary to be cautious in such a matter. Many possibilities had
+to be guarded against. It was, for instance, at least conceivable that
+the object was really a star which, by some mischance, eluded the
+careful eye of the astronomer who had constructed the map. It was even
+possible that the star might be one of the large class of variables
+which alternate in brightness, and it might have been too faint to have
+been visible when the chart was made. Or it might be one of the minor
+planets moving between Mars and Jupiter. Even if none of these
+explanations would answer, it was still necessary to show that the
+object was moving with that particular velocity and in that particular
+direction which the theory of Le Verrier indicated. The lapse of a
+single day was sufficient to dissipate all doubts. The next night the
+object was again observed. It had moved, and when its motion was
+measured it was found to accord precisely with what Le Verrier had
+foretold. Indeed, as if no circumstance in the confirmation should be
+wanting, the diameter of the planet, as measured by the micrometers at
+Berlin, proved to be practically coincident with that anticipated by Le
+Verrier.
+
+The world speedily rang with the news of this splendid achievement.
+Instantly the name of Le Verrier rose to a pinnacle hardly surpassed by
+that of any astronomer of any age or country. The circumstances of the
+discovery were highly dramatic. We picture the great astronomer buried
+in profound meditation for many months; his eyes are bent, not on the
+stars, but on his calculations. No telescope is in his hand; the human
+intellect is the instrument he alone uses. With patient labour, guided
+by consummate mathematical artifice, he manipulates his columns of
+figures. He attempts one solution after another. In each he learns
+something to avoid; by each he obtains some light to guide him in his
+future labours. At length he begins to see harmony in those results
+where before there was but discord. Gradually the clouds disperse, and
+he discerns with a certainty little short of actual vision the planet
+glittering in the far depths of space. He rises from his desk and
+invokes the aid of a practical astronomer; and lo! there is the planet
+in the indicated spot. The annals of science present no such spectacle
+as this. It was the most triumphant proof of the law of universal
+gravitation. The Newtonian theory had indeed long ere this attained an
+impregnable position; but, as if to place its truth in the most
+conspicuous light, this discovery of Neptune was accomplished.
+
+For a moment it seemed as if the French were to enjoy the undivided
+honour of this splendid triumph; nor would it, indeed, have been
+unfitting that the nation which gave birth to Lagrange and to Laplace,
+and which developed the great Newtonian theory by their immortal
+labours, should have obtained this distinction. Up to the time of the
+telescopic discovery of the planet by Dr. Galle at Berlin, no public
+announcement had been made of the labours of Challis in searching for
+the planet, nor even of the theoretical researches of Adams on which
+those observations were based. But in the midst of the paeans of triumph
+with which the enthusiastic French nation hailed the discovery of Le
+Verrier, there appeared a letter from Sir John Herschel in the
+_Athenaeum_ for 3rd October, 1846, in which he announced the researches
+made by Adams, and claimed for him a participation in the glory of the
+discovery. Subsequent enquiry has shown that this claim was a just one,
+and it is now universally admitted by all independent authorities. Yet
+it will easily be imagined that the French _savants_, jealous of the
+fame of their countryman, could not at first be brought to recognise a
+claim so put forward. They were asked to divide the unparalleled honour
+between their own illustrious countryman and a young foreigner of whom
+but few had ever heard, and who had not even published a line of his
+work, nor had any claim been made on his part until after the work had
+been completely finished by Le Verrier. The demand made on behalf of
+Adams was accordingly refused any acknowledgment in France; and an
+embittered controversy was the consequence. Point by point the English
+astronomers succeeded in establishing the claim of their countryman. It
+was true that Adams had not published his researches to the world, but
+he had communicated them to the Astronomer-Royal, the official head of
+the science in this country. They were also well known to Professor
+Challis, the Professor of Astronomy at Cambridge. Then, too, the work of
+Adams was published, and it was found to be quite as thorough and quite
+as successful as that of Le Verrier. It was also found that the method
+of search adopted by Professor Challis not only must have been
+eventually successful, but that it actually was in a sense already
+successful. When the telescopic discovery of the planet had been
+achieved, Challis turned naturally to see whether he had observed the
+new globe also. It was on the 1st October that he heard of the success
+of Dr. Galle, and by that time Challis had accumulated observations in
+connection with this research of no fewer than 3,150 stars. Among them
+he speedily found that an object observed on the 12th of August was not
+in the same place on the 30th of July. This was really the planet; and
+its discovery would thus have been assured had Challis had time to
+compare his measurements. In fact, if he had only discussed his
+observations at once, there cannot be much doubt that the entire glory
+of the discovery would have been awarded to Adams. He would then have
+been first, no less in the theoretical calculations than in the optical
+verification of the planet's existence. It may also be remarked that
+Challis narrowly missed making the discovery of Neptune in another way.
+Le Verrier had pointed out in his paper the possibility of detecting the
+sought-for globe by its disc. Challis made the attempt, and before the
+intelligence of the actual discovery at Berlin had reached him he had
+made an examination of the region indicated by Le Verrier. About 300
+stars passed through the field of view, and among them he selected one
+on account of its disc; it afterwards appeared that this was indeed the
+planet.
+
+If the researches of Le Verrier and of Adams had never been undertaken
+it is certain that the distant Neptune must have been some time
+discovered; yet that might have been made in a manner which every true
+lover of science would now deplore. We hear constantly that new minor
+planets are observed, yet no one attaches to such achievements a
+fraction of the consequence belonging to the discovery of Neptune. The
+danger was, that Neptune should have been merely dropped upon by simple
+survey work, just as Uranus was discovered, or just as the hosts of
+minor planets are now found. In this case Theoretical Astronomy, the
+great science founded by Newton, would have been deprived of its most
+brilliant illustration.
+
+Neptune had, in fact, a very narrow escape on at least one previous
+occasion of being discovered in a very simple way. This was shown when
+sufficient observations had been collected to enable the path of the
+planet to be calculated. It was then possible to trace back the
+movements of the planet among the stars and thus to institute a search
+in the catalogues of earlier astronomers to see whether they contained
+any record of Neptune, erroneously noted as a star. Several such
+instances have been discovered. I shall, however, only refer to one,
+which possesses a singular interest. It was found that the place of the
+planet on May 10th, 1795, must have coincided with that of a so-called
+star recorded on that day in the "Histoire Celeste" of Lalande. By
+actual examination of the heavens it further appeared that there was no
+star in the place indicated by Lalande, so the fact that here was
+really an observation of Neptune was placed quite beyond doubt. When
+reference was made to the original manuscripts of Lalande, a matter of
+great interest was brought to light. It was there found that he had
+observed the same star (for so he regarded it) both on May 8th and on
+May 10th; on each day he had determined its position, and both
+observations are duly recorded. But when he came to prepare his
+catalogue and found that the places on the two occasions were different,
+he discarded the earlier result, and merely printed the latter.
+
+Had Lalande possessed a proper confidence in his own observations, an
+immortal discovery lay in his grasp; had he manfully said, "I was right
+on the 10th of May and I was right on the 8th of May; I made no mistake
+on either occasion, and the object I saw on the 8th must have moved
+between that and the 10th," then he must without fail have found
+Neptune. But had he done so, how lamentable would have been the loss to
+science! The discovery of Neptune would then merely have been an
+accidental reward to a laborious worker, instead of being one of the
+most glorious achievements in the loftiest department of human reason.
+
+Besides this brief sketch of the discovery of Neptune, we have but
+little to tell with regard to this distant planet. If we fail to see in
+Uranus any of those features which make Mars or Venus, Jupiter or
+Saturn, such attractive telescopic objects, what can we expect to find
+in Neptune, which is half as far again as Uranus? With a good telescope
+and a suitable magnifying power we can indeed see that Neptune has a
+disc, but no features on that disc can be identified. We are
+consequently not in a position to ascertain the period in which Neptune
+rotates around its axis, though from the general analogy of the system
+we must feel assured that it really does rotate. More successful have
+been the attempts to measure the diameter of Neptune, which is found to
+be about 35,000 miles, or more than four times the diameter of the
+earth. It would also seem that, like Jupiter and like Saturn, the planet
+must be enveloped with a vast cloud-laden atmosphere, for the mean
+density of the globe is only about one-fifth that of the earth. This
+great globe revolves around the sun at a mean distance of no less than
+2,800 millions of miles, which is about thirty times as great as the
+mean distance from the earth to the sun. The journey, though
+accomplished at the rate of more than three miles a second, is yet so
+long that Neptune requires almost 165 years to complete one revolution.
+Since its discovery, some fifty years ago, Neptune has moved through
+about one-third of its path, and even since the date when it was first
+casually seen by Lalande, in 1795, it has only had time to traverse
+three-fifths of its mighty circuit.
+
+Neptune, like our earth, is attended by a single satellite; this
+delicate object was discovered by Mr. Lassell with his two-foot
+reflecting telescope shortly after the planet itself became known. The
+motion of the satellite of Neptune is nearly circular. Its orbit is
+inclined at an angle of about 35 deg. to the Ecliptic, and it is specially
+noteworthy that, like the satellites of Uranus, the direction of the
+motion runs counter to the planetary movements generally. The satellite
+performs its journey around Neptune in a period of a little less than
+six days. By observing the motions of this moon we are enabled to
+determine the mass of the planet, and thus it appears that the weight of
+Neptune is about one nineteen-thousandth part of that of the sun.
+
+No planets beyond Neptune have been seen, nor is there at present any
+good ground for believing in their existence as visual objects. In the
+chapter on the minor planets I have entered into a discussion of the way
+in which these objects are discovered. It is by minute and diligent
+comparison of the heavens with elaborate star charts that these bodies
+are brought to light. Such enquiries would be equally efficacious in
+searching for an ultra-Neptunian planet; in fact, we could design no
+better method to seek for such a body, if it existed, than that which is
+at this moment in constant practice at many observatories. The labours
+of those who search for small planets have been abundantly rewarded with
+discoveries now counted by hundreds. Yet it is a noteworthy fact that
+all these planets are limited to one region of the solar system. It has
+sometimes been conjectured that time may disclose perturbations in the
+orbit of Neptune, and that these perturbations may lead to the discovery
+of a planet still more remote, even though that planet be so distant and
+so faint that it eludes all telescopic research. At present, however,
+such an enquiry can hardly come within the range of practical astronomy.
+Its movements have no doubt been studied minutely, but it must describe

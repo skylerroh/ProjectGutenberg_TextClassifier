@@ -1,0 +1,517 @@
+
+  p1 - p     4L
+  ------- = ---- b1 u squared;
+  [Delta]    D
+
+[TEX: \frac{p_1 - p}{\Delta} = \frac{4L}{D} b_1 u^2]
+
+or, introducing the discharge per second, Q, which is the usual figure
+supplied, and which is connected with the velocity by the relation, Q =
+([pi] D squared u)/4, we have
+
+  p1 - p      64 b1
+  ------- = --------- L Q squared.
+  [Delta]   [pi] squared D^5
+
+[TEX: \frac{p_1 - p}{\Delta} = \frac{64 b_1}{\pi^2 D^5} L Q^2]
+
+Generally the pressure, p1, at the entrance is known, and the pressure, p,
+has to be found; it is then from p1 that the values of Q and [Delta] are
+calculated. In experiments where p1 and p are measured directly, in order
+to arrive at the value of the coefficient b1, Q and [Delta] would be
+calculated for the mean pressure 1/2(p1 + p). The values given to the
+coefficient b1 vary considerably, because, as stated above, it varies with
+the diameter, and also with the nature of the material of the pipe. It
+is generally admitted that it is independent of the pressure, and it is
+probable that within certain limits of pressure this hypothesis is in
+accordance with the truth.
+
+D'Aubuisson gives for this case, in his _Traite d'Hydraulique_, a rather
+complicated formula, containing a constant deduced from experiment, whose
+value, according to a calculation made by the author, is approximately b1 =
+0.0003. This constant was determined by taking the mean of experiments made
+with tin tubes of 0.0235 meter (15/16 in.), 0.05 meter (2 in.), and 0.10
+meter (4 in.) diameter; and it was erroneously assumed that it was correct
+for all diameters and all substances.
+
+M. Arson, engineer to the Paris Gas Company, published in 1867, in the
+_Memoires de la Societe des Ingenieurs Civils de France_, the results of
+some experiments on the loss of pressure in gas when passing through pipes.
+He employed cast-iron pipes of the ordinary type. He has represented the
+results of his experiments by the binomial formula, au + bu squared, and gives
+values for the coefficients a and b, which diminish with an increase in
+diameter, but would indicate greater losses of pressure than D'Aubuisson's
+formula. M. Deviller, in his _Rapport sur les travaux de percement du
+tunnel sous les Alpes_, states that the losses of pressure observed in the
+air pipe at the Mont Cenis Tunnel confirm the correctness of D'Aubuisson's
+formula; but his reasoning applies to too complicated a formula to be
+absolutely convincing.
+
+Quite recently M. E. Stockalper, engineer-in-chief at the northern end of
+the St. Gothard Tunnel, has made some experiments on the air conduit of
+this tunnel, the results of which he has kindly furnished to the author.
+These lead to values for the coefficient b1 appreciably less than that
+which is contained implicitly in D'Aubuisson's formula. As he experimented
+on a rising pipe, it is necessary to introduce into the formula the
+difference of level, h, between the two ends; it then becomes
+
+  p1 - p      64 b1
+  ------- = --------- L Q squared + h.
+  [Delta]   [pi] squared D^5
+
+[TEX: \frac{p_1 - p}{\Delta} = \frac{64 b_1}{\pi^2 D^5} L Q^2 + h]
+
+The following are the details of the experiments: First series of
+experiments: Conduit consisting of cast or wrought iron pipes, joined by
+means of flanges, bolts, and gutta percha rings. D = 0.20 m. (8 in.); L =
+4,600 m. (15,100 ft,); h= 26.77 m. (87 ft. 10 in.). 1st experiment: Q =
+0.1860 cubic meter (6.57 cubic feet), at a pressure of 1/2(p1 + p), and a
+temperature of 22 deg. Cent. (72 deg. Fahr.); p1 = 5.60 atm., p =5.24 atm. Hence p1
+- p = 0.36 atm.= 0.36 x 10,334 kilogrammes per square meter (2.116 lb. per
+square foot), whence we obtain b1=0.0001697. D'Aubuisson's formula would
+have given p1 - p = 0.626 atm.; and M. Arson's would have given p1 - p =
+0.9316 atm. 2d experiment: Q = 0.1566 cubic meter (5.53 cubic feet), at a
+pressure of 1/2(p1 + p), and a temperature of 22 deg. Cent. (72 deg. Fahr.); p1
+= 4.35 atm., p = 4.13 atm. Hence p1 - p = 0.22 atm. = 0.22 X 10,334
+kilogrammes per square meter (2,116 lb. per square foot); whence we obtain
+b1 = 0.0001816. D'Aubuisson's formula would have given p1 - p = 0.347 atm;
+and M. Arson's would have given p1 - p = 0.5382 atm. 3d experiment: Q =
+0.1495 cubic meter (5.28 cubic feet) at a pressure of 1/2(p1 + p) and a
+temperature 22 deg. Cent. (72 deg. Fahr.); p1 = 3.84 atm., p = 3.65 atm. Hence p1 -
+p = 0.19 atm. = 0.19 X 10,334 kilogrammes per square meter (2.116 lb. per
+square foot); whence we obtain B1 = 0.0001966. D'Aubuisson's formula would
+have given p1 - p = 0.284 atm., and M. Arson's would have given p1 - p =
+0.4329 atm. Second series of experiments: Conduit composed of wrought-iron
+pipes, with joints as in the first experiments. D = 0.15 meter (6 in.), L
+- 0.522 meters (1,712 ft.), h = 3.04 meters (10 ft.) 1st experiments: Q =
+0.2005 cubic meter (7.08 cubic feet), at a pressure of 1/2(p1 + p), and a
+temperature of 26.5 deg. Cent. (80 deg. Fahr.); p1 = 5.24 atm., p = 5.00 atm. Hence
+p1 - p = 0.24 atm. =0.24 x 10,334 kilogrammes per square meter (2,116 lb.
+per square foot); whence we obtain b1 = 0.3002275. 2nd experiment: Q =
+0.1586 cubic meter (5.6 cubic feet), at a pressure of 1/2(p1 + p), and a
+temperature of 26.5 deg. Cent. (80 deg. Fahr.); p1 = 3.650 atm., p = 3.545 atm.
+Hence p1 - p = 0.105 atm. = 0.105 x 10,334 kilogrammes per square meter
+(2,116 lb. per square foot); whence we obtain b1 = 0.0002255. It is clear
+that these experiments give very small values for the coefficient. The
+divergence from the results which D'Aubuisson's formula would give is due
+to the fact that his formula was determined with very small pipes. It is
+probable that the coefficients corresponding to diameters of 0.15 meter
+(6 in.) and 0.20 meter (8 in.) for a substance as smooth as tin, would be
+still smaller respectively than the figures obtained above.
+
+The divergence from the results obtained by M. Arson's formula does not
+arise from a difference in size, as this is taken into account. The author
+considers that it may be attributed to the fact that the pipes for the St.
+Gothard Tunnel were cast with much greater care than ordinary pipes, which
+rendered their surface smoother, and also to the fact that flanged joints
+produce much less irregularity in the internal surface than the ordinary
+spigot and faucet joints.
+
+Lastly, the difference in the methods of observation and the errors which
+belong to them, must be taken into account. M. Stockalper, who experimented
+on great pressures, used metallic gauges, which are instruments on whose
+sensibility and correctness complete reliance cannot be placed; and
+moreover the standard manometer with which they were compared was one of
+the same kind. The author is not of opinion that the divergence is owing to
+the fact that M. Stockalper made his observations on an air conduit, where
+the pressure was much higher than in gas pipes. Indeed, it may be assumed
+that gases and liquids act in the same manner; and, as will be [1]
+explained later on, there is reason to believe that with the latter a rise
+of pressure increases the losses of pressure instead of diminishing them.
+
+[Transcribers note 1: corrected from 'as will we explained']
+
+All the pipes for supplying compressed air in tunnels and in headings of
+mines are left uncovered, and have flanged joints; which are advantages not
+merely as regards prevention of leakage, but also for facility of laying
+and of inspection. If a compressed air pipe had to be buried in the ground
+the flanged joint would lose a part of its advantages; but, nevertheless,
+the author considers that it would still be preferable to the ordinary
+joint.
+
+It only remains to refer to the motors fed with the compressed air.
+This subject is still in its infancy from a practical point of view. In
+proportion as the air becomes hot by compression, so it cools by expansion,
+if the vessel containing it is impermeable to heat. Under these conditions
+it gives out in expanding a power appreciably less than if it retained its
+original temperature; besides which the fall of temperature may impede the
+working of the machine by freezing the vapor of water contained in the air.
+
+If it is desired to utilize to the utmost the force stored up in the
+compressed air it is necessary to endeavor to supply heat to the air during
+expansion so as to keep its temperature constant. It would be possible
+to attain this object by the same means which prevent heating from
+compression, namely, by the circulation and injection of water. It would
+perhaps be necessary to employ a little larger quantity of water for
+injection, as the water, instead of acting by virtue both of its heat of
+vaporization and of its specific heat, can in this case act only by virtue
+of the latter. These methods might be employed without difficulty for air
+machines of some size. It would be more difficult to apply them to small
+household machines, in which simplicity is an essential element; and we
+must rest satisfied with imperfect methods, such as proximity to a stove,
+or the immersion of the cylinder in a tank of water. Consequently loss of
+power by cooling and by incomplete expansion cannot be avoided. The only
+way to diminish the relative amount of this loss is to employ compressed
+air at a pressure not exceeding three or four atmospheres.
+
+The only real practical advance made in this matter is M. Mekarski's
+compressed air engine for tramways. In this engine the air is made to pass
+through a small boiler containing water at a temperature of about 120 deg.
+Cent. (248 deg. Fahr.), before entering the cylinder of the engine. It must
+be observed that in order to reduce the size of the reservoirs, which
+are carried on the locomotive, the air inside them must be very highly
+compressed; and that in going from the reservoir into the cylinder it
+passes through a reducing valve or expander, which keeps the pressure of
+admission at a definite figure, so that the locomotive can continue working
+so long as the supply of air contained in the reservoir has not come down
+to this limiting pressure. The air does not pass the expander until after
+it has gone through the boiler already mentioned. Therefore, if the
+temperature which it assumes in the boiler is 100 deg. Cent. (212 deg. Fahr.), and
+if the limiting pressure is 5 atm., the gas which enters the engine will be
+a mixture of air and water vapor at 100 deg. Cent.; and of its total pressure
+the vapor of water will contribute I atm. and the air 4 atm. Thus this
+contrivance, by a small expenditure of fuel, enables the air to act
+expansively without injurious cooling, and even reduces the consumption of
+compressed air to an extent which compensates for part of the loss of power
+arising from the preliminary expansion which the air experiences before its
+admission into the engine. It is clear that this same contrivance, or what
+amounts to the same thing, a direct injection of steam, at a sufficient
+pressure, for the purpose of maintaining the expanding air at a constant
+temperature, might be tried in a fixed engine worked by compressed air with
+some chance of success.
+
+Whatever method is adopted it would be advantageous that the losses of
+pressure in the pipes connecting the compressors with the motors should be
+reduced as much as possible, for in this case that loss would represent
+a loss of efficiency. If, on the other hand, owing to defective means of
+reheating, it is necessary to remain satisfied with a small amount of
+expansion, the loss of pressure in the pipe is unimportant, and has only
+the effect of transferring the limited expansion to a point a little lower
+on the scale of pressures. If W is the net disposable force on the shaft
+of the engine which works the compressor, v1 the volume of air at the
+compressor, p1. given by the compressor, and at the temperature of the
+surrounding air, and p0 the atmospheric pressure, the efficiency of the
+compressor, assuming the air to expand according to Boyle's law, is given
+by the well-known formula--
+
+  p1 v1 log (p1 / p0)
+  -------------------.
+          W
+
+[TEX: \frac{p_1 v_1 \log \frac{p_1}{p_0}}{W}]
+
+Let p2 be the value to which the pressure is reduced by the loss of
+pressure at the end of the conduit, and v2 the volume which the air
+occupies at this pressure and at the same temperature; the force stored
+up in the air at the end of its course through the conduit is p2 v2
+log(p2/p0); consequently, the efficiency of the conduit is
+
+  p2 v2 log(p2/p0)
+  ----------------
+  p1 v1 log(p1/p0)
+
+[TEX: \frac{p_2 v_2 \log\frac{p_2}{p_0}}{p_2 v_2 \log\frac{p_2}{p_0}}]
+
+a fraction that may be reduced to the simple form
+
+  log(p2/p0)
+  ----------,
+  log(p1/p0)
+
+[TEX: \frac{\log\frac{p_2}{p_0}}{\log\frac{p_2}{p_0}}]
+
+if there is no leakage during the passage of the air, because in that cause
+p2 v2 = p1 v1. Lastly, if W1 is the net disposable force on the shaft of
+the compressed air motor, the efficiency of this engine will be,
+
+        W1
+  ----------------
+  p2 v2 log(p2/p0)
+
+[TEX: \frac{W_1}{p_2 v_2 \log \frac{p_2}{p_0}}]
+
+and the product of these three partial efficiencies is equal to W1/W, the
+general efficiency of the transmission.
+
+III. _Transmission by Pressure Water_.--As transmission of power by
+compressed air has been specially applied to the driving of tunnels, so
+transmission by pressure water has been specially resorted to for lifting
+heavy loads, or for work of a similar nature, such as the operations
+connected with the manufacture of Bessemer steel or of cast-iron pipes.
+The author does not propose to treat of transmissions established for this
+special purpose, and depending on the use of accumulators at high pressure,
+as he has no fresh matter to impart on this subject, and as he believes
+that the remarkable invention of Sir William Armstrong was described for
+the first time, in the "Proceedings of the Institution of Mechanical
+Engineers." His object is to refer to transmissions applicable to general
+purposes.
+
+The transmission of power by water may occur in another form. The motive
+force to be transmitted may be employed for working pumps which raise the
+water, not to a fictitious height in an accumulator, but to a real height
+in a reservoir, with a channel from this reservoir to distribute the water
+so raised among several motors arranged for utilizing the pressure. The
+author is not aware that works have been carried out for this purpose.
+However, in many towns a part of the water from the public mains serves to
+supply small motors--consequently, if the water, instead of being brought
+by a natural fall, has been previously lifted artificially, it might be
+said that a transmission of power is here grafted on to the ordinary
+distribution of water.
+
+Unless a positive or negative force of gravity is introduced into the
+problem, independently of the force to be transmitted, the receivers of
+the water pressure must be assumed to be at the same level as the forcing
+pumps, or more correctly, the water discharged from the receivers to be at
+the same level as the surface of the water from which the pumps draw their
+supply. In this case the general efficiency of transmission is the product
+of three partial efficiencies, which correspond exactly to those mentioned
+with regard to compressed air. The height of lift, contained in the
+numerator of the fraction which expresses the efficiency of the pumps, is
+not to be taken as the difference in level between the surface of the water
+in the reservoir and the surface of the water whence the pumps draw their
+supply; but as this difference in level, plus the loss of pressure in the
+suction pipe, which is usually very short, and plus the loss in the channel
+to the reservoir, which may be very long. A similar loss of initial
+pressure affects the efficiency of the discharge channel. The reservoir, if
+of sufficient capacity, may become an important store of power, while the
+compressed air reservoir can only do so to a very limited extent.
+
+Omitting the subject of the pumps, and passing on at once to the discharge
+main, the author may first point out that the distinction between the
+ascending and descending mains of the system is of no importance, for two
+reasons: first, that nothing prevents the motors being supplied direct from
+the first alone; and second, that the one is not always distinct from the
+other. In fact, the reservoir may be connected by a single branch pipe with
+the system which goes from the pumps to the motors; it may even be placed
+at the extreme end of this system beyond the motors, provided always that
+the supply pipe is taken into it at the bottom. The same formula may be
+adopted for the loss of initial pressure in water pipes as for compressed
+air pipes, viz.,
+
+  p1 - p      64 b1
+  ------- = --------- L Q squared +- h;
+  [Delta]   [pi] squared D^5
+
+[TEX: \frac{p_1 - p}{\Delta} = \frac{64 b_1}{\pi^2 D^5} L Q^2 \pm h]
+
+h being the difference of level between the two ends of the portion of
+conduit of length, L, and the sign + or - being used according as the
+conduit rises or falls. The specific weight, [delta], is constant, and the
+quotients, p1/[delta] and p/[delta], represent the heights, z and z1, to
+which the water could rise above the pipes, in vertical tubes branching
+from it, at the beginning and end of the transit. The values assigned to
+the coefficient b1 in France, are those determined by D'Arcy. For new
+cast-iron pipes he gives b1 - 0.0002535 + 1/D 0.000000647; and recommends
+that this value should be doubled, to allow for the rust and incrustation
+which more or less form inside the pipes during use. The determination of
+this coefficient has been made from experiments where the pressure has
+not exceeded four atmospheres; within these limits the value of the
+coefficient, as is generally admitted, is independent of the pressure. The
+experiments made by M. Barret, on the pressure pipes of the accumulator at
+the Marseilles docks, seem to indicate that the loss of pressure would be
+greater for high pressures, everything else being equal. This pipe, having
+a diameter of 0.127 m. (5 in.), was subjected to an initial pressure of 52
+atmospheres. The author gives below the results obtained for a straight
+length 320 m. (1050 ft) long; and has placed beside them the results which
+D'Arcy's formula would give.
+
+              Loss of head, in meters or ft. respectively
+                    per 100 meters or ft. run of pipes.
+                  +-----------------^-------------------+
+                  |                                     |
+                                     Calculated loss.
+                                +-----------^-----------+
+                                |                       |
+Velocity of flow  Actual loss
+   per second.     observed.    Old pipes.    New pipes.
+Meters.   Feet.   Met. or Ft.   Met. or Ft.   Met. or Ft.
+0.25      0.82        1.5           0.12         0.06
+0.50      1.64        2.5           0.48         0.24
+0.75      2.46        3.7           1.08         0.54
+1.00      3.28        5.5           1.92         0.96
+1.25      4.10        6.1           3.00         1.50
+1.50      4.92        7.3           4.32         2.16
+1.75      5.74        8.0           5.88         2.94
+2.00      6.56       10.2           7.68         3.84
+2.25      7.38       11.7           9.72         4.86
+2.50      8.20       14.0          12.00         6.00
+
+Moreover, these results would appear to indicate a different law from that
+which is expressed by the formula b1 u squared, as is easy to see by representing
+them graphically. It would be very desirable that fresh experiments should
+be made on water pipes at high pressure, and of various diameters. Of
+machines worked by water pressure the author proposes to refer only to two
+which appear to him in every respect the most practical and advantageous.
+One is the piston machine of M. Albert Schmid, engineer at Zurich. The
+cylinder is oscillating, and the distribution is effected, without an
+eccentric, by the relative motion of two spherical surfaces fitted one
+against the other, and having the axis of oscillation for a common axis.
+The convex surface, which is movable and forms part of the cylinder, serves
+as a port face, and has two ports in it communicating with the two ends of
+the cylinder. The concave surface, which is fixed and plays the part of a
+slide valve, contains three openings, the two outer ones serving to admit
+the pressure water, and the middle one to discharge the water after it has
+exerted its pressure. The piston has no packing. Its surface of contact has
+two circumferential grooves, which produce a sort of water packing acting
+by adhesion. A small air chamber is connected with the inlet pipe, and
+serves to deaden the shocks. This engine is often made with two cylinders,
+having their cranks at right angles.
+
+The other engine, which is much less used, is a turbine on Girard's system,
+with a horizontal axis and partial admission, exactly resembling in
+miniature those which work in the hydraulic factory of St. Maur, near
+Paris. The water is introduced by means of a distributer, which is fitted
+in the interior of the turbine chamber, and occupies a certain portion
+of its circumference. This turbine has a lower efficiency than Schmid's
+machine, and is less suitable for high pressures; but it possesses this
+advantage over it, that by regulating the amount of opening of the
+distributer, and consequently the quantity of water admitted, the force can
+be altered without altering the velocity of rotation. As it admits of great
+speeds, it could be usefully employed direct, without the interposition of
+spur wheels or belts for driving magneto-electric machines employed for the
+production of light, for electrotyping, etc.
+
+In compressed air machines the losses of pressure due to incomplete
+expansion, cooling, and waste spaces, play an important part. In water
+pressure machines loss does not occur from these causes, on account of the
+incompressibility of the liquid, but the frictions of the parts are the
+principal causes of loss of power. It would be advisable to ascertain
+whether, as regards this point, high or low pressures are the most
+advantageous. Theoretical considerations would lead the author to imagine
+that for a piston machine low pressures are preferable. In conclusion, the
+following table gives the efficiencies of a Girard turbine, constructed by
+Messrs. Escher Wyss & Co., of Zurich, and of a Schmid machine, as measured
+by Professor Fliegnor, in 1871:
+
+           ESCHER WYSS & CO'S TURBINE.
+
+Effective Head of Water.   Revolutions   Efficiency.
+                           per minute.
+Meters.     Feet.            Revs.       Per cent.
+ 20.7       67.9              628          68.5
+ 20.7       67.9              847          47.4
+ 24.1       79.0              645          68.5
+ 27.6       90.5              612          65.7
+ 27.6       90.5              756          68.0
+ 31.0      101.7              935          56.9
+ 31.0      101.7            1,130          35.1
+
+                  SCHMID MOTOR.
+
+  8.3       27.2              226          37.4
+ 11.4       37.4              182          67.4
+ 14.5       47.6              254          53.4
+ 17.9       58.7              157          86.2
+ 20.7       67.9              166          89.6
+ 20.7       67.9              225          74.6
+ 24.1       79.0              238          76.7
+ 24.1       79.0              389          64.0
+ 27.6       90.5              207          83.9
+
+It will be observed that these experiments relate to low pressures; it
+would be desirable to extend them to higher pressures.
+
+IV. _Transmission by Electricity._--However high the efficiency of an
+electric motor may be, in relation to the chemical work of the electric
+battery which feeds it, force generated by an electric battery is too
+expensive, on account of the nature of the materials consumed, for a
+machine of this kind ever to be employed for industrial purposes. If,
+however, the electric current, instead of being developed by chemical
+work in a battery, is produced by ordinary mechanical power in a
+magneto-electric or dynamo-electric machine, the case is different; and
+the double transformation, first of the mechanical force into an electric
+current, and then of that current into mechanical force, furnishes a means
+for effecting the conveyance of the power to a distance.
+
+It is this last method of transmission which remains to be discussed. The
+author, however, feels himself obliged to restrict himself in this matter
+to a mere summary; and, indeed, it is English physicists and engineers who
+have taken the technology of electricity out of the region of empiricism
+and have placed it on a scientific and rational basis. Moreover, they are
+also taking the lead in the progress which is being accomplished in this
+branch of knowledge, and are best qualified to determine its true bearings.
+When an electric current, with an intensity, i, is produced, either by
+chemical or mechanical work, in a circuit having a total resistance, R, a
+quantity of heat is developed in the circuit, and this heat is the exact
+equivalent of the force expended, so long as the current is not made use of
+for doing any external work. The expression for this quantity of heat, per
+unit of time, is Ai squaredR; A being the thermal equivalent of the unit of power
+corresponding to the units of current and resistance, in which i and R are
+respectively expressed. The product, i squaredR, is a certain quantity of power,
+which the author proposes to call _power transformed into electricity_.
+When mechanical power is employed for producing a current by means of
+a magneto-electric or dynamo-electric machine--or, to use a better
+expression, by means of a _mechanical generator of electricity_--it is
+necessary in reality to expend a greater quantity of power than i squaredR in
+order to make up for losses which result either from ordinary friction
+or from certain electro magnetic reactions which occur. The ratio of the
+quantity, i squaredR, to the power, W, actually expended per unit of time is
+called the efficiency of the generator. Designating it by K, we obtain, W
+= i squaredR/K. It is very important to ascertain the value of this efficiency,
+considering that it necessarily enters as a factor into the evaluation of
+all the effects to be produced by help of the generator in question. The
+following table gives the results of certain experiments made early in
+1879, with a Gramme machine, by an able physicist, M Hagenbach, Professor
+at the University at Basle, and kindly furnished by him to the author:
+
+Revolutions per minute                     935  919.5  900.5    893
+
+Total resistance in Siemens' units        2.55   3.82   4.94   6.06
+
+Total resistance in absolute units       2.435  3.648  4.718  5.787
+                                         x10^9  x10^9  x10^9  x10^9
+
+Intensity in chemical units              17.67  10.99   8.09   6.28
+
+Intensity in absolute units              2.828  1.759  1.295  1.005
+
+Work done i squaredR in absolute units         1948.6 1129.2  791.3  584.9
+                                         x10^7  x10^7  x10^7  x10^7
+
+Work done i squaredR in kilogrammes             198.6  115.1  80.66  59.62
+
+Power expended in kilogrammes            301.5  141.0  86.25  83.25
+
+Efficiency, per cent.                     65.9   81.6  93.5   71.6
+
+M. Hagenbach's dynamometric measurements were made by the aid of a brake.
+After each experiment on the electric machine, he applied the brake to the
+engine which he employed, taking care to make it run at precisely the same
+speed, with the same pressure of steam, and with the same expansion as
+during experiment. It would certainly be better to measure the force
+expended during and not after the experiment, by means of a registering
+dynamometer. Moreover, M. Hagenbach writes that his measurements by means
+of the brake were very much prejudiced by external circumstances; doubtless
+this is the reason of the divergences between the results obtained.
+
+About the same time Dr. Hopkinson communicated to this institution the
+results of some very careful experiments made on a Siemens machine. He
+measured the force expended by means of a registering dynamometer, and
+obtained very high coefficients of efficiency, amounting to nearly 90 per
+cent. M. Hagenbach also obtained from one machine a result only a little
+less than unity. Mechanical generators of electricity are certainly
+capable of being improved in several respects, especially as regards their
+adaptation to certain definite classes of work. But there appears to
+remain hardly any margin for further progress as regards efficiency. Force
+transformed into electricity in a generator may be expressed by i [omega] M
+C; [omega] being the angular velocity of rotation; M the magnetism of one
+of the poles, inducing or induced, which intervenes; and C a constant
+specially belonging to each apparatus, and which is independent of
+the units adopted. This constant could not be determined except by
+an integration practically impossible; and the product, M C, must be
+considered indivisible. Even in a magneto-electric machine (with permanent
+inducing magnets), and much more in a dynamo-electric machine (inducing by
+means of electro-magnets excited by the very current produced) the product,
+M C, is a function of the intensity. From the identity of the expressions,
+i squaredR and i [omega] M C we obtain the relation M C = IR/[omega] which
+indicates the course to be pursued to determine experimentally the law
+which connects the variations of M C with those of i. Some experiments made
+in 1876, by M. Hagenbach, on a Gramme dynamo-electric machine, appear to
+indicate that the magnetism, M C, does not increase indefinitely with the
+intensity, but that there is some maximum value for this quantity. If,
+instead of working a generator by an external motive force, a current is
+passed through its circuit in a certain given direction, the movable part
+of the machine will begin to turn in an opposite direction to that in which
+it would have been necessary to turn it in order to obtain a current in the
+aforesaid direction. In virtue of this motion the electro-magnetic forces
+which are generated may be used to overcome a resisting force. The machine

@@ -1,0 +1,441 @@
+that the ions which were in the midst of material molecules produce,
+as the result of collisions, new divisions in these last. Other ions
+are thus born, and this production is in part compensated for by
+recombinations between ions of opposite signs. The impacts will be
+more active in the event of the gas being placed in a field of force
+and of the pressure being slight, the speed attained being then
+greater and allowing the active force to reach a high value. The
+energy necessary for the production of an ion is, in fact, according
+to Professor Rutherford and Professor Stark, something considerable,
+and it much exceeds the analogous force in electrolytic decomposition.
+
+It is therefore in tubes of rarefied gas that this ionisation by
+impact will be particularly felt. This gives us the reason for the
+aspect presented by Geissler tubes. Generally, in the case of
+discharges, new ions produced by the molecules struck come to add
+themselves to the electrons produced, as will be seen, by the cathode.
+A full discussion has led to the interpretation of all the known
+facts, and to our understanding, for instance, why there exist bright
+or dark spaces in certain regions of the tube. M. Pellat, in
+particular, has given some very fine examples of this concordance
+between the theory and the facts he has skilfully observed.
+
+In all the circumstances, then, in which ions appear, their formation
+has doubtless been provoked by a mechanism analogous to that of the
+shock. The X rays, if they are attributable to sudden variations in
+the ether--that is to say, a variation of the two vectors of Hertz--
+themselves produce within the atom a kind of electric impulse which
+breaks it into two electrified fragments; _i.e._ the positive centre,
+the size of the molecule itself, and the negative centre, constituted
+by an electron a thousand times smaller. Round these two centres, at
+the ordinary temperature, are agglomerated by attraction other
+molecules, and in this manner the ions whose properties have just been
+studied are formed.
+
+
+Sec. 4. ELECTRONS IN METALS
+
+The success of the ionic hypothesis as an interpretation of the
+conductivity of electrolytes and gases has suggested the desire to try
+if a similar hypothesis can represent the ordinary conductivity of
+metals. We are thus led to conceptions which at first sight seem
+audacious because they are contrary to our habits of mind. They must
+not, however, be rejected on that account. Electrolytic dissociation
+at first certainly appeared at least as strange; yet it has ended by
+forcing itself upon us, and we could, at the present day, hardly
+dispense with the image it presents to us.
+
+The idea that the conductivity of metals is not essentially different
+from that of electrolytic liquids or gases, in the sense that the
+passage of the current is connected with the transport of small
+electrified particles, is already of old date. It was enunciated by W.
+Weber, and afterwards developed by Giese, but has only obtained its
+true scope through the effect of recent discoveries. It was the
+researches of Riecke, later, of Drude, and, above all, those of J.J.
+Thomson, which have allowed it to assume an acceptable form. All these
+attempts are connected however with the general theory of Lorentz,
+which we will examine later.
+
+It will be admitted that metallic atoms can, like the saline molecule
+in a solution, partially dissociate themselves. Electrons, very much
+smaller than atoms, can move through the structure, considerable to
+them, which is constituted by the atom from which they have just been
+detached. They may be compared to the molecules of a gas which is
+enclosed in a porous body. In ordinary conditions, notwithstanding the
+great speed with which they are animated, they are unable to travel
+long distances, because they quickly find their road barred by a
+material atom. They have to undergo innumerable impacts, which throw
+them first in one direction and then in another. The passage of a
+current is a sort of flow of these electrons in a determined
+direction. This electric flow brings, however, no modification to the
+material medium traversed, since every electron which disappears at
+any point is replaced by another which appears at once, and in all
+metals the electrons are identical.
+
+This hypothesis leads us to anticipate certain facts which experience
+confirms. Thus J.J. Thomson shows that if, in certain conditions, a
+conductor is placed in a magnetic field, the ions have to describe an
+epicycloid, and their journey is thus lengthened, while the electric
+resistance must increase. If the field is in the direction of the
+displacement, they describe helices round the lines of force and the
+resistance is again augmented, but in different proportions. Various
+experimenters have noted phenomena of this kind in different
+substances.
+
+For a long time it has been noticed that a relation exists between the
+calorific and the electric conductivity; the relation of these two
+conductivities is sensibly the same for all metals. The modern theory
+tends to show simply that it must indeed be so. Calorific conductivity
+is due, in fact, to an exchange of electrons between the hot and the
+cold regions, the heated electrons having the greater velocity, and
+consequently the more considerable energy. The calorific exchanges
+then obey laws similar to those which govern electric exchanges; and
+calculation even leads to the exact values which the measurements have
+given.[31]
+
+[Footnote 31: The whole of this argument is brilliantly set forth by
+Professor Lorentz in a lecture delivered to the Electrotechnikerverein
+at Berlin in December 1904, and reprinted, with additions, in the
+_Archives Neerlandaises_ of 1906.--ED.]
+
+In the same way Professor Hesehus has explained how contact
+electrification is produced, by the tendency of bodies to equalise
+their superficial properties by means of a transport of electrons, and
+Mr Jeans has shown that we should discover the existence of the
+well-known laws of distribution over conducting bodies in electrostatic
+equilibrium. A metal can, in fact, be electrified, that is to say, may
+possess an excess of positive or negative electrons which cannot
+easily leave it in ordinary conditions. To cause them to do so would
+need an appreciable amount of work, on account of the enormous
+difference of the specific inductive capacities of the metal and of
+the insulating medium in which it is plunged.
+
+Electrons, however, which, on arriving at the surface of the metal,
+possessed a kinetic energy superior to this work, might be shot forth
+and would be disengaged as a vapour escapes from a liquid. Now, the
+number of these rapid electrons, at first very slight, increases,
+according to the kinetic theory, when the temperature rises, and
+therefore we must reckon that a wire, on being heated, gives out
+electrons, that is to say, loses negative electricity and sends into
+the surrounding media electrified centres capable of producing the
+phenomena of ionisation. Edison, in 1884, showed that from the
+filament of an incandescent lamp there escaped negative electric
+charges. Since then, Richardson and J.J. Thomson have examined
+analogous phenomena. This emission is a very general phenomenon which,
+no doubt, plays a considerable part in cosmic physics. Professor
+Arrhenius explains, for instance, the polar auroras by the action of
+similar corpuscules emitted by the sun.
+
+In other phenomena we seem indeed to be confronted by an emission, not
+of negative electrons, but of positive ions. Thus, when a wire is
+heated, not _in vacuo_, but in a gas, this wire begins to electrify
+neighbouring bodies positively. J.J. Thomson has measured the mass of
+these positive ions and finds it considerable, i.e. about 150 times
+that of an atom of hydrogen. Some are even larger, and constitute
+almost a real grain of dust. We here doubtless meet with the phenomena
+of disaggregation undergone by metals at a red heat.
+
+
+
+
+CHAPTER IX
+
+CATHODE RAYS AND RADIOACTIVE BODIES
+
+
+Sec. 1. THE CATHODE RAYS
+
+A wire traversed by an electric current is, as has just been
+explained, the seat of a movement of electrons. If we cut this wire, a
+flood of electrons, like a current of water which, at the point where
+a pipe bursts, flows out in abundance, will appear to spring out
+between the two ends of the break.
+
+If the energy of the electrons is sufficient, these electrons will in
+fact rush forth and be propagated in the air or in the insulating
+medium interposed; but the phenomena of the discharge will in general
+be very complex. We shall here only examine a particularly simple
+case, viz., that of the cathode rays; and without entering into
+details, we shall only note the results relating to these rays which
+furnish valuable arguments in favour of the electronic hypothesis and
+supply solid materials for the construction of new theories of
+electricity and matter.
+
+For a long time it was noticed that the phenomena in a Geissler tube
+changed their aspect considerably, when the gas pressure became very
+weak, without, however, a complete vacuum being formed. From the
+cathode there is shot forth normally and in a straight line a flood
+within the tube, dark but capable of impressing a photographic plate,
+of developing the fluorescence of various substances (particularly the
+glass walls of the tube), and of producing calorific and mechanical
+effects. These are the cathode rays, so named in 1883 by E. Wiedemann,
+and their name, which was unknown to a great number of physicists till
+barely twelve years ago, has become popular at the present day.
+
+About 1869, Hittorf made an already very complete study of them and
+put in evidence their principal properties; but it was the researches
+of Sir W. Crookes in especial which drew attention to them. The
+celebrated physicist foresaw that the phenomena which were thus
+produced in rarefied gases were, in spite of their very great
+complication, more simple than those presented by matter under the
+conditions in which it is generally met with.
+
+He devised a celebrated theory no longer admissible in its entirety,
+because it is not in complete accord with the facts, which was,
+however, very interesting, and contained, in germ, certain of our
+present ideas. In the opinion of Crookes, in a tube in which the gas
+has been rarefied we are in presence of a special state of matter. The
+number of the gas molecules has become small enough for their
+independence to be almost absolute, and they are able in this
+so-called radiant state to traverse long spaces without departing
+from a straight line. The cathode rays are due to a kind of molecular
+bombardment of the walls of the tubes, and of the screens which can be
+introduced into them; and it is the molecules, electrified by their
+contact with the cathode and then forcibly repelled by electrostatic
+action, which produce, by their movement and their _vis viva_, all the
+phenomena observed. Moreover, these electrified molecules animated
+with extremely rapid velocities correspond, according to the theory
+verified in the celebrated experiment of Rowland on convection
+currents, to a true electric current, and can be deviated by a magnet.
+
+Notwithstanding the success of Crookes' experiments, many physicists--
+the Germans especially--did not abandon an hypothesis entirely
+different from that of radiant matter. They continued to regard the
+cathode radiation as due to particular radiations of a nature still
+little known but produced in the luminous ether. This interpretation
+seemed, indeed, in 1894, destined to triumph definitely through the
+remarkable discovery of Lenard, a discovery which, in its turn, was to
+provoke so many others and to bring about consequences of which the
+importance seems every day more considerable.
+
+Professor Lenard's fundamental idea was to study the cathode rays
+under conditions different from those in which they are produced.
+These rays are born in a very rarefied space, under conditions
+perfectly determined by Sir W. Crookes; but it was a question whether,
+when once produced, they would be capable of propagating themselves in
+other media, such as a gas at ordinary pressure, or even in an
+absolute vacuum. Experiment alone could answer this question, but
+there were difficulties in the way of this which seemed almost
+insurmountable. The rays are stopped by glass even of slight
+thickness, and how then could the almost vacuous space in which they
+have to come into existence be separated from the space, absolutely
+vacuous or filled with gas, into which it was desired to bring them?
+
+The artifice used was suggested to Professor Lenard by an experiment
+of Hertz. The great physicist had, in fact, shortly before his
+premature death, taken up this important question of the cathode rays,
+and his genius left there, as elsewhere, its powerful impress. He had
+shown that metallic plates of very slight thickness were transparent
+to the cathode rays; and Professor Lenard succeeded in obtaining
+plates impermeable to air, but which yet allowed the pencil of cathode
+rays to pass through them.
+
+Now if we take a Crookes tube with the extremity hermetically closed
+by a metallic plate with a slit across the diameter of 1 mm. in width,
+and stop this slit with a sheet of very thin aluminium, it will be
+immediately noticed that the rays pass through the aluminium and pass
+outside the tube. They are propagated in air at atmospheric pressure,
+and they can also penetrate into an absolute vacuum. They therefore
+can no longer be attributed to radiant matter, and we are led to think
+that the energy brought into play in this phenomenon must have its
+seat in the light-bearing ether itself.
+
+But it is a very strange light which is thus subject to magnetic
+action, which does not obey the principle of equal angles, and for
+which the most various gases are already disturbed media. According to
+Crookes it possesses also the singular property of carrying with it
+electric charges.
+
+This convection of negative electricity by the cathode rays seems
+quite inexplicable on the hypothesis that the rays are ethereal
+radiations. Nothing then remained in order to maintain this
+hypothesis, except to deny the convection, which, besides, was only
+established by indirect experiments. That the reality of this
+transport has been placed beyond dispute by means of an extremely
+elegant experiment which is all the more convincing that it is so very
+simple, is due to M. Perrin. In the interior of a Crookes tube he
+collected a pencil of cathode rays in a metal cylinder. According to
+the elementary principles of electricity the cylinder must become
+charged with the whole charge, if there be one, brought to it by the
+rays, and naturally various precautions had to be taken. But the
+result was very precise, and doubt could no longer exist--the rays
+were electrified.
+
+It might have been, and indeed was, maintained, some time after this
+experiment was published, that while the phenomena were complex inside
+the tube, outside, things might perhaps occur differently. Lenard
+himself, however, with that absence of even involuntary prejudice
+common to all great minds, undertook to demonstrate that the opinion
+he at first held could no longer be accepted, and succeeded in
+repeating the experiment of M. Perrin on cathode rays in the air and
+even _in vacuo_.
+
+On the wrecks of the two contradictory hypotheses thus destroyed, and
+out of the materials from which they had been built, a theory has been
+constructed which co-ordinates all the known facts. This theory is
+furthermore closely allied to the theory of ionisation, and, like this
+latter, is based on the concept of the electron. Cathode rays are
+electrons in rapid motion.
+
+The phenomena produced both inside and outside a Crookes tube are,
+however, generally complex. In Lenard's first experiments, and in many
+others effected later when this region of physics was still very
+little known, a few confusions may be noticed even at the present day.
+
+At the spot where the cathode rays strike the walls of the tube the
+essentially different X rays appear. These differ from the cathode
+radiations by being neither electrified nor deviated by a magnet. In
+their turn these X rays may give birth to the secondary rays of M.
+Sagnac; and often we find ourselves in presence of effects from these
+last-named radiations and not from the true cathode rays.
+
+The electrons, when they are propagated in a gas, can ionise the
+molecules of this gas and unite with the neutral atoms to form
+negative ions, while positive ions also appear. There are likewise
+produced, at the expense of the gas still subsisting after
+rarefication within the tube, positive ions which, attracted by the
+cathode and reaching it, are not all neutralised by the negative
+electrons, and can, if the cathode be perforated, pass through it, and
+if not, pass round it. We have then what are called the canal rays of
+Goldstein, which are deviated by an electric or magnetic field in a
+contrary direction to the cathode rays; but, being larger, give weak
+deviations or may even remain undeviated through losing their charge
+when passing through the cathode.
+
+It may also be the parts of the walls at a distance from the cathode
+which send a positive rush to the latter, by a similar mechanism. It
+may be, again, that in certain regions of the tube cathode rays are
+met with diffused by some solid object, without having thereby changed
+their nature. All these complexities have been cleared up by M.
+Villard, who has published, on these questions, some remarkably
+ingenious and particularly careful experiments.
+
+M. Villard has also studied the phenomena of the coiling of the rays
+in a field, as already pointed out by Hittorf and Pluecker. When a
+magnetic field acts on the cathode particle, the latter follows a
+trajectory, generally helicoidal, which is anticipated by the theory.
+We here have to do with a question of ballistics, and experiments duly
+confirm the anticipations of the calculation. Nevertheless, rather
+singular phenomena appear in the case of certain values of the field,
+and these phenomena, dimly seen by Pluecker and Birkeland, have been
+the object of experiments by M. Villard. The two faces of the cathode
+seem to emit rays which are deviated in a direction perpendicular to
+the lines of force by an electric field, and do not seem to be
+electrified. M. Villard calls them magneto-cathode rays, and according
+to M. Fortin these rays may be ordinary cathode rays, but of very
+slight velocity.
+
+In certain cases the cathode itself may be superficially
+disaggregated, and extremely tenuous particles detach themselves,
+which, being carried off at right angles to its surface, may deposit
+themselves like a very thin film on objects placed in their path.
+Various physicists, among them M. Houllevigue, have studied this
+phenomenon, and in the case of pressures between 1/20 and 1/100 of a
+millimetre, the last-named scholar has obtained mirrors of most
+metals, a phenomenon he designates by the name of ionoplasty.
+
+But in spite of all these accessory phenomena, which even sometimes
+conceal those first observed, the existence of the electron in the
+cathodic flux remains the essential characteristic.
+
+The electron can be apprehended in the cathodic ray by the study of
+its essential properties; and J.J. Thomson gave great value to the
+hypothesis by his measurements. At first he meant to determine the
+speed of the cathode rays by direct experiment, and by observing, in a
+revolving mirror, the relative displacement of two bands due to the
+excitement of two fluorescent screens placed at different distances
+from the cathode. But he soon perceived that the effect of the
+fluorescence was not instantaneous, and that the lapse of time might
+form a great source of error, and he then had recourse to indirect
+methods. It is possible, by a simple calculation, to estimate the
+deviations produced on the rays by a magnetic and an electric field
+respectively as a function of the speed of propagation and of the
+relation of the charge to the material mass of the electron. The
+measurement of these deviations will then permit this speed and this
+relation to be ascertained.
+
+Other processes may be used which all give the same two quantities by
+two suitably chosen measurements. Such are the radius of the curve
+taken by the trajectory of the pencil in a perpendicular magnetic
+field and the measure of the fall of potential under which the
+discharge takes place, or the measure of the total quantity
+of electricity carried in one second and the measure of the
+calorific energy which may be given, during the same period, to a
+thermo-electric junction. The results agree as well as can be expected,
+having regard to the difficulty of the experiments; the values of the
+speed agree also with those which Professor Wiechert has obtained by
+direct measurement.
+
+The speed never depends on the nature of the gas contained in the
+Crookes tube, but varies with the value of the fall of potential at
+the cathode. It is of the order of one tenth of the speed of light,
+and it may rise as high as one third. The cathode particle therefore
+goes about three thousand times faster than the earth in its orbit.
+The relation is also invariable, even when the substance of which the
+cathode is formed is changed or one gas is substituted for another. It
+is, on the average, a thousand times greater than the corresponding
+relation in electrolysis. As experiment has shown, in all the
+circumstances where it has been possible to effect measurements, the
+equality of the charges carried by all corpuscules, ions, atoms, etc.,
+we ought to consider that the charge of the electron is here, again,
+that of a univalent ion in electrolysis, and therefore that its mass
+is only a small fraction of that of the atom of hydrogen, viz., of the
+order of about a thousandth part. This is the same result as that to
+which we were led by the study of flames.
+
+The thorough examination of the cathode radiation, then, confirms us
+in the idea that every material atom can be dissociated and will yield
+an electron much smaller than itself--and always identical whatever
+the matter whence it comes,--the rest of the atom remaining charged
+with a positive quantity equal and contrary to that borne by the
+electron. In the present case these positive ions are no doubt those
+that we again meet with in the canal rays. Professor Wien has shown
+that their mass is really, in fact, of the order of the mass of atoms.
+Although they are all formed of identical electrons, there may be
+various cathode rays, because the velocity is not exactly the same for
+all electrons. Thus is explained the fact that we can separate them
+and that we can produce a sort of spectrum by the action of the
+magnet, or, again, as M. Deslandres has shown in a very interesting
+experiment, by that of an electrostatic field. This also probably
+explains the phenomena studied by M. Villard, and previously pointed
+out.
+
+
+Sec. 2. RADIOACTIVE SUBSTANCES
+
+Even in ordinary conditions, certain substances called radioactive
+emit, quite outside any particular reaction, radiations complex
+indeed, but which pass through fairly thin layers of minerals, impress
+photographic plates, excite fluorescence, and ionize gases. In these
+radiations we again find electrons which thus escape spontaneously
+from radioactive bodies.
+
+It is not necessary to give here a history of the discovery of radium,
+for every one knows the admirable researches of M. and Madame Curie.
+But subsequent to these first studies, a great number of facts have
+accumulated for the last six years, among which some people find
+themselves a little lost. It may, perhaps, not be useless to indicate
+the essential results actually obtained.
+
+The researches on radioactive substances have their starting-point in
+the discovery of the rays of uranium made by M. Becquerel in 1896. As
+early as 1867 Niepce de St Victor proved that salts of uranium
+impressed photographic plates in the dark; but at that time the
+phenomenon could only pass for a singularity attributable to
+phosphorescence, and the valuable remarks of Niepce fell into
+oblivion. M. Becquerel established, after some hesitations natural in
+the face of phenomena which seemed so contrary to accepted ideas, that
+the radiating property was absolutely independent of phosphorescence,
+that all the salts of uranium, even the uranous salts which are not
+phosphorescent, give similar radiant effects, and that these phenomena
+correspond to a continuous emission of energy, but do not seem to be
+the result of a storage of energy under the influence of some external
+radiation. Spontaneous and constant, the radiation is insensible to
+variations of temperature and light.
+
+The nature of these radiations was not immediately understood,[32] and
+their properties seemed contradictory. This was because we were not
+dealing with a single category of rays. But amongst all the effects
+there is one which constitutes for the radiations taken as a whole, a
+veritable process for the measurement of radioactivity. This is their
+ionizing action on gases. A very complete study of the conductivity of

@@ -1,0 +1,466 @@
+
+The heat generated in the furnace is utilized to the utmost, and the
+escaping vapors form a steam jacket in the double casing of the
+disinfecting chamber. The method of manipulation reduces the danger of
+contagion to a minimum, as the clothes or bedding are placed in
+specially constructed sacks in the sick chamber itself, and, after
+being tightly closed, the sacks are removed and hung in the
+disinfector. The stationary apparatus, which is constructed to
+disinfect four complete suits of clothes, including underlinen, or one
+complete set of bedding, including mattress, is specially adapted for
+hospitals, barracks, jails, etc. Its dimensions can easily be
+increased, but the size shown has proved itself, from an economical
+point of view, the best, as, where the quantity of articles to be
+disinfected varies, several apparatus can be erected at a less cost
+than one large one, and one or more be heated as the quantity of
+infected articles be small or large. In the accompanying drawing A is
+the boiler, which is filled by pouring water into the reservoir, B,
+until the same, entering the boiler at its lowest part through the
+tube, C, rises to the desired height in the water gauge, G. C acts
+also in the place of a safety valve. D is the fire space, E a movable
+grate, and F the coal hopper. The fuel consists of charcoal or coke.
+The boiler is emptied by the cock, H. I is a steam pipe connecting the
+steam space with the hot air tube, L¹. K is an auxiliary pipe to admit
+the steam into the chimney during stoppage for emptying and recharging
+the disinfecting chamber in continuous working. The admission of air
+is regulated by the handle, L, and the draught in the chimney, M, by
+the handle, N. O is the disinfecting chamber inclosed by the space, P,
+which acts at the same time as a steam jacket and as a channel for
+the downward passage of the vapors escaping from the chamber through
+the outlets, S. The lower portion of the disinfecting chamber, Q, is
+funnel-shaped for the better mixture and distribution of the steam and
+hot air, and to collect any condensation water. Q¹ is a sieve to catch
+any fallen article. The vertical tubes, S, which serve at the same
+time to strengthen the chamber, connect the lower portion of the steam
+jacket, P, with the circular channel, T, which is again connected with
+the chimney, M, by the tube, T'. The disinfection chamber is
+hermetically closed by the double cover, R, to the lower plate of
+which hooks for hanging the sacks are fastened. The cover fits in a
+sand bath, and is raised and lowered by means of the pulley chain, W,
+and the swinging crane, X. U is a thermometer indicating the
+temperature of the steam and hot air in the disinfecting chamber, V a
+cock for drawing off any condensation water, Y a battery connected
+with an electrical thermometer to be placed in the clothes or bedding,
+and Z the sacks in which the infected articles are hung.
+
+The portable apparatus, as shown, for heating with gas, or even
+spirits of wine, can also be heated with a similar steam and hot air
+apparatus as the stationary disinfector. In country towns or villages,
+or even in cities, whose architectural arrangements permit, the
+portable disinfector can easily be drawn by one man into the courtyard
+or garden of any house, and the process of disinfection conducted on
+the spot. Its usefulness in campaigns for ambulance hospitals is
+self-evident. The letters denoting the several parts are the same as
+in the stationary apparatus. The portable disinfector is constructed
+to disinfect two complete suits of clothes or one mattress. The
+extremely favorable results are shown in the accompanying table of
+trials.--_The Engineer._
+
+
+TABLE OF RESULTS WITH WM. E. THURSFIELD'S STEAM AND HOT AIR DISINFECTORS.
+
+Part 1. Portable Apparatus.
+__________________________________________________________________________________
+                                        |    |    |    |    |    |     |     |
+Series of Trials.                       | I. |II. |III.| IV.| V. | VI. | VII.|VIII.
+----------------------------------------+----+----+----+----+----+-----+-----+----
+Contents of boiler, in gallons          |3.85|4.18| -  |4.18|4.18| 4.18| 5.7 |5.7
+Water added during the process          | -  |1.54| -  | -  | -  |  -  | 1.4 |0.6
+Temperature of water      degs. Fah.    | -  | -  | -  | 72 | 57 |  54 |  43 |132
+Firing commenced with spirits of        |    |    |    |    |    |     |     |
+  wine at                     hours min.| -  |2.12|9.10|4.30| -  |10.0 |  -  | -
+Firing commenced with gas at       "    |1.30| -  | -  | -  |3.0 |  -  |  -  | -
+Firing commenced with coke at      "    | -  | -  | -  | -  | -  |  -  |  -  |1.10
+Firing commenced with charcoal at  "    | -  | -  | -  | -  | -  |  -  |10.12|
+Steam generated at                 "    | -  |2.34|9.28|4.41|3.15|10.18|10.35|1.34
+212 deg. in chamber registered by       |    |    |    |    |    |     |     |
+ external thermometer at           "    |2.30|2.40|9.34| -  | -  |  -  |10.50|1.52
+212 deg. in clothes registered by       |    |    |    |    |    |     |     |
+ electrical thermometer at         "    | -  | -  | -  |5.25|4.18|12.12|  -  | -
+221 deg. in clothes registered by       |    |    |    |    |    |     |     |
+ electrical thermometer at         "    | -  | -  | -  | -  | -  |  -  |11.51|2.34
+Highest temperature in chamber          |    |    |    |    |    |     |     |
+ registered by external thermometer deg.| -  |270 |250 | -  |324 | 255 | 302 |275
+Mean temperature in chamber             |    |    |    |    |    |     |     |
+ registered by external thermometer  "  |241 |257 |239 |266 | -  | 253 | 266 |266
+Trial closed at          hours, min.    |4.45|4.10|11.4|5.45|4.30|12.30|11.51|2.35
+Max. therm. registered in mattress  deg.|262 | -  |  - | -  | -  |  -  |  -  | -
+Max. therm. registered in overcoat     "| -  |239 | 226| -  | -  |  -  | 223 |223
+Max. therm. registered in winter coat  "| -  | -  |  - |232 |223 | 214 |  -  | -
+Max. therm. regis'd in winter trousers "| -  |243 | 239| -  | -  |  -  |  -  | -
+Max. therm. regis'd in summer trousers "| -  |246 | 252| -  | -  |  -  |  -  | -
+Time required to generate steam min.    | -  | 22 |  18| 11 | 15 |  18 |  23 | 24
+Time required to generate 212 deg.      |    |    |    |    |    |     |     |
+ in chamber                       "     | 60 | 28 |  24| -  | -  |  -  |  38 | 42
+Time required to generate 212 deg.      |    |    |    |    |    |     |     |
+ in clothes                       "     | -  | -  |  - | 55 | 78 | 132 |  -  | -
+Time required to generate 221 deg.      |    |    |    |    |    |     |     |
+ in clothes                       "     | -  | -  |  - | -  | -  |  -  |  99 | 85
+Total duration of process         "     |135 |118 | 114| 75 | 90 | 150 |  99 | 85
+Water evaporated, in gallons            | -  | -  |  - |1.65|1.90| 2.75| 4.3 |3.3
+Consumption of spirits of wine pints    | -  | -  |  - |3.0 | -  | 9.6 |  -  | -
+Consumption of gas, in cubic feet       | -  | -  |  - | -  | 70 |  -  |  -  | -
+Consumption of cokes, in cbs            | -  | -  |  - | -  | -  |  -  |  -  |  6
+Consumption of charcoal, in cbs         | -  | -  |  - | -  | -  |  -  | 8.8 | -
+----------------------------------------+----+----+----+----+----+-----+-----+----
+
+Part 2. Stationary Apparatus.
+__________________________________________________________________________________
+                                        |     |     |     |     |     |     |
+Series of Trials.                       | IX. |  X. | XI. | XII.|XIII.| XIV.| XV.
+----------------------------------------+-----+-----+-----+-----+-----+-----+-----
+Contents of boiler, in gallons          |10.0 |10.0 |10.0 |10.0 |10.0 |10.0 |10.0
+Water added during the process          | 4.3 |  -  |  -  | 7.4 | 1.4 |  -  |  -
+Temperature of water      degs. Fah.    |  54 |  46 | 176 |  43 |  43 |  43 | 104
+Firing commenced with spirits of        |     |     |     |     |     |     |
+  wine at                    hours min. |  -  |  -  |  -  |  -  |  -  |  -  |  -
+Firing commenced with gas at       "    |  -  |  -  |  -  |  -  |  -  |  -  |  -
+Firing commenced with coke at      "    |  -  | 8.15| 1.13| 1.43| 2.54|  -  |  -
+Firing commenced with charcoal at  "    | 2.15|  -  |  -  |  -  |  -  | 8.43|10.16
+Steam generated at                 "    | 2.38| 8.53| 1.20| 2.3 | 3.19| 9.3 |10.23
+212 deg. in chamber registered by       |     |     |     |     |     |     |
+ external thermometer at           "    | 2.45| 9.3 | 1.28| 2.18| 3.37| 9.12|10.31
+212 deg. in clothes registered by       |     |     |     |     |     |     |
+ electrical thermometer at         "    |  -  |  -  | 1.55|  -  |  -  |  -  |  -
+221 deg. in clothes registered by       |     |     |     |     |     |     |
+ electrical thermometer at         "    |  -  |  -  |  -  | 3.50| 4.26|10.4 |12.03
+Highest temperature in chamber          |     |     |     |     |     |     |
+ registered by external thermometer deg.| 293 | 320 | 284 | 284 | 302 | 284 | 275
+Mean temperature in chamber             |     |     |     |     |     |     |
+ registered by external thermometer   " | 284 | 284 | 266 | 266 | 284 | 266 | 266
+Trial closed at           hours, min    | 4.30|11.0 | 2.10| 3.50| 4.35|10.10|12.03
+Max. therm. registered in mattress  deg.|  -  |  -  |  -  |  -  |  -  |  -  |  -
+Max. therm. registered in overcoat     "| 253 | 244 | 226 |  -  |  -  |  -  | 223
+Max. therm. registered in winter coat  "|  -  |  -  |  -  | 230 | 232 | 223 |  -
+Max. therm. regis'd in winter trousers "| 262 |  -  | 253 |  -  |  -  |  -  |  -
+Max. therm. regis'd in summer trousers  | 280 |  -  | 264 |  -  |  -  |  -  |  -
+Time required to generate steam    min  |  23 |  38 |   7 |  20 |  25 |  20 |   7
+Time required to generate 212 deg.      |     |     |     |     |     |     |
+ in chamber                         "   |  30 |  48 |  15 |  35 |  43 |  29 |  15
+Time required to generate 212 deg.      |     |     |     |     |     |     |
+ in clothes                         "   |  -  |  -  |  42 |  -  |  -  |  -  |  -
+Time required to generate 221 deg.      |     |     |     |     |     |     |
+ in clothes                         "   |  -  |  -  |  -  | 127 |  92 |  81 | 107
+Total duration of process           "   | 135 | 105 |  57 | 127 | 101 |  87 | 107
+Water evaporated, in gallons            | 6.93|  -  |  -  | 9.24|  -  | 3.63| 4.84
+Consumption of spirits of wine pints    |  -  |  -  |  -  |  -  |  -  |  -  |  -
+Consumption of gas, in cubic feet       |  -  |  -  |  -  |  -  |  -  |  -  |  -
+Consumption of cokes, in cbs            |  -  |  -  | 8.8 |16.5 |  -  |  -  |  -
+Consumption of charcoal, in cbs         |  -  |  -  |  -  |  -  |  -  |14.3 |13.8
+----------------------------------------+-----+-----+-----+-----+-----+-----+-----
+
+N.B.--In every case, even in the trials V. and X., in which the
+temperature in the disinfecting chamber rose above 320 deg. Fah., the
+clothes, owing to the complete saturation of the hot air with live
+steam, remained absolutely unimpaired.
+
+The column "water evaporated" shows the quantity of live steam passing
+through the disinfecting chamber averages 13 cubic feet per minute
+with gas or spirits, and 22 cubic feet with charcoal or coke in the
+portable and 33 cubic feet in the stationary apparatus. Trials VI.,
+VII., and VIII. took place in open air.
+
+According to trial XII., from 28 to 30 complete suits of clothes can
+be disinfected at an expenditure of about 75 cbs. of coke per diem.
+
+       *       *       *       *       *
+
+
+
+
+DRAWING INSTRUMENT FOR ACCURATE WORK.
+
+BY J. LEHRKE.
+
+
+This arrangement consists in a cylindrical metal or horn mounted lens
+two to four centimeters long, and magnifying two or three times, and
+two or three centimeters in diameter, whose side is provided with a
+contrivance for holding after it has been pushed into place a copying
+needle, a protractor, etc.
+
+While hitherto the architect in using millimeter paper must hold
+separately in his hands a magnifying glass and needle, while the
+engraver holds the engraving tool inclined in one hand and the
+magnifying glass in the other, or must work under a large lens
+standing on three feet, it is now possible by a firm connection
+between the lens and needle or other instrument to draw directly with
+one hand and under the lens. In the accompanying cut one of these
+lenses is shown in section, A, in which the glass is set obliquely, in
+whose focus the needle, _a_, is held and the field of view is
+enlarged. A longer description is unnecessary, as the illustration
+gives the best explanation. It need only be remarked that the stud,
+_s_, projecting a little near the glass, is for the purpose of
+preventing the instrument from leaving the position coinciding with
+the plane of the drawing. For architects and engineers is provided a
+small compass, _b_, of about 2 cm. diameter, for laying off parallel
+widths, for making smaller scales and the like. In these cases it is
+substituted for the needle. In like manner for calculating cross
+profiles by graphical methods, for reading parallel divisions, for
+estimating areas, or revising maps, a finely divided prismatic ivory
+rule, _c_, can be placed under the glass, B, and will do good service.
+In this case the plane of the lens must be perpendicular to the axis
+of the tube.
+
+[Illustration: IMPROVED DRAWING INSTRUMENT.]
+
+For draughtsmen a parallel drawing pen, something like _b_, is used,
+which gives several lines at once, perfectly parallel and close
+together; or a drawing pen with which the smallest signatures, such as
+boundary stones and figures, can be made neatly and exactly, which is
+secured like the needle, _a_, and for which the cylinder serves also
+as pen holder, offers a great advance.
+
+Thus a whole series of instruments can be used with the lens. For
+instance, a naturalist can use with it a knife or other instrument. To
+avoid injury from the instruments, one should, in laying down the
+cylinder, place it on its side. It is also recommended that on the
+outer tube of the frame, which is appropriately lacquered of black
+color, white arrows should be placed in the direction of the points of
+the instrument, so that the eyes shall be protected from injury in
+handling the instrument, as by the points being stuck into the pupil,
+owing to lifting the instrument in an inverted position.--_Zeitschrift
+fur Instrumentenkunde._
+
+       *       *       *       *       *
+
+
+
+
+BARLOW'S MACHINE FOR MOULDING CANDLES.
+
+
+That style of machine for moulding candles in which the candles are
+forced out at the top by means of a piston is the one most employed,
+and it is an apparatus of this kind that we illustrate herewith. In
+its construction, this apparatus presents some important improvements
+in detail which it is of interest to set forth. The improvements made
+by the Messrs. Barlow have been studied with a view of manufacturing
+candles with conical ends, adapted to all chandeliers, without
+interfering with rapidity of production or increasing the net cost.
+
+These gentlemen have likewise so simplified the continuous system of
+drawing the wick along as to prevent any loss of cotton. In the next
+place, the structure of the moulds, properly so called, is new.
+Instead of being cast, as is usually the case, they are rolled and
+drawn out, thus giving them smooth surfaces and permitting of their
+being soldered, are assembled by means of threaded bronze sockets. The
+engravings between Figs. 3 and 4 show these two modes of fixation. At
+_a_ may be seen the old method of junction by soldering, and at _b_
+the screwing of the moulds into the socket. This machine consists of a
+box which is alternately heated and cooled, and which is fixed upon a
+frame, A, at the lower part of which are located the wick bobbins, E.
+Toward the top of the machine there is a mechanism for actuating the
+two pairs of jaws, B, which grasp the candles forced upward by the
+play of the pistons, D. This mechanism, which is controlled by a
+lever, acts by means of an eccentric.
+
+[Illustration: Figs. 1 and 2. BARLOW'S CANDLE MOULDING MACHINE.]
+
+The pistons, D, are hollow, and are provided above with pieces which
+form the small end of the candles. Instead of using tin, as is usually
+done, the Messrs. Barlow employ galvanized iron in the construction of
+these pistons, and mount them through screw rings--no soldering being
+used. For this reason, any workman whatever can quickly replace one of
+the tubes. All the pistons are placed upon a horizontal table, which
+is made to rise and descend at will, in order to regulate the length
+of the candles and remove them from the mould. A winch transmits the
+motion which is communicated to it to two pairs of pinions that gear
+with racks fixed to the frame to lift the table that supports the
+pistons. How these latter are mounted may be seen from an inspection
+of Figs. 3 to 5. This new arrangement of spiral springs for the
+purpose is designed to hold the pistons on the table firmly, and at
+the same time to prevent the shock that their upper ends might undergo
+in case of an abrupt turn of the winch. Moreover, the forged iron
+plate, H, is not exposed to breakage as it is in other machines, where
+it is of cast iron. The bobbins already mentioned revolve upon strong
+iron rods, and the moving forward of the wick in the moulds is
+effected automatically by the very fact of the manufactured candles'
+being forced out. These latter are held in position through the double
+play of the jaws, B, while the stearic acid is flowing into the upper
+part of the moulds. The cotton wick is thus drawn along and kept in
+the axis of the candles.
+
+[Illustration: Figs. 3, 4, 5. BARLOW'S CANDLE MOULDING MACHINE.]
+
+One peculiarity of the machine consists in the waste system applied to
+the mould box. Steam or hot or cold water is sent into the latter
+through the conduit, L, starting from a junction between pipes
+provided with cocks. When the water contained in the box is in excess,
+it flows out through the waste pipes, G, which terminate in a single
+conduit. Owing to the branchings at T, and to the cocks of the
+conduits that converge at L, it is very easy to vary the temperature
+of the box at will. The warm or cold water or steam may be admitted or
+shut off simultaneously.
+
+When first beginning operations, the wick is introduced into each
+mould by hand. The piston table is raised by means of the winch, and
+is held in this position through the engaging of a click with a
+ratchet on the windlass. A fine iron rod long enough to reach beneath
+the pistons and catch the end of the wick is next introduced. After
+this is removed, the wick is fixed once for all, and in any way
+whatever, to the top of the mould. This operation having been
+accomplished, the piston table is lowered, and the machine is ready to
+receive the stearic acid. The moulds are of tin and are open at both
+ends. In order to facilitate the removal of the candles, they are made
+slightly conical. When the candles have hardened, the ends are
+equalized with a wooden or tin spatula, and then the piston table is
+raised. At this instant, the jaws, B, are closed so as to hold the
+candles in place. The latter, in rising, pull into the mould a new
+length of wick, well centered. A slight downward tension is exerted
+upon the wick by hand, then a new operation is begun. During this
+time, the candles held between the jaws having become hard, their
+wicks are now cut by means of the levers, C, and they are removed from
+the machine and submitted to a finishing process.--_Revue
+Industrielle._
+
+       *       *       *       *       *
+
+
+
+
+A NEW ALKALI PROCESS.
+
+
+In several former notes and articles in these pages, we have spoken of
+the severe crisis through which the old established, or "Leblanc,"
+process has now for some years been passing. It is, in fact, pushed
+well nigh out of the running by the newer process, known as the
+"ammonia-soda" process, and would have had to give up the battle
+before now were it not for the fact that one of its by-products,
+bleaching powder, cannot, so far, be produced at all by the
+ammonia-soda works. The bleaching powder trade has thus remained in
+the hands of the workers of the Leblanc process, and its sale has
+enabled them to cover much of the loss which they are suffering on the
+manufacture of soda ash and caustic soda.
+
+In brief outline, the old Leblanc process consists in the following
+operations: Salt is decomposed and boiled down with sulphuric acid.
+Sulphate of sodium is formed, and a large amount of hydrochloric acid
+is given off. This is condensed, and is utilized in the manufacture of
+the bleaching powder mentioned above. The sulphate of sodium, known as
+"salt cake," is mixed with certain proportions of small coal and
+limestone, and subjected to a further treatment in a furnace, by which
+a set of reactions take place, causing the conversion of the sulphate
+of sodium of the "salt cake" into carbonate of sodium, a quantity of
+sulphide of calcium being produced at the same time. The mass
+resulting from this process is known as "black ash." It is extracted
+with water, which dissolves out the carbonate of sodium, which is sold
+as such or worked into "caustic" soda, as may be required. The
+insoluble residue is the "alkali waste," which forms the vast piles,
+so hideous to look at and so dreadful to smell, which surround our
+large alkali works.
+
+The sulphuric acid required for the conversion of the salt into "salt
+cake" is made by the alkali manufacturer himself, this manufacture
+necessitating a large plant of "lead chambers" and accessories, and
+keeping up an immense trade in pyrites from Spain and Portugal. The
+development of the alkali trade in this country has been something
+colossal, and the interests involved in it and connected with it are
+so great that anything affecting it may safely be said to be of truly
+national importance, quite apart from what technical interest it may
+possess.
+
+The "ammonia-soda" process, which has played such havoc with the old
+style of manufacture, proceeds on totally different lines. Briefly
+stated, it depends on the fact that if a solution of salt in water is
+mixed with bicarbonate of ammonium, under proper conditions, a
+reaction takes place by which the salt, or chloride of sodium, is
+converted at once into bicarbonate of sodium, the bicarbonate of
+ammonium being at the same time converted into chloride of ammonium.
+
+The bicarbonate of sodium settles out at once as insoluble crystals,
+easily removed, marketable at once as such, or easily converted into
+simple carbonate of sodium, and further into caustic soda, as in the
+ordinary "old" process. The residual chloride of ammonium is
+decomposed by distillation with lime, giving ammonia for reconversion
+into bicarbonate of ammonium, and chloride of calcium, which is a
+waste product.
+
+The maker of "ammonia" soda works direct on the brine, as pumped from
+the salt fields. His plant is simpler and less costly, and he arrives
+at his first marketable product much more rapidly and with very much
+lower working costs than the maker of Leblanc soda, in spite of all
+the great mechanical improvements which have of late years been
+introduced into the old process, and which have cheapened its work.
+
+The original patents on the use of ammonium bicarbonate have, we
+understand, long since expired. But the working details of the process
+and much of the most successful apparatus have undergone great
+development and improvement during late years, all the important
+points being covered by patents still in force, and mainly, if not
+wholly, in the hands of the one large firm which is now carrying on
+the manufacture in this country, and is controlling the market.
+
+The one weak spot of the ammonia-soda process, as we mentioned before,
+is its inability to supply hydrochloric acid or chlorine, and so allow
+of making bleaching powder. Time after time it has been announced
+positively that the problem was solved, that the ammonia-soda makers
+had devised a method of producing hydrochloric acid or chlorine, or
+both, without the use of sulphuric acid. But the announcements have so
+far proved baseless, and at present the Leblanc makers are getting
+incredulous, and do not much excite themselves over new statements of
+the kind, though they know that if once their rivals had this weapon
+in their hands the battle would be over and the Leblanc process doomed
+to rapid extinction.
+
+Such is at present the state of the struggle in this great industry,
+and the above outline sketch of the two processes is designed to give
+some idea of the conditions to such of our readers as may not have any
+special knowledge of these manufactures.
+
+At the present moment great interest is being taken in a new process,
+about to be put to work on a large scale, which is designed to take up
+the cudgels against the ammonia process and enable the Leblanc makers
+to continue the fight on something more like equal terms.
+
+We allude to the process proposed and patented by Messrs. Parnell &
+Simpson, and about to be worked by the "Lancashire Alkali and Sulphur
+Company," at Widnes. We recently had the opportunity of inspecting
+fully the plant erected, and of having the method of procedure
+explained to us. We look upon the new process as such a spirited
+attempt to turn the tide of a long and losing battle, and as so very
+interesting on its own merits, that an account of it in these pages
+will be thoroughly in place.
+
+The main idea of the process is to combine the "Leblanc" and the
+"ammonia-soda" manufacture. But in place of using caustic lime to
+decompose the ammonium chloride and get back the ammonia, the "alkali
+waste" spoken of above is employed, it being found that not only is
+the ammonia driven off, but that also the sulphur in the "waste" is
+obtained in a form allowing of its easy utilization, it and the
+ammonia combining to form ammonium sulphide, which passes over in
+gaseous form from the decomposing apparatus. This ammonium sulphide
+is, as we shall see, quite as available for the working of the
+ammonia-soda manufacture as pure and simple ammonia, and all the
+sulphur can be obtained from it.
+
+In outline the process is as follows: We will suppose that a quantity
+of bicarbonate of sodium has been just precipitated from a brine
+solution, and we have the residual ammonium chloride to deal with.
+This is decomposed by "alkali waste," giving a final liquor of calcium
+chloride, which is run to waste, and a quantity of ammonium sulphide
+gas. This latter is led at once into a solution of salt in water, till
+saturation takes place. Into this liquor of brine and ammonium
+sulphide _pure_ carbonic acid gas is now passed. The ammonium sulphide
+is decomposed, pure sulphureted hydrogen gas is given off, which is
+conducted to a gas holder and stored, while ammonium bicarbonate is
+formed in the liquor, which brings about the conversion of the salt
+into bicarbonate of sodium, ready for removal and preparation for the
+market.
+
+It will be observed that we printed the word _pure_ in italics in
+speaking of the carbonic acid used. This is one of the great points in
+the process, as in order that the sulphureted hydrogen gas obtained
+shall be concentrated and pure, only pure carbonic acid can be used in
+liberating it. The apparatus employed in its preparation is perhaps
+the most ingenious part of the works, and well worthy of attention by
+others besides alkali makers. The method is based on the fact that if
+dilute impure carbonic acid is passed into a solution of carbonate of
+sodium, the carbonic acid is absorbed, bicarbonate of sodium being
+formed, and the diluting gases passing away.
+
+The bicarbonate of sodium on heating gives up the extra carbonic acid,
+which can be collected and stored pure, while the liquor passes back
+to simple carbonate of sodium, to be used over again as an absorbent.
+This is not at all new in theory, of course, nor is this the first

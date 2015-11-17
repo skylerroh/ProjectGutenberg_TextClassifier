@@ -1,0 +1,452 @@
+the southerly. It follows of course from this, that when it is summer in
+the northern hemisphere it is winter in the southern, and _vice versa_
+(see Fig. 13, p. 176).
+
+[Illustration: FIG. 13.--Summer and Winter.]
+
+The fact that, in consequence of this slant of the earth's axis, the sun
+is for part of the year on the north side of the equator and part of the
+year on the south side, leads to a very peculiar result. The path of the
+moon around the earth is nearly on the same plane with the earth's path
+around the sun. The moon, therefore, always keeps to the same regions of
+the sky as the sun. The slant of the earth's axis thus regularly
+displaces the position of both the sun and the moon to the north and
+south sides of the equator respectively in the manner we have been
+describing. Were the earth, however, a perfect sphere, such change of
+position would not produce any effect. We have shown, however, that the
+earth is not a perfect sphere, but that it is bulged out all round the
+equator. The result is that this bulged-out portion swings slowly under
+the pulls of solar and lunar gravitation, in response to the
+displacements of the sun and moon to the north and to the south of it.
+This slow swing of the equatorial regions results, of course, in a
+certain slow change of the direction of the earth's axis, so that the
+north pole does not go on pointing continually to the same region of the
+sky. The change in the direction of the axis is, however, so extremely
+slight, that it shows up only after the lapse of ages. The north pole of
+the heavens, that is, the region of the sky towards which the north pole
+of the earth's axis points, displaces therefore extremely slowly,
+tracing out a wide circle, and arriving back again to the same position
+in the sky only after a period of about 25,000 years. At present the
+north pole of the heavens is quite close to a bright star in the tail of
+the constellation of the Little Bear, which is consequently known as the
+Pole Star; but in early Greek times it was at least ten times as far
+away from this star as it is now. After some 12,000 years the pole will
+point to the constellation of Lyra, and Vega, the most brilliant star in
+that constellation, will then be considered as the pole star. This slow
+twisting of the earth's axis is technically known as _Precession_, or
+the _Precession of the Equinoxes_ (see Plate XIX., p. 292).
+
+The slow displacement of the celestial pole appears to have attracted
+the attention of men in very early times, but it was not until the
+second century B.C. that precession was established as a fact by the
+celebrated Greek astronomer, Hipparchus. For the ancients this strange
+cyclical movement had a mystic significance; and they looked towards the
+end of the period as the end, so to speak, of a "dispensation," after
+which the life of the universe would begin anew:--
+
+"Magnus ab integro saeclorum nascitur ordo.
+Jam redit et Virgo, redeunt Saturnia regna;
+   .      .      .      .      .      .
+Alter erit tum Tiphys, et altera quae vehat Argo
+Delectos heroas; erunt etiam altera bella,
+Atque iterum ad Trojam magnus mittetur Achilles."
+
+We have seen that the orbit of the earth is an ellipse, and that the sun
+is situated at what is called the _focus_, a point not in the middle of
+the ellipse, but rather towards one of its ends. Therefore, during the
+course of the year the distance of the earth from the sun varies. The
+sun, in consequence of this, is about 3,000,000 miles _nearer_ to us in
+our northern _winter_ than it is in our northern summer, a statement
+which sounds somewhat paradoxical. This variation in distance, large as
+it appears in figures, can, however, not be productive of much
+alteration in the amount of solar heat which we receive, for during the
+first week in January, when the distance is least, the sun only looks
+about _one-eighteenth_ broader than at the commencement of July, when
+the distance is greatest. The great disparity in temperature between
+winter and summer depends, as we have seen, upon causes of quite another
+kind, and varies between such wide limits that the effects of this
+slight alteration in the distance of the sun from the earth may be
+neglected for practical purposes.
+
+The Tides are caused by the gravitational pull of the sun and moon upon
+the water of the earth's surface. Of the two, the moon, being so much
+the nearer, exerts the stronger pull, and therefore may be regarded as
+the chief cause of the tides. This pull always draws that portion of the
+water, which happens to be right underneath the moon at the time, into a
+heap; and there is also a _second_ heaping of water at the same moment
+_at the contrary side of the earth_, the reasons for which can be shown
+mathematically, but cannot be conveniently dealt with here.
+
+As the earth rotates on its axis each portion of its surface passes
+beneath the moon, and is swelled up by this pull; the watery portions
+being, however, the only ones to yield visibly. A similar swelling up,
+as we have seen, takes place at the point exactly away from the moon.
+Thus each portion of our globe is borne by the rotation through two
+"tide-areas" every day, and this is the reason why there are two tides
+during every twenty-four hours.
+
+The crest of the watery swelling is known as high tide. The journey of
+the moon around the earth takes about a month, and this brings her past
+each place in turn by about fifty minutes later each day, which is the
+reason why high tide is usually about twenty-five minutes later each
+time.
+
+The moon is, however, not the sole cause of the tides, but the sun, as
+we have said, has a part in the matter also. When it is new moon the
+gravitational attractions of both sun and moon are clearly acting
+together from precisely the same direction, and, therefore, the tide
+will be pulled up higher than at other times. At full moon, too, the
+same thing happens; for, although the bodies are now acting from
+opposite directions, they do not neutralise each other's pulls as one
+might imagine, since the sun, in the same manner as the moon, produces a
+tide both under it and also at the opposite side of the earth. Thus both
+these tides are actually increased in height. The exceptionally high
+tides which we experience at new and full moons are known as _Spring
+Tides_, in contradistinction to the minimum high tides, which are known
+as _Neap Tides_.
+
+The ancients appear to have had some idea of the cause of the tides. It
+is said that as early as 1000 B.C. the Chinese noticed that the moon
+exerted an influence upon the waters of the sea. The Greeks and Romans,
+too, had noticed the same thing; and Caesar tells us that when he was
+embarking his troops for Britain the tide was high _because_ the moon
+was full. Pliny went even further than this, in recognising a similar
+connection between the waters and the sun.
+
+From casual observation one is inclined to suppose that the high tide
+always rises many feet. But that this is not the case is evidenced by
+the fact that the tides in the midst of the great oceans are only from
+three to four feet high. However, in the seas and straits around our
+Isles, for instance, the tides rise very many feet indeed, but this is
+merely owing to the extra heaping up which the large volumes of water
+undergo in forcing their passage through narrow channels.
+
+As the earth, in rotating, is continually passing through these
+tide-areas, one might expect that the friction thus set up would tend to
+slow down the rotation itself. Such a slowing down, or "tidal drag," as
+it is called, is indeed continually going on; but the effects produced
+are so exceedingly minute that it will take many millions of years to
+make the rotation appreciably slower, and so to lengthen the day.
+
+Recently it has been proved that the axis of the earth is subject to a
+very small displacement, or rather, "wobbling," in the course of a
+period of somewhat over a year. As a consequence of this, the pole
+shifts its place through a circle of, roughly, a few yards in width
+during the time in question. This movement is, perhaps, the combined
+result of two causes. One of these is the change of place during the
+year of large masses of material upon our earth; such as occurs, for
+instance, when ice and snow melt, or when atmospheric and ocean
+currents transport from place to place great bodies of air and water.
+The other cause is supposed to be the fact that the earth is not
+absolutely rigid, and so yields to certain strains upon it. In the
+course of investigation of this latter point the interesting conclusion
+has been reached by the famous American astronomer, Professor Simon
+Newcomb, that our globe as a whole is _a little more rigid than steel_.
+
+We will bring this chapter to a close by alluding briefly to two strange
+appearances which are sometimes seen in our night skies. These are known
+respectively as the Zodiacal Light and the Gegenschein.
+
+The _Zodiacal Light_ is a faint cone-shaped illumination which is seen
+to extend upwards from the western horizon after evening twilight has
+ended, and from the eastern horizon before morning twilight has begun.
+It appears to rise into the sky from about the position where the sun
+would be at that time. The proper season of the year for observing it
+during the evening is in the spring, while in autumn it is best seen in
+the early morning. In our latitudes its light is not strong enough to
+render it visible when the moon is full, but in the tropics it is
+reported to be very bright, and easily seen in full moonlight. One
+theory regards it as the reflection of light from swarms of meteors
+revolving round the sun; another supposes it to be a very rarefied
+extension of the corona.
+
+The _Gegenschein_ (German for "counter-glow") is a faint oval patch of
+light, seen in the sky exactly opposite to the place of the sun. It is
+usually treated of in connection with the zodiacal light, and one theory
+regards it similarly as of meteoric origin. Another theory,
+however--that of Mr. Evershed--considers it a sort of _tail_ to the
+earth (like a comet's tail) composed of hydrogen and helium--the two
+_lightest_ gases we know--driven off from our planet in the direction
+contrary to the sun.
+
+
+[13] Every one knows the simple experiment in which a coin lying at the
+bottom of an empty basin, and hidden from the eye by its side, becomes
+visible when a certain quantity of water has been poured in. This is an
+example of refraction. The rays of light coming from the coin ought
+_not_ to reach the eye, on account of the basin's side being in the way;
+yet by the action of the water they are _refracted_, or bent over its
+edge, in such a manner that they do.
+
+
+
+
+CHAPTER XVI
+
+THE MOON
+
+
+What we call the moon's "phases" are merely the various ways in which we
+see the sun shining upon her surface during the course of her monthly
+revolutions around the earth (see Fig. 14, p. 184). When she passes in
+the neighbourhood of the sun all his light falls upon that side which is
+turned away from us, and so the side which is turned towards us is
+unillumined, and therefore invisible. When in this position the moon is
+spoken of as _new_.
+
+As she continues her motion around the earth, she draws gradually to the
+east of the sun's place in the sky. The sunlight then comes somewhat
+from the side; and so we see a small portion of the right side of the
+lunar disc illuminated. This is the phase known as the _crescent_ moon.
+
+As she moves on in her orbit more and more of her illuminated surface is
+brought into view; and so the crescent of light becomes broader and
+broader, until we get what is called half-moon, or _first quarter_, when
+we see exactly one-half of her surface lit up by the sun's rays. As she
+draws still further round yet more of her illuminated surface is brought
+into view, until three-quarters of the disc appear lighted up. She is
+then said to be _gibbous_.
+
+Eventually she moves round so that she faces the sun completely, and
+the whole of her disc appears illuminated. She is then spoken of as
+_full_. When in this position it is clear that she is on the contrary
+side of the earth to the sun, and therefore rises about the same time
+that he is setting. She is now, in fact, at her furthest from the sun.
+
+[Illustration: Direction from which the sun's rays are coming.
+
+Various positions and illumination of the mooon by the sun during her
+revolution around the earth.
+
+The corresponding positions as viewed from the earth, showing the
+consequent phases.
+
+FIG. 14.--Orbit and Phases of the Moon.]
+
+After this, the motion of the moon in her orbit carries her on back
+again in the direction of the sun. She thus goes through her phases as
+before, only these of course are _in the reverse order_. The full phase
+is seen to give place to the gibbous, and this in turn to the half-moon
+and to the crescent; after which her motion carries her into the
+neighbourhood of the sun, and she is once more new, and lost to our
+sight in the solar glare. Following this she draws away to the east of
+the sun again, and the old order of phases repeat themselves as before.
+
+The early Babylonians imagined that the moon had a bright and a dark
+side, and that her phases were caused by the bright side coming more and
+more into view during her movement around the sky. The Greeks, notably
+Aristotle, set to work to examine the question from a mathematical
+standpoint, and came to the conclusion that the crescent and other
+appearances were such as would necessarily result if the moon were a
+dark body of spherical shape illumined merely by the light of the sun.
+
+Although the true explanation of the moon's phases has thus been known
+for centuries, it is unfortunately not unusual to see
+pictures--advertisement posters, for instance--in which stars appear
+_within_ the horns of a crescent moon! Can it be that there are to-day
+educated persons who believe that the moon is a thing which _grows_ to a
+certain size and then wastes away again; who, in fact, do not know that
+the entire body of the moon is there all the while?
+
+When the moon shows a very thin crescent, we are able dimly to see her
+still dark portion standing out against the sky. This appearance is
+popularly known as the "old moon in the new moon's arms." The dark part
+of her surface must, indeed, be to some degree illumined, or we should
+not be able to see it at all. Whence then comes the light which
+illumines it, since it clearly cannot come from the sun? The riddle is
+easily solved, if we consider what kind of view of our earth an observer
+situated on this darkened part of the moon would at that moment get. He
+would, as a matter of fact, just then see nearly the whole disc of the
+earth brightly lit up by sunlight. The lunar landscape all around would,
+therefore, be bathed in what to _him_ would be "earthlight," which of
+course takes the place there of what _we_ call moonlight. If, then, we
+recollect how much greater in size the earth is than the moon, it should
+not surprise us that this earthlight will be many times brighter than
+moonlight. It is considered, indeed, to be some twenty times brighter.
+It is thus not at all astonishing that we can see the dark portion of
+the moon illumined merely by sunlight reflected upon it from our earth.
+
+The ancients were greatly exercised in their minds to account for this
+"earthlight," or "earthshine," as it is also called. Posidonius (135-51
+B.C.) tried to explain it by supposing that the moon was partially
+transparent, and that some sunlight consequently filtered through from
+the other side. It was not, however, until the fifteenth century that
+the correct solution was arrived at.
+
+[Illustration: One side of the moon only is ever presented to the
+earth. This side is here indicated by the letters S.F.E. (side facing
+earth).
+
+By placing the above positions in a row, we can see at once that the
+moon makes one complete rotation on her axis in exactly the same time as
+she revolves around the earth.
+
+FIG. 15.--The Rotation of the Moon on her Axis.]
+
+Perhaps the most remarkable thing which one notices about the moon is
+that she always turns the same side towards us, and so we never see her
+other side. One might be led from this to jump to the conclusion that
+she does not rotate upon an axis, as do the other bodies which we see;
+but, paradoxical as it may appear, the fact that she turns one face
+always towards the earth, is actually a proof that she _does_ rotate
+upon an axis. The rotation, however, takes place with such slowness,
+that she turns round but once during the time in which she revolves
+around the earth (see Fig. 15). In order to understand the matter
+clearly, let the reader place an object in the centre of a room and walk
+around it once, _keeping his face turned towards it the whole time_,
+While he is doing this, it is evident that he will face every one of the
+four walls of the room in succession. Now in order to face each of the
+four walls of a room in succession one would be obliged _to turn oneself
+entirely round_. Therefore, during the act of walking round an object
+with his face turned directly towards it, a person at the same time
+turns his body once entirely round.
+
+In the long, long past the moon must have turned round much faster than
+this. Her rate of rotation has no doubt been slowed down by the action
+of some force. It will be recollected how, in the course of the previous
+chapter, we found that the tides were tending, though exceedingly
+gradually, to slow down the rotation of the earth upon its axis. But, on
+account of the earth's much greater mass, the force of gravitation
+exercised by it upon the surface of the moon is, of course, much more
+powerful than that which the moon exercises upon the surface of the
+earth. The tendency to tidal action on the moon itself must, therefore,
+be much in excess of anything which we here experience. It is, in
+consequence, probable that such a tidal drag, extending over a very long
+period of time, has resulted in slowing down the moon's rotation to its
+present rate.
+
+The fact that we never see but one side of the moon has given rise from
+time to time to fantastic speculations with regard to the other side.
+Some, indeed, have wished to imagine that our satellite is shaped like
+an egg, the more pointed end being directed away from us. We are here,
+of course, faced with a riddle, which is all the more tantalising from
+its appearing for ever insoluble to men, chained as they are to the
+earth. However, it seems going too far to suppose that any abnormal
+conditions necessarily exist at the other side of the moon. As a matter
+of fact, indeed, small portions of that side are brought into our view
+from time to time in consequence of slight irregularities in the moon's
+movement; and these portions differ in no way from those which we
+ordinarily see. On the whole, we obtain a view of about 60 per cent. of
+the entire lunar surface; that is to say, a good deal more than
+one-half.
+
+The actual diameter of the moon is about 2163 miles, which is somewhat
+more than one-quarter the diameter of the earth. For a satellite,
+therefore, she seems very large compared with her primary, the earth;
+when we consider that Jupiter's greatest satellite, although nearly
+twice as broad as our moon, has a diameter only one twenty-fifth that of
+Jupiter. Furthermore, the moon moves around the earth comparatively
+slowly, making only about thirteen revolutions during the entire year.
+Seen from space, therefore, she would not give the impression of a
+circling body, as other satellites do. Her revolutions are, indeed,
+relatively so very slow that she would appear rather like a smaller
+planet accompanying the earth in its orbit. In view of all this, some
+astronomers are inclined to regard the earth and moon rather as a
+"double planet" than as a system of planet and satellite.
+
+When the moon is full she attracts more attention perhaps than in any of
+her other phases. The moon, in order to be full, must needs be in that
+region of the heavens exactly opposite to the sun. The sun _appears_ to
+go once entirely round the sky in the course of a year, and the moon
+performs the same journey in the space of about a month. The moon, when
+full, having got half-way round this journey, occupies, therefore, that
+region of the sky which the sun itself will occupy half a year later.
+Thus in winter the full moon will be found roughly to occupy the sun's
+summer position in the sky, and in summer the sun's winter position. It
+therefore follows that the full moon in winter time is high up in the
+heavens, while in summer time it is low down. We thus get the greatest
+amount of full moonlight when it is the most needed.
+
+The great French astronomer, Laplace, being struck by the fact that the
+"lesser light" did not rule the night to anything like the same extent
+that the "greater light" ruled the day, set to work to examine the
+conditions under which it might have been made to do so. The result of
+his speculations showed that if the moon were removed to such a distance
+that she took a year instead of a month to revolve around the earth; and
+if she were started off in her orbit at full moon, she would always
+continue to remain full--a great advantage for us. Whewell, however,
+pointed out that in order to get the moon to move with the requisite
+degree of slowness, she would have to revolve so far from the earth that
+she would only look one-sixteenth as large as she does at present, which
+rather militates against the advantage Laplace had in mind! Finally,
+however, it was shown by M. Liouville, in 1845, that the position of a
+_perennial full moon_, such as Laplace dreamed of, would be
+unstable--that is to say, the body in question could not for long remain
+undisturbed in the situation suggested (see Fig. 16, p. 191).
+
+[Illustration: Various positions of Laplace's "Moon" with regard to the
+earth and sun during the course of a year.
+
+The same positions of Laplace's "Moon," arranged around the earth, show
+that it would make only one revolution in a year.
+
+FIG. 16.--Laplace's "Perennial Full Moon."]
+
+There is a well-known phenomenon called _harvest moon_, concerning the
+nature of which there seems to be much popular confusion. An idea in
+fact appears to prevail among a good many people that the moon is a
+harvest moon when, at rising, it looks bigger and redder than usual.
+Such an appearance has, however, nothing at all to say to the matter;
+for the moon always _looks_ larger when low down in the sky, and,
+furthermore, it usually looks red in the later months of the year, when
+there is more mist and fog about than there is in summer. What
+astronomers actually term the harvest moon is, indeed, something
+entirely different from this. About the month of September the slant at
+which the full moon comes up from below the horizon happens to be such
+that, during several evenings together, she _rises almost at the same
+hour_, instead of some fifty minutes later, as is usually the case. As
+the harvest is being gathered in about that time, it has come to be
+popularly considered that this is a provision of nature, according to
+which the sunlight is, during several evenings, replaced without delay
+by more or less full-moonlight, in order that harvesters may continue
+their work straight on into the night, and not be obliged to break off
+after sunset to wait until the moon rises. The same phenomenon is almost
+exactly repeated a month later, but by reason of the pursuits then
+carried on it is known as the "hunter's moon."
+
+In this connection should be mentioned that curious phenomenon above
+alluded to, and which seems to attract universal notice, namely, that
+the moon _looks much larger when near the horizon_--at its rising, for
+instance, than when higher up in the sky. This seeming enlargement is,
+however, by no means confined to the moon. That the sun also looks much
+larger when low down in the sky than when high up, seems to strike even
+the most casual watcher of a sunset. The same kind of effect will,
+indeed, be noted if close attention be paid to the stars themselves. A
+constellation, for instance, appears more spread out when low down in
+the sky than when high up. This enlargement of celestial objects when in
+the neighbourhood of the horizon is, however, only _apparent_ and not
+real. It must be entirely an _illusion_; for the most careful
+measurements of the discs of the sun and of the moon fail to show that
+the bodies are any larger when near the horizon than when high up in the
+sky. In fact, if there be any difference in measurements with regard to
+the moon, it will be found to be the other way round; for her disc, when
+carefully measured, is actually the slightest degree _greater_ when
+_high_ in the sky, than when low down. The reason for this is that, on
+account of the rotundity of the earth's surface, she is a trifle nearer
+the observer when overhead of him.
+
+This apparent enlargement of celestial objects, when low down in the
+sky, is granted on all sides to be an illusion; but although the
+question has been discussed with animation time out of mind, none of the
+explanations proposed can be said to have received unreserved
+acceptance. The one which usually figures in text-books is that we
+unconsciously compare the sun and moon, when low down in the sky, with
+the terrestrial objects in the same field of view, and are therefore
+inclined to exaggerate the size of these orbs. Some persons, on the
+other hand, imagine the illusion to have its source in the structure of
+the human eye; while others, again, put it down to the atmosphere,
+maintaining that the celestial objects in question _loom_ large in the
+thickened air near the horizon, in the same way that they do when viewed
+through fog or mist.
+
+The writer[14] ventures, however, to think that the illusion has its
+origin in our notion of the shape of the celestial vault. One would be
+inclined, indeed, to suppose that this vault ought to appear to us as
+the half of a hollow sphere; but he maintains that it does not so
+appear, as a consequence of the manner in which the eyes of men are set
+quite close together in their heads. If one looks, for instance, high up
+in the sky, the horizon cannot come within the field of view, and so
+there is nothing to make one think that the expanse then gazed upon is
+other than quite _flat_--let us say like the ceiling of a room. But, as
+the eyes are lowered, a portion of the _encircling_ horizon comes
+gradually into the field of view, and the region of the sky then gazed

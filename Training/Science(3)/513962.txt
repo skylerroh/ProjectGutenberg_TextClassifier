@@ -1,0 +1,460 @@
+varied from 161/2 feet in diameter at the upper shaft to 21 feet at the
+lowest shaft. The water-wheel moved only in one direction; the pinion on
+the wheel-shaft drove the spur-wheel, to which the pitman of the pump-bob
+was attached. On the spur-wheel shaft was a friction-gear, driving the
+hoisting-reel; this reel was mounted on sliding blocks, so that hoisting
+was done by putting it in gear, the empty load being dropped by a
+friction-band. Changing the size of the water-wheel as the pressure
+increased permitted the use of the same pattern of machinery at the
+different shafts. The water was brought to the wheel by a discharge-pipe,
+some nine feet long, having a vertical movement by ball-and-socket joint,
+so that at pleasure, by dropping the pipe, the machinery could be run at
+various speeds, or entirely stopped. At the end of this discharge-pipe
+was a cast tapered nozzle, about 31/2 inches in diameter, in which was
+inserted a ring of saw-plate steel having the desired diameter, and which
+was held in place by an annular screw-cap. By changing the ring, which
+only required a few moments' time, any desired amount of water, up to 3 or
+4 cubic feet a second, could be discharged against the wheel. The
+stop-gate was left wide open while the machinery was running. The pumping
+was done by eighteen pumps, of Cornish pattern; the largest amount of
+water pumped from any one shaft was something over 30 cubic feet a minute;
+the power at hand, however, was ample to pump more than twice that
+quantity. It was rather curious at, this shaft to see more water coming
+from the pumps than was used on the wheel. The two diamond drills were
+driven by a small hurdy-gurdy set on the rear of the drill carriage. This,
+but at another tunnel, was afterward modified by placing a separate
+hurdy-gurdy on a sleeve on each drill-rod; the advance movement of the
+drill being given by hydrostatic pressure on an annular piston, thus doing
+away with all gearing. These eight sets of machinery were run for nearly
+21/2 years' time; the only break being that of a spur-wheel, doubtless
+caused by the careless dropping of a steel bar between it and its pinion.
+Aside from this accident, practically not a dollar was spent for repairs,
+and the machinery, including the pipe, was in about as good order when the
+tunnel was finished as when it was first erected. One man, on a twelve
+hour shift, operated the machinery at each shaft, besides dumping the
+cars; two men kept the 18 pumps on the line in order, the principal work
+being in keeping the suction-pipes for the down-grade headings tight; thus
+a force of 18 men was only required for the eight shafts. The cost of the
+pipe, gates, etc., when put in place, was $14,631, and of the machinery
+about $60,000.
+
+[Illustration: FIG. 14.]
+
+At the Idaho gold quartz mine, situated near Grass Valley, California,
+water-power has been introduced during the past year (1883), taking the
+place of steam. The supply main is of wrought-iron, 22 inches in diameter,
+8,764 feet long, buried in the ground below frost-line. The joints, as a
+rule, are riveted together, with occasional lead joints to admit of slight
+movements in the pipe.[4] The pipe was coated by placing each joint in a
+bath of boiling tar and asphaltum; to insure the most thorough coating, it
+is necessary to keep the pipe for ten or fifteen minutes in the boiling
+mixture. A cast-iron stop-gate is placed at the lower end of the main, and
+also one at each of the branches. Cast-iron man-holes are attached to the
+main, which, although they have given no trouble in this particular case,
+are very objectionable for high pressures, as it is difficult to avoid
+ruptures with cast and wrought-iron combined, owing to the great
+difference in the elasticity of the two metals. The long seams of this
+pipe are double-riveted, and the round seams single riveted; at the lower
+end, iron of No. 6 gauge is used. From the end of the main, the water is
+led to the several wheels by branches of smaller diameter.
+
+[Footnote 4: With buried wrought-iron pipe this precaution is unnecessary,
+as the elasticity of the iron will admit of the movement due to changes of
+temperature, without injury to the rivets.]
+
+The water is delivered at the hoisting-wheel with a total head of 542.6
+feet. For power and for mill uses, etc., the required supply is about 8
+cubic feet a second; this draught reduces the effective head to say 523
+feet.
+
+The work done consists in driving the following described machinery:
+
+A large air-compressor--2 cylinders, double acting, air compressed to 75
+pounds--requiring about 140 horse-power.
+
+A line of Cornish pumps, forcing the water from a depth of 1,450 feet
+vertical; 12-inch plungers for upper 800 feet, 6-inch plungers for lower
+650 feet, with 6-foot stroke, requiring from 55 to 70 horse-power.
+
+Hoisting from a double-compartment shaft--two connected winding reels,
+moving separate cages--requiring 35 horse-power, or more.
+
+A few small machine-tools and smithy forges, requiring 3 or 4 horse-power.
+
+A 35-stamp mill, with concentrating apparatus, etc., requiring about 70
+horse-power.
+
+The total amount of power required being say 320 horse-power, for which
+seven Pelton hurdy-gurdy wheels are employed.
+
+The power in all cases is transmitted by systems of Manila rope belting;
+the rope is 2 inches in diameter; the grooves in the sheaves or pulleys
+are slightly oval, so that the rope does not go quite to the bottom; the
+ropes are horizontal, and run very slack (no tighteners), with no
+appreciable slip; the splices are made very long, to obtain uniformity in
+diameter.
+
+[Illustration: FIG. 15.]
+
+This method of transmitting power appears to work most perfectly and has
+given excellent satisfaction. It is thought, at the Idaho, to be greatly
+preferable to the gearing formerly in use when the works were driven by
+steam (for such work as pumping or hoisting, leather or rubber belting is
+never used), besides being much cheaper in first cost.
+
+The wheel driving the air-compressor is 6 feet in diameter, running 300
+turns[5] per minute, with 1-15/18-inch nozzle; three ropes are used from
+the wheel shaft to the counter-shaft, and six ropes from the latter to the
+fly-wheel shaft.
+
+[Footnote 5: The revolutions per minute, of these wheels, as here given,
+are only approximate, as the design was to have the bucket speed=1/2
+2(gh)^{1/2}.]
+
+For driving the pumps, there are two water-wheels, set on the same shaft,
+one 5 feet and the other 7 feet in diameter, either of which can be used
+at will, thus permitting different rates of speed; two nozzles are placed
+on each wheel, so that if necessary the power can at any time be doubled.
+The smaller wheel has a 1-1/4 inch nozzle, and runs 360 turns a minute;
+the larger has 1-1/8-inch nozzle, and makes 270 turns a minute. There are
+two ropes from the wheel-shaft to a counter-shaft, and four ropes to the
+fly-wheel shaft, on which is the pinion driving the spur-wheel attached to
+the pitman of the pump-bob. Hoisting is done by two wheels placed side by
+side on the same shaft, the buckets and nozzle of each wheel being placed
+in opposite directions. Both wheels are 8 feet in diameter, with
+15/16-inch nozzles, and make at full speed about 225 turns a minute.
+Reversing the movement of the shaft is done by shutting off water from one
+wheel, and turning water on the other wheel; the two water-gates for these
+nozzles are quickly opened or closed by hydrostatic pressure, afforded
+from the water main. In addition to the usual brakes on the winding-reels,
+a brake is placed on the wheel-shaft, so that it can be stopped in a very
+short period of time.
+
+The shock to the pipe by the almost instantaneous cutting off the water at
+these hoisting-wheels (nearly one cubic foot per second) has not
+apparently had any injurious, effect. To lessen this shock, a compensating
+balance was designed, but which is not now in use. A wheel, of small
+diameter, is used for the smithy, etc., running at a very high velocity.
+The wheel driving the stamp-mill is 6 feet in diameter, makes 300
+revolutions a minute, and is supplied through a 1-3/16 inch nozzle. The
+head of water at this point is a few feet greater than at the other
+wheels. Power is transmitted from the hoisting and mill-wheel shafts by
+two and four ropes, the same as with the pumping rig. The amount of work
+done, or of water used, has not been carefully determined; judging from
+the indicator cards taken from the old steam-engines, the managers of the
+Idaho believe that an efficiency of fully 80 per cent. of the theoretic
+power of the water is obtained on the main driving-shafts of the
+machinery. The substitution of water for steam-power has resulted in a
+large saving of expense. Although the hills near by are covered with fine
+forests, thus making wood cheap, and although a round price is charged for
+water by the company furnishing it, the cost of the water is considerably
+less than that of the wood formerly used as fuel. The cost of attendance
+is altogether in favor of the water-wheels, which hardly require any
+attention. The cost of the change from steam to water-power was
+$46,496.32.
+
+       *       *       *       *       *
+
+
+
+
+TEXAS CREEK PIPE AND AQUEDUCT.
+
+
+A description of this work will be of interest in showing the general
+practice followed in California for carrying water across deep mountain
+gorges. In order to augment its water supply, the North Bloomfield Gravel
+Mining Company desired to conduct water from a stream known as Texas
+Creek, in Nevada County, California, across the Big Canon branch of the
+South Yuba River into the main Bloomfield flume or aqueduct, which was
+located on the side of Big Canon Creek, at a vertical elevation of 620
+feet above the bed of the latter stream. The quantity of water to be
+carried was about 32 cubic feet a second (1,250 miner's inches), which
+could be diverted from Texas Creek at a point 480 feet vertical above the
+Bloomfield flume. An aqueduct about 4,000 feet long, partly of ditch and
+partly of flume, was needed to bring the water from the catchment dam on
+the creek to the brow of the gorge. The vertical head for the pipe could
+therefore be from a maximum of 460 feet down to any lesser head; with a
+head of 460 feet, the pipe would be 4,790 feet long; and with a head of
+220 feet, the length would be 4,290 feet. Assuming a maximum tensile
+strain upon the iron of 16,500 pounds per square inch, with the formula
+for the greatest head of about
+
+d = (.359 l/h)^{1/5}, [or, v = 68 (dh/l)^{1/2}, and Q = 32],
+
+and a lower value of the coefficient in the last equation for the lesser
+heads, it was found, by calculation, that the least cost could be obtained
+with a head from 300 to 350 feet. The head fixed upon was 303.6 feet, with
+a length of 4,438.7 feet. A profile of the pipe, with nearly the same
+horizontal and vertical scales (horizontal scale, showing slope lengths),
+is given in Fig. 14; details are given in Figs. 15 and 16. The pipe was of
+double riveted sheet iron, made in lengths of about 20 feet, and of the
+following thicknesses:
+
+  1,349 linear feet,    0.083 inch thick.
+    220    "            0.095     "
+    240    "            0.109     "
+    250    "            0.120     "
+    320    "            0.134     "
+    610    "            0.148     "
+  1,450    "            0.165     "
+
+Some of the iron was of the very poorest quality; the pipe was made by
+contract in San Francisco, without the supervision of an inspector, as the
+contractors were a firm of good reputation; the bad quality of the iron
+was not detected until too late to have it corrected. Since then, the
+writer has always had such pipes--the mines of which he has been the
+manager using large quantities--made directly on the ground where they are
+to be used; the pipe makers, in the latter case, always reject such sheets
+as are too much below in thickness the standard gauge, and those which
+show in passing through the rolls the bad quality of iron; tests of each
+joint by hydrostatic pressure would add too much to the cost.
+
+[Illustration: FIG. 16.]
+
+The maximum tensile strain upon each of the seven thicknesses of iron used
+was intended to be 16,500 pounds per square inch. Some of the sheets were
+below the standard gauge, so that, in reality, the tensile strain is
+sometimes as high as 18,000 pounds. The mean diameter of the pipe was
+1.416 feet. The entrance into the pen-stock was tapered, so that the
+coefficient of contraction was about 0.92. For pressures not exceeding say
+380 feet, the joints were put together stove-pipe fashion. For greater
+pressures, the joints were made by an inner sleeve riveted on one end of
+the joint, with an outer lap-welded band, as shown by Fig. 15; lead was
+run into the space between the outer band and the pipe, and then tightly
+driven up by calking-irons. The pipe was laid under the bed of the Big
+Canon Creek, a large stream when in freshet, where the head below the
+hydraulic grade line was 760 feet. Some of the lead joints leaked slightly
+at first, but this was soon remedied by more careful calking. No man-holes
+or escape-gates were used. The pipe for the larger part of the year is not
+filled at its upper end; when such is the case, the water at the inlet
+carries down the pipe a great quantity of air, for which escapes must be
+provided to prevent a jarring or throbbing, which would soon destroy the
+pipe. The escape air-valves used are shown by Fig. 16. They consist simply
+of a heavy flap valve of cast-iron, with recess for lead filling to give
+greater weight set on top the pipe, seating on a vulcanized rubber
+cushion, and swinging on a loose hinge. When the pipe is only partly
+filled with water, the valves drop down by their own weight, allowing the
+air to freely escape; when the water rises above the level of a valve, it
+is tightly closed by the resulting pressure. There are fourteen of these
+valves, those on the lower end being designed to allow air to freely enter
+the pipe in case it should burst in the deeper portion, and thus prevent
+any collapse from atmospheric pressure. The valves have answered the
+desired purposes most effectually. The pipe was hauled over a road built
+to the inlet end, and shot down the mountain side by means of a V-shaped
+trough of wood. For the lower end, the joints were hauled up the cliff
+side into place by a crab worked by horse-power. On steep inclinations,
+the pipe was held firmly in place by wire ropes fastened to iron pins in
+the solid rock, as shown by the sketch. The covering of earth and stone
+was 1 foot to 2 feet in depth; with steep slopes, the earth was kept from
+sliding by rough dry walls, or by cedar plank placed crosswise. The pipe
+was laid in 1878; the first year it broke twice, owing to the wretched
+quality of the iron; since then, it has given no trouble, and has required
+practically no attention. The cost of this work--ditch and flume 4,000
+feet, and pipe 4,440 feet--was $23,779.53.
+
+A comparison of the relative values of n, in the formula v = n (r s)^{1/2},
+for the foregoing ditch, flume, and pipe will be instructive. The ditch
+has a width on the bottom of 3 feet, on the top of 6 feet, with a depth of
+3 feet, and an inclination of 20 feet per mile; its sides are rough, being
+cut in part through the rock and with sharp curves, although fairly
+regular; with a flow of about 1,300 miner's inches (32.8 cubic feet per
+second) the ditch runs about full.
+
+Therefore:
+
+      6 + 3
+  a = ----- x 3 = 13.5 ;
+        2
+
+[TEX: a = \frac{6+3}{2} \times 3 = 13.5;]
+
+           a
+  r = ------------- = 1.41 ;
+      3.3 + 3 + 3.3
+
+[TEX: r = \frac{a}{3.3 + 3 + 3.3} = 1.41;]
+
+        20       1
+  s = ------ = ----- ;
+       5280     264
+
+[TEX: s = \frac{20}{5280} = \frac{1}{264};]
+
+  Q = 32.8, hence
+
+       Q
+  v = --- = 2.43;
+       a
+
+[TEX: v = \frac{Q}{a} = 2.43;]
+
+and
+
+     /              {1/2} \
+  n ( in v = n (r s)^    ) = 33.
+     \                  /
+
+[TEX: n\ (\text{in}\ v = n (r s)^\frac{1}{2}) = 33.]
+
+The flume is of unplaned boards, rectangular, 2.67 wide x 2.83 deep, with
+an inclination of 32 feet per mile. There are sharp curves, although these
+were made as regular as practicable; the boiling action of the water
+passing around these curves brought the flow line (Q = 32.8) nearly up to
+the top of the sides; with a straight flume of the same size, the water
+would have doubtless stood several inches lower.
+
+Therefore:
+
+    a = 2.67 x 2.83 = 7.56 ;
+
+                a
+    r =  -------------------- = 0.908 ;
+        2.83 + 2.67 + 2.83
+
+[TEX: r = \frac{a}{2.83 + 2.67 + 2.83} = 0.908;]
+
+           32       1
+    s =  ------ = ----- ;
+          5280     165
+
+[TEX: s = \frac{32}{5280} = \frac{1}{165};]
+
+    Q = 32.8, hence
+
+         Q
+    v = --- = 4.34;
+         a
+
+[TEX: v = \frac{Q}{a} = 4.34;]
+
+    and n = 59.
+
+With the pipe,[6] 1.416 diameter,
+
+         d
+    r = --- = 0.354; Q = 31.69; v = 20.13.
+         4
+
+[TEX: r = \frac{d}{4} = 0.354;\ Q = 31.69;\ v = 20.13.]
+
+[Footnote 6: _Vide_ pages 120-122, Transactions American Society of Civil
+Engineers for 1883.]
+
+Allowing for loss of head due to imparting velocity to water, and for
+contraction,
+
+         296.1
+    s= --------; and n = 131.
+        4438.7
+
+[TEX: s = \frac{296.1}{4438.7};\ \text{and}\ n = 131.]
+
+We hence have the following values of n, in v = n (r s)^{1/2}, Q being
+constant:
+
+    Rough ditch, with sharp curves.                    33
+    Rectangular flume, with sharp curves.              59
+    Wrought-iron pipe, with easy curves, coated with
+    asphalt, but with rivet-heads forming noteworthy
+    obstructions (m = 65.5, and 2m = n)               131
+
+       *       *       *       *       *
+
+
+
+
+PARACHUTE HYDRAULIC MOTOR.
+
+
+The very singular and simple hydraulic motor which we illustrate herewith
+is the invention of a Russian engineer, Mr. Jagn. It is scarcely as yet
+known in Western Europe, where, however, something will probably be heard
+of it ere long. Its true field would seem to be Egypt, India, or any
+country where canals or rivers are used for irrigation, and where it is
+desired to draw water from them at particular spots in the simplest and
+cheapest manner. At present in nearly all such cases water is raised by
+hand or steam power; nevertheless it must be obvious that the current of
+the canal itself, slow though it may be, is quite sufficient to raise a
+small portion of the discharge to the very moderate height generally
+needed to lift it over the banks into the adjoining fields. Why then is it
+not employed for the purpose? The answer is obvious, when we consider the
+various hydraulic motors at present in use. Of course, motors worked by
+water pressure must here be excluded; and we are left with scarcely
+anything but the undershot wheel, the turbine, and the screw pump. All
+these require expensive buildings and erections to set them to work,
+present but a very small fraction of their surface to the water at any one
+time, and must be very large and costly if they are to draw even a very
+moderate amount of power from such a source. There is no possibility of
+adjusting them readily to suit variations in the speed of the current or
+in the quantity of water required, nor of moving them from place to place
+should this be convenient.
+
+[Illustration: PARACHUTE HYDRAULIC MOTOR.]
+
+The motor of Mr. Jagn is on a totally different principle. Its essential
+features consist, as shown, of an endless rope made of hemp or aloe fiber,
+which takes a turn or two round a pair of drums mounted on a barge or
+pontoon, and then passes down the channel to return over a pulley hung
+from a floating punt, at such a depth that the whole of the rope is
+immersed in the water. Along this rope are suspended at equal intervals a
+number of parachutes made of sail cloth. The rope passes through the
+center of each of these, and to it are attached a series of strings, the
+other ends of which are connected to the outside edge of the parachute.
+Thus they act like the spokes of an umbrella to prevent the parachute from
+opening too far under the pressure of the current. The parachutes must be
+placed so far apart that the current may act fairly on each, and the sum
+of the pressures forms the force which draws the rope through the water.
+The moment, however, that any parachute has passed round the return
+pulley, the current acts upon it in the opposite direction. It then shuts
+up like an umbrella, and assumes a volume so small that its resistance on
+the return journey is insignificant. After passing round the drum at the
+upper end, it at once opens afresh of its own accord, and once more
+becomes part of the moving power of the whole system. The parachutes are
+formed by first cutting out a complete circle of cloth, and then taking
+from this a sector equal to one-fifth or one-sixth of the total area. Such
+parachutes are found to keep their form when stretched by the water better
+than a surface originally spherical, although the latter would be
+theoretically more correct. The motion of the drum is transmitted by spur,
+gear, or otherwise as may be required, to give the requisite speed.
+
+It will be seen that the advantages of the system are as follows: First,
+the facility it offers for obtaining a large working area, which may be
+increased or diminished at will, according to the requirements of the
+moment, by lengthening or shortening the rope. Secondly, the ease with
+which it is erected and set to work. Thirdly, the small part of the river
+section which it occupies, so as to present no obstacle to navigation.
+Fourthly, the ease with which it can be mounted on a barge of any kind,
+and carried wherever it may be needed. Fifthly, it is not stopped, like
+all other hydraulic motors, by the appearance of ice--it has, in fact,
+already been worked under ice in the Neva. At the same time, winds and
+waves have no influence upon it.
+
+The principle of the apparatus is not altogether new. In 1872 there was
+tried on the Ohio River an arrangement termed the Brooks motor. It was
+composed of two drums, placed horizontally and parallel to each other.
+Round these there passed endless chains at equal spaces apart on the
+length of the drums, and to these chains were fixed wooden blades or arms
+of a curved form, and so jointed to the frames that they opened when
+moving in one direction, and closed down on the chain when moving in the
+other. In this machine the weight of the chains was a serious obstacle to
+obtaining any large amount of power. The whole apparatus was mounted on a
+heavy wooden scaffold, which proved an impediment to the flow of the
+river. Again, the resistance due to the surface of the returning blades
+and to their stiffness was found to be far from insignificant.
+
+In the present system Mr. Jagn has found, after many experiments, that the
+best effect was obtained when the parachutes were spaced apart at twice
+their diameter, and when the rope made an angle of 8 degrees to 10 degrees
+with the current. It is found that when open and in motion the parachutes
+never touch the bottom. This was the case with a rope containing 180
+parachutes of 4 feet diameter, and working in a depth of only 6 feet. This
+is easily explained by the fact that the velocity of a current always
+diminishes as it approaches the bottom. Hence the pressure on the lower
+part of the parachute will be less than that on the upper part; but the
+former pressure tends to draw the parachute downward, while the latter
+tends to raise it to the top of the water. Thus, the latter being the
+larger, the parachute will always have a tendency to rise. In fact, it is
+necessary to sink the return pulley sufficiently deep to make sure that
+the parachutes will not emerge from the surface. For the same reason no
+intermediate supports are needed over the driving span; if any are needed

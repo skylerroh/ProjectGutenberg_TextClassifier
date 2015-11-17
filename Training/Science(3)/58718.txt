@@ -1,0 +1,446 @@
+
+(By sounding only two circles, 3 and 4, or 4 and 5, we make the same
+experiment with two circles as disk No. 2 enabled us to make with
+circle 8 alone; also, by sounding circle 3 alone, we obtain the note
+corresponding to 12 holes; then pulling out button 4, the notes
+corresponding to 12 and 36 holes are heard suddenly and very strongly;
+but as soon as circle 5 is sounded also, the note of 12 disappears
+completely, and we have left only that corresponding to 36 holes.)
+
+
+III.
+
+_Effects of interference produced by shocks in opposite directions_.
+
+1. If we direct against a circle of holes two currents of air in
+opposite directions, the note obtained with a single current is very
+much weakened, if the two currents reach the holes simultaneously.
+If the impulses are not isochronous, the intensity of the note is
+increased.
+
+2. If the two currents are directed against two circles of the same
+number of holes, the effect is the same as for the two preceding cases.
+
+3. If two currents of air are directed against two circles, one of which
+has twice as many holes as the other, we obtain only the low note if
+every shock of one is isochronous with every shock of the other.
+
+We obtain the notes of both circles, one of which is the octave of the
+other, if there is no isochronism between the shocks.
+
+Disk No. 5 has three circles of 36, 36, and 72 holes. The air currents
+are directed against the circles of holes through the movable tubes,
+made so that they can be detached at pleasure. All these experiments
+require great precision in the arrangement of these wind tubes. To make
+sure that the tubes are simultaneously before two holes of the disk, it
+is well to put little rods through the holes, reaching into the wind
+tubes, and to remove them only when the tubes are firmly attached. The
+experimenter should be careful also to place the two tubes exactly
+at the same distance from the turning disk. It is clear that
+notwithstanding all these precautions we never obtain perfect
+interference, but only the weakening of notes that ought to disappear
+entirely if all the arrangements were made with mathematical exactness,
+and also if the ear could have absolutely the same position with regard
+to impulses produced in opposite directions.
+
+
+IV.
+
+_Beats_.
+
+Disk No. 6 has--
+
+8 circles of holes to the number of 1, 2, 23, 24, 25, 47, 48, 49.
+
+Circles 3 and 4, 4 and 5, 6 and 7, and 7 and 8 ought to produce as many
+beats as circle 1 produces simple shocks; and circles 3 and 5, 6 and 8,
+as many beats as circle 2 produces simple shocks; but we must content
+ourselves in these experiments with a much less perfect result, for the
+following reasons: The disk never being rigorously plane, alternately
+approaches the single wind pipe and recedes from it. No matter how
+slight this deviation is, every sound given by a single circle is heard
+with periodical intensities which complicate the phenomenon. This
+inconvenience could be avoided by placing several wind-pipes around the
+circle; but while we can extend the period of the holes in two circles
+(whose difference is 1) around the whole circle by blowing through a
+single wind tube, we would be compelled to limit it to the distance
+between two wind tubes, and it would become too short; for, when the
+disk rotates with a velocity sufficient to produce notes high enough and
+intense enough, the beats become too numerous to be easily perceived.
+
+Besides these provisions, which sufficiently illustrate the points to
+which we desire to call especial attention, Koenig also furnishes two
+more disks.
+
+The seventh contains 8 circles having 48, 54, 60, 64, 72, 80, 90, and
+96 holes respectively. The 1st, 3d, 5th, and 8th will produce a perfect
+chord when the air is admitted through the 11 holes in the wind chest;
+with one wind tube the entire gamut may be obtained.
+
+Finally the eighth disk contains 8 circles of holes, whose numbers are
+in the ratio of 1:2:3:4, etc., and which may be used to illustrate
+harmonics. C. F. K.
+
+       *       *       *       *       *
+
+
+
+
+THE MOTIONS OF CAMPHOR UPON THE SURFACE OF WATER.
+
+[Footnote: Continued from SUPPLEMENT No. 391, page 6240.]
+
+
+To have these movements occur in a constant and invariable manner upon
+the surface of water, and especially upon mercury, it is necessary to
+take precautions in regard to cleanliness, this being something that
+we have purposely neglected to mention to our readers. For we wished,
+through this voluntary omission, to stimulate their sagacity by bringing
+them face to face with difficulties that they will perhaps have
+succeeded in overcoming, with causes of error that they will have
+perceived, and the principal one of which is the want of absolute
+cleanliness in the water, vessels, and instruments that they may have
+used for the experiments.
+
+Thus, very probably, they will have more than once seen the camphor
+remain immovable when placed in vessels in which they had hoped to
+be able to see it undergo its gyratory and other motions. Their
+astonishment will have been no less than our own was when we noticed
+the sudden cessation of the camphor's motions under the influence of
+vitreous or metallic objects, such as glass rods or tubes, pieces of
+gold, silver, or copper coin, table knives, etc., dipped into the liquid
+in which such motions were taking place before the immersion of the
+objects under consideration.
+
+The instantaneously _sedative_ power of the human fingers, or of a hair,
+will have, perhaps, reminded them of some sort of sorcery, or of some
+diabolic art worthy of the great Albert.
+
+[Illustration: APPARATUS FOR THE STUDY OF THE MOTIONS OF CAMPHOR.]
+
+As for ourself, we confess that, after repeating the curious experiments
+of Mr. Dutrochet day after day, and scrupulously following his
+directions, we have, in the presence of our results, that were exactly
+identical with his, almost been tempted to believe ourself to be the
+victim of some occult power, or at least of some optical illusion,
+the true cause of which remained a mystery to us. Finally, after
+many fruitless attempts to find a key to the enigma that engaged our
+attention, the light finally dawned upon us, and then shone straight in
+our eyes.
+
+In comparing the last results of our experiments with those that we had
+obtained previously, we saw, for example, that the camphor moved in the
+test glasses at a level that was notably higher than that at which its
+gyration took place the day before, or the day before that. And yet we
+had always used the same vessels, the same water, and particles detached
+from the same lump of camphor.
+
+To what, then, could be due the difference observed between the two
+levels at which we had, in the first and last place, seen the
+camphor execute its movements? In the absence of any answer that was
+satisfactory, we finally suspected that the difference that we had
+noticed was ascribable to the fact that, after the numerous washings
+that the apparatus had been submitted to in having water poured into
+them to repeat the experiments, they had gradually been freed from
+impurities of whatever nature they might have been, and which, unbeknown
+to us, might have soiled their sides.
+
+Starting with this idea, which was as yet a hyphothetical one, we began
+to wash our hands, glasses, etc., at first with very dilute sulphuric
+acid, and then with ammonia. Afterward we rinsed them with quantities of
+water and dried them carefully with white linen rags that had been used
+for no other purpose; and finally we plunged them again into very clean
+water. We thus cut the Gordian knot, and were on the right track.
+
+In fact, on again repeating Mr. Dutrochet's experiments, with that
+minute care as to cleanliness that we had observed to be absolutely
+necessary, we saw crumble away, one after another, all the pieces of
+the scaffolding that this master had with so much trouble built up. The
+camphor moved in all our vessels, of glass or metal, and of every form,
+at all heights. The immersed bodies, such as glass tubes, table knives,
+pieces of money, etc., had lost their pretended "sedative effect" on a
+pretended "activity of the water," and on the vessels that contained
+it. The so-called phenomenon of habit "transported from physiology into
+physics," no longer existed.
+
+The likening of the apparatus employed to obtain motions of camphor
+upon water, with the entirely physiological apparatus by means of which
+nature effects a circulation of the liquid contained in the internodes
+of _Chara vulgaris_, had proved a grave error that was to be erased from
+the science into which it had been introduced by its author with entire
+good faith. The true cause of _life_ had not then been unveiled, and the
+new agent designated as _diluo-electricity_ vanished before the very
+simple and authentic fact that camphor moves rapidly upon the surface
+of very pure mercury, in which no one would assuredly suppose that that
+volatile substance could dissolve.
+
+Mr. Dutrochet attaches great importance to the manner in which the water
+is poured (with or without agitation) into the vessel with which
+the experiment is performed. The matter is in fact of little or no
+importance, and to prove this, it is only necessary to employ a test
+glass (see figure) provided with a lateral tube, A, that terminates in a
+lower tubulure, B, above which there is a contraction, C. Upon pouring
+water into the lateral tube until the level reaches D, and placing
+a particle of camphor on its surface, the camphor will be seen to
+continually move about, even when the liquid has reached the upper
+edge of the vessel. To reduce the level to various heights, it is only
+necessary to revolve the tube in the cork through which it is fitted to
+the tubulure. In proceeding thus, agitation or _collision_ of the water
+is avoided; and yet if the test glass is very clean, the camphor will
+continue to move at every level of the water.
+
+But, some one will doubtless say, how do you explain the stoppage in the
+motions of the camphor on the surface of water contained in vessels that
+are not perfectly clean? Before answering this question, let us say in
+the first place that the cause of the motions under consideration is due
+to nothing else but the evaporation of this concrete oil--to effluvia
+that escape from all parts and that exert upon the body whence they
+emanate a recoiling action exactly like that which manifests itself in
+an aelopile mounted upon a brasier, or, better yet, in the explosion of
+a sky-rocket. A portion of these camphory vapors, as well as a small
+portion of the camphor itself, dissolves in the water and forms upon its
+surface an oily layer which is at first very slight, but the thickness
+of which may increase in time until it becomes (especially if the vessel
+is narrow) a mechanical obstacle to the gyration of the small fragments
+of camphor that it imprisons, and whose evaporation it prevents. Now,
+as this layer of volatile oil may and does evaporate, in fact, after a
+certain length of time, the camphor then resumes its gyratory motions;
+but there is not the least reason in the world for saying on that
+account that it "has _habituated_ itself to the cause which had at first
+influenced it, and that, too, in modifying itself in such a way as to
+render null the influence of a cause that has not ceased to be present"
+(Dutrochet, _l.c._., p. 50).
+
+We have been enabled to convince ourself of the existence of this oily
+layer of camphor when it was of a certain thickness by introducing under
+the water on which it, had formed, a few drops of sulphuric ether whose
+sudden evaporation produced sufficient cold to instantaneously congeal
+the layer in question and thus render it perfectly visible to the eye.
+The slight layer of greasy matter that habitually lines the sides of
+vessels from whence no effort has been made to remove it, produces
+effects exactly like those of the oil of camphor, that is to say, that
+in measure as it becomes thicker it likewise arrests the motions of the
+concrete volatile essence.
+
+This is precisely what happens in a test-glass in which we see the
+camphor in motion become immovable if the level of the water be raised a
+few centimeters, and, more especially, if it be raised to the upper edge
+of the apparatus. In its slow ascent the liquid _licks_ up, so to speak,
+the oily layer that lines the inner surface of the vessel, and this
+material spreads over the surface of the water and forms thereupon a
+layer which, in spreading over the bit of camphor itself, prevents its
+evaporation, and, consequently, its motions. The existence of the layer
+under consideration cannot be doubted, since it is made to disappear by
+causing the water to-overflow from the edges of the vessel, and, more
+easily still, by spreading a piece of filtering paper over the liquid in
+which the camphor is in a state of rest. As soon as the paper is
+removed (without the water being touched by the fingers, it should be
+understood), the camphor resumes its motions and afterward continues
+them at all levels.
+
+The fingers themselves, provided they are very clean, have no power to
+stop the gyration. The following experiment, which is easy to repeat, is
+an unquestionable proof of this.
+
+Wash carefully the middle finger with aqua ammonia, and afterward with
+plenty of water, and then dip it into a drinking glass in which a
+fragment of camphor is rapidly moving, and the gyration will not be
+stopped. But it will be made to stop instantly if the finger in
+its natural state (that is, covered with the fatty substances that
+ordinarily soil the fingers, especially in summer) be dipped into this
+same glass.
+
+_Movements of Camphor upon Mercury_.--In order to study the motions of
+camphor, mercury possesses, as compared with water, a great advantage,
+and that is that we can easily assure ourselves of the degree of
+cleanliness of this metal by means of the condensed breath. The
+vapory-deposits thereon in a uniform manner if the mercury is perfectly
+clean, but forms variously shaded and more persistent spots if it is
+soiled by foreign bodies But it is extremely difficult to clean mercury
+completely. To do so Mr. Boisgiraud and I take distilled mercury and
+leave it for a long time in contact with concentrated sulphuric acid,
+taking care to often shake the mixture. Then, after removing the greater
+part of the acid, we throw the metal into a vessel containing quick lime
+in powder, and finally pass it through a filter containing a few holes
+in its lower part.
+
+Purified by this process, mercury not only permits of the motions of
+camphor on its surface, but renders visible the traces of the vapors
+that escape from it, and which resemble small tadpoles with a long tail
+that are endowed with very great agility. Nothing is more curious than
+to see the particle of camphor successively ascend and descend the
+strongly pronounced curves presented by the mercury near the sides of
+the vessel that contains it. On raising the temperature of the metal
+slightly, the motions of the camphor on its surface are accelerated, and
+the same effects occur with water that has been slightly heated.
+
+The experiments that we have just called attention to show what
+importance slight impurities may have upon certain results. "They
+prove," says our learned colleague Mr. Daquin, "that there exists upon
+polished substances an imperceptible coating of those fatty matters
+which serve to-day to explain Moser's images." We find therein also a
+manifest proof and a rational explanation of those grave errors into
+which the presence of these fatty matters, that have hitherto been
+scarcely suspected, led so clever and so distinguished a scientist as
+the illustrious discoverer of endosmosis.--_N. Joly, in La Nature_.
+
+       *       *       *       *       *
+
+
+
+
+CARBONIC ACID IN BEER.
+
+
+We present a diagram, on exposition at the last Brewers' Convention in
+Detroit, of the racking device, devised by J. E. Siebel in 1872, and
+used at that time in the brewery of Messrs. Bartholomae & Roesing, in
+Chicago. The object of the apparatus is to retain as much carbonic acid
+in the beer as possible while racking the same off into smaller packages
+from the storage vats. The importance of this measure is apparent to
+every one who knows what pains are taken to preserve the presence of
+this constituent in all the former stages of the brewing process. In the
+method of racking off which is in present use in most breweries, the
+beer is forced through a rubber hose from the cask in the store vault to
+the barrels, kegs, and smaller packages in the fill room. Owing to the
+excess of pressure in the beer as it enters the keg, it is evident that
+a large amount of the carbonic acid gas must escape. The escape of
+carbonic acid during the process of racking off is indeed so large that
+even a small difference in the pressure of the atmosphere causes a
+remarkable difference in this respect. It is, therefore, evident that if
+a larger pressure can be maintained while racking off, a larger amount
+of carbonic acid gas will remain in the beer. It is true that the
+racking off will take a little longer time if done under pressure, but
+this inconvenience is certainly insignificantly small, when compared
+with the other labors and troubles daily undergone in a brewery, for the
+sole purpose to preserve in the beer the carbonic acid in that form in
+which it has been formed during the fermentation, and in which form it
+has far more refreshing and other valuable properties than in any
+other form in which it may be subsequently introduced into the beer by
+artificial means. The apparatus designed in the accompanying cut is
+calculated to artificially produce a higher pressure of the atmosphere,
+at least within the keg which is to be filled with beer. For this
+purpose, the beer from the store cask running through the pipe, B,
+enters the keg through a hollow copper bung, fitting light into the bung
+hole by means of a rubber washer. The air contained in the keg, being
+replaced by the beer, is forced out by means of the hollow copper bung,
+taking its course through the pipe, inscribed "Glass Gauge," until it is
+allowed to escape in the standpipe, C, containing a column of water,
+the height of which designates the pressure within the keg, and a
+consequently increased retention of carbonic acid gas. If the keg or
+barrel is filled with beer, the same becomes apparent from the beer
+showing itself in the glass gauge; then the faucet, B, is closed, the
+copper bung is lifted out of the bung hole, and the beer contained in
+the pipe is just sufficient to completely fill the keg, which is then
+bunged up, while the apparatus is transferred to the next keg. Should
+the attendant carelessly neglect to close the faucet in proper time, the
+surplus beer will not necessarily be wasted, but will be collected in
+the vessel, D, whence it can be drawn off through e.--_Chemical Review_.
+
+[Illustration]
+
+       *       *       *       *       *
+
+
+
+
+ON THE DIFFERENT MODIFICATIONS OF SILVER BROMIDE AND SILVER CHLORIDE.
+
+
+Hermann W. Vogel has made a comparative study of the properties of
+silver bromide, obtained by precipitation in an aqueous solution of
+gelatin, and those of the same compound prepared by precipitation in an
+alcoholic solution of collodion. In 1874 Stas called attention to six
+modifications of silver bromide. One of these, granular bromide of
+silver, obtained by boiling the flocculent precipitate for several days
+with water, he stated, was the most sensitive to light of all substances
+known; exposure for two or three seconds to the pale blue flame of a
+Bunsen burner being sufficient to blacken it. Important as this fact was
+for photographers it was not applied for years, and it was only in
+1878, when, it having been found that silver bromide precipitated in
+a gelatine solution and boiled for several hours becomes much more
+sensitive to light, that the remarks of Stas was recalled. Today these
+observations have become of the greatest importance to practical
+photography. They have led to the preparation of the silver bromide
+gelatin emulsion and the silver bromide gelatin plates, which are twenty
+times more sensitive than the silver iodide collodion plates, and have
+become indispensable when impressions are to be taken in a dim light.
+
+The extraordinary sensitiveness of silver bromide in gelatin seemed the
+more remarkable since it was known that silver bromide in collodion is
+only moderately sensitive. The explanation was sought for in various
+directions, but as the result of numerous investigations it appears
+that the chief cause of the difference is the presence of different
+modifications of silver bromide. From a consideration of the work
+already done on the subject, Vogel suspected that silver bromide
+precipitated in an aqueous colloidal liquid would have notably different
+properties from silver bromide precipitated in an alcoholic colloidal
+solution. Silver bromide was prepared in many different ways. Emulsions
+were made in bromide solutions containing gelatin or collodion (the
+former aqueous, the latter alcoholic), some with the aid of heat, others
+without. Part of the emulsion was then poured upon plates kept at a
+moderate temperature and dried. The remainder was boiled or treated with
+ammonia before being applied to the plates. He also precipitated silver
+bromide in dilute gelatin or collodion solutions, allowed it to settle
+completely, washed the precipitate, and mixed it with a new portion
+of gelatin or collodion before applying it to the plates. Finally he
+precipitated pure silver bromide, in the absence of all colloids, by
+means of pure aqueous or alcoholic solutions of bromides and attempted
+to bring this upon plates, using gelatin or collodion as a cement.
+The result of all these experiments is that there are essentially two
+modifications of silver bromide, the one being obtained by precipitation
+in aqueous, the other in alcoholic solutions. The first, on account of
+the position of the maximum of sensitiveness for the solar spectrum, he
+calls blue sensitive, the other, for the same reason, indigo sensitive.
+
+It is of no consequence whether the aqueous or alcoholic solution in
+which the silver bromide is formed contains gelatin or collodion, or
+whether the precipitation is effected with excess of bromide or of
+silver nitrate. It makes no difference whether the solution is hot or
+cold, or whether the silver bromide is treated with ammonia or
+whether it is boiled or not. The only necessary condition is that in
+precipitating indigo sensitive silver bromide the solutions must contain
+at least 96 per cent of alcohol. From aqueous alcoholic solutions blue
+sensitive silver bromide is precipitated.
+
+Besides the difference of sensitiveness toward the solar spectrum, these
+modifications of silver bromide exhibit other characteristic differences
+in properties which indicate beyond a doubt that they are two
+essentially different modifications of the same substance. Among these
+are, 1st. Their unequal divisibility in gelatin or collodion solutions.
+The indigo sensitive silver bromide cannot be distributed through a
+gelatin solution, while the blue sensitive modification does so very
+readily. 2d. Their unequal reducibility; the blue sensitive silver
+bromide being reduced with much greater difficulty than the indigo
+sensitive variety. 3d. Their different action toward chemical and
+physical sensitizers. 4th. Their different action toward photographic
+developers. 5th. Their different action under the influence of heat.
+The blue sensitive variety if heated under water has its sensitiveness
+perceptibly increased, while the other is not changed by such treatment.
+
+A direct transformation of one modification into the other has not yet
+been accomplished. The effect of the light upon these substances is
+incipient reduction, and we might hence suppose that the more reducible
+indigo sensitive variety would be the more sensitive to light. But
+this is not the case, because it is not chemical reducibility, but the
+absorption power for light that is of the greatest importance. Now the
+blue sensitive silver bromide has a greater absorption power than the
+indigo sensitive variety, and hence its greater sensitiveness. Silver
+chloride prepared by methods similar to those used in making the two
+forms of bromides was also found to exist in two modifications. One is
+designated as ultra violet sensitive, the other as violet sensitive
+silver chloride.--_Amer. Chem. Jour_.
+
+       *       *       *       *       *
+
+
+
+
+ANALYSIS OF A SAMPLE OF NEW ZEALAND COAL.
+
+[Footnote: Read before the Society of Public Analysts on the 28th June,
+1883.]
+
+By OTTO HEHNER
+
+

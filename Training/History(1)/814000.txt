@@ -1,0 +1,374 @@
+
+But suppose the wave, before reaching the glass, to be _oblique_ to
+the surface; that end of the wave which first reaches the medium will
+be the first retarded by it, the other portions as they enter the
+glass being retarded in succession. It is easy to see that this
+retardation of the one end of the wave must cause it to swing round
+and change its front, so that when the wave has fully entered the
+glass its course is oblique to its original direction. According to
+the undulatory theory, light is thus _refracted_.
+
+With these considerations to guide us, let us follow the course of a
+beam of monochromatic light through our glass prism. The velocity in
+air is to its velocity in glass as 3: 2. Let A B C (fig. 25) be the
+section of our prism, and _a_ _b_ the section of a plane wave
+approaching it in the direction of the arrow. When it reaches _c_ _d_,
+one end of the wave is on the point of entering the glass. Following
+it still further, it is obvious that while the portion of the wave
+still in the air passes over the distance _c_ _e_, the wave in the
+glass will have passed over only two-thirds of this distance, or _d_
+_f_. The line _e_ _f_ now marks the front of the wave. Immersed wholly
+in the glass it pursues its way to _g_ _h_, where the end _g_ of the
+wave is on the point of escaping into the air. During the time
+required by the end _h_ of the wave to pass over the distance _h_ _k_
+to the surface of the prism, the other end _g_, moving more rapidly,
+will have reached the point _i_. The wave, therefore, has again
+changed its front, so that after its emergence from the prism it will
+pass on to _l_ _m_, and subsequently in the direction of the arrow.
+The refraction of the beam is thus completely accounted for; and it
+is, moreover, based upon actual experiment, which proves that the
+ratio of the velocity of light in glass to its velocity in air is that
+here mentioned. It is plain that if the change of velocity on entering
+the glass were greater, the refraction also would be greater.
+
+
+Sec. 4. _Double Refraction of Light explained by the Wave Theory_.
+
+The two elements of rapidity of propagation, both of sound and light,
+in any substance whatever, are _elasticity_ and _density_, the speed
+increasing with the former and diminishing with the latter. The
+enormous velocity of light in stellar space is attainable because the
+ether is at the same time of infinitesimal density and of enormous
+elasticity. Now the ether surrounds the atoms of all bodies, but it is
+not independent of them. In ponderable matter it acts as if its
+density were increased without a proportionate increase of elasticity;
+and this accounts for the diminished velocity of light in refracting
+bodies. We here reach a point of cardinal importance. In virtue of the
+crystalline architecture that we have been considering, the ether in
+many crystals possesses different densities, and different
+elasticities, in different directions; the consequence is, that in
+such crystals light is transmitted with different velocities. And as
+refraction depends wholly upon the change of velocity on entering the
+refracting medium, being greatest where the change of velocity is
+greatest, we have in many crystals two different refractions. By such
+crystals a beam of light is divided into two. This effect is called
+_double refraction_.
+
+In ordinary water, for example, there is nothing in the grouping of
+the molecules to interfere with the perfect homogeneity of the ether;
+but, when water crystallizes to ice, the case is different. In a plate
+of ice the elasticity of the ether in a direction perpendicular to the
+surface of freezing is different from what it is parallel to the
+surface of freezing; ice is, therefore, a double refracting substance.
+Double refraction is displayed in a particularly impressive manner by
+Iceland spar, which is crystallized carbonate of lime. The difference
+of ethereal density in two directions in this crystal is very great,
+the separation of the beam into the two halves being, therefore,
+particularly striking.
+
+I am unwilling to quit this subject before raising it to unmistakable
+clearness in your minds. The vibrations of light being transversal,
+the elasticity concerned in the propagation of any ray is the
+elasticity at right angles to the direction of propagation. In Iceland
+spar there is one direction round which the crystalline molecules are
+symmetrically built. This direction is called the axis of the crystal.
+In consequence of this symmetry the elasticity is the same in all
+directions perpendicular to the axis, and hence a ray transmitted
+along the axis suffers no double refraction. But the elasticity along
+the axis is greater than the elasticity at right angles to it.
+Consider, then, a system of waves crossing the crystal in a direction
+perpendicular to the axis. Two directions of vibration are open to
+such waves: the ether particles can vibrate parallel to the axis or
+perpendicular to it. _They do both_, and hence immediately divide
+themselves into two systems propagated with different velocities.
+Double refraction is the necessary consequence.
+
+[Illustration: Fig. 26.]
+
+By means of Iceland spar cut in the proper direction, double
+refraction is capable of easy illustration. Causing the beam which
+builds the image of our carbon-points to pass through the spar, the
+single image is instantly divided into two. Projecting (by the lens E,
+fig. 26) an image of the aperture (L) through which the light issues
+from the electric lamp, and introducing the spar (P), two luminous
+disks (E O) appear immediately upon the screen instead of one.
+
+The two beams into which the spar divides the single incident-beam
+have been subjected to the closest examination. They do not behave
+alike. One of them obeys the ordinary law of refraction discovered by
+Snell, and is, therefore, called the _ordinary ray_: its index of
+refraction is 1.654. The other does not obey this law. Its index of
+refraction, for example, is not constant, but varies from a maximum of
+1.654 to a minimum of 1.483; nor in this case do the incident and
+refracted rays always lie in the same plane. It is, therefore, called
+the _extraordinary ray_. In calc-spar, as just stated, the ordinary
+ray is the most refracted. One consequence of this merits a passing
+notice. Pour water and bisulphide of carbon into two cups of the same
+depth; the cup that contains the more strongly refracting liquid will
+appear shallower than the other. Place a piece of Iceland spar over a
+dot of ink; two dots are seen, the one appearing nearer than the other
+to the eye. The nearest dot belongs to the most strongly refracted
+ray, exactly as the nearest cup-bottom belongs to the most highly
+refracting liquid. When you turn the spar round, the extraordinary
+image of the dot rotates round the ordinary one, which remains fixed.
+This is also the deportment of our two disks upon the screen.
+
+
+Sec. 5. _Polarization of Light explained by the Wave Theory_.
+
+The double refraction of Iceland spar was first treated in a work
+published by Erasmus Bartholinus, in 1669. Huyghens sought to account
+for this phenomenon on the principles of the wave theory, and he
+succeeded in doing so. He, moreover, made highly important
+observations on the distinctive character of the two beams transmitted
+by the spar, admitting, with resigned candour, that he had not solved
+the difficulty, and leaving the solution to future times. Newton,
+reflecting on the observations of Huyghens, came to the conclusion
+that each of the beams transmitted by Iceland spar had two sides; and
+from the analogy of this _two-sidedness_ with the _two-endedness_ of a
+magnet, wherein consists its polarity, the two beams came subsequently
+to be described as _polarized_.
+
+We may begin the study of the polarization of light, with ease and
+profit, by means of a crystal of tourmaline. But we must start with a
+clear conception of an ordinary beam of light. It has been already
+explained that the vibrations of the individual ether-particles are
+executed _across_ the line of propagation. In the case of ordinary
+light we are to figure the ether-particles as vibrating in all
+directions, or azimuths, as it is sometimes expressed, across this
+line.
+
+Now, in the case of a plate of tourmaline cut parallel to the axis of
+the crystal, a beam of light incident upon the plate is divided into
+two, the one vibrating parallel to the axis of the crystal, the other
+at right angles to the axis. The grouping of the molecules, and of
+the ether associated with the molecules, reduces all the vibrations
+incident upon the crystal to these two directions. One of these beams,
+namely, that whose vibrations are perpendicular to the axis, is
+quenched with exceeding rapidity by the tourmaline. To such vibrations
+many specimens of the crystal are highly opaque; so that, after having
+passed through a very small thickness of the tourmaline, the light
+emerges with all its vibrations reduced to a single plane. In this
+condition it is what we call _plane polarized light_.
+
+[Illustration: Fig. 27.]
+
+[Illustration: Fig. 28.]
+
+A moment's reflection will show that, if what is here stated be
+correct, on placing a second plate of tourmaline with its axis
+parallel to the first, the light will pass through both; but that, if
+the axes be crossed, the light that passes through the one plate will
+be quenched by the other, a total interception of the light being the
+consequence. Let us test this conclusion by experiment. The image of a
+plate of tourmaline (_t_ _t_, fig. 27) is now before you. I place
+parallel to it another plate (_t'_ _t'_): the green of the crystal is
+a little deepened, nothing more; this agrees with our conclusion. By
+means of an endless screw, I now turn one of the crystals gradually
+round, and you observe that as long as the two plates are oblique to
+each other, a certain portion of light gets through; but that when
+they are at right angles to each other, the space common to both is a
+space of darkness (fig. 28). Our conclusion, arrived at prior to
+experiment, is thus verified.
+
+Let us now return to a single plate; and here let me say that it is on
+the green light transmitted by the tourmaline that you are to fix your
+attention. We have to illustrate the two-sidedness of that green
+light, in contrast to the all-sidedness of ordinary light. The white
+light surrounding the green image, being ordinary light, is reflected
+by a plane glass mirror in all directions; the green light, on the
+contrary, is not so reflected. The image of the tourmaline is now
+horizontal; reflected upwards, it is still green; reflected sideways,
+the image is reduced to blackness, because of the incompetency of the
+green light to be reflected in this direction. Making the plate of
+tourmaline vertical, and reflecting it as before, it is the light of
+the upper image that is quenched; the side image now shows the green.
+This is a result of the greatest significance. If the vibrations of
+light were longitudinal, like those of sound, you could have no action
+of this kind; and this very action compels us to assume that the
+vibrations are transversal. Picture the thing clearly. In the one case
+the mirror receives, as it were, the impact of the _edges_ of the
+waves, the green light being then quenched. In the other case the
+_sides_ of the waves strike the mirror, and the green light is
+reflected. To render the extinction complete, the light must be
+received upon the mirror at a special angle. What this angle is we
+shall learn presently.
+
+The quality of two-sidedness conferred upon light by bi-refracting
+crystals may also be conferred upon it by ordinary reflection. Malus
+made this discovery in 1808, while looking through Iceland spar at the
+light of the sun reflected from the windows of the Luxembourg palace
+in Paris. I receive upon a plate of window-glass the beam from our
+lamp; a great portion of the light reflected from the glass is
+polarized. The vibrations of this reflected beam are executed, for the
+most part, parallel to the surface of the glass, and when the glass is
+held so that the beam shall make an angle of 58 deg. with the
+perpendicular to the glass, the _whole_ of the reflected beam is
+polarized. It was at this angle that the image of the tourmaline was
+completely quenched in our former experiment. It is called _the
+polarizing angle_.
+
+Sir David Brewster proved the angle of polarization of a medium to be
+that particular angle at which the refracted and reflected rays
+inclose a right angle.[17] The polarizing angle augments with the
+index of refraction. For water it is 521/2 deg.; for glass, as already
+stated, 58 deg.; while for diamond it is 68 deg..
+
+And now let us try to make substantially the experiment of Malus. The
+beam from the lamp is received at the proper angle upon a plate of
+glass and reflected through the spar. Instead of two images, you see
+but one. So that the light, when polarized, as it now is by
+reflection, can only get through the spar in one direction, and
+consequently can produce but one image. Why is this? In the Iceland
+spar as in the tourmaline, all the vibrations of the ordinary light
+are reduced to two planes at right angles to each other; but, unlike
+the tourmaline, both beams are transmitted with equal facility by the
+spar. The two beams, in short, emergent from the spar, are polarized,
+their directions of vibration being at right angles to each other.
+When, therefore, the light is first polarized by reflection, the
+direction of vibration in the spar which coincides with the direction
+of vibration of the polarized beam, transmits the beam, and that
+direction only. Only one image, therefore, is possible under the
+conditions.
+
+You will now observe that such logic as connects our experiments is
+simply a transcript of the logic of Nature. On the screen before you
+are two disks of light produced by the double refraction of Iceland
+spar. They are, as you know, two images of the aperture through which
+the light issues from the camera. Placing the tourmaline in front of
+the aperture, two images of the crystal will also be obtained; but now
+let us reason out beforehand what is to be expected from this
+experiment. The light emergent from the tourmaline is polarized.
+Placing the crystal with its axis horizontal, the vibrations of its
+transmitted light will be horizontal. Now the spar, as already stated,
+has two directions of vibration, one of which at the present moment
+is vertical, the other horizontal. What are we to conclude? That the
+green light will be transmitted along the latter, which is parallel to
+the axis of the tourmaline, and not along the former, which is
+perpendicular to that axis. Hence we may infer that one image of the
+tourmaline will show the ordinary green light of the crystal, while
+the other image will be black. Tested by experiment, our reasoning is
+verified to the letter (fig. 29).
+
+[Illustration: Fig. 29.]
+
+[Illustration; Fig. 30.]
+
+Let us push our test still further. By means of an endless screw, the
+crystal can be turned ninety degrees round. The black image, as I
+turn, becomes gradually brighter, and the bright one gradually darker;
+at an angle of forty-five degrees both images are equally bright (fig.
+30); while, when ninety degrees have been obtained, the axis of the
+crystal being then vertical, the bright and black images have changed
+places, exactly as reasoning would have led us to suppose (fig. 31).
+
+[Illustration: Fig. 31.]
+
+[Illustration: Fig. 32.]
+
+Considering what has been already said (p. 114) regarding the
+reflection of light polarized by transmission through tourmaline, you
+will readily foresee what must occur when we receive upon a plate of
+glass, held at the polarizing angle, the two beams emergent from our
+prism of Iceland spar. I cause both beams to pass side by side through
+the air, catch them on a glass plate, and seek to reflect them
+upwards. At the polarizing angle one beam only is capable of being
+thus reflected. Which? Your prompt answer will be, The beam whose
+vibrations are horizontal (fig. 32). I now turn the glass plate and
+try to reflect both beams laterally. One of them only is reflected;
+that, namely, the vibrations of which are vertical (fig. 33). It is
+plain that, by means either of the tourmaline or the reflecting glass,
+we can determine in a moment the direction of vibration in any
+polarized beam.
+
+[Illustration: Fig. 33.]
+
+As already stated, the whole of a beam of ordinary light reflected
+from glass at the polarizing angle is polarized; a word must now be
+added regarding the far larger portion of the light which is
+_transmitted_ by the glass. The transmitted beam contains a quantity
+of polarized light equal to the reflected beam; but this is only a
+fraction of the whole transmitted light. By taking two plates of glass
+instead of one, we augment the quantity of the transmitted polarized
+light; and by taking _a bundle_ of plates, we so increase the quantity
+as to render the transmitted beam, for all practical purposes,
+_perfectly_ polarized. Indeed, bundles of glass plates are often
+employed as a means of furnishing polarized light. It is important to
+note that the plane of vibration of this transmitted light is at right
+angles to that of the reflected light.
+
+One word more. When the tourmalines are crossed, the space where they
+cross each other is black. But we have seen that the least obliquity
+on the part of the crystals permits light to get through both. Now
+suppose, when the two plates are crossed, that we interpose a third
+plate of tourmaline between them, with its axis oblique to both. A
+portion of the light transmitted by the first plate will get through
+this intermediate one. But, after it has got through, _its plane of
+vibration is changed_: it is no longer perpendicular to the axis of
+the crystal in front. Hence it will, in part, get through that
+crystal. Thus, by pure reasoning, we infer that the interposition of a
+third plate of tourmaline will in part abolish the darkness produced
+by the perpendicular crossing of the other two plates. I have not a
+third plate of tourmaline; but the talc or mica which you employ in
+your stoves is a more convenient substance, which acts in the same
+way. Between the crossed tourmalines, I introduce a film of this
+crystal with its axis oblique to theirs. You see the edge of the film
+slowly descending, and, as it descends, light takes the place of
+darkness. The darkness, in fact, seems scraped away, as if it were
+something material. This effect has been called, naturally but
+improperly, _depolarization_. Its proper meaning will be disclosed in
+our next lecture.
+
+These experiments and reasonings, if only thoroughly studied and
+understood, will form a solid groundwork for the analysis of the
+splendid optical phenomena next to be considered.
+
+
+
+
+LECTURE IV.
+
+  CHROMATIC PHENOMENA PRODUCED BY CRYSTALS IN POLARIZED LIGHT
+  THE NICOL PRISM
+  POLARIZER AND ANALYZER
+  ACTION OF THICK AND THIN PLATES OF SELENITE
+  COLOURS DEPENDENT ON THICKNESS
+  RESOLUTION OF POLARIZED BEAM INTO TWO OTHERS BY THE SELENITE
+  ONE OF THEM MORE RETARDED THAN THE OTHER
+  RECOMPOUNDING OF THE TWO SYSTEMS OF WAVES BY THE ANALYZER
+  INTERFERENCE THUS RENDERED POSSIBLE
+  CONSEQUENT PRODUCTION OF COLOURS
+  ACTION OF BODIES MECHANICALLY STRAINED OR PRESSED
+  ACTION OF SONOROUS VIBRATIONS
+  ACTION OF GLASS STRAINED OR PRESSED BY HEAT
+  CIRCULAR POLARIZATION
+  CHROMATIC PHENOMENA PRODUCED BY QUARTZ
+  THE MAGNETIZATION OF LIGHT
+  RINGS SURROUNDING THE AXES OF CRYSTALS
+  BIAXAL AND UNIAXAL CRYSTALS
+  GRASP OF THE UNDULATORY THEORY
+  THE COLOUR AND POLARIZATION OF SKY-LIGHT
+  GENERATION OF ARTIFICIAL SKIES.
+
+
+Sec. 1. _Action of Crystals on Polarized Light: the Nicol Prism._
+
+We have this evening to examine and illustrate the chromatic phenomena
+produced by the action of crystals, and double-refracting bodies
+generally, upon polarized light, and to apply the Undulatory Theory to
+their elucidation. For a long time investigators were compelled to
+employ plates of tourmaline for this purpose, and the progress they
+made with so defective a means of inquiry is astonishing. But these
+men had their hearts in their work, and were on this account enabled
+to extract great results from small instrumental appliances. For our
+present purpose we need far larger apparatus; and, happily, in these
+later times this need has been to a great extent satisfied. We have
+seen and examined the two beams emergent from Iceland spar, and have
+proved them to be polarized. If, at the sacrifice of half the light,
+we could abolish one of these, the other would place at our disposal a
+beam of polarized light, incomparably stronger than any attainable
+from tourmaline.
+
+The beams, as you know, are refracted differently, and from this, as
+made plain in Sec.4, Lecture I., we are able to infer that the one may be
+totally reflected, when the other is not. An able optician, named

@@ -1,0 +1,390 @@
+uncrystallisable sugar found in many plants.
+
+_Cane Sugar._--This variety of sugar, as its name implies, is found most
+abundantly in the sugar cane, but it occurs also in the maple,
+beet-root, and various species of palms, from all of which it is
+extracted on the large scale. It is extremely soluble in water, and can
+be obtained in large transparent prismatic crystals, as in common
+sugar-candy. It swells up, and is converted into a brown substance
+called caramel, when heated, and by contact with fermenting substances,
+yields alcohol and carbonic acid. It contains--
+
+     Carbon    42.22
+     Hydrogen   6.60
+     Oxygen    51.18
+              ------
+              100.00
+
+and its chemical formula is C_{12}H_{11}O_{11}.
+
+_Grape Sugar_ is met with in the grape, and most other fruits, as well
+as in honey. It is produced artificially when starch is boiled for a
+long time with sulphuric acid, or treated with a large quantity of
+diastase. It is less soluble in water than cane sugar, and crystallises
+in small round grains. Its composition, when dried at 284 deg., is--
+
+     Carbon    40.00
+     Hydrogen   6.66
+     Oxygen    53.34
+              ------
+              100.00
+
+and its formula is C_{12}H_{12}O_{12}; but when crystallised it contains
+two equivalents of water, and is then represented by the formula
+C_{12}H_{12}O_{12} + 2H_{2}O.
+
+The uncrystallisable sugar of plants is closely allied to grape sugar,
+and, so far as at present known, has the same composition, although,
+from the difficulty of obtaining it quite free from crystallised sugar,
+this is still uncertain.
+
+_Mucilage_ is the name applied to the substance existing in linseed,
+and in many other seeds, and which communicates to them the property of
+swelling up and becoming gelatinous when treated with water. It is found
+in a state of considerable purity in gum tragacanth and some other gums.
+Its composition is not known with absolute certainty, but it is either
+C_{24}H_{19}O_{19}, or C_{12}H_{10}O_{10}; and in the latter case it
+must be identical with starch and gum.
+
+It will be observed that all the substances belonging to this class are
+very closely related in chemical composition, some of them, as starch
+and gum, though easily distinguished by their properties, being
+identical in constitution, while others only differ in the quantity of
+water, or of its elements which they contain. In fact, they may all be
+considered as compounds of carbon and water, and their relations are,
+perhaps, more distinctly seen when their formulae are written so as to
+show this, as is done in the following table, in the second column of
+which those containing twelve equivalents of carbon are doubled, so as
+to make them comparable with cellulose:--
+
+                                                            Water.
+Grape sugar,   C_{12}H_{12}O_{12}   C_{24}H_{24}O_{24}   C_{24} + 24
+Cane sugar,    C_{12}H_{11}O_{11}   C_{24}H_{22}O_{22}   C_{24} + 22
+Cellulose,     C_{24}H_{21}O_{21}   C_{24}H_{21}O_{21}   C_{24} + 21
+Inuline,       C_{24}H_{21}O_{21}   C_{24}H_{21}O_{21}   C_{24} + 21
+Starch,        C_{12}H_{10}O_{10}   C_{24}H_{20}O_{20}   C_{24} + 20
+Dextrine,      C_{12}H_{10}O_{10}   C_{24}H_{20}O_{20}   C_{24} + 20
+Gum,           C_{12}H_{10}O_{10}   C_{24}H_{20}O_{20}   C_{24} + 20
+Mucilage,      C_{12}H_{10}O_{10}   C_{24}H_{20}O_{20}   C_{24} + 20
+
+The relation between these substances being so close, it is not
+difficult to understand how one may be converted into another by the
+addition or subtraction of water. Thus, cellulose has only to absorb an
+equivalent of water to become grape sugar, or to lose an equivalent in
+order to be converted into starch, and we shall afterwards see that
+such changes do actually occur in the plant during the process of
+germination.
+
+_Pectine and Pectic Acid._--These substances are met with in many fruits
+and roots, as, for instance, in the apple, the carrot, and the turnip.
+They differ from the starch group in containing more oxygen than is
+required to form water along with their hydrogen; but their exact
+composition is still uncertain, and they undergo numerous changes during
+the ripening of the fruit.
+
+_2d. Oily or Fatty Matters._--The oily constituents of plants form a
+rather extensive group of substances all closely allied, but
+distinguished by minor differences in properties and constitution. Some
+of them are very widely distributed throughout the vegetable kingdom,
+but others are almost peculiar to individual plants. They are all
+compounds of carbon, hydrogen, and oxygen, and are at once distinguished
+from the preceding class, by containing much less oxygen than is
+required to form water with their hydrogen. The principal constituents
+of the fatty matters and oils of plants are three substances, called
+stearine, margarine, and oleine, the two former solids, the latter a
+fluid; and they rarely, if ever, occur alone, but are mixed together in
+variable proportions, and the fluidity of the oils is due principally to
+the quantity of the last which they contain. If olive oil be exposed to
+cold, it is seen to become partially solid; and if it be then pressed, a
+fluid flows out, and a crystalline substance remains; the former is
+oleine, though not absolutely pure, and the latter margarine. The
+perfect separation of these substances involves a variety of troublesome
+chemical processes; and when it has been effected, it is found that each
+of them is a compound of a peculiar acid, with another substance having
+a sweet taste, and which has received the name of glycerine, or the
+sweet principle of oil. Glycerine, as it exists in the fats, appears to
+be a compound of C_{3}H_{2}O, and its properties are the same from
+whatever source it is obtained. The acids separated from it are known by
+the names of margaric, stearic, and oleic acids.
+
+_Margaric Acid_ is best obtained pure by boiling olive oil with an
+alkali until it is saponified, and decomposing the soap with an acid,
+expressing the margaric acid, which separates, and crystallising it from
+alcohol. It is a white crystalline fusible solid, insoluble in water,
+but soluble in alcohol and in solutions of the alkalies. Its composition
+is--
+
+     Carbon     75.56
+     Hydrogen   12.59
+     Oxygen     11.85
+               ------
+               100.00
+
+and its formula C_{34}H_{34}O_{4}.
+
+_Stearic Acid._--Although this acid exists in many plants, it is most
+conveniently extracted from lard. It is a crystalline solid less fusible
+than margaric acid, but closely resembling it in its other properties.
+Its formula is C_{36}H_{36}O_{4}.
+
+_Oleic Acid._--Under this name two different substances appear to be
+included. It has been applied generally to the fluid acids of all oils,
+while it would appear that the drying and non-drying oils actually
+contain substances of different composition. The acid extracted from
+olive oil appears to have the formula C_{36}H_{34}O_{4}, while that from
+linseed oil is C_{46}H_{38}O_{6}, but this is still doubtful.
+
+Other fatty acids have been detected in palm oil, cocoa-nut oil, &c.
+&c., which so closely resemble margaric and stearic acids as to be
+easily confounded with them. Though presenting many points of interest,
+it is unnecessary to describe them in detail here.
+
+_Wax_ is a substance closely allied to the oils. It consists of two
+substances, cerine and myricine, which are separated from one another by
+boiling alcohol, in which the former is more soluble. They are extremely
+complex in composition, the former consisting principally of an acid
+similar to the fatty acids, called cerotic acid, and containing
+C_{54}H_{54}O_{4}. The latter has the formula C_{92}H_{92}O_{4}. The wax
+found in the leaves of the lilac and other plants appears to consist of
+myricine, while that extracted from the sugar-cane is said to be
+different, and to have the formula C_{48}H_{50}O_{2}. It is probable
+that other plants contain different sorts of wax, but their
+investigation is still so incomplete, that nothing definite can be said
+regarding them. Wax and fats appear to be produced in the plant from
+starch and sugar; at least it is unquestionable that the bee is capable
+of producing the former from sugar, and we shall afterwards see that a
+similar change is most probably produced in the plant. The fatty matters
+contained in animals are identical with those of plants.
+
+_3d. Nitrogenous or Albuminous Constituents of Plants and Animals._--The
+nitrogenous constituents of plants and animals are so closely allied,
+both in properties and composition, that they may be most advantageously
+considered together.
+
+_Albumen._--Vegetable albumen is found dissolved in the juices of most
+plants, and is abundant in that of the potato, the turnip, and wheat. In
+these juices it exists in a soluble state, but when its solution is
+heated to about 150 deg., it coagulates into a flocky insoluble substance.
+It is also thrown down by acids and alcohol. Coagulated albumen is
+soluble in alkalies and in nitric acid. Animal albumen exists in the
+white of eggs, the serum of blood, and the juice of flesh; and from all
+these sources is scarcely distinguishable in its properties from
+vegetable albumen.
+
+It is a substance of very complicated composition, and chemists are not
+agreed as to the formula by which its constitution is to be expressed, a
+difficulty which occurs also with most of the other nitrogenous
+compounds. The results of the analyses of albumen from different sources
+are however quite identical, as may be seen from those subjoined--
+
+             From    From       From    From
+             Wheat.  Potatoes.  Blood.  White of Egg.
+Carbon        53.7    53.1        53.4      53.0
+Hydrogen       7.1     7.2         7.0       7.1
+Nitrogen      15.6     ...        15.5      15.6
+Oxygen      }      {   ...        22.1      22.9
+Sulphur     } 23.6 {  0.97         1.6       1.1
+Phosphorus  }      {   ...         0.4       0.3
+             -----               -----     -----
+             100.0               100.0     100.0
+
+Closely allied to vegetable albumen is the substance known by the name
+of _glutin_, which is obtained by boiling the gluten of wheat with
+alcohol. It appears to be a sort of coagulated albumen, with which its
+composition completely agrees.
+
+_Vegetable Fibrine._--If a quantity of wheat flour be tied up in a piece
+of cloth, and kneaded for some time under water, the starch it contains
+is gradually washed out, and there remains a quantity of a glutinous
+substance called gluten. When this is boiled with alcohol, the _glutin_
+above referred to is extracted, and vegetable fibrine is left. It
+dissolves in dilute potash, and on the addition of acetic acid is
+deposited in a pure state. Treated with hydrochloric acid, diluted with
+ten times its weight of water, it swells up into a jelly-like mass.
+When boiled or preserved for a long time under water, it cannot be
+distinguished from coagulated albumen.
+
+_Animal Fibrine_ exists in the blood and the muscles, and agrees in all
+its characters and composition with vegetable fibrine, as is shown by
+the subjoined analyses--
+
+             Wheat Flour.     Blood.    Flesh.
+Carbon         53.1            52.5      53.3
+Hydrogen        7.0             6.9       7.1
+Nitrogen       15.6            15.5      15.3
+Oxygen         23.2            24.0      23.1
+Sulphur         1.1             1.1       1.2
+              -----           -----     -----
+              100.0           100.0     100.0
+
+_Caseine._--Vegetable caseine exists abundantly in most plants,
+especially in the seeds, and remains in the juice after albumen has been
+precipitated by heat, from which it may be separated in flocks by the
+addition of an acid. It has been obtained for chemical examination,
+principally from peas and beans, and from the almond and oats. When
+prepared from the pea it has been called _legumine,_ from almonds
+_emulsine_, and from oats _avenine_; but they are all three identical in
+their properties, although formerly believed to be different, and
+distinguished by these names. Vegetable caseine is best obtained by
+treating peas or beans with hot water, and straining the fluid. On
+standing, the starch held in suspension is deposited, and the caseine is
+retained in solution in the alkaline fluid; by the addition of an acid
+it is precipitated as a thick curd. Caseine is insoluble in water, but
+dissolves readily in alkalies; its solution is not coagulated by heat,
+but, on evaporation, becomes covered with a thin pellicle, which is
+renewed as often as it is removed.
+
+_Animal Caseine_ is the principal constituent of milk, and is obtained
+by the cautious addition of an acid to skimmed milk, by which it is
+precipitated as a thick white curd. It is also obtained by the use of
+rennet, and the process of curding milk is simply the coagulation of its
+caseine. It is soluble in alkalies, and precipitated from its solution
+by acids, and in all other respects agrees with vegetable caseine.
+
+The composition of animal caseine has been well ascertained, but
+considerable doubt still exists as to that of vegetable caseine, owing
+to the difficulty of obtaining it absolutely pure. The analyses of
+different chemists give rather discordant results, but we have given
+those which appear most trustworthy--
+
+                      From Peas.
+     Carbon          50.6    50.7
+     Hydrogen         6.8     6.6
+     Nitrogen        16.5    15.8
+     Oxygen          25.6    23.8
+     Sulphur          0.5     0.8
+     Phosphorus       ...     2.3
+                    -----   -----
+                    100.0   100.0
+
+Other results differ considerably from these, and some observers have
+even obtained as much as eighteen per cent of nitrogen and fifty-three
+of carbon.
+
+The composition of animal caseine differs from this principally in the
+amount of carbon. Its composition is--
+
+     Carbon       53.6
+     Hydrogen      7.1
+     Nitrogen     15.8
+     Oxygen       22.5
+     Sulphur       1.0
+                 -----
+                 100.0
+
+The most cursory examination of these analytical numbers is sufficient
+to show that a very close relation subsists between the different
+substances just described. Indeed, with the exception of vegetable
+caseine, they may be said all to present the same composition; and, as
+already mentioned, there are analyses of it which would class it
+completely with the others. While, however, the quantities of carbon,
+hydrogen, nitrogen, and oxygen are the same, differences exist in the
+sulphur and phosphorus they contain, and which, though very small in
+quantity, are indubitably essential to them. Much importance has been
+attributed to these constituents by various chemists, and especially by
+Mulder, who has endeavoured to make out that all the albuminous
+substances are compounds of a substance to which he has given the name
+of _proteine_, with different quantities of sulphur and phosphorus. The
+composition of proteine, according to his newest experiments, is--
+
+     Carbon       54.0
+     Hydrogen      7.1
+     Nitrogen     16.0
+     Oxygen       21.4
+     Sulphur       1.5
+                 -----
+                 100.0
+
+and is exactly the same from whatever albuminous compound it is
+obtained. Although the importance of proteine is probably not so great
+as Mulder supposed, it affords an important illustration of the close
+similarity of the different substances from which it is obtained, the
+more especially as there is every reason to believe that the different
+albuminous compounds are capable of changing into one another, just as
+starch and sugar are mutually convertible; and the possibility of this
+change throws much light on many of the phenomena of nutrition in plants
+and animals. Indeed, it would seem probable that these compounds are
+formed from their elements by plants only, and are merely assimilated by
+animals to produce the nitrogenous constituents they contain.
+
+_Diastase_ is the name applied to a substance existing in malt, and
+obtained by macerating that substance with cold water, and adding a
+quantity of alcohol to the fluid, when the diastase is immediately
+precipitated in white flocks. It is produced during the malting process,
+and is not found in the unmalted barley. Its chemical composition is
+unknown, but it is nitrogenous, and is believed to be produced by the
+decomposition of gluten. If a very small quantity of diastase be mixed
+with starch suspended in hot water, the starch is found gradually to
+dissolve, and to pass first into the state of dextrine, then into that
+of sugar. The change thus effected takes place also in a precisely
+similar manner in the plant, diastase being produced during the process
+of germination of all seeds and tubers, for the purpose of effecting
+this change, and to fulfil other functions less understood, but no doubt
+equally important. Diastase is found in the seeds only during the period
+when the starch they contain is passing into sugar; as soon as that
+change has taken place, its function is ended, and it disappears.
+
+
+
+
+CHAPTER III.
+
+THE CHANGES WHICH TAKE PLACE IN THE FOOD OF PLANTS DURING THEIR GROWTH.
+
+
+The simple compounds which the plant absorbs from the atmosphere and
+soil are elaborated within its system, and converted into the various
+complex substances of which its tissues are composed, by a series of
+changes, the details of which are still in some respects imperfectly
+known, although their general nature is sufficiently well understood.
+They may be best rendered intelligible by reference, in the first
+instance, to the changes occurring during germination, when the young
+plant is nourished by a supply of food stored up in the seed, in
+sufficient quantity to maintain its existence until the organs by which
+it is afterwards to draw its nutriment from the air and soil are
+sufficiently developed to serve that purpose.
+
+_Changes occurring during Germination._--When a seed is placed in the
+soil under favourable circumstances, it becomes the seat of an important
+and remarkable series of chemical changes, which result in the
+production of the young plant. Experiment and observation have shown
+that heat, moisture, and air, are necessary to the production of these
+changes, and though probably not absolutely essential, the absence of
+light is favourable in the early stages. The temperature required for
+germination varies greatly in different seeds, some germinating readily
+at a few degrees above the freezing point, and others requiring a
+tolerably high temperature. The rapidity with which it takes place
+appears to increase with the temperature; but this is true only within
+very narrow limits, for beyond a certain point heat is injurious, and
+when it exceeds 120 deg. or 130 deg. Fahrenheit, entirely prevents the process.
+The presence of oxygen is also essential, for it has been shown that if
+seeds are placed in a soil exposed to an atmosphere deprived of that
+element, or if they be buried so deep that the air does not reach them,
+they may lie without change for an unlimited period; but so soon as they
+are exposed to the air, germination immediately commences. Illustrations
+of this fact are frequently observed where earth from a considerable
+depth has been thrown up to the surface, when it often becomes covered
+with plants not usually seen in the neighbourhood, which have sprung
+from buried seeds. When all the necessary conditions for germination are
+fulfilled, the seed absorbs moisture, swells up, and sends out a shoot
+which rises to the surface, and a radicle which descends--the one
+destined to develop the leaves, the other the roots, by which the plant
+is afterwards to derive its nutriment from the air and the soil. But
+until these organs are properly developed, the plant is dependent on the
+matters contained in the seed itself. These substances are mostly
+insoluble, but are brought into solution by the atmospheric oxygen
+acting upon the gluten, and converting it into a soluble substance
+called diastase, which in its turn reacts upon the starch, converting it
+first into dextrine, and then into cellulose, and the latter is finally
+deposited in the form of organised cells, and produces the first little
+shoot of the plant. At the first moment of germination, the oxygen
+absorbed appears simply to oxidize the constituents of the seed, but
+this condition exists only for a very limited period, and is soon
+followed by the evolution of carbonic acid, water being at the same time
+formed from the organic constituents of the seed, which gradually
+diminishes in weight. The amount of this diminution is different with
+different plants, but always considerable. Boussingault found that the
+loss of dry substance in the pea amounted in 26 days to 52 per cent, and
+in wheat to 57 per cent in 51 days. Against this, of course, is to be
+put the weight of the young plant produced; but this is never sufficient
+to counterbalance the diminished weight of the seed, for Saussure found

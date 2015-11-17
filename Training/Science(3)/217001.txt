@@ -1,0 +1,518 @@
+always appear in projective correspondences: namely, the same process that
+carries one from _B_ to _D_ will carry one back from _D_ to _B_ again.
+This special property will receive further study in the chapter on
+Involution.
+
+
+
+
+*38.*  It is seen that as _B_ approaches _A_, _D_ also approaches _A_. As
+_B_ moves from _A_ toward _C_, _D_ moves from _A_ in the opposite
+direction, passing through the point at infinity on the line _AC_, and
+returns on the other side to meet _B_ at _C_ again. In other words, as _B_
+traverses _AC_, _D_ traverses the rest of the line from _A_ to _C_ through
+infinity. In all positions of _B_, except at _A_ or _C_, _B_ and _D_ are
+separated from each other by _A_ and _C_.
+
+
+
+
+*39. Harmonic conjugate of the point at infinity.*  It is natural to
+inquire what position of _B_ corresponds to the infinitely distant
+position of _D_. We have proved (§ 27) that the particular quadrangle _K_,
+_L_, _M_, _N_ employed is of no consequence. We shall therefore avail
+ourselves of one that lends itself most readily to the solution of the
+problem. We choose the point _L_ so that the triangle _ALC_ is isosceles
+(Fig. 7). Since _D_ is supposed to be at infinity, the line _KM_ is
+parallel to _AC_. Therefore the triangles _KAC_ and _MAC_ are equal, and
+the triangle _ANC_ is also isosceles. The triangles _CNL_ and _ANL_ are
+therefore equal, and the line _LB_ bisects the angle _ALC_. _B_ is
+therefore the middle point of _AC_, and we have the theorem
+
+_The harmonic conjugate of the middle point of __AC__ is at infinity._
+
+                                [Figure 7]
+
+                                  FIG. 7
+
+
+
+
+*40. Projective theorems and metrical theorems. Linear construction.* This
+theorem is the connecting link between the general protective theorems
+which we have been considering so far and the metrical theorems of
+ordinary geometry. Up to this point we have said nothing about
+measurements, either of line segments or of angles. Desargues's theorem
+and the theory of harmonic elements which depends on it have nothing to do
+with magnitudes at all. Not until the notion of an infinitely distant
+point is brought in is any mention made of distances or directions. We
+have been able to make all of our constructions up to this point by means
+of the straightedge, or ungraduated ruler. A construction made with such
+an instrument we shall call a _linear_ construction. It requires merely
+that we be able to draw the line joining two points or find the point of
+intersection of two lines.
+
+
+
+
+*41. Parallels and mid-points.*  It might be thought that drawing a line
+through a given point parallel to a given line was only a special case of
+drawing a line joining two points. Indeed, it consists only in drawing a
+line through the given point and through the "infinitely distant point" on
+the given line. It must be remembered, however, that the expression
+"infinitely distant point" must not be taken literally. When we say that
+two parallel lines meet "at infinity," we really mean that they do not
+meet at all, and the only reason for using the expression is to avoid
+tedious statement of exceptions and restrictions to our theorems. We ought
+therefore to consider the drawing of a line parallel to a given line as a
+different accomplishment from the drawing of the line joining two given
+points. It is a remarkable consequence of the last theorem that a parallel
+to a given line and the mid-point of a given segment are equivalent data.
+For the construction is reversible, and if we are given the middle point
+of a given segment, we can construct _linearly_  a line parallel to that
+segment. Thus, given that _B_ is the middle point of _AC_, we may draw any
+two lines through _A_, and any line through _B_ cutting them in points _N_
+and _L_. Join _N_ and _L_ to _C_ and get the points _K_ and _M_ on the two
+lines through _A_. Then _KM_ is parallel to _AC_. _The bisection of a
+given segment and the drawing of a line parallel to the segment are
+equivalent data when linear construction is used._
+
+
+
+
+*42.*  It is not difficult to give a linear construction for the problem
+to divide a given segment into _n_ equal parts, given only a parallel to
+the segment. This is simple enough when _n_ is a power of _2_. For any
+other number, such as _29_, divide any segment on the line parallel to
+_AC_ into _32_ equal parts, by a repetition of the process just described.
+Take _29_ of these, and join the first to _A_ and the last to _C_. Let
+these joining lines meet in _S_. Join _S_ to all the other points. Other
+problems, of a similar sort, are given at the end of the chapter.
+
+
+
+
+*43. Numerical relations.*  Since three points, given in order, are
+sufficient to determine a fourth, as explained above, it ought to be
+possible to reproduce the process numerically in view of the one-to-one
+correspondence which exists between points on a line and numbers; a
+correspondence which, to be sure, we have not established here, but which
+is discussed in any treatise on the theory of point sets. We proceed to
+discover what relation between four numbers corresponds to the harmonic
+relation between four points.
+
+                                [Figure 8]
+
+                                  FIG. 8
+
+
+
+
+*44.*  Let _A_, _B_, _C_, _D_ be four harmonic points (Fig. 8), and let
+_SA_, _SB_, _SC_, _SD_ be four harmonic lines. Assume a line drawn through
+_B_ parallel to _SD_, meeting _SA_ in _A'_ and _SC_ in _C'_. Then _A'_,
+_B'_, _C'_, and the infinitely distant point on _A'C'_ are four harmonic
+points, and therefore _B_ is the middle point of the segment _A'C'_. Then,
+since the triangle _DAS_ is similar to the triangle _BAA'_, we may write
+the proportion
+
+                          _AB : AD = BA' : SD._
+
+Also, from the similar triangles _DSC_ and _BCC'_, we have
+
+                          _CD : CB = SD : B'C._
+
+From these two proportions we have, remembering that _BA' = BC'_,
+
+                                [formula]
+
+the minus sign being given to the ratio on account of the fact that _A_
+and _C_ are always separated from _B_ and _D_, so that one or three of the
+segments _AB_, _CD_, _AD_, _CB_ must be negative.
+
+
+
+
+*45.*  Writing the last equation in the form
+
+                          _CB : AB = -CD : AD,_
+
+and using the fundamental relation connecting three points on a line,
+
+                             _PR + RQ = PQ,_
+
+which holds for all positions of the three points if account be taken of
+the sign of the segments, the last proportion may be written
+
+                   _(CB - BA) : AB = -(CA - DA) : AD,_
+
+or
+
+                    _(AB - AC) : AB = (AC - AD) : AD;_
+
+so that _AB_, _AC_, and _AD_ are three quantities in hamonic progression,
+since the difference between the first and second is to the first as the
+difference between the second and third is to the third. Also, from this
+last proportion comes the familiar relation
+
+                                [formula]
+
+which is convenient for the computation of the distance _AD_ when _AB_ and
+_AC_ are given numerically.
+
+
+
+
+*46. Anharmonic ratio.*  The corresponding relations between the
+trigonometric functions of the angles determined by four harmonic lines
+are not difficult to obtain, but as we shall not need them in building up
+the theory of projective geometry, we will not discuss them here. Students
+who have a slight acquaintance with trigonometry may read in a later
+chapter (§ 161) a development of the theory of a more general relation,
+called the _anharmonic ratio_, or _cross ratio_, which connects any four
+points on a line.
+
+
+
+
+PROBLEMS
+
+
+*1*. Draw through a given point a line which shall pass through the
+inaccessible point of intersection of two given lines. The following
+construction may be made to depend upon Desargues's theorem: Through the
+given point _P_ draw any two rays cutting the two lines in the points
+_AB'_ and _A'B_, _A_, _B_, lying on one of the given lines and _A'_, _B'_,
+on the other. Join _AA'_ and _BB'_, and find their point of intersection
+_S_. Through _S_ draw any other ray, cutting the given lines in _CC'_.
+Join _BC'_ and _B'C_, and obtain their point of intersection _Q_. _PQ_ is
+the desired line. Justify this construction.
+
+*2.*  To draw through a given point _P_ a line which shall meet two given
+lines in points _A_ and _B_, equally distant from _P_. Justify the
+following construction: Join _P_ to the point _S_ of intersection of the
+two given lines. Construct the fourth harmonic of _PS_ with respect to the
+two given lines. Draw through _P_ a line parallel to this line. This is
+the required line.
+
+*3.*  Given a parallelogram in the same plane with a given segment _AC_,
+to construct linearly the middle point of _AC_.
+
+*4.*  Given four harmonic lines, of which one pair are at right angles to
+each other, show that the other pair make equal angles with them. This is
+a theorem of which frequent use will be made.
+
+*5.*  Given the middle point of a line segment, to draw a line parallel to
+the segment and passing through a given point.
+
+*6.*  A line is drawn cutting the sides of a triangle _ABC_ in the points
+_A'_, _B'_, _C'_ the point _A'_ lying on the side _BC_, etc. The harmonic
+conjugate of _A'_ with respect to _B_ and _C_ is then constructed and
+called _A"_. Similarly, _B"_ and _C"_ are constructed. Show that _A"B"C"_
+lie on a straight line. Find other sets of three points on a line in the
+figure. Find also sets of three lines through a point.
+
+
+
+
+
+CHAPTER III - COMBINATION OF TWO PROJECTIVELY RELATED FUNDAMENTAL FORMS
+
+
+
+
+                                [Figure 9]
+
+                                  FIG. 9
+
+
+*47. Superposed fundamental forms. Self-corresponding elements.* We have
+seen (§ 37) that two projective point-rows may be superposed upon the same
+straight line. This happens, for example, when two pencils which are
+projective to each other are cut across by a straight line. It is also
+possible for two projective pencils to have the same center. This happens,
+for example, when two projective point-rows are projected to the same
+point. Similarly, two projective axial pencils may have the same axis. We
+examine now the possibility of two forms related in this way, having an
+element or elements that correspond to themselves. We have seen, indeed,
+that if _B_ and _D_ are harmonic conjugates with respect to _A_ and _C_,
+then the point-row described by _B_ is projective to the point-row
+described by _D_, and that _A_ and _C_ are self-corresponding points.
+Consider more generally the case of two pencils perspective to each other
+with axis of perspectivity _u'_ (Fig. 9). Cut across them by a line _u_.
+We get thus two projective point-rows superposed on the same line _u_, and
+a moment's reflection serves to show that the point _N_ of intersection
+_u_ and _u'_ corresponds to itself in the two point-rows. Also, the point
+_M_, where _u_ intersects the line joining the centers of the two pencils,
+is seen to correspond to itself. It is thus possible for two projective
+point-rows, superposed upon the same line, to have two self-corresponding
+points. Clearly _M_ and _N_ may fall together if the line joining the
+centers of the pencils happens to pass through the point of intersection
+of the lines _u_ and _u'_.
+
+                               [Figure 10]
+
+                                 FIG. 10
+
+
+
+
+*48.*  We may also give an illustration of a case where two superposed
+projective point-rows have no self-corresponding points at all. Thus we
+may take two lines revolving about a fixed point _S_ and always making the
+same angle a with each other (Fig. 10). They will cut out on any line _u_
+in the plane two point-rows which are easily seen to be projective. For,
+given any four rays _SP_ which are harmonic, the four corresponding rays
+_SP'_ must also be harmonic, since they make the same angles with each
+other. Four harmonic points _P_ correspond, therefore, to four harmonic
+points _P'_. It is clear, however, that no point _P_ can coincide with its
+corresponding point _P'_, for in that case the lines _PS_ and _P'S_ would
+coincide, which is impossible if the angle between them is to be constant.
+
+
+
+
+*49. Fundamental theorem. Postulate of continuity.* We have thus shown
+that two projective point-rows, superposed one on the other, may have two
+points, one point, or no point at all corresponding to themselves. We
+proceed to show that
+
+_If two projective point-rows, superposed upon the same straight line,
+have more than two self-corresponding points, they must have an infinite
+number, and every point corresponds to itself; that is, the two point-rows
+are not essentially distinct._
+
+If three points, _A_, _B_, and _C_, are self-corresponding, then the
+harmonic conjugate _D_ of _B_ with respect to _A_ and _C_ must also
+correspond to itself. For four harmonic points must always correspond to
+four harmonic points. In the same way the harmonic conjugate of _D_ with
+respect to _B_ and _C_ must correspond to itself. Combining new points
+with old in this way, we may obtain as many self-corresponding points as
+we wish. We show further that every point on the line is the limiting
+point of a finite or infinite sequence of self-corresponding points. Thus,
+let a point _P_ lie between _A_ and _B_. Construct now _D_, the fourth
+harmonic of _C_ with respect to _A_ and _B_. _D_ may coincide with _P_, in
+which case the sequence is closed; otherwise _P_ lies in the stretch _AD_
+or in the stretch _DB_. If it lies in the stretch _DB_, construct the
+fourth harmonic of _C_ with respect to _D_ and _B_. This point _D'_ may
+coincide with _P_, in which case, as before, the sequence is closed. If
+_P_ lies in the stretch _DD'_, we construct the fourth harmonic of _C_
+with respect to _DD'_, etc. In each step the region in which _P_ lies is
+diminished, and the process may be continued until two self-corresponding
+points are obtained on either side of _P_, and at distances from it
+arbitrarily small.
+
+We now assume, explicitly, the fundamental postulate that the
+correspondence is _continuous_, that is, that _the distance between two
+points in one point-row may be made arbitrarily small by sufficiently
+diminishing the distance between the corresponding points in the other._
+Suppose now that _P_ is not a self-corresponding point, but corresponds to
+a point _P'_ at a fixed distance _d_ from _P_. As noted above, we can find
+self-corresponding points arbitrarily close to _P_, and it appears, then,
+that we can take a point _D_ as close to _P_ as we wish, and yet the
+distance between the corresponding points _D'_ and _P'_ approaches _d_ as
+a limit, and not zero, which contradicts the postulate of continuity.
+
+
+
+
+*50.*  It follows also that two projective pencils which have the same
+center may have no more than two self-corresponding rays, unless the
+pencils are identical. For if we cut across them by a line, we obtain two
+projective point-rows superposed on the same straight line, which may have
+no more than two self-corresponding points. The same considerations apply
+to two projective axial pencils which have the same axis.
+
+
+
+
+*51. Projective point-rows having a self-corresponding point in common.*
+Consider now two projective point-rows lying on different lines in the
+same plane. Their common point may or may not be a self-corresponding
+point. If the two point-rows are perspectively related, then their common
+point is evidently a self-corresponding point. The converse is also true,
+and we have the very important theorem:
+
+
+
+
+*52.*  _If in two protective point-rows, the point of intersection
+corresponds to itself, then the point-rows are in perspective position._
+
+                               [Figure 11]
+
+                                 FIG. 11
+
+
+Let the two point-rows be _u_ and _u'_ (Fig. 11). Let _A_ and _A'_, _B_
+and _B'_, be corresponding points, and let also the point _M_ of
+intersection of _u_ and _u'_ correspond to itself. Let _AA'_ and _BB'_
+meet in the point _S_. Take _S_ as the center of two pencils, one
+perspective to _u_ and the other perspective to _u'_. In these two pencils
+_SA_ coincides with its corresponding ray _SA'_, _SB_ with its
+corresponding ray _SB'_, and _SM_ with its corresponding ray _SM'_. The
+two pencils are thus identical, by the preceding theorem, and any ray _SD_
+must coincide with its corresponding ray _SD'_. Corresponding points of
+_u_ and _u'_, therefore, all lie on lines through the point _S_.
+
+
+
+
+*53.*  An entirely similar discussion shows that
+
+_If in two projective pencils the line joining their centers is a
+self-corresponding ray, then the two pencils are perspectively related._
+
+
+
+
+*54.*  A similar theorem may be stated for two axial pencils of which the
+axes intersect. Very frequent use will be made of these fundamental
+theorems.
+
+
+
+
+*55. Point-row of the second order.*  The question naturally arises, What
+is the locus of points of intersection of corresponding rays of two
+projective pencils which are not in perspective position? This locus,
+which will be discussed in detail in subsequent chapters, is easily seen
+to have at most two points in common with any line in the plane, and on
+account of this fundamental property will be called a _point-row of the
+second order_. For any line _u_ in the plane of the two pencils will be
+cut by them in two projective point-rows which have at most two
+self-corresponding points. Such a self-corresponding point is clearly a
+point of intersection of corresponding rays of the two pencils.
+
+
+
+
+*56.*  This locus degenerates in the case of two perspective pencils to a
+pair of straight lines, one of which is the axis of perspectivity and the
+other the common ray, any point of which may be considered as the point of
+intersection of corresponding rays of the two pencils.
+
+
+
+
+*57. Pencils of rays of the second order.*  Similar investigations may be
+made concerning the system of lines joining corresponding points of two
+projective point-rows. If we project the point-rows to any point in the
+plane, we obtain two projective pencils having the same center. At most
+two pairs of self-corresponding rays may present themselves. Such a ray is
+clearly a line joining two corresponding points in the two point-rows. The
+result may be stated as follows: _The system of rays joining corresponding
+points in two protective point-rows has at most two rays in common with
+any pencil in the plane._ For that reason the system of rays is called _a
+pencil of rays of the second order._
+
+
+
+
+*58.*  In the case of two perspective point-rows this system of rays
+degenerates into two pencils of rays of the first order, one of which has
+its center at the center of perspectivity of the two point-rows, and the
+other at the intersection of the two point-rows, any ray through which may
+be considered as joining two corresponding points of the two point-rows.
+
+
+
+
+*59. Cone of the second order.*  The corresponding theorems in space may
+easily be obtained by joining the points and lines considered in the plane
+theorems to a point _S_ in space. Two projective pencils give rise to two
+projective axial pencils with axes intersecting. Corresponding planes meet
+in lines which all pass through _S_ and through the points on a point-row
+of the second order generated by the two pencils of rays. They are thus
+generating lines of a _cone of the second order_, or _quadric cone_, so
+called because every plane in space not passing through _S_ cuts it in a
+point-row of the second order, and every line also cuts it in at most two
+points. If, again, we project two point-rows to a point _S_ in space, we
+obtain two pencils of rays with a common center but lying in different
+planes. Corresponding lines of these pencils determine planes which are
+the projections to _S_ of the lines which join the corresponding points of
+the two point-rows. At most two such planes may pass through any ray
+through _S_. It is called _a pencil of planes of the second order_.
+
+
+
+
+PROBLEMS
+
+
+*1. * A man _A_ moves along a straight road _u_, and another man _B_ moves
+along the same road and walks so as always to keep sight of _A_ in a small
+mirror _M_ at the side of the road. How many times will they come
+together, _A_ moving always in the same direction along the road?
+
+2. How many times would the two men in the first problem see each other in
+two mirrors _M_ and _N_ as they walk along the road as before? (The planes
+of the two mirrors are not necessarily parallel to _u_.)
+
+3. As A moves along _u_, trace the path of B so that the two men may
+always see each other in the two mirrors.
+
+4. Two boys walk along two paths _u_ and _u'_ each holding a string which
+they keep stretched tightly between them. They both move at constant but
+different rates of speed, letting out the string or drawing it in as they
+walk. How many times will the line of the string pass over any given point
+in the plane of the paths?
+
+5. Trace the lines of the string when the two boys move at the same rate
+of speed in the two paths but do not start at the same time from the point
+where the two paths intersect.
+
+6. A ship is sailing on a straight course and keeps a gun trained on a
+point on the shore. Show that a line at right angles to the direction of
+the gun at its muzzle will pass through any point in the plane twice or
+not at all. (Consider the point-row at infinity cut out by a line through
+the point on the shore at right angles to the direction of the gun.)
+
+7. Two lines _u_ and _u'_ revolve about two points _U_ and _U'_
+respectively in the same plane. They go in the same direction and at the
+same rate of speed, but one has an angle a the start of the other. Show
+that they generate a point-row of the second order.
+
+8. Discuss the question given in the last problem when the two lines
+revolve in opposite directions. Can you recognize the locus?
+
+
+
+
+
+CHAPTER IV - POINT-ROWS OF THE SECOND ORDER
+
+
+
+
+*60. Point-row of the second order defined.*  We have seen that two
+fundamental forms in one-to-one correspondence may sometimes generate a
+form of higher order. Thus, two point-rows (§ 55) generate a system of
+rays of the second order, and two pencils of rays (§ 57), a system of
+points of the second order. As a system of points is more familiar to most
+students of geometry than a system of lines, we study first the point-row
+of the second order.
+
+
+
+
+*61. Tangent line.*  We have shown in the last chapter (§ 55) that the
+locus of intersection of corresponding rays of two projective pencils is a
+point-row of the second order; that is, it has at most two points in
+common with any line in the plane. It is clear, first of all, that the
+centers of the pencils are points of the locus; for to the line _SS'_,
+considered as a ray of _S_, must correspond some ray of _S'_ which meets
+it in _S'_. _S'_, and by the same argument _S_, is then a point where
+corresponding rays meet. Any ray through _S_ will meet it in one point
+besides _S_, namely, the point _P_ where it meets its corresponding ray.
+Now, by choosing the ray through _S_ sufficiently close to the ray _SS'_,
+the point _P_ may be made to approach arbitrarily close to _S'_, and the
+ray _S'P_ may be made to differ in position from the tangent line at _S'_
+by as little as we please. We have, then, the important theorem
+
+_The ray at __S'__ which corresponds to the common ray __SS'__ is tangent
+to the locus at __S'__._
+
+In the same manner the tangent at _S_ may be constructed.
+
+

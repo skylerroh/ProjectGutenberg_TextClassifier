@@ -1,0 +1,716 @@
+chariot rolls."--KEYSER, C. J.
+
+                         _Lectures on Science, Philosophy and Art
+                         (New York, 1908), p. 31._
+
+
+=247.= ... the reasoning process [employed in mathematics] is not
+different from that of any other branch of knowledge, ... but
+there is required, and in a great degree, that attention of mind
+which is in some part necessary for the acquisition of all
+knowledge, and in this branch is indispensably necessary. This
+must be given in its fullest intensity; ... the other elements
+especially characteristic of a mathematical mind are quickness
+in perceiving logical sequence, love of order, methodical
+arrangement and harmony, distinctness of conception.--PRICE, B.
+
+                         _Treatise on Infinitesimal Calculus
+                         (Oxford, 1868), Vol. 3, p. 6._
+
+
+=248.= Histories make men wise; poets, witty; the mathematics,
+subtile; natural philosophy, deep; moral, grave; logic and
+rhetoric, able to contend.--BACON, FRANCIS.
+
+                         _Essays, Of Studies._
+
+
+=249.= The Mathematician deals with two properties of objects
+only, number and extension, and all the inductions he wants have
+been formed and finished ages ago. He is now occupied with
+nothing but deduction and verification.--HUXLEY, T. H.
+
+                         _On the Educational Value of the Natural
+                         History Sciences; Lay Sermons, Addresses
+                         and Reviews; (New York, 1872), p. 87._
+
+
+=250.= [Mathematics] is that [subject] which knows nothing of
+observation, nothing of experiment, nothing of induction, nothing
+of causation.--HUXLEY, T. H.
+
+                         _The Scientific Aspects of Positivism,
+                         Fortnightly Review (1898); Lay Sermons,
+                         Addresses and Reviews, (New York, 1872),
+                         p. 169._
+
+
+=251.= We are told that "Mathematics is that study which knows
+nothing of observation, nothing of experiment, nothing of induction,
+nothing of causation." I think no statement could have been made
+more opposite to the facts of the case; that mathematical analysis
+is constantly invoking the aid of new principles, new ideas, and
+new methods, not capable of being defined by any form of words,
+but springing direct from the inherent powers and activities of
+the human mind, and from continually renewed introspection of that
+inner world of thought of which the phenomena are as varied and
+require as close attention to discern as those of the outer physical
+world (to which the inner one in each individual man may, I think,
+be conceived to stand somewhat in the same relation of correspondence
+as a shadow to the object from which it is projected, or as the
+hollow palm of one hand to the closed fist which it grasps of the
+other), that it is unceasingly calling forth the faculties of
+observation and comparison, that one of its principal weapons is
+induction, that it has frequent recourse to experimental trial and
+verification, and that it affords a boundless scope for the exercise
+of the highest efforts of the imagination and invention.
+
+                                                --SYLVESTER, J. J.
+
+                         _Presidential Address to British
+                         Association, Exeter British Association
+                         Report (1869), pp. 1-9.; Collected
+                         Mathematical Papers, Vol. 2, p. 654._
+
+
+=252.= The actual evolution of mathematical theories proceeds by a
+process of induction strictly analogous to the method of induction
+employed in building up the physical sciences; observation,
+comparison, classification, trial, and generalisation are
+essential in both cases. Not only are special results, obtained
+independently of one another, frequently seen to be really
+included in some generalisation, but branches of the subject
+which have been developed quite independently of one another are
+sometimes found to have connections which enable them to be
+synthesised in one single body of doctrine. The essential nature
+of mathematical thought manifests itself in the discernment of
+fundamental identity in the mathematical aspects of what are
+superficially very different domains. A striking example of this
+species of immanent identity of mathematical form was exhibited by
+the discovery of that distinguished mathematician ... Major MacMahon,
+that all possible Latin squares are capable of enumeration by the
+consideration of certain differential operators. Here we have a
+case in which an enumeration, which appears to be not amenable to
+direct treatment, can actually be carried out in a simple manner
+when the underlying identity of the operation is recognised with
+that involved in certain operations due to differential operators,
+the calculus of which belongs superficially to a wholly different
+region of thought from that relating to Latin squares.
+
+                                                  --HOBSON, E. W.
+
+                         _Presidential Address British
+                         Association for the Advancement of
+                         Science (1910); Nature, Vol. 84, p.
+                         290._
+
+
+=253.= It has been asserted ... that the power of observation is not
+developed by mathematical studies; while the truth is, that; from
+the most elementary mathematical notion that arises in the mind of
+a child to the farthest verge to which mathematical investigation
+has been pushed and applied, this power is in constant exercise.
+By observation, as here used, can only be meant the fixing of the
+attention upon objects (physical or mental) so as to note distinctive
+peculiarities--to recognize resemblances, differences, and other
+relations. Now the first mental act of the child recognizing the
+distinction between _one_ and more than one, between _one_ and
+_two_, _two_ and _three_, etc., is exactly this. So, again, the
+first geometrical notions are as pure an exercise of this power as
+can be given. To know a straight line, to distinguish it from
+a curve; to recognize a triangle and distinguish the several
+forms--what are these, and all perception of form, but a series
+of observations? Nor is it alone in securing these fundamental
+conceptions of number and form that observation plays so important
+a part. The very genius oning--a system of investigation--is, that
+it is but a series of observations. The figure being before the
+eye in actual representation, or before the mind in conception, is
+so closely scrutinized, that all its distinctive features are
+perceived; auxiliary lines are drawn (the imagination leading in
+this), and a new series of inspections is made; and thus, by means
+of direct, simple observations, the investigation proceeds. So
+characteristic of common geometry is this method of investigation,
+that Comte, perhaps the ablest of all writers upon the philosophy
+of mathematics, is disposed to class geometry, as to its method,
+with the natural sciences, being based upon observation. Moreover,
+when we consider applied mathematics, we need only to notice that
+the exercise of this faculty is so essential, that the basis of
+all such reasoning, the very material with which we build, have
+received the name _observations_. Thus we might proceed to consider
+the whole range of the human faculties, and find for the most of
+them ample scope for exercise in mathematical studies. Certainly,
+the _memory_ will not be found to be neglected. The very first
+steps in number--counting, the multiplication table, etc., make
+heavy demands on this power; while the higher branches require
+the memorizing of formulas which are simply appalling to the
+uninitiated. So the _imagination_, the creative faculty of the mind,
+has constant exercise in all original mathematical investigations,
+from the solution of the simplest problems to the discovery of the
+most recondite principle; for it is not by sure, consecutive steps,
+as many suppose, that we advance from the known to the unknown.
+The imagination, not the logical faculty, leads in this advance.
+In fact, practical observation is often in advance of logical
+exposition. Thus, in the discovery of truth, the imagination
+habitually presents hypotheses, and observation supplies facts,
+which it may require ages for the tardy reason to connect logically
+with the known. Of this truth, mathematics, as well as all other
+sciences, affords abundant illustrations. So remarkably true is
+this, that today it is seriously questioned by the majority of
+thinkers, whether the sublimest branch of mathematics,--the
+_infinitesimal calculus_--has anything more than an empirical
+foundation, mathematicians themselves not being agreed as to its
+logical basis. That the imagination, and not the logical faculty,
+leads in all original investigation, no one who has ever succeeded
+in producing an original demonstration of one of the simpler
+propositions of geometry, can have any doubt. Nor are _induction_,
+_analogy_, the _scrutinization_ of _premises_ or the _search_ for
+them, or the _balancing_ of _probabilities_, spheres of mental
+operations foreign to mathematics. No one, indeed, can claim
+pre-eminence for mathematical studies in all these departments
+of intellectual culture, but it may, perhaps, be claimed that
+scarcely any department of science affords discipline to so great a
+number of faculties, and that none presents so complete a gradation
+in the exercise of these faculties, from the first principles of
+the science to the farthest extent of its applications, as
+mathematics.--OLNEY, EDWARD.
+
+                         _Kiddle and Schem's Encyclopedia of
+                         Education, (New York, 1877), Article
+                         "Mathematics."_
+
+
+=254.= The opinion appears to be gaining ground that this very
+general conception of functionality, born on mathematical ground,
+is destined to supersede the narrower notion of causation,
+traditional in connection with the natural sciences. As an
+abstract formulation of the idea of determination in its most
+general sense, the notion of functionality includes and
+transcends the more special notion of causation as a one-sided
+determination of future phenomena by means of present conditions;
+it can be used to express the fact of the subsumption under a
+general law of past, present, and future alike, in a sequence of
+phenomena. From this point of view the remark of Huxley that
+Mathematics "knows nothing of causation" could only be taken to
+express the whole truth, if by the term "causation" is understood
+"efficient causation." The latter notion has, however, in recent
+times been to an increasing extent regarded as just as irrelevant
+in the natural sciences as it is in Mathematics; the idea of
+thorough-going determinancy, in accordance with formal law, being
+thought to be alone significant in either domain.--HOBSON, E. W.
+
+                         _Presidential Address British
+                         Association for the Advancement of
+                         Science (1910); Nature, Vol. 84, p.
+                         290._
+
+
+=255.= Most, if not all, of the great ideas of modern mathematics
+have had their origin in observation. Take, for instance, the
+arithmetical theory of forms, of which the foundation was laid in
+the diophantine theorems of Fermat, left without proof by their
+author, which resisted all efforts of the myriad-minded Euler to
+reduce to demonstration, and only yielded up their cause of being
+when turned over in the blow-pipe flame of Gauss's transcendent
+genius; or the doctrine of double periodicity, which resulted
+from the observation of Jacobi of a purely analytical fact of
+transformation; or Legendre's law of reciprocity; or Sturm's
+theorem about the roots of equations, which, as he informed me
+with his own lips, stared him in the face in the midst of some
+mechanical investigations connected (if my memory serves me
+right) with the motion of compound pendulums; or Huyghen's method
+of continued fractions, characterized by Lagrange as one of the
+principal discoveries of that great mathematician, and to which
+he appears to have been led by the construction of his Planetary
+Automaton; or the new algebra, speaking of which one of my
+predecessors (Mr. Spottiswoode) has said, not without just reason
+and authority, from this chair, "that it reaches out and
+indissolubly connects itself each year with fresh branches of
+mathematics, that the theory of equations has become almost new
+through it, algebraic geometry transfigured in its light, that
+the calculus of variations, molecular physics, and mechanics" (he
+might, if speaking at the present moment, go on to add the theory
+of elasticity and the development of the integral calculus) "have
+all felt its influence."--SYLVESTER, J. J.
+
+                         _A Plea for the Mathematician, Nature,
+                         Vol. 1, p. 238; Collected Mathematical
+                         Papers, Vol. 2, pp. 655, 656._
+
+
+=256.= The ability to imagine relations is one of the most
+indispensable conditions of all precise thinking. No subject can
+be named, in the investigation of which it is not imperatively
+needed; but it can be nowhere else so thoroughly acquired as in
+the study of mathematics.--FISKE, JOHN.
+
+                         _Darwinism and other Essays (Boston,
+                         1893), p. 296._
+
+
+=257.= The great science [mathematics] occupies itself at least
+just as much with the power of imagination as with the power of
+logical conclusion.--HERBART, F. J.
+
+                         _Pestalozzi's Idee eines ABC der
+                         Anschauung. Werke [Kehrbach]
+                         (Langensaltza, 1890), Bd. 1, p. 174._
+
+
+=258.= The moving power of mathematical invention is not
+reasoning but imagination.--DE MORGAN, A.
+
+                         _Quoted in Graves' Life of Sir W. R.
+                         Hamilton, Vol. 3 (1889), p. 219._
+
+
+=259.= There is an astonishing imagination, even in the science
+of mathematics.... We repeat, there was far more imagination in
+the head of Archimedes than in that of Homer.--VOLTAIRE.
+
+                         _A Philosophical Dictionary (Boston,
+                         1881), Vol. 3, p. 40. Article
+                         "Imagination."_
+
+
+=260.= As the prerogative of Natural Science is to cultivate a
+taste for observation, so that of Mathematics is, almost from the
+starting point, to stimulate the faculty of invention.
+
+                                               --SYLVESTER, J. J.
+
+                         _A Plea for the Mathematician, Nature,
+                         Vol. 1, p. 261; Collected Mathematical
+                         Papers, Vol. 2 (Cambridge, 1908), p.
+                         717._
+
+
+=261.= A marveilous newtrality have these things mathematicall,
+and also a strange participation between things supernaturall,
+immortall, intellectuall, simple and indivisible, and things
+naturall, mortall, sensible, componded and divisible.--DEE, JOHN.
+
+                         _Euclid (1570), Preface._
+
+
+=262.= Mathematics stands forth as that which unites, mediates
+between Man and Nature, inner and outer world, thought and
+perception, as no other subject does.--FROEBEL.
+
+                         _[Herford translation] (London, 1893),
+                         Vol. 1, p. 84._
+
+
+=263.= The intrinsic character of mathematical research and
+knowledge is based essentially on three properties: first, on its
+conservative attitude towards the old truths and discoveries of
+mathematics; secondly, on its progressive mode of development,
+due to the incessant acquisition of new knowledge on the basis of
+the old; and thirdly, on its self-sufficiency and its consequent
+absolute independence.--SCHUBERT, H.
+
+                         _Mathematical Essays and Recreations
+                         (Chicago, 1898), p. 27._
+
+
+=264.= Our science, in contrast with others, is not founded on a
+single period of human history, but has accompanied the
+development of culture through all its stages. Mathematics is as
+much interwoven with Greek culture as with the most modern
+problems in Engineering. She not only lends a hand to the
+progressive natural sciences but participates at the same time in
+the abstract investigations of logicians and philosophers.
+
+                                                      --KLEIN, F.
+
+                         _Klein und Riecke: Ueber angewandte
+                         Mathematik und Physik (1900), p. 228._
+
+
+=265.= There is probably no other science which presents such
+different appearances to one who cultivates it and to one who
+does not, as mathematics. To this person it is ancient,
+venerable, and complete; a body of dry, irrefutable, unambiguous
+reasoning. To the mathematician, on the other hand, his science
+is yet in the purple bloom of vigorous youth, everywhere
+stretching out after the "attainable but unattained" and full of
+the excitement of nascent thoughts; its logic is beset with
+ambiguities, and its analytic processes, like Bunyan's road, have
+a quagmire on one side and a deep ditch on the other and branch
+off into innumerable by-paths that end in a wilderness.
+
+                                                 --CHAPMAN, C. H.
+
+                         _Bulletin American Mathematical Society,
+                         Vol. 2 (First series), p. 61._
+
+
+=266.= Mathematical science is in my opinion an indivisible whole,
+an organism whose vitality is conditioned upon the connection of
+its parts. For with all the variety of mathematical knowledge, we
+are still clearly conscious of the similarity of the logical
+devices, the _relationship_ of the _ideas_ in mathematics as a
+whole and the numerous analogies in its different departments. We
+also notice that, the farther a mathematical theory is developed,
+the more harmoniously and uniformly does its construction proceed,
+and unsuspected relations are disclosed between hitherto separated
+branches of the science. So it happens that, with the extension of
+mathematics, its organic character is not lost but manifests
+itself the more clearly.--HILBERT, D.
+
+                         _Mathematical Problems, Bulletin
+                         American Mathematical Society, Vol. 8,
+                         p. 478._
+
+
+=267.= The mathematics have always been the implacable enemies of
+scientific romances.--ARAGO.
+
+                         _Oeuvres (1855), t. 3, p. 498._
+
+
+=268.= Those skilled in mathematical analysis know that its
+object is not simply to calculate numbers, but that it is also
+employed to find the relations between magnitudes which cannot be
+expressed in numbers and between functions whose law is not
+capable of algebraic expression.--COURNOT, AUGUSTIN.
+
+                         _Mathematical Theory of the Principles
+                         of Wealth [Bacon, N. T.], (New York,
+                         1897), p. 3._
+
+
+=269.= Coterminous with space and coeval with time is the Kingdom
+of Mathematics; within this range her dominion is supreme;
+otherwise than according to her order nothing can exist; in
+contradiction to her laws nothing takes place. On her mysterious
+scroll is to be found written for those who can read it that
+which has been, that which is, and that which is to come.
+Everything material which is the subject of knowledge has number,
+order, or position; and these are her first outlines for a sketch
+of the universe. If our feeble hands cannot follow out the
+details, still her part has been drawn with an unerring pen, and
+her work cannot be gainsaid. So wide is the range of mathematical
+sciences, so indefinitely may it extend beyond our actual powers
+of manipulation that at some moments we are inclined to fall down
+with even more than reverence before her majestic presence. But
+so strictly limited are her promises and powers, about so much
+that we might wish to know does she offer no information
+whatever, that at other moments we are fain to call her results
+but a vain thing, and to reject them as a stone where we had
+asked for bread. If one aspect of the subject encourages our
+hopes, so does the other tend to chasten our desires, and he is
+perhaps the wisest, and in the long run the happiest, among his
+fellows, who has learned not only this science, but also the
+larger lesson which it directly teaches, namely, to temper our
+aspirations to that which is possible, to moderate our desires to
+that which is attainable, to restrict our hopes to that of which
+accomplishment, if not immediately practicable, is at least
+distinctly within the range of conception.--SPOTTISWOODE, W.
+
+                         _Quoted in Sonnenschein's Encyclopedia
+                         of Education (London, 1906), p. 208._
+
+
+=270.= But it is precisely mathematics, and the pure science
+generally, from which the general educated public and independent
+students have been debarred, and into which they have only rarely
+attained more than a very meagre insight. The reason of this is
+twofold. In the first place, the ascendant and consecutive
+character of mathematical knowledge renders its results
+absolutely insusceptible of presentation to persons who are
+unacquainted with what has gone before, and so necessitates on
+the part of its devotees a thorough and patient exploration of
+the field from the very beginning, as distinguished from those
+sciences which may, so to speak, be begun at the end, and which
+are consequently cultivated with the greatest zeal. The second
+reason is that, partly through the exigencies of academic
+instruction, but mainly through the martinet traditions of
+antiquity and the influence of mediaeval logic-mongers, the
+great bulk of the elementary text-books of mathematics have
+unconsciously assumed a very repellant form,--something similar
+to what is termed in the theory of protective mimicry in biology
+"the terrifying form." And it is mainly to this formidableness
+and touch-me-not character of exterior, concealing withal a
+harmless body, that the undue neglect of typical mathematical
+studies is to be attributed.--MCCORMACK, T. J.
+
+                         _Preface to De Morgan's Elementary
+                         Illustrations of the Differential and
+                         Integral Calculus (Chicago, 1899)._
+
+
+=271.= Mathematics in gross, it is plain, are a grievance in
+natural philosophy, and with reason: for mathematical proofs,
+like diamonds, are hard as well as clear, and will be touched
+with nothing but strict reasoning. Mathematical proofs are out of
+the reach of topical arguments; and are not to be attacked by the
+equivocal use of words or declaration, that make so great a part
+of other discourses,--nay, even of controversies.--LOCKE, JOHN.
+
+                         _Second Reply to the Bishop of
+                         Worcester._
+
+
+=272.= The belief that mathematics, because it is abstract, because
+it is static and cold and gray, is detached from life, is a mistaken
+belief. Mathematics, even in its purest and most abstract estate,
+is not detached from life. It is just the ideal handling of the
+problems of life, as sculpture may idealize a human figure or as
+poetry or painting may idealize a figure or a scene. Mathematics
+is precisely the ideal handling of the problems of life, and the
+central ideas of the science, the great concepts about which its
+stately doctrines have been built up, are precisely the chief
+ideas with which life must always deal and which, as it tumbles
+and rolls about them through time and space, give it its interests
+and problems, and its order and rationality. That such is the case
+a few indications will suffice to show. The mathematical concepts
+of constant and variable are represented familiarly in life by the
+notions of fixedness and change. The concept of equation or that
+of an equational system, imposing restriction upon variability,
+is matched in life by the concept of natural and spiritual law,
+giving order to what were else chaotic change and providing partial
+freedom in lieu of none at all. What is known in mathematics under
+the name of limit is everywhere present in life in the guise of
+some ideal, some excellence high-dwelling among the rocks, an
+"ever flying perfect" as Emerson calls it, unto which we may
+approximate nearer and nearer, but which we can never quite attain,
+save in aspiration. The supreme concept of functionality finds its
+correlate in life in the all-pervasive sense of interdependence
+and mutual determination among the elements of the world. What is
+known in mathematics as transformation--that is, lawful transfer
+of attention, serving to match in orderly fashion the things of
+one system with those of another--is conceived in life as a
+process of transmutation by which, in the flux of the world, the
+content of the present has come out of the past and in its turn,
+in ceasing to be, gives birth to its successor, as the boy is
+father to the man and as things, in general, become what they are
+not. The mathematical concept of invariance and that of infinitude,
+especially the imposing doctrines that explain their meanings and
+bear their names--What are they but mathematicizations of that
+which has ever been the chief of life's hopes and dreams, of that
+which has ever been the object of its deepest passion and of its
+dominant enterprise, I mean the finding of the worth that abides,
+the finding of permanence in the midst of change, and the discovery
+of a presence, in what has seemed to be a finite world, of being
+that is infinite? It is needless further to multiply examples of a
+correlation that is so abounding and complete as indeed to suggest
+a doubt whether it be juster to view mathematics as the abstract
+idealization of life than to regard life as the concrete realization
+of mathematics.--KEYSER, C. J.
+
+                         _The Humanization of the Teaching of
+                         Mathematics; Science, New Series, Vol.
+                         35, pp. 645-646._
+
+
+=273.= Mathematics, like dialectics, is an organ of the inner
+higher sense; in its execution it is an art like eloquence. Both
+alike care nothing for the content, to both nothing is of value
+but the form. It is immaterial to mathematics whether it
+computes pennies or guineas, to rhetoric whether it defends truth
+or error.--GOETHE.
+
+                         _Wilhelm Meisters Wanderjahre, Zweites
+                         Buch._
+
+
+=274.= The genuine spirit of Mathesis is devout. No intellectual
+pursuit more truly leads to profound impressions of the existence
+and attributes of a Creator, and to a deep sense of our filial
+relations to him, than the study of these abstract sciences. Who
+can understand so well how feeble are our conceptions of Almighty
+Power, as he who has calculated the attraction of the sun and the
+planets, and weighed in his balance the irresistible force of the
+lightning? Who can so well understand how confused is our
+estimate of the Eternal Wisdom, as he who has traced out the
+secret laws which guide the hosts of heaven, and combine the
+atoms on earth? Who can so well understand that man is made in
+the image of his Creator, as he who has sought to frame new laws
+and conditions to govern imaginary worlds, and found his own
+thoughts similar to those on which his Creator has acted?
+
+                                                  --HILL, THOMAS.
+
+                         _The Imagination in Mathematics; North
+                         American Review, Vol. 85, p. 226._
+
+
+=275.= ... what is physical is subject to the laws of
+mathematics, and what is spiritual to the laws of God, and the
+laws of mathematics are but the expression of the thoughts of
+God.--HILL, THOMAS.
+
+                         _The Uses of Mathesis; Bibliotheca
+                         Sacra, Vol. 32, p. 523._
+
+
+=276.= It is in the inner world of pure thought, where all
+_entia_ dwell, where is every type of order and manner of
+correlation and variety of relationship, it is in this infinite
+ensemble of eternal verities whence, if there be one cosmos or
+many of them, each derives its character and mode of being,--it
+is there that the spirit of mathesis has its home and its life.
+
+Is it a restricted home, a narrow life, static and cold and grey
+with logic, without artistic interest, devoid of emotion and mood
+and sentiment? That world, it is true, is not a world of _solar_
+light, not clad in the colours that liven and glorify the things
+of sense, but it is an illuminated world, and over it all and
+everywhere throughout are hues and tints transcending _sense_,
+painted there by radiant pencils of _psychic_ light, the light in
+which it lies. It is a silent world, and, nevertheless, in
+respect to the highest principle of art--the interpenetration of
+content and form, the perfect fusion of mode and meaning--it even
+surpasses music. In a sense, it is a static world, but so, too,
+are the worlds of the sculptor and the architect. The figures,
+however, which reason constructs and the mathematic vision
+beholds, transcend the temple and the statue, alike in simplicity
+and in intricacy, in delicacy and in grace, in symmetry and in
+poise. Not only are this home and this life thus rich in aesthetic
+interests, really controlled and sustained by motives of a
+sublimed and supersensuous art, but the religious aspiration,
+too, finds there, especially in the beautiful doctrine of
+invariants, the most perfect symbols of what it seeks--the
+changeless in the midst of change, abiding things in a world of
+flux, configurations that remain the same despite the swirl and
+stress of countless hosts of curious transformations. The domain
+of mathematics is the sole domain of certainty. There and there
+alone prevail the standards by which every hypothesis respecting
+the external universe and all observation and all experiment must
+be finally judged. It is the realm to which all speculation and
+all thought must repair for chastening and sanitation--the court
+of last resort, I say it reverently, for all intellection
+whatsoever, whether of demon or man or deity. It is there that
+mind as mind attains its highest estate, and the condition of
+knowledge there is the ultimate object, the tantalising goal of
+the aspiration, the _Anders-Streben_, of all other knowledge of
+every kind.--KEYSER, C. J.
+
+                         _The Universe and Beyond; Hibbert
+                         Journal, Vol. 3 (1904-1905), pp.
+                         313-314._
+
+
+
+
+  CHAPTER III
+
+  ESTIMATES OF MATHEMATICS
+
+
+=301.= The world of ideas which it [mathematics] discloses or
+illuminates, the contemplation of divine beauty and order which
+it induces, the harmonious connection of its parts, the infinite
+hierarchy and absolute evidence of the truths with which
+mathematical science is concerned, these, and such like, are the
+surest grounds of its title of human regard, and would remain
+unimpaired were the plan of the universe unrolled like a map at
+our feet, and the mind of man qualified to take in the whole
+scheme of creation at a glance.--SYLVESTER, J. J.
+
+                         _A Plea for the Mathematician, Nature,
+                         1, p. 262; Collected Mathematical Papers
+                         (Cambridge, 1908), 2, p. 659._
+
+
+=302.= It may well be doubted whether, in all the range of
+Science, there is any field so fascinating to the explorer--so
+rich in hidden treasures--so fruitful in delightful surprises--as
+that of Pure Mathematics. The charm lies chiefly ... in the
+absolute _certainty_ of its results: for that is what, beyond all
+mental treasures, the human intellect craves for. Let us only be
+sure of _something_! More light, more light! [Greek: En de phaei
+kai olesson] "And if our fate be death, give light and let us
+die!" This is the cry that, through all the ages, is going up
+from perplexed Humanity, and Science has little else to offer,
+that will really meet the demands of its votaries, than the
+conclusions of Pure Mathematics.--DODGSON, C. L.
+
+                         _A New Theory of Parallels (London,
+                         1895), Introduction._
+
+
+=303.= In every case the awakening touch has been the
+mathematical spirit, the attempt to count, to measure, or to
+calculate. What to the poet or the seer may appear to be the very
+death of all his poetry and all his visions--the cold touch of
+the calculating mind,--this has proved to be the spell by which
+knowledge has been born, by which new sciences have been created,
+and hundreds of definite problems put before the minds and into
+the hands of diligent students. It is the geometrical figure, the
+dry algebraical formula, which transforms the vague reasoning of
+the philosopher into a tangible and manageable conception; which
+represents, though it does not fully describe, which corresponds
+to, though it does not explain, the things and processes of
+nature: this clothes the fruitful, but otherwise indefinite,
+ideas in such a form that the strict logical methods of thought
+can be applied, that the human mind can in its inner chamber
+evolve a train of reasoning the result of which corresponds to
+the phenomena of the outer world.--MERZ, J. T.
+
+                         _A History of European Thought in the
+                         Nineteenth Century (Edinburgh and
+                         London, 1904), Vol. 1, p. 314._
+
+
+=304.= Mathematics ... the ideal and norm of all careful
+thinking.--HALL, G. STANLEY.
+
+                         _Educational Problems (New York, 1911),
+                         p. 393._
+
+
+=305.= Mathematics is the only true metaphysics.
+
+                                     --THOMSON, W. (LORD KELVIN).
+
+                         _Thompson, S. P.: Life of Lord Kelvin
+                         (London, 1910), p. 10._
+
+
+=306.= He who knows not mathematics and the results of recent
+scientific investigation dies without knowing _truth_.
+
+                                              --SCHELLBACH, C. H.
+
+                         _Quoted in Young's Teaching of
+                         Mathematics (London, 1907), p. 44._
+
+
+=307.= The reasoning of mathematics is a type of perfect
+reasoning.--BARNETT, P. A.
+
+                         _Common Sense in Education and Teaching
+                         (New York, 1905), p. 222._
+
+
+=308.= Mathematics, once fairly established on the foundation of
+a few axioms and definitions, as upon a rock, has grown from age
+to age, so as to become the most solid fabric that human reason
+can boast.--REID, THOMAS.
+
+                         _Essays on the Intellectual Powers of
+                         Man, 4th. Ed., p. 461._
+
+
+=309.= The analytical geometry of Descartes and the calculus of
+Newton and Leibniz have expanded into the marvelous mathematical
+method--more daring than anything that the history of philosophy
+records--of Lobachevsky and Riemann, Gauss and Sylvester. Indeed,
+mathematics, the indispensable tool of the sciences, defying the
+senses to follow its splendid flights, is demonstrating today, as
+it never has been demonstrated before, the supremacy of the pure
+reason.--BUTLER, NICHOLAS MURRAY.
+
+                         _The Meaning of Education and other
+                         Essays and Addresses (New York, 1905),
+                         p. 45._
+
+
+=310.= Mathematics is the gate and key of the sciences....
+Neglect of mathematics works injury to all knowledge, since he
+who is ignorant of it cannot know the other sciences or the
+things of this world. And what is worse, men who are thus
+ignorant are unable to perceive their own ignorance and so do not
+seek a remedy.--BACON, ROGER.
+

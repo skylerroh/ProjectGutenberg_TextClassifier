@@ -1,0 +1,241 @@
+
+Ores of Nickel                                                 65
+
+Ores of Silver                                                 66
+
+Ores of Tin                                                    69
+
+Ores of Zinc                                                   70
+
+
+COMPARATIVE TABLES
+
+I. Colors of Coatings on Charcoal                              73
+
+II. Flame Colorations                                          73
+
+III. Colors of Borax Beads in oxidizing Flame                  74
+
+IV. Colors of Borax Beads in reducing Flame                    75
+
+V. Colors of Microcosmic Salt Beads in oxidizing Flame         76
+
+VI. Colors of Microcosmic Salt Beads in reducing Flame         77
+
+
+[Illustration: THE BLOWPIPE Fig. 1]
+
+[Illustration: BUNSEN BURNER Fig. 2]
+
+[Illustration: CHARCOAL BORERS Fig. 3]
+
+[Illustration: AGATE MORTAR & PESTLE Fig. 4]
+
+[Illustration: FORCEPS Fig. 5]
+
+[Illustration: HAMMER Fig. 6]
+
+[Illustration: 3-CORNERED FILES Fig. 7]
+
+
+
+
+BLOWPIPE ANALYSIS
+
+
+
+
+CHAPTER I
+
+
+The blowpipe was first applied to mineral analysis in 1733 by Anton
+Swab, and its applications have since been improved and extended by
+various chemists, among whom may be mentioned Bergmann, Cronstedt, Gahn,
+Berzelius, and Plattner.
+
+
+~Blowpipe.~--The common blowpipe of the jeweller is not particularly well
+suited to the operations of blowpipe analysis, since the flame has often
+to be kept playing upon the assay for some time, and the condensed
+moisture of the breath would seriously interfere with the passage of
+the air through the jet. One of the best and least expensive forms of
+blowpipe is shown in Fig. 1. This consists, as is seen from the
+illustration, of a conical-shaped tube of tin closed at the wide end and
+formed into a mouthpiece at the small end; soldered into the tube at the
+large end, and at right angles to its axis, is a small brass tube which
+terminates in a conical tip pierced with a very fine hole. With this
+pipe it is possible to perform all of the operations of mineral
+analysis.
+
+Some little practice is necessary to keep the flame steady and to take
+the breath at the same time.
+
+No rule can well be given to the beginner, but his experience becomes
+his best guide.
+
+
+~Bunsen Flame.~--Any kind of flame can be used for the blowpipe, provided
+it be not too small; but since almost every laboratory to-day is
+furnished with gas and the Bunsen burner (Fig. 2), it will only be
+necessary to describe the use of the flame from this source. Upon
+examining the Bunsen flame with care, it will be seen that the flame
+consists of three distinct parts.
+
+A dark inner cone which consists of gas not yet raised to the ignition
+point. Beyond this there is a luminous cone, where combustion is
+incomplete owing to lack of oxygen, and outside of this we find the
+non-luminous cone where the gas is completely burned.
+
+This outer envelope is the hottest portion of the flame, and is known as
+the "oxidizing" flame because there is an excess of oxygen which is
+imparted to substances placed therein.
+
+The luminous cone is known as the "reducing" flame, for in it metallic
+oxides are reduced, the oxygen being taken up by the small incandescent
+particles of carbon.
+
+If the air-holes at the base of the Bunsen burner be opened, the two
+inner cones become elongated, and the flame appears almost colorless.
+
+The blowpipe enables us to get an oxidizing and a reducing flame of
+better form and greater power. To do this we cut off the air supply at
+the base of the burner and turn off the gas until the flame is about 1
+cm. high; then upon introducing the blowpipe, and blowing a strong
+continuous jet of air across the Bunsen flame, we produce an oxidizing
+flame about 4-5 cm. in length. If the tip of the blowpipe be held
+outside of the Bunsen flame, and the pressure of the stream of air be
+diminished, we obtain a reducing flame.
+
+
+~Supports.~--For supports, charcoal, platinum, and glass are chiefly used.
+The charcoal should be made from some light wood, such as alder. It
+should be well burnt, and should not scintillate or smoke.
+
+The platinum supports are generally in the form of wire and foil.
+Platinum-tipped forceps are frequently employed in blowpipe analysis.
+
+Glass is used in the form of tubing.
+
+Hard glass tubing, 3 mm. bore, is drawn off into ignition tubes 7-8 cm.
+in length. Several dozen of these tubes should be made before commencing
+the tests of the next chapter.
+
+
+~Apparatus.~--A small agate mortar, 4-5 cm. in diameter, should be
+provided in which to grind the samples to be examined.
+
+The pestle, which should also be of agate, must be adapted to the
+mortar in shape and size.
+
+Two pairs of forceps will also be needed.
+
+One pair should be of steel, and the other pair of brass, with fine
+points.
+
+Of other apparatus, the most necessary is:--
+
+    A small hammer and anvil.
+
+    Two three-cornered files.
+
+    Small piece of cobalt glass, about 5 x 10 cm.
+
+    Pocket magnifying lens.
+
+    Several small watch glasses--for metallic beads, etc.
+
+
+~Chemicals.~--A list of the principal chemicals is here given:--
+
+    Sodium carbonate, Na_{2}CO_{3}.
+
+    Borax, Na_{2}B_{4}O_{7} + 10 H_{2}O.
+
+    Microcosmic salt, (HNaNH_{4}), PO_{4} + 8 H_{2}O.
+
+    Cobalt nitrate, Co(NO_{3})_{2} + 5 H_{2}O.
+
+    Potassium cyanide, KCN.
+
+    Hydrochloric acid, (dilute), HCl + nH_{2}O.
+
+    Litmus paper, red and blue.
+
+    Brazil-wood paper.
+
+Any other special reagents which may be needed will be mentioned as
+required.
+
+
+
+
+CHAPTER II
+
+GENERAL OUTLINE OF BLOWPIPE ANALYSIS
+
+
+     [ABBREVIATIONS: O. F. for oxidizing flame, R. F. for
+     reducing flame, Ch. for charcoal, Ct. for coating, Bp. for
+     blowpipe.]
+
+In order to examine a substance before the blowpipe to determine the
+presence or absence of certain elements, it becomes necessary to arrange
+a systematic method. As with all branches of chemical work, one's
+success is largely dependent upon neatness of manipulation and
+carefulness of observation.
+
+The following order of observation is essentially that given by
+Berzelius:--
+
+     1. Examination on charcoal by itself.
+
+     2. Examination on charcoal with Na_{2}CO_{3}.
+
+     3. Examination in ignition tube with Na_{2}CO_{3} and
+     charcoal.
+
+     4. Examination on platinum wire.
+
+     5. Examination in borax bead.
+
+     6. Examination with Co(NO_{3})_{2}.
+
+After having examined a body in these six different ways, we shall be
+able to say what are its principal constituents.
+
+Before describing the method of carrying out these six different
+operations, it will be necessary to give a few definitions of terms
+which we shall have frequent occasion to employ.
+
+
+~Definitions.~--_Ignition_ is the heating of a substance to a high
+temperature.
+
+_Fusion_ is the heating of a substance to the melting-point.
+
+_Intumescence_ is the swelling of the substance upon heating.
+
+_Decrepitation_ is the crackling of a substance due to the sudden
+expansion of combined water upon heating.
+
+_Deflagration_ is the burning of a substance with explosive violence,
+generally due to excess of oxygen.
+
+_Incandescence_ is the white light emitted by a substance that is
+infusible when subjected to a high temperature.
+
+
+~Examination on Charcoal alone.~--The size of the assay should be about
+that of a mustard seed. This is sufficiently large to show all of the
+reactions clearly, and though a larger piece would exhibit the
+characteristic phenomena, yet much more effort is required. A very
+small, shallow hole should be cut in the Ch. to receive the assay. The
+Bp. flame should be directed at an angle of about 30 deg. with the
+surface of the Ch. Considerable care must be taken lest the hole in the
+Ch. is burned too deep and the assay lost in the coal.
+
+The force of the air from the jet must also be borne in mind for a
+strong blast, or sudden puffs may blow the substance away.
+
+The following changes are to be looked for:--
+

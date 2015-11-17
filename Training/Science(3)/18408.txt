@@ -1,0 +1,491 @@
+un-mechanical or to be not practical. The advantage has also been
+taken, in a mechanical way, of using cotton as one element, and, being
+non-conducting, so that no trouble shall arise from contact with the
+working parts of the electrical apparatus with the cotton itself.
+
+To take into consideration all the possibilities that exist from the
+railway can to the front of the fine speeder is not needed by the
+practical reader, and would be useless to any other. The principle of
+this invention is the supplying of a magneto-electric current from
+a small magneto-electric machine attached to the card, speeder, or
+whatever machine it may be applied to which generates the current, and
+this machine is driven by a small belt from the main driving shaft.
+The machine in itself weighs but a few pounds, and can be driven by a
+half-inch or three quarter-inch belt, and requires a little more power
+than a light-running sewing machine.
+
+One pole of the magneto-electric machine is connected by means of a rod
+or wire to the machine frame upon which it is to be used, and the
+other pole to the electromagnet in the ordinary way of conductivity
+of current, which means stretching the wire from one to the other. An
+armature is arranged so that when a thread is broken or a sliver or a
+strand of roving, the armature drops into a ratchet wheel; this ratchet
+wheel is made to revolve by the belt, and whenever it is impeded or
+stopped in its course it acts upon mechanism which throws the driving
+belt of the machine upon the loose pulley. Electrical contact is made by
+a very simple contrivance, and these attachments are only to act in the
+case of a breakage of a thread or strand.
+
+As applied to a card, the calender rolls are both connected, one with
+the negative and one with the positive pole; when the sliver of cotton
+is between the calender rolls there is no connection, but if the sheet
+breaks down between the cone and the calender roll, the moment the
+calender rolls come in contact the electrical attachment operates and a
+stoppage ensues; and in the case, as with the American system, where a
+number of cards are used in a railway, this electric contact may be used
+for either one of two purposes-to stop the feeding of cotton into the
+card, or to ring a bell sharply and continue ringing it until the sliver
+is put between the calender rolls again and the card set to delivering
+cotton.
+
+In drawing frames it may be attached so that, in the case of a breakage
+between the front roll and the calender roll, the electric machine acts;
+in the case of a lap upon one of the rolls or one end of the roll, or
+in case of breakage of the sliver at the back of the machine, in either
+case a stoppage would be instantly produced.
+
+In being applied to the slubber a breakage either at the front or back
+can be arranged for. Upon intermediates the breakage of either one of
+the strands, if the machine was running two into one, from the creel to
+the roller, would cause the stoppage of the machine, or the breaking or
+tangling of ends between the front roll and the nose of the flier.
+
+There are many other places where this motion can be applied. With
+mechanical means we require motion; with electricity we require simple
+contact of two differently arranged surfaces, and this can always be
+had by letting the cotton drop out from between the rollers; no radical
+changes are necessary, and we are glad to find that this electrical
+attachment is meeting with a very good success in England, France,
+and, so far, in the United States, and, undoubtedly, further and more
+extended opportunity will be found for this application.--_Textile
+Record_.
+
+       *       *       *       *       *
+
+
+
+
+ON THE PROGRESS AND DEVELOPMENT OF THE MARINE ENGINE.
+
+[Footnote: A paper recently read before the Society of Mechanical
+Engineers by F.C.Marshall.]
+
+
+The author began by referring to a paper read at the Liverpool meeting
+in 1872, by Mr. F. J. Bramwell, F.R.S., on "The Progress effected in
+Economy of Fuel in Steam Navigation, considered in Relation to Compound
+Cylinder Engines and High-pressure Steam;" then proceeded to continue
+the subject from the date of that meeting, to trace out whether any, and
+if so what, progress had been made; further, to consider whether or no
+we have reached the finality so strongly deprecated by Sir Frederick
+Bramwell in the discussion referred to, and, if not, then in what
+direction we are to look for further development.
+
+From a table it would seem that the steam pressures are now much higher,
+the boilers have less heating surface, and the cylinders are much
+smaller for the indicated horsepower developed than in 1872; and at the
+same time the average consumption of fuel is reduced from 2.11 lb. to
+1.828 lb., or by 13.38 per cent.
+
+
+MARINE ENGINES.
+
+The author then briefly described the modern marine engine and boiler.
+The three great types of compound engines may be placed as follows in
+the order of their general acceptance by the shipowning community: (1)
+The two-cylinder intermediate-receiver compound engine, having cranks at
+right angles. (2) The Woolf engine in the tandem form, having generally
+the high-pressure and low-pressure cylinders in line with each other,
+but occasionally alongside, and always communicating their power to one
+crank. Such a pair of engines is used sometimes singly, oftener two
+pairs together, working side by side to cranks at right angles; recently
+three pairs together, working to cranks placed 120 deg. apart. The
+system affords the opportunity of adding yet more engines to the
+same propeller to an indefinite extent. (3) The three cylinder
+intermediate-receiver compound engine, with one high and two
+low-pressure cylinders, the steam passing from the high-pressure
+cylinder into the receiver, and thence into the two low-pressure
+cylinders respectively. The cranks are placed at equal angles apart
+round the crank shaft, so as to balance the forces exerted upon the
+shaft.
+
+These three types may be said to embrace all the engines now being
+manufactured in this country for the propulsion of steam vessels by the
+screw propeller. In their leading principles they also embrace
+nearly all paddle engines now being built, whether the cylinders be
+oscillating, fixed vertically, or inclined to the shaft.
+
+The compound engine, in fact, in one of these three forms, may now be
+said to be universally adopted in this country; and the question of the
+relative value of simple expansion in one cylinder, and of compound
+expansion in two or more cylinders, which agitated the minds of some of
+our leading engineers ten years ago, is now practically solved in favor
+of the latter.
+
+
+THE MARINE BOILER.
+
+The marine boiler of to-day is in all its main features the same as it
+was ten years ago. The single-ended boiler, made with two, three, and
+sometimes four furnaces, is the simplest form, and for all powers
+under 500 indicated horse power is the most generally adopted. The
+double-ended form is largely used. It has been found more economically
+efficient than the single-ended form, by as much as ten per cent, in the
+writer's own experience. It is generally adopted for engines of large
+power, but for small power is inconvenient, owing to its occupying more
+room lengthwise in the vessel, and also involving two stokeholds and
+therefore more supervision. At one time great difficulty was found
+in keeping the bottoms of boilers of this kind tight. Owing to their
+length, the unequal expansion due to different temperatures at the
+top and bottom caused severe racking strains on the bottom seams and
+riveting--so severe in some cases as to rend the plating for a large
+part of the bottom circumference of the shell. This difficulty has now
+been to a large extent got over, in consequence of the greater attention
+given to the form and direction of the water spaces in the boiler
+itself, so as to induce circulation of water; the introduction of the
+feed-water at the top instead of near the bottom; the more careful
+management now usual on the part of engineers; and lastly, the use of
+larger plates, welded horizontal seams, drilled rivet holes, and more
+perfect workmanship throughout. A modification of double-ended boiler is
+that introduced by Mr. Alfred Holt. It has many decided advantages,
+but is costly to make. The formation of the two ends into separate
+fire-boxes leaves the bottom of the boiler free to adapt itself to the
+variations of temperature to which it is exposed. The separation of the
+furnaces from the combustion chamber, excepting through the opening
+afforded by a connecting tube, is an advantage in the same direction,
+and avoids almost entirely the racking strains due to irregular furnace
+action. The weight of water carried is less, and that of the boiler
+may also be made less; while the elliptical form of the two ends gives
+greater steam space.
+
+A type of boiler largely used in her Majesty's Navy, somewhat like a
+locomotive boiler, is highly efficient in regard to weight and power
+developed. Many examples have yielded one indicated horse-power in the
+cylinders for every three square feet of heating surface, under natural
+draught and with a very moderate height of funnel; and this with a
+consumption of fuel not exceeding 21/2 lb. per indicated horse-power per
+hour under a working pressure of 60 lb. With the aid of a steam jet in
+the funnel, the heating surface per indicated horse-power has fallen
+below 21/2 square feet. The large water surface afforded for escape
+of steam secures almost entire freedom from priming, without the
+incumbrance of steam domes; and the large combustion chamber allows of
+the thorough combustion of the gases before their passage through the
+tubes. The locomotive type of boiler has lately occupied the writer's
+attention, with a view to its more definite introduction into marine
+work. The difficulties, however, which lie in the way of applying it to
+steamers going long voyages are very great. The principal difficulty
+lies in the necessity of burning a large quantity of fuel in a very
+limited space and time. This can only be done either by direct pressure
+or exhaust action applied at the furnace. In other words, we must either
+exhaust the funnel, which will absorb a large amount of power, but would
+be comparatively easy of application; or our stokers, as is the case
+with our miners, must work under a pressure of air.
+
+
+STEEL BOILERS.
+
+The writer stated that his experience in the manufacture and working of
+steel boilers was satisfactory. Many steel boilers of sizes varying from
+six feet diameter to fourteen feet six inches diameter have left the
+works at St. Peter's since 1877, when the first was made; and in no
+case has there been a failure of a plate after being put into a boiler,
+either in the process of manufacture or in working at sea. The mode
+of working is as follows: For shell plates, from five-eighths inch
+to seven-eighths inch thick, to warm each to a dark red heat before
+rolling, having previously drilled a few holes to template for bolting
+the strakes together; the longitudinal seams are usually lap joints
+treble riveted, requiring the corners to be thinned, which is done after
+rolling. The furnace plates are generally welded two plates in length,
+and flanged to form Adamson rings, and at the back end to meet the tube
+plate; the back flame-box plates are flanged, also the tube plates and
+front and back plates; and wherever work is put on to the plate it
+is annealed before going into the place. The rivet holes are drilled
+throughout. In the putting together the longitudinal seams of the
+thicker plates of the shells, great care is always taken to set the
+upper and under plates for the lap to their proper angle before they
+are bolted together, a point generally overlooked by the practical
+boilersmith.
+
+
+CORROSION OF BOILERS.
+
+The question of corrosion is one which is gradually being answered as
+time goes on; and so far very satisfactorily for steel. Some steel
+boilers were examined a few weeks ago which were among the first made;
+and the superintending engineer reports: "There is no sign of pitting
+or corrosion in any part of the boiler; the boilers are washed out very
+carefully every voyage, and very carefully examined, and I cannot trace
+anything either leaking or eating away. No zinc is used, only care in
+washing out, drying out, and managing the water." This is the evidence
+of an engineer with a large number of vessels in his charge. On the
+other hand, some of the most prominent Liverpool engineers always use
+zinc, and take care to apply it most strictly. The evidence of one
+of them is as follows: "We always fix slabs of zinc to most boilers,
+exposing not less than a surface of one square foot for every twenty
+indicated horse-power, and distributed throughout the boiler. This zinc
+we find to be in a state of oxide and crumbling away in about three
+months. We then renew the whole, and find this will last twelve months
+or more, when it is renewed again. Meanwhile we have no pitting and no
+corrosion; but on the contrary, the interior surfaces appear to have
+taken a coating of oxide of zinc all over, and we have no trouble with
+them."
+
+
+HOW THE MARINE ENGINE MAY BE IMPROVED.
+
+Then the writer considered our present marine engine as to its
+efficiency and capability of further improvement. The weight of
+machinery, water, and fuel carried for propelling ships has not had due
+attention in the general practice of engineers. By the best shipping
+authorities the writer is assured that every ton of dead weight capacity
+is worth on an average L10 per annum as earning freight. Assuming,
+therefore, the weight of the machinery and water of any ordinary vessel
+to be 300 tons, and that, by careful design and judicious use of
+materials, the engineer can reduce it by 100 tons, without increasing
+the cost of working, he makes the vessel worth L1,000 per annum more to
+her owners. That there is much room for improvement in this direction is
+shown by the following statement, giving, for various classes of ships,
+the average weight of machinery, including engines, boilers, water, and
+all fittings ready for sea, in pounds, per indicated horse power:
+
+                                       Lb. per I. H. P.
+
+  Merchant steamers.......................... 480
+  Royal Navy................................. 300
+  Engines specially designed for light draught
+    vessels...................................280
+  Royal Navy, Polyphemus class (given by Mr.
+    Wright).................................. 180
+  Modern locomotive.......................... 140
+  Torpedo vessels............................. 60
+
+  Ordinary marine boilers, including water... 196
+  Locomotive boilers, including water......... 60
+
+The ordinary marine boiler, encumbered as it is by the regulations of
+the Board of Trade and of Lloyds' Committee, does not admit of much
+reduction in the weight of material or of water carried when working.
+The introduction of steel has reduced the weight by about one-tenth; but
+it will be the alteration of form to the locomotive, tubulous, or some
+other type, combined with some method of forced draught, to which we
+must look for such reductions in weight of material and water as will be
+of any great commercial value. The engine may be reduced in weight by
+reducing its size, and this can only be done by increasing the number of
+revolutions per minute.
+
+It has hitherto been the practice to treat the propeller as dependent
+upon the size of engines, draught of water, and speed required. This
+process should be reversed. The propeller's diameter depends on the
+column of water behind necessary to overcome the resistance in front of
+it due to the properties of the vessel. This fixed, the speed will then
+fix the number of revolutions, which will be found much greater than is
+usual in practice, and from this the size of the engines and boilers
+will be determined. Great saving in weight can be effected by careful
+design and judicious selection and adaptation of materials, also by the
+substitution of trussed framing and a proper mode of securing the engine
+to the structure of the vessel, as worked out in H.M.S. Nelson, by Mr.
+A. C. Kirk, of Glasgow, and in the beautifully designed engines by Mr.
+Thornycroft, in place of the massive cast-iron bedplates and columns of
+the ordinary engines of commerce. The same may be said of the moving
+parts. In fine, the hull and engines should be as much as possible one
+structure; rigidity in one place and elasticity in others are the
+cause of most of the accidents so costly to the ship-owner; under such
+conditions mass and solidity cease to be virtues, and the sooner their
+place is taken by careful design, and the use of the smallest weight
+of material--of the very best kind for the purpose--consistent with
+thorough efficiency, the better for all concerned.
+
+
+CONSUMPTION OF FUEL IN MARINE ENGINES.
+
+Coming to the question of the consumption of fuel, a considerable saving
+has been effected in nine years, as shown in the following table:
+
+               Item.                       1872.       1881.
+
+  Working pressure, lb. per sq. in......... 52.5        77.4
+  Heating surface per I. H. P., sq. ft....   4.64        3.919
+  Piston speed, feet per min.............. 376         467
+  Coal burnt per I. H. P., lb..............  2.11        1.828
+
+This shows a saving equal to 13.38 per cent, in quantity of fuel
+consumed. Mr. Marshall then read a letter from Mr. Alfred Holt, of
+Liverpool, bearing on this subject, in which Mr. Holt spoke favorably of
+the single-crank engine, and stated his belief that the compound system
+would ere long be abandoned for the simple engine. He is endeavoring to
+feel his way to using the steam in one cylinder only, and so far the
+results have been encouraging, and he is now fitting a 2,200-ton vessel
+on that system. He is also endeavoring to do without a crank shaft, the
+forward end of the screw shaft carrying an ordinary crank with overhung
+pin. This experiment also promises satisfactorily. In his opinion the
+great improvement of the immediate future is to increase the steam
+production of our boilers. A ton weight of a locomotive boiler produces
+as much steam as six tons of an ordinary steamboat boiler.
+
+Mr. Holt speaks of the coal account as one of the minor disbursements
+of a steamer. He does not give the ratio which coals bear to the total
+disbursements, but from other reliable sources Mr. Marshall found that,
+according to the direction of the voyage, it varies from 16 to
+20 percent.--or, say, an average of 18 per cent.--of the total
+disbursements, in a vessel carrying a cargo of 2,500 tons. This will
+represent to-day about L3,000 per annum, and in 1872, at equal prices,
+the cost would have been L3,750--showing a saving of L750, equal to a
+dividend of, say, 3 per cent. on the value of the ship. Again, the cost
+of coal per mile run for such a vessel, in 1872, would have been at
+least 161/2d.; to-day it does not exceed 13d.
+
+
+EVAPORATIVE EFFICIENCY OF MARINE BOILERS.
+
+The marine boiler as now made is very efficient, but if the quantity of
+steam used be considered in relation to the increased pressure, it will
+be seen that the boiler of to-day is little if anymore efficient than
+that of ten years ago. The present boiler has an evaporative efficiency
+of about 75 per cent., and cannot be much improved so long as air
+is supplied to the furnace by the natural draught. To increase the
+efficiency from 75 to 82.5 per cent. would require about double the
+heating surface, the weight of boiler and water being also doubled,
+while the gain would be only 10 per cent. Mr. Blechynden's formula, used
+in Mr. Marshall's works for weights of cylindrical marine boilers of the
+ordinary type, and for pressures varying from 50 lb. to 150 lb., is as
+follows:
+
+W = (P + 15) (S + D squared L) / C
+
+or W = 2S (P + 15) / C
+
+when S = D squared L, which is a common proportion.
+
+  Here W = weight in tons.
+       P = working pressure as on gauge.
+       S = heating surface, in square feet.
+       D = diameter, in feet.
+       L = length, in feet.
+       C = a constant divisor, depending on the class of
+           riveting, etc. For boilers to Lloyds' rules,
+           and with iron shells having 75 per cent.
+           strength of solid plate, C = 13,200.
+
+This formula, if correct--and it is almost strictly so--would give the
+relative weight of boilers per sq. ft. of heating surface, for 105 lb.
+and 150 lb. total pressure, assuming we wish to increase the efficiency
+10 per cent, as follows:
+
+Weight at 105 lb. = 105 x 1 / C
+
+Weight at 150 lb. = 150 x 1.75 / C = 263 / C
+
+Hence the ratio of weight = 263 / 105 = 2.5
+
+In other words, the boiler with the higher efficiency would weigh two
+and a half times that with the lower efficiency. In the case of a vessel
+of 3,000 tons, with engines and boilers of 1,500 indicated horse power,
+the introduction of locomotive boilers with forced draught would place
+at the disposal of the owner 150 tons of cargo space, representing
+L1,500 per annum in addition to the present earnings of such a vessel.
+
+
+MARINE LOCOMOTIVE BOILERS.
+
+Mr. Thornycroft has for some years used the locomotive form of boiler
+for his steam launches, working them under an air pressure--produced
+by a fan discharging into a close stokehold--of from 1 in. to 6 in. of
+water, as may be required. The experiments made gave an evaporation of
+7.61 lb. of water from 1 lb. of coal at 212 deg. Fahr., with 2 in. of water
+pressure, and 6.41 lb. with 6 in. of pressure. These results are low,
+but it is to be remembered that the heating surface is necessarily
+small, in order to save weight, and the temperature of the funnel
+consequently high, ranging from 1,073 deg. at the first pressure, and 1,444 deg.
+at the 6 in. With the ordinary proportions of locomotive practice the
+efficiency can be made equal to the best marine boiler when working
+under the water pressure usual in locomotives, say from 3 in. to 4 in.,
+including funnel draught.
+
+It has fallen to the lot of the writer to fit three vessels recently
+with boilers worked under pressure in closed stokeholds. The results,
+even under unfavorable conditions, were very satisfactory. The pressure
+of air would be represented by 2 in. of water, and the indicated horse
+power given out by the engines was 2,800, as against 1,875 when working
+by natural draught, or exactly 50 per cent. gain in power developed.
+
+Mr. Marshall then proceeded to refute the arguments which may be urged
+against the use of the locomotive boiler at sea, and which we need not
+reproduce. Coming to the engines, Mr. Marshall said that the total
+working pressure of to-day may be accepted as 105 lb., or equal to seven
+atmospheres. If it were boldly accepted that eleven atmospheres, or 165
+lb., were to be the standard working pressure, the result would be a
+gain of 14.55 per cent., provided no counteracting influence came into
+play. Of course, there are forces which war against the attainment of
+the full extent of this advantage, viz., the greater condensation in the
+cylinders and loss in the receiver or passages.
+
+In regard to the former, it may be questioned whether by steamjacketing
+the high pressure cylinder, correctly proportioning the steam passages,
+and giving a due amount of compression in both cylinders, this may not
+be reduced far below the generally received notion; and the latter cause
+of loss may be considerably reduced in its effect by a more carefully
+chosen cylinder ratio. The ratio usually adopted, between 3.5 and 4 to
+1, whether the pressure be 70 lb. or 90 lb., may well be questioned.
+With a cylinder ratio of 2.95 to 1, the economic performance is very
+good, and equal to any with the higher ratio. A lower cylinder ratio has
+another advantage of considerable value, viz., that the working pressure
+can be much reduced as the boilers get older, while by giving a greater
+amount of steam the power may be maintained--at an extra cost of steam,
+of course, but not so great a cost as with higher ratios. The cut-off
+in the high-pressure cylinder usually takes place at about 0.6, and
+the ratio of expansion has decided the ratio of cylinders. The use of
+separate starting valves in both cylinders obviates that necessity.
+
+The difficulties in the way of taking advantage of the higher economic
+properties of greater pressures than hitherto used on board ship, are,
+it is submitted, not insuperable, and it would be to the interest of all
+that they should be firmly and determinedly met. It may be accepted as
+an average result that the Woolf engine, as usually arranged, will use
+10 per cent. more steam than the receiver engine for the same power.
+
+Of the three-cylinder receiver type the data are insufficient to form a
+definite opinion upon; but so far the general working of the Arizona is
+stated to be as good, economically, as any of the two-cylinder receiver
+class. The surface condenser remains as it was ten years ago, with
+scarcely a detail altered. In most engines it remains a portion of the
+framing, and as such adds greatly to the weight of the engine.
+
+It is a question seriously worth consideration whether or no the surface
+of tubes can be reduced. The practice at present is to make the surface
+one-half the boiler surface as a minimum, that is, equal to about 2
+square feet per indicated horse power. In practice, the writer has found
+1.4 square feet per indicated horse power to maintain a steady vacuum of
+271/2 inches.
+
+Mr. Marshall has just completed six pairs of engines for three twin
+screw ships, having steel shafts of 10 inches diameter, and has in each
+case run the engines at 120 revolutions per minute, while indicating
+1,380 horse power from each pair for ten to fifteen hours without
+stopping; and in no case has a single bearing or crank pin warmed or
+had water applied, the surfaces on examination being perfect. In these
+engines all working bolts, pins, and rods, except the piston and
+connecting rods, are of steel, all rods in tension being loaded to 8,000
+lb. per square inch. The boilers are of the Navy type, made throughout
+of Siemens-Martin steel plates, riveted with steel rivets, all holes
+drilled. Furnaces are welded and flanged; the tubes are of brass. In
+comparison with an ordinary merchant steamer's iron boilers of the
+double ended type, they weigh, including water and all appurtenances, as
+follows:
+
+                      Double ended Type.    Navy Type.
+
+  Weight, tons............   135 ...........  146
+  I. H. P................. 1,400 .......... 2,760
+  Draught................ Natural ......... Forced.
+
+
+SCREW PROPELLERS.
+
+The screw propeller is still to a great extent an unsolved problem. We
+have no definite rule by which we can fix the most important factor of
+the whole, namely, the diameter. Mr. Froude has pointed out that by
+reducing the diameter, and thus the peripheral friction, we can increase
+the efficiency; and this is confirmed by cases--of Iris reduced 2 feet
+3 inches, and the Arizona reduced 2 feet. This must, of course, be
+qualified by other considerations. The ship has by her form a definite
+resistance, and a certain speed is required; if the propeller be made

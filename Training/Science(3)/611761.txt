@@ -1,0 +1,440 @@
+closed by means of their valves, J, K, and L, and the valve, I, of the
+pipe, O, is opened. The pipes, M and N, are likewise closed, while the
+flue, E, is opened. On the other side of the generator the reverse order
+is followed, that is to say, the flue, E', is closed, the pipes, M' and
+N', are opened, the pipes, O', P', and Q', are closed, and R' is opened.
+
+A current of air is introduced through the pipe, O, and this traverses
+the regenerators, B, enters the chamber, T, and the generator, A,
+through the flue, E. As this air rises through the mass of incandescent
+fuel, its oxygen combines with an atom of carbon and forms carbonic
+oxide. This gas that is disengaged from the upper part of the fuel
+consists chiefly of nitrogen and carbonic oxide, mixed with volatile
+hydrocarburets derived from the fuel used. This gas, through the action
+of the air upon the fuel, is called "air gas," in order to distinguish
+it from the "water gas" formed in the second period of the process.
+
+The air gas, on issuing from the generator through the pipe, M', in
+order to pass into the chamber, F', meets in the latter a second current
+of air coming in through the pipe, N', and which burns it and produces,
+in doing so, considerable heat. The strongly heated gases resulting from
+the combustion traverse the regenerators, B', and give up to the bricks
+therein the greater part of their heat, and finally make their exit,
+relatively cool, through the pipe, R', which leads them to the chimney.
+When the operation has been continued for a sufficient length of time to
+give the refractory bricks in the chamber, B', next the regenerator a
+high temperature, the valve, I, is closed, thus shutting off the
+entrance of air through the pipe, Q. The valve, F, of the flue, E, is
+also closed, and that of the pipe, M, is opened. The valves, G', H', L',
+of the pipes, M', N', R', are closed, and that, F', of the flue, E', is
+opened. The valve, J', of the pipe, P', is then opened, and a jet of
+steam is introduced through the latter.
+
+The steam becomes superheated in traversing the regenerators, B', and in
+this state enters the bottom of the generator through the flue, E'. In
+passing into the incandescent fuel that fills the generator, the steam
+is decomposed, and there forms carbonic oxide, while hydrogen is
+liberated. The mixture of these two gases with the hydrocarburets
+furnished by the fuel constitutes water gas. This gas on making its exit
+from the generator through the pipe, M', passes through the chambers, B,
+and abandons therein the greater part of its heat, and enters the pipe,
+R, whence it passes through Q into the purifiers, and then into the
+gasometer.
+
+As the production of water gas implies the absorption of a large
+quantity of sensible heat, it is accompanied with a rapid fall of
+temperature in the chambers, B', and eventually also in the generator,
+A, while at the same time the chambers, B, are but moderately heated by
+the sensible heat of the current of gas produced. When this cooling has
+continued so long that the temperature in the generator, A, is no longer
+high enough to allow the fuel to decompose the steam with ease, the
+valve, J', of the pipe, P', that leads the steam is closed, as is also
+the valve, K, of the pipe, Q, while the valves, L and H, of the pipes, R
+and N, are opened. After this the valve, I', is opened, and a current of
+air is let in through the pipe, O'. This air, upon traversing the
+chambers, B' and T', is raised to a high temperature through the heat
+remaining in these chambers, and then enters at the bottom of the
+generator, through the flue, E'. The air gas that now makes its exit
+from the pipe, M, in the chamber, T, meets another current of air coming
+from the pipe, N, and is thus burned. The products resulting from such
+combustion pass into the chambers, B, and then into the chimney, through
+the pipe, R. The temperature then rapidly lowers in the chambers, B',
+and rises no less rapidly in the generator, A, while the chambers, B,
+are soon heated to the same temperature that first existed in the
+chambers, B'. As soon as the desired temperature is obtained in the
+generator, A, and the chambers, B, the air is shut off by closing the
+valve, I', of the pipe, O'; the valve, F', of the flue, E', is also
+closed, the valves, G' and K', of the pipes, M' and Q', are opened, the
+valves, G, H, and L, of the pipes, M, N, and R, are closed, and the
+valve, F, of the flue, E, and the valve, J, of the pipe, P, are opened.
+A current of steam enters the apparatus through the pipe, P, traverses
+the chambers, B, and enters the generator through the flue, E. The gas
+produced makes its exit from the generator, passes through the pipe, M',
+and the chambers, T' and B', and the pipe, R, and enters the gasometer
+through the pipe, Q'.
+
+[Illustration: WATER-GAS APPARATUS.]
+
+When the chamber, B, and the generator, A, are again in so cool a state
+that the fuel no longer decomposes the steam easily, the valves are so
+maneuvered as to stop the entrance of the latter, and to send a current
+of air into the apparatus in the same direction that the steam had just
+been taking. The temperature thereupon quickly rises in the generator,
+A, while, at the same time, the combustion of the air gas produced soon
+reheats the chambers, B'. The cooled products of combustion go, as
+before, to the chimney. The position of the valves is then changed again
+so as to send a current of steam into the apparatus in a direction
+contrary to that which the air took in the last place, and the water gas
+obtained again is sent to the gasometer.
+
+As will be seen, the process is entirely continuous, each current of air
+following the same direction in the apparatus (from left to right, or
+right to left) that the current of steam did which preceded it, while
+each current of steam follows a direction opposite that of the current
+of air which preceded it.
+
+The inventor estimates that the cost of the coal necessary for his
+process will not exceed a tenth of a cent per cubic foot of gas.
+
+One important advantage of the apparatus is that it can be made of any
+dimensions. Instead of giving the generator the limited size and form
+shown in the engraving, with doors at the bottom for the removal of the
+ashes by hand from time to time, it may be constructed after the general
+model of the shaft of blast furnaces, with a hearth at the base. Upon
+adding to the fuel a small quantity of flux, all the mineral parts
+thereof can be melted into a liquid slag, which may be carried off just
+like that of blast furnaces. There is no difficulty in constructing
+regenerators of refractory bricks of sufficient capacity, however large
+the generators be; and a single apparatus might, if need be, convert one
+thousand tons of anthracite per day into more than five million cubic
+feet of gas.
+
+       *       *       *       *       *
+
+
+
+
+LIGHTING AND VENTILATING BY GAS.
+
+[Footnote: A paper read before the Gas Institute, Manchester, June,
+1885.]
+
+By WILLIAM SUGG, of London.
+
+
+Ever since the introduction of electric lighting, the public have been
+assured, by those interested in the different kinds of lamps--arc, glow
+or otherwise--that henceforth, by means of such lamps, rooms are to be
+lighted without heat or baneful products such as they assert attend the
+use of gas, lamps, or candles. But I think it must not be implied, from
+what any one has said in favor of the electric light as a means of
+lighting our dwellings, that gas is unsuitable for the purpose, or that
+the glow lamp is a perfect substitute for gas, or that there is a very
+large difference throughout the year on the points of health,
+convenience, or comfort, or that the balance in favor rests with
+electric light upon all or any of these points. The fact is, the glow
+lamp is only one more means (not without certain disadvantages) of
+producing light added to those which already exist, and of which the
+public have the choice. Now, looking to best means of lighting rooms,
+and particularly the principal rooms of a small dwelling-house, I beg to
+say that the arguments which can be adduced in favor of gas lighting in
+preference to any other means greatly preponderate, and that it can be
+substantiated that, light for light, under the heads of convenience,
+health, comfort, reliability, readiness, and cheapness, gas is superior
+to all.
+
+As a scientific means for the purposes mentioned, gas is comparatively
+untried. This assertion may sound somewhat astounding; but I think it is
+a true one. More than that, even in the crude and unscientific way in
+which it has most frequently been used up to the present, it has been
+far from unsuccessful in comparison with electricity or other means of
+lighting; and in the future it will prove the best and cheapest
+practical means, although, for effect, glow lamps may be used in
+palatial dwellings in conjunction with it.
+
+It must be remembered that, in laying down a system of artificial
+lighting, we have to imitate, as well as we can, that most beautiful and
+perfect natural light which, without our aid, and without even a thought
+from us, shines regularly every day upon all, in such an immense volume,
+so perfectly diffused, and in such wonderful chemical combination, that
+it may safely be said that not one atom of the whole economy of Nature
+is unaffected by it, and that we and all the animal kingdom, in common
+with trees and plants, derive health and vigor therefrom. This glorious
+natural light leaves our best gas, electricity, oil lamp, and all our
+multiplicity of candles, immeasurably behind. But although we cannot
+hope to equal, in all its beneficent results, the effects of daylight,
+or to perfectly replace it, we can more perfectly make the lighting of
+our homes comfortable (and as little destructive to the eyes and to the
+general health) by the aid of gas than by any other means. It must also
+be borne in mind that, in this country at least, we have to fulfill the
+conditions of artificial lighting under frequent differences of
+temperature and barometric influence, exaggerated by the manner in which
+our homes are built; and that for at least nine months of the year we
+require heat as well as light in our dwellings, and that for the other
+three months (excepting in some few favored localities) the nights are
+often chilly, even though the days may be hot. Therefore, independently
+of any effect produced by the lighting arrangements, there must be
+widely different effects produced in the temperature and conditions of
+the air in rooms by influences entirely beyond our control.
+
+As an example of what I mean, a short time ago I had to preside over a
+meeting which was held in a large room--one of two built exactly alike,
+and in communication with each other by means of folding doors. These
+rooms formed part of one of the best hotels in London--let us call it
+the "Magnificent." Of course, it was lighted by electric glow lamps, in
+accordance with the latest fashion in that department of artificial
+lighting, viz., suspension lamps, in which the glow lamps grew out of
+leaves and scrolls, twisted and twirled in and out, very much after the
+pattern of our most aesthetic gas lamps, which, of course, are in the
+style of the most artistic (late eighteenth century) oil lamps, which
+were in imitation of the most classic Roman lamps, which followed the
+Persian, and so on back to the time of Tubal Cain, the great
+arch-artificer in metals, who most likely copied in metal some lamps he
+had seen in shells or flints. Both rooms were heated by means of the
+good old blazing coal fire so dear to a Briton's heart; and they were
+ventilated with all due regard to the latest state of knowledge on the
+subject among architects and builders. In fact, no pains had been spared
+to make these rooms comfortable in the highest acceptation of the word.
+
+There were, some of our members remarked, no gas burners to heat and
+deteriorate the atmosphere, or to blacken the ceilings; and therefore,
+under the brilliant sparkle of glow lamps, the summit of such human
+felicity as is expected by a body of eighteen or twenty business men,
+intent on dispatching business and restoring the lost tissue by means of
+a nice little dinner afterward, ought, according to the calculations of
+the architect of the building, to have been reached. I instance this
+case because it is a typical one, which, under most aspects, does not
+materially differ from the conditions of home life in such residences as
+those whose occupiers are likely to use electric lighting. The rooms
+were spacious (about 20 feet by 35 feet, and about 15 feet high); and
+they were lighted during the day by means of large lantern
+ceiling-lights, with double glass windows. The evening in question was
+chilly, not to say cold.
+
+Upon commencing our business, we all admired the comfort of the room;
+but as time went on, most of the company began to complain of a little
+draught on the head and back of the neck. The draught, which at first
+was only a suspicion, became a certainty, and in another hour or so, by
+the time our business was over, notwithstanding a screen placed before
+the door, and a blazing fire, we were delighted to make a change to the
+comfortable dining-room, which communicated with the room we had just
+left by means of folding doors, closed with the exception of just
+sufficient space left at one end of the room to allow a waiter to pass
+in and out. Very curiously, before the soup was finished, we became
+aware that the candles which assisted the electric glow lamps (merely
+for artistic effect) began to flare in a most uncandlelike manner--the
+flames turning down, as if some one were blowing downward on the wicks;
+and at the same time the complaints of "Draughts, horrid draughts!"
+became general, and from every quarter. Finding that, as the dinner went
+on, the discomfort became unbearable, even although the doors were shut
+and screens put before them, I gave up dining, and took to scientific
+discovery. The result of a few moments' observation induced me to order
+"those gas jets," which I saw peeping out from among the foliage of the
+electroliers, to be lighted up. In two or three minutes the flames of
+the candles burned upright and steadily, and in less than ten minutes
+the draughts were no longer felt; in fact, the room became really
+comfortable.
+
+The reason of the change was simple. The stratum of air lying up at the
+ceiling was comparatively cold. The column of heated air from the bodies
+of the twenty guests, joined to the heat produced by the movements of
+themselves and the waiters, together with the steam from the viands and
+respiration, displaced the colder air at the ceiling, and notably that
+coldest air lying against the surface of the glass. This cold air simply
+dropped straight down, after the manner of a douche, on candles and
+heads below. The remedy I advised was the setting up of a current of
+hotter steam and air from the gas burners, which stopped the cooling
+effect of the glass, and created a stratum of heated steam and air in
+slow movement all over the ceiling. The effect was a comfortable
+sensation of warmth and entire absence of draught all round the table.
+Later on, to avoid the possibility of overheating the room, the gas was
+put out, and the electric lights left to themselves. But before we left,
+the chilliness and draughts began to be again felt.
+
+The incident here narrated occurred at the end of the month of April
+last, when we might reasonably have hoped to have tolerably warm nights.
+It is therefore clear that in this instance neither electricity nor
+candles could effectually replace gas for lighting purposes. They both
+did the lighting, but they utterly failed to keep the currents of air
+steady. I have always remarked draughts whenever I have remained any
+length of time in rooms where the electric light is used. On a warm
+evening the electric light and candles would undoubtedly have kept the
+room cooler than gas, with the same kind of ventilation; I do not think
+they would have put an end to cold draughts. This the steam from the gas
+does in all fairly built rooms.
+
+It is a well-known fact that dry air parts with its relatively small
+amount of specific heat, in an almost incredibly rapid manner, to
+anything against which it impinges. Steam, on the contrary, from its
+great specific heat, remains in a heated state for a much longer time
+than air. It is not so suddenly reduced to a low temperature, and in
+parting with its own heat it communicates a considerable amount of
+warmth to those bodies with which it comes in contact. Thus the products
+of the combustion of gas (which are principally steam) serve a useful
+purpose in lighting, by keeping at the ceiling level a certain stratum
+of heated vapor, which holds up, as it were, the carbonic acid and
+exhalation from the lungs given off by those using the room. The obvious
+inference, therefore, is that if we take off these products from the
+level of the ceiling, we shall take off at the same time the impure and
+vitiated air. On the other hand, if we make use of a system of
+artificial lighting, which does not produce any steam, then we shall
+have to adopt means to keep the air at the ceiling level warm, in order
+to prevent the heated impure air from descending in comparatively rapid
+currents, after having parted with its heat to the ceiling. It may very
+frequently be observed on chilly days that a number of currents of cold
+air seem to travel about our rooms, although there may be no crevices in
+the doors and windows sufficient to account for them; and, further, that
+these currents of cold air are not noticed when the curtains are drawn
+and the gas is lighted. The reason is that there is generally not enough
+heat at the ceiling level in a room unlighted with gas to keep these
+currents steady. Hence the complaints of chilliness which we constantly
+hear when electric lights are used for the illumination of public
+buildings. For example, at the annual dinner of the Institution of Civil
+Engineers, held at the end of April last in the Conservatory of the
+Horticultural Gardens, the heat from the five hundred guests, and from
+an almost equal number of waiters and attendants, displaced the cold air
+from the dome of the roof, and literally poured down on the assembly
+(who were in evening dress) in a manner to compel many of them to put on
+overcoats. If the Conservatory had been lighted with gas suspended below
+the roof, this would not have been the case, because sufficient steam
+would have been generated to stop these cold douches, and keep them up
+in the roof. In fact, if electric lights are to be used in such a
+building, it will be necessary to lay hot-water pipes in the roof, to
+keep warm the upper as well as the lower stratum of air, and thus steady
+the currents.
+
+Having pointed out difficulties which arise under certain conditions of
+the atmosphere in rooms built with care, to make them comfortable when
+electric lighting is substituted for gas, I will lay before you some few
+particulars relative to the condition of small rooms of about 12 ft. by
+15 ft. by 10 ft., or any ordinary room such as may be found in the usual
+run of houses in this country. The cubical contents of such a room
+equals 1,700 cubic feet. If the room is heated by means of a coal fire,
+we shall for the greatest part of the year have a quantity of air taken
+out of it at about 2 feet from the floor by the chimney draught, varying
+(according to atmospheric conditions and the state of the fire) from 600
+to 2,000 or more cubic feet. This quantity of air must, therefore, be
+admitted by some means or other into the room, or the chimney will, in
+ordinary parlance, "smoke;" that is, the products of combustion, very
+largely diluted with fresh air, will not all find their way up the flue
+with sufficient velocity to overcome the pressure of the heavy cold air
+at the top of the chimney. If no proper inlets for air are made, this
+supply to the fire must be kept up from the crevices of the doors and
+windows. In the line of these currents of cold air, or "draughts" as
+they are usually called, it is impossible to experience any
+comfort--quite the contrary; and colds, rheumatism, and many other
+serious maladies are brought on through this abundant supply of fresh
+air in the wrong way and place.
+
+According to General Morin (one of the best authorities on ventilation),
+300 cubic feet of air per hour are required for every adult person in
+ordinary living rooms. Peclet says 250 cubic feet are sufficient; less
+than this renders the atmosphere stuffy and unhealthy. It is generally
+admitted that an average adult breathes out from 20 to 30 cubic inches
+of steam and vitiated air per minute, or, as Dr. Arnott says, a quantity
+equal in bulk to that of a full-sized orange. This vitiated air and
+steam is respired at a temperature of 90 deg. Fahr.; and therefore, by
+reason of this heat, it immediately ascends to the ceiling, together
+with the heat and carbonic acid given off from the pores of the skin.
+This fact, by the bye, can be clearly demonstrated by placing a person
+in the direct rays from a powerful limelight or electric lamp, and thus
+projecting his shadow sharply on a smooth white surface. It will be
+observed that from every hair of the head and beard, and every fiber of
+his clothing, a current of heated air in rapid movement is passing
+upward toward the ceiling. These currents appear as white lines on the
+surface of the wall; the cause probably being that the extreme
+rarefaction of the air by the heat of the body enables the rays of light
+to pass through them with less refraction than through the denser and
+more moist surrounding cold air. An adult makes, on an average, about 15
+respirations per minute, and therefore he in every hour renders to the
+atmosphere of the room in which he is staying from 10 to 15 cubic feet
+of poisonous air. This rises to the ceiling line, if it is not
+prevented; and thus vitiates from 100 to 150 cubic feet of air to the
+extent of 1 per cent, in an hour. General Morin thought that air was not
+good which contained more than 1/2 per cent, of air which had been exhaled
+from the lungs; and when we consider how dangerous to health these
+exhalations are, we must admit that he was right in his view. Therefore
+in one hour the 15 foot by 12 foot room is vitiated to more than 2 feet
+from the ceiling by one person to the extent of 1/2 per cent., and it will
+be vitiated by two persons to the extent of 1 per cent, in the same
+time.
+
+It must be remembered here that the degree of diffusion of the vitiated
+air into the lower fresh air contained in the remaining 8 feet of the
+height of the room depends very materially on the difference of
+temperature between these upper and lower strata and the movements of
+air in the room. The heavy poisonous vapors and gases fall into and
+diffuse themselves among the fresh air of the lower strata--very readily
+if they are nearly the same temperature as the upper, but scarcely at
+all if the air at the ceiling line is much hotter. Hence it occurs that,
+in warmed rooms of such size as I have mentioned, where one or two
+petroleum lamps are used for lighting them, after two or three hours of
+occupation by a family of three or four persons in winter weather, the
+air at the ceiling line has become so poisonous that a bird dies if
+allowed to breathe it for a very short time--sometimes, indeed, for only
+a few minutes. With candles, if the illumination of the room is
+maintained at the same degree as in the case of lamps, the contamination
+of the air is very much worse. It is doubtless the case that poisonous
+germs are rapidly developed in atmospheres which are called "stuffy;"
+and although, in a healthy state of the body, we are able to breathe
+them without perceptible harm, yet even then the slight headache and
+uneasiness we feel is a symptom which does not suffer itself to be
+lightly regarded, whenever, from some cause or other, the general
+condition is weak.
+
+The products of combustion from coal gas (which are steam and carbonic
+acid mixed with an infinitesimal quantity of sulphur) are,
+proportionately, far less injurious to animal life than the products
+from an equal illuminating power derived from either oil or candles.
+They are, however, it is certain, destructive to germ life; and
+therefore, if taken off from the ceiling level, where they always
+collect if allowed to do so, no possible inconvenience or danger to
+health can be felt by any one in the room. But in our endeavors to take
+off the foul air at the ceiling, we encounter our first serious check in
+all schemes of ventilation. We draw the elevation and section of the
+room, and put in our flues with pretty little black arrows flying out of
+the outlets for vitiated air, and other pretty little red arrows flying
+in at the inlets; but when we see our scheme in practice, the black
+arrows will persist in putting their wings where their points ought to
+be; in other words, flying into instead of out of the room.
+
+One of the best ways of finding the true course of all the hot and cold
+currents in a room is to make use of a small balloon, such as used to be
+employed for ascertaining the specific gravity of gases; and, having
+filled it with ordinary coal gas, balance it by weights tied on to the
+car till it will rest without going up or down in a part of the room
+where the air can be felt to be at about the mean temperature, and free
+from draught. Then leave it to itself, to go where it will.
+
+As soon as it arrives in a current of heated air, it will ascend,
+passing along with the current, and descending or rising as the current
+is either warm or cold. The effect of the cold fresh air from windows or
+doors, as well as the effect of the radiant heat from the fire, can be
+thus thoroughly studied. Some of our pet theories may receive a cruel
+shock from this experiment; but, in the end, the ventilation of the room
+will doubtless be benefited, if we apply the information obtained. It
+will be discovered that the wide-throated chimney is the cause of the
+little black arrows turning their backs on the right path and our
+theoretical outlets for vitiated air becoming inlets. The chimney flue
+must have an enormous supply of air, and it simply draws it from the
+most easily accessible places. From 1,000 to 2,000 cubic feet of air per
+hour is a large "order" for a small room. Therefore, until we have made
+ample provision for the air supply to the fire, it is quite useless to
+attempt to ventilate the upper part of the room, either by ventilating
+gas lights or one of the cheap ventilators with little talc flappers,
+opening into the chimney when there is an up draught, and shutting
+themselves up when there is any tendency to down draught. The success of
+these and all other ventilators depends upon there being a good supply
+of air from under the door or through the spaces round the window
+frames. These fresh air supplies are, of course, unendurable; but if one
+of the spaces between the joists of the floor is utilized to serve as an
+air conduit, and made to discharge itself under the fender (raised about
+two inches for the purpose), quite another state of things will be set
+up. Then the supply of air thus arranged for will satisfy the fire,
+without drawing from the doors and windows, and at the same time supply
+a small quantity of fresh air into the room. But the important fact that
+the radiant heat from the fire will pass through the cold air without
+warming it all must not be lost sight of. In reality, radiant heat only
+warms the furniture and walls of the room or whatever intercepts its
+rays. The air of the room is warmed by passing over these more or less
+heated surfaces; and as it is warmed, it rises away to the ceiling.

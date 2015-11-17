@@ -1,0 +1,368 @@
+
+     Chardonnet      33.70
+     Lehner          26.56
+     Pauly            1.61
+
+18. _Inorganic constituents._--Determinations of the total ash gave for
+the first five of the above, numbers varying from 1.0 to 1.7 p.ct. The
+only noteworthy point in the comparison was the exceptionally small ash
+of the Pauly product, viz. 0.096 p.ct.
+
+19. _Total nitrogen._--The natural silks contain the 16-17 p.ct. N
+characteristic of the proteids. The lustra-celluloses contain 0.05-0.15
+p.ct. N which in those spun from collodion is present in the form of
+nitric groups.
+
+The points of chemical differentiation which are established by the
+above scheme of comparative investigation are summed up in tabular form.
+
+_Methods of dyeing._--The lustra-celluloses are briefly discussed. The
+specific relationship of these forms of cellulose to the colouring
+matters are in the main those of cotton, but they manifest in the
+dye-bath the somewhat intensified attraction which characterises
+mercerised cotton, or more generally the cellulose hydrates.
+
+_Industrial applications_ of the lustra-celluloses are briefly noticed
+in the concluding section of the book.
+
+FOOTNOTES:
+
+[3] With these products it is easy to observe that they have a definite
+fusion point 5 deg.-10 deg. below the temperature of explosion.
+
+
+
+
+SECTION III. DECOMPOSITIONS OF CELLULOSE SUCH AS THROW LIGHT ON THE
+PROBLEM OF ITS CONSTITUTION
+
+
+UEBER CELLULOSE.
+
+G. BUMCKE und R. WOLFFENSTEIN (Berl. Ber., 1899, 2493).
+
+(p. 54) _Theoretical Preface._--The purpose of these investigations is
+the closer characterisation of the products known as 'oxycellulose' and
+'hydracellulose,' which are empirical aggregates obtained by various
+processes of oxidation and hydrolysis; these processes act concurrently
+in the production of the oxycelluloses. The action of hydrogen peroxide
+was specially investigated. An oxycellulose resulted possessing strongly
+marked aldehydic characteristics. The authors commit themselves to an
+explanation of this paradoxical result, i.e. the production of a body
+of strongly 'reducing' properties by the action of an oxidising agent
+upon the inert cellulose molecule (? aggregate) as due to the
+_hydrolytic_ action of the peroxide: following Wurster (Ber. 22, 145),
+who similarly explained the production of reducing sugars from cane
+sugar by the action of the peroxide.
+
+The product in question is accordingly termed _hydralcellulose_. By the
+action of alkalis this is resolved into two bodies of alcoholic
+(cellulose) and acid ('acid cellulose') characteristics respectively.
+The latter in drying passes into a lactone. The acid product is also
+obtained from cellulose by the action of alkaline lye (boiling 30 p.ct.
+NaOH) and by solution in Schweizer's reagent.
+
+It is considered probable that the cellulose nitrates are hydrocellulose
+derivatives, and experimental evidence in favour of this conclusion is
+supplied by the results of 'nitrating' the celluloses and their oxy- and
+hydro- derivatives. Identical products were obtained.
+
+_Experimental investigations._--The filter paper employed as 'original
+cellulose,' giving the following numbers on analysis:
+
+     C   44.56    44.29    44.53    44.56
+     H    6.39     6.31     6.46     6.42
+
+was exposed to the action of pure distilled H_{2}O_{2} at 4-60 p.ct.
+strength, at ordinary temperatures until disintegrated: a result
+requiring from nineteen to thirty days. The series of products gave the
+following analytical results:
+
+     C   43.61   43.61   43.46   43.89   44.0   43.87   43.92   43.81
+     H    6.00    6.29    6.28    6.26    6.13   6.27    6.24    6.27
+
+results lying between the requirements of the formulae:
+
+     5 C_{6}H_{10}O_{5}.H_{2}O  and  8 C_{6}H_{10}O_{5}.H_{2}O.
+
+Hydrazones were obtained with 1.7-1.8 p.ct. N. Treated with caustic soda
+solution the hydrazones were dissolved in part: on reprecipitation a
+hydrazone of unaltered composition was obtained. The original product
+shows therefore a uniform distribution of the reactive CO- groups.
+
+The hydralcellulose boiled with Fehling's solution reduced 1/12 of the
+amount required for an equal weight of glucose.
+
+Digested with caustic soda solution it yielded 33 p.ct. of its weight of
+the soluble 'acid cellulose.' This product was purified and analysed
+with the following result: C 43.35 H 6.5. For the direct production of
+the 'acid' derivative, cellulose was boiled with successive quantities
+of 30 p.ct. NaOH until _dissolved_. It required eight treatments of one
+hour's duration. On adding sulphuric acid to the solutions the product
+was precipitated. Yield 40 p.ct. Analyses:
+
+     C    43.8     43.8     43.7
+     H     6.2      6.2      6.3
+
+The cellulose reprecipitated from solution in Schweizer's reagent gave
+similar analytical results:
+
+     C    43.9    43.8    44.0
+     H     6.5     6.3     6.4
+
+_Conversion into nitrates._--The original cellulose, hydral- and acid
+cellulose were each treated with 10 times their weight of HNO_{3} of
+1.48 sp.gr. and heated at 85 deg. until the solution lost its initial
+viscosity.
+
+The products were precipitated by water and purified by solution in
+acetone from which two fractions were recovered, the one being
+relatively insoluble in ethyl alcohol. The various nitrates from the
+several original products proved to be of almost identical composition,
+
+     C 32.0   H 4.2    N 8.8
+
+with a molecular weight approximately 1350. The conclusion is that
+these products are all derivatives of a 'hydralcellulose'
+6C_{6}H_{10}O_{5}H_{2}O.
+
+
+FORMATION OF FURFURALDEHYDE FROM CELLULOSE, OXYCELLULOSE, AND
+HYDROCELLULOSE.
+
+By LEO VIGNON (Compt. rend., 1898, 126, 1355-1358).
+
+(p. 54) Hydrocellulose, oxycellulose, and 'reduced' cellulose, the last
+named being apparently identical with hydrocellulose, were obtained by
+heating carefully purified cotton wool (10 grams) in water (1,000 c.c.),
+with (1) 65 c.c. of hydrochloric acid (1.2 sp.gr.), (2) 65 c.c. of
+hydrochloric acid and 80 grams of potassium chlorate, (3) 65 c.c. of
+hydrochloric acid and 50 grams of stannous chloride. From these and some
+other substances, the following percentage yields of furfuraldehyde were
+obtained: Hydrocellulose, 0.854; oxycellulose, 2.113; reduced cellulose,
+0.860; starch, 0.800; bleached cotton, 1.800; oxycellulose, prepared by
+means of chromic acid, 3.500. Two specimens of oxycellulose were
+prepared by treating cotton wool with hydrochloric acid and potassium
+chlorate (A), and with sulphuric acid and potassium dichromate (B), and
+25 grams of each product digested with aqueous potash. Of the product A,
+16.20 grams were insoluble in potash, 2.45 grams were precipitated on
+neutralisation of the alkaline solution, and 6.35 grams remained in
+solution, whilst B yielded 11.16 grams of insoluble matter, 1.42 grams
+were precipitated by acid, and 12.42 grams remained in solution. The
+percentage yields of furfuraldehyde obtained from these fractions were
+as follows: A, insoluble, 0.86; precipitated, 4.35; dissolved, 1.10. B,
+insoluble, 0.76; precipitated, 5.11; dissolved, 1.54. It appears, from
+the foregoing results, that the cellulose molecule, after oxidation, is
+easily decomposed by potash, the insoluble and larger portion having all
+the characters of the original cellulose, whilst the soluble portion is
+of an aldehydic nature, and contains a substance, precipitable by acids,
+which yields a relatively large amount of furfuraldehyde.
+
+
+UNTERSUCHUNGEN UeBER DIE OXYCELLULOSE.
+
+O. V. FABER und B. TOLLENS (Berl. Ber., 1899, 2589).
+
+~Investigations of Oxycellulose.~
+
+(p. 61) The author's results are tersely summed up in the following
+conclusions set forth at the end of the paper: The oxycelluloses are
+mixtures of cellulose and a derivative oxidised compound which contains
+one more atom O than cellulose (cellulose = C_{6}H_{10}O_{5}), and for
+which the special designation _Celloxin_ is proposed.
+
+Celloxin may be formulated C_{8}H_{6}O_{6} or C_{6}H_{10}O_{6}, of which
+the former is the more probable.
+
+The various oxycelluloses may be regarded as containing one celloxin
+group to 1-4 cellulose groups, according to the nature of the original
+cellulose, and the degree of oxidation to which subjected. These groups
+are in chemical union.
+
+Celloxin has not been isolated. On boiling the oxycelluloses with
+lime-milk it is converted into isosaccharinic and dioxybutyric acids.
+The insoluble residue from the treatment is cellulose.
+
+The following oxycelluloses were investigated:
+
+A. _Product of action of nitric acid upon pine wood_ (Lindsey and
+Tollens, Ann. 267, 366).--The oxycelluloses contained
+
+1 mol celloxin:  {2 mol. cellulose on 6 hours' heating
+                 {3 mol. cellulose on 3 hours' heating
+
+with a ratio H : O = 1 : 9 and 1 : 8.7 respectively: they yielded 7
+p.ct. furfural.
+
+B. _By action of bromine in presence of water and_ CaCO_{3} _upon
+cotton_.--Yield, (air-dry) 85 p.ct. Empirical composition
+C_{12}H_{20}O_{11} = C_{6}H_{10}O_{5}.C_{6}H_{10}O_{6}: yielded furfural
+1.7 p.ct.
+
+C. _Cotton and nitric acid at_ 100 deg., two and a half hours (Cross and
+Bevan).--Yield, 70 p.ct. Composition
+
+     4 C_{6}H_{10}O_{5}.C_{6}H_{8}O_{6}
+
+yielded furfural 2.3 p.ct.
+
+D. _Cotton and nitric acid at_ 100 deg. (four hours).--A more highly
+oxidised product resulted, viz. 3 C_{6}H_{10}O_{5}.C_{6}H_{8}O_{6}:
+yielded furfural 3.2 p.ct.
+
+_By-products of oxidation._--The liquors from B were found to contain
+saccharic acid: the acid from C and B contained a dibasic acid which
+appeared to be tartaric acid.
+
+The isolation of (1) isosaccharinic and (2) dioxybutyric acid from the
+products of digestion of the oxycelluloses with lime-milk at 100 deg. was
+effected by the separation of their respective calcium salts, (1) by
+direct crystallisation, (2) by precipitation alcohol after separation of
+the former.
+
+
+CELLULOSES, HYDRO- AND OXYCELLULOSES, AND CELLULOSE ESTERS.
+
+L. VIGNON (Bull. Soc. Chim., 1901 [3], 25, 130).
+
+(a) _Oxycelluloses from cotton, hemp, flax, and ramie._--The
+comparative oxidation of these celluloses, by treatment with HClO_{3}
+at 100 deg., gave remarkably uniform results, as shown by the following
+numbers, showing extreme variations: yields, 68-70 p.ct.; hydrazine
+reaction, N fixed 1.58-1.69; fixation of basic colouring matters
+(relative numbers), saffranine, 100-200, methylene blue, 100-106. The
+only points of difference noted were (1) hemp is somewhat more resistant
+to the acid oxidation; (2) the cotton oxycellulose shows a somewhat
+higher (25 p.ct.) cupric reduction.
+
+(b) _'Saccharification' of cellulose, cellulose hydrates, and
+hydrocellulose._--The products were digested with dilute hydrochloric
+acid six hours at 100 deg., and the cupric reduction of the soluble products
+determined and calculated to dextrose.
+
+  100 grms. of                   gave reducing products equal to Dextrose
+
+Purified cotton                                                      3.29
+  "      Hydrocellulose                                              9.70
+Cotton mercerised (NaOH 30 deg. B.)                                      4.39
+Cotton mercerised (NaOH 40 deg. B.)                                      3.51
+Cellulose reprecipitated from cuprammonium                           4.39
+Oxycellulose                                                        14.70
+Starch                                                              98.6
+
+These numbers show that cellulose may be hydrated both by mercerisation
+and solution, without affecting the constitutional relationships of the
+CO groups. The results also differentiate the cellulose series from
+starch in regard to hydrolysis.
+
+(c) _Cellulose and oxycellulose nitrates._--The nitric esters of
+cellulose have a strong reducting action on alkaline copper solutions.
+The author has studied this reaction quantitatively for the esters both
+of cellulose and oxycellulose, at two stages of 'nitration,' represented
+by 8.2-8.6 p.ct. and 13.5-13.9 p.ct. total nitrogen in the
+ester-products, respectively. The results are expressed in terms (c.c.)
+of the cupric reagent (Pasteur) reduced per 100 grs. compared with
+dextrose (=17767).
+
+    Cellulose maximum nitration (13.5 p.ct. N)             3640
+    Oxycellulose maximum nitration (13.9 p.ct. N)          3600
+    Cellulose minimum nitration (8.19 p.ct. N)             3700
+    Oxycellulose minimum nitration (8.56 p.ct. N)          3620
+
+The author concludes that, since the reducing action is independent of
+the degree of nitration, and is the same for cellulose and the
+oxycelluloses, the ester reaction in the case of the normal cellulose is
+accompanied by oxidation, the product being an oxycellulose ester.
+
+_Products of 'denitration'._--The esters were treated with ferrous
+chloride in boiling aqueous solution. The products were oxycelluloses,
+with a cupric reduction equal to that of an oxycellulose directly
+prepared by the action of HClO_{3}. On the other hand, by treatment with
+ammonium sulphide at 35 deg.-40 deg. 'denitrated' products were obtained without
+action on alkaline copper solutions.
+
+
+OXYCELLULOSES AND THE MOLECULAR WEIGHT OF CELLULOSE.
+
+H. NASTUKOFF (Berl. Ber. 33 [13] 2237).
+
+(p. 61) The author continues his investigations of the oxidation of
+cellulose. [Compare Bull. Mulhouse, 1892.] The products described were
+obtained by the action of hypochlorites and permanganates upon Swedish
+filter paper (Schleicher and Schuell).
+
+4. _Oxidation by hypochlorites._--(1) The cellulose was digested 24 hrs.
+with 35 times its weight of a filtered solution of bleaching power of
+4 deg.B.; afterwards drained and exposed for 24 hrs. to the atmosphere.
+These treatments were then repeated. After washing, treatment with
+dilute acetic acid and again washing, the product was treated with a 10
+p.ct. NaOH solution. The oxycellulose was precipitated from the
+filtered solution: yield 45 p.ct. The residue when purified amounted to
+30 p.ct. of the original cellulose, with which it was identical in all
+essential properties.
+
+The oxycellulose, after purification, dried at 110 deg., gave the following
+analytical numbers:
+
+     C    43.64     43.78    43.32    43.13
+     H     6.17      6.21     5.98     6.08
+
+Its compound with phenylhydrazine (_loc. cit._) gave the following
+analytical numbers:
+
+     N      0.78     0.96    0.84
+
+(2) The reagents were as in (1), but the conditions varied by passing a
+stream of carbonic acid gas through the solution contained in a flask,
+until Cl compounds ceased to be given off. The analysis of the purified
+oxycellulose gave C 43.53, H 6.13.
+
+(3) The conditions were as in (2), but a much stronger hypochlorite
+solution--viz. 12 deg.B.--was employed. The yield of oxycellulose
+precipitated from solution in soda lye (10 p.ct. NaOH) was 45 p.ct.
+There was only a slight residue of unattacked cellulose. The analytical
+numbers obtained were:
+
+    Oxycellulose              C  43.31   43.74   43.69
+        "                     H   6.47    6.42    6.51
+                              ________________________
+
+    Phenylhydrazine compound  N           0.62    0.81
+
+B. _Oxidation by permanganate_ (KMnO_{4}). (1) The cellulose 16 grms.
+was treated with 1100 c.c. of a 1 p.ct. solution of KMnO_{4} in
+successive portions. The MnO_{2} was removed from time to time by
+digesting the product with a dilute sulphuric acid (10 p.ct.
+H_{2}SO_{4}). The oxycellulose was purified as before, yield 40 p.ct.
+Analytical numbers:
+
+    Oxycellulose              C          42.12    42.9
+        "                     H           6.20     6.11
+                              ________________________
+
+    Phenylhydrazine compound  N   1.35    1.08     1.21
+
+(2) The cellulose (16 grms.) was digested 14 days with 2500 c.c. of 1
+p.ct. KMnO_{4} solution. The purified oxycellulose was identical in all
+respects with the above: yield 40 p.ct. C 42.66, H 6.19.
+
+(3) The cellulose (16 grms.) was heated in the water-bath with 1600 c.c.
+of 15 p.ct. H_{2}SO_{4} to which were added 18 grms. KMnO_{4}. The yield
+and composition of the oxycellulose was identical with the above. It
+appears from these results that the oxidation with hypochlorites acids 1
+atom of O to 4-6 of the unit groups C_{6}H_{10}O_{5}; and the oxidation
+with permanganate 2 atoms O per 4-6 units of C_{6}H_{10}O_{5}. The
+molecular proportion of N in the phenylhydrazine residue combining is
+fractional, representing 1 atom O, i.e. 1 CO group reacting per 4
+C_{36}H_{60}O_{31} and 6 C_{24}H_{49}O_{21} respectively, assuming the
+reaction to be a hydrazone reaction.
+
+Further investigations of the oxycelluloses by treatment with (a)
+sodium amalgam, (b) bromine (water), and (c) dilute nitric acid at
+110 deg., led to no positive results.
+
+By treatment with alcoholic soda (NaOH) the products were resolved into
+a soluble and insoluble portion, the properties of the latter being
+those of a cellulose (hydrate).
+
+_Molecular weight of cellulose and oxycellulose._--The author endeavours

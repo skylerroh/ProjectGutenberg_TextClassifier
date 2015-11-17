@@ -1,0 +1,894 @@
+limited to a small portion of the photospheric area. But this state of
+things is more or less inconstant. Some at least of the bright rays
+indicative of it are subject to temporary extinctions. Already in
+1871-72, Dr. Vogel[1388] suspected the prevalence of such vicissitudes;
+and their reality was ascertained by M. Eugen von Gothard. After the
+completion of his new astrophysical observatory at Hereny in the autumn
+of 1881, he repeatedly observed the spectra of both stars without
+perceiving a trace of bright lines; and was thus taken quite by surprise
+when he caught a twinkling of the crimson C in Gamma Cassiopeiae,
+August 13, 1883.[1389] A few days later, the whole range including D_3
+was lustrous. Duly apprised of the recurrence of a phenomenon he had
+himself vainly looked for during some years, M. von Konkoly took the
+opportunity of the great Vienna refractor being placed at his disposal
+to examine with it the relighted spectrum on August 27.[1390] In its
+wealth of light C was dazzling; D_3 and the green and blue hydrogen rays
+shone somewhat less vividly; D and the group _b_ showed faintly dark;
+while three broad absorption-bands, sharply terminated towards the red,
+diffuse towards the violet, shaded the spectrum near its opposite
+extremities.
+
+The previous absence of bright lines from the spectrum of this star was,
+however, by no means so protracted or complete as M. von Gothard
+supposed. At Dunecht, C was "superbly visible" December 20, 1879[1391];
+F was seen bright on October 28 of the same year, and frequently at
+Greenwich in 1880-81. The curious fact has, moreover, been adverted to
+by Dr. Copeland, that C _is much more variable than F_. To Vogel, June
+18, 1872, the first was invisible, while the second was bright; at
+Dunecht, January 11, 1887, the conditions were so far inverted that C
+was resplendent, F comparatively dim.
+
+No spectral fluctuations were detected in Gamma Cassiopeiae by
+Keeler in 1889; but even with the giant telescope of Mount Hamilton, the
+helium-ray was completely invisible.[1392] It made, nevertheless,
+capricious appearances at South Kensington during that autumn, and again
+October 21, 1894,[1393] while in September, 1892, Belopolsky could
+obtain no trace of it on orthochromatic plates exposed with the 30-inch
+Pulkowa refractor.[1394] Still more noteworthy is the circumstance that
+the well-known green triplet of magnesium (_b_), recorded as dark by
+Keeler in 1889, came out bright on fifty-two spectrographs of the star
+taken by Father Sidgreaves during the years 1891-99.[1395] No
+fluctuations in the hydrogen-spectrum were betrayed by them; but
+subordinate lines of unknown origin showed alternate fading and
+vivification.
+
+The spectrum of Beta Lyrae undergoes transitions to some extent
+analogous, yet involving a different set of considerations. First
+noticed by Von Gothard in 1882,[1396] they were imperfectly made out,
+two years later, to be of a cyclical character.[1397] This, however,
+could only be effectively determined by photographic means. Beta Lyrae is
+a "short-period variable." Its light changes with great regularity from
+3.4 to 4.4 magnitude every twelve days and twenty-two hours, during
+which time it attains a twofold maximum, with an intervening secondary
+minimum. The question, then, is of singular interest, whether the
+changes of spectral quality visible in this object correspond to its
+changes in visual brightness. A distinct answer in the affirmative was
+supplied through Mrs. Fleming's examination of the Harvard plates of the
+star's spectrum, upon which, in 1891, she found recorded diverse complex
+changes of bright and dark lines obviously connected with the phases of
+luminous variation, and obeying, in the long-run, precisely the same
+period.[1398] Something more will be said presently as to the import of
+this discovery.
+
+Bright hydrogen lines have so far been detected--for the most part
+photographically at Harvard College--in about sixty stars, including
+Pleione, the surmised lost Pleiad, P Cygni, noted for instability of
+light in the seventeenth century, and the extraordinary southern
+variable, Eta Carinae. In most of these objects other vivid rays
+are associated with those due to hydrogen. A blaze of hydrogen,
+moreover, accompanies the recurring outbursts of about one hundred and
+fifty "long-period variables," giving banded spectra of the third type.
+Professor Pickering discovered the first example of this class, towards
+the close of 1886, in Mira Ceti; further detections were made visually
+by Mr. Espin; and the conjunction of bright hydrogen-lines with dusky
+bands has been proved by Mrs. Fleming's long experience in studying the
+Harvard photographs, to indicate unerringly the subjection of the stars
+thus characterised to variations of lustre accomplished in some months.
+
+A third variety of gaseous star is named after MM. Wolf and Rayet, who
+discovered, at Paris in 1867,[1399] its three typical representatives,
+close together in the constellation Cygnus. Six further specimens were
+discovered by Dr. Copeland, five of them in the course of a trip for the
+exploration of visual facilities in the Andes in 1883;[1400] and a large
+number have been made known through spectral photographs taken in both
+hemispheres under Professor Pickering's direction. At the close of the
+nineteenth century, over a hundred such objects had been registered,
+none brighter than the sixth magnitude, with the single exception of
+Gamma Argus, the resplendent continuous spectrum of which, first
+examined by Respighi and Lockyer in 1871, is embellished with the yellow
+and blue rays distinctive of the type.[1401] Here, then, we have a
+stellar globe apparently at the highest point of sunlike incandescence,
+sharing the peculiarities of bodies verging towards the nebulous state.
+Examined with instruments of adequate power, their spectra are seen to
+be highly complex. They include a fairly strong continuous element, a
+numerous set of absorption-lines, and a range of emission-lines, more or
+less completely represented in different stars. Especially conspicuous
+is a broad effluence of azure light, found by Dr. Vogel in 1883,[1402]
+and by Sir William and Lady Huggins in 1890,[1403] to be of multiple
+structure, and hence to vary in its mode of display. Its suggested
+identification with the blue carbon-fluting was disproved at Tulse Hill.
+Metallic vapours give no certain sign of their presence in the
+atmospheres of these remarkable bodies; but nebulum is stated to shine
+in some.[1404] Hydrogen and helium account for a large proportion of
+their spectral rays. Thirty-two Wolf-Rayet stars were investigated,
+spectroscopically and spectrographically, by Professor Campbell with the
+great Lick refractor in 1892-94;[1405] and several disclosed the
+singularity, already noticed by him in Gamma Argus, of giving out
+mixed series, the members of which change from vivid to obscure with
+increase of refrangibility. It is difficult to imagine by what
+chromospheric machinery this curious result can be produced. Alcyone in
+the Pleiades presents the same characteristic. Alone among the hydrogen
+lines, crimson C glows in its spectrum, while all the others are dark.
+Luminosity of the Wolf-Rayet kind is particularly constant, both in
+quantity and quality. It seems to be incapable of developing save under
+galactic conditions. All the stars marked by it lie near the central
+line of the Milky Way, or in the Magellanic Clouds. They tend also to
+gather into groups. Circles of four degrees radius include respectively
+seven in Argo, eight in Cygnus.
+
+The first spectroscopic star catalogue was published by Dr. Vogel at
+Potsdam in 1883.[1406] It included 4,051 stars, distributed over a zone
+of the heavens extending from 20 deg. north to 20 deg. south of the
+celestial equator.[1407] More than half of these were white stars,
+while red stars with banded spectra occurred in the proportion of about
+one-thirteenth of the whole. To the latter genus, M. Duner, then of Lund,
+now Director of the Upsala Observatory, devoted a work of standard
+authority, issued at Stockholm in 1884. This was a catalogue with
+descriptive particulars of 352 stars showing banded spectra, 297 of which
+belong to Secchi's third, 55 to his fourth class (Vogel's iii. _a_ and
+iii. _b_). Since then discovery has progressed so rapidly, at first
+through the telescopic reviews of Mr. Espin, then in the course of the
+photographic survey carried on at Harvard College, that considerably over
+one thousand stars are at present recognised as of the family of Betelgeux
+and Mira, while about 250 have so far exhibited the spectral pattern of
+19 Piscium. One fact well ascertained as regards both species is the
+invariability of the type. The prismatic flutings of the one, and the
+broader zones of the other, are as if stereotyped--they undergo, in
+their fundamental outlines, no modification, though varying in relative
+intensity from star to star. They are always accompanied by, or
+superposed upon, a spectrum of dark lines, in producing which sodium and
+iron have an obvious share; and certain bright rays, noticed by Secchi
+with imperfect appliances as enhancing the chiaroscuro effects in
+carbon-stars, came out upon plates exposed by Hale and Ellerman in 1898
+with the stellar spectrograph of the Yerkes Observatory.[1408] Their
+genuineness was shortly afterwards visually attested by Keeler,
+Campbell, and Duner;[1409] but no chemical interpretation has been found
+for them.
+
+A fairly complete preliminary answer to the question, What are the stars
+made of? was given by Sir William Huggins in 1864.[1410] By laborious
+processes of comparison between stellar dark lines and the bright rays
+emitted by terrestrial substances, he sought to assure his conclusions,
+regardless of cost in time and pains. He averred, indeed, that--taking
+into account restrictions by weather and position--the thorough
+investigation of a _single_ star-spectrum would be the work of some
+years. Of two, however--those of Betelgeux and Aldebaran--he was able to
+furnish detailed and accurate drawings. The dusky flutings in the
+prismatic light of the first of these stars have not been identified
+with the absorption of any particular substance; but associated with
+them are metallic lines, of which 78 were measured, and a good many
+identified by Huggins, while the wave-lengths of 97 were determined by
+Vogel in 1871.[1411] A photographic research, made by Keeler at the
+Alleghany Observatory in 1897, convinced him that the linear spectrum of
+third-type stars of the Betelgeux pattern essentially repeats that of
+the sun, but with marked differences in the comparative strength of its
+components.[1412] Hydrogen rays are inconspicuously present. That an
+exalted temperature reigns, at least in the lower strata of the
+atmosphere, is certified by the vaporisation there of matter so
+refractory to heat as iron.[1413]
+
+Nine elements--among them iron, sodium, calcium, and magnesium--were
+recognised by Huggins as having stamped their signature on the spectrum
+of Aldebaran; while the existence in Sirius, and nearly all the other
+stars inspected, of hydrogen, together with sundry metals, was rendered
+certain or highly probable. This was admitted to be a bare gleaning of
+results; nor is there reason to suppose any of his congeners inferior to
+our sun in complexity of constitution. Definite knowledge on the
+subject, however, made little advance beyond the point to which it was
+brought by Huggins's early experiments until spectroscopic photography
+became thoroughly effective as a means of research.
+
+In this, as in so many other directions, Sir William Huggins acted as
+pioneer. In March, 1863, he obtained microscopic prints of the spectra
+of Sirius and Capella.[1414] But they told nothing. No lines were
+visible in them. They were mere characterless streaks of light. Nine
+years later Dr. Henry Draper of New York got an impression of four lines
+in the spectrum of Vega. Then Huggins attacked the subject again in
+1876, when the 18-inch speculum of the Royal Society had come into his
+possession, using prisms of Iceland spar and lenses of rock crystal; and
+this time with better success. A photograph of the spectrum of Vega
+showed seven strong lines.[1415] Still he was not satisfied. He waited
+and worked for three years longer. At length, on December 18, 1879, he
+was able to communicate to the Royal Society[1416] results answering to
+his expectations. The delicacy of eye and hand needed to obtain them may
+be estimated from the single fact that the image of a star had to be
+kept, by continual minute adjustments, exactly projected upon a slit
+1/350 of an inch in width during nearly an hour, in order to give it
+time to imprint the characters of its analyzed light upon a gelatine
+plate raised to the highest pitch of sensitiveness. But by this time he
+had secured in his wife a rarely qualified assistant.
+
+The ultra-violet spectrum of the white stars--of which Vega was taken as
+the type--was thus shown to be a very remarkable one. A group of broad
+dark lines intersected it, arranged at intervals diminishing regularly
+upward, and falling into a rhythmical succession with the visible
+hydrogen lines. All belonged presumably to the same substance; and the
+presumption was rendered a certainty by direct photographs of the
+hydrogen spectrum taken by H. W. Vogel at Berlin a few months
+earlier.[1417] In them seven of the white-star series of grouped lines
+were visible; and the full complement of twelve appeared on Cornu's
+plates in 1886.[1418]
+
+In yellow stars, such as Capella and Arcturus, the same rhythmical
+series was _partially_ represented, but associated with a great number
+of other lines; their state, as regards ultra-violet absorption,
+approximating to that of the sun; while the redder stars betrayed so
+marked a deficiency in actinic rays that from Betelgeux, with an
+exposure _forty times_ that required for Sirius, only a faint spectral
+impression could be obtained, and from Aldebaran, in the strictly
+invisible region, almost none at all.
+
+Thus, by the means of stellar light-analysis, acquaintance was first
+made with the ultra-violet spectrum of hydrogen;[1419] and its harmonic
+character, as expressed by "Balmer's Law," supplies a sure test for
+discriminating, among newly discovered lines, those that appertain from
+those that are unrelated to it. Deslandres' five additional
+prominence-rays, for instance, were at once seen to make part of the
+series, because conforming to its law;[1420] while a group of six dusky
+bands, photographed by Sir William and Lady Huggins, April 4,
+1890,[1421] near the extreme upper end of the spectrum of Sirius, were
+pronounced without hesitation, for the opposite reason, to have nothing
+to do with hydrogen. Their true affinities are still a matter for
+inquiry.
+
+As regards the hydrogen spectrum, however, the stars had further
+information in reserve. Until recently, it was supposed to consist of a
+single harmonic series, although, by analogy, three should co-exist. In
+1896, accordingly, a second, bound to the first by unmistakable
+numerical relationships, was recognised by Professor Pickering in
+spectrographs of the 2.5 magnitude star Zeta Puppis,[1422] and the
+identification was shortly afterwards extended to prominent Wolf-Rayet
+emission lines. The discovery was capped by Dr. Rydberg's indication of
+the Wolf-Rayet blue band at Lambda 4,688 as the fundamental member
+of the third, and principal, hydrogen series.[1423] None of the
+"Pickering lines" (as they may be called to distinguish them from the
+"Huggins series") can be induced to glimmer in vacuum-tubes. They seem
+to characterise bodies in a primitive state,[1424] and are in many cases
+associated with absorption rays of oxygen, the identification of which
+by Mr. McClean in 1897[1425] was fully confirmed by Sir David
+Gill.[1426] The typical "oxygen star" is Beta Crucis, one of the
+brilliants of the Southern Cross; but the distinctive notes of its
+spectrum occur in not a few specimens of the helium class. Thus, Sir
+William and Lady Huggins photographed several ultra-violet oxygen lines
+in Beta Lyrae,[1427] and found in Rigel signs of the presence of
+nitrogen,[1428] which, as well as silicium, proves to be a tolerably
+frequent constituent of such orbs.[1429] For some unknown reason,
+metalloids tend to become effaced, as metals, in the normal course of
+stellar development, exert a more and more conspicuous action.
+
+Dr. Scheiner's spectrographic researches at Potsdam in 1890 and
+subsequently, exemplify the immense advantages of self-registration. In
+a restricted section of the spectrum of Capella, he was enabled to
+determine nearly three hundred lines with more precision than had then
+been attained in the measurement of terrestrial spectra. This star
+appeared to be virtually identical with the sun in physical
+constitution, although it emits, according to the best available data,
+about 140 times as much light, and is hence presumably 1,600 times more
+voluminous. An equally close examination of the spectrum of Betelgeux
+showed the predominance in it of the linear absorption of iron;[1430]
+but its characteristic flutings do not extend to the photographic
+region. Spectra of the second and third orders are for this reason not
+easily distinguished on the sensitive plate.
+
+A spectrographic investigation of all the brighter northern stars was
+set on foot in 1886 at the observatory of Harvard College, under the
+form of a memorial to Dr. H. Draper, whose promising work in that line
+was brought to a close by his premature death in 1882. No individual
+exertions could, however, have realized a tithe of what has been and is
+being accomplished under Professor Pickering's able direction, with the
+aid of the Draper and other instruments, supplemented by Mrs. Draper's
+liberal provision of funds. A novel system was adopted, or, rather, an
+old one--originally used by Fraunhofer--was revived.[1431] The use of a
+slit was discarded as unnecessary for objects like the stars, devoid of
+sensible dimensions, and giving hence a _naturally_ pure spectrum; and a
+large prism, placed in front of the object-glass, analysed at once, with
+slight loss of light, the rays of all the stars in the field. Their
+spectra were taken, as it were, wholesale. As many as two hundred stars
+down to the eighth magnitude were occasionally printed on a single plate
+with a single exposure. No cylindrical lens was employed. The movement
+of the stars themselves was turned to account for giving the desirable
+width to their spectra. The star was allowed--by disconnecting or
+suitably regulating the clock--to travel slowly across the line of its
+own dispersed light, so broadening it gradually into a band. Excellent
+results were secured in this way. About fifty lines appear in the
+photographed spectrum of Aldebaran, and eight in that of Vega. On
+January 26, 1886, with an exposure of thirty-four minutes, a
+simultaneous impression was obtained of the spectra (among many others)
+of close upon forty Pleiades. With few and doubtful exceptions, they all
+proved to belong to the same type. An additional argument for the common
+origin of the stars forming this beautiful group was thus
+provided.[1432]
+
+The "Draper Catalogue" of stellar spectra was published in 1890.[1433]
+It gives the results of a rapid analytical survey of the heavens north
+of 25 deg. of southern declination, and includes 10,351 stars, down to
+about the eighth magnitude. The telescope used was of eight inches
+aperture and forty-five focus, its field of view--owing to the
+"portrait-lens" or "doublet" form given to it--embracing with fair
+definition no less than one hundred square degrees. An objective prism
+eight inches square was attached, and exposures of a few minutes were
+given to the most sensitive plates that could be procured. In this way
+the sky was twice covered in duplicate, each star appearing, as a rule,
+on four plates. The registration of their spectra was sought to be made
+more distinctive than had previously been attempted, Secchi's first type
+being divided into four, his second into five subdivisions; but the
+differences regarded in them could be confidently established only for
+stars above the sixth magnitude. The work supplies none the less valuable
+materials for general inferences as to the distribution and relations of
+the spectral types. The labour of its actual preparation was borne by a
+staff of ladies under the direction of Mrs. Fleming. Materials for its
+completion to the southern pole have been accumulated with the identical
+instrument used at Cambridge, transferred for the purpose in 1889 to
+Peru, and the forthcoming "Second Draper Catalogue" will comprise 30,000
+stars in both hemispheres. As supplements to this great enterprise, two
+important detailed discussions of stellar spectra were issued in 1897
+and 1901 respectively.[1434] The first, by Miss A. C. Maury, dealt with
+681 bright stars visible in the northern hemisphere; the second, by Miss
+A. J. Cannon, with 1,122 southern stars. Both authors traced, with care
+and ability, the minute gradations by which the long process of stellar
+evolution appears to be accomplished.
+
+The progress of the Draper Memorial researches was marked by discoveries
+of an unexampled kind.
+
+The principle upon which "motion in the line of sight" can be detected
+and measured with the spectroscope has already been explained.[1435] It
+depends, as our readers will remember, upon the removal of certain
+lines, dark or bright (it matters not which), from their normal places
+by almost infinitesimal amounts. The whole spectrum of the moving
+object, in fact, is very slightly _shoved_ hither or thither, according
+as it is travelling towards or from the eye; but, for convenience of
+measurement, one line is usually picked out from the rest, and attention
+concentrated upon it. The application of this method to the stars,
+however, is encompassed with difficulties. It needs a powerfully
+dispersive spectroscope to show line-displacements of the minute order
+in question; and powerful dispersion involves a strictly proportionate
+enfeeblement of light. This, where the supply is already to a deplorable
+extent niggardly, can ill be afforded; for which reason the operation of
+determining a star's approach or recession is, even apart from
+atmospheric obstacles, an excessively delicate one.
+
+It was first executed by Sir William Huggins early in 1868.[1436]
+Selecting the brightest star in the heavens as the most promising
+subject of experiment, he considered the F line in the spectrum of
+Sirius to be just so much displaced towards the red as to indicate (the
+orbital motion of the earth being deducted) recession at the rate of
+twenty-nine miles a second; and the reality and direction of the
+movement were ratified by Vogel and Lohse's observation, March 22, 1871,
+of a similar, but even more considerable displacement.[1437] The inquiry
+was resumed by Huggins with improved apparatus in the following year,
+when the velocities of thirty stars were approximately determined.[1438]
+The retreat of Sirius, which proved slower than had at first been
+supposed, was now announced to be shared, at rates varying from twelve
+to twenty-nine miles, by Betelgeux, Rigel, Castor, Regulus, and five of
+the principal stars in the Plough. Arcturus, on the contrary, gave signs
+of rapid approach, as well as Pollux, Vega, Deneb in the Swan, and the
+brightness of the Pointers.
+
+Numerically, indeed, these results were encompassed with uncertainty.
+Thus, Arcturus is now fully ascertained to be travelling towards the sun
+at the comparatively slow pace of less than five miles a second; and
+Sirius moves twice as fast in the same direction. The great difficulty
+of measuring so distended a line as the Sirian F might, indeed, well
+account for some apparent anomalies. The scope of Sir William Huggins's
+achievement was not, however, to provide definitive data, but to
+establish as practicable the method of procuring them. In this he was
+thoroughly successful, and his success was of incalculable value.
+Spectroscopic investigations of stellar movements may confidently be
+expected to play a leading part in the unravelment of the vast and
+complex relations which we can dimly detect as prevailing among the
+innumerable orbs of the sidereal world; for it supplements the means
+which we possess of measuring by direct observation movements transverse
+to the line of sight, and thus completes our knowledge of the courses
+and velocities of stars at ascertained distances, while supplying for
+all a valuable index to the amount of perspective foreshortening of
+apparent movement. Thus some, even if an imperfect, knowledge may at
+length be gained of the revolutions of the stars--of the systems they
+unite to form, of the paths they respectively pursue, and of the forces
+under the compulsion of which they travel.
+
+The applicability of the method to determining the orbital motions of
+double stars was pointed out by Fox Talbot in 1871;[1439] but its use
+for their discovery revealed itself spontaneously through the Harvard
+College photographs. In "spectrograms" of Zeta Ursae Majoris
+(Mizar), taken in 1887, and again in 1889, the K line was seen to be
+double; while on other plates it appeared single. A careful study of
+Miss A. C. Maury of a series of seventy impressions indicated for the
+doubling a period of fifty-two days, and showed it to affect all the
+lines in the spectrum.[1440] The only available, and no doubt the true,
+explanation of the phenomenon was that two similar and nearly equal
+stars are here merged into one telescopically indivisible; their
+combined light giving a single or double spectrum, according as their
+orbital velocities are directed across or along our line of sight. The
+movements of a revolving pair of stars must always be opposite in sense,
+and proportionately equal in amount. That is, they at all times travel
+with speeds in the inverse ratio of their masses. Hence, unless the
+plane of their orbits be perpendicular to a plane passing through the
+eye, there must be two opposite points where their velocities in the
+line of sight reach a maximum, and two diametrically opposite points
+where they touch zero. The lines in their common spectrum would thus
+appear alternately double and single twice in the course of each
+revolution. To that of Mizar, at first supposed to need 104 days for its
+completion, a period of only twenty days fourteen hours was finally
+assigned by Vogel.[1441] Anomalous spectral effects, probably due to the
+very considerable eccentricity of the orbit, long impeded its
+satisfactory determination. The mean distance apart of the component
+stars, as now ascertained, is just twenty-two million miles, and their
+joint mass quadruples that of the sun. But these are minimum estimates.
+For if the orbital plane be inclined, much or little, to the line of
+sight, the dimensions and mass of the system should be proportionately
+increased.
+
+An analogous discovery was made by Miss Maury in 1889. But in the
+spectrum of Beta Aurigae, the lines open out and close up on
+alternate days, indicating a relative orbit[1442] with a radius of less
+than eight million miles, traversed in about four days. This implies a
+rate of travel for each star of sixty-five miles a second, and a
+combined mass 4.7 times that of the sun. The components are
+approximately equal, both in mass and light,[1443] and the system formed
+by them is transported towards us with a speed of some sixteen miles a
+second. The line-shiftings so singularly communicative proceed, in this
+star, with perfect regularity.
+
+This new class of "spectroscopic binaries" could never have been
+visually disclosed. The distance of Beta Aurigae from the earth, as
+determined, somewhat doubtfully, by Professor Pritchard, is nearly three
+and a third million times that of the earth from the sun (parallax =
+0.06"); whence it has been calculated that the greatest angular
+separation of the revolving stars is only five-thousandths of a second
+of arc.[1444] To make this evanescent interval perceptible, a telescope
+eighty feet in aperture would be required.
+
+The zodiacal star, Spica (Alpha Virginis), was announced by Dr.
+Vogel, April 24, 1890,[1445] to belong to the novel category, with the
+difference, however, of possessing a nearly dark, instead of a
+brilliantly lustrous companion. In this case, accordingly, the tell-tale
+spectroscopic variations consist merely in a slight swinging to and fro
+of single lines. No second spectrum leaves a legible trace on the plate.
+Spica revolves in four days at the rate of fifty-seven miles a
+second,[1446] or quicker, in proportion as its orbit is more inclined to
+the line of sight, round a centre at a minimum distance of three
+millions of miles. But the position of the second star being unknown,
+the mass of the system remains indeterminate. The lesser component of
+the splendid, slowly revolving binary, Castor, is also closely double.
+Its spectral lines were found by Belopolsky in 1896[1447] to oscillate
+once in nearly three days, the secondary globe being apparently quite
+obscure. Further study of the movements thus betrayed elicited the fact
+that the major axis of the eclipse traversed revolves in a period of
+2,100 days, as a consequence, most likely, of the flattened shape of the
+stars.[1448] Still more unexpected was the simultaneous assignment, by
+Campbell and Newall, of a duplex character to Capella.[1449] Here both
+components shine, though with a different quality of light, one giving a
+pure solar spectrum, the other claiming prismatic affinity with Procyon.
+Their mutual circulation is performed in 104 days, and the radius of
+their orbit cannot be less, and may be a great deal more, than
+51,000,000 miles. Hence the possibility is not excluded that the
+star--which has an authentic parallax of 0.08"--may be visually
+resolved. Indeed, signs of "elongation" were thought to be perceptible
+with the Greenwich 28-inch refractor,[1450] while only round images
+could be seen at Lick.[1451] Another noteworthy case is that of Polaris,
+found by Campbell to have certainly one, and probably two obscure
+attendants.[1452] Through his systematic investigations of stellar
+radial velocities with the Mills spectrograph, knowledge in this
+department has, since 1897, progressed so rapidly that the spectroscopic
+binaries of our acquaintance already number half a hundred, and ten
+times as many more doubtless lie within easy range of detection.
+
+Now it is evident that a spectroscopic binary, if the plane of its
+motion made a very small angle with the line of sight, would be a
+variable star. For, during a few hours of each revolution, some at least
+of its light should be cut off by a transit of its dusky companion. Such
+"eclipse-stars" are actually found in the heavens.
+
+The best and longest-known member of the group is Algol in the Head of
+Medusa, the "Demon-star" of the Arabs.[1453] This remarkable object,
+normally above the third magnitude, loses and regains three-fifths of
+its light once in 68.8 hours, the change being completed in about twelve
+hours. Its definite and limited nature, and punctual recurrence,
+suggested to Goodricke of York, by whom the periodicity of the star was
+discovered in 1783,[1454] the interposition of a large dark satellite.
+But the conditions involved by the explanation were first seriously
+investigated by Pickering in 1880.[1455] He found that the phenomena
+could be satisfactorily accounted for by supposing an obscure body 0.764
+the bright star's diameter to revolve round it in a period identical
+with that of its observed variation. This theoretical forecast was
+verified with singular exactitude at Potsdam in 1889.[1456] A series of
+spectral photographs taken there showed each of Algol's minima to be
+preceded by a rapid recession from the earth, and succeeded by a rapid
+movement of approach towards it. They take place, accordingly, when the
+star is at the furthest point from ourselves of an orbit described round
+an invisible companion, the transits of which across its disc betray
+themselves to notice by the luminous vicissitudes they occasion. The
+diameter of this orbit, traversed at the rate of twenty-six miles a
+second, is just 2,000,000 miles; and it is an easy further inference
+from the duration and extent of the phases exhibited that Algol itself
+must be (in round numbers) one million, its attendant 830,000 miles in
+diameter. Assuming both to be of the same density, Vogel found their
+respective masses to be four-ninths and two-ninths that of the sun, and
+their distance asunder to be 3,230,000 miles.
+
+This singularly assorted pair of stars possibly form part of a larger
+system. Their period of revolution is shorter now by six seconds than it
+was in Goodricke's time; and Dr. Chandler has shown, by an exhaustive
+discussion, that its inequalities are comprised in a cycle of about 130
+years.[1457] They arise, in his view, from a common revolution, in that
+period, of the close couple about a third distant body, emitting little
+or no light, in an orbit inclined 20 deg. to our line of vision, and of
+approximately the size of that described by Uranus round the sun. The
+time spent by light in crossing this orbit causes an apparent delay in
+the phases of the variable, when Algol and its eclipsing satellite are
+on its further side from ourselves, balanced by acceleration while they
+traverse its hither side. Dr. Chandler derives confirmation for his
+plausible and ingenious theory from a supposed undulation in the line
+traced out by Algol's small proper motion; but the reality of this
+disturbance has yet to be established.[1458] Meanwhile, M.
+Tisserand,[1459] late Director of the Paris Observatory, preferred to
+account for Algol's inequalities on the principle later applied by
+Belopolsky to those of Castor. That is to say, he assumed a revolving
+line of apsides in an elliptical orbit traversed by a pretty strongly
+compressed pair of globes. The truth of this hypothesis can be tested by
+close observation of the phases of the star during the next few years.
+
+The variable in the Head of Medusa is the exemplar of a class including
+26 recognised members, all of which doubtless represent occulting
+combinations of stars. But their occultations result merely from the
+accident of their orbital planes passing through our line of sight;
+hence the heavens must contain numerous systems similarly constituted,
+though otherwise situated as regards ourselves, some of which, like
+Spica Virginis, will become known through their spectroscopic changes,
+while others, because revolving in planes nearly tangent to the sphere,
+or at right angles to the visual line, may never disclose to us their
+true nature. Among eclipsing stars should probably be reckoned the
+peculiar variables, Beta Lyrae and V Puppis, each believed to
+consist of a pair of bright stars revolving almost in contact.[1460]
+Three stars, on the other hand, distinguished by rapid and regular
+fluctuations, have been proved by Belopolsky to be attended by
+non-occulting satellites, which circulate, nevertheless, in the
+identical periods of light-change.
+
+Gore's "Catalogue of Known Variables"[1461] included, in 1884, 190
+entries, and the number was augmented to 243 on its revision in
+1888.[1462] Chandler's first list of 225 such objects,[1463] published
+about the same time, received successive expansions in 1893 and
+1896,[1464] and finally included 400 entries. A new "Catalogue of
+Variable Stars," still wider in scope, will shortly be issued by the
+German _Astronomische Gesellschaft_. Mr. A. W. Roberts's researches on
+southern variables[1465] have greatly helped to give precision, while
+adding to the extent of knowledge in this branch. Dr. Gould held the
+opinion that most stars fluctuate slightly in brightness through
+surface-alterations similar to, but on a larger scale than those of the
+sun; and the solar analogy might be pushed somewhat further. It perhaps
+affords a clue to much that is perplexing in stellar behaviour. Wolf
+pointed out in 1852 the striking resemblance in character between curves
+representing sun-spot frequency and curves representing the changing
+luminous intensity of many variable stars. There were the same steep
+ascent to maximum and more gradual decline to minimum, the same
+irregularities in heights and hollows, and, it may be added, the same
+tendency to a double maximum, and complexity of superposed
+periods.[1466] It is impossible to compare the two sets of phenomena
+thus graphically portrayed without reaching the conclusion that they are
+of closely related origin. But the correspondence indicated is not, as
+has often been hastily assumed, between maxima of sun-spots and minima
+of stellar brightness, but just the reverse. The luminous outbursts, not
+the obscurations of variable stars, obey a law analogous to that
+governing the development of spots on the sun. Objects of the kind do
+not, then, gain light through the closing-up of dusky chasms in their
+photospheres, but by an actual increase of surface-brilliancy, together
+with an immense growth of these brilliant formations--prominences and
+faculae--which, in the sun, accompany, or are appended to spots. A
+comparison of light-curves with curves of spot-frequency leaves no doubt
+on this point, and the strongest corroborative evidence is derived from
+the emergence of bright lines in the spectra of long-period variables
+rising to their recurring maxima.
+
+Every kind and degree of variability is exemplified in the heavens. At
+the bottom of the scales are stars like the sun, of which the lustre
+is--tried by our instrumental means--sensibly steady. At the other
+extreme are ranged the astounding apparitions of "new," or "temporary"
+stars. Within the last thirty-six years eleven of these stellar guests
+(as the Chinese call them) have presented themselves, and we meet with a
+twelfth no farther back than April 27, 1848. But of the "new star" in
+Ophiuchus found by Mr. Hind on that night, little more could be learnt
+than of the brilliant objects of the same kind observed by Tycho and
+Kepler. The spectroscope had not then been invented. Let us hear what it
+had to tell of later arrivals.
+
+About thirty minutes before midnight of May 12, 1866, Mr. John
+Birmingham of Millbrook, near Tuam, in Ireland, saw with astonishment a
+bright star of the second magnitude unfamiliarly situated in the
+constellation of the Northern Crown. Four hours earlier, Schmidt of
+Athens had been surveying the same part of the heavens, and was able to
+testify that it was not visible there. That is to say, a few hours, or
+possibly a few minutes, sufficed to bring about a conflagration, the
+news of which may have occupied hundreds of years in travelling to us
+across space. The rays which were its messengers, admitted within the
+slit of Sir William Huggins's spectroscope, May 16, proved to be of a
+composition highly significant as to the nature of the catastrophe. The
+star--which had already declined below the third magnitude--showed what
+was described as a double spectrum. To the dusky flutings of Secchi's
+third type four brilliant rays were added.[1467] The chief of these
+agreed in position with lines of hydrogen; so that the immediate cause
+of the outburst was inferred to have been the eruption, or ignition, of
+vast masses of that subtle kind of matter, the universal importance of
+which throughout the cosmos is one of the most curious facts revealed by
+the spectroscope.
+
+T Coronae (as the new star was called) quickly lost its adventitious
+splendour. Nine days after its discovery it was again invisible to the
+naked eye. It is now a pale yellow, slightly variable star near the
+tenth magnitude, and finds a place as such in Argelander's charts.[1468]
+It was thus obscurely known before it made its sudden leap into
+notoriety.
+
+The next "temporary," discovered by Dr. Schmidt at Athens, November 24,
+1876, could lay no claim to previous recognition even in that modest
+rank. It was strictly a parvenu. There was no record of its existence
+until it made its appearance as a star of nearly the third magnitude, in
+the constellation of the Swan. Its spectrum was examined, December 2, by
+Cornu at Paris,[1469] and a few days later by Vogel and O. Lohse at
+Potsdam.[1470] It proved of a closely similar character to that of T
+Coronae. A range of bright lines, including those of hydrogen, and
+probably of helium, stood out from a continuous background impressed
+with strong absorption. It may be presumed that in reality the gaseous
+substances, which, by their sudden incandescence, had produced the
+apparent conflagration, lay comparatively near the surface of the star,
+while the screen of cooler materials intercepting large portions of its
+light was situated at a considerable elevation in its atmosphere.
+
+The object, meanwhile, steadily faded. By the end of the year it was of
+no more than seventh magnitude. After the second week of March, 1877,
+strengthening twilight combined with the decline of its radiance to
+arrest further observation. It was resumed, September 2, at Dunecht,
+with a strange result. Practically the whole of its scanty light (it had
+then sunk below the tenth magnitude) was perceived to be gathered into a
+single bright line in the green, and that the most characteristic line
+of gaseous nebulae.[1471] The star had, in fact, so far as outward
+appearance was concerned, become transformed into a planetary nebula,
+many of which are so minute as to be distinguishable from small stars
+only by the quality of their radiations. It is now, having sunk to about
+the fourteenth magnitude,[1472] entirely beyond the reach of
+spectroscopic scrutiny.
+
+Perhaps none of the marvellous changes witnessed in the heavens has
+given a more significant hint as to their construction than the stellar
+blaze kindled in the heart of the great Andromeda nebula some
+undetermined number of years or centuries before its rays reached the
+earth in the month of August, 1885. The first published discovery was by
+Dr. Hartwig at Dorpat on August 31; but it was found to have been
+already seen, on the 19th, by Mr. Isaac W. Ward of Belfast, and on the
+17th by M. Ludovic Gully of Rouen. The _negative_ observations, on the
+16th, of Tempel[1473] and Max Wolf, limited very narrowly the epoch of
+the apparition. Nevertheless, it did not, like most temporaries, attain
+its maximum brightness all at once. When first detected, it was of the
+ninth, by September 1 it had risen to the seventh magnitude, from which
+it so rapidly fell off that in March it touched the limit of visibility
+(sixteenth magnitude) with the Washington 26-inch. Its light bleached
+very perceptibly as it faded.[1474] During the earlier stages of its
+decline, the contrast was striking between the sharply defined, ruddy
+disc of the star, and the hazy, greenish-white background upon which it
+was projected,[1475] and with which it was inevitably suggested to be in
+some sort of physical connection.
+
+Let us consider what evidence was really available on this point. To
+begin with, the position of the star was not exactly central. It lay
+sixteen seconds of arc to the south-west of the true nebular nucleus.
+Its appearance did not then signify a sudden advance of the nebula
+towards condensation, nor was it attended by any visible change in it
+save the transient effect of partial effacement through superior
+brightness.
+
+Equally indecisive information was derived from the spectroscope. To
+Vogel, Hasselberg, and Young, the light of the "Nova" seemed perfectly
+continuous; but Huggins caught traces of bright lines on September 2,
+confirmed on the 9th;[1476] and Copeland succeeded, on September 30, in
+measuring three bright bands with an acute-angled prism specially
+constructed for the purpose.[1477] A shimmer of F was suspected, and had
+also been perceived by Mr. O. T. Sherman of Yale College. Still, the
+effect was widely different from that of the characteristic blazing
+spectrum of a temporary star, and prompted the surmise that here, too, a
+variable might be under scrutiny. The star, however, was certainly so
+far "new" that its rays, until their sudden accession of strength, were
+too feeble to affect even our reinforced senses. Not one of the 1,283
+small stars recorded in charts of the nebula could be identified with
+it; and a photograph taken by Dr. Common, August 16, 1884, on which a
+multitude of stars down to the fifteenth magnitude had imprinted
+themselves, showed the uniform, soft gradation of nebulous light to be
+absolutely unbroken by a stellar indication in the spot reserved for the
+future occupation of the "Nova."[1478]
+
+So far, then, the view that its relation to the nebula was a merely
+optical one might be justified; but it became altogether untenable when
+it was found that what was taken to be a chance coincidence had repeated
+itself within living memory. On the 21st of May, 1860, M. Auwers
+perceived at Koenigsberg a seventh magnitude star shining close to the
+centre of a nebula in Scorpio, numbered 80 in Messier's Catalogue.[1479]
+Three days earlier it certainly was not there, and three weeks later it
+had vanished. The effect to Mr. Pogson (who independently discovered the
+change, May 28)[1480] was as if the nebula had been _replaced_ by a
+star, so entirely were its dim rays overpowered by the concentrated
+blaze in their midst. Now, it is simply incredible that two outbursts of
+so uncommon a character should have _accidentally_ occurred just on the
+line of sight between us and the central portions of two nebulae; we
+must, then, conclude that they showed _on_ these objects because they
+took place _in_ them. The most favoured explanation is that they were
+what might be called effects of overcrowding--that some of the numerous
+small bodies, presumably composing the nebulae, jostled together, in
+their intricate circlings, and obtained compensation in heat for their
+sacrifice of motion. But this is scarcely more than a plausible
+makeshift of perplexed thought. Mr. W. H. S. Monck, on the other hand,
+has suggested that new stars appear when dark bodies are rendered
+luminous by rushing through the gaseous fields of space,[1481] just as
+meteors kindle in our atmosphere. The idea, which has been revived and
+elaborated by Dr. Seeliger of Munich,[1482] is ingenious, but was not
+designed to apply to our present case. Neither of the objects
+distinguished by the striking variations just described is of gaseous
+constitution. That in Scorpio appears under high magnifying powers as a
+"compressed cluster"; that in Andromeda is perhaps, as Sir J. Herschel
+suggested, "optically nebulous through the smallness of its constituent
+stars"[1483]--if stars they deserve to be called.
+
+On the 8th of December, 1891, Dr. Max Wolf took a photograph of the
+region about Chi Aurigae. No stranger so bright as the eighth
+magnitude was among the stars depicted upon it. On the 10th,
+nevertheless, a stellar object of the fifth magnitude, situated a couple
+of degrees to the north-east of Beta Tauri and previously
+unrecorded, where eleventh magnitude stars appeared, imprinted itself
+upon a Harvard negative. Subsequent photographs taken at the same place
+showed it to have gained about half a magnitude by the 20th; but the
+plates were not then examined, and the discovery was left to be modestly
+appropriated by an amateur, the Rev. Dr. Anderson of Edinburgh, by whom
+it was announced, February 1, 1892, through the medium of an anonymous
+postcard, to Dr. Copeland, the Astronomer Royal for Scotland.[1484] By
+him and others, the engines of modern research were promptly set to
+work. And to good purpose. Nova Aurigae was the first star of its kind
+studied by the universal chemical method. It is the first, accordingly,
+of which authentic records can be handed down to posterity. They are of
+a most remarkable character. The spectrum of the new object was
+photographed at Stonyhurst and South Kensington on February 3; a few
+days later, at Harvard and Lick in America, at Potsdam and Hereny on the
+Continent of Europe. But by far the most complete impression was
+secured, February 22, with an exposure of an hour and three-quarters, by
+Sir William and Lady Huggins, through whose kindness it is reproduced in
+Plate V., Fig. 1. The range of bright lines displayed in it is of
+astonishing vividness and extent. It includes all the hydrogen rays dark
+in the spectrum of Sirius (separately printed for comparison), besides
+many others still more refrangible, as yet unidentified. Very
+significant, too, is the marked character of the great prominence lines
+H and K. The visual spectrum of the Nova was splendidly effective.
+A quartette of brilliant green rays, two of them due to helium,
+caught the eye; and they had companions too numerous to be easily
+counted. The hydrogen lines were broad and bright; C blazed, as Mr.
+Espin said, "like a danger-signal on a dark night"; the sodium pair were
+identified at Tulse Hill, and the yellow helium ray was suspected to
+lurk close beside them. Fig. 2 in the same plate shows the spectrum as
+it was seen and mapped by Lady Huggins, February 2 to 6, together with
+the spectra employed to test the nature of the emissions dispersed in
+it. One striking feature will be at once remarked. It is that of the
+pairing of bright with dark lines. Both in the visible and the
+photographic regions this singular peculiarity was unmistakable; and
+since the two series plainly owned the same chemical origin, their
+separate visibility implied large displacement. Otherwise they would
+have been superposed, not juxtaposed. Measurements of the bright rays,
+accordingly, showed them to be considerably pushed down towards the red,
+while their dark companions were still more pushed up towards the blue
+end. Thus the spectrum of Nova Aurigae, like that of Beta Lyrae,
+with which it had many points in common, appeared to be really double.
+It was supposed to combine the light of two distinct bodies, one, of a
+gaseous nature, moving rapidly away from the earth, the other, giving a
+more sunlike spectrum, approaching it with even higher speed. The
+relative velocity determined at Potsdam for these oppositely flying
+masses amounted to 550 miles a second.[1485] And this prodigious rate of
+separation was fully maintained during six weeks! It did not then
+represent a mere periastral rush-past.[1486] To the bodies exhibiting
+its effects, and parting company for ever under its stress, it must have
+belonged, with slight diminution, in perpetuity. The luminous outburst
+by which they became visible was explained by Sir William Huggins, in a
+lecture delivered at the Royal Institution, May 13, 1892, on the tidal
+theory of Klinkerfues and Wilsing. Disturbances and deformations due to
+the mutual attraction of two bulky globes at a close approach would, he
+considered, "give rise to enormous eruptions of the hotter matters from
+within, immensely greater, but similar in kind, to solar eruptions; and
+accompanied, probably, by large electrical disturbances." The multiple
+aspect and somewhat variable character of both bright and dark lines
+were plausibly referred to processes of "reversal," such as are nearly
+always in progress above sun-spots; but the long duration of the star's
+suddenly acquired lustre did not easily fit in with the adopted
+rationale. A direct collision, on the other hand, was out of the
+question, since there had obviously been little, if any, sacrifice of
+motion; and the substitution of a nebula for one of the "stars"[1487]
+compelled recourse to scarcely conceivable modes of action for an
+explanation of the perplexing peculiarities of the compound spectrum.
+
+
+PLATE V.
+
+[Illustration: Photographic and Visual Spectrum of Nova Aurigae.
+
+Fig. 1.--From a Photograph taken by Sir William and Lady Huggins, Feb.
+22, 1892.
+
+Fig. 2.--From a Drawing made by Lady Huggins, Feb. 2 to 6, 1892.]
+
+
+An unexpected _denouement_, however, threw all speculations off the
+track. The Nova contained most of its brightness, fluctuations
+notwithstanding, until March 9; after which date it ran swiftly and
+uniformly down towards what was apprehended to be total extinction. No
+marked change of spectrum attended its decline. When last examined at
+Tulse Hill, March 24, all the more essential features of its prismatic
+light were still faintly recognisable.[1488] The object was steadily
+sinking on April 26, when a (supposed) final glimpse of it was caught
+with the Lick 36-inch.[1489] It was then of about the sixteenth
+magnitude. But on August 17 it had sprung up to the tenth, as Professors
+Holden, Schaeberle, and Campbell perceived with amazement on turning the
+same instrument upon its place. And to Professor Barnard it appeared,
+two nights later, not only revived, but transformed into the nucleus of
+a planetary nebula, 3" across.[1490] The reality of this seeming
+distension, however, at once disputed, was eventually disproved. It
+unquestionably arose from the imperfect focussing power of the telescope
+for rays of unusual quality.[1491]
+
+The rekindled Nova was detected in this country by Mr. H. Corder, on
+whose notification Mr. Espin, on August 21, examined its nearly
+monochromatic spectrum.[1492] The metamorphosis of Nova Cygni seemed
+repeated.[1493] The light of the new object, like that of its
+predecessor, was mainly concentrated in a vivid green band, identified
+with the chief nebular line by Copeland,[1494] Von Gothard,[1495] and
+Campbell.[1496] The second nebular line was also represented. Indeed,
+the last-named observer recognised nearly all the eighteen lines
+measured by him in the Nova as characteristic of planetary nebulae.[1497]
+Of particular interest is the emergence in the star-spectrum
+photographed by Von Gothard of an ultra-violet line originally
+discovered at Tulse Hill in the Orion nebula, which is also very strong
+in the Lyra annular nebula.
+
+Obviously, then, the physical constitution of Nova Aurigae became
+profoundly modified during the four months of its invisibility. The
+spectrum of February was or appeared compound; that of August was
+simple; it could be reasonably associated only with a single
+light-source. Many of the former brilliant lines, too, had vanished, and
+been replaced by others, at first inconspicuous or absent. As a result,
+the solar-prominence type, to which the earlier spectrum had seemed to
+conform, was completely effaced in the later. The cause of these
+alterations remains mysterious, yet its effects continue. The chromatic
+behaviour of the semi-extinct Nova, when scrutinised with great
+refractors, shows its waning light to be distinctly nebular.[1498] Like
+nearly all its congeners, the star is situated in the full stream of the
+Milky Way, and we learn without surprise that micrometrical measures by
+Burnham and Barnard[1499] failed to elicit from it any sign of
+parallactic shifting. It is hence certain that the development of light,
+of which the news reached the earth in December, 1891, must have been on
+a vast scale, and of ancient date. Nova Aurigae at its maximum assuredly
+exceeded the sun many times in brightness; and its conflagration can
+scarcely have occurred less, and may have occurred much more, than a
+hundred years ago.
+
+By means of the photographic surveys of the skies, carried on in both
+hemispheres under Professor Pickering's superintendence, such amazing
+events have been proved to be of not infrequent occurrence. Within six
+years five new stars were detected from Draper Memorial, or chart-plates
+by Mrs Fleming, besides the retrospective discovery of a sixth which had
+rapidly burnt itself out, eight years previously, in Perseus.[1500] Nova
+Normae was the immediate successor of Nova Aurigae; Nova Carinae and Nova
+Centauri lit up in 1895, the latter in a pre-existent nebula; Nova
+Sagittarii and Nova Aquilae attained brief maxima in 1898 and 1899
+respectively. Now, three out of these five stars reproduced with
+singular fidelity the spectrum of Nova Aurigae; they displayed the same
+brilliant rays shadowed, invariably on their blue sides, by dark ones.
+Palpably, then, the arrangement was systematic and significant; it could
+not result merely from the casually directed, opposite velocities of
+bodies meeting in space. The hypothesis of stellar encounters
+accordingly fell to the ground, and has been provided with no entire
+satisfactory substitute. Most speculators now fully recognise that
+motion-displacements cannot be made to account for the doubled spectra
+of Novae, and seek recourse instead to some kind of physical agency for
+producing the observed effect.[1501] And since this is also visible in
+certain permanent, though peculiar objects--notably in P Cygni,
+Beta Lyrae, and Eta Carinae--the acting cause must also evidently be
+permanent and inherent.
+
+The "new star of the new century"[1502] was a visual discovery. Dr.
+Anderson duplicated, with added _eclat_, his performance of nine years
+back. In the early morning of February 22, 1901, he perceived that Algol
+had a neighbour of nearly its own brightness, which a photograph taken
+by Mr. Stanley Williams, at Brighton, proved to have risen from below

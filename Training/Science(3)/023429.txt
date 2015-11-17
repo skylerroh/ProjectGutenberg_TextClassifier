@@ -1,0 +1,80 @@
+The Project Gutenberg eBook, On Handling the Data, by M. I. Mayfield,
+Illustrated by  Freas
+
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+
+
+
+Title: On Handling the Data
+
+
+Author: M. I. Mayfield
+
+
+
+Release Date: November 10, 2007  [eBook #23429]
+
+Language: English
+
+Character set encoding: ISO-646-US (US-ASCII)
+
+
+***START OF THE PROJECT GUTENBERG EBOOK ON HANDLING THE DATA***
+
+
+E-text prepared by Greg Weeks, Bruce Albrecht, L. N. Yaddanapudi, and the
+Project Gutenberg Online Distributed Proofreading Team
+(http://www.pgdp.net)
+
+
+
+Note: Project Gutenberg also has an HTML version of this
+      file which includes the original illustrations.
+      See 23429-h.htm or 23429-h.zip:
+      (http://www.gutenberg.net/dirs/2/3/4/2/23429/23429-h/23429-h.htm)
+      or
+      (http://www.gutenberg.net/dirs/2/3/4/2/23429/23429-h.zip)
+
+
+
+
+
+... ON ... HANDLING THE DATA
+
+by
+
+M. I. MAYFIELD
+
+Illustrated by Freas
+
+
+
+
+
+
+
+[Illustration]
+
+
+
+
+     _Sometimes a story is best told by omission--!_
+
+
+September 16, 1957
+
+Dr. Robert Von Engen, Editor
+Journal of the National Academy of Sciences,
+Constitution Avenue, N. W.,
+Washington, D. C.
+
+Dear Sir:
+
+I am taking the liberty of writing you this letter since I read your
+published volume, "Logical Control: The Computer vs. Brain" (Silliman

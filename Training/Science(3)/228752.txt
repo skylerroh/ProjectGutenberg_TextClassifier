@@ -1,0 +1,308 @@
+oblong, and that a similar defect appears in the form of the rings when
+the eyepiece is put out of focus. We know at once that something is
+wrong; but the trouble may lie either in the object glass, in the
+eyepiece, in the eye of the observer himself, or in the adjustment of
+the lenses in the tube. A careful examination of the image and the
+out-of-focus circles will enable us to determine with which of these
+sources of error we have to deal. If the star image when in focus has a
+sort of wing on one side, and if the rings out of focus expand
+eccentrically, appearing wider and larger on one side than on the other,
+being at the same time brightest on the least expanded side, then the
+object glass is probably not at right angles to the axis of the tube and
+requires readjustment. That part of the object glass on the side where
+the rings appear most expanded and faintest needs to be pushed slightly
+inward. This can be effected by means of counterscrews placed for that
+purpose in or around the cell. But it, after we have got the object
+glass properly squared to the axis of the tube or the line of sight, the
+image and the ring system in and out of focus still appear oblong, the
+fault of astigmatism must exist either in the objective, the eyepiece,
+or the eye. The chances are very great that it is the eye itself that is
+at fault. We may be certain of this if we find, on turning the head so
+as to look into the telescope with the eye in different positions, that
+the oblong image turns with the head of the observer, keeping its major
+axis continually in the same relative position with respect to the eye.
+The remedy then is to consult an oculist and get a pair of cylindrical
+eyeglasses. If the oblong image does not turn round with the eye, but
+does turn when the eyepiece is twisted round, then the astigmatism is in
+the latter. If, finally, it does not follow either the eye or the
+eyepiece, it is the objective that is at fault.
+
+But instead of being oblong, the image and the rings may be misshapen in
+some other way. If they are three-cornered, it is probable that the
+object glass is subjected to undue pressure in its cell. This, if the
+telescope has been brought out on a cool night from a warm room, may
+arise from the unequal contraction of the metal work and the glass as
+they cool off. In fact, no good star image can be got while a telescope
+is assuming the temperature of the surrounding atmosphere. Even the air
+inclosed in the tube is capable of making much trouble until its
+temperature has sunk to the level of that outside. Half an hour at least
+is required for a telescope to adjust itself to out-of-door temperature,
+except in the summer time, and it is better to allow an hour or two for
+such adjustment in cold weather. Any irregularity in the shape of the
+rings which persists after the lenses have been accurately adjusted and
+the telescope has properly cooled may be ascribed to imperfections, such
+as veins or spots of unequal density in the glass forming the objective.
+
+[Illustration: THE OUT-OF-FOCUS RINGS.
+
+1, Correct figure; 2 and 3, spherical aberration.]
+
+The spherical aberration of an object glass may be undercorrected or
+overcorrected. In the former case the central rings inside the focus
+will appear faint and the outer ones unduly strong, while outside the
+focus the central rings will be too bright and the outer ones too
+feeble. But if the aberration is overcorrected the central rings will be
+overbright inside the focus and abnormally faint outside the focus.
+
+[Illustration: TWO VIEWS OF MARS IN 1892.
+
+The smaller with a three-and-three-eighths-inch telescope; the larger
+with a nine-inch.]
+
+Assuming that we have a telescope in which no obvious fault is
+discernible, the next thing is to test its powers in actual work. In
+what is to follow I shall endeavor to describe some of the principal
+objects in the heavens from which the amateur observer may expect to
+derive pleasure and instruction, and which may at the same time serve
+as tests of the excellence of his telescope. No one should be deterred
+or discouraged in the study of celestial objects by the apparent
+insignificance of his means of observation. The accompanying pictures of
+the planet Mars may serve as an indication of the fact that a small
+telescope is frequently capable of doing work that appears by no means
+contemptible when placed side by side with that of the greater
+instruments of the observatories.
+
+
+
+
+CHAPTER II
+
+IN THE STARRY HEAVENS
+
+"Now constellations, Muse, and signs rehearse;
+In order let them sparkle in thy verse."--MANILIUS.
+
+
+Let us imagine ourselves the happy possessors of three properly mounted
+telescopes of five, four, and three inches aperture, respectively. A
+fine midwinter evening has come along, the air is clear, cool, and
+steady, and the heavens, of that almost invisible violet which is
+reserved for the lovers of celestial scenery, are spangled with stars
+that hardly twinkle. We need not disturb our minds about a few thin
+clouds here and there floating lazily in the high air; they announce a
+change of weather, but they will not trouble us to-night.
+
+Which way shall we look? Our eyes will answer the question for us.
+However we may direct them, they instinctively return to the south, and
+are lifted to behold Orion in his glory, now near the meridian and
+midway to the zenith, with Taurus shaking the glittering Pleiades before
+him, and Canis Major with the flaming Dog Star following at his heels.
+
+Not only is Orion the most brilliant of all constellations to the casual
+star-gazer, but it contains the richest mines that the delver for
+telescopic treasures can anywhere discover. We could not have made a
+better beginning, for here within a space of a few square degrees we
+have a wonderful variety of double stars and multiple stars, so close
+and delicate as to test the powers of the best telescopes, besides a
+profusion of star-clusters and nebulae, including one of the supreme
+marvels of space, the Great Nebula in the Sword.
+
+[Illustration: MAP NO. 1.]
+
+Our star map No. 1 will serve as a guide to the objects which we are
+about to inspect. Let us begin operations with our smallest telescope,
+the three-inch. I may remark here that, just as the lowest magnifying
+power that will clearly reveal the object looked for gives ordinarily
+better results than a higher power, so the smallest telescope that is
+competent to show what one wishes to see is likely to yield more
+satisfaction, as far as that particular object is concerned, than a
+larger glass. The larger the object glass and the higher the power, the
+greater are the atmospheric difficulties. A small telescope will perform
+very well on a night when a large one is helpless.
+
+Turn the glass upon beta (Rigel), the white first-magnitude star in
+Orion's left foot. Observe whether the image with a high power is clear,
+sharp, and free from irregular wisps of stray light. Look at the rings
+in and out of focus, and if you are satisfied with the performance, try
+for the companion. A good three-inch is certain to show it, except in a
+bad state of the atmosphere, and even then an expert can see it, at
+least by glimpses. The companion is of the ninth magnitude, some say the
+eighth, and the distance is about 9.5", angle of position (hereafter
+designated by p.) 199 deg..[1] Its color is blue, in decided contrast with
+the white light of its great primary. Sir John Herschel, however, saw
+the companion red, as others have done. These differences are doubtless
+due to imperfections of the eye or the telescope. In 1871 Burnham
+believed he had discovered that the companion was an exceedingly close
+double star. No one except Burnham himself succeeded in dividing it, and
+he could only do so at times. Afterward, when he was at Mount Hamilton,
+he tried in vain to split it with the great thirty-six-inch telescope,
+in 1889, 1890, and 1891. His want of success induced him to suggest that
+the component stars were in rapid motion, and so, although he admitted
+that it might not be double after all, he advised that it should be
+watched for a few years longer. His confidence was justified, for in
+1898 Aitken, with the Lick telescope, saw and measured the distance of
+the extremely minute companion--distance 0.17", p. 177 deg..
+
+[1] The angle of position measures the inclination to the meridian of a
+line drawn between the principal star and its companion; in other words,
+it shows in what direction from the primary we must look for the
+companion. It is reckoned from 0 deg. up to 360 deg., beginning at the north
+point and passing around by east through south and west to north again.
+Thus, if the angle of position is 0 deg. or 360 deg., the companion is on the
+north side of the primary; if the angle is 90 deg., the companion is to the
+east; if 180 deg., to the south; if 270 deg., to the west, and so for
+intermediate angles. It must be remembered, however, that in the field
+of the telescope the top is south and the bottom north, unless a prism
+is used, when directions become complicated. East and west can be
+readily identified by noticing the motion of a star through the field;
+it moves toward the west and from the east.
+
+Rigel has been suspected of a slight degree of variability. It is
+evidently a star of enormous actual magnitude, for its parallax escapes
+trustworthy measurement. It can only be ranked among the very first of
+the light-givers of the visible universe. Spectroscopically it belongs
+to a peculiar type which has very few representatives among the bright
+stars, and which has been thus described: "Spectra in which the hydrogen
+lines and the few metallic lines all appear to be of equal breadth and
+sharp definition." Rigel shows a line which some believe to represent
+magnesium; but while it has iron lines in its spectrum, it exhibits no
+evidence of the existence of any such cloud of volatilized iron as that
+which helps to envelop the sun.
+
+For another test of what the three-inch will do turn to zeta, the lower,
+or left-hand, star in the Belt. This is a triple, the magnitudes being
+second, sixth, and tenth. The sixth-magnitude star is about 2.5" from
+the primary, p. 149 deg., and has a very peculiar color, hard to describe.
+It requires careful focusing to get a satisfactory view of this star
+with a three-inch telescope. Use magnifying powers up to two hundred and
+fifty diameters. With our four-inch the star is much easier, and the
+five-inch shows it readily with a power of one hundred. The
+tenth-magnitude companion is distant 56", p. 8 deg., and may be glimpsed
+with the three-inch. Upon the whole, we shall find that we get more
+pleasing views of zeta Orionis with the four-inch glass.
+
+Just to the left of zeta, and in the same field of view with a very low
+power, is a remarkable nebula bearing the catalogue number 1227. We must
+use our five-inch on this with a low power, but with zeta out of the
+field in order to avoid its glare. The nebula is exceedingly faint, and
+we can be satisfied if we see it simply as a hazy spot, although with
+much larger telescopes it has appeared at least half a degree broad.
+Tempel saw several centers of condensation in it, and traced three or
+four broad nebulous streams, one of which decidedly suggested spiral
+motion.
+
+The upper star in the Belt, delta, is double; distance, 53", p. 360 deg.;
+magnitudes, second and seventh very nearly; colors, white and green or
+blue. This, of course, is an easy object for the three-inch with a low
+magnifying power. It would be useless to look for the two fainter
+companions of delta, discovered by Burnham, even with our five-inch
+glass. But we shall probably need the five-inch for our next attempt,
+and it will be well to put on a high power, say three hundred diameters.
+The star to be examined is the little brilliant dangling below the
+right-hand end of the Belt, toward Rigel. It appears on the map as eta.
+Spare no pains in getting an accurate focus, for here is something worth
+looking at, and unless you have a trained eye you will not easily see
+it. The star is double, magnitudes third and sixth, and the distance
+from center to center barely exceeds 1", p. 87 deg.. A little tremulousness
+of the atmosphere for a moment conceals the smaller star, although its
+presence is manifest from the peculiar jutting of light on one side of
+the image of the primary. But in an instant the disturbing undulations
+pass, the air steadies, the image shrinks and sharpens, and two points
+of piercing brightness, almost touching one another, dart into sight,
+the more brilliant one being surrounded by an evanescent circle, a tiny
+ripple of light, which, as it runs round the star and then recedes,
+alternately embraces and releases the smaller companion. The wash of the
+light-waves in the atmosphere provokes many expressions of impatience
+from the astronomer, but it is often a beautiful phenomenon
+nevertheless.
+
+Between eta and delta is a fifth-magnitude double star, Sigma 725, which
+is worth a moment's attention. The primary, of a reddish color, has a
+very faint star, eleventh magnitude, at a distance of 12.7", p. 88 deg..
+
+Still retaining the five-inch in use, we may next turn to the other end
+of the Belt, where, just under zeta, we perceive the fourth-magnitude
+star sigma. He must be a person of indifferent mind who, after looking
+with unassisted eyes at the modest glimmering of this little star, can
+see it as the telescope reveals it without a thrill of wonder and a cry
+of pleasure. The glass, as by a touch of magic, changes it from one into
+eight or ten stars. There are two quadruple sets three and a half
+minutes of arc apart. The first set exhibits a variety of beautiful
+colors. The largest star, of fourth magnitude, is pale gray; the second
+in rank, seventh magnitude, distance 42", p. 61 deg., presents a singular
+red, "grape-red" Webb calls it; the third, eighth magnitude, distance
+12", p. 84 deg., is blue; and the fourth, eleventh magnitude, distance 12",
+p. 236 deg., is apparently white. Burnham has doubled the fourth-magnitude
+star, distance 0.23". The second group of four stars consists of three
+of the eighth to ninth magnitude, arranged in a minute triangle with a
+much fainter star near them. Between the two quadruple sets careful
+gazing reveals two other very faint stars. While the five-inch gives a
+more satisfactory view of this wonderful multiple star than any smaller
+telescope can do, the four-inch and even the three-inch would have shown
+it to us as a very beautiful object. However we look at them, there is
+an appearance of association among these stars, shining with their
+contrasted colors and their various degrees of brilliance, which is
+significant of the diversity of conditions and circumstances under which
+the suns and worlds beyond the solar walk exist.
+
+From sigma let us drop down to see the wonders of Orion's Sword
+displayed just beneath. We can use with advantage any one of our three
+telescopes; but since we are going to look at a nebula, it is fortunate
+that we have a glass so large as five inches aperture. It will reveal
+interesting things that escape the smaller instruments, because it
+grasps more than one and a half times as much light as the four-inch,
+and nearly three times as much as the three-inch; and in dealing with
+nebulae a plenty of light is the chief thing to be desired. The middle
+star in the Sword is theta, and is surrounded by the celebrated Nebula
+of Orion. The telescope shows theta separated into four stars arranged
+at the corners of an irregular square, and shining in a black gap in the
+nebula. These four stars are collectively named the Trapezium. The
+brightest is of the sixth magnitude, the others are of the seventh,
+seven and a half, and eighth magnitudes respectively. The radiant mist
+about them has a faint greenish tinge, while the four stars, together
+with three others at no great distance, which follow a fold of the
+nebula like a row of buttons on a coat, always appear to me to show an
+extraordinary liveliness of radiance, as if the strange haze served to
+set them off.
+
+[Illustration: THE TRAPEZIUM WITH THE FIFTH AND SIXTH STARS.]
+
+Our three-inch would have shown the four stars of the Trapezium
+perfectly well, and the four-inch would have revealed a fifth star, very
+faint, outside a line joining the smallest of the four and its nearest
+neighbor. But the five-inch goes a step farther and enables us, with
+steady gazing to see even a sixth star, of only the twelfth magnitude,
+just outside the Trapezium, near the brightest member of the quartet.
+The Lick telescope has disclosed one or two other minute points of light
+associated with the Trapezium. But more interesting than the Trapezium
+is the vast cloud, full of strange shapes, surrounding it. Nowhere else
+in the heavens is the architecture of a nebula so clearly displayed. It
+is an unfinished temple whose gigantic dimensions, while exalting the
+imagination, proclaim the omnipotence of its builder. But though
+unfinished it is not abandoned. The work of creation is proceeding
+within its precincts. There are stars apparently completed, shining like
+gems just dropped from the hand of the polisher, and around them are
+masses, eddies, currents, and swirls of nebulous matter yet to be
+condensed, compacted, and constructed into suns. It is an education in
+the nebular theory of the universe merely to look at this spot with a
+good telescope. If we do not gaze at it long and wistfully, and return
+to it many times with unflagging interest, we may be certain that there
+is not the making of an astronomer in us.
+
+Before quitting the Orion nebula do not fail to notice an
+eighth-magnitude star, a short distance northeast of the Great Nebula,
+and nearly opposite the broad opening in the latter that leads in toward
+the gap occupied by the Trapezium. This star is plainly enveloped in
+nebulosity, that is unquestionably connected with the larger mass of
+which it appears to form a satellite.
+
+At the lower end of the Sword is the star iota, somewhat under the third
+magnitude. Our three-inch will show that it has a bluish companion of
+seventh or eighth magnitude, at a little more than 11" distance, p.
+142 deg., and the larger apertures will reveal a third star, of tenth
+magnitude, and reddish in color, distance 49", p. 103 deg.. Close by iota we
+find the little double star Sigma 747, whose components are of five and
+a half and six and a half magnitudes respectively, and separated 36", p.
+223 deg.. Above the uppermost star in the Sword is a small star cluster, No.
+1184, which derives a special interest from the fact that it incloses a
+delicate double star, Sigma 750, whose larger component is of the sixth

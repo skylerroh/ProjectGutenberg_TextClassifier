@@ -1,0 +1,425 @@
+from the Atlantic, getting split by the Land's End and by Ireland into
+three portions; one of which rushes up the English Channel and through
+the Straits of Dover. Another rolls up the Irish Sea, with a minor
+offshoot up the Bristol Channel, and, curling round Anglesey, flows
+along the North Wales coast and fills Liverpool Bay and the Mersey. The
+third branch streams round the north coast of Ireland, past the Mull of
+Cantyre and Rathlin Island; part fills up the Firth of Clyde, while the
+rest flows south, and, swirling round the west side of the Isle of Man,
+helps the southern current to fill the Bay of Liverpool. The rest of the
+great wave impinges on the coast of Scotland, and, curling round it,
+fills up the North Sea right away to the Norway coast, and then flows
+down below Denmark, joining the southern and earlier arriving stream.
+The diagram I show you is a rough chart of cotidal lines, which I made
+out of the information contained in _Whitaker's Almanac_.
+
+A place may thus be fed with tide by two distinct channels, and many
+curious phenomena occur in certain places from this cause. Thus it may
+happen that one channel is six hours longer than the other, in which
+case a flow will arrive by one at the same time as an ebb arrives by the
+other; and the result will be that the place will have hardly any tide
+at all, one tide interfering with and neutralizing the other. This is
+more markedly observed at other parts of the world than in the British
+Isles. Whenever a place is reached by two channels of different length,
+its tides are sure to be peculiar, and probably small.
+
+Another cause of small tide is the way the wave surges to and fro in a
+channel. The tidal wave surging up the English Channel, for instance,
+gets largely reflected by the constriction at Dover, and so a crest
+surges back again, as we may see waves reflected in a long trough or
+tilted bath. The result is that Southampton has two high tides rapidly
+succeeding one another, and for three hours the high-water level varies
+but slightly--a fact of evident convenience to the port.
+
+Places on a nodal line, so to speak, about the middle of the length of
+the channel, have a minimum of rise and fall, though the water rushes
+past them first violently up towards Dover, where the rise is
+considerable, and then back again towards the ocean. At Portland, for
+instance, the total rise and fall is very small: it is practically on a
+node. Yarmouth, again, is near a less marked node in the North Sea,
+where stationary waves likewise surge to and fro, and accordingly the
+tidal rise and fall at Yarmouth is only about five feet (varying from
+four and a half to six), whereas at London it is twenty or thirty feet,
+and at Flamborough Head or Leith it is from twelve to sixteen feet.
+
+It is generally supposed that water never flows up-hill, but in these
+cases of oscillation it flows up-hill for three hours together. The
+water is rushing up the English Channel towards Dover long after it is
+highest at the Dover end; it goes on piling itself up, until its
+momentum is checked by the pressure, and then it surges back. It
+behaves, in fact, very like the bob of a pendulum, which rises against
+gravity at every quarter swing.
+
+To get a very large tide, the place ought to be directly accessible by a
+long sweep of a channel to the open ocean, and if it is situate on a
+gradually converging opening, the ebb and flow may be enormous. The
+Severn is the best example of this on the British Isles; but the largest
+tides in the world are found, I believe, in the Bay of Fundy, on the
+coast of North America, where they sometimes rise one hundred and twenty
+feet. Excessive or extra tides may be produced occasionally in any place
+by the propelling force of a high wind driving the water towards the
+shore; also by a low barometer, _i.e._ by a local decrease in the
+pressure of the air.
+
+Well, now, leaving these topographical details concerning tides, which
+we see to be due to great oceanic humps (great in area that is, though
+small in height), let us proceed to ask what causes these humps; and if
+it be the moon that does it, how does it do it?
+
+The statement that the moon causes the tides sounds at first rather an
+absurdity, and a mere popular superstition. Galileo chaffed Kepler for
+believing it. Who it was that discovered the connection between moon and
+tides we know not--probably it is a thing which has been several times
+rediscovered by observant sailors or coast-dwellers--and it is certainly
+a very ancient piece of information.
+
+Probably the first connection observed was that about full moon and
+about new moon the tides are extra high, being called spring tides,
+whereas about half-moon the tides are much less, and are called neap
+tides. The word spring in this connection has no reference to the season
+of the year; except that both words probably represent the same idea of
+energetic uprising or upspringing, while the word neap comes from nip,
+and means pinched, scanty, nipped tide.
+
+The next connection likely to be observed would be that the interval
+between two day tides was not exactly a solar day of twenty-four hours,
+but a lunar day of fifty minutes longer. For by reason of the moon's
+monthly motion it lags behind the sun about fifty minutes a day, and the
+tides do the same, and so perpetually occur later and later, about fifty
+minutes a day later, or 12 hours and 25 minutes on the average between
+tide and tide.
+
+A third and still more striking connection was also discovered by some
+of the ancient great navigators and philosophers--viz. that the time of
+high water at a given place at full moon is always the same, or very
+nearly so. In other words, the highest or spring tides always occur
+nearly at the same time of day at a given place. For instance, at
+Liverpool this time is noon and midnight. London is about two hours and
+a half later. Each port has its own time for receiving a given tide, and
+the time is called the "establishment" of the port. Look out a day when
+the moon is full, and you will find the Liverpool high tide occurs at
+half-past eleven, or close upon it. The same happens when the moon is
+new. A day after full or new moon the spring tides rise to their
+highest, and these extra high tides always occur in Liverpool at noon
+and at midnight, whatever the season of the year. About the equinoxes
+they are liable to be extraordinarily high. The extra low tides here are
+therefore at 6 a.m. and 6 p.m., and the 6 p.m. low tide is a nuisance to
+the river steamers. The spring tides at London are highest about
+half-past two.
+
+*      *      *      *      *
+
+It is, therefore, quite clear that the moon has to do with the tides. It
+and the sun together are, in fact, the whole cause of them; and the mode
+in which these bodies act by gravitative attraction was first made out
+and explained in remarkably full detail by Sir Isaac Newton. You will
+find his account of the tides in the second and third books of the
+_Principia_; and though the theory does not occupy more than a few pages
+of that immortal work, he succeeds not only in explaining the local
+tidal peculiarities, much as I have done to-night, but also in
+calculating the approximate height of mid-ocean solar tide; and from the
+observed lunar tide he shows how to determine the then quite unknown
+mass of the moon. This was a quite extraordinary achievement, the
+difficulty of which it is not easy for a person unused to similar
+discussions fully to appreciate. It is, indeed, but a small part of what
+Newton accomplished, but by itself it is sufficient to confer
+immortality upon any ordinary philosopher, and to place him in a front
+rank.
+
+[Illustration: FIG. 110.--Whirling earth model.]
+
+To make intelligible Newton's theory of the tides, I must not attempt to
+go into too great detail. I will consider only the salient points.
+First, you know that every mass of matter attracts every other piece of
+matter; second, that the moon revolves round the earth, or rather that
+the earth and moon revolve round their common centre of gravity once a
+month; third, that the earth spins on its own axis once a day; fourth,
+that when a thing is whirled round, it tends to fly out from the centre
+and requires a force to hold it in. These are the principles involved.
+You can whirl a bucket full of water vertically round without spilling
+it. Make an elastic globe rotate, and it bulges out into an oblate or
+orange shape; as illustrated by the model shown in Fig. 110. This is
+exactly what the earth does, and Newton calculated the bulging of it as
+fourteen miles all round the equator. Make an elastic globe revolve
+round a fixed centre outside itself, and it gets pulled into a prolate
+or lemon shape; the simplest illustrative experiment is to attach a
+string to an elastic bag or football full of water, and whirl it round
+and round. Its prolateness is readily visible.
+
+Now consider the earth and moon revolving round each other like a man
+whirling a child round. The child travels furthest, but the man cannot
+merely rotate, he leans back and thus also describes a small circle: so
+does the earth; it revolves round the common centre of gravity of earth
+and moon (_cf._ p. 212). This is a vital point in the comprehension of
+the tides: the earth's centre is not at rest, but is being whirled round
+by the moon, in a circle about 1/80 as big as the circle which the moon
+describes, because the earth weighs eighty times as much as the moon.
+The effect of the revolution is to make both bodies slightly protrude in
+the direction of the line joining them; they become slightly "prolate"
+as it is called--that is, lemon-shaped. Illustrating still by the man
+and child, the child's legs fly outwards so that he is elongated in the
+direction of a radius; the man's coat-tails fly out too, so that he too
+is similarly though less elongated. These elongations or protuberances
+constitute the tides.
+
+[Illustration: FIG. 111.--Earth and moon model, illustrating the
+production of statical or "equilibrium" tides when the whole is whirled
+about the point G.]
+
+Fig. 111 shows a model to illustrate the mechanism. A couple of
+cardboard disks (to represent globes of course), one four times the
+diameter of the other, and each loaded so as to have about the correct
+earth-moon ratio of weights, are fixed at either end of a long stick,
+and they balance about a certain point, which is their common centre of
+gravity. For convenience this point is taken a trifle too far out from
+the centre of the earth--that is, just beyond its surface. Through the
+balancing point G a bradawl is stuck, and on that as pivot the whole
+readily revolves. Now, behind the circular disks, you see, are four
+pieces of card of appropriate shape, which are able to slide out under
+proper forces. They are shown dotted in the figure, and are lettered A,
+B, C, D. The inner pair, B and C, are attached to each other by a bit of
+string, which has to typify the attraction of gravitation; the outer
+pair, A and D, are not attached to anything, but have a certain amount
+of play against friction in slots parallel to the length of the stick.
+The moon-disk is also slotted, so a small amount of motion is possible
+to it along the stick or bar. These things being so arranged, and the
+protuberant pieces of card being all pushed home, so that they are
+hidden behind their respective disks, the whole is spun rapidly round
+the centre of gravity, G. The result of a brief spin is to make A and D
+fly out by centrifugal force and show, as in the figure; while the moon,
+flying out too in its slot, tightens up the string, which causes B and C
+to be pulled out too. Thus all four high tides are produced, two on the
+earth and two on the moon, A and D being caused by centrifugal force, B
+and C by the attraction of gravitation. Each disk has become prolate in
+the same sort of fashion as yielding globes do. Of course the fluid
+ocean takes this shape more easily and more completely than the solid
+earth can, and so here are the very oceanic humps we have been talking
+about, and about three feet high (Fig. 112). If there were a sea on the
+_moon_, its humps would be a good deal bigger; but there probably is no
+sea there, and if there were, the earth's tides are more interesting to
+us, at any rate to begin with.
+
+[Illustration: FIG. 112.--Earth and moon (earth's rotation neglected).]
+
+The humps as so far treated are always protruding in the earth-moon
+line, and are stationary. But now we have to remember that the earth is
+spinning inside them. It is not easy to see what precise effect this
+spin will have upon the humps, even if the world were covered with a
+uniform ocean; but we can see at any rate that however much they may get
+displaced, and they do get displaced a good deal, they cannot possibly
+be carried round and round. The whole explanation we have given of their
+causes shows that they must maintain some steady aspect with respect to
+the moon--in other words, they must remain stationary as the earth spins
+round. Not that the same identical water remains stationary, for in that
+case it would have to be dragged over the earth's equator at the rate of
+1,000 miles an hour, but the hump or wave-crest remains stationary. It
+is a true wave, or form only, and consists of continuously changing
+individual particles. The same is true of all waves, except breaking
+ones.
+
+Given, then, these stationary humps and the earth spinning on its axis,
+we see that a given place on the earth will be carried round and round,
+now past a hump, and six hours later past a depression: another six
+hours and it will be at the antipodal hump, and so on. Thus every six
+hours we shall travel from the region in space where the water is high
+to the region where it is low; and ignoring our own motion we shall say
+that the sea first rises and then falls; and so, with respect to the
+place, it does. Thus the succession of high and low water, and the two
+high tides every twenty-four hours, are easily understood in their
+easiest and most elementary aspect. A more complete account of the
+matter it will be wisest not to attempt: suffice it to say that the
+difficulties soon become formidable when the inertia of the water, its
+natural time of oscillation, the varying obliquity of the moon to the
+ecliptic, its varying distance, and the disturbing action of the sun are
+taken into consideration. When all these things are included, the
+problem becomes to ordinary minds overwhelming. A great many of these
+difficulties were successfully attacked by Laplace. Others remained for
+modern philosophers, among whom are Sir George Airy, Sir William
+Thomson, and Professor George Darwin.
+
+     I may just mention that the main and simplest effect of including
+     the inertia or momentum of the water is to dislocate the obvious
+     and simple connexion between high water and high moon; inertia
+     always tends to make an effect differ in phase by a quarter period
+     from the cause producing it, as may be illustrated by a swinging
+     pendulum. Hence high water is not to be expected when the
+     tide-raising force is a maximum, but six hours later; so that,
+     considering inertia and neglecting friction, there would be low
+     water under the moon. Including friction, something nearer the
+     equilibrium state of things occurs. With _sufficient_ friction the
+     motion becomes dead-beat again, _i.e._ follows closely the force
+     that causes it.
+
+Returning to the elementary discussion, we see that the rotation of the
+earth with respect to the humps will not be performed in exactly
+twenty-four hours, because the humps are travelling slowly after the
+moon, and will complete a revolution in a month in the same direction as
+the earth is rotating. Hence a place on the earth has to catch them up,
+and so each high tide arrives later and later each day--roughly
+speaking, an hour later for each day tide; not by any means a constant
+interval, because of superposed disturbances not here mentioned, but on
+the average about fifty minutes.
+
+We see, then, that as a result of all this we get a pair of humps
+travelling all over the surface of the earth, about once a day. If the
+earth were all ocean (and in the southern hemisphere it is nearly all
+ocean), then they would go travelling across the earth, tidal waves
+three feet high, and constituting the mid-ocean tides. But in the
+northern hemisphere they can only thus journey a little way without
+striking land. As the moon rises at a place on the east shores of the
+Atlantic, for instance, the waters begin to flow in towards this place,
+or the tide begins to rise. This goes on till the moon is overhead and
+for some time afterwards, when the tide is at its highest. The hump then
+follows the moon in its apparent journey across to America, and there
+precipitates itself upon the coast, rushing up all the channels, and
+constituting the land tide. At the same time, the water is dragged away
+from the east shores, and so _our_ tide is at its lowest. The same thing
+repeats itself in a little more than twelve hours again, when the other
+hump passes over the Atlantic, as the moon journeys beneath the earth,
+and so on every day.
+
+     In the free Southern Ocean, where land obstruction is comparatively
+     absent, the water gets up a considerable swing by reason of its
+     accumulated momentum, and this modifies and increases the open
+     ocean tides there. Also for some reason, I suppose because of the
+     natural time of swing of the water, one of the humps is there
+     usually much larger than the other; and so places in the Indian and
+     other offshoots of the Southern Ocean get their really high tide
+     only once every twenty-four hours. These southern tides are in fact
+     much more complicated than those the British Isles receive. Ours
+     are singularly simple. No doubt some trace of the influence of the
+     Southern Ocean is felt in the North Atlantic, but any ocean
+     extending over 90 deg. of longitude is big enough to have its own
+     tides generated; and I imagine that the main tides we feel are thus
+     produced on the spot, and that they are simple because the
+     damping-out being vigorous, and accumulated effects small, we feel
+     the tide-producing forces more directly. But for authoritative
+     statements on tides, other books must be read. I have thought, and
+     still think, it best in an elementary exposition to begin by a
+     consideration of the tide-generating forces as if they acted on a
+     non-rotating earth. It is the tide generating forces, and not the
+     tides themselves, that are really represented in Figs. 112 and 114.
+     The rotation of the earth then comes in as a disturbing cause. A
+     more complete exposition would begin with the rotating earth, and
+     would superpose the attraction of the moon as a disturbing cause,
+     treating it as a problem in planetary perturbation, the ocean being
+     a sort of satellite of the earth. This treatment, introducing
+     inertia but ignoring friction and land obstruction, gives low water
+     in the line of pull, and high water at right angles, or where the
+     pull is zero; in the same sort of way as a pendulum bob is highest
+     where most force is pulling it down, and lowest where no force is
+     acting on it. For a clear treatment of the tides as due to the
+     perturbing forces of sun and moon, see a little book by Mr. T.K.
+     Abbott of Trinity College, Dublin. (Longman.)
+
+[Illustration: FIG. 113.--Maps showing how comparatively free from land
+obstruction the ocean in the Southern Hemisphere is.]
+
+If the moon were the only body that swung the earth round, this is all
+that need be said in an elementary treatment; but it is not the only
+one. The moon swings the earth round once a month, the sun swings it
+round once a year. The circle of swing is bigger, but the speed is so
+much slower that the protuberance produced is only one-third of that
+caused by the monthly whirl; _i.e._ the simple solar tide in the open
+sea, without taking momentum into account, is but a little more than a
+foot high, while the simple lunar tide is about three feet. When the two
+agree, we get a spring tide of four feet; when they oppose each other,
+we get a neap tide of only two feet. They assist each other at full moon
+and at new moon. At half-moon they oppose each other. So we have spring
+tides regularly once a fortnight, with neap tides in between.
+
+[Illustration: FIG. 114.--Spring and neap tides.]
+
+Fig. 114 gives the customary diagrams to illustrate these simple things.
+You see that when the moon and sun act at right angles (_i.e._ at every
+half-moon), the high tides of one coincide with the low tides of the
+other; and so, as a place is carried round by the earth's rotation, it
+always finds either solar or else lunar high water, and only experiences
+the difference of their two effects. Whereas, when the sun and moon act
+in the same line (as they do at new and full moon), their high and low
+tides coincide, and a place feels their effects added together. The tide
+then rises extra high and falls extra low.
+
+[Illustration: FIG. 115.--Tidal clock. The position of the disk B shows
+the height of the tide. The tide represented is a nearly high tide eight
+feet above mean level.]
+
+Utilizing these principles, a very elementary form of tidal-clock, or
+tide-predicter, can be made, and for an open coast station it really
+would not give the tides so very badly. It consists of a sort of clock
+face with two hands, one nearly three times as long as the other. The
+short hand, CA, should revolve round C once in twelve hours, and the
+vertical height of its end A represents the height of the solar tide on
+the scale of horizontal lines ruled across the face of the clock. The
+long hand, AB, should revolve round A once in twelve hours and
+twenty-five minutes, and the height of its end B (if A were fixed on the
+zero line) would represent the lunar tide. The two revolutions are made
+to occur together, either by means of a link-work parallelogram, or,
+what is better in practice, by a string and pulleys, as shown; and the
+height of the end point, B, of the third side or resultant, CB, read off
+on a scale of horizontal parallel lines behind, represents the
+combination or actual tide at the place. Every fortnight the two will
+agree, and you will get spring tides of maximum height CA + AB; every
+other fortnight the two will oppose, and you will get neap tides of
+maximum height CA-AB.
+
+Such a clock, if set properly and driven in the ordinary way, would then
+roughly indicate the state of the tide whenever you chose to look at it
+and read the height of its indicating point. It would not indeed be very
+accurate, especially for such an inclosed station as Liverpool is, and
+that is probably why they are not made. A great number of disturbances,
+some astronomical, some terrestrial, have to be taken into account in
+the complete theory. It is not an easy matter to do this, but it can be,
+and has been, done; and a tide-predicter has not only been constructed,
+but two of them are in regular work, predicting the tides for years
+hence--one, the property of the Indian Government, for coast stations of
+India; the other for various British and foreign stations, wherever the
+necessary preliminary observations have been made. These machines are
+the invention of Sir William Thomson. The tide-tables for Indian ports
+are now always made by means of them.
+
+[Illustration: FIG. 116.--Sir William Thomson (Lord Kelvin).]
+
+[Illustration: FIG. 117.--Tide-gauge for recording local tides, a
+pencil moved up and down by a float writes on a drum driven by
+clockwork.]
+
+The first thing to be done by any port which wishes its tides to be
+predicted is to set up a tide-gauge, or automatic recorder, and keep it
+working for a year or two. The tide-gauge is easy enough to understand:
+it marks the height of the tide at every instant by an irregular curved
+line like a barometer chart (Fig. 117). These observational curves so
+obtained have next to be fed into a fearfully complex machine, which it
+would take a whole lecture to make even partially intelligible, but Fig.
+118 shows its aspect. It consists of ten integrating machines in a row,
+coupled up and working together. This is the "harmonic analyzer," and
+the result of passing the curve through this machine is to give you all
+the constituents of which it is built up, viz. the lunar tide, the solar
+tide, and eight of the sub-tides or disturbances. These ten values are
+then set off into a third machine, the tide-predicter proper. The
+general mode of action of this machine is not difficult to understand.
+It consists of a string wound over and under a set of pulleys, which are
+each set on an excentric, so as to have an up-and-down motion. These
+up-and-down motions are all different, and there are ten of these
+movable pulleys, which by their respective excursions represent the
+lunar tide, the solar tide, and the eight disturbances already analyzed
+out of the tide-gauge curve by the harmonic analyzer. One end of the
+string is fixed, the other carries a pencil which writes a trace on a
+revolving drum of paper--a trace which represents the combined motion of
+all the pulleys, and so predicts the exact height of the tide at the
+place, at any future time you like. The machine can be turned quite
+quickly, so that a year's tides can be run off with every detail in
+about half-an-hour. This is the easiest part of the operation. Nothing
+has to be done but to keep it supplied with paper and pencil, and turn a
+handle as if it were a coffee-mill instead of a tide-mill. (Figs. 119
+and 120.)
+
+[Illustration: FIG. 118.--Harmonic analyzer; for analyzing out the
+constituents from a set of observational curves.]
+
+My subject is not half exhausted. I might go on to discuss the question
+of tidal energy--whether it can be ever utilized for industrial
+purposes; and also the very interesting question whence it comes. Tidal
+energy is almost the only terrestrial form of energy that does not
+directly or indirectly come from the sun. The energy of tides is now
+known to be obtained at the expense of the earth's rotation; and

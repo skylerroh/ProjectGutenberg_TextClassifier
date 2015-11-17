@@ -1,0 +1,356 @@
+"Braun's a good guy," said Haney. "Crazy, that's all. He picked that
+fight. Picked it! Up there! Coulda been him knocked off--and I'd ha'
+been in a mess! I'll see him tonight."
+
+The midget said something biting in his peculiarly cracked and brittle
+voice.
+
+The bus rolled and rolled and rolled. It was a long twenty miles to
+Bootstrap. The desert outside the bus windows was utterly black and
+featureless, but once a convoy of trucks passed, going to the Shed.
+
+Presently, though, lights twinkled in the night. Again the bus slowed,
+in column with the others. Then there were barrackslike buildings,
+succeeding each other, and then there was a corner and suddenly the
+outside was ablaze with light. The busses drew up to the curb and
+stopped, and everybody was immediately in a great hurry to get out,
+shoving unnecessarily, and Joe let himself be carried along by the
+crowd.
+
+He found himself on the sidewalk with bright neon signs up and down the
+street. He was in the midst of the crowd which was the middle shift
+released. It eddied and dispersed without seeming to lessen. Most of the
+figures in sight were men. There were very, very few women. The neon
+signs proclaimed that here one could buy beer, and that this was Fred's
+Place, and that was Sid's Steak Joint. Bowling. Pool. A store--still
+open for this shift's trade--sold fancy shirts and strictly practical
+work clothes and highly eccentric items of personal adornment. A movie
+house. A second. A third. Somewhere a record shop fed repetitious music
+to the night air. There was movement and crowding and jostling, but the
+middle of the street was almost empty save for the busses. There were
+some bicycles, but practically no other wheeled traffic. After all,
+Bootstrap was strictly a security town. A man could leave whenever he
+chose, but there were formalities, and personal cars weren't practical.
+
+"Chief'll be yonder," said Haney in Joe's ear. "Come along."
+
+They shouldered their way along the sidewalk. The passers-by were of a
+type--construction men. Somebody here had taken part in the building of
+every skyscraper and bridge and dam put up in Joe's lifetime. They could
+have been kept away from the Space Platform job only by a flat refusal
+by security to let them be hired.
+
+Haney and Joe moved toward Sid's Steak Joint, with Mike the midget
+marching truculently between them. Men nodded to them as they passed.
+Joe marshaled in his mind what he was going to tell the Chief. He had a
+trick for fixing the pilot gyros. A speck of rust would spoil them, and
+they had been through a plane crash and a fire and explosions, but his
+trick would do, in ten days or less, what the plant back home had needed
+four months to accomplish. The trick was something to gloat over.
+
+Into Sid's Steak Joint. A juke box was playing. Over in a booth, four
+men ate hungrily, with a slot TV machine in the wall beside them showing
+wrestling matches out in San Francisco. A waiter carried a huge tray
+from which steam and fragrant odors arose.
+
+There was the Chief, dark and saturnine to look at, with his straight
+black hair gleaming in the light. He was a Mohawk, and he and his tribe
+had taken to steel construction work a long time back. They were good.
+There were not many big construction jobs on which the Chief's tribesmen
+were not to be found working. Forty of them had died together in the
+worst construction accident in history, when a bridge on its way to
+completion collapsed in the making, but there were a dozen or more at
+work on the Space Platform now. The Chief had essayed machine-tool work
+at the Kenmore plant, and he'd been good. He'd pitched on the plant
+baseball team, and he'd sung bass in the church choir, but there had
+been nobody else around who talked Indian, and he'd gotten lonely. At
+that, though, he'd left because the Space Platform began and wild horses
+couldn't have kept him away from a job like that!
+
+He'd held a table for Haney and Mike, but his eyes widened when he saw
+Joe. Then he grinned and almost upset the table to stand up and greet
+him.
+
+"Son-of-a-gun!" he said warmly. "What you doin' here?"
+
+"Right now," said Joe. "I'm looking for you. I've got a job for you."
+
+The Chief, still grinning, shook his head.
+
+"Not me, I'm here till the Platform's done."
+
+"It's on the job," said Joe. "I've got to get a crew together to repair
+something I brought out here today and that got smashed in the landing."
+
+The four of them sat down. Mike's chin was barely above the table top.
+The Chief waved to a waiter. "Steaks all around!" he bellowed. Then he
+bent toward Joe. "Shoot it!"
+
+Joe told his story. Concisely. The pilot gyros, which had to be perfect,
+had been especially gunned at by saboteurs. An attack with possibly
+stolen proximity-fused rockets. The plane was booby-trapped, and
+somebody at an airfield had had a chance to spring the trap. So it was
+wreckage. Crashed and burned on landing.
+
+The Chief growled. Haney pressed his lips together. The eyes of Mike
+were burning.
+
+"Plenty of that sabotage stuff," growled the Chief. "Hard to catch the
+so-and-sos. Smash the gyros and the take-off'd have to wait till new
+ones got made--and that's more time for more sabotage."
+
+Joe said carefully: "I think it can be licked. Listen a minute, will
+you?"
+
+The Chief fixed his eyes upon him.
+
+"The gyros have to be rebalanced," said Joe. "They have to spin on their
+own center of gravity. At the plant, they set them up, spun them, and
+found which side was heavy. They took metal off till it ran smoothly at
+five hundred r.p.m. Then they spun it at a thousand. It vibrated. They
+found imbalance that was too small to show up before. They fixed that.
+They speeded it up. And so on. They tried to make the center of gravity
+the center of the shaft by trimming off the weight that put the center
+of gravity somewhere else. Right?"
+
+The Chief said irritably: "No other way to do it! No other way!"
+
+"I saw one," said Joe. "When they cleaned up the wreck at the airfield,
+they heaved up the crates with a crane. The slings were twisted. Every
+crate spun as it rose. But not one wobbled! They found their own centers
+of gravity and spun around them!"
+
+The Chief scowled, deep in thought. Then his face went blank.
+
+"By the holy mud turtle!" he grunted. "I get it!"
+
+Joe said, with very great pains not to seem triumphant, "Instead of
+spinning the shaft and trimming the rotor, we'll spin the rotor and trim
+the shaft. We'll form the shaft around the center of gravity, instead of
+trying to move the center of gravity to the middle of the shaft. We'll
+spin the rotors on a flexible bearing base. I think it'll work."
+
+Surprisingly, it was Mike the midget who said warmly, "You got it! Yes,
+sir, you got it!"
+
+The Chief took a deep breath. "Yeah! And d'you know how I know? The
+Plant built a high-speed centrifuge once. Remember?" He grinned with the
+triumph Joe concealed. "It was just a plate with a shaft in the middle.
+There were vanes on the plate. It fitted in a shaft hole that was much
+too big. They blew compressed air up the shaft hole. It floated the
+plate up, the air hit the vanes and spun the plate--and it ran as sweet
+as honey! Balanced itself and didn't wobble a bit! We'll do something
+like that! Sure!"
+
+"Will you work on it with me?" asked Joe. "We'll need a sort of
+crew--three or four altogether. Have to figure out the stuff we need. I
+can ask for anybody I want. I'm asking for you. You pick the others."
+
+The Chief grinned broadly. "Any objections, Haney? You and Mike and me
+and Joe here? Look!"
+
+He pulled a pencil out of his pocket. He started to draw on the plastic
+table top, and then took a paper napkin instead.
+
+"Something like this----"
+
+The steaks came, sizzling on the platters they'd been cooked in. The
+outside was seared, and the inside was hot and deliciously rare.
+Intellectual exercises like the designing of a machine-tool operation
+could not compete with such aromas and sights and sounds. The four of
+them fell to.
+
+But they talked as they ate. Absorbed and often with their mouths full,
+frequently with imperfect articulation, but with deepening satisfaction
+as the steaks vanished and the method they'd use took form in their
+minds. It wouldn't be wholly simple, of course. When the rotors were
+spinning about their centers of gravity, trimming off the shaft would
+change the center of gravity. But the change would be infinitely less
+than trimming off the rotors' rims. If they spun the rotors and used an
+abrasive on the high side of the shaft as it turned....
+
+"Going to have precession!" warned Mike. "Have to have a polishing
+surface. Quarter turn behind the cutter. That'll hold it."
+
+Joe only remembered afterward to be astonished that Mike would know gyro
+theory. At the moment he merely swallowed quickly to get the words out.
+
+"Right! And if we cut too far down we can plate the bearing up to
+thickness and cut it down again----"
+
+"Plate it up with iridium," said the Chief. He waved a steak knife.
+"Man! This is gonna be fun! No tolerance you say, Joe?"
+
+"No tolerance," agreed Joe. "Accurate within the limits of measurement."
+
+The Chief beamed. The Platform was a challenge to all of humanity. The
+pilot gyro was essential to the functioning of the Platform. To provide
+that necessity against impossible obstacles was a challenge to the four
+who were undertaking it.
+
+"Some fun!" repeated the Chief, blissfully.
+
+They ate their steaks, talking. They consumed huge slabs of apple pie
+with preposterous mounds of ice cream on top, still talking urgently.
+They drank coffee, interrupting each other to draw diagrams. They used
+up all the paper napkins, and were still at it when someone came heavily
+toward the table. It was the stocky man who had fought with Haney on the
+Platform that day. Braun.
+
+He tapped Haney on the shoulder. The four at the table looked up.
+
+"We hadda fight today," said Braun in a queer voice. He was oddly pale.
+"We didn't finish. You wanna finish?"
+
+Haney growled.
+
+"That was a fool business," he said angrily. "That ain't any place to
+fight, up on the job! You know it!"
+
+"Yeah," said Braun in the same odd voice. "You wanna finish it now?"
+
+Haney said formidably: "I'm not dodgin' any fight. I didn't dodge it
+then. I'm not dodgin' it now. You picked it. It was crazy! But if you
+got over the craziness----"
+
+Braun smiled a remarkably peculiar smile. "I'm still crazy. We finish,
+huh?"
+
+Haney pushed back his chair and stood up grimly. "Okay, we finish it!
+You coulda killed me. I coulda killed you too, with that fall ready for
+either of us."
+
+"Sure! Too bad nobody got killed," said Braun.
+
+"You fellas wait," said Haney angrily to Joe and the rest. "There's a
+storeroom out back. Sid'll let us use it."
+
+But the Chief pushed back his chair.
+
+"Uh-uh," he said, shaking his head. "We're watchin' this."
+
+Haney spoke with elaborate courtesy: "You mind, Braun? Want to get some
+friends of yours, too?"
+
+"I got no friends," said Braun. "Let's go."
+
+The Chief went authoritatively to the owner of Sid's Steak Joint. He
+paid the bill, talking. The owner of the place negligently jerked his
+thumb toward the rear. This was not an unparalleled request--for the use
+of a storeroom so that two men could batter each other undisturbed.
+Bootstrap was a law-abiding town, because to get fired from work on the
+Platform was to lose a place in the most important job in history. So it
+was inevitable that the settlement of quarrels in private should become
+commonplace.
+
+The Chief leading, they filed through the kitchen and out of doors. The
+storeroom lay beyond. The Chief went in and switched on the light. He
+looked about and was satisfied. It was almost empty, save for stacked
+cartons in one corner. Braun was already taking off his coat.
+
+"You want rounds and stuff?" demanded the Chief.
+
+"I want fight," said Braun thickly.
+
+"Okay, then," snapped the Chief. "No kickin' or gougin'. A man's down,
+he has a chance to get up. That's all the rules. Right?"
+
+Haney, stripping off his coat in turn, grunted an assent. He handed his
+coat to Joe. He faced his antagonist.
+
+It was a curious atmosphere for a fight. There were merely the plank
+walls of the storeroom with a single dangling light in the middle and an
+unswept floor beneath. The Chief stood in the doorway, scowling. This
+didn't feel right. There was not enough hatred in evidence to justify
+it. There was doggedness and resolution enough, but Braun was deathly
+white and if his face was contorted--and it was--it was not with the
+lust to batter and injure and maim. It was something else.
+
+The two men faced each other. And then the stocky, swarthy Braun swung
+at Haney. The blow had sting in it but nothing more. It almost looked as
+if Braun were trying to work himself up to the fight he'd insisted on
+finishing. Haney countered with a roundhouse blow that glanced off
+Braun's cheek. And then they bore in at each other, slugging without
+science or skill.
+
+Joe watched. Braun launched a blow that hurt, but Haney sent him reeling
+back. He came in doggedly again, and swung and swung, but he had no idea
+of boxing. His only idea was to slug. He did slug. Haney had been
+peevish rather than angry. Now he began to glower. He began to take the
+fight to Braun.
+
+He knocked Braun down. Braun staggered up and rushed. A wildly flailing
+fist landed on Haney's ear. He doubled Braun up with a wallop to the
+midsection. Braun came back, fists swinging.
+
+Haney closed one eye for him. He came back. Haney shook him from head to
+foot with a chest blow. He came back. Haney split his lip and loosened a
+tooth. He came back.
+
+The Chief said sourly: "This ain't a fight. Quit it, Haney! He don't
+know how!"
+
+Haney tried to draw away, but Braun swarmed on him, striking fiercely
+until Haney had to floor him again. He dragged himself up and rushed at
+Haney--and was knocked down again. Haney stood over him, panting
+furiously.
+
+"Quit it, y'fool! What's the matter with you?"
+
+Braun started to get up again. The Chief interfered and held him, while
+Haney glared.
+
+"He ain't going to fight any more, Braun," pronounced the Chief firmly.
+"You ain't got a chance. This fight's over. You had enough."
+
+Braun was bloody and horribly battered, but he panted: "He's got
+enough?"
+
+"Are you out o' your head?" demanded the Chief. "He ain't got a mark on
+him!"
+
+"I ain't--got enough," panted Braun, "till he's got--enough!"
+
+His breath was coming in soblike gasps, the result of body blows. It
+hadn't been a fight but a beating, administered by Haney. But Braun
+struggled to get up.
+
+Mike the midget said brittlely: "You got enough, Haney. You're
+satisfied. Tell him so."
+
+"Sure I'm satisfied," snorted Haney. "I don't want to hit him any more.
+I got enough of that!"
+
+Braun panted: "Okay! Okay!"
+
+The Chief let him get to his feet. He went groggily to his coat. He
+tried to put himself into it. Mike caught Joe's eye and nodded
+meaningfully. Joe helped Braun into the coat. There was silence, save
+for Braun's heavy, labored breathing.
+
+He moved unsteadily toward the door. Then he stopped.
+
+"Haney," he said effortfully, "I don't say I'm sorry for fighting you
+today. I fight first. But now I say I am sorry. You are good guy, Haney.
+I was crazy. I--got reason."
+
+He stumbled out of the door and was gone. The four who were left behind
+stared at each other.
+
+"What's the matter with him?" demanded Haney blankly.
+
+"He's nuts," said the Chief. "If he was gonna apologize----"
+
+Mike shook his head.
+
+"He wouldn't apologize," he said brittlely, "because he thought you
+might think he was scared. But when he'd proved he wasn't scared of a
+beating--then he could say he was sorry." He paused. "I've seen guys I
+liked a lot less than him."
+
+Haney put on his coat, frowning.
+
+"I don't get it," he rumbled. "Next time I see him----"
+
+"You won't," snapped Mike. "None of us will. I'll bet on it."
+

@@ -1,0 +1,576 @@
+fused through the glass, the ends of the wires within the tube being
+separated by a space of 2 mm or 3 mm. The tube is entirely filled with
+mercury and inverted in a vessel of the same liquid. Pure hydrogen is
+passed into the tube until it is about one fourth filled. The volume of
+the gas is then read off on the scale and reduced to standard
+conditions. Approximately an equal volume of pure oxygen is then
+introduced and the volume again read off and reduced to standard
+conditions. This gives the total volume of the two gases. From this the
+volume of the oxygen introduced may be determined by subtracting from
+it the volume of the hydrogen. The combination of the two gases is now
+brought about by connecting the two platinum wires with an induction
+coil and passing a spark from one wire to the other. Immediately a
+slight explosion occurs. The mercury in the tube is at first depressed
+because of the expansion of the gases due to the heat generated, but at
+once rebounds, taking the place of the gases which have combined to form
+water. The volume of the water in the liquid state is so small that it
+may be disregarded in the calculations. In order that the temperature of
+the residual gas and the mercury may become uniform, the apparatus is
+allowed to stand for a few minutes. The volume of the gas is then read
+off and reduced to standard conditions, so that it may be compared with
+the volumes of the hydrogen and oxygen originally taken. The residual
+gas is then tested in order to ascertain whether it is hydrogen or
+oxygen, experiments having proved that it is never a mixture of the two.
+From the information thus obtained the composition of the water may be
+calculated. Thus, suppose the readings were as follows:
+
+Volume of hydrogen taken                                          20.3 cc.
+Volume of hydrogen and oxygen                                     38.7
+Volume of oxygen                                                  18.4
+Volume of gas left after combination has taken place (oxygen)      8.3
+
+The 20.3 cc. of hydrogen have combined with 18.4 cc. minus 8.3 cc. (or
+10.1 cc.) of oxygen; or approximately 2 volumes of hydrogen have
+combined with 1 of oxygen. Since oxygen is 15.88 times as heavy as
+hydrogen, the proportion by weight in which the two gases combine is 1
+part of hydrogen to 7.94 of oxygen.
+
+~Precaution.~ If the two gases are introduced into the eudiometer in the
+exact proportions in which they combine, after the combination has taken
+place the liquid will rise and completely fill the tube. Under these
+conditions, however, the tube is very likely to be broken by the sudden
+upward rush of the liquid. Hence in performing the experiment care is
+taken to introduce an excess of one of the gases.
+
+~A more convenient form of eudiometer.~ A form of eudiometer (Fig. 21)
+different from that shown on page 43 is sometimes used to avoid the
+calculations necessary in reducing the volumes of the gases to the same
+conditions of temperature and pressure in order to make comparisons.
+With this apparatus it is possible to take the readings of the volumes
+under the same conditions of temperature and pressure, and thus compare
+them directly. The apparatus (Fig. 21) is filled with mercury and the
+gases introduced into the tube A. The experiment is carried out as in
+the preceding one, except that before taking the reading of the gas
+volumes, mercury is either added to the tube B or withdrawn from it by
+means of the stopcock C, until it stands at exactly the same height in
+both tubes. The gas inclosed in tube A is then under atmospheric
+pressure; and since but a few minutes are required for performing the
+experiment, the conditions of temperature and pressure may be regarded
+as constant. Hence the volumes of the hydrogen and oxygen and of the
+residual gas may be read off from the tube and directly compared.
+
+[Illustration: Fig. 21]
+
+~Method used by Berzelius and Dumas.~ The method used by these
+investigators enables us to determine directly the proportion by weight
+in which the hydrogen and oxygen combine. Fig. 22 illustrates the
+apparatus used in making this determination. B is a glass tube
+containing copper oxide. C and D are glass tubes filled with calcium
+chloride, a substance which has great affinity for water. The tubes B
+and C, including their contents, are carefully weighed, and the
+apparatus connected as shown in the figure. A slow current of pure
+hydrogen is then passed through A, and that part of the tube B which
+contains copper oxide is carefully heated. The hydrogen combines with
+the oxygen present in the copper oxide to form water, which is absorbed
+by the calcium chloride in tube C. The calcium chloride in tube D
+prevents any moisture entering tube C from the air. The operation is
+continued until an appreciable amount of water has been formed. The
+tubes B and C are then weighed once more. The loss of weight in the
+tube B will exactly equal the weight of oxygen taken up from the
+copper oxide in the formation of the water. The gain in weight in the
+tube C will exactly equal the weight of the water formed. The
+difference in these weights will of course equal the weight of the
+hydrogen present in the water formed.
+
+[Illustration: Fig. 22]
+
+~Dumas' results.~ The above method for the determination of the
+composition of water was first used by Berzelius in 1820. The work was
+repeated in 1843 by Dumas, the average of whose results is as follows:
+
+Weight of water formed                  236.36 g.
+Oxygen given up by the copper oxide     210.04
+                                        ------
+Weight of hydrogen present in water      26.32
+
+According to this experiment the ratio of hydrogen to oxygen in water is
+therefore 26.32 to 210.04, or as l to 7.98
+
+~Morley's results.~ The American chemist Morley has recently determined
+the composition of water, extreme precautions being taken to use pure
+materials and to eliminate all sources of error. The hydrogen and oxygen
+which combined, as well as the water formed, were all accurately
+weighed. According to Morley's results, 1 part of hydrogen by weight
+combines with 7.94 parts of oxygen to form water.
+
+~Comparison of results obtained.~ From the above discussions it is easy to
+see that it is by experiment alone that the composition of a compound
+can be determined. Different methods may lead to slightly different
+results. The more accurate the method chosen and the greater the skill
+with which the experiment is carried out, the more accurate will be the
+results. It is generally conceded by chemists that the results obtained
+by Morley in reference to the composition of water are the most accurate
+ones. In accordance with these results, then, _water must be regarded as
+a compound containing hydrogen and oxygen in the proportion of 1 part by
+weight of hydrogen to 7.94 parts by weight of oxygen_.
+
+~Relation between the volume of aqueous vapor and the volumes of the
+hydrogen and oxygen which combine to form it.~ When the quantitative
+synthesis of water is carried out in the eudiometer as described above,
+the water vapor formed by the union of the hydrogen and oxygen at once
+condenses. The volume of the resulting liquid is so small that it may be
+disregarded in making the calculations. If, however, the experiment is
+carried out at a temperature of 100 deg. or above, the water-vapor formed is
+not condensed and it thus becomes possible to compare the volume of the
+vapor with the volumes of hydrogen and oxygen which combined to form it.
+This can be accomplished by surrounding the arm A of the eudiometer
+(Fig. 23) with the tube B through which is passed the vapor obtained
+by boiling some liquid which has a boiling point above 100 deg.. In this way
+it has been proved that 2 volumes of hydrogen and 1 volume of oxygen
+combine to form exactly 2 volumes of water vapor, the volumes all being
+measured under the same conditions of temperature and pressure. It will
+be noted that the relation between these volumes may be expressed by
+whole numbers. The significance of this very important fact will be
+discussed in a subsequent chapter.
+
+[Illustration: Fig. 23]
+
+~Occurrence of water.~ Water not only covers about three fourths of the
+surface of the earth, and is present in the atmosphere in the form of
+moisture, but it is also a common constituent of the soil and rocks and
+of almost every form of animal and vegetable organism. The human body is
+nearly 70% water. This is derived not only from the water which we drink
+but also from the food which we eat, most of which contains a large
+percentage of water. Thus potatoes contain about 78% of water, milk 85%,
+beef over 50%, apples 84%, tomatoes 94%.
+
+~Impurities in water.~ Chemically pure water contains only hydrogen and
+oxygen. Such a water never occurs in nature, however, for being a good
+solvent, it takes up certain substances from the rocks and soil with
+which it comes in contact. When such waters are evaporated these
+substances are deposited in the form of a residue. Even rain water,
+which is the purest form occurring in nature, contains dust particles
+and gases dissolved from the atmosphere. The foreign matter in water is
+of two kinds, namely, _mineral_, such as common salt and limestone, and
+_organic_, that is the products of animal and vegetable life.
+
+     ~Mineral matter in water.~ The amount and nature of the mineral
+     matter present in different waters vary greatly, depending on
+     the character of the rocks and soil with which the waters come
+     in contact. The more common of the substances present are
+     common salt and compounds of calcium, magnesium, and iron. One
+     liter of the average river water contains about 175 mg. of
+     mineral matter. Water from deep wells naturally contains more
+     mineral matter than river water, generally two or three times
+     as much, while sea water contains as much as 35,000 mg. to the
+     liter.
+
+~Effect of impurities on health.~ The mineral matter in water does not,
+save in very exceptional cases, render the water injurious to the human
+system. In fact the presence of a certain amount of such matter is
+advantageous, supplying the mineral constituents necessary for the
+formation of the solid tissues of the body. The presence of organic
+matter, on the other hand, must always be regarded with suspicion. This
+organic matter may consist not only of the products of animal and
+vegetable life but also of certain microscopic forms of living organisms
+which are likely to accompany such products. Contagious diseases are
+known to be due to the presence in the body of minute living organisms
+or germs. Each disease is caused by its own particular kind of germ.
+Through sewage these germs may find their way from persons afflicted
+with disease into the water supply, and it is principally through the
+drinking water that certain of these diseases, especially typhoid fever,
+are spread. It becomes of great importance, therefore, to be able to
+detect such matter when present in drinking water as well as to devise
+methods whereby it can be removed or at least rendered harmless.
+
+     ~Analysis of water.~ The mineral analysis of a water is, as the
+     name suggests, simply the determination of the mineral matter
+     present. Sanitary analysis, on the other hand, is the
+     determination of the organic matter present. The physical
+     properties of a water give no conclusive evidence as to its
+     purity, since a water may be unfit for drinking purposes and
+     yet be perfectly clear and odorless. Neither can any reliance
+     be placed on the simple methods often given for testing the
+     purity of water. Only the trained chemist can carry out such
+     methods of analysis as can be relied upon.
+
+[Illustration: Fig. 24]
+
+~Purification of water.~ Three general methods are used for the
+purification of water, namely, _distillation_, _filtration_, and
+_boiling_.
+
+1. _Distillation._ The most effective way of purifying natural waters is
+by the process of distillation. This consists in boiling the water and
+condensing the steam. Fig. 24 illustrates the process of distillation,
+as commonly conducted in the laboratory. Ordinary water is poured into
+the flask A and boiled. The steam is conducted through the condenser
+B, which consists essentially of a narrow glass tube sealed within a
+larger one, the space between the two being filled with cold water,
+which is admitted at C and escapes at D. The inner tube is thus kept
+cool and the steam in passing through it is condensed. The water formed
+by the condensation of the steam collects in the receiver E and is
+known as _distilled_ water. Such water is practically pure, since the
+impurities are nonvolatile and remain in the flask A.
+
+     ~Commercial distillation.~ In preparing distilled water on a
+     large scale, the steam is generated in a boiler or other metal
+     container and condensed by passing it through a pipe made of
+     metal, generally tin. This pipe is wound into a spiral and is
+     surrounded by a current of cold water. Distilled water is used
+     by the chemist in almost all of his work. It is also used in
+     the manufacture of artificial ice and for drinking water.
+
+     ~Fractional distillation.~ In preparing distilled water, it is
+     evident that if the natural water contains some substance which
+     is volatile its vapor will pass over and be condensed with the
+     steam, so that the distillate will not be pure water. Even such
+     mixtures, however, may generally be separated by repeated
+     distillation. Thus, if a mixture of water (boiling point 100 deg.)
+     and alcohol (boiling point 78 deg.) is distilled, the alcohol,
+     having the lower boiling point, tends to distill first,
+     followed by the water. The separation of the two is not
+     perfect, however, but may be made nearly so by repeated
+     distillations. The process of separating a mixture of volatile
+     substances by distillation is known as _fractional
+     distillation_.
+
+2. _Filtration._ The process of distillation practically removes all
+nonvolatile foreign matter, mineral as well as organic. In purifying
+water for drinking purposes, however, it is only necessary to eliminate
+the latter or to render it harmless. This is ordinarily done either by
+filtration or boiling. In filtration the water is passed through some
+medium which will retain the organic matter. Ordinary charcoal is a
+porous substance and will condense within its pores the organic matter
+in water if brought in contact with it. It is therefore well adapted to
+the construction of filters. Such filters to be effective must be kept
+clean, since it is evident that the charcoal is useless after its pores
+are filled. A more effective type of filter is the Chamberlain-Pasteur
+filter. In this the water is forced through a porous cylindrical cup,
+the pores being so minute as to strain out the organic matter.
+
+     ~City filtration beds.~ For purifying the water supply of cities,
+     large filtration beds are prepared from sand and gravel, and
+     the water is allowed to filter through these. Some of the
+     impurities are strained out by the filter, while others are
+     decomposed by the action of certain kinds of bacteria present
+     in the sand. Fig. 25 shows a cross section of a portion of the
+     filter used in purifying the water supply of Philadelphia. The
+     water filters through the sand and gravel and passes into the
+     porous pipe A, from which it is pumped into the city mains.
+     The filters are covered to prevent the water from freezing in
+     cold weather.
+
+[Illustration: Fig. 25]
+
+3. _Boiling._ A simpler and equally efficient method for purifying water
+for drinking purposes consists in boiling the water. It is the germs in
+water that render it dangerous to health. These germs are living forms
+of matter. If the water is boiled, the germs are killed and the water
+rendered safe. While these germs are destroyed by heat, cold has little
+effect upon them. Thus Dewar, in working with liquid hydrogen, exposed
+some of these minute forms of life to the temperature of boiling
+hydrogen (-252 deg.) without killing them.
+
+~Self-purification of water.~ It has long been known that water
+contaminated with organic matter tends to purify itself when exposed to
+the air. This is due to the fact that the water takes up a small amount
+of oxygen from the air, which gradually oxidizes the organic matter
+present in the water. While water is undoubtedly purified in this way,
+the method cannot be relied upon to purify a contaminated water so as to
+render it safe for drinking purposes.
+
+~Physical properties.~ Pure water is an odorless and tasteless liquid,
+colorless in thin layers, but having a bluish tinge when observed
+through a considerable thickness. It solidifies at 0 deg. and boils at 100 deg.
+under the normal pressure of one atmosphere. If the pressure is
+increased, the boiling point is raised. When water is cooled it steadily
+contracts until the temperature of 4 deg. is reached: it then expands. Water
+is remarkable for its ability to dissolve other substances, and is the
+best solvent known. Solutions of solids in water are more frequently
+employed in chemical work than are the solid substances, for chemical
+action between substances goes on more readily when they are in solution
+than it does when they are in the solid state.
+
+~Chemical properties.~ Water is a very stable substance, or, in other
+words, it does not undergo decomposition readily. To decompose it into
+its elements by heat alone requires a very high temperature; at 2500 deg.,
+for example, only about 5% of the entire amount is decomposed. Though
+very stable towards heat, water can be decomposed in other ways, as by
+the action of the electrical current or by certain metals.
+
+     ~Heat of formation and heat of decomposition are equal.~ The fact
+     that a very high temperature is necessary to decompose water
+     into hydrogen and oxygen is in accord with the fact that a
+     great deal of heat is evolved by the union of hydrogen and
+     oxygen; for it has been proved that the heat necessary to
+     decompose a compound into its elements (heat of decomposition)
+     is equal to the heat evolved in the formation of a compound
+     from its elements (heat of formation).
+
+~Water of crystallization.~ When a solid is dissolved in water and the
+resulting solution is allowed to evaporate, the solid separates out,
+often in the form of crystals. It has been found that the crystals of
+many compounds, although perfectly dry, give up a definite amount of
+water when heated, the substance at the same time losing its crystalline
+form. Such water is called _water of crystallization_. This varies in
+amount with different compounds, but is perfectly definite for the same
+compound. Thus, if a perfectly dry crystal of copper sulphate is
+strongly heated in a tube, water is evolved and condenses on the sides
+of the tube, the crystal crumbling to a light powder. The weight of the
+water evolved is always equal to exactly 36.07% of the weight of copper
+sulphate crystals heated. The water must therefore be in chemical
+combination with the substance composing the crystal; for if simply
+mixed with it or adhering to it, not only would the substance appear
+moist but the amount present would undoubtedly vary. The combination,
+however, must be a very weak one, since the water is often expelled by
+even a gentle heat. Indeed, in some cases the water is given up on
+simple exposure to air. Such compounds are said to be _efflorescent_.
+Thus a crystal of sodium sulphate (Glauber's salt) on exposure to air
+crumbles to a fine powder, owing to the escape of its water of
+crystallization. Other substances have just the opposite property: they
+absorb moisture when exposed to the air. For example, if a bit of dry
+calcium chloride is placed in moist air, in the course of a few hours it
+will have absorbed sufficient moisture to dissolve it. Such substances
+are said to be _deliquescent_. A deliquescent body serves as a good
+drying or _desiccating_ agent. We have already employed calcium chloride
+as an agent for absorbing the moisture from hydrogen. Many substances,
+as for example quartz, form crystals which contain no water of
+crystallization.
+
+     ~Mechanically inclosed water.~ Water of crystallization must be
+     carefully distinguished from water which is mechanically
+     inclosed in a crystal and which can be removed by powdering the
+     crystal and drying. Thus, when crystals of common salt are
+     heated, the water inclosed in the crystal is changed into steam
+     and bursts the crystal with a crackling sound. Such crystals
+     are said to _decrepitate_. That this water is not combined is
+     proved by the fact that the amount present varies and that it
+     has all the properties of water.
+
+~Uses of water.~ The importance of water in its relation to life and
+commerce is too well known to require comment. Its importance to the
+chemist has also been pointed out. It remains to call attention to the
+fact that it is used as a standard in many physical measurements. Thus
+0 deg. and 100 deg. on the centigrade scale are respectively the freezing and
+the boiling points of water under normal pressure. The weight of 1 cc.
+of water at its point of greatest density is the unit of weight in the
+metric system, namely, the gram. It is also taken as the unit for the
+determination of the density of liquids and solids as well as for the
+measurement of amounts of heat.
+
+
+HYDROGEN DIOXIDE
+
+~Composition.~ As has been shown, 1 part by weight of hydrogen combines
+with 7.94 parts by weight of oxygen to form water. It is possible,
+however, to obtain a second compound of hydrogen and oxygen differing
+from water in composition in that 1 part by weight of hydrogen is
+combined with 2 x 7.94, or 15.88 parts, of oxygen. This compound is
+called _hydrogen dioxide_ or _hydrogen peroxide_, the prefixes _di-_ and
+_per-_ signifying that it contains more oxygen than hydrogen oxide,
+which is the chemical name for water.
+
+~Preparation.~ Hydrogen dioxide cannot be prepared cheaply by the direct
+union of hydrogen and oxygen, and indirect methods must therefore be
+used. It is commonly prepared by the action of a solution of sulphuric
+acid on barium dioxide. The change which takes place may be indicated as
+follows:
+
+sulphuric acid +  barium dioxide =  barium sulphate + hydrogen dioxide
+--------------    --------------    ---------------   ----------------
+  hydrogen          barium           barium             hydrogen
+  sulphur           oxygen           sulphur            oxygen
+  oxygen                             oxygen
+
+In other words, the barium and hydrogen in the two compounds exchange
+places. By this method a dilute solution of the dioxide in water is
+obtained. It is possible to separate the dioxide from the water by
+fractional distillation. This is attended with great difficulties,
+however, since the pure dioxide is explosive. The distillation is
+carried on under diminished pressure so as to lower the boiling points
+as much as possible; otherwise the high temperature would decompose the
+dioxide.
+
+~Properties.~ Pure hydrogen dioxide is a colorless sirupy liquid having a
+density of 1.49. Its most characteristic property is the ease with which
+it decomposes into water and oxygen. One part by weight of hydrogen is
+capable of holding firmly only 7.94 parts of oxygen. The additional 7.94
+parts of oxygen present in hydrogen dioxide are therefore easily
+evolved, the compound breaking down into water and oxygen. This
+decomposition is attended by the generation of considerable heat. In
+dilute solution hydrogen dioxide is fairly stable, although such a
+solution should be kept in a dark, cool place, since both heat and light
+aid in the decomposition of the dioxide.
+
+~Uses.~ Solutions of hydrogen dioxide are used largely as oxidizing
+agents. The solution sold by druggists contains 3% of the dioxide and is
+used in medicine as an antiseptic. Its use as an antiseptic depends upon
+its oxidizing properties.
+
+
+EXERCISES
+
+1. Why does the chemist use distilled water in making solutions, rather
+than filtered water?
+
+2. How could you determine the total amount of solid matter dissolved in
+a sample of water?
+
+3. How could you determine whether a given sample of water is distilled
+water?
+
+4. How could the presence of air dissolved in water be detected?
+
+5. How could the amount of water in a food such as bread or potato be
+determined?
+
+6. Would ice frozen from impure water necessarily be free from disease
+germs?
+
+7. Suppose that the maximum density of water were at 0 deg. in place of 4 deg.;
+what effect would this have on the formation of ice on bodies of water?
+
+8. Is it possible for a substance to contain both mechanically inclosed
+water and water of crystallization?
+
+9. If steam is heated to 2000 deg. and again cooled, has any chemical change
+taken place in the steam?
+
+10. Why is cold water passed into C instead of D (Fig. 24)?
+
+11. Mention at least two advantages that a metal condenser has over a
+glass condenser.
+
+12. Draw a diagram of the apparatus used in your laboratory for
+supplying distilled water.
+
+13. 20 cc. of hydrogen and 7 cc. of oxygen are placed in a eudiometer
+and the mixture exploded. (a) How many cubic centimeters of aqueous
+vapor are formed? (b) What gas and how much of it remains in excess?
+
+14. (a) What weight of water can be formed by the combustion of 100 L
+of hydrogen, measured under standard conditions? (b)What volume of
+oxygen would be required in (a)? (c)What weight of potassium
+chlorate is necessary to prepare this amount of oxygen?
+
+15. What weight of oxygen is present in 1 kg. of the ordinary hydrogen
+dioxide solution? In the decomposition of this weight of the dioxide
+into water and oxygen, what volume of oxygen (measured under standard
+conditions) is evolved?
+
+
+
+
+CHAPTER V
+
+THE ATOMIC THEORY
+
+
+~Three fundamental laws of matter.~ Before we can gain any very definite
+idea in regard to the structure of matter, and the way in which
+different kinds of substances act chemically upon each other, it is
+necessary to have clearly in view three fundamental laws of matter.
+These laws have been established by experiment, and any conception which
+may be formed concerning matter must therefore be in harmony with them.
+The laws are as follows:
+
+~Law of conservation of matter.~ This law has already been touched upon in
+the introductory chapter, and needs no further discussion. It will be
+recalled that it may be stated thus: _Matter can neither be created nor
+destroyed, though it can be changed from one form into another._
+
+~Law of definite composition.~ In the earlier days of chemistry there was
+much discussion as to whether the composition of a given compound is
+always precisely the same or whether it is subject to some variation.
+Two Frenchmen, Berthollet and Proust, were the leaders in this
+discussion, and a great deal of most useful experimenting was done to
+decide the question. Their experiments, as well as all succeeding ones,
+have shown that the composition of a pure chemical compound is always
+exactly the same. Water obtained by melting pure ice, condensing steam,
+burning hydrogen in oxygen, has always 11.18% hydrogen and 88.82% oxygen
+in it. Red oxide of mercury, from whatever source it is obtained,
+contains 92.6% mercury and 7.4% oxygen. This truth is known as _the law
+of definite composition_, and may be stated thus: _The composition of a
+chemical compound never varies._
+
+~Law of multiple proportion.~ It has already been noted, however, that
+hydrogen and oxygen combine in two different ratios to form water and
+hydrogen dioxide respectively. It will be observed that this fact does
+not contradict the law of definite composition, for entirely different
+substances are formed. These compounds differ from each other in
+composition, but the composition of each one is always constant. This
+ability of two elements to unite in more than one ratio is very
+frequently observed. Carbon and oxygen combine in two different ratios;
+nitrogen and oxygen combine to form as many as five distinct compounds,
+each with its own precise composition.
+
+In the first decade of the last century John Dalton, an English
+school-teacher and philosopher, endeavored to find some rule which holds
+between the ratios in which two given substances combine. His studies
+brought to light a very simple relation, which the following examples
+will make clear. In water the hydrogen and oxygen are combined in the
+ratio of 1 part by weight of hydrogen to 7.94 parts by weight of oxygen.
+In hydrogen dioxide the 1 part by weight of hydrogen is combined with
+15.88 parts by weight of oxygen. The ratio between the amounts of oxygen
+which combine with the same amount of hydrogen to form water and
+hydrogen dioxide respectively is therefore 7.94: 15.88, or 1: 2.
+
+[Illustration: JOHN DALTON (English) (1766-1844)
+
+Developed the atomic theory; made many studies on the properties and the
+composition of gases. His book entitled "A New System of Chemical
+Philosophy" had a large influence on the development of chemistry]
+
+Similarly, the element iron combines with oxygen to form two oxides, one
+of which is black and the other red. By analysis it has been shown that
+the former contains 1 part by weight of iron combined with 0.286 parts
+by weight of oxygen, while the latter contains 1 part by weight of iron
+combined with 0.429 parts by weight of oxygen. Here again we find that
+the amounts of oxygen which combine with the same fixed amount of iron
+to form the two compounds are in the ratio of small whole numbers, viz.,
+2:3.
+
+Many other examples of this simple relation might be given, since it has
+been found to hold true in all cases where more than one compound is,
+formed from the same elements. Dalton's law of multiple proportion
+states these facts as follows: _When any two elements,_ A _and_ B,
+_combine to form more than one compound, the amounts of_ B _which unite
+with any fixed amount of_ A _bear the ratio of small whole numbers to
+each other_.
+
+~Hypothesis necessary to explain the laws of matter.~ These three
+generalizations are called _laws_, because they express in concise
+language truths which are found by careful experiment to hold good in
+all cases. They do not offer any explanation of the facts, but merely
+state them. The human mind, however, does not rest content with the mere
+bare facts, but seeks ever to learn the explanation of the facts. A
+suggestion which is offered to explain such a set of facts is called an
+_hypothesis_. The suggestion which Dalton offered to explain the three
+laws of matter, called the _atomic hypothesis_, was prompted by his view
+of the constitution of matter, and it involves three distinct
+assumptions in regard to the nature of matter and chemical action.
+Dalton could not prove these assumptions to be true, but he saw that if
+they were true the laws of matter become very easy to understand.
+
+~Dalton's atomic hypothesis.~ The three assumptions which Dalton made in
+regard to the nature of matter, and which together constitute the atomic
+hypothesis, are these:
+
+1. All elements are made up of minute, independent particles which
+Dalton designated as _atoms_.
+
+2. All atoms of the same element have equal masses; those of different
+elements have different masses; in any change to which an atom is
+subjected its mass does not change.
+
+3. When two or more elements unite to form a compound, the action
+consists in the union of a definite small number of atoms of each
+element to form a small particle of the compound. The smallest particles
+of a given compound are therefore exactly alike in the number and kinds
+of atoms which they contain, and larger masses of the substances are
+simply aggregations of these least particles.
+
+~Molecules and atoms.~ Dalton applied the name atom not only to the minute
+particles of the elements but also to the least particles of compounds.
+Later Avogadro, an Italian scientist, pointed out the fact that the two

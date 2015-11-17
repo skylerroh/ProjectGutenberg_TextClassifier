@@ -1,0 +1,214 @@
+Stone shook my hand with an evil kind of relish and followed her out.
+
+That left Paul Cleary and me alone. "This is a great thing, young
+man," he said.
+
+I couldn't stand him any longer. "You are a worm!" I told him.
+
+"You're probably right, Mike," he agreed, without any particular heat.
+"But a rather just one. I think you'll admit you've been paid off in
+your own coin. All you had to do was beg off."
+
+"In front of her? You knew I wouldn't."
+
+"I _figured_ you wouldn't. That's one of the advantages of being
+older. You know more about how the young will behave. Come on," he
+said, getting up to put on his coat again. "We have to see a man."
+
+"One thing," I said, as I got up, "while we're being so just."
+
+"Yes?"
+
+"I had thought of asking your Sylvia for a date. But she was so snippy
+the other night I decided to forget it. Now, she got me into this, and
+she'll have to pay and pay! How do I get to her? It'll be quite a
+while before I'm an astronaut."
+
+He took his pipe from between his teeth. "This calls for the wisdom of
+a Solomon," he decided. "But you might try oysters."
+
+       *       *       *       *       *
+
+It was pretty good advice. I hung behind him long enough to tell
+Sylvia about the Chincoteague oysters they put in the stew at Grand
+Central Terminal, and got a dinner date. That was all, just the date,
+because Cleary was itching to take me to see a man.
+
+Politics must be an awfully large part of business. The man we went to
+see was the government side of COMCORP, and I guess he had had to do
+as much explaining about Telstar failures to a Senate Committee as
+Paul Cleary had had to do to the Western. He wanted an out just as bad
+as Paul did.
+
+There were a good many conferences before a sufficient number of
+people decided the cheapest way out was to send a man to fix the
+Telstars that had broken down. The question was whether it was
+possible.
+
+We went at it from two directions. They got a team assigned to
+figuring out if the Dyna-Soar rocket could be modified to make the
+three contacts around the orbit, carry two men and enough air and fuel
+for the job, and at COMCORP we appointed a crew to figure out what it
+meant to make the repair in orbit.
+
+Cleary put me in charge of our crew. They gave me a full-size Telstar
+satellite for my lab, and I went to work.
+
+Fancy electronic equipment consists of millions of parts, and Telstar
+is no exception. One of the bonuses America got from its poor rocket
+booster performance, as compared with the Russians, was a forced-draft
+course in miniaturization. Our engineers have learned how to make
+almost anything about one-tenth the size you'd think it ought to be,
+and still work. To get all these tiny parts into a total system, they
+are assembled in racks. In the Telstar each of these long skinny
+sticks of perforated magnesium alloy is hinged to the main framework
+so that it can be swung out for testing or for replacement of parts,
+which is why the engineers call each component a "gate."
+
+I spent several weeks learning how to take each suspected component
+out of the gate. Most of the time I needed a screwdriver. Sometimes I
+had to drill out a soft aluminium rivet. The hard part was that some
+of the components were so deep inside, even with a couple gates swung
+out the way, that I needed all kinds of extension tools.
+
+Of course, I had to visualize what it would be like doing all this out
+in space. I'd be in a spacesuit, wearing thick gloves, and when I
+removed a screw that would have looked good in a Swiss watch, there'd
+be no work bench on which to place it while I took out the next one.
+Worse yet, I would have to put it back in.
+
+The longer I worked with the parts, the harder it looked. There
+wouldn't be a prayer of just turning the parts loose in space. In
+theory they'd follow along in orbit. In practice you can't bring your
+hand to a halt and release a tiny part without imparting a small
+proper motion to it. And even worse, you couldn't handle the little
+wretches when you tried to put them back in. With a solid floor to lie
+on, with gravity to give things a position orientation, I kept losing
+tiny screws. Magnets didn't help, because the screws were nonmagnetic
+for what seemed pretty good reasons. Some were made of dural for
+lightness. Some were silicon bronze. None of them was steel.
+
+That put us back in the lab to find out what would happen if we used
+steel screws. The answer was, surprisingly, nothing important. So
+there was one solid achievement. I had a few thousand of each of the
+thirty-four different sizes of fasteners machined from steel, and
+magnetized a fly-tier's tweezers. The result was that I could get
+screws back into their holes without dropping them, especially when I
+put little pads of Alnico on the point of each tweezer to give me a
+really potent magnet. Then we had to cook up an offset screwdriver
+with a ratchet that would let me reach in about a yard and still run
+a number 0-80 machine screw up tight. That called for a kind of
+torque-limit clutch and other snivies.
+
+It was the fanciest and most expensive screwdriver you ever saw. The
+handle was a good two feet long. The problem then became that of
+seeing what you were doing, and one of the boys faked up a kind of
+binocular jeweler's loupe with long focus, so that I could lie back a
+yard from the screw and focus on it with about ten diameters
+magnification. The trouble was that the long focal length gave a field
+of vision about six times the diameter of the screw-head, which meant
+that every time my heart beat my head moved enough to throw the field
+of vision off the work.
+
+       *       *       *       *       *
+
+By that time I was working in a simulated spacesuit--the actual number
+was still being made to fit an accurate plaster cast of my body. So
+the boys figured out a clamp that would hold my helmet firmly to the
+gate, and a chin rack inside the helmet against which I could press
+and hold my head steady enough to keep my binoculars focused where
+they had to be focused. At a certain point I went back to Paul Cleary
+and said I thought I could make the necessary tests, dismount what I
+had to dismount, and replace any affected part.
+
+"All worked out, eh?" he said, reaching for his pipe.
+
+"Not by a county mile, Mr. Cleary. But I know what the problems are,
+and the shop can figure out sensible answers. Some of the hardest
+parts turned out to be the easiest."
+
+"Name any three," he suggested.
+
+"Well, the screws. As I take them out, I'll discard them into space. I
+have to use magnetic screws on reassembly, so there is no point saving
+what I take out. Doug Folley has doped out something like a motorman's
+change-dispenser that will dispense one screw at a time into my
+tweezers, and I'll carry a supply of all thirty-four kinds at my
+waist."
+
+"That's one," he counted on a hairy forefinger.
+
+"We can use something like a double-faced pressure-sensitive tape to
+hold other parts," I said. "We'll draw a diagram on it, stick it to
+some unopened part of the satellite near where I'm working, and as I
+pull pieces out, I'll just press them against the other sticky face,
+in the correct place in the diagram, and they'll be there to pull
+loose when I want them."
+
+"At absolute zero?" he scoffed. "That sticky face will be hard as
+glass."
+
+"We'll face the bird around to the sun," I said. "And warm it up. If
+we have to, we'll put wiring in the tape, connect it to Telstar's
+battery supply, and keep it warm."
+
+"Might work," he grumped. "That's two. How about the spacesuit part?"
+
+That had been tougher. Some forty or fifty men had made the ride into
+space and back from Cape Canaveral by this time, and there had been
+rendezvous in space in preparation for flights to the moon. But so far
+no one had done any free maneuvering in space in a suit.
+
+[Illustration]
+
+They had put me in a swimming pool in a concentrated salt solution
+that gave me just zero buoyancy, and I had practiced a kind of
+skin-diving in a spacesuit. The problem was one of mobility, and the
+one thing we could not reproduce, of course, was frictionless motion.
+No matter how I moved, the viscosity of the solution quickly slowed me
+down. Out in space I'd have to learn on the first try how to get
+around where every force imparted a motion that would continue
+indefinitely until an equal and opposite force had been applied.
+
+The force part had been worked out in theory long before. To my
+spacesuit they had fixed two tiny rockets. One aimed out from the
+small of my back, the other straight out from my belly. Two
+pressurized containers contained hydrazine and nitric acid, which
+could be released in tiny streams into peanut rocket chambers by a
+single valve-release. They were self-igniting, and spurted out a
+needle-fine jet of fire that imparted a few dynes of force as long as
+the valve was held open. It only had two positions--full open, or
+closed, so that navigation would consist of triggering the valve
+briefly open until a little push had been imparted, and drifting until
+you triggered the opposite rocket for braking.
+
+The airtanks on my back were right off a scuba outfit.
+
+Really, they spent more time on the gloves than anything else. At
+first we thought of the problem as a heat problem, but it was tougher
+than that. Heat loss was not much, out there in a vacuum, and they
+made arrangements to warm the handles of my tools so that I wouldn't
+bleed heat through my gloves to them and thus freeze my fingers. No,
+the problem was to get a glove that stood up to a pressure difference
+of three or four pounds per square inch and could still be flexed with
+any accuracy by my fingers. We could make a glove that was pretty
+thin, but it stiffened out under pressure and made delicate work
+really tough. It was a lot like trying to do brain surgery in mittens.
+
+They eventually gave me a porous glove that leaked air when you flexed
+your fingers. Air, they said, could always be gotten from the
+Dyna-Soar rocket that would be hanging close at hand in space. Well,
+we hoped it would work. I could do pretty fair work with the leaky
+gloves, and all we could hope was that the vapor would be dry enough
+as it seeped out through the gloves to prevent formation of a foggy
+cloud all around me, or the formation of frost on the gloves. That we
+could not test under any conditions easy to simulate.
+
+Each team spent ninety days. They tell me that's right quick work for
+pointing up a launch. But at the end of three months I had assembled
+enough stuff to do the job, and still well within the weight limit
+they had to set. I wasn't a walking machine shop, but there was a lot
+I could do if I had to.
+
+       *       *       *       *       *
+

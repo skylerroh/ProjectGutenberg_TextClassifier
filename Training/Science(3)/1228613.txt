@@ -1,0 +1,425 @@
+not a propelling but a deflecting force.
+
+The second law asserts that when a force acts, the motion changes,
+either in speed or in direction, or both, at a pace proportional to the
+magnitude of the force, and in the same direction as that in which the
+force acts. Now since it is almost solely in direction that planetary
+motion alters, a deflecting force only is needed; a force at right
+angles to the direction of motion, a force normal to the path.
+Considering the motion as circular, a force along the radius, a radial
+or centripetal force, must be acting continually. Whirl a weight round
+and round by a bit of elastic, the elastic is stretched; whirl it
+faster, it is stretched more. The moving mass pulls at the elastic--that
+is its centrifugal force; the hand at the centre pulls also--that is
+centripetal force.
+
+The third law asserts that these two forces are equal, and together
+constitute the tension in the elastic. It is impossible to have one
+force alone, there must be a pair. You can't push hard against a body
+that offers no resistance. Whatever force you exert upon a body, with
+that same force the body must react upon you. Action and reaction are
+always equal and opposite.
+
+Sometimes an absurd difficulty is felt with respect to this, even by
+engineers. They say, "If the cart pulls against the horse with precisely
+the same force as the horse pulls the cart, why should the cart move?"
+Why on earth not? The cart moves because the horse pulls it, and because
+nothing else is pulling it back. "Yes," they say, "the cart is pulling
+back." But what is it pulling back? Not itself, surely? "No, the horse."
+Yes, certainly the cart is pulling at the horse; if the cart offered no
+resistance what would be the good of the horse? That is what he is for,
+to overcome the pull-back of the cart; but nothing is pulling the cart
+back (except, of course, a little friction), and the horse is pulling it
+forward, hence it goes forward. There is no puzzle at all when once you
+realise that there are two bodies and two forces acting, and that one
+force acts on each body.[16]
+
+If, indeed, two balanced forces acted on one body that would be in
+equilibrium, but the two equal forces contemplated in the third law act
+on two different bodies, and neither is in equilibrium.
+
+So much for the third law, which is extremely simple, though it has
+extraordinarily far-reaching consequences, and when combined with a
+denial of "action at a distance," is precisely the principle of the
+Conservation of Energy. Attempts at perpetual motion may all be regarded
+as attempts to get round this "third law."
+
+[Illustration: FIG. 57.]
+
+     On the subject of the _second_ law a great deal more has to be said
+     before it can be in any proper sense even partially appreciated,
+     but a complete discussion of it would involve a treatise on
+     mechanics. It is _the_ law of mechanics. One aspect of it we must
+     attend to now in order to deal with the motion of the planets, and
+     that is the fact that the change of motion of a body depends solely
+     and simply on the force acting, and not at all upon what the body
+     happens to be doing at the time it acts. It may be stationary, or
+     it may be moving in any direction; that makes no difference.
+
+     Thus, referring back to the summary preceding Lecture IV, it is
+     there stated that a dropped body falls 16 feet in the first second,
+     that in two seconds it falls 64 feet, and so on, in proportion to
+     the square of the time. So also will it be the case with a thrown
+     body, but the drop must be reckoned from its line of motion--the
+     straight line which, but for gravity, it would describe.
+
+     Thus a stone thrown from _O_ with the velocity _OA_ would in one
+     second find itself at _A_, in two seconds at _B_, in three seconds
+     at _C_, and so on, in accordance with the first law of motion, if
+     no force acted. But if gravity acts it will have fallen 16 feet by
+     the time it would have got to _A_, and so will find itself at _P_.
+     In two seconds it will be at _Q_, having fallen a vertical height
+     of 64 feet; in three seconds it will be at _R_, 144 feet below _C_;
+     and so on. Its actual path will be a curve, which in this case is a
+     parabola. (Fig. 57.)
+
+     If a cannon is pointed horizontally over a level plain, the cannon
+     ball will be just as much affected by gravity as if it were
+     dropped, and so will strike the plain at the same instant as
+     another which was simply dropped where it started. One ball may
+     have gone a mile and the other only dropped a hundred feet or so,
+     but the time needed by both for the vertical drop will be the same.
+     The horizontal motion of one is an extra, and is due to the powder.
+
+     As a matter of fact the path of a projectile in vacuo is only
+     approximately a parabola. It is instructive to remember that it is
+     really an ellipse with one focus very distant, but not at infinity.
+     One of its foci is the centre of the earth. A projectile is really
+     a minute satellite of the earth's, and in vacuo it accurately obeys
+     all Kepler's laws. It happens not to be able to complete its orbit,
+     because it was started inconveniently close to the earth, whose
+     bulk gets in its way; but in that respect the earth is to be
+     reckoned as a gratuitous obstruction, like a target, but a target
+     that differs from most targets in being hard to miss.
+
+[Illustration: FIG. 58.]
+
+     Now consider circular motion in the same way, say a ball whirled
+     round by a string. (Fig. 58.)
+
+     Attending to the body at _O_, it is for an instant moving towards
+     _A_, and if no force acted it would get to _A_ in a time which for
+     brevity we may call a second. But a force, the pull of the string,
+     is continually drawing it towards _S_, and so it really finds
+     itself at _P_, having described the circular arc _OP_, which may
+     be considered to be compounded of, and analyzable into the
+     rectilinear motion _OA_ and the drop _AP_. At _P_ it is for an
+     instant moving towards _B_, and the same process therefore carries
+     it to _Q_; in the third second it gets to _R_; and so on: always
+     falling, so to speak, from its natural rectilinear path, towards
+     the centre, but never getting any nearer to the centre.
+
+     The force with which it has thus to be constantly pulled in towards
+     the centre, or, which is the same thing, the force with which it is
+     tugging at whatever constraint it is that holds it in, is
+     _mv^2/r_; where _m_ is the mass of the particle, _v_ its
+     velocity, and _r_ the radius of its circle of movement. This is the
+     formula first given by Huyghens for centrifugal force.
+
+     We shall find it convenient to express it in terms of the time of
+     one revolution, say _T_. It is easily done, since plainly T =
+     circumference/speed = _2[pi]r/v_; so the above expression for
+     centrifugal force becomes _4[pi]^2mr/T^2_.
+
+     As to the fall of the body towards the centre every microscopic
+     unit of time, it is easily reckoned. For by Euclid III. 36, and
+     Fig. 58, _AP.AA' = AO^2_. Take _A_ very near _O_, then _OA = vt_,
+     and _AA' = 2r_; so _AP = v^2t^2/2r = 2[pi]^2r
+     t^2/T^2_; or the fall per second is _2[pi]^2r/T^2_,
+     _r_ being its distance from the centre, and _T_ its time of going
+     once round.
+
+     In the case of the moon for instance, _r_ is 60 earth radii; more
+     exactly 60.2; and _T_ is a lunar month, or more precisely 27 days,
+     7 hours, 43 minutes, and 11-1/2 seconds. Hence the moon's
+     deflection from the tangential or rectilinear path every minute
+     comes out as very closely 16 feet (the true size of the earth being
+     used).
+
+Returning now to the case of a small body revolving round a big one, and
+assuming a force directly proportional to the mass of both bodies, and
+inversely proportional to the square of the distance between them:
+_i.e._ assuming the known force of gravity, it is
+
+  _V Mm/r^2_
+
+where _V_ is a constant, called the gravitation constant, to be
+determined by experiment.
+
+If this is the centripetal force pulling a planet or satellite in, it
+must be equal to the centrifugal force of this latter, viz. (see above).
+
+  _4[pi]^2mr/T^2
+
+Equate the two together, and at once we get
+
+  _r^3/T^2 = V/4[pi]^2M;_
+
+or, in words, the cube of the distance divided by the square of the
+periodic time for every planet or satellite of the system under
+consideration, will be constant and proportional to the mass of the
+central body.
+
+This is Kepler's third law, with a notable addition. It is stated above
+for circular motion only, so as to avoid geometrical difficulties, but
+even so it is very instructive. The reason of the proportion between
+_r^3_ and _T^2_ is at once manifest; and as soon as the constant _V_
+became known, _the mass of the central body_, the sun in the case of a
+planet, the earth in the case of the moon, Jupiter in the case of his
+satellites, was at once determined.
+
+Newton's reasoning at this time might, however, be better displayed
+perhaps by altering the order of the steps a little, as thus:--
+
+The centrifugal force of a body is proportional to _r^3/T^2_, but by
+Kepler's third law _r^3/T^2_ is constant for all the planets,
+reckoning _r_ from the sun. Hence the centripetal force needed to hold
+in all the planets will be a single force emanating from the sun and
+varying inversely with the square of the distance from that body.
+
+Such a force is at once necessary and sufficient. Such a force would
+explain the motion of the planets.
+
+But then all this proceeds on a wrong assumption--that the planetary
+motion is circular. Will it hold for elliptic orbits? Will an inverse
+square law of force keep a body moving in an elliptic orbit about the
+sun in one focus? This is a far more difficult question. Newton solved
+it, but I do not believe that even he could have solved it, except that
+he had at his disposal two mathematical engines of great power--the
+Cartesian method of treating geometry, and his own method of Fluxions.
+One can explain the elliptic motion now mathematically, but hardly
+otherwise; and I must be content to state that the double fact is
+true--viz., that an inverse square law will move the body in an ellipse
+or other conic section with the sun in one focus, and that if a body so
+moves it _must_ be acted on by an inverse square law.
+
+[Illustration: FIG. 59.]
+
+This then is the meaning of the first and third laws of Kepler. What
+about the second? What is the meaning of the equable description of
+areas? Well, that rigorously proves that a planet is acted on by a force
+directed to the centre about which the rate of description of areas is
+equable. It proves, in fact, that the sun is the attracting body, and
+that no other force acts.
+
+     For first of all if the first law of motion is obeyed, _i.e._ if no
+     force acts, and if the path be equally subdivided to represent
+     equal times, and straight lines be drawn from the divisions to any
+     point whatever, all these areas thus enclosed will be equal,
+     because they are triangles on equal base and of the same height
+     (Euclid, I). See Fig. 59; _S_ being any point whatever, and _A_,
+     _B_, _C_, successive positions of a body.
+
+     Now at each of the successive instants let the body receive a
+     sudden blow in the direction of that same point _S_, sufficient to
+     carry it from _A_ to _D_ in the same time as it would have got to
+     _B_ if left alone. The result will be that there will be a
+     compromise, and it will really arrive at _P_, travelling along the
+     diagonal of the parallelogram _AP_. The area its radius vector
+     sweeps out is therefore _SAP_, instead of what it would have been,
+     _SAB_. But then these two areas are equal, because they are
+     triangles on the same base _AS_, and between the same parallels
+     _BP_, _AS_; for by the parallelogram law _BP_ is parallel to _AD_.
+     Hence the area that would have been described is described, and as
+     all the areas were equal in the case of no force, they remain equal
+     when the body receives a blow at the end of every equal interval of
+     time, _provided_ that every blow is actually directed to _S_, the
+     point to which radii vectores are drawn.
+
+[Illustration: FIG. 60.]
+
+[Illustration: FIG. 61.]
+
+     It is instructive to see that it does not hold if the blow is any
+     otherwise directed; for instance, as in Fig. 61, when the blow is
+     along _AE_, the body finds itself at _P_ at the end of the second
+     interval, but the area _SAP_ is by no means equal to _SAB_, and
+     therefore not equal to _SOA_, the area swept out in the first
+     interval.
+
+     In order to modify Fig. 60 so as to represent continuous motion and
+     steady forces, we have to take the sides of the polygon _OAPQ_,
+     &c., very numerous and very small; in the limit, infinitely
+     numerous and infinitely small. The path then becomes a curve, and
+     the series of blows becomes a steady force directed towards _S_.
+     About whatever point therefore the rate of description of areas is
+     uniform, that point and no other must be the centre of all the
+     force there is. If there be no force, as in Fig. 59, well and good,
+     but if there be any force however small not directed towards _S_,
+     then the rate of description of areas about _S_ cannot be uniform.
+     Kepler, however, says that the rate of description of areas of each
+     planet about the sun is, by Tycho's observations, uniform; hence
+     the sun is the centre of all the force that acts on them, and there
+     is no other force, not even friction. That is the moral of Kepler's
+     second law.
+
+     We may also see from it that gravity does not travel like light, so
+     as to take time on its journey from sun to planet; for, if it did,
+     there would be a sort of aberration, and the force on its arrival
+     could no longer be accurately directed to the centre of the sun.
+     (See _Nature_, vol. xlvi., p. 497.) It is a matter for accuracy of
+     observation, therefore, to decide whether the minutest trace of
+     such deviation can be detected, _i.e._ within what limits of
+     accuracy Kepler's second law is now known to be obeyed.
+
+     I will content myself by saying that the limits are extremely
+     narrow. [Reference may be made also to p. 208.]
+
+Thus then it became clear to Newton that the whole solar system depended
+on a central force emanating from the sun, and varying inversely with
+the square of the distance from him: for by that hypothesis all the laws
+of Kepler concerning these motions were completely accounted for; and,
+in fact, the laws necessitated the hypothesis and established it as a
+theory.
+
+Similarly the satellites of Jupiter were controlled by a force emanating
+from Jupiter and varying according to the same law. And again our moon
+must be controlled by a force from the earth, decreasing with the
+distance according to the same law.
+
+Grant this hypothetical attracting force pulling the planets towards
+the sun, pulling the moon towards the earth, and the whole mechanism of
+the solar system is beautifully explained.
+
+If only one could be sure there was such a force! It was one thing to
+calculate out what the effects of such a force would be: it was another
+to be able to put one's finger upon it and say, this is the force that
+actually exists and is known to exist. We must picture him meditating in
+his garden on this want--an attractive force towards the earth.
+
+If only such an attractive force pulling down bodies to the earth
+existed. An apple falls from a tree. Why, it does exist! There is
+gravitation, common gravity that makes bodies fall and gives them their
+weight.
+
+Wanted, a force tending towards the centre of the earth. It is to hand!
+
+It is common old gravity that had been known so long, that was perfectly
+familiar to Galileo, and probably to Archimedes. Gravity that regulates
+the motion of projectiles. Why should it only pull stones and apples?
+Why should it not reach as high as the moon? Why should it not be the
+gravitation of the sun that is the central force acting on all the
+planets?
+
+Surely the secret of the universe is discovered! But, wait a bit; is it
+discovered? Is this force of gravity sufficient for the purpose? It must
+vary inversely with the square of the distance from the centre of the
+earth. How far is the moon away? Sixty earth's radii. Hence the force of
+gravity at the moon's distance can only be 1/3600 of what it is on the
+earth's surface. So, instead of pulling it 16 ft. per second, it should
+pull it 16/3600 ft. per second, or 16 ft. a minute.[17] How can one
+decide whether such a force is able to pull the moon the actual amount
+required? To Newton this would seem only like a sum in arithmetic. Out
+with a pencil and paper and reckon how much the moon falls toward the
+earth in every second of its motion. Is it 16/3600? That is what it
+ought to be: but is it? The size of the earth comes into the
+calculation. Sixty miles make a degree, 360 degrees a circumference.
+This gives as the earth's diameter 6,873 miles; work it out.
+
+The answer is not 16 feet a minute, it is 13.9 feet.
+
+Surely a mistake of calculation?
+
+No, it is no mistake: there is something wrong in the theory, gravity is
+too strong.
+
+Instead of falling toward the earth 5-1/3 hundredths of an inch every
+second, as it would under gravity, the moon only falls 4-2/3 hundredths
+of an inch per second.
+
+With such a discovery in his grasp at the age of twenty-three he is
+disappointed--the figures do not agree, and he cannot make them agree.
+Either gravity is not the force in action, or else something interferes
+with it. Possibly, gravity does part of the work, and the vortices of
+Descartes interfere with it.
+
+He must abandon the fascinating idea for the time. In his own words, "he
+laid aside at that time any further thought of the matter."
+
+So far as is known, he never mentioned his disappointment to a soul. He
+might, perhaps, if he had been at Cambridge, but he was a shy and
+solitary youth, and just as likely he might not. Up in Lincolnshire, in
+the seventeenth century, who was there for him to consult?
+
+True, he might have rushed into premature publication, after our
+nineteenth century fashion, but that was not his method. Publication
+never seemed to have occurred to him.
+
+His reticence now is noteworthy, but later on it is perfectly
+astonishing. He is so absorbed in making discoveries that he actually
+has to be reminded to tell any one about them, and some one else always
+has to see to the printing and publishing for him.
+
+I have entered thus fully into what I conjecture to be the stages of
+this early discovery of the law of gravitation, as applicable to the
+heavenly bodies, because it is frequently and commonly misunderstood. It
+is sometimes thought that he discovered the force of gravity; I hope I
+have made it clear that he did no such thing. Every educated man long
+before his time, if asked why bodies fell, would reply just as glibly as
+they do now, "Because the earth attracts them," or "because of the force
+of gravity."
+
+His discovery was that the motions of the solar system were due to the
+action of a central force, directed to the body at the centre of the
+system, and varying inversely with the square of the distance from it.
+This discovery was based upon Kepler's laws, and was clear and certain.
+It might have been published had he so chosen.
+
+But he did not like hypothetical and unknown forces; he tried to see
+whether the known force of gravity would serve. This discovery at that
+time he failed to make, owing to a wrong numerical datum. The size of
+the earth he only knew from the common doctrine of sailors that 60 miles
+make a degree; and that threw him out. Instead of falling 16 feet a
+minute, as it ought under gravity, it only fell 13.9 feet, so he
+abandoned the idea. We do not find that he returned to it for sixteen
+years.
+
+
+
+
+LECTURE VIII
+
+NEWTON AND THE LAW OF GRAVITATION
+
+
+We left Newton at the age of twenty-three on the verge of discovering
+the mechanism of the solar system, deterred therefrom only by an error
+in the then imagined size of the earth. He had proved from Kepler's laws
+that a centripetal force directed to the sun, and varying as the inverse
+square of the distance from that body, would account for the observed
+planetary motions, and that a similar force directed to the earth would
+account for the lunar motion; and it had struck him that this force
+might be the very same as the familiar force of gravitation which gave
+to bodies their weight: but in attempting a numerical verification of
+this idea in the case of the moon he was led by the then received notion
+that sixty miles made a degree on the earth's surface into an erroneous
+estimate of the size of the moon's orbit. Being thus baffled in
+obtaining such verification, he laid the matter aside for a time.
+
+The anecdote of the apple we learn from Voltaire, who had it from
+Newton's favourite niece, who with her husband lived and kept house for
+him all his later life. It is very like one of those anecdotes which are
+easily invented and believed in, and very often turn out on scrutiny to
+have no foundation. Fortunately this anecdote is well authenticated, and
+moreover is intrinsically probable; I say fortunately, because it is
+always painful to have to give up these child-learnt anecdotes, like
+Alfred and the cakes and so on. This anecdote of the apple we need not
+resign. The tree was blown down in 1820 and part of its wood is
+preserved.
+
+I have mentioned Voltaire in connection with Newton's philosophy. This
+acute critic at a later stage did a good deal to popularise it
+throughout Europe and to overturn that of his own countryman Descartes.
+Cambridge rapidly became Newtonian, but Oxford remained Cartesian for
+fifty years or more. It is curious what little hold science and
+mathematics have ever secured in the older and more ecclesiastical
+University. The pride of possessing Newton has however no doubt been the
+main stimulus to the special pursuits of Cambridge.
+
+He now began to turn his attention to optics, and, as was usual with
+him, his whole mind became absorbed in this subject as if nothing else
+had ever occupied him. His cash-book for this time has been discovered,
+and the entries show that he is buying prisms and lenses and polishing
+powder at the beginning of 1667. He was anxious to improve telescopes by
+making more perfect lenses than had ever been used before. Accordingly
+he calculated out their proper curves, just as Descartes had also done,

@@ -1,0 +1,572 @@
+  "     manufacture of, by electrolytic process, 56
+  "     manufacture of, by Leblanc process, 53
+
+Alkalis, distinguishing, from acids, 23, 49
+  "      neutralisation of, 50
+  "      properties of, 49
+  "      specific gravities of, 49
+
+Alum, cake, 73
+
+Aluminium sulphate, 73
+
+Ammonia, 23, 95
+
+Ammonia-soda process, 55
+
+Aniline, 91
+  "      black, 81
+  "      constitution of, 96
+  "      preparation of, 96
+  "      reaction of 97
+  "      violet 77, 81
+
+Animal fibres. _See_ Fibres.
+
+Annatto, 83, 85, 87
+
+Anthracene, 90
+
+Archil. _See_ Orchil.
+
+Aurin, 91, 98
+
+Azo dyestuffs, 98
+
+
+Barwood, 99
+
+Basic colours or dyestuffs, mordanting, 76
+
+Bast fibres. _See_ Fibres.
+
+Bastose, 4
+
+Bastose, distinction between, and cellulose, 4
+
+Beaume hydrometer degrees, 31
+
+Benzene, 90, 96
+
+Bixin, 88
+
+Black-ash process, 54
+
+Blue colour, absorption spectrum of pure, 114
+
+Boilers, incrustations in, 42
+
+Boiling-point, effect of pressure on, 32
+  "           of water, effect of dissolved salts on, 36
+  "           of water, effect of increase of pressure on, 35
+
+Borax, 59
+  "    tests of purity of, 59
+
+Boric acid, 57
+
+Boronitrocalcite, 59
+
+Brasilin, 99
+
+Brazil wood, 99
+
+
+Camwood, 99
+
+Carbolic acid. _See_ Phenol.
+
+Carminic acid, 76
+
+Carre ice-making machine, 32
+
+Carrotting. _See_ Secretage.
+
+Carthamic acid, 87
+
+Carthamin, 87
+
+Cellulose, action of cupric-ammonium solutions on, 5
+  "        composition of,   3
+  "        distinction between, and bastose, 4
+  "        properties of pure,   5
+
+Cholesterol, 100
+
+Chrome mordanting, 78
+
+Chrome orange, 84
+  "    yellow, 84
+
+Chroming, over-, 78
+
+Clark's soap test, 43
+
+Coal-tar, 90
+  "       yield of valuable products from, 90
+
+Cochineal, 75, 76, 82, 83, 99
+
+Coerulein, 90
+
+Colour, absorption spectrum of pure blue, 114
+  "     absorption spectrum of pure yellow, 114
+  "     acids, 77
+  "     bases, 77
+  "     nature of, 107
+
+Coloured substances, spectra of, 112
+
+Colours, acid, mordanting of, 74
+  "      basic, 75
+  "      classification of, 79
+  "      complementary, 109
+  "      mixed, spectra of, 115
+  "      pigment, 110
+  "      primary, 110
+  "      spectral, 110
+
+Conditioning establishments, 21
+
+Congo red, 71
+
+Copper salts, dissolving, in iron pans, 39
+  "           wet method of extracting, 38
+
+Corrosion caused by fatty acids, 35
+
+Cotton and woollen goods, separation of mixed, 5
+
+Cotton fibre, action of basic zinc chloride on, 5
+  "           composition of, 3
+  "           dimensions of, 2
+  "           stomata in cuticle of, 2
+  "           structure of, 1
+
+Cotton-silk fibre, 3
+  "     "         composition of, 3
+
+Crookes' heat-indicating paint, 107
+
+Cudbear, 86
+
+Cupric ammonium solution, action of, on cellulose, 5
+
+Curcumin, 87
+
+
+Dextrin, 4
+
+Dyeing felt hats deep black, 106
+  "     "        effect of stiffening and proofing process in, 65, 103
+  "    of wool and felt with coal-tar colours, 105
+  "    of wool and fur, 100
+  "    power of coal-tar dyestuffs, 93
+  "    with mixed coal-tar colours, 106
+
+Dyestuffs, adjectiv, 83, 99
+  "        azo, 98
+  "        classification of, 79
+  "        coal-tar,   90
+  "          "       dyeing power of, 93
+  "          "       yield of, 91
+  "        mineral, 83
+  "        monogenetic, 81
+  "        pigment, 83
+  "        polygenetic, 82
+  "        substantive, 83
+  "             "       artificial, 89
+  "             "       natural, 85
+
+
+Equivalence, law of, 49
+
+
+Fats, decomposition of, by superheated steam, 35
+
+Felt, dyeing, deep black, 106
+    "   " with coal-tar colours, 105
+
+Felting, dilute acid for promoting, 22
+  "      effect of water in, 21
+  "      fur, 15
+  "      interlocking of scales in, 13
+  "      preparation of fur for, 18
+  "      unsuitability of dead wool for, 18
+
+Fibre, cotton. _See_ Cotton.
+  "    cotton-silk. _See_ Cotton-silk.
+  "    flax. _See_ Flax.
+  "    jute. _See_ Jute.
+  "    silk. _See_ Silk.
+  "    wool. _See_ Wool.
+
+Fibres, action of acids on textile, 5
+    "     "       alkaline solution of copper and glycerin on textile, 28
+    "     "       alkalis on textile, 5
+    "     "       caustic soda on textile , 28
+    "     "       copper-oxide-ammonia on textile, 28
+    "     "       nitric acid on textile, 28
+    "     "       steam on textile, 5
+    "     "       sulphuric acid on textile, 27
+
+Fibres, animal, 6
+  "     bast, 3
+  "     vegetable, 1
+  "       "        and animal, determining, in mixture, 27
+  "       "        and animal, distinguishing, 4, 5
+  "       "        and animal, distinguishing and separating, 24
+
+Fibroin, 7
+
+Flax fibre, action of basic zinc chloride on, 5
+  "         composition of, 3
+  "         structure of, 2
+
+Fraunhofer's lines, 111, 112
+
+Fur, 8
+  "  action of acids on, 23
+  "    "    of alkalis on, 24
+  "    "    on, in secretage process, 17
+  "  chrome mordanting of, 77
+  "  composition of, 22
+  "  felting, 15
+  "  finish and strength of felted, effect of boiling water on, 22
+  "  hygroscopicity of, 20
+  "  preparation of, for felting, 18
+  "  secretage or carrotting of, 17
+  "  stiffening and proofing of felted, 66
+  "  sulphur in, reagents for detection of, 26
+
+Fustic, 99
+
+
+Gallein, 82, 83
+
+Gallnuts, 99
+
+Garancine, 99
+
+Guy-Lussac tower, 52
+
+Glover tower, 52
+
+Glucose, 4
+
+Greening of black hats, 65
+
+
+Haematein, 76, 78 83, 99
+
+Hair, 8
+  "  cells from, 11
+  "  distinction between, and wool, 12, 14
+  "  dyeing, 26
+  "  growth of, 8
+  "  scales from, 11
+  "   "     of, action of reagents on, 12
+  "  scaly structure of, 11
+  "  structure of, 8, 9
+  "  sulphur in, reagents for detection of, 26
+
+Hargreaves & Robinson's process, 53
+
+Hats dyed logwood black, deterioration of, 104
+  "  greening of black, 65
+  "  stiffening and proofing of, 63, 64
+  "  stiffening and proofing of, by Cheetham's process, 66
+  "  stiffening and proofing of, by Continental process, 66
+  "  stiffening and proofing process, effect of, in dyeing, 65, 103
+
+Heat, latent, 32, 33
+  "     " of steam, 34
+  "     " of water, 34
+
+Heddebault's process of separating mixed cotton and woollen goods, 5
+
+Hydrochloric acid, manufacture of, by Hargreaves & Robinson's process, 53
+   "          "    manufacture of, by salt-cake process, 53
+
+
+Ice, heat of liquefaction of, 34
+
+Ice-making machine, Carre, 32
+
+Indican, 85
+
+Indicators, 50, 70
+
+Indigo, 85
+  "     artificial, 86
+  "     blue, 85
+  "     recovery of, from indigo-dyed woollen goods, 24
+  "     vat, 86
+  "     white, 85
+
+Insoluble compounds, precipitation of, from solutions, 38
+
+Iron liquor. _See_ Mordant, iron.
+
+
+Jute fibre, 3
+  "  composition of, 4
+
+
+Lac, button, 63
+  "  dye, 62, 99
+  "  seed, 62
+  "  stick, 62
+  _See also_ Shellac.
+
+Lakes, colour, 75
+
+Latent heat. _See_ Heat.
+
+Leblanc process, 53
+
+Light, analysis of white, 107
+  " composition of white, 107
+  " homogeneous or monochromatic, 108, 110
+  " rays, refraction of, 108
+
+Linen fibre. _See_ Flax.
+
+Litmus, 70, 86
+
+Logwood, 75, 76, 78, 83, 99
+
+Logwood black, 78, 81, 104
+  "       "   deterioration of hats dyed with, 104
+
+
+Madder, 80, 83, 99
+
+Magenta, 76, 80, 83, 91, 97
+
+Marsh gas, 95
+
+Mercuric nitrate, use of, for the secretage of fur, 17
+
+Merino wool, 15
+
+Methane. _See_ Marsh gas.
+
+Methyl alcohol. _See_ Wood spirit.
+  "    green, 97
+  "     violet, 97
+
+Mirbane, essence of, 96
+
+Molisch's test, 4
+
+Mordant, alumina, 64, 75
+  "      antimony, 76
+  "      iron, 64, 76
+  "      tannin, 76
+  "      tin, 76
+
+Mordanting acid (phenolic) colours, 74
+  "        basic colours, 76
+  "        chrome, 77
+  "        woollen fabrics, 75
+
+Mordants, 69
+  "       fatty acid, 77
+
+
+Naphthalene, 90, 98
+
+Naphthol yellow, 91
+
+Naphthols, 91, 98
+
+Naphthylamine, 91
+
+Nitric acid, 95
+  " manufacture of, 52
+
+Nitrobenzene, 96
+
+Nitroprusside of soda, 26
+
+Oils, decomposition of, by superheated steam, 35
+
+Orcein, 86
+
+Orchil, 85, 86
+
+Orcin, 86
+
+Orellin, 88
+
+Over-chroming, _See_ Chroming.
+
+
+Paint, Crookes' heat-indicating, 107
+
+Persian berries, 75, 99
+
+Phenol, 90
+   "   constitution of, 98
+
+Phenolic colours. _See_ Acid colours.
+
+Phenolphthalein, 70
+
+Picric acid, 81, 91
+  "         absorption spectrum of, 113
+  "         constitution of, 98
+
+Plumbate of soda, 26
+
+Potassium, decomposition of water by, 25, 30
+
+Proofing mixture, 63
+   "     process, 64
+   "        "     Cheetham's, 66
+   "        "     Continental, 66
+   "        "     effect of, in dyeing, 65, 103
+
+Purpurin, 99
+
+
+Quercitron, 99
+
+
+Red liquor. See Mordant, alumina.
+
+Refraction of light rays, 108
+
+
+Safflower, 85, 87
+
+Salt-cake process, 53
+
+Salts, 49
+  "   acid, 70, 71
+  "   basic, 71
+  "   neutral or normal, 71
+  "  stable, 72
+  "  unstable, 72
+
+Santalin, 99
+
+Santalwood, 99
+
+Sealing-wax, coloured, 103
+
+Secretage of fur, 17
+    "    process, injury to fur in, 17
+
+Sericin, 7
+
+Shellac, 62
+   "   colouring of, 103
+   "   rosin in, detection of, 63
+   "   solvents for, 63
+  _See also_ Lac.
+
+Silk fibre, action of acids on, 7
+ "     "      "    of alkaline solution of, copper and glycerin on, 7
+ "     "      "    of alkalis on, 7
+ "     "      "    of basic zinc chloride on, 7
+ "     "  bleaching of, 7
+ "     "  composition of, 7
+ "     "  structure of, 6
+ "     "  ungumming of, 7
+ "   glue, 7
+ "   gum, 7
+
+Soap, 60
+  "   alkali in, detection of, 61
+  "   oleic acid, 101
+  "   palm oil, 101
+  "   water in, determination of, 60
+
+Soda. _See_ Alkali.
+
+Solution, 36
+    "    precipitation of insoluble compounds from, 38
+
+Specific gravity, 30
+
+Spectra of coloured substances 112
+
+Spectroscope, 111
+
+Spectrum, 108
+  "       absorption, 113
+  "       continuous, 111
+  "       discontinuous or line, 111
+
+Spirits of salt. _See_ Hydrochloric acid.
+
+Starch, 4
+
+Steam, 31
+  "    latent heat of, 34
+
+Stiffening mixture, 63
+  "        process, 64
+  "          "      Cheetham's, 66
+  "          "      Continental, 66
+  "          "      effect of, in dyeing 65, 103
+
+Suint. _See_ Wool grease.
+
+Sulphur in wool, fur, and hair, reagents for detection of, 26
+
+Sulphuric acid, manufacture of, 50
+  "         "       "       by contact process, 52
+  "         "       "       by lead chamber process, 51
+
+Sumach, 99
+
+
+Tannins, 99
+
+Tincal, 59
+
+Tiza, 59
+
+Toluene, 90
+
+Toluidine, 91
+
+Turmeric, 80, 83, 85, 87
+
+Twaddell hydrometer degrees, 31
+
+
+Ultramarine blue, 81
+
+Ultramarine green, 81
+  "         rose-coloured, 81
+
+
+Valency, 71
+
+Vegetable fibres. _See_ Fibres.
+
+Veneering process, 66
+
+Vermilline scarlet, 91
+
+Vitriol. _See_ Sulphuric acid.
+
+
+Water, 29
+  "    boiling of 31
+  "    boiling-point of, effect of dissolved salts on 36
+  "    boiling-point of, effect of increase of pressure on, 35
+  "    chlorides in, detection of, 47
+  "    composition of, 29
+  "    contamination of, by factories, 45
+  "    copper in, detection of, 46
+  "    decomposition of, by potassium, 25, 30
+  "    filtration of, 47
+  "    hard, 41, 42
+  "      "   Clark's soap test for, 43
+  "      "   softening of, 41
+  "      "   waste of soap by, 43

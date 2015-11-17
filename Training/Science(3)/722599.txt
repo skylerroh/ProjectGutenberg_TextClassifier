@@ -1,0 +1,351 @@
+On the other hand, the two leading sources of information as to the life of
+Gerbert reveal practically nothing to show that he came within the Moorish
+sphere of influence during his sojourn in Spain. These sources {115} are
+his letters and the history written by Richer. Gerbert was a master of the
+epistolary art, and his exalted position led to the preservation of his
+letters to a degree that would not have been vouchsafed even by their
+classic excellence.[453] Richer was a monk at St. Remi de Rheims, and was
+doubtless a pupil of Gerbert. The latter, when archbishop of Rheims, asked
+Richer to write a history of his times, and this was done. The work lay in
+manuscript, entirely forgotten until Pertz discovered it at Bamberg in
+1833.[454] The work is dedicated to Gerbert as archbishop of Rheims,[455]
+and would assuredly have testified to such efforts as he may have made to
+secure the learning of the Moors.
+
+Now it is a fact that neither the letters nor this history makes any
+statement as to Gerbert's contact with the Saracens. The letters do not
+speak of the Moors, of the Arab numerals, nor of Cordova. Spain is not
+referred to by that name, and only one Spanish scholar is mentioned. In one
+of his letters he speaks of Joseph Ispanus,[456] or Joseph Sapiens, but who
+this Joseph the Wise of Spain may have been we do not know. Possibly {116}
+it was he who contributed the morsel of knowledge so imperfectly
+assimilated by the young French monk.[457] Within a few years after
+Gerbert's visit two young Spanish monks of lesser fame, and doubtless with
+not that keen interest in mathematical matters which Gerbert had, regarded
+the apparently slight knowledge which they had of the Hindu numeral forms
+as worthy of somewhat permanent record[458] in manuscripts which they were
+transcribing. The fact that such knowledge had penetrated to their modest
+cloisters in northern Spain--the one Albelda or Albaida--indicates that it
+was rather widely diffused.
+
+Gerbert's treatise _Libellus de numerorum divisione_[459] is characterized
+by Chasles as "one of the most obscure documents in the history of
+science."[460] The most complete information in regard to this and the
+other mathematical works of Gerbert is given by Bubnov,[461] who considers
+this work to be genuine.[462]
+
+{117}
+
+So little did Gerbert appreciate these numerals that in his works known as
+the _Regula de abaco computi_ and the _Libellus_ he makes no use of them at
+all, employing only the Roman forms.[463] Nevertheless Bernelinus[464]
+refers to the nine [.g]ob[=a]r characters.[465] These Gerbert had marked on
+a thousand _jetons_ or counters,[466] using the latter on an abacus which
+he had a sign-maker prepare for him.[467] Instead of putting eight counters
+in say the tens' column, Gerbert would put a single counter marked 8, and
+so for the other places, leaving the column empty where we would place a
+zero, but where he, lacking the zero, had no counter to place. These
+counters he possibly called _caracteres_, a name which adhered also to the
+figures themselves. It is an interesting speculation to consider whether
+these _apices_, as they are called in the Boethius interpolations, were in
+any way suggested by those Roman jetons generally known in numismatics as
+_tesserae_, and bearing the figures I-XVI, the sixteen referring to the
+number of _assi_ in a _sestertius_.[468] The {118} name _apices_ adhered to
+the Hindu-Arabic numerals until the sixteenth century.[469]
+
+To the figures on the _apices_ were given the names Igin, andras, ormis,
+arbas, quimas, calctis or caltis, zenis, temenias, celentis, sipos,[470]
+the origin and meaning of which still remain a mystery. The Semitic origin
+of several of the words seems probable. _Wahud_, _thaneine_, {119}
+_thalata_, _arba_, _kumsa_, _setta_, _sebba_, _timinia_, _taseud_ are given
+by the Rev. R. Patrick[471] as the names, in an Arabic dialect used in
+Morocco, for the numerals from one to nine. Of these the words for four,
+five, and eight are strikingly like those given above.
+
+The name _apices_ was not, however, a common one in later times. _Notae_
+was more often used, and it finally gave the name to notation.[472] Still
+more common were the names _figures_, _ciphers_, _signs_, _elements_, and
+_characters_.[473]
+
+So little effect did the teachings of Gerbert have in making known the new
+numerals, that O'Creat, who lived a century later, a friend and pupil of
+Adelhard {120} of Bath, used the zero with the Roman characters, in
+contrast to Gerbert's use of the [.g]ob[=a]r forms without the zero.[474]
+O'Creat uses three forms for zero, o, [=o], and [Greek: t], as in Maximus
+Planudes. With this use of the zero goes, naturally, a place value, for he
+writes III III for 33, ICCOO and I. II. [tau]. [tau] for 1200,
+I. O. VIII. IX for 1089, and I. IIII. IIII. [tau][tau][tau][tau] for the
+square of 1200.
+
+The period from the time of Gerbert until after the appearance of
+Leonardo's monumental work may be called the period of the abacists. Even
+for many years after the appearance early in the twelfth century of the
+books explaining the Hindu art of reckoning, there was strife between the
+abacists, the advocates of the abacus, and the algorists, those who favored
+the new numerals. The words _cifra_ and _algorismus cifra_ were used with a
+somewhat derisive significance, indicative of absolute uselessness, as
+indeed the zero is useless on an abacus in which the value of any unit is
+given by the column which it occupies.[475] So Gautier de Coincy
+(1177-1236) in a work on the miracles of Mary says:
+
+  A horned beast, a sheep,
+  An algorismus-cipher,
+  Is a priest, who on such a feast day
+  Does not celebrate the holy Mother.[476]
+
+So the abacus held the field for a long time, even against the new algorism
+employing the new numerals. {121} Geoffrey Chaucer[477] describes in _The
+Miller's Tale_ the clerk with
+
+ "His Almageste and bokes grete and smale,
+  His astrelabie, longinge for his art,
+  His augrim-stones layen faire apart
+  On shelves couched at his beddes heed."
+
+So, too, in Chaucer's explanation of the astrolabe,[478] written for his
+son Lewis, the number of degrees is expressed on the instrument in
+Hindu-Arabic numerals: "Over the whiche degrees ther ben noumbres of
+augrim, that devyden thilke same degrees fro fyve to fyve," and "... the
+nombres ... ben writen in augrim," meaning in the way of the algorism.
+Thomas Usk about 1387 writes:[479] "a sypher in augrim have no might in
+signification of it-selve, yet he yeveth power in signification to other."
+So slow and so painful is the assimilation of new ideas.
+
+Bernelinus[480] states that the abacus is a well-polished board (or table),
+which is covered with blue sand and used by geometers in drawing
+geometrical figures. We have previously mentioned the fact that the Hindus
+also performed mathematical computations in the sand, although there is no
+evidence to show that they had any column abacus.[481] For the purposes of
+computation, Bernelinus continues, the board is divided into thirty
+vertical columns, three of which are reserved for fractions. Beginning with
+the units columns, each set of {122} three columns (_lineae_ is the word
+which Bernelinus uses) is grouped together by a semicircular arc placed
+above them, while a smaller arc is placed over the units column and another
+joins the tens and hundreds columns. Thus arose the designation _arcus
+pictagore_[482] or sometimes simply _arcus_.[483] The operations of
+addition, subtraction, and multiplication upon this form of the abacus
+required little explanation, although they were rather extensively treated,
+especially the multiplication of different orders of numbers. But the
+operation of division was effected with some difficulty. For the
+explanation of the method of division by the use of the complementary
+difference,[484] long the stumbling-block in the way of the medieval
+arithmetician, the reader is referred to works on the history of
+mathematics[485] and to works relating particularly to the abacus.[486]
+
+Among the writers on the subject may be mentioned Abbo[487] of Fleury (c.
+970), Heriger[488] of Lobbes or Laubach {123} (c. 950-1007), and Hermannus
+Contractus[489] (1013-1054), all of whom employed only the Roman numerals.
+Similarly Adelhard of Bath (c. 1130), in his work _Regulae Abaci_,[490]
+gives no reference to the new numerals, although it is certain that he knew
+them. Other writers on the abacus who used some form of Hindu numerals were
+Gerland[491] (first half of twelfth century) and Turchill[492] (c. 1200).
+For the forms used at this period the reader is referred to the plate on
+page 88.
+
+After Gerbert's death, little by little the scholars of Europe came to know
+the new figures, chiefly through the introduction of Arab learning. The
+Dark Ages had passed, although arithmetic did not find another advocate as
+prominent as Gerbert for two centuries. Speaking of this great revival,
+Raoul Glaber[493] (985-c. 1046), a monk of the great Benedictine abbey of
+Cluny, of the eleventh century, says: "It was as though the world had
+arisen and tossed aside the worn-out garments of ancient time, and wished
+to apparel itself in a white robe of churches." And with this activity in
+religion came a corresponding interest in other lines. Algorisms began to
+appear, and knowledge from the outside world found {124} interested
+listeners. Another Raoul, or Radulph, to whom we have referred as Radulph
+of Laon,[494] a teacher in the cloister school of his city, and the brother
+of Anselm of Laon[495] the celebrated theologian, wrote a treatise on
+music, extant but unpublished, and an arithmetic which Nagl first published
+in 1890.[496] The latter work, preserved to us in a parchment manuscript of
+seventy-seven leaves, contains a curious mixture of Roman and [.g]ob[=a]r
+numerals, the former for expressing large results, the latter for practical
+calculation. These [.g]ob[=a]r "caracteres" include the sipos (zero),
+[Symbol], of which, however, Radulph did not know the full significance;
+showing that at the opening of the twelfth century the system was still
+uncertain in its status in the church schools of central France.
+
+At the same time the words _algorismus_ and _cifra_ were coming into
+general use even in non-mathematical literature. Jordan [497] cites
+numerous instances of such use from the works of Alanus ab Insulis[498]
+(Alain de Lille), Gautier de Coincy (1177-1236), and others.
+
+Another contributor to arithmetic during this interesting period was a
+prominent Spanish Jew called variously John of Luna, John of Seville,
+Johannes Hispalensis, Johannes Toletanus, and Johannes Hispanensis de
+Luna.[499] {125} His date is rather closely fixed by the fact that he
+dedicated a work to Raimund who was archbishop of Toledo between 1130 and
+1150.[500] His interests were chiefly in the translation of Arabic works,
+especially such as bore upon the Aristotelian philosophy. From the
+standpoint of arithmetic, however, the chief interest centers about a
+manuscript entitled _Joannis Hispalensis liber Algorismi de Practica
+Arismetrice_ which Boncompagni found in what is now the _Bibliotheque
+nationale_ at Paris. Although this distinctly lays claim to being
+Al-Khow[=a]razm[=i]'s work,[501] the evidence is altogether against the
+statement,[502] but the book is quite as valuable, since it represents the
+knowledge of the time in which it was written. It relates to the operations
+with integers and sexagesimal fractions, including roots, and contains no
+applications.[503]
+
+Contemporary with John of Luna, and also living in Toledo, was Gherard of
+Cremona,[504] who has sometimes been identified, but erroneously, with
+Gernardus,[505] the {126} author of a work on algorism. He was a physician,
+an astronomer, and a mathematician, translating from the Arabic both in
+Italy and in Spain. In arithmetic he was influential in spreading the ideas
+of algorism.
+
+Four Englishmen--Adelhard of Bath (c. 1130), Robert of Chester (Robertus
+Cestrensis, c. 1143), William Shelley, and Daniel Morley (1180)--are
+known[506] to have journeyed to Spain in the twelfth century for the
+purpose of studying mathematics and Arabic. Adelhard of Bath made
+translations from Arabic into Latin of Al-Khow[=a]razm[=i]'s astronomical
+tables[507] and of Euclid's Elements,[508] while Robert of Chester is known
+as the translator of Al-Khow[=a]razm[=i]'s algebra.[509] There is no reason
+to doubt that all of these men, and others, were familiar with the numerals
+which the Arabs were using.
+
+The earliest trace we have of computation with Hindu numerals in Germany is
+in an Algorismus of 1143, now in the Hofbibliothek in Vienna.[510] It is
+bound in with a {127} _Computus_ by the same author and bearing the date
+given. It contains chapters "De additione," "De diminutione," "De
+mediatione," "De divisione," and part of a chapter on multiplication. The
+numerals are in the usual medieval forms except the 2 which, as will be
+seen from the illustration,[511] is somewhat different, and the 3, which
+takes the peculiar shape [Symbol], a form characteristic of the twelfth
+century.
+
+It was about the same time that the _Sefer ha-Mispar_,[512] the Book of
+Number, appeared in the Hebrew language. The author, Rabbi Abraham ibn Meir
+ibn Ezra,[513] was born in Toledo (c. 1092). In 1139 he went to Egypt,
+Palestine, and the Orient, spending also some years in Italy. Later he
+lived in southern France and in England. He died in 1167. The probability
+is that he acquired his knowledge of the Hindu arithmetic[514] in his
+native town of Toledo, but it is also likely that the knowledge of other
+systems which he acquired on travels increased his appreciation of this
+one. We have mentioned the fact that he used the first letters of the
+Hebrew alphabet, [Hebrew: A B G D H W Z CH T`], for the numerals 9 8 7 6 5
+4 3 2 1, and a circle for the zero. The quotation in the note given below
+shows that he knew of the Hindu origin; but in his manuscript, although he
+set down the Hindu forms, he used the above nine Hebrew letters with place
+value for all computations.
+
+       *       *       *       *       *
+
+
+{128}
+
+CHAPTER VIII
+
+THE SPREAD OF THE NUMERALS IN EUROPE
+
+Of all the medieval writers, probably the one most influential in
+introducing the new numerals to the scholars of Europe was Leonardo
+Fibonacci, of Pisa.[515] This remarkable man, the most noteworthy
+mathematical genius of the Middle Ages, was born at Pisa about 1175.[516]
+
+The traveler of to-day may cross the Via Fibonacci on his way to the Campo
+Santo, and there he may see at the end of the long corridor, across the
+quadrangle, the statue of Leonardo in scholars garb. Few towns have honored
+a mathematician more, and few mathematicians have so distinctly honored
+their birthplace. Leonardo was born in the golden age of this city, the
+period of its commercial, religious, and intellectual prosperity.[517]
+{129} Situated practically at the mouth of the Arno, Pisa formed with Genoa
+and Venice the trio of the greatest commercial centers of Italy at the
+opening of the thirteenth century. Even before Venice had captured the
+Levantine trade, Pisa had close relations with the East. An old Latin
+chronicle relates that in 1005 "Pisa was captured by the Saracens," that in
+the following year "the Pisans overthrew the Saracens at Reggio," and that
+in 1012 "the Saracens came to Pisa and destroyed it." The city soon
+recovered, however, sending no fewer than a hundred and twenty ships to
+Syria in 1099,[518] founding a merchant colony in Constantinople a few
+years later,[519] and meanwhile carrying on an interurban warfare in Italy
+that seemed to stimulate it to great activity.[520] A writer of 1114 tells
+us that at that time there were many heathen people--Turks, Libyans,
+Parthians, and Chaldeans--to be found in Pisa. It was in the midst of such
+wars, in a cosmopolitan and commercial town, in a center where literary
+work was not appreciated,[521] that the genius of Leonardo appears as one
+of the surprises of history, warning us again that "we should draw no
+horoscope; that we should expect little, for what we expect will not come
+to pass."[522]
+
+Leonardo's father was one William,[523] and he had a brother named
+Bonaccingus,[524] but nothing further is {130} known of his family. As to
+Fibonacci, most writers[525] have assumed that his father's name was
+Bonaccio,[526] whence _filius Bonaccii_, or Fibonacci. Others[527] believe
+that the name, even in the Latin form of _filius Bonaccii_ as used in
+Leonardo's work, was simply a general one, like our Johnson or Bronson
+(Brown's son); and the only contemporary evidence that we have bears out
+this view. As to the name Bigollo, used by Leonardo, some have thought it a
+self-assumed one meaning blockhead, a term that had been applied to him by
+the commercial world or possibly by the university circle, and taken by him
+that he might prove what a blockhead could do. Milanesi,[528] however, has
+shown that the word Bigollo (or Pigollo) was used in Tuscany to mean a
+traveler, and was naturally assumed by one who had studied, as Leonardo
+had, in foreign lands.
+
+Leonardo's father was a commercial agent at Bugia, the modern Bougie,[529]
+the ancient Saldae on the coast of Barbary,[530] a royal capital under the
+Vandals and again, a century before Leonardo, under the Beni Hammad. It had
+one of the best harbors on the coast, sheltered as it is by Mt. Lalla
+Guraia,[531] and at the close of the twelfth century it was a center of
+African commerce. It was here that Leonardo was taken as a child, and here
+he went to school to a Moorish master. When he reached the years of young
+manhood he started on a tour of the Mediterranean Sea, and visited Egypt,
+Syria, Greece, Sicily, and Provence, meeting with scholars as well as with
+{131} merchants, and imbibing a knowledge of the various systems of numbers
+in use in the centers of trade. All these systems, however, he says he
+counted almost as errors compared with that of the Hindus.[532] Returning
+to Pisa, he wrote his _Liber Abaci_[533] in 1202, rewriting it in
+1228.[534] In this work the numerals are explained and are used in the
+usual computations of business. Such a treatise was not destined to be
+popular, however, because it was too advanced for the mercantile class, and
+too novel for the conservative university circles. Indeed, at this time
+mathematics had only slight place in the newly established universities, as
+witness the oldest known statute of the Sorbonne at Paris, dated 1215,
+where the subject is referred to only in an incidental way.[535] The period
+was one of great commercial activity, and on this very {132} account such a
+book would attract even less attention than usual.[536]
+
+It would now be thought that the western world would at once adopt the new
+numerals which Leonardo had made known, and which were so much superior to
+anything that had been in use in Christian Europe. The antagonism of the
+universities would avail but little, it would seem, against such an
+improvement. It must be remembered, however, that there was great
+difficulty in spreading knowledge at this time, some two hundred and fifty
+years before printing was invented. "Popes and princes and even great
+religious institutions possessed far fewer books than many farmers of the
+present age. The library belonging to the Cathedral Church of San Martino
+at Lucca in the ninth century contained only nineteen volumes of
+abridgments from ecclesiastical commentaries."[537] Indeed, it was not
+until the early part of the fifteenth century that Palla degli Strozzi took
+steps to carry out the project that had been in the mind of Petrarch, the
+founding of a public library. It was largely by word of mouth, therefore,
+that this early knowledge had to be transmitted. Fortunately the presence
+of foreign students in Italy at this time made this transmission feasible.
+(If human nature was the same then as now, it is not impossible that the
+very opposition of the faculties to the works of Leonardo led the students
+to investigate {133} them the more zealously.) At Vicenza in 1209, for
+example, there were Bohemians, Poles, Frenchmen, Burgundians, Germans, and
+Spaniards, not to speak of representatives of divers towns of Italy; and
+what was true there was also true of other intellectual centers. The
+knowledge could not fail to spread, therefore, and as a matter of fact we
+find numerous bits of evidence that this was the case. Although the bankers
+of Florence were forbidden to use these numerals in 1299, and the statutes
+of the university of Padua required stationers to keep the price lists of
+books "non per cifras, sed per literas claros,"[538] the numerals really
+made much headway from about 1275 on.
+
+It was, however, rather exceptional for the common people of Germany to use
+the Arabic numerals before the sixteenth century, a good witness to this
+fact being the popular almanacs. Calendars of 1457-1496[539] have generally
+the Roman numerals, while Koebel's calendar of 1518 gives the Arabic forms
+as subordinate to the Roman. In the register of the Kreuzschule at Dresden
+the Roman forms were used even until 1539.
+
+While not minimizing the importance of the scientific work of Leonardo of
+Pisa, we may note that the more popular treatises by Alexander de Villa Dei
+(c. 1240 A.D.) and John of Halifax (Sacrobosco, c. 1250 A.D.) were much
+more widely used, and doubtless contributed more to the spread of the
+numerals among the common people.
+
+{134}
+

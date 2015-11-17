@@ -1,0 +1,135 @@
+The trouble with the Ditmars-Horst reactor was that it lacked any
+automatic negative-feedback system. If a D-H decided to go wild, it went
+wild. Fortunately, that rarely happened. The safe limits for reactions
+were quite wide--wider, usually, than the reaction limits themselves, so
+that there was always a margin of safety. And within the limits, a
+nicety of control existed that made nucleonics almost an esoteric branch
+of chemistry. Cookbook chemistry, practically.
+
+Want deuterium? Recipe: To 1.00813 gms. purest Hydrogen-1 add, slowly
+and with care, 1.00896 gms. fine-grade neutrons. Cook until well done in
+a Ditmars-Horst reactor. Yield: 2.01471 gms. rare old deuterium plus
+some two million million million ergs of raw energy. Now you are cooking
+with gas!
+
+All you had to do was keep the reaction going at a slow enough rate so
+that the energy could be bled off, and there was nothing to worry about.
+Usually. But control of the feebleizer fields still wasn't perfect,
+because the fields that enfeebled the reactions and made them easy to
+control weren't yet too well understood.
+
+       *       *       *
+
+Peter de Hooch turned into Corridor C and kept on running. There was
+plenty of air still in this corridor, and there was apparently little
+likelihood of his needing his vac suit. But on the moon nobody responds
+to an emergency call without a vac suit.
+
+He was troubled about Corridors A and B. The explosion must have been
+pretty violent to have sealed off two of the four corridors leading from
+the living quarters to the reaction labs. Two corridors went directly to
+one of the reactors, two went directly to the second. Two more connected
+the reactor labs themselves, putting the labs and the living quarters at
+the corners of an equilateral triangle. (Peter had never been able to
+figure out why A and B corridors led to Reactor Two, while C and D led
+to Reactor One. Logically, he thought, it should have been the other way
+around. Oh, well.)
+
+Going down C meant that he'd have to get to Reactor Two the long way
+around.
+
+What had the damage been? he asked himself. Had anyone been hurt? Or
+killed? He pushed the questions out of his mind. There was no point in
+speculating. He'd have the information soon enough.
+
+He took the cutoff to the left, at a sixty-degree angle to Corridor C,
+which led him directly to Corridor E, by-passing Reactor One. He noticed
+as he went by that the operations lamp was out. Nobody was working with
+Reactor One.
+
+As he pounded on down the empty corridor, he suddenly realized that he
+hadn't seen anyone else running with him. There were five other men in
+the reactor station, and--so far--he had seen no one. He knew where
+Willows was, but where were Ferguson, Metty, Laynard, and Quillan? He
+pushed those questions out of his mind, too, for the time being.
+
+A head popped out of the door at the far end of the corridor.
+
+"Guz! _Hurry_, Guz!"
+
+De Hooch didn't bother to answer Willows. He was short of breath as it
+was. He knew, besides, that no answer was expected. He had known Willows
+for years, and knew how he thought. It was Willows who had first tagged
+de Hooch with that silly nickname, "Guzzle". Not because Peter was such
+a heavy drinker--although he could hold it like a gentleman--but because
+he had thought "Guzzle" de Hooch was so uproariously funny. "Nobody
+likes a guzzle as well as de Hooch," he'd say, with an idiot grin. As a
+result, everybody called Peter "Guz" now.
+
+The head had vanished back into the control room of Reactor Two. De
+Hooch kept on running, his breath rasping loudly in the confines of the
+fishbowl helmet. Running four hundred yards isn't the easiest thing in
+the world, even if a man is in good physical condition. There was less
+weight to contend with, but the mass that had to be pushed along
+remained the same. The notion that running on Luna was an effortless
+breeze was one that only Earthhuggers clung to.
+
+He ran into the control room and stopped, panting heavily. "What ...
+happened?"
+
+Sam Willows' normally handsome face looked drawn. "Something went wrong.
+I don't know what. I was finishing up with Reactor One when I heard the
+explosion. They are both"--he gestured toward the reactor--"both in
+there."
+
+"Still alive?"
+
+"I think so. One of 'em, anyway. Take a look."
+
+De Hooch went over to the periscope and put his eyes to the binoculars.
+He could see two figures in heavy, dull-gray radiation-proof suits. They
+were lying flat on the floor, and neither was moving. De Hooch said as
+much.
+
+"The one on the left was moving his arm--just a little," Willows said.
+"I'll swear he was."
+
+Something in the man's voice made de Hooch turn his head away from the
+periscope's eyepieces. Willows' face was gray, and a thin film of greasy
+perspiration reflected the light from the overhead plates. The man was
+on the verge of panic.
+
+"Calm down, Puss," de Hooch said gently. "Where's Quillan and Laynard?"
+
+"They're in their rooms," Willows said in a tight voice. "Trapped. The
+bulkheads have closed 'em off in A. No air in the corridor. We'll have
+to dig 'em out. I called 'em both on the phone. They're all right, but
+they're trapped."
+
+"Did you call Base?"
+
+"Yes. They haven't got a ship. They sent three moon-cats, though. They
+ought to be here by morning."
+
+De Hooch looked up at the chronometer on the wall. Oh one twelve,
+Greenwich time. "Morning" meant any time between eight and noon; the
+position of the sun up on the surface had nothing to do with Lunar time.
+As a matter of fact, there was a full Earth shining at the moment, which
+meant that it wouldn't be dawn on the surface for a week yet.
+
+"If the cats from Base get here by noon, we'll be O.K., won't we?" de
+Hooch asked.
+
+"Look at the instruments," Willows said.
+
+De Hooch ran a practiced eye over the console and swallowed. "What were
+they running?"
+
+"Mercury 203," Willows said. "Half-life forty-six point five days. Beta
+and gamma emitter. Converts to Thallium 203, stable."
+
+"What did they want with a kilogram of the stuff?"
+
+"Special order. Shipment to Earth for some reason."
+
+"Have you checked the end-point? She's building up fast."

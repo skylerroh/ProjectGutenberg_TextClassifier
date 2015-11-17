@@ -1,0 +1,521 @@
+    Dextrin............. |    0.0455    |   0.0380   |    306
+    Gum substitute...... |    0.0318    |   0.0224   |    180
+    Gum substitute...... |    0.0318    |   0.0224   |    180
+    Amrad............... |    0.0793    |   0.0708   |    570
+    Australian.......... |    0.0378    |   0.0283   |    228
+    Australian.......... |    0.0365    |   0.0268   |    216
+    Brazilian........... |    0.0668    |   0.0627   |    506
+    Brazilian........... |    0.0516    |   0.0445   |    359
+    Ghatti.............. |    0.3636    |   0.3621   |  2,920
+    ---------------------+--------------+------------+----------
+
+In the column for [eta] corrected the differences due to the use of
+different instruments are of course eliminated. The absolute viscosity
+of water at 15 deg. C. determined in four different instruments is shown
+below. Poiseuille's value for water being 0.0122.
+
+ --------------+-------------+-------------+-------------+-------------+
+   Instrument. |      1.     |      2.     |      3.     |      4.     |
+ --------------+-------------+-------------+-------------+-------------+
+ [eta] corrtd. |      0.0109 |     0.01185 |      0.0124 |      0.0120 |
+     of water. |             |             |             |             |
+ K_{1} value.. | 0.000000898 | 0.000000863 | 0.000000932 |  0.00000052 |
+ K_{2} value.. |       0.235 |      0.2175 |       0.226 |      0.0204 |
+ --------------+-------------+-------------+-------------+-------------+
+
+The above values for various gums and dextrins were obtained at a
+constant temperature of 15 deg. C. and are compared with water at that
+temperature. It is of the utmost importance that the temperature of the
+water surrounding the bulbs should be adjusted for each series of
+experiments to the temperature at which the absolute viscosity of the
+water was determined. As far as we have ascertained, in gum solutions
+there is a steady diminution in viscosity with increase of temperature
+until a certain temperature is reached, beyond which increase of heat
+does not markedly influence the viscosity, and it is possible that above
+this "critical point," as we may term it, the gum solutions once more
+begin to increase in viscosity. The temperature at which the viscosity
+becomes stationary varies somewhat with different gums, but broadly
+speaking it lies between 60 deg. C. and 90 deg. C., no gums showing any marked
+decrease in viscosity between 80 deg. C. and 90 deg. C.
+
+The experiments we have made in this direction were conducted as
+follows. The 300 c.c. bottle containing the gum was placed in a
+capacious beaker full of hot water, and the viscosity instrument was
+also surrounded with water at the same temperature. Thermometers were
+suspended both in the beaker and the outer jar. The viscosity at the
+highest temperature obtained, about 90 deg. C., was then taken and repeated
+for every fall of 4 deg. C. till the water reached the temperature of the
+air.
+
+The values so obtained gradually diminished with the increase of
+temperature. From the [eta] values obtained the Z values were
+calculated, using water at 15 deg. C. as a standard. From the Z values thus
+obtained taken as the ordinate, and the temperature of each experiment
+as the abscissa, curves were plotted out embodying the results, examples
+of which are given below. The curves yielded by three gums 2, 7, and 8
+changed between 90 deg. C and 100 deg. C., while gum sample 4 has a curve
+bending between 60 deg. C. and 70 deg. C. Experimentally this increase of
+viscosity of the latter gum above 60 deg. C. was confirmed, but the critical
+point of the other solutions tried approaches too nearly to the boiling
+point of water for experiments to be conducted with accuracy, as the
+temperature of the bulbs diminishes sensibly while the experiment is
+being made.
+
+If viscosity values have been determined it is possible to calculate the
+remaining or intermediate values for Z at any particular temperature
+from the general equation--
+
+      Zt = A + Bt + Ct squared
+
+As an example of the mode of calculation we may quote the following. A
+gum gave the following values for Z at the temperature stated:
+
+     Gum. 50 deg. C. Z_{50 deg.} = 228
+
+     Gum. 30 deg. C. Z_{30 deg.} = 339
+
+     Gum. 20 deg. C. Z_{20 deg.} = 412
+
+from which the constants--
+
+     A = 592.99     B = -10.2153     C = 0.0583
+
+can be obtained, and thus the value of Z_{t deg.} for any required
+temperature. The numbers calculated for gums all point to a diminution
+in viscosity up to a certain point, and then a gradual increase. A
+comparison of some of the figures actually obtained in some of these
+experiments, compared with the calculated figures for the same
+temperature, shows their general agreement.
+
+[Illustration: Curves showing viscosity change with temperature for
+three typical gums. A--Arabic VII. B--Senegal VIII. C--Ghatti 15.]
+
+    EFFECT OF TEMPERATURE UPON VISCOSITY--GUM VII.
+
+     ------------+------+--------+-------------+
+     Temperature.| [eta]|Z found.|Z calculated.|
+     ------------+------+--------+-------------+
+          deg.C      |      |        |             |
+         50      |0.0283|  228   |   228.00    |
+         45      |0.0305|  246   |   246.55    |
+         42      |0.0352|  284   |   266.75    |
+         38      |0.0368|  297   |   289.00    |
+         34      |0.0410|  330   |   313.06    |
+         30      |0.0419|  339   |   339.00    |
+         26      |0.0445|  359   |   367.80    |
+         22      |0.0492|  398   |   396.47    |
+         20      |0.0511|  412   |   412.00    |
+         18      |0.0531|  428   |   428.00    |
+     ------------+------+--------+-------------+
+
+    EFFECT OF TEMPERATURE UPON VISCOSITY.--GUM VIII.
+
+     ------------+------+--------+-------------|
+     Temperature.| [eta]|Z found.|Z calculated.|
+     ------------+------+--------+-------------|
+           deg.C.    |      |        |             |
+          50     |0.0430|  347   |    347      |
+          46     |0.0475|  383   |    371.14   |
+          42     |0.0502|  405   |    397.09   |
+          38     |0.0510|  411   |    424.73   |
+          34     |0.0575|  463   |    454.06   |
+          30     |0.0602|  485   |    485      |
+          26     |0.0637|  513   |    517.82   |
+          22     |0.0667|  538   |    552.25   |
+          20     |0.0707|  570   |    570      |
+          18     |0.0755|  609   |    583.07   |
+     ------------+------+--------+-------------+
+
+The constants for the first gum are those given in the preceding column,
+while for the latter they were--
+
+     A = 771.9:  B = -11.15:  C = 0.053
+
+As will be observed, the effect of heat appears to be the same upon the
+two typical gum arabics quoted above, an increase of temperature from
+18 deg. C. to 50 deg. C. decreasing the viscosity by nearly one half in both
+cases, and the same seems to be true of most gum arabics. Roughly also
+the same holds good for Ghattis, as the following numbers show:
+
+    ------------+-------------+------------|
+        Gum.    | Z at 18 deg. C. | Z at 50 deg. C.|
+    ------------+-------------+------------|
+    Gum arabic. |    1016     |    579     |
+    Gum arabic. |     428     |    228     |
+    Gum arabic. |     609     |    347     |
+    Gum arabic. |     581     |    258     |
+    Ghatti.     |     572     |    306     |
+    Ghatti.     |     782     |    418     |
+    ---------------------------------------+
+
+The following table shows the effect of heat upon the viscosity of a
+typical Ghatti:
+
+  GHATTI GUM NO. 15.--VISCOSITY.
+
+   ------------+------+-----|
+   Temperature.| [eta]|  Z. |
+   ------------+------+-----|
+        deg.C.     |      |     |
+       50      |0.0517| 418 |
+       46      |0.0581| 468 |
+       42      |0.0628| 506 |
+       38      |0.0726| 585 |
+       34      |0.0788| 635 |
+       30      |0.0857| 691 |
+       26      |0.0889| 717 |
+       22      |0.0919| 741 |
+       20      |0.0946| 763 |
+       18      |0.0964| 777 |
+   ------------+------+-----+
+
+There is therefore no essential difference in the behavior of a Ghatti
+and a gum arabic on heating. Some interesting results, however, were
+obtained by heating gums, both Ghattis and arabics, at a fixed
+temperature for the same time, cooling, and then after making the
+solutions up to the original volume taking their viscosities at the
+ordinary temperature. The effect of heating for two hours to 60 deg. C., 80 deg.
+C., or 100 deg. C. was a small permanent alteration in viscosity of the
+solution, and it would therefore seem desirable that gum solutions
+should be made up cold to get the maximum results. The following numbers
+illustrate this change, viz.:
+
+------------------------+-----------+-----------------------+
+                        |           |    After heating to   |
+Gum Arabic              |   Without |-------+-------+-------+
+10 Per Cent.            |    heat.  | 60 deg.C. | 80 deg.C. | 100 deg.C |
+------------------------+-----------+-------+-------+-------+
+Z at 18 deg.C               |    570    |  468  |  470  |  517  |
+Z at 30 deg.C               |    485    |  400  |  422  |  439  |
+Z at 50 deg.C               |    347    |  287  |  258  |  301  |
+Ghatti gum No. 15,      |           |       |       |       |
+ 5 per cent. Z at 18 deg.C. |  1,104    |  780  |  660  |  758  |
+------------------------+-----------+-------+-------+-------+
+
+The variation of viscosity with strength of solution was also studied
+with one or two typical gums. A 10 per cent. is invariably more than
+twice as viscous as a 5 per cent. solution. The following curve was
+obtained from one of the Ghattis. Similar results were shown by other
+gums.
+
+[Illustration: Variation of Viscosity, with Dilution. Ghatti No. 888.]
+
+It would seem, therefore, that strong solutions, say of 50 per cent.
+strength, would be more alike in viscosity than solutions of 5 per cent.
+strength of the same gums. In other words, the viscosity of a gum
+solution should be taken as nearly as possible to the strength it is
+used at, to obtain an exact quantitative idea of its gumming value.
+
+The observation of this fact was one of the circumstances which decided
+us to use 5 per cent. solutions for the determination of Ghatti gum
+viscosities, the ratio between the 5 per cent. and 10 per cent.
+solutions of gum arabics being roughly the same as that between the
+respective weights required for gumming solutions of equal value.
+
+From observation of the general nature of the solutions of Ghatti gums,
+and from the fact that when allowed to stand portions of the apparently
+insoluble matter passed into solution, the hypothesis suggested itself
+that metarabin was soluble in arabin, although insoluble in cold water.
+If this hypothesis were correct, it would explain the apparent anomaly
+of Ghattis giving solutions of higher viscosity than gum arabics,
+although they leave insoluble matter behind. The increase in viscosity
+would be due to the thickening of the arabic acid by the metarabin.
+Moreover, the solutions yielded by various Ghattis leaving insoluble
+matter behind would _be all of the same kind_, viz., a saturated
+solution of metarabin in arabin more or less diluted by water. Still
+further, if the insoluble residue of a Ghatti be the residual metarabin
+over and above that required to saturate the arabin, then it will be
+possible to dissolve this by the addition of more arabin in the form of
+ordinary gum arabic. In order to see if this were the case the following
+experiments were performed. Equal parts of a Ghatti and of a gum arabic
+were ground up together and dissolved in water. The resulting solution
+was _clear_. It was diluted until of 10 per cent. strength, and its
+viscosity then taken:
+
+---------------------+-------------+----------------+
+                     | Contains 50 per Cent. Ghatti.|
+---------------------+-------------+----------------+
+A. Pressure 200 mm   |    [eta]    |      Z.        |
+Temperature 15 deg. C    |    0.2517   |    2,030       |
+---------------------+-------------+----------------+
+
+The viscosity of this solution therefore was considerably greater than
+the mean viscosity of the 10 per cent. solutions of the Ghatti and the
+gum arabic, viz., (0.288 + 0.0636)/2 = 0.1758 for the calculated [eta].
+Hence it is evident that the increase in viscosity is due to the
+solution of the metarabin.
+
+Next a solution was made from a mixture of 70 per cent. Ghatti and 30
+per cent. gum arabic. This was also clear and gave a considerably higher
+viscosity than the previous solution.
+
+---------------------+------------------------------+
+                     | Contains 70 per Cent. Ghatti.|
+---------------------+-------------+----------------+
+B. Pressure 200 mm   |    [eta]    |      Z.        |
+Temperature 15 deg. C    |    0.3177   |    2,562       |
+---------------------+-------------+----------------+
+
+It will be obvious that the increase of viscosity over the previous
+solution in this case must be due to the smaller amount of the thin gum
+arabic which is present, _i.e._, in the first case there is more gum
+arabic than is required to dissolve the whole of the insoluble
+metarabin. Further experiments showed that this is also true of the
+second mixture, as the viscosities of the following mixtures
+illustrate:
+
+    -------------------------+--------+-------+
+      Strength of Solution.  | [eta]  |   Z.  |
+    -------------------------+--------+-------|
+    C. 80 per cent. Ghatti.  |0.3642  | 2,937 |
+    D. 75 per cent. Ghatti.  |0.33095 | 2,669 |
+    E. 77.5 per cent. Ghatti.|0.4860  | 3,819 |
+    -------------------------+--------+-------+
+
+This last solution E we called for convenience the "maximum viscosity"
+solution, as we believe it to be a 10 per cent. solution containing
+arabin very nearly saturated with metarabin. As will be observed, its
+viscosity differs widely from those of solutions C and D, between which
+it lies in percentage of Ghatti. The first named solution C contains
+_too little_ of gum arabic to dissolve the whole of the metarabin.
+Consequently there is a residue left undissolved, which of course
+diminishes its viscosity. The second solution D is too low in viscosity,
+as it still contains too much of the weak gum arabic, and as will be
+seen further on, a very slight change in the proportions increases or
+decreases the viscosity enormously.
+
+We next tried a series of similar experiments with a Ghatti containing
+far less insoluble residue and which consequently would require less gum
+arabic to produce a perfect solution. Mixtures were made in the
+following proportions, viz.:
+
+    ----------------------+------------+-----------+
+            -----         | 13.3 per Cent. Ghatti. |
+    ----------------------+------------+-----------+
+    F. Pressure 200 mm.   |      [eta] |     Z.    |
+       Temperature 15 deg. C. |     0.0976 |    787    |
+    ----------------------+------------+-----------+
+
+    ----------------------+------------+-----------+
+            -----         | 86.6 per Cent. Ghatti. |
+    ----------------------+------------+-----------+
+    G. Pressure 200 mm.   |      [eta] |     Z.    |
+       Temperature 15 deg. C. |     0.4336 |   3,497   |
+    ----------------------+------------+-----------+
+
+This latter solution is approaching fairly closely to our "maximum
+viscosity" with the previous Ghatti, and probably a very slight decrease
+in the amount of gum arabic would bring about the required increase in
+viscosity.
+
+When these experiments were first commenced we were still under the
+impression, which several months' experience of working with gums had
+produced, namely, that the Ghattis were quite distinct in their
+properties to ordinary gum arabics. But the new hypothesis, and the
+experiments undertaken to confirm it, showed clearly that if the
+viscosity of a gum solution depends on the ratio of metarabin to arabin,
+then there is no absolute line of demarkation between a Ghatti and a gum
+arabic. In other words, there is a constant gradation between gum arabic
+and Ghattis, down to such gums as cherry gum, consisting wholly of
+metarabin and quite insoluble in water. Therefore those gum arabics
+which are low in viscosity consist of nearly pure arabin, while as the
+viscosity increases so does the amount of metarabin, until we come to
+Ghattis which contain more metarabin than their arabin can hold in
+solution, when their viscosity goes down again.
+
+From these observations it would follow, that by taking a gum of less
+viscosity than the gum arabic previously used to dissolve the Ghatti,
+less of it would be required to do the same work. We confirmed this
+suggestion experimentally by taking another gum arabic of viscosity
+0.0557 at 15 deg. C. A mixture containing 93.3 per cent. of this Ghatti and
+6.7 per cent. of our thinnest gum arabic gave a clear solution which had
+the highest viscocity we have yet obtained for a 10 per cent. solution.
+
+    ----------------------+--------+-------+
+    H. Pressure 200 mm.   |  [eta] |   Z.  |
+       Temperature 15 deg. C. | 0.5525 | 4,456 |
+    ----------------------+--------+-------+
+
+This gum arabic may be regarded as nearly pure arabin (as calcium and
+potassium, etc., salt). By diluting the new "maximum viscosity"
+solution, therefore, with the 10 per cent. solution of the gum arabic in
+fixed proportions we obtain a series of viscosities which are shown in
+the following curve.
+
+[Illustration: Curve Showing Influence of Ghatti upon Viscosity.]
+
+Besides obtaining this curve for change in viscosity from maximum amount
+of metarabin to no metarabin at all, we also traced the decrease in
+viscosity of the "maximum" solution by dilution with water. The
+following numbers were thus obtained, and plotted out into a curve.
+
+Having obtained this curve, we are now in a position to follow up the
+hypothesis by calculating the surplus amount of insoluble matter in a
+Ghatti. For, let it be conceded that the solution of any Ghatti leaving
+an insoluble residue is a mixture of arabin and metarabin in the same
+ratio as our "maximum" solution, only more diluted with water, then from
+the found viscosity we obtain a point on the curve for dilution, which
+gives the percentage of dissolved matter.
+
+Now to show the use of this: The Z value for a 10 per cent. solution of
+the second Ghatti at 15 deg. C. is 2,940. This corresponds on the curve to
+8.4 dissolved matter. 10 - 8.4 = 1.6 grammes in 10 grammes, which is
+insoluble.
+
+CHANGE OF VISCOSITY WITH DILUTION--"MAXIMUM" SOLUTION. 15 deg. C.
+TEMPERATURE.
+
+    ------------+--------------+---------
+    Percentage. | [eta]        |     Z.
+    ------------+--------------+---------
+        10      |    0.55250   |   4,456
+         9      |    0.42850   |   3,456
+         8      |    0.35120   |   2,832
+         7      |    0.27660   |   2,230
+         6      |    0.22290   |   1,797
+         5      |    0.16810   |   1,355
+         4      |    0.11842   |     955
+         3      |    0.08020   |     647
+         2      |    0.06190   |     499
+         1      |    0.03610   |     291
+    ------------+--------------+---------
+
+[Illustration: Curve of Variation in Viscosity on Dilution of the
+"Maximum" Solution.]
+
+We have already shown that a "maximum" viscosity solution of this gum is
+formed when 6.7 per cent, of thin gum arabic is added to it, and
+therefore 6.7 parts of a thin gum arabic are required to bring 16 parts
+of metarabin into solution. A convenient rule, therefore, in order to
+obtain complete solution of a Ghatti gum is to add half the weight in
+thin gum of the insoluble metarabin found from the viscosity
+determination. But the portion of the gum which dissolved is made up in
+a similar manner (being a diluted "maximum" solution).
+
+Therefore the 84 per cent. of soluble matter contains 58 parts of
+metarabin, and the total metarabin in this gum is 58 + 16 = 74 per cent,
+on the dry gum.
+
+With these solutions of high viscosity some other work was done which
+may be of interest. The temperature curves of the mixtures marked E, G,
+and F were obtained between 60 deg. C. and 15 deg. C. The two former curves
+showed a direction practically parallel to that at the 10 per cent.
+solutions, and as they were approaching to the "maximum" solution, this
+is what one would expect. Mr. S. Skinner, of Cambridge, was also good
+enough to determine the electrical resistances of these solutions and
+the Ghattis and gum arabics employed in their preparation. The
+electrical resistance of these gum solutions steadily diminishes as the
+temperature increases, and the curve is similar to those obtained for
+rate of change with temperature. Although the curves run in, roughly,
+the same direction, there does not appear to be any exact ratio between
+the viscosities of two gums say at 15 deg. C. and their electrical
+resistances at the same temperature; hence it would not seem possible to
+substitute a determination of the electrical resistance for the
+viscosity determination. The results appear to be greatly influenced by
+the amount of mineral matter present, gums with the greatest ash giving
+lower resistances.
+
+Experiments were conducted with two Ghattis and two gum arabics, besides
+the mixtures marked E, F, and H. Comparison of the electrical
+resistances with the viscosities at 15 deg. C. shows the absence of any
+fixed ratio between them.
+
+    -----------+------+-------------+------------
+      Gum or   |   deg.C. |    Ohms     | Z Viscosity
+      Mixture. |      | Resistance. |   at 15 deg. C.
+    -----------+------+-------------+-------------
+    Ghatti, 1  | 10   |    5,667    |    1,490
+    Ghatti, 2  | 15   |    2,220    |    2,940
+    Arabic 1   | 15   |    1,350    |      605
+    Arabic 2   | 10   |    2,021    |      449
+    Mixture F  | 15   |    1,930    |      787
+    Mixture E  | 11.3 |    2,058    |    3,919
+    -----------+------+-------------+-------------
+
+While performing these experiments, an attempt was made to obtain an
+"ash-free" gum, in order to compare its viscosity with that of the same
+gum in its natural state. A gum low in ash was dissolved in water, and
+the solution poured on to a dialyzer, and sufficient hydrochloric acid
+added to convert the salts into chlorides. When the dialyzed gum
+solution ceased to contain any trace of chlorides, it was made up to a
+10 per cent. solution, and its viscosity determined under 100 mm.
+pressure, giving the following results at 15 deg. C.:
+
+    -----------------+--------------+-----
+        --------     | [eta]        |  Z
+    -----------------+--------------+-----
+    Natural gum..... |    0.05570   | 449
+    "Ash-free" gum.. |    0.05431   | 438
+    -----------------+--------------+-----
+
+Thus showing that the viscosity of pure arabin is almost identical with
+that of its salts in gum.
+
+The yield of furfuraldehyde by the breaking down of arabin and metarabin
+was thought possibly to be of some value in differentiating the natural
+gums from one another, but we have not succeeded in obtaining results of
+much value. 0.2 gramme of a gum were heated with 100 c.c. of 15 per
+cent. sulphuric acid for about 21/2 hours in an Erlenmeyer flask with a
+reflux condenser. After this period of time, further treating did not
+increase the amount of furfuraldehyde produced. The acid liquid, which
+was generally yellow in color, was then cooled and neutralized with
+strong caustic soda. The neutral or very faintly alkaline solution was
+then distilled almost to dryness, when practically the whole of the
+furfuraldehyde comes over. The color produced by the gum distillate with
+aniline acetate can now be compared with that obtained from some
+standard substance treated similarly. The body we have taken as a
+standard is the distillate from the same weight of cane sugar. The tint
+obtained with the standard was then compared with that yielded by the
+gum distillate from which the respective ratios of furfuraldehyde are
+obtained. The following table shows some of these results:
+
+    ---------------+--------------------+-----------------+
+                   | Comparative Yield  |  Amount of      |
+    Substance.     | of Furfuraldehyde. |Glucose Produced.|
+    ---------------+--------------------+-----------------+
+    Cane sugar     |     1.00           |      ..         |
+    Starch         |     0.50           |      ..         |
+    Gum arabic     |     1.33           |    34.72        |
+    Gum arabic     |     1.20           |    43.65        |
+    Ghatti, 1      |     1.00           |    26.78        |
+    Ghatti, 2      |     1.33           |    22.86        |
+    Metarabin      |     1.75           |      ..         |
+    ---------------+--------------------+-----------------+
+
+The amount of reducing sugar calculated as glucose is also appended.
+This was estimated in the residue left in the flask after distillation
+by Fehling's solution in the usual way. The yields of furfuraldehyde
+would appear to have no definite relation to the other chemical data
+about a gum, such as the potash and baryta absorptions or the sugar
+produced on inversion.
+
+The action of gum solutions upon polarized light is interesting,
+especially in view of the fact that arabin is itself strongly
+laevo-rotatory [alpha]_{D} = -99 deg., while certain gums are distinctly
+dextro-rotatory. Hence it is evident that some other body besides arabin
+is present in the gum. We have determined the rotatory power of a number
+of gum solutions, the results of which are subjoined. On first
+commencing the experiments we experienced great difficulty from the
+nature of the solutions. Most of them are distinctly yellow in color and
+almost opaque to light, even in dilute solutions such as 5 percent. We
+found it necessary first to bleach the gums by a special process; 5
+grammes of gum are dissolved in about 40 c.c. of lukewarm water, then a
+drop of potassium permanganate is added, and the solution is heated on a
+water bath with constant stirring until the permanganate is decomposed
+and the solution becomes brown. A drop of sodium hydrogen sulphate is
+now added to destroy excess of permanganate. At the same time the
+solution becomes perfectly colorless.
+
+It can now be cooled down and made up to 100 c.c., yielding a 5 per
+cent. solution of which the rotatory power can be taken with ease. Using
+a 20 mm. tube and white light the above numbers were obtained.
+
+    ----------------+----------------+-----------------
+    Gum or Dextrin. | Solution used. |    [alpha]_{D}
+    ----------------+----------------+-----------------
+                    |   Per Cent.    |
+    Aden, 1         |       5        |     - 33.8
+    Cape, 2         |       5        |     + 28.6
+    Indian, 3       |       5        |     + 66.2
+    Eastern, 4      |       5        |     - 26.0
+    Eastern, 5      |       5        |     - 30.6

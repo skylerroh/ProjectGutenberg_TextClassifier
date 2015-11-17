@@ -1,0 +1,333 @@
+
+North pole, 20, 21, 22, 23, 25, 50, 54, 156.
+
+Number plate, 75.
+
+N-ray, 188.
+
+
+O
+
+Ohms, 60, 63.
+
+Ohms, international, 63.
+
+Ohms law, 7.
+
+Operator, 95, 118.
+
+Oscillating, 99, 105.
+
+Osmium, 169.
+
+Oxides, 125.
+
+Oxidizing, 183.
+
+Oxygen, 35, 123, 125, 126, 128, 129, 169.
+
+
+P
+
+Packing ring, 124.
+
+Paraffine, 56, 100, 101, 102.
+
+Paraffine wax, 86.
+
+Parallel, 87, 88, 89.
+
+Parallel switch bar, 67.
+
+Parallel wires, 28, 49.
+
+Partition, 124.
+
+Peon, 13.
+
+Percolate, 128.
+
+Periodicity, 159.
+
+Periods of alternations, 149.
+
+Permanent, 18, 19, 50.
+
+Permanent magnet, 25, 38, 46, 50, 172.
+
+Phase, 19.
+
+Phenomenon, 27, 65.
+
+Photograph, 186.
+
+Physical, 21.
+
+Pile, voltaic, 33.
+
+Pipe, 61.
+
+Pitchblende, 186.
+
+Pivot pin, 53.
+
+Pivotal, 22.
+
+Plane, 13.
+
+Plate, 57, 93.
+
+Plate, contact, 67, 68, 79.
+
+Plate, copper, 33, 35, 58, 67.
+
+Plate, negative, 84.
+
+Plate, number, 75.
+
+Plate, positive, 84, 88.
+
+Plate, zinc, 33.
+
+Platinum, 13, 57, 137.
+
+Pliers, 14.
+
+Plus sign, 21, 24.
+
+Pointer, 53.
+
+Polarity, 154, 177, 178, 179.
+
+Polarization, 35.
+
+Pole, north, 20, 21, 22, 23, 25, 50, 54, 156.
+
+Pole piece, 40, 42.
+
+Pole, south, 20, 21, 22, 25, 50, 54, 156.
+
+Poles, 177, 179.
+
+Polonium, 186.
+
+Porcelain, 86.
+
+Porous, 85.
+
+Positive, 4, 21, 25, 36, 40, 68, 83, 86, 87, 94, 123, 125, 151, 152,
+   153, 155, 165.
+
+Post, binding, 52, 71.
+
+Potentiality, 105, 109.
+
+Power, 38, 186.
+
+Power, candle, 89, 139.
+
+Precipitate of lead, 83, 85.
+
+Precision, 7.
+
+Pressure, 87.
+
+Primary, 35, 62, 98, 134, 142, 159, 184.
+
+Primary battery, 7, 99.
+
+Primary circuit, 99.
+
+Primary coil, 106, 109.
+
+Prime conductor, 6.
+
+Projected, 185.
+
+Propagated, 105, 185.
+
+Properties, 55.
+
+Purification, 123, 128.
+
+Purifier, 126, 131.
+
+Push button, 65, 68, 69, 70, 76, 79.
+
+
+Q
+
+Quantity, 55, 60, 61, 138.
+
+Quartz, 186.
+
+
+R
+
+Radio-activity, 186.
+
+Radium, 184, 185, 187, 188.
+
+Ratchet drill, 13.
+
+Reaction, 148.
+
+Receiver, 12, 90, 97, 121, 122.
+
+Receiving station, 109.
+
+Rectangular, 69.
+
+Rectifiers, 146.
+
+Red lead, 83, 84.
+
+Reel, 13.
+
+Reflected, 185.
+
+Refraction, 185.
+
+Refractory, 182.
+
+Register, 57.
+
+Removable, 54.
+
+Removable cap, 73.
+
+Repel, 20.
+
+Repulsion, 21, 128.
+
+Reservoir, 61, 62.
+
+Resiliency, 99.
+
+Resistance, 7, 36, 37, 60, 63, 99, 135, 136, 137, 138, 140, 141, 156,
+   157, 163, 166, 168.
+
+Resistance bridge, 7.
+
+Resistance, external, 37.
+
+Resistance, internal, 37.
+
+Rheostat, 7.
+
+Reversed, 20, 50, 153.
+
+Reversible, 163.
+
+Reversing, 176.
+
+Reversing switch, 67.
+
+Revolubly, 46.
+
+Revolve, 179.
+
+Revolving, 177.
+
+Roentgen rays, 184.
+
+Roentgen tube, 187.
+
+Rotation, 149.
+
+Rubber, 40, 46, 77, 115, 126, 130, 138.
+
+
+S
+
+Sad-irons, 13.
+
+Saline, 133.
+
+Sanitation, 12.
+
+Saturated, 85.
+
+Screw, 15.
+
+Screw, binding, 65, 66.
+
+Screw-driver, 14.
+
+Screw, set, 72.
+
+Sealing wax, 53.
+
+Secondary, 62, 98, 105, 158, 159, 160.
+
+Secondary circuit, 99.
+
+Secondary coil, 107, 108.
+
+Self-induction, 149, 156.
+
+Sender, 90, 97.
+
+Sending apparatus, 106.
+
+Sending key, 90.
+
+Separately excited, 46.
+
+Series-wound, 47.
+
+Severed magnet, 20.
+
+Sewage, 12.
+
+Shaft, 30.
+
+Shears, 14, 17.
+
+Shellac, 40.
+
+Shunt-wound, 47.
+
+Signal, 118.
+
+Silver, 19, 63, 125.
+
+Silver nitrate, 62.
+
+Socket, 54, 139.
+
+Soldering, 14.
+
+Soldering iron, 17.
+
+Solution, 55, 57, 62, 63, 84, 86, 133, 134, 142.
+
+Sounder, 90, 92, 95, 96.
+
+Sounding board, 119.
+
+Source, charging, 83.
+
+South pole, 20, 21, 22, 25, 50, 54, 156.
+
+Spark gap, 102, 106.
+
+Spark jump, 99.
+
+Spring finger, 69.
+
+Square, 14, 17.
+
+Standard, 62, 63.
+
+Station, 94, 95, 117, 122.
+
+Steel, 18, 19.
+
+Steel magnet, 53.
+
+Sterilized, 12.
+
+Stirrup, 75.
+
+Stock bit, 13.

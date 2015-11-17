@@ -1,0 +1,716 @@
+bought on credit a dime's worth of paper even during the year of
+his death, 1665, and if this bill had been drawing compound
+interest at the rate of six per cent, since that time, the bill
+would now amount to more than seven times as much as the prize.
+
+                                                  --MILLER, G. A.
+
+                         _Some Thoughts on Modern Mathematical
+                         Research; Science, Vol. 35 (1912), p.
+                         881._
+
+
+=2130.= _If the Indians hadn't spent the $24._ In 1626 Peter
+Minuit, first governor of New Netherland, purchased Manhattan
+Island from the Indians for about $24. The rate of interest on
+money is higher in new countries, and gradually decreases as
+wealth accumulates. Within the present generation the legal rate
+in the state has fallen from 7% to 6%. Assume for simplicity a
+uniform rate of 7% from 1626 to the present, and suppose that the
+Indians had put their $24 at interest at that rate (banking
+facilities in New York being always taken for granted!) and had
+added the interest to the principal yearly. What would be the
+amount now, after 280 years? 24 x (1.07)^{280} = more than
+4,042,000,000.
+
+The latest tax assessment available at the time of writing gives
+the realty for the borough of Manhattan as $3,820,754.181. This
+is estimated to be 78% of the actual value, making the actual
+value a little more than $4,898,400,000.
+
+The amount of the Indians' money would therefore be more than the
+present assessed valuation but less than the actual valuation.
+
+                                                   --WHITE, W. F.
+
+                         _A Scrap-book of Elementary Mathematics
+                         (Chicago, 1908), pp. 47-48._
+
+
+=2131.= See Mystery to Mathematics fly!--POPE, ALEXANDER.
+
+                         _The Dunciad, Bk. 4, line 647._
+
+
+=2132.= The Pythagoreans and Platonists were carried further by
+this love of simplicity. Pythagoras, by his skill in mathematics,
+discovered that there can be no more than five regular solid
+figures, terminated by plane surfaces which are all similar and
+equal; to wit, the tetrahedron, the cube, the octahedron, the
+dodecahedron, and the eicosihedron. As nature works in the most
+simple and regular way, he thought that all elementary bodies
+must have one or other of those regular figures; and that the
+discovery of the properties and relations of the regular solids
+must be a key to open the mysteries of nature.
+
+This notion of the Pythagoreans and Platonists has undoubtedly
+great beauty and simplicity. Accordingly it prevailed, at least
+to the time of Euclid. He was a Platonic philosopher, and is said
+to have wrote all the books of his Elements, in order to discover
+the properties and relations of the five regular solids. The
+ancient tradition of the intention of Euclid in writing his
+elements, is countenanced by the work itself. For the last book
+of the elements treats of the regular solids, and all the
+preceding are subservient to the last.--REID, THOMAS.
+
+                         _Essays on the Powers of the Human Mind
+                         (Edinburgh, 1812), Vol. 2, p. 400._
+
+
+=2133.= In the Timaeus [of Plato] it is asserted that the
+particles of the various elements have the forms of these [the
+regular] solids. Fire has the Pyramid; Earth has the Cube; Water
+the Octahedron; Air the Icosahedron; and the Dodecahedron is the
+plan of the Universe itself. It was natural that when Plato had
+learnt that other mathematical properties had a bearing upon
+the constitution of the Universe, he should suppose that
+the singular property of space, which the existence of this
+limited and varied class of solids implied, should have some
+corresponding property in the Universe, which exists in space.
+
+                                                    --WHEWELL, W.
+
+                         _History of the Inductive Sciences, 3rd
+                         Edition, Additions to Bk. 2._
+
+
+=2134.= The orbit of the earth is a circle: round the sphere to
+which this circle belongs, describe a dodecahedron; the sphere
+including this will give the orbit of Mars. Round Mars describe a
+tetrahedron; the circle including this will be the orbit of
+Jupiter. Describe a cube round Jupiter's orbit; the circle
+including this will be the orbit of Saturn. Now inscribe in the
+earth's orbit an icosahedron; the circle inscribed in it will be
+the orbit of Venus. Inscribe an octahedron in the orbit of Venus;
+the circle inscribed in it will be Mercury's orbit. This is the
+reason of the number of the planets.--KEPLER.
+
+                         _Mysterium Cosmographicum [Whewell]._
+
+
+=2135.= It will not be thought surprising that Plato expected
+that Astronomy, when further advanced, would be able to render an
+account of many things for which she has not accounted even to
+this day. Thus, in the passage in the seventh Book of the
+_Republic_, he says that the philosopher requires a reason for
+the proportion of the day to the month, and the month to the
+year, deeper and more substantial than mere observation can give.
+Yet Astronomy has not yet shown us any reason why the proportion
+of the times of the earth's rotation on its axis, the moon's
+revolution round the earth, and the earth's revolution round the
+sun, might not have been made by the Creator quite different from
+what they are. But in asking Mathematical Astronomy for reasons
+which she cannot give, Plato was only doing what a great
+astronomical discoverer, Kepler, did at a later period. One of
+the questions which Kepler especially wished to have answered
+was, why there are five planets, and why at such particular
+distances from the sun? And it is still more curious that he
+thought he had found the reason of these things, in the relation
+of those five regular solids which Plato was desirous of
+introducing into the philosophy of the universe.... Kepler
+regards the law which thus determines the number and magnitude of
+the planetary orbits by means of the five regular solids as a
+discovery no less remarkable and certain than the Three Laws
+which give his name its imperishable place in the history of
+astronomy.--WHEWELL, W.
+
+                         _History of the Inductive Sciences, 3rd
+                         Edition, Additions to Bk. 3._
+
+
+=2136.= Pythagorean philosophers ... maintained that of two
+combatants, he would conquer, the sum of the numbers expressed by
+the characters of whose names exceeded the sum of those expressed
+by the other. It was upon this principle that they explained the
+relative prowess and fate of the heroes in Homer, [Greek:
+Patroklos], [Greek: Hektor] and [Greek: Achilleus], the sum of
+the numbers in whose names are 861, 1225, and 1276 respectively.
+
+                                               --PEACOCK, GEORGE.
+
+                         _Encyclopedia of Pure Mathematics
+                         (London, 1847); Article "Arithmetic,"
+                         sect. 38._
+
+
+=2137.= Round numbers are always false.--JOHNSON, SAMUEL.
+
+                         _Johnsoniana; Apothegms, Sentiment,
+                         etc._
+
+
+=2138.= Numero deus impare gaudet [God in number odd rejoices.]
+
+                                                        --VIRGIL.
+
+                         _Eclogue, 8, 77._
+
+
+=2139.= Why is it that we entertain the belief that for every
+purpose odd numbers are the most effectual?--PLINY.
+
+                         _Natural History, Bk. 28, chap. 5._
+
+
+=2140.=
+
+        "Then here goes another," says he, "to make sure,
+         Fore there's luck in odd numbers," says Rory O'Moore.
+                                                  --LOVER, S.
+
+                         _Rory O'Moore._
+
+
+=2141.= This is the third time; I hope, good luck lies in odd
+numbers.... They say, there is divinity in odd numbers, either in
+nativity, chance, or death.--SHAKESPEARE.
+
+                         _The Merry Wives of Windsor, Act 5,
+                         scene 1._
+
+
+=2142.= To add to golden numbers, golden numbers.--DECKER, THOMAS.
+
+                         _Patient Grissell, Act 1, scene 1._
+
+
+=2143.=
+
+        I've read that things inanimate have moved,
+        And, as with living souls, have been inform'd,
+        By magic numbers and persuasive sound.
+                                        --CONGREVE, RICHARD.
+
+                         _The Morning Bride, Act 1, scene 1._
+
+
+=2144.= ... the Yancos on the Amazon, whose name for three is
+
+                     Poettarrarorincoaroac,
+
+of a length sufficiently formidable to justify the remark of La
+Condamine: Heureusement pour ceux qui ont a faire avec eux, leur
+Arithmetique ne va pas plus loin.--PEACOCK, GEORGE.
+
+                         _Encyclopedia of Pure Mathematics
+                         (London, 1847); Article "Arithmetic,"
+                         sect. 32._
+
+
+=2145.= There are three principal sins, avarice, luxury, and
+pride; three sorts of satisfaction for sin, fasting, almsgiving,
+and prayer; three persons offended by sin, God, the sinner
+himself, and his neighbour; three witnesses in heaven, _Pater_,
+_verbum_, and _spiritus sanctus_; three degrees of penitence,
+contrition, confession, and satisfaction, which Dante has
+represented as the three steps of the ladder that lead to
+purgatory, the first marble, the second black and rugged stone,
+and the third red porphyry. There are three sacred orders
+in the church militant, _sub-diaconati_, _diaconiti_, and
+_presbyterati_; there are three parts, not without mystery, of
+the most sacred body made by the priest in the mass; and three
+times he says _Agnus Dei_, and three times, _Sanctus_; and if we
+well consider all the devout acts of Christian worship, they are
+found in a ternary combination; if we wish rightly to partake of
+the holy communion, we must three times express our contrition,
+_Domine non sum dignus_; but who can say more of the ternary
+number in a shorter compass, than what the prophet says, _tu
+signaculum sanctae trinitatis_. There are three Furies in the
+infernal regions; three Fates, Atropos, Lachesis, and Clotho.
+There are three theological virtues: _Fides_, _spes_, and
+_charitas_. _Tria sunt pericula mundi: Equum currere; navigare,
+et sub tyranno vivere._ There are three enemies of the soul: the
+Devil, the world, and the flesh. There are three things which are
+of no esteem: the strength of a porter, the advice of a poor man,
+and the beauty of a beautiful woman. There are three vows of the
+Minorite Friars: poverty, obedience, and chastity. There are
+three terms in a continued proportion. There are three ways in
+which we may commit sin: _corde_, _ore_, _ope_. Three principal
+things in Paradise: glory, riches, and justice. There are three
+things which are especially displeasing to God: an avaricious
+rich man, a proud poor man, and a luxurious old man. And all
+things, in short, are founded in three; that is, in number, in
+weight, and in measure.
+
+ --PACIOLI, _Author of the first printed treatise on arithmetic._
+
+                         _Quoted in Encyclopedia of Pure
+                         Mathematics (London, 1847); Article
+                         "Arithmetic," sect. 90._
+
+
+=2146.= Ah! why, ye Gods, should two and two make four?
+
+                                               --POPE, ALEXANDER.
+
+                         _The Dunciad, Bk. 2, line 285._
+
+
+=2147.=
+
+        By him who stampt _The Four_ upon the mind,--
+        _The Four_, the fount of nature's endless stream.
+                                 --_Ascribed to_ PYTHAGORAS.
+
+                         _Quoted in Whewell's History of the
+                         Inductive Sciences, Bk. 4, chap. 3._
+
+
+=2148.=
+
+        Along the skiey arch the goddess trode,
+        And sought Harmonia's august abode;
+        The universal plan, the mystic Four,
+        Defines the figure of the palace floor.
+        Solid and square the ancient fabric stands,
+        Raised by the labors of unnumbered hands.
+                                                   --NONNUS.
+
+                         _Dionysiac, 41, 275-280. [Whewell]._
+
+
+=2149.= The number seventy-seven figures the abolition of all
+sins by baptism.... The number ten signifies justice and
+beatitude, resulting from the creature, which makes seven with
+the Trinity, which is three: therefore it is that God's
+commandments are ten in number. The number eleven denotes sin,
+because it _transgresses_ ten.... This number seventy-seven is
+the product of eleven, figuring sin, multiplied by seven, and not
+by ten, for seven is the number of the creature. Three represents
+the soul, which is in some sort an image of Divinity; and four
+represents the body, on account of its four qualities....
+
+                                                 --ST. AUGUSTINE.
+
+                         _Sermon 41, art. 23._
+
+
+=2150.= Heliodorus says that the Nile is nothing else than the
+year, founding his opinion on the fact that the numbers expressed
+by the letters [Greek: Neilos], Nile, are in Greek arithmetic,
+[Nu] = 50; [Epsilon] = 5; [Iota] = 10; [Lambda] = 30; [Omicron] =
+70; [Sigma] = 200; and these figures make up together 365, the
+number of days in the year.
+
+                         _Littell's Living Age, Vol. 117, p.
+                         380._
+
+
+=2151.= In treating 666, Bungus [Petri Bungi Bergomatis Numerorum
+mysteria, Bergamo, 1591] a good Catholic, could not compliment
+the Pope with it, but he fixes it on Martin Luther with a little
+forcing. If from A to I represent 1-9, from K to S 10-90, and
+from T to Z 100-500, we see--
+
+               M A  R  T  I  N    L  U   T  E  R A
+              30 1 80 100 9 40   20 200 100 5 80 1
+
+which gives 666. Again in Hebrew, _Lulter_ [Hebraized form of
+Luther] does the same:--
+
+             [resh]  [tav]  [lamed]  [yod]  [lamed]
+              200     400     30       6      30
+                                             --DE MORGAN, A.
+
+                         _Budget of Paradoxes (London, 1872), p. 37._
+
+
+=2152.= Stifel, the most acute and original of the early
+mathematicians of Germany, ... relates ... that whilst a monk at
+Esslingen in 1520, and when infected by the writings of Luther,
+he was reading in the library of his convent the 13th Chapter of
+_Revelations_, it struck his mind that the _Beast_ must signify
+the Pope, Leo X.; He then proceeded in pious hope to make the
+calculation of the sum of the numeral letters in _Leo decimus_,
+which he found to be M, D, C, L, V, I; the sum which these formed
+was too great by M, and too little by X; but he bethought him
+again, that he has seen the name written Leo X., and that there
+were ten letters in _Leo decimus_, from either of which he could
+obtain the deficient number, and by interpreting the M to mean
+_mysterium_, he found the number required, a discovery which gave
+him such unspeakable comfort, that he believed that his
+interpretation must have been an immediate inspiration of God.
+
+                                               --PEACOCK, GEORGE.
+
+                         _Encyclopedia of Pure Mathematics
+                         (London, 1847); Article "Arithmetic,"
+                         sect. 89._
+
+
+=2153.= Perhaps the best anagram ever made is that by Dr. Burney
+on Horatio Nelson, so happily transformed into the Latin sentence
+so truthful of the great admiral, _Honor est a Nilo_. Reading
+this, one is almost persuaded that the hit contained in it has a
+meaning provided by providence or fate.
+
+This is also amusingly illustrated in the case of the Frenchman
+Andre Pujom, who, using j as i, found in his name the anagram,
+Pendu a Riom. Riom being the seat of justice for the province of
+Auvergne, the poor fellow, impelled by a sort of infatuation,
+actually committed a capital offence in that province, and was
+hanged at Riom, that the anagram might be fulfilled.
+
+                         _New American Cyclopedia, Vol. 1;
+                         Article "Anagram."_
+
+
+=2154.= The most remarkable pseudonym [of transposed names
+adopted by authors] is the name of "Voltaire," which the
+celebrated philosopher assumed instead of his family name,
+"Francois Marie Arouet," and which is now generally allowed to be
+an anagram of "Arouet, l. j.," that is, Arouet the younger.
+
+                         _Encyclopedia Britannica, 11th Edition;
+                         Article "Anagram."_
+
+
+=2155.= Perhaps the most beautiful anagram that has ever been
+composed is by Jablonsky, a former rector of the school at Lissa.
+The occasion was the following: When while a young man king
+Stanislaus of Poland returned from a journey, the whole house of
+Lescinsky assembled to welcome the family heir. On this occasion
+Jablonsky arranged for a school program, the closing number of
+which consisted of a ballet by thirteen pupils impersonating
+youthful heroes. Each of them carried a shield on which appeared
+in gold one of the letters of the words _Domus Lescinia_. At the
+end of the first dance the children were so arranged that the
+letters on their shields spelled the words _Domus Lescinia_. At
+the end of the second dance they read: _ades incolumis_ (sound
+thou art here). After the third: _omnis es lucida_ (wholly
+brilliant art thou); after the fourth: _lucida sis omen_ (bright
+be the omen). Then: _mane sidus loci_ (remain our country's
+star); and again: _sis columna Dei_ (be a column of God); and
+finally: _I! scande solium_ (Proceed, ascend the throne). This
+last was the more beautiful since it proved a true prophecy.
+
+Even more artificial are the anagrams which transform one verse
+into another. Thus an Italian scholar beheld in a dream the line
+from Horace: _Grata superveniet, quae non sperabitur, hora_. This
+a friend changed to the anagram: _Est ventura Rhosina parataque
+nubere pigro._ This induced the scholar, though an old man, to
+marry an unknown lady by the name of Rosina.--HEIS, EDUARD.
+
+                         _Algebraische Aufgaben (Koeln, 1898), p.
+                         331._
+
+
+=2156.= The following verses read the same whether read forward
+or backward:--
+
+        Aspice! nam raro mittit timor arma, nec ipsa
+          Si se mente reget, non tegeret Nemesis;[13]
+
+also,
+
+                Sator Arepo tenet opera rotas.
+                                             --HEIS, EDUARD.
+
+                         _Algebraische Aufgaben (Koeln, 1898), p.
+                         328._
+
+    [13]  The beginning of a poem which Johannes a Lasco
+          wrote on the count Karl von Suedermanland.
+
+
+=2157.= There is a certain spiral of a peculiar form on which a
+point may have been approaching for centuries the center, and
+have nearly reached it, before we discover that its rate of
+approach is accelerated. The first thought of the observer, on
+seeing the acceleration, would be to say that it would reach the
+center sooner than he had before supposed. But as the point comes
+near the center it suddenly, although still moving under the same
+simple law as from the beginning, makes a very short turn upon
+its path and flies off rapidly almost in a straight line, out to
+an infinite distance. This illustrates that apparent breach of
+continuity which we sometimes find in a natural law; that
+apparently sudden change of character which we sometimes see in
+man.--HILL, THOMAS.
+
+                         _Uses of Mathesis; Bibliotheca Sacra,
+                         Vol. 32, p. 521._
+
+
+=2158.= One of the most remarkable of Babbage's illustrations of
+miracles has never had the consideration in the popular mind
+which it deserves; the illustration drawn from the existence of
+isolated points fulfilling the equation of a curve.... There are
+definitions of curves which describe not only the positions
+of every point in a certain curve, but also of one or more
+perfectly isolated points; and if we should attempt to get by
+induction the definition, from the observation of the points on
+the curve, we might fail altogether to include these isolated
+points; which, nevertheless, although standing alone, as
+miracles to the observer of the course of the points in the
+curve, are nevertheless rigorously included in the law of the
+curve.--HILL, THOMAS.
+
+                         _Uses of Mathesis; Bibliotheca Sacra,
+                         Vol. 32, p. 516._
+
+
+=2159.= Pure mathematics is the magician's real wand.--NOVALIS.
+
+                         _Schriften, Zweiter Teil (Berlin, 1901),
+                         p. 223._
+
+
+=2160.= Miracles, considered as antinatural facts, are
+amathematical, but there are no miracles in this sense, and those
+so called may be comprehended by means of mathematics, for to
+mathematics nothing is miraculous.--NOVALIS.
+
+                         _Schriften, Zweiter Teil (Berlin, 1911),
+                         p. 222._
+
+
+
+
+  INDEX
+
+  =Black-faced numbers refer to authors=
+
+  Abbreviations:--m. = mathematics, math. = mathematical,
+                 math'n. = mathematician.
+
+
+  Abbott, =1001=.
+
+  Abstract method, Development of, 729.
+
+  Abstract nature of m., Reason for, 638.
+
+  Abstract reasoning, Objection to, 1941.
+
+  Abstractness, math., Compared with logical, 1304.
+
+  Adams, Henry, M. and history, =1599=.
+    Math'ns practice freedom, =208=, =805=.
+
+  Adams, John, Method in m., =226=.
+
+  Aeneid, Euler's knowledge of, 859.
+
+  Aeschylus. On number, 1606.
+
+  Aim in teaching m., 501-508, 517, 844.
+
+  Airy, Pythagorean theorem, =2126=.
+
+  Akenside, =1532=.
+
+  Alexander, 901, 902.
+
+  Algebra, Chapter XVII.
+    Definitions of, 110, 1714, 1715.
+    Problems in, 320, 530, 1738.
+    Of use to grown men, 425.
+    And geometry, 525-527, 1610, 1707.
+    Advantages of, 1701, 1703, 1705.
+    Laws of, 1708-1710.
+    As an art, 1711.
+    Review of, 1713.
+    Designations of, 1717.
+    Origin of, 1736.
+    Burlesque on modern, 1741.
+    Hume on, 1863.
+
+  Algebraic notation, value of, 1213, 1214.
+
+  Algebraic treatises, How to read, 601.
+
+  Amusements in m., 904, 905.
+
+  Anagrams, On De Morgan, 947.
+    On Domus Lescinia, 2155.
+    On Flamsteed, 968.
+    On Macaulay, 996.
+    On Nelson, 2153.
+    On Newton, 1028.
+    On Voltaire, 2154.
+
+  Analysis, Invigorates the faculty of resolution, 416.
+    Relation of geometry to, 1931.
+
+  Analytical geometry, 1889, 1890, 1893.
+    Method of, 310.
+    Importance of, 949.
+    Burlesque on, 2040.
+
+  Ancient geometry,
+    Characteristics of, 712, 714.
+    Compared with modern, 1711-1716.
+    Method of, 1425, 1873-1875.
+
+  Ancients, M. among the, 321.
+
+  Anecdotes, Chapters, IX, X.
+
+  Anger, M. destroys predisposition to, 458.
+
+  Angling like m., 739.
+
+  Anglo-Danes, Aptitude for m., 836.
+
+  Anglo-Saxons, Aptitude for m., 837.
+    Newton as representative of, 1014.
+
+  Anonymous, Song of the screw, 1894.
+
+  Appolonius, 712, 714.
+
+  Approximate m., Why not sufficient, 1518.
+
+  Aptitude for m., 509, 510, 520, 836-838, 976, 1617.
+
+  Arabic notation, 1614.
+
+  Arago, M. the enemy of scientific romances, =267=.
+    Euler, "analysis incarnate," =961=.
+    Euler as a computer, =962=.
+    On Kepler's discovery, =982=.
+    Newton's efforts superhuman, =1006=.
+    On probabilities, =1591=.
+    Geometry as an instrument, 1868.
+
+  Arbuthnot, M. frees from prejudice, credulity and
+      superstition, =449=.
+    M. the friend of religion, =458=.
+    M. compared to music, =1112=.
+    On math, reasoning, =1503=.
+
+  Archimedes, His machines, 903, 904.
+    Estimate of math, appliances, 904-906, 908.
+    Wordsworth on, 906.
+    Schiller on, 907.
+    And engineering, 908.
+    Death of, 909.
+    His tomb, 910.
+    Compared with Newton, 911.
+    Character of his work, 912, 913.
+    Applied m., 1312.
+
+  Architecture and m., 276.
+
+  Archytas, 904.
+    And Plato, 1427.
+
+  Aristippus the Cyrenaic, 845.
+
+  Aristotle, 914.
+    On relation of m. to esthetics, =318=.
+
+  Arithmetic, Chapter XVI.
+    Definitions of, 106, 110, 1611, 1612, 1714.
+    Emerson on advantage of study of, 408.
+    Problems in, 528.
+    A master-key, 1571.
+    Based on concept of time, 1613.
+    Method of teaching, 1618.
+    Purpose of teaching, 454, 1624.
+    As logic, 1624, 1625.
+    The queen of m., 1642.
+    Higher, 1755.
+    Hume on, 1863.
+
+  Arithmetical theorems, 1639.
+
+  Art, M. as a fine, Chapter XI
+
+  Arts, M. and the, 1568-1570, 1573.
+
+  Astronomy and m., 1554, 1559, 1562-1567.
+
+  "Auge et impera.," 631.
+
+  Authority in science, 1528.
+
+  Axioms, 518, 2015.
+    In geometry, 1812, 2004, 2006.
+    Def. in disguise, 2005.
+    Euclid's, 2007-2010, 2014.
+    Nature of, 2012.
+    Proofs of, 2013.
+    And the idea of space, 2004.
+
+
+  Babbage, 923.
+
+  Bacon, Lord,
+    Classification of m., =106=.
+    M. makes men subtile, =248=.
+    View of m., 316, 915, 916.
+    M. held in high esteem by ancients, =321=.
+    On the generalizing power of m., =327=.
+    On the value of math, studies, =410=.
+    M. develops concentration of mind, =411=.
+    M. cures distraction of mind, =412=.
+    M. essential to study of nature, =436=.
+    His view of m., =915=, =916=.
+    His knowledge of m., 917, 918.
+    M. and logic, =1310=.
+    Growth of m., =1511=.
+
+  Bacon, Roger, Neglect of m. works injury to all science,
+      =310=.
+    On the value of m., =1547=.
+
+  Bain, Importance of m. in education, =442=.
+    On the charm of the study of m., =453=.
+    M. and science teaching, =522=.
+    Teaching of arithmetic, =1618=.
+
+  Ball, R. S., =2010=.
+
+  Ball, W. W. R., On Babbage, =923=.
+    On Demoivre's death, =944=.
+    De Morgan and the actuary, =945=.
+    Gauss as astronomer, =971=.
+    Laplace's "It is easy to see." =986=.
+    Lagrange, Laplace and Gauss contrasted, =993=.
+    Newton's interest in chemistry and theology, =1015=.
+    On Newton's method of work, =1026=.
+    On Newton's discovery of the calculus, =1027=.
+    Gauss's estimate of Newton, =1029=.
+    M. and philosophy, =1417=.
+    Advance in physics, =1530=.
+    Plato on geometry, 1804.
+    Notation of the calculus, =1904=.
+
+  Barnett, M. the type of perfect reasoning, =307=.
+
+  Barrow, On the method of m., =213=, =227=.
+    Eulogy of m., =330=.
+    M. as a discipline of the mind, =402=.
+    M. and eloquence, =830=.
+    Philosophy and m., =1430=.
+    Uses of m., =1572=.
+    On surd numbers, =1728=.
+    Euclid's definition of proportion, =1835=.
+
+  Beattie, =1431=.
+
+  Beauty of m., 453, 824, 1208.
+    Consists in simplicity, 242, 315.
+    Sylvester on, 1101.
+    Russell on, 1104.
+    Young on, 1110.
+    Kummer on, 1111.
+    White on, 1119.
+    And truth, 1114.
+    Boltzmann on, 1116.
+
+  Beltrami, On reading of the masters, =614=.
+
+  Berkeley, On geometry as logic, =428=.
+    On math. symbols, =1214=.

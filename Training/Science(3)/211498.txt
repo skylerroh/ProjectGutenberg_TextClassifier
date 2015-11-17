@@ -1,0 +1,434 @@
+the beam, E, is made shorter than the right end of the beam, A, a given
+angle of rotation of the beam, A, will cause a greater-angle of rotation
+of E, consequently will tip the weight, H, further from the vertical
+than the weight, D, is tipped, and in that case the weight, D, must be
+made smaller than H, to produce an equal and opposite effect upon J. In
+practice it is convenient to make the beam, E, only one-fifth to
+one-twentieth as long as A, and to correspondingly reduce the weight, H,
+relatively to D. In this case, on account of the angle of rotation of
+the beam, E, being greater than the angle of rotation of A, the beam, E,
+becomes a multiplier of the indications of the primary beam, A.
+
+Mr. Kent has devised a modification of Dr. Springer's system, which is
+shown in Fig. 3. It is applied in those varieties of the torsion balance
+in which there are two parallel beams, connected by either four or six
+wires. The wire, F, carrying the secondary beam, E, and poise, H,
+instead of being carried on an independent support, rigidly attached to
+the base, as above described, is attached directly to a moving part of
+the balance itself, and preferably to the two beams. In Fig. 3, T T T
+are trusses over which are tightly stretched the wires, B B B. A A' are
+two beams rigidly clamped to the wires; _t_ is another truss with
+stretched wire, F F. The upper wire, F', is attached by means of a
+flexible spring and standard, S, to the upper beam, and the lower wire
+is attached either directly or through a standard to the lower beam. The
+secondary poise, H, is rigidly attached to the truss, _t_. The secondary
+beam, E, is also rigidly attached to the truss, and acts as a
+multiplying beam. The secondary structure thus completely fills two
+functions: First, that of multiplying the angle of rotation and thereby
+increasing the apparent sensitiveness of the scale, and, second, that of
+overcoming the effect of change of level. The secondary beam may be
+dispensed with if a multiplier is not needed, and the secondary truss,
+_t_, with its standard and counterpoise, H, used alone to counteract the
+effect of change of level. Fig. 5 shows a modification of this extremely
+ingenious arrangement.--_Engineering_.
+
+       *       *       *       *       *
+
+
+
+
+LINK BELTING.
+
+[Footnote: From a paper read before the "Technischen Verein" of New
+York, May 28, 1887.]
+
+By CHAS. A. SCHIEREN.
+
+
+The old saying that "there is nothing new under the sun" may well be
+applied to leather link belting. It is generally believed that these
+belts are of recent invention, but that is an error. They are over
+thirty years old.
+
+Mr. C.M. Roullier, of Paris, experimented that long ago with small
+leather links one and one-half inches long by three-quarters of an inch
+wide. These links had two small holes at equal distances apart, and were
+joined with iron bolts, which were riveted at the ends, thus making a
+perfectly flat surface, and in that way forming a belt entirely of
+leather links.
+
+Mr. Roullier's idea was to economize; he therefore utilized the material
+left over from the manufacture of flat belting. He perfected his belt
+and came to this country in 1862, when he patented the article here and
+tried to introduce it. At first it produced quite a sensation, and many
+tests were made, but it was soon found that Roullier's belts were not
+suited to running our swift motion machinery, and they were therefore
+abandoned as impracticable.
+
+Mr. Roullier then introduced his invention into England, where he met
+with some success, as his belt was better suited to English slow motion
+machinery.
+
+These belts are now largely used in England, many good improvements have
+been made in them, and almost every belt maker in Great Britain
+manufactures them.
+
+Mr. Jabez Oldfield, of Glasgow, has the reputation of making the best
+and most reliable link belt in Great Britain. He has also the reputation
+of being the originator of these belts. This is, however, an error, the
+credit of the invention belonging, as we have said, to Mr. Roullier.
+
+Mr. Oldfield, nevertheless, has invented many useful machines for
+cutting and assorting the links. He has also introduced improved methods
+for putting the links together.
+
+For more than twenty years after Mr. Roullier's visit, nothing was done
+with leather link belting in this country.
+
+In 1882, however, Mr. N.W. Hall, of Newark, N.J., patented a link belt,
+composed of leather and steel links. His method was to place a steel
+link after every third or fourth leather one, in order to strengthen the
+belt. In practical use this belt was found to be very defective, because
+the leather links soon stretched, and thus all the work had to be done
+by the steel links. The whole strain coming thus upon the steel links,
+they in course of time cut through the bolts and thus broke the belt to
+pieces. So this invention proved worthless.
+
+In 1884 a Chicago belt company obtained a patent on another style of
+link belt. In this belt all the little holes in the links were lined
+with metal, similar to the holes in laced shoes. This produced an effect
+similar to that produced by Hall's patent. The metal lining of the holes
+cut the bolts into pieces by friction and thus ruined the belt.
+Therefore this patent proved a failure also.
+
+After all these failures it fell to our lot to improve these belts so
+that they may now be worked successfully on our American fast running
+machinery. During the past two years we have made and sold over five
+hundred leather link belts, which are all in actual use and doing
+excellent service, as is proved by many testimonials which we have
+received.
+
+Our success with these belts has been so surprising that we think we
+have found, at last, the long looked for "missing link," not in
+"Darwinism," however, but in the belting line. We prophesy a great
+future for these belts in this country.
+
+How have we attained such success? First: We found that Roullier made a
+mistake in using leather offal, as, in the links of an _iron chain_, if
+one link is weak or defective, the whole chain is worthless, so in link
+belts, if one or two links are weak or made of poor material, the whole
+belt is affected by them. It is therefore of vital importance that only
+the best and most solid leather be used in making the links; second, the
+leather must be made very pliable, but at the same time its toughness
+and tenacity must not be injured, or it will stretch and break.
+
+[Illustration: FIG 1.]
+
+These things are of great importance, and are the principal reasons for
+the failures of all former efforts. The leather which Roullier used was
+stiff, hard, and husky. He believed that the harder the link the greater
+its tensile strength, but upon actual test this was found to be a fatal
+error.
+
+Our leather links are saturated with a mixture of tallow, neatsfoot oil,
+etc. This makes them very pliable and increases their toughness, so that
+they will stand a strain three times as great as a piece of hard rolled
+sole leather.
+
+In manufacturing this belt, the joining together is important. The links
+must be accurately assorted as to thickness, and the outer links
+countersunk, to admit the bolt. Then the most valuable improvement of
+all is our "American joint" (see Fig. 1).
+
+By close inspection you will observe that it is absolutely necessary to
+use half length bolts for the width of wide leather link belts.
+
+Examine Figs. 2 and 3. In the latter you will notice one length of bolt
+placed on a round faced pulley. That belt must either bend or break, and
+in any case it will not give satisfaction; but, on the other hand,
+examine Fig. 2; here two half length bolts are used, and ingeniously
+joined in the center. It gives just pliability enough to lay the belt
+flat upon the pulley. We experimented for some time before perfecting
+this important improvement.
+
+We also took out four patents for different methods of joining, but
+abandoned them all and adopted the "American joint" system (Fig. 1) as
+the most efficient, simple, and reliable. It gives the belt an unbroken
+flat surface and is far superior to anything so far introduced for that
+purpose.
+
+We have not stopped at _flat_ link belting, but have turned our
+attention to manufacturing round solid leather link belting, and believe
+that we have almost attained perfection in that line. As the
+illustrations clearly show, there is quite a demand for inch and upward
+solid round belting, and the difficulty always has been to join such a
+belt together. All steel hooks, etc., do not seem to satisfy. This, our
+new invention, is so simple that it hardly needs explanation. A belt of
+this kind can be taken apart in a short time, and shortened or
+lengthened at pleasure.
+
+Now, Mr. President and gentlemen, I shall be glad to answer any
+questions in reference to these link belts, or give any further
+explanation you may desire.
+
+Question.--Can these link belts be used on dynamos for electric lights?
+
+Answer.--Yes. In England they are used almost exclusively on dynamos.
+However, they run only 700 revolutions per minute there, whereas our
+slowest dynamo runs 1,100.
+
+[Illustration: Fig. 2.]
+
+Quest.--Would you advise link belts for high rate of speed?
+
+Ans.--No; they give better results on slow running machinery.
+
+Quest.--Have these belts any special advantage over flat leather
+belting?
+
+Ans.--Yes, decidedly. When belts are run half crossed, or what is termed
+quarter turn, it is very hard to make flat belts lie perfectly even on
+the pulleys. These link belts, however, cover the entire face of the
+pulley (see illustration), and therefore are superior for that purpose.
+
+[Illustration: Fig. 3.]
+
+Quest.--Why do they give better results when run slow?
+
+Ans.--Partly because of their great weight over ordinary belting, also
+their grip power is stronger when run slow. No belt is superior to them
+for slow, hard working machinery.
+
+Quest.--Are they more expensive than ordinary flat belting?
+
+Ans.--Not when compared to the work they can accomplish.
+
+[Illustration]
+
+Quest.--Can they be run in wet places, such as mines, etc.?
+
+Ans.--Yes; by waterproofing the leather, no cement being used as in flat
+belts. The links can be made positively waterproof. We have furnished
+paper mills, tanneries and bleacheries, and other exposed places with
+waterproof link belts, and all have been entirely satisfactory so far.
+
+Quest.--Can they be run on ordinary flat pulleys?
+
+Ans.--Yes; our "American joint" link belt can be run on any straight or
+rounded pulley, whether made of iron, paper, or wood, and being all
+endless they run much smoother than other belting.
+
+[Illustration: ENGLISH HINGE JOINT:]
+
+Quest.--How are they made endless?
+
+Ans.--By a very simple process (see illustration), and takes almost less
+time than lacing a flat belt. All that is necessary is to take both ends
+and interlock the links, then pass the bolt through and rivet it, and
+when you wish to shorten the belt proceed likewise: File off the end of
+the bolt and take out, or add rows of links at pleasure and rejoin it
+again.
+
+[Illustration: Fig. 4 is a complete round link belt.]
+
+Quest.--What is the relative strength of a link belt compared to flat
+belting?
+
+Ans.--Nothing definite has yet been ascertained. We are preparing a
+table showing results, and so far we can report that they can stand
+about twice the strain of double flat belts. A four inch link belt one
+inch thick is able to do the work of an eight inch flat double belt.
+
+[Illustration: Fig. 5 is a side view.]
+
+Quest.--Explain the advantage of your American joint over the English
+hinge.
+
+Ans.--The American joint gives a perfect unbroken surface of entire
+width of belt, whereas the English hinge joint makes two half widths,
+and whenever a sudden change of power occurs and the belt runs half way
+off the pulley, it will catch at the edge and tear everything to pieces.
+
+[Illustration: Fig. 6 is an end view.]
+
+Quest.--Have you a table or schedule of their weight per square foot?
+
+Ans.--Yes. The following is as near as we can estimate the weight of
+leather link belting per square foot:
+
+   1  inch thick, about 5  lb. per sq. ft.
+  7/8   "    "      "   41/2  "   "  "
+  3/4   "    "      "   4   "   "  "
+  5/8   "    "      "   31/2  "   "  "
+
+Upon motion a vote of thanks was passed, and the paper read ordered to
+be printed.
+
+[Illustration: Fig. 7 is a single link.]
+
+       *       *       *       *       *
+
+
+
+
+A NEW PROCESS OF CASTING IRON AND OTHER METALS UPON LACE, EMBROIDERIES,
+FERN LEAVES, AND OTHER COMBUSTIBLE MATERIALS.
+
+[Footnote: Abstract of a paper read before the Franklin Institute,
+April, 1887.--_J.F.I._]
+
+By A.E. OUTERBRIDGE, JR.
+
+
+The art of making charcoal--if, indeed, so crude a process is worthy of
+being dignified by the name of an art--dates back to a remote antiquity,
+and has been practiced with but little change for hundreds of years. It
+is true that some improvements have been recently made, but these relate
+to the recovery of certain volatile by-products which were formerly
+lost.
+
+Every one is familiar with the appearance and characteristics of
+ordinary charcoal, yet I hope to show you this evening that we still
+have something new to learn about its qualities and the unexpected
+practical uses to which it may be applied.
+
+We commonly regard charcoal as a brittle, readily combustible substance,
+but we have before us specimens in which these qualities are
+conspicuously absent. Here is a piece of carbonized cotton sheeting,
+which may be rolled or folded over without breaking, and, as you see,
+when placed in the flame of a Bunsen burner, the fibers may be heated
+white hot in the air, and when removed from the flame, the material
+shows no tendency to consume. Here, again, we have a piece of very fine
+lace, which has been similarly carbonized, and displays the same
+qualities of ductility and incombustibility.
+
+These carbonized fabrics may be subjected to much more severe tests with
+impunity; and when I tell you that they have been exposed to a bath of
+molten iron without injury, you will readily admit that they possess
+some qualities not ordinarily associated with charcoal. When removed
+from the mould in which they were placed after the iron casting had
+cooled, not a single fiber was consumed, but _upon the face of the
+casting there was found a sharp and accurate reproduction of the design,
+thus forming a die_. This die may be used for a variety of purposes,
+such as embossing leather, stamping paper, sheet metal, etc., or for
+producing ornamental surfaces upon such castings.
+
+Some of the carbonized fabrics displayed upon the table are almost as
+delicate as cobwebs, and one would naturally suppose that when a great
+body of molten metal is poured into a mould in which they are placed,
+they would be torn to fragments and float to the surface even though
+they were unconsumed, yet such is not the case. I have found in practice
+that the most delicate fabrics may be subjected to this treatment
+without danger of destruction, and that no special care is needed either
+in preparing the mould or in pouring the metal.
+
+By the aid of the megascope, the enlarged images of some of these
+castings, showing the delicate tracery of the patterns, will now be
+projected upon the screen, and you can all see how perfectly the design
+is reproduced.
+
+In these experiments, the mould was made in "green sand" in the ordinary
+manner, and the fabric laid smoothly upon one face, being cut slightly
+larger than the mould, in order that it might project over the edge, so
+that when the moulding flask was closed, the fabric was held in its
+proper position. As the molten metal flowed into the mould, it forced
+the fabric firmly against the sand wall, and when the casting was
+removed, the carbonized fabric was stripped off from its face without
+injury. In this way several castings have been made from one carbonized
+material.
+
+These castings are as sharp as electrotypes, whether made of soft fluid
+iron or of hard, quick-setting metal. This peculiarity is owing to the
+affinity between molten iron or steel and carbon. The molten metal tends
+to absorb the carbon as it flows over it, thus causing the fabric to hug
+the metal closely. It is somewhat analogous to the effect of pouring
+mercury over zinc. You know that when mercury is poured upon a board, it
+runs in a globular form, it does not "wet" the board, so to speak; but
+when poured upon a plate of clean zinc, it flows like water and wets
+every portion of the zinc, or, as we say, it amalgamates with the zinc.
+So when molten iron is poured into an ordinary sand mould, which has
+been faced with this refractorily carbonized fabric, it wets every
+portion of it, tending to absorb the carbon, and doubtless would do so
+if it remained fluid long enough, but as the metal cools almost
+immediately, there is no appreciable destruction of the fibers.
+
+The casting which I shall now exhibit represents a very interesting and
+novel experiment. In this case, the piece of lace, having open meshes a
+little larger than a pin's head, instead of being laid upon one face of
+the mould, was suspended in it in such a way as to divide it into two
+equal parts. Two gates or runners were provided, leading from the
+"sinking head" to the bottom of the mould, one on each side of the lace
+partition. The molten iron was poured into the sinking head, and flowing
+equally through both runners, filled the mould to a common level. The
+lace, which was held in position by having its edges embedded in the
+walls of the mould, remained intact. When the casting was cold, it was
+thrown upon the floor of the foundry and separated into two parts, while
+the lace fell out uninjured, and the pattern was found to be reproduced
+upon each face of the casting.
+
+The question naturally arises, Why did not the iron run through the
+holes and join together? The answer may be found in the fact that the
+thin film of oxide of iron, or "skin," as it is popularly called, which
+always forms on the surface of molten iron, was caught in these fine
+meshes, and thus prevented the molten metal from joining through the
+holes. I have repeated the experiment a number of times, and find that
+the meshes must be quite small (not over one fiftieth of an inch),
+otherwise the metal will reunite.
+
+I think that this observation explains the cause of many obscure flaws
+found in castings, sometimes causing them to break when subjected to
+quite moderate strains. We frequently find little "cold shot," or
+metallic globules, embedded in cast iron or steel, impairing the
+strength of the metal, and it has long been asked, "What is the cause of
+this defect?" The pellicles have been carefully analyzed, under the
+supposition that they might be alloys of iron and nickel, or some other
+refractory metal, but the analysis has failed to substantiate this
+theory. Is it not probable that in the process of casting, little drops
+of molten metal are sometimes splashed out of the stream, which
+immediately solidify and become coated with a skin of oxide, then
+falling back into the stream of rapidly cooling metal, they do not
+remelt, neither do they weld or amalgamate with the mass, owing to this
+protective coating, thus forming dangerous flaws in the casting?
+
+The process of carbonizing the delicate fabrics, leaves, grasses, etc.,
+is as follows: The objects are placed in a cast iron box, the bottom of
+which is covered with a layer of powdered charcoal or other form of
+carbon, then another layer of carbon dust is sprinkled over them, and
+the box is covered with a close fitting lid. The box is next heated
+gradually in an oven, to drive off moisture, and the temperature slowly
+raised until the escape of blue smoke from under the lid ceases. The
+heat is then increased until the box becomes white hot. It is kept in
+this glowing condition for at least two hours. It is then removed from
+the fire, allowed to cool, and the contents are tested in a gas flame.
+If they have been thoroughly carbonized, they will not glow when removed
+from the flame, and the fibers may even be heated white hot before
+consuming.
+
+Of course, the method employed to carbonize the materials is suspectible
+of variation, but the scientific principles involved are unchangeable,
+viz.:
+
+(1) Partial exclusion of air and substitution therefor of a carbon
+atmosphere.
+
+(2) Slow heating to drive off moisture and volatile elements.
+
+(3) Intense and prolonged heating of the partly charred objects to
+eliminate remaining foreign elements, and to change the carbon from the
+combustible form of ordinary charcoal to a highly refractory condition.
+
+[Illustration]
+
+NOTE.--Fig. 1 is photographed from a white iron casting made upon
+carbonized coarse lace; the lower portion of the plate shows the lace
+embedded in the iron. Fig. 2 is a casting in gray iron upon lace laid on
+an iron plate. Fig. 3 is a casting in hard iron upon lace laid on dand.
+Fig. 4 is a casting in gray iron upon a piece of thin summer dress goods
+with machine embroidery.
+
+       *       *       *       *       *
+
+
+
+
+RECENT PROGRESS IN GAS ENGINEERING.

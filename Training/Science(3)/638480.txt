@@ -1,0 +1,321 @@
+is maintained in constant, practical, though not absolute contact
+with the disk. Round the upper part of the disk is a metal band, A, to
+which the circuit wire is attached, and the current thus passed on to
+the next lamps.
+
+At a recent trial of this lamp, the current was derived from a small
+Gramme electro-plating machine, requiring only 2 horse power to put
+it in full work. It may therefore be assumed that this was about the
+limit of the power at work to produce the light. At the commencement
+of the proceedings two lights were maintained, each stated to be equal
+to 320 sperm candles. At this rate the two lights would be equal to
+640 candles, or 40 full power gas lights, each consuming 5 cubic feet
+of 16 candle gas per hour. Such gas lights, it may be observed, are
+not often seen, except in the argand form. The two lights burned with
+extreme steadiness, there being no undulation, or flickering whatever,
+although there was no glass globe to tone down any variations of
+luster. The lights were perfectly bare and unprotected, and the place
+where the trial was made was a workshop of moderate size.
+
+Later in the evening one light was exhibited outside the building, in
+an open thoroughfare, and the same perfect steadiness was observable.
+After the two lights had been burning for a time they were
+extinguished, and the current was sent through a row of ten lamps.
+The light per lamp was of course reduced, but there was the remarkable
+fact that ten lights were maintained by a comparatively weak machine,
+driven by an engine exerting the power of only two horses.
+
+The light of each of these ten lamps was stated to be that of 40
+candles, making, therefore, a total of 400. A reduction of light,
+consequent on the further division of the current, is thus apparent;
+but for this loss there may be ample compensation in the superior
+economy of a distributed light as compared with one that is
+concentrated. In the case of the ten lamps, the light is equal to that
+of 25 full power gas lights, consuming altogether 125 cubic feet of
+gas per hour. The extremely small arc due to the peculiar arrangement
+of the carbons in the Werdermann light has the advantage of offering
+the least possible resistance to the passage of the current.
+
+This resistance increases much more rapidly than is represented by
+increase of distance between the carbon points. Hence the electric
+power with Werdermann's lamp is economized to the utmost in this
+respect, and it becomes possible--as in the recent experiment--to make
+use of an electric current large in quantity but of low intensity.
+The tension being small, there is the less difficulty with regard to
+insulation. If one lamp or more should be accidentally extinguished,
+the rest will continue to burn. The whole of the lamps can also be
+extinguished and relit by merely stopping the current and then sending
+it on again. No nice and troublesome adjustment with reference to the
+length of the electric arc is requisite, and simple contact between
+the point of the rod and the surface of the disk is sufficient for the
+manifestation of the light.
+
+In respect to duration, a carbon rod 5-32 in. in diameter, and a yard
+long, obtained from Paris, costs a franc. This, placed in a large
+lamp, having an estimated lighting power of 320 candles, will last
+from 12 to 15 hours. The smaller lamps take a carbon of 1/8 in.
+diameter.
+
+Mr. Werdermann endeavors to make the resistance of the external
+portion of the circuit equal to the internal resistance, in order to
+obtain the greatest effect. It is well known that the best results
+are obtained when the internal and external resistances are equal. The
+method adopted is that known to electricians as the divided arc, and
+will easily be understood from Fig. 2. Let B represent the source of
+the electric current, and A a copper wire connected to the positive
+and negative poles of the source as in the diagram. The wire, A, has
+a certain resistance. Suppose, now, we arrange for the current to pass
+as in the diagram, Fig. 3. By the insertion of the new wire, C, we
+have lessened the total external resistance and increased the current,
+as will be seen by reference to Ohm's law. C = E/(R+r) where C
+= current; E = electromotive force; R = resistance external; r =
+resistance internal. The fraction E/(R+r) increases as its denominator
+is lessened.
+
+The current passes along the two branches in equal quantities if the
+resistances of the wires are equal, but inversely as the resistances
+if they are unequal. Thus, if the branch, A, has a resistance, 9, and
+C has a resistance, 1, 9-10 of the current will pass through C, and
+1-10 through A. Similarly, for any number of branches the current will
+divide itself according to the resistances. If, then, we have a number
+of branches, as indicated in Fig. 4, the current will divide itself
+equally among the branches when the resistances of the branches are
+equal. This is the arrangement adopted by Mr. Werdermann, as will be
+seen from the annexed diagram, Fig. 5, in which N and P represent
+the negative and positive poles of the machine, and L L the electric
+lamps.
+
+When any one lamp is put out the inventor arranges that an equivalent
+resistance shall be put into the circuit, so that as a whole the
+circuit is unaltered, and the other lamps unaffected.
+
+       *       *       *       *       *
+
+
+
+
+CASSON'S SAW BENCH.
+
+
+We give herewith a perspective view of a circular saw bench made by
+Messrs. Oliver & Co. (Limited), of Chesterfield, England, which we
+take from _Engineering_. The chief features in this machine are that
+it is fitted with Mr. John Casson's patent feed gear and apparatus for
+steadying the saws. This feeding arrangement has now been in use some
+years, and has been fitted to a very large number of circular saw
+benches. This being the case, and the arrangement being very clearly
+shown by our engraving, it will be unnecessary for us to describe it
+in detail here.
+
+The saw-steadying apparatus, with which the saw bench we illustrate
+is fitted, is a novel arrangement, recently patented by Mr. Casson; in
+the present case it is applied to two saws.
+
+The steadying arrangement consists of accurately fitted sliding jaws
+mounted on the arms of a forked support, so that they can be moved and
+adjusted only by fine threaded screws, the jaws having their surfaces
+next the saws, accurately parallel with the plane of the collar of the
+saw spindle; these jaws, A, are fixed when the adjusting screws are at
+rest, and they are faced with strips of greenheart or other suitable
+timber, secured by countersunk screw bolts, these faces forming a
+perfectly true guide for the saw blades.
+
+For a single saw the guides just described would suffice; but for two
+or more saws the outside guides must be supplemented by others between
+the saw blades.
+
+It will be noticed that the support, F, carrying the guiding jaws, has
+a square stem sliding through the head of a suitable standard, and it
+can be readily fixed at any desired height by means of the set screw.
+
+[Illustration: BENCH WITH SAW-STEADYING APPARATUS.]
+
+The arrangement we have been describing is well carried out, and there
+can be no doubt that it will do good service, and enable thin saws
+to be efficiently used with a heavy feed. We have received very
+satisfactory reports of its performance.
+
+       *       *       *       *       *
+
+
+
+
+A BAIT FOR INVENTORS.
+
+
+I will give $200 for a machine that will bale hay in the field. Rake
+and press combined would be preferable, but would not object to
+its taking the hay in the windrow. The machine must be expeditious,
+executing as fast as a mower is able to cut. Must have sufficient
+power to make a bale suitable for commercial uses; shape of the bale
+immaterial; a round one preferred. Must be of light draught; one team
+is generally all that is available for any machine on the farm. These,
+with the other qualifications demanded of every machine, simplicity,
+durability, easy to manage, etc. If such an invention could be
+produced it would make a revolution in the hay field almost equal to
+that which the mower has made.
+
+What an awkward, ungainly spectacle a man presents, struggling at one
+end of a six foot pole, with a ten pound lock of hay at the other end,
+endeavoring with all his might and main to elevate it 12 or 15 feet on
+top of a load! It is an insult to human intelligence. A load of loose
+hay is an uncertain quantity. You are never sure of getting it into
+the barn. Top heavy, one sided, too wide or too high for the doors;
+and even with the best of luck, a good percentage has drizzled in the
+wake of the wagon over the lot to the barn. A 100 or 200 lb. bale,
+with an inclined plane, or a pulley on side or aft of a good strong
+rack, and all this barbarism has succumbed to civilization.
+
+At the barn comes a worse servitude. (I don't mean the horse fork;
+that is a grand lift to civilization. I hope to modify it shortly to
+throw bales.) There a man struggles with sheer desperation to press
+by his own avoirdupois 20 tons of hay into a place that won't hold 10.
+Tramp, tramp, tramp, leg-weary, panting like an overheated dog, every
+fiber of his clothing saturated with perspiration, a subject worthy
+of a better immortality than the Greek slave. O Edison! don't fritter
+away your genius on sounding brass and tinkling cymbal. Elevate the
+laborer. Liberate our overworked people. Make us a chariot to press
+our hay.--_Edmund Adams, North Manlius, N. Y., to the New York
+Tribune._
+
+       *       *       *       *       *
+
+
+
+
+A SILVER MILL IN THE CLOUDS.
+
+
+The largest and most complete silver mill ever constructed, says the
+San Francisco Stock Report, has recently been built by Messrs. Rankin,
+Brayton & Co., of the Pacific Iron Works of that city, for the Cerro
+de Pasco Mining Company, of Peru, and shipped for Callao, the port of
+destination. This enormous mill consists of 80 stamps, 900 lbs, each,
+44 live foot amalgamating pans, 22 nine foot settlers, and all the
+accessories of a first-class modern mill. It is to be erected upon the
+above named mines, which are situated in the heart of the Andes,
+some 150 miles east of the city of Lima, at an elevation of more than
+14,000 feet. To admit of mule transportation a portion of the way up
+this tremendous ascent, the mill had to be made in sections, no piece
+weighing more than 500 lbs. Some idea of the magnitude of this work
+may be inferred from the fact that the mill, as thus constructed,
+consisted of more than 17,000 pieces, and weighed upward of 600 tons.
+This enormous amount of machinery was constructed by the above firm
+and put on board a ship 50 days from date of contract.
+
+The Cerro de Pasco mines have been the richest and most famous in the
+world's history. They have been worked by the old arastra process for
+the past 200 years, and have produced, according to the most authentic
+records, more than $500,000,000. With such improved machinery the
+product of these mines will undoubtedly attract the attention of the
+world, and so reflect great credit upon the capacity, ingenuity, and
+skill of our mechanical establishments.
+
+       *       *       *       *       *
+
+
+
+
+POULTICES.
+
+
+The common practice in making poultices of mixing the linseed meal
+with hot water, and applying them directly to the skin, is quite
+wrong, because, if we do not wish to burn the patient, we must wait
+until a great portion of the heat has been lost. The proper method
+is to take a flannel bag (the size of the poultice required), to fill
+this with the linseed poultice as hot as it can possibly be made, and
+to put between this and the skin a second piece of flannel, so that
+there shall be at least two thicknesses of flannel between the skin
+and the poultice itself. Above the poultice should be placed more
+flannel, or a piece of cotton wool, to prevent it from getting cold.
+By this method we are able to apply the linseed meal boiling hot,
+without burning the patient, and the heat, gradually diffusing through
+the flannel, affords a grateful sense of relief which cannot be
+obtained by other means. There are few ways in which such marked
+relief is given to abdominal pain as by the application of a poultice
+in this manner.--_Dr. T. Lauder Brunton, in Brain._
+
+       *       *       *       *       *
+
+
+
+
+NEW MECHANICAL INVENTIONS.
+
+
+Mr. Joseph Adams, of Washington, D. C., has patented an improved Gas
+Regulator, designed either to cut off the gas entirely or to let on
+a larger amount of gas than its automatic action would ordinarily
+permit, or to allow the regulator to operate with an automatic action,
+as usual.
+
+Mr. Jean A. Hitter, Jr., of St. Martinsville, La., has patented an
+improved Type Writer, of simple and compact construction, that may be
+readily used for printing on paper and for other purposes, being
+small enough to be carried conveniently in the pocket, if desired, and
+readily operated with little practice.
+
+Messrs. Edwin N. Boynton, Geo. M. Coburn, and Thos. F. Carver, of
+Worcester, Mass., have patented an improved Hand Drilling Machine, by
+which a fast or slow motion can be readily obtained, at the will
+of the operator, the slower motion being especially advantageous in
+drilling large holes, as more power is obtained, and the holes are
+drilled with greater ease.
+
+Mr. Reuben R. James, of Rising Sun, Ind., has devised an improved
+Adding Machine of simple and comparatively inexpensive construction.
+The chief feature of the machine is a series of toothed revolving
+counting wheels, which are inscribed on their peripheries with the
+nine digits and cipher, and mounted loosely on a common axis, and each
+having four lateral inclines or cams, which cause, at the proper time,
+a weighted pawl lever to engage the next counting wheel on the left,
+so as to carry ten when the numbers added on the wheel on the right
+exceed ten. The adding is effected by successively drawing down to a
+stop on the finger board the teeth of the counting wheels which are
+opposite the numbers to be added, and the numerical result will be
+seen on the wheels in a series of slots or apertures in the case of
+the machine.
+
+Mr. Jacob Croft, of Scipio, Utah Ter., has devised an improved Turbine
+Water Wheel, which is constructed to prevent back pressure by the
+water against the casing as it escapes from the buckets. Sand and
+other substances in the water are prevented from entering around the
+shaft and cutting or wearing it.
+
+An improvement in Sweeping Machines has been patented by Mr. Isaac
+A. Chomel, of Brooklyn, N. Y. This invention relates to apparatus for
+sweeping up and collecting dirt, dust, and other refuse from floors,
+carpets, streets, and other places. The dust box is to be rolled over
+the floor and the brush revolved by a winch. The speed of the brush is
+independent of the motion of the machine along the floor.
+
+Mr. D. A. Ferris, of Tioga Center, N. Y., has patented an improved
+Implement for Forcing Flooring Planks together when laying floors. It
+is simple, convenient, and powerful.
+
+       *       *       *       *       *
+
+
+
+
+EFFECT OF QUININE ON THE HEARING.
+
+
+It is a well known fact to medical men that there exists a great
+prejudice among a large number of people against taking quinine, the
+idea being very prevalent that a prolonged use of it not only affects
+the hearing, but (to use the common expression) that it "gets into
+the bones." As regards the former belief, Dr. Roosa, of New York,
+has recently been collecting and examining the evidence as far as
+possible, and has come to the conclusion that in some cases there
+really is a permanent nervous affection of the ear produced which
+justifies the opinion held by the laity. Hitherto physicians have
+generally disbelieved this, and ascribed the notion to prejudice.
+
+       *       *       *       *       *
+
+
+
+
+THE MICROPHONE AS A THIEF CATCHER.

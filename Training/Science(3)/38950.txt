@@ -1,0 +1,430 @@
+piece of fine wire was held in the hot-air current. On the other hand,
+however, it was far too considerable to admit of being attributed to
+dust particles suspended in the air current.
+
+It must be conceded to be possible (the author says) that the light
+radiation of hot gases, as also the heat radiation, is only exceedingly
+weak, and therefore may escape observation. It is, therefore, much to
+be desired that the experiments should be repeated at still higher
+temperatures and with more exact instruments, in order to determine
+the limit of temperature at which heated gases undoubtedly become
+self-incandescent. The fact, however, that gases, at a temperature of
+more than 1,500 deg. C, are not yet luminous, proves that the incandescence
+of the flame is not to be explained as a self-incandescence of the
+products of combustion. This is confirmed by the circumstance that, with
+rapid mixture of the burning gases, the flame becomes shorter because
+the combustion process goes on more quickly, and hotter because less
+cold air has access. Further, the flame also becomes shorter and hotter
+if the gases are strongly heated previous to combustion. As the rising
+products of combustion still retain for a time the temperature of the
+flame, the reverse must occur if the gases were self-luminous. The
+luminosity of the flame, however, ceases at a sharp line of demarkation,
+and evidently coincides with completion of the chemical action. The
+latter, itself, therefore, and not the heating of the combustion
+products, which is due to it, must be the cause of the luminosity. If
+we suppose that the gas-molecules are surrounded by an ether-envelope,
+then, in chemical combination of two or several such molecules, there
+must occur a changed position of the ether-envelopes. The motion of
+ether-particles thus caused may be represented by vibrations, which form
+the starting-point of light and heat-waves.
+
+In quite a similar manner we may also, according to Dr. Siemens,
+represent the light-phenomenon occurring when an electric current
+is sent through gases, which always takes place when the maximum of
+polarization belonging to them is exceeded. As the passage of the
+current through the gas seems to be always connected with chemical
+action, the phenomenon of glow may be explained in the same way as in
+flame, by oscillating transposition of the ether envelopes, by which the
+passage of electricity is effected. In that case the light of flame may
+be called electric light by the same light as the light of the ozone
+tube or the Geissler tube, which is mainly to be distinguished from the
+former in that it contains a dielectric of an extremely small maximum of
+polarization. This correspondence in the causes of luminosity of flame,
+and of gases traversed by electric currents, is supported by the
+similarity of the flame-phenomena in strength and color of light.
+
+[These researches were lately described by Dr. Werner Siemens to the
+Berlin Academy.]
+
+       *       *       *       *       *
+
+
+
+
+A QUICK WAY TO ASCERTAIN THE FOCUS OF A LENS.
+
+
+It is well known that if the size of an object be ascertained, the
+distance of a lens from that object, and the size of the image depicted
+in a camera by that lens, a very simple calculation will give the
+focus of the lens. In compound lenses the matter is complicated by the
+relative foci of its constituents and their distance apart; but these
+items, in an ordinary photographic objective, would so slightly affect
+the result that for all practical purposes they may be ignored.
+
+What we propose to do--what we have indeed done--is to make two of these
+terms constant in connection with a diagram, here given, so that a mere
+inspection may indicate, with its aid, the focus of a lens. All that is
+required in making use of it is to plant the camera perfectly upright,
+and place in front of it, at exactly fifteen feet from the center of the
+lens, a two foot rule, also perfectly upright and with its center
+the same height from the floor as the lens, and then, after focusing
+accurately with as large a diaphragm as will give sharpness, to note the
+size of the image and refer it to the diagram. The focus of the lens
+employed will be marked under the line corresponding to the size of the
+image of the rule on the ground glass.
+
+As our object is to minimize time and trouble to the utmost, we may make
+a suggestion or two as to carrying out the measuring. It will be obvious
+that any object exactly two feet in length, rightly placed, will answer
+quite as well as a "two-foot," which we selected as being about as
+common a standard of length and as likely to be handy for use as
+any. The pattern in a wall paper, a mark in a brick wall, a studio
+background, or a couple of drawing pins pressed into a door, so long as
+two feet exactly are indicated, will answer equally well.
+
+And, further, as to the actual mode of measuring the image on the
+ground glass (we may say that there is not the slightest need to take
+a negative), it will perhaps be found the readiest method to turn the
+glass the ground side outward, when two pencil marks may be made with
+complete accuracy to register the length of the image, which can then be
+compared with the diagram. Whatever plan is adopted, if the distance be
+measured exactly between lens and rule, the result will give the focus
+with exactitude sufficient for any practical purpose.--_Br. Jour. of
+Photo_.
+
+[Illustration]
+
+       *       *       *       *       *
+
+
+
+
+THE HISTORY OF THE PIANOFORTE.
+
+[Footnote: A paper recently read before the Society of Arts, London.]
+
+By A. J. HIPKINS.
+
+
+As this paper is composed from a technical point of view, some
+elucidation of facts, forming the basis of it, is desirable before we
+proceed to the chronological statement of the subject. These facts are
+the strings, and their strain or tension; the sound-board, which is the
+resonance factor; and the bridge, connecting it with the strings. The
+strings, sound-board, and bridge are indispensable, and common to
+all stringed instruments. The special fact appertaining to keyboard
+instruments is the mechanical action interposed between the player and
+the instrument itself. The strings, owing to the slender surface they
+present to the air, are, however powerfully excited, scarcely audible.
+To make them sufficiently audible, their pulsations have to be
+communicated to a wider elastic surface, the sound-board, which, by
+accumulated energy and broader contact with the air, re-enforces the
+strings' feeble sound. The properties of a string set in periodic
+vibration are the best known of the phenomena appertaining to acoustics.
+The molecules composing the string are disturbed in the string's
+vibrating length by the means used to excite the sound, and run off into
+sections, the comparative length and number of which depend partly upon
+the place in the string the excitement starts from; partly upon the
+force and the form of force that is employed; and partly upon the
+length, thickness, weight, strain, and elasticity of the string, with
+some small allowance for gravitation. The vibrating sections are of
+wave-like contour; the nodes or points of apparent rest being really
+knots of the greatest pressure from crossing streams of molecules. Where
+the pressure slackens, the sections rise into loops, the curves of which
+show the points of least pressure. Now, if the string be struck upon a
+loop, less energy is communicated to the string, and the carrying power
+of the sound proportionately fails. If the string be struck upon a node,
+greater energy ensues, and the carrying power proportionately gains.
+By this we recognize the importance of the place of contact, or
+striking-place of the hammer against the string; and the necessity, in
+order to obtain good fundamental tone, which shall carry, of the note
+being started from a node.
+
+If the hammer is hard, and impelled with force, the string breaks into
+shorter sections, and the discordant upper partials of the string, thus
+brought into prominence, make the tone harsh. If the hammer is soft, and
+the force employed is moderated, the harmonious partials of the longer
+sections strike the ear, and the tone is full and round. By the
+frequency of vibration, that is to say, the number of times a string
+runs through its complete changes one way and the other, say, for
+measurement, in a second of time, we determine the pitch, or relative
+acuteness of the tone as distinguished by the ear.
+
+We know, with less exactness, that the sound-board follows similar laws.
+The formation of nodes is helped by the barring of the sound-board,
+a ribbing crosswise to the grain of the wood, which promotes the
+elasticity, and has been called the "soul" of stringed musical
+instruments. The sound-board itself is made of most carefully chosen
+pine; in Europe of the _Abies excelsa_, the spruce fir, which, when well
+grown, and of light, even grain, is the best of all woods for resonance.
+The pulsations of the strings are communicated to the sound-board by the
+bridge, a thick rail of close-grained beech, curved so as to determine
+their vibrating lengths, and attached to the sound-board by dowels. The
+bridge is doubly pinned, so as to cut off the vibration at the edge
+of the bearing the strings exert upon the bridge. The shock of each
+separate pulsation, in its complex form, is received by the bridge,
+and communicated to such undamped strings as may, by their lengths, be
+sensitive to them; thus producing the AEolian tone commonly known as
+sympathetic, an eminently attractive charm in the tone of a pianoforte.
+
+We have here strings, bridge, and sound-board, or belly, as it is
+technically called, indispensable for the production of the tone, and
+indivisible in the general effect. The proportionate weight of
+stringing has to be met by a proportionate thickness and barring of the
+sound-board, and a proportionate thickness and elevation of the bridge.
+
+The tension of the strings is met by a framing, which has become more
+rigid as the drawing power of the strings has been gradually increased.
+In the present concert grands of Messrs. Broadwood, that drawing power
+may be stated as starting from 150 lb. for each single string in the
+treble, and gradually increasing to about 300 lb. for each of the single
+strings in the bass. I will reserve for the historical description of
+my subject some notice of the different kinds of framing that have been
+introduced. It will suffice, at this stage, to say that it was at first
+of wood, and became, by degrees, of wood and iron; in the present day
+the iron very much preponderating. It will be at once evident that the
+object of the framing is to keep the ends of the strings apart. The near
+ends are wound round the wrest-pins, which are inserted in the wooden
+bed, called the wrest-plank, the strength and efficiency of which are
+most important for the tone and durability of the instrument. It is
+composed of layers of wainscot oak and beech, the direction of the
+grain being alternately longitudinal and lateral. Some makers cover the
+wrest-plank with a plate of brass; in Broadwood's grands, it is a plate
+of iron, into which, as well as the wood, the wrest-pins are screwed.
+The tuner's business is to regulate the tension, by turning the
+wrest-pins, in which he is chiefly guided by the beats which become
+audible from differing numbers of vibrations. The wrest-plank is
+bridged, and has its bearing like the soundboard; but the wrest-plank
+has no vibrations to transfer, and should, as far as possible, offer
+perfect insensibility to them.
+
+I will close this introductory explanation with two remarks, made by the
+distinguished musician, mechanician, and inventor, Theobald Boehm, of
+Munich, whose inventions were not limited to the flute which bears his
+name, but include the initiation of an important change in the modern
+pianoforte, as made in America and Germany. Of priority of invention he
+says, in a letter to an English friend, "If it were desirable to analyze
+all the inventions which have been brought forward, we should find that
+in scarcely any instance were they the offspring of the brain of a
+single individual, but that all progress is gradual only; each worker
+follows in the track of his predecessor, and eventually, perhaps,
+advances a step beyond him." And concerning the relative value of
+inventions in musical instruments, it appears, from an essay of his
+which has been recently published, that he considers improvement in
+acoustical proportions the chief foundation of the higher or lower
+degree of perfection in all instruments, their mechanism being but of
+secondary value.
+
+I will now proceed to recount briefly the history of the pianoforte from
+the earliest mention of that name, continuing it to our contemporary
+instruments, as far as they can be said to have entered into the
+historical domain. It has been my privilege to assist in proving that
+Bartolommeo Cristofori was, in the first years of the 18th century,
+the real inventor of the pianoforte, but with a wide knowledge and
+experience of how long it has taken to make any invention in keyed
+instruments practicable and successful, I cannot believe that Cristofori
+was the first to attempt to contrive one. I should rather accept his
+good and complete instrument as the sum of his own lifelong studies and
+experiments, added to those of generations before him, which have left
+no record for us as yet discovered.
+
+The earliest mention of the name pianoforte (_piano e forte_), applied
+to a musical instrument, has been recently discovered by Count Valdrighi
+in documents preserved in the Estense Library, at Modena. It is dated
+A.D. 1598, and the reference is evidently to an instrument of the spinet
+or cembalo kind; but how the tone was produced there is no statement,
+no word to base an inference upon. The name has not been met with
+again between the Estense document and Scipione Maffei's well-known
+description, written in 1711, of Cristofori's "gravecembalo col piano e
+forte." My view of Cristofori's invention allows me to think that the
+Estense "piano e forte" may have been a hammer cembalo, a very imperfect
+one, of course. But I admit that the opposite view of forte and piano,
+contrived by registers of spinet-jacks, is equally tenable.
+
+Bartolommeo Cristofori was a Paduan harpsichord maker, who was invited
+by Prince Ferdinand dei Medici to Florence, to take charge of the large
+collection of musical instruments the Prince possessed. At Florence he
+produced the invention of the pianoforte, in which he was assisted and
+encouraged by this high-minded, richly-cultivated, and very musical
+prince. Scipione Maffei tells us that in 1709 Cristofori had completed
+four of the new instruments, three of them being of the usual
+harpsichord form, and one of another form, which he leaves undescribed.
+It is interesting to suppose that Handel may have tried one or more of
+these four instruments during the stay he made at Florence in 1708. But
+it is not likely that he was at all impressed with the potentialities of
+the invention any more than John Sebastian Bach was in after years when
+he tried the pianofortes of Silbermann.
+
+The sketch of Cristofori's action in Maffei's essay, from which I have
+had a working model accurately made, shows that in the first instruments
+the action was not complete, and it may not have been perfected when
+Prince Ferdinand died in 1713. But there are Cristofori grand pianos
+preserved at Florence, dated respectively 1720 and 1726, in which an
+improved construction of action is found, and of this I also exhibit
+a model. There is much difference between the two. In the second,
+Cristofori had obtained his escapement with an undivided key,
+reconciling his depth of touch, or keyfall, with that of the
+contemporary harpsichord, by driving the escapement lever through the
+key. He had contrived means for regulating the escapement distance, and
+had also invented the last essential of a good pianoforte action, the
+check. I will explain what is meant by escapement and check. When, by
+a key being put down, the hammer is impelled toward the strings, it is
+necessary for their sustained vibration that, after impact, the hammer
+should rebound or escape; or it would, as pianoforte makers say,
+"block," damping the strings at the moment they should sound.
+
+A dulcimer player gains his elastic blow by the free movement of the
+wrist. To gain a similarly elastic blow mechanically in his first
+action, Cristofori cut a notch in the butt of his hammer from which the
+escapement lever, "linguetta mobile" as he called it--"hopper," as we
+call it--being centered at the base, moved forward, when the key was put
+down, to the extent of its radius, and after the delivery of the blow
+returned to its resting place by the pressure of a spring. The first
+action gave the blow with more direct force than the second, which had
+the notch upon what is called the underhammer, but was defective in
+the absence of any means to regulate the distance of the "go-off," or
+"escapement" from the string. In the second action, a small check before
+the hopper is intended to regulate it, but does so imperfectly. The
+pianoforte had to wait for fifty years for satisfactory regulation of
+the escapement.
+
+In the first action, the hammer rests in a silken fork, dropping the
+whole distance of the rise of every blow. The check in the second
+action, the "paramartello," is next in importance to the escapement. It
+catches the back part of the hammer at different points of the radius,
+responding to the amount of force the player has used upon the key. So
+that in repeated blows, the rise of the hammer is modified, and the
+notch is nearer to the returning hopper in proportionate degree.
+
+I have given the first place in description to Cristofori's actions,
+instead of to the "cembalo" or instrument to which they were applied,
+because piano and forte, from touch, became possible through them, and
+what else was accomplished by Cristofori was due, primarily, to the
+dynamic idea. He strengthened his harpsichord sound-board against
+a thicker stringing, renouncing the cherished sound-holes. Yet the
+sound-box notion clung to him, for he made openings in his sound-board
+rail for air to escape. He ran a string-block round the case, entirely
+independent of the sound-board, and his wrest-plank, which also became
+a separate structure, removed from the sound-board by the gap for the
+hammers, was now a stout oaken plank which, to gain an upward bearing
+for the strings, he inverted, driving his wrest-pins through in the
+manner of a harp, and turning them in like fashion to the harp. He had
+two strings to a note, but it did not occur to him to space them into
+pairs of unisons. He retained the equidistant harpsichord scale, and
+had, at first, under-dampers, later over-dampers, which fell between the
+unisons thus equally separated. Cristofori died in 1731. He had pupils,
+one of whom made, in 1730, the, "Rafael d'Urbino," the favorite
+instrument of the great singer Farinelli. The story of inventive
+Italian pianoforte making ends thus early, but to Italy the invention
+indisputably belongs.
+
+The first to make pianofortes in Germany was the famous Freiberg
+organ-builder and clavichord maker, Gottfried Silbermann. He submitted
+two pianofortes to the judgment of John Sebastian Bach in 1726, which
+judgment was, however, unfavorable; the trebles being found too weak,
+and the touch too heavy. Silbermann, according to the account of Bach's
+pupil, Agricola, being much mortified, put them aside, resolving not to
+show them again unless he could improve them. We do not know what these
+instruments were, but it may be inferred that they were copies of
+Cristofori, or were made after the description of his invention by
+Maffei, which had already been translated from Italian into German,
+by Koenig, the court poet at Dresden, who was a personal friend of
+Silbermann. With the next anecdote, which narrates the purchase of all
+the pianofortes Silbermann had made, by Frederick the Great, we are upon
+surer ground. This well accredited occurrence took place in 1746. In
+the following year occurred Bach's celebrated visit to Potsdam, when he
+played upon one or more of these instruments. Burney saw and described
+one in 1772. I had this one, which was known to have remained in the new
+palace at Potsdam until the present time unaltered, examined, and, by a
+drawing of the action, found it was identical with Cristofori's. Not,
+however, being satisfied with one example, I resolved to go myself to
+Potsdam; and, being furnished with permission from H.R.H. the Crown
+Princess of Prussia, I was enabled in September, 1881, to set the
+question at rest of how many grand pianofortes by Gottfried Silbermann
+there were still in existence at Potsdam, and what they were like. At
+Berlin there are none, but at Potsdam, in the music-rooms of Frederick
+the Great, which are in the town palace, the new palace, and Sans
+Souci--left, it is understood, from the time of Frederick's death
+undisturbed--there are three of these Silbermann pianofortes. All three
+are with unimportant differences having nothing to do with structure,
+Cristofori instruments, wrest plank, sound-board, string-block, and
+action; the harpsichord scale of stringing being still retained. The
+work in them is undoubtedly good; the sound-boards have given in the
+trebles, as is usual with old instruments, from the strain; but I should
+say all three might be satisfactorily restored. Some other pianofortes
+seem to have been made in North Germany about this time, as our own
+poet Gray bought one in Hamburg in 1755, in the description of which we
+notice the desire to combine a hammer action with the harpsichord which
+so long exercised men's minds.
+
+The Seven Years' War put an end to pianoforte making on the lines
+Silbermann had adopted in Saxony. A fresh start had to be made a few
+years later, and it took place contemporaneously in South Germany and
+England. The results have been so important that the grand pianofortes
+of the Augsburg Stein and the London Backers may be regarded,
+practically, as reinventions of the instrument. The decade 1770-80 marks
+the emancipation of the pianoforte from the harpsichord, of which before
+it had only been deemed a variety. Compositions appear written expressly
+for it, and a man of genius, Muzio Clementi, who subsequently became the
+head of the pianoforte business now conducted by Messrs. Collard, came
+forward to indicate the special character of the instrument, and found
+an independent technique for it.
+
+A few years before, the familiar domestic square piano had been
+invented. I do not think clavichords could have been altered to square
+pianos, as they were wanting in sufficient depth of case; but that the
+suggestion was from the clavichord is certain, the same kind of case and
+key-board being used. German authorities attribute the invention to an
+organ builder, Friederici of Gera, and give the date about 1758 or 1760.
+I have advertised in public papers, and have had personal inquiry made
+for one of Friederici's "Fort Biens," as he is said to have called his
+instrument. I have only succeeded in learning this much--that Friederici
+is considered to have been of later date than has been asserted in the
+text-books. Until more conclusive information can be obtained, I must
+be permitted to regard a London maker, but a German by birth, Johannes
+Zumpe, as the inventor of the instrument. It is certain that he
+introduced that model of square piano which speedily became the fashion,
+and was chosen for general adoption everywhere. Zumpe began to make
+his instruments about 1765. His little square, at first of nearly five
+octaves, with the "old man's head" to raise the hammer, and "mopstick"
+damper, was in great vogue, with but little alteration, for forty years;
+and that in spite of the manifest improvements of John Broadwood's
+wrest-plank and John Geib's "grasshopper." After the beginning of this
+century, the square piano became much enlarged and improved by Collard
+and Broadwood, in London, and by Petzold, in Paris. It was overdone in
+the attempt to gain undue power for it, and, about twenty years ago,
+sank in the competition, with the later cottage pianoforte, which was
+always being improved.
+
+To return to the grand pianoforte. The origin of the Viennese grand is
+rightly accredited to Stein, the organ builder, of Augsburg. I will
+call it the German grand, for I find it was as early made in Berlin as
+Vienna. According to Mozart's correspondence, Stein had made some grand
+pianos in 1777, with a special escapement, which did not "block"
+like the pianos he had played upon before. When I wrote the article
+"Pianoforte" in Dr. Grove's "Dictionary," no Stein instrument was
+forthcoming, but the result of the inquiries I had instituted at that
+time ultimately brought one forward, which has been secured by the
+curator of the Brussels Museum, M. Victor Mahillon. This instrument,
+with Stein's action and two unison scale, is dated 1780. Mozart's grand
+piano, preserved at Salzburg, made by Walther, is a nearly contemporary
+copy of Stein, and so also are the grands by Huhn, of Berlin, which I
+took notes of at Berlin and Potsdam; the latest of these is dated 1790.
+
+An advance shown by these instruments of Stein and Stein's followers is
+in the spacing of the unisons; the Huhn grands having two strings to
+a note in the lower part of the scale, and three in the upper. The
+Cristofori Silbermann inverted wrest-plank has reverted to the usual
+form; the tuning pins and downward bearing being the same as in the
+harpsichord. There are no steel arches as yet between the wrest-plank
+and the belly-rail in these German instruments. As to Stein's
+escapement, his hopper was fixed behind the key; the axis of the hammer
+rising on a principle which I think is older than Stein, but have not
+been able to trace to its source, and the position of his hammer is
+reversed. Stein's light and facile movement with shallow key-fall,
+resembling Cristofori's in bearing little weight, was gratefully
+accepted by the German clavichord players, and, reacting, became one of
+the determining agents of the piano music and style of playing of the
+Vienna school. Thus arose a fluent execution of a rich figuration and
+brilliant passage playing, with but little inclination to sonorousness

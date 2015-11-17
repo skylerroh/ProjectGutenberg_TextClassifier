@@ -1,0 +1,521 @@
+of phases as in Fig. 9, but requiring only four leads instead of
+eight. Figs. 11 and 12 correspond with Figs. 7 and 8 and show the
+windings for a multipolar motor in the two systems.
+
+[Illustration: FIG. 13.]
+
+[Illustration: FIG. 14.]
+
+[Illustration: FIG. 15.]
+
+These figures show how a motor may be wound so as to be a multiple
+phase motor, although the current entering the motor is a simple,
+elementary three or two phase current, which can be transformed by
+means of a simple three or two phase current transformer, before
+entering the motor, such transformers as are used at present in the
+Lauffen-Frankfort transmission. But the same principle as that for the
+motor may also be applied to transformers themselves, as shown in
+Figs. 13 and 14. Fig. 13 shows a set of transformers which are fed by
+a simple three-phase current shown in heavy lines, and which gives in
+its secondary circuit a multiple phase rotary current. The connections
+for the primary circuit of a transformer with six coils are shown
+diagrammatically in Fig. 15, the numbers 1 to 6 representing the
+succession of the phases. Fig. 14 shows a transformer for a two-phase
+current with four leads, transforming into a multiple phase current of
+16 leads. The transformer in this figure is a single "interlocked"
+transformer in which the fields are magnetically connected and not
+independent of each other as in Fig. 13. This has advantages in the
+regulation of currents, which do not exist in Fig. 13, but which need
+not be entered into here. The transformers used in the Lauffen-Frankfort
+transmission are similar, magnetically, to Fig. 14, only that they are
+for a simple three-phase current in both primary and secondary
+circuits. Attention is also called to the difference in the
+connections of secondary circuits in Figs. 13 and 14; in the former
+they are connected in a closed circuit similarly to an ordinary closed
+circuit armature, while in Fig. 14 they are independent as far as the
+currents themselves are concerned, though magnetically their cores are
+connected. It is not the intention to enter into a discussion of the
+relative values of these various connections, but merely to draw
+attention to the wide range of the number of combinations which this
+system admits of.--_Electrical World_.
+
+       *       *       *       *       *
+
+
+
+
+THE LONDON PARIS TELEPHONE.[1]
+
+[Footnote 1: Paper read before the British Association.--_Elec.
+Engineer._]
+
+By W.H. Preece, F.R.S.
+
+
+1. I have already on two occasions, at Newcastle and at Leeds, brought
+this subject before Section G, and have given the details of the
+length and construction of the proposed circuit.
+
+I have now to report not only that the line has been constructed and
+opened to the public, but that its success, telephonic and commercial,
+has exceeded the most sanguine anticipations. Speech has been
+maintained with perfect clearness and accuracy. The line has proved to
+be much better than it ought to have been, and the purpose of this
+paper is to show the reason why.
+
+The lengths of the different sections of the circuit are as follows:
+
+    London to St. Margaret's Bay                84.5 miles.
+    St. Margaret's Bay to Sangatte (cable).     23.0   "
+    Sangatte to Paris.                         199.0   "
+    Paris underground.                           4.8   "
+                                               -----
+    Total.                                     311.3   "
+
+The resistances are as follows:
+
+    Paris underground.                  70 ohms.
+    French line.                       294  "
+    Cable.                             143  "
+    English line.                      183  "
+                                       ---
+    Total (R)                          693  "
+
+The capacities are as follows:
+
+    Paris underground.           0.43 microfarads.
+    French line.                 3.33    "
+    Cable.                       5.52    "
+    English line.                1.32    "
+                                 ----
+    Total (K).                  10.62    "
+
+               693 x 10.62 = 7,359 = K R
+
+a product which indicates that speech should be very good.
+
+
+2. _Trials of Apparatus._--The preliminary trials were made during the
+month of March between the chief telegraph offices of the two
+capitals, and the following microphone transmitters were compared:
+
+    Ader.                            Pencil form.
+    Berliner.                        Granular form.
+    D'Arsonval.                      Pencil    "
+    DeJongh.                           "       "
+    Gower Bell.                        "       "
+    Post office switch instrument.   Granules and lamp filaments.
+    Roulez.                          Lamp filaments.
+    Turnbull.                        Pencil form.
+    Western Electric.                Granular.
+
+The receivers consisted of the latest form of double-pole Bell
+telephones with some Ader and D'Arsonval receivers for comparison.
+After repeated trials it was finally decided that the Ader,
+D'Arsonval, Gower-Bell (with double-pole receivers instead of tubes),
+Roulez, and Western Electric were the best, and were approximately
+equal.
+
+These instruments were, therefore, selected for the further
+experiments, which consisted of using local extensions in Paris and
+London. The wires were in the first instance extended at the Paris end
+to the Observatory through an exchange at the Avenue des Gobelines. The
+length of this local line is 7 kms. The wires are guttapercha-covered,
+placed underground, and not suitable for giving the best results.
+
+The results were, however, fairly satisfactory. The wires were
+extended to the Treasury in London by means of the ordinary
+underground system. The distance is about two miles, and although the
+volume of sound and clearness of articulation were perceptibly reduced
+by these additions to the circuit, conversation was quite practicable.
+
+Further trials were also made from the Avenue des Gobelines on
+underground wires of five kilometers long, and also with some renters
+in Paris with fairly satisfactory results. The selected telephones
+were equally efficient in all cases, which proves that to maintain
+easy conversation when the trunk wires are extended to local points it
+is only necessary that the local lines shall be of a standard not
+lower than that of the trunk line. The experiments also confirm the
+conclusion that long-distance speaking is solely a question of the
+circuit and its environments, and not one of apparatus. The
+instruments finally selected for actual work were Gower-Bell for
+London and Roulez for Paris.
+
+
+3. The results are certainly most satisfactory. There is no circuit in
+or out of London on which speech is more perfect than it is between
+London and Paris. In fact, it is better than I anticipated, and better
+than calculation led me to expect. Speech has been possible not only
+to Paris but through Paris to Bruxelles, and even, with difficulty,
+through Paris to Marseilles, a distance of over 900 miles. The wires
+between Paris and Marseilles are massive copper wires specially
+erected for telephone business between those important places.
+
+
+4. _Business Done._--The charge for a conversation between London and
+Paris is 8 s. for three minutes' complete use of the wire. The demand
+for the wire is very considerable. The average number of talks per
+day, exclusive of Sunday, is 86. The maximum has been 108. We have had
+as many as 19 per hour--the average is 15 during the busy hours of the
+day. As an instance of what can be done, 150 words per minute have
+been dictated in Paris and transcribed in London by shorthand writing.
+Thus in three minutes 450 words were recorded, which at 8 s. cost five
+words for a penny.
+
+
+5. _Difficulties._--The difficulties met with in long-distance
+speaking are several, and they may be divided into (a) those due to
+external disturbances and (b) those due to internal opposition.
+
+(_a._) Every current rising and falling in the neighborhood of a
+telephone line within a region, say, of 100 yards, whether the wire
+conveying it be underground or overground, induces in the telephone
+circuit another current, producing in the telephone a sound which
+disturbs speech, and if the neighboring wires are numerous and busy,
+as they are on our roads and railways, these sounds became confusing,
+noisy, and ultimately entirely preventive of speech. This disturbance
+is, however, completely removed by forming the telephone circuit of
+two wires placed as near to each other as possible, and twisted around
+each other without touching, so as to maintain the mean average
+distance of each wire from surrounding conductors the same everywhere.
+Thus similar currents are induced in each of the two wires, but being
+opposite in direction, as far as the circuit is concerned, they
+neutralize each other, and the circuit, therefore, becomes quite
+silent.
+
+In England we make the two wires revolve completely round each other
+in every four poles, but in France it is done in every six poles. The
+reason for the change is the fact that in the English plan the actual
+crossing of the wires takes place in the span between the poles, while
+in the French plan it takes place at the poles. This is supposed to
+reduce the liability of the wires to be thrown into contact with each
+other by the wind, but, on the other hand, it diminishes the
+geometrical symmetry of the wires--so very essential to insure
+silence. As a matter of fact, contacts do not occur on well
+constructed lines, and I think our English wires, being more
+symmetrical, are freer from external disturbance than those in France.
+
+[Illustration: FIG. 1.]
+
+(_b._) The internal opposition arises from the resistance, R, the
+capacity, K, and the electromagnetic inertia, L, of the circuit. A
+current of electricity takes time to rise to its maximum strength and
+time to fall back again to zero. Every circuit has what is called its
+time constant, _t_, Fig. 1, which regulates the number of current
+waves which can be transmitted through it per second. This is the time
+the current takes to rise from zero to its working maximum, and the
+time it takes to fall from this maximum to zero again, shown by the
+shaded portions of the figure; the duration of the working current
+being immaterial, and shown by the unshaded portion.
+
+The most rapid form of quick telegraphy requires about 150 currents
+per second, currents each of which must rise and fall in 1/150 of a
+second, but for ordinary telephone speaking we must have about 1,500
+currents per second, or the time which each current rises from zero to
+its maximum intensity must not exceed 1/3000 part of a second. The
+time constant of a telephone circuit should therefore not be less than
+0.0003 second.
+
+Resistance alone does not affect the time constant. It diminishes the
+intensity or strength of the currents only; but resistance, combined
+with electromagnetic inertia and with capacity, has a serious
+retarding effect on the rate of rise and fall of the currents. They
+increase the time constant and introduce a slowness which may be
+called retardance, for they diminish the rate at which currents can be
+transmitted. Now the retardance due to electromagnetic inertia
+increases directly with the amount of electromagnetic inertia present,
+but it diminishes with the amount of resistance of the conductor. It
+is expressed by the ratio L/R while that due to capacity increases
+directly, both with the capacity and with the resistance, and it is
+expressed by the product, K R. The whole retardance, and, therefore,
+the speed of working the circuit or the clearness of speech, is given,
+by the equation
+
+                 L
+                --- + K R = t
+                 R
+
+or               L + K R squared = R t
+
+Now in telegraphy we are not able altogether to eliminate L, but we
+can counteract it, and if we can make Rt = 0, then
+
+               L = - K R squared
+
+which is the principle of the shunted condenser that has been
+introduced with such signal success in our post office service, and
+has virtually doubled the carrying capacity of our wires.
+
+                K R = t
+
+This is done in telephony, and hence we obtain the law of retardance,
+or the law by which we can calculate the distance to which speech is
+possible. All my calculations for the London and Paris line were based
+on this law, which experience has shown it to be true.
+
+How is electromagnetic inertia practically eliminated? First, by the
+use of two massive copper wires, and secondly by symmetrically
+revolving them around each other. Now L depends on the geometry of the
+circuit, that is, on the relative form and position of the different
+parts of the circuit, which is invariable for the same circuit, and is
+represented by a coefficient, [lambda]. It depends also on the
+magnetic qualities of the conductors employed and of the space
+embraced by the circuit. This specific magnetic capacity is a variable
+quantity, and is indicated by [mu] for the conductor and by [mu]_{0}
+for air. It depends also on the rate at which currents rise and fall,
+and this is indicated by the differential coefficient dC / dt. It
+depends finally on the number of lines of force due to its own current
+which cut the conductor in the proper direction; this is indicated by
+[beta]. Combining these together we can represent the electromagnetic
+inertia of a metallic telephone circuit as
+
+      L = [lambda] ([mu] + [mu]_{0}) dC/dt x [beta]
+
+Now, [lambda] = 2 log (d squared/a squared) Hence the smaller we make the distance,
+_d_, between the wires, and the greater we make their diameter, _a_,
+the smaller becomes [lambda]. It is customary to call the value of
+[mu] for air, and copper, 1, but this is purely artificial and
+certainly not true. It must be very much less than one in every
+medium, excepting the magnetic metals, so much so that in copper it
+may be neglected altogether, while in the air it does not matter what
+it is, for by the method of twisting one conductor round the other,
+the magnetization of the air space by the one current of the circuit
+rotating in one direction is exactly neutralized by that of the other
+element of the circuit rotating in the opposite direction.
+
+Now, [beta], in two parallel conductors conveying currents of the same
+sense, that is flowing in the same direction, is retarding, Fig. 2,
+and is therefore a positive quantity, but when the currents flow in
+opposite directions, as in a metallic loop, Fig. 3, they tend to
+assist each other and are of a negative character. Hence in a metallic
+telephone circuit we may neglect L _in toto_ as I have done.
+
+[Illustration: Fig 2.]
+
+[Illustration: Fig. 3.]
+
+I have never yet succeeded in tracing any evidence of electromagnetic
+inertia in long single copper wires, while in iron wires the value of
+L may certainly be taken at 0.005 henry per mile.
+
+In short metallic circuits, say of lengths up to 100 miles, this
+negative quantity does not appear, but in the Paris-London circuit
+this helpful mutual action of opposite currents comes on in a peculiar
+way. The presence of the cable introduces a large capacity practically
+in the center of the circuit. The result is that we have in each
+branch of the circuit between the transmitter, say, at London and the
+cable at Dover, extra currents at the commencement of the operation,
+which, flowing in opposite directions, mutually react on each other,
+and practically prepare the way for the working currents. The presence
+of these currents proved by the fact that when the cable is
+disconnected at Calais, as shown in Fig. 5, and telephones are
+inserted in series, as shown at D and D', speech is as perfect between
+London and St. Margaret's Bay as if the wires were connected across,
+or as if the circuit were through to Paris. Their effect is precisely
+the same as though the capacity of the aerial section were reduced by
+a quantity, M, which is of the same dimension or character as K.
+Hence, our retardance equation becomes
+
+                            R (K - M) = t
+
+[Illustration: Fig 4.]
+
+[Illustration: Fig 5.]
+
+Thus it happens that the London-Paris telephone works better than was
+expected. The nature of M is probably equivalent to about 0.0075 [phi]
+per mile, and therefore K should be also about 0.0075 [phi] instead of
+0.0156 [phi] per mile. This helpful action of mutual induction is
+present in all long circuits, and it is the reason why we were able to
+speak to Brussels and even to Marseilles. It also appears in every
+metallic loop, and vitiates the measurements of electromagnetic
+inertia and of capacity of loops. Thus, if we measure the capacity of
+a loop as compared with a single wire, the amount per mile may be 50
+per cent. greater than it ought to be; while if we measure the
+capacity of one branch of a circuit under the conditions of the
+London-Paris telephone line, it may be 50 per cent. less than it ought
+to be. This effect of M is shown by the dotted line in Fig. 1.
+
+Telephonic currents--that is, currents induced in the secondary wire
+of an induction coil due to the variation of microphonic currents in
+the primary wire--are not alternating currents. They do not follow the
+constant periodic law, and they are not true harmonic sine functions
+of the time. The microphonic currents are intermittent or pulsatory,
+and always flow in the same direction. The secondary currents are also
+always of the same sign, as are the currents in a Ruhmkorff coil, and
+as are the currents in high vacua with which Crookes has made us so
+familiar. Moreover, the frequency of these currents is a very variable
+quantity, not only due to the various tones of voices, but to the
+various styles of articulation. Hence the laws of periodic alternate
+currents following the sine function of the time fail when we come to
+consider microphones and telephones. It is important to bear this in
+mind, for nearly everything that has hitherto been written on the
+subject assumes that telegraphic currents follow the periodic sine
+law. The currents derived from Bell's original magneto-transmitters
+are alternate, and comply more nearly with the law. The difference
+between them and microphones is at once perceptible. Muffling and
+disturbance due to the presence of electromagnetic inertia become
+evident, which are absent with microphones. I tested this between
+London and St. Margaret's, and found the effect most marked.
+
+7. _Lightning._--A metallic telephone circuit may have a static charge
+induced upon it by a thunder cloud, as shown in Fig. 6. Such a charge
+is an electric strain which is released when the charged cloud flashes
+into the earth or into a neighboring cloud. If there be
+electromagnetic inertia present, the charge will surge backward and
+forward through the circuit until it dies out. If there be no E.M.F.
+present it will cease suddenly, and neutrality will be attained at
+once. Telephone circuits indicate the operation by peculiar and
+characteristic sounds. An iron wire circuit produces a long swish or
+sigh, but a copper wire circuit like the Paris-London telephone emits
+a short, sharp report, like the crack of a pistol, which is sometimes
+startling, and has created fear, but there is no danger or liability
+to shock. Indeed, the start has more than once thrown the listener off
+his stool, and has led to the belief that he was knocked down by
+lightning.
+
+[Illustration: Fig 6.]
+
+8. The future of telephone working, especially in large cities, is one
+of underground wires, and the way to get over the difficulties of this
+kind of work is perfectly clear. We must have metallic circuits,
+twisted wires, low resistance, and low capacity. In Paris a remarkable
+cable, made by Fortin-Herman, gives an exceedingly low capacity--viz.,
+only 0.069 [phi] per mile. In the United States they are using a wire
+insulated with paper which gives 0.08 [phi] per mile. We are using in
+London Fowler-Waring cable giving a capacity of 1.8 [phi] per mile,
+the capacity of gutta-covered wire being 3 [phi] per mile.
+
+       *       *       *       *       *
+
+
+
+
+THE MANUFACTURE OF PHOSPHORUS BY ELECTRICITY.
+
+
+One of the most interesting of the modern applications of electricity
+to the manufacture of chemicals is to be found in the recently
+perfected process known as the Readman-Parker process, after the
+inventors Dr. J.B. Readman, F.R.S.E., etc., of Edinburgh, and Mr.
+Thomas Parker; the well known practical electrician, of Wolverhampton.
+
+Before giving an account of this process, which has advanced beyond
+the experimental to the industrial stage, it may be well to recall the
+fact that for several years past Dr. Readman has been devoting an
+enormous expenditure of labor, time and money to the perfection of a
+process which shall cheapen the production of phosphorus by dispensing
+altogether with the use of sulphuric acid for decomposing the
+phosphate of lime which forms the raw material of the phosphorus
+manufacturer, and also with the employment of fire clay retorts for
+distilling the desiccated mixture of phosphoric acid and carbon which
+usually forms the second stage of the operation.
+
+The success of the recent applications of electricity in the
+production of certain metals and alloys led Dr. Readman to try this
+source of energy in the manufacture of phosphorus, and the results of
+the first series of experiments were so encouraging that he took out
+provisional protection on October 18, 1888, for preparing this
+valuable substance by its means.
+
+The experiments were carried on at this time on a very small scale,
+the power at disposal being very limited in amount. Yet the elements
+of success appeared to be so great, and the decomposition of the raw
+material was so complete, that the process was very soon prosecuted on
+the large scale.
+
+After a good deal of negotiation with several firms that were in a
+position to supply the electric energy required, Dr. Readman finally
+made arrangements with the directors of the Cowles Company, limited,
+of Milton, near Stoke-on-Trent, the well known manufacturers of alloys
+of aluminum, for a lease of a portion of their works and for the use
+of the entire electrical energy they produced for certain portions of
+the day.
+
+The experiments on the large scale had not advanced very far before
+Dr. Readman became aware that another application for letters patent
+for producing phosphorus had been made by Mr. Thomas Parker, of
+Wolverhampton, and his chemist, Mr. A.E. Robinson. Their joint patent
+is dated December 5, 1888, and was thus applied for only seven weeks
+after Dr. Readman's application had been lodged.
+
+It appeared that Mr. Parker had conducted a number of experiments
+simultaneously but quite independently of those carried on by Dr.
+Readman, and that he was quite unaware--as the latter was unaware--of
+any other worker in this field. It was no small surprise, therefore,
+to find during an interview which took place between these rival
+inventors some time after the date referred to, that the two patents
+were on practically the same lines, namely, the production of
+phosphorus by electricity.
+
+Their interests lay so much together that, after some delay, they
+arranged to jointly work out the process, and the result has been the
+formation of a preliminary company and the erection on a large scale
+of experimental plant in the neighborhood of Wolverhampton to prove
+the commercial success of the new system of manufacturing phosphorus.
+
+Before describing these experimental works it may be as well to see
+with what plant Dr. Readman has been working at the Cowles Company's
+works. And here we may remark that we are indebted to a paper read by
+Dr. Readman at the Philosophical Institution, Edinburgh, a short time
+ago; this paper being the third of a series which during the last year
+or two have been read by the same scientist on this branch of chemical
+industry. Here is an abstract giving a description of the plant. The
+works are near the Milton Station, on the North Staffordshire Railway.
+The boilers for generating the steam required are of the
+Babcock-Wilcox type, and are provided with "mechanical stokers;" the
+steam engine is of 600 horse power, and is a compound condensing
+horizontal tandem, made by Messrs. Pollitt & Wigzel, of Sowerby
+Bridge. The fly wheel of this engine is 20 feet in diameter, and
+weighs 30 tons, and is geared to the pulley of the dynamo, so that the
+latter makes five revolutions for each revolution of the engine by
+rope driving gear, consisting of eighteen ropes. The engine is an
+extremely fine specimen of a modern steam engine; it works so silently
+that a visitor standing with his back to the engine railings, at the
+time the engine is being started, cannot tell whether it is in motion
+or not.
+
+With regard to the dynamo, the spindle is of steel, 18 feet long, with
+three bearings, one being placed on either side of the driving pulley.
+The diameter is 7 inches in the bearings and 10 inches in the part
+within the core. This part in the original forgings was 14 inches in
+diameter, and was planed longitudinally, so as to leave four
+projecting ribs or radial bars on which the core disks are driven,
+each disk having four key ways corresponding to these ribs. There are
+about 900 of these disks, the external diameter being 20 inches and
+the total length of the core 36 inches.
+
+The armature winding consists of 128 copper bars, each 7/8 in. deep,
+measured radially, by 3/8 in. wide. These bars are coupled up so as to
+form thirty-two conductors only; this arrangement has been adopted to
+avoid the heating from the Foucault currents, which, with 11/2 in.
+conductors, would have been very considerable. The bars are coupled at
+the ends of the core across a certain chord and are insulated.
+
+The commutator is 20 inches long, and has sixty-four parts. The
+current is collected by eight brushes mounted on a separate ring,
+placed concentric to the commutator; and the current is led away from
+these brushes by a large number of thin bands of sheet copper strapped
+together into convenient groups. The field magnets are of the
+horizontal double type.
+
+As this machine is virtually a series wound machine, the magnet coils
+each consist of a few turns only of forged copper bars, 11/2 in. wide by
+1 in. thick, forged to fit the magnet cores.
+
+There is no insulation other than mica wedges to keep the bars from
+touching the core.
+
+The dynamo furnishes a current of about 5,000 amperes, with an E.M.F.
+of 50 to 60 volts, and three years ago was claimed to be the largest
+machine, at least as regards quantity of current, in the world.
+
+The current from the dynamos is led by copper bars to an enormous "cut
+out," calculated to fuse at 8,000 amperes. This is probably one of the
+largest ever designed, and consists of a framework carrying twelve
+lead plates, each 31/2 in. x 1/16th in. thick. A current indicator is
+inserted in the circuit consisting of a solenoid of nine turns. The
+range of this indicator is such that the center circle of 360 deg.=8,000
+amperes.
+
+The electrodes consisted of a bundle of nine carbons, each 21/2 in. in

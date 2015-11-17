@@ -1,0 +1,398 @@
+of the fact that deep pits had been dug in one of the experimental fields
+for the purpose of obtaining samples of the soil and subsoil. Small
+quantities of soil were taken from freshly-cut surfaces on the sides of
+these pits at depths varying from 2 inches to 8 feet. The soil removed was
+at once transferred to a sterilized solution of diluted urine, which was
+afterward examined from time to time to ascertain if nitrification took
+place. These experiments are hardly yet completed; the two earlier series
+of solutions have, however, been examined for eight and seven months
+respectively. In both these series the soil taken from 2 inches, 9 inches,
+and 18 inches from the surface has been proved to contain the nitrifying
+organism by the fact that it has produced nitrification in the solutions
+to which it was added; while in twelve distinct experiments made with soil
+from greater depths no nitrification has yet occurred, and we must
+therefore conclude that the nitrifying organism was not present in the
+samples of soil taken. The third series of experiments has continued as
+yet but three months and a half; at present no nitrification has occurred
+with soil taken below 9 inches from the surface. It would appear,
+therefore, that in a clay soil the nitrifying organism is confined to
+about 18 inches from the surface; it is most abundant in the first 6
+inches. It is quite possible, however, that in the channels caused by
+worms, or by the roots of plants, the organism may occur at greater
+depths. In a sandy soil we should expect to find the organism at a lower
+level than in clay, but of this we have as yet no evidence. The facts here
+mentioned are in accordance with the microscopical observations made by
+Koch, who states that the micro-organisms in the soils he has investigated
+diminish rapidly in number with an increasing depth; and that at a depth
+of scarcely 1 meter the soil is almost entirely free from bacteria.
+
+Some very practical conclusions may be drawn from the facts now stated. It
+appears that the oxidation of nitrogenous matter in soil will be confined
+to matter near the surface. The nitrates found in the subsoil and in
+subsoil drainage waters have really been produced in the upper layer of
+the soil, and have been carried down by diffusion, or by a descending
+column of water. Again, in arranging a filter bed for the oxidation of
+sewage, it is obvious that, with a heavy soil lying in its natural state
+of consolidation, very little will be gained by making the filter bed of
+considerable depth; while, if an artificial bed is to be constructed, it
+is clearly the top soil, rich in oxidizing organisms, which should be
+exclusively employed.
+
+_The Substances Susceptible of Nitrification._--The analyses of soils and
+drainage waters have taught us that the nitrogenous humic matter resulting
+from the decay of plants is nitrifiable; also that the various nitrogenous
+manures applied to land, as farmyard manure, bones, fish, blood, rape
+cake, and ammonium salts, undergo nitrification in the soil. Illustrations
+of many of these facts from the results obtained in the experimental
+fields at Rothamsted have been published by Sir J.B. Lawes, Dr. J.H.
+Gilbert, and myself, in a recent volume of the _Journal_ of the Royal
+Agricultural Society of England. In the Rothamsted Laboratory, experiments
+have also been made on the nitrification of solutions of various
+substances. Besides solutions containing ammonium salts and urea, I have
+succeeded in nitrifying solutions of asparagine, milk, and rape cake.
+Thus, besides ammonia, two amides, and two forms of albuminoids have been
+found susceptible of nitrification. In all cases in which amides or
+albuminoids were employed, the formation of ammonia preceded the
+production of nitric acid. Mr. C.F.A. Tuxen has already published in the
+present year two series of experiments on the formation of ammonia and
+nitric acids in soils to which bone-meal, fish-guano, or stable manure had
+been applied; in all cases he found the formation of ammonia preceded the
+formation of nitric acid.
+
+As ammonia is so readily nitrifiable, we may safely assert that every
+nitrogenous substance which yields ammonia when acted upon by the
+organisms present in soil is also nitriflable.
+
+_Certain Conditions having Great Influence in the Process of
+Nitrification._--If we suppose that a solution containing a nitrifiable
+substance is supplied with the nitrifying organism, and with the various
+food constituents necessary for its growth and activity, the rapidity of
+nitrification will depend on a variety of circumstances:
+
+1. The degree of concentration of the solution is important. Nitrification
+always commences first in the weakest solution, and there is probably in
+the case of every solution a limit of concentration beyond which
+nitrification is impossible.
+
+2. The temperature has great influence. Nitrification proceeds far more
+rapidly in summer than winter.
+
+3. The presence or absence of light is important. Nitrification is most
+rapid in darkness; and in the case of solutions, exposure to strong light
+may cause nitrification to cease altogether.
+
+4. The presence of oxygen is of course essential. A thin layer of solution
+will nitrify sooner than a deep layer, owing to the larger proportion of
+oxygen available. The influence of depth of fluid is most conspicuous in
+the case of strong solutions.
+
+5. The quantity of nitrifying organism present has also a marked effect. A
+solution seeded with a very small amount of organism will for a long time
+exhibit no nitrification, the organism being (unlike some other bacteria)
+of very slow growth. A solution receiving an abundant supply of the
+ferment will exhibit speedy nitrification, and strong solutions may by
+this means be successfully nitrified, which with small seedings would
+prove very refractory. The speedy nitrification which occurs in soil (far
+more speedy than in experiments in solutions under any conditions yet
+tried) is probably owing to the great mass of nitrifying organisms which
+soil contains, and to the thinness of the liquid layer which covers the
+soil particles.
+
+6. The rapidity of nitrification also depends on the degree of alkalinity
+of the solution. Nitrification will not take place in an acid solution; it
+is essential that some base should be present with which the nitric acid
+may combine; when all available base is used up, nitrification ceases.
+
+It appeared of interest to ascertain to what extent nitrification would
+proceed in a dilute solution of urine without the addition of any
+substance save the nitrifying ferment. As urea is converted into ammonium
+carbonate in the first stage of the action of the ferment, a supply of
+salifiable base would at first be present, but would gradually be
+consumed. The result of the experiment showed that only one-half the
+quantity of nitric acid was formed in the simple urine solution as in
+similar solutions containing calcium and sodium carbonate. The
+nitrification of the urine had evidently proceeded until the whole of the
+ammonium had been changed into ammonium nitrate, and the action had then
+ceased. This fact is of practical importance. Sewage will be thoroughly
+nitrified only when a sufficient supply of calcium carbonate, or some
+other base, is available. If, instead of calcium carbonate, a soluble
+alkaline salt is present, the quantity must be small, or nitrification
+will be seriously hindered.
+
+Sodium carbonate begins to have a retarding influence on the commencement
+of nitrification when its amount exceeds 300 milligrammes per liter, and
+up to the present time I have been unable to produce an effective
+nitrification in solutions containing 1.000 gramme per liter.
+
+Sodium hydrogen carbonate hinders far less the commencement of
+nitrification.
+
+Ammonium carbonate, when above a certain amount, also prevents the
+commencement of nitrification. The strongest solution in which
+nitrification has at present commenced contained ammonium carbonate
+equivalent to 368 milligrammes of nitrogen per liter. This hinderance of
+nitrification by the presence of an excess of ammonium carbonate
+effectually prevents the nitrification of strong solutions of urine, in
+which, as already mentioned, ammonium carbonate is the first product of
+fermentation.
+
+Far stronger solutions of ammonium chloride can be nitrified than of
+ammonium carbonate, if the solution of the former salt is supplied with
+calcium carbonate. Nitrification has in fact commenced in chloride of
+ammonium solutions containing more than two grammes of nitrogen per liter.
+
+The details of the recent experiments, some of the results of which we
+have now described, will, it is hoped, shortly appear in the _Journal_ of
+the Chemical Society of London.
+
+Harpenden, July 21.
+
+       *       *       *       *       *
+
+
+
+
+ANILINE DYES IN DRESS MATERIALS.
+
+By Professor CHARLES O'NEILL.
+
+
+Twenty-eight years ago Mr. Perkin discovered the first of the aniline
+dyes. It was the shade of purple called mauve, and the chief agent in its
+production was bichromate of potash. This salt is not actively poisonous,
+and no one thought of attributing injurious properties to materials dyed
+with the aniline mauve. Next in chronological order came magenta red. It
+was first made from aniline by the agency of mercurial salts, and
+afterward by that form of arsenic known to chemists as arsenic acid. The
+fact that this at one time fashionable color was prepared by means of an
+arsenical compound was spread through the country in a very impressive
+manner by the great trial as to whether the patent was valid or not, all
+turning upon the expression in the specification of "dry arsenic acid,"
+and the disputes of scientists whether this expression meant arsenic acid
+with or without water. The public mind had been for some time previously
+exercised and alarmed by accounts of sickness and debility caused by
+arsenical paper-hangings; it was, therefore, easy for pseudo scientists to
+create an opinion that the magenta dye must be also poisonous, and that
+persons wearing materials dyed with this color were liable to absorb
+arsenic and suffer from its action. Ever since there have been, at
+intervals, statements more or less circumstantial, that individuals have
+suffered from wearing materials dyed with some of the artificial dyes. At
+the present time these statements are emphasized by the exhibition at the
+Healtheries of models of skin diseases said to be actually produced by the
+wearing of dyed garments. Whether it be true or not that any form of skin
+disease has been produced by the wearing of dyed articles of clothing is
+simply a question of evidence, and there is evidence enough to show that
+individuals have experienced ill effects who have worn clothing dyed with
+artificial colors. But, as far as we know, there is an entire want of any
+evidence that will satisfactorily show that the inconvenience suffered by
+wearers of these dyed goods has been owing to the dyeing material. Years
+must elapse before chemists or physicians can hope to become thoroughly
+informed of the physiological action produced by the cutaneous absorption
+of the thousands of new products which the ingenuity and industry of
+technological chemists have made available for the manufacture of colors;
+they are also new to science, most of them very complex in their
+constitution, and so dissimilar to previously studied compounds used by
+the dyer, that it may be said we have nearly everything to learn
+concerning their action upon the human economy. With respect to dyed
+woolen and silk goods it is almost entirely a question as to the innocence
+or otherwise of the coloring matter itself, which in nine cases out of ten
+is an organic body containing no mineral matter of any sort, and not
+requiring the assistance of any mordant to enable it to dye.
+Considerations of arsenic, or antimony, or mercury existing in the dyed
+stuffs are absolutely excluded. In a few cases the dyestuff is a zinc
+compound, and zinc in small traces may possibly be fixed by the material,
+but this metal is not known to be actively noxious. Textiles made from
+fibers of animal origin do not require, and as a rule do not tolerate, the
+addition of any metal in dyeing with the artificial colors, and if the
+manufacture of the color require the use of a metal, such as arsenic,
+which by unskillfulness or carelessness is left in it when delivered to
+the dyer, the tendency of the animal fiber is to reject it.
+
+But the case with regard to textiles made from vegetables fibers is quite
+different; upon materials made from cotton, flax, jute, or other fiber of
+the vegetable kingdom, the new aniline colors cannot be fixed without the
+assistance of other bodies acting the part of mordants. Some of these
+bodies are actively poisonous in their nature, and introduce a possible
+element of danger to the wearer of the dyed article. For many years,
+almost the only method of dyeing cotton goods with the aniline colors
+consisted in a preliminary steeping in sumac or tannic acid, followed by a
+passage in some suitable compound of tin, and subsequent dyeing in the
+coloring matter. Sumac and tin have been used for two hundred years or
+more as the dyer's basis for a considerable number of shades of color from
+old dye-stuffs; there never has been the least suspicion that there was
+anything hurtful in colors so dyed. Sumac or tannic acid, in combination
+with alumina, may be held to be equally inoffensive; now it is a fact that
+the great bulk of cotton goods are dyed with the aniline colors by the
+agency of these harmless chemicals. But of late years the dyers of certain
+goods, and the calico printers generally, have found an advantage in the
+use of tartar emetic, and other compounds of antimony, to fix aniline
+colors; besides this, some colors are fixed in calico printing by means of
+an arsenical alumina mordant; it need not be mentioned that antimony, as
+well as arsenic, is, when administered internally, an active poison in
+even small quantities, and that externally both are injurious under
+certain conditions. An alarmist would require nothing further than this
+statement to feel himself justified in attributing everything bad to
+fabrics so colored; but the practical dyer or calico printer knows that
+though he employs these poisonous bodies in his business, and that some
+portion of them does actually accompany the dyed material in its finished
+state, not only is the quantity excessively small, but that it is in such
+a state of combination as to be completely inert and innoxious. In the
+case of tartar emetic, it is the tannate of antimony which remains upon
+the cloth, a compound of considerable stability, and almost perfectly
+insoluble in water; in the case of a few colors fixed by the arsenical
+alumina mordant, the arsenic is in an insoluble state of combination with
+the alumina, in fact, the poisons are in the presence of their antidotes,
+and not even the most scrupulous manufacturer has any fear that he is
+turning out goods which can be hurtful to the wearer. Persons quite
+unacquainted with the process of dyeing are apt to think that goods are
+dyed by simply immersing them in a colored liquid and then drying them
+with all the color on them and all that the color contains; they do not
+know that in all usual cases of dyeing a careful washing in a plentiful
+supply of water is the final process in the dye-house, and that nothing
+remains upon the cloth which can be washed out by water, the color being
+retained by a sort of attraction or affinity between it and the fiber, or
+mordant on the fiber. Dyeing is not like painting or even the printing or
+staining of paper for hangings, where the vehicle and color in its
+entirety is applied and remains. It follows, therefore, that many
+chemicals used in dyeing have only a transitory use, and are washed away
+completely--such as oil of vitriol, much used in woolen dyeing--and that
+of others only a very minute quantity is finally left on the cloth, as is
+the case in antimony and arsenic in cotton dyeing and printing.
+
+There is evidently among working dyers, as among all other classes, an
+unknown amount of carelessness, ignorance, and stupidity, from which
+employers are constantly suffering in the shape of spoiled colors and
+rotted cloth. It is not for us to say that the public may not at times
+have to suffer also from neglect of the most common treatments which
+should remove injurious matters from dyed goods; what can be said is, that
+if the dyeing processes for aniline colors be followed out with ordinary
+care and intelligence, it is extremely improbable that anything left in
+the material should be injurious to human health.--_Manchester Textile
+Recorder._
+
+       *       *       *       *       *
+
+
+
+
+CASE OF RESUSCITATION AND RECOVERY AFTER APPARENT DEATH BY HANGING.
+
+By ERNEST W. WHITE, M.B. Lond., M.R.C.P., Senior Assistant Medical Officer
+to the Kent Lunatic Asylum; Associate, Late Scholar, of King's College,
+London.
+
+
+The following case, from its hopelessness at the outset, yet ultimate
+recovery under the duly recognized forms of treatment, is of such interest
+as to demand publicity, and will afford encouragement to others in moments
+of doubt.
+
+M.A. S----, aged fifty-three, was admitted into the Kent Lunatic Asylum at
+Chartham on Oct. 3, 1882, suffering from melancholia, the duration of
+which was stated to have been three months. She had several times
+attempted suicide by drowning and strangulation. She was on admission
+ordered a mixture containing morphia and ether thrice daily, to allay her
+distress. On Oct. 10 she attempted suicide by tying a stocking, which she
+had secreted about her person, round her neck. Shortly afterward, with
+similar intent, she threw herself downstairs. On Jan. 4, 1883, she
+attempted to strangle herself with her apron. On the 30th of November
+following, at 4 P.M. she evaded the attendants, and made her way to the
+bath-room of of No. 1 ward, the door of which had been left unfastened by
+an attendant. She then suspended herself from a ladder there by means of
+portions of her dress and underclothing tied together. A patient of No. 1
+ward discovered her suspended from the ladder eight minutes after she had
+last seen her in the adjoining watercloset, and gave the alarm.
+
+The woman was quickly cut down, and the medical officers summoned. In the
+interval cold affusion was resorted to by the attendant in charge, but the
+patient was to all appearances dead. The junior assistant medical officer,
+Mr. J. Reynolds Salter, M.B. Lond., arrived after about three minutes, and
+at once resorted to artificial respiration by the Silvester method. A
+minute or so later the medical superintendent and myself joined him. At
+this time the condition of the patient was as follows: The face presented
+the appearance known as facies hippocratica: the eyeballs were prominent,
+the corneae glassy, the pupils widely dilated, not acting to light, and
+there was no reflex action of the conjunctivae; the lips were livid, the
+tongue tumefied, but pallid, the skin ashy pale, the cutaneous tissues
+apparently devoid of elasticity. There was an oblique depressed mark on
+the neck, more evident on the left side; the small veins and capillaries
+of the surface of the body were turgid with coagulating blood the surface
+temperature was extremely low. She was pulseless at the wrists and
+temples. There was no definite beat of the heart recognizable by the
+stethoscope.
+
+There was absolute cessation of all natural respiratory efforts, complete
+unconsciousness, total abolition of reflex action and motion, and
+galvanism with the ordinary magneto-electric machine failed to induce
+muscular contractions. The urine and faeces had been passed involuntarily
+during or immediately subsequent to the act of suspension. As the
+stethoscope revealed that but a small amount of air entered the lungs with
+each artificial inspiration, the tongue was at once drawn well forward,
+and retained in that position by an assistant, with the result that air
+then penetrated to the smaller bronchi. Inspiration and expiration were
+artificially imitated about ten times to the minute. In performing
+expiration the chest was thoroughly compressed. The lower extremities were
+raised, and manual centripetal frictions freely applied. In the intervals
+of these applications warmth to the extremities was resorted to.
+
+About ten minutes from the commencement of artificial respiration we
+noticed a single weak spasmodic contraction of the diaphragm, the feeblest
+possible effort at natural respiration. Simultaneously, very distant weak
+reduplicated cardiac pulsations, numbering about 150 to the minute, became
+evident to the stethoscope. The reduplication implied that the two sides
+of the heart were not acting synchronously, owing to obstruction to the
+pulmonary circulation induced by the asphyxiated state. Artificial
+respiration was steadily maintained, and during the next half hour
+spasmodic contractions of the diaphragm occurred at gradually diminishing
+intervals, from once in three minutes to three or four times a minute.
+
+These natural efforts were artificially aided as far as possible. At 5:45
+P.M. natural respiration was fairly though insufficiently established, the
+skin began to lose its deadly hue, and titillation of the fauces caused
+weak reflex contractions. Flagellation with wet towels was now freely
+resorted to, and immediately the natural efforts at respiration were
+increased to twice their previous number. The administration of a little
+brandy and water by the mouth failed, as the liquid entered the larynx.
+Ammonia was applied to the nostrils, and the surface temperature was
+increased by warm applications and clothing. At 6 P.M. artificial
+respiration was no longer necessary. The heart sounds then numbered 140 to
+the minute, the right and left heart still acting separately. A very small
+radial pulse could also be felt. At 6:45 P.M. the woman was put to bed,
+warmth of surface maintained, and hot coffee and beef-tea given in small
+quantities.
+
+Great restlessness and jactitation set in with the renewal of the
+circulation in the extremities. An enema of two ounces of strong beef-tea
+was administered at 10 P.M. The amount of organic effluvium thrown off by
+the lungs on the re-establishment of respiration was very great and
+tainted the atmosphere of the room and adjoining ward. The pupils,
+previously widely dilated, began to contract to light at 11 P.M. Imperfect
+consciousness returned at 5 P.M. the following day (Dec. 1), and about an
+hour later she vomited the contents of the stomach (bread, etc., taken on
+Nov. 30). Small quantities of beef-tea were given by the mouth during the
+night. At 9 A.M. air entered the lungs freely, and there were no symptoms
+of pulmonary engorgement beyond slight basic hypostasis; the pulse
+remained at 140, and the heart sounds reduplicated; she was semiconscious,
+very drowsy, in a state of mental torpor, with confused ideas when roused,
+and she complained of rheumatic-like pains all over her.
+
+The temperature was 100.2 deg.; the facial expression more natural; the tongue
+remained somewhat swollen and sore; she was no longer restless; she took
+tea, beef-tea, milk, etc., well; the functions of the secreting organs
+were being restored; she perspired freely; had micturated; the mucous
+membrane of the mouth was moist, and there was a tendency to tears without
+corresponding mental depression. The patient was ordered a mixture of
+ether and digitalis every four hours. On December 2 the pulse was 136, and
+the heart sounds reduplicated. The following day she was given bromide of
+potassium in place of the ether in the digitalis mixture. On the 4th the
+pulse was 126; reduplication gone. On the 6th the pulse was 82, and the
+temperature fell with the pulse rate. She was well enough to get into the
+ward for a few hours. Her memory, especially for recent events, was at
+that time greatly impaired. On the 12th she still complained of muscular
+pains like those of rheumatism. Apart from that, she was enjoying good
+bodily health.
+
+A curious fact in connection with this case is that since this attempt at
+suicide she has steadily improved mentally, has lost her delusions, is
+cheerful, and employs herself usefully with her needle. She converses
+rationally, and tells me she recollects the impulse by which she was led

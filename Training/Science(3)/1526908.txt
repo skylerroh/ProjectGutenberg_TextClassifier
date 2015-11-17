@@ -1,0 +1,736 @@
+salts, until we have completed the examination of the nature of the
+ingredients of which they are composed.
+
+The 4th law of chemical attraction is, that _a change of temperature
+always takes place at the moment of combination_. This arises from the
+extrication of the two electricities in the form of caloric, which takes
+place when bodies unite; and also sometimes in part from a change of
+capacity of the bodies for heat, which always takes place when the
+combination is attended with an increase of density, but more especially
+when the compound passes from the liquid to the solid form. I shall now
+show you a striking instance of a change of temperature from chemical
+union, merely by pouring some nitrous acid on this small quantity of oil
+of turpentine--the oil will instantly combine with the oxygen of the
+acid, and produce a considerable change of temperature.
+
+CAROLINE.
+
+What a blaze! The temperature of the oil and the acid must be greatly
+raised, indeed, to produce such a violent combustion.
+
+MRS. B.
+
+There is, however, a peculiarity in this combustion, which is, that the
+oxygen, instead of being derived from the atmosphere alone, is
+principally supplied by the acid itself.
+
+EMILY.
+
+And are not all combustions instances of the change of temperature
+produced by the chemical combination of two bodies?
+
+MRS. B.
+
+Undoubtedly; when oxygen loses its gaseous form, in order to combine
+with a solid body, it becomes condensed, and the caloric evolved
+produces the elevation of temperature. The specific gravity of bodies is
+at the same time altered by chemical combination; for in consequence of
+a change of capacity for heat, a change of density must be produced.
+
+CAROLINE.
+
+That was the case with the sulphuric acid and water, which, by being
+mixed together, gave out a great deal of heat, and increased in density.
+
+MRS. B.
+
+The 5th law of chemical attraction is, that _the properties which
+characterise bodies, when separate, are altered or destroyed by their
+combination_.
+
+CAROLINE.
+
+Certainly; what, for instance, can be so different from water as the
+hydrogen and oxygen gases?
+
+EMILY.
+
+Or what more unlike sulphat of iron than iron or sulphuric acid?
+
+MRS. B.
+
+Every chemical combination is an illustration of this rule. But let us
+proceed--
+
+The 6th law is, that _the force of chemical affinity between the
+constituents of a body is estimated by that which is required for their
+separation_. This force is not always proportional to the facility with
+which bodies unite; for manganese, for instance, which, you know, is so
+much disposed to unite with oxygen that it is never found in a metallic
+state, yields it more easily than any other metal.
+
+EMILY.
+
+But, Mrs. B., you speak of estimating the force of attraction between
+bodies, by the force required to separate them; how can you measure
+these forces?
+
+MRS. B.
+
+They cannot be precisely measured, but they are comparatively
+ascertained by experiment, and can be represented by numbers which
+express the relative degrees of attraction.
+
+The 7th law is, that _bodies have amongst themselves different degrees
+of attraction_. Upon this law, (which you may have discovered yourselves
+long since,) the whole science of chemistry depends; for it is by means
+of the various degrees of affinity which bodies have for each other,
+that all the chemical compositions and decompositions are effected.
+Every chemical fact or experiment is an instance of the same kind; and
+whenever the decomposition of a body is performed by the addition of any
+single new substance, it is said to be effected by _simple elective
+attractions_. But it often happens that no simple substance will
+decompose a body, and that, in order to effect this, you must offer to
+the compound a body which is itself composed of two, or sometimes three
+principles, which would not, each separately, perform the decomposition.
+In this case there are two new compounds formed in consequence of a
+reciprocal decomposition and recomposition. All instances of this kind
+are called _double elective attractions_.
+
+CAROLINE.
+
+I confess I do not understand this clearly.
+
+MRS. B.
+
+You will easily comprehend it by the assistance of this diagram, in
+which the reciprocal forces of attraction are represented by numbers:
+
+                   _Original Compound_
+                      Sulphat of Soda.
+
+                      Soda    8 Sulphuric Acid
+
+                              |
+                              | _Quies-_
+                              |
+                              | _cent_
+                              |
+  _Result_                                        _Result_
+  Nitrat        7 _Divellent Attractions_ 6} 13   Sulphat
+  of Soda                                         of Lime
+                              |
+                              |
+                              | _Attrac-_
+                              |
+                              | _tions_
+                              |
+
+                 Nitric Acid  4  Lime
+                             --
+                             12
+
+                   _Original Compound_
+                      Nitrat of Lime.
+
+We here suppose that we are to decompose sulphat of soda; that is, to
+separate the acid from the alkali; if, for this purpose, we add some
+lime, in order to make it combine with the acid, we shall fail in our
+attempt, because the soda and the sulphuric acid attract each other by a
+force which is superior, and (by way of supposition) is represented by
+the number 8; while the lime tends to unite with this acid by an
+affinity equal only to the number 6. It is plain, therefore, that the
+sulphat of soda will not be decomposed, since a force equal to 8 cannot
+be overcome by a force equal only to 6.
+
+CAROLINE.
+
+So far, this appears very clear.
+
+MRS. B.
+
+If, on the other hand, we endeavour to decompose this salt by nitric
+acid, which tends to combine with soda, we shall be equally
+unsuccessful, as nitric acid tends to unite with the alkali by a force
+equal only to 7.
+
+In neither of these cases of simple elective attraction, therefore, can
+we accomplish our purpose. But let us previously combine together the
+lime and nitric acid, so as to form a nitrat of lime, a compound salt,
+the constituents of which are united by a power equal to 4. If then we
+present this compound to the sulphat of soda, a decomposition will
+ensue, because the sum of the forces which tend to preserve the two
+salts in their actual state is not equal to that of the forces which
+tend to decompose them, and to form new combinations. The nitric acid,
+therefore, will combine with the soda, and the sulphuric acid with the
+lime.
+
+CAROLINE.
+
+I understand you now very well. This double effect takes place because
+the numbers 8 and 4, which represent the degrees of attraction of the
+constituents of the two original salts, make a sum less than the numbers
+7 and 6, which represent the degrees of attraction of the two new
+compounds that will in consequence be formed.
+
+MRS. B.
+
+Precisely so.
+
+CAROLINE.
+
+But what is the meaning of _quiescent_ and _divellent_ forces, which are
+written in the diagram?
+
+MRS. B.
+
+Quiescent forces are those which tend to preserve compounds in a state
+of rest, or such as they actually are: divellent forces, those which
+tend to destroy that state of combination, and to form new compounds.
+
+These are the principal circumstances relative to the doctrine of
+chemical attractions, which have been laid down as rules by modern
+chemists; a few others might be mentioned respecting the same theory,
+but of less importance, and such as would take us too far from our plan.
+I should, however, not omit to mention that Mr. Berthollet, a celebrated
+French chemist, has questioned the uniform operation of elective
+attraction, and has advanced the opinion, that, in chemical
+combinations, the changes which take place depend not only upon the
+affinities, but also, in some degree, on the respective quantities of
+the substances concerned, on the heat applied during the process, and
+some other circumstances.
+
+CAROLINE.
+
+In that case, I suppose, there would hardly be two compounds exactly
+similar, though composed of the same materials?
+
+MRS. B.
+
+On the contrary, it is found that a remarkable uniformity prevails, as
+to proportions, between the ingredients of bodies of similar
+composition. Thus water, as you may recollect to have seen in a former
+conversation, is composed of two volumes of hydrogen gas to one of
+oxygen, and this is always found to be precisely the proportion of its
+constituents, from whatever source the water be derived. The same
+uniformity prevails with regard to the various salts; the acid and
+alkali, in each kind of salt, being always found to combine in the same
+proportions. Sometimes, it is true, the same acid, and the same alkali,
+are capable of making two distinct kinds of salts; but in all these
+cases it is found that one of the salts contains just twice, or in some
+instances, thrice as much acid, or alkali, as the other.
+
+EMILY.
+
+If the proportions in which bodies combine are so constant and so well
+defined, how can Mr. Berthollet's remark be reconciled with this uniform
+system of combination?
+
+MRS. B.
+
+Great as that philosopher's authority is in chemistry, it is now
+generally supposed that his doubts on this subject were in a great
+degree groundless, and that the exceptions he has observed in the laws
+of definite proportions, have been only apparent, and may be accounted
+for consistently with those laws.
+
+CAROLINE.
+
+Pray, Mrs. B., can you decompose a salt by means of electricity, in the
+same way as we decompose water?
+
+MRS. B.
+
+Undoubtedly; and I am glad this question occurred to you, because it
+gives me an opportunity of showing you some very interesting experiments
+on the subject.
+
+If we dissolve a quantity, however small, of any salt in a glass of
+water, and if we plunge into it the extremities of the wires which
+proceed from the two ends of the Voltaic battery, the salt will be
+gradually decomposed, the acid being attracted by the positive, and the
+alkali by the negative wire.
+
+EMILY.
+
+But how can you render that decomposition perceptible?
+
+MRS. B.
+
+By placing in contact with the extremities of each wire, in the
+solution, pieces of paper stained with certain vegetable colours, which
+are altered by the contact of an acid or an alkali. Thus this blue
+vegetable preparation called litmus becomes red when touched by an acid;
+and the juice of violets becomes green by the contact of an alkali.
+
+But the experiment can be made in a much more distinct manner, by
+receiving the extremities of the wires into two different vessels, so
+that the alkali shall appear in one vessel and the acid in the other.
+
+CAROLINE.
+
+But then the Voltaic circle will not be completed; how can any effect be
+produced?
+
+MRS. B.
+
+You are right; I ought to have added that the two vessels must be
+connected together by some interposed substance capable of conducting
+electricity. A piece of moistened cotton-wick answers this purpose very
+well. You see that the cotton (PLATE XIII. fig. 2. c.) has one end
+immersed in one glass and the other end in the other, so as to establish
+a communication between any fluids contained in them. We shall now put
+into each of the glasses a little glauber salt, or sulphat of soda,
+(which consists of an acid and an alkali,) and then we shall fill the
+glasses with water, which will dissolve the salt. Let us now connect the
+glasses by means of the wires (e, d,) with the two ends of the battery,
+thus . . . .
+
+  [Illustration: Plate XIII. Vol. II. page 16.
+
+  Fig. 1. Voltaic Battery of improved construction with the Plates
+    out of the Cells.
+
+  Fig. 2. 3 & 4. Instances of Chemical decomposition by the Voltaic
+    Battery.]
+
+CAROLINE.
+
+The wires are already giving out small bubbles; is this owing to the
+decomposition of the salt?
+
+MRS. B.
+
+No; these are bubbles produced by the decomposition of the water, as you
+saw in a former experiment. In order to render the separation of the
+acid from the alkali visible, I pour into the glass (a), which is
+connected with the positive wire, a few drops of a solution of litmus,
+which the least quantity of acid turns red; and into the other
+glass (b), which is connected with the negative wire, I pour a few drops
+of the juice of violets . . . .
+
+EMILY.
+
+The blue solution is already turning red all round the wire.
+
+CAROLINE.
+
+And the violet solution is beginning to turn green. This is indeed very
+singular!
+
+MRS. B.
+
+You will be still more astonished when we vary the experiment in this
+manner:-- These three glasses (fig. 3. f, g, h,) are, as in the former
+instance, connected together by wetted cotton, but the middle one alone
+contains a saline solution, the two others containing only distilled
+water, coloured as before by vegetable infusions. Yet, on making the
+connection with the battery, the alkali will appear in the negative
+glass (h), and the acid in the positive glass (f), though neither of
+them contained any saline matter.
+
+EMILY.
+
+So that the acid and alkali must be conveyed right and left from the
+central glass, into the other glasses, by means of the connecting
+moistened cotton?
+
+MRS. B.
+
+Exactly so; and you may render the experiment still more striking, by
+putting into the central glass (k, fig. 3.) an alkaline solution, the
+glauber salt being placed into the negative glass (l), and the positive
+glass (i) containing only water. The acid will be attracted by the
+positive wire (m), and will actually appear in the vessel (i), after
+passing through the alkaline solution (k), without combining with it,
+although, you know, acids and alkalies are so much disposed to combine.
+--But this conversation has already much exceeded our usual limits, and
+we cannot enlarge more upon this interesting subject at present.
+
+
+
+
+CONVERSATION XIV.
+
+ON ALKALIES.
+
+
+MRS. B.
+
+Having now given you some idea of the laws by which chemical attractions
+are governed, we may proceed to the examination of bodies which are
+formed in consequence of these attractions.
+
+The first class of compounds that present themselves to our notice, in
+our gradual ascent to the most complicated combinations, are bodies
+composed of only two principles. The sulphurets, phosphurets, carburets,
+&c. are of this description; but the most numerous and important of
+these compounds are the combinations of oxygen with the various simple
+substances with which it has a tendency to unite. Of these you have
+already acquired some knowledge, but it will be necessary to enter into
+further particulars respecting the nature and properties of those most
+deserving our notice. Of this class are the ALKALIES and the EARTHS,
+which we shall successively examine.
+
+We shall first take a view of the alkalies, of which there are three,
+viz. POTASH, SODA, and AMMONIA. The two first are called _fixed
+alkalies_, because they exist in a solid form at the temperature of the
+atmosphere, and require a great heat to be volatilised. They consist, as
+you already know, of metallic bases combined with oxygen. In potash, the
+proportions are about eighty-six parts of potassium to fourteen of
+oxygen; and in soda, seventy-seven parts of sodium to twenty-three of
+oxygen. The third alkali, ammonia, has been distinguished by the name of
+_volatile alkali_, because its natural form is that of gas. Its
+composition is of a more complicated nature, of which we shall speak
+hereafter.
+
+Some of the earths bear so strong a resemblance in their properties to
+the alkalies, that it is difficult to know under which head to place
+them. The celebrated French chemist, Fourcroy, has classed two of them
+(barytes and strontites) with the alkalies; but as lime and magnesia
+have almost an equal title to that rank, I think it better not to
+separate them, and therefore have adopted the common method of classing
+them with the earths, and of distinguishing them by the name of
+_alkaline earths_.
+
+The general properties of alkalies are, an acrid burning taste,
+a pungent smell, and a caustic action on the skin and flesh.
+
+CAROLINE.
+
+I wonder they should be caustic, Mrs. B., since they contain so little
+oxygen.
+
+MRS. B.
+
+Whatever substance has an affinity for any one of the constituents of
+animal matter, sufficiently powerful to decompose it, is entitled to the
+appellation of caustic. The alkalies, in their pure state, have a very
+strong attraction for water, for hydrogen, and for carbon, which, you
+know, are the constituent principles of oil, and it is chiefly by
+absorbing these substances from animal matter that they effect its
+decomposition; for, when diluted with a sufficient quantity of water, or
+combined with any oily substance, they lose their causticity.
+
+But, to return to the general properties of alkalies--they change, as we
+have already seen, the colour of syrup of violets, and other blue
+vegetable infusions, to green; and have, in general, a very great
+tendency to unite with acids, although the respective qualities of these
+two classes of bodies form a remarkable contrast.
+
+We shall examine the result of the combination of acids and alkalies
+more particularly hereafter. It will be sufficient at present to inform
+you, that whenever acids are brought in contact with alkalies, or
+alkaline earths, they unite with a remarkable eagerness, and form
+compounds perfectly different from either of their constituents; these
+bodies are called _neutral_ or _compound salts_.
+
+The dry white powder which you see in this phial is pure caustic POTASH;
+it is very difficult to preserve it in this state, as it attracts, with
+extreme avidity, the moisture from the atmosphere, and if the air were
+not perfectly excluded, it would, in a very short time, be actually
+melted.
+
+EMILY.
+
+It is then, I suppose, always found in a liquid state?
+
+MRS. B.
+
+No; it exists in nature in a great variety of forms and combinations,
+but is never found in its pure separate state; it is combined with
+carbonic acid, with which it exists in every part of the vegetable
+kingdom, and is most commonly obtained from the ashes of vegetables,
+which are the residue that remains after all the other parts have been
+volatilised by combustion.
+
+CAROLINE.
+
+But you once said, that after all the volatile parts of a vegetable were
+evaporated, the substance that remained was charcoal?
+
+MRS. B.
+
+I am surprised that you should still confound the processes of
+volatilisation and combustion. In order to procure charcoal, we
+evaporate such parts as can be reduced to vapour by the operation of
+heat alone; but when we _burn_ the vegetable, we burn the carbon also,
+and convert it into carbonic acid gas.
+
+CAROLINE.
+
+That is true; I hope I shall make no more mistakes in my favourite
+theory of combustion.
+
+MRS. B.
+
+Potash derives its name from the _pots_ in which the vegetables, from
+which it was obtained, used formerly to be burnt; the alkali remained
+mixed with the ashes at the bottom, and was thence called potash.
+
+EMILY.
+
+The ashes of a wood-fire, then, are potash, since they are vegetable
+ashes?
+
+MRS. B.
+
+They always contain more or less potash, but are very far from
+consisting of that substance alone, as they are a mixture of various
+earths and salts which remain after the combustion of vegetables, and
+from which it is not easy to separate the alkali in its pure form. The
+process by which potash is obtained, even in the imperfect state in
+which it is used in the arts, is much more complicated than simple
+combustion. It was once deemed impossible to separate it entirely from
+all foreign substances, and it is only in chemical laboratories that it
+is to be met with in the state of purity in which you find it in this
+phial. Wood-ashes are, however, valuable for the alkali which they
+contain, and are used for some purposes without any further preparation.
+Purified in a certain degree, they make what is commonly called
+_pearlash_, which is of great efficacy in taking out grease, in washing
+linen, &c.; for potash combines readily with oil or fat, with which it
+forms a compound well known to you under the name of _soap_.
+
+CAROLINE.
+
+Really! Then I should think it would be better to wash all linen with
+pearlash than with soap, as, in the latter case, the alkali being
+already combined with oil, must be less efficacious in extracting
+grease.
+
+MRS. B.
+
+Its effect would be too powerful on fine linen, and would injure its
+texture; pearlash is therefore only used for that which is of a strong
+coarse kind. For the same reason you cannot wash your hands with plain
+potash; but, when mixed with oil in the form of soap, it is soft as well
+as cleansing, and is therefore much better adapted to the purpose.
+
+Caustic potash, as we already observed, acts on the skin, and animal
+fibre, in virtue of its attraction for water and oil, and converts all
+animal matter into a kind of saponaceous jelly.
+
+EMILY.
+
+Are vegetables the only source from which potash can be derived?
+
+MRS. B.
+
+No: for though far most abundant in vegetables, it is by no means
+confined to that class of bodies, being found also on the surface of the
+earth, mixed with various minerals, especially with earths and stones,
+whence it is supposed to be conveyed into vegetables by the roots of the
+plant. It is also met with, though in very small quantities, in some
+animal substances. The most common state of potash is that of
+_carbonat_; I suppose you understand what that is?
+
+EMILY.
+
+I believe so; though I do not recollect that you ever mentioned the word
+before. If I am not mistaken, it must be a compound salt, formed by the
+union of carbonic acid with potash.
+
+MRS. B.
+
+Very true; you see how admirably the nomenclature of modern chemistry is
+adapted to assist the memory; when you hear the name of a compound, you
+necessarily learn what are its constituent parts; and when you are
+acquainted with these constituents, you can immediately name the
+compound which they form.
+
+CAROLINE.
+
+Pray, how were bodies arranged and distinguished before this
+nomenclature was introduced?
+
+MRS. B.
+
+Chemistry was then a much more difficult study; for every substance had
+an arbitrary name, which it derived either from the person who
+discovered it, as _Glauber's salts_ for instance; or from some other
+circumstance relative to it, though quite unconnected with its real
+nature, as potash.
+
+These names have been retained for some of the simple bodies; for as
+this class is not numerous, and therefore can easily be remembered, it
+has not been thought necessary to change them.
+
+EMILY.
+
+Yet I think it would have rendered the new nomenclature more complete to
+have methodised the names of the elementary, as well as of the compound
+bodies, though it could not have been done in the same manner. But the
+names of the simple substances might have indicated their nature, or, at
+least, some of their principal properties; and if, like the acids and
+compound salts, all the simple bodies had a similar termination, they
+would have been immediately known as such. So complete and regular a
+nomenclature would, I think, have given a clearer and more comprehensive
+view of chemistry than the present, which is a medley of the old and new
+terms.
+
+MRS. B.
+
+But you are not aware of the difficulty of introducing into science an
+entire set of new terms; it obliges all the teachers and professors to
+go to school again, and if some of the old names, that are least
+exceptionable, were not left as an introduction to the new ones, few
+people would have had industry and perseverance enough to submit to the
+study of a completely new language; and the inferior classes of artists,
+who can only act from habit and routine, would, at least for a time,
+have felt material inconvenience from a total change of their habitual
+terms. From these considerations, Lavoisier and his colleagues, who
+invented the new nomenclature, thought it most prudent to leave a few
+links of the old chain, in order to connect it with the new one.
+Besides, you may easily conceive the inconvenience which might arise
+from giving a regular nomenclature to substances, the simple nature of
+which is always uncertain; for the new names might, perhaps, have proved
+to have been founded in error. And, indeed, cautious as the inventors of
+the modern chemical language have been, it has already been found
+necessary to modify it in many respects. In those few cases, however, in
+which new terms have been adopted to designate simple bodies, these
+names have been so contrived as to indicate one of the chief properties
+of the body in question; this is the case with oxygen, which, as I
+explained to you, signifies generator of acids; and hydrogen generator
+of water. If all the elementary bodies had a similar termination, as you
+propose, it would be necessary to change the name of any that might
+hereafter be found of a compound nature, which would be very
+inconvenient in this age of discovery.
+
+But to return to the alkalies. --We shall now try to melt some of this
+caustic potash in a little water, as a circumstance occurs during its
+solution very worthy of observation. --Do you feel the heat that is
+produced?
+
+CAROLINE.
+
+Yes, I do; but is not this directly contrary to our theory of latent
+heat, according to which heat is disengaged when fluids become solid,
+and cold produced when solids are melted?
+
+MRS. B.
+
+The latter is really the case in all solutions; and if the solution of
+caustic alkalies seems to make an exception to the rule, it does not,
+I believe, form any solid objection to the theory. The matter may be
+explained thus: When water first comes in contact with the potash, it
+produces an effect similar to the slaking of lime, that is, the water is
+solidified in combining with the potash, and thus loses its latent heat;
+this is the heat that you now feel, and which is, therefore, produced
+not by the melting of the solid, but by the solidification of the fluid.
+But when there is more water than the potash can absorb and solidify,
+the latter then yields to the solvent power of the water; and if we do
+not perceive the cold produced by its melting, it is because it is
+counterbalanced by the heat previously disengaged.*
+
+A very remarkable property of potash is the formation of glass by its
+fusion with siliceous earth. You are not yet acquainted with this last
+substance, further than its being in the list of simple bodies. It is
+sufficient, for the present, that you should know that sand and flint
+are chiefly composed of it; alone, it is infusible, but mixed with
+potash, it melts when exposed to the heat of a furnace, combines with
+the alkali, and runs into glass.
+
+    [Footnote *: This defence of the general theory, however
+    plausible, is liable to some obvious objections. The phenomenon
+    might perhaps be better accounted for by supposing that a solution
+    of alkali in water has less capacity for heat than either water or
+    alkali in their separate state.]
+
+CAROLINE.
+
+Who would ever have supposed that the same substance which converts
+transparent oil into such an opake body as soap, should transform that
+opake substance, sand, into transparent glass!
+
+MRS. B.
+
+The transparency, or opacity of bodies, does not, I conceive, depend so
+much upon their intimate nature, as upon the arrangement of their
+particles: we cannot have a more striking instance of this, than is
+afforded by the different states of carbon, which, though it commonly
+appears in the form of a black opake body, sometimes assumes the most
+dazzling transparent form in nature, that of diamond, which, you
+recollect, is carbon, and which, in all probability, derives its
+beautiful transparency from the peculiar arrangement of its particles
+during their crystallisation.
+
+EMILY.
+
+I never should have supposed that the formation of glass was so simple a
+process as you describe it.
+
+MRS. B.
+
+It is by no means an easy operation to make perfect glass; for if the
+sand, or flint, from which the siliceous earth is obtained, be mixed
+with any metallic particles, or other substance, which cannot be
+vitrified, the glass will be discoloured, or defaced, by opake specks.
+
+CAROLINE.
+
+That, I suppose, is the reason why objects so often appear irregular and
+shapeless through a common glass-window.
+
+MRS. B.
+
+This species of imperfection proceeds, I believe, from another cause. It
+is extremely difficult to prevent the lower part of the vessels, in
+which the materials of glass are fused, from containing a more dense
+vitreous matter than the upper, on account of the heavier ingredients
+falling to the bottom. When this happens, it occasions the appearance of
+veins or waves in the glass, from the difference of density in its
+several parts, which produces an irregular refraction of the rays of
+light that pass through it.
+
+Another species of imperfection sometimes arises from the fusion not
+being continued for a length of time sufficient to combine the two
+ingredients completely, or from the due proportion of potash and silex
+(which are as two to one) not being carefully observed; the glass, in
+those cases, will be liable to alteration from the action of the air, of
+salts, and especially of acids, which will effect its decomposition by
+combining with the potash, and forming compound salts.
+
+EMILY.
+
+What an extremely useful substance potash is!
+
+MRS. B.
+
+Besides the great importance of potash in the manufactures of glass and
+soap, it is of very considerable utility in many of the other arts, and
+in its combinations with several acids, particularly the nitric, with
+which it forms saltpetre.
+
+CAROLINE.
+
+Then saltpetre must be a _nitrat of potash_? But we are not yet
+acquainted with the nitric acid?
+
+MRS. B.
+
+We shall therefore defer entering into the particulars of these
+combinations till we come to a general review of the compound salts. In
+order to avoid confusion, it will be better at present to confine
+ourselves to the alkalies.
+
+EMILY.
+
+Cannot you show us the change of colour which you said the alkalies
+produced on blue vegetable infusions?
+
+MRS. B.
+
+Yes; very easily. I shall dip a piece of white paper into this syrup of
+violets, which, you see, is of a deep blue, and dyes the paper of the
+same colour. --As soon as it is dry, we shall dip it into a solution of
+potash, which, though itself colourless, will turn the paper green--
+
+CAROLINE.
+
+So it has, indeed! And do the other alkalies produce a similar effect?
+
+MRS. B.
+
+Exactly the same. --We may now proceed to SODA, which, however
+important, will detain us but a very short time; as in all its general
+properties it very strongly resembles potash; indeed, so great is their

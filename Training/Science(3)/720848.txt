@@ -1,0 +1,576 @@
+or forming ions in solution, is called a _radical_. Some of these
+radicals have been given special names, the names signifying the
+elements present in the radical. Thus we have the hydroxyl radical (OH)
+and the nitrate radical (NO_{3}).
+
+DEFINITION: _A radical is a group of elements forming part of a
+molecule, and acting as a unit in chemical reactions._
+
+~Names of acids, bases, and salts.~ Since acids, bases, and salts are so
+intimately related to each other, it is very advantageous to give names
+to the three classes in accordance with some fixed system. The system
+universally adopted is as follows:
+
+~Naming of bases.~ All bases are called _hydroxides_. They are
+distinguished from each other by prefixing the name of the element which
+is in combination with the hydroxyl group. Examples: sodium hydroxide
+(NaOH); calcium hydroxide (Ca(OH)_{2}); copper hydroxide (Cu(OH)_{2}).
+
+~Naming of acids.~ The method of naming acids depends upon whether the
+acid consists of two elements or three.
+
+1. _Binary acids._ Acids containing only one element in addition to
+hydrogen are called _binary acids_. They are given names consisting of
+the prefix _hydro-_, the name of the second element present, and the
+termination _-ic_. Examples: hydrochloric acid (HCl); hydrosulphuric
+acid (H_{2}S).
+
+2. _Ternary acids._ In addition to the two elements present in binary
+acids, the great majority of acids also contain oxygen. They therefore
+consist of three elements and are called _ternary acids_. It usually
+happens that the same three elements can unite in different proportions
+to make several different acids. The most familiar one of these is given
+a name ending in the suffix _-ic_, while the one with less oxygen is
+given a similar name, but ending in the suffix _-ous_. Examples: nitric
+acid (HNO_{3}); nitrous acid (HNO_{2}). In cases where more than two
+acids are known, use is made of prefixes in addition to the two suffixes
+_-ic_ and _-ous_. Thus the prefix _per-_ signifies an acid still richer
+in oxygen; the prefix _hypo-_ signifies one with less oxygen.
+
+~Naming of salts.~ A salt derived from a binary acid is given a name
+consisting of the names of the two elements composing it, with the
+termination _-ide_. Example: sodium chloride (NaCl). All other binary
+compounds are named in the same way.
+
+A salt of a ternary acid is named in accordance with the acid from which
+it is derived. A ternary acid with the termination _-ic_ gives a salt
+with the name ending in _-ate_, while an acid with termination _-ous_
+gives a salt with the name ending in _-ite_. The following table will
+make the application of these principles clear:
+
+     ACIDS          SYMBOL       SALTS                SYMBOL
+
+    Hydrochloric   HCl          Sodium chloride      NaCl
+    Hypochlorous   HClO         Sodium hypochlorite  NaClO
+    Chlorous       HClO_{2}     Sodium chlorite      NaClO_{2}
+    Chloric        HClO_{3}     Sodium chlorate      NaClO_{3}
+    Perchloric     HClO_{4}     Sodium perchlorate   NaClO_{4}
+
+
+EXERCISES
+
+1. 25 cc. of a solution containing 40 g. of sodium hydroxide per liter
+was found to neutralize 25 cc. of a solution of hydrochloric acid. What
+was the strength of the acid solution?
+
+2. After neutralizing a solution of sodium hydroxide with nitric acid,
+there remained after evaporation 100 g. of sodium nitrate. How much of
+each substance had been used?
+
+3. A solution contains 18 g. of hydrochloric acid per 100 cc. It
+required 25 cc. of this solution to neutralize 30 cc. of a solution of
+sodium hydroxide. What was the strength of the sodium hydroxide solution
+in parts per hundred?
+
+4. When perfectly dry sulphuric acid is treated with perfectly dry
+sodium hydroxide, no chemical change takes place. Explain.
+
+5. When cold, concentrated sulphuric acid is added to zinc, no change
+takes place. Recall the action of dilute sulphuric acid on the same
+metal. How do you account for the difference?
+
+6. A solution of hydrochloric acid in benzene does not conduct the
+electric current. When this solution is treated with zinc, will hydrogen
+be evolved? Explain.
+
+7. (a) Write equation for preparation of hydrogen from zinc and dilute
+sulphuric acid. (b) Rewrite the same equation from the standpoint of
+the theory of electrolytic dissociation, (c) Subtract the common
+SO_{4} ion from both members of the equation, (d) From the resulting
+equation, explain in what the preparation of hydrogen consists when
+examined from the standpoint of this theory.
+
+8. In the same manner as in the preceding exercise, explain in what the
+action of sodium on water to give hydrogen consists.
+
+
+
+
+CHAPTER XI
+
+VALENCE
+
+
+~Definition of valence.~ A study of the formulas of various binary
+compounds shows that the elements differ between themselves in the
+number of atoms of other elements which they are able to hold in
+combination. This is illustrated in the formulas
+
+            HCl,        H_{2}O,   H_{3}N,   H_{4}C.
+    (hydrochloric acid) (water) (ammonia) (marsh gas)
+
+It will be noticed that while one atom of chlorine combines with one
+atom of hydrogen, an atom of oxygen combines with two, an atom of
+nitrogen with three, one of carbon with four. The number which expresses
+this combining ratio between atoms is a definite property of each
+element and is called its _valence_.
+
+DEFINITION: _The valence of an element is that property which determines
+the number of the atoms of another element which its atom can hold in
+combination._
+
+~Valence a numerical property.~ Valence is therefore merely a numerical
+relation and does not convey any information in regard to the intensity
+of the affinity between atoms. Judging by the heat liberated in their
+union, oxygen has a far stronger affinity for hydrogen than does
+nitrogen, but an atom of oxygen can combine with two atoms only of
+hydrogen, while an atom of nitrogen can combine with three.
+
+~Measure of valence.~ In expressing the valence of an element we must
+select some standard for comparison, just as in the measurement of any
+other numerical quantity. It has been found that an atom of hydrogen is
+never able to hold in combination more than one atom of any other
+element. Hydrogen is therefore taken as the standard, and other elements
+are compared with it in determining their valence. A number of other
+elements are like hydrogen in being able to combine with at most one
+atom of other elements, and such elements are called _univalent_. Among
+these are chlorine, iodine, and sodium. Elements such as oxygen,
+calcium, and zinc, which can combine with two atoms of hydrogen or other
+univalent elements, are said to be _divalent_. Similarly, we have
+_trivalent, tetravalent, pentavalent_ elements. None have a valence of
+more than 8.
+
+~Indirect measure of valence.~ Many elements, especially among the metals,
+do not readily form compounds with hydrogen, and their valence is not
+easy to determine by direct comparison with the standard element. These
+elements, however, combine with other univalent elements, such as
+chlorine, and their valence can be determined from the compounds so
+formed.
+
+~Variable valence.~ Many elements are able to exert different valences
+under differing circumstances. Thus we have the compounds Cu_{2}O and
+CuO, CO and CO_{2}, FeCl_{2} and FeCl_{3}. It is not always possible to
+assign a fixed valence to an element. Nevertheless each element tends to
+exert some normal valence, and the compounds in which it has a valence
+different from this are apt to be unstable and easily changed into
+compounds in which the valence of the element is normal. The valences of
+the various elements will become familiar as the elements are studied in
+detail.
+
+~Valence and combining ratios.~ When elements combine to form compounds,
+the ratio in which they combine will be determined by their valences. In
+those compounds which consist of two elements directly combined, the
+union is between such numbers of the two atoms as have equal valences.
+Elements of the same valence will therefore combine atom for atom.
+Designating the valence of the atoms by Roman numerals placed above
+their symbols, we have the formulas
+
+    II II   II III   III   IV IV
+    HCl,     ZnO,     BN,   CSi.
+
+A divalent element, on the other hand, will combine with two atoms of a
+univalent element. Thus we have
+
+    II II         II II
+    ZnCl_{2} and H_{2}O
+
+(the numerals above each symbol representing the sum of the valences of
+the atoms of the element present). A trivalent atom will combine with
+three atoms of a univalent element, as in the compound
+
+    III III
+     H_{3}N.
+
+If a trivalent element combines with a divalent element, the union will
+be between two atoms of the trivalent element and three of the divalent
+element, since these numbers are the smallest which have equal valences.
+Thus the oxide of the trivalent metal aluminium has the formula
+Al_{2}O_{3}. Finally one atom of a tetravalent element such as carbon
+will combine with four atoms of a univalent element, as in the compound
+CH_{4}, or with two atoms of a divalent element, as in the compound
+CO_{2}.
+
+We have no knowledge as to why elements differ in their combining power,
+and there is no way to determine their valences save by experiment.
+
+     ~Valence and the structure of compounds.~ Compounds will be met
+     from time to time which are apparent exceptions to the general
+     statements just made in regard to valence. Thus, from the
+     formula for hydrogen dioxide (H_{2}O_{2}), it might be
+     supposed that the oxygen is univalent; yet it is certainly
+     divalent in water (H_{2}O). That it may also be divalent in
+     H_{2}O_{2} may be made clear as follows: The unit valence of
+     each element may be represented graphically by a line attached
+     to its symbol. Univalent hydrogen and divalent oxygen will then
+     have the symbols H- and -O-. When atoms combine, each unit
+     valence of one atom combines with a unit valence of another
+     atom. Thus the composition of water may be expressed by the
+     formula H-O-H, which is meant to show that each of the unit
+     valences of oxygen is satisfied with the unit valence of a
+     single hydrogen atom.
+
+     The chemical conduct of hydrogen dioxide leads to the
+     conclusion that the two oxygen atoms of its molecule are in
+     direct combination with each other, and in addition each is in
+     combination with a hydrogen atom. This may be expressed by the
+     formula H-O-O-H. The oxygen in the compound is therefore
+     divalent, just as it is in water. It will thus be seen that the
+     structure of a compound must be known before the valences of
+     the atoms making up the compound can be definitely decided
+     upon.
+
+     Such formulas as H-O-H and H-O-O-H are known as _structural
+     formulas_, because they are intended to show what is known in
+     regard to the arrangement of the atoms in the molecules.
+
+~Valence and the replacing power of atoms.~ Just as elements having the
+same valence combine with each other atom for atom, so if they replace
+each other in a chemical reaction they will do so in the same ratio.
+This is seen in the following equations, in which a univalent hydrogen
+atom is replaced by a univalent sodium atom:
+
+    NaOH + HCl = NaCl + H_{2}O.
+
+    2NaOH + H_{2}SO_{4} = Na_{2}SO_{4} + 2H_{2}O.
+
+    Na + H_{2}O = NaOH + H.
+
+Similarly, one atom of divalent calcium will replace two atoms of
+univalent hydrogen or one of divalent zinc:
+
+    Ca(OH)_{2} + 2 HCl = CaCl_{2} + 2H_{2}O.
+
+    CaCl_{2} + ZnSO_{4} = CaSO_{4} + ZnCl_{2}.
+
+In like manner, one atom of a trivalent element will replace three of a
+univalent element, or two atoms will replace three atoms of a divalent
+element.
+
+~Valence and its applications to formulas of salts.~ While the true nature
+of valence is not understood and many questions connected with the
+subject remain unanswered, yet many of the main facts are of much help
+to the student. Thus the formula of a salt, differs from that of the
+acid from which it is derived in that the hydrogen of the acid has been
+replaced by a metal. If, then, it is known that a given metal forms a
+normal salt with a certain acid, the formula of the salt can at once be
+determined if the valence of the metal is known. Since sodium is
+univalent, the sodium salts of the acids HCl and H_{2}SO_{4} will be
+respectively NaCl and Na_{2}SO_{4}. One atom of divalent zinc will
+replace 2 hydrogen atoms, so that the corresponding zinc salts will be
+ZnCl_{2} and ZnSO_{4}.
+
+The formula for aluminium sulphate is somewhat more difficult to
+determine. Aluminium is trivalent, and the simplest ratio in which the
+aluminium atom can replace the hydrogen in sulphuric acid is 2 atoms of
+aluminium (6 valences) to 3 molecules of sulphuric acid (6 hydrogen
+atoms). The formula of the sulphate will then be Al_{2}(SO_{4})_{3}.
+
+~Valence and its application to equation writing.~ It will be readily seen
+that a knowledge of valence is also of very great assistance in writing
+the equations for reactions of double decomposition. Thus, in the
+general reaction between an acid and a base, the essential action is
+between the univalent hydrogen ion and the univalent hydroxyl ion. The
+base and the acid must always be taken in such proportions as to secure
+an equal number of each of these ions. Thus, in the reaction between
+ferric hydroxide (Fe(OH)_{3}) and sulphuric acid (H_{2}SO_{4}), it will
+be necessary to take 2 molecules of the former and 3 of the latter in
+order to have an equal number of the two ions, namely, 6. The equation
+will then be
+
+    2Fe(OH)_{3} + 3H_{2}SO_{4} = Fe_{2}(SO_{4})_{3} + 6H_{2}O.
+
+Under certain conditions the salts Al_{2}(SO_{4})_{3} and CaCl_{2}
+undergo double decomposition, the two metals, aluminium and calcium,
+exchanging places. The simplest ratio of exchange in this case is 2
+atoms of aluminium (6 valences) and 3 atoms of calcium (6 valences).
+The reaction will therefore take place between 1 molecule of
+Al_{2}(SO_{4})_{3} and 3 of CaCl_{2}, and the equation is as follows:
+
+    Al_{2}(SO_{4})_{3} + 3 CaCl_{2} = 3CaSO_{4} + 2AlCl_{3}.
+
+
+EXERCISES
+
+1. Sodium, calcium, and aluminium have valences of 1, 2, and 3
+respectively; write the formulas of their chlorides, sulphates, and
+phosphates (phosphoric acid = H_{3}PO_{4}), on the supposition that they
+form salts having the normal composition.
+
+2. Iron forms one series of salts in which it has a valence of 2, and
+another series in which it has a valence of 3; write the formulas for
+the two chlorides of iron, also for the two sulphates, on the
+supposition that these have the normal composition.
+
+3. Write the equation representing the neutralization of each of the
+following bases by each of the acids whose formulas are given:
+
+    NaOH           HCl
+    Ba(OH)_{2}     H_{2}SO_{4}
+    Al(OH)_{3}     H_{3}PO_{4}
+
+4. Silver acts as a univalent element and calcium as a divalent element
+in the formation of their respective nitrates and chlorides. (a) Write
+the formula for silver nitrate; for calcium chloride. (b) When
+solutions of these two salts are mixed, the two metals, silver and
+calcium, exchange places; write the equation for the reaction.
+
+_5._ Antimony acts as a trivalent element in the formation of a
+chloride. (a) What is the formula for antimony chloride? (b) When
+hydrosulphuric acid (H_{2}S) is passed into a solution of this chloride
+the hydrogen and antimony exchange places; write the equation for the
+reaction.
+
+6. Lead has a valence of 2 and iron of 3 in the compounds known
+respectively as lead nitrate and ferric sulphate. (a) Write the
+formulas for these two compounds. (b) When their solutions are mixed
+the two metals exchange places; write the equation for the reaction.
+
+
+
+
+CHAPTER XII
+
+COMPOUNDS OF NITROGEN
+
+
+~Occurrence.~ As has been stated in a former chapter, nitrogen constitutes
+a large fraction of the atmosphere. The compounds of nitrogen, however,
+cannot readily be obtained from this source, since at any ordinary
+temperature nitrogen is able to combine directly with very few of the
+elements.
+
+In certain forms of combination nitrogen occurs in the soil from which
+it is taken up by plants and built into complex substances composed
+chiefly of carbon, hydrogen, oxygen, and nitrogen. Animals feeding on
+these plants assimilate the nitrogenous matter, so that this element is
+an essential constituent of both plants and animals.
+
+~Decomposition of organic matter by bacteria.~ When living matter dies and
+undergoes decay complicated chemical reactions take place, one result of
+which is that the nitrogen of the organic matter is set free either as
+the element nitrogen, or in the form of simple compounds, such as
+ammonia (NH_{3}) or oxides of nitrogen. Experiment has shown that all
+such processes of decay are due to the action of different kinds of
+bacteria, each particular kind effecting a different change.
+
+~Decomposition of organic matter by heat.~ When organic matter is strongly
+heated decomposition into simpler substances takes place in much the
+same way as in the case of bacterial decomposition. Coal is a complex
+substance of vegetable origin, consisting largely of carbon, but also
+containing hydrogen, oxygen, and nitrogen. When this is heated in a
+closed vessel so that air is excluded, about one seventh of the nitrogen
+is converted into ammonia, and this is the chief source from which
+ammonia and its compounds are obtained.
+
+
+COMPOUNDS OF NITROGEN WITH HYDROGEN
+
+~Ammonia~ (NH_{3}). Several compounds consisting exclusively of nitrogen
+and hydrogen are known, but only one, ammonia, need be considered here.
+
+~Preparation of ammonia.~ Ammonia is prepared in the laboratory by a
+different method from the one which is used commercially.
+
+1. _Laboratory method._ In the laboratory ammonia is prepared from
+ammonium chloride, a compound having the formula NH_{4}Cl, and obtained
+in the manufacture of coal gas. As will be shown later in the chapter,
+the group NH_{4} in this compound acts as a univalent radical and is
+known as _ammonium_. When ammonium chloride is warmed with sodium
+hydroxide, the ammonium and sodium change places, the reaction being
+expressed in the following equation.
+
+    NH_{4}Cl + NaOH = NaCl + NH_{4}OH.
+
+The ammonium hydroxide (NH_{4}OH) so formed is unstable and breaks down
+into water and ammonia.
+
+    NH_{4}OH = NH_{3} + H_{2}O.
+
+Calcium hydroxide (Ca(OH)_{2}) is frequently used in place of the more
+expensive sodium hydroxide, the equations being
+
+    2NH_{4}Cl + Ca(OH)_{2} = CaCl_{2} + 2NH_{4}OH,
+
+    2NH_{4}OH = 2H_{2}O + 2NH_{3}.
+
+     In the preparation, the ammonium chloride and calcium hydroxide
+     are mixed together and placed in a flask arranged as shown in
+     Fig. 35. The mixture is gently warmed, when ammonia is evolved
+     as a gas and is collected by displacement of air.
+
+[Illustration: Fig. 35]
+
+2. _Commercial method._ Nearly all the ammonia of commerce comes from
+the gasworks. Ordinary illuminating gas is made by distilling coal, as
+will be explained later, and among the products of this distillation a
+solution of ammonia in water is obtained. This solution, known as _gas
+liquor_, contains not only ammonia but other soluble substances. Most of
+these combine chemically with lime, while ammonia does not; if then lime
+is added to the gas liquor and the liquor is heated, the ammonia is
+driven out from the mixture. It may be dissolved again in pure, cold
+water, forming _aqua ammonia_, or the ammonia water of commerce.
+
+     ~Preparation from hydrogen and nitrogen.~ When electric sparks
+     are passed for some time through a mixture of hydrogen and
+     nitrogen, a small percentage of the two elements in the mixture
+     is changed into ammonia. The action soon ceases, however, for
+     the reason that ammonia is decomposed by the electric
+     discharge. The reaction expressed in the equation
+
+         N + 3H = NH_{3}
+
+     can therefore go in either direction depending upon the
+     relative quantities of the substances present. This recalls the
+     similar change from oxygen into ozone, which soon ceases
+     because the ozone is in turn decomposed into oxygen.
+
+~Physical properties.~ Under ordinary conditions ammonia is a gas whose
+density is 0.59. It is therefore little more than half as heavy as air.
+It is easily condensed into a colorless liquid, and can now be purchased
+in liquid form in steel cylinders. The gas is colorless and has a
+strong, suffocating odor. It is extremely soluble in water, 1 l. of
+water at 0 deg. and 760 mm. pressure dissolving 1148 l. of the gas. In
+dissolving this large volume of gas the water expands considerably, so
+that the density of the solution is less than that of water, the
+strongest solutions having a density of 0.88.
+
+~Chemical properties.~ Ammonia will not support combustion, nor will it
+burn under ordinary conditions. In an atmosphere of oxygen it burns with
+a feeble, yellowish flame. When quite dry it is not a very active
+substance, but when moist it combines with a great many substances,
+particularly with acids.
+
+~Uses.~ It has been stated that ammonia can be condensed to a liquid by
+the application of pressure. If the pressure is removed from the liquid
+so obtained, it rapidly passes again into the gaseous state and in so
+doing absorbs a large amount of heat. Advantage is taken of this fact in
+the preparation of artificial ice. Large quantities of ammonia are also
+used in the preparation of ammonium compounds.
+
+     ~The manufacture of artificial ice.~ Fig. 36 illustrates the
+     method of preparing artificial ice. The ammonia gas is
+     liquefied in the pipes X by means of the pump Y. The heat
+     generated is absorbed by water flowing over the pipes. The
+     pipes lead into a large brine tank, a cross section of which is
+     shown in the figure. Into the brine (concentrated solution of
+     common salt) contained in this tank are dipped the vessels A,
+     B, C, filled with pure water. The pressure is removed from
+     the liquid ammonia as it passes into the pipes immersed in the
+     brine, and the heat absorbed by the rapid evaporation of the
+     liquid lowers the temperature of the brine below zero. The
+     water in A, B, C is thereby frozen into cakes of ice. The
+     gaseous ammonia resulting from the evaporation of the liquid
+     ammonia is again condensed, so that the process is continuous.
+
+[Illustration Fig. 36]
+
+~Ammonium hydroxide~ (NH_{4}OH). The solution of ammonia in water is found
+to have strong basic properties and therefore contains hydroxyl ions. It
+turns red litmus blue; it has a soapy feel; it neutralizes acids,
+forming salts with them. It seems probable, therefore, that when ammonia
+dissolves in water it combines chemically with it according to the
+equation
+
+    NH_{3} + H_{2}O = NH_{4}OH,
+
+and that it is the substance NH_{4}OH, called ammonium hydroxide, which
+has the basic properties, dissociating into the ions NH_{4} and OH.
+Ammonium hydroxide has never been obtained in a pure state. At every
+attempt to isolate it the substance breaks up into water and ammonia,--
+
+    NH_{4}OH = NH_{3} + H_{2}O.
+
+~The ammonium radical.~ The radical NH_{4} plays the part of a metal in
+many chemical reactions and is called ammonium. The ending _-ium_ is
+given to the name to indicate the metallic properties of the substance,
+since the names of the metals in general have that ending. The salts
+formed by the action of the base ammonium hydroxide on acids are called
+ammonium salts. Thus, with hydrochloric acid, ammonium chloride is
+formed in accordance with the equation
+
+    NH_{4}OH + HCl = NH_{4}Cl + H_{2}O.
+
+Similarly, with nitric acid, ammonium nitrate (NH_{4}NO_{3}) is formed,
+and with sulphuric acid, ammonium sulphate ((NH_{4})_{2}S0_{4}).
+
+It will be noticed that in the neutralization of ammonium hydroxide by
+acids the group NH_{4} replaces one hydrogen atom of the acid, just as
+sodium does. The group therefore acts as a univalent metal.
+
+~Combination of nitrogen with hydrogen by volume.~ Under suitable
+conditions ammonia can be decomposed into nitrogen and hydrogen by
+passing electric sparks through the gas. Accurate measurement has shown
+that when ammonia is decomposed, two volumes of the gas yield one volume
+of nitrogen and three volumes of hydrogen. Consequently, if the two
+elements were to combine directly, one volume of nitrogen would combine
+with three volumes of hydrogen to form two volumes of ammonia. Here, as
+in the formation of steam from hydrogen and oxygen, small whole numbers
+serve to indicate the relation between the volumes of combining gases
+and that of the gaseous product.
+
+
+COMPOUNDS OF NITROGEN WITH OXYGEN AND HYDROGEN
+
+In addition to ammonium hydroxide, nitrogen forms several compounds with
+hydrogen and oxygen, of which nitric acid (HNO_{3}) and nitrous acid
+(HNO_{2}) are the most familiar.
+
+~Nitric acid~ (HNO_{3}). Nitric acid is not found to any extent in nature,
+but some of its salts, especially sodium nitrate (NaNO_{3}) and
+potassium nitrate (KNO_{3}) are found in large quantities. From these
+salts nitric acid can be obtained.
+
+[Illustration Fig. 37]
+
+~Preparation of nitric acid.~ When sodium nitrate is treated with
+concentrated cold sulphuric acid, no chemical action seems to take
+place. If, however, the mixture is heated in a retort, nitric acid is
+given off as a vapor and may be easily condensed to a liquid by passing
+the vapor into a tube surrounded by cold water, as shown in Fig. 37. An
+examination of the liquid left in the retort shows that it contains
+sodium acid sulphate (NaHSO_{4}), so that the reaction may be
+represented by the equation
+
+    NaNO_{3} + H_{2}SO_{4} = NaHSO_{4} + HNO_{3}.
+
+     If a smaller quantity of sulphuric acid is taken and the
+     mixture is heated to a high temperature, normal sodium sulphate
+     is formed:
+
+         2NaNO_{3} + H_{2}SO_{4} = Na_{2}SO_{4} + 2HNO_{3}.
+
+     In this case, however, the higher temperature required
+     decomposes a part of the nitric acid.
+
+     ~The commercial preparation of nitric acid.~ Fig. 38 illustrates
+     a form of apparatus used in the preparation of nitric acid on a
+     large scale. Sodium nitrate and sulphuric acid are heated in
+     the iron retort A. The resulting acid vapors pass in the
+     direction indicated by the arrows, and are condensed in the
+     glass tubes B, which are covered with cloth kept cool by
+     streams of water. These tubes are inclined so that the liquid
+     resulting from the condensation of the vapors runs back into
+     C and is drawn off into large vessels (D).
+
+[Illustration Fig. 38]
+
+~Physical properties of nitric acid.~ Pure nitric acid is a colorless
+liquid, which boils at about 86 deg. and has a density of 1.56. The
+concentrated acid of commerce contains about 68% of the acid, the
+remainder being water. Such a mixture has a density of 1.4. The
+concentrated acid fumes somewhat in moist air, and has a sharp choking
+odor.
+
+~Chemical properties.~ The most important chemical properties of nitric
+acid are the following.
+
+1. _Acid properties._ As the name indicates, this substance is an acid,
+and has all the properties of that class of substances. It changes blue
+litmus red and has a sour taste in dilute solutions. It forms hydrogen
+ions in solution and neutralizes bases forming salts. It also acts upon
+the oxides of most metals, forming a salt and water. It is one of the
+strongest acids.
+
+2. _Decomposition on heating._ When boiled, or exposed for some time to
+sunlight, it suffers a partial decomposition according to the equation
+

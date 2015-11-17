@@ -1,0 +1,452 @@
+"lance-bout." This contrivance takes the place of the agate of the
+ordinary filature, and is made up, essentially, of the following
+parts:
+
+(1) A hollow axis, through the inside of which the thread passes
+instead of going through the hole of an agate. This hollow axis is
+furnished, near its lower end, with a ridge which serves to support a
+movable portion turning constantly round the axis. (2) A movable
+portion turning constantly round the axis. (3) A finger or hook
+fastened on the side of the movable portion and revolving with it.
+This hook, in revolving, catches the filament brought up by the finger
+and serves it on to the thread.
+
+Such are the principal parts of the automatic reeling machine.
+Although the fact that this machine is entirely a new invention has
+necessitated a somewhat long explanation, its principal organs can
+nevertheless be summed up in a few words: (1) A controlling drum which
+serves to give the thread a constant elongation; (2) a pulley mounted
+on a pivot which closes an electric current every time that the thread
+becomes too fine, and attains, in consequence, its minimum strength,
+in other words, every time that a fresh cocoon is needed; (3)
+electromagnets with the necessary conducting wires; (4) the feeding
+basin; (5) distributing finger and stops; and (6) the lance-bout.
+
+Our illustration, Fig. 1, shows diagrammatically a section through the
+cocoon frame and reel. The thread is composed of three, four, or more
+filaments, and after passing through the lance-bout, it travels as
+shown by the arrows. At first it is wound round itself about two
+hundred times, then passed over a fixed guide pulley, and over a
+second guide pulley lower down fixed to the frames which carry the
+lance-bouts, then up through the twist and over the smaller of the
+pulleys, D. Taking one complete turn, it is led round the guide
+pulley, L, from there round the larger of the pulleys, D, round the
+second guide pulley, L¹, then back to the large wheel, and over a
+fixed guide pulley across to the reeling frame. Power is supplied to
+the latter by means of a friction clutch, and to insure even winding
+the usual reciprocating motion of a guide is employed. The measuring
+apparatus is pivoted at F, and by raising or lowering the nuts at the
+end of the bar the required inclination is given.
+
+We had recently an opportunity of examining the whole of this
+machinery in detail, and seeing the process of silk reeling in actual
+operation, Mr. Serrell having put up a complete set of his machines in
+Queen Victoria Street, London. Regarded simply as a piece of ingenious
+mechanism, the performance of these machines cannot fail to be of the
+highest interest to engineers, the reeling machine proper seeming
+almost endowed with human intelligence, so perfectly does it work.
+But, apart from the technical perfection, Mr. Serrell's improvements
+are of great importance as calculated to introduce the silk-reeling
+industry in this country on a large scale, while at the same time its
+effect upon India as a silk-growing country will be of equal
+importance.--_Industries._
+
+       *       *       *       *       *
+
+
+
+
+APPARATUS USED FOR MAKING ALCOHOL FOR HOSPITAL USE DURING THE
+CIVIL WAR BETWEEN THE STATES.[1]
+
+  [Footnote 1: Read at the Cincinnati meeting of the American
+  Pharmaceutical Association.]
+
+By CHARLES K. GALLAGHER, Washington, N.C.
+
+
+A is an ordinary farm boiler or kettle, with an iron lid securely
+bolted on; B, a steam pipe ending in a coil within a trough, D. C, D,
+two troughs made of gum logs, one inverted over the other, securely
+luted and fastened together by clamps and wedges. The "beer" to be
+distilled was introduced at E and the opening closed with a plug. The
+distillate--"low wine"--was collected at F, and redistilled from a set
+of similar troughs not shown in above figure, and heated by a
+continuation of the steam coil from D.
+
+[Illustration]
+
+       *       *       *       *       *
+
+
+
+
+CONFEDERATE APPARATUS FOR MANUFACTURING SALTPETER FOR
+AMMUNITION.
+
+By CHARLES K. GALLAGHER, Washington, N.C.
+
+
+Any convenient number of percolators, made of rough boards, arranged
+over a trough after the style of the old fashioned "lye stand,"
+similar to the figure. Into these was placed the earth scraped from
+around old tobacco barns, from under kitchens and smokehouses. Then
+water or water and urine was poured upon it until the mass was
+thoroughly leached or exhausted. The percolate was collected in a
+receptacle and evaporated, the salt redissolved, filtered, again
+evaporated, and crystallized from the mother water.
+
+[Illustration]
+
+       *       *       *       *       *
+
+
+
+
+THE TELEMETER SYSTEM.
+
+By F.R. UPTON.
+
+
+In this paper, read before the British Association, the author
+explained that the "Telemeter System," invented by C.L. Clarke, of New
+York, is a method by which the slow movement of a revolving hand of
+any indicating instrument may be reproduced by the movement of a
+similar hand at a distant place, using electricity to convey the
+impulse. The primary hand moves until it makes electrical contact,
+thus sending an impulse. It is here that all previous methods have
+failed. This contact should be absolute and positive, for if it is
+not, the receiver will not work in unison. The contact could often be
+doubled by the jarring of the instrument, thus making the receiver
+jump twice. Clarke has overcome this defect by so arranging his
+mechanism that the faintest contact in the primary instrument closes
+two platinum points in multiple arc with it, thus making a firm and
+positive contact, which is not disturbed by any jar on the primary
+contact. This gives the instruments a positive start for the series of
+operations, instead of the faint contact which would be given, for
+example, by the light and slowly moving hand of a metallic
+thermometer. The other trouble with previous methods was that the
+contact points would corrode, and, in consequence of such corrosion,
+the instrument would fail to send impulses. Corrosion of the contacts
+is due to breaking the circuit slowly on a small surface. This is
+entirely remedied by breaking the circuit elsewhere than at the
+primary contact, using a quick motion, and also by giving this
+breaking contact large surface and making it firm. The instrument, as
+applied to a thermometer, is made as follows: From the free end of the
+light spiral of a metallic thermometer fixed at the other end, an arm,
+C, is attached, the end of which moves over an arc of a circle when
+the temperature varies. This end carries on either side of its
+extremity platinum contacts which, when the thermometer is at rest,
+lie between two other platinum points, A B, carried on radial arms.
+Any variation in temperature brings a point on the thermometer arm in
+contact with one of these points, and thus gives the initial start to
+the series of operations without opposing any friction to the free
+motion of the instrument. The first result is the closing of a short
+circuit round the initial point of contact, so that no current flows
+through it. Then the magnets which operate one set of pawls come into
+play. The two contact points are attached to a toothed wheel in which
+the pawls play, and these pawls are so arranged that they drive the
+wheel whenever moved by their magnets; thus the primary contact is
+broken.
+
+[Illustration]
+
+In the receiver there is a similar toothed wheel carrying the hand of
+the indicating instrument, and actuated at the same moment as the
+transmitter. The primary contacts are so arranged that the contact is
+made for each degree of temperature to be indicated. This series of
+operations leaves the instruments closed and the pawls home in the
+toothed wheel. To break the circuit another wire and separate set of
+contacts are employed.
+
+These are arranged on the arms carrying the pawls, and so adjusted
+that no contact is made until after the toothed wheel has moved a
+degree, when a circuit is closed and a magnet attracts an armature
+attached to a pendulum. This pendulum, after starting, breaks the
+circuit of the magnets which hold the pawls down, as well as of the
+short-circuiting device. As the pendulum takes an appreciable time to
+vibrate, this allows all the magnets to drop back, and breaks all
+circuits, leaving the primary contacts in the same relation as at
+first. The many details of the instruments are carefully worked out.
+All the contacts are of a rubbing nature, thus avoiding danger from
+dirt, and they are made with springs, so as not to be affected by jar.
+
+The receiving instruments can be made recorders also by simple
+devices. Thus, having only a most delicate pressure in the primary
+instrument, a distinct ink record may be made in the receiver, even
+though the paper be rough and soft. The method is applicable to steam
+gauges, water indicators, clocks, barometers, etc., in fact, to any
+measuring instrument where a moving hand can be employed.
+
+       *       *       *       *       *
+
+
+
+
+A NEW MONSTER REVOLVING BLACK ASH FURNACE AND THE WORK DONE WITH IT.
+
+By WATSON SMITH, Lecturer in Chemical Technology in the Victoria
+University, etc.
+
+
+The Widnes Alkali Company, limited, to which I am indebted for
+permission to describe this latest addition to a family of revolving
+black ash furnaces, of late not only increasing in number, but also
+individual size, has kindly allowed my friend, Mr. H. Baker, to
+photograph the great revolver in question, and I have pleasure now in
+throwing on the screen a picture of it, and also one of a revolver of
+ordinary size, so as to render a comparison possible. The revolver of
+ordinary size measures at most 181/2 ft. long, with a diameter of 121/2
+ft. The boiling down pans connected with such a furnace measure 60 ft.
+in length. Each charge contains four tons of salt cake, and some of
+these revolvers get through 18 tons of salt cake per day and consume
+13 cwt. of coal per ton of cake decomposed.
+
+With regard to the larger revolver, it may be just said that the
+Widnes Alkali Company has not at once sprung to the adoption of a
+furnace of the immense size to be presently given, but in 1884 it
+erected a revolver only about 3 ft. to 4 ft. short of the length of
+that one, and having two discharging holes. The giant revolving
+furnace to be described measures in length 30 ft. and has a diameter
+of 12 ft. 6 in. Inside length is 28 ft. 6 in., with a diameter of 11
+ft. 4 in. It is lined with 16,000 fire bricks and 120 fire-clay blocks
+or breakers, weighing each 11/4 cwt. The bricks weigh per 1,000 about
+four tons. The weight of salt cake per charge (i.e., contained in
+each charge of salt cake, limestone, mud, and slack) is 8 tons 12 cwt.
+For 100 tons of salt cake charged, there are also charged about 110
+tons of lime mud and limestone and 55 tons of mixing slack. In a week
+of seven days about 48 charges are worked through, weighing of raw
+materials about 25 _tons per charge_. The total amount of salt cake
+decomposed weekly is about 400 tons, and may be reckoned as yielding
+240 tons of 60 per cent. caustic soda. As regards fuel used for
+firing, this may be put down as 200 tons per week, or about 10 cwt.
+per ton of salt cake decomposed. Also with regard to the concentration
+of liquor from 20 deg. Tw. to 50 deg. Tw., there is sufficient of such
+concentrated liquor evaporated down to keep three self-fired caustic
+pots working, which are boiled at a strength of 80 deg. Tw. Were it not
+for this liquor, no less than seven self-fired pots would be required
+to do this work, showing a difference of 80 tons of fuel.
+
+[Illustration: A NEW MONSTER REVOLVING BLACK ASH FURNACE. (2 Figures.) ]
+
+The question may be asked, "Why increase the size of these huge pieces
+of apparatus?" The answer, I apprehend, is that owing to competition
+and reduction of prices, greater efforts are necessary to reduce
+costs. With automatic apparatus like the black ash revolver, we may
+consider no very sensible addition of man power would be needed, in
+passing from the smallest sized to the largest sized revolver. Then,
+again, we may, reckoning a certain constant amount of heat lost per
+each revolver furnace of the small size, consider that if we doubled
+the size of such revolver, we should lose by no means double the
+amount of heat lost with the small apparatus; but only the same as
+that lost in the small furnace _plus_ a certain fraction of that
+quantity, which will be smaller the better and more efficient the
+arrangements are. Then, again, there is an economy in iron plate for
+such a large revolver; there is economy in expense on the engine power
+and on fuel consumed, as well as in wear and tear.
+
+Just to mention fuel alone, we saw that with an ordinary large sized
+revolver, the coal consumption was 13 cwt. per ton of salt cake
+decomposed in the black ash process; but with the giant revolver we
+have been describing, that consumption is reduced to 10 cwt. per ton
+of cake decomposed.
+
+[Illustration: A NEW MONSTER REVOLVING BLACK ASH FURNACE. (2 Figures.)]
+
+The question will be probably asked, How is it possible to get a flame
+from one furnace to carry through such a long revolver and do its work
+in fusing the black ash mixture effectively from one end to the other?
+The furnace employed viewed in front looks very like an ordinary
+revolver fireplace, but at the side thereof, in line with the front of
+the revolver, at which the discharge of the "crude soda" takes place,
+there are observed to be three "charging holes," rather than doors,
+through which fuel is charged from a platform directly into the
+furnace through those holes.
+
+The furnace is of course a larger one than furnaces adjusted to
+revolvers of the usual size. But the effect of one charging door in
+front and three at the side, which after charging are "banked" up with
+coal, with the exception of a small aperture above for admission of
+air, is very similar to that sometimes adopted in the laboratory for
+increasing heating effect by joining several Bunsen lamps together to
+produce one large, powerful flame. In this case, the four charging
+holes represent, as it were, the air apertures of the several Bunsen
+lamps. Of course the one firing door at front would be totally
+inadequate to supply and feed a fire capable of yielding a flame that
+would be adequate for the working of so huge a revolver. As an effort
+of chemical engineering, it is a very interesting example of what
+skill and enterprise in that direction alone will do in reducing
+costs, without in the least modifying the chemical reactions taking
+place.--_Journal Soc. Chem. Industry._
+
+       *       *       *       *       *
+
+
+
+
+IMPROVEMENTS IN THE MANUFACTURE OF PORTLAND CEMENT.[1]
+
+  [Footnote 1: A paper recently read before the British
+  Association.]
+
+By FREDERICK RANSOMS, A.I.C.E.
+
+
+So much has been said and written on and in relation to Portland
+cement that further communications upon the subject may appear to many
+of the present company to be superfluous. But is this really so? The
+author thinks not, and he hopes by the following communication, to
+place before this meeting and the community at large some facts which
+have up to the present time, or until within a very recent date, been
+practically disregarded or overlooked in the production of this very
+important and valuable material, so essential in carrying out the
+great and important works of the present day, whether of docks and
+harbors, our coast defenses, or our more numerous operations on land,
+including the construction of our railways, tunnels, and bridges,
+aqueducts, viaducts, foundations, etc. The author does not propose to
+occupy the time of this meeting by referring to the origin or the
+circumstances attendant upon the early history of this material, the
+manufacture of which has now assumed such gigantic proportions--these
+matters have already been fully dealt with by other more competent
+authorities; but rather to direct the attention of those interested
+therein to certain modifications, which he considers improvements, by
+means of which a large proportion of capital unnecessarily involved in
+its manufacture may be set free in the future, the method of
+manufacture simplified, the cost of manipulation reduced, and stronger
+and more uniformly reliable cement be placed within the reach of those
+upon whom devolves the duty and responsibility of constructing works
+of a substantial and permanent character; but in order to do this it
+will be necessary to allude to certain palpable errors and defects
+which, in the author's opinion, are perpetuated, and are in general
+practice at the present day.
+
+Portland cement is, as is well known, composed of a mixture of chalk,
+or other carbonate of lime, and clay--such as is obtained on the banks
+of the Thames or the Medway--intimately mixed and then subjected to
+heat in a kiln, producing incipient fusion, and thereby forming a
+chemical combination of lime with silica and alumina, or practically
+of lime with dehydrated clay. In order to effect this, the usual
+method is to place the mechanically mixed chalk and clay (technically
+called slurry), in lumps varying in size, say, from 4 to 10 lb., in
+kilns with alternate layers of coke, and raise the mass to a glowing
+heat sufficient to effect the required combination, in the form of
+very hard clinker. These kilns differ in capacity, but perhaps a fair
+average size would be capable of producing about 30 tons of clinker,
+requiring for the operation, say, from 60 to 70 tons of dried slurry,
+with from 12 to 15 tons of coke or other fuel. The kiln, after being
+thus loaded, is lighted by means of wood and shavings at the base,
+and, as a matter of course, the lumps of slurry at the lower part of
+the kiln are burned first, but the moisture and sulphurous gases
+liberated by the heat are condensed by the cooler layers above, and
+remain until the heat from combustion, gradually ascending, raises the
+temperature to a sufficient degree to drive them further upward, until
+at length they escape at the top of the kiln. The time occupied in
+loading, burning, and drawing a kiln of 30 tons of clinker averages
+about seven days. It will be readily understood that the outside of
+the clinker so produced must have been subjected to a much greater
+amount of heat then was necessary, before the center of such clinker
+could have received sufficient to have produced the incipient fusion
+necessary to effect the chemical combination of its ingredients; and
+the result is not only a considerable waste of heat, but, as always
+occurs, the clinker is not uniformly burnt, a portion of the outer
+part has to be discarded as overburnt and useless, while the inner
+part is not sufficiently burnt, and has to be reburned afterward.
+Moreover, the clinker, which is of excessively hard character, has to
+be reduced by means of a crusher to particles sufficiently small to be
+admitted by the millstones, where it is ground into a fine powder, and
+becomes the Portland cement of commerce.
+
+This process of manufacture is almost identical in principle and in
+practice with that described and patented by Mr. Joseph Aspden in the
+year 1824; and though various methods have been patented for utilizing
+the waste heat of the kilns in drying the slurry previous to
+calcination, still the main feature of burning the material in mass in
+large and expensive kilns remained the same, and is continued in
+practice to the present day. The attention of the author was directed
+to this subject some time since in consequence of the failure of a
+structure in which Portland cement formed an essential element, and he
+had not proceeded far in his investigation of the cause of the failure
+when he was struck with what appeared to him to be the unscientific
+method adopted in its manufacture, and the uncertain results that must
+necessarily accrue therefrom. Admitting, in the first place, that the
+materials employed were considered the best and most economical for
+the purpose readily accessible, viz., chalk and an alluvial deposit
+found in abundance on the banks of the Thames and the Medway, and
+being intimately mixed together in suitable proportions, was it
+necessary, in order to effect the chemical combination of the
+ingredients at an intense heat, to employ such massive and expensive
+structures of masonry, occupying such an enormous space of valuable
+ground, with tall chimney stacks for the purpose of discharging the
+objectionable gases, etc., at such a height, in order to reduce the
+nuisance to the surrounding neighborhood? Again, was it possible to
+effect the perfect calcination of the interior of the lumps alluded to
+without bestowing upon the outer portions a greater heat than was
+necessary for the purpose, causing a wasteful expenditure of both
+time and fuel? And further, as cement is required to be used in the
+state of powder, could not the mixture of the raw materials be
+calcined in powder, thereby avoiding the production of such a hard
+clinker, which has afterward to be broken up and reduced to a fine
+powder by grinding in an ordinary mill?
+
+The foregoing are some of the defects which the author applied himself
+to remove, and he now desires to draw attention to the way in which
+the object has been attained by the substitution of a revolving
+furnace for the massive cement kilns now in general use, and by the
+application of gaseous products to effect calcination, in the place of
+coke or other solid fuel. The revolving furnace consists of a
+cylindrical casing of steel or boiler plate supported upon steel
+rollers (and rotated by means of a worm and wheel, driven by a pulley
+upon the shaft carrying the worm), lined with good refractory fire
+brick, so arranged that certain courses are set so as to form three or
+more radial projecting fins or ledges. The cylindrical casing is
+provided with two circular rails or pathways, turned perfectly true,
+to revolve upon the steel rollers, mounted on suitable brickwork, with
+regenerative flues, by passing through which the gas and air severally
+become heated, before they meet in the combustion chamber, at the
+mouth of the revolving furnace. The gas may be supplied from slack
+coal or other hydrocarbon burnt in any suitable gas producer (such,
+for instance, as those for which patents have been obtained by Messrs.
+Brook & Wilson, of Middlesbrough, or by Mr. Thwaite, of Liverpool),
+which producer may be placed in any convenient situation.
+
+The cement mixture or slurry, instead of being burnt in lumps, is
+passed between rollers or any suitable mill, when, it readily falls
+into coarse dry powder, which powder is thence conveyed by an elevator
+and fed into the revolving furnace by means of a hopper and pipe,
+which, being set at an angle with the horizon, as it turns gradually
+conveys the cement material in a tortuous path toward the lower and
+hotter end, where it is discharged properly calcined. The material
+having been fed into the upper end of the cylinder falls through the
+flame to the lower side of it; the cylinder being in motion lifts it
+on its advancing side, where it rests against one of its projecting
+fins or ledges until it has reached such an angle that it shoots off
+in a shower through the flame and falls once more on the lower side.
+This again causes it to travel in a similar path, and every rotation
+of the cylinder produces a like effect, so that by the time it arrives
+at the lower and hotter end it has pursued a roughly helical path,
+during which it has been constantly lifted and shot through the flame,
+occupying about half an hour in its transit.
+
+To some who have been accustomed to the more tedious process of kiln
+burning, the time thus occupied may appear insufficient to effect the
+combinations necessary to produce the required result; but it will be
+seen that the conditions here attained are, in fact, those best suited
+to carry out effectively the chemical changes necessary for the
+production of cement. The raw material being in powder offers every
+facility for the speedy liberation of water and carbonic acid, the
+operation being greatly hastened by the velocity of the furnace gases
+through which the particles pass. That such is practically the case is
+shown by the following analysis of cement so burnt in the revolving
+furnace or cylinder:
+
+                                         Per cent.
+    Carbonic acid, anhydrous                0.4
+    Sulphuric acid, anhydrous               0.26
+    Silica soluble                         24.68
+    Silica insoluble                        0.6
+    Alumina and oxide of iron              10.56
+    Lime                                   61.48
+    Magnesia, water, and alkalies           2.02
+                                          ------
+                                          100
+

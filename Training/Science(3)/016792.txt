@@ -1,0 +1,449 @@
+The Project Gutenberg EBook of Scientific American Supplement, No. 508,
+September 26, 1885, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Scientific American Supplement, No. 508, September 26, 1885
+
+Author: Various
+
+Release Date: October 3, 2005 [EBook #16792]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SCIENTIFIC AMERICAN ***
+
+
+
+
+Produced by Juliet Sutherland, Josephine Paolucci and the
+Online Distributed Proofreading Team at www.pgdp.net
+
+
+
+
+
+[Illustration]
+
+
+
+
+SCIENTIFIC AMERICAN SUPPLEMENT NO. 508
+
+
+
+
+NEW YORK, SEPTEMBER 26, 1885
+
+Scientific American Supplement. Vol. XX., No. 508.
+
+Scientific American established 1845
+
+Scientific American Supplement, $5 a year.
+
+Scientific American and Supplement, $7 a year.
+
+       *       *       *       *       *
+
+
+
+
+TABLE OF CONTENTS
+
+                                                                  PAGE
+I.   CHEMISTRY AND METALLURGY.--The Cowles Electric Smelting
+     Process. 5 figures.                                          8113
+
+     On the Electrical Furnace and the Reduction of the Oxides of
+     Boron, Silicon, Aluminum, and other Metals by Carbon.--By
+     EUGENE H. COWLES, ALFRED H. COWLES, and CHARLES F. MABERY.   8112
+
+     Chemical Action of Light.                                    8117
+
+     Eutexia.--Cryohydrates.--Eutectic salt alloys and metal
+     alloys.                                                      8117
+
+     Chinoline.                                                   8118
+
+     Method of Rapid Estimation of Urea. 1 figure.                8118
+
+     Assay of Earthenware Glaze.                                  8112
+
+II.  ENGINEERING AND MECHANICS.--Deep Shafts and Deep Mining.     8104
+
+     Sinking of the Quievrechain Working Shaft.--Numerous
+     figures.                                                     8108
+
+     On the Elementary Principles of the Gas Engine.--An
+     interesting paper read before the Gas Institute by Mr.
+     DENNY LANE, of Cork, and discussion following.               8109
+
+     M. MEIZEL'S Reciprocating Exhauster.                         8112
+
+     Automatic Siphon for Irrigation. 1 figure.                   8113
+
+III. ELECTRICITY, TELEGRAPHY, ETC.--Optical Telegraphy.--
+     Cryptography.--Preservation of Telegrams.--The projector in
+     optical telegraphy.--Use of balloons. 4 figures.             8114
+
+     A New Style of Submarine Telegraph. 4 figures.               8115
+
+     A New Circuit Cutter. 2 figures.                             8115
+
+     New Micro Telephonic Apparatus. 5 figures.                   8116
+
+     Messrs. Kapp and Crompton's Measuring Instruments.
+     5 figures.                                                   8116
+
+IV.  GEOLOGY, ETC.--Permeability of Sand Rock.--By F.H. NEWELL.   8103
+
+     The Grotto of Gargas, in the Pyrenees.--Paleontological
+     remains found therein. 2 engravings.                         8103
+
+     Remarkable Wells and Caverns in Yucatan.--By ALICE D. LE
+     PLONGEON.                                                    8105
+
+V.   NATURAL HISTORY.--The Cabbage Butterfly and the Peacock
+     Butterfly.                                                   8105
+
+VI.  BOTANY AND HORTICULTURE.--The Bhotan Cypress (Cupressus
+     torulosa).--With engraving.                                  8106
+
+     The Pitcher Plant.                                           8106
+
+     What is a Plant?                                             8106
+
+     Camellias.--Culture of the same.                             8106
+
+     Arisaema Fimbriatum.--Leaf, spathe, and floral details.--With
+     engraving.                                                   8107
+
+VII. MISCELLANEOUS.--Striking a Light with Bamboo.                8107
+
+     Experiments in Memory.                                       8107
+
+       *       *       *       *       *
+
+
+
+
+PERMEABILITY OF SAND ROCK.
+
+By FREDERICK H. NEWELL, M.E.
+
+
+Among oil producers, there has been much discussion as to whether the
+sand rock in which petroleum occurs is of necessity fissured or is
+still in its original unbroken condition.
+
+The earliest and most natural theory, which for years was indisputed,
+and is still given by some textbooks, was, that oil wells reached a
+cavity filled with petroleum.
+
+Within the past few years, however, the opinion has been gaining
+ground that the oil is stored in the sandrock itself in the minute
+spaces between the small grains of sand, not entirely filled by
+cementing material, and that crevices holding and conducting oil are
+rare, all fissures as a rule being confined to the upper fresh-water
+bearing rocks of the well. Mr. Carll, in III. Pennsylvania Second
+Geological Survey, has discussed this subject very fully, and has made
+estimates of the quantity of oil that the sand rock can hold and
+deliver into a well; also, T. Sterry Hunt, in his _Chemical and
+Geological Essays_, has made deductions as to the petroleum contained
+in the Niagara limestone that outcrops about Chicago.
+
+While the experiments and conclusions of these geologists go to prove
+that these rocks are capable of holding the oil, there are on record
+no facts as to the phenomena of its flow, other than by capillarity,
+through the rock. To obtain some data of the flow of liquids under
+pressure through certain oil-bearing stones, series of tests on small
+pieces were made. These tests were carried on during this spring, and
+many results quite unlooked for were obtained. When crude oil,
+kerosene, or water (river or distilled) was forced through the
+specimens, the pressure being constant, the rate of flow was variable.
+At first, the amount flowing through was large, then fell off rapidly,
+and when the flow had diminished to about one-quarter of its original
+rate, the decrease was very slight, but still continued as long as
+measurements were made, in some cases for three weeks.
+
+When using crude oil, this result was not surprising, for, as the oil
+men say, crude oil "paraffines up" a rock, that is, clogs the minute
+pores by depositing solid paraffine (?); but this so-called
+paraffining took place, not only with crude oil, but with refined oil,
+and even with distilled water.
+
+The only explanation as yet is, that liquids flowing under pressure
+through rock on which they exert little or no dissolving effect,
+instead of washing out fine particles, tend to dislodge any minute
+grains of the stone that may not be firmly held by cement, and these
+block up extremely fine and crooked pores in which the fluid is
+passing.
+
+Several tests indicated that this blocking up was largely near the
+surface into which the fluid was passing. When this surface was ground
+off, even 1/50 of an inch, the flow increased immediately nearly to
+the original rate.
+
+Reversing the flow also had the effect of increasing the rate, even
+above that of any time previous.
+
+With the moderate pressures used--from 2" to 80" of mercury--the
+results show that the rate of flow, other things being equal, is
+directly proportional to the pressure.
+
+The porosity of rock is not always a criterion of its permeability; a
+very fine grained marble, containing about 0.6 per cent. cell space,
+transmitted water and oil more freely than a shale that would hold 4
+per cent. of its bulk of water.
+
+If the above conclusions hold on a large scale as on the small, they
+may aid in explaining the diminished flow of oil wells. Not only will
+the flow lessen from reduced gas pressure, but the passages in the
+rock become less able to allow the oil to flow through.
+
+The increase in flow following the explosion of large shots in a sand
+rock may be due not only to fissuring of the rock, but to temporary
+reversal of the pressure, the force of the explosive tending to drive
+the oil back for an instant.
+
+The large shots now used (up to 200 quarts, or say 660 pounds of
+nitroglycerine) must exert some influence of this kind, especially
+when held down by 500+- feet of liquid tamping. In the course of these
+tests, it was noticed that fresh water has a more energetic
+disintegrating action on the shales and clay than on salt water.
+
+This may furnish a reason for the fact, noticed by the oil men, that
+fresh water has a much more injurious effect than salt in clogging a
+well. No oil-bearing sand rock is free from laminae of shale, and when
+fresh water gets down into the sand, the water must, as the
+experiments show, rapidly break up the shale, setting free fine
+particles, which soon are driven along into the minute interstices of
+the sand rock, plastering it up and injuring the well.--_Engineering
+and Mining Journal._
+
+       *       *       *       *       *
+
+
+
+
+THE GROTTO OF GARGAS.
+
+
+The grotto of Gargas is located in Mount Tibiran about three hundred
+yards above the level of the valley, and about two miles southeast of
+the village of Aventignan. Access to it is easy, since a road made by
+Mr. Borderes in 1884 allows carriages to reach its entrance.
+
+This grotto is one of the most beautiful in the Pyrenees, and presents
+to the visitor a succession of vast halls with roofs that are curved
+like a dome, or are in the form of an ogive, or are as flat as a
+ceiling. It is easy to explore these halls, for the floor is covered
+with a thick stalagmitic stratum, and is not irregular as in the
+majority of large caves.
+
+[Illustration: FIG. 1.--SECTION OF THE GROTTO OF GARGAS.]
+
+Upon entering through the iron gate at the mouth of the grotto, one
+finds himself in Bear Hall, wherein a strange calcareous concretion
+offers the form of the carnivorous animal after which the room is
+named. This chamber is about 80 feet in width by 98 in length. We
+first descend a slope formed of earth and debris mostly derived from
+the outside. This slope, in which are cut several steps, rests upon a
+hard, compact, and crystalline stalagmitic floor. Upon turning to the
+right, we come to the Hall of Columns, the most beautiful of all. Here
+the floor bristles with stalagmites, which in several places are
+connected with the stalactites that depend from the ceiling. This room
+is about 50 feet square. After this we reach the Hall of Crevices, 80
+feet square, and this leads to the great Hall of Gargas, which is
+about 328 feet in length by 80, 98, and 105 in width. In certain
+places enormous fissures in the vault rise to a great height. Some of
+these, shaped like great inverted funnels, are more than 60 yards in
+length. The grotto terminates in the Creeping Hall. As its name
+indicates, this part of the cave can only be traversed by lying flat
+upon the belly. It gives access to the upper grotto through a narrow
+and difficult passage that it would be possible to widen, and which
+would then allow visitors to make their exit by traversing the
+beautiful upper grotto, whose natural entrance is situated 150 yards
+above the present one. This latter was blasted out about thirty years
+ago.
+
+Upon following the direction of the great crevices, we reach a small
+chamber, wherein are found the Oubliettes of Gargas--a vertical well
+65 feet feet in depth. The aperture that gives access to this strange
+well (rendered important through the paleontological remains collected
+in it) is no more than two feet in diameter. Such is the general
+configuration of the grotto.
+
+In 1865 Dr. Garrigou and Mr. De Chastaignier visited the grotto, and
+were the first to make excavations therein. These latter allowed these
+scientists to ascertain that the great chamber contained the remains
+of a quaternary fauna, and, near the declivity, a deposit of the
+reindeer age.
+
+As soon as it was possible to obtain a permit from the Municipal
+Council of Aventignan to do so, I began the work of excavation, and
+the persistence with which I continued my explorations led me to
+discover one of the most important deposits that we possess in the
+chain of the Pyrenees. My first excavations in Bear Hall were made in
+1873, and were particularly fruitful in an opening 29 feet long by 10
+wide that terminates the hall, to the left. I have remarked that these
+sorts of retreats in grottoes are generally rich in bones. Currents of
+water rushing through the entrance to the grotto carry along the
+bones--entire, broken, or gnawed--that lie upon the ground. These
+remains are transported to the depths of the cave, and are often
+stopped along the walls, and lie buried in the chambers in
+argillaceous mud. Rounded flint stones are constantly associated with
+the bones, and the latter are always in great disorder. The species
+that I met with were as follows: the great cave bear, the little bear,
+the hyena, the great cat, the rhinoceros, the ox, the horse, and the
+stag.
+
+The stalagmitic floor is 11/2, 2, and 21/4 inches thick. The bones were
+either scattered or accumulated at certain points. They were generally
+broken, and often worn and rounded. They appeared to have been rolled
+with violence by the waters. The clay that contained them was from 3
+to 6 feet in thickness, and rested upon a stratum of water-worn
+pebbles whose dimensions varied from the size of the fist to a grain
+of sand. A thick layer of very hard, crystalline stalagmite covers the
+Hall of Columns, and it was very difficult to excavate without
+destroying this part of the grotto.
+
+I found that there anciently existed several apertures that are now
+sealed up, either by calcareous concretions or by earthy rubbish from
+the mountain. One of these was situated in the vicinity of the present
+mouth, and permitted of the access to Bear Hall of a host of carnivora
+that found therein a vast and convenient place of shelter.
+
+[Illustration: FIG. 2.--SKELETON OF THE CAVE HYENA.]
+
+These excavations revealed to me at this entrance, at the bottom of
+the declivity, a thick stratum of remains brought thither by primitive
+man. This deposit, which was formed of black earth mixed with charcoal
+and numerous remains of bones, calcined and broken longitudinally for
+the most part, contained rudely worked flint stones. I collected a few
+implements, one surface of which offered a clean fracture, while the
+other represented the cutting edge. According to Mr. De Mortillet,
+such instruments were not intended to have a handle. They were capable
+of serving as paring knives and saws, but they were especially
+designed for scraping bones and skins. The deposit was from 26 to 32
+feet square and from 2 inches to 5 feet deep, and rested upon a bed of
+broken stones above the stalagmite. The animals found in it were the
+modern bear (rare), the aurochs, the ox, the horse, and the stag--the
+last four in abundance.
+
+At the extremity of the grotto there is a well with vertical sides
+which is no less than 65 feet in depth. It is called the Gargas
+Oubilettes. Its mouth is from 15 to 24 inches in diameter, and
+scarcely gives passage to a man (Fig. 1). Mr. Borderes, in the hope of
+discovering a new grotto, was the first to descend into this well,
+which he did by means of a rope ladder, and collected a few bones that
+were a revelation to me. Despite the great difficulty and danger of
+excavating at this point, I proceeded, and found at the first blow of
+the pick that there was here a deposit of the highest importance,
+since all the bones that I met with were intact. The first thing
+collected was an entire skull of the great cave bear, with its
+maxillaries in place. From this moment I began a series of excavations
+that lasted two years.
+
+The descent is effected through a narrow vertical passage 61/2 feet in
+length. The cavity afterward imperceptibly widens, and, at a depth of
+12 yards, reaches 61/2 feet in diameter, and at 15 yards 10 feet.
+Finally, in the widest part (at a depth of 62 feet) it measures about
+16 feet (Fig. 1).
+
+A glance at the section of the well, which I have drawn as accurately
+as possible (not an easy thing to do when one is standing upon a rope
+ladder), will give an idea of the form of this strange pocket formed
+in the limestone of the mountain through the most complex dislocations
+and erosions. Two lateral pockets attracted my attention because of
+the enormous quantity of clay and bones that obstructed them. The
+first, to the left, was about 15 feet from the orifice. When we had
+entirely emptied it, we found that it communicated with the bottom of
+the well by a narrow passage. An entire skeleton of the great cave
+bear had stopped up this narrow passage, and of this, by the aid of a
+small ladder, we gathered the greater part of the skeleton, the state
+of preservation of which was remarkable.
+
+The second pocket, which was almost completely filled with clay, and
+situated a little lower than the other, likewise communicated with a
+third cavity that reached the bottom of the well. The clay of these
+different pockets contained so large a quantity of bones that we could
+hardly use our picks, and the excavation had to be performed with very
+short hooks, and often by hand. In this way I was enabled to remove
+the bones without accident. The lower pocket was dug out first, and
+with extreme care, the bones being hoisted out by means of a basket
+attached to a rope. Three or four candles sufficed to give us light.
+The air was heavy and very warm, and, after staying in it for two
+hours, it was necessary to come to the surface to breathe. After
+extracting the bones from the lower pocket, and when no more clay
+remained, we successively dug out the upper ones and threw the earth
+to the bottom of the well.
+
+On the 20th of December, 1884, my excavating was finished. To-day the
+Oubliettes of Gargas are obstructed with the clay that it was
+impossible to carry elsewhere. The animals that I thus collected in
+the well were the following: The great bear (in abundance), the little
+bear (a variety of the preceding), the hyena, and the wolf. The
+pockets contained nearly entire skeletons of these species. How had
+the animals been able to penetrate this well? It is difficult to admit
+that it was through the aperture that I have mentioned. I endeavored
+to ascertain whether there was not another communication with the
+Gargas grotto, and had the satisfaction of finding a fissure that
+ended in the cave, and that probably was wider at the epoch at which
+the place served as a lair for the bear and hyena.
+
+Very old individuals and other adults, and very young animals, were
+living in the grotto, and, being surprised, without power to save
+themselves, by a sudden inundation, reached the bottom of the well
+that we have described. The entire remains of these animals were
+carried along by the water and deposited in the pockets in the rock.
+Once buried in the argillaceous mud, the bones no longer underwent the
+action of the running water, and their preservation was thence
+secured.--_F. Regnault, in La Nature._
+
+       *       *       *       *       *
+
+
+
+
+DEEP SHAFTS AND DEEP MINING.
+
+
+A correspondent of the New York _Sun_, writing from Virginia City,
+Nevada, describes the progress of the work there on the Combination
+shaft of the Comstock lode, the deepest vertical shaft in America, and
+the second deepest in the world. It is being sunk by the Chollar
+Potosi, Hale & Norcross, and Savage mining companies; hence its name
+of the Combination shaft. This shaft has now reached a perpendicular
+depth of a little over 3,100 feet. There is only one deeper vertical
+shaft in the world--the Adalbent shaft of the silver-lead mines of
+Przibram, Bohemia, which at last accounts had reached a depth of 3,280
+feet. The attainment of that depth was made the occasion of a
+festival, which continued three days, and was still further honored by
+the striking off of commemorative medals of the value of a florin
+each. There is no record of the beginning of work on this mine at
+Przibram, although its written history goes back to 1527.
+
+Twenty years ago very few mining shafts in the world had reached a
+depth of 2,000 feet. The very deepest at that time was in a
+metalliferous mine in Hanover, which had been carried down 2,900 feet;
+but this was probably not a single perpendicular shaft. Two vertical
+shafts near Gilly, in Belgium, are sunk to the depth of 2,847 feet. At
+this point they are connected by a drift, from which an exploring
+shaft or winze is sunk to a further depth of 666 feet, and from that
+again was put down a bore hole 49 feet in depth, making the total
+depth reached 3,562 feet. As the bore hole did not reach the seam of
+coal sought for, they returned and resumed operations at the 2,847
+level. In Europe it is thought worthy of particular note that there
+are vertical shafts of the following depths:
+
+                                                     Feet.
+  Eimkert's shaft of the Luganer Coal Mining
+          Company, Saxony                            2,653
+

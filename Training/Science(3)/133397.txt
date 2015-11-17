@@ -1,0 +1,117 @@
+300 tons of copper in its exciting coils (Fig. 1). By May 1942 the
+magnet was completed. During that summer it was used in a pilot plant to
+separate the first significant amounts of U^{235} ever obtained. The
+184-inch magnet remained in use in a research and development program at
+Berkeley until the end of the war, supplying information to Oak Ridge,
+Tennessee, where a large separation plant had been erected.
+
+Construction on the rest of the cyclotron was resumed in 1945. By that
+time a new principle had been discovered which made it possible to
+obtain ion beams of much higher energy than originally hoped for. Yet a
+considerably lower accelerating voltage could be used. This important
+discovery was made independently by Dr. V. Veksler in Russia and by
+Dr. Edwin M. McMillan, present Director of the Lawrence Radiation
+Laboratory. Before attempting to discuss this principle, we should first
+review the operation of a conventional cyclotron.
+
+
+
+
+PRINCIPLE OF OPERATION OF A CONVENTIONAL CYCLOTRON
+
+
+[Illustration: Fig. 2. Basic parts of a cyclotron.]
+
+The main parts of a cyclotron are represented in Fig. 2. Charged
+particles (ions) are accelerated inside an evacuated tank. This is to
+prevent the beam from colliding with air molecules and being scattered.
+The vacuum tank is placed between the poles of an electromagnet, whose
+field bends the ion beam into a circular orbit.
+
+The operation begins when the ions are introduced into the region
+between two accelerating electrodes, or "dees."[2] Because the ions
+carry a positive electric charge, they are attracted toward that dee
+which is electrically negative at the moment. Were it not for the
+magnetic field, the ions would be accelerated in a straight line;
+instead they are deflected into a circular path back toward the dee gap.
+By the time the ions again reach the dee gap, the sign of the electric
+potential on the dees is reversed, so that now the ions are attracted
+toward the opposite dee.
+
+As this process of alternating the electric potential is repeated, the
+ions gain speed and energy with each revolution. This causes them to
+spiral outward. Finally they strike a target inserted into their path or
+are extracted from the cyclotron for use as an external beam.
+
+The time required for an ion to complete one loop remains constant as it
+spirals outward. This is because its velocity increases sufficiently to
+make up for the increased distance it travels during each turn. This
+means that the electric potential applied to the dees must alternate at
+a constant frequency, called the "resonant frequency."
+
+The resonant frequency f is given by the relationship
+
+            He
+    f = --------- ,                                      (1)
+         2[pi]mc
+
+where H, e, [pi], c, and m are constants. H is the strength of the
+magnetic field of the cyclotron, e is the electric charge carried by the
+ion, [pi] equals 3.14, c is a conversion factor, and m is the mass of
+the ion. For example, the resonant frequency for protons accelerated in
+a 15,000-gauss magnetic field is 23.7 megacycles (Mc).[3] We call such a
+rapidly alternating potential a "radiofrequency voltage" and the
+electronic circuit for producing it a "radiofrequency oscillator."
+
+The energy E of an ion emerging from the cyclotron is given by
+
+        H^2 R^2   e^2
+    E = -------  ---- ,                                  (2)
+           2     mc^2
+
+where H, e, and m are as defined above, and R is the radius at which the
+beam is extracted. From this equation we see that for a given type of
+ion (where e and m are constant), the energy depends on the diameter and
+strength of the magnet, but not directly upon the voltage applied to the
+dees.
+
+The number of revolutions that an ion can make in a conventional
+cyclotron is limited to about 70 to 100. This is due to a very curious
+effect: as an ion is accelerated, its mass increases! [This phenomenon
+is explained by Einstein's special theory of relativity (see Fig. 3).]
+Referring back to Eq. (1), we see that if the ion mass (m) does not
+remain constant, but rather increases, then the resonant frequency (f)
+decreases. But since the dee potential continues alternating at a
+constant frequency, an ion soon begins to arrive "late" at the dee gap.
+By the time it has made about 70 to 100 turns an ion is so badly out of
+phase that it is no longer accelerated.
+
+Suppose now that we want to obtain an energy of 10 Mev. Because an ion
+can make a maximum of about 100 turns, the accelerating potential would
+have to be about 100,000 volts. However, Professor Lawrence hoped to
+reach 100 Mev with the new 184-inch cyclotron. This meant that the
+accelerating voltage would have to be about 1,000,000 volts. Preventing
+such a high voltage from sparking promised to be one of many formidable
+engineering problems.
+
+[Illustration: Fig. 3. Graph showing how the mass of an object increases
+as its velocity approaches that of light.]
+
+FOOTNOTES:
+
+[1] The grants were as follows: Rockefeller Foundation--$1,150,000; John
+and Mary Markle Foundation--$25,000; The Research Corporation--$50,000.
+The University of California added a guarantee of $175,000 to bring the
+total building fund to $1,400,000.
+
+[2] In the first cyclotrons the electrodes were shaped like the letter
+"D."
+
+[3] We have the values H = 15,000 gauss, e = 4.8 x 10^{-10}
+electrostatic units, and m = 1.6 x 10^{-24} gram. To find f, we write
+
+        15,000 (4.8) 10^{-10}
+    f = ---------------------------------- ,
+        2 (3.14)(1.6) 10^{-24} (3) 10^{10}
+
+    f = 23.7 Mc.

@@ -1,0 +1,518 @@
+with lime and magnesia. All animal and vegetable organisms contain a
+large proportion of carbon as an essential constituent; albumen contains
+about 53 per cent., alcohol contains 52 per cent., starch 44 per cent.,
+cane sugar 42 per cent., and so on. The presence of carbon in the large
+class of bodies known to chemists as carbohydrates, of which starch and
+sugar are prominent examples, can be easily demonstrated. If a little
+strong sulphuric acid be added to some powdered cane sugar in a glass,
+the mass will soon begin to darken in color and swell up, and in the
+course of a few minutes a mass of black porous carbon will separate,
+which can be purified from the acid by repeated washings; the sugar is
+composed of carbon, hydrogen, and oxygen, the two last-named elements
+being present in the exact proportion necessary to form water; the
+sulphuric acid having a strong affinity for water, removes the hydrogen
+and oxygen, and the carbon is then left in a free state.
+
+Carbon forms two compounds with oxygen--carbon monoxide, commonly called
+carbonic oxide, and carbon dioxide, commonly called carbonic acid; and
+the last-named, being of most importance, will be studied first.
+
+_Carbon Dioxide, or Carbonic Acid, Symbol CO_2_.--Carbonic acid occurs,
+as we have already stated, in large quantities in combination with lime
+and magnesia, forming immense rock formations of limestone, chalk,
+marble, dolomite, etc.; it also issues in a gaseous state from
+volcanoes, and it is always present in small quantities in the
+atmosphere; it is found dissolved in well and river waters, and it is a
+product of the respiration of animals. Brewers also are well aware of
+the existence of this body, for it is evolved in enormous quantities
+during the alcoholic fermentation of saccharine fluids. When
+carbonaceous substances are burnt the bulk of the carbon is converted
+into carbonic acid, and thus our furnaces and fireplaces are continually
+emitting enormous quantities of carbonic acid into the atmosphere. With
+these different sources of supply it might reasonably be thought that
+carbonic acid would be gradually accumulating in our atmosphere; the
+breathing of animals, the eruption of volcanoes, the combustion of
+fuel, and the fermentation of sugar, are ever going on, and to a
+fast-increasing extent with the progress of civilization, and yet the
+proportion of carbonic acid in our atmosphere is no greater now than it
+was at the earliest time when exact chemical research determined its
+presence and quantity. A counteracting influence is always at work;
+nature has beautifully provided for this by causing plants to absorb
+carbonic acid, holding some of the carbon, and allowing the oxygen to
+escape again into the atmosphere to restore the equilibrium of purity.
+This mutual evolution and absorption of carbonic acid is continually
+going on; occasionally there may be either an excess or a deficiency in
+a particular place, but fortunately any irregularity in this respect is
+soon overcome, and the air retains its original composition, otherwise
+animal life on the face of the globe would be doomed to gradual but sure
+extinction.
+
+Carbonic acid can be prepared for experimental purposes by causing
+dilute hydrochloric acid to act upon fragments of marble placed in a
+bottle with two necks, into one neck of which a funnel passing through a
+cork is fixed, and into the other a bent tube for conveying the gas into
+any suitable receiver. The evolution of carbonic acid by this method is
+rapid, but easily regulated, and the gas may be purified by causing
+it to pass through some water contained in another two-necked bottle,
+similar to the generator. The chemical change involved in this
+decomposition is expressed by the following equation:
+
+  CaCO_3  +     2HCl    =   CO_2  + H_2O  +  CaCl_2
+ Calcium    Hydrochloric  Carbonic  Water.  Calcium
+Carbonate.      Acid.       Acid.           Chloride.
+
+By referring to the table of combining weights given in a previous
+paper, it will be seen that 100 parts of calcium carbonate will yield 44
+parts of carbonic acid. Instead of hydrochloric acid any other acid may
+be used, and in the practical manufacture of carbonic acid for aerated
+waters sulphuric acid is the one usually employed. Carbonic acid is
+colorless and inodorous, but has a peculiar sharp taste; it is half as
+heavy again as air, its exact specific gravity being 1529; one hundred
+cubic inches weigh 47.26 grains. It is uninflammable, and does not
+support combustion or animal respiration. Under a pressure of about 38
+atmospheres, at a temperature of 32 deg. F., carbonic acid condenses into
+a colorless liquid, which may also be frozen into a compact mass
+resembling ice, or into a white powder like snow. Carbonic acid is
+soluble in water, and at the ordinary pressure and temperature one
+volume of water will hold in solution one volume of the gas; under
+increased pressures, far larger quantities of the gas can be held in
+solution, but this is rapidly evolved as soon as the excess of pressure
+is removed. Upon this property the manufacture of aerated waters
+depends. The presence of free carbonic acid can be easily detected by
+causing the gas to pass over the surface of some clear lime-water. If
+any be present a white film of carbonate of lime will at once be formed.
+In testing carbonic acid in a state of combination, the gas must first
+be liberated by acting upon the substance with a stronger acid, and
+then applying the lime-water test. The presence of large quantities of
+carbonic acid in a gaseous mixture can be readily detected by plunging
+into the vessel a lighted taper, which will be immediately extinguished.
+This ought always to be adopted in a brewery, where many fatal accidents
+have happened through workmen going down into empty fermenting vats and
+wells without first taking this precaution.
+
+The presence of carbon in this colorless gas can be demonstrated by
+causing some of it to pass over a piece of the metal potassium placed
+in a hard glass tube, and heated to dull redness; the potassium then
+eagerly combines with the oxygen, forming oxide of potassium, and the
+carbon is liberated and can be separated in the form of a black powder
+by washing the tube out with water.
+
+_Carbon Monoxide, or Carbonic Oxide. Symbol CO._--This is formed when
+carbon is burnt with an insufficient supply of oxygen, or when carbonic
+acid gas is passed over some carbon heated to redness. This gas is
+continually being formed in our furnaces and fire-places; at the lower
+part of the furnace, where the air enters, the carbon is converted into
+carbonic acid, which in its turn has to pass through some red-hot coals,
+so that before reaching the surface it is again converted into carbonic
+oxide; over the surface of the fire this carbonic oxide meets with a
+fresh supply of oxygen, and is then again converted into carbonic acid.
+The peculiar blue lambent flame often observed on the surface of our
+open fire-places is due to the combustion of carbonic oxide, which has
+been formed in the way we have just described. Carbonic oxide is a
+colorless, tasteless gas, which differs from carbonic acid by being
+combustible, and by not having any action on lime water.--_Brewers'
+Guardian._
+
+       *       *       *       *       *
+
+
+
+
+SEYFFERTH'S PYROMETER.
+
+
+The thermometers and pyrometers usually employed are almost all based on
+the expansion of some fluid or other, or upon that of different metals.
+The first can only be constructed with glass tubes, thus rendering them
+fragile. The second are often wanting in exactness, because of the
+change that the molecules of a solid body undergo through heat, thus
+preventing them from returning to exactly their first position on
+cooling.
+
+[Illustration: Fig. 1.--Pyrometer with Electric Indicator.]
+
+The principle of the Seyfferth pyrometer is based on the fact that
+the pressure of saturated vapors, that is, vapors which remain in
+communication with the liquid which has produced them, preserves a
+constant ratio with the temperature of such liquid, while, on the other
+hand, the temperature of the latter when shut up in a vessel will
+correspond exactly with that of the medium into which it is introduced.
+
+[Illustration: Fig. 2.--Method of Mounting by means of a cone on vacuum
+apparatus.]
+
+[Illustration: Fig. 3.--Mounting by means of a sleeve on vacuum
+apparatus.]
+
+This instrument is composed of a metallic vessel or tube which contains
+the liquid to be exposed to heat, and of a spring manometric apparatus
+communicating with the tube, and by means of which the existing
+temperature is shown. The dial may be provided with index needles to
+show minimum and maximum temperatures, as well as be connected with
+electric bells (Fig. 1) giving one or more signals at maximum and
+minimum temperatures. The vessel to contain the liquid may be of any
+form whatever, but it is usually made in the shape of a straight or
+a bent tube. The nature of the metal of which the latter is made is
+subordinate, not only to the maximum temperature to which the apparatus
+are to be exposed, but also to the nature of the liquid employed. It is
+of either yellow metal or iron. To prevent oxidation of the tube, when
+iron is employed, it is inclosed within another iron tube and the space
+between the two is filled in with lead. When the apparatus is exposed to
+a high temperature the lead melts and prevents the air from reaching the
+inner tube, so that no oxidation can take place.
+
+_Pyrometers filled with Ether._-These are tubular, and constructed of
+yellow metal, and are graduated from 35 deg. C. to 120 deg. They are used for
+obtaining temperatures in vacuum apparatus, cooking apparatus, diffusion
+apparatus, saturators, etc. Figs. 2, 3, 4, and 5, show the different
+modes of mounting the apparatus according to the purpose for which it is
+designed.
+
+_Pyrometers filled with distilled water_ are used for ascertaining
+temperatures ranging from 100 deg. to 265 deg. C., 80 deg. to 210 deg. R., or 212 deg. to
+510 deg. F.
+
+_Pyrometers filled with mercury_ are constructed for ascertaining
+temperatures from 360 deg. to 750 deg. C.
+
+[Illustration: Fig. 4.--Mounting on horizontal pipes by thread on the
+tube.]
+
+[Illustration: Fig. 5.--Mounting by means of a clasp in reservoirs.]
+
+
+APPLICATION OF THE PYROMETER IN BONE BLACK FURNACES.
+
+The temperature necessary for the complete carbonization of the organic
+substances of animal charcoal is from 430 deg. to 500 deg. C. In order to
+transmit this temperature from the cylinder to the charcoal it is
+indispensable that the air surrounding the cylinder be heated to 480 deg.
+to 550 deg. If the heating of the animal black exceeds 500 deg. the product
+hardens, diminishes in volume, and loses its porosity. There are two
+methods of ascertaining the temperature of the red-hot bone black by
+means of the pyrometer: First, by inserting the tube of the instrument
+into the black. (Fig. 6, a.) Second, by finding the temperature of the
+hot gases in the furnaces (Fig. 6, b.). In the first case, the plunge
+tube should be of sufficient length to allow its extremity to penetrate
+to the very bottom layer of the red-hot black. This mode of direct
+control of the temperature of the black is only employed for
+ascertaining the work accomplished by the furnace, that is to say, the
+ratio existing between the temperature of the hot air surrounding the
+cylinder and the black itself. This calculation being effected, it is
+useless to note the differences of temperature which arise in the spaces
+between the cylinders of which the furnace is composed.
+
+The position that the pyrometer should occupy is subordinate to the
+construction of the furnace. Fig. 6 shows the type which is most
+employed.
+
+[Illustration: Fig. 6.--The Pyrometer mounted on a bone-black furnace.]
+
+In a furnace with lateral fire-place, cc are the heating cylinders,
+and dd the cooling cylinders. C D is the plate on which are mounted
+vertically the former, and from which are suspended the latter, b shows
+the pyrometer, the length of which must be such that the manometric
+apparatus shall stand out one or two inches from the external surface of
+the wall, while its tube, traversing the wall, shall reach the very last
+row of heating cylinders.
+
+That the apparatus may form a permanent regulator for the stoker it is
+well to adapt to it an arrangement permitting of a graphic control of
+the work accomplished and signaling by means of an electric bell when
+the temperature of the gases in the furnace descends below 480 deg. C. or
+rises above 550 deg. C.
+
+
+APPLICATION OF THE APPARATUS TO BRICK FURNACES AND IN THE MANUFACTURE OF
+CHEMICAL PRODUCTS.
+
+The operation of heating brick furnaces is generally performed according
+to empirical methods, the temperature having to vary much according to
+the products that it is desired to obtain. It is necessary, however, for
+a like product to maintain as uniform a temperature as possible. These
+observations are particularly applicable to continuous furnaces such as
+annular brick furnaces, etc., in which a uniformity of temperature in
+the different chambers is of vital importance to perfect the baking. In
+these furnaces the tube of the pyrometer is inserted through one of the
+apertures at the top, as shown in Fig. 7. The dial is graduated up to
+750 deg., which is more than sufficient, since the temperature of the upper
+part of a compartment fully exposed to the heat rarely exceeds 670 deg. to
+680 deg. C.
+
+[Illustration: Fig. 7.--The Pyrometer mounted on a brick furnace.]
+
+       *       *       *       *       *
+
+
+
+
+MANUFACTURERS' SOAPS AND THEIR PRODUCTION.
+
+By W. J. MENZIES.
+
+
+Potash soaps are generally superior to soda soaps for most purposes, but
+more especially in washing wool and woolen goods. The difference between
+the use of a potash and a soda soap for these purposes is very marked.
+Potash lubricates the fiber of the wool, renders it soft and silky, and
+to a certain extent bleaches it; soda, on the other hand, has a tendency
+to turn wool a yellow color, and renders the fiber hard and brittle.
+It cannot be too strongly insisted upon, therefore, that nothing but a
+potash soap (or some form of potash in preference to soda if an alkali
+alone is employed) should be used in washing wool in any form--either
+manufactured or unmanufactured. This is fully borne out by nature,
+who invariably assimilates the most appropriate substances. Wool when
+growing in its natural state is lubricated and protected by a sticky
+substance called "grease" or "suinte;" this consists to the extent of
+nearly half its weight of carbonate of potash, hardly a trace of soda
+being present. It is very evident, therefore, that potash must be more
+suitable for washing wool than soda, as the teaching of nature is always
+correct.
+
+There are certain prejudices against the use of potash soap, which have,
+to a great extent, prevented its more extensive use. Many consumers
+of soap fancy that because a potash soap is soft it necessarily must
+contain more water than a soda soap; this, however, is quite an
+erroneous notion. A potash soap is soft, because it is the nature of all
+potash soaps to be so, just in the same way that on the other hand all
+soda soaps are hard. As an actual fact a good potash soap contains
+less water than many quite hard soda soaps that are now in the market.
+Another reason is that soapmakers have had every interest in using soda
+in preference to potash--particularly when latterly soda has been so
+cheap.
+
+Potash not only is a more expensive alkali, but its combining equivalent
+is greatly against it as compared with soda; that is to say, that
+thirty-one parts of actual or anhydrous soda will saponify as much
+tallow or oil as forty-seven parts of anhydrous potash. It will be
+evident, therefore, that the use of potash instead of soda is decidedly
+more advantageous to the soapboiler, and more particularly in the
+present age, when the demand is for cheap articles, often quite without
+regard to the quality or purpose for which they are to be used. As far
+as consumers are concerned, this has been a mistake. Potash soap, though
+it may cost more, is in most cases actually the most economical. Soap is
+never used in exact chemical equivalents, but an excess is always
+taken. Potash soap is much more soluble than a soda soap; it therefore
+penetrates the fiber, and consequently removes dirt and grease much more
+quickly. Notwithstanding, also, that its chemical combining equivalent
+is greater than that of soda, it is, nevertheless, the strongest base,
+and always combines with any substance in preference to soda. For these
+reasons--probably combined also with the fact that in the whole realm of
+the animal and vegetable kingdoms, to which all textile fabrics belong,
+potash is more naturally assimilated than soda--a smaller quantity of
+potash soap will do more practical work than a larger quantity of soda
+soap.
+
+There are other reasons why potash soaps have not been used; originally
+soft soap was made either with fish oil or olive oil. Fish oil is
+objectionable, as the strong smell imparted to the soap renders it unfit
+for many finishing purposes. Nothing can be better than olive oil soap,
+but it is a costly article, and only can be used for finer purposes.
+There are now, however, many of the seed oils that are much cheaper.
+Linseed, rape seed, and cotton seed all produce a good soap. Cotton seed
+oil is particularly suitable for the purpose; the manufacture of this
+oil during the last few years has been brought to great perfection, and
+the cost is now much less than that of tallow or of any other seed oil.
+It is now difficult to distinguish a well refined cotton seed oil from
+olive oil; it is therefore in every way suitable for making soft soap.
+One of the chief causes, however, why potash soap has not been
+more generally made is that a convenient form of potash has been
+unobtainable. For many years the only source of potash was from the
+ashes of burnt trees. These ashes are collected, mixed with lime,
+lixiviated, and the resulting lye boiled down. The result is a very
+impure form of potash, also of a very variable composition, depending
+upon the trees used for the purpose. Canada has been the principal
+source of supply of this form of potash; hence the commercial name
+of Montreal potashes. The classification of "firsts," "seconds," and
+"thirds" is from the inspection at the warehouse there; this, however,
+is exceedingly superficial, the ashes being simply tested for their
+_alkaline_ strength, with no discrimination between potash and soda,
+which is a difficult and delicate chemical test. Soda being now far
+cheaper than potash, and also the alkaline equivalent, as previously
+explained, being greatly in favor of soda, there has been every
+inducement to "enterprising" producers of ashes to adulterate them with
+soda, which, in many cases, has been largely done. Another source of
+potash has been beetroot ashes, very similar to wood ashes, and also
+German carbonate of potash, which latter about corresponds to a common
+soda ash, as compared with caustic soda; with these articles, a tedious
+boiling process, very similar to the old process for the production
+of hard soap, had to be adopted, the ashes, or carbonate of potash,
+previously being dissolved and causticized with lime by the soap maker.
+The production of a first-class soft soap was also a very difficult
+operation, as the impurities and soda contained varied considerably,
+often causing the "boil" to go wrong and give considerable trouble to
+the soapboiler.
+
+During the last two years, however, caustic potash has been introduced,
+that manufactured by the Greenbank Alkali Co., of St. Helens, being very
+nearly pure. With this article there is no difficulty in producing a
+pure potash soap, either for wool scouring, fulling, or sizing, by a
+cold process very similar to that described for the production of hard
+soda soap with pure powdered caustic soda.
+
+The following directions will produce an excellent soap for wool
+scouring: Fifty pounds of Greenbank pure caustic potash are put into
+eight gallons of soft water; the potash dissolves immediately, heating
+the water. This lye is allowed to cool, and then slowly added, with
+continual mixing, to 20 gallons of cotton seed oil, mixed with 20 pounds
+of melted tallow, the whole being brought to a temperature of about 90 deg.
+F. After stirring for some minutes, so as to completely combine the lye
+and oil, the mixture is left for two days in a warm place, when a slow
+and gradual saponification of the mass takes place. If when examined the
+oil and lye are then found not completely combined, the stiff soap is
+again stirred and left two days, when the saponification will be found
+complete, the result being the formation of about 330 pounds of very
+stiff potash soap, each pound being equal to about two pounds of the
+ordinary "fig" soap sold. The requisite quantity is thrown into the
+scouring vat with about five per cent of its weight of refined pearl ash
+to increase the alkali present, the weight depending somewhat upon the
+kind of wool washed on purpose for which the soap is required. If the
+wool is very dirty or greasy, rather a stronger soap is sometimes
+advisable. This can easily be attained by reducing the quantity of oil
+used to 18 gallons.
+
+The advantages to be gained by the wool scourer or other consumer making
+his own potash soap are that a pure, uniform article can always be thus
+produced at a less cost than that at which the soap can be bought.
+Potash soap, like soda soap now sold, is much adulterated, in addition
+to all the impurities originally contained in the potash used, and
+which, unlike soda soap, cannot be separated by any salting process.
+Many other adulterations are added to increase the weight and cheapen
+the cost. Silicate of potash, resin, and potato flour are all more or
+less employed for this purpose, to the gain of the soap maker and at the
+expense of the consumer.
+
+The production of potash soap for fulling and sizing, and the most
+suitable oils and tallow for the production of the various qualities
+required for these purposes, must be reserved for the next
+issue.--_Textile Manufacturer._
+
+       *       *       *       *       *
+
+
+
+
+THE PREPARATION OF PERFUME POMADES.
+
+
+We have, on a previous occasion, described the process of "maceration"
+or "enfleurage," that is, the impregnation of purified fat with the
+aroma of certain scented flowers which do not yield any essential oil in
+paying quantities. At present we wish to describe an apparatus which
+is used in several large establishments in Europe for obtaining such
+products on the large scale and within as short a time as possible. The
+drawing gives the idea of the general arrangement of the parts rather
+than the actual appearance of a working apparatus, for the latter will
+have to vary according to the conveniences and interior arrangements of
+the factory.[1]
+
+[Footnote 1: Our illustration has been taken from C. Hofmann,
+"Chemisch-technisches Universal-Receptbuch," 8vo, Berlin, 1879, p. 207.]
+
+A series of frames with wire-sieve bottoms are charged with a layer of
+fat in form of fine curly threads, obtained by pressing or rubbing the
+fat through a finely-perforated sieve. The frames are then placed one
+on top of the other, and to make the connection between them air-tight,
+pressed together in a screw press. A reservoir, E, is charged with a
+suitable quantity of the flowers, etc., and tightly closed with the
+cover, after which the bellows are set into motion by any power most
+convenient. Scented air is thereby drawn from the reservoir, E, through
+the pipe, G B, toward the stack of frames containing the finely divided
+fat, which latter absorbs the aroma, while the nearly deodorized air is
+sent back to the reservoir by the pipe, D, to be freshly charged and
+again sent on its circuit. This apparatus is said to facilitate the
+turning out of nearly twenty times the amount of pomade for the same
+number of frames and the same time, as the old process of "enfleurage."
+It might be called the "ensoufflage" process.--_New Remedies._
+
+[Illustration: "ENSOUFFLAGE" APPARATUS FOR PERFUMES.]
+
+       *       *       *       *       *
+
+
+
+
+ORGANIC MATTER IN SEA-WATER.
+
+
+At a recent meeting of the London Chemical Society, Mr. W. Jago read
+a paper "On the Organic Matter in Sea-water." On p. 133 of the "Sixth
+Report of the Rivers Commission," it is stated that the proportion
+of organic elements in sea-water varies between such wide limits in
+different samples as to suggest that much of the organic matter consists
+of living organisms, so minute and gelatinous as to pass readily through
+the best filters. At the suggestion of Dr. Frankland, the author has
+investigated this subject. The water was collected in mid-channel
+between Newhaven and Dieppe by the engineers of the London, Brighton,
+and South Coast Railway in stoppered glass carboys. The author has used
+the combustion method, the albuminoid ammonia, and in some cases the
+oxygen process of Prof. Tidy. To determine how the various methods of
+water-analysis were effected by a change of the organic matter from
+organic compounds in solution to organisms in suspension, some
+experiments were made with hay-infusion. The results confirm those of
+Kingzett (_Chem. Soc. Journ_., 1880, 15). the oxygen required first
+rising and then diminishing. The author concludes that the organic
+matter of sea-water is much more capable of resisting oxidizing agents
+than that present in ordinary fresh waters, and that the organic matter
+in sea-water is probably organized and alive.
+
+       *       *       *       *       *
+
+
+
+
+BACTERIA LIFE.
+
+
+W. M. Hamlet, in a paper before the London Chemical Society, said:
+Flasks similar to those of Pasteur ("Etudes sur la Biere," p. 81),
+holding about 1/4 liter, were used. The liquids employed were Pasteur's
+fluid with sugar, beef-tea, hay infusion, urine, brewers' wort, and
+extract of meat. Each flask was about half filled, and boiled for ten
+minutes, whereby all previously existing life was destroyed. The flask
+was then allowed to cool, the entering air being filtered through a plug
+of glass wool or asbestos. The flask was then inoculated with a small
+quantity of previously cultivated hay solution or Pasteur's fluid.
+Hydrogen, oxygen, carbonic oxide, marsh-gas, nitrogen, and sulphureted
+hydrogen, were without effect on the bacteria. Chlorine and hydric
+peroxide (about 7 per cent, of a 5 vol. solution) were fatal to
+bacteria. The action of various salts and organic acids in 5 per cent,
+solution was tried. Many, including potash, soda, potassic bisulphite,
+sodic hyposulphite, potassic chlorate, potassic permanganate, oxalic
+acid, acetic acid, glycerin, laudanum, and alcohol, were without effect
+on the bacterial life. Others--the alums, ferrous sulphate, ferric
+chloride, magnesic and aluminic chlorides, bleaching powder, camphor,
+salicylic acid, chloroform, creosote, and carbolic acid--decidedly
+arrested the development of bacteria. The author has made a more
+extended examination of the action of chloroform, especially as regards
+the statement of Muentz, that bacteria cannot exist in the presence of
+21/2 per cent, of chloroform, which substance is therefore useful in
+distinguishing physiological from chemical ferments. The author
+concludes that amounts of chloroform, phenol, and creosote, varying from
+1/4 to 3 per cent., do not destroy bacteria, although their functional
+activity is decidedly arrested while in contact with these reagents. To
+use the author's words, bacteria may be pickled in creosote and carbolic
+acid without being deprived of their vitality. The author concludes that
+the substances which destroy bacteria are those which are capable of
+exerting an immediate and powerful oxidizing action, and that it is
+active oxygen, whether from the action of chlorine, ozone, or peroxide
+of hydrogen, which must be regarded as the greatest known enemy to
+bacteria.
+
+Mr. Hamlet, in replying to some remarks of Messrs. Kingzett and
+Williams, said that in all cases the solution which he had used had
+been completely sterilized by exposure to a temperature of 105 deg. for ten
+minutes. The India-rubber tubing he had used was steamed. Carbolic acid
+solution must contain at least 5 per cent, of carbolic acid to be fatal
+to bacteria. He was quite aware of the importance of distinguishing
+between the action of the substances on various kinds of bacteria, and
+was quite prepared to admit that a treatment which would be fatal to one
+kind of bacterium might not injure another.
+
+       *       *       *       *       *
+
+
+
+
+ON THE COMPOSITION OF ELEPHANTS' MILK.
+

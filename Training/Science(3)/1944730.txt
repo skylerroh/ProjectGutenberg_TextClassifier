@@ -1,0 +1,716 @@
+they have stated some of these questions in their writings, to
+prove that this science contains difficulties, to silence those
+who pretend they find nothing in it above their ability, to warn
+mathematicians against undertaking to answer every question that
+may be proposed, and to excite men of genius to attempt their
+solution. Of these I have selected seven.
+
+1. To divide 10 into two parts, such, that when each part is
+added to its square-root and the sums multiplied together, the
+product is equal to the supposed number.
+
+2. What square is that, which being increased or diminished by
+10, the sum and remainder are both square numbers?
+
+3. A person said he owed to Zaid 10 all but the square-root of
+what he owed to Amir, and that he owed Amir 5 all but the
+square-root of what he owed Zaid.
+
+4. To divide a cube number into two cube numbers.
+
+5. To divide 10 into two parts such, that if each is divided by
+the other, and the two quotients are added together, the sum is
+equal to one of the parts.
+
+6. There are three square numbers in continued geometric
+proportion, such, that the sum of the three is a square number.
+
+7. There is a square, such, that when it is increased and
+diminished by its root and 2, the sum and the difference are
+squares.--KHULASAT-AL-HISAB.
+
+                         _Algebra; quoted in Hutton: A
+                         Philosophical and Mathematical
+                         Dictionary (London, 1815), Vol. 1, p.
+                         70._
+
+
+=1739.= The solution of such questions as these [referring to the
+solution of cubic equations] depends on correct judgment, aided
+by the assistance of God.--BIJA GANITA.
+
+                         _Quoted in Hutton: A Philosophical and
+                         Mathematical Dictionary (London, 1815),
+                         Vol. 1, p. 65._
+
+
+=1740.= For what is the theory of determinants? It is an algebra
+upon algebra; a calculus which enables us to combine and foretell
+the results of algebraical operations, in the same way as algebra
+itself enables us to dispense with the performance of the special
+operations of arithmetic. All analysis must ultimately clothe
+itself under this form.--SYLVESTER, J. J.
+
+                         _Philosophical Magazine, Vol. 1, (1851),
+                         p. 300; Collected Mathematical Papers,
+                         Vol. 1, p. 247._
+
+
+=1741.=
+
+    Fuchs. Fast moecht' ich nun _moderne Algebra_ studieren.
+
+    Meph.  Ich wuenschte nicht euch irre zu fuehren.
+           Was diese Wissenschaft betrifft,
+           Es ist so schwer, die leere Form zu meiden,
+           Und wenn ihr es nicht recht begrifft,
+           Vermoegt die Indices ihr kaum zu unterscheiden.
+           Am Besten ist's, wenn ihr nur _Einem_ traut
+           Und auf des Meister's Formeln baut.
+           Im Ganzen--haltet euch an die _Symbole_.
+           Dann geht ihr zu der Forschung Wohle
+           Ins sichre Reich der Formeln ein.
+
+    Fuchs. Ein Resultat muss beim Symbole sein?
+
+    Meph.  Schon gut! Nur muss man sich nicht alzu aengstlich
+             quaelen.
+           Denn eben, wo die Resultate fehlen,
+           Stellt ein Symbol zur rechten Zeit sich ein.
+           Symbolisch laesst sich alles schreiben,
+           Muesst nur im Allgemeinen bleiben.
+           Wenn man der Gleichung Loesung nicht erkannte,
+           Schreibt man sie als Determinante.
+           Schreib' was du willst, nur rechne _nie_ was aus.
+           Symbole lassen trefflich sich traktieren,
+           Mit einem Strich ist alles auszufuehren,
+           Und mit Symbolen kommt man immer aus.
+                                                --LASSWITZ, KURD.
+
+                         _Der Faust-Tragoedie (-n)ter Teil;
+                         Zeitschrift fuer mathematischen und
+                         naturwissenschaftlichen Unterricht, Bd.
+                         14, p. 317._
+
+    Fuchs. To study _modern algebra_ I'm most persuaded.
+
+    Meph.  'Twas not my wish to lead thee astray.
+           But as concerns this science, truly
+           'Tis difficult to avoid the empty form,
+           And should'st thou lack clear comprehension,
+           Scarcely the indices thou'll know apart.
+           'Tis safest far to trust but _one_
+           And built upon your master's formulas.
+           On the whole--cling closely to your _symbols_.
+           Then, for the weal of research you may gain
+           An entrance to the formula's sure domain.
+
+    Fuchs. The symbol, it must lead to some result?
+
+    Meph.  Granted. But never worry about results,
+           For, mind you, just where the results are wanting
+           A symbol at the nick of time appears.
+           To symbolic treatment all things yield,
+           Provided we stay in the general field.
+           Should a solution prove elusive,
+           Write the equation in determinant form.
+           Write what you please, but _never_ calculate.
+           Symbols are patient and long suffering,
+           A single stroke completes the whole affair.
+           Symbols for every purpose do suffice.
+
+
+=1742.= As all roads are said to lead to Rome, so I find, in my
+own case at least, that all algebraic inquiries sooner or later
+end at the Capitol of Modern Algebra over whose shining portal
+is inscribed "Theory of Invariants."--SYLVESTER, J. J.
+
+                         _On Newton's Rule for the Discovery of
+                         Imaginary Roots; Collected Mathematical
+                         Papers, Vol. 2, p. 380._
+
+
+=1743.= If we consider the beauty of the theorem [Sylvester's
+Theorem on Newton's Rule for the Discovery of Imaginary Roots]
+which has now been expounded, the interest which belongs to the
+rule associated with the great name of Newton, and the long lapse
+of years during which the reason and extent of that rule remained
+undiscovered by mathematicians, among whom Maclaurin, Waring and
+Euler are explicitly included, we must regard Professor
+Sylvester's investigations made to the Theory of Equations in
+modern times, justly to be ranked with those of Fourier, Sturm
+and Cauchy.--TODHUNTER, I.
+
+                         _Theory of Equations (London, 1904), p.
+                         250._
+
+
+=1744.= Considering the remarkable elegance, generality, and
+simplicity of the method [Homer's Method of finding the numerical
+values of the roots of an equation], it is not a little
+surprising that it has not taken a more prominent place in
+current mathematical textbooks.... As a matter of fact, its
+spirit is purely arithmetical; and its beauty, which can only be
+appreciated after one has used it in particular cases, is of that
+indescribably simple kind, which distinguishes the use of
+position in the decimal notation and the arrangement of the
+simple rules of arithmetic. It is, in short, one of those things
+whose invention was the creation of a commonplace.
+
+                                              --CHRYSTAL, GEORGE.
+
+                         _Algebra (London and Edinburgh, 1893),
+                         Vol. 1, chap. 15, sect. 25._
+
+
+=1745.= _To a missing member of a family group of terms in an
+algebraical formula._
+
+          Lone and discarded one! divorced by fate,
+        Far from thy wished-for fellows--whither art
+            flown?
+        Where lingerest thou in thy bereaved estate,
+        Like some lost star, or buried meteor stone?
+        Thou mindst me much of that presumptuous one
+        Who loth, aught less than greatest, to be
+            great,
+        From Heaven's immensity fell headlong down
+        To live forlorn, self-centred, desolate:
+        Or who, like Heraclid, hard exile bore,
+        Now buoyed by hope, now stretched on rack of
+            fear,
+        Till throned Astaea, wafting to his ear
+        Words of dim portent through the Atlantic roar,
+        Bade him "the sanctuary of the Muse revere
+        And strew with flame the dust of Isis'
+            shore."
+                                          --SYLVESTER, J. J.
+
+                         _Inaugural Lecture, Oxford, 1885;
+                         Nature, Vol. 33, p. 228._
+
+
+=1746.= In every subject of inquiry there are certain entities,
+the mutual relations of which, under various conditions, it is
+desirable to ascertain. A certain combination of these entities
+are submitted to certain processes or are made the subjects of
+certain operations. The theory of invariants in its widest
+scientific meaning determines these combinations, elucidates
+their properties, and expresses results when possible in terms of
+them. Many of the general principles of political science and
+economics can be represented by means of invariantive relations
+connecting the factors which enter as entities into the special
+problems. The great principle of chemical science which asserts
+that when elementary or compound bodies combine with one another
+the total weight of the materials is unchanged, is another case
+in point. Again, in physics, a given mass of gas under the
+operation of varying pressure and temperature has the well-known
+invariant, pressure multiplied by volume and divided by absolute
+temperature.... In mathematics the entities under examination may
+be arithmetical, algebraical, or geometrical; the processes to
+which they are subjected may be any of those which are met with
+in mathematical work.... It is the _principle_ which is so
+valuable. It is the _idea_ of invariance that pervades today all
+branches of mathematics.--MACMAHON, P. A.
+
+                         _Presidential Address British
+                         Association for the Advancement of
+                         Science (1901); Nature, Vol. 64, p.
+                         481._
+
+
+=1747.= [The theory of invariants] has invaded the domain of
+geometry, and has almost re-created the analytical theory; but it
+has done more than this for the investigations of Cayley have
+required a full reconsideration of the very foundations of
+geometry. It has exercised a profound influence upon the theory
+of algebraic equations; it has made its way into the theory of
+differential equations; and the generalisation of its ideas is
+opening out new regions of most advanced and profound functional
+analysis. And so far from its course being completed, its
+questions fully answered, or its interest extinct, there is no
+reason to suppose that a term can be assigned to its growth and
+its influence.--FORSYTH, A. R.
+
+                         _Presidential Address British
+                         Association for the Advancement of
+                         Science (1897); Nature, Vol. 56, p.
+                         378._
+
+
+=1748.= ... the doctrine of Invariants, a theory filling the heavens
+like a light-bearing ether, penetrating all the branches of
+geometry and analysis, revealing everywhere abiding configurations
+in the midst of change, everywhere disclosing the eternal reign of
+the law of form.--KEYSER, C. J.
+
+                         _Lectures on Science, Philosophy and Art
+                         (New York, 1908), p. 28._
+
+
+=1749.= It is in the mathematical doctrine of Invariance, the
+realm wherein are sought and found configurations and types of
+being that, amidst the swirl and stress of countless hosts of
+transformations remain immutable, and the spirit dwells in
+contemplation of the serene and eternal reign of the subtile laws
+of Form, it is there that Theology may find, if she will, the
+clearest conceptions, the noblest symbols, the most inspiring
+intimations, the most illuminating illustrations, and the surest
+guarantees of the object of her teaching and her quest, an
+Eternal Being, unchanging in the midst of the universal flux.
+
+                                                  --KEYSER, C. J.
+
+                         _Lectures on Science, Philosophy and Art
+                         (New York, 1908), p. 42._
+
+
+=1750.= I think that young chemists desirous of raising their
+science to its proper rank would act wisely in making themselves
+master betimes of the theory of algebraic forms. What mechanics
+is to physics, that I think is algebraic morphology, founded at
+option on the theory of partitions or ideal elements, or both, is
+destined to be to the chemistry of the future ... invariants and
+isomerism are sister theories.--SYLVESTER, J. J.
+
+                         _American Journal of Mathematics, Vol. 1
+                         (1878), p. 126._
+
+
+=1751.= The great notion of Group, ... though it had barely merged
+into consciousness a hundred years ago, has meanwhile become a
+concept of fundamental importance and prodigious fertility, not
+only affording the basis of an imposing doctrine--the Theory of
+Groups--but therewith serving also as a bond of union, a kind of
+connective tissue, or rather as an immense cerebro-spinal system,
+uniting together a large number of widely dissimilar doctrines as
+organs of a single body.--KEYSER, C. J.
+
+                         _Lectures on Science, Philosophy and Art
+                         (New York, 1908), p. 12._
+
+
+=1752.= In recent times the view becomes more and more prevalent
+that many branches of mathematics are nothing but the theory of
+invariants of special groups.--LIE, SOPHUS.
+
+                         _Continuierliche Gruppen--Scheffers
+                         (Leipzig, 1893), p. 665._
+
+
+=1753.= Universal Algebra has been looked on with some suspicion
+by many mathematicians, as being without intrinsic mathematical
+interest and as being comparatively useless as an engine of
+investigation.... But it may be shown that Universal Algebra has
+the same claim to be a serious subject of mathematical study as
+any other branch of mathematics.--WHITEHEAD, A. N.
+
+                         _Universal Algebra (Cambridge, 1898),
+                         Preface, p. vi._
+
+
+=1754.= [Function] theory was, in effect, founded by Cauchy; but,
+outside his own investigations, it at first made slow and
+hesitating progress. At the present day, its fundamental ideas
+may be said almost to govern most departments of the analysis of
+continuous quantity. On many of them, it has shed a completely
+new light; it has educed relations between them before unknown.
+It may be doubted whether any subject is at the present day so
+richly endowed with variety of method and fertility of resource;
+its activity is prodigious, and no less remarkable than its
+activity is its freshness.--FORSYTH, A. R.
+
+                         _Presidential Address British
+                         Association for the Advancement of
+                         Science (1897); Nature, Vol. 56, p.
+                         378._
+
+
+=1755.= Let me mention one other contribution which this theory
+[Theory of functions of a complex variable] has made to knowledge
+lying somewhat outside our track. During the rigorous revision to
+which the foundations of the theory have been subjected in its
+re-establishment by Weierstrass, new ideas as regards number and
+continuity have been introduced. With him and with others
+influenced by him, there has thence sprung a new theory of higher
+arithmetic; and with its growth, much has concurrently been
+effected in the elucidation of the general notions of number and
+quantity.... It thus appears to be the fact that, as with Plato,
+or Descartes, or Leibnitz, or Kant, the activity of pure
+mathematics is again lending some assistance to the better
+comprehension of those notions of time, space, number, quantity,
+which underlie a philosophical conception of the universe.
+
+                                                 --FORSYTH, A. R.
+
+                         _Presidential Address British
+                         Association for the Advancement of
+                         Science (1897); Nature, Vol. 56, p.
+                         378._
+
+
+
+
+  CHAPTER XVIII
+
+  GEOMETRY
+
+
+=1801.= The science of figures is most glorious and beautiful.
+But how inaptly it has received the name geometry!--FRISCHLINUS, N.
+
+                         _Dialog 1._
+
+
+=1802.= Plato said that God geometrizes continually.--PLUTARCH.
+
+                         _Convivialium disputationum, liber 8,
+                         2._
+
+
+=1803.= [Greek: medeis ageometretos eisito mou ten stegen]. [Let
+no one ignorant of geometry enter my door.]--PLATO.
+
+                         _Tzetzes, Chiliad, 8, 972._
+
+
+=1804.= All the authorities agree that he [Plato] made a study of
+geometry or some exact science an indispensable preliminary to
+that of philosophy. The inscription over the entrance to his
+school ran "Let none ignorant of geometry enter my door," and on
+one occasion an applicant who knew no geometry is said to have
+been refused admission as a student.--BALL, W. W. R.
+
+                         _History of Mathematics (London, 1901),
+                         p. 45._
+
+
+=1805.= Form and size constitute the foundation of all search for
+truth.--PARKER, F. W.
+
+                         _Talks on Pedagogics (New York, 1894),
+                         p. 72._
+
+
+=1806.= At present the science [of geometry] is in flat
+contradiction to the language which geometricians use, as will
+hardly be denied by those who have any acquaintance with the
+study: for they speak of finding the side of a square, and
+applying and adding, and so on, as if they were engaged in some
+business, and as if all their propositions had a practical end in
+view: whereas in reality the science is pursued wholly for the
+sake of knowledge.
+
+Certainly, he said.
+
+Then must not a further admission be made?
+
+What admission?
+
+The admission that this knowledge at which geometry aims is of
+the eternal, and not of the perishing and transient.
+
+That may be easily allowed. Geometry, no doubt, is the knowledge
+of what eternally exists.
+
+Then, my noble friend, geometry will draw the soul towards truth,
+and create the mind of philosophy, and raise up that which is now
+unhappily allowed to fall down.--PLATO.
+
+                         _Republic [Jowett-Davies], Bk. 7, p.
+                         527._
+
+
+=1807.= Among them [the Greeks] geometry was held in highest
+honor: nothing was more glorious than mathematics. But we have
+limited the usefulness of this art to measuring and calculating.
+
+                                                        --CICERO.
+
+                         _Tusculanae Disputationes, 1, 2, 5._
+
+
+=1808.=
+
+                              Geometria,
+        Through which a man hath the sleight
+        Of length, and brede, of depth, of height.
+                                              --GOWER, JOHN.
+
+                         _Confessio Amantis, Bk. 7._
+
+
+=1809.= Geometrical truths are in a way asymptotes to physical truths,
+that is to say, the latter approach the former indefinitely near
+without ever reaching them exactly.--D'ALEMBERT.
+
+                         _Quoted in Rebiere: Mathematiques et
+                         Mathematiciens (Paris, 1898), p. 10._
+
+
+=1810.= Geometry exhibits the most perfect example of logical
+stratagem.--BUCKLE, H. T.
+
+                         _History of Civilization in England (New
+                         York, 1891), Vol. 2, p. 342._
+
+
+=1811.= It is the glory of geometry that from so few principles,
+fetched from without, it is able to accomplish so much.--NEWTON.
+
+                         _Philosophiae Naturalis Principia
+                         Mathematica, Praefat._
+
+
+=1812.= Geometry is the application of strict logic to those
+properties of space and figure which are self-evident, and which
+therefore cannot be disputed. But the rigor of this science is
+carried one step further; for no property, however evident it may
+be, is allowed to pass without demonstration, if that can be
+given. The question is therefore to demonstrate all geometrical
+truths with the smallest possible number of assumptions.
+
+                                                  --DE MORGAN, A.
+
+                         _On the Study and Difficulties of
+                         Mathematics (Chicago, 1902), p. 231._
+
+
+=1813.= Geometry is a true natural science:--only more simple,
+and therefore more perfect than any other. We must not suppose
+that, because it admits the application of mathematical analysis,
+it is therefore a purely logical science, independent of
+observation. Every body studied by geometers presents some
+primitive phenomena which, not being discoverable by reasoning,
+must be due to observation alone.--COMTE, A.
+
+                         _Positive Philosophy [Martineau], Bk. 1,
+                         chap. 3._
+
+
+=1814.= Geometry in every proposition speaks a language which
+experience never dares to utter; and indeed of which she but half
+comprehends the meaning. Experience sees that the assertions are
+true, but she sees not how profound and absolute is their truth.
+She unhesitatingly assents to the laws which geometry delivers,
+but she does not pretend to see the origin of their obligation.
+She is always ready to acknowledge the sway of pure scientific
+principles as a matter of fact, but she does not dream of
+offering her opinion on their authority as a matter of right;
+still less can she justly claim to herself the source of that
+authority.--WHEWELL, WILLIAM.
+
+                         _The Philosophy of the Inductive
+                         Sciences, Part 1, Bk. 1, chap. 6, sect.
+                         1 (London, 1858)._
+
+
+=1815.= Geometry is the science created to give understanding
+and mastery of the external relations of things; to make easy
+the explanation and description of such relations and the
+transmission of this mastery.--HALSTED, G. B.
+
+                         _Proceedings of the American Association
+                         for the Advancement of Science (1904),
+                         p. 359._
+
+
+=1816.= A mathematical point is the most indivisible and unique
+thing which art can present.--DONNE, JOHN.
+
+                         _Letters, 21._
+
+
+=1817.= It is certain that from its completeness, uniformity and
+faultlessness, from its arrangement and progressive character,
+and from the universal adoption of the completest and best line
+of argument, Euclid's "Elements" stand pre-eminently at the head
+of all human productions. In no science, in no department of
+knowledge, has anything appeared like this work: for upward of
+2000 years it has commanded the admiration of mankind, and that
+period has suggested little toward its improvement.--KELLAND, P.
+
+                         _Lectures on the Principles of
+                         Demonstrative Mathematics (London,
+                         1843), p. 17._
+
+
+=1818.= In comparing the performance in Euclid with that in
+Arithmetic and Algebra there could be no doubt that Euclid had
+made the deepest and most beneficial impression: in fact it might
+be asserted that this constituted by far the most valuable part
+of the whole training to which such persons [students, the
+majority of which were not distinguished for mathematical taste
+and power] were subjected.--TODHUNTER, I.
+
+                         _Essay on Elementary Geometry; Conflict
+                         of Studies and other Essays (London,
+                         1873), p. 167._
+
+
+=1819.= In England the geometry studied is that of Euclid, and I
+hope it never will be any other; for this reason, that so much
+has been written on Euclid, and all the difficulties of geometry
+have so uniformly been considered with reference to the form in
+which they appear in Euclid, that the study of that author is a
+better key to a great quantity of useful reading than any other.
+
+                                                  --DE MORGAN, A.
+
+                         _Elements of Algebra (London, 1837),
+                         Introduction._
+
+
+=1820.= This book [Euclid] has been for nearly twenty-two
+centuries the encouragement and guide of that scientific thought
+which is one thing with the progress of man from a worse to a
+better state. The encouragement; for it contained a body of
+knowledge that was really known and could be relied on, and that
+moreover was growing in extent and application. For even at the
+time this book was written--shortly after the foundation of the
+Alexandrian Museum--Mathematics was no longer the merely ideal
+science of the Platonic school, but had started on her career of
+conquest over the whole world of Phenomena. The guide; for the
+aim of every scientific student of every subject was to bring his
+knowledge of that subject into a form as perfect as that which
+geometry had attained. Far up on the great mountain of Truth,
+which all the sciences hope to scale, the foremost of that sacred
+sisterhood was seen, beckoning for the rest to follow her. And
+hence she was called, in the dialect of the Phythagoreans, "the
+purifier of the reasonable soul."--CLIFFORD, W. K.
+
+                         _Lectures and Essays (London, 1901),
+                         Vol. 1, p. 354._
+
+
+=1821.= [Euclid] at once the inspiration and aspiration of
+scientific thought.--CLIFFORD, W. K.
+
+                         _Lectures and Essays (London, 1901), Vol
+                         1, p. 355._
+
+
+=1822.= The "elements" of the Great Alexandrian remain for all
+time the first, and one may venture to assert, the _only_ perfect
+model of logical exactness of principles, and of rigorous
+development of theorems. If one would see how a science can be
+constructed and developed to its minutest details from a very
+small number of intuitively perceived axioms, postulates, and
+plain definitions, by means of rigorous, one would almost say
+chaste, syllogism, which nowhere makes use of surreptitious or
+foreign aids, if one would see how a science may thus be
+constructed one must turn to the elements of Euclid.--HANKEL, H.
+
+                         _Die Entwickelung der Mathematik in den
+                         letzten Jahrhunderten (Tuebingen, 1884),
+                         p. 7._
+
+
+=1823.= If we consider him [Euclid] as meaning to be what
+his commentators have taken him to be, a model of the most
+unscrupulous formal rigour, we can deny that he has altogether
+succeeded, though we admit that he made the nearest approach.
+
+                                                  --DE MORGAN, A.
+
+                         _Smith's Dictionary of Greek and Roman
+                         Biography and Mythology (London, 1902);
+                         Article "Eucleides."_
+
+
+=1824.= The Elements of Euclid is as small a part of mathematics
+as the Iliad is of literature; or as the sculpture of Phidias is
+of the world's total art.--KEYSER, C. J.
+
+                         _Lectures on Science, Philosophy and Art
+                         (New York, 1908), p. 8._
+
+
+=1825.= I should rejoice to see ... Euclid honourably shelved
+or buried "deeper than did ever plummet sound" out of the
+schoolboys' reach; morphology introduced into the elements of
+algebra; projection, correlation, and motion accepted as aids to
+geometry; the mind of the student quickened and elevated and his
+faith awakened by early initiation into the ruling ideas of
+polarity, continuity, infinity, and familiarization with the
+doctrines of the imaginary and inconceivable.--SYLVESTER, J. J.
+
+                         _A Plea for the Mathematician; Nature,
+                         Vol. 1, p. 261._
+
+
+=1826.= The early study of Euclid made me a hater of geometry,
+... and yet, in spite of this repugnance, which had become a
+second nature in me, whenever I went far enough into any
+mathematical question, I found I touched, at last, a geometrical
+bottom.--SYLVESTER, J. J.
+
+                         _A Plea for the Mathematician; Nature,
+                         Vol. 1, p. 262._
+
+
+=1827.= Newton had so remarkable a talent for mathematics that
+Euclid's Geometry seemed to him "a trifling book," and he wondered
+that any man should have taken the trouble to demonstrate
+propositions, the truth of which was so obvious to him at the
+first glance. But, on attempting to read the more abstruse
+geometry of Descartes, without having mastered the elements of the
+science, he was baffled, and was glad to come back again to his
+Euclid.--PARTON, JAMES.
+
+                         _Sir Isaac Newton._
+
+
+=1828.= As to the need of improvement there can be no question
+whilst the reign of Euclid continues. My own idea of a useful
+course is to begin with arithmetic, and then not Euclid but
+algebra. Next, not Euclid, but practical geometry, solid as well
+as plane; not demonstration, but to make acquaintance. Then not
+Euclid, but elementary vectors, conjoined with algebra, and
+applied to geometry. Addition first; then the scalar product.
+Elementary calculus should go on simultaneously, and come into
+the vector algebraic geometry after a bit. Euclid might be an
+extra course for learned men, like Homer. But Euclid for children
+is barbarous.--HEAVISIDE, OLIVER.
+
+                         _Electro-Magnetic Theory (London, 1893),
+                         Vol. 1, p. 148._
+
+
+=1829.= Geometry is nothing if it be not rigorous, and the whole
+educational value of the study is lost, if strictness of
+demonstration be trifled with. The methods of Euclid are, by
+almost universal consent, unexceptionable in point of rigour.
+
+                                                --SMITH, H. J. S.
+
+                         _Nature, Vol. 8, p. 450._
+
+
+=1830.= To seek for proof of geometrical propositions by an
+appeal to observation proves nothing in reality, except that the
+person who has recourse to such grounds has no due apprehension
+of the nature of geometrical demonstration. We have heard of
+persons who convince themselves by measurement that the
+geometrical rule respecting the squares on the sides of a
+right-angles triangle was true: but these were persons whose
+minds had been engrossed by practical habits, and in whom
+speculative development of the idea of space had been stifled by
+other employments.--WHEWELL, WILLIAM.
+
+                         _The Philosophy of the Inductive
+                         Sciences, (London, 1858), Part 1, Bk. 2,
+                         chap. 1, sect. 4._
+
+
+=1831.= No one has ever given so easy and natural a chain of
+geometrical consequences [as Euclid]. There is a never-erring
+truth in the results.--DE MORGAN, A.
+
+                         _Smith's Dictionary of Greek and Roman
+                         Biography and Mythology (London, 1902);
+                         Article "Eucleides."_
+
+
+=1832.= Beyond question, Egyptian geometry, such as it was, was
+eagerly studied by the early Greek philosophers, and was the germ

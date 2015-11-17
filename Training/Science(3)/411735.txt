@@ -1,0 +1,429 @@
+subjects dealt with--Professor G. Forbes, who knows what he says and says
+what he knows, and Professor Silvanus Thompson, who held his own under
+very trying circumstances.
+
+At the same time that this meeting of the American Association was being
+held at Philadelphia, where we were treated with marvelous
+hospitality,--excursions, soirees, dinners, parties, etc., etc.--and as
+though it were not quite sufficient to bring over humble Britishers from
+this side of the Atlantic to suffer the intense heat at one meeting of the
+Association, they held at the same time an Electrical Conference. There
+was a conference of electricians appointed by the United States
+Government, that was chiefly distinguished on the part of the American
+Government by selecting those who were not electricians. But many attended
+the Electrical Conference who stand high as electricians, one especially,
+who, though perhaps from want of experience he did not shine very
+brilliantly as a chairman, certainly stands as one of the ablest
+electricians of the day--I mean Professor Rowland. The Conference was held
+under Professor Rowland's presidency, and nearly all the well-known
+professors of the United States attended. The Conference was established
+by the United States Government to take into consideration the results and
+conclusions arrived at by the Congress of 1884, held in Paris. The Paris
+Congress decided upon adopting certain units of resistance of
+electromotive force, of current, and of quantity, and they determined the
+particular length of a column of mercury that should represent the ohm--a
+column of mercury 106 centimeters long and of one square millimeter in
+section. It was necessary that the United States should join this
+Conference, so a commission was appointed to consider the whole matter.
+All these units were brought before them, as well as the other conclusions
+of the Paris Congress, such as the proper mode of recording earth currents
+and atmospheric electricity. The Paris units were adopted in face of the
+fact that the length determined upon at Paris was not the length that
+Professor Rowland himself had found as that which should represent the
+ohm. It differed by about 0.2, as near as I can remember; but it was
+thought so necessary that uniformity and unanimity should exist all over
+the world in the adoption of a proper unit, that all differences were laid
+aside, and the Americans agreed to comply with the resolutions of the
+Paris Congress.
+
+There were two units that I had the temerity to bring forward, first, at
+the British Association, and secondly, before the Electrical Conference.
+It will be remembered, that at the meeting of the British Association at
+Southampton in 1882, the late Sir W. Siemens proposed that the unit of
+power should be the watt, and that the watt, which was derived from the
+C.G.S. system of absolute units, should in future, among electricians, be
+the unit of power. This was accepted by the British Association at
+Montreal, and it was also accepted by the American Electrical Conference
+at Philadelphia. But I also, at Montreal, suggested that as the watt was
+the unit of power, so we ought to make some multiple of that unit the
+higher unit of power, comparable to that which is now represented by the
+well-known term "horsepower." Horsepower, unfortunately, does not form
+itself directly into the C.G.S. system. The term horsepower is a
+meaningless quantity; it is not a horsepower at all. It was established by
+the great Watt, who determined that the average power exerted by a horse
+was equal to about 22,000 foot pounds raised per minute; but this was
+thought by him to be too little, so he increased it by 50 per cent., and
+so arrived at what is the present horsepower, 33,000 foot pounds raised
+per minute. Foot pounds bear no relation to our C.G.S. system of units,
+and it is most desirable that we should have some unit of power, somewhere
+about the horsepower, to enable us to convert at once watts into
+horsepower. For that purpose I proposed that 1,000 watts, or the kilowatt,
+should replace what is now called the horsepower, and suggested it for the
+consideration of engineers. It has been received with a great deal of
+consideration by those who understand the subject, and a considerable
+amount of ridicule by those who do not. It is rather a remarkable thing
+that, as a rule, one will always find ridicule and ignorance running side
+by side; and it is an almost invariable fact that when a new proposition
+is brought forward, it is laughed at. I am always very glad to see that,
+because it always succeeds in drawing attention to the matter. I remember
+a friend of mine, who had written a book, being in great glee because it
+was severely criticised by the _Athenaeum_, a fact which drew public
+attention to the book, and caused it to make a great stir. So when I
+proposed that the horsepower should be increased by 33 per cent., and made
+equivalent to 1,000 watts, I was not at all sorry to find that I had
+incurred the displeasure of the leader writers in nearly all our
+scientific papers, and I was quite sure that the attention of those who
+would not perhaps have thought of it would thereby be drawn to the matter.
+Some people object to the use of a name, this name "watt." When you have
+fresh ideas, you must have fresh words to express those ideas. The watt
+was a new unit, it must be called by some name, otherwise it could
+scarcely be conveyed to our minds. The foot, the gallon, the yard, were
+all new names once; and how do we know that they were not derived from
+some "John Foot," "William Gallon," or "Jack Yard," or some man whose name
+was connected with the measure when introduced? The poet says:
+
+"Some mute, inglorious Milton here may rest--
+Some Cromwell, guiltless of his country's blood:"
+
+so in these names some forgotten physicist or mute engineer may be
+buried. At any rate, we cannot do without names. The ohm, the ampere, the
+volt, are merely words that express ideas that we all understand; and so
+does the watt, and so will the 1,000 watts when you come to think over the
+matter as much as some of us have done.
+
+At this Conference several other subjects were brought up which attracted
+a good deal of attention. Professor Rowland brought forward a paper on the
+theory of dynamos that certainly startled a good many of us; and it led to
+a discussion that is admirably reported in our scientific papers. I think
+that the discussion evolved by Professor Rowland's paper on the theory of
+dynamos deserves the study of every electrician; it brought very strongly
+into prominence one or two English gentlemen who were present. Professor
+Fitzgerald, of Dublin, spoke with a considerable amount of power, and
+showed a mastery of the subject that was pleasant not only to his friends,
+but must have been gratifying to the Americans who heard him. On this
+particular subject of dynamos it was truly wonderful how the doctors
+disagreed. Two could not be found who held the same views on the theory
+and construction of the dynamo, and that shows that we still have a great
+deal to learn about the dynamo, and that the true principle of
+construction of it has yet to be brought out.
+
+It is a very curious thing, and I thought about it at the time, that when
+you consider the dynamos in use, you see how very little has been done to
+perfect the direct working dynamo in England. Although the principle of
+the dynamo originated with Faraday, yet all the early machines, Pacinotti,
+Gramme. Hefner von Alteneck, Shuckert, Brush, Edison, and several others
+who have improved the direct action machine, have not been found in
+England. But when we deal with alternate-current machines, then we find
+the Wilde, Ferranti, and various others; so that the tendency in England
+has been very much to improve and work upon the alternate-current
+machines. In other countries it is exactly the reverse; in fact, in
+America I never saw one single alternate-current machine. When Professor
+Forbes wanted an alternate-current machine to illustrate a lecture that he
+gave, it was with the greatest difficulty that one could be found, and, in
+fact, it was put together specially for him.
+
+The other subjects brought before this Conference were Earth Currents,
+Atmospheric Electricity, Accumulators or Secondary Batteries, and
+Telephones. There was an extremely able paper brought forward by Mr. T.D.
+Lockwood, the electrician of the American Bell Telephone Company, on
+Telephones, and the disturbances that influence their working. When that
+paper is published, it will well be worth your careful examination.
+
+Papers were also read on the Transmission of Energy, and there were papers
+on many other subjects.
+
+So much for the Electrical Conference.
+
+Now, the Americans at the present moment are suffering from a mania which
+we, happily, have passed through, that is, the mania of exhibitions.
+
+While we were at Philadelphia, there was an exceedingly interesting
+exhibition held. I do not intend to say much about that exhibition, for
+the simple reason that Professor G. Forbes has promised, during the
+forthcoming session, to give us a paper describing what he saw there, and
+his studies at Philadelphia; and I am quite sure that it will be a paper
+worthy of him, and of you. But, apart from this exhibition at
+Philadelphia, I could not go anywhere without finding an exhibition. There
+was one at Chicago, another at St. Louis, another at Boston; everybody was
+talking about one at Louisville, where I did not go; and there were rumors
+of great preparations for the "largest exhibition the world has ever
+seen," according to their own account, at New Orleans. However, I
+satisfied myself with seeing the exhibition at Philadelphia, which
+consisted strictly of American goods, and was not of the international
+nature general to such exhibitions. But it was a fine exhibition, and one
+that no other single nation could bring together.
+
+_Telegraphs_.--When I spoke to you in 1878, my remarks were almost
+entirely confined to telegraphs, for at that day the telephone was not, as
+a practical instrument, in existence. I brought from America on that
+occasion the first telephones that were brought to this country. Then the
+practical application of electricity was applied to telegraphs, and so
+telegraphs formed the subject of my theme. But while in 1877 I saw a great
+deal to learn, and picked up a great many wrinkles, and brought back from
+America a good many processes, I go back there now in 1884, seven years
+afterward, and I do not find one single advance made--I comeback with
+scarcely one single wrinkle; and, in fact, while we in England during
+those seven years have progressed with giant strides, in America, in
+telegraph matters, they have stood still. But their material progress has
+been marvelous. In 1877, the mileage of wire belonging to the Western
+Union Telegraph Company was 200,000 miles; in 1884, they have 433,726
+miles of wire; so that during the seven years their mileage of wire has
+more than doubled. During the same period their number of messages has
+increased from 28,000,000 to over 40,000,000; their offices from 11,660 to
+13,600; and the capital invested in their concern has increased from
+$40,000,000 to $80,000,000--in fact, there is no more gigantic telegraph
+organization in this world that this Western Union Telegraph Company. It
+is a remarkable undertaking, and I do not suppose there is an
+administration better managed. But for some reason or other that I cannot
+account for, their scientific progress has not marched with their material
+progress, and invention has to a certain extent there ceased. There really
+was only one telegraphic novelty to be found in the States, and that was
+an instrument by Delany--a multiplex instrument by which six messages
+could be sent in one or other direction at the same time. It is an
+instrument that is dependent upon the principle introduced by Meyer, where
+time is divided into a certain number of sections, and where synchronous
+action is maintained between two instruments. This system has been worked
+out with great perfection in France by Baudot. We had a paper by Colonel
+Webber on the subject, before the Society, in which the process was fully
+described. Delany, in the States, has carried the process a little
+further, by making it applicable to the ordinary Morse sending. On the
+Meyer and Baudot principle, the ordinary Morse sender has to wait for
+certain clicks, which indicate at which moment a letter may be sent; but
+on the Delany plan each of the six clerks can peg away as he chooses--he
+can send at any rate he likes, and he is not disturbed in any way by
+having any sound to guide or control his ear. The Delany is a very
+promising system. It may not work to long distances; but the apparatus is
+promised to be brought over to this country, to be exhibited at the
+Inventors' Exhibition next year, and I can safely say that the Post Office
+will give every possible facility to try the new invention upon its wires.
+
+One gratifying effect of my visit to the telegraph establishments in
+America was that, while hitherto we have never hesitated in England to
+adopt any process or invention that was a distinct advance, whether it
+came from America or anywhere else, they on the other hand have shown a
+disinclination to adopt anything British; but they have now adopted our
+Wheatstone automatic system. That system is at work between New Orleans
+and Chicago, and New York and New Orleans--1,600 miles. It has given them
+so much satisfaction that they are going to increase it very largely; so
+that we really have the proud satisfaction of finding a real, true British
+invention well established on the other side of the Atlantic.
+
+The next branch that I propose to bring to your notice is the question of
+the telephone.
+
+The telephone has passed through rather an awkward phase in the States. A
+very determined attempt has been made to upset the Bell patents in that
+country; and those who visited the Philadelphia Exhibition saw the
+instruments there exhibited upon which the advocates of the plaintiff
+relied. It is said that a very ingenious American, named Drawbaugh, had
+anticipated all the inventors of every part of the telephone system; that
+he had invented a receiver before Bell; that he had invented the
+compressed carbon arrangement before Edison; that he had invented the
+microphone before our friend Professor Hughes; and that, in fact, he had
+done everything on the face of the earth to establish the claims set
+forth. Some of his patents were shown, and I not only had to examine his
+patents, but I had to go through a great many depositions of the evidence
+given, and I am bound to confess that a more flimsy case I never saw
+brought before a court of law. I do not know whether I shall be libelous
+in expressing my opinion (I will refer to our solicitor before the notes
+are printed), but I should not hesitate to say that I never saw a more
+evident conspiracy concocted to try and disturb the position of a
+well-established patent. However, I have heard that the judgment has been
+given as the public generally supposed it would be given; because as soon
+as the case was over the shares of the Bell company, which were at 150,
+jumped up to 190, and now the decision is given I am told that they will
+probably reach 290.
+
+We cannot form a conception on this side of the Atlantic of the extent to
+which telephones are used on the other side of the Atlantic. It is said
+sometimes that the progress of the telephone on this side of the water has
+been checked very much by the restrictions brought to bear upon the
+telephone by the Government of this country. But whatever restrictions
+have been instituted by our Government upon the adoption of the telephone,
+they are not to be compared with the restrictions that the poor
+unfortunate telephone companies have to struggle against on the other side
+of the Atlantic. There is not a town that does not mulct them in taxes for
+every pole they erect, and for every wire they extend through the streets.
+There is not a State that does not exact from them a tax; and I was
+assured, and I know as a fact, that in one particular case there was one
+company--a flourishing company--that was mulcted is 75 per cent. of its
+receipts before it could possibly pay a dividend. Here we only ask the
+telephone companies to pay to the poor, impoverished British Government 10
+per cent.; and 10 per cent. by the side of 75 per cent. certainly cuts but
+a very sorry figure. But the truth is, the reason why the telephone is
+flourishing in America is that it is an absolute necessity there for the
+proper transaction of business. Where you exist in a sort of Turkish bath
+at from 90 deg. to 100 deg., you want to be saved every possible reason for
+leaving your office to conduct your business; and the telephone comes in
+as a means whereby you can do so, and can loll back in your arm chair,
+with your legs up in the air, with a cigar in your mouth, with a punkah
+waving over your head, and a bottle of iced water by your side. By the
+telephone, under such circumstances, business transactions can be carried
+on with comfort to yourself and to him with whom your business is
+transacted. We have not similar conditions here. We are always glad of an
+excuse to get out of our offices. In America, too, servants and messengers
+are the exception, a boy is not to be had, whereas in England we get an
+errand boy at half a crown a week. That which costs half a crown here
+costs 12s. to 15s. in America; and, that being so, it is much better to
+pay the telephone company a sum that will, at less cost, enable your
+business to be transacted without the engagement of such a boy.
+
+The Americans, again, adopt electrical contrivances for all sorts of
+domestic purposes. There is not a single house in New York, Chicago, or
+anywhere else that I went into, that has not in the hall a little
+instrument [producing one] which, by the turn of a pointer and the
+pressing of a handle, calls for a messenger, a carriage, a cab, express
+wagon (that is, the fellow who looks after your luggage), a doctor,
+policeman, fire-alarm, or anything else as may be arranged for. The little
+instrument communicates to a central office not far off, and in two
+minutes the doctor, or messenger, or whatever it may be, presents himself.
+
+For fire-alarms and for all sorts of purposes, domestic telegraphy is part
+and parcel of the nature of an American, and the result was that when the
+telephone was brought to him, he adopted it with avidity. On this side of
+the Atlantic domestic telegraphy is at a minimum, and I do not think any
+one would have a telephone in his house if he could help it.
+
+When you want a thing, you must pay for it. The Americans want the
+telephone, and they pay for it. In London people grumble very much at
+having to pay L20 to the Telephone Company for the use of a telephone. I
+question very much whether L20 a year is quite enough; at any rate, it is
+not enough if the American charge is taken as a standard. The charge in
+New York is of two classes--one for a system called the law system, which
+is applied almost exclusively for the use of lawyers, which is L44 a
+year; the other being the charge made to the ordinary public, and which
+will compare with the service rendered in London, which is charged for at
+L35 a year, against L20 a year in London. The charge in Chicago is L26 a
+year; in Boston, Philadelphia, and a great many other places it is L25 a
+year. At Buffalo a mode of charging by results is adopted; everybody pays
+for each oral message he sends--every time he uses the telephone he pays
+either four, five, or six cents, according to the number for which he
+guarantees. Supposing any one of us wanted a telephone at Buffalo, the
+company will supply it under a guarantee to pay for a minimum of 500
+messages per annum. If 1,000 messages are sent, the charge is less _pro
+rata_, being six cents, if I remember rightly, for each message under 500,
+and five cents up to 1,000 messages, four cents per message over 1,000
+messages; and so everybody pays for what work he does. It is payment by
+results. The people like the arrangement, the company like it because they
+make it pay, and the system works well. But I am bound to say that, up to
+the present moment, Buffalo is the only city in the United States where
+that method has been adopted.
+
+The instruments used in the States are no better--in fact, in many cases
+they are worse--than the instruments we use on this side of the Atlantic.
+I have heard telephones in this country speak infinitely better than
+anything that I have heard on the other side of the Atlantic. But they
+transact their business in America infinitely better than we do; and there
+is one great reason for this, which is, that in America the public itself
+falls into the mode of telephone working with the energy of the telegraph
+operator. They assist the telephone people in every way they can; they
+take disturbances with a humility that would be simply startling to
+English subscribers; and they help the workers of the system in every way
+they can. The result is, that all goes off with great smoothness and
+comfort. But the switch apparatus used in the American central offices is
+infinitely superior to anything that I have ever seen over here, excepting
+at Liverpool.
+
+A new system has just been brought out, called the "multiple" system,
+which has been very lately introduced. I saw it at many places, especially
+at Indianapolis, at Boston, and at New York, where three exchanges were
+worked by it with a rapidity that perfectly startled me. I took the times
+of a great many transactions, and found that, from the moment a subscriber
+called to the moment he was put through, only five seconds elapsed; and I
+am told at Milwaukee, where unfortunately I could not go, but where there
+is a friend of ours in charge, Mr. Charles Haskins, who is one of our
+members, and he says he has brought down the rate of working to such a
+pitch that they are able to arrange that subscribers shall be put through
+in four seconds.
+
+You will be surprised to learn that there are 986 exchanges at work in the
+United States. There are 97,423 circuits; there are nearly 90,000 miles of
+wire used for telephonic purposes; and the number of instruments that have
+been manufactured amounts to 517,749. Just compare those figures with our
+little experience on this side of the Atlantic. I have a return showing
+the number of subscribers in and about New York, comprising the New Jersey
+division, the Long Island division, Staten Island, Westchester, and New
+York City, and the total amounts to 10,600 subscribers who are put into
+communication with each other in the neighborhood of New York alone; and
+here in England we can only muster 11,000. There are just as many
+subscribers probably at this moment in New York and its neighborhood as we
+have in the whole of the United Kingdom.
+
+I am sorry to delay you so long. I have very few more points to bring
+before you. I spoke only last week so much about the electric light that I
+have very little to say on that point. High-tension currents are used for
+electric lighting in America, and all wires are carried overhead along the
+streets. A more hideous contrivance was probably never invented since the
+world was created than the system of carrying wires overhead through the
+magnificent streets and cities in America. They spend thousands upon
+thousands of pounds in beautifying their cities with very fine buildings,
+and then they disfigure them all by carrying down the pavements the most
+villainous-looking telegraph posts that ever were constructed. The
+practice is carried to such an extent, that down Broadway in New York
+there are no less than six distinct lines of poles; and through the city
+of New York there are no less than thirty-two separate and distinct
+companies carrying all their wires through the streets of the city. How
+the authorities have stood it so long I cannot make out. They object to
+underground wires--why, one cannot tell. It is something like taking a
+horse to the pond--you cannot make him drink. So it is with these
+telephone companies: the public of America and the Town Councils have been
+trying to force the telephone and telegraph companies to put their wires
+underground, but they are the horses that are led to the pool, and they
+will not drink. It is said that the Town Council of Philadelphia have
+issued most stringent orders that on the first of January next, men with
+axes and tools are to start out and cut down every pole in the city. It is
+all very well to threaten; but my impression is that any member of Town
+Council or any individual of Philadelphia who attempts to do such a thing
+will be lynched by the first telephone subscriber he meets.
+
+This practice of running overhead wires has great disadvantages when the
+wires are used for electric-lighting purposes as well as for ordinary
+telephone or telegraph purposes. No doubt the high-tension system can be
+carried out overhead with economy; but where overhead wires carrying these
+heavy currents exist in the neighborhood of telephone circuits, there is
+every possible liability to accident; and in my short trip I came across
+seven distinct cases of offices being destroyed by fire, of test boxes
+being utterly ruined, of a whole house being gutted, and of various
+accidents, all clearly traceable to contacts arising from the falling of
+overhead wires, charged with high-tension current, upon telegraph and
+telephone wires below. The danger is so great and damage so serious that,
+at Philadelphia, Mr. Plush, the electrician to the Telephone Company, has
+devised this exceedingly pretty cut-out. It is a little electro-magnetic
+cut-out that breaks the telephone circuit whenever a current passes into
+the circuit equal to or more than an ampere. The arrangement works with
+great ease. It is applied to every telephone circuit simply, to protect
+the telephone system from electric light wires, that ought never to be
+allowed anywhere near a telephone circuit.
+
+Fire-alarms are used in America; but in England, also, the fire systems of
+Edward Bright, Spagnoletti, and Higgins have been introduced, and in that
+respect we are in very near the same position as our friends on the other
+side of the Atlantic. Some members present may remember that, when I
+described my last visit to America, I mentioned how in Chicago the
+fire-alarm was worked by an electric method, and I told you a story then
+that you did not believe, and which I have told over and over again, but
+nobody has yet believed me, and I began to think that I must have made a
+mistake somewhere or other. So I meant, when at Chicago this time, to see
+whether I had been deceived myself. There was very little room for
+improvement, because, as I told you before, they had very near reached
+perfection. This is what they did: At the corner of the street where a
+fire-alarm box is fixed, a handle is pulled down, and the moment that
+handle is released a current goes to the fire-station; it sounds a gong to
+call the attention of the men, it unhitches the harness of the horses, the
+horses run to their allotted positions at the engine, it whips the clothes
+off every man who is in bed, it opens a trap at the bottom of the bed and
+the men slide down into their positions on the engine. The whole of that
+operation takes only six seconds. The perfection to which fire-alarm
+business has been brought in the States is one of the most interesting
+applications of electricity there.
+
+Of course during this visit I waited on Mr. Edison. Many of you know that
+a difference took place between Mr. Edison and myself, and I must confess
+that I felt a little anxiety as to how I should be received on the other
+side. It is impossible for any man to receive another with greater
+kindness and attention than Mr. Edison received me. He took me all over
+his place and showed me everything, and past differences were not referred
+to. Mr. Edison is doing an enormous amount of work in steadily plodding
+away at the electric light business. He has solved the question as far as
+New York is concerned and as far as central station lighting is concerned;
+and all we want on this side is to instill more confidence into our

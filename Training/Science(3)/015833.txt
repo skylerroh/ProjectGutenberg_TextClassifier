@@ -1,0 +1,503 @@
+The Project Gutenberg EBook of Scientific American Supplement, No. 441,
+June 14, 1884., by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Scientific American Supplement, No. 441, June 14, 1884.
+
+Author: Various
+
+Release Date: May 16, 2005 [EBook #15833]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SCIENTIFIC AMERICAN ***
+
+
+
+
+Produced by Juliet Sutherland and the Online Distributed
+Proofreading Team at www.pgdp.net.
+
+
+
+
+
+[Illustration]
+
+
+
+
+SCIENTIFIC AMERICAN SUPPLEMENT NO. 441
+
+
+
+
+NEW YORK, JUNE 14, 1884
+
+Scientific American Supplement. Vol. XVII., No. 441.
+
+Scientific American established 1845
+
+Scientific American Supplement, $5 a year.
+
+Scientific American and Supplement, $7 a year.
+
+       *       *       *       *       *
+
+
+
+
+TABLE OF CONTENTS.
+
+
+I.   CHEMISTRY AND METALLURGY.--On Electrolysis.--Precipitation
+     of lead, thallium, silver, bismuth, manganese, etc.--By H.
+     SCHUCHT
+
+     The Electro-Chemical Equivalent of Silver
+
+     Zircon.--How it can be rendered soluble.--By F. STOLBA
+
+     A New Process for Making Wrought Iron Directly from the Ore.
+     --Comparison with other processes.--With descriptions and
+     engravings of the apparatus used
+
+     Some Remarks on the Determination of Hardness in Water
+
+     On the changes which Take Place in the Conversion of Hay
+     into Ensilage.--By F.J. Lloyd
+
+II.  ENGINEERING AND MECHANICS.--Faure's Machine for
+     Decorticating Sugar Cane.--With full description
+     and 13 figures
+
+     The Generation of Steam and the Thermodynamic Problems
+     Involved.--By WM. ANDERSON.--Apparatus used in the
+     experimental determination of the heat of combustion and
+     the laws which govern its development.--Ingredients of
+     fuel.--Potential energy of fuel.--With 7 figures and
+     several tables
+
+     Planetary Wheel Trains.--Rotations of the wheels relatively
+     to the train arm.--By Prof. C.W. MACCORD
+
+     The Pantanemone.--A New Windwheel.--1 engraving
+
+     Relvas's New Life Boat.--With engraving
+
+     Experiments with Double Barreled Guns and Rifles.
+     --Cause of the divergence of the charge.--4 figures
+
+     Improved Ball Turning Machine.--1 figure
+
+     Cooling Apparatus for Injection Water.--With engraving
+
+     Corrugated Disk Pulleys.--1 engraving
+
+III. TECHNOLOGY.--A New Standard Light
+
+     Dr. Feussner's New Polarizing Prism.--Points of difference
+     between the old and new prisms.--By P.R. SLEEMAN
+
+     Density and Pressure of Detonating Gas
+
+IV.  ELECTRICITY, LIGHT, ETC.--Early History of the Telegraph.
+     --Pyrsia, or the system of telegraphy among the Greeks.
+     --Communication by means of characters and the telescope.
+     --Introduction of the magnetic telegraph between Baltimore
+     and Washington
+
+     The Kravogl Electro Motor and its Conversion Into a Dynamo
+     Electric Machine.--5 figures
+
+     Bornhardt's Electric Machine for Blasting in Mines.
+     --15 figures
+
+     Pritchett's Electric Fire Alarm.--1 figure
+
+     A Standard Thermopile
+
+     Telephonic Transmission without Receivers.--Some of the
+     apparatus exhibited at the annual meeting of the French
+     Society of Physics.--Telephonic transmission through a
+     chain of persons
+
+     Diffraction Phenomena during Total Solar Eclipses.--By G.D.
+     Hiscox
+
+V.   BOTANY AND HORTICULTURE.--Gum Diseases in Trees.--
+     Cause and contagion of the same
+
+     Drinkstone Park.--Trees and plants cultivated therein.--
+     With 2 engravings
+
+VI.  MEDICINE AND HYGIENE.--Miryachit.--A newly-discovered
+     disease of the nervous system, and its analogues.--By WM. A.
+     HAMMOND
+
+VII. MISCELLANEOUS.--Turkish Baths for Horses.--With
+     diagram.
+
+       *       *       *       *       *
+
+
+
+
+FAURE'S MACHINE FOR DECORTICATING SUGAR-CANE.
+
+
+The object of the apparatus shown in the accompanying engraving is to
+effect a separation of the tough epidermis of the sugar-cane from the
+internal spongy pith which is to be pressed. Its function consists in
+isolating and separating the cells from their cortex, and in putting
+them in direct contact with the rollers or cylinders of the mill.
+After their passage into the apparatus, which is naturally placed in a
+line with the endless chain that carries them to the mill, the canes
+arrive in less compact layers, pass through much narrower spaces, and
+finally undergo a more efficient pressure, which is shown by an
+abundant flow of juice. The first trials of the machine were made in
+1879 at the Pointe Simon Works, at Martinique, with the small type
+that was shown at the Paris Exhibition of 1878. These experiments,
+which were applied to a work of 3,000 kilos of cane per hour, gave
+entire satisfaction, and decided the owners of three of the colonial
+works (Pointe Simon, Larcinty, and Marin) to adopt it for the season
+of 1880.
+
+The apparatus is shown in longitudinal section in Fig. 1, and in plan
+in Fig. 2.
+
+Fig. 3 gives a transverse section passing through the line 3-4, and
+Fig. 4 an external view on the side whence the decorticated canes make
+their exit from the apparatus.
+
+[Illustration: FAURE'S MACHINE FOR DECORTICATING SUGAR CANE.]
+
+The other figures relate to details that will be referred to further
+along.
+
+_The Decorticating Cylinder._--The principal part of the apparatus is
+a hollow drum, A, of cast iron, 430 mm. in internal diameter by 1.41
+m. in length, which is keyed at its two extremities to the shaft, a.
+Externally, this drum (which is represented apart in transverse
+section in Fig. 5) has the form of an octagonal prism with well
+dressed projections between which are fixed the eight plates, C, that
+constitute the decorticating cylinder. These plates, which are of
+tempered cast iron, and one of which is shown in transverse section in
+Fig. 7, when once in place form a cylindrical surface provided with 48
+helicoidal, dentate channels. The length of these plates is 470 mm.
+There are three of them in the direction of the generatrices of the
+cylinder, and this makes a total of 24. All are strengthened by ribs
+(as shown in Fig. 8), and each is fixed by 4 bolts, _c_, 20mm. in
+diameter. The pitch of the helices of each tooth is very elongated,
+and reaches about 7.52 m. The depth of the toothing is 18 mm.
+
+_Frame and Endless Chain._--The cylinder thus constructed rotates with
+a velocity of 50 revolutions per minute over a cylindrical vessel, B',
+cast in a piece with the frame, B. This vessel is lined with two
+series of tempered cast iron plates, D and D', called exit and
+entrance plates, which rest thereon, through the intermedium of well
+dressed pedicels, and which are held in place by six 20-millimeter
+bolts. Their length is 708 mm. The entrance plates, D, are provided
+with 6 spiral channels, whose pitch is equal to that of the channels
+of the decorticating cylinder, C, and in the same direction. The depth
+of the toothing is 10 mm.
+
+The exit plates, D', are provided with 7 spiral channels of the same
+pitch and direction as those of the preceding, but the depth of which
+increases from 2 to 10 mm. The axis of the decorticating cylinder does
+not coincide with that of the vessel, B', so that the free interval
+for the passage of the cane continues to diminish from the entrance to
+the exit.
+
+The passage of the cane to the decorticator gives rise to a small
+quantity of juice, which flows through two orifices, _b'_, into a sort
+of cast iron trough, G, suspended beneath the vessel. The cane, which
+is brought to the apparatus by an endless belt, empties in a conduit
+formed of an inclined bottom, E, of plate iron, and two cast iron
+sides provided with ribs. These sides rest upon the two ends of the
+vessel, B', and are cross-braced by two flat bars, _e_, to which is
+bolted the bottom, E. This conduit is prolonged beyond the
+decorticating cylinder by an inclined chute, F, the bottom of which is
+made of plate iron 7 mm. thick and the sides of the same material 9
+mm. thick. The hollow frame, B, whose general form is like that of a
+saddle, carries the bearings, _b_, in which revolves the shaft, _a_.
+One of these bearings is represented in detail in Figs. 9 and 10. It
+will be seen that the cap is held by bolts with sunken heads, and that
+the bearing on the bushes is through horizontal surfaces only. In a
+piece with this frame are cast two similar brackets, B squared, which support
+the axle, _h_, of the endless chain. To this axle, whose diameter is
+100 mm., are keyed, toward the extremities, the pinions, H, to which
+correspond the endless pitch chains, _i_. These latter are formed, as
+may be seen in Figs. 11 and 12, of two series of links. The shorter of
+these latter are only 100 mm. in length, while the longer are 210 mm.,
+and are hollowed out so as to receive the butts of the boards, I. The
+chain thus formed passes over two pitch pinions, J, like the pinions,
+H, that are mounted at the extremities of an axle, _j_, that revolves
+in bearings, I', whose position with regard to the apparatus is
+capable of being varied so as to slacken or tauten the chain, I. This
+arrangement is shown in elevation in Fig. 13.
+
+_Transmission._--The driving shaft, _k_, revolves in a pillow block,
+K, cast in a piece with the frame, B. It is usually actuated by a
+special motor, and carries a fly-wheel (not shown in the figure for
+want of space). It receives in addition a cog-wheel, L, which
+transmits its motion to the decorticating cylinder through, the
+intermedium of a large wooden-toothed gear wheel, L'. The shaft, _a_,
+whose diameter is 228 mm., actuates in its turn, through the pinions,
+M' and M, the pitch pinion, N, upon whose prolonged hub is keyed the
+pinion, M. This latter is mounted loosely upon the intermediate axle,
+_m_. Motion is transmitted to the driving shaft, _h_, of the endless
+chain, I, by an ordinary pitch chain, through a gearing which is shown
+in Fig. 12. The pitch pinion, N', is cast in a piece with a hollow
+friction cone, N squared, which is mounted loosely upon the shaft, _h_, and
+to which corresponds a second friction cone, O. This latter is
+connected by a key to a socket, _o_, upon which it slides, and which
+is itself keyed to the shaft, _h_. The hub of the cone, O, is
+connected by a ring with a bronze nut, _p_, mounted at the threaded
+end of the shaft, _h_, and carrying a hand-wheel, P. It is only
+necessary to turn this latter in one direction or the other in order
+to throw the two cones into or out of gear.
+
+If we allow that the motor has a velocity of 70 revolutions per
+minute, the decorticating cylinder will run at the rate of 50, and the
+sugar-cane will move forward at the rate of 12 meters per minute.
+
+This new machine is a very simple and powerful one. The decortication
+is effected with wonderful rapidity, and the canes, opened throughout
+their entire length and at all points of their circumference, leave
+the apparatus in a state that allows of no doubt as to what the result
+of the pressure will be that they have to undergo. There is no
+tearing, no trituration, no loss of juice, but merely a simple
+preparation for a rational pressure effected under most favorable
+conditions.
+
+The apparatus, which is made in several sizes, has already received
+numerous applications in Martinique, Trinidad, Cuba, Antigua, St.
+Domingo, Peru, Australia, the Mauritius Islands, and
+Brazil.--_Publication Industrielle._
+
+       *       *       *       *       *
+
+
+
+
+MOVING A BRIDGE.
+
+
+An interesting piece of engineering work has recently been
+accomplished at Bristol, England, which consisted in the moving of a
+foot-bridge 134 feet in length, bodily, down the river a considerable
+distance. The pontoons by means of which the bridge was floated to its
+new position consisted of four 80-ton barges, braced together so as to
+form one solid structure 64 feet in width, and were placed in position
+soon after the tide commenced to rise. At six o'clock A.M. the top of
+the stages, which was 24 feet above the water, touched the under part
+of the bridge, and in a quarter of an hour later both ends rose from
+their foundations. When the tide had risen 4 ft. the stage and bridge
+were floated to the new position, when at 8.30 the girders dropped on
+to their beds.
+
+       *       *       *       *       *
+
+
+
+
+THE GENERATION OF STEAM, AND THE THERMODYNAMIC PROBLEMS
+INVOLVED.[1]
+
+   [Footnote 1: Lecture delivered at the Institution of Civil
+   Engineers, session 1883-84. For the illustrations we are indebted
+   to the courtesy of Mr. J. Forrest, the secretary.]
+
+By Mr. WILLIAM ANDERSON, M.I.C.E.
+
+
+It will not be necessary to commence this lecture by explaining the
+origin of fuel; it will be sufficient if I remind you that it is to
+the action of the complex rays of the sun upon the foliage of plants
+that we mainly owe our supply of combustibles. The tree trunks and
+branches of our forests, as well as the subterranean deposits of coal
+and naphtha, at one time formed portions of the atmosphere in the form
+of carbonic acid gas; that gas was decomposed by the energy of the
+solar rays, the carbon and the oxygen were placed in positions of
+advantage with respect to each other--endowed with potential energy;
+and it is my duty this evening to show how we can best make use of
+these relations, and by once more combining the constituents of fuel
+with the oxygen of the air, reverse the action which caused the growth
+of the plants, that is to say, by destroying the plant reproduce the
+heat and light which fostered it. The energy which can be set free by
+this process cannot be greater than that derived originally from the
+sun, and which, acting through the frail mechanism of green leaves,
+tore asunder the strong bonds of chemical affinity wherein the carbon
+and oxygen were hound, converting the former into the ligneous
+portions of the plants and setting the latter free for other uses. The
+power thus silently exerted is enormous; for every ton of carbon
+separated in twelve hours necessitates an expenditure of energy
+represented by at least 1,058 horse power, but the action is spread
+over an enormous area of leaf surface, rendered necessary by the small
+proportion of carbonic acid contained in the air, by measure only
+1/2000 part, and hence the action is silent and imperceptible. It is
+now conceded on all hands that what is termed heat is the energy of
+molecular motion, and that this motion is convertible into various
+kinds and obeys the general laws relating to motion. Two substances
+brought within the range of chemical affinity unite with more or less
+violence; the motion of transition of the particles is transformed,
+wholly or in part, into a vibratory or rotary motion, either of the
+particles themselves or the interatomic ether; and according to the
+quality of the motions we are as a rule, besides other effects, made
+conscious of heat or light, or of both. When these emanations come to
+be examined they are found to be complex in the extreme, intimately
+bound up together, and yet capable of being separated and analyzed.
+
+As soon as the law of definite chemical combination was firmly
+established, the circumstance that changes of temperature accompanied
+most chemical combinations was noticed, and chemists were not long in
+suspecting that the amount of heat developed or absorbed by chemical
+reaction should be as much a property of the substances entering into
+combination as their atomic weights. Solid ground for this expectation
+lies in the dynamic theory of heat. A body of water at a given height
+is competent by its fall to produce a definite and invariable quantity
+of heat or work, and in the same way two substances falling together
+in chemical union acquire a definite amount of kinetic energy, which,
+if not expended in the work of molecular changes, may also by suitable
+arrangements be made to manifest a definite and invariable quantity of
+heat.
+
+At the end of last century Lavoisier and Laplace, and after them, down
+to our own time, Dulong, Desprez, Favre and Silbermann, Andrews,
+Berthelot, Thomson, and others, devoted much time and labor to the
+experimental determination of the heat of combustion and the laws
+which governed its development. Messrs. Favre and Silbermann, in
+particular, between the years 1845 and 1852, carried out a splendid
+series of experiments by means of the apparatus partly represented in
+Fig. 1 (opposite), which is a drawing one-third the natural size of
+the calorimeter employed. It consisted essentially of a combustion
+chamber formed of thin copper, gilt internally. The upper part of the
+chamber was fitted with a cover through which the combustible could be
+introduced, with a pipe for a gas jet, with a peep hole closed by
+adiathermanous but transparent substances, alum and glass, and with a
+branch leading to a thin copper coil surrounding the lower part of the
+chamber and descending below it. The whole of this portion of the
+apparatus was plunged into a thin copper vessel, silvered internally
+and filled with water, which was kept thoroughly mixed by means of
+agitators. This second vessel stood inside a third one, the sides and
+bottom of which were covered with the skins of swans with the down on,
+and the whole was immersed in a fourth vessel tilled with water, kept
+at the average temperature of the laboratory. Suitable thermometers of
+great delicacy were provided, and all manner of precautions were taken
+to prevent loss of heat.
+
+[Illustration: THE GENERATION OF STEAM. Fig 1.]
+
+It is impossible not to admire the ingenuity and skill exhibited in
+the details of the apparatus, in the various accessories for
+generating and storing the gases used, and for absorbing and weighing
+the products of combustion; but it is a matter of regret that the
+experiments should have been carried out on so small a scale. For
+example, the little cage which held the solid fuel tested was only 5/8
+inch diameter by barely 2 inches high, and held only 38 grains of
+charcoal, the combustion occupying about sixteen minutes. Favre and
+Silbermann adopted the plan of ascertaining the weight of the
+substances consumed by calculation from the weight of the products of
+combustion. Carbonic acid was absorbed by caustic potash, as also was
+carbonic oxide, after having been oxidized to carbonic acid by heated
+oxide of copper, and the vapor of water was absorbed by concentrated
+sulphuric acid. The adoption of this system showed that it was in any
+case necessary to analyze the products of combustion in order to
+detect imperfect action. Thus, in the case of substances containing
+carbon, carbonic oxide was always present to a variable extent with
+the carbonic acid, and corrections were necessary in order to
+determine the total heat due to the complete combination of the
+substance with oxygen. Another advantage gained was that the
+absorption of the products of combustion prevents any sensible
+alteration in the volumes during the process, so that corrections for
+the heat absorbed in the work of displacing the atmosphere were not
+required. The experiments on various substances were repeated many
+times. The mean results for those in which we are immediately
+interested are given in Table I., next column.
+
+Comparison with later determinations have established their
+substantial accuracy. The general conclusion arrived at is thus
+stated:
+
+"As a rule there is an equality between the heat disengaged or
+absorbed in the acts, respectively, of chemical combination or
+decomposition of the same elements, so that the heat evolved during
+the combination of two simple or com-pound substances is equal to the
+heat absorbed at the time of their chemical segregation."
+
+       TABLE I.--SUBSTANCES ENTERING INTO THE COMPOSITION OF FUEL.
+
+  -----------------------+-------------+-----------+-------------------+
+                         |                         | Heat evolved in   |
+                         |     Symbol and Atomic   |the Combustion of  |
+                         |           Weight.       |  1 lb. of Fuel.   |
+                         +------------+------------+--------+----------+
+                         |            |            |        |In Pounds |
+                         |            |            |  In    | of Water |
+                         |            |            |British |Evaporated|
+                         |   Before   |    After   |Thermal | from and |
+                         | Combustion | Combustion | Units. | at 212 deg.. |
+                         +------------+------------+--------+----------+
+  Hydrogen burned        | H        1 | H2O     18 | 62,032 |  64.21   |
+    in oxygen.           |            |            |        |          |
+  -----------------------+------------+------------+--------+----------+
+  Carbon burned to       | C       12 | CO      28 |  4,451 |   4.61   |
+    carbonic oxide.      |            |            |        |          |
+  -----------------------+------------+------------+--------+----------+
+  Carbon burned to       | C       12 | CO2     44 | 14,544 |  15.06   |
+    carbonic acid.       |            |            |        |          |
+  -----------------------+------------+------------+--------+----------+
+  Carbonic oxide burned  | CO      28 | CO2     44 |  4,326 |   4.48   |
+    to carbonic acid.    |            |            |        |          |
+  -----------------------+------------+------------+--------+----------+
+  Olefiant gas (ethylene)| C2H4    28 | 2CO2   124 | 21,343 |  22.09   |
+    burnt in oxygen.     |            | 2H2O       |        |          |
+  -----------------------+------------+------------+--------+----------+
+  Marsh gas (methane)    | CH4     16 | 2CO2    80 | 23,513 |  24.34   |
+  burnt in oxygen.       |            | 2H2O       |        |          |
+  -----------------------+------------+------------+--------+----------+
+
+Composition of air--
+
+  by volume 0.788 N + 0.197 O + 0.001 CO2 + 0.014 H2O
+  ----------------------------------------------------
+  by weight 0.771 N + 0.218 O + 0.009 CO2 + 0.017 H2O
+
+This law is, however, subject to some apparent exceptions. Carbon
+burned in protoxide of nitrogen, or laughing gas, N_{2}O, produces
+about 38 per cent. more heat than the same substance burned in pure
+oxygen, notwithstanding that the work of decomposing the protoxide of
+nitrogen has to be performed. In marsh gas, or methane, CH_{4}, again,
+the energy of combustion is considerably less than that due to the
+burning of its carbon and hydrogen separately. These exceptions
+probably arise from the circumstance that the energy of chemical
+action is absorbed to a greater or less degree in effecting molecular
+changes, as, for example, the combustion of 1 pound of nitrogen to
+form protoxide of nitrogen results in the absorption of 1,157 units of
+heat. Berthelot states, as one of the fundamental principles of
+thermochemistry, "that the quantity of heat evolved is the measure of
+the sum of the chemical and physical work accomplished in the
+reaction"; and such a law will no doubt account for the phenomena
+above noted. The equivalent heat of combustion of the compounds we
+have practically to deal with has been experimentally determined, and
+therefore constitutes a secure basis on which to establish
+calculations of the caloric value of fuel; and in doing so, with
+respect to substances composed of carbon, hydrogen, and oxygen, it is
+convenient to reduce the hydrogen to its heat-producing equivalent of
+carbon. The heat of combustion of hydrogen being 62,032 units, that of
+carbon 14,544 units, it follows that 4.265 times the weight of
+hydrogen will represent an equivalent amount of carbon. With respect
+to the oxygen, it is found that it exists in combination with the
+hydrogen in the form of water, and, being combined already, abstracts
+its combining equivalent of hydrogen from the efficient ingredients of
+the fuel; and hence hydrogen, to the extent of 1/8 of the weight of
+the oxygen, must be deducted. The general formula then becomes:
+

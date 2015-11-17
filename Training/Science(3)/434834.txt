@@ -1,0 +1,397 @@
+points which are called its foci.
+
+In the case of the planetary orbits one focus of the ellipse is vacant,
+and, in accordance with the first law, the center of the sun is at the
+other focus. In Fig. 17 the dot, inside the orbit of Mercury, which is
+marked _a_, shows the position of the vacant focus of the orbit of Mars,
+and the dot _b_ is the vacant focus of Mercury's orbit. The orbits of
+Venus and the earth are so nearly circular that their vacant foci lie
+very close to the sun and are not marked in the figure. The line drawn
+from the sun to any point of the orbit (the string from pin to pencil
+point) is a _radius vector_. The point midway between the pins is the
+_center_ of the ellipse, and the distance of either pin from the center
+measures the _eccentricity_ of the ellipse.
+
+Draw several ellipses with the same length of string, but with the pins
+at different distances apart, and note that the greater the eccentricity
+the flatter is the ellipse, but that all of them have the same length.
+
+If both pins were driven into the same hole, what kind of an ellipse
+would you get?
+
+The Second Law was worked out by Kepler as his answer to a problem
+suggested by the first law. In Fig. 17 it is apparent from a mere
+inspection of the orbit of Mercury that this planet travels much faster
+on one side of its orbit than on the other, the distance covered in ten
+days between the numbers 10 and 20 being more than fifty per cent
+greater than that between 50 and 60. The same difference is found,
+though usually in less degree, for every other planet, and Kepler's
+problem was to discover a means by which to mark upon the orbit the
+figures showing the positions of the planet at the end of equal
+intervals of time. His solution of this problem, contained in the second
+law, asserts that if we draw radii vectors from the sun to each of the
+marked points taken at equal time intervals around the orbit, then the
+area of the sector formed by two adjacent radii vectores and the arc
+included between them is equal to the area of each and every other such
+sector, the short radii vectores being spread apart so as to include a
+long arc between them while the long radii vectores have a short arc. In
+Kepler's form of stating the law the radius vector is supposed to travel
+with the planet and in each day to sweep over the same fractional part
+of the total area of the orbit. The spacing of the numbers in Fig. 17
+was done by means of this law.
+
+For the proper understanding of Kepler's Third Law we must note that the
+"mean distance" which appears in it is one half of the long diameter of
+the orbit and that the "periodic time" means the number of days or years
+required by the planet to make a complete circuit in its orbit.
+Representing the first of these by _a_ and the second by _T_, we have,
+as the mathematical equivalent of the law,
+
+    a^{3} ÷ T^{2} = C
+
+where the quotient, _C_, is a number which, as Kepler found, is the same
+for every planet of the solar system. If we take the mean distance of
+the earth from the sun as the unit of distance, and the year as the unit
+of time, we shall find by applying the equation to the earth's motion,
+_C_ = 1. Applying this value to any other planet we shall find in the
+same units, _a_ = _T_^{2/3}, by means of which we may determine the
+distance of any planet from the sun when its periodic time, _T_, has
+been learned from observation.
+
+EXERCISE 18.--Uranus requires 84 years to make a revolution in its
+orbit. What is its mean distance from the sun? What are the mean
+distances of Mercury, Venus, and Mars? (See Chapter III for their
+periodic times.) Would it be possible for two planets at different
+distances from the sun to move around their orbits in the same time?
+
+A circle is an ellipse in which the two foci have been brought together.
+Would Kepler's laws hold true for such an orbit?
+
+34. NEWTON'S LAWS OF MOTION.--Kepler studied and described the motion of
+the planets. Newton, three generations later (1727 A. D.), studied and
+described the mechanism which controls that motion. To Kepler and his
+age the heavens were supernatural, while to Newton and his successors
+they are a part of Nature, governed by the same laws which obtain upon
+the earth, and we turn to the ordinary things of everyday life as the
+foundation of celestial mechanics.
+
+Every one who has ridden a bicycle knows that he can coast farther upon
+a level road if it is smooth than if it is rough; but however smooth and
+hard the road may be and however fast the wheel may have been started,
+it is sooner or later stopped by the resistance which the road and the
+air offer to its motion, and when once stopped or checked it can be
+started again only by applying fresh power. We have here a familiar
+illustration of what is called
+
+THE FIRST LAW OF MOTION.--"Every body continues in its state of rest or
+of uniform motion in a straight line except in so far as it may be
+compelled by force to change that state." A gust of wind, a stone, a
+careless movement of the rider may turn the bicycle to the right or the
+left, but unless some disturbing force is applied it will go straight
+ahead, and if all resistance to its motion could be removed it would go
+always at the speed given it by the last power applied, swerving neither
+to the one hand nor the other.
+
+When a slow rider increases his speed we recognize at once that he has
+applied additional power to the wheel, and when this speed is slackened
+it equally shows that force has been applied against the motion. It is
+force alone which can produce a change in either velocity or direction
+of motion; but simple as this law now appears it required the genius of
+Galileo to discover it and of Newton to give it the form in which it is
+stated above.
+
+35. THE SECOND LAW OF MOTION, which is also due to Galileo and Newton,
+is:
+
+"Change of motion is proportional to force applied and takes place in
+the direction of the straight line in which the force acts." Suppose a
+man to fall from a balloon at some great elevation in the air; his own
+weight is the force which pulls him down, and that force operating at
+every instant is sufficient to give him at the end of the first second
+of his fall a downward velocity of 32 feet per second--i. e., it has
+changed his state from rest, to motion at this rate, and the motion is
+toward the earth because the force acts in that direction. During the
+next second the ceaseless operation of this force will have the same
+effect as in the first second and will add another 32 feet to his
+velocity, so that two seconds from the time he commenced to fall he will
+be moving at the rate of 64 feet per second, etc. The column of figures
+marked _v_ in the table below shows what his velocity will be at the end
+of subsequent seconds. The changing velocity here shown is the change of
+motion to which the law refers, and the velocity is proportional to the
+time shown in the first column of the table, because the amount of force
+exerted in this case is proportional to the time during which it
+operated. The distance through which the man will fall in each second is
+shown in the column marked _d_, and is found by taking the average of
+his velocity at the beginning and end of this second, and the total
+distance through which he has fallen at the end of each second, marked
+_s_ in the table, is found by taking the sum of all the preceding values
+of _d_. The velocity, 32 feet per second, which measures the change of
+motion in each second, also measures the _accelerating force_ which
+produces this motion, and it is usually represented in formulæ by the
+letter _g_. Let the student show from the numbers in the table that the
+accelerating force, the time, _t_, during which it operates, and the
+space, _s_, fallen through, satisfy the relation
+
+    s = 1/2 gt^{2},
+
+which is usually called the law of falling bodies. How does the table
+show that _g_ is equal to 32?
+
+            TABLE
+
+    _t_   _v_   _d_   _s_
+
+     0      0     0     0
+     1     32    16    16
+     2     64    48    64
+     3     96    80   144
+     4    128   112   256
+     5    160   144   400
+    etc.  etc.  etc.  etc.
+
+If the balloon were half a mile high how long would it take to fall to
+the ground? What would be the velocity just before reaching the ground?
+
+[Illustration: GALILEO GALILEI (1564-1642).]
+
+Fig. 19 shows the path through the air of a ball which has been struck
+by a bat at the point _A_, and started off in the direction _A B_ with a
+velocity of 200 feet per second. In accordance with the first law of
+motion, if it were acted upon by no other force than the impulse given
+by the bat, it should travel along the straight line _A B_ at the
+uniform rate of 200 feet per second, and at the end of the fourth second
+it should be 800 feet from _A_, at the point marked 4, but during these
+four seconds its weight has caused it to fall 256 feet, and its actual
+position, 4', is 256 feet below the point 4. In this way we find its
+position at the end of each second, 1', 2', 3', 4', etc., and drawing a
+line through these points we shall find the actual path of the ball
+under the influence of the two forces to be the curved line _A C_. No
+matter how far the ball may go before striking the ground, it can not
+get back to the point _A_, and the curve _A C_ therefore can not be a
+part of a circle, since that curve returns into itself. It is, in fact,
+a part of a _parabola_, which, as we shall see later, is a kind of orbit
+in which comets and some other heavenly bodies move. A skyrocket moves
+in the same kind of a path, and so does a stone, a bullet, or any other
+object hurled through the air.
+
+[Illustration: FIG. 19.--The path of a ball.]
+
+36. THE THIRD LAW OF MOTION.--"To every action there is always an equal
+and contrary reaction; or the mutual actions of any two bodies are
+always equal and oppositely directed." This is well illustrated in the
+case of a man climbing a rope hand over hand. The direct force or action
+which he exerts is a downward pull upon the rope, and it is the reaction
+of the rope to this pull which lifts him along it. We shall find in a
+later chapter a curious application of this law to the history of the
+earth and moon.
+
+It is the great glory of Sir Isaac Newton that he first of all men
+recognized that these simple laws of motion hold true in the heavens as
+well as upon the earth; that the complicated motion of a planet, a
+comet, or a star is determined in accordance with these laws by the
+forces which act upon the bodies, and that these forces are essentially
+the same as that which we call weight. The formal statement of the
+principle last named is included in--
+
+37. NEWTON'S LAW OF GRAVITATION.--"Every particle of matter in the
+universe attracts every other particle with a force whose direction is
+that of a line joining the two, and whose magnitude is directly as the
+product of their masses, and inversely as the square of their distance
+from each other." We know that we ourselves and the things about us are
+pulled toward the earth by a force (weight) which is called, in the
+Latin that Newton wrote, _gravitas_, and the word marks well the true
+significance of the law of gravitation. Newton did not discover a new
+force in the heavens, but he extended an old and familiar one from a
+limited terrestrial sphere of action to an unlimited and celestial one,
+and furnished a precise statement of the way in which the force
+operates. Whether a body be hot or cold, wet or dry, solid, liquid, or
+gaseous, is of no account in determining the force which it exerts,
+since this depends solely upon mass and distance.
+
+The student should perhaps be warned against straining too far the
+language which it is customary to employ in this connection. The law of
+gravitation is certainly a far-reaching one, and it may operate in every
+remotest corner of the universe precisely as stated above, but
+additional information about those corners would be welcome to
+supplement our rather scanty stock of knowledge concerning what happens
+there. We may not controvert the words of a popular preacher who says,
+"When I lift my hand I move the stars in Ursa Major," but we should not
+wish to stand sponsor for them, even though they are justified by a
+rigorous interpretation of the Newtonian law.
+
+The word _mass_, in the statement of the law of gravitation, means the
+quantity of matter contained in the body, and if we represent by the
+letters _m´_ and _m´´_ the respective quantities of matter contained in
+the two bodies whose distance from each other is _r_, we shall have, in
+accordance with the law of gravitation, the following mathematical
+expression for the force, _F_, which acts between them:
+
+    F = k {m´m´´/r^{2}}.
+
+This equation, which is the general mathematical expression for the law
+of gravitation, may be made to yield some curious results. Thus, if we
+select two bullets, each having a mass of 1 gram, and place them so that
+their centers are 1 centimeter apart, the above expression for the force
+exerted between them becomes
+
+    F = k {(1 × 1)/1^{2}} = k,
+
+from which it appears that the coefficient _k_ is the force exerted
+between these bodies. This is called the gravitation constant, and it
+evidently furnishes a measure of the specific intensity with which one
+particle of matter attracts another. Elaborate experiments which have
+been made to determine the amount of this force show that it is
+surprisingly small, for in the case of the two bullets whose mass of 1
+gram each is supposed to be concentrated into an indefinitely small
+space, gravity would have to operate between them continuously for more
+than forty minutes in order to pull them together, although they were
+separated by only 1 centimeter to start with, and nothing save their own
+inertia opposed their movements. It is only when one or both of the
+masses _m´_, _m´´_ are very great that the force of gravity becomes
+large, and the weight of bodies at the surface of the earth is
+considerable because of the great quantity of matter which goes to make
+up the earth. Many of the heavenly bodies are much more massive than the
+earth, as the mathematical astronomers have found by applying the law of
+gravitation to determine numerically their masses, or, in more popular
+language, to "weigh" them.
+
+The student should observe that the two terms mass and weight are not
+synonymous; mass is defined above as the quantity of matter contained in
+a body, while weight is the force with which the earth attracts that
+body, and in accordance with the law of gravitation its weight depends
+upon its distance from the center of the earth, while its mass is quite
+independent of its position with respect to the earth.
+
+By the third law of motion the earth is pulled toward a falling body
+just as strongly as the body is pulled toward the earth--i. e., by a
+force equal to the weight of the body. How much does the earth rise
+toward the body?
+
+38. THE MOTION OF A PLANET.--In Fig. 20 _S_ represents the sun and _P_ a
+planet or other celestial body, which for the moment is moving along the
+straight line _P 1_. In accordance with the first law of motion it would
+continue to move along this line with uniform velocity if no external
+force acted upon it; but such a force, the sun's attraction, is acting,
+and by virtue of this attraction the body is pulled aside from the line
+_P 1_.
+
+Knowing the velocity and direction of the body's motion and the force
+with which the sun attracts it, the mathematician is able to apply
+Newton's laws of motion so as to determine the path of the body, and a
+few of the possible orbits are shown in the figure where the short cross
+stroke marks the point of each orbit which is nearest to the sun. This
+point is called the _perihelion_.
+
+Without any formal application of mathematics we may readily see that
+the swifter the motion of the body at _P_ the shorter will be the time
+during which it is subjected to the sun's attraction at close range, and
+therefore the force exerted by the sun, and the resulting change of
+motion, will be small, as in the orbits _P 1_ and _P 2_.
+
+On the other hand, _P 5_ and _P 6_ represent orbits in which the
+velocity at _P_ was comparatively small, and the resulting change of
+motion greater than would be possible for a more swiftly moving body.
+
+What would be the orbit if the velocity at _P_ were reduced to nothing
+at all?
+
+What would be the effect if the body starting at _P_ moved directly away
+from _1_?
+
+[Illustration: FIG. 20.--Different kinds of orbits.]
+
+The student should not fail to observe that the sun's attraction tends
+to pull the body at _P_ forward along its path, and therefore increases
+its velocity, and that this influence continues until the planet reaches
+perihelion, at which point it attains its greatest velocity, and the
+force of the sun's attraction is wholly expended in changing the
+direction of its motion. After the planet has passed perihelion the sun
+begins to pull backward and to retard the motion in just the same
+measure that before perihelion passage it increased it, so that the two
+halves of the orbit on opposite sides of a line drawn from the
+perihelion through the sun are exactly alike. We may here note the
+explanation of Kepler's second law: when the planet is near the sun it
+moves faster, and the radius vector changes its direction more rapidly
+than when the planet is remote from the sun on account of the greater
+force with which it is attracted, and the exact relation between the
+rates at which the radius vector turns in different parts of the orbit,
+as given by the second law, depends upon the changes in this force.
+
+When the velocity is not too great, the sun's backward pull, after a
+planet has passed perihelion, finally overcomes it and turns the planet
+toward the sun again, in such a way that it comes back to the point _P_,
+moving in the same direction and with the same speed as before--i. e.,
+it has gone around the sun in an orbit like _P 6_ or _P 4_, an ellipse,
+along which it will continue to move ever after. But we must not fail to
+note that this return into the same orbit is a consequence of the last
+line in the statement of the law of gravitation (p. 54), and that, if
+the magnitude of this force were inversely as the cube of the distance
+or any other proportion than the square, the orbit would be something
+very different. If the velocity is too great for the sun's attraction to
+overcome, the orbit will be a hyperbola, like _P 2_, along which the
+body will move away never to return, while a velocity just at the limit
+of what the sun can control gives an orbit like _P 3_, a parabola, along
+which the body moves with _parabolic velocity_, which is ever
+diminishing as the body gets farther from the sun, but is always just
+sufficient to keep it from returning. If the earth's velocity could be
+increased 41 per cent, from 19 up to 27 miles per second, it would have
+parabolic velocity, and would quit the sun's company.
+
+The summation of the whole matter is that the orbit in which a body
+moves around the sun, or past the sun, depends upon its velocity and if
+this velocity and the direction of the motion at any one point in the
+orbit are known the whole orbit is determined by them, and the position
+of the planet in its orbit for past as well as future times can be
+determined through the application of Newton's laws; and the same is
+true for any other heavenly body--moon, comet, meteor, etc. It is in
+this way that astronomers are able to predict, years in advance, in what
+particular part of the sky a given planet will appear at a given time.
+
+It is sometimes a source of wonder that the planets move in ellipses
+instead of circles, but it is easily seen from Fig. 20 that the planet,
+_P_, could not by any possibility move in a circle, since the direction
+of its motion at _P_ is not at right angles with the line joining it to
+the sun as it must be in a circular orbit, and even if it were
+perpendicular to the radius vector the planet must needs have exactly
+the right velocity given to it at this point, since either more or less
+speed would change the circle into an ellipse. In order to produce
+circular motion there must be a balancing of conditions as nice as is
+required to make a pin stand upon its point, and the really surprising
+thing is that the orbits of the planets should be so nearly circular as
+they are. If the orbit of the earth were drawn accurately to scale, the
+untrained eye would not detect the slightest deviation from a true
+circle, and even the orbit of Mercury (Fig. 17), which is much more
+eccentric than that of the earth, might almost pass for a circle.
+
+[Illustration: FIG. 21. An impossible orbit.]
+
+The orbit _P 2_, which lies between the parabola and the straight line,
+is called in geometry a hyperbola, and Newton succeeded in proving from
+the law of gravitation that a body might move under the sun's attraction
+in a hyperbola as well as in a parabola or ellipse; but it must move in
+some one of these curves; no other orbit is possible.[1] Thus it would
+not be possible for a body moving under the law of gravitation to
+describe about the sun any such orbit as is shown in Fig. 21. If the
+body passes a second time through any point of its orbit, such as _P_ in
+the figure, then it must retrace, time after time, the whole path that
+it first traversed in getting from _P_ around to _P_ again--i. e., the
+orbit must be an ellipse.
+
+  [1] The circle and straight line are considered to be special cases
+      of these curves, which, taken collectively, are called the conic
+      sections.
+
+Newton also proved that Kepler's three laws are mere corollaries from
+the law of gravitation, and that to be strictly correct the third law
+must be slightly altered so as to take into account the masses of the
+planets. These are, however, so small in comparison with that of the
+sun, that the correction is of comparatively little moment.
+
+39. PERTURBATIONS.--In what precedes we have considered the motion of a
+planet under the influence of no other force than the sun's attraction,
+while in fact, as the law of gravitation asserts, every other body in
+the universe is in some measure attracting it and changing its motion.
+The resulting disturbances in the motion of the attracted body are
+called _perturbations_, but for the most part these are insignificant,
+because the bodies by whose disturbing attractions they are caused are
+either very small or very remote, and it is only when our moving planet,

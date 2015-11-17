@@ -1,0 +1,496 @@
+part in the Paris exhibition, and from the wide range of its
+specialties exhibits largely in three important branches of industry:
+mechanics, electricity, and the optics of lighthouses and projectors.
+In these three branches MM. Sautter, Lemonnier & Co. occupy a leading
+position in all parts of the world.
+
+The invention of the aplanetic projector, due to Col. Mangin, was a
+clever means of overcoming difficulties, practically insurmountable,
+that were inseparable from the construction of parabolic mirrors; this
+contributed chiefly to the success of MM. Sautter, Lemonnier & Co. in
+this direction. The firm has produced more than 1,500 of these
+apparatus, representing a value of nearly L500,000, for the French and
+other governments.
+
+Besides the great projector, which forms the central and crowning
+object of the exhibit of MM. Sautter, Lemonnier & Co. in the machinery
+hall, the firm exhibits a projector 90 centimeters in diameter mounted
+on a crane traveling on wheels, in the pavilion of the War Department.
+The lamp used for this apparatus has a luminous value of 6,000
+carcels, with a current of 100 amperes; the amplifying power of the
+mirror is 2,025, which gives an intensity of ten millions to twelve
+millions of carcels to the beam.
+
+Projectors used for field work are mounted on a portable carriage,
+which also contains the electric generator and the motor driving it.
+
+[Illustration: MILITARY PORTABLE ELECTRIC LIGHT AT THE PARIS
+EXHIBITION.]
+
+It consists of a tubular boiler (Dion, Bouton & Trepardoux system).
+This generator is easily taken to pieces, cleaned, and repaired, and
+steam can be raised to working pressure in 20 minutes. The mechanical
+and electrical part of the apparatus consists of a Parsons
+turbo-motor, of which MM. Sautter, Lemonnier & Co. possess the license
+in France for application to military and naval purposes. The speed of
+the motor is 9,000 revolutions per minute, and the dynamo is driven
+direct from it; at this speed it gives a current of 100 amperes with
+and from 55 to 70 volts; the intensity of the light is from 5,500 to
+6,000 carcels. The carriage upon which the whole of this apparatus is
+mounted is carried on four wheels, made of wood with gun metal
+mountings. These are more easy to repair when in service than if they
+were wholly of iron. The weight of the carriage is three
+tons.--_Engineering._
+
+       *       *       *       *       *
+
+
+
+
+ELECTRIC MOTOR FOR ALTERNATING CURRENTS.
+
+
+Prof. Galileo Ferraris, of Turin, who has carefully studied
+alternating currents and secondary transformers, has constructed a
+little motor based upon an entirely new principle, which is as
+follows: If we take two inductive fields developed by two bobbins, the
+axes of which cut each other at right angles, and a pole placed at the
+vertex of the angle, this pole will be subjected to the simultaneous
+action of the two bobbins, and the resultant of the magnetic actions
+will be represented in magnitude and direction by the diagonal of the
+parallelogram, two consecutive sides of which have for their length
+the intensity of the two fields, and for their direction the axes of
+the two bobbins.
+
+If into each of these bobbins we send alternating currents having
+between one bobbin and the other a difference of phase of 90 deg., the
+extremity of the resultant will describe a circle having for its
+center the vertex of the right angle.
+
+If, instead of a fixed pole, we use a metal cylinder movable on its
+axis, we shall obtain a continuous rotatory motion of this part, and
+the direction of the movement will change when we interchange the
+difference of phase in the exciting currents. This rotatory movement
+is not due to the Foucault currents, for the metal cylinder may
+consist of plates of iron insulated from each other.
+
+In order to realize the production of these fields, several means can
+be employed: The current is sent from an alternating current machine
+into the primary circuit of a transformer and thence into one of the
+bobbins, the other being supplied by means of the secondary current of
+the transformer. A resistance introduced into the circuit will produce
+the required difference of phase, and the equality of the intensities
+of the fields will be obtained by multiplying the number of turns of
+the secondary wire on the bobbin. Moreover, the two bobbins may be
+supplied by the secondary current of a transformer by producing the
+difference of phase, as in the first case.
+
+In the motor constructed by Prof. Ferraris the armature consisted of a
+copper cylinder measuring 7 centimeters in diameter and 15 centimeters
+in length, movable on its axis. The inductors were formed of two
+groups of two bobbins. The bobbins which branched off from the primary
+circuit of a Gaulard transformer, and were connected in series,
+comprised 196 spirals with a resistance of 13 ohms; the bobbins
+comprising the secondary circuit were coupled in parallel, and had 504
+spirals with 3.43 ohms resistance. In order to produce the difference
+of phase, a resistance of 17 ohms was introduced into the second
+circuit, when the dynamo produced a current of 9 amperes with 80
+inversions per second. Under these conditions the available work
+measured on the axis of the motor was found for different speeds:
+Revolutions per minute: 262--400--546--650--722--770. Watts measured
+at the brake: 1.32--2.12--2.55--2.77--2.55--2.40. The maximum
+rendering corresponds to a speed of rotation of 650 revolutions, and
+Prof. Ferraris attributes the loss of work for higher speeds to the
+vibrations to which the machine is exposed. At present the apparatus
+is but a laboratory one.--_Bulletin International de l'Electricite._
+
+       *       *       *       *       *
+
+
+
+
+THE ELECTRIC AGE.
+
+By CHARLES CARLETON COFFIN.
+
+
+The application of electricity for our convenience and comfort is one
+of the marvels of the age. Never in the history of the world has there
+been so rapid a development of an occult science. Prior to 1819 very
+little was known in regard to magnetism and electricity. During that
+year Oersted discovered that an electric current would deflect a
+magnetic needle, thus showing that there was some relationship between
+electric and magnetic force. A few months later, Arago and Sir Humphry
+Davy, independently of each other, discovered that by coiling a wire
+around a piece of iron, and passing an electric current through it,
+the iron would possess for the time being all the properties of a
+magnet. In 1825 William Sturgeon, of London, bent a piece of wire in
+the form of the letter U, wound a second wire around it, and, upon
+connecting it with a galvanic battery, discovered that the first wire
+became magnetic, but lost its magnetic property the moment the battery
+was disconnected. The idea of a telegraphic signal came to him, but
+the electric impulse, through his rude apparatus, faded out at a
+distance of fifty feet. In 1830 Prof. Joseph Henry, of this country,
+constructed a line of wire, one and a half miles in length, and sent a
+current of electricity through it, ringing a bell at the farther end.
+The following year Professor Faraday discovered magnetic induction.
+This, in brief, is the genesis of magnetic electricity, which is the
+basis of all that has been accomplished in electrical science.
+
+The first advance after these discoveries was in the development of
+the electric telegraph--the discovery in 1837, by the philosopher
+Steinhill, that the earth could serve as a conductor, thus requiring
+but one wire in the employment of an electric current. Simultaneously
+came Morse's invention of the mechanism for the telegraph in 1844,
+foreshadowed by Henry in the ringing of bells, thus transmitting
+intelligence by sound. Four years later, in 1848, Prof. M. G. Farmer,
+still living in Eliot, Me., attached an electro-magnet to clockwork
+for the striking of bells to give an alarm of fire. The same idea came
+to William F. Channing. The mechanism, constructed simply to
+illustrate the idea by Professor Farmer, was placed upon the roof of
+the Court House in Boston, and connected with the telegraph wire
+leading to New York, and an alarm rung by the operator in that city.
+The application of electricity for giving definite information to
+firemen was first made in Boston, and it was my privilege to give the
+first alarm on the afternoon of April 12, 1852.
+
+At the close of the last century, Benjamin Thompson, born in Woburn,
+Mass., known to the world as Count Rumford, was in the workshop of the
+military arsenal of the King of Bavaria in Munich, superintending the
+boring of a cannon. The machinery was worked by two horses. He was
+surprised at the amount of heat which was generated, for when he threw
+the borings into a tumbler filled with cold water, it was set to
+boiling, greatly to the astonishment of the workmen. Whence came the
+heat? What was heat? The old philosopher said that it was an element.
+By experiment he discovered that a horse working two hours and twenty
+minutes with the boring machinery would heat nineteen pounds of water
+to the boiling point. He traced the heat to the horse, but with all
+his acumen he did not go on with the induction to the hay and oats, to
+the earth, the sunshine and rain, and so get back to the sun. One
+hundred years ago there was no chemical science worthy of the name, no
+knowledge of the constitution of plants or the properties of light and
+heat. The old philosophers considered light and heat to be fluids,
+which passed out of substances when they were too full. Count Rumford
+showed that motion was convertible into heat, but did not trace the
+motion to its source, so far as we know, in the sun.
+
+It is only forty-six years since Professor Joule first demonstrated
+the mutual relations of all the manifestations of nature's energy.
+Thirty-nine years only have passed since he announced the great law of
+the convertibility of force. He constructed a miniature churn which
+held one pound of water, and connected the revolving paddle of the
+churn with a wheel moved by a pound weight, wound up the weight, and
+set the paddle in motion. A thermometer detected the change of
+temperature and a graduated scale marked the distance traversed by the
+descending weight. Repeated experiments showed that a pound weight
+falling 772 feet would raise the temperature of water one degree, and
+that this was an unvarying law. This was transferring gravitation to
+heat, and the law held good when applied to electricity, magnetism,
+and chemical affinity, leading to the conclusion that they were
+severally manifestations of one universal power.--_Congregationalist._
+
+       *       *       *       *       *
+
+
+
+
+EARLY ELECTRIC LIGHTING.
+
+
+The opening of the new station of the Electric Lighting Co., of Salem,
+Mass., was recently celebrated with appropriate festivities.
+
+Among the letters of regret from those unable to attend the opening
+was the following from Prof. Moses G. Farmer:
+
+                                        "ELIOT, Me., Aug. 5, 1889.
+
+"_To the Salem Electric Lighting Company, Charles H. Price,
+President_:
+
+"GENTLEMEN: It would give me great pleasure to accept your kind
+invitation to be present at the opening of your new station in Salem
+on the 8th of this present August.
+
+"It is now thirty years since the first dwelling house in Salem was
+lighted by electricity. That little obscure dwelling, 11 Pearl Street,
+formerly owned by 'Pa' Webb, had the honor to be illuminated by the
+effulgent electric beam during every evening of July, 1859, as some of
+your honored residents, perhaps, well remember. Mr. George D. Phippen
+can doubtless testify to one or more evenings; Mr. Wm. H. Mendell, of
+Boston, can also add his testimony; dozens of others could also do the
+same, had not some of them already passed to the 'great beyond,' among
+whom I well recollect the interest taken by the late and honored Henry
+L. Williams, Mr. J. G. Felt, and I do not know how many others. I well
+remember reading some of the very finest print standing with my back
+to the front wall and reading by the light of a 32 candle power lamp
+on the northernmost end of the mantel piece in the parlor; very
+possibly the hole in which the lamp was fastened remains to this day.
+In a little closet in the rear sleeping room was a switch which could
+be turned in one direction and give a beautiful glow light, while if
+turned in the other direction, it instantly gave as beautiful a dark.
+My then 12 year old daughter used to surprise and please her visitors
+by suddenly turning on and off the 'glim.' It is not well to despise
+the day of small things, for although the dynamo had not at that date
+put in an appearance, and though I used thirty-six Smee cells of six
+gallons capacity each, yet I demonstrated then and there that the
+incandescent electric light was a possibility, and although I
+innocently remarked to the late Samuel W. Bates, of Boston, who with
+his partner, Mr. Chauncey Smith, furnished so generously in the
+interest of science, not wholly without hope of return, the funds for
+the experiment, that it 'did not take much zinc,' and though Mr. Bates
+as naively replied, 'I notice that it takes some silver, though,'
+still it was then and there heralded as the coming grand illuminant
+for the dwelling. I am thankful to have lived to see my predictions
+partly fulfilled.
+
+"During the early fifties I published a statement something like this:
+'One pound of coal will furnish gas enough to maintain a candle light
+for fifteen hours. One pound of gas (the product of five pounds of
+coal) will, in a good fishtail gas burner, furnish one candle light
+for seventy-five hours. One pound of coal burned in a good furnace,
+under a good boiler, driving a good steam engine, turning a good
+magneto-electric machine, will give a candle light for one thousand
+hours. But if all the energy locked up in one pound of pure carbon
+could be wholly converted into light, it would maintain one candle
+light for more than one and a half years.'
+
+"So, gentlemen, _nil desperandum_; there is still room for
+improvement. Let your motto be 'Excelsior.' Possibly you may have
+already extracted from one-fifteenth to one-twelfth of the energy
+stored in the pound of carbon, but hardly more. Go on, go on, and
+bring it so cheap as to reach the humblest dwelling when you shall
+celebrate the centennial of the opening of your new station.
+
+"I do most sincerely regret that I cannot be with you in the flesh. I
+am, like Ixion of old, confined to a wheel (chair in my case), cannot
+walk, cannot even stand; hence, owing to the impairment of my
+understanding (???), I must wish you all the enjoyments of the
+evening, and gladly content myself that you have made so much
+possible.
+
+                    "Very truly yours, MOSES G. FARMER."
+
+       *       *       *       *       *
+
+
+
+
+THE MODERN THEORY OF LIGHT.[1]
+
+    [Footnote 1: Being the general substance of a lecture to the
+    Ashmolean Society in the University of Oxford, on Monday, June
+    3, 1889. [Reprinted from the _Liverpool University College
+    Magazine_.]]
+
+By Prof. OLIVER LODGE.
+
+
+To persons occupied in other branches of learning, and not directly
+engaged in the study of physical science, some rumor must probably
+have traveled of the stir and activity manifest at the present time
+among the votaries of that department of knowledge.
+
+It may serve a useful purpose if I try and explain to outsiders what
+this stir is mainly about, and why it exists. There is a proximate and
+there is an ultimate cause. The proximate cause is certain experiments
+exhibiting in a marked and easily recognizable way the already
+theoretically predicted connection between electricity and light. The
+ultimate cause is that we begin to feel inklings and foretastes of
+theories, wider than that of gravitation, more fundamental than any
+theories which have yet been advanced; theories which if successfully
+worked out will carry the banner of physical science far into the dark
+continent of metaphysics, and will illuminate with a clear philosophy
+much that is at present only dimly guessed. More explicitly, we begin
+to perceive chinks of insight into the natures of electricity, of
+ether, of elasticity, and even of matter itself. We begin to have a
+kinetic theory of the physical universe.
+
+We are living, not in a Newtonian, but at the beginning of a perhaps
+still greater Thomsonian era. Greater, not because any one man is
+probably greater than Newton,[2] but because of the stupendousness of
+the problems now waiting to be solved. There are a dozen men of great
+magnitude, either now living or but recently deceased, to whom what we
+now know toward these generalizations is in some measure due, and the
+epoch of complete development may hardly be seen by those now alive.
+It is proverbially rash to attempt prediction, but it seems to me that
+it may well take a period of fifty years for these great strides to be
+fully accomplished. If it does, and if progress goes on at anything
+like its present rate, the aspect of physical science bequeathed to
+the latter half of the twentieth century will indeed excite
+admiration, and when the populace are sufficiently educated to
+appreciate it, will form a worthy theme for poetry, for oratorios, and
+for great works of art.
+
+    [Footnote 2: Though, indeed, a century hence it may be premature
+    to offer an opinion on such a point.]
+
+To attempt to give any idea of the drift of progress in all the
+directions which I have hastily mentioned, to attempt to explain the
+beginnings of the theories of elasticity and of matter, would take too
+long, and might only result in confusion. I will limit myself chiefly
+to giving some notion of what we have gained in knowledge concerning
+electricity, ether, and light. Even that is far too much. I find I
+must confine myself principally to light, and only treat of the others
+as incidental to that.
+
+For now well nigh a century we have had a wave theory of light; and a
+wave theory of light is quite certainly true. It is directly
+demonstrable that light consists of waves of some kind or other, and
+that these waves travel at a certain well-known velocity, seven times
+the circumference of the earth per second, taking eight minutes on the
+journey from the sun to the earth. This propagation in time of an
+undulatory disturbance necessarily involves a medium. If waves setting
+out from the sun exist in space eight minutes before striking our
+eyes, there must necessarily be in space some medium in which they
+exist and which conveys them. Waves we cannot have unless they be
+waves in something.
+
+No ordinary medium is competent to transmit waves at anything like the
+speed of light; hence the luminiferous medium must be a special kind
+of substance, and it is called the ether. The _luminiferous_ ether it
+used to be called, because the conveyance of light was all it was then
+known to be capable of; but now that it is known to do a variety of
+other things also, the qualifying adjective may be dropped.
+
+Wave motion in ether, light certainly is; but what does one mean by
+the term wave? The popular notion is, I suppose, of something heaving
+up and down, or, perhaps, of something breaking on the shore in which
+it is possible to bathe. But if you ask a mathematician what he means
+by a wave, he will probably reply that the simplest wave is
+
+  y = a sin (p t - n x),
+
+and he might possibly refuse to give any other answer.
+
+And in refusing to give any other answer than this, or its equivalent
+in ordinary words, he is entirely justified; that is what is meant by
+the term wave, and nothing less general would be all-inclusive.
+
+Translated into ordinary English the phrase signifies "a disturbance
+periodic both in space and time." Anything thus doubly periodic is a
+wave; and all waves, whether in air as sound waves, or in ether as
+light waves, or on the surface of water as ocean waves, are
+comprehended in the definition.
+
+What properties are essential to a medium capable of transmitting wave
+motion? Roughly we may say two--_elasticity_ and _inertia_. Elasticity
+in some form, or some equivalent of it, in order to be able to store
+up energy and effect recoil; inertia, in order to enable the disturbed
+substance to overshoot the mark and oscillate beyond its place of
+equilibrium to and fro. Any medium possessing these two properties can
+transmit waves, and unless a medium possesses these properties in some
+form or other, or some equivalent for them, it may be said with
+moderate security to be incompetent to transmit waves. But if we make
+this latter statement, one must be prepared to extend to the terms
+elasticity and inertia their very largest and broadest signification,
+so as to include any possible kind of restoring force and any possible
+kind of persistence of motion respectively.
+
+These matters may be illustrated in many ways, but perhaps a simple
+loaded lath or spring in a vise will serve well enough. Pull aside one
+end, and its elasticity tends to make it recoil; let it go, and its
+inertia causes it to overshoot its normal position; both causes
+together cause it to swing to and fro till its energy is exhausted. A
+regular series of such springs at equal intervals in space, set going
+at regular intervals of time one after the other, gives you at once a
+wave motion and appearance which the most casual observer must
+recognize as such. A series of pendulums will do just as well. Any
+wave-transmitting medium must similarly possess some form of
+elasticity and of inertia.
+
+But now proceed to ask what is this ether which in the case of light
+is thus vibrating? What corresponds to the elastic displacement and
+recoil of the spring or pendulum? What corresponds to the inertia
+whereby it overshoots its mark? Do we know these properties in the
+ether in any other way?
+
+The answer, given first by Clerk Maxwell, and now reiterated and
+insisted on by experiments performed in every important laboratory in
+the world, is:
+
+The elastic displacement corresponds to electrostatic charge (roughly
+speaking, to electricity).
+
+The inertia corresponds to magnetism.
+
+This is the basis of the modern electro-magnetic theory of light. Now
+let me illustrate electrically how this can be.
+
+The old and familiar operation of charging a Leyden jar--the storing
+up of energy in a strained dielectric, any electrostatic charging
+whatever--is quite analogous to the drawing aside of our flexible
+spring. It is making use of the elasticity of the ether to produce a
+tendency to recoil. Letting go the spring is analogous to permitting a
+discharge of the jar--permitting the strained dielectric to recover
+itself, the electrostatic disturbance to subside.
+
+In nearly all the experiments of electrostatics, ethereal elasticity
+is manifest.
+
+Next consider inertia. How would one illustrate the fact that water,
+for instance, possesses inertia--the power of persisting in motion
+against obstacles--the power of possessing kinetic energy? The most
+direct way would be to take a stream of water and try suddenly to stop
+it. Open a water tap freely and then suddenly shut it. The impetus or
+momentum of the stopped water makes itself manifest by a violent shock
+to the pipe, with which everybody must be familiar. The momentum of
+water is utilized by engineers in the "water ram."
+
+A precisely analogous experiment in electricity is what Faraday called
+"the extra current." Send a current through a coil of wire round a
+piece of iron, or take any other arrangement for developing powerful
+magnetism, and then suddenly stop the current by breaking the circuit.
+A violent flash occurs if the stoppage is sudden enough, a flash which
+means the bursting of the insulating air partition by the accumulated
+electro-magnetic momentum.
+
+Briefly, we may say that nearly all electro-magnetic experiments
+illustrate the fact of ethereal inertia.
+
+Now return to consider what happens when a charged conductor (say a
+Leyden jar) is discharged. The recoil of the strained dielectric
+causes a current, the inertia of this current causes it to overshoot
+the mark, and for an instant the charge of the jar is reversed; the
+current now flows backward and charges the jar up as at first; back
+again flows the current, and so on, charging and reversing the charge
+with rapid oscillations until the energy is all dissipated into heat.
+The operation is precisely analogous to the release of a strained
+spring or to the plucking of a stretched string.
+
+But the discharging body thus thrown into strong electrical vibration
+is embedded in the all-pervading ether, and we have just seen that the
+ether possesses the two properties requisite for the generation and
+transmission of waves--viz., elasticity and inertia or density; hence,
+just as a tuning fork vibrating in air excites aerial waves or sound,
+so a discharging Leyden jar in ether excites ethereal waves or light.
+
+Ethereal waves can therefore be actually produced by direct electrical
+means. I discharge here a jar, and the room is for an instant filled
+with light. With light, I say, though you can see nothing. You can see
+and hear the spark indeed--but that is a mere secondary disturbance we
+can for the present ignore--I do not mean any secondary disturbance. I
+mean the true ethereal waves emitted by the electric oscillation going
+on in the neighborhood of this recoiling dielectric. You pull aside
+the prong of a tuning fork and let it go; vibration follows and sound
+is produced. You charge a Leyden jar and let it discharge; vibration
+follows and light is excited.
+
+It is light just as good as any other light. It travels at the same
+pace, it is reflected and refracted according to the same laws; every
+experiment known to optics can be performed with this ethereal
+radiation electrically produced, and yet you cannot see it. Why not?
+For no fault of the light; the fault (if there be a fault) is in the
+eye. The retina is incompetent to respond to these vibrations--they
+are too slow. The vibrations set up when this large jar is discharged
+are from a hundred thousand to a million per second, but that is too
+slow for the retina. It responds only to vibrations between 4,000
+billions and 7,000 billions per second. The vibrations are too quick
+for the ear, which responds only to vibrations between 40 and 40,000
+per second. Between the highest audible and the lowest visible
+vibrations there has been hitherto a great gap, which these electric
+oscillations go far to fill up. There has been a great gap simply
+because we have no intermediate sense organ to detect rates of
+vibration between 40,000 and 4,000,000,000,000,000 per second. It was,
+therefore, an unexplored territory. Waves have been there all the time
+in any quantity, but we have not thought about them nor attended to

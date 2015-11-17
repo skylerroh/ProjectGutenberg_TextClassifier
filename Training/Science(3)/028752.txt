@@ -1,0 +1,307 @@
+The Project Gutenberg EBook of Pleasures of the telescope, by Garrett Serviss
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Pleasures of the telescope
+       An Illustrated Guide for Amateur Astronomers and a Popular
+       Description of the Chief Wonders of the Heavens for General
+       Readers
+
+Author: Garrett Serviss
+
+Release Date: May 10, 2009 [EBook #28752]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PLEASURES OF THE TELESCOPE ***
+
+
+
+
+Produced by V. L. Simpson, Nigel Blower and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/American Libraries.)
+
+
+
+
+
+
+
+
+
+              PLEASURES OF THE
+                 TELESCOPE
+
+
+AN ILLUSTRATED GUIDE FOR AMATEUR ASTRONOMERS
+   AND A POPULAR DESCRIPTION OF THE CHIEF
+         WONDERS OF THE HEAVENS FOR
+              GENERAL READERS
+
+
+                    BY
+             GARRETT P. SERVISS
+
+  AUTHOR OF ASTRONOMY WITH AN OPERA-GLASS
+
+
+"This being made, He yearned for worlds to make
+  From other chaos out beyond our night--
+  For to create is still God's prime delight.
+The large moon, all alone, sailed her dark lake,
+  And the first tides were moving to her might;
+Then Darkness trembled, and began to quake
+Big with the birth of stars, and when He spake
+  A million worlds leapt into radiant light."
+
+                                LLOYD MIFFLIN.
+
+
+          _WITH MANY ILLUSTRATIONS_
+
+
+    NEW YORK D. APPLETON AND COMPANY 1901
+
+
+
+
+               COPYRIGHT, 1901,
+         BY D. APPLETON AND COMPANY.
+
+
+
+
+PREFACE
+
+
+By the introduction of a complete series of star maps, drawn specially
+for the use of the amateur and distributed through the body of the work,
+thus facilitating consultation, it is believed that this book makes a
+step in advance of its predecessors. The maps show all of the stars
+visible to the naked eye in the regions of sky represented, and, in
+addition, some stars that can only be seen with optical aid. The latter
+have been placed in the maps as guide posts in the telescopic field to
+assist those who are searching for faint and inconspicuous objects
+referred to in the text. As the book was not written for those who
+possess the equipment of an observatory, with telescopes driven by
+clockwork and provided with graduated circles, right ascensions and
+declinations are not given. All of the telescopic phenomena described
+are, however, represented in the maps. Star clusters are indicated by a
+conventional symbol, and nebulae by a little white circle; while a small
+cross serves to mark the places where notable new stars have appeared.
+The relative magnitudes of the stars are approximately shown by the
+dimensions of their symbols in the maps, the smaller stars being
+represented by white dots and the larger by star-shaped figures.
+
+In regard to binary stars, it should be remembered that, in many cases,
+their distances and angles of position change so rapidly that any
+statement concerning them remains valid only for a few years at the
+most. There is also much confusion among the measurements announced by
+different authorities. In general, the most recent measurements
+obtainable in 1900 are given in the text, but the observer who wishes to
+study close and rapid binaries will do well to revise his information
+about them as frequently as possible. An excellent list of double stars
+kept up to date, will be found in the annual Companion to the
+Observatory, published in London.
+
+In the lunar charts the plan of inserting the names of the principal
+formations has been preferred to that usually followed, of indicating
+them only by numbers, accompanied by a key list. Even in the most
+detailed charts of the moon only a part of what is visible with
+telescopes can be shown, and the representation, at best, must be merely
+approximate. It is simply a question of what to include and what to
+omit; and in the present case the probable needs of the amateur observer
+have governed the selection--readiness and convenience of reference
+being the chief aim.
+
+It should, perhaps, be said here that the various chapters composing
+this book--like those of "Astronomy with an Opera-glass"--were, in their
+original form, with the single exception of Chapter IX, published in
+Appletons' Popular Science Monthly. The author, it is needless to say,
+was much gratified by the expressed wish of many readers that these
+scattered papers should be revised and collected in a more permanent
+form. As bearing upon the general subject of the book, a chapter has
+been added, at the end, treating on the question of the existence of
+planets among the stars. This also first appeared in the periodical
+above mentioned.
+
+In conclusion, the author wishes for his readers as great a pleasure in
+the use of the telescope as he himself has enjoyed.
+
+G. P. S.
+
+BOROUGH OF BROOKLYN, NEW YORK, _January, 1901_.
+
+
+
+
+CONTENTS
+
+
+CHAPTER I                                                       PAGE
+
+THE SELECTION AND TESTING OF A GLASS                               1
+
+How to get a good telescope--Difference between reflectors and
+refractors--How a telescope is made achromatic--The way to test
+a telescope on stars.
+
+CHAPTER II
+
+IN THE STARRY HEAVENS                                             19
+
+Orion and its wonders, Lepus, Canis Major, Argo, Monoceros,
+Canis Minor, and the Head of Hydra.
+
+CHAPTER III
+
+FROM GEMINI TO LEO AND ROUND ABOUT                                38
+
+The zodiacal constellations Gemini, Cancer, and Leo, and their
+neighbors Auriga, the Lynx, Hydra, Sextans, and Coma Berenices.
+
+CHAPTER IV
+
+VIRGO AND HER NEIGHBORS                                           57
+
+Crater and Corvus, Hydra, Virgo, the "Field of the Nebulae,"
+Libra, Booetes, and the great Arcturus, Canes Venatici, and
+Corona Borealis.
+
+CHAPTER V
+
+IN SUMMER STAR-LANDS                                              75
+
+Scorpio and its red-green gem, Ophiuchus, Sagittarius, Scutum
+Sobieskii, Capricornus, Serpens, Hercules, Draco, Aquila, and
+Delphinus.
+
+CHAPTER VI
+
+FROM LYRA TO ERIDANUS                                             97
+
+Lyra and its brilliant Vega, Cygnus, Vulpecula, Aquarius,
+Equuleus, Pegasus, Cetus, and Eridanus.
+
+CHAPTER VII
+
+PISCES, ARIES, TAURUS, AND THE NORTHERN MARS                     117
+
+The first double star ever discovered, the Pleiades and their
+photographic wonders, the Royal Family of the Sky, Andromeda,
+Cassiopeia, Perseus and Cepheus, Ursa Major, Camelopardalus,
+Ursa Minor, and the Pole Star.
+
+CHAPTER VIII
+
+SCENES ON THE PLANETS                                            139
+
+Jupiter, its belts and its moons--Saturn, the ringed
+planet--Saturn's moons and Roche's limit--Mars and its white
+polar caps and so-called seas and continents--Venus and her
+atmosphere--The peculiar rotations of Venus and Mercury.
+
+CHAPTER IX
+
+THE MOUNTAINS AND PLAINS OF THE MOON AND THE SPECTACLES OF THE
+SUN                                                              156
+
+Peculiarities of the lunar landscapes--The so-called seas, the
+craters, the ring mountains, the inclosed plains, the mountain
+ranges, Tycho's mysterious streaks, and other lunar features
+described--How to view the sun and its spots.
+
+CHAPTER X
+
+ARE THERE PLANETS AMONG THE STARS?                               183
+
+Significance of Dr. See's observations--Why our telescopes do
+not show planets circling around distant suns--Reasons for
+thinking that such planets may exist--The bearing of stellar
+evolution on the question.
+
+
+
+
+PLEASURES OF THE TELESCOPE
+
+CHAPTER I
+
+THE SELECTION AND TESTING OF A GLASS
+
+    "O telescope, instrument of much knowledge, more precious than any
+    scepter! Is not he who holds thee in his hand made king and lord of
+    the works of God?"--JOHN KEPLER.
+
+
+If the pure and elevated pleasure to be derived from the possession and
+use of a good telescope of three, four, five, or six inches aperture
+were generally known, I am certain that no instrument of science would
+be more commonly found in the homes of intelligent people. The writer,
+when a boy, discovered unexpected powers in a pocket telescope not more
+than fourteen inches long when extended, and magnifying ten or twelve
+times. It became his dream, which was afterward realized, to possess a
+more powerful telescope, a real astronomical glass, with which he could
+see the beauties of the double stars, the craters of the moon, the spots
+on the sun, the belts and satellites of Jupiter, the rings of Saturn,
+the extraordinary shapes of the nebulae, the crowds of stars in the Milky
+Way, and the great stellar clusters. And now he would do what he can to
+persuade others, who perhaps are not aware how near at hand it lies, to
+look for themselves into the wonder-world of the astronomers.
+
+There is only one way in which you can be sure of getting a good
+telescope. First, decide how large a glass you are to have, then go to a
+maker of established reputation, fix upon the price you are willing to
+pay--remembering that good work is never cheap--and finally see that the
+instrument furnished to you answers the proper tests for a telescope of
+its size. There are telescopes and telescopes. Occasionally a rare
+combination of perfect homogeneity in the material, complete harmony
+between the two kinds of glass of which the objective is composed, and
+lens surfaces whose curves are absolutely right, produces a telescope
+whose owner would part with his last dollar sooner than with it. Such
+treasures of the lens-maker's art can not, perhaps, be commanded at
+will, yet, they are turned out with increasing frequency, and the best
+artists are generally able, at all times, to approximate so closely to
+perfection that any shortcoming may be disregarded.
+
+In what is said above I refer, of course, to the refracting telescope,
+which is the form of instrument that I should recommend to all amateurs
+in preference to the reflector. But, before proceeding further, it may
+be well to recall briefly the principal points of difference between
+these two kinds of telescopes. The purpose of a telescope of either
+description is, first, to form an image of the object looked at by
+concentrating at a focus the rays of light proceeding from that object.
+The refractor achieves this by means of a carefully shaped lens, called
+the object glass, or objective. The reflector, on the other hand, forms
+the image at the focus of a concave mirror.
+
+[Illustration: IMAGE AT THE FOCUS OF A LENS.]
+
+A very pretty little experiment, which illustrates these two methods of
+forming an optical image, and, by way of corollary, exemplifies the
+essential difference between refracting and reflecting telescopes, may
+be performed by any one who possesses a reading glass and a magnifying
+hand mirror. In a room that is not too brightly illuminated pin a sheet
+of white paper on the wall opposite to a window that, by preference,
+should face the north, or away from the position of the sun. Taking
+first the reading glass, hold it between the window and the wall
+parallel to the sheet of paper, and a foot or more distant from the
+latter. By moving it to and fro a little you will be able to find a
+distance, corresponding to the focal length of the lens, at which a
+picture of the window is formed on the paper. This picture, or image,
+will be upside down, because the rays of light cross at the focus. By
+moving the glass a little closer to the wall you will cause the picture
+of the window to become indistinct, while a beautiful image of the
+houses, trees, or other objects of the outdoor world beyond, will be
+formed upon the paper. We thus learn that the distance of the image from
+the lens varies with the distance of the object whose image is formed.
+In precisely a similar manner an image is formed at the focus of the
+object glass of a refracting telescope.

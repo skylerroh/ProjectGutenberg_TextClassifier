@@ -1,0 +1,440 @@
+magnets are situated.
+
+[Illustration: FIG. 1. GRAY'S GALVANOMETER.]
+
+The needles have been given this form so that their extremities shall not
+touch the sides of the bore during considerable deflections.
+
+In the instrument which the inventors, Messrs. T. & A. Gray, used in
+their experiments upon the resistance of glass, the needles were arranged
+so that their poles of contrary name were opposite.
+
+[Illustration: FIG. 2.]
+
+The system of needles is suspended from the extremity of a screw, p,
+which passes into a nut, n, movable between two stationary pieces. On
+revolving the nut, we cause the screw to rise or lower, along with the
+entire suspended part, without twisting the thread.
+
+The four bobbins are grouped for tension, and have a total resistance of
+30,220 ohms. They contain 16,000 feet of No. 50 copper wire, forming
+62,939 revolutions, nearly equally divided between the four bobbins. When
+a current is passing through the bobbins, the poles of one of the
+horseshoe magnets are attracted toward the interior of the corresponding
+bobbins, while those of the other are repelled toward the exterior by the
+two other bobbins. We thus have a couple which tends to cause the system
+to revolve around the suspension axis. A mirror, which is fixed upon a
+vertical piece of aluminum, a, gives, in the usual manner, a reflected
+image upon a scale, thus allowing the deflections to be read. A
+compensating magnet, M, is supported by a vertical column fixed to the
+case, above the needles. This magnet may be placed in the different
+azimuths by means of a tangential screw, t. The extremities of the bobbin
+wires are connected with three terminals, T, T', T squared, and the
+instrument may, by a proper arrangement, became differential. These
+terminals, as well as the communicating wires, are insulated with
+ebonite.
+
+Thus arranged, the instrument is capable of making a deflection of one
+division of 1/50 inch upon a scale placed at a distance of a little more
+than a yard, with the current produced by one daniell of 10 ohms. This is
+a degree of sensitiveness that cannot be obtained with any of the astatic
+instruments known up to the present. By regulating the needles properly,
+a greater degree of sensitiveness may be attained, but then the duration
+of the needles' oscillation becomes too great. The sensitiveness of the
+instrument is sufficiently great to allow it to be used in many cases,
+even with a moderate duration of oscillation.
+
+In their experiments upon the resistance of glass, the inventors employed
+an instrument that was not arranged for giving great sensitiveness, and
+one with which resistances of from 10^{4} to 10^{5} megohms could be
+measured by the use of a pile of 120 daniells.
+
+The instrument can be given another form. The four bobbins may be
+arranged symmetrically in the same plane, and the two horseshoe magnets
+be supported by an S-shaped aluminum bar. The latter traverses the plate
+that supports the bobbins, in such a way that one of the magnets enters
+one of the bobbins that correspond to it on one side of the plate, and
+the other on the other side, as shown in Fig. 2. The bobbins are so
+connected that, when they are traversed by a current, both magnets are at
+the same time attracted toward the interior or repelled toward the
+exterior of the bobbins. Such a form of the instrument has the advantage
+of being more easily constructed, while the regulation of the magnets
+with respect to the bore of the bobbins is easier.
+
+The chief advantage of the instrument results from the fact that, owing
+to the arrangement of the magnets and bobbins, a large portion of the
+wires of the latter is situated very near the poles of the magnets, and
+in a position very favorable for electro-magnetic action. The instrument
+presents no difficulties as regards construction, and costs no more than
+an ordinary one.
+
+We might even arrange a single horseshoe magnet, or an S-shaped one,
+horizontally, and employ but a single pair of bobbins, and thus have a
+non-astatic apparatus based upon the same principle. But in astatic
+instruments it is better to place the magnets in such a way that the two
+branches shall be in the same vertical plane.
+
+Were the line that joins the two poles vertical, the system would be
+perfectly astatic in a uniform field, since each magnet in particular
+would then be perfectly astatic. A pair of horseshoe magnets may thus be
+regulated in such a way as to form a perfectly astatic system in a
+uniform field and to preserve an almost invariable zero, this being
+something that it is very difficult to obtain with the ordinary
+arrangement of needles, especially when a compensating magnet is used;
+for, in such a case, one of the needles becomes more or less magnetized,
+while the other becomes demagnetized, according to the position of the
+compensating magnet.--_La Lumiere Electrique_.
+
+       *       *       *       *       *
+
+
+
+
+HISTOLOGICAL METHODS.
+
+
+A cat, dog, rabbit, or Guinea pig will furnish parts from which sections
+can be cut for the study of histology. Whichever animal is selected
+should be young and well developed. Put it under influence of chloroform,
+and open into the cavity of the chest; make an incision into the right
+ventricle, and allow the animal to bleed to death; cut the trachea and
+inject the lungs with a solution of one and a half drachms of chromic
+acid in one quart of water, care being taken not to overdistend the lung.
+Tie the severed end to prevent the escape of the fluid, and carefully
+remove the lung. It is a difficult thing to do this without rupturing it,
+but with care and patience it can be done. Place the lungs in a solution
+of the same strength as used for injecting; after fifteen or twenty hours
+change it to a fresh solution, and allow it to remain for about a month,
+and then change it to rectified spirits, in which it may remain until
+required.
+
+Cut the tongue into several transverse and longitudinal pieces, also the
+small intestines, and put them into a solution of fifteen and one-half
+grains chromic acid, thirty grammes bichromate of potash, and three pints
+of water; change the solution the next day, and let them remain two weeks
+and then place in spirits. Cut longitudinal and transverse portions of
+the stomach and large intestines, wash in a weak solution of salt and
+water, and put them in the same solution as used for the lungs, and treat
+similarly.
+
+Cut the kidneys longitudinally and transversely, and put them in a
+solution of six and one-half drachms bichromate of potash, two and
+one-half drachms sodium sulphate, one quart of water; change the solution
+the next day, and at the end of four weeks transfer to alcohol. Wash the
+inner surface of the bladder with salt and water, and after cutting it
+longitudinally and transversely, put the sections in a solution of three
+drachms bichromate of potash in a quart of water. Cut the liver into
+small parts, and place in the same solution as used for the kidneys;
+change the solution after a day, and let them remain four or five weeks,
+then change to spirits. The spleen and portions of the thin abdominal
+muscles may be placed in a solution of three drachms chromic acid to one
+quart of water, and transferred to alcohol after three or four weeks.
+Carefully remove an eye and divide it behind the crystalline lens, put
+the posterior portion in a solution made by dissolving fifteen grs.
+chromic acid in five drachms water, and slowly adding five and one-half
+ounces alcohol; change to spirits in two weeks. The lens should be put in
+the same solution, but should remain a few days longer. Open the head,
+remove the brain, and place transverse and longitudinal sections of it
+in spirits for eighteen hours, then transfer to a solution of one drachm
+chromic acid in a quart of water, and let it remain until hard enough to
+cut. Place the uterus in a solution of one and one-half drachms chromic
+acid in one quart of water, change to a new solution the next day, and at
+the end of a month transfer to alcohol.
+
+The bones from one of the legs should be carefully cleaned of its
+muscles, cut into several pieces, and placed in a solution of fifteen and
+one-half grains chromic acid, one-half drachm nitric acid, and six ounces
+water. Change the fluid frequently until the bones are sufficiently
+softened, and then change to alcohol.
+
+_Section cutting_ machines for cutting sections can be procured of the
+dealers, but a very simple and effective one can be easily made if one
+does not wish to go to the expense of buying an instrument.
+
+A strip of wood twelve or fourteen inches long and about two inches wide
+has attached to its center a bridge-shaped piece of wood, a, Fig. 1. This
+is covered with a brass plate, c, pierced with a hole one-half of an inch
+in diameter. This hole extends through the wood, and is fitted with a
+piston. Two long narrow inclined planes of nearly equal inclination, b,
+b, grooved to slide on each other, are placed under the bridge; the lower
+is to be fastened to the board; the end of the piston rests on the upper
+one. The object from which we desire to cut a section is placed in the
+hole, in the piston. If the upper plane be pushed in, the piston will be
+forced upward, and with it the object. As the inclination of the plane is
+very gradual, the vertical motion will be very slight as compared with
+the horizontal.
+
+When the object is raised a little above the brass plate, a keen edged
+razor, thoroughly wet, is pushed over the hole, cutting the object. This
+gives the section a smooth surface, and even with the plate; now push the
+plane forward one-eighth to one-quarter of an inch, and cut again; this
+will give a thin section of the object. The thickness of the section
+depends, of course, on the distance the wedge is pushed.
+
+With a little practice, much better sections can be cut by the hand than
+by any machine; this does not apply of course to large sections. A razor
+of good steel, with a blade thin and hard, are the most essential points
+in an instrument for hand cutting. For ordinary purposes it is not
+necessary to have the blade ground flat on one side, although many prefer
+it. The knife should always be thoroughly wet, in order that the cut
+tissue may float over its surface. Water, alcohol or salt and water may
+be used for this purpose.
+
+[Illustration: FIG. 1.]
+
+_To out a section by hand_, hold the object between the thumb and first
+two fingers of the left hand, supporting the back of the knife by the
+forefinger. The knife is to be held firmly in the right hand, and in
+cutting should never be pushed, but drawn from heel to point obliquely
+through the tissue. The section should be removed from the knife by a
+camel's hair brush.
+
+When the object is too small to hold, it is usually _embedded_ in some
+convenient substance. A carrot is sometimes very useful for this purpose.
+A hole rather smaller than the object is cut out of the middle. Put
+whatever is to be cut into this, and cut a thin section of the whole. The
+carrot does not cling to either the knife or the section, and the knife
+is wetted at every slice by it.
+
+Paraffin is the agent usually employed for embedding purposes. Melt it,
+and add a little lard to soften it; the addition of a little clove oil
+renders it less adhesive.
+
+Melt the paraffin at as low a temperature as possible, and pour it into a
+paper cone. Dip the object into this and remove immediately; as soon as
+the layer of paraffin surrounding it becomes hardened, replace it in the
+paraffin; this prevents overheating the tissues.
+
+Where the tissues are too soft to be cut, they may be soaked in a
+solution of gum arabic and dried; in this condition they can be readily
+cut, after which the gum can be dissolved off. This is an extremely
+useful method for cutting the lung or other organs where an interstitial
+support is needed. For a very thin object, a cork fitting any kind of a
+tube is to be split, and the object placed between the two parts; the
+cork is then thrust into the tube, and a sufficient degree of firmness
+will be obtained to allow cutting. The sections should always be
+manipulated with camel's hair brushes.
+
+Much practice will be required before dexterity is attained.
+
+_Methods of preserving the tissues_.--All water must be removed from the
+tissue, either by drying or by immersing it in rectified spirits, and
+then in absolute alcohol, and the alcohol driven off by floating it upon
+oil of clove or turpentine. The substances used to preserve the tissues
+are Canada balsam, Dammar balsam, glycerine, Farrant's solution,
+potassium acetate, spirits, naphtha, and creosote.
+
+The section is to be floated on to the slide or placed in position with a
+camel's hair brush. It should be spread out, and then examined under the
+microscope for the purpose of improving its position if necessary, or of
+removing any foreign particles. A drop of the preserving medium is then
+placed upon it, and another placed on the cover and allowed to spread
+out. The cover is then taken by a pair of pincers and inverted over the
+object, and one edge brought to touch the slide at one part of its
+margin. The cover is then gently lowered, and the whole space beneath the
+cover filled and the tissue completely saturated. If air bubbles show
+themselves, raise the cover at one corner and deposit a further quantity
+of the medium.
+
+The slide should be set aside for a few days. First, the excess of the
+medium must be removed; if it is glycerine, much of it can be removed by
+a piece of blotting paper, but the cover must not be touched, for it is
+easily displaced; that near the cover can be replaced by a camel's hair
+brush. A narrow ring of glycerine jelly should be placed around the edge
+of the cover, to fix it before the cement is applied. When this has set,
+a narrow strip of cement is to be put on, just slightly overlapping the
+edge of the cover and outside the margin of the jelly. Until it has been
+perfectly secured, a slide carrying glycerine must never be placed in an
+inclined position, as its cover will slide off.
+
+_Preservative media_.--Canada balsam may be prepared as follows: Place
+some pure Canada balsam in a saucer, and cover with paper to exclude
+dust; dry it in an oven at a temperature of 150 deg.; when it cools, it will
+become hard and crystalline. Dissolve this in benzole, and use in the
+same way as glycerine.
+
+Dammar is now used as a substitute for Canada balsam. By its use the
+tissues are rendered more transparent. To prepare it, dissolve one-half
+ounce of Dammar rosin and one-half ounce of gum mastic in three ounces of
+benzole, and filter. This may be used to mount unsoftened bone and tooth,
+hair, brain, and spinal column, and most tissues that have been hardened
+in alcohol or chromic acid, which require to have their transparency
+increased.
+
+Glycerine is not adapted for white fibrous tissue or blood vessels,
+unless they have been hardened in chromic acid, as it causes the white
+fibers to swell up and lose their normal features. Sections of liver,
+lung, skin, and alimentary canal show better in glycerine unless they
+have been stained.
+
+Farrant's solution may be substituted for glycerine in many instances,
+because of its feebler tendency to render the tissues transparent. It
+consists of equal parts of gum arabic, glycerine, and a saturated
+solution of arsenious acid. In mounting preparations with this medium,
+the covered object should be allowed to lie a day before the varnish is
+applied, so that the cover may be fixed, and thereby prevented from being
+displaced. Rectified spirits may be used for mounting softened bone and
+tooth, and naphtha and creosote are useful for preserving urinary casts.
+
+When the section is mounted in Canada or Dammar balsam, no cement is
+required, but for all other preservative media the margin of the cover
+must be covered with cement. To do this, dry the edges of the cover
+thoroughly with bibulous paper, and paint a layer of gold size, allowing
+it to overlap the cover an eighth or sixteenth of an inch, then cover
+this with white zinc cement.
+
+_Preparation for mounting the different tissues_.--To obtain a section of
+bone or tooth requires a grinding down of the tissue until it is so thin
+as to be transparent. A section should first be cut as thin as possible
+by a fine saw. It should be attached by the flattest side to a piece of
+glass, and then ground down by a grindstone or by very fine emery, on a
+perfectly flat piece of lead. When sufficiently thin and transparent,
+mount in rectified spirits or Dammar. Sections of the tongue may be made
+by embedding in paraffin, and mounted in Farrant's solution or glycerine.
+
+Sections of the stomach may also be made by embedding in paraffin, but
+better ones can be made by freezing. Farrant's solution makes a good
+mounting.
+
+The intestines also give a better section from freezing than by
+embedding, as the paraffin injures the villi; mount in the same medium as
+the stomach.
+
+The liver may be embedded in paraffin, and the section mounted in
+Farrant's solution or glycerine. The kidney may be treated in the same
+way. The cornea of the eye can be readily cut by embedding in paraffin,
+and the section may be mounted in Farrant's solution. The crystalline
+lens and retina may be treated similarly.
+
+The brain and spinal cord should be embedded in paraffin or a carrot, and
+the section mounted in Dammar. Sections of the uterus and ovaries are
+best mounted in glycerine or Dammar. Sections of lung maybe made by
+embedding in gum or by freezing, and mounted in Farrant's solution.
+
+Every slide should be of uniform size, and labeled. The usual size is 3x1
+inches, and should be of a good quality of glass, free from scratches or
+air holes. They may be labeled either by writing with a diamond, or a
+small piece of paper affixed to one end, on which is written what is
+required.
+
+       *       *       *       *       *
+
+
+
+
+LIFE HISTORY OF A NEW SEPTIC ORGANISM.
+
+
+At a recent meeting in London, of the Royal Miscroscopical Society, Dr.
+Dallinger gave his annual address to what was probably the largest
+gathering of Fellows ever assembled on a similar occasion. After briefly
+referring to the increased interest lately manifested in the study of
+minute organisms, and recalling the characteristics of the doctrines of
+abiogenesis and biogenesis, he passed rapidly in review the results of
+the observations of Tyndall, Huxley, and Pasteur as bearing upon these
+questions, and called attention to the observations of Buchner as to the
+transformation of _Bacillus anthracis_ and _Bacillus subtilis_, and _vice
+versa_, and referred with approval to Dr. Klein's criticisms thereon.
+Having spoken of the desirability of careful and continuous study of this
+class of organisms, and the importance of endeavoring to establish the
+relation of the pathogenic form to the whole group, he said he should be
+better able to deal with the subject by recording a few ascertained facts
+rather than by making a more extended review, and he therefore devoted
+the main part of his address to a description of "the life history of a
+septic organism hitherto unknown to science." In his observations of this
+form--extending over four years--he had the advantage of the highest
+quality of homogeneous lenses obtainable, ranging from one-tenth to
+one-fiftieth of an inch, his chief reliance being placed upon a very
+perfect one thirty-fifth of an inch; and from the continuous nature of
+the observations as well as the circumstances under which they were
+carried on, dry lenses had for the most part to be employed. Having in
+his possession a maceration of cod-fish in a fluid obtained from boiled
+rabbits, he found at the bottom of it, when in an almost exhausted
+condition, a precipitate forming a slightly viscid mass, to which his
+attention was particularly directed. It was seen to contain a vast number
+of _Bacterium termo_, but on examination with a one-tenth inch objective
+showed that it also contained a comparatively small number of intensely
+active organisms--one being discovered in about eight or ten drops of the
+sediment. These measured 1-10,000 of an inch in length by 1-19,500 of an
+inch in breadth. The fluid had originally been kept at a temperature of
+90 deg. to 95 deg. F., and it was noticed that, when placed upon a cold stage
+under the microscope, the movements of the organisms became, gradually
+slower, until at last they entirely ceased; the necessity, therefore,
+arose for the use of a warm stage, and the very ingenious contrivance by
+which a continuous and even temperature was maintained within the
+one-tenth of a degree was exhibited. The greatest difficulty in the
+matter was, however, experienced in obtaining specimens for observation,
+in order to be able to trace them from their earliest to their latest
+stage. The President then explained, by means of an admirable series of
+illustrations projected upon a screen by the oxyhydrogen lantern, the
+life history of the organism to which he had referred, exhibiting it
+first as a translucent, elliptic, spindle-shaped body, with six long and
+delicate flagella, the various positions in which the five specimens were
+drawn giving a very good idea of its peculiar porpoiselike movements.
+
+The various positions which it assumed in making an attack upon a portion
+of decomposed matter were also shown, the movements quite fascinating the
+observer by their rhythmical character. The supposed action of the
+flagella in the production of the movements observed was explained,
+distinct evidence being afforded of a remarkable spiral motion, at least
+of those behind. The process of fission was illustrated in all its
+observed stages from the first appearance of a construction to that of
+final and complete separation, the whole being performed within the space
+of eight or nine minutes. A description of the process of fusion from the
+simple contact of two organisms to their entire absorption into each
+other followed, as well as their transformation into a granular mass,
+which gradually decreased in size in consequence of the dropping of a
+train of granules in it wake as it moved across the field. The
+development of these granules was traced from their minute semi-opaque
+and spherical form to that of the perfect flagellate organism first
+shown, the entire process being completed in about an hour. Experiments
+as to their thermal death-point showed that, while the adults could not
+be killed by a temperature less than 146 deg. F., the highest point endured
+by the germs was 190 deg. F. Illustrations of a variety of other modes of
+fission discovered in previous researches on similar forms were given,
+showing the mode of multiple division and a similar process in the case
+of an organism contained in an investing envelope. The President
+concluded his address, which was listened to throughout with the greatest
+attention, by remarking that, though the processes could be seen and
+their progress traced, the _modus operandi_ was not traceable. Yet the
+observer could not fail to be impressed with the perfect concurrent
+adaptation of these organisms to the circumstances of their being; they
+were subject to no caprices, their life-cycles were as perfect as those
+of a crustacean or a bird, and while the action of the various processes
+was certain, their rapidity of increase and the shortness of their life
+history were such that they afforded a splendid opportunity of testing
+the correctness of the Darwinian law.
+
+       *       *       *       *       *
+
+
+
+
+WINTER AND THE INSECTS.
+
+
+For a number of years previous to 1878 we had in Pembroke but little or
+no severe cold, owing to the prevalence of southeast, south, west, and
+especially southwest winds. In many places, fuchsias that were left in
+the ground for the entire year had not been frozen to the root within the
+memory of man. Some of these plants had grown to be trees five or six
+yards in height, and with a trunk the size of one's leg. Now, during the
+same series of years, many insects that are common throughout the rest of
+Great Britain did not cease to be rare with us, or rather were confined
+to certain circumscribed limits. Thus, the Noctuellae, with the exception
+of a few species abundant everywhere, were almost wanting, and I know of
+no other country where the dearth of common species of nocturnal
+butterflies was so great. But during the winter of 1878 there supervened
+a radical change. Persistent winds from the northwest, driving back the
+currents of warm air from the south, brought on an intense cold that
+froze everything; or, when some variation occurred in them, clouds formed
+and dissolved into a rain that immediately froze, so that the large roads
+remained for weeks covered with a layer of rime from two to four inches
+thick.
+
+[Illustration: GREEN WOODPECKER SEARCHING FOR INSECTS.]
+
+The winters of 1879 and 1880 were equally cold; we may even say that the
+latter was the severest that had been experienced in fifty years. This
+year the sea-sand, along with the ice and snow, formed a thick crust all
+along the tide-line--this being something rarely seen along our coast.

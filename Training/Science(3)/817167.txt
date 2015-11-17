@@ -1,0 +1,444 @@
+undiscernible. The two comets into which Biela's divided, in 1846, were
+watched long enough to show that had their separate existence continued
+(visibly), they would have been found, in the fullness of time,
+traveling at distances very far apart, though on nearly the same orbit.
+The distance between them, which in 1846 had increased only to about a
+quarter of a million of miles, had in 1852 increased to five times that
+space.
+
+Probably a few thousands of years would have sufficed to set these
+comets so far apart (owing to some slight difference of velocity,
+initiated at the moment of their separation) that when one would have
+been at its nearest to the sun, the other would have been at its
+farthest from him. If we could now discern the separate fragments of the
+comet, we should doubtless recognize a process in progress by which, in
+the course of many centuries, the separate cometic bodies will be
+disseminated all round the common orbit. We know, further, that already
+such a process has been at work on portions removed from the comet many
+centuries ago, for as our earth passes through the track of this comet
+she encounters millions of meteoric bodies which are traveling in the
+comet's orbit, and once formed part of the substance of a comet
+doubtless much more distinguished in appearance than Biela's.
+
+There can be little doubt that this is the true explanation of the
+origin of that family of comets, five of whose members returned to the
+neighborhood of the sun (possibly their parent) in the years 1668, 1843,
+1880, 1882, and 1887.[1]
+
+   [Footnote 1: It may be interesting to compare the orbital elements
+   of the five comets above dealt with. They may be presented as
+   follows; but it should be noticed that the determinations must be
+   regarded as rough in the case of Comets I. and V., as the
+   observations were insufficient for exact determination of the
+   elements:
+
+   ----------------+---------+------------+------------+------------+-------
+                   |    I.   |     II.    |    III.    |    IV.     |  V.
+                   +---------+------------+------------+------------+-------
+                   |  1668.  |    1843.   |    1880.   |   1882.    | 1887.
+    Perih. Passage.| Feb. 29 |  Feb. 27   |  Jan. 27   |  Sep. 17   |Jan. 11
+    Log. Per. Dist.|  7.6721 |   7.8395   |   7.7714   |   7.8895   | 8.1644
+    Long. Per.     | 80 deg. 15' | 73 deg. 30' 46"| 74 deg. 11' 13"| 55 deg. 37' 29"| 89 deg. 41'
+    Long. Node.    | 357 deg. 17'|355 deg. 46' 48"|356 deg. 17'  4"|346 deg.  1' 27"|359 deg. 41'
+    Inclination.   | 125 deg. 58'|143 deg.  1' 31"|143 deg.  7' 31"|141 deg. 59' 40"|141 deg. 16'
+    Eccentricity.  | 0.9999  |   0.9991   |   0.9995   |   0.999    | ......
+    Calculator.    |Henderson| Plantamour |   Meyer    |   Kreutz   | Finlay
+   ----------------+---------+------------+------------+------------+-------
+   ]
+
+But it is not merely as thus explaining what had been a most perplexing
+problem that I have dealt with the evidence supplied by the practical
+identity of these five comets' orbits. When once we recognize that this,
+and this only, can be the explanation of the associated group of five
+comets, we perceive that very interesting and important light has been
+thrown on the subject of comets generally. To begin with: what an
+amazing comet that must have been from which these five, and we know not
+how many more, were formed by disaggregative processes--probably by the
+divellent action of repulsive forces exerted by the sun! Those who
+remember the comets of 1843 and 1882 as they appeared when at their full
+splendor will be able to imagine how noble an appearance a comet would
+present which was formed of these combined together in one. But the
+comet of 1880 was described by all who saw it in the southern hemisphere
+as most remarkable in appearance, despite the faintness of its head. The
+great southern comet of the present year was a striking object in the
+skies, though it showed the same weakness about the head. That of 1668
+was probably as remarkable in appearance as even the comet of 1882. A
+comet formed by combining all these together would certainly surpass in
+magnificence all the comets ever observed by astronomers.
+
+And then, what enormous periods of time must have been required to
+distribute the fragments of a single comet so widely that one would be
+found returning to its perihelion more than two centuries after another!
+When I spoke of one member of the Biela group being in aphelion when
+another would be in perihelion, I was speaking of a difference of only
+three and one-third years in time; and even that would require thousands
+of years. But the scattered cometic bodies which returned to the sun's
+neighborhood in 1668 and 1887 speak probably of millions of years which
+have passed since first this comet was formed. It would be a matter of
+curious inquiry to determine what may have been the condition of our
+sun, what even his volume, at that remote epoch in history.
+
+       *       *       *       *       *
+
+
+
+
+THE ISOLATION OF FLUORINE.
+
+
+The element fluorine has at last been successfully isolated, and its
+chief chemical and physical properties determined. Many chemists,
+notably Faraday, Gore, Pflaunder, and Brauner, have endeavored to
+prepare this element in the free state, but all attempts have hitherto
+proved futile. M. Moissau, after a long series of researches with the
+fluorides of phosphorus, and the highly poisonous arsenic trifluoride,
+has finally been able to liberate fluorine in the gaseous state from
+anhydrous hydrofluoric acid by electrolysis. This acid in the pure state
+is not an electrolyte, but when potassium fluoride is dissolved in it, a
+current from ninety Bunsen elements decomposes it, evolving hydrogen
+from the negative and fluoride from the positive electrode.
+
+[Illustration:
+
+
+                 (+)                 (-)
+                  |                   |
+                  |                   |
+              __/_|_\_A           __/_|_\_A
+             |    |    |         |    |    |
+             |____|____|         |____|____|
+              |   |   |           |   |   |
+         _____|   |   |           |   |   |_____
+        / ----    |   |           |   |    -----\
+       //     |   |   |           |   |   |     \\
+      || F    |===|===|           |===|===|    H ||
+      ||      |- -|- -|           |- -|- -|      ||
+      ||      | - | - |           | - | - |      ||
+      ||      |- -|- - \_________/ - -|- -|      ||
+      ||      | - | - - - - - - - - - | - |      ||
+     //       \___________________________/      \\
+
+]
+
+The apparatus employed in this process is constructed of platinum, and
+is made in the form of a U tube, as shown in the accompanying
+illustration, with fluorspar stoppers, through which the battery
+terminals, made of platinum iridium alloy, are led. The gas is liberated
+at about the rate of two liters per hour, and has very powerful chemical
+properties. It smells somewhat like hypochlorous acid, etches dry glass,
+and decomposes water, liberating ozone, and forming hydrofluoric acid.
+The non-metallic elements, with the exception of chlorine, oxygen,
+nitrogen, and carbon, combine directly with it, evolving in most cases
+both light and heat. It combines with hydrogen, even in the dark,
+without the addition of any external energy, and converts most metals
+into their fluorides. Gold and platinum are not attacked in the cold,
+but when gently heated are easily corroded. Mercury readily dissolves
+the gas, forming the protochloride; iron wire also completely absorbs
+the gas, while powdered antimony and lead take fire in it. It is
+necessary in the electrolysis of the liquid hydrofluoric acid to cool
+the electrolytic cell by means of methyl chloride to -50 deg. C. Fluorine
+appears to thus fully confirm the predictions which have been made by
+chemists concerning its properties. It is by far the, most energetic of
+all the known elements, and its position in the halogen series is
+established by its property of not liberating iodine from the iodides of
+potassium, mercury, and lead, and also of setting free chlorine from
+potassium chloride. With iodine it appears to form a fluoride. No
+compound with oxygen has yet been obtained.--_Industries._
+
+       *       *       *       *       *
+
+
+
+
+AN APPARATUS FOR PREPARING SULPHUROUS, CARBONIC, AND PHOSPHORIC
+ANHYDRIDES.
+
+BY H.N. WARREN, RESEARCH ANALYST.
+
+
+Having had occasion to prepare a quantity of sulphurous anhydride, for
+the purpose of reducing chromates previous to their analysis, I made use
+of the following apparatus, as represented in the accompanying figure.
+It consists of a glass vessel, A, provided with three tubulars,
+otherwise resembling a large Wolff bottle, the large tube, B, being
+provided with a stopper for the purpose of introducing pieces of sulphur
+from time to time into the small dish, C, intended for its reception,
+and fed with air by means of the delivery tube, D, thus allowing the
+stream of gas caused by the consumption of the sulphur to escape by
+means of the exit tube, E, to the vessel desired to receive it.
+
+[Illustration]
+
+In using the apparatus the sulphur is first kindled by introducing a red
+hot wire through the tube, B, and replacing the stopper that has been
+momentarily removed for the introduction of the same. A slight blast is
+now maintained from the bellows that are in connection with the pipe, D,
+until the whole of the sulphur is thoroughly kindled, when a somewhat
+more powerful blast may be applied. When the apparatus above described
+is in full working order, from 2 to 3 lb. of sodium carbonate may be
+converted into sodium sulphite in less than half an hour, or several
+gallons of water saturated. I have also on connecting the apparatus with
+a powerful refrigerator obtained in a short time a large quantity of
+liquid SO2. It will be found advantageous, however, during the
+preparation of sulphurous anhydride, to employ a layer of water covering
+the bottom of the vessel to about 1 inch in depth. Carbonic anhydride
+and phosphoric anhydride may also be readily obtained in any desired
+quantity by slight alteration; but in case of phosphorus the air must be
+allowed to enter only gently, since a rapid current would at all times
+determine the fracture of the vessel.--_Chem. News_.
+
+       *       *       *       *       *
+
+
+
+
+THE ARRANGEMENT OF ATOMS IN SPACE IN ORGANIC MOLECULES.[1]
+
+   [Footnote 1: Ueber die raumliche Anordnung der Atome in
+   organischen Molekulen, and ihre Bestimmung in
+   geometrisch-isomeren ungesattigten Verbindungen. Von Johannes
+   Wislicenus.--Abhandlungen der mathemalisch-physischen Klasse der
+   Konigl. Sachsischen Gesellschaft der Wissenechaften. Band XIV.,
+   No. 1.]
+
+The expression "chemical structure," as commonly used by chemists, has,
+as is well known, nothing to do with the arrangement of atoms in space.
+The structural formula does not profess to represent spatial relations,
+but simply the connections which, after a careful study of the
+transformations and modes of formation of the compound represented, are
+believed to exist between the atoms. Nevertheless, although we do not
+commonly consider the question of space relations, it is clear that
+atoms must have some definite positions in space in the molecules, and
+the only reason why we do not represent these positions is because we
+know practically nothing about them. The most definite suggestion
+concerning space relations of atoms which has been made is that of Le
+Bel and Van't Hoff. The well known hypothesis of these authors was put
+forward to account for a certain kind of so-called physical isomerism
+which shows itself in the action of substances upon polarized light.
+Since this hypothesis was proposed, the number of cases of "abnormal
+isomerism," that is to say, of cases of isomerism which cannot be
+accounted for by the commonly accepted method of explaining structure,
+has increased to a considerable extent, and the necessity for some new
+hypothesis, or for some modification of the old ones, has come to be
+pretty generally recognized. Among the cases of isomerism which it is at
+least difficult to explain by the aid of the prevailing views are those
+of maleic and fumaric acids; citraconic and mesaconic acids; certain
+halogen derivatives of crotonic acid and of cinnamic acid; and coumaric
+and coumarinic acids.
+
+More than one hypothesis has been proposed to account for these cases of
+isomerism, but no one has shown itself to be entirely satisfactory.
+Quite recently Johannes Wislicenus, Professor of Chemistry in the
+University of Liepsic, has made what has the appearance of being an
+important contribution toward the solution of the problem referred to.
+The author shows that many of the facts known in regard to the relations
+between maleic and fumaric acids, and the other substances which
+furnish examples of "abnormal isomerism," may be explained by the aid of
+an extension of the Le Bel-Van't Hoff hypothesis. It is difficult
+without the aid of models to give a clear idea concerning the hypothesis
+of Wislicenus, but some idea of it may be gained from the following. If
+we suppose a carbon atom to exert its affinities in the directions of
+the solid angles of a tetrahedron, as is done in the Le Bel-Van't Hoff
+hypothesis, then, when two carbon atoms unite, as in ethane, the union
+will be between two solid angles of two tetrahedrons. If the two carbon
+atoms unite by the ethylene kind of union, the union will be along a
+line corresponding to one of the edges of each tetrahedron. In the
+former case, in which single union exists, the two parts of the molecule
+represented by the two tetrahedrons can be supposed to be capable of
+revolving around an axis either in the same direction or in opposite
+directions. This axis corresponds to the straight line joining the two
+carbon atoms. In the case in which double union exists no such
+revolution is possible. Again, if, by addition to an unsaturated
+compound like ethylene, a saturated compound is formed, the kind of
+union between the carbon atoms is changed, and the possibility of
+revolution of the two parts of the compound is given. Whether such
+revolution take place or not will be determined largely by the structure
+of the compound. The tendency will be for those parts of the molecule
+which have the greatest specific affinity for one another to take those
+positions in which they are nearest to one another. Thus, suppose that
+chlorine is added to ethylene. By following the change on the model, it
+is seen that in the resulting figure the two chlorine atoms in ethylene
+chloride are situated at angles of the two tetrahedrons which are
+nearest each other. But chlorine has a stronger affinity for hydrogen
+than it has for chlorine, and therefore each chlorine atom would tend to
+get as near a hydrogen atom as possible. This involves a partial
+revolution of the two tetrahedrons in opposite directions around their
+common axis. So also hydrogen would tend to take a position as near as
+possible to hydroxyl and to carboxyl, while hydroxyl would avoid
+hydroxyl, and carboxyl would avoid carboxyl. These views are suggested
+as a result of a careful application of the original Le Bel-Van't Hoff
+hypothesis, and are, of course, of little value unless they can be shown
+to be in accordance with the facts.
+
+The chief merit of the work of Wislicenus consists in the fact that he
+has shown that a large number of phenomena which have been observed in
+the study of such cases of isomerism as were mentioned above find a
+ready explanation in terms of the new hypothesis, whereas for most of
+these phenomena no explanation whatever has thus far been presented. The
+most marked case presented is that of maleic and fumaric acids. One by
+one, the author discusses the transformations of these acids and their
+substitution products, and becomes to this conclusion: "There is not to
+my knowledge a single fact known in regard to the relations between
+fumaric and maleic acids which is not explained by the aid of the above
+geometrical considerations, not one which does not clearly support the
+new hypothesis." Among the facts which he discusses in the light of the
+hypothesis are these: The formation of fumaric and maleic acids from
+malic acid; the quantitative transformation of maleic into fumaric acid
+by contact with strong acids; the transformation of the ethereal salts
+of maleic acid into those of fumaric acid by the action of a minute
+quantity of free iodine; the formation of brommaleic acid and
+hydrobromic acid from the dibromsuccinic acid formed by the addition of
+two bromine atoms to fumaric acid; the formation of dibromsuccinic acid
+from brommaleic acid and of isodibromsuccinic acid from bromfumaric acid
+by the action of fuming hydrobromic acid; the conversion of brommaleic
+acid into fumaric and then into succinic acid by the action of sodium
+amalgam; the formation of one and the same tribromsuccinic acid by the
+action of bromine on brommaleic and on bromfumaric acid; and finally,
+the conversion of maleic into inactive tartaric acid, and of fumaric
+into racemic acid by potassium permanganate. All these facts are shown
+to find a ready explanation by the aid of the new hypothesis. Further,
+it is shown that the decompositions of the salts of certain halogen
+derivatives of organic acids, which give up halogen salt and carbon
+dioxide, as well as the formation of lactones and of anhydrides of
+dibasic acids, are in perfect harmony with the hypothesis. But the only
+way to get a clear conception in regard to the mass of material which
+the author has brought together and which he has shown to support his
+hypothesis is by a careful study of the original paper, and the object
+of this notice is mainly to call the attention of American chemists to
+it.
+
+As to the question what value to attach to the speculations which
+Wislicenus has brought to our notice, it is difficult to give any but a
+general answer. No one can well have a greater fear of mere speculation,
+which is indulged in independently of the facts, than the writer of this
+notice. Great harm has been done chemistry, and probably every other
+branch of knowledge, by unwarranted speculation, and every one who has
+looked into the matter knows how extremely difficult it is to emancipate
+one's self from the influence of a plausible hypothesis, even when it
+can be shown that it is not in accordance with the facts. It behooves
+every one, therefore, before accepting a new hypothesis, no matter how
+fascinating it may appear at first sight, to look carefully into the
+facts, and to endeavor to determine independently whether it is well
+founded or not. On the other hand, there is some danger to be
+apprehended from a tendency, sometimes observed, to denounce everything
+speculative, no matter how broad the basis of facts upon which it rests
+may be. Without legitimate speculation, it is clear that there could be
+no great progress in any subject. As far as the hypothesis under
+consideration is concerned, the writer is firmly of the opinion that it
+is likely to prove of great value in dealing with a large number of
+chemical facts, and that, as it suggests many lines of research, it will
+undoubtedly in the course of a few years exert a profound influence on
+chemistry. Whether the evidence which will be accumulated will or will
+not confirm the view that the tetrahedron form is characteristic of the
+simplest molecules of carbon compounds is not the most important
+question to be asked under the circumstances. We should rather ask
+whether the testing of the hypothesis is or is not likely to bring us
+nearer to the truth. It is a proposition that admits of no denial that a
+hypothesis which can be tested by experiment, and which suggests lines
+of work and stimulates workers to follow them, is a gain to science, no
+matter what the ultimate fate of the hypothesis may be.--_Amer. Chem.
+Jour._
+
+       *       *       *       *       *
+
+
+
+
+GREAT WARMTH IN PAPER.
+
+
+It should be thoroughly understood by all that any common paper, coarse
+wrapping paper, new or old newspapers, etc., are admirable to keep out
+cold or keep in warmth. The blood of _all_ domestic animals, as well as
+of human beings, _must_ be always kept very near 98 degrees, just as
+much in winter as in summer. And this heat always comes from _within_
+the body, whenever the atmosphere is not above 98 degrees temperature.
+So long as the air is cooler than this, the heat produced inside the
+body is escaping. Heat seeks a level. If there is more in one of two
+bodies or substances side by side, the heat will pass from the warmer
+into the colder, until they are both of the same temperature.
+
+Moving air carries away vastly more heat than still air. The thin film
+of air next to the body soon gets warm from it. But if that air is moved
+along, slowly or swiftly, by a breeze, be it ever so gentle, new cooler
+air takes its place, and abstracts more heat from the body. Anything
+that keeps the air next to the bodies of men and of animals from moving,
+checks the escape of heat.
+
+The thinnest paper serves to keep the air quiet. A newspaper laid on a
+bed acts much as a coverlid to keep a film or layer of air quiet, and
+thus less heat escapes from the bodies of the sleepers. If paper is
+pasted up over the cracks of a house, or of a barn or stable, or under
+the joists of a house floor, it has just the same effect. Every person
+who keeps animals will find it a wonderful and paying protection to
+them, to put against the walls one, two, three, or more layers of
+newspapers during cold weather. If a person in riding finds his garments
+too cool, a newspaper placed under the coat or vest, or under or over
+the trousers, even if only on the side next the wind, will do a great
+deal to check the outflow of heat, and keep him warm. Two or three
+thicknesses of newspaper crumpled a little, and put under the coat or
+overcoat, are almost as effective in keeping in warmth as an extra
+garment. A slight crumpling keeps them a little separate, and makes
+additional thin layers of air.
+
+Further: Heat does not pass through films of _still_ air. Fibrous
+woolens, furs, loosely woven cotton, down, and the like, contain a great
+deal of air _confined_ in the meshes, and are therefore excellent
+conservers of heat. Double walls of stone, brick, or wood, or even of
+wall or roofing paper, double glass, double layers of anything that will
+have thin layers of still air between them, prevent the escape of heat
+greatly.
+
+       *       *       *       *       *
+
+
+THE SCIENTIFIC AMERICAN
+
+ARCHITECTS AND BUILDERS EDITION.
+
+$2.50 A Year. Single Copies, 25 Cts.
+
+This is a Special Edition of the SCIENTIFIC AMERICAN, issued
+monthly--on the first day of the month. Each number contains about forty
+large quarto pages, equal to about two hundred ordinary book pages,
+forming, practically, a large and splendid MAGAZINE OF ARCHITECTURE,
+richly adorned with _elegant plates in colors_ and with fine engravings,
+illustrating the most interesting examples of modern Architectural
+Construction and allied subjects.
+
+A special feature is the presentation in each number of a variety of the
+latest and best plans for private residences, city and country,
+including those of very moderate cost as well as the more expensive.
+Drawings in perspective and in color are given, together with full
+Plans, Specifications, Costs, Bills of Estimate, and Sheets of Details.
+
+No other building paper contains so many plans, details, and
+specifications regularly presented as the SCIENTIFIC AMERICAN.
+Hundreds of dwellings have already been erected on the various plans we
+have issued during the past year, and many others are in process of
+construction.
+
+Architects, Builders, and Owners will find this work valuable in
+furnishing fresh and useful suggestions. All who contemplate building or
+improving homes, or erecting structures of any kind, have before them in
+this work an almost _endless series of the latest and best examples_
+from which to make selections, thus saving time and money.
+
+Many other subjects, including Sewerage, Piping, Lighting, Warming,
+Ventilating, Decorating, Laying out of Grounds, etc., are illustrated.
+An extensive Compendium of Manufacturers' Announcements is also given,
+in which the most reliable and approved Building Materials, Goods,
+Machines, Tools, and Appliances are described and illustrated, with
+addresses of the makers, etc.
+
+The fullness, richness, cheapness, and convenience of this work have won
+for it the LARGEST CIRCULATION of any Architectural publication in the
+world.
+
+MUNN & CO., PUBLISHERS,
+361 BROADWAY, NEW YORK.
+
+
+A Catalogue of valuable books on Architecture, Building, Carpentry,
+Masonry, Heating, Warming, Lighting, Ventilation, and all branches of
+industry pertaining to the art of Building, is supplied free of charge,

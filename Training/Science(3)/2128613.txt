@@ -1,0 +1,425 @@
+non-existent.
+
+In the course of his scrutiny, on the 1st of January, 1801, he noticed a
+small star which next evening appeared to have shifted. He watched it
+anxiously for successive evenings, and by the 24th of January he was
+quite sure he had got hold of some moving body, not a star: probably, he
+thought, a comet. It was very small, only of the eighth magnitude; and
+he wrote to two astronomers (one of them Bode himself) saying what he
+had observed. He continued to observe till the 11th of February, when he
+was attacked by illness and compelled to cease.
+
+His letters did not reach their destination till the end of March.
+Directly Bode opened his letter he jumped to the conclusion that this
+must be the missing planet. But unfortunately he was unable to verify
+the guess, for the object, whatever it was, had now got too near the sun
+to be seen. It would not be likely to be out again before September, and
+by that time it would be hopelessly lost again, and have just as much to
+be rediscovered as if it had never been seen.
+
+Mathematical astronomers tried to calculate a possible orbit for the
+body from the observations of Piazzi, but the observed places were so
+desperately few and close together. It was like having to determine a
+curve from three points close together. Three observations ought to
+serve,[27] but if they are taken with insufficient interval between
+them it is extremely difficult to construct the whole circumstances of
+the orbit from them. All the calculations gave different results, and
+none were of the slightest use.
+
+The difficulty as it turned out was most fortunate. It resulted in the
+discovery of one of the greatest mathematicians, perhaps the greatest,
+that Germany has ever produced--Gauss. He was then a young man of
+twenty-five, eking out a living by tuition. He had invented but not
+published several powerful mathematical methods (one of them now known
+as "the method of least squares"), and he applied them to Piazzi's
+observations. He was thus able to calculate an orbit, and to predict a
+place where, by the end of the year, the planet should be visible. On
+the 31st of December of that same year, very near the place predicted by
+Gauss, von Zach rediscovered it, and Olbers discovered it also the next
+evening. Piazzi called it Ceres, after the tutelary goddess of Sicily.
+
+Its distance from the sun as determined by Gauss was 2.767 times the
+earth's distance. Bode's law made it 2.8. It was undoubtedly the missing
+planet. But it was only one hundred and fifty or two hundred miles in
+diameter--the smallest heavenly body known at the time of its discovery.
+It revolves the same way as other planets, but the plane of its orbit is
+tilted 10 deg. to the plane of the ecliptic, which was an exceptionally
+large amount.
+
+Very soon, a more surprising discovery followed. Olbers, while searching
+for Ceres, had carefully mapped the part of the heavens where it was
+expected; and in March, 1802, he saw in this place a star he had not
+previously noticed. In two hours he detected its motion, and in a month
+he sent his observations to Gauss, who returned as answer the calculated
+orbit. It was distant 2.67, like Ceres, and was a little smaller, but it
+had a very excentric orbit: its plane being tilted 34-1/2 deg., an
+extraordinary inclination. This was called Pallas.
+
+Olbers at once surmised that these two planets were fragments of a
+larger one, and kept an eager look out for other fragments.
+
+In two years another was seen, in the course of charting the region of
+the heavens traversed by Ceres and Pallas. It was smaller than either,
+and was called Juno.
+
+In 1807 the persevering search of Olbers resulted in the discovery of
+another, with a very oblique orbit, which Gauss named Vesta. Vesta is
+bigger than any of the others, being five hundred miles in diameter, and
+shines like a star of the sixth magnitude. Gauss by this time had become
+so practised in the difficult computations that he worked out the
+complete orbit of Vesta within ten hours of receiving the observational
+data from Olbers.
+
+For many weary years Olbers kept up a patient and unremitting search for
+more of these small bodies, or fragments of the large planet as he
+thought them; but his patience went unrewarded, and he died in 1840
+without seeing or knowing of any more. In 1845 another was found,
+however, in Germany, and a few weeks later two others by Mr. Hind in
+England. Since then there seems no end to them; numbers have been
+discovered in America, where Professors Peters and Watson have made a
+specialty of them, and have themselves found something like a hundred.
+
+Vesta is the largest--its area being about the same as that of Central
+Europe, without Russia or Spain--and the smallest known is about twenty
+miles in diameter, or with a surface about the size of Kent. The whole
+of them together do not nearly equal the earth in bulk.
+
+The main interest of these bodies to us lies in the question, What is
+their history? Can they have been once a single planet broken up? or are
+they rather an abortive attempt at a planet never yet formed into one?
+
+The question is not _entirely_ settled, but I can tell you which way
+opinion strongly tends at the present time.
+
+Imagine a shell travelling in an elliptic orbit round the earth to
+suddenly explode: the centre of gravity of all its fragments would
+continue moving along precisely the same path as had been traversed by
+the centre of the shell before explosion, and would complete its orbit
+quite undisturbed. Each fragment would describe an orbit of its own,
+because it would be affected by a different initial velocity; but every
+orbit would be a simple ellipse, and consequently every piece would in
+time return through its starting-point--viz. the place at which the
+explosion occurred. If the zone of asteroids had a common point through
+which they all successively passed, they could be unhesitatingly
+asserted to be the remains of an exploded planet. But they have nothing
+of the kind; their orbits are scattered within a certain broad zone--a
+zone everywhere as broad as the earth's distance from the sun,
+92,000,000 miles--with no sort of law indicating an origin of this kind.
+
+It must be admitted, however, that the fragments of our supposed shell
+might in the course of ages, if left to themselves, mutually perturb
+each other into a different arrangement of orbits from that with which
+they began. But their perturbations would be very minute, and moreover,
+on Laplace's theory, would only result in periodic changes, provided
+each mass were rigid. It is probable that the asteroids were at one time
+not rigid, and hence it is difficult to say what may have happened to
+them; but there is not the least reason to believe that their present
+arrangement is derivable in any way from an explosion, and it is certain
+that an enormous time must have elapsed since such an event if it ever
+occurred.
+
+It is far more probable that they never constituted one body at all, but
+are the remains of a cloudy ring thrown off by the solar system in
+shrinking past that point: a small ring after the immense effort which
+produced Jupiter and his satellites: a ring which has aggregated into a
+multitude of little lumps instead of a few big ones. Such an event is
+not unique in the solar system; there is a similar ring round Saturn.
+At first sight, and to ordinary careful inspection, this differs from
+the zone of asteroids in being a solid lump of matter, like a quoit. But
+it is easy to show from the theory of gravitation, that a solid ring
+could not possibly be stable, but would before long get precipitated
+excentrically upon the body of the planet. Devices have been invented,
+such as artfully distributed irregularities calculated to act as
+satellites and maintain stability; but none of these things really work.
+Nor will it do to imagine the rings fluid; they too would destroy each
+other. The mechanical behaviour of a system of rings, on different
+hypotheses as to their constitution, has been worked out with consummate
+skill by Clerk Maxwell; who finds that the only possible constitution
+for Saturn's assemblage of rings is a multitude of discrete particles
+each pursuing its independent orbit. Saturn's ring is, in fact, a very
+concentrated zone of minor asteroids, and there is every reason to
+conclude that the origin of the solar asteroids cannot be very unlike
+the origin of the Saturnian ones. The nebular hypothesis lends itself
+readily to both.
+
+The interlockings and motions of the particles in Saturn's rings are
+most beautiful, and have been worked out and stated by Maxwell with
+marvellous completeness. His paper constituted what is called "The Adams
+Prize Essay" for 1856. Sir George Airy, one of the adjudicators
+(recently Astronomer-Royal), characterized it as "one of the most
+remarkable applications of mathematics to physics that I have ever
+seen."
+
+There are several distinct constituent rings in the entire Saturnian
+zone, and each perturbs the other, with the result that they ripple and
+pulse in concord. The waves thus formed absorb the effect of the mutual
+perturbations, and prevent an accumulation which would be dangerous to
+the persistence of the whole.
+
+The only effect of gravitational perturbation and of collisions is
+gradually to broaden out the whole ring, enlarging its outer and
+diminishing its inner diameter. But if there were any frictional
+resistance in the medium through which the rings spin, then other
+effects would slowly occur, which ought to be looked for with interest.
+So complete and intimate is the way Maxwell works out and describes the
+whole circumstances of the motion of such an assemblage of particles,
+and so cogent his argument as to the necessity that they must move
+precisely so, and no otherwise, else the rings would not be stable, that
+it was a Cambridge joke concerning him that he paid a visit to Saturn
+one evening, and made his observations on the spot.
+
+
+
+
+NOTES TO LECTURE XIV
+
+
+The total number of stars in the heavens visible to a good eye is about
+5,000. The total number at present seen by telescope is about
+50,000,000. The number able to impress a photographic plate has not yet
+been estimated; but it is enormously greater still. Of those which we
+can see in these latitudes, about 14 are of the first magnitude, 48 of
+the second, 152 of the third, 313 of the fourth, 854 of the fifth, and
+2,010 of the sixth; total, 3,391.
+
+The quickest-moving stars known are a double star of the sixth
+magnitude, called 61 Cygni, and one of the seventh magnitude, called
+Groombridge 1830. The velocity of the latter is 200 miles a second. The
+nearest known stars are 61 Cygni and [alpha] Centauri. The distance
+of these from us is about 400,000 times the distance of the sun. Their
+parallax is accordingly half a second of arc. Sirius is more than a
+million times further from us than our sun is, and twenty times as big;
+many of the brightest stars are at more than double this distance. The
+distance of Arcturus is too great to measure even now. Stellar parallax
+was first securely detected in 1838, by Bessel, for 61 Cygni. Bessel was
+born in 1784, and died in 1846, shortly before the discovery of Neptune.
+
+The stars are suns, and are most likely surrounded by planets. One
+planet belonging to Sirius has been discovered. It was predicted by
+Bessel, its position calculated by Peters, and seen by Alvan Clark in
+1862. Another predicted one, belonging to Procyon, has not yet been
+seen.
+
+A velocity of 5 miles a second could carry a projectile right round the
+earth. A velocity of 7 miles a second would carry it away from the
+earth, and round the sun. A velocity of 27 miles a second would carry a
+projectile right out of the solar system never to return.
+
+
+
+
+LECTURE XIV
+
+BESSEL--THE DISTANCES OF THE STARS, AND THE DISCOVERY OF STELLAR PLANETS
+
+
+We will now leave the solar system for a time, and hastily sketch the
+history of stellar astronomy from the time of Sir William Herschel.
+
+You remember how greatly Herschel had changed the aspect of the heavens
+for man,--how he had found that none of the stars were really fixed, but
+were moving in all manner of ways: some of this motion only apparent,
+much of it real. Nevertheless, so enormously distant are they, that if
+we could be transported back to the days of the old Chaldaean
+astronomers, or to the days of Noah, we should still see the heavens
+with precisely the same aspect as they wear now. Only by refined
+apparatus could any change be discoverable in all those centuries. For
+all practical purposes, therefore, the stars may still be well called
+fixed.
+
+Another thing one may notice, as showing their enormous distances, is
+that from every planet of the solar system the aspect of the heavens
+will be precisely the same. Inhabitants of Mars, or Jupiter, or Saturn,
+or Uranus, will see exactly the same constellations as we do. The whole
+dimensions of the solar system shrink up into a speck when so
+contemplated. And from the stars none of the planetary orbs of our
+system are visible at all; nothing but the sun is visible, and that
+merely as a twinkling star, brighter than some, but fainter than many
+others.
+
+The sun and the stars are one. Try to realize this distinctly, and keep
+it in mind. I find it often difficult to drive this idea home. After
+some talk on the subject a friendly auditor will report, "the lecturer
+then described the stars, including that greatest and most magnificent
+of all stars, the sun." It would be difficult more completely to
+misapprehend the entire statement. When I say the sun is one of the
+stars, I mean one among the others; we are a long way from them, they
+are a long way from each other. They need be no more closely packed
+among each other than we are closely packed among them; except that some
+of them are double or multiple, and we are not double.
+
+     It is highly desirable to acquire an intimate knowledge of the
+     constellations and a nodding acquaintance with their principal
+     stars. A description of their peculiarities is dull and
+     uninteresting unless they are at least familiar by name. A little
+     _viva voce_ help to begin with, supplemented by patient night
+     scrutiny with a celestial globe or star maps under a tent or shed,
+     is perhaps the easiest way: a very convenient instrument for the
+     purpose of learning the constellations is the form of map called a
+     "planisphere," because it can be made to show all the
+     constellations visible at a given time at a given date, and no
+     others. The Greek alphabet also is a thing that should be learnt by
+     everybody. The increased difficulty in teaching science owing to
+     the modern ignorance of even a smattering of Greek is becoming
+     grotesque. The stars are named from their ancient grouping into
+     constellations, and by the prefix of a Greek letter to the larger
+     ones, and of numerals to the smaller ones. The biggest of all have
+     special Arabic names as well. The brightest stars are called of
+     "the first magnitude," the next are of "the second magnitude," and
+     so on. But this arrangement into magnitudes has become technical
+     and precise, and intermediate or fractional magnitudes are
+     inserted. Those brighter than the ordinary first magnitude are
+     therefore now spoken of as of magnitude 1/2, for instance, or .6,
+     which is rather confusing. Small telescopic stars are often only
+     named by their numbers in some specified catalogue--a dull but
+     sufficient method.
+
+     Here is a list of the stars visible from these latitudes, which are
+     popularly considered as of the first magnitude. All of them should
+     be familiarly recognized in the heavens, whenever seen.
+
+  Star.                Constellation.
+
+  Sirius               Canis major
+  Procyon              Canis minor
+  Rigel                Orion
+  Betelgeux            Orion
+  Castor               Gemini
+  Pollux               Gemini
+  Aldebaran            Taurus
+  Arcturus             Booetes
+  Vega                 Lyra
+  Capella              Auriga
+  Regulus              Leo
+  Altair               Aquila
+  Fomalhaut            Southern Fish
+  Spica                Virgo
+
+     [alpha] Cygni is a little below the first magnitude. So,
+     perhaps, is Castor. In the southern heavens, Canopus and [alpha]
+     Centauri rank next after Sirius in brightness.
+
+[Illustration: FIG. 91.--Diagram illustrating Parallax.]
+
+The distances of the fixed stars had, we know, been a perennial problem,
+and many had been the attempts to solve it. All the methods of any
+precision have depended on the Copernican fact that the earth in June
+was 184 million miles away from its position in December, and that
+accordingly the grouping and aspect of the heavens should be somewhat
+different when seen from so different a point of view. An apparent
+change of this sort is called generally parallax; _the_ parallax of a
+star being technically defined as the angle subtended at the star by the
+radius of the earth's orbit: that is to say, the angle E[sigma]S;
+where E is the earth, S the sun, and [sigma] a star (Fig. 91).
+
+Plainly, the further off [sigma] is, the more nearly parallel will
+the two lines to it become. And the difficulty of determining the
+parallax was just this, that the more accurately the observations were
+made, the more nearly parallel did those lines become. The angle was, in
+fact, just as likely to turn out negative as positive--an absurd result,
+of course, to be attributed to unavoidable very minute inaccuracies.
+
+For a long time absolute methods of determining parallax were attempted;
+for instance, by observing the position of the star with respect to the
+zenith at different seasons of the year. And many of these
+determinations appeared to result in success. Hooke fancied he had
+measured a parallax for Vega in this way, amounting to 30" of arc.
+Flamsteed obtained 40" for [gamma] Draconis. Roemer made a serious
+attempt by comparing observations of Vega and Sirius, stars almost the
+antipodes of each other in the celestial vault; hoping to detect some
+effect due to the size of the earth's orbit, which should apparently
+displace them with the season of the year. All these fancied results
+however, were shown to be spurious, and their real cause assigned, by
+the great discovery of the aberration of light by Bradley.
+
+After this discovery it was possible to watch for still outstanding very
+minute discrepancies; and so the problem of stellar parallax was
+attacked with fresh vigour by Piazzi, by Brinkley, and by Struve. But
+when results were obtained, they were traced after long discussion to
+age and gradual wear of the instrument, or to some other minute
+inaccuracy. The more carefully the observation was made, the more nearly
+zero became the parallax--the more nearly infinite the distance of the
+stars. The brightest stars were the ones commonly chosen for the
+investigation, and Vega was a favourite, because, going near the zenith,
+it was far removed from the fluctuating and tiresome disturbances of
+atmospheric refraction. The reason bright stars were chosen was because
+they were presumably nearer than the others; and indeed a rough guess at
+their probable distance was made by supposing them to be of the same
+size as the sun, and estimating their light in comparison with sunlight.
+By this confessedly unsatisfactory method it had been estimated that
+Sirius must be 140,000 times further away than the sun is, if he be
+equally big. We now know that Sirius is much further off than this; and
+accordingly that he is much brighter, perhaps sixty times as bright,
+though not necessarily sixty times as big, as our sun. But even
+supposing him of the same light-giving power as the sun, his parallax
+was estimated as 1".8, a quantity very difficult to be sure of in any
+absolute determination.
+
+Relative methods were, however, also employed, and the advantages of one
+of these (which seems to have been suggested by Galileo) so impressed
+themselves upon William Herschel that he made a serious attempt to
+compass the problem by its means. The method was to take two stars in
+the same telescopic field and carefully to estimate their apparent
+angular distance from each other at different seasons of the year. All
+such disturbances as precession, aberration, nutation, refraction, and
+the like, would affect them both equally, and could thus be eliminated.
+If they were at the same distance from the solar system, relative
+parallax would, indeed, also be eliminated; but if, as was probable,
+they were at different distances, then they would apparently shift
+relatively to one another, and the amount of shift, if it could be
+observed, would measure, not indeed the distance of either from the
+earth, but their distance from each other. And this at any rate would be
+a step. It might be completed by similarly treating other stars in the
+same field, taking them in pairs together. A bright and a faint star
+would naturally be suitable, because their distances were likely to be
+unequal; and so Herschel fixed upon a number of doublets which he knew
+of, containing one bright and one faint component. For up to that time
+it had been supposed that such grouping in occasional pairs or triplets
+was chance coincidence, the two being optically foreshortened together,
+but having no real connection or proximity. Herschel failed in what he
+was looking for, but instead of that he discovered the real connection
+of a number of these doublets, for he found that they were slowly
+revolving round each other. There are a certain number of merely optical
+or accidental doublets, but the majority of them are real pairs of suns
+revolving round each other.
+
+This relative method of mapping micrometrically a field of neighbouring
+stars, and comparing their configuration now and six months hence, was,
+however, the method ultimately destined to succeed; and it is, I
+believe, the only method which has succeeded down to the present day.
+Certainly it is the method regularly employed, at Dunsink, at the Cape
+of Good Hope, and everywhere else where stellar parallax is part of the
+work.
+
+Between 1830 and 1840 the question was ripe for settlement, and, as
+frequently happens with a long-matured difficulty, it gave way in three
+places at once. Bessel, Henderson, and Struve almost simultaneously
+announced a stellar parallax which could reasonably be accepted. Bessel
+was a little the earliest, and by far the most accurate. His, indeed,
+was the result which commanded confidence, and to him the palm must be
+awarded.
+
+He was largely a self-taught student, having begun life in a
+counting-house, and having abandoned business for astronomy. But
+notwithstanding these disadvantages, he became a highly competent
+mathematician as well as a skilful practical astronomer. He was
+appointed to superintend the construction of Germany's first great
+astronomical observatory, that of Koenigsberg, which, by his system,
+zeal, and genius, he rapidly made a place of the first importance.
+
+Struve at Dorpat, Bessel at Koenigsberg, and Henderson at the Cape of
+Good Hope--all of them at newly-equipped observatories--were severally
+engaged at the same problem.
+
+But the Russian and German observers had the advantage of the work of
+one of the most brilliant opticians--I suppose the most brilliant--that
+has yet appeared: Fraunhofer, of Munich. An orphan lad, apprenticed to a
+maker of looking-glasses, and subject to hard struggles and privations
+in early life, he struggled upwards, and ultimately became head of the
+optical department of a Munich firm of telescope-makers. Here he
+constructed the famous "Dorpat refractor" for Struve, which is still at
+work; and designed the "Koenigsberg heliometer" for Bessel. He also made
+a long and most skilful research into the solar spectrum, which has
+immortalized his name. But his health was broken by early trials, and he
+died at the age of thirty-nine, while planning new and still more
+important optical achievements.

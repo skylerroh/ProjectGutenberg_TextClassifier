@@ -1,0 +1,214 @@
+poof, the slide-rule boys had said, to stop the rotation of the bird.
+I fastened the canister to the webbing, pushed softly with one finger
+to get me a few feet away, and drifted while waiting for the delayed
+fuse to fire the antispin rocket. It lanced out a flame for a few
+seconds, and sputtered dead. The bird hung virtually motionless
+beneath me--or above me--or beside me--or whatever you want to call
+it when there is no up or down.
+
+Our light was dimming as we passed the terminator and pulled over
+Earth's dark side. The sun was still visible, however, although soon
+to be eclipsed by Earth. I jetted softly back to the bird and lit my
+helmet light. I had to find the right face of the twelve-sided thing
+so that I could open the right gate. The markings were there. They
+were just hard to read from inside a helmet. Then the sun was
+eclipsed, and my headlamp gave me the kind of light I was used to
+working with. The sector I wanted was on the satellite's dark side. I
+had to clamp on to the girdle and jet quite a while to turn it halfway
+round, and then decelerate just as long to bring it to a stop. I
+fooled around several minutes getting the sector to face where the sun
+would soon rise.
+
+My earphone spoke.
+
+"Mike!"
+
+"Roger, Sid. What's up."
+
+"Take it easy on your steering fuel. You're getting low."
+
+"Roger."
+
+I had to wait for the sun before I could start work. When it came up,
+heating seemed quick. First a test with a thermocouple showed that
+Telstar's surface was warming nicely and would soon support the
+pressure-sensitive mat I was going to stick to some of her solar
+generators. When the 'couple said Telstar had reached zero centigrade,
+I pulled the mat loose from where it was stuck to my left leg and
+plastered it above the gate I was going to open. I say above, because
+it was closer to one pole--the "North" pole of the satellite--than the
+gate.
+
+It was time to go to work on my first screw. And there I got my next
+lesson. It was a real big screw, as they go, a 4-40 flat head machine
+screw with a length of about three-quarters of an inch. I would have
+to give it thirty turns to back it out. I never gave it the first
+turn. The head snapped off as soon as I applied a few inch-pounds of
+torque.
+
+Yes, the surface had heated up nicely, but the shank of the screw was
+about two hundred below zero centigrade, and far brittler than glass.
+
+I cussed some and reported to Sid what had happened.
+
+"Have to drill it out," I said.
+
+My drill was a cutie. It was a modified dentists' drill, the kind
+that's run by a little air turbine at about two hundred thousand
+r.p.m.'s. I really mean that. They turn like mad.
+
+I'd been taught to use it with care. When a dentist drills your teeth,
+he blows olive oil and water through the turbine, and the mixture
+cools the tooth--and the drill--while the cutting is going on. We
+couldn't afford any cloud of vapor--or the shorting out that ice would
+cause--so I had only the pressurized mixture of oxygen and helium in
+the tanks on my back to run the drill. And that meant light and
+intermittent pressures on the number 43 wire gauge drill--the one
+that's the right size to drill out a 4-40. It took me about fifteen
+minutes and I was down to my last number 43 drill bit when she broke
+free.
+
+From then on I had to heat each screw before I went to work on it. I
+had something like a soldering iron that I could press against the
+screw-head. Heat would flow through the highly conductive alloy and
+make it less brittle. I flicked each screw I removed out into space
+and at last carefully hinged the gate wide open.
+
+The gate was the length of the sector--about two feet. It was four
+inches wide and about an inch thick and had parts strung along it like
+kernels on an ear of corn.
+
+At this stage I readjusted the position of my webbing girdle until I
+could clamp my head in position and begin the testing. It was slow
+work. The first sad thing was to learn that the solenoid M1537 was as
+good as new. When I put enough voltage across its terminals, the
+actuator clicked down through the core.
+
+I swore a blue streak.
+
+"What is it Mike?" Sid's voice came in my ear.
+
+"Trouble," I said. "What did we expect?"
+
+"Roger," he said in that toneless unexcited astronauts' voice. "Return
+to ship, Mike."
+
+"Not now," I said. "I've just got the oyster opened."
+
+His voice cut like my drill-bit. "I ordered you to return to ship.
+Your air supply is about shot."
+
+"I haven't been out that long," I protested, not feeling too sure
+about the lapse of time.
+
+"Your drill chewed it up pretty fast. Quit talking and start moving."
+
+I was thankful for the experience of moving in close to the bird. The
+same tricks worked much more smoothly as I used my deflection plate in
+front of my belly blast to turn me to face the floodlight, and then
+followed up with a light shove or two in the spine to start me
+drifting toward _Nelly Bly_. There didn't seem any rush, and I drifted
+slowly over, using only a couple triggered bursts of deceleration to
+slow me down as I approached the open hatch.
+
+Inside we went through the drill. My ears popped a little as Sid
+unchucked my spent tanks, and popped again as the new ones came on
+with a hiss.
+
+"Take it easy on that steering fuel, Mike," he said again. "You're
+getting awfully low."
+
+"Sure," I said and let myself drift out the hatch. I had enough sense
+to twist so that my back jet wouldn't hit the ship. Then I took a
+zig-zag course through the darkness to my bird, got oriented at the
+open gate and went back to work. Before I could get started, my
+earphones spoke.
+
+"Mike, Cleary here."
+
+"Roger, Paul. What is it?"
+
+"Have you gotten to that solenoid yet?"
+
+"Yes."
+
+"What can you tell me?"
+
+"That you're a fathead. Now shut up. I'm busy."
+
+"Roger, Mike," Paul Cleary acknowledged quite meekly.
+
+So I started again, reaching with my leads from point to point. After
+a certain number of tests, I had the area isolated, but not the part.
+From here on it would have to be disassembly. Every tiny screw had to
+be heated, then teased out with a jeweler's screwdriver. Some took my
+patented ratchet extension. The big miracle was that I didn't break
+anything.
+
+[Illustration]
+
+When I got to it, it was ridiculous. A small length of wire connected
+one component to another. Space was lacking, and the wire was tight
+against the metal of the gate. Its insulation was one of these
+space-age wonders, a form of clear plastic that would remain ductile
+under zero temperature and pressure. Only it didn't. It had shrunk and
+cracked, and there was a simple short against the metal of the gate.
+There were so many forms of circuit-breakers and self-protectors in
+the machine that the whole gate had been switched off as long as the
+short was in existence. No wonder telemetry hadn't told us anything.
+
+As I prepared to fix the trouble, I switched on my radio and had Sid
+connect me with the ground. "Canaveral Control," one of those
+emotionless voices said. He could afford to be. He was on the ground.
+
+"Get me Cleary," I ordered.
+
+"Cleary here, Mike. What have you found, boy?" He sure was anxious
+about that solenoid.
+
+"Not much, Paul. Just that Fred Stone is a fathead, too. Over and out,
+like they say." I switched off and went back to my work.
+
+       *       *       *       *       *
+
+[Illustration]
+
+The one thing I had nothing of was any kind of insulating material.
+With my screwdriver I hacked a piece loose from the double-faced
+sticky-tape I had used to keep loose parts from flying around, and
+teased it under the wire with my tweezers. Perhaps I could have done
+as well by heating the wire and bending it straight, but there was
+little room, and I was afraid of melting a solder joint. So I took my
+time teasing the tape through and finally got it to act as an
+insulator without breaking the wire. How long it would stay there was
+anybody's guess. It was held mechanically as well as by its sticky
+action, but when the bird cooled off enough, the sticky effect would
+lessen. I hoped the pressure between the wire and the gate could be
+enough to keep it in place. Certainly no forces would be acting to
+move it.
+
+Just as I had figured, the reassembly was the tedious part. I had to
+move around into about sixteen screwy positions to do all the fixing.
+Finally it was back in one piece and I swung the gate closed.
+
+When the final 4-40's were run up as tight as they were supposed to be
+run, I reported to Paul Cleary. "Try her," I suggested. "I think I
+found the trouble. No point my coming back down if it doesn't work."
+
+They made me sweat it out for about ten minutes before Paul said,
+"Runs like a watch, Mike. Put the spin back on her, boy." At least he
+was quiet about his solenoid.
+
+This called for the second rocket canister, which I hooked on to the
+girdle and, after thinking it out carefully, got headed in the right
+direction. I eased away with finger pressure, and let the delayed fuse
+do the firing. Telstar started her slow spin again.
+
+Getting the girdle off was a lot harder than getting it on, something
+we hadn't figured on, and in the final stages of the job I found that
+my steering motors no longer fired.
+
+[Illustration]
+
+"Sid!"
+

@@ -1,0 +1,413 @@
+
+[Illustration: FIG. 12.]
+
+Fig. 12 illustrates the Ingersoll-Sergeant Piston Inlet Cold Air
+Compressor. This a straight line direct-acting engine, with steam and
+air pistons connected to a single rod through a crosshead which connects
+with two fly wheels. The strains are direct and the power and resistance
+are equalized by the inertia of the crosshead, piston, rods, and fly
+wheels. The Meyer's adjustable cut-off is used on the steam cylinder.
+The air cylinder is provided with a tail rod tube through which all the
+air is admitted into the cylinder.
+
+[Illustration: FIG. 13.--AN AUTOMATIC AND ADJUSTABLE REGULATOR AND
+UNLOADING DEVICE APPLIED TO INGERSOLL-SERGEANT AIR COMPRESSORS.]
+
+Fig. 13 illustrates an unloading device and regulator applied to the
+Ingersoll-Sergeant compressor.
+
+The purpose of this unloading device is to maintain a uniform air
+pressure in the receiver and a uniform speed of engine, notwithstanding
+the consumption of the air, and to do this without waste of power or
+attention on the part of the engineer. A weighted valve of safety valve
+pattern is attached to the air cylinder, and is connected with the air
+receiver, and with a discharge valve on each end of the air cylinder,
+also with a balanced throttle valve in the steam pipe. When the pressure
+of the air gets above the desired point in the receiver, the valve is
+lifted and the air is exhausted from behind the discharge valves, thus
+letting the compressed air at full receiver pressure into the cylinder
+at both ends, and balancing the engine. At the same instant the
+compressed air is exhausted from the little piston connected with the
+balanced steam valve and the steam is automatically throttled, so that
+only enough steam is admitted to keep the engine turning around, or to
+overcome the friction, no work being done.
+
+[Illustration: FIG. 14.]
+
+When the compressor is unloaded, it is evident that the function of the
+air piston is merely to force the compressed air through the discharge
+valves and passages from one end to the other until more compressed air
+is required, this being indicated by a fall in the receiver pressure.
+The weighted valve now closes and the small connecting pipes are
+instantly filled with compressed air; the steam valve automatically
+opens, and the compression goes on in the regular way. Another function
+of this device is to prevent the compressor from stopping or getting on
+the center. Direct-acting compressors are liable to center when doing
+work at slow speed.
+
+[Illustration: FIG. 15. PISTON INLET VALVE OPERATED BY THE NATURAL LAWS
+OF MOMENTUM.]
+
+Fig. 15 illustrates the Ingersoll-Sergeant Air Cylinder and Piston.
+
+Fig. 16 shows the piston inlet valve, situated at G in Fig. 15. Two of
+these valves are placed in each piston of a double-acting air cylinder,
+the piston being hollow and the free air being admitted through a
+tail-rod pipe, letter E, Fig. 15. JJ are water jacket passages for
+cooling the air during compression. Owing to the absence of inlet
+valves, large water jackets are provided, not only around the cylinder
+itself, but through the heads. As the heat of compression is greater
+near the end of the stroke, the advantage of a cool head is manifest. H
+H are the discharge valves through which the compressed air is forced.
+
+[Illustration: FIG. 16. PISTON INLET VALVE OPERATED BY THE NATURAL LAWS
+OF MOMENTUM.]
+
+The most interesting feature of this cylinder is the piston inlet valve.
+It is evident that this valve being attached to the piston needs no
+springs or other connections, but is opened and closed exactly at the
+right time by its natural inertia. With only about 1/4 of an inch throw of
+valve a large area is opened, through which the free air is drawn. The
+valve is made of a single piece of composition metal and is practically
+indestructible. Its construction is such that it fills the clearance
+spaces to a greater extent than is usual in air compressors. A singular
+feature is that indicator cards taken on these cylinders show a free air
+line in some cases a little above the atmospheric line. Poppet valve
+compressors almost invariably show a slight vacuum, due to several
+causes, mainly the duty performed in compressing the springs of the
+valves, but the vacuum is also influenced by insufficiency of valve
+area, hot air cylinders, etc. This cylinder gives its full volume of
+air, and apparently a little more at times, because the air is admitted
+by a concentrated inlet in which free _air is always moving in one
+direction_. After it has been started, the speed of the compressor is
+such that the air attains a momentum due to its velocity and density;
+this serves a useful purpose in piling up the free air in the cylinder
+before the inlet valve closes on the return stroke.
+
+[Illustration: FIG. 17.--COMBINED STEAM AND AIR INDICATOR CARD:
+
+Taken from a 16x18 Sergeant piston inlet air compressor, meyer's cut-off
+at 3/10. Steam at 58 lb.; air pressure, 77 lb.; total engine friction, 5
+per cent.]
+
+Fig. 17 illustrates a combined steam and air indicator card taken from
+one of these cylinders. It will be observed that with steam and air
+cylinders equal in diameter and stroke, an air pressure of 77 pounds is
+reached with a steam pressure of only 58 pounds. The reason for this is
+plainly shown in the cards, their areas being nearly equal. What is made
+up in the air card by high pressure is represented in the steam card by
+greater volume. The indicated efficiency deduced from these cards is 95
+per cent., that is, the area of the air card divided by the area of the
+steam card, representing the resistance divided by the power, results in
+95 per cent. While several cards have been taken on the cylinders
+showing a loss by friction of only 5 per cent., yet on the average the
+best practice shows a loss of 6 per cent. or an efficiency of 94 per
+cent. This result indicates an almost perfect proportion between power
+and resistance, and good workmanship in air-compressing machinery. It is
+difficult to conceive an engine of this size being worked with a less
+expenditure for friction than 5 or 6 per cent. Were it possible to
+retain the heat which is in the air, and which is represented by the
+space between the dotted isothermal curve and the actual curve, we might
+attain high efficiency in using compressed air power, but it is evident
+that the power represented by the area of this space will be lost by
+radiation of heat before it is used in an engine situated several
+hundred feet away.
+
+These indicator cards show at a glance that heat is responsible for the
+important air losses, and that so far as the design of the compressing
+engine is concerned, we have attained a point very near perfection. All
+the devices, past, present and future, on which inventors spend so much
+time, and in the development of which capitalists are innocently
+inveigled, _aim to save this six per cent. loss!_ We hear a good deal
+about "Centrifugal Air Compressors," "Rotaries," "Plunger Pumps," etc.,
+designs involving expensive complications without any heat advantage,
+and which seem to be based upon the "iridescent dream" of a large loss
+in the present method of compressing air. Here we have a simple engine,
+compact and complete in itself, capable of high speed without injury,
+constructed on the basis of our best steam engine practice, which
+produces compressed air power at a loss of only six per cent.
+
+Clearance is not taken into consideration in the foregoing figures, but
+clearance is very much more of a _bete noir_ in theory than in practice.
+The early designers, as shown in the "Dubois-Francois" illustrations,
+Figs. 3 and 4, regarded clearance loss as a very serious matter. Even at
+the present time some air compressor manufacturers admit water through
+the inlet valves into the air cylinder, not so much for the purpose of
+cooling as to fill up the clearance space. A long stroke involving
+expensive construction is usually justified by the claim that a large
+saving is effected by reduced clearance loss. Let us see what the effect
+of this clearance is. Assuming that we have an air compressor which
+shows an isothermal pressure line, there would be some loss of power due
+to clearance space, because we would have a certain volume of air upon
+which work was done and heat produced, that heat having been absorbed
+and the air being retained in the cylinder and not serving any useful
+purpose. But let us assume that we have a compressor which shows an
+adiabatic pressure line. We now have the air in the clearance space
+acting precisely as a spring, compressed at each stroke, retaining its
+heat of compression, and giving it out against the air piston at the
+point when the stroke is reversed. There is no loss of power in such a
+case as this, but, on the contrary, the air spring is useful in
+overcoming the inertia of the piston and moving parts. The best air
+compressors give a result about midway between the isothermal and the
+adiabatic, and the net loss of _power_ directly due to clearance is so
+small as to be practically unworthy of consideration.
+
+It must not be inferred from the preceding remarks that the designer of
+an air compressor may neglect the question of clearance. On the
+contrary, it is a very important consideration. If we assume a large
+clearance space in the end of an air cylinder of a compressor which is
+furnishing air at a high pressure, we may readily conceive that space to
+be so large, and that pressure so high, that the entire volume of the
+cylinder would be filled by the air from the clearance space alone, and
+the compressor would take in no free air and would, of course, produce
+no compressed air.
+
+Loss in _capacity_ of air compressors by clearance is in direct
+proportion to the pressure.
+
+Owing to the loss of capacity by clearance space at high pressures, it
+is important that compound air cylinders should be used for furnishing
+air at high pressure. With compound air cylinders the air is compressed
+to alternate stages of pressure in the different cylinders, and the
+clearance loss is thus reduced because of the reduced density of the air
+in the clearance spaces. In ordinary practice air compressors deliver
+the air at less than 100 pounds pressure, so that with a properly
+designed air cylinder the clearance space is so small that the capacity
+of the compressor is not materially affected.
+
+Two systems are in use by which the heat of compression is absorbed, and
+the difference between one and the other is so distinct that air
+compressors are usually divided into two classes (1) wet compressors,
+(2) dry compressors.
+
+A _wet_ compressor is that which introduces water directly into the air
+cylinder during compression.
+
+A _dry_ compressor is that which introduces no water into the air during
+compression.
+
+_Wet_ compressors may be subdivided into two classes.
+
+(1) Those which inject water in the form of a spray into the cylinder
+during compression.
+
+(2) Those which use a water piston for forcing the air into confinement.
+
+The injection of water into the cylinder is usually known as the
+Colladon idea. Compressors built on this system have shown the highest
+isothermal results, that is, by means of a finely divided spray of cold
+water the heat of compression has been absorbed to a point where the
+compressed air has been discharged at a temperature nearly equal to that
+at which it was admitted to the cylinder. The advantages of water
+injection during compression are as follows:
+
+(1) Low temperature of air during compression.
+
+(2) Increased volume of air per stroke, due to filling of clearance
+spaces with water and to a cold air cylinder.
+
+(3) Low temperature of air immediately after compression, thus
+condensing moisture in the air receiver.
+
+(4) Low temperature of cylinder and valves, thus maintaining packing,
+etc.
+
+(5) Economical results, due to compression of moist air (see table 3).
+
+TABLE 3.--SHOWING THE RELATIVE QUANTITY OF WORK REQUIRED TO COMPRESS A
+GIVEN VOLUME AND WEIGHT OF AIR, BOTH DRY AND MOIST--ALSO RELATIVE
+VOLUMES WITH AND WITHOUT INCREASE OF TEMPERATURE FROM COMPRESSION.
+
+_______________________________________________________________________________________
+  |                |                                  |
+  |Compression at  |Compression                       |
+  |a Constant      |with                              |
+  |Temperature.    |Increase of                       |
+  |Mariotte's Law. |Temperature.                      |
+__|________________|__________________________________|________________________________
+  |     |     |    |     |     |    |     |     |     |    |     |     |   |     |
+ 1|0.1  |     |    |     |     |    | 20  | 68  |1.0  |    |     | 68  |   |     |
+ 2|0.5  | 7199|1468|0.612| 7932|1618| 85.5|186  |1.222| 733|0.092|111  |3.0|23500|22500
+ 3|0.333|11356|2316|0.459|13360|2725|130.4|267  |1.375|2004|0.150|135.5|4.0|37000|35000
+ 4|0.25 |14260|2909|0.374|17737|3618|165.6|330  |1.495|3477|0.196|153.5|4.8|48500|45000
+ 5|0.200|16580|3383|0.320|21209|4326|195.3|384  |1.595|4629|0.213|167  |5.4|58500|52500
+ 6|0.167|18475|3768|0.281|24310|4959|220.5|429  |1.681|5835|0.240|179  |6.0|67000|60000
+ 7|0.143|20038|4087|0.252|27048|5517|243.2|470  |1.758|7040|0.260|190  |6.4|75000|66000
+ 8|0.125|21422|4370|0.229|29518|6021|263.6|506.5|1.828|8096|0.274|     |   |     |
+ 9|0.111|     |    |0.210|     |    |282  |539.6|1.891|    |     |     |   |     |
+10|0.100|     |    |0.195|     |    |299  |570.2|1.950|    |     |     |   |     |
+_______________________________________________________________________________________
+  |     |     |    |     |     |    |     |     |     |    |     |     |   |     |
+ 1|  2  |  3  |  4 |  5  |  6  |  7 |  8  |  9  | 10  | 11 |  12 |  13 | 14|  15 |  16
+__|_____|_____|____|_____|_____|____|_____|_____|_____|____|_____|_____|___|_____|_____
+
+Column  Heading
+1       Tension in Atmospheres.
+2       Volume.
+3       Work of Compression. Cubic Meters in Kilogram-meters.
+4       Work of Compression. Cubic Feet in Foot Pounds.
+5       Volume.
+6       Work of Compression. (Dry.) Cubic Meters in Kilogram-meters.
+7       Work of Compression. (Dry.) Cubic Feet in Foot Pounds. Deduced from 6.
+8       Temperatures. (Dry.) Cent.
+9       Temperatures. (Dry.) Fah.
+10      Ratio of Greater to Less Temperature. Absolute.
+11      Loss of Work in Compressing one Cubic Meter in Kilogram-meters.
+        By Increase of Temperature alone.
+12      Percentage of Work of Compression Converted into Heat and Lost.
+        By Increase of Temperature alone.
+13      Final Temperature if Water is used in Compression. Fah.
+14      Percentage of Water to Air Required.
+15      Foot Pounds to Compress One Pound Air. Dry.
+16      Foot Pounds to Compress One Pound Air. With sufficient Moisture.
+
+The first advantage is by far the most important one, and is really the
+only excuse for water injection in air compressors. We have seen (table
+3) that the percentage of work of compression which is converted into
+heat and loss when no cooling system is used is as follows:
+
+Compressing to 2 atmospheres loss  9.2 per cent.
+   "         " 3     "        "   15.0  "   "
+   "         " 4     "        "   19.6  "   "
+   "         " 5     "        "   21.3  "   "
+   "         " 6     "        "   24.0  "   "
+   "         " 7     "        "   26.0  "   "
+   "         " 8     "        "   27.4  "   "
+
+We see that in compressing air to five atmospheres, which is the usual
+practice, the heat loss is 21.3 per cent., so that if we keep down the
+temperature of the air during compression to the isothermal line, we
+save this loss. The best practice in America has brought this heat loss
+down to 3.6 per cent. (old Ingersoll Injection Air Compressor), while in
+Europe the heat loss has been reduced to 1.6 per cent. Steam-driven air
+compressors are usually run at a piston speed of about 350 feet per
+minute, or from 60-80 revolutions per minute of compressors of average
+sizes, say 18" diameter of cylinder. Sixty revolutions per minute is
+equal to 120 strokes, or two strokes per second. An air cylinder 18" in
+diameter filled with free air once every half second, and at each stroke
+compressing the air to 60 pounds, and thereby producing 309 degrees of
+heat, is thus, by means of water injection, cooled to an extent hardly
+possible with mere surface contact. The specific heat of water being
+about four times that of air, it readily takes up the heat of
+compression.
+
+A properly designed spray system must not be confused with the numerous
+devices applied to air cylinders, by means of which water is introduced.
+In some cases the water is merely drawn in through the inlet valves. In
+others it passes through the center of the piston and rod, coming in
+contact with the interior walls of the air cylinder between the packing
+rings. Introducing water into the air cylinder in _any other way, except
+in the form of a spray, has but little effect in cooling the air during
+compression._ On the contrary, it is a most fallacious system, because
+it introduces all the disadvantages of water injection without its
+isothermal influence. Water, by mere surface contact with air, takes up
+but little heat, while the air, having a chance to increase its
+temperature, absorbs water through the affinity of air for moisture, and
+thus carries over a volume of saturated hot air into the receiver and
+pipes, which on cooling, as it always does in transit to the mine,
+deposits its moisture and gives trouble through water and freezing. It
+is, therefore, of much importance to bear in mind that unless water can
+be introduced _during compression_ to such an extent as to _keep down
+the temperature of the air in the cylinder_, it had better not be
+introduced at all.
+
+If too little water is introduced into an air cylinder during
+compression, the result is warm, moist air, and if too much water is
+used, it results in a surplus of power required to move a body of water
+which renders no useful service. The following table deduced from
+Zahner's formula gives the quantity of water which should be injected
+per cubic foot of air compressed in order to keep the temperature down
+to 104 degrees Fah.
+
+  _________________________________________________________________________
+                 |                 |                  |
+                 |                 |Weight of water   |Weight of water
+                 |                 |to be injected at |to be injected at
+                 |Heat units devel-|68 deg. Fah. to keep  |68 deg. Fah. to keep
+  Compression    |oped in 1 lb.    |the temperature at|the temperature at
+  by atmosphere  |free air by      |104 deg. Fah. in lbs. |104 deg. Fah. in lbs. of
+  above a volume.|compression.     |of water and per  |water for 1 cubic
+                 |                 |lb. of free air.  |foot of free air.
+  _______________|_________________|__________________|____________________
+                 |                 |                  |
+         2       |        3.702    |        0.734     |        0.056
+         3       |        5.867    |        1.664     |        0.089
+         4       |        7.406    |        1.469     |        0.113
+         5       |        8.598    |        1.701     |        0.131
+         6       |        9.570    |        1.891     |        0.145
+         7       |       10.398    |        2.063     |        0.158
+         8       |       11.109    |        2.204     |        0.167
+         9       |       11.740    |        2.329     |        0.179
+        10       |       12.301    |        2.440     |        0.188
+        11       |       12.813    |        2.542     |        0.195
+        12       |       13.278    |        2.634     |        0.202
+        13       |       13.706    |        2.719     |        0.209
+        14       |       14.102    |        2.798     |        0.215
+        15       |       14.471    |        2.871     |        0.223
+  _______________|_________________|__________________|____________________
+
+Objections to water injection are as follows:
+
+(1) Impurities in the water, which, through both mechanical and chemical
+action, destroy exposed metallic surfaces.
+
+(2) Wear of cylinder, piston and other parts, due directly to the fact
+that water is a bad lubricant, and as the density of water is greater
+than that of oil, the latter floats on the water and has no chance to
+lubricate the moving parts.
+
+(3) Wet air arising from insufficient quantity of water and from
+inefficient means of ejection.
+
+(4) Mechanical complications connected with the water pump, and the
+difficulties in the way of proportioning the volume of water and its
+temperature to the volume, temperature and pressure of the air.
+
+(5) Loss of power required to overcome the inertia of the water.
+
+(6) Limitations to the speed of the compressor, because of the liability
+to break the cylinder head joint by water confined in the clearance
+spaces.
+
+(7) Absorption of air by water.
+
+Before the introduction of condensing air receivers, wet air resulting
+in freezing was considered the most serious obstacle to water injection;
+but this difficulty no longer exists, as experience has conclusively
+demonstrated that a large part of the moisture in compressed air may be
+abstracted in the air receiver. Even in the so-called dry compressors a
+great deal of moisture is carried over with the compressed air, because
+the atmosphere is never free from moisture. This subject will be
+referred to more fully when treating of the transmission of compressed
+air.
+
+By far the most serious obstacle to water injection, and that which
+condemns the wet compressor, is the influence of the injected water upon
+the air cylinder and parts. Even when pure water is used, the cylinders
+wear to such an extent as to produce leakage and to require reboring.
+The limitation to the speed of a compressor is also an important
+objection. The claim made by some that the injected water does not fill
+the clearance spaces, but is aerated, does not hold good, except with an
+inefficient injection system. The writer has increased the speed of an
+air compressor (cylinders 12 in. and 12 in. by 18 in., injection air
+cylinder) ten revolutions per minute by placing his fingers over the
+orifice of the suction pipe of the water pump. The boiler pressure
+remained the same, the cut-off was not changed and the air pressure was
+uniform, hence this increase of speed arose from the fact that the water
+was restricted and the clearance spaces were filled with compressed air,
+which served as a cushion or spring. While the volume of compressed air
+furnished by this compressor would be somewhat reduced by the
+restriction of the water, yet the increase in speed which was obtained
+without any increase of power fully compensated for the clearance loss.
+
+Mr. John Darlington, of England, gives the following particulars of a
+modern air compressor of European type:
+
+"Engine, two vertical cylinders, steam jacketed, with Meyer's expansion
+gear. Cylinders, 16.9 inches diameter, stroke 39.4 inches; compressor,
+two cylinders, diameter of piston, 23.0 inches; stroke 39.4 inches;
+revolutions per minute, 30 to 40; piston speed 39 to 52 inches per
+second, capacity of cylinder per revolution, 20 cubic feet: diameter of
+valves, viz., four inlet and four outlet, 51/2 inches; weight of each
+inlet valve, 8 lb.; outlet, 10 lb.; pressure of air, 4 to 5 atmospheres.
+The diagrams taken of the engine and compressor show that the work

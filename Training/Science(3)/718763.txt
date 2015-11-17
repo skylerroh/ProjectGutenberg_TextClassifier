@@ -1,0 +1,383 @@
+hydride of amyl, of this thickness, were its molecules freed from the
+thrall of cohesion, would form a column of vapor 38 inches long, at a
+pressure of 7.2 inches in the one case, and of 6.6 inches in the other.
+In passing through the liquid layer, a beam of heat encounters the same
+number of molecules as in passing through the vapor layer: and our
+problem is to decide, by experiment, whether, in both cases, the
+molecule is not the dominant factor, or whether its power is augmented,
+diminished, or otherwise overridden by the state of aggregation.
+
+    [Footnote 1: The millimeter is 1-25th of an inch.]
+
+Using the sources of heat before mentioned, and employing diathermanous
+lenses, or silvered minors, to render the rays from those sources
+parallel, the absorption of radiant heat was determined, first for the
+liquid layer, and then for its equivalent vaporous layer. As before, a
+representative experiment or two will suffice for illustration. When the
+substance was sulphuric ether, and the source of radiant heat an
+incandescent platinum spiral, the absorption by the column of vapor was
+found to be 66.7 per cent. of the total beam. The absorption of the
+equivalent liquid layer was next determined, and found to be 67.2 per
+cent. Liquid and vapor, therefore, differed from each only 0.5 per
+cent.; in other words, they were practically identical in their action.
+The radiation from the lime light has a greater power of penetration
+through transparent substances than that from the spiral. In the
+emission from both of these sources we have a mixture of obscure and
+luminous rays; but the ratio of the latter to the former, in the lime
+light is greater than in the spiral; and, as the very meaning of
+transparency is perviousness to the luminous rays, the emission in which
+these rays are predominant must pass most freely through transparent
+substances. Increased transmission implies diminished absorption; and
+accordingly, the respective absorption of ether vapor and liquid ether,
+when the lime light was used, instead of being 66.7 and 67.2 per cent.,
+were found to be
+
+  Vapor....................33.3 per cent.
+  Liquid...................33.3   "
+
+no difference whatever being observed between the two states of
+aggregation. The same was found true of hydride of amyl.
+
+This constancy and continuity of the action exerted on the waves of heat
+when the state of aggregation is changed, I have called "the thermal
+continuity of liquids and vapors." It is, I think, the strongest
+illustration hitherto adduced of the conservation of molecular action.
+
+Thus, by new methods of search, we reach a result which was long ago
+enunciated on other grounds. Water is well known to be one of the most
+opaque of liquids to the waves of obscure heat. But if the relation of
+liquids to their vapors be that here shadowed forth, if in both cases
+the molecule asserts itself to be the dominant factor, then the
+dispersion of the water of our seas and rivers, as invisible aqueous
+vapor in our atmosphere, does not annul the action of the molecules on
+solar and terrestrial heat. Both are profoundly modified by this
+constituent; but as aqueous vapor is transparent, which, as before
+explained, means pervious to the luminous rays, and as the emission from
+the sun abounds in such rays, while from the earth's emission they are
+wholly absent, the vapor screen offers a far greater hinderance to the
+outflow of heat from the earth toward space than to the inflow from the
+sun toward the earth. The elevation of our planet's temperature is
+therefore a direct consequence of the existence of aqueous vapor in our
+air. Flimsy as that garment may appear, were it removed terrestrial life
+would probably perish through the consequent refrigeration.
+
+I have thus endeavored to give some account of a recent incursion into
+that ultra-sensible world mentioned at the outset of this paper. Invited
+by my publishers, with whom I have now worked in harmony for a period of
+twenty years, to send some contribution to the first number of their new
+Magazine, I could not refuse them this proof of my good will.
+
+J. TYNDALL
+
+Alp Lusgen, September 4, 1882
+
+       *       *       *       *       *
+
+
+The German empire has now about 34,000,000 acres of
+forest, valued at $400,000,000, and appropriates $500,000
+even year to increase and maintain the growth of trees.
+
+       *       *       *       *       *
+
+
+
+
+APPARATUS FOR MEASURING ELECTRICITY AT THE UPPER SCHOOL OF TELEGRAPHY.
+
+
+_Electro Tuning Forks and their Uses._--On a former occasion I described
+an instrument to which, in 1873, I gave the name _Electro-Tuning Fork_,
+and which is nothing else than a tuning fork whose motion is kept up
+electrically in such a way as to last indefinitely, provided that the
+elements of the pile are renewed gradually, and that from time to time
+the metallic contact is changed, which causes, at every oscillation, the
+current to pass from the pile into the magnet, which keeps up the
+vibration.
+
+We reproduce herewith, in Fig. 1, a cut showing in projection one of the
+simplest forms of the apparatus.
+
+[Illustration: FIG. 1.--CONSTANT VIBRATOR.]
+
+If we imagine the platinum or steel style, s, of the figure to be done
+away with, as well as the platinized plate, I, and its communication
+with the negative pole of the pile, P, we shall have the ordinary
+instrument kept in operation electrically by the aid of the
+electro-magnet, E, the style, s, the interrupting plate, I, and the
+pile.
+
+If we preserve the parts above mentioned, the instrument will possess
+the property of having vibrations of a constant amplitude if sufficient
+energy be kept up in the pile. In fact, when the amplitude is
+sufficiently great to cause the style, s, to touch the plate, I, it
+will be seen that at such a moment the current no longer passes through
+the electromagnet, and the vibration is no longer maintained. The
+amplitude cannot exceed an extent which shall permit the style, s, to
+touch I.
+
+Under such conditions, the duration of the vibrations remains exactly
+constant, as does also the vibratory intensity of the entire instrument.
+The measurement of time, then, by an instrument of this kind is, indeed,
+as perfect as it could well be.
+
+This complication in the arrangement of the apparatus has no importance
+as regards those tuning forks the number of whose vibrations exceeds a
+hundred per second, for in such a case these are given an amplitude of a
+few millimeters only; but it would be of importance with regard to
+instruments whose number of vibrations is very small, and to which it
+might be desirable to give great amplitude; for then, as I have long ago
+shown, the duration of the oscillation would depend a little on the
+amplitude, but a very little, it is true.
+
+I shall not refer now to the applications of these instruments in
+chronography, but will rather point out first the applications in which
+they are destined to produce an effective power.
+
+For this purpose it is necessary to make them pretty massive. The number
+of the vibrations depends upon such massiveness, and it is necessity to
+know the relation which exists between these two quantities in order to
+be able to construct an instrument under determinate conditions. I made
+in former years such a research with regard to tuning forks of prismatic
+form, that is to say, of a constant rectangular section continuing even
+into the bent portion where the parallel branches are united by a
+semicylinder, at the middle of which is the wrought iron rod as well as
+the branches. The _thickness_ of the instrument is the dimension
+parallel to the vibrations; its _width_ is the dimension which is
+perpendicular to them, and its _length_ is reckoned from the extremity
+of the branches up to the middle of the curved portion.
+
+It is found that the number of vibrations is independent of the width,
+proportional to the thickness, and very nearly inverse ratio of the
+square of the length, provided the latter exceeds ten centimeters.
+
+If we represent the length by l, the thickness by e, and the number
+of vibrations by n, we shall have the following formula:
+
+  n = k x ( e / l squared )
+
+in which k is a constant quantity whose value depends upon the nature
+of the metal of which the tuning fork is made.
+
+This constant varies very little from steel to malleable cast iron, and
+it may be taken as equal to 818270.
+
+Thus, then, we have a means of constructing a tuning fork in which two
+of the three quantities, n, e, l, are given in advance. Experience
+proves that no errors are committed exceeding one or two per cent.
+
+It is seen from this that there is a means of increasing the mass of the
+instrument without changing anything in the thickness, the length or,
+consequently, the number of vibrations, and this is by increasing the
+_breadth_.
+
+It is in this way that I have succeeded in having long massive tuning
+forks made of malleable iron, giving no more than 12 to 15 vibrations
+per second, and vibrating with perfect regularity. Fig. 2, annexed,
+shows one of these instruments of about 55 centimeters length, whose
+breadth, E, is from 5 to 6 centimeters, and which makes about fifteen
+double vibrations per second only.
+
+[Illustration: FIG. 2.--THE ELECTRICAL TUNING FORK.]
+
+This number might be still further reduced, but at the expense of our
+being led to exaggerate the longitudinal dimensions of the apparatus in
+such a way as to make it inconvenient. The object may be attained more
+simply by loading the branches with slides supporting leaden weights, M,
+of 500 grammes each. By fixing these slides at different points on the
+branches, the number of vibrations can be made to vary from simple to
+double, and even triple. Thus, by fixing them at the extremity of the
+branches the number of the vibrations is reduced to 5 or 6.
+
+There will be seen in the figure the electro-magnet which keeps up the
+vibration. This is formed of three simple electro-magnets, whose bobbins
+have a resistance of no more than 10 ohms, and which are united in
+series. The interrupting plate, P, against which the style, s, rests
+at each vibration, is capable of a forward movement, or one of recoil,
+by the aid of a screw, V, and of an eccentric movement which is produced
+by a small handle, m, and during which its plane remains invariable.
+This arrangement permits the point of contact of the style and plate to
+be varied without changing the precision with which the contact takes
+place, and all the points of the plate to be slowly used in succession
+before replacing it. The motion is produced by means of a relatively
+weak pile, whose poles are connected to the terminals, A and A'. Three
+Callaud elements of triple surface, renewed one after the other every
+month at the most, are sufficient to keep up the vibrations
+continuously, day and night, without interruption, and that too even
+when the instrument is employed in producing a small mechanical power,
+as we shall see further on.
+
+We have now seen how electro-tuning forks may be constructed of large
+dimensions, of large mass, and giving a small number of vibrations per
+second.
+
+Such instruments are well fitted to perform the role of electrical
+interrupters, and it was in such a character that one of them figured in
+the Exhibition of the Upper School of Telegraphy as a type of an
+interrupter for testing piles.
+
+When it is desired to test a pile to ascertain the practicability of
+employing it in telegraphy, it is necessary to make it perform a work
+which shall be as nearly as possible identical with that which it will
+be called on to do, until it is used up, to estimate the duration of
+such work, to measure regularly the constants of the pile, the
+electro-motive power, and the internal resistance. Usually, in
+telegraphy, this work consists in sending over a line of a certain
+resistance intermittent currents, through the intermedium of suitable
+manipulators. It suffices then to cause the branches of the electro
+tuning fork to play the role of one of these manipulators. For doing
+this the tuning fork carries two insulating ebonite or ivory strips, B B
+(Fig. 3), which, at every oscillation, abut against vertical brass
+springs, r. Each of these latter is located in front of the platinized
+point of a screw, v, which is affixed to a small metallic tongue. The
+springs and tongues are insulated from each other, and are mounted on a
+piece which may be moved by a screw, V, so as to cause the springs of
+the strips, B B', to approach or recede according to the amplitude of
+the instrument's vibrations. Each spring and tongue is connected with
+terminals affixed to the base of the apparatus. One of the poles of one
+element, P, of the pile is connected with the tongue and corresponding
+screw, while the other pole is connected with the screw in front of it
+through the intermedium of a galvanometer, g squared, which gives the
+intensity of the intermittent current, and of a resistance coil,
+b squared, which performs the role of an artificial telegraph line. The
+apparatus being set in operation, it will be seen that the current from
+the pile is emitted once at every vibration.
+
+Thus there may be exhausted as many pile elements as there are springs,
+and that, too, simultaneously; and the contacts of the screws and
+springs can be regulated in such a way that the duration of the
+emissions shall be the same for all.
+
+At the laboratory of the School of Telegraphy one of these instruments
+has operated without interruption, day and night, during eighteen
+months.
+
+[Illustration: FIG. 4.--VERY RAPID ELECTRIC TUNING FORK]
+
+The apparatus shown in Fig. 4 is also an interrupting electro-tuning
+fork, but it makes a much greater number of vibrations than the
+preceding, and may serve for other electric tests.
+
+The operation of the tuning fork is kept up electrically by the aid of
+the screw, v, and the corresponding plate; of the style, s, and of
+the fine wire spiral spring, f, both insulated from the fork, from the
+electro-magnet, N, and from the two wires, F F', which communicate with
+a pile.
+
+The interrupting system is symmetrical with the first. It consists of
+the style, s, of the spiral spring, f, of the screw, v, and of the
+plate that this carries at its extremity. The terminal, B, which carries
+the spring, f, and the rod which carries the screw being insulated
+from each other, it is only necessary to cause to terminate therein the
+extremities of a circuit comprising one pile, in order to produce in the
+circuit a number of interruptions equal to that of the tuning fork's
+vibrations. Provided the lengths of the springs, f and _f'_, are
+proper, such vibrations will not be altered.
+
+Moreover, the instrument is so arranged as to produce vibrations whose
+_duration can be varied at pleasure and kept constant_ during the whole
+time the experiments last. This is done by modifying the _amplitude_ of
+the vibrations; for the greater the amplitude, the longer likewise the
+duration of the contact of the style, s, on the corresponding plate,
+and the shorter the duration of the interruption. In order to modify the
+amplitude, the action of the electro-magnet on the branches of the
+apparatus is made to vary. To effect this, the electro-magnet is made
+movable perpendicularly by the aid of a screw, V, between two slides, so
+that the core, N, may be moved with respect to the median line of the
+branches, and even be raised above them. Its action diminishes,
+necessarily, while it is being raised, and the amplitude of the
+vibrations likewise diminishes gradually and continuously. It may thus
+be made, without difficulty, to vary from two to three tenths of a
+millimeter to three or four millimeters or more.
+
+But it is not sufficient to cause the amplitude to vary; it is necessary
+to measure it and to keep it constant at the value desired.
+
+[Illustration: FIG. 5]
+
+The measurement is effected by the aid of a very simple apparatus that I
+have before described under the name of the _vibrating micrometer_. This
+is a small square of paper carrving a design like that shown in Fig. 5,
+and which is seen in Fig. 4 glued to one of the masses, M, which serve
+to vary the number of the instrument's vibrations. This figure is in
+fact, an angle, one of whose sides is graduated into millimeters, for
+example, and the other forms the edge of a wide black band. The apex of
+the angle is above and the divided side is perpendicular to the
+direction of the vibrations.
+
+Under such conditions, when the fork is vibrating, the apex of the
+angle, by virtue of the persistence of impressions upon the retina,
+_seems_ to advance along the graduation in measure as the amplitude of
+the vibrations increases. If an angle has been drawn such that the slope
+of one of its sides to the other is one-tenth, it is easy to see that
+for each millimeter passed over _apparently_ by the apex of the angle,
+the amplitude will increase by two-tenths of a millimeter.
+
+This is the way, then, that the amplitude is measured. On another hand,
+it suffices to keep the apex of the angle of the micrometer immovable,
+in order to be sure of the constancy of the tuning fork's amplitude; and
+this is done, when necessary, by causing the screw, V, to move slightly.
+
+The instrument represented in Fig. 4 is, moreover, fixed to a support
+devised by Mr. A. Duboscq, so as to make it possible to give the tuning
+fork every position possible with respect to a vertical plane; to raise
+it or lower it, and to move it backward or forward so that it may be
+employed for chimography, and in all those experiments in which
+electro-tuning folks are used.
+
+E. MERCADIER.
+
+       *       *       *       *       *
+
+
+
+
+LONGMAN'S MAGAZINE.
+
+OUR ORIGIN AS A SPECIES.
+
+By RICHARD OWEN, C.B., F.R.S.
+
+
+There seems to be a manifest desire in some quarters to anticipate the
+looked for and, by some, hoped-for proofs of our descent, or rather
+ascent, from the ape.
+
+In the September issue of the _Fortnightly Review_ a writer cites, in
+this relation, the "Neanderthal skull, which possesses large bosses on
+the forehead, strikingly suggestive of those which give the gorilla its
+peculiarly fierce appearance;" and he proceeds: "No other human skull
+presents so utterly bestial a type as the Neanderthal fragment. If one
+cuts a female gorilla-skull in the same fashion, the resemblance is
+truly astonishing, and we may say that the only human feature in the
+skull is its size."[1]
+
+    [Footnote 1: Grant Allen, "On Primitive Man," p. 314.]
+
+In testing the question as between Linnaeus and Cuvier of the zoological
+value of the differences between lowest man and highest ape, a
+naturalist would not limit his comparison of a portion of the human
+skull with the corresponding one of a female ape, but would extend it to
+the young or immature gorilla, and also to the adult male; he would then
+find the generic and specific characters summed up, so far, at least, as
+a portion or "fragment" of the skull might show them. What is posed as
+the "Neanderthal skull" is the roof of the brain-case, or "calvarium" of
+the anatomist, including the pent-house overhanging the eye-holes or
+"orbits." There is no other part of the fragment which can be supposed
+to be meant by the "large bosses" of the above quotation. And, on this
+assumption, I have to state that the super-orbital ridge in the
+calvarium in question is but little more prominent than in certain human
+skulls of both higher and lower races, and of both the existing and
+cave-dwelling periods. It is a variable cranial character, by no means
+indicative of race, but rather of sex.
+
+Limiting the comparison to that on which the writer quoted bases his
+conclusions--apparently the superficial extent of the roof plate--its
+greater extent as compared with that of a gorilla equaling, probably, in
+weight the entire frame of the individual from the Neanderthal cave, is
+strongly significant of the superiority of size of brain in the
+cave-dweller. The inner surface moreover indicates the more complex
+character of the soft organ on which it was moulded; the precious "gray
+substance" being multiplied by certain convolutions which are absent in
+the apes. But there is another surface which the unbiased zoologist
+finds it requisite to compare. In the human "calvarium" in question, the

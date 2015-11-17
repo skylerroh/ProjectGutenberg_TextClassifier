@@ -1,0 +1,490 @@
+Project Gutenberg's Scientific American Supplement No. 299, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Scientific American Supplement No. 299
+
+Author: Various
+
+Posting Date: October 10, 2012 [EBook #8408]
+Release Date: July, 2005
+First Posted: July 9, 2003
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SCIENTIFIC AMERICAN SUPPL., NO. 299 ***
+
+
+
+
+Produced by Olaf Voss, Don Kretz, Juliet Sutherland, and
+the Online Distributed Proofreading Team
+
+
+
+
+
+
+
+
+
+
+SCIENTIFIC AMERICAN SUPPLEMENT NO. 299
+
+NEW YORK, SEPTEMBER 24, 1881
+
+Scientific American Supplement. Vol. XII, No. 299.
+
+Scientific American established 1845
+
+Scientific American Supplement, $5 a year.
+
+Scientific American and Supplement, $7 a year.
+
+
+
+[Illustration]
+
+
+
+
+       *       *       *       *       *
+
+     TABLE OF CONTENTS.
+
+I.   ENGINEERING AND MECHANICS.--On the Progress and development
+     of the Marine Engine.--Marine engines.--The marine
+     boiler.--Steel boilers.--Corrosion of boilers.--How the marine
+     engine may be improved.--Consumption of fuel.--Evaporative
+     efficiency of marine locomotive boilers.--Screw propellers
+
+     Steam Ferry Boats of the Port of Marseilles.--2 figures.--
+     Transverse and longitudinal sections
+
+     Opening of a New English Dock. 1 figure
+
+     Improved Grain Elevator. 1 figure
+
+     Improved Dredger. 1 figure.--Single bucket dipper dredger
+
+     Railway Alarm Whistle
+
+     Furnace for the Manufacture of Sulphide of Carbon. 1 figure
+
+     Brouardel's Dry Inscribing Manometer. 1 figure.--Gas indication
+     of manometer
+
+     Centrifugal Apparatus for Casting Metals. 4 figures.--Centrifugal
+     metal moulding apparatus
+
+     Apparatus for the Manufacture of Wood Pulp. 2 figures.--Dresel's
+     wood pulp apparatus
+
+     Recent Progress of Industrial Science.--Presidential address,
+     Convention of Mechanical Engineers
+
+     The Hoboken Drainage Problem
+
+II.  TECHNOLOGY AND CHEMISTRY--On some Recent Improvements
+     in Lead Processes. By NORMAN C. COOKSON
+
+     Apparatus Used in Berlin for the Preparation of Gelatine Plates.--
+     I. Mixing apparatus.--II. Digestive apparatus.--III. Triturating
+     apparatus--IV. Washing apparatus--3 figures
+
+     How To Make Emulsions In Hot Weather. By A. L. HENDERSON
+
+     The Distillation and Rectification of Alcohols by the Rational
+     Use of Low Temperatures. By RAOUL PICTET.--1 figure.--Pictet's
+     apparatus for the rectification of alcohol by cold
+
+     The Removal of Noxious Vapors from Roasting Furnace Gases
+
+     New Gas Exhauster. 1 figure
+
+     Advance in the Price of Glycerine
+
+     Analysis of Oils or Mixtures of Oils Used for Lubricating Purposes
+
+     Nitrate of Amyl
+
+III. ELECTRICITY, ETC.--The Electric Light in Earnock Colliery
+
+     Lightning and Telephone Wires
+
+     Conditions of Flames Under the Influence of Electricity
+
+     The Electric Stop-Motion in the Cotton Mill
+
+     Electrolytic Determinations and Separations. By ALEX, and M.
+     A. VON REIS.--Determination of cobalt.--Nickel--Iron.--Zinc.--
+     Manganese.--Bismuth.--Lead.--Copper.--Cadmium.--Tin.--Antimony.--
+     Arsenic.--Separation of iron from manganese.--Iron from Aluminum
+
+IV.  MEDICINE, SURGERY, ETC.--Treatment of Acute Rheumatism.
+     By ALFRED M. STILLE, M.D.
+
+     Method in Madness
+
+     Simple Methods to Staunch Accidental Hemorrhage. By EDWARD
+     BORCK, M.D.--Bleeding from upper arm.--From arteries in the
+     upper third of the arm.--From the thigh.--From the foot
+
+     Hot Water Compresses in Tetanus and Trismus
+
+V.   AGRICULTURE, ETC.--The Cultivation of Pyrethrum and Manufacture
+     of Powder
+
+     Trials of String Sheaf Binders at Derby, England
+
+     The Culture of Strawberries.--Garden culture.--Field culture
+
+     Some Hardy Flowers for Midsummer
+
+     The Time Consuming Match
+
+VI.  ARCHITECTURE, ART, ETC.--Suggestions in Decorative Art.
+     1 figure.--Silver ewer by Odiot, Paris
+
+     Artists' Homes. No. l4.--Bent's Brook, Holmwood, Surrey, Eng.--
+     6 figures.--Perspective, elevations, and plans
+
+VII. OBITUARY.--Achille Delesse, eminent as geologist and mineralogist
+
+       *       *       *       *       *
+
+
+
+
+ACHILLE DELESSE.
+
+
+The death of this distinguished man must be recorded. An interesting
+_resume_ of his labors by M. Daubree has appeared, from which we take
+the following facts. After a training in his native town at the Lyceum
+of Metz, which furnished so many scholars to the Polytechnic school,
+Delesse was admitted at the age of twenty to this school. In 1839 he
+left to enter the Corps des Mines. From the beginning of his career the
+student engineer applied himself with ardor to the sciences to which
+he was to devote his entire existence. The journeys which he undertook
+then, and continued later, in France, Germany, Poland, England, and
+Ireland, helped to confirm and develop the bent of his mind. He soon
+arrived at important scientific results, and was rewarded, in 1845, by
+having conferred to him by the university the course of mineralogy and
+geology in the Faculty at Besancon, where Delesse at the same time
+fulfilled the duties of engineer of mines. Five years later he returned
+to Paris, where he continued his university duties, at first as deputy
+of the course of geology at the Sorbonne, then as master of the
+conferences at the Superior Normal School. Besides this, he continued
+his profession of engineer of mines as inspector of the roads of Paris.
+The first original researches of the young _savant_ concern pure
+mineralogy; he studied a certain number of species, of which the
+chemical nature was yet uncertain or altogether unknown, and his name
+was appended to one of the species which he defined. He studied
+also, and with success, the interesting modifications called
+pseudomorphism--the mode of association of minerals, as well as their
+magnetic properties. The attributes of a practical mineralogist aided
+him greatly in the culture of a branch of geology to which Delesse has
+rendered eminent services, in the recognition of rocks of igneous origin
+and of others allied to them. He studied in the field, as well as by
+investigations in the laboratory, for fifteen years, with an intelligent
+and indefatigable perseverance, and, aided by the results of hundreds of
+analyses, eruptive masses of the most varied kind, the knowledge derived
+from which threw light upon the principles of science, from granites
+and syenites to melaphyres and basalts. After thirty years of study
+and progress, other _savants_, without differing from him, progressed
+further in the intimate knowledge of rocks; but the historian of
+science will not forget that Delesse was the precursor of this order
+of research. His studies of metamorphism will long do him honor. The
+mineralogical modifications which the eruptive rocks have undergone in
+the mass are the permanent witnesses which attracted all his attention.
+The chemical comparison of the metamorphic with the normal rock pointed
+out distinctly the nature of the substances acquired or lost. One of the
+principal results of these analyses has been to lessen the importance
+attributed until then to heat alone, and to show in more than one case
+the intervention of thermal sources and of other emanations from below,
+to which the eruptive rocks have simply opened up tracks.
+
+It is not only upon subjects relating to the history of rocks that
+Delesse has touched. Witness his work on the infiltration of water, as
+well as his volume relating to the materials of construction, published
+on the occasion of the Exhibition of 1855. The nature of the deposits
+which operate continually at the bottom of the sea offers points of
+interest which well repay the labor of the geologist. He finds there,
+indeed, a precious field to be compared with stratified deposits; for
+in spite of the enormous depth to which they form a part of continents,
+they are of analogous origin. Delesse laboriously studied the products
+of the innumerable soundings taken in most of the seas. He arranged the
+results in a work which has become classical with the beautiful atlas of
+submarine drawings which accompany it. Though he never slackened in his
+own especial work, he made much of the work of others. The "Revue des
+Progres de la Geologie," with which he enriched the "Annales des Mines"
+for twenty years, would have been sufficient to engross the time of a
+less active scientific man, and one less ready to grasp the opening of a
+discovery. This indefatigable theorist never neglected the applications
+of science: the nature and the changes of the layers which form the
+under earth; the course and the depth of the subterraneous sheets of
+water; the mineralogical composition of the earth's vegetation, were
+represented by him on several charts and plans drawn out in proper form.
+His maps which follow the route of many of the great French lines of
+railway explain the kind of soil upon which they are laid, and are of
+daily use. In the pursuit of his numerous scientific works, Delesse
+never failed in discharging his duties in the Corps des Mines. Having
+in 1864 quitted the service of the Government of Paris, which he had
+occupied for eighteen years, he was made professor of agriculture, of
+drainage, and irrigation, at the School of Mines, where he established
+instruction in these before being called to found the course of geology
+at the Agricultural Institution. Promoted to be Inspector-General of
+Mines in 1878, and charged with the division of the south east of
+France, he preserved to the end of his life these new duties, for which,
+to the regret of the School of Mines, he gave up his excellent lessons
+there. During the year of 1870 Delesse fulfilled his duties as a
+citizen, as engineer in preparation of cartridges in the department.
+
+His nomination to the Academy of Sciences, which took place on the 6th
+of January, 1879, satisfied the ambition of his life. He was for two
+years President of the Central Commission of the Geographical Society;
+he was also President of the Geological Society. He was not long to
+enjoy the noble position acquired by his intelligence and his work.
+He suffered from a serious malady, which, however, did not weaken his
+intellect, and he continued from his bed of suffering to prepare the
+reports for the Council-General of Mines, and that which recently he
+addressed to the Academy on the occasion of his election. The greatness
+and the rectitude of mind of Delesse, his astounding power of work, his
+profound knowledge of science, his sympathetic sweetness, which were
+associated with sterling modesty and loyalty of character, made him
+esteemed and cherished throughout his whole career. He died on the 24th
+of March.--_The Engineer._
+
+       *       *       *       *       *
+
+[Illustration: SUGGESTIONS IN DECOTATIVE ART.--SILVER EWER, BY ODIOT,
+PARIS.
+
+(From The Workshop)]
+
+       *       *       *       *       *
+
+
+
+
+THE ELECTRIC LIGHT AT EARNOCK COLLIERY.
+
+
+On the afternoon of August 9, Earnock Colliery, near Hamilton, belonging
+to Mr. John Watson, of Earnock, was the scene of an interesting
+ceremonial which may well be said to mark a new era in mining annals.
+In proceeding to win the rich mineral wealth of his estate, Mr. Watson
+determined that, in respect of fittings, machinery, and general
+appointments, it should be a model, and he has been highly successful
+in giving practical effect to his aims. Among other things, he early
+resolved to, if at all practicable, substitute the electric light for
+the ordinary mode of illuminating the workings, and after investigating
+the various systems, he decided on giving that of Mr. Swan a trial.
+Accordingly, since April last, Messrs. D. & E. Graham, electrical
+engineers, Glasgow, have been engaged fitting up the Swan incandescent
+lamp, with modifications, to adapt it for safe use in the mine, and on
+Tuesday the inauguration of the new light took place in presence of a
+large company of leading gentlemen from Glasgow, Hamilton, and the West.
+Arrived at the colliery about half-past one o'clock, the visitors were
+received by Mr. Watson, and after a brief space spent in inspecting
+the three magnificent winding and fan engines, the Guibal fan, and the
+framework for screening the coal, they were conducted by Mr. James
+Gilchrist, manager, down into the workings in the ell seam at a depth
+of 118 fathoms. Here at the pit bottom, in the roads and at the face,
+twenty-one Swan lamps were burning, giving forth a brilliant, steady
+flame, the luminosity of which, while sufficient to supply the desired
+light, had none of the disagreeable intensity associated with most
+systems of electric lighting. Besides the pear-shaped Swan lamp, in
+which the glowing or incandescence is carried on _in vacuo_, there is an
+outer lantern, the invention of Mr. David Graham, consisting of a strong
+glass globe, air-tight, protected with steel guards. Each lamp was also
+connected with two different forms of Graham's patent safety air tight
+contacts and switches for cutting off and letting on the current, the
+effect of which, it is believed, would be to render the lamps quite
+safe, even in the presence of explosive gas. At first the intention
+was to employ the fan-engine to drive the dynamo-electric machine or
+generator, but this was departed from, and an engine of 12 horse-power
+was erected in the workshops on the surface for the purpose. From the
+generator the electric cables, two in number, are conducted along the
+roof of the workshops over ordinary telegraph poles to the pit-head at
+No. 2 shaft, and thence down into the workings. From the ridge of the
+workshops to the pithead, a distance of several hundred yards, the
+cables consist of ordinary copper wire, three-eighths of an inch in
+diameter; inside the workshop and below ground, to allow of their safe
+handling, they are composed of insulated wires, while on the way down
+the shaft they are inclosed in a galvanized tube. Near the bottom of the
+shaft, branches are taken off to supply light to the principal roadways
+and to the haulage engine-room, the main cables being carried into one
+of the sections of the mine a distance of half-a-mile. After a careful
+inspection of the lamps at the pit bottom, the party were photographed
+in three groups, with the aid of the electric light, by Mr. Annan, of
+Glasgow, who may well be credited with the distinction of being the
+first to exercise his skill in the bowels of the earth. They were
+then led to the haulage engine-room and into the workings, where they
+witnessed the effects of the light. At the latter point, while, of
+course, the visitors were at a safe distance, a shot was fired, bringing
+down a large mass of coal. Having spent fully an hour below ground, the
+party returned to the surface.--_Colliery Guardian_.
+
+       *       *       *       *       *
+
+
+
+
+LIGHTNING AND TELEPHONE WIRES.
+
+
+M. Bede, of Brussels, has an article in _L'Ingenieur-Conseil_ on the
+above subject. He considers that a system of such wires forms the best
+and most complete security against lightning with which a town can be
+provided, because they protect not only the buildings in which they
+terminate, but also those over which they pass. At each end they
+communicate with the earth, and thus carry off safely any surplus
+of electricity with which they may become charged. It is, however,
+important that they should be provided with lightning conductors of
+their own, to carry off such surplus directly from the transmission wire
+to the earth wire, without allowing it to pass through the fine wires of
+the induction coils, which it might fuse.
+
+Such lightning conductors usually consist of a toothed plate attached to
+one wire, close to another plate not toothed attached to the other wire.
+The copper even of such a conductor has been melted by the powerful
+current which it has carried away. In telephonic central offices, M.
+Bede has seen all the signals of one row of telephone wires fall at the
+same moment, proving that an electric discharge had fallen upon the
+wires, and been by them conveyed to earth.
+
+This fact shows that wires, even without points, are capable of
+attracting the atmospheric electricity; but it must be remembered that
+there are two points at every join in the wire. M. Bede insists strongly
+upon the uselessness of terminating lightning conductors in wells,
+or even larger pieces of water. The experiments of MM. Becquerel
+and Pouillet proved that the resistance of water to the passage of
+electricity is one thousand million times greater than that of iron;
+consequently, if the current conveyed by a wire one square mm. thick
+were to be carried off by water without increased resistance, a surface
+of contact between the wire and the water of not less than 1,000 square
+meters must be established.
+
+It is obvious that a wire let down into a well is simply useless. On
+the two-fluid theory, it offers no effectual way of escape to the
+terrestrial electricity; according to the older views, it would be
+absolutely dangerous, by attracting more electricity from the clouds
+than it could dispose of. The author advocates connecting lightning
+conductors with water or gas pipes, which have an immense surface of
+contact with the earth.
+
+       *       *       *       *       *
+
+
+
+
+CONDITION OF FLAMES UNDER THE INFLUENCE OF ELECTRICITY.
+
+
+The experiments of the author have been principally directed to the
+alterations in shape and color produced in a flame when under the
+influence of positive or negative electricity. The flames were arranged
+so as to form one electrode of a frictional machine. When charged with
+positive electricity the flame became more blue, narrower, and pointed
+at the top, while little or nothing of the result was observed in
+negative flames.
+
+A peculiar result is that the end of a negative flame returns to its own
+conductor, and that, according to the intensity of the electricity, and
+also depending on the width of the burner, this turning back of the
+flame is either intermittent or constant. Most noticeable are these
+results:
+
+When the flame rises from a circular burner, or when burning round a
+metallic cylinder, in the latter case it returns to the metallic surface
+according to the intensity of electricity in an arc or angle, while the
+point of the flame divides into two branches, which separately perform
+more or less equal movements. If a body connected to the earth by a
+conducting wire is held opposite the flame at some distance, the flame
+will in all cases bend toward it; as the body is brought closer,
+the flame, if negative, will be repulsed, and, if positive, will be
+attracted, at least the upper luminous part of the flame, while the
+lower dark body of flame is also repulsed.
+
+This phenomenon explains why a positive flame will burn through wire
+gauze, while a negative flame remains below the gauze. The positive
+flame becoming pointed explains the fact that this will drive a small
+fan wheel, while a negative flame will only just move it.
+
+All these results are most prominently obtained with a pure gas flame, a
+stearine, wax, or tallow candle, very indifferently with a spirit flame,
+and least from a Bunsen flame rich in oxygen. They may not only be
+obtained with flames electrified direct, but also when placed under the
+influence of a long "Holtz" machine.
+
+A flame placed between two small disks on the machine bends toward the
+negative pole, becomes widened, and, at a certain point of electric
+intensity, commences to vibrate and oscillate, exhibiting a peculiar
+stratification. Since these phenomena are also least observed in flames
+rich in oxygen, it appears to be a general law that carbon and hydrogen
+are more strongly attracted by the negative pole, while oxygen is
+more attracted by the positive pole, probably like in all polar
+differentially attractions, in consequence of a peculiar unipolar
+conductivity of the substances.
+
+The return motion of the flame the author explains thus: The point
+of the flame loses more electricity by influence than it receives by
+conductivity. A paper strip fixed at one end to a large ball shows
+similar movements when its free end is pointed and made conductive.
+Why principally the negative flame returns may be explained in two
+ways--either the point of the flame loses much by radiation, or the base
+of the flame is a bad conductor. The former explanation would agree with
+the experiments made by Wiedemann and Ruhlmann, the latter with Erdman's
+theory of unipolar conductivity of flames. This theory is still further
+supported by the resistance on the negative electrodes noticed by
+Hittorf, which almost explains Erdman's experiments, because if negative
+electricity enters a flame with greater difficulty, then positive
+electricity must leave a flame with difficulty.--_W. Holtz, in
+Wiedemanris Beiblaetter to Poggendorfs Annalen._
+
+       *       *       *       *       *
+
+
+
+
+THE ELECTRIC STOP-MOTION IN THE COTTON MILL.
+
+
+The number of inventions for use as stop-motions in and about the
+various machines in the cotton mill has been to a certain extent
+something like the search after perpetual motion. Very available and
+quite satisfactory stop-motions have for a number of years been employed
+wherever the thread or sliver has been twisted so that strength was
+given it to resist a slight amount of friction, but the main trouble
+in the mill has been done after the sliver leaves the railway head and
+during its transit in the various processes employed between the railway
+head and the spinning frame or mule. Every carder or spinner knows that
+where an injury comes to the sliver because the sliver is soft, but
+partially condensed and very susceptible to injury, the injury is
+magnified and multiplied in every successive process. Virtually the
+field was long since abandoned for an accurate quick-working motion that
+should be applicable to any and all the machines and to every sliver or
+strand of the machine.
+
+This invention was solved practically about two years since, and is
+now being employed as applied to drawing frames, doublers, speeder,
+intermediate, and slubber. It is a very cunning mechanical appliance,
+too, and has found favor to a great extent in England, where several
+thousand heads of drawing and speeders are already supplied.
+
+This invention was exhibited at the Centennial in 1876, although in a
+somewhat crude state. Since that time it has been materially improved,
+and mechanically is very nearly perfect now. Many attempts have been
+made to apply a stop motion, which should be quick in its movement and
+accurate in its result, to carding engines or the card, not one of
+which, until the application of electricity, was worth the time spent in
+putting it on. With the electric motion, however, all this is changed,
+and the electric attachments are not of necessity so fragile as to be

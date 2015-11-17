@@ -1,0 +1,592 @@
+oxygen thus formed with the constituents of the acid which remained
+when part of its oxygen was taken away. The removal of oxygen from
+nitric acid by the mercury produced _nitrous air_; when the product of
+the union of the oxide of mercury and the nitric acid deprived of part
+of its oxygen was heated, more nitrous air was given off, and oxide of
+mercury remained, and was decomposed, at a higher temperature, into
+mercury and oxygen.
+
+Lavoisier thought of these reactions as the tearing asunder, by
+mercury, of nitric acid into definite quantities of its three
+components, themselves distinct substances, nitrous air, water, and
+oxygen; and the combination of the mercury with a certain measurable
+quantity of one of these components, namely, oxygen, followed by the
+union of this compound of mercury and oxygen with what remained of the
+components of nitric acid.
+
+Lavoisier had formed a clear, consistent, and suggestive mental
+picture of chemical changes. He thought of a chemical reaction as
+always the same under the same conditions, as an action between a
+fixed and measurable quantity of one substance, having definite and
+definable properties, with fixed and measurable quantities of other
+substances, the properties of each of which were definite and
+definable.
+
+Lavoisier also recognised that certain definite substances could be
+divided into things simpler than themselves, but that other substances
+refused to undergo simplification by division into two or more unlike
+portions. He spoke of the object of chemistry as follows:--[8] "In
+submitting to experiments the different substances found in nature,
+chemistry seeks to decompose these substances, and to get them into
+such conditions that their various components may be examined
+separately. Chemistry advances to its end by dividing, sub-dividing,
+and again sub-dividing, and we do not know what will be the limits of
+such operations. We cannot be certain that what we regard as simple
+to-day is indeed simple; all we can say is, that such a substance is
+the actual term whereat chemical analysis has arrived, and that with
+our present knowledge we cannot sub-divide it."
+
+   [8] I have given a free rendering of Lavoisier's words.
+
+In these words Lavoisier defines the chemical conception of
+_elements_; since his time an element is "the actual term whereat
+chemical analysis has arrived," it is that which "with our present
+knowledge we cannot sub-divide"; and, as a working hypothesis, the
+notion of _element_ has no wider meaning than this. I have already
+quoted Boyle's statement that by _elements_ he meant "certain
+primitive and simple bodies ... not made of any other bodies, or of
+one another." Boyle was still slightly restrained by the alchemical
+atmosphere around him; he was still inclined to say, "this _must_ be
+the way nature works, she _must_ begin with certain substances which
+are absolutely simple." Lavoisier had thrown off all the trammels
+which hindered the alchemists from making rigorous experimental
+investigations. If one may judge from his writings, he had not
+struggled to free himself from these trammels, he had not slowly
+emerged from the quagmires of alchemy, and painfully gained firmer
+ground; the extraordinary clearness and directness of his mental
+vision had led him straight to the very heart of the problems of
+chemistry, and enabled him not only calmly to ignore all the machinery
+of Elements, Principles, Essences, and the like, which the alchemists
+had constructed so laboriously, but also to construct, in place of
+that mechanism which hindered inquiry, genuine scientific hypotheses
+which directed inquiry, and were themselves altered by the results of
+the experiments they had suggested.
+
+Lavoisier made these great advances by applying himself to the minute
+and exhaustive examination of a few cases of chemical change, and
+endeavouring to account for everything which took part in the
+processes he studied, by weighing or measuring each distinct substance
+which was present when the change began, and each which was present
+when the change was finished. He did not make haphazard experiments;
+he had a method, a system; he used hypotheses, and he used them
+rightly. "Systems in physics," Lavoisier writes, "are but the proper
+instruments for helping the feebleness of our senses. Properly
+speaking, they are methods of approximation which put us on the track
+of solving problems; they are the hypotheses which, successively
+modified, corrected, and changed, by experience, ought to conduct us,
+some day, by the method of exclusions and eliminations, to the
+knowledge of the true laws of nature."
+
+In a memoir wherein he is considering the production of carbonic acid
+and alcohol by the fermentation of fruit-juice, Lavoisier says, "It is
+evident that we must know the nature and composition of the
+substances which can be fermented and the products of fermentation;
+for nothing is created, either in the operations of art or in those of
+nature; and it may be laid down that the quantity of material present
+at the beginning of every operation is the same as the quantity
+present at the end, that the quality and quantity of the principles[9]
+are the same, and that nothing happens save certain changes, certain
+modifications. On this principle is based the whole art of
+experimenting in chemistry; in all chemical experiments we must
+suppose that there is a true equality between the principles[10] of
+the substances which are examined and those which are obtained from
+them by analysis."
+
+   [9, 10] Lavoisier uses the word _principle_, here and
+   elsewhere, to mean a definite homogeneous substance; he uses it
+   as synonymous with the more modern terms element and compound.
+
+If Lavoisier's memoirs are examined closely, it is seen that at the
+very beginning of his chemical inquiries he assumed the accuracy, and
+the universal application, of the generalisation "nothing is created,
+either in the operations of art or in those of nature." Naturalists
+had been feeling their way for centuries towards such a generalisation
+as this; it had been in the air for many generations; sometimes it was
+almost realised by this or that investigator, then it escaped for long
+periods. Lavoisier seems to have realised, by what we call intuition,
+that however great and astonishing may be the changes in the
+properties of the substances which mutually react, there is no change
+in the total quantity of material.
+
+Not only did Lavoisier realise and act on this principle, he also
+measured quantities of substances by the one practical method, namely,
+by weighing; and by doing this he showed chemists the only road along
+which they could advance towards a genuine knowledge of material
+changes.
+
+The generalisation expressed by Lavoisier in the words I have quoted
+is now known as the _law of the conservation of mass_; it is generally
+stated in some such form as this:--the sum of the masses of all the
+homogeneous substances which take part in a chemical (or physical)
+change does not itself change. The science of chemistry rests on this
+law; every quantitative analysis assumes the accuracy, and is a proof
+of the validity, of it.[11]
+
+ [11] I have considered the law of the conservation of mass in some
+ detail in Chapter IV. of _The Story of the Chemical Elements_.
+
+By accepting the accuracy of this generalisation, and using it in
+every experiment, Lavoisier was able to form a clear mental picture of
+a chemical change as the separation and combination of homogeneous
+substances; for, by using the balance, he was able to follow each
+substance through the maze of changes, to determine when it united
+with other substances, and when it separated into substances simpler
+than itself.
+
+
+
+
+CHAPTER XIII.
+
+THE CHEMICAL ELEMENTS CONTRASTED WITH THE ALCHEMICAL PRINCIPLES.
+
+
+It was known to many observers in the later years of the 17th century
+that the product of the calcination of a metal weighs more than the
+metal; but it was still possible, at that time, to assert that this
+fact is of no importance to one who is seeking to give an accurate
+description of the process of calcination. Weight, which measures mass
+or quantity of substance, was thought of, in these days, as a property
+like colour, taste, or smell, a property which was sometimes
+decreased, and sometimes increased, by adding one substance to
+another. Students of natural occurrences were, however, feeling their
+way towards the recognition of some property of substances which did
+not change in the haphazard way wherein most properties seemed to
+alter. Lavoisier reached this property at one bound. By his
+experimental investigations, he taught that, however greatly the
+properties of one substance may be masked, or altered, by adding
+another substance to it, yet the property we call mass, and measure by
+weight, is not affected by these changes; for Lavoisier showed, that
+the mass of the product of the union of two substances is always
+exactly the sum of the masses of these two substances, and the sum of
+the masses of the substances whereinto one substance is divided is
+always exactly equal to that mass of the substance which is divided.
+
+For the undefined, ever-changing, protean essence, or soul, of a thing
+which the alchemists thought of as hidden by wrappings of properties,
+the exact investigations of Lavoisier, and those of others who worked
+on the same lines as he, substituted this definite, fixed,
+unmodifiable property of mass. Lavoisier, and those who followed in
+his footsteps, also did away with the alchemical notion of the
+existence of an essential substratum, independent of changes in those
+properties of a substance which can be observed by the senses. For the
+experimental researches of these men obliged naturalists to recognise,
+that a change in the properties of a definite, homogeneous substance,
+such as pure water, pure chalk, or pure sulphur, is accompanied (or,
+as we generally say, is caused) by the formation of a new substance or
+substances; and this formation, this apparent creation, of new
+material, is effected, either by the addition of something to the
+original substance, or by the separation of it into portions which are
+unlike it, and unlike one another. If the change is a combination, or
+coalescence, of two things into one, then the mass, and hence the
+weight, of the product is equal to the sum of those masses, and hence
+those weights, of the things which have united to form it; if the
+change is a separation of one distinct substance into several
+substances, then the sum of the masses, and hence the weights, of the
+products is equal to that mass, and hence that weight, of the
+substance which has been separated.
+
+Consider the word _water_, and the substance represented by this word.
+In Chapter IV., I gave illustrations of the different meanings which
+have been given to this word; it is sometimes used to represent a
+material substance, sometimes a quality more or less characteristic of
+that substance, and sometimes a process to which that substance, and
+many others like it, may be subjected. But when the word _water_ is
+used with a definite and exact meaning, it is a succinct expression
+for a certain group, or collocation, of measurable properties which
+are always found together, and is, therefore, thought of as a distinct
+substance. This substance can be separated into two other substances
+very unlike it, and can be formed by causing these to unite. One
+hundred parts, by weight, of pure water are always formed by the union
+of 11.11 parts of hydrogen, and 88.89 parts of oxygen, and can be
+separated into these quantities of those substances. When water is
+formed by the union of hydrogen and oxygen, in the ratio of 11.11
+parts by weight of the former to 88.89 of the latter, the properties
+of the two substances which coalesce to form it disappear, except
+their masses. It is customary to say that water _contains_ hydrogen
+and oxygen; but this expression is scarcely an accurate description of
+the facts. What we call _substances_ are known to us only by their
+properties, that is, the ways wherein they act on our senses. Hydrogen
+has certain definite properties, oxygen has other definite properties,
+and the properties of water are perfectly distinct from those of
+either of the substances which it is said to contain. It is,
+therefore, somewhat misleading to say that water _contains_
+substances the properties whereof, except their masses, disappeared at
+the moment when they united and water was produced. Nevertheless we
+are forced to think of water as, in a sense, containing hydrogen and
+oxygen. For, one of the properties of hydrogen is its power to
+coalesce, or combine, with oxygen to form water, and one of the
+properties of oxygen is its ability to unite with hydrogen to form
+water; and these properties of those substances cannot be recognised,
+or even suspected, unless certain definite quantities of the two
+substances are brought together under certain definite conditions. The
+properties which characterise hydrogen, and those which characterise
+oxygen, when these things are separated from all other substances, can
+be determined and measured in terms of the similar properties of some
+other substance taken as a standard. These two distinct substances
+disappear when they are brought into contact, under the proper
+conditions, and something (water) is obtained whose properties are
+very unlike those of hydrogen or oxygen; this new thing can be caused
+to disappear, and hydrogen and oxygen are again produced. This cycle
+of changes can be repeated as often as we please; the quantities of
+hydrogen and oxygen which are obtained when we choose to stop the
+process are exactly the same as the quantities of those substances
+which disappeared in the first operation whereby water was produced.
+Hence, water is an intimate union of hydrogen and oxygen; and, in this
+sense, water may be said to contain hydrogen and oxygen.
+
+The alchemist would have said, the properties of hydrogen and oxygen
+are destroyed when these things unite to form water, but the essence,
+or substratum, of each remains. The chemist says, you cannot discover
+all the properties of hydrogen and oxygen by examining these
+substances apart from one another, for one of the most important
+properties of either is manifested only when the two mutually react:
+the formation of water is not the destruction of the properties of
+hydrogen and oxygen and the revelation of their essential substrata,
+it is rather the manifestation of a property of each which cannot be
+discovered except by causing the union of both.
+
+There was, then, a certain degree of accuracy in the alchemical
+description of the processes we now call chemical changes, as being
+the removal of the outer properties of the things which react, and the
+manifestation of their essential substance. But there is a vast
+difference between this description and the chemical presentment of
+these processes as reactions between definite and measurable
+quantities of elements, or compounds, or both, resulting in the
+re-distribution, of the elements, or the separation of the compounds
+into their elements, and the formation of new compounds by the
+re-combination of these elements.
+
+Let us contrast the two descriptions somewhat more fully.
+
+The alchemist wished to effect the transmutation of one substance into
+another; he despaired of the possibility of separating the Elements
+whereof the substance might be formed, but he thought he could
+manipulate what he called the _virtues_ of the Elements by a judicious
+use of some or all of the three Principles, which he named Sulphur,
+Salt, and Mercury. He could not state in definite language what he
+meant by these Principles; they were states, conditions, or qualities,
+of classes of substances, which could not be defined. The directions
+the alchemist was able to give to those who sought to effect the
+change of one thing into another were these. Firstly, to remove those
+properties which characterised the thing to be changed, and leave only
+the properties which it shared with other things like it; secondly, to
+destroy the properties which the thing to be changed possessed in
+common with certain other things; thirdly, to commingle the Essence of
+the thing with the Essence of something else, in due proportion and
+under proper conditions; and, finally, to hope for the best, keep a
+clear head, and maintain a sense of virtue.
+
+If he who was about to attempt the transmutation inquired how he was
+to destroy the specific properties, and the class properties, of the
+thing he proposed to change, and by what methods he was to obtain its
+Essence, and cause that Essence to produce the new thing, he would be
+told to travel along "the road which was followed by the Great
+Architect of the Universe in the creation of the world." And if he
+demanded more detailed directions, he would be informed that the
+substance wherewith his experiments began must first be mortified,
+then dissolved, then conjoined, then putrefied, then congealed, then
+cibated, then sublimed, and fermented, and, finally, exalted. He
+would, moreover, be warned that in all these operations he must use,
+not things which he could touch, handle, and weigh, but the _virtues_,
+the _lives_, the _souls_, of such things.
+
+When the student of chemistry desires to effect the transformation of
+one definite substance into another, he is told to determine, by
+quantitative experiments, what are the elements, and what the
+quantities of these elements, which compose the compound which he
+proposes to change, and the compound into which he proposes to change
+it; and he is given working definitions of the words _element_ and
+_compound_. If the compound he desires to produce is found to be
+composed of elements different from those which form the compound
+wherewith his operations begin, he is directed to bring about a
+reaction, or a series of reactions, between the compound which is to
+be changed, and some other collocation of elements the composition of
+which is known to be such that it can supply the new elements which
+are needed for the production of the new compound.
+
+Since Lavoisier realised, for himself, and those who were to come
+after him, the meaning of the terms _element_ and _compound_, we may
+say that chemists have been able to form a mental picture of the
+change from one definite substance to another, which is clear,
+suggestive, and consistent, because it is an approximately accurate
+description of the facts discovered by careful and penetrative
+investigations. This presentment of the change has been substituted
+for the alchemical conception, which was an attempt to express what
+introspection and reasoning on the results of superficial
+investigations, guided by specious analogies, suggested ought to be
+the facts.
+
+Lavoisier was the man who made possible the more accurate, and more
+far-reaching, description of the changes which result in the
+production of substances very unlike those which are changed; and he
+did this by experimentally analysing the conceptions of the element
+and the compound, giving definite and workable meanings to these
+conceptions, and establishing, on an experimental foundation, the
+generalisation that the sum of the quantities of the substances which
+take part in any change is itself unchanged.
+
+A chemical element was thought of by Lavoisier as "the actual term
+whereat analysis has arrived," a definite substance "which we cannot
+subdivide with our present knowledge," but not necessarily a substance
+which will never be divided. A compound was thought of by him as a
+definite substance which is always produced by the union of the same
+quantities of the same elements, and can be separated into the same
+quantities of the same elements.
+
+These conceptions were amplified and made more full of meaning by the
+work of many who came after Lavoisier, notably by John Dalton, who was
+born in 1766 and died in 1844.
+
+In Chapter I., I gave a sketch of the atomic theory of the Greek
+thinkers. The founder of that theory, who flourished about 500 B.C.,
+said that every substance is a collocation of a vast number of minute
+particles, which are unchangeable, indestructible, and impenetrable,
+and are therefore properly called _atoms_; that the differences which
+are observed between the qualities of things are due to differences in
+the numbers, sizes, shapes, positions, and movements of atoms, and
+that the process which occurs when one substance is apparently
+destroyed and another is produced in its place, is nothing more than a
+rearrangement of atoms.
+
+The supposition that changes in the properties of substances are
+connected with changes in the numbers, movements, and arrangements of
+different kinds of minute particles, was used in a general way by many
+naturalists of the 17th and 18th centuries; but Dalton was the first
+to show that the data obtained by the analyses of compounds make it
+possible to determine the relative weights of the atoms of the
+elements.
+
+Dalton used the word _atom_ to denote the smallest particle of an
+element, or a compound, which exhibits the properties characteristic
+of that element or compound. He supposed that the atoms of an element
+are never divided in any of the reactions of that element, but the
+atoms of a compound are often separated into the atoms of the elements
+whereof the compound is composed. Apparently without knowing that the
+supposition had been made more than two thousand years before his
+time, Dalton was led by his study of the composition and properties of
+the atmosphere to assume that the atoms of different substances,
+whether elements or compounds, are of different sizes and have
+different weights. He assumed that when two elements unite to form
+only one compound, the atom of that compound has the simplest
+possible composition, is formed by the union of a single atom of each
+element. Dalton knew only one compound of hydrogen and nitrogen,
+namely, ammonia. Analyses of this compound show that it is composed of
+one part by weight of hydrogen and 4.66 parts by weight of nitrogen.
+Dalton said one atom of hydrogen combines with one atom of nitrogen to
+form an atom of ammonia; hence an atom of nitrogen is 4.66 times
+heavier than an atom of hydrogen; in other words, if the _atomic
+weight_ of hydrogen is taken as unity, the _atomic weight_ of nitrogen
+is expressed by the number 4.66. Dalton referred the atomic weights of
+the elements to the atomic weight of hydrogen as unity, because
+hydrogen is lighter than any other substance; hence the numbers which
+tell how much heavier the atoms of the elements are than an atom of
+hydrogen are always greater than one, are always positive numbers.
+
+When two elements unite in different proportions, by weight, to form
+more than one compound, Dalton supposed that (in most cases at any
+rate) one of the compounds is formed by the union of a single atom of
+each element; the next compound is formed by the union of one atom of
+the element which is present in smaller quantity with two, three, or
+more, atoms of the other element, and the next compound is formed by
+the union of one atom of the first element with a larger number
+(always, necessarily, a whole number) of atoms of the other element
+than is contained in the second compound; and so on. From this
+assumption, and the Daltonian conception of the atom, it follows that
+the quantities by weight of one element which are found to unite with
+one and the same weight of another element must always be expressible
+as whole multiples of one number. For if two elements, A and B, form a
+compound, that compound is formed, by supposition, of one atom of A
+and one atom of B; if more of B is added, at least one atom of B must
+be added; however much of B is added the quantity must be a whole
+number of atoms; and as every atom of B is the same in all respects as
+every other atom of B, the weights of B added to a constant weight of
+A must be whole multiples of the atomic weight of B.
+
+The facts which were available in Dalton's time confirmed this
+deduction from the atomic theory within the limits of experimental
+errors; and the facts which have been established since Dalton's time
+are completely in keeping with the deduction. Take, for instance,
+three compounds of the elements nitrogen and oxygen. That one of the
+three which contains least oxygen is composed of 63.64 _per cent._ of
+nitrogen, and 36.36 _per cent._ of oxygen; if the atomic weight of
+nitrogen is taken to be 4.66, which is the weight of nitrogen that
+combines with one part by weight of hydrogen, then the weight of
+oxygen combined with 4.66 of nitrogen is 2.66 (63.64:36.36 =
+4.66:2.66). The weights of oxygen which combine with 4.66 parts by
+weight of nitrogen to form the second and third compounds,
+respectively, must be whole multiples of 2.66; these weights are 5.32
+and 10.64. Now 5.32 = 2.66 x 2, and 10.64 = 2.66 x 4. Hence, the
+quantities by weight of oxygen which combine with one and the same
+weight of nitrogen are such that two of these quantities are whole
+multiples of the third quantity.
+
+Dalton's application of the Greek atomic theory to the facts
+established by the analyses of compounds enabled him to attach to each
+element a number which he called the atomic weight of the element, and
+to summarise all the facts concerning the compositions of compounds in
+the statement, that the elements combine in the ratios of their atomic
+weights, or in the ratios of whole multiples of their atomic weights.
+All the investigations which have been made into the compositions of
+compounds, since Dalton's time, have confirmed the generalisation
+which followed from Dalton's application of the atomic theory.
+
+Even if the theory of atoms were abandoned, the generalisation would
+remain, as an accurate and exact statement of facts which hold good in
+every chemical change, that a number can be attached to each element,
+and the weights of the elements which combine are in the ratios of
+these numbers, or whole multiples of these numbers.
+
+Since chemists realised the meaning of Dalton's book, published in
+1808, and entitled, _A New System of Chemical Philosophy_, elements
+have been regarded as distinct and definite substances, which have not
+been divided into parts different from themselves, and unite with each
+other in definite quantities by weight which can be accurately
+expressed as whole multiples of certain fixed quantities; and
+compounds have been regarded as distinct and definite substances
+which are formed by the union of, and can be separated into,
+quantities of various elements which are expressible by certain fixed
+numbers or whole multiples thereof. These descriptions of elements and
+compounds are expressions of actual facts. They enable chemists to
+state the compositions of all the compounds which are, or can be,
+formed by the union of any elements. For example, let A, B, C, and D
+represent four elements, and also certain definite weights of these
+elements, then the compositions of all the compounds which can be
+formed by the union of these elements are expressed by the scheme
+A_{_n_} B_{_m_} C_{_p_} D_{_q_}, where _m_ _n_ _p_ and _q_ are whole
+numbers.
+
+These descriptions of elements and compounds also enable chemists to
+form a clear picture to themselves of any chemical change. They think
+of a chemical change as being; (1) a union of those weights of two, or
+more, elements which are expressed by the numbers attached to these
+elements, or by whole multiples of these numbers; or (2) a union of
+such weights of two, or more, compounds as can be expressed by certain
+numbers or by whole multiples of these numbers; or (3) a reaction
+between elements and compounds, or between compounds and compounds,
+resulting in the redistribution of the elements concerned, in such a
+way that the complete change of composition can be expressed by using
+the numbers, or whole multiples of the numbers, attached to the
+elements.
+
+How different is this conception of a change wherein substances are
+formed, entirely unlike those things which react to form them, from
+the alchemical presentment of such a process! The alchemist spoke of
+stripping off the outer properties of the thing to be changed, and, by
+operating spiritually on the soul which was thus laid bare, inducing
+the essential virtue of the substance to exhibit its powers of
+transmutation. But he was unable to give definite meanings to the
+expressions which he used, he was unable to think clearly about the
+transformations which he tried to accomplish. The chemist discards the
+machinery of virtues, souls, and powers. It is true that he
+substitutes a machinery of minute particles; but this machinery is
+merely a means of thinking clearly and consistently about the changes
+which he studies. The alchemist thought, vaguely, of substance as
+something underlying, and independent of, properties; the chemist uses
+the expression, this or that substance, as a convenient way of
+presenting and reasoning about certain groups of properties. It seems
+to me that if we think of _matter_ as something more than properties
+recognised by the senses, we are going back on the road which leads to
+the confusion of the alchemical times.
+
+The alchemists expressed their conceptions in what seems to us a
+crude, inconsistent, and very undescriptive language. Chemists use a
+language which is certainly symbolical, but also intelligible, and on
+the whole fairly descriptive of the facts.
+
+A name is given to each elementary substance, that is, each substance
+which has not been decomposed; the name generally expresses some
+characteristic property of the substance, or tells something about
+its origin or the place of its discovery. The names of compounds are
+formed by putting together the names of the elements which combine to
+produce them; and the relative quantities of these elements are
+indicated either by the use of Latin or Greek prefixes, or by
+variations in the terminal syllables of the names of the elements.
+
+
+
+
+CHAPTER XIV.
+
+THE MODERN FORM OF THE ALCHEMICAL QUEST OF THE ONE THING.
+
+
+The study of the properties of the elements shows that these
+substances fall into groups, the members of each of which are like one
+another, and form compounds which are similar. The examination of the
+properties and compositions of compounds has shown that similarity of
+properties is always accompanied by similarity of composition. Hence,
+the fact that certain elements are very closely allied in their
+properties suggests that these elements may also be allied in their
+composition. Now, to speak of the composition of an element is to
+think of the element as formed by the union of at least two different
+substances; it implies the supposition that some elements at any rate
+are really compounds.
+
+The fact that there is a very definite connexion between the values of
+the atomic weights, and the properties, of the elements, lends some
+support to the hypothesis that the substances we call, and are obliged
+at present to call, elements, may have been formed from one, or a few,
+distinct substances, by some process of progressive change. If the
+elements are considered in the order of increasing atomic weights,
+from hydrogen, whose atomic weight is taken as unity because it is the
+lightest substance known, to uranium, an atom of which is 240 times
+heavier than an atom of hydrogen, it is found that the elements fall
+into periods, and the properties of those in one period vary from
+element to element, in a way which is, broadly and on the whole, like
+the variation of the properties of those in other periods. This fact
+suggests the supposition--it might be more accurate to say the
+speculation--that the elements mark the stable points in a process of
+change, which has not proceeded continuously from a very simple
+substance to a very complex one, but has repeated itself, with certain
+variations, again and again. If such a process has occurred, we might
+reasonably expect to find substances exhibiting only minute
+differences in their properties, differences so slight as to make it
+impossible to assign the substances, definitely and certainly, either
+to the class of elements or to that of compounds. We find exactly such
+substances among what are called the _rare earths_. There are
+earth-like substances which exhibit no differences of chemical
+properties, and yet show minute differences in the characters of the
+light which they emit when they are raised to a very high
+temperature.
+
+The results of analysis by the spectroscope of the light emitted by
+certain elements at different temperatures may be reasonably
+interpreted by supposing that these elements are separated into simpler
+substances by the action on them of very large quantities of thermal
+energy. The spectrum of the light emitted by glowing iron heated by a
+Bunsen flame (say, at 1200 deg. C. = about 2200 deg. F.) shows a few
+lines and flutings; when iron is heated in an electric arc (say, to
+3500 deg. C. = about 6300 deg. F.) the spectrum shows some two
+thousand lines; at the higher temperature produced by the electric
+spark-discharge, the spectrum shows only a few lines. As a guide to
+further investigation, we may provisionally infer from these facts
+that iron is changed at very high temperatures into substances simpler
+than itself.
+
+Sir Norman Lockyer's study of the spectra of the light from stars has
+shown that the light from those stars which are presumably the
+hottest, judging by the general character of their spectra, reveals
+the presence of a very small number of chemical elements; and that the
+number of spectral lines, and, therefore, the number of elements,
+increases as we pass from the hottest to cooler stars. At each stage
+of the change from the hottest to cooler stars certain substances
+disappear and certain other substances take their places. It may be
+supposed, as a suggestive hypothesis, that the lowering of stellar
+temperature is accompanied by the formation, from simpler forms of
+matter, of such elements as iron, calcium, manganese, and other
+metals.
+
+In the year 1896, the French chemist Becquerel discovered the fact
+that salts of the metal uranium, the atomic weight of which is 240,
+and is greater than that of any other element, emit rays which cause
+electrified bodies to lose their electric charges, and act on
+photographic plates that are wrapped in sheets of black paper, or in
+thin sheets of other substances which stop rays of light. The
+_radio-activity_ of salts of uranium was proved not to be increased or
+diminished when these salts had been shielded for five years from the
+action of light by keeping them in leaden boxes. Shortly after
+Becquerel's discovery, experiments proved that salts of the rare metal
+thorium are radio-active. This discovery was followed by Madame
+Curie's demonstration of the fact that certain specimens of
+_pitchblende_, a mineral which contains compounds of uranium and of

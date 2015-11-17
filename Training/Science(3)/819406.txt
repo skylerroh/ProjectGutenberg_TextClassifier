@@ -1,0 +1,300 @@
+improvement on Huyghens' powder engine.
+
+[Illustration: PAPIN'S STEAM ENGINE.]
+
+A is the boiler for the generation of the steam, provided with a
+safety valve (an invention of Papin). On opening the stopcock, C, the
+steam passes through B into the cylinder, D, and by its expansion
+drives the plunger, E, against the water contained in the cylinder, D,
+which is thus forced into the chamber, F, compressing strongly the
+air, which in turn expels the water through the pipe, G, to the height
+desired. K is a funnel for the fresh supply of water, and at I and H
+are valves opening upwards and downwards. After the condensation of
+the steam in D, a renewed supply of water, through K, forces the
+plunger, E, to the top of the cylinder, ready for the next action of
+steam. The strokes of such a pump could not be frequent, and it would
+not compare very favorably with the wonderful machinery exhibited in
+Philadelphia last summer; but it contains the germ of the idea, and is
+worthy of all honor. Having often seen it stated that Papin had
+invented a steamboat, I resolved during a recent visit to Germany to
+investigate the matter, and especially to search for the
+correspondence between Papin and Leibnitz in the library at Hanover.
+It will be borne in mind that two hundred years ago, on December 4,
+1676, Leibnitz was appointed to take charge of the library in Hanover,
+and that he remained in this position until his death in 1716. He
+bequeathed his manuscripts to the library; and as he had the habit of
+writing upon all manner of loose scraps of paper, it has cost much
+labor to assort and classify them.
+
+On making my application to the librarian to be permitted to see the
+correspondence between Papin and Leibnitz, my request was at once
+granted; and a table having been assigned me, I was able to examine
+these precious relics at my leisure. I was also shown a copy of an
+original treatise on the steam engine by Papin, which contained
+numerous marginal notes by Leibnitz. In one place, Leibnitz criticized
+Papin's method for condensing steam, and makes a drawing on the
+margin, showing a piston and valve which he thought would be more
+practical. It is somewhat remarkable that the Germans have not caused
+a fac-simile of this little volume to be published. After considerable
+search, I found a copy of the original letter addressed by Papin to
+Leibnitz in 1707, asking Leibnitz to assist him in obtaining the
+consent of the Hanoverian Government to navigate the river Weser with
+a sidewheel steamboat. The letter was dated July 7, 1707, and
+contained among other interesting passages the following sentence:
+"The new invention will enable one or two men to accomplish more
+effect than several hundred oarsmen." It is evident that Leibnitz was
+deeply impressed by Papin's letter, and he supported the simple and
+reasonable request contained in it by the following petition addressed
+to the Councillors of State. This communication from Leibnitz bears
+two indorsements, one by the clerk of the council, "_pro memoria_
+respectfully, in reference to the passage of a ship from the river
+Fulda into the Weser;" the other is in the handwriting of Leibnitz:
+"Papin's sidewheel ship." This last indorsement is of great value, as
+indicating the fact that Papin proposed to apply side wheels for the
+propulsion of his new invention. The following is a translation of
+Leibnitz' letter, the original of which I saw in the library:
+
+"Dionysius Papin, Councillor and Physician to his royal highness the
+Elector of Cassel, also Professor of Mathematics at Marburg, is about
+to dispatch a vessel of singular construction down the river Weser to
+Bremen. As he learns that all ships coming from Cassel, or any point
+on the Fulda, are not permitted to enter the Weser, but are required
+to unload at Muenden, and as he anticipates some difficulty, although
+those vessels have a different object, his own not being intended for
+freight, he begs most humbly that a gracious order be granted that his
+ship may be allowed to pass unmolested through the electoral domain,
+which petition I most humbly support.
+
+  G.W. LEIBNITZ.
+  "Hanover, July 13, 1707."
+
+This letter was returned to Leibnitz with the following indorsement:
+"The Electoral Councillors have found serious obstacles in the way of
+granting the above petition, and, without giving their reasons, have
+directed me to inform you of their decision, and that in consequence
+the request is not granted by his Electoral Highness.
+
+  H. REICHE.
+  "Hanover, July 25, 1707."
+
+This failure of Papin's petition was the deathblow to his effort to
+establish steam navigation. A mob of boatmen, who thought they saw in
+the embryo ship the ruin of their business, attacked the vessel at
+night and utterly destroyed it. Papin narrowly escaped with his life,
+and fled to England, where he endured great hardships and poverty, and
+all traces of him were soon lost, so that it is uncertain in what
+country he finally died or where he was buried.
+
+This remarkable man was driven out of France on account of his
+Protestant faith, and found a refuge in Germany; here he was again
+persecuted on account of the injury that ignorant and jealous people
+believed his inventions would inflict upon the industries of the
+country; and when the climax of steam engines for pumping water and
+propelling ships was reached, the enlightened government of the period
+"found serious obstacles" in the way of granting him protection, and,
+without condescending to state what those "objections" were, secretly
+instigated the mob to make an end of the trouble. It is another
+instance, unfortunately too often repeated in history, of the mischief
+men dressed up in a little brief authority can work upon their
+generation. If Papin had been permitted to navigate the Weser with his
+ship, and to carry it to London, as was his intention, it is possible
+that we should have had steamboats one hundred years earlier than they
+were given to us by Fulton. The plan proposed by Papin was highly
+impracticable; but a knowledge of what Savery had done in the way of
+steam machinery, aided by the shrewd suggestions of Leibnitz, combined
+with the practical assistance of Englishmen, would, no doubt, have
+enabled him to improve upon his invention until it had obtained
+sufficient credit to be secure against the misfortune of being
+totally forgotten. After the lapse of 100 years from the date of
+Papin's invention, when the first steamboat was put upon the river
+Rhine, the vessel was fired into by concealed marksmen on shore, and
+navigation was more dangerous than it is now on the upper waters of
+the Missouri in times of Indian hostility. It was only after
+stationing troops along the banks of the river to protect the boatmen
+that the government, fortunately more enlightened than in the days of
+Leibnitz, was able to establish steam navigation on a secure footing.
+
+I have thought it worth while to make this contribution to the history
+of steam navigation, particularly as I have been able to authenticate
+a portion of it by reference to original documents.
+
+Columbia College, New York city, January, 1877.
+
+       *       *       *       *       *
+
+
+
+
+THE SPEAKING TELEGRAPH.
+
+
+We have heretofore given accounts of the wonderful success of
+Professor Bell in transmitting the vibrations of the human voice by
+electrical means over a telegraph wire. He has lately made
+improvements in his method of transmission, by which he dispenses with
+the use of the battery, and substitutes the magneto-electric plan of
+producing the current. The Boston _Transcript_ describes a recent
+experiment with the new apparatus, by which conversation and singing
+was successfully carried on between Boston and Malden, a distance of
+six miles. The telephone, in its present form, consists of a powerful
+compound permanent magnet, to the poles of which are attached ordinary
+telegraph coils of insulated wire. In front of the poles, surrounded
+by these coils of wire, is placed a diaphragm of iron. A mouthpiece to
+converge the sound upon this diaphragm substantially completes the
+arrangement. As is well known, the motion of steel or iron in front of
+the poles of a magnet creates a current of electricity in coils
+surrounding the poles of the magnet, and the duration of this current
+of electricity coincides with the duration of the motion of the steel
+or iron moved or vibrated in the proximity of the magnet. When the
+human voice causes the diaphragm to vibrate, electrical undulations
+are induced in the coils environing the magnets, precisely analogous
+to the undulations of the air produced by that voice. These coils are
+connected with the line wire, which may be of any length, provided the
+insulation be good. The undulations which are induced in these coils
+travel through the line wire, and, passing through the coils of an
+instrument of precisely similar construction at the distant station,
+are again resolved into air undulations by the diaphragm of this
+instrument.
+
+The experiments were as follows: Telephones having been connected with
+the private telegraphic line of the Boston Rubber Shoe Company,
+conversation was at once commenced. Stationed at the Boston end of the
+wire, Professor Bell requested Mr. Watson, who was at the Malden end,
+to speak in loud tones, with a view of enabling the entire company at
+once to distinguish the sounds.
+
+This was so successful that a smile of mingled pleasure and surprise
+played on the features of those present. That it, however, might not
+be supposed that loud speaking was essential to intelligibility, Mr.
+Bell explained that soft tones could be heard across the wires even
+more distinctly than loud utterances, even a whisper being audible. In
+confirmation of this statement, Mr. Watson commenced speaking in turn
+with each member of the company; and after the efficiency of this
+method had been proved to the satisfaction of all, he took up a
+newspaper and informed the assemblage that gold had closed the
+previous evening at New York at 105-5/8. As there were quite a number
+of business men present, the effect that this practical demonstration
+of the value of the telephone produced can scarcely be exaggerated.
+Other passages from the daily journals were then given, and by this
+time the desire for conversation having become general, Mr. Watson was
+plied with questions such as: "Is it thawing or freezing at Malden?
+Who will be the next President?" etc. It was remarkable that Mr.
+Watson was able to distinguish between the voices at the Boston end,
+he calling at least one gentleman by name as soon as the latter
+commenced speaking.
+
+This went on for some time, until a lady at the Malden end sent the
+company an invitation to lunch per telephone, and an appropriate
+response was made by the same medium. At length the Boston company
+were requested to remain quiet while a lady at the other end conveyed
+to them the sweet strains of music. The assemblage thereupon listened
+with rapt attention while a young lady commenced singing "The Last
+Rose of Summer." The effect was simply charming. The sound of the
+voice penetrated into the Boston end of the telephone with a
+distinctness equal to that attainable in the more distant parts of a
+large concert room, and a unanimous vote of thanks was sent by the
+handy little instrument which had procured for the assemblage so
+agreeable an hour.
+
+       *       *       *       *       *
+
+
+The superb steam engine built by C.H. Brown & Co., of Fitchburg,
+Mass., which was illustrated and described on page 1 of our current
+volume, has been purchased by Messrs. Phineas Jones & Co., and is
+being erected in their extensive carriage wheel works at Newark, N.J.
+
+       *       *       *       *       *
+
+
+
+
+CROSSING A RIVER ON A WIRE.
+
+
+A reporter of the New York Sun wanted to realize the sensation of
+being suspended on a wire 275 feet from the surface of the earth. He
+applied to the engineer of the Brooklyn bridge for permission to cross
+the East river on a wire, three quarters of an inch in diameter, which
+hangs between the two towers. He was refused permission; but he
+finally saw the president of the company, who granted his request.
+Arriving at the appointed time, the engineer, Mr. Farrington, said:
+"Well, sir; whenever you're ready, I am."
+
+"All ready, said I, as bold as brass outside, and as nervous as the
+Endorian witch on the inside. He walked on and I followed, when,
+Horror of Horrors--capital H's--to both Horrors--instead of leading me
+to the 'cradle,' which I called a raft, he took me to a little square
+board held up by two crossed iron arms, called a 'buggy.' It was about
+three feet square, and depended from the 'traveler,' a three quarter
+inch wire which crosses the river, and is run from tower to tower over
+apparatus, by means of a stationary engine. It was too late to back
+out, but I didn't feel exactly prepared to plunge in. He did.
+
+"He jumped in, and the little buggy swung from side to side, precisely
+as a swing does when you jump on the board and try to steady it by the
+ropes. I looked at him, at the scale--that's it; it's exactly like a
+pair of scales, with one scale--at the deep depths below us, and at
+myself. I imagined the ticklish thrill which would permeate my body
+when we started. I fancied the glories of the prospective perspective
+before me.
+
+"'Come, hurry up, please,' interrupted Farrington, and with
+resignation I hurried down. He stood up. I crouched down. Perhaps you
+think you'd have stood up as he did. You're mistaken. I crouched down
+and held on tight. Make no mistake. I held on tight and waited for my
+thrill. It didn't come. Then I stood up, and Farrington gave the word
+'Go.' 'Wouldn't you better take a rope along?' said one of the men.
+'Yes, I think I would.' What did he want of a rope? He feared I would
+be nervous. He meant to grapple me in the middle of the river, and tie
+me in. I knew it. I felt it. But I didn't say a word.
+
+"With a gentle jerk we started--slow, slow, very slow. Farrington
+stood in front and watched the wire. I stood behind and watched
+myself. I felt nothing. I was'n't exhilarated. I was'n't scared. I
+was'n't even timid. I can't look from the top of a house without
+desiring to jump off, but I looked down from the buggy and hadn't the
+least desire to jump. Farrington says: 'It's because it's so high up.'
+Well, we went on without any special sensation till the buggy struck
+against a stay rope which reaches from one of the cables to the tower.
+In the effort to free the buggy, Mr. Farrington gave a push which
+swung us out some little distance and back again, at which a little
+piece of indigestion seemed to be monarch of my interior, and for a
+moment I was on the verge of a sensation. Having passed the middle,
+the ascent was more labored. I waved my handkerchief to the people on
+the ferryboats. I looked out toward the sea. I looked up at the
+heavens. I even looked toward Harlem, but, like the buyer in the
+Bible, I said: 'It is naught, it is naught.'
+
+"In about eight minutes we touched the New York side--all but ten
+feet. The red flag waved for the engine to stop. There we hung in
+mid-air 275 feet above the level, swinging to and fro like a drunken
+buggy, at an angle of forty degrees, and quite uneasy. The rope which
+was to haul us on was fastened to the iron--blest be the tie that
+binds--and with a few hearty pulls we were brought so near the New
+York tower that without difficulty we clambered up. I had made the
+trip, but I had not felt a feel. From the top of the New York tower I
+saw much, but the chief point of interest was the innumerable jets of
+steam which flourish in the air, and fantastically curl off into
+space.
+
+"Again the steeples, the tower, and the long, narrow, dirty river
+filled the prospect, and the bright sun of a charming day lightened up
+the western sky That was all, except to say 'thanks and good-bye,' and
+descend the stairs. There were 417 of them stairs, and before I
+reached the bottom I was dizzy, faint, seasick, and filled with a
+decoction of tickle, so that I had to shut my eyes and rest from my
+labors.
+
+"Thus ends the trip which filled my anticipatory imagination as the
+waters fill the sea, but which resolved itself in realization to a
+simple, childlike faith in the fixtures on the wire, and in the skill
+and competence of the man who guided them. MONSIEUR X."
+
+       *       *       *       *       *
+
+
+
+
+BLUE GLASS SCIENCE.
+

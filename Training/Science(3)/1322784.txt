@@ -1,0 +1,351 @@
+except "dead on," for then the part round the axis would not get
+ground;  this inoperative portion of the rotating tool must therefore
+be allowed to distribute its incapable efforts evenly over the nest of
+lenses.
+
+Polishing is accomplished by means of the grinding tool, coated with
+paper and rouge as before; or the tool may be coated with very thin
+cloth and used with rouge as before--in this case the polishing goes
+on fastest when the surface of the cloth is distinctly damp.  In
+working by this method, each grade of emery need only be applied from
+five to ten minutes.  The glass does not appear to get scratched when
+the emery is changed, provided everything is well washed.  A good
+polish may be got in an hour.  The lathe is run as for turning brass
+of the same diameter as the tool.
+
+One side of the lenses being thus prepared, they are reversed, and the
+process gone through for the other side in a precisely similar manner.
+[Footnote: Unless the radius of curvature is very short and the lenses
+also convex, there is no necessity to recess the facets, provided hard
+pitch is used as the cement.  See note on hard pitch.]  To save
+trouble, it is usual, to make such lenses of equal curvature on both
+faces;  but of course this is a matter of taste.
+
+Fig.  56.
+
+For very common work, bits of good plate glass are employed, and the
+manufacturer's surface treated as flat (Fig.  56).  In this way
+plano-convex lenses are easily and cheaply made.  Finally the lenses
+have to be centred, an essential operation in this case.  This is
+easily done by the reflection method--the edge being turned off by
+the file and kerosene and the centering cement being used in making
+the preliminary adjustment on the chuck.  I presume a lens made in
+this way is worth about a shilling, so that laboratory manufacture is
+not very remunerative.  Fig.  56 shows the method of mounting small
+lenses for lathe grinding, when only one lens is required.  The tool
+is generally rotated in the lathe and the lens held against it.
+
+Sec. 65.  Preparing Small Mirrors for Galvanometers.
+
+To get good mirrors for galvanometers, I have found the best plan is
+to grind and polish a large number together, on a disc perhaps 8 or 10
+inches in diameter.  I was led to this after inspecting and rejecting
+four ounces of microscope cover slips, a most wearisome process.  That
+regular cover slips should be few and far between is not unlikely,
+seeing that they are made (by one eminent firm at least) simply by
+"pot" blowing a huge thin bulb, and then smashing it on the floor and
+selecting the fragments.  As in the case of large mirrors, it is of
+course only necessary to grind one side of the glass, theoretically at
+all events.  The objections to this course are:
+
+(1) A silver surface cannot, in my experience, be polished externally
+(on a minute object like a cover slip) to be anything like so bright
+as the silver surface next the glass;  and,
+
+(2) if one side only is ground, it will be found that the little
+mirror hopelessly loses its figure directly it is detached from the
+support on which it has been worked.  Consequently, I recommend that
+these small mirrors should be ground and polished on both
+sides--enough may be made at one operation to last for a very long time.
+
+A slate back is prepared of the same radius of curvature as it is
+desired to impart to the mirrors.  Bits of thin sheet glass are then
+ground circular as described in the last section and cemented to this
+surface by the smallest quantity of clean archangel pitch, allowed to
+cool slowly and even to rest for a day before the work is proceeded
+with.  The whole surface is then ground and polished as before.
+
+The mirrors are now reversed, when they ought to nearly fit the tool
+(assuming that flats are being made, and the fellow tool in all other
+cases), and are recemented by pitch to the appropriate backing ground,
+and polished.  If very excellent results are required, these processes
+may be preceded by a preliminary rough grinding of one surface, so
+that the little discs will "sit" exactly on the tool surface, and not
+run the risk of being strained by capillary forces in the pitch.  We
+have always found this necessary for really good results.
+
+On removing such mirrors from the backing, they generally, more or
+less lose their figure, becoming (in general fairly uniformly) more
+concave or convex.  About 5 per cent of the mirrors thus prepared will
+be found almost perfect if the work has been well done, and the rest
+will probably be very fair, unless the diameter is very large as
+compared with the thickness.  The best way of grinding and polishing
+such large surfaces (nests 10 inches in diameter) is on a grinding
+machine, such as will be described below.  The polishing is best done
+by means of paper, as before described.
+
+Having occasion to require hitherto unapproached lightness and optical
+accuracy in such mirrors, I got my assistant to try making them of
+fused quartz, slices being cut by a diamond wheel from a rod of that
+material.  Chips of natural quartz were also obtained from broken
+"pebble" spectacles, and these were worked at the same time.  The
+resulting mirrors were certainly superior to the best we could make
+from glass, but the labour of grinding was greater, and the labour of
+polishing less, than in the latter case.  The pebble fragments gave
+practically as good mirrors as the fused slices.  For the future it
+will be better always to make galvanometer mirrors from quartz
+crystals.  These may be easily sliced, as will be described in Sec. 74.
+The slices are dressed on a grindstone according to instructions
+already given for small lenses.
+
+The silvering of these mirrors is a point of great importance.  After
+trying nearly every formula published, we have settled down to the
+following.
+
+A solution of pure crystallised nitrate of silver in distilled water
+is made up to a strength of 125 grams of the salt per litre.  This
+forms the stock solution and is kept in a dark bottle.
+
+Let the volume of silvering liquor required in any operation be
+denoted by 4 v.  The liquor is prepared as follows:
+
+I.  Measure out a volume v of the stock solution of silver nitrate,
+and calculate the weight of salt which it contains;  let this be w.
+In another vessel dissolve pure Rochelle salt to the amount of 2.6 w,
+and make up the solution to the volume v.  These two solutions are to
+be mixed together at a temperature of 55 deg. C, the vessels with their
+contents being heated to this temperature on the water bath.  After
+mixing the liquids the temperature is to be kept approximately
+constant for five minutes, after which the liquor may be cooled.  The
+white precipitate which first forms will become gray or black and very
+dense as the liquid cools.  If it does not, the liquor must be
+reheated to 55 deg. C, and kept at that temperature for a few minutes and
+then again allowed to cool.  The solution is in good order when all
+the precipitate is dense and gray or black and the liquor clear.  The
+blacker and denser the precipitate the better is the solution.  The
+liquor is decanted and filtered from the precipitate and brought up to
+the volume 2 v by addition of some of the wash water.
+
+II.  Measure out a volume 0.118 v of the stock solution into a
+separate vessel, and add to it a 5 per cent solution of ammonium
+hydrate, with proper precautions, so that the precipitate at first
+formed is all but redissolved after vigorous shaking.  It is very
+important that this condition should be exactly attained.  Therefore
+add the latter part of the ammonia very carefully.  Make up the volume
+to 2 v.
+
+Mix the solutions I.  and II.  in a separate vessel and pour the
+mixture into the depositing vessel.  The surface to be silvered should
+face downwards, and lie just beneath the free surface of the liquid.
+Bubbles must of course be removed.
+
+The silver deposit obtained in this manner is exceedingly white and,
+bright on the surface next to the glass, but the back is mat and
+requires polishing.
+
+The detail of the process described above was worked out in my
+laboratory by Mr. A. Pollock, to whom my thanks are due.
+
+This process gives good deposits when the solutions are freshly
+prepared, but the ammonia solution will not keep; The surfaces to be
+silvered require to be absolutely clean.  The process is assisted by a
+summer temperature, say 70 deg. Fahr, and possibly by the action of
+light.  Six or seven hours at least are required for a good deposit; a
+good plan is to leave the mirrors in the bath all night.  On removal
+from the bath the mirrors require to be well washed, and allowed to
+dry thoroughly in sun heat for several hours before they are touched.
+
+Care should be taken not to pull the mirrors out of shape when they
+are mounted for the bath.  A single drop of varnish or paint (a mere
+speck) on the centre will suffice to hold them. The back of the
+deposit requires to be varnished or painted as a rule to preserve the
+silver.  All paints and varnishes thus applied tend to spoil the
+figure by expanding or contracting.  On the whole, I think boiled
+linseed oil and white or red lead--white or red paint in fact--is
+less deleterious than other things I have tried.  Shellac varnish is
+the worst.
+
+Of course, the best mirror can be easily spoiled by bad mounting.  I
+have tried a great number of methods and can recommend as fairly
+successful the following:-  A little pure white lead, i.e.  bought as
+pure as a chemical--not as a paint--is mixed with an equal quantity
+of red lead and made into a paste with a little linseed oil.  I say a
+paste, not putty.  A trace of this is then worked on to the back of
+the mirror at the centre as nearly as may be, and to this is attached
+the support.  The only objection to this is that nearly a week is
+required for the paste to set.  If people must use shellac let it be
+remembered that it will go on changing its shape for months after it
+has cooled (whether it has been dissolved in alcohol or not).
+
+Sec. 66.  Preparation of Large Mirrors or Lenses for Telescopes.
+
+So much has been written on this subject by astronomers, generally in
+the English Mechanic and in the Philosophical Transactions for 1840,
+that it might be thought nothing could be added.  I will only say here
+that the processes already described apply perfectly to this case; but
+of course I only refer to silver on glass mirrors.  For any size over
+6 inches in diameter, the process of grinding and polishing by hand,
+particularly the latter, will probably be found to involve too much
+labour, and a machine will be required.  A description of a
+modification of Mr. Nasmyth's machine--as made by my assistant, Mr.
+Cook--will be found below.
+
+There is no difficulty in constructing or working such a machine, and
+considered as an all round appliance, it possesses solid advantages
+over the simple double pulley and crank arrangement, which, however,
+from its simplicity deserves a note.  Two pulleys, A and B, of about
+18 inches diameter by 4 inches on the face, are arranged to rotate
+about vertical axes, and belted together.  The shaft of one of these
+pulleys is driven by a belt in any convenient manner.  Each pulley is
+provided on its upper surface with a crank of adjustable length
+carrying a vertical crank-pin.
+
+Each crank-pin passes through a 3"X 2" wooden rod, say 3' 6" long, and
+these rods are pinned together at their farther extremities, and this
+pin carries the grinding or polishing tool, or rather engages loosely
+with the back of this tool which lies below the rod.  It is clear that
+if the pulleys are of commensurable diameters, and are rigidly
+connected--say by belting which neither stretches nor slips--the
+polishing tool will describe a closed curve.  If, however, the belt is
+arranged to slip slightly, or if the pulleys are of incommensurable
+diameters, the curve traced out by the grinding tool will be very
+complex, and in the case of the ratio of the diameters being
+incommensurable, will always remain open;  for polishing purposes the
+consummation to be wished.
+
+Mirror surfaces are ground spherical, the reduction to parabolic form
+being attained in the process of polishing.  A very interesting
+account of the practice of dealing with very large lenses will be
+found in Nature, May 1886, or the Journal of the Society of Arts, same
+date (I presume), by Sir Howard Grubb.  The author considers that the
+final adjustment of surfaces by "figuring"--of which more anon--is
+an art which cannot be learned by inspection, any more than a man
+could learn to paint by watching an artist.  This is, no doubt, the
+case to some extent;  still, a person wishing to learn how to figure a
+lens could not do better than take Sir Howard at his word, and spend a
+month at his works.  Meanwhile the following remarks must suffice; it
+is not likely that anybody to whom these notes will be of service
+would embark on such large work as is contemplated by Sir Howard
+Grubb.
+
+Fig. 57.
+
+Description of Polishing Machine.  Power is applied through belting to
+the speed cone A.  By means of a bevel pinion rotation is communicated
+to the wheel D, which is of solid metal and carries a T-slot, C.  A
+pedestal forming a crank-pin can be clamped so as to have any desired
+radius of motion by the screw E.  A train of wheels E F G H K
+(ordinary cast lathe change wheels) communicate any desired ratio of
+motion to the tool-holder, which simply consists of two pins
+projecting vertically downwards from the spokes of wheel K.
+
+These pins form a fork, and each prong engages in a corresponding hole
+in the back of the slate-grinding tool (not shown in figure).  The
+connection with the tool is purposely loose.  The wheel E, of course,
+cannot rotate about the crank-pin D.  Provision for changing the ratio
+of tool rotation is achieved by mounting the wheels composing the
+train on pins capable of sliding along a long slot in the bar
+supporting them. The farther end of this bar is caused to oscillate
+to and fro very slowly by means of an additional crank-pin S and
+crank-shaft, the projecting face of the bed-plate W being placed
+so as to allow V to slide about easily and smoothly.
+Motion is communicated to this part of the system by means of
+gears at 0 and P, and a belt working from P to Q.
+Thus the vertical shaft R is set in motion and
+communicates by gears with S.  A pulley placed on the axle of the
+wheel carrying the crank-pin S gives a slow rotation to the work which
+is mounted on the table M. A small but important feature is the tray L
+below the gear K.  This prevents dirt falling from the teeth of the
+wheel on to the work.  The motion of S is of course very much less
+than of B--say 100 times less.  The work can be conveniently adjusted
+as to height by means of the screw N.
+
+The machine must be on a steady foundation, and in a place as free
+from dust as possible.  Though it looks complicated it is quite
+straight-forward to build and to operate.
+
+It is explained in Lord Rayleigh's article on Optics in the
+Encyclopaedia Britannica that a very minute change in the form of the
+curvature of the surface of a lens will make a large difference in the
+spherical aberration.  This is to be expected, seeing that spherical
+aberration is a phenomenon of a differential sort, i.e.  a measure of
+the difference between the curvature actually attained, and the
+theoretical curvature at each point of the lens, for given positions
+of point and image.  Sir H.  Grubb gives an illustration of the
+minuteness of the abrasion required in passing from a curve of one
+sort to a curve of another, say from a spherical to a parabolic curve,
+consequently the process of figuring by the slow action of a polishing
+tool becomes quite intelligible.  In making a large mirror or lens all
+the processes hitherto described under grinding and polishing, etc,
+have to be gone through and in the manner described, and when all this
+is accomplished the final process of correcting to test commences.
+This process is called figuring.
+
+Sec. 67.  Of the actual operation of this process I have no personal
+knowledge, and the following brief notes are drawn from the article by
+Sir H.  Grubb, from my assistant's (Mr. Cook) experience, and from a
+small work On the Adjustment and Testing of Telescopic Objectives, by
+T.  Cook and Sons, Buckingham Works, York (printed by Ben Johnson and
+Co, Micklegate, York).  This work has excellent photographs of the
+interference rings of star images corresponding to various defects.
+It must be understood that the following is a mere sketch.  The art
+will probably hardly ever be required in laboratory practice, and
+those who wish to construct large telescopes should not be above
+looking up the references.
+
+The process is naturally divided for treatment into two parts.
+
+(1) The detection of errors, and the cause of these errors.
+
+(2) The application of a remedy.
+
+(1) A lens, being mounted with its final adjustments, is turned on to
+a star, which must not be too bright, and should be fairly overhead.
+The following appearances may be noted:-
+
+A.  In focus, the star appears as a small disc with one or two rings
+round it; inside and outside of the focus the rings increase in
+number, are round, concentric with the disc, and the bright and dark
+rings are apparently equally wide.  The appearance inside the focus
+exactly resembles that outside when allowance is made for chromatic
+effects.  Conclusion:  objective good, and correctly mounted.
+
+B.  The rings round the star in focus are not circular, nor is the
+star at the centre of the system. In bad cases the fringes are seen at
+one side only.  Effects exaggerated outside and inside the focus.
+Conclusion:  the lens is astigmatic, or the objective is not adjusted
+to be co-axial with the eyepiece.
+
+C.  When in focus the central disc is surrounded by an intermittent
+diffraction pattern, i.e.  for instance the system of rings may appear
+along, and near, three or more radii.  If these shift when the points
+of support of the lens are shifted, flexure may be suspected.
+
+D.  On observing inside and outside the focus, the rings are not
+equally bright and dark.  This may be due to uncorrected spherical
+aberration, particularly to a fault known as "zonal aberration," where
+different zones of the lens have different foci, but each zone has a
+definite focus.
+
+E.  Irregular diffraction fringes point to bad annealing of the glass.
+This may be checked by an examination of the lens in polarised light.
+
+F.  If the disc appear blurred and coloured, however the focus be
+adjusted, incomplete correction for chromatic aberration is inferred.
+If in addition the colouring is unsymmetrical (in an extreme case the
+star disc is drawn out to a coloured band), want of centering is to be
+inferred.  This will also show itself by the interference fringes
+having the characteristics described in C.
+
+(2) The following steps may be taken in applying a remedy:
+
+A.  The adjusting screws of the cell mounting the object glass may
+be worked until the best result is attained;  this requires great
+care and patience.  Any errors left over are to be attributed to
+other causes than the want of collinearity of the axes of object
+glass and eyepiece.
+
+B.  Astigmatism is detected by rotating the object glass or object
+glass cell.  If the oval fringes still persist and the longer axis
+follows the lens, astigmatism may be inferred.  Similarly, by rotating
+one lens on the other, astigmatism, or want of centering (quite a

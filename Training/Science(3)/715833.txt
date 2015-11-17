@@ -1,0 +1,504 @@
+they were crude, wasteful, and expensive, so that they can be employed
+to-day only in a very few localities favored with good and cheap ore,
+fuel, and labor.
+
+The construction of larger furnaces and the employment of higher
+temperatures led to the production of a highly carbonized, fusible
+metal, without any special design on the part of the manufacturers in
+producing it. This pig iron, however, could be used only for a few
+purposes for which metallic iron was needed; but it was produced
+cheaply and with little loss of metal, and the attempt to decarbonize
+this product and bring it into a state in which it could be hammered
+and welded was soon successfully made. This process of decarbonization,
+or some modification of it, has successfully held the field against
+all so-called, direct processes up to the present time. Why? Because
+the old fashioned bloomeries and Catalan forges could produce blooms
+only at a high cost, and because the new processes introduced failed
+to turn out good blooms. Those produced were invariably "red short,"
+that is, they contained unreduced oxide of iron, which prevented the
+contact of the metallic particles, and rendered the welding together
+of these particles to form a solid bloom impossible.
+
+The process of puddling cast iron, and transforming it by
+decarbonization into wrought iron, has, as everybody knows, been in
+successful practical operation for many years, and the direct process
+referred to so closely resembles this, that a short description of the
+theory of puddling is not out of place here.
+
+The material operated on in puddling is iron containing from 21/2 to 4
+per cent. of carbon. During the first stage of the process this iron
+is melted down to a fluid bath in the bottom of a reverberatory
+furnace. Then the oxidation of the carbon contained in the iron
+commences, and at the same time a fluid, basic cinder, or slag, is
+produced, which covers a portion of the surface of the metal bath, and
+prevents too hasty oxidation. This slag results from the union of
+oxides of iron with the sand adhering to the pigs, and the silica
+resulting from the oxidation of the silicon contained in the iron.
+
+This cinder now plays a very important part in the process. It takes
+up the oxides of iron formed by the contact of the oxidizing flame
+with the exposed portion of the metal bath, and at the same time the
+carbon of the iron, coming in contact with the under surface of the
+cinder covering, where it is protected from oxidizing influences,
+reduces these oxides from the cinder and restores them to the bath in
+metallic form. This alternate oxidation of exposed metal, and its
+reduction by the carbon of the cast iron, continues till the carbon is
+nearly exhausted, when the iron assumes a pasty condition, or "comes
+to nature," as the puddlers call this change. The charge is then
+worked up into balls, and removed for treatment in the squeezer, and
+then hammered or rolled. In the Wilson process the conditions which we
+have noted in the puddling operation are very closely approximated.
+Iron ore reduced to a coarse sand is mixed with the proper proportion
+of charcoal or coke dust, and the mixture fed into upright retorts
+placed in the chimney of the puddling furnace. By exposure for 24
+hours to the heat of the waste gases from the furnace, in the presence
+of solid carbon, a considerable portion of the oxygen of the ore is
+removed, but little or no metallic iron is formed. The ore is then
+drawn from the deoxidizer into the rear or second hearth of the
+puddling furnace, situated below it, where it is exposed for 20
+minutes to a much higher temperature than that of the deoxidizer. Here
+the presence of the solid carbon, mixed with the ore, prevents any
+oxidizing action, and the temperature of the mass is raised to a point
+at which the cinder begins to form. Then the charge is carried forward
+by the workmen to the front hearth, in which the temperature of a
+puddling furnace prevails. Here the cinder melts, and at the same
+time the solid carbon reacts on the oxygen remaining combined with the
+ore, and forms metallic iron; but by this time the molten cinder is
+present to prevent undue oxidation of the metal formed, and solid
+carbon is still present in the mixture to play the same role, of
+reducing protoxide of iron from the cinder, as the carbon of the cast
+iron does in the ordinary puddling process. I have said that the cast
+iron used as the material for puddling contains about 3 per cent. of
+carbon; but in this process sufficient carbon is added to effect the
+reduction of the ore to a metallic state, and leave enough in the mass
+to play the part of the carbon of the cast iron when the metallic
+stage has been reached.
+
+It would be interesting to compare the Wilson with the numerous other
+direct processes to which allusion has already been made, but there
+have been so many of them, and the data concerning them are so
+incomplete, that this is impossible. Two processes, however, the Blair
+and the Siemens, have attracted sufficient attention, and are
+sufficiently modern to deserve notice. In the Blair process a metallic
+iron sponge was made from the ore in a closed retort, this sponge
+cooled down in receptacles from which the air was excluded, to the
+temperature of the atmosphere, then charged into a puddling furnace
+and heated for working. In this way (and the same plan essentially has
+been followed by other inventors), the metallic iron, in the finest
+possible state of subdivision, is subjected to the more or less
+oxidizing influences of the flame, without liquid slag to save it from
+oxidation, and with no carbon present to again reduce the iron oxides
+from the cinder after it is formed. The loss of metal is consequently
+very large, but oxides of iron being left in the metal the blooms are
+invariably "red short."
+
+In the Siemens process pieces of ore of the size of beans or peas,
+mixed with lime or other fluxing material, form the charge, which is
+introduced into a rotating furnace; and when this charge has become
+heated to a bright-red heat, small coal of uniform size is added in
+sufficient quantity to effect the reduction of the ore.
+
+The size of the pieces of the material employed prevents the intimate
+mixture of the particles of iron with the particles of carbon, and
+hence we would, on theoretical grounds, anticipate just what practice
+has proved, viz., that the reduction is incomplete, and the resulting
+metal being charged with oxides is red-short. In practice, blooms made
+by this process have been so red-short that they could not be hammered
+at all.
+
+It would be impracticable in this process to employ ore and carbon in
+as fine particles as Wilson does, as a very large portion of the
+charge would be carried off by the draught, and a sticking of the
+material to the sides of the rotating furnace could scarcely be
+avoided. I do not imagine that a division of the material into
+anything like the supposed size of molecules is necessary; we know
+that the graphitic carbon in the pig-iron employed in puddling is not
+so finely divided, but it is much smaller particles than bean or pea
+size, and by approximating the size of the graphite particles in pig
+iron, Wilson has succeeded in obtaining good results.
+
+If we examine the utilization of the heat developed by the combustion
+of a given quantity of coal in this process, and compare it with the
+result of the combustion of an equivalent amount of fuel in a blast
+furnace, we shall soon see the theoretical economy of the process. The
+coal is burned on the grate of the puddling-furnace, to carbonic acid,
+and the flame is more fully utilized than in an ordinary
+puddling-furnace, for besides the ordinary hearth there is the second
+or rear hearth, where additional heat is taken up, and then the
+products of combustion are further utilized in heating the retorts in
+which the ore is partly reduced. After this the heat is still further
+utilized by passing it under the boilers for the generation of steam,
+and the heat lost in the gases, when they finally escape, is very
+small. In a blast furnace the carbon is at first burned only to
+carbonic oxide, and the products of combustion issue mainly in this
+form from the top of the furnace. Then a portion of the heat resulting
+from the subsequent burning of these gases is pretty well utilized in
+making steam to supply the power required about the works, but the
+rest of the gas can only be utilized for heating the blast, and here
+there is an enormous waste, the amount of heat returned to the furnace
+by the heated blast being very small in proportion to the amount
+generated by the burning of that portion of carbonic oxide expended in
+heating it, and the gases escape from both the hot-blast and the
+boilers at a high temperature.
+
+In the direct process under consideration the fuel burned is more
+completely utilized than in the puddling process, to which the cast
+iron from the blast furnace is subjected to convert it into wrought
+iron.
+
+The economy claimed for this process, over the blast furnace and
+puddling practice for the production of wrought iron, is that nearly
+all the fuel used in the puddling operation is saved, and that with
+about the same amount of fuel used in the blast furnace to produce a
+ton of pig iron, a ton of wrought iron blooms can be made. I had no
+opportunity of weighing the charges of ore and coal used, but I saw
+the process in actual operation at Rockaway, N.J. The iron produced
+was hammered up into good solid blooms, containing but little cinder.
+The muck-bar made from the blooms was fibrous in fracture, and showed
+every appearance of good iron. I am informed by the manager of the
+Sanderson Brothers' steel works, at Syracuse, N.Y., that they
+purchased blooms made by the Wilson process in 1881-1882, that _none_
+of them showed red-shortness, and that they discontinued their use
+only on account of the injurious action of the titanium they contained
+on the melting pots. These blooms were made from magnetic sands from
+the Long Island and Connecticut coasts.
+
+[Illustration: NEW PROCESS FOR MAKING WROUGHT IRON FROM THE ORE.]
+
+The drawing given shows the construction of the furnace employed. I
+quote from the published description:
+
+    "The upper part, or deoxidizer, is supported on a strong
+    mantel plate resting on four cast iron columns.
+
+    "The retorts and flues are made entirely of fire-brick, from
+    special patterns. The outside is protected by a wrought iron
+    jacket made of No. 14 iron. The puddling furnace is of the
+    ordinary construction, except in the working bottom, which is
+    made longer to accommodate two charges of ore, and thus
+    utilize more of the waste heat in reducing the ore to metallic
+    iron.
+
+    "The operation of the furnace is as follows: The pulverized
+    ore is mixed with 20 per cent. of pulverized charcoal or coke,
+    and is fed into an elevator which discharges into the hopper
+    on the deoxidizer leading into the retorts marked C. These
+    retorts are proportioned so that they will hold ore enough to
+    run the puddling furnace 24 hours, the time required for
+    perfect deoxidation. After the retorts are filled, a fire is
+    started in the furnace, and the products of combustion pass up
+    through the main flue, or well, B, where they are deflected by
+    the arch, and pass out through suitable openings, as indicated
+    by arrows, into the down-takes marked E, and out through an
+    annular flue, where they are passed under a boiler.
+
+    "It will be noticed that the ore is exposed to the waste heat
+    on three sides of the retorts, and owing to the great surface
+    so exposed, the ore is very thoroughly deoxidized, and reduced
+    in the retorts before it is introduced into the puddling
+    furnace for final reduction. The curved cast iron pipes marked
+    D are provided with slides, and are for the purpose of
+    introducing the deoxidized ore into the second bottom of the
+    furnace. As before stated, the furnace is intended to
+    accommodate two charges of ore, and as fast as it is balled up
+    and taken out of the working bottom, the charge remaining in
+    the second bottom is worked up in the place occupied by the
+    first charge, and a _new_ charge is introduced. As fast as the
+    ore is drawn out from the retorts the elevator supplies a new
+    lot, so that the retorts are always filled, thus making the
+    process continuous."
+
+The temperature of the charge in the deoxidizer is from 800 deg. to 1,000 deg.
+F.--_Amer. Engineer._
+
+       *       *       *       *       *
+
+
+
+
+SOME REMARKS ON THE DETERMINATION OF HARDNESS IN WATERS.
+
+By HERBERT JACKSON.
+
+
+Having had occasion some short time ago to examine a hard water which
+owed half its hardness to salts of magnesium, I noticed that the soap
+test, applied in the usual way, gave a result which differed very much
+from that obtained by the quantitative estimation of calcium and
+magnesium. A perfectly normal lather was obtained when soap had been
+added in quantities sufficient to neutralize 14 deg. of hardness, whereas
+the water contained salts of calcium and magnesium equivalent, on
+Clark's scale, to a hardness of 27 deg..
+
+Although I was aware that similar observations had been made before, I
+thought that it might be useful to determine the conditions under
+which the soap test could not be depended upon for reliable results.
+
+I found with waters containing calcium or magnesium alone that,
+whenever salts of either of these metals were in solution in
+quantities sufficient to give 23 deg. of hardness on Clark's scale, no
+dependence could be placed upon the results given by the soap test. In
+the case of waters containing salts of both calcium and magnesium, I
+found that if the salts of the latter metal were in solution in
+quantities sufficient to give more than 10 deg. of hardness, no evidence
+could be obtained of their presence so long as the salts of calcium in
+the same water exceeded 6 deg.; in such a case a perfect and permanent
+lather was produced when soap had been added equivalent to 7 deg. of
+hardness.
+
+If any water be diluted so as to reduce the proportions of the salts
+of calcium and magnesium below those stated above, perfectly reliable
+results will of course be obtained.
+
+Instead of dilution I found that heating the water to about 70 deg. C. was
+sufficient to cause a complete reaction between the soap and the salts
+of calcium and magnesium, even if these were present in far larger
+quantities than any given here.
+
+The experiments so far had all been made with a solution of Castile
+soap of the strength suggested by Mr. Wanklyn in his book on "Water
+Analysis." My attention was next directed to the use of any one of the
+compounds of which such a soap is composed. I commenced with sodium
+oleate, and found that by employing this substance in a moderately
+pure condition, perfectly reliable results could be obtained in very
+hard waters without the trouble of either diluting or heating. I was
+unable to try sodium stearate directly because of the slight
+solubility of this substance in cold water or dilute alcohol; but I
+found that a mixture of sodium oleate and stearate behaved in exactly
+the same manner as the Castile soap.
+
+I am not prepared at present to state the exact reaction which takes
+place between salts of calcium and magnesium and a compound soap
+containing sodium oleate and stearate. I publish these results because
+I have not noticed anywhere the fact that some waters show a greater
+hardness with soap when their temperatures approach the boiling point
+than they do at the average temperature of the air, it being, I
+believe, the ordinary impression that cold water wastes more soap than
+hot water before a good and useful lather can be obtained, whereas
+with very many waters the case is quite the reverse. Neither am I
+aware at present whether it is well known that the use of sodium
+oleate unmixed with sodium stearate dispenses with the process of
+dilution even in very hard waters.--_Chem. News._
+
+       *       *       *       *       *
+
+
+
+
+THE DENSITY AND PRESSURE OF DETONATING GAS MIXTURES.
+
+
+MM. Berthelot and Vielle have recently been studying the influence of
+the density of detonating gaseous mixtures upon the pressure
+developed. The measure of pressure developed by the same gaseous
+system, taken under two initial states of different density to which
+the same quantity of heat is communicated, is an important matter in
+thermodynamics. If the pressures vary in the same ratio as the
+densities, we may conclude, independently of all special hypotheses on
+the laws of gases, first, that the specific heat of the system is
+independent of its density (that is to say, of its initial pressure),
+and depends only on the absolute temperature, whatever that may mean;
+and secondly, that the relative variation of the pressure at constant
+volume, produced by the introduction of a determinate quantity of
+heat, is also independent of the pressure, and a function only of the
+temperature. Lastly, the pressure itself will vary proportionally with
+the absolute temperature, as defined by the theory of a perfect gas,
+and will serve to determine it. MM. Berthelot and Vielle operated with
+a bomb, at first kept at ordinary temperatures in the air, and
+afterward heated in an oil bath to 153 deg. Cent. They also employed
+isomeric mixtures of the gases; methylic ether, cyanogen, hydrogen,
+acetylene, and other gases were experimented upon, and the general
+conclusions are as follows: 1. The same quantity of heat being
+furnished to a gaseous system, the pressure of the system varies
+proportionally to the density of the system. 2. The specific heat of
+the gas is sensibly independent of the density as well toward very
+high temperatures as about deg. Cent. This is all true for densities
+near to those that the gas possesses cold under normal pressure, and
+which varied in the experiment to double the original value. 3. The
+pressure increases with the quantity of heat furnished to the same
+system. 4. The apparent specific heat increases parallel with this
+quantity of heat. These conclusions are independent of all hypotheses
+on the nature and laws of gases, and were simply drawn from the
+experiments in question.
+
+       *       *       *       *       *
+
+
+
+
+TURKISH BATHS FOR HORSES.
+
+
+The Turkish bath has become an established institution in this
+country; men of all classes now use it for sanitary as well as
+remedial purposes. Athletes of various descriptions find it invaluable
+in "training," and all the distinguished jockeys and light weights
+keep themselves in condition by its use.
+
+It was thought probable that what was good for man might also be good
+for the horse, and the fact has been proved. Messrs. Pickford, the
+eminent carriers, in their hospital for horses at Finchley, have had a
+bath in operation over eleven years, and find the horses derive great
+benefit from its use. The bath is put in operation three days a week,
+and is administered to over twenty horses in this time. The value of
+the bath having been thus proved, it is rather strange that it has not
+been more generally adopted by the large carrying firms. However, the
+Great Northern Railway Company at their new hospital for horses at
+Totteridge, are erecting a very complete Turkish bath. It consists of
+three rooms. First, a large wash room or grooming room, from which is
+entered the first hot room, or tepidarium, from 140 deg. to 150 deg. Fahr.;
+from this room, the horse, after being thoroughly acclimated, can, if
+necessary, pass to the hottest room, or calidarium, from 160 deg. to 170 deg.
+Fahr., and without any turning round can pass on into the grooming and
+washing room again. This last room is slightly heated from the two
+other rooms, and in each are stocks in which the animal can he
+fastened if required. The heating is done most economically by
+Constantine's convoluted stove, and thorough ventilation is secured
+from the large volume of hot air constantly supplied, which passes
+through the baths, and as it becomes vitiated is drawn off by
+specially designed outlets. The wash room is supplied with hot and
+cold water, which can, of course, be mixed to any required
+temperature.--_Building News._
+
+[Illustration]
+
+   ||
+   |+-------------------------------------------------------+
+   |+-------------------++---__-------____------------__---+|
+   ||                   ||FOUL AIR  FOUL AIR       FOUL AIR||
+   ||                   ||                                 ||
+   ||                   ||                                 ||
+   ||                   ||         ==============          ||
+   ||                  /     /                             ||
+   ||                 /     /       1ST HOT ROOM           ||
+   ||                /     /                               ||
+   ||               /     /        ==============          ||
+   ||                   ||                                 ||
+   /         =======+   ||                                 ||
+  /                ||   ||                          CURTAIN||
+       WASHING ROOM||   |+===========================     =||
+  \                ||   ||                                 ||
+   \         =======+   ||                                 ||
+   ||                   ||                                 ||
+   ||               \     \        ==============          ||
+   ||                \     \                               ||
+   ||                 \     \       2ND HOT ROOM           ||  FRESH
+   ||                  \     \                             || / AIR
+   ||                   ||         ==============          ||==
+   ||                   ||                          +======||  |
+   ||                   ||                          | WARM ||  |
+   ||                   ||FOUL AIR          FOUL AIR| AIR  ||  |
+   |+-------------------++---__--+===+---------__----------+|==
+   |+----------------------------|_|_|---------------------+|
+   ||      |     ||||| |                                   ||
+   ||      |     ||||| |                                   ||
+   ||      |============           S T O K E R Y           ||
+   ||                 ||                                   ||
+   ||                 ||                                   ||
+   ||                 |+-----------------------------------||
+                      +-------------------------------------+
+
+
+       *       *       *       *       *
+
+
+
+
+MIRYACHIT, A NEWLY DESCRIBED DISEASE OF THE NERVOUS SYSTEM, AND
+ITS ANALOGUES.[1]
+
+   [Footnote 1: Read before the New York Neurological Society,
+   February 5, 1884.]
+
+By WILLIAM A. HAMMOND, M.D., Surgeon-General, U.S. Army (Retired
+List); Professor of Diseases of the Mind and Nervous System in the New
+York Post-Graduate Medical School and Hospital.
+
+
+In a very interesting account of a journey from the Pacific Ocean
+through Asia to the United States, by Lieutenant B.H. Buckingham and
+Ensigns George C. Foulk and Walter McLean,[2] United States navy, I
+find an affection of the nervous system described which, on account of
+its remarkable characteristics, as well as by reason of certain known
+analogies, I think should be brought to the special notice of the
+medical profession. I quote from the work referred to, the following
+account of this disease. The party is on the Ussuri River not far from
+its junction with the Amur in Eastern Siberia: "While we were walking
+on the bank here we observed our messmate, the captain of the general
+staff (of the Russian army), approach the steward of the boat
+suddenly, and, without any apparent reason or remark, clap his hands
+before his face; instantly the steward clapped _his_ hands in the same
+manner, put on an angry look, and passed on. The incident was somewhat
+curious, as it involved a degree of familiarity with the steward
+hardly to have been expected. After this we observed a number of queer
+performances of the steward, and finally comprehended the situation.
+It seemed that he was afflicted with a peculiar mental or nervous
+disease, which forced him to imitate everything suddenly presented to
+his senses. Thus, when the captain slapped the paddle-box suddenly in
+the presence of the steward, the latter instantly gave it a similar
+thump; or, if any noise were made suddenly, he seemed compelled
+against his will to imitate it instantly, and with remarkable
+accuracy. To annoy him, some of the passengers imitated pigs grunting,
+or called out absurd names; others clapped their hands and shouted,
+jumped, or threw their hats on the deck suddenly, and the poor
+steward, suddenly startled, would echo them all precisely, and
+sometimes several consecutively. Frequently he would expostulate,
+begging people not to startle him, and again would grow furiously
+angry, but even in the midst of his passion he would helplessly
+imitate some ridiculous shout or motion directed at him by his
+pitiless tormenters. Frequently he shut himself up in his pantry,
+which was without windows, and locked the door, but even there he
+could be heard answering the grunts, shouts, or pounds on the bulkhead
+outside. He was a man of middle age, fair physique, rather intelligent
+in facial expression, and without the slightest indication in
+appearance of his disability. As we descended the bank to go on board
+the steamer, some one gave a loud shout and threw his cap on the
+ground; looking about for the steward, for the shout was evidently
+made for his benefit, we saw him violently throw his cap, with a
+shout, into a chicken-coop, into which he was about to put the result
+of his foraging expedition among the houses of the stanitza.
+
+   [Footnote 2: "Observations upon the Korean Coast, Japanese-Korean
+   Ports, and Siberia, made during a journey from the Asiatic
+   Station to the United States, through Siberia to Europe, June 3
+   to September 8, 1882." Published by the United States Navy
+   Department, Washington, 1883, pp. 51.]
+
+"We afterward witnessed an incident which illustrated the extent of
+his disability. The captain of the steamer, running up to him,
+suddenly clapping his hands at the same time, accidentally slipped and
+fell hard on the deck; without having been touched by the captain, the
+steward instantly clapped his bands and shouted, and then, in
+powerless imitation, he too fell as hard and almost precisely in the
+same manner and position as the captain. In speaking of the steward's
+disorder, the captain of the general staff stated that it was not
+uncommon in Siberia; that he had seen a number of cases of it, and
+that it was commonest about Yakutsk, where the winter cold is extreme.
+Both sexes were subject to it, but men much less than women. It was
+known to Russians by the name of 'miryachit'".
+
+So far as I am aware--and I have looked carefully through several
+books of travel in Siberia--no account of this curious disease has
+been hitherto published.
+
+The description given by the naval officers at once, however, brings
+to mind the remarks made by the late Dr. George M. Beard, before the
+meeting of the American Neurological Association in 1880, relative to
+the "Jumpers" or "Jumping Frenchmen" of Maine and northern New
+Hampshire.[3]
+
+   [Footnote 3: "Journal of Nervous and Mental Diseases," vol. vii.,
+   1880, p. 487.]
+
+In June, 1880, Dr. Beard visited Moosehead Lake, found the "Jumpers,"
+and experimented with them. He ascertained that whatever order was
+given them was at once obeyed. Thus, one of the jumpers who was
+sitting in a chair with a knife in his hand was told to throw it, and
+he threw it quickly, so that it stuck in a beam opposite; at the same
+time he repeated the order to throw it with a cry of alarm not unlike
+that of hysteria or epilepsy. He also threw away his pipe, which he
+was filling with tobacco, when he was slapped upon the shoulder. Two
+jumpers standing near each other were told to strike, and they struck
+each other very forcibly. One jumper, when standing by a window, was
+suddenly commanded by a person on the other side of the window to
+jump, and he jumped up half a foot from the floor, repeating the

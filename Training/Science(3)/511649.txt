@@ -1,0 +1,413 @@
+positive dimensions to suit the computations as above; but those of the
+tympanum class, Fig. 25, should be made of dimensions to conform with
+the required capacity at the moment of leaving the water, as the water
+at this point flows into the arm.
+
+(_To be continued_.)
+
+       *       *       *       *       *
+
+To remove paint and varnishes, which resist the action of strong lye,
+Dr. Stockmeier recommends a mixture of water of ammonia, two parts, and
+turpentine, one part; this applied to the surface to be cleaned will,
+after a few minutes' action, enable the paint to be removed by use of
+cotton waste or similar material.--(_Bayr. Gen. Ztg_.), Rundschau.
+
+       *       *       *       *       *
+
+
+
+
+ON GAS MOTORS.
+
+
+M. Witz, says the _Gas World_, has been conducting a series of
+experiments on the Delamare-Deboutteville and Malindin gas engine,
+driven by Dowson gas, and in which the gas generator takes the place of
+the ordinary steam boiler. The engine was a one-cylinder motor in the
+establishment of Messrs. Matter & Co., Rouen. Its power was 100 horse
+indicated; the cylinder was 23 inches in diameter, the stroke 38 inches,
+and the normal speed 100 revolutions. The engine is of the Simplex type;
+the kindling is electric; the cycle of operations is fourfold, with
+powerful compression. The Dowson generator is 30 inches inside diameter
+and 76 inches in height from the bars to the top. Air is blown in by
+steam driven in under the hearth. There is a siphon, a coke scrubber 110
+inches high, a sawdust purifier, and a gasholder of 750 cubic feet
+capacity, and a pipe to the engine 5.2 inches in diameter. The total
+area occupied by this apparatus is 140 square yards, of which two-thirds
+are built on. The anthracite employed was from Swansea, containing 5.4
+per cent. of ash. The observations made with a string friction brake
+were continued for 68 hours, everything used being carefully weighed and
+measured. One day the machine was worked for 151/4 hours on end; the other
+days it was worked with an interval of half an hour every 12 hours to
+clear the hearth, poke the fire and lubricate the machine; and it was
+clearly established that with a big enough generator it would be quite
+possible to work continuously for several days.
+
+The following were the data for a day of 24 hours, with an interval of
+half an hour: 8:55 P.M. one day to 8:55 P.M. the next, interval 8:30 to
+9 A.M. Anthracite used, 18.4 cwt.; coke used, 3.42 cwt.; water used for
+steam injection, 217.3 gallons; water used in scrubber, 4,106 gallons;
+water used in cooling the cylinder, 20,000 gallons; oil used in
+cylinder, 14.84 pounds; grease, 1.8 pounds; revolutions of machine,
+142,157, or 100.8 per minute; effective work, 75.86 French horse power,
+or 77.4 British; gas used, 6,742 cubic feet per hour, at 772 mm.
+pressure and 70.7 deg. F., or 83.7 cubic feet per effective horse power;
+efficiency, 69 per cent.
+
+Now, with regard to the comparison between the large gas motors and
+steam engines of the same size, M. Witz goes on to remark that the gas
+engine is by no means, as was formerly thought on high authority,
+necessarily restricted to the domain of smaller work and sizes. Even in
+early times it was seen that the gas engine belonged to a type in which
+there were possibilities of improvement greater than those available in
+the steam engine, because the difference of temperature between the
+working substance in its hotter and its cooler condition was greater
+than in the steam engine; and consumptions of 5,250 cubic feet per horse
+power per hour soon descended step by step as far as 2,060, while the
+power went up, past 4, 8 and 12, to 25 or 50 horse power; and in the
+exhibition of 1889 there were gas engines seen in which the explosion
+chamber had a diameter of as much as 23 inches.
+
+But the price of coal gas seemed to be too high for use in these large
+engines, in which sizes steam is comparatively cheap; and so poorer gas,
+which, though possessing only about 28 per cent. of the heating power,
+is still cheaper in proportion than coal gas, when it is made on the
+spot, was introduced to tide over the difficulty. Difficulties have been
+successively overcome, with the result which we have just seen, namely,
+1.37 pounds of anthracite per effective horse power, or about half the
+carbon which a steam engine of the same power of excellent design, and
+well kept up, would consume. A 50 horse simplex at Marseilles, in
+Barataud's flour mill, is said to have run for the last 2 years on 1.12
+pounds of English anthracite per effective horse power; and thus M. Witz
+says his predictions of 10 years ago, that the gas producer would some
+day replace the boiler, are being verified in such a way as to surprise
+even himself.
+
+But the objection is stated, and it is a serious one: the weight of fuel
+is not the only thing to be considered. The steam engine uses coal, the
+producer requires English anthracite, which is dearer; the gas motor
+uses a great deal of water and a great deal of oil, which cost money;
+and gas motors are dear, while gas producers and their adjuncts cost a
+tidy bit of money, and wear out pretty fast. Is not steam, after all,
+more economical in the long run? Besides, producers are bulky and take
+up a great deal of space; the weight of fuel is only one element in a
+complicated problem.
+
+In order to study the grounds of this objection, M. Witz has instituted
+a comparison between the actual cost of large steam engines and that of
+gas motors of similar size.
+
+Take a good Galloway or multitubular boiler; for 75 horse power
+effective the heating surface must be at least 74 square feet. Using
+good Cardiff coal, with 4 per cent. of ash, and a heating power of
+15,660 Fahr. units; the steam raised will be 8 to 9 pounds per pound of
+coal, so that 9,400 to 10,577 Fahr. units are utilized in raising steam,
+or 68 to 76 per cent., which is an excellent result. Take an engine of
+16 inch cylinder diameter, 40 inch stroke, and 66 revolutions, etc.; it
+will use 22.4 pounds of steam per horse power effective, which
+represents 2.47 to 2.8 pounds of coal under the boiler. These 10 pounds
+of steam carry 11,752 Fahr. units of heat, and produce work equal to 75
+horse, or 1,143 Fahr. units of heat; which corresponds to an efficiency
+of 9.7 per cent. In a gas motor, on the other hand, we find the
+materials employed, as per the above data, to contain 8,958 Fahr. units
+of heat, and to make gaseous fuel in which 6,343 units are available; a
+return of 70.6 per cent, in the producer. The motor receives these
+6,343, and converts 1,143 of them into work; an efficiency of 18 per
+cent. In order to be equivalent from the heat point of view, a steam
+engine ought to produce a horse power effective per 9.72 pounds of steam
+at 5 atmospheres; but no such steam engine exists.
+
+M. Witz goes on with comparative estimates. For a Corliss engine and
+boiler, with chimney, etc., complete, and putting these up, he allows
+L1,280; for a Simplex gas motor and Dowson producer complete, including
+putting up, he allows L1,290, which he explains to be average actual
+prices; but these prices do not cover cost of transport, and M. Witz
+does not go into cost of masonry for buildings, apart from foundations,
+etc., for the apparatus and machinery.
+
+As to water, the gas motor takes 215 cubic feet per horse power
+effective. A condensing steam engine uses five times as much.
+
+The lubricating oil used at Rouen was a mixture of Russian oil at 430
+fr. per ton, and Ferry and Heduit F.H. oil at 900 fr.; the average was
+650 fr. per ton, or 2.8d. per pound. Wanner grease, at 6.4d. per pound,
+was used for the moving parts. A steam engine requires less oil for the
+cylinder, but the same quantity for the moving parts.
+
+The attendance on the gas motor is too much for one man, not enough to
+occupy two; reckon it at 4s. 91/2d. a day.
+
+These elements enable us to calculate the daily cost of the gas motor,
+of 75 actual horse power, in comparison with a steam engine of the same
+size.
+
+_Steam Engine_.
+
+                                                    s.  d.
+  Upkeep, interest and sinking fund at 15 per
+    cent, on L1,292 = L193.8 = per day.             12  11
+  Cardiff coal, 2.643 pounds per actual horse
+    power per hour; 2.643 x 10 x 75 = in 10
+    hours 1,982 pounds coal at 22s. a ton.          19   51/2
+  Oil, 3.36 pounds per day at 2.8d. per pound.       0   91/2
+  Grease, 0.67 pound at 6.4d.                        0   41/2
+  Wages.                                             4   91/2
+                                                  ---------
+                                                 L1 18   4
+
+_Gas Engine_.
+
+                                                    s.  d.
+  Upkeep, interest and sinking fund at 15 per
+    cent. on L1,292 is, per day.                    12  11
+  Anthracite, 1.156 pound per actual horse
+    power per hour = for 750 horse-hours, at
+    25s. 6d.                                         9  10
+  Coke, 0.215 pound x 10 x 75 = 1611/4 pounds
+    at 28s.                                          2   0
+  Oil, 0.0084 pound per actual horse power per
+    hour, or 0.0084 x 10 x 75 = 6.28 pounds at
+    2.8d.                                            1   51/2
+  Grease, 0.754 pound per day at 6.4d.               0   5
+  Electric kindling, on cost.                        0   31/2
+  Wages.                                             4   91/2
+                                                  ---------
+                                                 L1 11   8
+
+The big gas engine making its own poor gas, and running 10 hours a day,
+has thus the best of it in the comparison with the steam engine of equal
+power.
+
+       *       *       *       *       *
+
+
+
+
+A PROJECTING APPARATUS FOR BALANCES OF PRECISION.
+
+
+The luminous projection apparatus illustrated herewith, when adapted to
+a balance of precision, permits of effecting weighings very rapidly. For
+the same approximation, the velocity of oscillation becomes five or six
+times greater, and, by the method employed, the last centigrammes and
+the milligrammes and their fractions are estimated directly, with
+immediate verification. As the apparatus is independent of the parts of
+the balance, it can be placed on all the existing laboratory balances of
+precision.
+
+[Illustration: PROJECTING APPARATUS FOR BALANCES OF PRECISION.]
+
+The modification introduced into the balance consists in the displacing
+of the center of gravity of the beam in such a way as to diminish the
+sensitiveness, and consequently to obtain a much greater velocity, and
+then, by optical means, to considerably increase the amplitude of the
+oscillations.
+
+Instead of the oscillations being observed through the microscope, they
+are projected upon a divided screen forming a dial, the division of
+which is seen by transmitted light.
+
+The apparatus consists of a small achromatic objective placed at the
+extremity of the tube of a microscope, in which there is a divided
+screen that receives the enlarged image of the reticule fixed upon the
+needle. Upon this reticule are projected the rays (condensed by a
+powerful lens) that come from a luminous source placed behind the
+balance. The focusing is done by means of a rack and pinion.
+
+The luminous source employed is a gas burner with reflector. This is
+placed in a walnut box in order to prevent any projection of heat upon
+the balance. This burner, thus isolated, is lighted for but one or two
+minutes at a maximum, at the end of each weighing. So, on fixing a
+thermometer in the cage, we find that no variation, ever so slight,
+occurs in the temperature. In order to effect a weighing, the gas being
+turned down to a taper, we proceed as with an ordinary balance until the
+extremity of the needle no longer emerges from the lower dial. Then we
+count the difference of the number of the divisions made by the needle
+to the right and left of zero. This difference, multiplied by the
+approximate value, in milligrammes, of each division of this dial (value
+given by the instrument) immediately gives the number of centigrammes
+and milligrammes that must be added to the weights already placed upon
+the pan of the balance in order to obtain an equilibrium, to about a
+half division of the lower dial.
+
+The value of each division of this dial varies from 3 to 10 milligrammes
+according as the balance shows 0.1 or 0.5 milligramme. As the dial has
+10 divisions on each side of the central mark, we thus estimate, without
+tentatives, the three last centigrammes or the last decigramme,
+according to the sensitiveness.
+
+At this moment the doors of the cage are closed, in order to prevent
+draughts of air, the gas is turned on by means of a regulating cock, and
+the balance is manipulated by first lowering the beam and then bringing
+the pans to a standstill. We then read the difference of the divisions
+traversed to the left and right upon the luminous dial through the image
+of the reticule. The images are reversed upon the dial, but practice
+soon causes this petty difficulty to disappear. This number of divisions
+indicates the number of milligrammes and fractions of a milligramme by
+which it is necessary to shift the counterpoise on its arm in order to
+obtain a perfect equilibrium, which latter is verified by a simple
+reading. Every half division of the dial corresponds, as to weight, to
+the sensitiveness indicated for the instrument.
+
+With a little practice a weighing effected as above described takes but
+a quarter or a fifth of the time that it does with an ordinary
+balance.--_Revue Industrielle._
+
+       *       *       *       *       *
+
+
+
+
+STARCHES FOR THE FINISHING OF COTTON FABRICS.
+
+
+The starches have been classified by Dr. Muter, according to the
+appearance they give under the microscope, into five groups:
+
+_Class I_.--Hilum and concentric rings visible. All the granules, oval
+or ovate. Tous-le-mois, potato, arrowroot, etc.
+
+_Class II_.--The concentric rings are all but invisible, the hilum is
+stellate. Maize, pea, bean, etc.
+
+_Class III_.--The concentric rings are all but invisible, also the hilum
+in the majority of granules. Wheat, barley, rye, chestnut, etc.
+
+_Class IV_.--All the granules truncated at one end. Sago, tapioca, etc.
+
+_Class V_.--All the granules angular in form. Rice, tacca, arrowroot,
+oats, etc.
+
+The principal starches used for finishing cotton fabrics are potato
+(farina), wheat, Indian corn (maize), rice, tapioca, arrowroot, sago;
+the last three not so often as those previously named.
+
+[Illustration: POTATO STARCH.]
+
+[Illustration: ARROWROOT STARCH.]
+
+[Illustration: WHEAT STARCH]
+
+[Illustration: RICE STARCH]
+
+[Illustration: SAGO STARCH]
+
+[Illustration: INDIAN CORN STARCH]
+
+[Illustration: TAPIOCA STARCH]
+
+       *       *       *       *       *
+
+
+
+
+MARBLE AND MOSAIC.
+
+[Footnote: A paper recently read before the Architectural Association,
+London.--_From the Architect_.]
+
+By T.R. SPENCE.
+
+
+I do not propose to enter into any historical details as to the first
+and subsequent application of mosaics. In a general sense we understand
+mosaic as a combination of various more or less imperishable
+materials--fixed together by cement or other adhesive substances--and
+laid over walls, floors, etc., with a view to permanent decorative
+effect. The substance of the tesserae is of many kinds, namely, glass,
+cheap and precious marbles, hard stone, and burnt clay, these mentioned
+being mainly in use for architectural purposes. For decorative schemes
+we collect as many gradations of color as are obtainable in such durable
+materials in their natural or manufactured state, and thus form a color
+palette which we regard in the same sense as a painter would his
+pigments.
+
+Of course, the first proceeding is to prepare a design on a small scale,
+which shall embrace your notions of color only. Then follows a
+full-sized cartoon, which I need hardly add shall embrace your best
+efforts in drawing. A tracing is made of the latter and transferred to
+sheets of cardboard. This cardboard is cut to the size of certain
+sections of your design, and, for convenience, should not be more than,
+say, 20 in. square. Of course, it will not always be square, but will
+bear the same relation to your complete cartoon as a map of the counties
+would to that of all England. Now, working from the small design (of
+color), the tesserae are cut to the forms required, laid face downward,
+and glued on to the cardboard sections containing your enlarged cartoon.
+When the design is all worked out on these sections they are ready for
+fixing on walls or floor by laying them home on a float of cement. When
+the cement sets, the cardboard sticking to the face is washed off, and
+the joints of tesserae flushed over with cement and cleaned off, leaving
+all joints filled up level.
+
+There are other processes used for the same end. The technical processes
+need not occupy our attention at present. There is one process that may
+appeal to you, and that is executing the work _in situ_ by floating on a
+limited expanse of cement, and sticking on the tesserae at once. It has
+the advantage of enabling the artist or architect to see the effect of
+his efforts under the fixed conditions of light and height.
+
+I shall confine myself to vitreous or glass mosaic, which for
+durability, extended scales of primary colors and their numerous
+semi-transparent gradations is unequaled by any substance yet used for
+wall or floor decoration. I am surprised, having all these fine
+qualities, it is not more used by architects. If you require proofs of
+its triumphs, go to St. Mark's, of Venice, and stand under its mellow
+golden roof. There you will find its domes and vaulted aisles, nave and
+transepts entirely overlaid with gold mosaic, into which ground is
+worked--in the deepest and richest colors and their gradations that
+contemporary manufacturers could produce--subjects selected from the
+creation down to the life of Christ, in addition containing a complete
+alphabet of early Christian symbolism. The roof surfaces being one
+succession of over-arching curves become receptive of innumerable waves
+of light and broad unities of soft shadows, giving the whole an
+incomparable quality of tone and low juicy color.
+
+Never use your gold but on curved or undulating surfaces. Flat planes of
+gold only give the effect of a monotonous metallic yellow, and can never
+be beautiful, owing to the absence of the variations that come with
+waves of shadow. By letting out the reins of imagination we might feel
+that in this a tenth century Giorgione has given off the mental
+impressions of all the golden autumn of his life. His material gave him
+an advantage over his great followers of the fifteenth and sixteenth
+centuries, insomuch that glass has a living and glowing quality of light
+not existing in the somewhat clouded purity of oil or fresco.
+
+In St. Mark's we have an example of the superb treatment in deepest and
+most Titianesque scales applied to curved forms, but to find a similarly
+complete example of the use of lighter tones and on flat surfaces, we
+must turn to Ravenna. I can give you no adequate description of the wall
+mosaics of Ravenna. In the sense of delicate color they remind me of
+some of the subtile harmonies of many of the finest works of the modern
+French school--of the Impressionists and others who combine that quality
+with a true instinct for design. In standing before them you feel that
+the Dagnan Bouverets, the Mersons, the Cazins, the Puvis de Chavannes,
+etc., of the fifth century have had a hand in the conception and
+realization of the beautiful compositions to be found on the nave walls
+of the two churches of St. Appollinare Nuovo and St. Appollinare in
+Classe. Here all the scales are of delicate degrees of light tones,
+supreme in their beauty, completeness, and, most important to us, their
+true decorative instinct. In the Baptistery we find what I may term a
+third essay in color, by weaving in rich, dark, and glowing colors on
+figures and bold sinuous forms of ornament in such a skillful and
+judicious manner that the whole dome seems to be alive with harmonies,
+although they are mostly primaries.
+
+As you know, rules for the disposition of color are futile, yet some
+details that struck me as eminently satisfactory may interest you. In
+all cases the tesserae are of small dimensions, about a quarter of an
+inch square. The stucco joints are large and open, surfaces far from
+level, but undulating considerably. The tesserae stick up in parts,
+brilliant edges showing. Absence of flatness gives play to the light.
+The gray of the stucco joints brings the whole composition together,
+serving as cool grays in a picture to give tender unity. Gold, apart
+from backgrounds and large surfaces, is used very cleverly in small
+pieces in borders of garments, and more especially in thin outlines to
+make out the drawing and certain flowing forms of ornament. Brilliant
+pieces of glass actually moulded at the kiln into forms of jewels add
+brilliancy to crowns, borders, etc. These stick boldly out from the
+surface. I noticed in the Baptistery below the springing of the dome a
+frieze about 2 ft. 6 in. deep, having the ground entirely in black,
+through which was woven in thin gold lines a delicate foliated design.
+This, in conjunction with the upper surfaces in dark, rich color, had a
+most delightful effect.

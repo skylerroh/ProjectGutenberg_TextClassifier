@@ -1,0 +1,135 @@
+be utterly impossible to measure it. Someone had dubbed the hypothetical
+stuff Instantanium 512.
+
+Whether Instantanium 512 had any real existence is an argument for
+philosophers only. The results, in any case, were catastrophic. The
+whole conglomeration came apart in a grand splatter of neutrons,
+protons, negatrons, positrons, electrons, neutrinos--a whole slew of
+Greek-lettered mesons of various charges and masses, and a fine
+collection of strange and ultrastrange particles. Energy? Just oodles
+and gobs.
+
+Peter de Hooch had heard about the results. He had no desire to
+experience them first hand. Fortunately, the reaction that led up to
+them took time. It could be stopped at any time up to the Fm-256 stage.
+According to the instruments, that wouldn't be for another six hours
+yet, so there was nothing at all to worry about. Even after that it
+could be stopped, provided one had a way to get rid of the violently
+fissioning fermium.
+
+"Connections O.K.?" Willows asked. His voice came over the earphones
+inside the ponderous helmet of the radiation suit.
+
+"Fine," said de Hooch. He adjusted the double periscope so that his
+vision was clear. "Perfect."
+
+He tested the controls, moving his arms and legs to see if the suit
+responded. The suit was so heavy that, without powered joints,
+controlled by servomechanisms, he would have been unable to move, even
+under Lunar gravity. With the power on, though, it was no harder than
+walking underwater in a diving suit. "All's well, Puss," he said.
+
+"I'll keep an eye on you," said Willows.
+
+"Fine. Well, here goes Colossus de Hooch." He began walking toward the
+door that led into the corridor which connected the reactor anteroom to
+the control room.
+
+       *       *       *       *       *
+
+It took time to drag the two inert figures out of the anteroom. All de
+Hooch could do was grab them under the armpits, apply power, and drag
+them out. He went out the same way he had come in, traversing the
+separate chambers in reverse order. First came the decontamination
+chamber, where the radioactive dust that might have settled on the suits
+was sluiced off by the detergent sprays. When the radiation detectors
+registered low enough, de Hooch dragged Ferguson into the outer chamber,
+then went back and got Metty and put him through the same process. Then
+he dragged them on into the control room so that Willows could get them
+out of the heavy suits.
+
+[Illustration]
+
+"Can you help me, Guz?" Willows asked. It was obvious that he didn't
+want to open the suits. He didn't want to see what might be inside. De
+Hooch helped him.
+
+They were both alive, but unconscious. Bones had been broken, and Metty
+appeared to be suffering from concussion. They were badly damaged, but
+they'd live.
+
+De Hooch and Willows made two trips down E and C corridors, carrying the
+men on a stretcher, to get them in bed. De Hooch splinted the broken
+bones as best he could and gave each of them a shot of narcodyne. He had
+to do the medical work because Quillan, the medic, was trapped in
+Corridor A. He called Quillan on the phone to tell him what had
+happened. He described the signs and symptoms of the victims as best he
+could, and then did what Quillan told him to do.
+
+"They ought to be all right," Quillan said. "With that dope in them,
+they'll be out cold for the next twelve hours, and by that time, the
+boys from Base will be here. Just leave 'em alone and don't move 'em any
+more."
+
+"Right. I'll call you back later. Right now, Puss and I are going to see
+what's wrong with the control linkages on Number Two."
+
+"Right. By-o."
+
+De Hooch and Willows walked back to the control room of Number Two
+Reactor in silence.
+
+Once inside the control room, de Hooch said: "How are those control
+circuits?" Willows was supposed to have been checking them while he had
+been dragging Ferguson and Metty out of the antechamber.
+
+"Well, I ... I'm not sure. I'll show you what I've found so far, Guz.
+You ought to take a look at them. I ... I'd like you to take a look-see.
+I think"--he gestured toward the console--"I think they're all right
+except for the freezer vernier and the pressure release control."
+
+_He doesn't trust his own work_, de Hooch thought. _Well, that's all
+right. Neither do I._
+
+Painstakingly, the two of them went over the checking circuits. Willows
+was right. The freezer and pressure controls were inoperable.
+
+"Damn," said de Hooch. "Double damn."
+
+"They're probably both stuck at the firewall," Willows said.
+
+"Sure. Where else? I'll have to go in there and unstick 'em. Help me get
+back into that two-legged tank again." He wished he knew more about what
+Ferguson and Metty had been doing. He wished he knew why the two men had
+gone into the anteroom in the first place. He wished a lot of things,
+but wishing was a useless pastime at this stage of the game.
+
+If only one of the two men had been in a condition to talk!
+
+He got back into his radiation-proof suit again, took one last look at
+the instruments on the console, and headed for the reactor.
+
+       *       *       *
+
+Through the first radiation trap--left turn, right turn, right turn,
+left turn--through the "cold" room, through the second radiation trap,
+through the decontamination chamber, and through the third radiation
+trap into the anteroom. Now that Ferguson and Metty were safely out of
+the way, he could give his attention to the damage that had been done.
+
+Had Ferguson and Metty actually come in to tap off a sample, as he had
+suggested to Willows? He looked around at the wreckage in the
+antechamber. Quite obviously, the heavy door of the sample chamber was
+wide open, and it certainly appeared that the wreckage was scattered
+from that point. Cautiously, he went over to look at the open sample
+chamber. It looked all right, except that the bottom was covered with a
+bright, metallic dust. He rubbed his finger over it and looked at the
+fingertip. A very fine dust. And yet it hadn't been scattered very much
+by the explosion. Heavy. Very likely osmium. Osmium 187 was stable, but
+it wasn't a normally used step toward Mercury 203. Four successive alpha
+captures would give Polonium 203, not mercury. Ditto for an oxygen
+fusion. It could be iridium or platinum, of course. Whatever it was, the
+instruments in his helmet told him it wasn't hot.
+
+He had a hunch that Ferguson and Metty had been building Mercury 203
+from Hafnium 179 by the process of successive fusions with Hydrogen 3

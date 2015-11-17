@@ -1,0 +1,397 @@
+etc., a second or third time, as being the same in all respects as
+that which he experienced the first time it appeared. Third, the
+method of Selection, in which we show to the person a number of
+things, sentences, reports, descriptions of objects, etc., and require
+him to select from them the ones which are exactly the same as those
+he has had before. These methods will be better understood from the
+account now to be given of the way they were carried out on a large
+number of students.
+
+[Footnote 7: Prof. H. C. Warren, Mr. W. J. Shaw, and the writer.]
+
+The first experiments were made by Messrs. S. and B. in the University
+of Toronto on a class of students numbering nearly three hundred, of
+whom about one third were women. The instructors showed to the class
+certain squares of cardboard of suitable size, and asked them to do
+the following three things on different days: First, to reproduce from
+memory, with pencil on paper, squares of the same size as those shown,
+after intervals of one, ten, twenty, and forty minutes (this gives
+results by the method of Reproduction); second, to say whether a new
+set of squares, which were shown to them after the same intervals,
+were the same in size as those which they had originally seen,
+smaller, or larger (illustrating the method of Identification); third,
+they were shown a number of squares of slightly different sizes, again
+at the same intervals, and asked to select from them the ones which
+they found to be the same size as those originally seen (method of
+Selection).
+
+The results from all these experiments were combined with those of
+another series, secured from a large class of Princeton students; and
+the figure (Fig. 8) shows by curves something of the result. The
+figure is given in order that the reader may understand by its
+explanation the "graphic method" of plotting statistical results,
+which, with various complications, is now employed in psychology as
+well as in the other positive sciences.
+
+[Illustration: FIG. 8.--Memory curves: I. Method of Selection. II.
+Method of Identification.]
+
+Briefly described in words, it was found that the three methods agreed
+(the curves are parallel)[8] in showing that during the first ten
+minutes there was a great falling off in the accuracy of memory (slant
+in the curves from 0 to 10); that then, between ten and twenty
+minutes, memory remained relatively faithful (the curves are nearly
+level from 10 to 20), and that a rapid falling off in accuracy
+occurred after twenty minutes (shown by the slant in the lines from 20
+to 40).
+
+[Footnote 8: This figure shows curves for two of the methods only,
+Selection and Identification.]
+
+Further, the different positions of the curves show certain things
+when properly understood. The curve secured by the method of
+Reproduction (not given in the figure) shows results which are least
+accurate, because most variable. The reason of this is that in drawing
+the squares to reproduce the one remembered, the student is
+influenced by the size of the paper he uses, by the varying accuracy
+of his control over his hand and arm (the results vary, for example,
+according as he uses his right or left hand), and by all sorts of
+associations with square objects which may at the time be in his mind.
+In short, this method gives his memory of the square a chance to be
+fully assimilated to his current mental state during the interval, and
+there is no corrective outside of him to keep him true.
+
+That this difficulty is a real one no one who has examined students
+will be disposed to deny. When we ask them to reproduce what the
+text-book or the professor's lectures have taught, we also ask them to
+express themselves accurately. Now the science of correct expression
+is a thing in which the average student has had no training. With his
+difficulty in remembering is connected his difficulty of expression;
+and with it all goes a certain embarrassment, due to responsibility,
+personal fear, and dread of disgrace. So the results finally obtained
+by this method are really very complex.
+
+One of the curves, that given by the method of Selection (I), also
+shows memory to be interfered with by a certain influence. We saw in
+connection with the experiments reported above that, even in the most
+elementary arrangements of squares in the visual fields, an element of
+contrast comes in to interfere with our judgment of size. This we find
+confirmed in these experiments when the method of Selection is used.
+By this method we show a number of squares side by side, asking the
+individual to select the one he saw before. All the squares, being
+shown at once, come into contrast with one another on the background;
+and so his judgment of the size of the one he remembers is distorted.
+This, again, is a real influence in our mental lives, leading to
+actual illusion. An unscrupulous lawyer may gradually modify the story
+which his client or a witness tells by constantly adding to what is
+really remembered, other details so expertly contrasted with the
+facts, or so neatly interposed among them, that the witness gradually
+incorporates them in his memory and so testifies more nearly as the
+lawyer desires. In our daily lives another element of contrast is also
+very strong--that due to social opinion. We constantly modify our
+memories to agree more closely with the truths of social belief,
+paring down unconsciously the difference between our own and others'
+reports of things. If several witnesses of an event be allowed to
+compare notes from time to time, they will gradually come to tell more
+nearly the same story.
+
+The other curve (II) in the figure, that secured by the method of
+Identification, seemed to the investigators to be the most accurate.
+It is not subject to the errors due to expression and to contrast, and
+it has the advantage of allowing the subject the right to recognise
+the square. It is shown to him again, with no information that it is
+the same, and he decides whether from his remembrance of the earlier
+one, it is the same or not. The only objection to this method is that
+it requires a great many experiments in order to get an average
+result. To be reliable, an average must be secured, seeing that, for
+one or two or a few trials, the student may guess right without
+remembering the original square at all. By taking a large number of
+persons, such as the three hundred students, this objection may be
+overcome. Comparing the averages, for example, of the results given
+by the men and women respectively, we found practically no difference
+between them.
+
+This last point may serve to introduce a distinction which is
+important in all work in experimental psychology, and one which is
+recognised also in many other sciences--the distinction between
+results obtained respectively from one individual and from many. Very
+often the only way to learn truth about a single individual is to
+investigate a number together. In all large classes of things,
+especially living things, there are great individual differences, and
+in any particular case this personal variation may be so large that it
+obscures the real nature of the normal. For example, three large sons
+may be born to two small parents; and from this case alone it might be
+inferred that all small parents have large sons. Or three girls might
+have better memories than three boys in the same family or school, and
+from this it might be argued that girls are better endowed in this
+direction than boys. In all such cases the proper thing to do is to
+get a large number of cases and combine them; then the preponderance
+which the first cases examined may have shown, in one direction or the
+other, is corrected. This gives rise to what is called the statistical
+method; it is used in many practical matters, such as life insurance,
+but its application to the facts of life, mind, variation, evolution,
+etc., is only begun. Its neglect in psychology is one of the crying
+defects of much recent work. Its use in complicated problems involves
+a mathematical training which people generally do not possess; and its
+misuse through lack of exactness of observation or ignorance of the
+requirements is worse than its neglect.
+
+Another result came out in connection with these experiments on
+memory, which, apart from its practical interest, may serve to show an
+additional resource of experimental psychology. In making up the
+results of a series of experiments it is very important to observe the
+way in which the different cases differ from one another. Some cases
+may be so nearly alike that the most extreme of them are not far from
+the average of them all; as we find, for example, if we measure a
+thousand No. 10 shot. But now suppose we mix in with the No. 10 some
+No. 6 and some No. 14, and then take the average size; we may now get
+just the same average, and we can tell that this pile is different
+from the other only by observing the individual measurements of the
+single shot and setting down the relative frequency of each particular
+size. Or, again, we may get a different average size in one of two
+ways: either by taking another lot of uniform No. 14 shot, let us say,
+or by mixing with the No. 10 a few very large bullets. Which is
+actually the case would be shown only by the examination of the
+individual cases. This is usually done by comparing each case with the
+average of the whole lot, and taking the average of the differences
+thus secured--a quantity called the "mean variation."
+
+In the case of the experiments with the squares, the errors in the
+judgments of the students were found to lie always in one direction.
+The answers all tended to show that they took, for the one originally
+shown, a square which was really too large. Casting about for the
+reason of this, it was considered necessary to explain it by the
+supposition that the square remembered had in the interval become
+enlarged in memory. The image was larger when called up after ten or
+twenty minutes than it was before. This might be due to a purely
+mental process; or possibly to a sort of spreading-out of the brain
+process in the visual centre, giving the result that whenever, by the
+revival of the brain process, the mental image is brought back again
+to mind, this spreading out shows itself by an enlargement of the
+memory image. However it may be explained, the indications of it were
+unmistakable--unless, of course, some other reason can be given for
+the uniform direction of the errors; and it is further seen in other
+experiments carried out by Messrs. W. and B. and by Dr. K.[9] at a
+later date.
+
+[Footnote 9: Dr. F. Kennedy, demonstrator, now professor in the
+University of Colorado (results not yet published).]
+
+If this tendency to the enlargement of our memories with the lapse of
+time should be found to be a general law of memory, it would have
+interesting bearings. It would suggest, for instance, an explanation
+of the familiar fact that the scenes of the past seem to us, when we
+return to them, altogether too small. Our childhood home, the old
+flower garden, the height of house and trees, and even that of our
+hero uncle, all seem to the returning traveller of adult life
+ridiculously small. That we expect them to be larger may result from
+the fact that the memory images have undergone change in the direction
+of enlargement.
+
+V. _Suggestion._--Space permits only the mention of another research,
+which, however, should not be altogether omitted, since it illustrates
+yet other problems and the principles of their solution. This is an
+investigation by Messrs. T. and H.,[10] which shows the remarkable
+influence of mental suggestions upon certain bodily processes which
+have always been considered purely physiological. These investigators
+set out to repeat certain experiments of others which showed that if
+two points, say those of a pair of compasses, be somewhat separated
+and put upon the skin, two sensations of contact come from the points.
+But if while the experiment is being performed the points be brought
+constantly nearer to each other, a time arrives when the two are felt
+as only one, although they may be still some distance apart. The
+physiologists argued from this that there were minute nerve endings in
+the skin at least so far apart as the least distance at which the
+points were felt as two; and that when the points were so close
+together that they only touched one of these nerve endings, only one
+sensation was produced. Mr. T. had already found, working in Germany,
+that, with practice, the skin gradually became more and more able to
+discriminate the two points--that is, to feel the two at smaller
+distances; and, further, that the exercise of the skin in this way on
+one side of the body not only made that locality more sensitive to
+minute differences, but had the same effect, singularly, on the
+corresponding place on the other side of the body. This, our
+experimenters inferred, could only be due to the continued suggestion
+in the mind of the subject that he should feel two points, the result
+being an actual heightening of the sensibility of the skin. When he
+thought that he was becoming more sensitive on one side--and really
+was--this sense or belief of his took effect in some way in both
+hemispheres of his brain, and so both sides of the body were alike
+affected.
+
+[Footnote 10: G. A. Tawney, now professor in Beloit College, and C. W.
+Hodge, now professor in Lafayette College.]
+
+This led to other experiments in Princeton in which suggestions were
+actually made to the subjects that they were to become more or less
+sensitive to distance and direction between the points on the skin,
+with the striking result that these suggestions actually took effect
+all over the body. This was so accurately determined that from the
+results of the experiments with the compasses on the skin in this case
+or that, pretty accurate inferences could be made as to what mental
+suggestions the subject was getting at the time. There was no chance
+for deception in the results, for the experiments were so controlled
+that the subject did not know until afterward of the correspondences
+actually reached between his states of mind and the variations in
+sensibility of the skin.
+
+This slight report of the work done in one laboratory in about two
+sessions, involving a considerable variety of topics, may give an
+idea, so far as it goes, of the sort of work which experimental
+psychology is setting itself to do. It will be seen that there is as
+yet no well-knit body of results on which new experiments may proceed,
+and no developed set of experimental arrangements, such as other
+positive sciences show. The procedure is, in many important matters,
+still a matter of the individual worker's judgment and ability. Even
+for the demonstrations attempted for undergraduate students, good and
+cheap apparatus is still lacking. For these reasons it is premature as
+yet to expect that this branch of the science will cut much of a
+figure in education. There can be no doubt, however, that it is making
+many interesting contributions to our knowledge of the mind, and that
+when it is more adequately organized and developed in its methods and
+apparatus, It will become the basis of discipline of a certain kind
+lying between that of physical science and that of the humanities,
+since it will have features in common with the biological and natural
+sciences. Its results may be expected also to lead to better results
+than we now have in the theory and practice of education.
+
+
+
+
+CHAPTER VII.
+
+SUGGESTION IN CHILDREN AND ADULTS--HYPNOTISM.
+
+
+In an earlier place certain illustrations of Suggestion have been
+given. By Suggestion we mean the fact that all sorts of hints from
+without disturb and modify the beliefs and actions of the individual.
+Certain cases from my own observation may be given which will make the
+matter clear.
+
+_Physiological Suggestion._--Observation of an infant for the first
+month or six weeks after birth leads to the conviction that his life
+is mainly physiological. When the actions which are purely reflex,
+together with certain random impulsive movements, are noted, we seem
+to exhaust the case.
+
+Yet even at this remarkably early stage H. was found to be in some
+degree receptive to certain Suggestions conveyed by repeated
+stimulation under uniform conditions. In the first place, the
+suggestions of sleep began to tell upon her before the end of the
+first month. Her nurse put her to sleep by laying her face down and
+patting gently upon the end of her spine. This position soon became
+itself not only suggestive to the child of sleep, but sometimes
+necessary to sleep, even when she was laid across the nurse's lap in
+what seemed to be an uncomfortable position.
+
+This case illustrates what may be called Physiological Suggestion. It
+shows the law of physiological habit as it borders on the conscious.
+
+The same sort of phenomena appear also in adult life. Positions given
+to the limbs of a sleeper lead to movements ordinarily associated with
+these positions. The sleeper defends himself, withdraws himself from
+cold, etc. Children learn gradually to react upon conditions of
+position, lack of support, etc., of the body, with those actions
+necessary to keep from falling, which adults have so perfectly. All
+secondary automatic reactions may be classed here; the sensations
+coming from one action, as in walking, being suggestions to the next
+movement, unconsciously acted upon. The consciousness at any stage in
+the chain of movements, if present at all, must be similar to the
+baby's in the case above--a mere internal glimmering. The most we can
+say of such physiological suggestion is, that there is probably some
+consciousness, and that the ordinary reflexes seem to be abbreviated
+and improved.
+
+_Subconscious Adult Suggestion._--There are certain phenomena of a
+rather striking kind coming under this head whose classification is so
+evident that we may enumerate them without discussion of the general
+principles which they involve.
+
+_Tune Suggestion._--It has been pointed out recently that dream states
+are largely indebted for their visual elements--what we see in our
+dreams--to accidental lines, patches, etc., in the field of vision
+when the eyes are shut, due to the distended blood vessels of the
+cornea and lids, to changes in the external illumination, to the
+presence of dust particles of different configuration, etc. The other
+senses also undoubtedly contribute to the texture of our dreams by
+equally subconscious suggestions. There is no doubt, further, that our
+waking life is constantly influenced by such trivial stimulations.
+
+I have tested in detail, for example, the conditions of the rise of
+so-called "internal tunes"--we speak of "tunes in our head" or "in our
+ears"--and find certain suggestive influences which in most cases
+cause these tunes to rise and take their course. Often, when a tune
+springs up "in my head," the same tune has been lately sung or
+whistled in my hearing, though quite unnoticed at the time. Often the
+tunes are those heard in church the previous day or earlier. Such a
+tune I am entirely unable to recall voluntarily; yet when it comes
+into the mind's ear, so to speak, I readily recognise it as belonging
+to an earlier day's experience. Other cases show various accidental
+suggestions, such as the tune Mozart suggested by the composer's name,
+the tune Gentle Annie suggested by the name Annie, etc. In all these
+cases it is only after the tune has taken possession of consciousness
+and after much seeking that the suggesting influence is discovered.
+
+Closer analysis reveals certain additional facts: The "time" of such
+internal tunes is usually dictated by some rhythmical subconscious
+occurrence. After hearty meals it is always the time of the heart
+beat, unless there be "in the air" some more impressive stimulus; as,
+for example, when on shipboard, the beat is with me invariably that of
+the engine throbs. When walking it is the rhythm of the footfall. On
+one occasion a knock of four beats on the door started the
+Marseillaise in my ear; following up this clew, I found that at any
+time different divisions of musical time being struck on the table at
+will by another person, tunes would spring up and run on, getting
+their cue from the measures suggested. Further, when a tune dies away,
+its last notes often suggest, some time after, another having a
+similar movement--just as we pass from one tune to another in a
+"medley." It may also be noted that in my case the tune memories are
+auditive: they run in my head when I have no words for them and have
+never sung them--an experience which is consistent with the fact that
+these "internal tunes" arise in childhood before the faculty of
+speech. They also have distinct pitch. For example, I once found a
+tune "in my head" which was perfectly familiar, but for which I could
+find no words. Tested on the piano, the pitch was F-sharp and the time
+was my heart beat. Finally, after much effort, I got the unworthy
+words "Wait till the clouds roll by" by humming the tune over
+repeatedly. The pitch is determined probably by the accidental
+condition of the auditory centre in the brain or by the pitch of the
+external sound which serves as stimulus to the tune.
+
+_Normal Auto-Suggestion._--A further class of Suggestions, which fall
+under the general phrase Auto-suggestion, or Self-suggestion of a
+normal type, may be illustrated. In experimenting upon the possibility
+of suggesting sleep to another I have found certain strong reactive
+influences upon my own mental condition. Such an effort, which
+involves the picturing of another as asleep, is a strong
+Auto-suggestion of sleep, taking effect in my own case in about five
+minutes if the conditions be kept constant. The more clearly the
+patient's sleep is pictured the stronger becomes the subjective
+feeling of drowsiness. After about ten minutes the ability to give
+strong concentration seems to disintegrate, attention is renewed only
+by fits and starts and in the presence of great, mental inertia, and
+the oncoming of sleep is almost overpowering. An unfailing cure for
+insomnia, speaking for myself, is the persistent effort to put some
+one else asleep by hard thinking of the end in view, with a continued
+gentle movement, such as stroking the other with the hand.
+
+On the other hand, it is impossible to bring on a state of drowsiness
+by imagining myself asleep. The first effort at this, indeed, is
+promising, for it leads to a state of restfulness and ease akin to the
+mental composure which is the usual preliminary to sleep; but it goes
+no further. It is succeeded by a state of steady wakefulness, which
+effort of attention or effort not to attend only intensifies. If the
+victim of insomnia could only forget that he is thus afflicted, could
+forget himself altogether, his case would be more hopeful. The
+contrast between this condition and that already described shows that
+it is the Self-idea, with the emotions it awakens,[11] which prevents
+the suggestion from realizing itself and probably accounts for many
+cases of insomnia.
+
+[Footnote 11: A friend informs me that when he pictures himself dead
+he can not help feeling gratified that he makes so handsome a
+corpse.]
+
+_Sense Exaltation._--Recent discussions of Hypnotism have shown the
+remarkable "exaltation" which the senses may attain in somnambulism,

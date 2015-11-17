@@ -1,0 +1,528 @@
+also the residues of permanganate and oxalic acid left in the
+measuring flasks, and the rinsings from these, are all brought
+together in the same beaker glass. Finally, the amount of solution
+No. 3 required to decompose the excess of oxalic acid is determined.
+If we subtract from the amount thus found the quantity of permanganate
+required to equalize solutions Nos. 1 and 2 (previously ascertained),
+we shall have the amount of permanganate actually reduced by the
+nitric oxide, according to the reaction:
+
+  6KMnO_{4} + 10NO = 3K_{2}O + 6MnO + 5N_{2}O_{5};
+
+in other words, on the basis that one molecule of potassium
+permanganate will oxidize one and two-thirds molecules of nitric
+oxide:
+
+  (KMnO_{4} = 1-2/3 NO).
+
+The method of using the apparatus is simple. The nitrate is placed in
+B, and the joints made tight, except that at _f_, which is left open.
+A current of carbon dioxide is passed through the apparatus until all
+of the air has been displaced. Connection is then made at _f_, and
+soon afterward the current of carbon dioxide is shut off at _d_.
+
+The flask, B, is now heated as long as may be necessary in order to
+produce, on cooling, the diminished pressure required for the
+introduction of the ferrous chloride and hydrochloric acid. Before
+removing the flame, the joint at _f_ is closed to prevent the return
+of the permanganate solution.
+
+As soon as the flask, B, has become sufficiently cool, the ferrous
+chloride and hydrochloric acid are introduced through the tube, _a_
+(which has been full of water from the first), in the same manner and
+quantities as in the well-known Tiemann-Schulze method.
+
+The pinch cock at _d_ is then opened, and the apparatus allowed to
+fill with carbon dioxide. When the pressure has become sufficient to
+force the gas through the solution of permanganate, the pinch cock at
+_f_ is removed. It should be opened only slightly and with great
+caution at first, unless one is certain that the pressure is
+sufficient. If the pressure is insufficient, the fact will be made
+apparent by a rise of the permanganate in the small internal tube.
+
+The flow of carbon dioxide is now reduced to a very slow current, or
+entirely cut off. The contents of B are slowly heated, until the
+decomposition of the nitrate is complete and the greater part of the
+nitric oxide has been expelled, when the apparatus is again closed at
+_f_ and _d_, and allowed to cool. The tube, _a_, is then washed out,
+by the introduction through it into B of a few cubic centimeters of
+strong hydrochloric acid.
+
+The process of filling the apparatus with carbon dioxide, and of
+heating the contents of B, is repeated. When it becomes apparent, from
+the light color of the liquid in B, that all of the nitric oxide has
+been expelled from it, the current of carbon dioxide is increased and
+the heating discontinued. Care must be taken, however, not to admit
+too strong a current of carbon dioxide, lest some of the nitric oxide
+should be forced unabsorbed through the permanganate solution. It is
+also necessary, for the same reason, to avoid too rapid heating during
+the decomposition of the nitrate.
+
+When all of the nitric oxide has been forced into the solution of
+permanganate, the determination is made in the manner already
+described.
+
+To test the method, nine determinations were made with quantities of
+pure nitrate of potassium varying from 100 to 200 milligrammes. The
+maximum difference between the volumes of permanganate actually used
+and those calculated was 0.05 c.c., while the main difference was
+0.036 c.c. The measurements of the permanganate were made from a
+burette which had been carefully calibrated. We also made a number of
+determinations, using a solution of manganous sulphate in the place of
+the oxalic acid. The advantage of this method lies in the fact that it
+is not necessary to dissolve the oxide which is precipitated upon the
+glass within the tubes, E, E, since, in the presence of an excess of
+permanganate, the reduction by nitric oxide extends only to the
+formation of MnO_{2}; also in the fact that the solution of manganous
+sulphate is more stable than that of oxalic acid. A solution of the
+sulphate having been once carefully standardized, can be used for a
+long time to determine the value of permanganate solutions.
+
+The details of the method are as follows: A solution of manganous
+sulphate slightly stronger than No. 1 is prepared.
+
+The difference between 100 c.c. of it and 100 c.c. of No. 1 is
+ascertained, according to the method of Volhard, by means of solution
+No. 3.
+
+The contents of E, E, together with the rinsings from the tubes, are
+poured into a capacious flask. 100 c.c. of the manganous sulphate and
+a few drops of nitric acid are then added, and the whole boiled.
+Finally, the excess of manganous sulphate is determined, in the manner
+described by Volhard, by means of solution No. 3. Subtracting from the
+total amount of permanganate thus used the quantity required to
+equalize the 100 c.c. of solution No. 1 and the 100 c.c. of the
+manganous sulphate, we shall have the quantity of permanganate reduced
+by the nitric oxide.
+
+It must, however, be remembered that the value of solution No. 3 is
+now to be calculated on the basis of the equation KMnO_{2} + NO =
+KNO_{3} + MnO_{2}. One molecule of permanganate equals one molecule of
+nitric oxide when manganous sulphate is used, since no part of the
+permanganate employed in this method is reduced below the superoxide
+condition. In other words, solution No. 3 now represents only
+three-fifths as much nitric acid as it does when oxalic acid is used.
+
+The results obtained by this method were moderately satisfactory, but
+not quite so exact as those obtained when oxalic acid was used. A
+series of four determinations gave differences, between the volumes of
+permanganate calculated and used, of 0.05 to 0.15 c.c.
+
+The principal objection to the method lies in the difficulty of
+determining, in the presence of the brown oxide of manganese, the
+exact point at which the oxidation is complete.
+
+The carbon dioxide generator, A, was devised by us to take the place
+of the ordinary generators, in which marble is used. We have found
+that a submersion of twenty hours in boiling water does not suffice to
+completely remove the air which, as is well known, is contained in
+ordinary marble; hence some other substance must be employed as a
+source of the gas. In the apparatus which we are about to describe,
+the acid carbonate of sodium is used.
+
+It consists of a long, narrow cylinder (450 x 60 mm.); a tightly
+fitting rubber stopper, through which three tubes pass, as shown in
+the figure; a small cylinder, F, containing mercury; and a sulphuric
+acid reservoir, G.
+
+The tube, _g_, is drawn out to a fine point at the end and curved, so
+that the acid which is delivered into A falls upon and runs down the
+outside of the tube. The tube, h, dips under the mercury in F. G and
+_g_ are connected by means of a long piece of rubber tubing which is
+supplied with a screw pinch cock.
+
+The apparatus is made to give any required pressure by raising or
+lowering G and F; but the elevation of G, as compared with that of F,
+should always be such that the gas will force its way through h rather
+than g. The upper part of the cylinder, F, is filled with cotton wool
+to prevent loss of mercury by spattering.
+
+The material placed in A consists of a saturated solution of acid
+carbonate of sodium, to which an excess of the solid salt has been
+added. The sulphuric acid is the ordinary dilute. The apparatus, if
+properly regulated, serves its purpose very well. The principal
+precaution to be observed in using it is to avoid a too sudden
+relieving of the pressure, which would, of course, result in the
+introduction of an unnecessarily large quantity of sulphuric acid into
+A.
+
+       *       *       *       *       *
+
+
+
+
+WATER OF CRYSTALLIZATION.
+
+By W.W.J. NICOL, M.A., D.Sc.
+
+
+When a hydrated salt is dissolved, does it retain its water of
+crystallization, or does this latter cease to be distinguishable from
+the solvent water? Both views have found advocates among chemists who
+have looked at the question of solution, and both have been supported
+by arguments more or less to the point. But among the possible means
+of solving this question there is one which has entirely escaped the
+notice of those interested in the subject. And those who hold that
+water of crystallization exists in solution have been entirely
+oblivious of the fact that, while they are ready to accept the results
+of the modern science of thermo-chemistry, and to employ them to
+support their views on hydration, yet these very results, if correct,
+prove without a shadow of a doubt that water of crystallization does
+not exist in solution.
+
+The proof is so clear and self-evident when once one's attention is
+directed to it, that, though I intend to develop it more fully on
+another occasion, I feel that it is better to publish an outline of it
+at once.
+
+Thomsen has found that the heat of neutralization of the soluble bases
+of the alkalies and alkaline earths with sulphuric acid has a mean
+value of 31.150 c. within very narrow limits. When hydrochloric or
+nitric acid is employed, the value is 27.640 c., also within very
+narrow limits. Now, this agreement of the six bases in their behavior
+with sulphuric acid, much more of the seven bases with both HNO_{3}
+and HCl, is so close that it cannot be regarded as accidental, but, in
+the words of Meyer, the heat of formation of a salt in aqueous
+solution is a quantity made up of two parts, one a constant for the
+base, the other for the acid. But of the twenty salts thus formed,
+some are anhydrous in the solid state, others have water of
+crystallization, up to ten molecules in the case of Na_{2}SO_{4}. If
+water of crystallization exists in solution, it will be necessary to
+suppose that this agreement is accidental, which is absurd, as a
+glance at the probabilities will show. Thomsen himself expressly
+states that he regards the dissolved state as one in which the
+conditions are comparable for all substances; this would be impossible
+if water of crystallization were present.
+
+A still stronger proof is afforded by the "_avidity_" of Thomsen or
+the "_affinity_" of Ostwald; both have worked on the subject, taking
+no account of water of crystallization, and the results, e.g., for
+H_{2}SO_{4} and HCl with NaHO, where water of crystallization _may_
+come in, are entirely confirmed by Ostwald's results on inversion and
+etherification, where there can be no water of crystallization.
+
+The proof is complete, water of crystallization cannot be attached to
+the salt in solution, or if it is, no heat is evolved on union more
+than with solvent water. The alternative is to suppose that the whole
+of the above thermo-chemical results are coincidences.
+
+       *       *       *       *       *
+
+
+
+
+ALPINE FLOWERS IN THE PYRENEES.
+
+
+Bagneres De Luchon, in the department of the Haute Garonne, is a gay
+town of some 5,000 inhabitants. A friend told me that he once suffered
+so much from the heat there in June, that he determined never to go to
+the Pyrenees again. We were there the second week in June, and we
+suffered more from rain and cold, and were very glad of a fire in the
+evening.
+
+Except to the south, in the direction of the Porte de Venasque, one of
+the chief mule passes into Spain during summer, where there are fine
+snow-capped mountains, the scenery from the town is not grand, but it
+is within easy reach of the wildest parts of the Pyrenees.
+
+It is the nearest town to the Maladetta, their highest point, in which
+the Garonne rises, and among whose rocks is one of the last
+strongholds of the ibex or bouquetin, the "wild goat" mentioned by
+Homer. Eagles and vultures are to be seen sailing about the sky near
+Luchon nearly every day, and bears, which in the Pyrenees are neither
+mythical nor formidable, descend to within a few miles of the town
+after wild strawberries, which abound there.
+
+We heard of two female peasants lately gathering wild strawberries who
+were suddenly confronted with competitors for the spoil in the shape
+of a she bear and two cubs. It was doubtful whether man or beast was
+the more surprised. The cubs began to growl, but their dam gave both
+of them a box on the ears for their bad manners, and led them away. As
+for flowers, the neighborhood of Luchon has the reputation, perhaps
+not undeserved, of being the most flowery part of the Pyrenees.
+
+We went the usual expeditions from the town, in spite of the weather,
+and I will try to remember what plants we noticed in each of them. The
+first trip was to the Vallee du Lys. In spite of the spelling, the
+name suggests lilies of the valley, but we are told that lys is an old
+word meaning water, and that the valley took its name from the number
+of cataracts, not from lilies, there.
+
+However this may be, a lily grows there in great profusion, and was
+just coming into flower toward the middle of June. It is the Lis de
+St. Bruno (Anthericum liliastrum), a plant worthy of giving its name
+to a valley of which it is a characteristic feature. Still more
+conspicuous at the time when we were there were the Narcissus
+poeticus, abundant all round Luchon, but already past in the low
+meadows near the town, but higher up, at an elevation of about 4,000
+ft., it was quite at its best, and whitened the ground over many
+acres.
+
+I looked about for varieties, but failed to detect any special
+character by which it could be referred to any of the varietal names
+given in catalogues, and concluded that it was N. poeticus pure and
+simple. Pulmonarias were abundant along the road, as also in the whole
+region of the Pyrenees, the character of the leaves varying greatly,
+some being spotless, some full of irregular white patches, others with
+well defined round spots. They varied, too, from broad heart-shaped to
+narrow lanceolate, and I soon concluded that it was hopeless to
+attempt any division of the class founded upon the leaves.
+
+Besides the beautiful flowers of Scabious mentioned before, a new
+feature in the meadows here was the abundance of Astrantia major. A
+pure white Hesperis matronalis was also common, but I saw no purple
+forms of it. Geranium phaeum also grew everywhere in the fields, the
+color of the flower varying a good deal. Hepaticas were not so common
+by the roadside here as at Eaux Bonnes, but are generally distributed.
+Many of them have their leaves beautifully marbled, and I selected and
+brought away a few of the best, in hopes that they may keep this
+character. I was struck everywhere by the one-crowned appearance of
+the Hepaticas, as if in their second year from seed.
+
+On the mountains, where they were still in flower, I did not find the
+colors mixed, but on one mountain they would be all white, on another
+all blue. I do not recollect to have seen any pink. Meconopsis
+cambrica is common in the Pyrenees. I observe that in Grenier's
+"French Flora" the color of the flower is given as "jaune orange," but
+I never saw it either in England or in France with orange flowers till
+I saw it covering a bank by the side of the road to the Vallee du Lys.
+I was too much struck by it to delay securing a plant or two, which
+was lucky, for when we returned every flower had been gathered by some
+rival admirers.
+
+Another expedition from Luchon is to the Lac d'Oo. This, too, is
+famous for flowers; but especially so is a high valley called Val
+d'Esquierry, 2,000 ft. or 3,000 ft. above the village d'Oo, at which
+the carriage road ends. Botanists call this the garden of the
+Pyrenees, and, of course, I was most anxious to see it.
+
+The landlord of our hotel was quite enthusiastic in his description of
+the treat in store for me, enumerating a long catalogue of colors, and
+indicating with his hand, palm downward, the height from the ground at
+which I was to expect to see each color. I was afterward told that he
+had never been to the famous valley, being by no means addicted to
+climbing mountains.
+
+During the first part of the drive from Luchon we saw hanging from the
+rocks by the roadside large masses of Saponaria ocymoides, varying
+much in the shade of color of the flowers. This is a plant which I
+find it better to grow from cuttings than from seed. The best shades
+of color are in this way preserved, and the plants are more flowery
+and less straggling. As we got near the end of the carriage road, the
+meadows became more crowded with flowers known in England only in
+gardens.
+
+Besides such plants as Geranium pyrenaicum growing everywhere on the
+banks, the fields were full of a light purple geranium--I think
+sylvaticum. Here, too, I noticed Meconopsis cambrica with orange
+flowers. Narcissus poeticus was also there, and so were some splendid
+thistles, large and rich in color. But the most remarkable part of the
+coloring in the meadows was produced by different shades of Viola
+cornuta carpeting the ground. We noticed this plant in many parts of
+the Pyrenees, but here especially.
+
+From the end of the road I started with a guide for the promised
+garden of the Val d'Esquierry. By the side of the steep and winding
+path I noticed Ramondia pyrenaica--the only place I saw it in the
+Luchon district. Other notable plants were a quantity of Anemone
+alpina of dwarf growth and very large flowers, covering a green knoll
+near a stream. A little beyond, Aster alpinus was in flower, of a
+bright color, which I can never get it to show in gardens. These, with
+the exception of a few saxifrages and daffodils of the variety
+muticus, were about the last flowers I saw there.
+
+[Illustration: GROUP OF ALPINE FLOWERS]
+
+Promise of flowers there was in abundance. Aconites, I suppose
+napellus, and also that form of A. lycoctonum with the large leaves
+known as pyrenaicum, were just enough grown to recognize. The large
+white Asphodel, called by French botanists A. albus, but better known
+in gardens as A. ramosus, which grows everywhere in the Pyrenees, and
+the coarse shoots of Gentiana lutea were just showing.
+
+Further on the daffodils were only just putting their noses through
+the yellow dead grass, which the snow had hardly left and was again
+beginning to whiten, for the rain, which had been coming down in
+torrents ever since I left the carriage and had wet me through, had
+now changed to snow. Still I went on, in spite of the bitter cold,
+hoping that I should come to some hyperborean region where the flowers
+would be all bright; but my guide at last undeceived me, and convinced
+me that we were far too early, so we went down again, wiser and
+sadder, and I advise my friends who wish to see the Val d'Esquierry in
+its beauty not to visit it before July at the earliest.
+
+I have still one mountain walk to describe, a far more successful one,
+but it must be deferred till another week.--_C. Wolley Dod, in the
+Garden._
+
+       *       *       *       *       *
+
+
+Turtle shells may be softened by hot water, and if compressed in this
+state by screws in iron or brass moulds, may be bent into any shape,
+the moulds being then plunged into cold water.
+
+       *       *       *       *       *
+
+
+
+
+A CENTURY PLANT IN BLOOM.
+
+
+A huge agave, or century plant, is now blooming at Auburn, N.Y. A few
+days ago the great plant became tinged with a delicate yellowish-white
+color, as its 4,000 buds began to develop into the full-blown flowers,
+whose penetrating fragrance, not unlike that of the pond lily, now
+attracts swarms of bees and other insects. The plant was purchased in
+1837 by the owner, and was then twelve years old. For half a century
+the agave has lain around his greenhouses in company with several
+others, and no special care has been taken of it, except to protect it
+somehow in winter, that it might be fresh for the next summer's
+growth. The plant has always been a hardy specimen, and required
+little care. Its whole life, now speedily approaching a termination in
+the fulfillment of the end of its existence--flowering--has been a
+sluggish course. Its growth has been steady and its development
+gradual. Occasionally it has thrust out a spiked leaf until, in size,
+it became greater than its fellow plants and took on the likeness of
+an enormous cabbage which had been arrested in its development and
+failed to attain perfection. Early last April its appearance began to
+undergo a decided change. Its resemblance to a cabbage lessened, and
+it began to look like a giant asparagus plant. On April 12, the great
+fleshy leaves, massed together so as to impress the imprint of their
+spines upon one another, began to unfold, and a thick, succulent bud
+burst up amid the leaves. Slowly the stalk developed from the bud and
+assumed gigantic proportions. Green scales appeared in regular
+arrangement about the stalk, marking the points from which lateral
+branches were to spring. The thick stalk, tender and brittle at first
+as new asparagus, became tough and hard enough to resist a knife, and
+its surface assumed the gritty character of the leaves of the plant.
+The low roof of the hothouse became an obstruction to further growth,
+and had to be removed. Lateral limbs were, at a later period, thrust
+out in great numbers, each of them bearing small branches, as do
+strawberry plants, on which hang sprays of buds in bunches of from
+three to ten, making in all many hundreds, all waiting for the
+completion and blooming of the topmost buds. The inflorescence of the
+century plant is peculiar, and the appearance of flowers on the lower
+branches may be simultaneous with, or consecutive to, the blossoming
+on the upper limbs. With the appearance of the lateral outshoots the
+great aloe lost its likeness to asparagus, and at present bears
+resemblance to an immense candelabra. The plant is now fully matured,
+and has a height of twenty-seven feet. There are thirty-three branches
+on the main stem, and, by actual count, one of the lateral limbs was
+found to bear 273 perfect buds, some of whose green sepals have
+spread, revealing the yellowish-white petals and essential parts of
+the plant. The ample panicles crowded with curious blossoms are, as,
+indeed, the Greek name of the plant--agave--signifies, wonderful.
+
+There is a pathetic view to be taken of the great plant's present
+condition. For years it has been preparing to flower, and the shoot it
+has sent up is the dying effort. The blossoms carry in them the life
+of new plants, and the old plant dies in giving them birth. It is
+commonly supposed that this plant, the _Agave Americana_, or American
+aloe, blooms only at the end of 100 years, hence the common name
+century plant.
+
+Only two plants are on record among the floriculturists as having
+bloomed in New York State. Thirty years ago, a century plant, of which
+the Casey aloe was a slip, flowered in the greenhouses of the Van
+Rensselaer family at Albany. In 1869, a second plant blossomed at
+Rochester. At present, two aloes, one at Albany, the other at
+Brooklyn, are reported as giving evidences of approaching maturity.
+They are pronounced not American aloes, or century plants, but _Agave
+Virginica_, a plant of the same family commonly found in sterile soil
+from Virginia to Illinois and south, and blossoming much more
+frequently. In Mexico the century plant is turned to practical account
+and made a profitable investment to its owners. After the scape has
+reached its full growth it is hewn down, and the sap, which fills the
+hollow at its base, is ladled out and converted by fermentation into
+"agave wine," or "pulque," the favorite drink of the Mexicans. This
+pulque, or octli, has an acid resembling that of cider, and a very
+disagreeable odor, but the taste is cooling and refreshing. A brandy
+distilled from pulque is called "aquardiente," or "mexical." The
+plant, by tapping, can be made to yield a quart of sap daily. The
+fibers of the leaves when dried furnish a coarse thread known as Pita
+flax, and when green are used in Mexico as fodder for cattle. Razor
+strops or hones are also made from the leaves, which contain an
+abundance of silica and give rise to a very sharp edge on a knife
+applied with friction across the surface of the dried leaf.
+
+       *       *       *       *       *
+
+
+
+
+CREOSOTE A SPECIFIC FOR ERYSIPELAS.
+
+
+Time was when the advocate of a specific was laughed at by the
+scientific world, but since it is known that so many forms of disease
+are the direct result of some kind of germ life, it is no longer a
+misnomer to call a medicine which will certainly and always destroy
+the germ which produces so many forms of disease a specific.
+
+In the light of this definition, founded upon the experience of forty
+years' successful practice in treating this form of disease with
+creosote, the writer is prepared to indorse the heading of this
+article. Having used all the different remedies ordinarily prescribed,
+they have long since been laid aside, and this one used in all forms
+of the disease exclusively, and with uniform success.
+
+In 1863 it was the writer's fortune to spend several weeks in a
+military hospital in Memphis as a volunteer surgeon, under the
+direction of Dr. Lord. In conversation with him, the use of this
+article was mentioned, which appeared new to him, and a case was put
+under treatment with it, with such prompt favorable results as to
+elicit his hearty commendation, and, at his suggestion,
+Surgeon-General Hammond was informed of it.
+
+All injuries, of whatever kind, have been treated with dressings of
+this remedy, and where this has been done from the first to last, in
+no instance has there been an attack of erysipelas.
+
+The usual manner of application was in solution of six to twenty drops
+to the ounce of water, keeping the parts covered with cloths
+constantly wet with it. In ulcers or wounds it may be used in the form
+of a poultice, by stirring ground elm into the solution, the strength
+to be regulated according to the virulence of the attack. Ordinarily,
+ten drops to the ounce is strong enough for the cutaneous form of the
+disease and in dressings for wounds or recent injuries. If the
+inflammation threatens to spread rapidly, it should be increased to
+twenty or more drops to the ounce of water.
+
+The antiseptic properties of this remedy render it of additional
+value, as it will certainly destroy the tendency to unhealthy
+suppuration, and thus prevent septicaemia.
+
+In the treatment of hundreds of cases of erysipelas but one fatal case
+has occurred, and that one in an old and depraved system. In the less
+violent attacks no other remedy was used, but where constitutional
+treatment was indicated, the usual appropriate tonics were prescribed.
+
+There is no question in my mind but that creosote is as much a
+specific in erysipelas as quinine is in intermittent fever, and may be
+used with as much confidence.--_St. Louis Med. Jour._
+
+       *       *       *       *       *
+
+
+
+
+A NEW APPARATUS FOR THE STUDY OF CARDIAC DRUGS.
+
+By WILLIAM GILMAN THOMPSON, M.D., New York.
+
+
+The apparatus was devised by Mr. R.D. Gray (the inventor of the
+ingenious "vest camera" and other photographic improvements) and by
+myself. I described what was required and suggested various
+modifications and improvements, but the mechanical details were worked
+out exclusively by him. To test the rapidity of the camera, we
+photographed a "horse-timer" clock, with a dial marking quarter
+seconds, and succeeded in taking five distinct photographs in half a
+second with _one_ lens, which has never before been accomplished
+excepting by Professor Marey,[1] at the College de France, who has
+taken successive views of flying birds, falling balls, etc., with one
+lens at a very rapid rate. His camera was unknown to me until after
+mine was constructed, so that as a success in photography alone the

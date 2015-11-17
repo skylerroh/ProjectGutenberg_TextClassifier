@@ -1,0 +1,441 @@
+the phenomena of the transport of ions, the fine experiments of M.
+Bouty, those of Professor Kohlrausch and of Professor Ostwald on
+various points in electrolytic conduction, all support the theory. The
+verifications of it can even be quantitative, and we can foresee
+numerical relations between conductivity and other phenomena. The
+measurement of the conductivity permits the number of molecules
+dissociated in a given solution to be calculated, and the number is
+thus found to be precisely the same as that arrived at if it is wished
+to remove the disagreement between reality and the anticipations which
+result from the theory of Professor Van t' Hoff. The laws of
+cryoscopy, of tonometry, and of osmosis thus again become strict, and
+no exception to them remains.
+
+If the dissociation of salts is a reality and is complete in a dilute
+solution, any of the properties of a saline solution whatever should
+be represented numerically as the sum of three values, of which one
+concerns the positive ion, a second the negative ion, and the third
+the solvent. The properties of the solutions would then be what are
+called additive properties. Numerous verifications may be attempted by
+very different roads. They generally succeed very well; and whether we
+measure the electric conductivity, the density, the specific heats,
+the index of refraction, the power of rotatory polarization, the
+colour, or the absorption spectrum, the additive property will
+everywhere be found in the solution.
+
+The hypothesis, so contested at the outset by the chemists, is,
+moreover, assuring its triumph by important conquests in the domain of
+chemistry itself. It permits us to give a vivid explanation of
+chemical reaction, and for the old motto of the chemists, "Corpora non
+agunt, nisi soluta," it substitutes a modern one, "It is especially
+the ions which react." Thus, for example, all salts of iron, which
+contain iron in the state of ions, give similar reactions; but salts
+such as ferrocyanide of potassium, in which iron does not play the
+part of an ion, never give the characteristic reactions of iron.
+
+Professor Ostwald and his pupils have drawn from the hypothesis of
+Arrhenius manifold consequences which have been the cause of
+considerable progress in physical chemistry. Professor Ostwald has
+shown, in particular, how this hypothesis permits the quantitative
+calculation of the conditions of equilibrium of electrolytes and
+solutions, and especially of the phenomena of neutralization. If a
+dissolved salt is partly dissociated into ions, this solution must be
+limited by an equilibrium between the non-dissociated molecule and the
+two ions resulting from the dissociation; and, assimilating the
+phenomenon to the case of gases, we may take for its study the laws of
+Gibbs and of Guldberg and Waage. The results are generally very
+satisfactory, and new researches daily furnish new checks.
+
+Professor Nernst, who before gave, as has been said, a remarkable
+interpretation of the diffusion of electrolytes, has, in the direction
+pointed out by M. Arrhenius, developed a theory of the entire
+phenomena of electrolysis, which, in particular, furnishes a striking
+explanation of the mechanism of the production of electromotive force
+in galvanic batteries.
+
+Extending the analogy, already so happily invoked, between the
+phenomena met with in solutions and those produced in gases, Professor
+Nernst supposes that metals tend, as it were, to vaporize when in
+presence of a liquid. A piece of zinc introduced, for example, into
+pure water gives birth to a few metallic ions. These ions become
+positively charged, while the metal naturally takes an equal charge,
+but of contrary sign. Thus the solution and the metal are both
+electrified; but this sort of vaporization is hindered by
+electrostatic attraction, and as the charges borne by the ions are
+considerable, an equilibrium will be established, although the number
+of ions which enter the solution will be very small.
+
+If the liquid, instead of being a solvent like pure water, contains an
+electrolyte, it already contains metallic ions, the osmotic pressure
+of which will be opposite to that of the solution. Three cases may
+then present themselves--either there will be equilibrium, or the
+electrostatic attraction will oppose itself to the pressure of
+solution and the metal will be negatively charged, or, finally, the
+attraction will act in the same direction as the pressure, and the
+metal will become positively and the solution negatively charged.
+Developing this idea, Professor Nernst calculates, by means of the
+action of the osmotic pressures, the variations of energy brought into
+play and the value of the differences of potential by the contact of
+the electrodes and electrolytes. He deduces this from the
+electromotive force of a single battery cell which becomes thus
+connected with the values of the osmotic pressures, or, if you will,
+thanks to the relation discovered by Van t' Hoff, with the
+concentrations. Some particularly interesting electrical phenomena
+thus become connected with an already very important group, and a new
+bridge is built which unites two regions long considered foreign to
+each other.
+
+The recent discoveries on the phenomena produced in gases when
+rendered conductors of electricity almost force upon us, as we shall
+see, the idea that there exist in these gases electrified centres
+moving through the field, and this idea gives still greater
+probability to the analogous theory explaining the mechanism of the
+conductivity of liquids. It will also be useful, in order to avoid
+confusion, to restate with precision this notion of electrolytic ions,
+and to ascertain their magnitude, charge, and velocity.
+
+The two classic laws of Faraday will supply us with important
+information. The first indicates that the quantity of electricity
+passing through the liquid is proportional to the quantity of matter
+deposited on the electrodes. This leads us at once to the
+consideration that, in any given solution, all the ions possess
+individual charges equal in absolute value.
+
+The second law may be stated in these terms: an atom-gramme of metal
+carries with it into electrolysis a quantity of electricity
+proportionate to its valency.[19]
+
+[Footnote 19: The valency or atomicity of an element may be defined as
+the power it possesses of entering into compounds in a certain fixed
+proportion. As hydrogen is generally taken as the standard, in
+practice the valency of an atom is the number of hydrogen atoms it
+will combine with or replace. Thus chlorine and the rest of the
+halogens, the atoms of which combine with one atom of hydrogen, are
+called univalent, oxygen a bivalent element, and so on.--ED.]
+
+Numerous experiments have made known the total mass of hydrogen
+capable of carrying one coulomb, and it will therefore be possible to
+estimate the charge of an ion of hydrogen if the number of atoms of
+hydrogen in a given mass be known. This last figure is already
+furnished by considerations derived from the kinetic theory, and
+agrees with the one which can be deduced from the study of various
+phenomena. The result is that an ion of hydrogen having a mass of 1.3
+x 10^{-20} grammes bears a charge of 1.3 X 10^{-20} electromagnetic
+units; and the second law will immediately enable the charge of any
+other ion to be similarly estimated.
+
+The measurements of conductivity, joined to certain considerations
+relating to the differences of concentration which appear round the
+electrode in electrolysis, allow the speed of the ions to be
+calculated. Thus, in a liquid containing 1/10th of a hydrogen-ion per
+litre, the absolute speed of an ion would be 3/10ths of a millimetre
+per second in a field where the fall of potential would be 1 volt per
+centimetre. Sir Oliver Lodge, who has made direct experiments to
+measure this speed, has obtained a figure very approximate to this.
+This value is very small compared to that which we shall meet with in
+gases.
+
+Another consequence of the laws of Faraday, to which, as early as 1881,
+Helmholtz drew attention, may be considered as the starting-point of
+certain new doctrines we shall come across later.
+
+Helmholtz says: "If we accept the hypothesis that simple bodies are
+composed of atoms, we are obliged to admit that, in the same way,
+electricity, whether positive or negative, is composed of elementary
+parts which behave like atoms of electricity."
+
+The second law seems, in fact, analogous to the law of multiple
+proportions in chemistry, and it shows us that the quantities of
+electricity carried vary from the simple to the double or treble,
+according as it is a question of a uni-, bi-, or trivalent metal; and
+as the chemical law leads up to the conception of the material atom,
+so does the electrolytic law suggest the idea of an electric atom.
+
+
+
+
+CHAPTER VI
+
+THE ETHER
+
+
+Sec. 1. THE LUMINIFEROUS ETHER
+
+It is in the works of Descartes that we find the first idea of
+attributing those physical phenomena which the properties of matter
+fail to explain to some subtle matter which is the receptacle of the
+energy of the universe.
+
+In our times this idea has had extraordinary luck. After having been
+eclipsed for two hundred years by the success of the immortal
+synthesis of Newton, it gained an entirely new splendour with Fresnel
+and his followers. Thanks to their admirable discoveries, the first
+stage seemed accomplished, the laws of optics were represented by a
+single hypothesis, marvellously fitted to allow us to anticipate
+unknown phenomena, and all these anticipations were subsequently fully
+verified by experiment. But the researches of Faraday, Maxwell, and
+Hertz authorized still greater ambitions; and it really seemed that
+this medium, to which it was agreed to give the ancient name of ether,
+and which had already explained light and radiant heat, would also be
+sufficient to explain electricity. Thus the hope began to take form
+that we might succeed in demonstrating the unity of all physical
+forces. It was thought that the knowledge of the laws relating to the
+inmost movements of this ether might give us the key to all phenomena,
+and might make us acquainted with the method in which energy is stored
+up, transmitted, and parcelled out in its external manifestations.
+
+We cannot study here all the problems which are connected with the
+physics of the ether. To do this a complete treatise on optics would
+have to be written and a very lengthy one on electricity. I shall
+simply endeavour to show rapidly how in the last few years the ideas
+relative to the constitution of this ether have evolved, and we shall
+see if it be possible without self-delusion to imagine that a single
+medium can really allow us to group all the known facts in one
+comprehensive arrangement.
+
+As constructed by Fresnel, the hypothesis of the luminous ether, which
+had so great a struggle at the outset to overcome the stubborn
+resistance of the partisans of the then classic theory of emission,
+seemed, on the contrary, to possess in the sequel an unshakable
+strength. Lame, though a prudent mathematician, wrote: "_The
+existence_ of the ethereal fluid is _incontestably demonstrated_ by
+the propagation of light through the planetary spaces, and by the
+explanation, so simple and so complete, of the phenomena of
+diffraction in the wave theory of light"; and he adds: "The laws of
+double refraction prove with no less certainty that the _ether exists_
+in all diaphanous media." Thus the ether was no longer an hypothesis,
+but in some sort a tangible reality. But the ethereal fluid of which
+the existence was thus proclaimed has some singular properties.
+
+Were it only a question of explaining rectilinear propagation,
+reflexion, refraction, diffraction, and interferences notwithstanding
+grave difficulties at the outset and the objections formulated by
+Laplace and Poisson (some of which, though treated somewhat lightly at
+the present day, have not lost all value), we should be under no
+obligation to make any hypothesis other than that of the undulations
+of an elastic medium, without deciding in advance anything as to the
+nature and direction of the vibrations.
+
+This medium would, naturally--since it exists in what we call the
+void--be considered as imponderable. It may be compared to a fluid of
+negligible mass--since it offers no appreciable resistance to the
+motion of the planets--but is endowed with an enormous elasticity,
+because the velocity of the propagation of light is considerable. It
+must be capable of penetrating into all transparent bodies, and of
+retaining there, so to speak, a constant elasticity, but must there
+become condensed, since the speed of propagation in these bodies is
+less than in a vacuum. Such properties belong to no material gas, even
+the most rarefied, but they admit of no essential contradiction, and
+that is the important point.[20]
+
+[Footnote 20: Since this was written, however, men of science have
+become less unanimous than they formerly were on this point. The
+veteran chemist Professor Mendeleeff has given reasons for thinking
+that the ether is an inert gas with an atomic weight a million times
+less than that of hydrogen, and a velocity of 2250 kilometres per
+second (_Principles of Chemistry_, Eng. ed., 1905, vol. ii. p. 526).
+On the other hand, the well-known physicist Dr A.H. Bucherer, speaking
+at the Naturforscherversammlung, held at Stuttgart in 1906, declared
+his disbelief in the existence of the ether, which he thought could
+not be reconciled at once with the Maxwellian theory and the known
+facts.--ED.]
+
+It was the study of the phenomena of polarization which led Fresnel to
+his bold conception of transverse vibrations, and subsequently induced
+him to penetrate further into the constitution of the ether. We know
+the experiment of Arago on the noninterference of polarized rays in
+rectangular planes. While two systems of waves, proceeding from the
+same source of natural light and propagating themselves in nearly
+parallel directions, increase or become destroyed according to whether
+the nature of the superposed waves are of the same or of contrary
+signs, the waves of the rays polarized in perpendicular planes, on the
+other hand, can never interfere with each other. Whatever the
+difference of their course, the intensity of the light is always the
+sum of the intensity of the two rays.
+
+Fresnel perceived that this experiment absolutely compels us to reject
+the hypothesis of longitudinal vibrations acting along the line of
+propagation in the direction of the rays. To explain it, it must of
+necessity be admitted, on the contrary, that the vibrations are
+transverse and perpendicular to the ray. Verdet could say, in all
+truth, "It is not possible to deny the transverse direction of
+luminous vibrations, without at the same time denying that light
+consists of an undulatory movement."
+
+Such vibrations do not and cannot exist in any medium resembling a
+fluid. The characteristic of a fluid is that its different parts can
+displace themselves with regard to one another without any reaction
+appearing so long as a variation of volume is not produced. There
+certainly may exist, as we have seen, certain traces of rigidity in a
+liquid, but we cannot conceive such a thing in a body infinitely more
+subtle than rarefied gas. Among material bodies, a solid alone really
+possesses the rigidity sufficient for the production within it of
+transverse vibrations and for their maintenance during their
+propagation.
+
+Since we have to attribute such a property to the ether, we may add
+that on this point it resembles a solid, and Lord Kelvin has shown
+that this solid, would be much more rigid than steel. This conclusion
+produces great surprise in all who hear it for the first time, and it
+is not rare to hear it appealed to as an argument against the actual
+existence of the ether. It does not seem, however, that such an
+argument can be decisive. There is no reason for supposing that the
+ether ought to be a sort of extension of the bodies we are accustomed
+to handle. Its properties may astonish our ordinary way of thinking,
+but this rather unscientific astonishment is not a reason for doubting
+its existence. Real difficulties would appear only if we were led to
+attribute to the ether, not singular properties which are seldom found
+united in the same substance, but properties logically contradictory.
+In short, however odd such a medium may appear to us, it cannot be
+said that there is any absolute incompatibility between its
+attributes.
+
+It would even be possible, if we wished, to suggest images capable of
+representing these contrary appearances. Various authors have done so.
+Thus, M. Boussinesq assumes that the ether behaves like a very
+rarefied gas in respect of the celestial bodies, because these last
+move, while bathed in it, in all directions and relatively slowly,
+while they permit it to retain, so to speak, its perfect homogeneity.
+On the other hand, its own undulations are so rapid that so far as
+they are concerned the conditions become very different, and its
+fluidity has, one might say, no longer the time to come in. Hence its
+rigidity alone appears.
+
+Another consequence, very important in principle, of the fact that
+vibrations of light are transverse, has been well put in evidence by
+Fresnel. He showed how we have, in order to understand the action
+which excites without condensation the sliding of successive layers of
+the ether during the propagation of a vibration, to consider the
+vibrating medium as being composed of molecules separated by finite
+distances. Certain authors, it is true, have proposed theories in
+which the action at a distance of these molecules are replaced by
+actions of contact between parallelepipeds sliding over one another;
+but, at bottom, these two points of view both lead us to conceive the
+ether as a discontinuous medium, like matter itself. The ideas
+gathered from the most recent experiments also bring us to the same
+conclusion.
+
+
+Sec. 2. RADIATIONS
+
+In the ether thus constituted there are therefore propagated
+transverse vibrations, regarding which all experiments in optics
+furnish very precise information. The amplitude of these vibrations is
+exceedingly small, even in relation to the wave-length, small as these
+last are. If, in fact, the amplitude of the vibrations acquired a
+noticeable value in comparison with the wave-length, the speed of
+propagation should increase with the amplitude. Yet, in spite of some
+curious experiments which seem to establish that the speed of light
+does alter a little with its intensity, we have reason to believe
+that, as regards light, the amplitude of the oscillations in relation
+to the wave-length is incomparably less than in the case of sound.
+
+It has become the custom to characterise each vibration by the path
+which the vibratory movement traverses during the space of a
+vibration--by the length of wave, in a word--rather than by the
+duration of the vibration itself. To measure wave-lengths, the methods
+must be employed to which I have already alluded on the subject of
+measurements of length. Professor Michelson, on the one hand, and MM.
+Perot and Fabry, on the other, have devised exceedingly ingenious
+processes, which have led to results of really unhoped-for precision.
+The very exact knowledge also of the speed of the propagation of light
+allows the duration of a vibration to be calculated when once the
+wave-length is known. It is thus found that, in the case of visible
+light, the number of the vibrations from the end of the violet to the
+infra-red varies from four hundred to two hundred billions per second.
+This gamut is not, however, the only one the ether can give. For a
+long time we have known ultra-violet radiations still more rapid, and,
+on the other hand, infra-red ones more slow, while in the last few
+years the field of known radiations has been singularly extended in
+both directions.
+
+It is to M. Rubens and his fellow-workers that are due the most
+brilliant conquests in the matter of great wave-lengths. He had
+remarked that, in their study, the difficulty of research proceeds
+from the fact that the extreme waves of the infra-red spectrum only
+contain a small part of the total energy emitted by an incandescent
+body; so that if, for the purpose of study, they are further dispersed
+by a prism or a grating, the intensity at any one point becomes so
+slight as to be no longer observable. His original idea was to obtain,
+without prism or grating, a homogeneous pencil of great wave-length
+sufficiently intense to be examined. For this purpose the radiant
+source used was a strip of platinum covered with fluorine or powdered
+quartz, which emits numerous radiations close to two bands of linear
+absorption in the absorption spectra of fluorine and quartz, one of
+which is situated in the infra-red. The radiations thus emitted are
+several times reflected on fluorine or on quartz, as the case may be;
+and as, in proximity to the bands, the absorption is of the order of
+that of metallic bodies for luminous rays, we no longer meet in the
+pencil several times reflected or in the rays _remaining_ after this
+kind of filtration, with any but radiations of great wave-length.
+Thus, for instance, in the case of the quartz, in the neighbourhood of
+a radiation corresponding to a wave-length of 8.5 microns, the
+absorption is thirty times greater in the region of the band than in
+the neighbouring region, and consequently, after three reflexions,
+while the corresponding radiations will not have been weakened, the
+neighbouring waves will be so, on the contrary, in the proportion of 1
+to 27,000.
+
+With mirrors of rock salt and of sylvine[21] there have been obtained,
+by taking an incandescent gas light (Auer) as source, radiations
+extending as far as 70 microns; and these last are the greatest
+wave-lengths observed in optical phenomena. These radiations are
+largely absorbed by the vapour of water, and it is no doubt owing to
+this absorption that they are not found in the solar spectrum. On the
+other hand, they easily pass through gutta-percha, india-rubber, and
+insulating substances in general.
+
+[Footnote 21: A natural chlorate of potassium, generally of volcanic
+origin.--ED.]
+
+At the opposite end of the spectrum the knowledge of the ultra-violet
+regions has been greatly extended by the researches of Lenard. These
+extremely rapid radiations have been shown by that eminent physicist
+to occur in the light of the electric sparks which flash between two
+metal points, and which are produced by a large induction coil with
+condenser and a Wehnelt break. Professor Schumann has succeeded in
+photographing them by depositing bromide of silver directly on glass
+plates without fixing it with gelatine; and he has, by the same
+process, photographed in the spectrum of hydrogen a ray with a
+wave-length of only 0.1 micron.
+
+The spectroscope was formed entirely of fluor-spar, and a vacuum had
+been created in it, for these radiations are extremely absorbable by
+the air.
+
+Notwithstanding the extreme smallness of the luminous wave-lengths, it
+has been possible, after numerous fruitless trials, to obtain
+stationary waves analogous to those which, in the case of sound, are
+produced in organ pipes. The marvellous application M. Lippmann has
+made of these waves to completely solve the problem of photography in
+colours is well known. This discovery, so important in itself and so
+instructive, since it shows us how the most delicate anticipations of
+theory may be verified in all their consequences, and lead the
+physicist to the solution of the problems occurring in practice, has
+justly become popular, and there is, therefore, no need to describe it
+here in detail.
+
+Professor Wiener obtained stationary waves some little while before M.
+Lippmann's discovery, in a layer of a sensitive substance having a
+grain sufficiently small in relation to the length of wave. His aim
+was to solve a question of great importance to a complete knowledge of
+the ether. Fresnel founded his theory of double refraction and
+reflexion by transparent surfaces, on the hypothesis that the
+vibration of a ray of polarized light is perpendicular to the plane of
+polarization. But Neumann has proposed, on the contrary, a theory in
+which he recognizes that the luminous vibration is in this very plane.
+He rather supposes, in opposition to Fresnel's idea, that the density
+of the ether remains the same in all media, while its coefficient of
+elasticity is variable.
+
+Very remarkable experiments on dispersion by M. Carvallo prove indeed
+that the idea of Fresnel was, if not necessary for us to adopt, at
+least the more probable of the two; but apart from this indication,
+and contrary to the hypothesis of Neumann, the two theories, from the
+point of view of the explanation of all known facts, really appear to
+be equivalent. Are we then in presence of two mechanical explanations,
+different indeed, but nevertheless both adaptable to all the facts,
+and between which it will always be impossible to make a choice? Or,
+on the contrary, shall we succeed in realising an _experimentum
+crucis_, an experiment at the point where the two theories cross,
+which will definitely settle the question?

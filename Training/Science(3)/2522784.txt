@@ -1,0 +1,351 @@
+
+Fig.  89.
+
+Fig.  89 represents a standard resistance for making Clerk cell
+comparisons by the silver voltameter method.  The framework on which
+the coils are wound consists of a base and top of slate.  The pillars
+are of flint glass tube surrounding brass bolts, and cemented to the
+latter by raw shellac.  Grooves are cut in the glass sleeves to hold
+the wires well apart.  These grooves were cut by means of a file
+working with kerosene lubrication.  A screw stirrer is provided, and
+the whole apparatus is immersed in kerosene in the glass box of a
+storage cell.  The apparatus is aged to begin with by heating to a
+temperature a good deal higher than any temperature it is expected to
+reach in actual work.  After this the rigidity of the frame is
+intended to prevent any further straining of the wire.  The apparatus
+as figured is not intended to be cooled to 0 deg. C, so that it is put in
+as large a box as possible to gain the advantage of having a large
+volume of liquid.  The top and bottom slates measure seven inches by
+seven inches, and the distance between them is seven inches.  The
+inner coil is wound on first, and the loop which constitutes the end
+of the winding is brought up to a suitable position for adjustment.
+The insulation of the heavy copper connectors is by means of ebonite.
+
+Sec. 120.  Platinum Iridium.
+
+Platinum 90 per cent, iridium 10 per cent.  This material was prepared
+in some quantity at the cost of the French Government, and distributed
+for test about 1886.  Klemencic got some of it as representing
+Austria, and found it behaved very like the platinum silver alloy just
+discussed.  The temperature coefficient is, however, higher than for
+platinum silver (0.00126 as against 0.00027).  The mechanical
+properties of the alloy are, however, much better than those of the
+silver alloy; and in view of the experience with B.  A.  standards
+above quoted, it remains an open question whether, on the whole, it
+would not be the better material for standards, in spite of its
+higher price.  Improvements in absolute measurements of resistance,
+however, may render primary standards superfluous.
+
+Sec. 121.  Manganin.
+
+Discovered by Weston--at all events as to its application to
+resistance coils.  A glance at the diagram will exhibit its unique
+properties, on account of which it has been adopted by the
+Physikalisch Technischen Reichsanstalt for resistance standards.  The
+composition of the alloy is copper 84 per cent, manganese 12 per cent,
+nickel 4 per cent, and it is described as of a steel-gray colour.
+Unfortunately it is apt to oxidise in the air, or rather the manganese
+it contains does so, so that it wants a very perfect protection
+against the atmosphere.
+
+Like German silver, manganin changes in resistance on winding, and
+coils made of it require to be artificially aged by heating to 150 deg.
+for five hours before final adjustment.  The annealing cannot be
+carried out in air, owing to the tendency to oxidation.  The method
+adopted by St.  Lindeck (at all events up to 1892) is to treat the
+coil with thick alcoholic shellac varnish till the insulation is
+thoroughly saturated, and then to bake the coil as described.  The
+baking not only anneals the wire, but reduces the shellac to a hard
+and highly insulating mass.
+
+Whether stresses of sufficient magnitude to produce serious mechanical
+effects can be set up by unequal expansion of wire and shellac during
+heating and cooling is not yet known, but so far as tested (and it
+must be presumed that the Reichsanstalt tests are thorough) no
+difficulty seems to have been met with.  In course of time, however,
+probably the best shellac coating will crack, and then adieu to the
+permanency of the coil!  This might, of course, be obviated by keeping
+the coil in kerosene, which has no action on shellac, but which
+decomposes somewhat itself.
+
+The method of treatment above described suffices to render coils of
+manganin constant for at least a year (in 1892 the tests had only been
+made for this time) within a few thousands per cent.  Manganin can be
+obtained in sheets, and from this material standards of 10-2, 10-3,
+and 10-4 ohms are made by soldering strips between stout copper bars,
+and these are adjusted by gradually increasing their resistance by
+boring small holes through them. The solder employed is said to be
+"silver."
+
+Mr. Griffiths (Phil.  Trans.  vol.  clxxxiv.  [1893], A, p.  390) has
+had some experience with manganin carrying comparatively heavy
+currents, under which circumstances its resistance when immersed in
+water was found to rise in spite of the varnish which coated it.
+Other experiments in which the manganin wire was immersed in paraffin
+oil did not exhibit this effect, though stronger currents were passed.
+
+On the whole, manganin appears to be the best material for coil boxes
+and "secondary" resistance standards.  Whether it is fit to rank with
+the platinum alloys as regards permanency must be treated as an open
+question.
+
+Sec. 122.  Other Alloys.
+
+The following tables, taken from the work of Feussner and St.
+Lindeck, Zeitschrift fuer Instrumenten Kunde, 1889, vol.  ix.  p.
+233, together with the following notes, will suffice.
+
+Sec. 123.  Nickelin.
+
+This is only German silver with a little less zinc, a little more
+nickel, and traces of cobalt and manganese.  It behaves like German
+silver, but is an improvement on the latter in that all the faults of
+German silver appear upon a reduced scale in nickelin.
+
+Sec. 124.  Patent Nickel.
+
+Practically a copper nickel alloy, used to some extent by Siemens
+and Halske.  It stands pretty well in the same relation to nickelin as
+the latter does to German silver.  After annealing as for manganin it
+can be made into serviceable standards which do not change more than a
+few thousandths per cent.  I have not come across a statement of its
+thermo-voltage against copper.
+
+Sec. 125.  Constantin.
+
+Another nickel copper alloy containing 50 per cent of each
+constituent.  It appears to be a serviceable substance, having a
+temperature coefficient of 0.003 per cent per degree only, but an
+exceedingly high thermo-voltage, viz.  40 micro-volts per degree
+against copper.
+
+         1        2     3       4        5         6     7       8
+       German  Nickelin made    Rheo-    Patent Nickel   Manga-  Nickel
+       Silver  by Obermaier     tane                     nese    Manga-
+               Dia-     Dia-             Dia-   Dia-     Copper  nese
+               meter    meter            meter  meter            Copper
+               1.0mm    0.1mm            0.6mm  1.0mm
+
+
+Copper 60.16    61.63    54.57  53.28     74.41  74.71    70      73
+
+Zinc   25.37    19.67    20.44  16.89     0.23   0.52     ...     ...
+
+Tin    ...      ...      ...    ...       trace  ...      ...
+
+Nickel 14.03    18.46    24.48  25.31     25.10  24.14    ...     3
+
+Iron   0.30     0.24     0.64   4.46      0.42   0.70     ...     ...
+
+Cobalt trace    0.19     ...    ...       trace  trace    ...     ...
+
+Mang-  trace    0.18    0.27    0.37      0.13   0.17     30      24
+anese.
+
+     99.86     100.37  100.40  100.31    100.24 100.24  ...      ...
+
+Specific
+resistance
+     30.0     33.2     44.8    52.5      34.2    32.8    100.6   47.7
+
+Temperature
+coefficient
+     0.00036 0.00030 0.00033 0.00041 0.00019  0.00021  0.00004  0.00003
+
+The specific resistance is in microhms, i.e. 10-6 ohms per cubic
+centimetre, and the temperature coefficient in degrees centigrade.
+
+
+126.  Nickel Manganese Copper.
+
+I can find no other reference with regard to this alloy mentioned by
+Lindeck.  Nicholls, however (Silliman's Journal [3], 39, 171, 1890),
+gives some particulars of alloys of copper and ferromanganese.  The
+following table is taken from Wiedemann's Beiblatter (abstract of
+Nicholl's paper, 1890, p.  811).  All these alloys appear to require
+annealing at a red heat before their resistances are anything like
+constant.
+
+Let x be percentage of copper, then 100--x is percentage of
+"ferromanganese."
+
+Values of x.  100   99.26  91 .88  86.98  80.4  70.65
+
+Specific
+resistance
+with respect
+to copper
+(?  pure)       1  1.19    11.28   20.4   27.5  45.1
+
+Temperature
+coefficient
+per degree
+x 10^6(hard) 3202  2167    138     16      22   -24
+
+Ditto (soft) ...   ...     184     80      66    21
+
+If nickel is added, alloys of much the same character are obtained,
+some with negative temperature coefficients--for instance, one
+containing 52.51 per cent copper, 31.27 per cent ferromanganese, and
+16.22 nickel.
+
+A detailed account of several alloys will be found in a paper by
+Griffiths (Phil.  Trans.  1894, p.  390), but as the constants were
+determined to a higher order of accuracy than the composition of the
+material--or, at all events, to a higher degree  of accuracy than
+that to which the materials can be reproduced--there is no advantage
+in quoting them here.
+
+CHAPTER IV
+
+ELECTROPLATING AND ALLIED ARTS
+
+Sec. 127.  Electroplating.
+
+This is an art which is usually deemed worthy of a treatise to itself,
+but for ordinary laboratory purposes it is a very simple matter--so
+simple, indeed, that the multiplicity of receipts as given in
+treatises are rather a source of embarrassment than otherwise.
+
+The fundamental principles of the art are:-
+
+(1) Dirty work cannot be electroplated.
+
+(2) Electroplated surfaces may be rougher, but will not be smoother
+than the original unplated surface.
+
+(3) The art of electroplating being in advance of the science, it is
+necessary to be careful as to carrying out instructions in detail.
+This particularly applies to the conditions which determine whether a
+metallic deposit shall come down in a reguline or in a crystalline
+manner.
+
+Sec. 128.  The Dipping Bath.
+
+An acid dipping bath is one of the most useful adjuncts to the
+laboratory, not only for cleansing metals for electroplating, but for
+cleaning up apparatus made out of bits of brass tube and sheet, and
+particularly for quickly cleaning binding screws, etc, where it is
+necessary to ensure good electrical contact.
+
+The cheapest and most satisfactory way in the end is to make up two or
+three rather large baths to begin with.  The glass boxes of storage
+batteries do very nicely for the purpose, and being generally ground
+pretty flat at the top, they may be covered by sheets of patent plate
+glass, and thus preserved from the action of the air.
+
+First Bath. A 30 or 40 per cent solution of commercial caustic soda.
+Objects may be cleansed from grease in this bath by heating them as
+hot as is consistent with individual circumstances, and plunging them
+into it.
+
+It is a considerable advantage to begin by removing grease from
+articles subsequently to be dipped in an acid bath, both because it
+saves time and acid, and because more uniform results are obtainable
+when this is done than when it is omitted.  It is a great advantage to
+have the caustic soda solution hot.  This is always done in factories
+where nickel-plating is carried on, but it is inconvenient in the
+laboratory.  The articles after dipping in the alkali are swilled with
+water, and may even be scrubbed with a brush, so as to remove greasy
+matters that have been softened but not entirely removed.
+
+Acid Bath. A convenient bath for laboratory purposes is made by
+mixing two volumes of strong commercial nitric acid with one of strong
+sulphuric acid in a cell measuring, say, 12 X 10 X 15 inches.
+
+Copper or brass articles are dipped in this bath for a few seconds,
+then rinsed with water, then dipped again for a second or two, or
+until they appear equally white all over, and then withdrawn as
+rapidly as possible and plunged into a large quantity of clean water.
+Care must be taken to transfer the articles from the bath to the water
+as quickly as possible, for if time be allowed for gas to be evolved,
+the surfaces become mat instead of bright.
+
+In order to save acid it is advisable to make up a third bath, using
+those odds and ends of acids which gradually accumulate in the
+laboratory.  Sulphuric acid from the balance cases, for instance,
+mixed with its own volume of commercial nitric acid, does very well.
+
+The objects to be dipped receive a preliminary cleansing by a dip in
+this bath, the strong bath being reserved for the final dip.  Sheet
+brass and drawn tube, as it comes from the makers, possesses a really
+fine surface, though this is generally obscured by grease and oxide.
+Work executed in these materials, cleaned in alkali, and dipped in
+really strong acid, will be found to present a much better appearance
+than work which has been filed, unless the latter be afterwards
+elaborately polished.
+
+On no account must paraffin be allowed to get into any of the baths.
+When the final bath gets weak it must be relegated to a subordinate
+position and a new bath set up.  A weak acid bath leaves an ugly
+mottled surface on brass work.
+
+Sec. 129.  A metallic surface which it is intended to electroplate must,
+as has been mentioned, be scrupulously clean.  If the metal is not too
+valuable or delicate, cleaning by dipping is easy and effectual.  The
+following notes will be found to apply to special cases which often
+occur.
+
+(1) Silver Surfaces intended to be gilt. These are first washed
+clean with soap and hot water, and polished with whitening.  They are
+then dipped for a moment in a boiling solution of potassium cyanide.
+A 20 per cent solution of common commercial cyanide does well, but the
+exact strength is quite immaterial.  The cyanide is washed away in a
+large volume of soft water, and the articles are kept under water till
+they are scratch-brushed.
+
+Mat surfaces are readily produced on standard silver by dipping in hot
+strong sulphuric acid.  The appearance of new silver coins, which is
+familiar to everybody, is obtained by this process.
+
+(2) Finely turned and finished Brass Work. If it is intended to
+nickel-plate such work, and if it is desirable to obtain brightly
+polished nickel surfaces, the work must be perfectly polished to begin
+with.  Full details as to polishing may be found in workshop books or
+treatises on watch-making.  It will suffice here to say that the brass
+work is first smoothed by the application of successive grades of
+emery and oil, or by very fine "dead" smooth files covered with chalk.
+Polishing is carried out by means of rotten stone and oil applied on
+leather.
+
+In polishing turned work care must be taken to move the file, emery,
+or rotten stone to and fro over the work with great regularity, or the
+surface will end by looking scratchy and irregular.  The first process
+of cleaning is, of course, to remove grease, and this is accomplished
+best by dipping in a bath of strong hot caustic soda solution, and
+less perfectly by heating the work and dipping it in the cold caustic
+soda bath.
+
+During this process a certain amount of chemical action often occurs
+leading to the brass surface exhibiting some discoloration.  The best
+way of remedying this is to dip the brass into a hot bath of cyanide
+of potassium solution.  If it is inconvenient to employ hot baths or
+to heat the brass work, good results may be obtained by rubbing the
+articles over with a large rough cork plentifully lubricated with a
+strong solution of an alkali.
+
+If the surfaces are very soiled or dirty, a paste of alkali and fine
+slaked lime may be applied on a cork rubber, and this in my experience
+has always been most effective and satisfactory in every way, except
+that it is difficult to get into crevices.  If the alkali stains the
+work, a little cyanide of potassium may be rubbed over the surface in
+a similar manner.
+
+Brass work treated by either of these methods is to be washed in clean
+water till the alkali is entirely removed, and may then be
+nickel-plated without any preliminary scratch-brushing.  The treatment
+in hot baths of alkali and cyanide is the method generally employed in
+American factories as a preliminary to the nickelling of small brass
+work for sewing machines, etc.
+
+(3) Copper either for use as the kathode in electrolysis calibration
+experiments or otherwise is most conveniently prepared by dipping in
+the acid bath, rinsing quickly in cold water, scratch-brushing under
+cold water, and transferring at once to the plating bath.  In the case
+where the copper plates require to be weighed they are dipped into
+very hot distilled water after scratch-brushing, and then dried at
+once by means of a clean glass cloth.
+
+(4) Aluminium (which, however, does not readily lend itself to plating
+operations [Footnote: This difficulty has now been overcome.  See
+note, section 138.] ) is best treated by alkali rubbed on with a cork,

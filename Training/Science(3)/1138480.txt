@@ -1,0 +1,321 @@
+border of Algeria.
+
+(19) J. P. L. asks: How can I make a filter to cleanse rain water from
+smoke as it passes from the roof to the cistern? The coal which is
+burned here (bituminous) gives us a great deal of trouble in this
+regard. A. The carbonaceous matters may be removed by passing the
+water through a large barrel half filled with fine gravel and pounded,
+freshly-burnt charcoal (free from dust), distributed in alternate
+layers, each several inches deep. Over this spread a clean piece of
+bagging, and fill in with fine gravel or coarse clean quartz sand for
+12 inches or more. The inlet pipe should discharge at the bottom of
+the barrel--the filtered water flowing from the top.
+
+(20) F. E. H. asks: Can percussion caps be so composed as to explode
+when pierced by a sharp pointed needle? If so, of what should they be
+composed? A. Such an arrangement is employed in the needle gun. The
+composition may be of mercuric fulminate.
+
+(21) C. A. N. asks: What is the horse power of an engine 30 inches
+stroke, 14 inches cylinder, 51 revolutions per minute, 60 lbs. mean
+pressure in cylinder?
+
+A. Piston area = 153.94 square inches. Piston speed = 255 feet per
+minute. Indicated horse power =
+
+153.94 x 60 x 255
+-----------------  = 71.4
+      33,000
+
+(22) P. O. asks: If I admit steam 100 lbs. pressure in a cylinder 15
+x 24 inches, and cut the steam off when piston has traveled 6 inches,
+what will be the pressure at 6 inches, 12 inches, 18 inches, and 24
+inches, or just before it exhausts? A. The pressure will vary about in
+the inverse ratio of the volume, so that, approximately,
+
+vol. of cylinder up to point of cut-off + clearance vol.
+---------------------------------------------------------
+vol. of cylinder at any point of expansion + clearance vol.
+
+    pressure above zero, at the given point.
+ =  ----------------------------------------
+    pressure above zero, at point of cut-off.
+
+(23) H. T. S. asks: What size should I make the holes in the side of a
+fan wheel, 20 inches in diameter? Also what size should the nozzle
+be? A. Allow an opening of from 17 to 20 square inches at inlet and
+discharge.
+
+(24) E. M. D. writes: I am constructing a telephone according to
+directions in SCIENTIFIC AMERICAN SUPPLEMENT No. 142, using a bar
+magnet in place of horseshoe magnet and soft iron core. 1. Would it
+reduce the strength of bar magnet to cut a thread on one end of it?
+A. No. 2. Will a bar magnet, used in Bell telephone, lose its power to
+such a degree as not to work? A. Not readily. 3. Is No. 22 copper wire
+of sufficient size for a telephone line of 1,000 feet? A. Yes; but
+larger would be better.
+
+(25) S. & Y. write: We have a pair of burrs on which we grind plaster.
+The burrs are about 4 feet in diameter and 11/2 foot thick. We are
+running them as an over runner at this time, but wish to change them
+and make the lower burr run instead of the upper. Can a pair of burrs
+of the above size be run in that way, and if so, what is the maximum
+speed at which they can be run? A. If properly arranged, you can
+run them, after the change, as fast as is allowable for overrunning
+stones.
+
+(26) J. J. asks: Which tire makes a wheel the strongest, 1.25 x 0.50
+inch iron, or 1.25 x 5/16 steel tire? A. The steel tire will be the
+strongest, comparing good qualities of steel and iron.
+
+(27) E. L. W. asks: Is a ton (2,000 lbs.) of first class coke equal in
+heat giving power to a ton (2,000 lbs.) of coal? If not, please
+give me the relative value of coke and coal in heat giving power?
+A. Calling the evaporative power of good anthracite coal 1, good
+bituminous coal rates at about 0.92, and coke from 0.89 to 0.95.
+
+(28) J. W. S. asks what to impregnate paper with to give it an
+agreeable smell while burning. A. You may try a strong ethereal or
+alcoholic solution of benzoin, tolu, storax, olibanum or labdanum.
+To burn well the paper should first be impregnated with an aqueous
+solution of niter and dried.
+
+(29) M. G. asks whether hydrogen and oxygen can be produced as rapidly
+and copiously in the decomposition of water by the galvanic battery as
+by the action of sulphuric acid on zinc or lead in the one case,
+and by heating chlorate of potassa in the other. A. Yes, with a very
+powerful current.
+
+(30) T. G. H. asks for names of useful treatises on mechanical
+movements. A. "Scientific American Reference Book," and "507
+Mechanical Movements."
+
+(31) R. B. T. writes: We have just set up a new engine; the cylinder
+is 8 x 12, has a common slide valve. We think the valve is too short;
+it is set 0.125 inch open when on center, takes steam 10 inches before
+cutting off; the exhaust is very free. The engine runs about 110
+revolutions per minute. We think we could save steam by using a longer
+valve, and cut-off about 5/8 stroke, and make the exhaust space in the
+valve shorter, so that it will shut in a portion of the exhaust and
+form a cushion for the piston. About how much of the exhaust can
+we shut in without overdoing it? A. You can obtain a good action by
+making the ratio of compression equal to the ratio of expansion,
+with the proviso that the final cushion pressure must not exceed the
+initial pressure.
+
+(32) D. B. L. writes: Our boiler after being repaired was tested at
+110 lbs. cold water pressure. Three days after it gave out where it
+was repaired at 58 lbs. steam pressure. To find the leak we put on
+80 lbs. cold water pressure, and could not find it. We then put steam
+pressure at 40 lbs., which made the leak very great, whereas with
+cold water pressure we could find none. Can you explain it? A. The
+phenomenon is probably due to the change of shape in the boiler when
+heated.
+
+(33) F. C. writes: Our engine is a plain slide valve engine, 24 x 9,
+steam following almost to end of stroke. How shall I make a valve to
+cut off at 3/4? Our exhaust now is 1 inch, steam ports 0.75, bridges
+0.75. Length of valve 41/2 inches, cavity 2-3/8, travel of valve 2
+inches. Will I have to enlarge the steam chest; the valve uses the
+whole length of it now? A. As the length and travel of valve must be
+increased, it will be necessary to lengthen the steam chest, unless
+you can apply an independent cut-off valve.
+
+(34) T. P. writes: A small basement room 9 feet high is to be heated
+by a furnace in an adjoining room. By carrying the hot air pipe
+through the partition midway between the floor and the ceiling it will
+stand at an angle of about 45 deg.. If carried through at the top of the
+room it will of course be nearer vertical. In which position of the
+hot air pipe will the room be most easily heated? A. Place the hot air
+pipe in the position first described. Take the cold air from a point
+near the floor through a flue opening above the roof.
+
+(35) G. M. P. asks: What is a good and cheap substitute for salt for
+raising the temperature of water to 230 deg. Fah.? A. An oil bath is often
+used instead. Chloride of calcium will answer as well as salt, though
+not so cheap.
+
+[Illustration: Right Triangle--sides 15, 20, 25ft.]
+
+(36) J. D. reminds us of an old and good method of drawing a
+perpendicular to a straight line for the purpose of squaring
+foundations, etc. From the corner of the foundation take two lines
+respectively 15 and 20 feet, and connect them by a line of 25 feet;
+the angle included between the two shorter lines will be a right
+angle. The numbers 3, 4, 5, or, as in the present case, their
+multiples 15, 20, 25, are taken to measure respectively the
+perpendicular, base, and slant side of the triangle. It is obvious
+that any scale may be used so long as the ratio of 3, 4, 5, is
+observed.
+
+(37) J. H. asks what kind of iron to use in making cast iron
+armatures. A. Soft gray iron.
+
+(38) F. H. C. asks: How can I etch cheaply on glass to imitate ground
+figures or transparent figures on a ground background? A. For this
+purpose the sand blast is now generally used; the glass is covered
+with a film of wax or varnish, through which, with suitable needles or
+gravers, is etched the design; a fine sharp silicious sand impelled
+by a current of air is then directed from a suitable jet over the
+prepared surface, and the etching is accomplished in a few minutes.
+Glass is etched also by hydrofluoric acid; the plate may be prepared
+as for the sand blast, and placed face downwards over a shallow leaden
+tray, containing powdered fluorspar moistened with strong oil of
+vitriol and gently warmed; the gaseous hydrofluoric acid given off
+rapidly etches the portions of the glass not protected by the wax or
+varnish. Hydrofluoric acid should be used with great care.
+
+(39) L. H. writes: I have seen it asserted that the parasites that
+infest the Asiatic tiger's paw are an exact miniature image of itself.
+Is this so? A. No.
+
+(40) J. G. B. asks if there is any way of melting brass in a common
+sand crucible for castings of a pound or so in weight for a small
+engine. A. You may melt small quantities of brass in any common stove
+having a good draught, using a coal fire. You may use borax as a flux.
+
+(41) F. & Co. ask: 1. In making a telephone as described in Figs. 4
+and 5, SUPPLEMENT 142, must the diaphragm be entirely free, or can it
+be punched and the screws which secure the flange pass through it? A.
+The diaphragm should not be punched. 2. In new form of telephone in No
+20, current volume, must there be a battery in the circuit, or is the
+telephone sufficient to work it? A. A battery is required.
+
+(42) J. M. B. asks: What will prevent the hair from falling out? A.
+Keep the pores of the skin open by frequent bathing and change of
+underclothing. Bathe the head with clean soft water, and stimulate
+the scalp with a moderately stiff brush morning and evening. The head
+should be occasionally cleansed with a weak solution of glycerin soap
+in dilute spirit of wine, with care to remove all traces of soap from
+the hair. Use no pomades or oils of any kind.
+
+(43) B. H. P. asks (1) how to make malleable iron, such as used in
+wrenches. A. Malleable iron castings are made from mottled iron. They
+are cleaned by tumbling and then packed in iron boxes with alternating
+layers of rolling mill scale. The boxes are carefully luted and packed
+in an annealing furnace, where they are kept at a white heat for a
+week or more, and then allowed to cool gradually. 2. How is steel
+or iron made to adhere to the face of the jaws of the wrench? A. By
+welding.
+
+(44) J. G. E. asks: What is the highest column of water that can
+be raised from a well by means of a siphon pump with 60 lbs. steam,
+likewise a 1 inch column of water with 60 lbs. steam? A. Lift, from 26
+to 27 feet.
+
+(45) W. H. W. asks: 1. Is there any solution excepting rubber that
+will make cloth thoroughly waterproof, or at least withstand the
+attack of water for an hour or so? It should be applied by dipping
+the cloth in the solution. A. Linseed oil boiled with a little wax and
+litharge is useful for some purposes. Cloth prepared with paraffin,
+balata gum, the gum of the asclet pias or milkweed, naphtha solution
+of the dried pulp of the bamboo berry, anhydrous aluminum soaps (see
+pp. 149 and 159, "Science Record," 1874), are also employed. 2. Is
+there any chemical that could be combined with the solution, imparting
+some property to the same for which rats or mice would have an
+antipathy so as to prevent their attacks? A. A trace of phenol will
+generally suffice.
+
+(46) J. L. asks: Is the balata gum softened by animal oils or fat? A.
+Yes.
+
+(47) P. L. W. asks. What distance would a 100 lb. weight have to fall
+to run a sewing machine for 5 hours? A. For an ordinary family sewing
+machine, requiring about one thirtieth of a horse power, the weight
+would have to fall about 3,300 feet in the 5 hours.
+
+(48) W. G. R. asks: 1. What is the valve yoke of a steam engine? A.
+We presume you refer to the rectangular yoke that receives the back
+of the valve in the class of engines having balanced valves. 2. What
+should be the diameter of the bore of an engine of 1 horse power with
+100 lbs. pressure, also the length of stroke? A. Diameter, 23/4 inches;
+stroke, 41/2 inches. 3. How are the back gears of a lathe made so as
+to be thrown out of gear when it is wished to use the lathe at a high
+speed? A. Ordinarily by a cam and lever, or tight and loose joint. 4.
+Would 1/64 of an inch thickness of sheet steel be strong enough for
+the boiler of a small model locomotive? How much pressure would it
+stand to the inch? A. If the diameter does not exceed 3 inches, you
+can carry a pressure of from 50 to 60 lbs. per square inch.
+
+(49) J. W. W. asks: Which will stand the most pressure, a piece of
+round iron 1 inch long and 1 inch in diameter, or a piece of gas pipe
+the same dimensions, both being set upon end? A. The round iron.
+
+(50) W. M. B. writes: 1. I have one eighth inch basswood, cherry,
+butternut and walnut. Which do you advise for the sounding board of a
+microphone and Hughes telephone? A. Either will do, but pine or spruce
+is better. 2. Would a glazed earthen jar do for the outside of battery
+described in SCIENTIFIC AMERICAN SUPPLEMENT, No. 149? A. Yes. 3. Could
+I make insulated wire myself? If so, how? A. Wire may be insulated by
+giving it a coat of shellac varnish and allowing it to become dry and
+nearly hard before winding.
+
+(51) W. H. S. asks how to satin finish tubing like sample sent. A. The
+specimen has been electro-plated with silver in the usual manner,
+and the electric current then reversed for a few moments, thus
+redissolving a portion of the plate, the remainder presenting the
+peculiar satin like luster.
+
+(52) S. W. C. asks: Has carbon for telephone purposes ever been made
+by subjecting the black deposited by a flame to a heavy pressure? A.
+Yes. Edison's carbons are made in this manner.
+
+(53) "Hardware" asks: 1. Where is best to take hot air in a room, at
+register near ceiling or in floor? A. At or near the floor. 2. Where
+is best place to have ventilation, near floor or near ceiling? A.
+If connected with a flue having a good draught it should be near the
+floor.
+
+(54) R. W. J. asks: What causes the cracking noise in the pipes of a
+steam heating apparatus, when a fire has been started to warm up the
+building? Is it the water in the pipes made by condensed steam, or is
+it the expansion of the pipes from being heated? A. The noise is due
+to both causes in some degree, but principally to the water, which
+produces violent blows.
+
+(55) C. N. A. asks how to temper steel tools for working on stone or
+similar work. There is some preparation which is put in water which
+accomplishes the purpose when the steel is heated and plunged in. A.
+Heat the tools to a cherry red, and plunge in clean, moderately cool
+water. A little common salt is sometimes added to the water.
+
+(56) G. B. asks: 1. Is the height to which water is raised by a
+hydraulic ram measured from the ram itself or from the spring from
+which the supply comes? A. From the ram. 2. Can a hydraulic ram be
+constructed to discharge 1,000 gallons of water per minute? A. Yes.
+
+(57) L. D. writes that benzine will answer much better to exterminate
+roaches, moths, etc., than anything else. It will not hurt furniture
+in the least, will evaporate, and can be easily applied.
+
+
+
+
+MINERALS, ETC.--Specimens have been received from the following
+correspondents, and examined, with the results stated:
+
+
+M. B. W.--No. 1 is a silicious clay--it might be useful in the
+manufacture of some grades of pottery, etc. No. 2 is a ferruginous
+shale--contains about 80 per cent. of silica and 10 per cent. of
+alumina, besides lime, magnesia, iron oxide, and water.--W. S.--It is
+fibrous talc--talc of good quality is in considerable demand for paper
+making and other purposes.--W. G. H.--The sand contains no precious
+metal--the glittering particles are mica.--S. F.--The specimen you
+send consists of a mass of the long hairs which have been attached
+to the seeds of the "milkweed" (_asclepias_), or, as it is sometimes
+called, from the silky nature of these appendages, "silkweed." We
+believe that this material is put to no other economic use at present
+than that of a filling for cushions and pillows. The beauty of this
+silk like down long ago attracted attention, and many unsuccessful
+attempts have been made to put it to some practical use in the arts;
+but, as you have probably noticed, the hairs are both brittle and
+weak, and an examination with a lens will show that it wants the
+roughness and angularity necessary to fit it for being spun like other
+fibers. It has, however, been mixed with cotton and woven into fabrics
+having a silky luster and capable of taking brilliant dyes, but the
+manufacture has never been prosecuted. The plants, though widely
+distributed over the United States, and quite common, are nevertheless
+not abundant enough in a wild state to afford much of a supply, and we
+believe no experiments have been made in cultivating them.
+

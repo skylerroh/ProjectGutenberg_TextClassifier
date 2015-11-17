@@ -1,0 +1,390 @@
+     Water               2.391
+                         ----  10.403
+                               ------
+                               99.819
+
+In this instance the barrenness of the soil is distinctly traceable to
+the deficiency of phosphoric acid, sulphuric acid, and chlorine. There
+is also a remarkably large quantity of oxide of iron, which, when acted
+on by the humic acid, is well known to be highly prejudicial to
+vegetation, and that this took place was shown by the fact that the
+drains, a couple of months after being laid, were almost stopped up by
+humate of iron. Still more striking are the following analyses:--
+
++----------------------+-----------------+------------+-------------+
+|                      | Moorland soil   | Sandy soil | Soil from   |
+|                      | near Aurich,    | near       | near        |
+|                      | East Friesland. | Wettingen. | Muhlhausen. |
++----------------------+-----------------+------------+-------------+
+| Silica and sand      |  70.576         |    96.000  |    77.490   |
+| Alumina              |   1.050         |     0.500  |     9.490   |
+| Oxide of iron        |   0.252         |     2.000  |     5.800   |
+| Oxide of manganese } |   trace         | {   trace  |     0.105   |
+| Lime               } |                 | {   0.001  |     0.866   |
+| Magnesia             |   0.012   }     |            |     0.728   |
+| Potash             } |           }     |            | {   trace   |
+| Soda               } |   trace   }     |     trace  | {           |
+| Phosphoric acid    } |           }     |            |     0.003   |
+| Sulphuric acid     } |           }     |            |     trace   |
+| Carbonic acid        |     ...         |       ...  |     0.200   |
+| Chlorine             |   trace         |     trace  |     trace   |
+| Humic acid           |  11.910         |     0.200  |     0.732   |
+| Insoluble humus      |  16.200         |     1.299  |     0.200   |
+| Water                |     ...         |       ...  |     4.096   |
+|                      |-----------------+------------|-------------|
+|                      | 100.000         |   100.000  |   100.000   |
++----------------------+-----------------+------------+-------------+
+
+The results contained in these analyses are peculiarly remarkable, for
+they indicate the almost total absence of all those substances which the
+plant requires. They must, however, be considered as in a great measure
+exceptional cases, as it is but rarely that so large a number of
+constituents is absent, and it is much more frequent to find the
+deficiency restricted to one or two substances. They are illustrations
+of barrenness dependent on different circumstances. The first shows the
+unimportance of the organic matters of the soil, which are here
+unusually abundant, without in any way counteracting the infertility
+dependent on the absence of the other constituents. The second is that
+of a nearly pure sand; and the third, though it contains a greater
+number of the essential ingredients of the ash, is still rendered
+unfruitful by the deficiency of alkalies, sulphuric acid, and chlorine.
+
+An examination of the foregoing analyses indicates pretty clearly some
+of the conditions of fertility of the soil, which must obviously
+contain all the constituents of the plants destined to grow upon it. But
+it by no means exhausts the subject, for numerous instances are known of
+soils containing all the essential elements of plants in abundance, but
+on which they nevertheless refuse to grow. In these instances the defect
+is due either to the presence of some substance injurious to the plant,
+or to the state of combination of those it requires being such as to
+prevent their absorption. Reference has been already made to the bad
+effects of protoxide of iron, and it would appear that organic matter is
+sometimes injurious. Even water, by excluding air, and so preventing
+those decompositions which play so important a part in liberating the
+essential elements from their more permanent compounds, although it
+cannot render a soil absolutely barren, not unfrequently materially
+diminishes its fertility.
+
+The state of combination of the soil constituents unquestionably
+exercise a most important influence on its fertility. That this must be
+the case is an inference which may be easily drawn from the statements
+already made regarding the different minerals from which it is directly
+or indirectly produced. If, for instance, a soil consist to a large
+extent of mica, it would be found on analysis to contain abundance of
+potash and some other matters, and yet our knowledge of the difficulty
+with which that mineral is decomposed, would enable us to pronounce
+unfavourably of the soil; and practical experience here fully confirms
+the scientific inference.
+
+The forms of combination most favourable to fertility is a subject on
+which our information is at present comparatively limited. It was at one
+time believed that solubility in water was an indispensable requisite,
+but recent investigations appear to lead to a directly contrary
+conclusion. The analyses of soils already given, show that the part
+directly soluble in water embraces only a certain number of the
+constituents of the plant, and of those dissolved the quantity is very
+small. This becomes still more apparent if we estimate from the analyses
+the actual quantities of those substances contained in an acre of soil.
+It is generally assumed that the soil on an imperial acre of land 10
+inches deep weighs in round numbers about 1000 tons; and calculating
+from this, we find that the quantity of potash soluble in water in the
+Mid-Lothian wheat soil, amounts to no more than 70 lb. per acre. But a
+crop of hay carries off from the soil about 38 lb. of potash, and one of
+turnips, including tops, not less than 200 lb., so that if only the
+matters soluble in water could be taken up by the plant, such soils
+could not possess the amount of fertility which they are actually found
+to have.
+
+It is to be remembered, also, that in these analyses the experiment is
+made under the most favourable circumstances for ascertaining the whole
+quantity of matters which are capable of dissolving in water; that
+practically dissolved is very different. The recent analysis by Krocker
+and Way of the drainage water of soils afford a means of estimating
+this. Way found in one gallon of the drainage water from seven different
+fields, collected in the end of December--
+
++-------------------+------+------+------+------+------+------+------+
+|                   |  1   |  2   |  3   |  4   |  5   |  6   |  7   |
++-------------------+------+------+------+------+------+------+------+
+| Potash,           |trace |trace | 0.02 | 0.05 |trace | 0.22 |trace |
+| Soda,             | 1.00 | 2.17 | 2.26 | 0.87 | 1.42 | 1.40 | 3.20 |
+| Lime,             | 4.85 | 7.19 | 6.05 | 2.26 | 2.52 | 5.82 |13.00 |
+| Magnesia,         | 0.68 | 2.32 | 2.48 | 0.41 | 0.21 | 0.93 | 2.50 |
+| Iron and Alumina, | 0.40 | 0.05 | 0.10 | none | 1.30 | 0.35 | 0.50 |
+| Silica,           | 0.95 | 0.45 | 0.55 | 1.20 | 1.80 | 0.65 | 0.85 |
+| Chlorine,         | 0.70 | 1.10 | 1.27 | 0.81 | 1.26 | 1.21 | 2.62 |
+| Sulphuric acid,   | 1.65 | 5.15 | 4.40 | 1.71 | 1.29 | 3.12 | 9.51 |
+| Phosphoric acid,  |trace | 0.12 |trace |trace | 0.08 | 0.06 | 0.12 |
+| Ammonia,          | 0.018| 0.018| 0.018| 0.012| 0.018| 0.006| 0.018|
+| Nitric acid,      | 7.17 |14.74 |12.72 | 1.95 | 3.45 | 8.05 |11.45 |
+| Organic matter,   | 7.00 | 7.40 |12.50 | 5.60 | 5.70 | 5.80 | 7.40 |
++-------------------+------+------+------+------+------+------+------+
+
+Some of the soils from which these waters were obtained had been manured
+with unusually large quantities of nitrogenous matters, which accounts
+for the large amount of nitric acid, as well as the lime which that acid
+has extracted. Dr. Krocker's analyses were made on soils less highly
+manured, and the water was collected in summer.
+
++-----------------------+------------------------------------------------+
+|                       |             IN 10,000 PARTS.                   |
+|                       +-------+-------+-------+-------+-------+--------|
+|                       | 1     | 2     | 3     | 4     | 5     | 6      |
++-----------------------+-------+-------+-------+-------+-------+--------+
+| Organic matter        | 0.25  | 0.24  | 0.16  | 0.06  | 0.63  | 0.56   |
+| Carbonate of lime     | 0.84  | 0.84  | 1.27  | 0.79  | 0.71  | 0.84   |
+| Sulphate of lime      | 2.08  | 2.10  | 1.14  | 0.17  | 0.77  | 0.72   |
+| Nitrate of lime       | 0.02  | 0.02  | 0.01  | 0.02  | 0.02  | 0.02   |
+| Carbonate of magnesia | 0.70  | 0.69  | 0.47  | 0.27  | 0.27  | 0.16   |
+| Carbonate of iron     | 0.04  | 0.04  | 0.04  | 0.02  | 0.02  | 0.01   |
+| Potash                | 0.02  | 0.02  | 0.02  | 0.02  | 0.04  | 0.06   |
+| Soda                  | 0.11  | 0.15  | 0.13  | 0.10  | 0.05  | 0.04   |
+| Chloride of sodium    | 0.08  | 0.08  | 0.07  | 0.03  | 0.01  | 0.01   |
+| Silica                | 0.07  | 0.07  | 0.06  | 0.05  | 0.06  | 0.05   |
++-----------------------+-------+-------+-------+-------+-------+--------+
+
+In order to obtain from these experiments an estimate of the quantity of
+the substances actually dissolved, we shall select the results obtained
+by Way. The average rainfall in Kent, where the waters he examined were
+obtained, is 25 inches. Now, it appears that about two-fifths of all the
+rain which falls escapes through the drains, and the rest is got rid of
+by evaporation. An inch of rain falling on an imperial acre weighs
+rather more than a hundred tons; hence, in the course of a year, there
+must pass off by the drains about 1000 tons of drainage water, carrying
+with it, out of the reach of the plants, such substances as it has
+dissolved, and 1500 tons must remain to give to the plant all that it
+holds in solution. These 1500 tons of water must, if they have the same
+composition as that which escapes, contain only two and a half pounds of
+potash, and less than a pound of ammonia. It may be alleged that the
+water which remains, lying longer in contact with the soil, may contain
+a larger quantity of matters in solution; but even admitting this to be
+the case, it cannot for a moment be supposed that they can ever amount
+to more than a very small fraction of what is required for a single
+crop. It may therefore be stated with certainty that solubility in water
+is not essential to the absorption of substances by the plant, which
+must possess the power of itself directly attacking, acting chemically
+on, and dissolving them. The mode in which it does this is entirely
+unknown, but it in all probability depends on very feeble chemical
+actions, and hence the importance of having the soil constituents, not
+in solution, but in such a state that they may be readily made soluble
+by the plants. Many of the minerals from which fertile soils are formed
+are probably not attackable by plants when in their natural condition,
+and even after disintegration the quantity of the essential elements of
+their food, which are present in an easily assimilable state, is at no
+one time very large. But this is of comparatively little importance, for
+the soil is not an inert unchangeable substance; it is the theatre of an
+important series of chemical changes effected by the action of air and
+moisture, and producing a continued liberation of its constituents. This
+decomposition is effected partly by the carbonic acid of the atmosphere,
+but to a much larger extent by its oxygen acting upon the organic
+matters of the soil, and causing a constant though slow evolution of
+that acid, which in its turn attacks the mineral matters. Boussingault
+and Levy have illustrated the extent of this action by examining the
+composition of the air contained in the pores of different soils, and
+have obtained the following results:--
+
++--------------------+------------+---------------+---------------------------+
+| Nature of          | Crop.      | No. of cubic  |100 VOLUMES OF AIR CONTAIN |
+|       Soil.        |            | inches of air +--------+--------+---------+
+|                    |            | in 34 cubic   |Carbonic| Oxygen.|Nitrogen.|
+|                    |            | inches of soil| acid.  |        |         |
++--------------------+------------+---------------+--------+--------+---------+
+|Light sandy soil,   |            |               |        |        |         |
+|   newly manured    |   ...      |   8.0         |  2.17  |    ... |    ...  |
+|  Do. manured       |            |               |        |        |         |
+|    8 days before   |   ...      |   ...         |  1.54  |   18.80|  79.66  |
+|  Do. long          |Yellow      |               |        |        |         |
+|    after manuring  |  turnip    |   7.9         |  0.93  |   19.50|  79.57  |
+|Very sandy          |Vineyard    |   9.6         |  1.06  |   19.72|  79.22  |
+|Sandy, with many    |            |               |        |        |         |
+|  stones            |Forest      |   4.0         |  0.87  |   19.61|  79.52  |
+|Loamy               |   ...      |   2.4         |  0.46  |    ... |    ...  |
+|Sandy, subsoil      |            |               |        |        |         |
+|  of the last       |   ...      |   3.0         |  0.24  |    ... |    ...  |
+|Sandy soil, long    |            |               |        |        |         |
+|  after manuring    |Trefoil     |   7.6         |  0.74  |   19.02|  80.24  |
+|  Do.  Recently     |            |               |        |        |         |
+|    manured         |   ...      |   ...         |  0.85  |   19.41|  79.74  |
+|  Do. manured 8     |            |               |        |        |         |
+|    days before     |   ...      |   ...         |   1.54 |   18.80|  79.66  |
+|Heavy clay          |Jerusalem   |   7.0         |   0.66 |   19.99|  79.35  |
+|                    |  artichoke |               |        |        |         |
+|Fertile soil (moist)|Meadow      |   5.5         |   1.79 |   19.41|  78.80  |
++--------------------+------------+---------------+--------+--------+---------+
+
+From these analyses it appears that the air contained in the pores of
+the soil is much richer in carbonic acid than the atmosphere, the
+poorest soil containing about 25 times, and a recently manured soil 250
+times as much. This carbonic acid, which is obviously produced by the
+decomposition of the vegetable matters and manure, acting partly as gas
+and partly dissolved in the soil water, exerts a solvent action on its
+constituents. And, though a very feeble acid, its continuous action
+produces in the course of time a large effect; while, during the
+interval, the constituents of the soil are safely stored up, and
+liberated only as the plant requires them, by which bountiful provision
+of nature they are exposed to fewer risks of loss than if they had been
+all along in a state in which they could be absorbed. Carbonic acid not
+only assists in effecting the decomposition of the minerals of the soil,
+but its aqueous solution acts as a solvent of many substances, which
+are quite insoluble in pure water. It is in this way that much of the
+lime contained in natural waters is held in solution, and it has been
+ascertained that magnesia, iron, and even phosphate of lime, may also be
+dissolved by it. It is probable that when these substances are
+dissolved, the plants will take them from solution in place of
+themselves attacking the insoluble matters; but of the extent to which
+this may occur nothing is yet known--the action of solvents on the soil
+being a subject which is as yet scarcely examined.
+
+Carbonic acid is, however, a most important agent in producing the
+chemical changes in the soil, and the particular value of humus lies in
+its affording a supply of that substance exactly when it is wanted; but
+the carbonic acid of the atmosphere also takes part in these changes,
+although with different degrees of rapidity according to the character
+of the soil, acting rapidly in light, and slowly in stiff, clay soils.
+The solvent action of the carbonic acid is, no doubt, principally
+exerted on the substances soluble in acids, but not entirely, for it is
+known that the insoluble part is gradually being disintegrated and made
+soluble; and hence it is that the composition of that part of the soil
+which resists the action of acids, and which at first sight might appear
+of no moment, is really important. It is obvious that this circumstance
+must at once confer on the soil of the Carse of Gowrie a great
+superiority over those of Mid-Lothian and most other districts; for it
+contains in its insoluble part a quantity of alkalies which must
+necessarily form a source of continued fertility. Accordingly,
+experience has all along shown the great superiority of that soil, and
+of alluvial soils generally, which are all more or less similar to it.
+The facility with which these matters are attackable by carbonic acid is
+also an important element of the fertility of a soil, and it is to the
+existence of compounds which are readily decomposed by it that we
+attribute the high fertility of the trap soils.
+
+By a further examination of the analyses of fertile soils, it is at once
+apparent that the most essential constituents of plants are by no means
+very abundant in them. In fact, phosphoric and sulphuric acids, lime,
+magnesia, and the alkalies, which in most instances make up nine-tenths
+of the ash of plants, form but a small portion of even the most fertile
+soils; while silica, which, except in the grasses, occurs in small
+quantity, oxide of iron which is a limited, and alumina a rare,
+constituent of the ash, constitute by far their larger part. Thus the
+total amount of potash, soda, lime, magnesia, phosphoric and sulphuric
+acids and chlorine, contained in the Mid-Lothian wheat soil amounts only
+to 3.5888 per cent, and in the Perthshire to 6.4385, the entire
+remainder being substances which enter into the plant for the most part
+in much smaller quantity. And, as these small quantities of the more
+important substances are capable of supplying the wants of the plant, it
+must be obvious that a very small fraction of the silica, oxide of iron,
+and alumina, which the soils contain, would afford to it the whole
+quantity of these substances it requires, and that the remainder must
+have some other functions to perform.
+
+The soil must be considered not merely as the source of the inorganic
+food of plants, for it has to act also as a support for them while
+growing, and to retain a sufficient quantity of moisture to support
+their life; and unless it possess the properties which fit it for this
+purpose, it may contain all the elements of the food of plants, and yet
+be nearly or altogether barren.
+
+The adaptation of the soil to this function is dependent to a great
+extent on its mechanical texture, and on this considerable light is
+frequently thrown by a kind of mechanical analysis.
+
+If a soil be shaken up with water and allowed to stand for a few
+minutes, it rapidly deposits a quantity of grains which are at once
+recognised as common sand; and if the water be then poured off into
+another vessel and allowed to stand for a longer time, a fine soft
+powder, having the properties and composition of common clay, is
+deposited, while the clear fluid retains the soluble matters. By a more
+careful treatment it is possible to distinguish and separate humus, and
+in soils lying on chalk or limestone, calcareous matter or carbonate of
+lime.
+
+In this way the components can be classified into four groups, a mixture
+of two or more of which in variable proportions is found in all soils.
+
+The relative proportions in which these substances exist in soils are,
+as we shall afterwards see, the foundation of their classification into
+the light, heavy, calcareous, and other sub-divisions. But they are also
+intimately connected with certain chemical and mechanical peculiarities
+which have an important bearing on its fertility. It is a familiar fact,
+that particular soils are specially adapted to the growth of certain
+crops; and we talk of a wheat or a turnip soil as readily
+distinguishable. It is to be observed, however, that in many such
+instances the mere analysis may show no difference, or, at least, none
+sufficient to account for the peculiarity. A remarkable illustration is
+offered by the following analyses of two soils, on one of which red
+clover grows luxuriantly, while on the other it invariably fails.
+
+                           Clover fails.  Clover succeeds.
+
+Insoluble silicates           83.90            81.34
+Soluble silica                 0.08             0.02
+Peroxide of iron               4.45             6.68
+Alumina                        2.40             3.00
+Lime                           1.23             1.33
+Magnesia                       0.45             0.25
+Potash                         0.20             0.22
+Soda                           0.07             0.09
+Sulphuric acid                 0.05             0.08
+Phosphoric acid                0.38             0.07
+Carbonic acid                  0.09             0.34
+Chlorine                       trace            trace
+Humic acid                     0.42             0.43
+Humine                         ...              0.10
+Insoluble organic matters      3.70             3.61
+Water                          2.54             2.52
+                               ----             ----
+                              99.96           100.08
+Nitrogen                       0.15             1.15
+
+In this instance such difference as exists is rather in favour of the
+soil on which clover fails, but it is exceedingly trifling; and it is
+necessary to seek an explanation in the special properties of its
+mechanical constituents.
+
+These properties are partly mechanical and partly chemical, and in both
+ways exercise an important influence on the fertility of the soil.
+
+Sand and clay, the most important of the mechanical constituents, confer
+on the soil diametrically opposite properties; the former, when present
+in large quantity, producing what are designated as light, the latter
+stiff or heavy soils. The hard indestructible siliceous grains, of which
+sand is composed, form a soil of an open texture, through which water
+readily permeates; while clay, from its fine state of division, and
+peculiar adhesiveness or plasticity, gives it a close-textured and
+retentive character, and their proper intermixture produces a light
+fertile loam, each tempering the peculiar properties of the other.
+Indeed, their mixture is manifestly essential, for sand alone contains
+little or none of the essential ingredients of plants; and if present in
+large quantity, the openness of the soil is excessive, water flows
+through it with rapidity, manures are rapidly wasted, and on the
+accession of drought, the plants growing upon it soon languish and die.
+Clay, on the other hand, is by itself equally objectionable; the
+closeness of its texture prevents the spreading of the roots of plants,
+and the access of carbonic acid, which, as we have already seen, is so
+important an agent in the changes occurring in the soil. In fact, a pure
+clay, that is to say, a clay unmixed with sand, even though it may
+contain all the essential constituents of the plant, is for this reason
+unfertile. Practically, of course, these extreme cases rarely occur; the
+heaviest clay soils being mixtures of true clay with sand, and the most
+sandy containing their proportion of clay; but frequently the
+preponderance of the one over the other is so great, as to produce soils
+greatly inferior to those in which the mixture is more uniform.
+
+It is easy to understand how the proportions in which sand and clay are
+mixed must affect the suitability of soils to particular crops, and that
+an open soil must be favourable to the turnip, and a heavy clay, owing
+to the resistance it offers to the expansion of the bulbs, unfavourable.
+But these substances also exercise an important chemical action on the
+soluble constituents of the food of plants, combining with them, and
+converting them into an insoluble, or nearly insoluble state, so as to
+prevent their being washed away by the rain or other water which
+percolates through the soil. It has long been known to chemists that
+clay has a tendency to absorb a small proportion of ammonia, and even
+when brought up from a great depth frequently contains that substance.
+It is to Mr. Thompson of Moat Hall, however, that we owe the important
+observation, that arable soils rapidly remove ammonia from solution, and
+Way, who pursued this investigation, showed that not only ammonia, but
+potash, and several of the other important elements of the food of
+plants, are thus absorbed. The removal of these substances from solution
+is easily illustrated by a simple experiment. It suffices to take a tall
+cylindrical vessel open at both ends, and filled with the soil to be

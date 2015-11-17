@@ -1,0 +1,523 @@
+In the small room shown at the south side of the laboratory is placed a
+powerful electric fan which draws the air from above the floor of the
+calorimeter laboratory, draws it over brine coils, and sends it out into
+a large duct suspended on the ceiling of the laboratory. This duct has a
+number of openings, each of which can be controlled by a valve, and an
+unlimited supply of cold air can be directed to any portion of the
+calorimeter room at will. To provide for more continuous operation and
+for more exact temperature control, a thermostat has been placed in the
+duct and is so constructed as to operate some reheater coils beneath the
+brine-coils in the refrigerating room. This thermostat is set at 60 deg.
+F., and when the temperature of the air in the duct falls below this
+point, the reheater system is automatically opened or closed. The
+thermostat can be set at any point desired. Up to the present time it has
+been unnecessary to utilize this special appliance, as the control by
+hand regulation has been most satisfactory.
+
+Two vertical sections through the refrigerating coils are shown in fig.
+6. Section A-B shows the entrance near the floor of the calorimeter
+room. The air is drawn down over the coils, passes through the blower,
+and is forced back again to the top of the calorimeter room into the
+large duct. If outdoor air is desired, a special duct can be connected
+with the system so as to furnish outdoor air to the chamber. This has
+not as yet been used. Section C-D shows the fan and gives a section
+through the reheater. The brine coils, 400 meters long, are in
+triplicate. If one set becomes covered with moisture and is somewhat
+inefficient, this can be shut off and the other two used. When the
+frozen moisture melts and drops off, the single coil can be used again.
+It has been found that the system so installed is most readily
+controlled.
+
+The degree of refrigeration is varied in two ways: (1) the area of brine
+coils can be increased or decreased by using one, two, or all three of
+the coils; or (2) the amount of air passing over the cooling pipes may
+be varied by changing the speed of the blower. In practice substantially
+all of the regulation is effected by varying the position of the
+controlling lever on the regulating rheostat. The apparatus functionates
+perfectly and the calorimeter room can be held at 20 deg. C. day in and
+day out, whether the temperature outdoors is 40 deg. below or 100 deg.
+above 0 deg. F.
+
+It can be seen, also, that this system provides a very satisfactory
+regulation of the humidity, for as the air passes over the brine coils
+the moisture is in large part frozen out. As yet, no hygrometric study
+has been made of the air conditions over a long period, but the
+apparatus is sufficiently efficient to insure thorough electrical
+insulation and absence of leakage in the intricate electrical
+connections on the calorimeters.
+
+The calorimeters employ the thermo-electric element with its low
+potential and a D'Arsonval galvanometer of high sensibility, and in
+close proximity it is necessary to use the 110-volt current for heating,
+consequently the highest degree of insulation is necessary to prevent
+disturbing leakage of current.
+
+The respiration calorimeter laboratory is so large, the number of
+assistants in the room at any time is (relatively speaking) so small,
+seldom exceeding ten, and the humidity and temperature are so very
+thoroughly controlled, that as yet it has been entirely unnecessary to
+utilize even the relatively small amount of indirect ventilation
+provided in the original plans.
+
+During the greater part of the winter it is necessary to use only one of
+the thermostats and the radiators connected with the other can be shut
+off, since each radiator can be independently closed by the valves on
+the steam supply and return which go through the floor to the basement.
+The temperature control of this room is therefore very satisfactory and
+economical.
+
+It is not necessary here to go into the advantages of temperature
+control of the working rooms during the summer months. Every one seems
+to be thoroughly convinced that it is necessary to heat rooms in the
+winter, but our experience thus far has shown that it is no less
+important to cool the laboratory and control the temperature and
+moisture during the summer months, as by this means both the efficiency
+and endurance of the assistants, to say nothing of the accuracy of the
+scientific measurements, are very greatly increased. Arduous scientific
+observations that would be wholly impossible in a room without
+temperature control can be carried on in this room during the warmest
+weather.
+
+FOOTNOTES:
+
+[4] As this report goes to press, this calorimeter is well on the way to
+completion.
+
+
+
+
+THE CALORIMETER.
+
+
+In describing this apparatus, for the sake of clearness, the
+calorimetric features will be considered before the appliances for the
+determination of the respiratory products.
+
+
+FUNDAMENTAL PRINCIPLES OF THE APPARATUS.
+
+The measurements of heat eliminated by man, as made by this apparatus,
+are based upon the fact that the subject is inclosed in a heat-proof
+chamber through which a current of cold water is constantly passing. The
+amount of water, the flow of which, for the sake of accuracy, is kept at
+a constant rate, is carefully weighed. The temperatures of the water
+entering and leaving the chamber are accurately recorded at frequent
+intervals. The walls of the chamber are held adiabatic, thus preventing
+a gain or loss of heat by arbitrarily heating or cooling the outer metal
+walls, and the withdrawal of heat by the water-current is so controlled,
+by varying the temperature of the ingoing water, that the heat brought
+away from the calorimeter is exactly equal in amount to the heat
+eliminated by radiation and conduction by the subject, thus maintaining
+a constant temperature inside of the chamber. The latent heat of the
+water vaporized is determined by measuring directly the water vapor in
+the ventilating air-current.
+
+In the construction of the new calorimeters a further and fundamental
+change in construction has been made in that all the thermal junctions,
+heating wires, and cooling pipes have been attached directly to the zinc
+wall of the calorimeter, leaving the outer insulating panels free from
+incumbrances, so that they can be removed readily and practically all
+parts inspected whenever desired without necessitating complete
+dismantling of the apparatus. This arrangement is possible except in
+those instances where connections pass clear through from the interior
+of the chamber to the outside, namely, the food-aperture, air-pipes,
+water-pipes, electrical connections, and tubes for connections with
+pneumograph and stethoscope; but the apparatus is so arranged as to have
+all of these openings in one part of the calorimeter. It is possible,
+therefore, to remove all of the outer sections of the calorimeter with
+the exception of panels on the east side.
+
+This fundamental change in construction has proven highly advantageous.
+It does away with the necessity of rolling the calorimeter out of its
+protecting insulating house and minimizes the delay and expense
+incidental to repairs or modifications. As the calorimeter is now
+constructed, it is possible to get at all parts of it from the outside,
+with the exception of one small fixed panel through which the above
+connections are passed. This panel, however, is made as narrow as
+possible, so that practically all changes can be made by taking out the
+adjacent panels.
+
+
+THE CALORIMETER CHAMBER.
+
+[Illustration: FIG. 7.--Horizontal cross-section of chair calorimeter,
+showing cross-section of copper wall at A, zinc wall at B, hair-felt at
+E, and asbestos outer wall at F; also cross-section of all upright
+channels in the steel construction. At the right is the location of the
+ingoing and outgoing water and the thermometers. At C is shown the food
+aperture, and D is a gasket separating the two parts. The ingoing and
+outcoming air-pipes are shown at the right inside the copper wall. The
+telephone is shown at the left, and in the center of the drawing is the
+chair with its foot-rest, G. In dotted line is shown the opening where
+the man enters.]
+
+[Illustration: FIG. 8.--Vertical cross-section of chair calorimeter,
+showing part of rear of calorimeter and structural-steel frame. N,
+cross-section of bottom horizontal channel supporting asbestos floor J;
+H, H, upright channels (at the right is a side upright channel and to
+the left of this is an upright rear channel); M horizontal 8-inch
+channel supporting calorimeter; Zn, zinc wall; Cu, copper wall; J,
+insulating asbestos.]
+
+The respiration chamber used in Middletown, Connecticut, was designed to
+permit of the greatest latitude in the nature of the experiments to be
+made with it. As a result, it was found at the end of a number of years
+of experimenting that this particular size of chamber was somewhat too
+small for the most satisfactory experiments during muscular work and, on
+the other hand, somewhat too large for the best results during so-called
+rest experiments. In the earlier experiments, where no attempt was made
+to determine the consumption of oxygen, these disadvantages were not so
+apparent, as carbon dioxide could be determined with very great
+accuracy; but with the attempts to measure the oxygen it was found that
+the large volume of residual air inside the chamber, amounting to some
+4,500 liters, made possible very considerable errors in this
+determination, for, obviously, the subject could draw upon the oxygen
+residual in the air of the chamber, nearly 1,000 liters, as well as upon
+the oxygen furnished from outside sources. The result was that a very
+careful analysis of the residual air must be made frequently in order to
+insure that the increase or decrease in the amount of oxygen residual in
+the air of the chamber was known accurately at the end of each period.
+Analysis of this large volume of air could be made with considerable
+accuracy, but in order to calculate the exact total of oxygen residual
+in the air it was necessary to know the total volume of air inside the
+chamber under standard conditions. This necessitated, therefore, a
+careful measurement of temperature and pressure, and while the
+barometric pressure could be measured with a high degree of accuracy,
+it was found to be very difficult to determine exactly the average
+temperature of so large a mass of air. The difficulties attending this
+measurement and experiments upon this point are discussed in detail
+elsewhere.[5] Consequently, as a result of this experience, in planning
+the calorimeters for the Nutrition Laboratory it was decided to design
+them for special types of experiments. The first calorimeter to be
+constructed was one which would have general use in experiments during
+rest and, indeed, during experiments with the subject sitting quietly in
+the chair.
+
+[Illustration: FIG. 9.--Vertical cross-section of chair calorimeter from
+front to back, showing structural steel supporting the calorimeter and
+the large balance above for weighing the subject inside the calorimeter.
+The chair, method of suspension, and apparatus for raising and lowering
+are shown. Part of the heat-absorbers is shown, and their general
+direction. The ingoing and outgoing air-pipes and direction of
+ventilation are also indicated. The positions of the food-aperture and
+wire mat and asbestos support are seen. Surrounding the calorimeter are
+the asbestos outside and hair-felt lining.]
+
+It may well be asked why the first calorimeter was not constructed of
+such a type as to permit the subject assuming a position on a couch or
+sofa, such as is used by Zuntz and his collaborators in their research
+on the respiratory exchange, or the position of complete muscular rest
+introduced by Johansson and his associates. While the body positions
+maintained by Zuntz and Johansson may be the best positions for
+experiments of short duration, it was found, as a result of a large
+number of experiments, that subjects could be more comfortable and quiet
+for periods of from 6 to 8 hours by sitting, somewhat inclined, in a
+comfortable arm-chair, provided with a foot-rest. With this in mind the
+first calorimeter was constructed so as to hold an arm-chair with a
+foot-rest so adjusted that the air-space between the body of the subject
+and the walls of the chamber could be cut down to the minimum and thus
+increase the accuracy of the determination of oxygen. That the volume
+has been very materially reduced may be seen from the fact that the
+total volume of the first calorimeter to be described is less than 1,400
+liters, or about one-third that of the Middletown apparatus.
+
+
+GENERAL CONSTRUCTION.
+
+A horizontal cross-section of the apparatus is shown in fig. 7, and a
+vertical cross-section facing the front is given in fig. 8. Other
+details of structural steel are seen in fig. 9.
+
+In constructing the new chambers, the earlier wood construction, with
+its tendency to warp and its general non-rigidity, was avoided by the
+use of structural steel, and hence in this calorimeter no use whatever
+is made of wood other than the wood of the chair.
+
+To avoid temperature fluctuations due to possible local stratification
+of the air in the laboratory, the calorimeter is constructed so as to be
+practically suspended in the air, there being a large air-space of some
+76 centimeters between the lowest point of the calorimeter and the
+floor, and the top of the calorimeter is some 212 centimeters below the
+ceiling of the room. Four upright structural-steel channels (4-inch)
+were bolted through the floor, so as to secure great rigidity, and were
+tied together at the top with structural steel. As a solid base for the
+calorimeter chamber two 3-inch channels were placed parallel to each
+other 70 centimeters from the floor, joined to these uprights. Upon
+these two 3-inch channels the calorimeter proper was constructed. The
+steel used for the most part in the skeleton of the apparatus is
+standard 2-1/2-inch channel. This steel frame and its support are shown
+in fig. 10, before any of the copper lining was put into position. The
+main 4-inch channels upon which the calorimeter is supported, the
+tie-rods and turn-buckles anchoring the framework to the ceiling, the
+I-beam construction at the top upon which is subsequently installed the
+large balance for weighing the man, the series of small channels set on
+edge upon which the asbestos floor is laid, and the upright row of
+channel ribs are all clearly shown.
+
+[Illustration: FIG. 10
+
+Photograph of framework of chair calorimeter. In the photograph are
+shown four upright channels and the channels at the top for supporting
+the calorimeter. The smaller upright 2-1/2 inch channels and angles are
+shown inside of this frame. In the lower part of the figure is seen the
+asbestos board for the bottom of the calorimeter and underneath this a
+sheet of zinc.]
+
+[Illustration: FIG. 11
+
+Photograph of portion of framework and copper shell. The finished copper
+shell is seen in position with some of the thermal junction thimbles
+soldered into it. A portion of the food aperture and the four brass
+ferrules for conducting the water pipes and air pipes are shown. A
+section of the zinc outside is shown in the lower part of the figure.]
+
+A photograph taken subsequently, showing the inner copper lining in
+position, is given in fig. 11.
+
+The floor of the chamber is supported by 7 pieces of 2-1/2-inch channel
+(N, N, N, fig. 8), laid on top and bolted to the two 3-inch channels (M,
+fig. 8). On top of these is placed a sheet of so-called asbestos lumber
+(J', fig. 8) 9.5 millimeters thick, cut to fit exactly the bottom of the
+chamber. Upright 2-1/2-inch channels (H, fig. 8) are bolted to the two
+outside channels on the bottom and to the ends of three of the long
+channels between in such a manner as to form the skeleton of the walls.
+The upper ends of these channels are fastened together by pieces of
+piping (P, P, P, fig. 8) with lock-nuts on either side, thus holding the
+whole framework in position.
+
+The I-beams and channels used to tie the four upright channels at the
+top form a substantial platform upon which is mounted a large balance
+(fig. 9). This platform is anchored to the ceiling at four points by tie
+rods and turn-buckles, shown in fig. 4. The whole apparatus, therefore,
+is extremely rigid and the balance swings freely.
+
+The top of the chamber is somewhat restricted near the edges (fig. 8)
+and two lengths of 2-1/2-inch channel support the sides of the opening
+through which the subject enters at the top (fig. 7).
+
+Both the front and back lower channels upon which the bottom rests are
+extended so as to provide for supports for the outer walls of asbestos
+wood, which serve to insulate the calorimeter. Between the channels
+beneath the calorimeter floor and the 3-inch channels is placed a sheet
+of zinc which forms the outer bottom metallic wall of the chamber.
+
+In order to prevent conduction of heat through the structural steel all
+contact between the inner copper wall and the steel is avoided by having
+strips of asbestos lumber placed between the steel and copper. These are
+shown as J in fig. 8 and fig. 12. A sheet of asbestos lumber beneath the
+copper bottom likewise serves this purpose and also serves to give a
+solid foundation for the floor. The supporting channels are placed near
+enough together to reinforce fully the sheet of asbestos lumber and
+enable it to support solidly the weight of the man. The extra strain on
+the floor due to tilting back a chair and thus throwing all the weight
+on two points was taken into consideration in planning the asbestos and
+the reinforcement by the steel channels. The whole forms a very
+satisfactory flooring.
+
+_Wall construction and insulation._--The inner wall of the chamber
+consists of copper, preferably tinned on both sides, thus aiding in
+soldering, and the tinned inner surface makes the chamber somewhat
+lighter. Extra large sheets are obtained from the mill, thus reducing to
+a minimum the number of seams for soldering, and seams are made tight
+only with difficulty. The copper is of standard gage, the so-called
+14-ounce copper, weighing 1.1 pounds per square foot or 5.5 kilograms
+per square meter. It has a thickness of 0.5 millimeter. The whole
+interior of the skeleton frame of the structural steel is lined with
+these sheets; fig. 11 shows the copper shell in position.
+
+For the outer metallic wall, zinc, as the less expensive metal, is used.
+One sheet of this material perforated with holes for the attachment of
+bolts and other appliances is shown in position on the outside of the
+wall in fig. 11. The sheet zinc of the floor is obviously put in
+position before the channels upon which it rests are laid. The zinc is
+obtained in standard size, and is the so-called 9-ounce zinc, or 0.7
+pound to the square foot, or 3.5 kilograms to the square meter. The
+sheet has a thickness of 0.5 millimeter.
+
+[Illustration: FIG. 12.--Cross-section in detail of walls of
+calorimeter, showing zinc and copper walls and asbestos outside (A);
+hair-felt lining (B); cross-section of channel iron (H); brass washer
+soldered to copper (K); asbestos insulation between channel iron and
+copper (J); bolt holding the whole together (I); heating wire (W) and
+insulator holding it (F) shown in air-space between zinc and hair-felt;
+section of one of the cooling pipes (C) and its brass support (G);
+threaded rod (E) fastened into H at one end and passing through asbestos
+wall with a nut on the outside; and iron pipe (D) used as spacer between
+asbestos and zinc.]
+
+In the cross-section, fig. 7, A represents the copper wall and B the
+zinc wall. Surrounding this zinc wall and providing air insulation is a
+series of panels constructed of asbestos lumber, very fire-resisting,
+rigid, and light. The asbestos lumber used for these outer panels is 6.4
+millimeters (0.25 inch) thick. To further aid in heat insulation we have
+glued to the inner face of the different panels a patented material
+composed of two layers of sheathing-paper inclosing a half-inch of
+hair-felt. This material is commonly used in the construction of
+refrigerators. This is shown as E in fig. 7, while the outer asbestos
+panels are shown as F.
+
+A detail of the construction of the walls, showing in addition the
+heating and cooling devices, is given in fig. 12, in which the copper is
+shown held firmly to the upright channel H by means of the bolt I,
+screwing into a brass or copper disk K soldered to the copper wall. The
+bolt I serves the purpose of holding the copper to the upright channel
+and likewise by means of a washer under the head of the screw holds the
+zinc to the channel. In order to hold the asbestos-lumber panel A with
+the hair-felt lining B a threaded rod E is screwed into a tapped hole in
+the outer part of the upright channel H. A small piece of brass or iron
+tubing, cut to the proper length, is slipped over this rod and the
+asbestos lumber held in position by a hexagonal nut with washer on the
+threaded rod E. In this manner great rigidity of construction is
+secured, and we have two air-spaces corresponding to the dead air-spaces
+indicated in fig. 7, the first between the copper and zinc and the
+second between the zinc and hair-felt.
+
+
+PREVENTION OF RADIATION.
+
+As can be seen from these drawings the whole construction of the
+apparatus is more or less of the refrigerator type, _i. e._, there is
+little opportunity for radiation or conduction of heat. Such a
+construction could be multiplied a number of times, giving a greater
+number of insulating walls, and perhaps reducing radiation to the
+minimum, but for extreme accuracy in calorimetric investigations it is
+necessary to insure the absence of radiation, and hence we have retained
+the ingenious device of Rosa, by which an attempt is made arbitrarily to
+alter the temperature of the zinc wall so that it always follows any
+fluctuations in the temperature of the copper wall. To this end it is
+necessary to know _first_ that there is a temperature difference between
+zinc and copper and, _second_, to have some method for controlling the
+temperature of the zinc. Leaving for a moment the question of measuring
+the temperature differences between zinc and copper, we can consider
+here the methods for controlling the temperature of the zinc wall.
+
+If it is found necessary to warm the zinc wall, a current of electricity
+is passed through the resistance wire W, fig. 12. This wire is
+maintained approximately in the middle of the air-space between the zinc
+wall and hair-felt by winding it around an ordinary porcelain insulator
+F, held in position by a threaded rod screwed into a brass disk soldered
+to the zinc wall. A nut on the end of the threaded rod holds the
+insulator in position. Much difficulty was had in securing a resistance
+wire that would at the same time furnish reasonably high resistance and
+would not crystallize or become brittle and would not rust. At present
+the best results have been obtained by using enameled manganin wire. The
+wire used is No. 28 American wire-gage and has resistance of
+approximately 1.54 ohms per foot. The total amount of wire used in any
+one circuit is equal to a resistance of approximately 92 ohms. This
+method of warming the air-space leaves very little to be desired. It can
+be instantaneously applied and can be regulated with the greatest ease
+and with the greatest degree of refinement.
+
+If, on the other hand, it becomes necessary to cool the air-space next
+to the zinc and in turn cool the zinc, we must resort to the use of cold
+water, which is allowed to flow through the pipe C suspended in the
+air-space between the zinc and hair-felt at approximately the same
+distance as is the heating wire. The support of these pipes is
+accomplished by placing them in brass hangers G, soldered to the zinc
+and provided with an opening in which the pipe rests.
+
+In the early experimenting, it was found impracticable to use piping of
+very small size, as otherwise stoppage as a result of sediment could
+easily occur. The pipe found best adapted to the purpose was the
+so-called standard one-eighth inch brass pipe with an actual internal
+diameter of 7 millimeters. The opening of a valve allowed cold water to
+flow through this pipe and the considerable mass of water passing
+through produced a very noticeable cooling effect. In the attempt to
+minimize the cooling effect of the mass of water remaining in the pipe,
+provision was made to allow water to drain out of this pipe a few
+moments after the valve was closed by a system of check-valves. In
+building the new apparatus, use was made of the compressed-air service
+in the laboratory to remove the large mass of cold water in the pipe. As
+soon as the water-valve was closed and the air-cock opened, the
+compressed air blew all of the water out of the tube.
+
+[Illustration: FIG. 13.--Detail of drop-eight feed-valve and arrangement
+of outside cooling circuit. The water enters at A, and the flow is
+regulated by the needle-valve at left-hand side. Rate of flow can be
+seen at end of exit tube just above the union. The water flows out at C
+and compressed air is admitted at B, regulated by the pet-cock.]
+
+The best results have been obtained, however, with an entirely new
+principle, namely, a few drops of water are continually allowed to pass
+into the pipe, together with a steady stream of compressed air. This
+cold water is forcibly blown through the pipe, thus cooling to an amount
+regulated by the amount of water admitted. Furthermore, the relatively
+dry air evaporates some of the water, thereby producing a somewhat
+greater cooling effect. By adjusting the flow of water through the pipe
+a continuous cooling effect of mild degree may be obtained. While
+formerly the air in the space next the zinc wall was either cooled or
+heated alternately by opening the water-valve or by passing a current
+through the heating coil, at present it is found much more advantageous
+to allow a slow flow of air and water through the pipes continuously,
+thus having the air-space normally somewhat cooler than is desired. The
+effect of this cooling, therefore, is then counterbalanced by passing an
+electric current of varying strength through the heating wire. By this
+manipulation it is unnecessary that the observer manipulate more than
+one instrument, namely, the rheostat, while formerly he had to
+manipulate valves, compressed-air cocks, and rheostat. The arrangement
+for providing for the amount of compressed air and water is shown in
+fig. 13, in which it is seen that a small drop-sight feed-water valve is
+attached to the pipe C leading into the dead air-space surrounding the
+calorimeter chamber. Compressed air enters at B and the amount entering
+can be regulated by the pet-cock. The amount of water admitted is
+readily observed by the sight feed-valve. When once adjusted this form
+of apparatus produces a relatively constant cooling effect and
+facilitates greatly the manipulation of the calorimetric apparatus as a
+whole.
+
+
+THE THERMO-ELECTRIC ELEMENTS.
+
+In order to detect differences in temperature between the copper and
+zinc walls, some system for measuring temperature differences between
+these walls is essential. For this purpose we have found nothing that is
+as practical as the system of iron-German-silver thermo-electric
+elements originally introduced in this type of calorimeter by E. B.
+Rosa, of the National Bureau of Standards, formerly professor of physics
+at Wesleyan University. In these calorimeters the same principle,
+therefore, has been applied, and it is necessary here only to give the
+details of such changes in the construction of the elements, their
+mounting, and their insulation as have been made as a result of
+experience in constructing these calorimeters. An element consisting of
+four pairs of junctions is shown in place as T-J in fig. 25.
+
+One ever-present difficulty with the older form of element was the
+tendency for the German-silver wires to slip out of the slots in which
+they had been vigorously crowded in the hard maple spool. In thus
+slipping out of the slots they came in contact with the metal thimble in
+the zinc wall and thus produced a ground. In constructing the new
+elements four pairs of iron-German-silver thermal junctions were made on
+essentially the same plan as that previously described,[6] the only
+modification being made in the spool. While the ends of the junctions
+nearest the copper are exposed to the air so as to take up most rapidly
+the temperature of the copper, it is somewhat difficult to expose the
+ends of the junctions nearest the zinc and at the same time avoid
+short-circuiting. The best procedure is to extend the rock maple spool
+which passes clear through the ferule in the zinc wall and cut a wide
+slot in the spool so as to expose the junctions to the air nearest the
+ferule. By so doing the danger to the unprotected ends of the junctions
+is much less. The two lead-wires of German silver can be carried through
+the end of the spool and thus allow the insulation to be made much more
+satisfactorily. In these calorimeters free use of these thermal
+junctions has been made. In the chair calorimeter there are on the top
+16 elements consisting of four junctions each, on the rear 18, on the
+front 8, and on the bottom 13. The distribution of the elements is made
+with due reference to the direction in which the heat is most directly
+radiated and conducted from the surface of the body.
+
+While the original iron-German-silver junctions have been retained in
+two of these calorimeters for the practical reason that a large number
+of these elements had been constructed beforehand, we believe it will be
+more advantageous to use the copper-constantin couple, which has a
+thermo-electric force of 40 microvolts per degree as against the 25 of
+the iron-German-silver couple. It is planned to install the
+copper-constantin junctions in the calorimeters now building.
+
+
+INTERIOR OF THE CALORIMETER.
+
+Since the experiments to be made with this chamber will rarely exceed 6
+to 8 hours, there is no provision made for installing a cot bed or other
+conveniences which would be necessary for experiments of long duration.
+Aside from the arm-chair with the foot-rest suspended from the balance,
+there is practically no furniture inside of the chamber, and a shelf or

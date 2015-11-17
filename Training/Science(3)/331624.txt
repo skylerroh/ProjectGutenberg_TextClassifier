@@ -1,0 +1,101 @@
+atomic energy.
+
+With these tools, researchers were not long in accurately identifying
+the missing elements 43, 61, 85, and 87 and more--indeed, the list of
+new elements, isotopes, and particles now seems endless.
+
+Element 43 was "made" for the first time as a result of bombarding
+molybdenum with deuterons in the Berkeley cyclotron. The chemical work
+of identifying the element was done by Emilio Segre and others then
+working at Palermo, Sicily, and they chose to call it technetium,
+because it was the element first made by artificial technical methods.
+
+Element 61 was made for the first time from the fission disintegration
+products of uranium in the Clinton (Oak Ridge) reactor. Marinsky and
+Glendenin, who did the chemical work of identification, chose to call it
+promethium because they wished to point out that just as Prometheus
+stole fire (a great force for good or evil) from the hidden storehouse
+of the gods and presented it to man, so their newly assembled reactor
+delivered to mankind an even greater force, nuclear energy.
+
+Element 85 is called astatine, from the Greek astatos, meaning
+"unstable," because astatine _is_ unstable (of course all other elements
+having a nuclear charge number greater than 84 are unstable, too).
+Astatine was first made at Berkeley by bombarding bismuth with alpha
+particles, which produced astatine and released two neutrons. The
+element has since been found in nature as a small constituent of the
+natural decay of actinium.
+
+The last of the original 92 elements to be discovered was element 87,
+francium. It was identified in 1939 by French scientist Marguerite
+Perey.
+
+Children have a game in which they pile blocks up to see how high they
+can go before they topple over. In medieval times, petty rulers in their
+Italian states vied with one another to see who could build the tallest
+tower. Some beautiful results of this game still remain in Florence,
+Siena, and other Italian hill cities. Currently, Americans vie in a
+similar way with the wheelbase and overall length of their cars. After
+1934, the game among scientists took the form of seeing who could extend
+the length of the periodic system of the elements; as with medieval
+towers, it was Italy that again began with the most enthusiasm and
+activity under the leadership of Enrico Fermi.
+
+Merely adding neutrons would not be enough; that would make only a
+heavier isotope of the already known heaviest elements, uranium.
+However, if the incoming neutron caused some rearrangement within the
+nucleus and if it were accompanied by expulsion of electrons, that
+_would_ make a new element. Trials by Fermi and his co-workers with
+various elements led to unmistakeable evidence of the expulsion of
+electrons (beta activity) with at least four different rates of decay
+(half-lives). Claims were advanced for the creation of elements 93 and
+94 and possibly further (the transuranium elements, Table I). Much
+difficulty was experienced, however, in proving that the activity really
+was due to the formation of elements 93 and 94. As more people became
+interested and extended the scope of the experiments, the picture became
+more confused rather than clarified. Careful studies soon showed that
+the activities did _not_ decay logarithmically--which means that they
+were caused by mixtures, not individual pure substances--and the
+original four activities reported by Fermi grew to at least nine.
+
+As a matter of fact, the way out of the difficulty had been indicated
+soon after Fermi's original announcement. Dr. Ida Noddack pointed out
+that no one had searched among the products of Fermi's experiment for
+elements _lighter_ than lead, but no one paid any attention to her
+suggestion at the time. The matter was finally cleared up by Dr. Otto
+Hahn and F. Strassmann. They were able to show that instead of uranium
+having small pieces like helium nuclei, fast electrons, and super-hard
+x-rays, knocked off as expected, the atom had split into two roughly
+equal pieces, together with some excess neutrons. This process is called
+nuclear fission. The two large pieces were unstable and decayed further
+with the loss of electrons, hence the [beta] activity. This process is
+so complicated that there are not, as originally reported, only four
+half-lives, but at least 200 different varieties of at least 35
+different elements. The discovery of fission attended by the release of
+enormous amounts of energy led to feverish activity on the part of
+physicists and chemists everywhere in the world. In June 1940, McMillan
+and Abelson presented definite proof that element 93 had been found in
+uranium penetrated by neutrons during deuteron bombardment in the
+cyclotron at the University of California Radiation Laboratory.
+
+The California scientists called the newly discovered element neptunium,
+because it lies beyond the element uranium just as the planet Neptune
+lies beyond Uranus. The particular isotope formed in those first
+experiments was {93}Np<239>; this is read neptunium having a nuclear charge
+of 93 and an atomic mass number of 239. It has a half-life of 2.3 days,
+during which it gives up another electron ([beta] particle) and becomes
+element 94, or plutonium (so called after Pluto, the next planet beyond
+Neptune). This particular form of plutonium ({94}Pu<239>) has such a long
+half-life (24,000 years) that it could not be detected. The first
+isotope of element 94 to be discovered was Pu<238>, made by direct deuteron
+bombardment in the Berkeley 60-inch cyclotron by Radiation Laboratory
+scientists Seaborg, McMillan, Kennedy, and Wahl; it had an [alpha]-decay
+half-life of 86.4 years, which gave it sufficient radioactivity so that
+its chemistry could be studied.
+
+Having found these chemical properties in Pu<238>, experimenters knew
+{94}Pu<239> would behave similarly. It was soon shown that the nucleus of
+{94}Pu<239> would undergo fission in the same way as {92}U<235> when
+bombarded with slow neutrons and that it could be produced in the newly
+assembled atomic pile. Researchers wished to learn as much as possible
+about its chemistry; therefore, during the summer of 1942 two large

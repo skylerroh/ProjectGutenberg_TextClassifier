@@ -1,0 +1,395 @@
+    _To raise a quantity to a power, multiply exponents._
+
+    _To extract a root, divide the exponent of the power by the
+    index of the root._
+
+  1. Find the value of 3^2 - 5 x 4^0 + 8^(-2/3) + 1^(2/5).
+
+  2. Find the value of 8^(-2/3) + 9^(3/2) - 2^(-2) + 1^(-2/5) - 7^0.
+
+Give the value of each of the following:
+
+  3. (3^0)/5, 3/(5^0), (3^0)/(5^0),
+     3^0 x 5, 3 x 5^0, 3^0 x 5^0, 3^0 + 5^0, 3^0 - 5^0.
+
+  4. Express 7^0 as some power of 7 divided by itself.
+
+Simplify:
+
+  5. 16^(1/3) . 2^(1/2) . 32^(5/6).     (Change to the same base first.)
+
+  6. [2/(8^(-3))]^(1/5).
+
+  7. [(x^n)^(n + 2)]/[(x^(n + 1))(x^(n - 1))].
+
+  8. (x + 3x^(2/3) - 2x^(1/3))(3 - 2x^(-1/3) + 4x^(-2/3)).
+
+  9. [(a^2b)/(c^2d)]^(1/2) x [(c^3d)/(ab^3)]^(1/3)
+         x [(a^(1/3)c)/(b^(1/4)d^(5/12))]^2.
+
+  10. [(a^(-4))/(b^(-2)c)]^(-3/4)
+          x [(a^(-1)b[c^(-3)]^(1/2))/(ab^(-1))]^(1/2).
+
+  11. [([a^2]^(1/3))/([b^(-1)]^(1/4)) . ([c^(-3)]^(1/2))/(a^(1/3))
+          . (b^(-1/4)a^(1/3))/(c^(-1))]^(-6).
+
+~Reference:~ The chapter on Theory of Exponents in any algebra.
+
+
+Solve for x:
+
+  1. x^(2/3) = 4.
+
+  2. x^(-3/4) = 8.
+
+Factor:
+
+  3. x^(2/3) - 9.
+
+  4. x^(3/5) + 27.
+
+  5. x^(2a) - y^(-6).
+
+  6. a^(1/3) x^(1/2) - 3a^(1/3) + 5x^(1/2) - 15.
+
+  7. Find the H. C. F. and L. C. M. of
+     a^2 + a^(3/2) b^(1/2) + a^(1/2) b^(3/2) - b^2,
+     a^2 - a^(3/2) b^(1/2) - a^(1/2) b^(3/2) - b^2.
+
+  8. Simplify the product of:
+     (ayx^(-1))^(1/2), (bxy^(-2))^(1/3),
+     and (y^2a^(-2)b^(-2))^(1/4).                         (_Princeton._)
+
+  9. Find the square root of:
+     25a^(4/3)b^(-3) - 10a^(2/3)b^(-3/2) - 49
+         + 10a^(-2/3)b^(3/2) + 25a^(-4/3)b^3.
+
+  10. Simplify [(2^(n + 2))/(4^(-n)) / (8^n)/(2^3)]^(1/5).
+
+  11. Find the value of
+      (7 . 13^0 / 7)/(21^0) + 3^0 x (4^0 . 7^0)/[(7a + b)^0] + 8^(-2/3).
+
+  12. Express as a power of 2: 8^3; 4^5; 4^3 . 8^(2/3) . 16^(3/4).
+
+  13. Simplify
+      {[(x^(a + 1))/(x^(1 - a))]^a
+          / [(x^a)/(x^(1 - a))]^(a - 1)}^(1/(3a - 1)).
+
+  14. Simplify
+      [(x^(5/2) y^(4/3))/(z^(-5/4)) . (z^4)/(x^(-3) y^(-5/3))
+          / (y^(-2) z^(1/4))/(x^(-1/2))]^(1/5).
+
+  15. Expand (a^(1/2) + b^(1/3))^4, writing the result with fractional
+      exponents.
+
+~Reference:~ The chapter on Theory of Exponents in any algebra.
+
+
+
+
+RADICALS
+
+
+  1. Review all definitions in Radicals, also the methods of
+     transforming and simplifying radicals. When is _a radical in its
+     simplest form_?
+
+  2. Simplify (to simplest form):
+       [2/3]^(1/2);
+       [1/11]^(1/2);
+       [3/5]^(1/3);
+       3[5/6]^(1/2);
+       (2a/b)[(8b^2)/(27a)]^(1/2);
+       [5/(x^n)]^(1/2n);
+       (a + b)^2 [(-a^4)/((a + b)^5)]^(1/3);
+       27^(1/2);
+       [54]^(1/3);
+       -5[125^(1/2)].
+
+  3. Reduce to entire surds:
+       2[3^(1/2)];
+       2[3^(1/4)];
+       6[2^(1/3)];
+       a[[b^2]^(1/n)];
+       -3[2^(1/3)];
+       3a[[(a + 2)/(6a^2)]^(1/3)];
+       (a + 2y)[(a - 2y)/(a + 2y)]^(1/2).
+
+  4. Reduce to radicals of lower order (or simplify indices):
+       [a^2]^(1/4);
+       [a^3]^(1/6);
+       [27a^3]^(1/6);
+       [81 a^4 x^8]^(1/12);
+       [9x^2 y^4 z^10]^(1/2n).
+
+  5. Reduce to radicals of the same degree (order, or index):
+       7^(1/2) and [11]^(1/3);
+       5^(1/3) and 3^(1/4);
+       7^(1/6) and 3^(1/2);
+       [x^m]^(1/n) and [x^n]^(1/m);
+       [c^y]^(1/x), [c^z]^(1/y), and [c^x]^(1/z).
+
+  6. Which is greater, 3^(1/2) or 4^(1/3)? [23]^(1/3) or 2[2^(1/2)]?
+
+  7. Which is greatest, 3^(1/2), 5^(1/3), or 7^(1/4)? Give work and
+     arrange in descending order of magnitude.
+
+Collect:
+
+  8. 128^(1/2) - 2[50^(1/2)] + 72^(1/2) - 18^(1/2).
+
+  9. 2[5/3]^(1/2) + (1/6)60^(1/2) + 15^(1/2) + [3/5]^(1/2).
+
+  10. [(m - n)^2a]^(1/2) + [(m + n)^2a]^(1/2) - [am^2]^(1/2)
+        + [a(n - m)^2]^(1/2) - a^(1/2).
+
+  11. A and B each shoot thirty arrows at a target. B makes twice as
+      many hits as A, and A makes three times as many misses as B.
+      Find the number of hits and misses of each.      (_Univ. of Cal._)
+
+~Reference:~ The chapter on Radicals in any algebra (first part of the
+               chapter).
+
+
+The most important principle in Radicals is the following:
+
+    (ab)^(1/n) = a^(1/n) b^(1/n).
+
+    Hence [ab]^(1/n) = a^(1/n) . b^(1/n).
+
+    Or, a^(1/n) . b^(1/n) = [ab]^(1/n).
+
+From this also ([ab]^(1/n))/(a^(1/n)) = b^(1/n).
+
+
+Multiply:
+
+  1. 2[4^(1/3)] by 3[6^(1/3)].
+
+  2. 2^(1/2) by 3^(1/3).
+
+  3. 2^(1/4) by 4^(1/6).
+
+  4. [a + x^(1/2)]^(1/2) by [a - x^(1/2)]^(1/2).
+
+  5. 2^(1/2) + 3^(1/2) - 5^(1/2) by 2^(1/2) - 3^(1/2) + 5^(1/2).
+
+  6. -p/2 + ([p^2 - 4q]^(1/2))/2 by -p/2 - ([p^2 - 4q]^(1/2))/2.
+
+Divide:
+
+  7. 27^(1/2) by 3^(1/2).
+
+  8. 4[18^(1/2)] by 5[32^(1/2)].
+
+  9. 3[12]^(1/3) by 6^(1/2).
+
+  10. 3^(1/2) by 3^(1/4).
+
+  11. 6[105^(1/2)] + 18[40^(1/2)] - 45[12^(1/2)] by 3[15^(1/2)].
+                                                     (_Short division._)
+
+  12. 10[18]^(1/3) - 4[60]^(1/3) + 5[100]^(1/3) by 3[30]^(1/3).
+
+Rationalize the denominator:
+
+  13. 2/(3^(1/2));
+      7/(7^(1/2));
+      5/(2[5^(1/2)]);
+      3/([a^2]^(1/5));
+      4/([a^3]^(1/7)).
+
+  14. 2/(2^(1/2)) + 3^(1/2));
+      (a^(1/2) + b^(1/2))/(a^(1/2) - b^(1/2));
+      3/(3 - 3^(1/2)).
+
+  15. [3^(1/2) + 2^(1/2)]/[6^(1/2) + 3^(1/2) - 2^(1/2)].
+
+Review the method of finding the square root of a binomial surd. (By
+inspection preferably.) Then find square root of:
+
+  16. 5 + 2[6^(1/2)].
+
+  17. 17 - 12[2^(1/2)].
+
+  18. 7 - 33^(1/2).
+
+~Reference:~ The chapter on Radicals in any algebra, beginning at
+               Addition and Subtraction of Radicals.
+
+
+
+
+MISCELLANEOUS EXAMPLES, ALGEBRA TO QUADRATICS
+
+
+Results by inspection, examples 1-10.
+
+Divide:
+
+  1. (x^(5/17) + y^(5/17))/(x^(1/17) + y^(1/17)).
+
+  2. (x - y)/(x^(1/3) - y^(1/3)).
+
+  3. (m^2 + n^2)/(m^(2/3) + n^(2/3)).
+
+  4. (x - y^2)/(x^(1/3) - [y^2]^(1/3)).
+
+Multiply:
+
+  5. [a^(-3/4) + 2/(m^(1/2))]^2.
+
+  6. (K^(-2/7) - g^(-11/25))^2.
+
+  7. (r^(2s) + l^(-3m))(r^(2s) - l^(-3m)).
+
+  8. [a^(-2) + b^(-3) - 1/(c^2)]^2.
+
+  9. (3K^x + 4t^(-3))(3K^x - 7t^(-3)).
+
+  10. (2y^(2/7) - 40K^3)(3y^(2/7) + 55K^3).
+
+Factor:
+
+  11. x^(2/3) - 64.
+
+  12. y^(3/5) + 27.
+
+  13. b^(3/2) - 8m^(-1).
+
+  14. 3p - 8p^(1/2) - 35.
+
+Factor, using radicals instead of exponents:
+
+  15. 60 - 7[3b^(1/2)] - 6b.
+
+  16. 15m - 2[[mn]^(1/2)] - 24n.
+
+  17. a - b (factor as difference of two squares).
+
+  18. a - b (factor as difference of two cubes).
+
+  19. a - b (factor as difference of two fourth powers).
+
+  20. Find the H. C. F. and L. C. M. of
+        x^2 + xy^(1/2) - 2y,
+        2x^2 + 5xy^(1/2) + 2y,
+        2x^2 - xy^(1/2) - y.
+
+  21. Solve (short method)
+        (x - 7)/(x - 8) - (x - 8)/(x - 9)
+          = (x - 4)/(x - 5) - (x - 5)/(x - 6).
+
+  22. Simplify
+        (ab/c + bc/a + ca/b)/(a/bc + b/ca + c/ab)
+          x [((a + b + c)^2)/(ab + bc + ca) - 2].         (_Princeton._)
+
+
+  1. Solve for p: 2^(p - 3) = 128.
+
+  2. Solve for t: t^(3/2) = -27.
+
+  3. Find the square root of 8114.4064. What, then, is the square root
+     of .0081144064? of 811440.64? From any of the above can you
+     determine the square root of .081144064?
+
+  4. The H. C. F. of two expressions is a(a - b), and their L. C. M. is
+     a^2b(a + b)(a - b). If one expression is ab(a^2 - b^2), what is the
+     other?
+
+  5. Solve (short method):
+       5/(7 - x) - [(2-1/4)x - 3]/4 - (x + 11)/8 + (11x + 5)/16 = 0.
+
+  6. Solve
+       2/m - 3/n + 10/p = -3,
+       4/m + 5/p + 6/n = 15,
+       1/m - 1/n + 5/p = -1/2.
+
+  7. Simplify
+       21[2/3]^(1/2) - 5[4/5]^(1/2) + 6[4-1/6]^(1/2)
+         - 10[3-1/5]^(1/2) + (40/3)[11-1/4]^(1/2).
+
+  8. Does [16 x 25]^(1/2) = 4 x 5? Does [16 + 25]^(1/2) = 4 + 5?
+
+  9. Write the fraction 5/(4 + 2[3^(1/2)]) with rational denominator,
+     and find its value correct to two decimal places.
+
+  10. Simplify
+      [{([p + [p^2 - q]^(1/2)]/2)^(1/2)
+          + ([p - [p^2 - q]^(1/2)]/2)^(1/2)}^2]/[p + q^(1/2)].
+                                                          (_Princeton._)
+
+
+  1. Rationalize the denominator of
+     {6^(1/2) + 3^(1/2) - 3[2^(1/2)]}/{6^(1/2) - 3^(1/2) + 3[2^(1/2)]}.
+                                                       (_Univ. of Cal._)
+
+  2. Simplify [2^(n + 4) - 2(2^n)]/[2(2^(n + 3))].    (_Univ. of Penn._)
+
+  3. Find the value of [1 + 8^(-x/3)]/[(8x)^(1/2) + 10^(x - 2)],
+     when x = 2.                                            (_Cornell._)
+
+  4. Find the value of x if
+       x^(6/5) = y^4,
+       y^(2/3) = 9.                                         (_M. I. T._)
+
+  5. A fisherman told a yarn about a fish he had caught. If the fish
+     were half as long as he said it was, it would be 10 inches more
+     than twice as long as it is. If it were 4 inches longer than it
+     is, and he had further exaggerated its length by adding 4 inches,
+     it would be 1/5 as long as he now said it was. How long is the
+     fish, and how long did he first say it was?            (_M. I. T._)
+
+  6. The force _P_ necessary to lift a weight _W_ by means of a certain
+     machine is given by the formula
+
+       P = a + bW,
+
+     where _a_ and _b_ are constants depending on the amount of friction
+     in the machine. If a force of 7 pounds will raise a weight of 20
+     pounds, and a force of 13 pounds will raise a weight of 50 pounds,
+     what force is necessary to raise a weight of 40 pounds? (First
+     determine the constants _a_ and _b_.)                  (_Harvard._)
+
+  7. Reduce to the simplest form:
+     [[4/[2^(n + 2)]]^(1/n);
+     [ax(a^(-1)x - ax^(-1))]/[x^(2/3) - a^(2/3)].
+
+  8. Determine the H. C. F. and L. C. M. of (xy - y^2)^3 and y^3 - x^2y.
+                                             (_College Entrance Board._)
+
+
+  1. Simplify (a - 8m)/(a^(1/3) - 2m^(1/3)) - 2a^(1/3)m^(1/3).
+
+  2. Simplify, writing the result with rational denominator:
+     ([a^(1/2) + (1)/(x^(-1/2))]^2 - [(1)/(a^(-1/2)) - x^(1/2)]^2)
+         / (x + [a^2 + x^2]^(1/2)).                         (_M. I. T._)
+
+  3. Find [7 - 48^(1/2)]^(1/2).
+
+  4. Expand ([a^3]^(1/2) - [b^5]^(1/2))^5.
+
+  5. Expand and simplify (1 - 2[3^(1/2)] + 3[2^(1/2)])^2.
+
+  6. Solve the simultaneous equations
+       x ^(-1/2) + 2y^(-1/2) = 7/6,
+       2x^(-1/2) - y^(-1/2) = 2/3.                             (_Yale._)
+
+  7. Find to three places of decimals the value of
+         {[(a + b)^(-1/3)]/[(11a + b^2)^(1/6)]
+             . [({a^3 - b^3)^(-1/2)]/[(a - b)^(1/2)]}^(1/2),
+     when a = 5 and b = 3.                                 (_Columbia._)
+
+  8. Show that (10 - 4[5^(1/2)])/(5 + 3[5^(1/2)]) is the negative of
+     the reciprocal of (10 + 4[5^(1/2)])/(5 - 3[5^(1/2)]).
+                                                           (_Columbia._)
+
+  9. Solve and check {5}/{[3x + 2]^(1/2)} = [3x + 2]^(1/2) + [3x - 1]^(1/2).
+
+  10. Assuming that when an apple falls from a tree the distance
+      (S meters) through which it falls in any time (t seconds) is
+      given by the formula S = (1/2)gt^2 (where g = 9.8), find to two
+      decimal places the time taken by an apple in falling 15 meters.
+                                             (_College Entrance Board._)
+
+

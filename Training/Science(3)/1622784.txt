@@ -1,0 +1,351 @@
+constituents together.  It is then poured so as to form thin sticks.
+
+The aluminium is carefully cleaned by rubbing with a cuttle bone, or
+fine sand, and strong warm potash.  It is then washed in water and
+dried with a clean cloth.  The aluminium is now held over a clean
+flame and heated till it will melt the solder which is rubbed against
+it.  The solder sticks at once, especially if rubbed with another bit
+of aluminium (an aluminium soldering bit) similarly coated.  To solder
+two bits of aluminium together it is only necessary to tin the bits by
+this process and then sweat them together.
+
+The same process applies perfectly to aluminium caused to adhere to
+glass by the previously mentioned process, and enables strong soldered
+contacts to be made to glass.  In one case, while I was testing the
+method, the adhesion was so strong that the solder on contracting
+while cooling actually chipped the surface clean off the glass.  In
+order to get over this I have endeavoured to soften the solder by
+mixing in a little of the fusible metal mercury amalgam;  and though
+this prevents the glass from being so much strained, it reduces the
+adherence of the solder.  It is a comfort to be able to solder
+aluminium after working for so many years by way of electroplating, or
+filing under solder.  An alternative method of soldering aluminium
+will be described when the electroplating of aluminium is discussed, Sec.
+138.
+
+Gilding Glass.  In looking over some volumes of the Journal fuer
+praktische Chemie, I came across a method of gilding glass due to
+Boettger (Journ.  f.  prakt.  Chem. 103, p.  414).  After many trials
+I believe I am in a position to give definite instructions as to the
+best way of carrying out this rather troublesome operation.  The films
+of gold obtained by the process are very thick, and the appearance of
+the gold exceedingly fine.  The difficulty lies in the exact
+apportionment of the reducing solution.  If too much of the reducing
+solution be added, the gold deposits in a fine mud, and no coating is
+obtained.  If, on the other hand, too little of the reducing solution
+be added, little or no gold is deposited.  The secret of success turns
+on exactly hitting the proper proportions.
+
+The reducing solution consists of a mixture of aldehyde and glucose,
+and the difficulty I have had in following Boettger's instructions
+arose from his specifying "commercial aldehyde" of a certain specific
+gravity which it was impossible to reproduce.  I did not wish to
+specify pure aldehyde, which is not very easily got or stored, and
+consequently I have had to determine a criterion as to when the
+proportion of reducing solution is properly adjusted.
+
+The aldehyde is best made as required.  I employed the ordinary
+process as described in Thorpe's Dictionary of Applied Chemistry, by
+distilling alcohol, water, sulphuric acid, and manganese dioxide
+together.  The crude product is mixed with a large quantity of calcium
+chloride (dry--not fused), and is rectified once.  The process is
+stopped when the specific gravity of the product reaches 0.832 at 60 deg.
+F.  The specific gravity of pure aldehyde is 0.79 nearly.
+
+The following is a modification of Boettger's formula:-
+
+Solution I
+
+1 gram of pure gold is converted into chloride--got acid free--i.e.
+to the state represented by AuCl3, and dissolved in 120 cc.  of water.
+
+This solution is the equivalent of one containing 6.5 grains of
+trichloride to the ounce of water.
+
+Solution II.
+
+  6     grams sodium hydrate.
+
+100     grams water.
+
+Solution III.
+
+ 0.2     grams glucose (bought as pure).
+
+12.6    cubic centimetres 95 per cent alcohol.
+
+12.6    cubic centimetres water.
+
+ 2.0     cubic centimetres aldehyde, sp. gr. 0.832.
+
+To gild glass these solutions are used in the following proportions by
+volume:-
+
+16     parts of     No.  I.
+
+ 4    parts of    No.  II.
+
+ 0.8    parts of    No.  III.
+
+The glass is first cleaned well with acid and washed with water:  it
+is then rinsed with Solution No.  III.  If it is desired to gild the
+inside of a glass vessel, Solution No.  III.  may be placed in the
+vessel first, and the walls of the vessel rinsed round carefully.
+Solutions I.  and II.  are mixed separately and then added
+to III.--after about two minutes the whole is well shaken up.
+
+If it be desired to gild a mirror of glass, the glass-plate is
+suspended face downwards in a dish of the mixed solutions--care being
+taken to rinse the glass with Solution III.  first.
+
+If the mixture darkens in from 7' to 10' in diffuse daylight and at
+60 deg.F.  it will gild well, and it generally pays to make a few trials
+in a test tube to arrive at this.  If too much reducing solution is
+present the liquid will get dark more rapidly, and vice versa.  The
+gilding will require several hours--as much as twelve hours may be
+needed.
+
+The reaction is one of great chemical interest, being one of that
+class of reactions which is greatly affected by capillarity.  Thus it
+occasionally happens that when the reducing solution is not in the
+right proportion, gold will be deposited at the surface of the liquid
+(so as to form a gilt ring on the inside of a test tube), the
+remainder of the gold going down as mud.  The gold deposited is at
+first transparent to transmitted light and is deeply blue.  I thought
+this might be due to a trace of copper or silver, but on carefully
+purifying the gold no change of colour was noted.  If the reducing
+solution is present in slightly greater proportions than that given in
+the formula, the gold comes down with a richer colour, and has a
+tendency to form a mat surface and to separate from the glass.  The
+gold which is deposited more slowly has a less rich colour but a
+brighter surface.  The operation should be interrupted when a
+sufficient deposit has been obtained, because it is found that the
+thicker the deposit, the more lightly is it held to the glass surface.
+
+Sec. 75.  The Use of the Diamond-cutting Wheel.
+
+A matter which is not very well known outside geological circles is
+the manipulation of the diamond-cutting wheel, and as this is often of
+great use in the physical laboratory, the following notes may not be
+out of place.  I first became acquainted with the art in connection
+with the necessity which arose for me to make galvanometer mirrors out
+of fused quartz, and it was then that I discovered with surprise how
+difficult it is to obtain information on the point.  I desire to
+express my indebtedness to my colleagues, Professor David and Mr.
+Smeeth, for the instruction they have given me.  In what follows I
+propose to describe their practice rather than my own, which has been
+of a makeshift description.  I will therefore select the process of
+cutting a slice of rock for microscopical investigation.
+
+Sec. 76.  Arming a Wheel.
+
+Fig. 63.
+
+A convenient wheel is made out of tin-plate, i.e.  mild steel sheet,
+about one-thirtieth of an inch thick and seven inches in diameter.
+This wheel must be quite flat and true, as well as round;  too much
+pains cannot be taken in securing these qualities.  After the wheel is
+mounted, it is better to turn it quite true by means of a
+watch-maker's "graver" or other suitable tool.  The general design of
+a rock-cutting machine will be clear from the illustration (Fig.  63).
+
+The wheel being set up correctly, the next step is to arm it with
+diamond dust.  For this purpose it is before all things necessary that
+real diamond dust should be obtained.  The best plan is to procure a
+bit of "bort" which has been used in a diamond drill, and whose
+properties have therefore been tested to some extent.  This is ground
+in a diamond mortar--or rather hammered in one--and passed through a
+sieve having at least 80 threads to the inch.  The dust may be
+conveniently kept in oil.
+
+To arm the wheel, a little dust and oil is taken on the finger, and
+laid on round the periphery of the wheel.  A bit of flint or agate is
+then held firmly against the edge of the wheel and the latter is
+rotated two or three times by hand.  The rotation must be quite
+slow--say one turn in half a minute--and the flint must be held firmly
+and steadily against the wheel.  Some operators prefer to hammer the
+diamond dust into the wheel with a lump of flint, or agate, but there
+is a risk of deforming the wheel in the process.  When a new wheel is
+set up, it may be necessary to repeat the above process once every
+half hour or so till the cutting is satisfactory, but when once a
+wheel is well armed it will work for a long time without further
+attention.
+
+Sec. 77.  Cutting a Section.
+
+A wheel 7 inches in diameter may be rotated about 500 times per
+minute, and will give good results at that speed.  The work, as will
+be seen from the diagram, is pressed against the edge of the wheel by
+a force, which in the case quoted was about the weight of eleven
+ounces.  This was distributed along a cutting arc of three-quarters of
+an inch.
+
+A convenient cutting lubricant is a solution of Castile soap in water,
+and this must be freely supplied;  if the wheel gets dry it is almost
+immediately spoiled owing to the diamond dust being scraped off.  In
+the figure the lubricant is supplied by a wick running into the
+reservoir.  I have used both clock oil and ordinary gas-engine oil as
+lubricants, with equally satisfactory results.  As to the speed of
+cutting, in the experiment quoted a bit of rather friable "gabbro,"
+measuring three-quarters of an inch on the face by five-eighths of an
+inch thick, was cut clean through in six minutes, or by 3000 turns of
+the wheel.  The travel of the edge was thus between 5000 and 6000
+feet, or say 9000 feet, nearly 2 miles, per inch cut.
+
+A good solid rock, like basalt, can be cut into slices of about 3/32
+inch thick.  A very loose rock is best boiled in Canada balsam, hard
+enough to set, before it is put against the wheel.
+
+Instead of a grinding machine a lathe may be employed.  The disc is,
+of course, mounted on the mandrel, and the work on the slide-rest.
+The latter must be disconnected from its feed screws, and a weight
+arranged over a pulley so as to keep the work pressed against the
+wheel by a constant force.
+
+It may, perhaps, occur to the reader to inquire whether any clearance
+in the cut is necessary.  The answer is that in all probability, and
+in spite of every care, the wheel will wobble enough to give
+clearance.  If it does not, a little diamond dust rubbed into the side
+of the wheel, as well as the edge, will do all that is required.  The
+edge also, after two or three armings, "burrs" a little, and thus
+provides a clearance naturally.  It is not unlikely that in the near
+future the electric furnace will furnish us with a number of products
+capable of replacing the diamond as abrading agents.  The cost of the
+small amount of diamond dust; required in a laboratory is so small,
+however, that it; is doubtful whether any appreciable economy will be,
+effected.
+
+Sec. 78.  Grinding Rock Sections, or Thin Slips of any Hard Material.
+
+A note on this is, perhaps, worth making, for the same reasons as were
+given for note, Sec. 75, which it naturally follows.  Just as
+trout-fishing; is described by Mr. Francis as the "art of fine and far
+off," [Footnote: In the Badminton Library, volume on Fishing.]
+section grinding may be called "the art of Canada balsam cooking," as
+follows.  A section of rock having been cut from the lump as just
+described, it becomes; necessary to grind it down for purposes of
+microscopical investigation.  For this purpose it is placed on a slip
+of glass, and cemented in position by Canada, balsam. Success in the
+operation of grinding the mounted section depends almost entirely on
+the way in which the mounting is done, and this in its turn depends on
+the condition to which the Canada has been brought.
+
+To illustrate the operations, I will describe a specific case, viz.
+that of grinding the section of "gabbro"' above described, for
+microscopical purposes.  One side of the section is probably
+sufficiently smooth and plane from the operation of the diamond wheel;
+if not, it must be ground by the finger on a slab of iron or gun-metal
+with emery and water, the emery passing a sieve of 80 threads to the
+inch.  The glass base on which the section is to be mounted for
+grinding is placed on a bit of iron or copper plate over a Bunsen
+burner, and three or four drops of natural Canada balsam are placed
+upon it.  The section is placed on the plate to heat at the same time.
+
+The temperature must not rise so high as to cause any visible change
+in the Canada balsam, except a slight formation of bubbles, which rise
+to the surface, and can be blown off.  The heating may require to be
+continued, say, up to twenty minutes.  The progress of the operation
+is tested by examining the balsam as to its viscous properties.
+
+An exceedingly simple and accurate way of testing is to dip a pair of
+ordinary forceps in the balsam, which may be stirred a little to
+secure uniformity.  The forceps are introduced with the jaws in
+contact, and, as soon as withdrawn, the jaws are allowed to spring
+apart, thus drawing out a balsam thread.  In a few moments the thread
+is cold, and if the forceps be compressed, this thread will bend.
+
+The Canada must be heated until it is just in such a state that on
+bringing the jaws together the thread breaks.  The forceps may open to
+about three-quarters of an inch.  If the Canada is more viscous, so
+that the thread does not break, the section when cemented by it will
+most probably slip on the slide.  On the other hand, if the balsam is
+more brittle, it will crumble away during the grinding.
+
+Assuming that the proper point has been reached, the section is
+mounted with the usual precautions to avoid air bubbles, i.e.  by
+dropping one edge on the balsam first.  When all is cold, the surface
+of the section may be ground on an iron plate with emery passing the
+80 sieve, till it is about 1/40 inch thick.  From this point it must
+be reduced on ground glass by flours of emery and water;  the rough
+particles of the former may be washed out for fine work.
+
+The process of grinding should not take more than half an hour if the
+section is properly cut, etc.  Beyond this point the allowable
+thickness must depend on the nature of the rock; a good general rule
+is to get the section just so thin that felspars show the yellow of
+the first order in a polarising, microscope.  The section is then
+finished with, say, two minutes emery or water of Ayr-stone dust.  It
+is better not to have the surface too smooth.
+
+To transfer the section, the hard Canada round the sides is scraped
+away, and the section itself covered with some fresh Canada from the
+bottle.  It is then warmed till it will slip off when a pin, or the
+invaluable dentist's chisel, is pressed against one side.  If the
+section be very delicate, the cover slip should be placed over it
+before it is moved to the proper slide.  The Canada used for mounting
+is not quite so hard as that employed in grinding, but it should be
+hard when cold, i.e. not sticky.
+
+The art of preparing Canada balsam appears to consist in heating it
+under such conditions as will ensure its being exposed in thin layers.
+I have wasted a good deal of time in trying to bake Canada in
+evaporating basins, with the invariable result that it was either over
+or under-baked, and got dark in colour during the process.
+
+On reviewing the process of rock section-cutting and mounting as just
+described, I cannot help thinking that, if properly systematised, it
+could be made much more rapid by the introduction of proper automatic
+grinding machinery.  It also seems not improbable that a proper
+overhaul of available gums and cements would be found to lead to a
+cementing material less troublesome than Canada balsam.
+
+Sec. 79.  Cutting Sections of Soft Substances.
+
+Though this art is fully treated of in books on practical biology, it
+is occasionally of use to the physicist, and the following note treats
+of that part of the subject which is not distinctly biological.
+
+Soft materials, of which thin sections may be required, generally
+require to be strengthened before they are cut.  For this purpose a
+variety of materials are available.  The one most generally used is
+hard paraffin.  The only point requiring attention is the embedding.
+The material must be dry.
+
+This is accomplished by soaking in absolute alcohol, i.e.  really
+absolute alcohol made by shaking up rectified spirit with potassium
+carbonate, previously dried, and then digesting for a day with large
+excess of quick-lime, making use of an inverted condenser and finally
+distilling off the alcohol without allowing it to come in contact with
+undried air.  After soaking for some time in absolute alcohol, the
+material may be transferred to oil of bergamot, or oil of cloves, or
+almost any essential oil.  After soaking in this long enough to allow
+the alcohol to diffuse out, the material may be lifted into a bath of
+melted paraffin (melting at, say, 51 deg. C.).  The process of soaking is
+in some cases made to go more rapidly by exhausting, and, if the
+material will stand it, by raising the temperature over 100 deg. C.  The
+soaking process may require minutes, hours, or days, according to the
+size and density of the material;  but a few hours are usually
+sufficient.
+
+When cold, the sections may be cut in any of the ordinary forms of
+microtome.
+
+Another way of embedding is to soak in collodion, and then precipitate
+the latter in the material and around it by plunging into nearly
+absolute alcohol.  The collodion yields a harder matrix than the
+paraffin.
+
+Whatever form of cutting machine is employed, the art of sharpening
+the knife is the only one requiring any particular notice.  The
+easiest way of obtaining a knife hard enough to sharpen, is to use a
+razor of good quality.  If it has to be ground, it is best to do this
+on a fine Turkey stone which is conveniently rested on two bits of
+rubber tubing, to avoid jarring the blade.  Many stones are slightly
+cracked, but on no account must the razor be dragged across a crack,
+or the edge will suffer.
+
+The necessary and sufficient condition is that the razor must be
+worked in little sweeps over the stone, and pressed against the latter
+by little more than its own weight, and the grinding must be regular.
+The edge may be inspected under a microscope, and it must be perfectly
+smooth and even before it will cut sections.  A finishing touch may be
