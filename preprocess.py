@@ -13,8 +13,8 @@ import pdb
 """
 Set these variables to be the top level directory of training samples (i.e. your_own_path/Training/) as well as the directory to store the result CSVs
 """
-TRAINING_DIR = "/Users/fenglin/Desktop/stat154/Training/"#"/Users/haolyu/Desktop/sta154/Training/"
-OUTPUT_DIR = "/Users/fenglin/Desktop/stat154/Training_Output/"#"/Users/haolyu/Desktop/sta154/output"
+TRAINING_DIR = "/Users/Skyroh/Desktop/stat154/Training/"#"/Users/haolyu/Desktop/sta154/Training/"
+OUTPUT_DIR = "/Users/Skyroh/Desktop/stat154/Training_Output/"#"/Users/haolyu/Desktop/sta154/output"
 
 FILTERED_FEATURE_SET_SIZE = 2000
 

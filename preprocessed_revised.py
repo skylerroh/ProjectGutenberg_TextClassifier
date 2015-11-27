@@ -12,8 +12,8 @@ import re
 """
 Set these variables to be the top level directory of training samples (i.e. your_own_path/Training/) as well as the directory to store the result CSVs
 """
-TRAINING_DIR = "/Users/haolyu/Desktop/sta154/Training/"
-OUTPUT_DIR =  "/Users/haolyu/Desktop/sta154/output"
+TRAINING_DIR = "/Users/Skyroh/Desktop/sta154/Training/"
+OUTPUT_DIR =  "/Users/Skyroh/Desktop/sta154/output"
 
 
 
