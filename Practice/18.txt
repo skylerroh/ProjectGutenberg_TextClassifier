@@ -1,0 +1,390 @@
+The Project Gutenberg EBook of Scientific American Supplement, No. 421,
+January 26, 1884, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Scientific American Supplement, No. 421,  January 26, 1884
+
+Author: Various
+
+Release Date: July 24, 2005 [EBook #16353]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SCIENTIFIC AMERICAN ***
+
+
+
+
+Produced by Juliet Sutherland, Jon Niehof and the Online
+Distributed Proofreading Team at www.pgdp.net
+
+
+
+
+
+[Illustration]
+
+
+
+
+SCIENTIFIC AMERICAN SUPPLEMENT NO. 421
+
+
+
+
+NEW YORK, JANUARY 26, 1884
+
+Scientific American Supplement. Vol. XVII., No. 421.
+
+Scientific American established 1845
+
+Scientific American Supplement, $5 a year.
+
+Scientific American and Supplement, $7 a year.
+
+
+       *       *       *       *       *
+
+
+
+
+TABLE OF CONTENTS
+
+
+I.    ENGINEERING AND MECHANICS.--Furcot's Six Horse Power
+      Steam Engine.--With several figures.                        6714
+
+      Foot Lathes.--With engraving.                               6715
+
+      Endless Trough Conveyer.--2 engravings.                     6715
+
+      Railroad Grades of Trunk Lines.                             6715
+
+      English Express Trains.--Average speed, long runs, etc.     6715
+
+      Apparatus for Separating Substances Contained in the
+      Waste Waters of Paper Mills, etc.--2 figures.               6717
+
+II.   TECHNOLOGY.--An English Adaptation of the American Oil
+      Mill.--Description of the apparatus, and of the old and
+      new processes.--Several engravings.                         6716
+
+      Large Blue Prints.--By W.B. Parsons, Jr.                    6717
+
+III.  ELECTRICITY, ETC.--Electrical Apparatus for Measuring
+      and for Demonstration at the Munich Exhibition.--With
+      descriptions and numerous illustrations of the different
+      machines.                                                   6711
+
+      A New Oxide of Copper Battery.--By F. De Lalande and S.
+      Chaperon.--With description and three illustrations.        6714
+
+IV.   MATHEMATICS, ETC.--To Find the Time of Twilight.--1 figure.  6720
+
+      A New Rule for Division in Arithmetic.                      6725
+
+      Experiments in Binary Arithmetic.                           6726
+
+V.    ARCHAEOLOGY.--Grecian Antiquities.--With engravings of the
+      Monument of Philopappus.--Tomb from the Ceramicus.--Tower
+      of the winds.--The Acropolis.--Old Corinth.--Temple of
+      Jupiter.--The Parthenon.--Temple of Theseus, etc.           6721
+
+VI.   NATURAL HISTORY, ETHNOLOGY, ETC.--Poisonous Serpents and
+      their Venom.--By Dr. Archie Stockwell.--A serpent's mouth,
+      fangs, and poison gland.--Manner of attack.--Nature of
+      the venom.--Action of venom.--Remedies.                     6719
+
+      Ethnological Notes.--Papuans.--Negritos.                    6720
+
+VII.  HORTICULTURE, BOTANY, ETC.--The Hornbeams.--Uses to
+      which the tree is put.--Wood for manufactures.--For
+      fuel.--Different varieties.--With engravings of the tree
+      as a whole, and of its leaves, fruit, flowers, etc.         6724
+
+      Fruit of Camellia Japonica.--1 engraving.                   6725
+
+VIII. MEDICINE. SANITATION, ETC.--House Drainage and Refuse.
+      Abstract of a lecture by Capt. Douglas Galton.--Treating
+      of the removal of the refuse from camps, small towns, and
+      houses.--Conditions to observe in house drains, etc.        6717
+
+      Pasteur's New Method of Attenuation.                        6718
+
+      Convenient Vaults.                                          6719
+
+IX.   MISCELLANEOUS.--Spanish Fisheries.--Noticeable objects
+      in the Spanish Court at the late Fisheries Exhibition.      6722
+
+      Duck Shooting at Montauk.                                   6723
+
+       *       *       *       *       *
+
+
+
+
+ELECTRICAL APPARATUS FOR MEASURING AND FOR DEMONSTRATION AT THE MUNICH
+EXHIBITION.
+
+
+Apparatus for use in laboratories and cabinets of physics were quite
+numerous at the Munich Exhibition of Electricity, and very naturally a
+large number was to be seen there that presented little difference
+with present models. Several of them, however, merit citation. Among
+the galvanometers, we remarked an apparatus that was exhibited by
+Prof. Zenger, of Prague. The construction of this reminded us of that
+of other galvanometers, but it was interesting in that its inventor
+had combined in it a series of arrangements that permitted of varying
+its sensitiveness within very wide limits. This apparatus, which Prof.
+Zenger calls a "Universal Rheometer" (Fig. 1), consists of a bobbin
+whose interior is formed of a piece of copper, whose edges do not
+meet, and which is connected by strips of copper with two terminals.
+This internal shell is capable of serving for currents of quantity,
+and, when the two terminals are united by a wire, it may serve as a
+deadener. Above this copper shell there are two identical coils of
+wire which may, according to circumstances, be coupled in tension or
+in series, or be employed differentially. Reading is performed either
+by the aid of a needle moving over a dial, or by means of a mirror,
+which is not shown in the figure. Finally, there is a lateral scale,
+R, which carries a magnetized bar, A, that may be slid toward the
+galvanometer. This magnet is capable of rendering the needle less
+sensitive or of making it astatic. In order to facilitate this
+operation, the magnet carries at its extremity a tube which contains a
+bar of soft iron that may be moved slightly so as to vary the length
+of the magnet. Prof. Zenger calls this arrangement a magnetic vernier.
+It will be seen that, upon combining all the elements of the
+apparatus, we can obtain very different combinations; and, according
+to the inventor, his rheometer is a substitute for a dozen
+galvanometers of various degrees of sensitiveness, and permits of
+measuring currents of from 20 amperes down to 1/50000000 an ampere.
+The apparatus may even be employed for measuring magnetic forces, as
+it constitutes a very sensitive magnetometer.
+
+[Illustration: FIG. 1.--ZENGER'S UNIVERSAL RHEOMETER.]
+
+Prof. Zenger likewise had on exhibition a "Universal Electrometer"
+(Fig. 2), in which the fine wire that served as an electrometric
+needle was of magnetized steel suspended by a cotton thread. In this
+instrument, a silver wire, t, terminating in a ball, is fixed to a
+support, C, hanging from a brass disk, P, placed upon the glass case
+of the apparatus. It will be seen that if we bring an electrified body
+near the disk, P, a deviation of the needle will occur. The
+sensitiveness of the latter may be regulated by a magnetic system like
+that of the galvanometer. Finally, a disk, P', which may be slid up
+and down its support, permits of the instrument being used as a
+condensing electrometer, by giving it, according to the distance of
+the disks, different degrees of sensitiveness. One constructor who
+furnished much to this part of the exhibition was Mr. Th. Edelmann of
+Munich, whose apparatus are represented in a group in Fig. 3. Among
+them we remark the following: A quadrant electrometer (Fig. 4), in
+which the horizontal 8-shaped needle is replaced by two connected
+cylindrical surfaces that move in a cylinder formed of four parts; a
+Von Beetz commutator; spyglasses with scale for reading measuring
+instruments (Fig. 3); apparatus for the study of magnetic variations,
+of Lamont (Fig. 3) and of Wild (Fig. 5); different types of the
+Wiedemann galvanometer; an electrometer for atmospheric observations
+(Fig. 6); a dropping apparatus (Fig. 7), in which the iron ball opens
+one current at a time at the moment it leaves the electro-magnet and
+when it reaches the foot of the support, these two breakages producing
+two induction sparks that exactly limit the length to be taken in
+order to measure the time upon the tracing of the chronoscope
+tuning-fork; an absolute galvanometer; a bifilar galvanometer (Fig. 8)
+for absolute measurements, in which the helix is carried by two
+vertical steel wires stretched from o to u, and which is rendered
+complete by a mirror for the reading, and a second and fixed helix, so
+that an electro-dynamometer may be made of it; and, finally, a
+galvanometer for strong currents, having a horseshoe magnet pivoted
+upon a vertically divided column which is traversed by the current,
+and a plug that may be arranged at different heights between the two
+parts of the column so as to render the apparatus more sensitive (Fig.
+9).
+
+[Illustration: FIG. 2.--ZENGER'S UNIVERSAL ELECTROMETER.]
+
+We may likewise cite the exhibit of Mr. Eugene Hartmann of Wurtzburg,
+which comprised a series of apparatus of the same class as those that
+we have just enumerated--spyglasses for the reading of apparatus,
+galvanometers, magnetometers, etc.
+
+[Illustration: FIG. 3.--EXHIBIT OF TH. EDELMANN.]
+
+Specially worthy of remark were the apparatus of Mr. Kohlrausch for
+measuring resistances by means of induction currents, and a whole
+series of accessory instruments.
+
+Among the objects shown by other exhibitors must be mentioned Prof.
+Von Waltenhofen's differential electromagnetic balance. In this, two
+iron cylinders are suspended from the extremities of a balance. One of
+them is of solid iron, and the other is of thin sheet iron and of
+larger diameter and is balanced by an additional weight. Both of them
+enter, up to their center, two solenoids. If a strong current be
+passed into these latter, the solid cylinder will be attracted; but
+if, on the contrary, the current be weak, the hollow cylinder will be
+attracted. If the change in the current's intensity occur gradually,
+there will be a moment in which the cylinders will remain in
+equilibrium.
+
+[Illustration: FIG. 4.--EDELMANN'S QUADRANT ELECTROMETER.]
+
+Prof. Zenger's differential photometer that we shall finally cite is
+an improvement upon Bunsen's. In the latter the position of the
+observer's eye not being fixed, the aspect of the spot changes
+accordingly, and errors are liable to result therefrom. Besides,
+because of the non-parallelism of the luminous rays, each of the two
+surfaces is not lighted equally, and hence again there may occur
+divergences. In order to avoid such inconveniences, Prof. Zenger gives
+his apparatus (Fig. 10) the following form: The screen, D, is
+contained in a cubical box capable of receiving, through apertures,
+light from sources placed upon the two rules, R and R'. A flaring
+tube, P, fixes the position of the eye very definitely. As for the
+screen, this is painted with black varnish, and three vertical
+windows, about an inch apart, are left in white upon its paper. Over
+one of the halves of these parts a solution of stearine is passed. To
+operate with the apparatus, in comparing two lights, the central spot
+is first brought to invisibility, and the distances of the sources are
+measured. A second determination is at once made by causing one of the
+two other spots to disappear, and the mean of the two results is then
+taken. As, at a maximum, there is a difference corresponding to 3/100
+of a candle between the illumination of the two neighboring windows,
+in the given conditions of the apparatus, the error is thus limited to
+a half of this value, or 2 per cent. of that of one candle.
+
+[Illustration: FIG. 5.--WILD'S APPARATUS FOR STUDYING MAGNETIC
+VARIATIONS.]
+
+Among the apparatus designed for demonstration in lecture courses, we
+remarked a solenoid of Prof. Von Beetz for demonstrating the
+constitution of magnets (Fig. 11), and in which eight magnetized
+needles, carrying mica disks painted half white and half black, move
+under the influence of the currents that are traversing the solenoid,
+or of magnets that are bought near to it externally. Another apparatus
+of the same inventor is the lecture-course galvanometer (Fig. 3), in
+which the horizontal needle bends back vertically over the external
+surface of a cylinder that carries divisions that are plainly visible
+to spectators at a distance.
+
+[Illustration: FIG. 6.--ELECTROMETER FOR ATMOSPHERIC OBSERVATIONS.]
+
+Finally, let us cite an instrument designed for demonstrating the
+principle of the Gramme machine. A circular magnet, AA', is inserted
+into a bobbin, B, divided into two parts, and moves under the
+influence of a disk, L, actuated by a winch, M. This system permits of
+studying the currents developed in each portion of the bobbin during
+the revolution of the ring (Fig. 12).
+
+[Illustration: FIG. 7.--WIEDEMANN'S CURRENT BREAKER.]
+
+To end our review of the scientific apparatus at the exhibition we
+shall merely mention Mr. Van Rysselberghe's registering
+thermometrograph (shown in Figs. 13 and 14), and shall then say a few
+words concerning two types of registering apparatus--Mr. Harlacher's
+water-current register and Prof. Von Beetz's chronograph.
+
+[Illustration: FIG. 8.--WIEDEMANN'S BIFILAR GALVANOMETER.]
+
+Mr. Harlacher's apparatus was devised by him for studying the deep
+currents of the Elbe. It is carried (Fig. 15) by a long, vertical,
+hollow rod which is plunged into the river. A cord that passes over a
+pulley, P, allows of the apparatus, properly so called, being let down
+to a certain depth in the water. What is registered is the velocity of
+the vanes that are set in action by the current, and to effect such
+registry each revolution of the helix produces in the box, C, an
+electric contact that closes the circuit in the cable, F, attached to
+the terminals, B. This cable forms part of a circuit that includes a
+pile and a registering apparatus that is seen at L, outside of the box
+in which it is usually inclosed. In certain cases, a bell whose sound
+indicates the velocity of the current to the ear is substituted for
+the registering apparatus.
+
+[Illustration: FIG. 9.--WIEDEMANN'S GALVANOMETER FOR STRONG CURRENTS.]
+
+Fig. 16 represents another type of the same apparatus in which the
+mechanism of the contact is uncovered. The supporting rod is likewise
+in this type utilized as a current conductor.
+
+[Illustration: FIG. 10.--ZENGER'S DIFFERENTIAL PHOTOMETER.]
+
+It now remains to say a few words about Prof. Von Beetz's chronograph.
+This instrument (Fig. 17) is designed for determining the duration of
+combustion of different powders, the velocity of projectiles, etc. The
+registering drum, T, is revolved by hand through a winch, L, and the
+time is inscribed thereon by an electric tuning fork, S, set in motion
+by the large electro-magnet, E F. Each undulation of the curves
+corresponds to a hundredth of a second. The tuning-fork and the
+registering electro-magnets, G and H, are placed upon a regulatable
+support, C, by means of which they may be given any position desired.
+
+[Illustration: FIG. 11.--VON BEETZ'S SOLENOID FOR DEMONSTRATING THE
+CONSTITUTION OF MAGNETS.]
+
+The style, c, of the magnet, C, traces a point every second in order
+to facilitate the reading. The style, b, of the electro-magnet, H,
+registers the beginning and end of the phenomena that are being
+studied.
+
+[Illustration: FIG. 12.--APPARATUS FOR DEMONSTRATING THE PRINCIPLE OF
+THE GRAMME MACHINE.]
+
+The apparatus is arranged in such a way that indications may thus be
+obtained upon the drum by means of induction sparks jumping between
+the style and the surface of the cylinder. To the left of the figure
+is seen the apparatus constructed by Lieutenant Ziegler for
+experimenting on the duration of combustion of bomb fuses.
+
+[Illustration: FIG. 13.--VAN RYSSELBERGHE'S REGISTERING
+THERMOMETROGRAPH.]
+
+Shortly after the drum has commenced revolving, the contact, K, opens
+a current which supports the heavy armature, P, of an electro-magnet,
+M. This weight, P, falls upon the rod, d, and inflames the fuse, Z, at
+that very instant. At this precise moment the electro-magnet, H,
+inscribes a point, and renews it only when the cartridge at the
+extremity of the fuse explodes.
+
+[Illustration: FIG. 14.--VAN RYSSELBERGHE'S REGISTERING
+THERMOMETROGRAPH.]
+
+This apparatus perhaps offers the inconvenience that the drum must be
+revolved by hand, and it would certainly be more convenient could it
+be put in movement at different velocities by means of a clockwork
+movement that would merely have to be thrown into gear at the desired
+moment. As it is, however, it presents valuable qualities, and,
+although it has already been employed in Germany for some time, it
+will be called upon to render still more extensive services.
+
+[Illustration: FIG. 15.--HARLACHER'S APPARATUS FOR STUDYING DEEP
+CURRENTS IN RIVERS.]
+
+We have now exhausted the subject of the apparatus of precision that
+were comprised in the Munich Exhibition. In general, it may be said
+that this class of instruments was very well represented there as
+regards numbers, and, on another hand, the manufacturers are to be
+congratulated for the care bestowed on their construction.--_La
+Lumiere Electrique_.
+
+[Illustration: FIG. 16.--HARLACHER'S APPARATUS FOR STUDYING DEEP
+CURRENTS IN RIVERS.]
+
+[Illustration: FIG. 17.--VON BEETZ'S CHRONOGRAPH.]
+
+       *       *       *       *       *
+
+
+COPPER VOLTAMETER.
+
+
+Dr. Hammerl, of the Vienna Academy of Sciences, has made some
+experiments upon the disturbing influences on the correct indications
+of a copper voltameter. He investigated the effects of the intensity
+of the current, the distance apart of the plates, and their
+preparation before weighing. The main conclusion which he arrives at
+is this: That in order that the deposit should be proportional to the
+intensity of the current, the latter ought not to exceed seven amperes
+per square decimeter of area of the cathode.

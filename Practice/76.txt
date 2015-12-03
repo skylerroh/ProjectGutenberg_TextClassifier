@@ -1,0 +1,466 @@
+The Project Gutenberg EBook of Scientific American Supplement, No. 446,
+July 19, 1884, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Scientific American Supplement, No. 446, July 19, 1884
+
+Author: Various
+
+Release Date: March 1, 2004 [EBook #11385]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SCIENTIFIC AMERICAN SUPP. 446 ***
+
+
+
+
+Produced by Jon Niehof, Don Kretz, Juliet Sutherland, Charles Franks
+and the DP Team
+
+
+
+
+
+[Illustration]
+
+
+
+
+SCIENTIFIC AMERICAN SUPPLEMENT NO. 446
+
+
+
+
+NEW YORK, JULY 19, 1884
+
+Scientific American Supplement. Vol. XVIII, No. 446.
+
+Scientific American established 1845
+
+Scientific American Supplement, $5 a year.
+
+Scientific American and Supplement, $7 a year.
+
+
+       *       *       *       *       *
+
+TABLE OF CONTENTS
+
+I.    CHEMISTRY.--Tin in Canned Foods.--By Prof. ATTFIELU.--Small
+      amount of tin found.--Whence come these small particles.--No
+      cause for alarm.
+
+II.   ENGINEERING AND MECHANICS.--The Windmill.--By JAMES
+      W. HILL.--The Eclipse wind.--Other wind mills.--Their operation,
+      use, etc.
+
+      The Pneumatic Dynamite Gun.--With engraving of pneumatic
+      dynamite gun torpedo vessel.
+
+      Rope Pulley Friction Brake.--3 figures.
+
+      Wire Rope Towage.--Treating of the system of towage by hauling
+      in a submerged wire rope as used on the River Rhine, boats
+      employed, etc.--With engraving of wire rope tug boat.
+
+      Improved Hay Rope Machine.--With engraving.
+
+      The Anglesea Bridge, Cork.--With engraving.
+
+      Portable Railways.--By M DECAUVILLE.--Narrow gauge roads
+      in Great Britain.--M. Decauvilie's system.--Railways used at the
+      Panama Canal, in Tunis, etc.
+
+III.  TECHNOLOGY.--Improved Pneumatic Filtering Presses, and the
+      Processes in which they are employed.--2 engravings.
+
+      Pneumatic Malting.
+
+      A New Form of Gas Washer.--Manner in which it is used.--By
+      A. BANDSEPT.--2 figures.
+
+IV.   ELECTRICITY, HEAT, ETC.--Gerard's Alternating Current
+      Machine.--2 engravings.
+
+      Automatic Fast Speed Telegraphy.--By THEO. F. TAYLOR.--Speed
+      determined by resistance and static capacity.--Experiments
+      Taylor's system.--With diagram.
+
+      Theory of the Action of the Carbon Microphone.--What is it?
+      --2 figures.
+
+      The Dembinski Telephone Transmitter.--3 figures.
+
+      New Gas Lighters.--Electric lighters.--3 engravings.
+
+      Distribution of Heat which is developed by Forging.
+
+V.    ARCHITECTURE, ART. ETC.--Villa at Dorking.--An engraving.
+
+      Arm Chair in the Louvre Collection.
+
+VI.   GEOLOGY.--The Deposition of Ores.--By J.S. NEWBERRY.--Mineral
+      Veins.--Bedded veins.--Theories of ore deposit.--Leaching
+      of igneous rocks.
+
+VII.  NATURAL HISTORY, ETC.--Habits of Burrowing Crayfishes
+      in the U.S.--Form and size of the burrows and mounds.--Obtaining
+      food.--Other species of crayfish.--3 figures.
+
+      Our Servants, the Microbes.--What is a microbe?--Multiplication.
+      --Formation of spores.--How they live.--Different groups
+      of bacteria.--Their services.
+
+VIII. HORTICULTURE.--A New Stove Climber.--_(Ipomaea thomsoniana)_
+
+      Sprouting of Palm Seeds.
+
+      History of Wheat.
+
+IX.   MISCELLANEOUS.--Technical Education in America.--Branches
+      of study most prominent in schools of different States.
+
+      The Anaesthetics of Jugglers.--Fakirs of the Indies.--Processes
+      employed by them.--Anaesthetic plants.
+
+      Epitaphium Chymicum.--An epitaph written by Dr. GODFREY.
+
+       *       *       *       *       *
+
+
+
+
+IMPROVED FILTER PRESSES.
+
+
+Hitherto it has been found that of all the appliances and methods for
+separating the liquid from the solid matters, whether it is in the case
+of effluents from tanneries and other manufactories, or the ocherous and
+muddy sludges taken from the settling tanks in mines, some of which
+contain from 90 to 95 per cent. of water, the filter press is the best
+and the most economical, and it is to this particular process that
+Messrs. Johnson's exhibits at the Health Exhibition, London, chiefly
+relate. Our engravings are from _The Engineer_. A filter press consists
+of a number of narrow cells of cast iron, shown in Figs. 3 and 4, held
+together in a suitable frame, the interior frames being provided with
+drainage surfaces communicating with outlets at the bottom, and covered
+with a filtering medium, which is generally cloth or paper. The interior
+of the cells so built up are in direct communication with each other, or
+with a common channel for the introduction of the matter to be filtered,
+and as the only exit is through the cloth or paper, the solid portion is
+kept back while the liquid passes through and escapes by the drainage
+surfaces to the outlets. The cells are subjected to pressure, which
+increases as the operation goes on, from the growing resistance offered
+by the increasing deposit of solid matter on the cloths; and it is
+therefore necessary that they should be provided with a jointing strip
+around the outside, and be pressed together sufficiently to prevent any
+escape of liquid. In ordinary working both sides of the cell are exposed
+to the same pressure, but in some cases the feed passages become choked,
+and destroy the equilibrium. This, in the earlier machines, gave rise to
+considerable annoyance, as the diaphragms, being thin, readily collapsed
+at even moderate pressures; but recently all trouble on this head has
+been obviated by introducing the three projections near the center, as
+shown in the cuts, which bear upon each other and form a series of stays
+from one end of the cells to the other, supporting the plates until the
+obstruction is forced away. We give an illustration below showing the
+arrangement of a pair of filter presses with pneumatic pressure
+apparatus, which has been successfully applied for dealing with sludge
+containing a large amount of fibrous matter and rubbish, which could not
+be conveniently treated with by pumps in the ordinary way. The sludge is
+allowed to gravitate into wrought iron receivers placed below the floor,
+and of sufficient size to receive one charge. From these vessels it is
+forced into the presses by means of air compressed to from 100 lb. to
+120 lb. per square inch, the air being supplied by the horizontal pump
+shown in the engraving. The press is thus almost instantaneously filled,
+and the whole operation is completed in about an hour, the result being
+a hard pressed cake containing about 45 per cent. of water, which can be
+easily handled and disposed of as required. The same arrangement is in
+use for dealing with sewage sludge, and the advantages of the compressed
+air system over the ordinary pumps, as well as the ready and cleanly
+method of separating the liquid, will probably commend itself to many of
+our readers. We understand that from careful experiments on a large
+scale, extending over a period of two years, the cost of filtration,
+including all expenses, has been found to be not more than about 6d. per
+ton of wet sludge. A number of specimens of waste liquors from factories
+with the residual matters pressed into cakes, and also of the purified
+effluents, are exhibited. These will prove of interest to many, all the
+more so since in some instances the waste products are converted into
+materials of value, which, it is stated, will more than repay for the
+outlay incurred.
+
+[Illustration: Fig. 3. Fig 4.]
+
+Another application of the filter press is in the Porter-Clark process
+of softening water, which is shown in operation. We may briefly state
+that the chief object is to precipitate the bicarbonates of lime and
+magnesia held in solution by the water, and so get rid of what is known
+as the temporary hardness. To accomplish this, strong lime water is
+introduced in a clear state to the water to be softened, the quantity
+being regulated according to the amount of bicarbonates in solution. The
+immediate effect of this is that a proportion of the carbonic acid of
+the latter combines with the invisible lime of the clear lime water,
+forming a chalky precipitate, while the loss of this proportion of
+carbonic acid also reduces the invisible bicarbonates into visible
+carbonates. The precipitates thus formed are in the state of an
+impalpable powder, and in the original Clark process many hours were
+required for their subsidence in large settling tanks, which had to be
+in duplicate in order to permit of continuous working. By Mr. Porter's
+process, however, this is obviated by the use of filter presses, through
+which the chalky water is passed, the precipitate being left behind,
+while, by means of a special arrangement of cells, the softened and
+purified water is discharged under pressure to the service tanks. Large
+quantities can thus be dealt with, within small space, and in many cases
+no pumping is required, as the resistance of the filtering medium being
+small, the ordinary pressure in the main is but little reduced. One of
+the apparatus exhibited is designed for use in private mansions, and
+will soften and filter 750 gallons a day. In such a case, where it would
+probably be inconvenient to apply the usual agitating machinery, special
+arrangements have been made by which all the milk of lime for a day's
+working is made at one time in a special vessel agitated by hand, on the
+evening previous to the day on which it is to be used. Time is thus
+given for the particles of lime to settle during the night. The clear
+lime water is introduced into the mixing vessel by means of a charge of
+air compressed in the top of a receiver, by the action of water from the
+main, the air being admitted to the milk of lime vessel through a
+suitable regulating valve. A very small filter suffices for removing the
+precipitate, and the clear, softened water can either be used at once,
+or stored in the usual way. The advantages which would accrue to the
+community at large from the general adoption of some cheap method of
+reducing the hardness of water are too well known to need much comment
+from us.
+
+       *       *       *       *       *
+
+
+
+
+PNEUMATIC MALTING.
+
+
+According to K. Lintner, the worst features of the present system of
+malting are the inequalities of water and temperature in the heaps and
+the irregular supplies of oxygen to, and removal of carbonic acid from,
+the germinating grain. The importance of the last two points is
+demonstrated by the facts that, when oxygen is cut off, alcoholic
+fermentation--giving rise to the well-known odor of apples--sets in in
+the cells, and that in an atmosphere with 20 per cent. of carbonic acid,
+germination ceases. The open pneumatic system, which consists in drawing
+warm air through the heaps spread on a perforated floor, should yield
+better results. All the processes are thoroughly controlled by the eye
+and by the thermometer, great cleanliness is possible, and the space
+requisite is only one-third of that required on the old plan. Since May,
+1882, this method has been successfully worked at Puntigam, where plant
+has been established sufficient for an annual output of 7,000 qrs. of
+malt. The closed pneumatic system labors under the disadvantages that
+from the form of the apparatus germination cannot be thoroughly
+controlled, and cleanliness is very difficult to maintain, while the
+supply of oxygen is, as a rule, more irregular than with the open
+floors.
+
+[Illustration: IMPROVED PNEUMATIC FILTERING PRESSES.]
+
+       *       *       *       *       *
+
+
+
+
+A NEW FORM OF GAS WASHER.
+
+By A. BANDSEPT, of Brussels.
+
+
+The washer is an appliance intended to condense and clean gas, which, on
+leaving the hydraulic main, holds in suspension a great many properties
+that are injurious to its illuminating power, and cannot, if retained,
+be turned to profitable account. This cleaning process is not difficult
+to carry out effectually; and most of the appliances invented for the
+purpose would be highly efficacious if they did not in other respects
+present certain very serious inconveniences. The passage of the gas
+through a column of cold water is, of course, sufficient to condense it,
+and clear it of these injurious properties; but this operation has for
+its immediate effect the presentation of an obstacle to the flow of the
+gas, and consequently augmentation of pressure in the retorts. In order
+to obviate this inconvenience (which exists notwithstanding the use of
+the best washers), exhausters are employed to draw the gas from the
+retorts and force it into the washers. There is, however, another
+inconvenience which can only be remedied by the use of a second
+exhauster, viz., the loss of pressure after the passage of the gas
+through the washer--a loss resulting from the obstacle presented by this
+appliance to the steady flow of the gas. Now as, in the course of its
+passage through the remaining apparatus, on its way to the holder, the
+gas will have to suffer a considerable loss of pressure, it is of the
+greatest importance that the washer should deprive it of as little as
+possible. It will be obvious, therefore, that a washer which fulfills
+the best conditions as far as regards the cleaning of the gas will be
+absolutely perfect if it does not present any impediment to its flow.
+Such an appliance is that which is shown in the illustration on next
+page. Its object is, while allowing for the washing being as vigorous
+and as long-continued as may be desired, to draw the gas out of the
+retorts, and, having cleansed it perfectly from its deleterious
+properties, to force it onward. The apparatus consequently supplies the
+place of the exhauster and the scrubber.
+
+The new washer consists of a rectangular box of cast iron, having a
+half-cylindrical cover, in the upper part of which is fixed a pipe to
+carry off the gas. In the box there is placed horizontally a turbine,
+the hollow axis of which serves for the conveyance of the gas into the
+vessel. For this purpose the axis is perforated with a number of small
+holes, some of which are tapped, so as to allow of there being screwed
+on to the axis, and perpendicularly thereto, a series of brooms made of
+dog grass, and having their handles threaded for the purpose. These
+brooms are arranged in such a way as not to encounter too great
+resistance from contact with the water contained in the vessel, and so
+that the water cast up by them shall not be all thrown in the same
+direction. To obviate these inconveniences they are fixed obliquely to
+the axis of the central pipe, and are differently arranged in regard to
+each other. A more symmetrical disposition of them could, however, be
+adopted by placing them zigzag, or in such a way as to form two helices,
+one of which would move in a particular direction, and the other in a
+different way. The central pipe, furnished with its brooms, being set in
+motion by means of a pulley fixed upon its axis (which also carries a
+flywheel), the gas, drawn in at the center, and escaping by the holes
+made in the pipe, is forced to the circumference of the vessel, where it
+passes out.
+
+The effect of this washer is first, to break up the current of gas, and
+then force it violently into the water; at the same time sending into it
+the spray of water thrown up by the brooms. This double operation is
+constantly going on, so that the gas, having been saturated by the
+transfusion into it of a vigorous shower of water (into the bulk of
+which it is subsequently immersed), is forced, on leaving the water, to
+again undergo similar treatment. The same quantity of gas is therefore
+several times submitted to the washing process, till at length it finds
+its way to the outlet, and makes its escape. The extent to which the
+washing of the gas is carried is, consequently, only limited by the
+speed of the apparatus, or rather by the ratio of the speed to the
+initial pressure of the gas. This limit being determined, the operation
+may be continued indefinitely, by making the gas pass into several
+washers in succession. There is, therefore, no reason why the gas should
+not, after undergoing this treatment, be absolutely freed of all those
+properties which are susceptible of removal by water. In fact, all that
+is requisite is to increase the dimensions of the vessel, so as to
+compel the gas to remain longer therein, and thus cause it to undergo
+more frequently the operation of washing. These dimensions being fixed
+within reasonable limits, if the gas is not sufficiently washed, the
+speed of the apparatus may be increased; and the degree of washing will
+be thereby augmented. If this does not suffice, the number of turbines
+may be increased, and the gas passed from one to the other until the gas
+is perfectly clean. This series of operations would, however, with any
+kind of washer, result in thoroughly cleansing the gas. The only thing
+that makes such a process practically impossible is the very
+considerable or it may be even total loss of pressure which it entails.
+By the new system, the loss of pressure is _nil_, inasmuch as each
+turbine becomes in reality an exhauster. The gas, entering the washer at
+the axis, is drawn to the circumference by the rotatory motion of the
+brooms, which thus form a ventilator. It follows, therefore, that on
+leaving the vessel the gas will have a greater pressure than it had on
+entering it; and this increase of pressure may be augmented to any
+desired extent by altering the speed of rotation of the axis, precisely
+as in the case of an exhauster.
+
+Forcing the gas violently into water, and at the same time dividing the
+current, is evidently the most simple, rational, and efficient method of
+washing, especially when this operation is effected by brooms fixed on a
+shaft and rotated with great speed. Therefore, if there had not been
+this loss of pressure to deal with--a fatal consequence of every violent
+operation--the question of perfect washing would probably have been
+solved long ago. The invention which I have now submitted consists of an
+arrangement which enables all loss of pressure to be avoided, inasmuch
+as it furnishes the apparatus with the greatest number of valuable
+qualities, whether regarded from the point of view of washing or that of
+condensation.
+
+[Illustration: Longitudinal Section. Elevation. Transverse Section.]
+
+Referring to the illustration, the gas enters the washer by the pipe, A,
+which terminates in the form of a [Symbol: inverted T]. One end (a) of
+this pipe is bolted to the center of one of the sides of the cylindrical
+portion of the case, in which there is a hole of similar diameter to the
+pipe; the other (a') being formed by the face-plate of a stuffing-box,
+B, through which passes the central shaft, C, supported by the
+plummer-block, D, as shown. This shaft has upon its opposite end a plate
+perforated with holes, E, which is fixed upon the flange of a horizontal
+pipe, F. This pipe is closed at the other end by means of a plate, E',
+furnished with a spindle, supported by a stuffing-box, B', and carrying
+a fly-wheel, G. The central pipe, F, is perforated with a number of
+small holes. The gas entering by the pipe, A, makes its way into the
+central pipe through the openings in the plate, E, and passes into the
+cylindrical case through the small holes in the central pipe, which
+carries the brooms, H. These are caused to rotate rapidly by means of
+the pulley, I; and thus a constant shower of water is projected into the
+cylindrical case. When the gas has been several times subjected to the
+washing process, it passes off by the pipe, K. Fresh cold water is
+supplied to the vessel by the pipe, L; and M is the outlet for the
+tar.--_Journal of Gas Lighting_.
+
+       *       *       *       *       *
+
+
+
+
+THE WIND MILL.
+
+[Footnote: A paper read before the Engineers' Club of St. Louis, 1884.]
+
+By JAMES W. HILL.
+
+
+In the history of the world the utilization of the wind as a motive
+power antedates the use of both water and steam for the same purpose.
+
+The advent of steam caused a cessation in the progress of wind power,
+and it was comparatively neglected for many years. But more recently
+attention has been again drawn to it, with the result of developing
+improvements, so that it is now utilized in many ways.
+
+The need in the West of a motive power where water power is rare and
+fuel expensive has done much to develop and perfect wind mills.
+
+Wind mills, as at present constructed in this country, are of recent
+date.
+
+The mill known as the "Eclipse" was the first mill of its class built.
+It is known as the "solid-wheel, self-regulating pattern," and was
+invented about seventeen years ago. The wind wheel is of the rosette
+type, built without any joints, which gives it the name "solid wheel,"
+in contradistinction to wheels made with loose sections or fans hinged
+to the arms or spokes, and known as "section wheel mills."
+
+The regulation of the Eclipse mill is accomplished by the use of a small
+adjustable side vane, flexible or hinged rudder vane, and weighted
+lever, as shown in Plate 1 (on the larger sizes of mills iron balls
+attached to a chain are used in place of the weighted lever). The side
+vane and weight on lever being adjustable, can be set to run the mill at
+any desired speed.
+
+Now you will observe from the model that the action of the governing
+mechanism is automatic. As the velocity of the wind increases, the
+pressure on the side vane tends to carry the wind wheel around edgewise
+to the wind and parallel to the rudder vane, thereby changing the angle
+and reducing the area exposed to the wind; at the same time the lever,
+with adjustable weight attached, swings from a vertical toward a
+horizontal position, the resistance increasing as it moves toward the
+latter position. This acts as a counterbalance of varying resistance
+against the pressure of the wind on the side vane, and holds the mill at
+an angle to the plane of the wind, insuring thereby the number of
+revolutions per minute required, according to the position to which the
+governing mechanism has been set or adjusted.
+
+If the velocity of the wind is such that the pressure on the side vane
+overcomes the resistance of the counter weight, then the side vane is
+carried around parallel with the rudder vane, presenting only the edge
+of the wind wheel or ends of the fans to the wind, when the mill stops
+running.
+
+This type of mill presents more effective wind receiving or working
+surface when in the wind, and less surface exposed to storms when out of
+the wind, than any other type of mill. It is at all times under the
+control of an operator on the ground.

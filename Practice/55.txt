@@ -1,0 +1,520 @@
+The Project Gutenberg EBook of Scientific American Supplement, No. 821,
+Sep. 26, 1891, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Scientific American Supplement, No. 821, Sep. 26, 1891
+
+Author: Various
+
+Release Date: October 5, 2004 [EBook #13640]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SCIENTIFIC AMERICAN ***
+
+
+
+
+Produced by Victoria Woosley, Don Kretz, Juliet Sutherland and the
+PG Distributed Proofreaders Team
+
+
+
+
+
+[Illustration]
+
+
+
+
+SCIENTIFIC AMERICAN SUPPLEMENT NO. 821
+
+
+
+
+NEW YORK, September 26, 1891
+
+Scientific American Supplement. Vol. XXXII, No. 821.
+
+Scientific American established 1845
+
+Scientific American Supplement, $5 a year.
+
+Scientific American and Supplement, $7 a year.
+
+       *       *       *       *       *
+
+
+
+
+TABLE OF CONTENTS.
+
+
+I.    Architectural.--The New Labor Exchange in Paris.--With
+      views of the interior and exterior of the building
+
+II.   Electrical.--The Construction and Maintenance of Underground
+      Circuits.--By S.B. FOWLER.--A comprehensive article,
+      discussing at length the various devices for protecting underground
+      circuits, methods _of_ inserting the cables, etc.
+
+III.  Engineering.--Railroads to the Clouds.--Sketches of a number
+      of mountain railroads
+
+IV.   Marine Engineering.--The French Armored Turret Ship
+      the Marceau.--1 engraving.--A full description of the vessel, giving
+      dimensions and cost
+
+      A Review of Marine Engineering during the Past Decade.--A
+      paper read before the Institution of Mechanical Engineers by Mr.
+      Alfred Blechynben, of Barrow-in-Furness.--This paper, which
+      is continued from Supplement No. 820, treats on steam pipes,
+      feed water heating, twin screws, etc.
+
+V.    Miscellaneous.--The Little House.--An article giving various
+      hints about the arrangement and management of small
+      dwellings, with special view to the best sanitary arrangements
+
+      Stilt Walking.--A sketch, with engraving, of Sylvain Dornon,
+      the stilt walker of Landes
+
+      Remains of a Roman Villa in England
+
+      Gum Arabic and its Modern Substitutes.--A continuation of a
+      paper by Dr. S. Rideal and W.E. Youle.--With 26 tables
+
+      A New Method of Extinguishing Fires.--Invented by George
+      Dickson and David A. Jones, of Toronto, Canada.--Apparatus designed
+      to utilize a mixture of water and liquefied carbonic acid
+
+VI.   Medicine and Hygiene.--The Hygienic Treatment of
+      Obesity.--By Dr. Paul Chebon.--Methods of eating, drinking,
+      and exercising for the purpose of reducing fat.--An extended
+      article, giving valuable information to people troubled with too
+      much flesh
+
+VII.  Photography.--Spectroscopic Determination of the Sensitiveness
+      of Dry Plates.--A full description of the new plan of
+      Mr. G.F. WILLIAMS, for determining the sensitiveness of dry
+      plates by the use of a small direct vision pocket spectroscope
+
+VIII. Physics.--A Physical Laboratory Indicator.--By J.W.
+      MOORE, of Lafayette College.--1 engraving.--This is a modification
+      of the old peg board adapted to use in the laboratory.--It indicates
+      the names of the members of the class, contains a full
+      list of the experiments to be performed, refers the student
+      to the book and page where information in reference to experiments
+      or apparatus may be found, it shows what experiments
+      are to be performed by each student at a given time, etc.
+
+      Cailletet's Cryogen.--A description, with one engraving, of Mr.
+      Cailletet's new apparatus for producing temperatures from 70
+      degrees to 80 degrees C., below zero, through the expansion of
+      liquid carbonic acid
+
+IX.   Technology.--The Manufacture of Roll Tar Paper.--An extended
+      article containing a historical sketch and full information
+      as to the materials used and the methods of manufacture
+
+      Smokeless Gunpowder.--By Hudson Maxim.--A comprehensive
+      article on the manufacture and use of smokeless gunpowder,
+      giving a sketch of its history, and describing the methods of
+      manufacture and its characteristics
+
+      Method of Producing Alcohol.--A description of an improved
+      process for making alcohol.--Invented by Mr. Alfred Springer,
+      of Cincinnati, Ohio
+
+       *       *       *       *       *
+
+
+
+
+
+[Illustration: INTERIOR OF THE NEW LABOR EXCHANGE, PARIS.]
+
+[Illustration: NEW LABOR EXCHANGE, PARIS.]
+
+THE NEW LABOR EXCHANGE, PARIS.
+
+
+The new Labor Exchange is soon to be inaugurated. We give herewith a
+view of the entrance facade of the meeting hall. The buildings, which
+are the work of Mr Bouvard, architect, of the city of Paris, are
+comprised within the block of houses whose sharp angle forms upon
+Place de la Republique, the intersection of Boulevard Magenta and
+Bondy street. One of the entrances of the Exchange is on a level with
+this street. The three others are on Chateau d'Eau street, where the
+facade of the edifice extends for a length of one hundred feet. From
+the facade and above the balcony that projects from the first story,
+stand out in bold relief three heads surrounded by foliage and fruit
+that dominate the three entrance doors. These sculptures represent the
+Republic between Labor and Peace. The windows of the upper stories are
+set within nine rows of columns, from between the capitals of which
+stand out the names of the manufacturers, inventors, and statesmen
+that have sprung from the laboring classes. Upon the same line, at the
+two extremities of the facade, two modillions, traversed through their
+center by palms, bear the devices "Labor" and "Peace." Above, there is
+a dial surmounted by a shield bearing the device of the city of Paris.
+
+The central door of the ground floor opens upon a large vestibule,
+around which are arranged symmetrically the post, telegraph,
+telephone, and intelligence offices, etc. Beyond the vestibule there
+is a gallery that leads to the central court, upon the site of which
+has been erected the grand assembly hall. This latter, which measures
+20 meters in length, 22 in width, and 6 in height, is lighted by a
+glazed ceiling, and contains ten rows of benches. These latter contain
+900 seats, arranged in the form of circular steps, radiating around
+the president's platform, which is one meter in height. A special
+combination will permit of increasing the number of seats reserved for
+the labor associations on occasions of grand reunions to 1,200. The
+oak doors forming the lateral bays of the hall will open upon the two
+large assembly rooms and the three waiting rooms constructed around
+the faces of the large hall. In the assembly rooms forming one with
+the central hall will take place the deliberations of the syndic
+chambers. The walls of the hall will, ere long, receive decorative
+paintings.--_L'Illustration._
+
+       *       *       *       *       *
+
+
+
+
+MANUFACTURE OF ROLL TAR PAPER.
+
+
+Roofing paper was first used in Scandinavia early as the last century,
+the invention being accredited to Faxa, an official of the Swedish
+Admiralty. The first tar and gravel roofs in Sweden were very
+defective. The impregnation of the paper with a water-proofing liquid
+had not been thought of, and the roofs were constructed by laying over
+the rafters a boarding, upon which the unsaturated paper, the sides of
+which lapped over the other, was fastened with short tacks. The
+surface of the paper was next coated with heated pine tar to make it
+waterproof. The thin layer of tar was soon destroyed by the weather,
+so that the paper, swelled by the absorption of rain water, lost its
+cohesiveness and was soon destroyed by the elements. This imperfect
+method of roof covering found no great favor and was but seldom
+employed.
+
+In Germany the architect Gilly was first to become interested in tar
+paper roofing, and recommended it in his architecture for the country.
+Nevertheless the new style of roof covering was but little employed,
+and was finally abandoned during the first year of the 19th century.
+It was revived again in 1840, when people began to take a renewed
+interest in tar paper roofs, the method of manufacturing an
+impermeable paper being already so far perfected that the squares of
+paper were dipped in tar until thoroughly saturated. The roof
+constructed of these waterproof paper sheets proved itself to be a
+durable covering, being unimpenetrable to atmospheric precipitations,
+and soon several factories commenced manufacturing the paper. The
+product was improved continually and its method of manufacture
+perfected. The good qualities of tar paper roofs being recognized by
+the public, they were gradually adopted. The costly pine tar was soon
+replaced by the cheaper coal tar. Square sheets of paper were made at
+first; they were dipped sufficiently long in ordinary heated coal tar,
+until perfectly saturated. The excess of tar was then permitted to
+drip off, and the sheets were dried in the air. The improvement of
+passing them through rollers to get rid of the surplus tar was
+reserved for a future time, when an enterprising manufacturer
+commenced to make endless tar paper in place of sheets. Special
+apparatus were constructed to impregnate these rolls with tar; they
+were imperfect at first, but gradually improved to a high degree. Much
+progress was also made in the construction of the roofs, and several
+methods of covering were devised. The defects caused by the old method
+of nailing the tar paper direct upon the roof boarding were corrected;
+the consequence of this method was that the paper was apt to tear,
+caused by the unequal expansion of the roofing boards and paper, and
+this soon led to the idea of making the latter independent of the
+former by nailing the sides of the paper upon strips running parallel
+with the gable. The use of endless tar paper proved to be an essential
+advantage, because the number of seams as well as places where it had
+to be nailed to the roof boarding was largely decreased. The
+manufacture of tar paper has remained at about the same stage and no
+essential improvements have been made up to the present. As partial
+improvement may be mentioned the preparation of tar, especially since
+the introduction of the tar distillery, and the manufacture of special
+roof lacquers, which have been used for coating in place of the coal
+tar. As an essential progress in the tar paper roofing may be
+mentioned the invention of the double tar paper roof, and the wood
+cement roof, which is regarded as an offshoot.
+
+The tar paper industry has, within the last forty years, assumed great
+dimensions, and the preferences for this roofing are gaining ground
+daily. In view of the small weight of the covering material, the wood
+construction of the roof can be much lighter, and the building is
+therefore less strained by the weight of the roof than one with the
+other kind, so that the outer walls need not be as heavy. Considering
+the price, the paper roof is not only cheaper than other fireproof
+roofs, but its light weight makes it possible for the whole building
+to be constructed lighter and cheaper. The durability of the tar paper
+roof is satisfactory, if carefully made of good material; the double
+tar paper roof, the gravel double roof, and the wood cement roof are
+distinguished by their great durability.
+
+These roofs may be used for all kinds of buildings, and not only are
+factories, storehouses, and country buildings covered with it, but
+also many dwellings. The most stylish residences and villas are at
+present being inclosed with the more durable kinds; the double roof,
+the gravel double roof, and the wood cement roof. For factory
+buildings, which are constantly shaken by the vibrations of the
+machinery, the tar paper roof is preferable to any other.
+
+In order to ascertain to what degree tar paper roofs would resist
+fire, experiments were instituted at the instigation of some of the
+larger manufacturers of roofing paper, in the presence of experts,
+architects, and others, embracing the most severe tests, and it was
+fully proved that the tar paper roof is as fireproof as any other.
+These experiments were made in two different ways; first, the
+readiness of ignition of the tar paper roof by a spark or flame from
+the outside was considered, and, second, it was tested in how far it
+would resist a fire in the interior of the building. In the former
+case, it was ascertained that a bright, intense fire could be kept
+burning upon the roof for some time, without igniting the woodwork of
+the roof, but heat from above caused some of the more volatile
+constituents of the tar to be expelled, whereby small flames appeared
+upon the surface within the limits of the fire; the roofing paper was
+not completely destroyed. There always remained a cohesive substance,
+although it was charred and friable, which by reason of its bad
+conductivity of heat protected the roof boarding to such an extent
+that it was "browned" only by the developed tar vapors. A fire was
+next started within a building covered with a tar paper roof; the
+flame touched the roof boarding, which partly commenced to char and
+smoulder, but the bright burning of the wood was prevented by the
+air-tight condition of the roof; the fire gases could not escape from
+the building. The smoke collecting under the roof prevented the
+entrance of fresh air, in consequence of which the want of oxygen
+smothered the fire. The roofing paper remained unchanged. By making
+openings in the sides of the building so that the fire gases could
+escape, the wood part of the roof was consumed, but the roofing paper
+itself was only charred and did not burn. After removing the fire in
+contact with the paper, this ceased burning at once and evinced no
+disposition whatever to spread. In large conflagrations, also, the tar
+paper roofs behaved in identically a similar manner. Many instances
+have occurred where the tar paper roof prevented the fire from
+spreading inside the building, and developing with sufficient
+intensity to work injury.
+
+As it is of interest to the roofer to know the manner of making the
+material he uses, we give in the following a short description of the
+manufacture of roofing paper. At first, when square sheets were used
+exclusively, the raw paper consisted of ordinary dipped or formed
+sheets. The materials used in its manufacture were common woolen rags
+and other material. In order to prepare the pulp from the rags it is
+necessary to cut them so small that the fabric is entirely dissolved
+and converted into short fibers. The rags are for this purpose first
+cut into pieces, which are again reduced by special machines. The rags
+are cut in a rag cutting machine, which was formerly constructed
+similar to a feed cutter; later on, more complicated machines of
+various constructions were employed. It is not our task to describe
+the various kinds, but we remain content with the general remark that
+they are all based on the principles of causing revolving knives to
+operate upon the rags. The careful cleansing of the cut rags,
+necessary for the manufacture of paper, is not required for roofing
+paper. It is sufficient to rinse away the sand and other solid
+extraneous matter. The further reduction of the cut rags was formerly
+performed in a stamp mill, which is no longer employed, the pulp mill
+or rag engine being universally used.
+
+The construction of this engine may be described as follows: A box or
+trough of wood, iron, or stone is by a partition divided into two
+parts which are connected at their ends. At one side upon the bottom
+of the box lies an oakwood block, called the back fall. In a hollow of
+this back fall is sunk the so-called plate, furnished with a number of
+sharp steel cutters or knives, lying alongside of each other. A roller
+of solid oakwood, the circumference of which is also furnished with
+sharp steel cutters or knives, is fastened upon a shaft and revolves
+within the hollow. The journal bearings of the shaft are let into and
+fastened in movable wooden carriers. The carriers of the bearings may
+be raised and lowered by turning suitable thumbscrews, whereby the
+distance between the roller and the back fall is increased or
+decreased. The whole is above covered with a dome, the so-called case,
+to prevent the throwing out of the mass under the operation of
+grinding. The roller is revolved with a velocity of from 100 to 150
+revolutions per minute, whereby the rags are sucked in between the
+roller and the back fall and cut and torn between the knives. At the
+beginning of the operation, the distance between the roller and the
+back fall is made as great as possible, the intention being less to
+cut the rags than to wash them thoroughly. The dirty water is then
+drawn off and replaced by clean, and the space of the grinding
+apparatus is lessened gradually, so as to cut the rags between the
+knives. The mass is constantly kept in motion and each piece of rag
+passes repeatedly between the knives. The case protects the mass from
+being thrown out by the centrifugal force. The work of beating the
+rags is ended in a few hours, and the ensuing thin paste is drawn off
+into the pulp chest, this being a square box lined with lead.
+
+From the pulp chest it passes to the form of the paper machine. This
+form consists of an endless fine web of brass wire, which revolves
+around rollers. The upper part of this form rests upon a number of
+hollow copper rollers, whereby a level place is formed. The form
+revolves uniformly around the two end rollers, and has at the same
+time a vibratory motion, by which the pulp running upon the form is
+spread out uniformly and conducted along, more flowing on as the
+latter progresses. The water escapes rapidly through the close wire
+web. In order to limit the form on the sides two endless leather
+straps revolve around the rollers on each side, which touch with their
+lower parts the form on both sides and confine the fluid within a
+proper breadth. The thickness of the pulp is regulated at the head of
+the form by a brass rule standing at a certain height; its function is
+to level the pulp and distribute it at a certain thickness. The
+continually moving pulp layer assumes greater consistency the nearer
+it approaches to the dandy roll. This is a cylinder covered with brass
+wire, and is for the purpose of compressing the paper, after it has
+left the form, and free it from a great part of the water, which
+escapes into a box. The paper is now freed of a good deal of the
+fluid, and assumes a consistency with which it is enabled to leave the
+form, which now commences to return underneath the paper, passing on
+to an endless felt, which revolves around rollers and delivers it to
+two iron rolls. The paper passes through a second pair of iron
+rollers, the interiors of which are heated by steam. These rollers
+cause the last of the water to be evaporated, so that it can then be
+rolled upon reels. A special arrangement shaves the edges to the exact
+size required.
+
+The paper is made in different thicknesses and designated by numbers
+to the size and weight.
+
+Waste paper, bookbinders' shavings, etc., can be used for making the
+paper. As much wool as possible should be employed, because the wool
+fiber has a greater resistance than vegetable fiber to the effects of
+the temperature. By wool fiber is understood the horny substance
+resembling hair, with the difference that the former has no marrowy
+tissue. The covering pellicle of the wool fiber consists of flat,
+mostly elongated leaves, with more or less corners, lying over each
+other like scales, which makes the surface of the fiber rough; this
+condition, together with the inclination of curling, renders it
+capable of felting readily. Pure wool consists of a horny substance,
+containing both nitrogen and sulphur, and dissolves in a potash
+solution. In a clean condition, the wool contains from 0.3 to 0.5 per
+cent. of ash. It is very hygroscopical, and under ordinary
+circumstances it contains from 13 to 16 per cent. humidity, in dry air
+from 7 to 11 per cent., which can be entirely expelled at a
+temperature of from 226 to 230 degrees Fahrenheit. Wool when ignited
+does not burn with a bright flame, as vegetable fiber does, but
+consumes with a feeble smouldering glow, soon extinguishes, spreading
+a disagreeable pungent vapor, as of burning horn. By placing a test
+tube with a solution of five parts caustic potash in 100 parts water,
+a mixture of vegetable fibers and wool fibers, the latter dissolve if
+the fluid is brought to boiling above an alcohol flame, while the
+cotton and linen fibers remain intact.
+
+The solubility of the woolen fibers in potash lye is a ready means of
+ascertaining the percentage of wool fiber in the paper. An exhaustive
+analysis of the latter can be performed in the following manner: A
+known quantity of the paper is slowly dried in a drying apparatus at
+temperature of 230 deg. Fahrenheit, until a sample weighed on a scale
+remains constant. The loss of weight indicates the degree of humidity.
+To determine the ash percentage, the sample is placed in a platinum
+crucible, and held over a lamp until all the organic matter is burned
+out and the ash has assumed a light color. The cold ash is then
+moistened with a carbonate of ammonia solution, and the crucible again
+exposed until it is dark red; the weight of the ash is then taken. To
+determine the percentage of wool, a sample of the paper is dried at
+230 deg. Fahrenheit and weighed, boiled in a porcelain dish in potash lye
+12 deg. B. strong, and frequently stirred with a glass rod. The wool fiber
+soon dissolves in the potash lye, while the vegetable fiber remains
+unaltered. The pulpy mass resulting is placed upon a filter, dried at
+212 deg. Fahrenheit, and after the potash lye has dripped off, the
+residue, consisting of vegetable fiber and earthy ash ingredients, is
+washed until the water ceases to dissolve anything. The residue dried
+at 212 deg. Fahrenheit is weighed with a filter, after which that of the
+latter is deducted. The loss of weight experienced is essentially
+equal to the loss of the wool fiber. If the filtrate is saturated with
+hydrochloric acid, the dissolved wool fiber separates again, and after
+having been collected upon a weighed filter, it may be weighed and the
+quantity ascertained.
+
+The weight of the mineral substances in the raw paper is ascertained
+by analyzing the ash in a manner similar to that above described. The
+several constituents of the ash and the mineral added to the raw paper
+are ascertained as follows: Sufficient of the paper is calcined in the
+manner described; a known quantity of the ash is weighed and thrown
+into a small porcelain dish containing a little distilled water and an
+excess of chemically pure hydrochloric acid. In this solution are
+dissolved the carbonates, carbonate of lime, carbonate of magnesia, a
+little of sulphate of alumina, as well as metallic oxides, while
+silicate of magnesia, silicic acid, sulphate of lime (gypsum) remain
+undissolved. The substance is heated until the water and excess of
+free hydrochloric acid have been driven off; it is then moistened with
+a little hydrochloric acid, diluted with distilled water and heated.
+The undissolved residue is by filtering separated from the dissolved,
+the filter washed with distilled water, and the wash water added to
+the filtrate. The undissolved residue is dried, and after the filter
+has also been burned in due manner and the ash added, the weight is
+ascertained. It consists of clay, sand, silicic acid and gypsum.
+
+The filtrate is then poured into a cylinder capable of holding 100
+cubic centimeters, and furnished with a scale; sufficient distilled
+water is then added until the well-shaken fluid measures precisely 100
+cubic centimeters. By means of this measuring instrument, the filtrate
+is then divided into two equal portions. One of these parts is in a
+beaker glass over-saturated with chemically pure chloride of ammonia,
+whereby any iron of oxide present and a little dissolved alumina fall
+down as deposit. The precipitate is separated by filtering, washed,
+dried at 212 deg. Fahrenheit and weighed. To the filtrate is then added a
+solution of oxalate of ammonia until a white precipitate of oxalate of
+lime is formed. This precipitate is separated by filtering, washed,
+dried and when separated from the filter, is collected upon dark
+satinized paper; the filter itself is burned and the ash added to the
+oxalate of lime. This oxalate of lime is then heated to a dark red
+heat in a platinum crucible with lid until the oxalate of lime is
+converted into carbonate of lime. By the addition of a few drops of
+carbonate of ammonia solution and another slight heating of the
+crucible, also the caustic lime produced in the filter ash by heating,
+is reconverted into carbonate of lime, and after cooling in the
+exsiccator, the whole contents of the crucible is weighed as
+carbonate of lime, after deducting the known quantity of filter ash.
+
+Any magnesia present in the filtrate of the oxalate of lime is by the
+addition of a solution of phosphate of soda separated as phosphate of
+ammonia and magnesia, after having stood twenty-four hours. The
+precipitate is filtered off, washed with water to which a little
+chloride of ammonia is added, dried, and after calcining the fiber and
+adding the filter ash, glow heated in the crucible. The glowed
+substance is weighed after cooling, and is pyrophosphate of magnesia,
+from which the magnesia or carbonate of magnesia is calculated
+stoichiometrically. All the ascertained sums must be multiplied by 2,
+if they are to correspond to the analyzed and weighed quantity of ash.
+
+The second half of the filtrate is used for determining the small
+quantity of sulphate of lime still contained in the hydrochlorate
+solution. By adding chloride of barium solution the sulphuric acid is
+bound to the barytes and sulphate of baryta separates as white
+precipitate. This is separated by filtering, washed, dried and weighed
+in the customary manner. From the weight of the sulphate of baryta is
+then computed the weight of sulphate of lime, which has passed over
+into solution. The ascertained sum is also to be multiplied with 2.
+
+The manufacture of roll tar paper from the roll paper was at first
+found to be difficult, as it was impossible to submerge a surface
+larger than from ten to fifteen square yards, rolled up, in the tar,
+because more would have required too large a pan. Besides this, the
+paper tears easily, when it is in the hot tar. All kinds of
+experiments were tried, in order to impregnate the surface of the
+paper without employing too large a pan.
+
+The following method was tried at first: The roll paper was cut into
+lengths of ten yards, which were rolled up loosely, so that a certain
+space was left between the different coils. These loose rolls, of
+course, occupied much space and could be put into the tar only in a
+standing position, because in a horizontal one the several coils would
+have pressed together again. The loose roll was therefore slipped over
+a vertical iron rod fastened into a circular perforated wooden foot.
+The upper end of this iron rod ended in a ring, in which the hook of a
+chain or rope could be fastened. With the aid of a windlass the roll
+was raised or lowered. When placed in the pan with boiling tar, it was
+left there until thoroughly saturated. It was then taken out, placed
+upon a table, and the excess of tar allowed to drip off into a vessel
+underneath. After partially drying, the roll was spread out in open
+air, occasionally turned, until sufficiently dried, when it was rolled
+up again.
+
+In order to neutralize the smeary, sticky condition of the surface and

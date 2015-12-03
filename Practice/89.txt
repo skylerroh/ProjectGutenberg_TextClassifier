@@ -1,0 +1,382 @@
+Project Gutenberg's Half-hours with the Telescope, by Richard A. Proctor
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Half-hours with the Telescope
+       Being a Popular Guide to the Use of the Telescope as a
+       Means of Amusement and Instruction.
+
+Author: Richard A. Proctor
+
+Release Date: September 28, 2005 [EBook #16767]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK HALF-HOURS WITH THE TELESCOPE ***
+
+
+
+
+Produced by Jason Isbell and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+[Illustration: PLATE I. Maps I.-IV.]
+
+
+
+HALF-HOURS
+
+WITH
+
+THE TELESCOPE;
+
+BEING A POPULAR GUIDE TO THE USE OF THE TELESCOPE
+AS A MEANS OF AMUSEMENT AND INSTRUCTION.
+
+BY
+
+RICHARD A. PROCTOR, B.A., F.R.A.S.,
+AUTHOR OF "SATURN AND ITS SYSTEM," ETC.
+
+WITH ILLUSTRATIONS ON STONE AND WOOD.
+
+
+       *       *       *       *       *
+
+    An undevout astronomer is mad:
+    True, all things speak a God; but, in the small
+    Men trace out Him: in great He seizes man.
+                                  YOUNG.
+
+       *       *       *       *       *
+
+NEW YORK:
+
+G.P. PUTNAM'S SONS.
+
+1873.
+
+LONDON:
+
+PRINTED BY WILLIAM CLOWES AND SONS, STAMFORD STREET
+AND CHARING CROSS.
+
+
+
+
+PREFACE.
+
+
+The object which the Author and Publisher of this little work have
+proposed to themselves, has been the production, at a moderate price, of
+a useful and reliable guide to the amateur telescopist.
+
+Among the celestial phenomena described or figured in this treatise, by
+far the larger number may be profitably examined with small telescopes,
+and there are none which are beyond the range of a good 3-inch
+achromatic.
+
+The work also treats of the construction of telescopes, the nature and
+use of star-maps, and other subjects connected with the requirements of
+amateur observers.
+
+R.A.P.
+
+_January_, 1868.
+
+
+
+
+CONTENTS.
+
+
+CHAPTER I.                                          PAGE
+A HALF-HOUR ON THE STRUCTURE OF THE TELESCOPE          1
+
+CHAPTER II.
+A HALF-HOUR WITH ORION, LEPUS, TAURUS, ETC.           33
+
+CHAPTER III.
+A HALF-HOUR WITH LYRA, HERCULES, CORVUS, CRATER, ETC. 47
+
+CHAPTER IV.
+A HALF-HOUR WITH BOOTES, SCORPIO, OPHIUCHUS, ETC.     56
+
+CHAPTER V.
+A HALF-HOUR WITH ANDROMEDA, CYGNUS, ETC.              66
+
+CHAPTER VI.
+HALF-HOURS WITH THE PLANETS                           74
+
+CHAPTER VII.
+HALF-HOURS WITH THE SUN AND MOON                      93
+
+
+
+
+DESCRIPTION OF PLATES.
+
+
+PLATE I.--_Frontispiece._
+
+This plate presents the aspect of the heavens at the four seasons, dealt
+with in Chapters II., III., IV., and V. In each map of this plate the
+central point represents the point vertically over the observer's head,
+and the circumference represents his horizon. The plan of each map is
+such that the direction of a star or constellation, as respects the
+compass-points, and its elevation, also, above the horizon, at the given
+season, can be at once determined. Two illustrations of the use of the
+maps will serve to explain their nature better than any detailed
+description. Suppose first, that--at one of the hours named under Map
+I.--the observer wishes to find Castor and Pollux:--Turning to Map I. he
+sees that these stars lie in the lower left-hand quadrant, and very
+nearly towards the point marked S.E.; that is, they are to be looked for
+on the sky towards the south-east. Also, it is seen that the two stars
+lie about one-fourth of the way from the centre towards the
+circumference. Hence, on the sky, the stars will be found about
+one-fourth of the way from the zenith towards the horizon: Castor will
+be seen immediately above Pollux. Next, suppose that at one of the hours
+named the observer wishes to learn what stars are visible towards the
+west and north-west:--Turning the map until the portion of the
+circumference marked W ... N.W. is lowermost, he sees that in the
+direction named the square of Pegasus lies not very high above the
+horizon, one diagonal of the square being vertical, the other nearly
+horizontal. Above the square is Andromeda, to the right of which lies
+Cassiopeia, the stars [beta] and [epsilon] of this constellation lying
+directly towards the north-west, while the star [alpha] lies almost
+exactly midway between the zenith and the horizon. Above Andromeda, a
+little towards the left, lies Perseus, Algol being almost exactly
+towards the west and one-third of the way from the zenith towards the
+horizon (because one-third of the way from the centre towards the
+circumference of the map). Almost exactly in the zenith is the star
+[delta] Aurigae.
+
+The four maps are miniatures of Maps I., IV., VII., and X. of my
+'Constellation Seasons,' fourth-magnitude stars, however, being omitted.
+
+
+PLATES II., III., IV., and V., illustrating Chapters II., III., IV., and V.
+
+Plates II. and IV. contain four star-maps. They not only serve to
+indicate the configuration of certain important star-groups, but they
+illustrate the construction of maps, such as the observer should make
+for himself when he wishes to obtain an accurate knowledge of particular
+regions of the sky. They are all made to one scale, and on the conical
+projection--the simplest and best of all projections for maps of this
+sort. The way in which the meridians and parallels for this projection
+are laid down is described in my 'Handbook of the Stars.' With a little
+practice a few minutes will suffice for sweeping out the equidistant
+circular arcs which mark the parallels and ruling in the straight
+meridians.
+
+The dotted line across three of the maps represents a portion of the
+horizontal circle midway between the zenith and the horizon at the hour
+at which the map is supposed to be used. At other hours, of course, this
+line would be differently situated.
+
+Plates III. and V. represent fifty-two of the objects mentioned in the
+above-named chapters. As reference is made to these figures in the text,
+little comment is here required. It is to be remarked, however, that the
+circles, and especially the small circles, do not represent the whole
+of the telescope's field of view, only a small portion of it. The object
+of these figures is to enable the observer to know what to expect when
+he turns his telescope towards a difficult double star. Many of the
+objects depicted are very easy doubles: these are given as objects of
+reference. The observer having seen the correspondence between an easy
+double and its picture, as respects the relation between the line
+joining the components and the apparent path of the double across the
+telescope's field of view, will know how to interpret the picture of a
+difficult double in this respect. And as all the small figures are drawn
+to one scale, he will also know how far apart he may expect to find the
+components of a difficult double. Thus he will have an exact conception
+of the sort of duplicity he is to look for, and this is--_crede
+experto_--a great step towards the detection of the star's duplicity.
+
+
+PLATES VI. and VII., illustrating Chapters VI. and VII.
+
+The views of Mercury, Venus, and Mars in these plates (except the
+smaller view of Jupiter in Plate VII.) are supposed to be seen with the
+same "power."
+
+The observer must not expect to see the details presented in the views
+of Mars with anything like the distinctness I have here given to them.
+If he place the plate at a distance of six or seven yards he will see
+the views more nearly as Mars is likely to appear in a good three-inch
+aperture.
+
+The chart of Mars is a reduction of one I have constructed from views by
+Mr. Dawes. I believe that nearly all the features included in the chart
+are permanent, though not always visible. I take this opportunity of
+noting that the eighteen orthographic pictures of Mars presented with my
+shilling chart are to be looked on rather as maps than as representing
+telescopic views. They illustrate usefully the varying presentation of
+Mars towards the earth. The observer can obtain other such illustrations
+for himself by filling in outlines, traced from those given at the foot
+of Plate VI., with details from the chart. It is to be noted that Mars
+varies in presentation, not only as respects the greater or less opening
+out of his equator towards the north or south, but as respects the
+apparent slope of his polar axis to the right or left. The four
+projections as shown, or inverted, or seen from the back of the plate
+(held up to the light) give presentations of Mars towards the sun at
+twelve periods of the Martial year,--viz., at the autumnal and vernal
+equinoxes, at the two solstices, and at intermediate periods
+corresponding to our terrestrial months.
+
+In fact, by means of these projections one might readily form a series
+of sun-views of Mars resembling my 'Sun-views of the Earth.'
+
+In the first view of Jupiter it is to be remarked that the three
+satellites outside the disc are supposed to be moving in directions
+appreciably parallel to the belts on the disc--the upper satellites from
+right to left, the lower one from left to right. In general the
+satellites, when so near to the disc, are not seen in a straight line,
+as the three shown in the figure happen to be. Of the three spots on the
+disc, the faintest is a satellite, the neighbouring dark spot its
+shadow, the other dark spot the shadow of the satellite close to the
+planet's disc.
+
+
+
+
+HALF-HOURS WITH THE TELESCOPE.
+
+
+
+
+CHAPTER I.
+
+A HALF-HOUR ON THE STRUCTURE OF THE TELESCOPE.
+
+
+There are few instruments which yield more pleasure and instruction than
+the Telescope. Even a small telescope--only an inch and a half or two
+inches, perhaps, in aperture--will serve to supply profitable amusement
+to those who know how to apply its powers. I have often seen with
+pleasure the surprise with which the performance even of an opera-glass,
+well steadied, and directed towards certain parts of the heavens, has
+been witnessed by those who have supposed that nothing but an expensive
+and colossal telescope could afford any views of interest. But a
+well-constructed achromatic of two or three inches in aperture will not
+merely supply amusement and instruction,--it may be made to do useful
+work.
+
+The student of astronomy is often deterred from telescopic observation
+by the thought that in a field wherein so many have laboured, with
+abilities and means perhaps far surpassing those he may possess, he is
+little likely to reap results of any utility. He argues that, since the
+planets, stars, and nebulae have been scanned by Herschel and Rosse, with
+their gigantic mirrors, and at Pulkova and Greenwich with refractors
+whose construction has taxed to the utmost the ingenuity of the
+optician and mechanic, it must be utterly useless for an unpractised
+observer to direct a telescope of moderate power to the examination of
+these objects.
+
+Now, passing over the consideration that a small telescope may afford
+its possessor much pleasure of an intellectual and elevated character,
+even if he is never able by its means to effect original discoveries,
+two arguments may be urged in favour of independent telescopic
+observation. In the first place, the student who wishes to appreciate
+the facts and theories of astronomy should familiarize himself with the
+nature of that instrument to which astronomers have been most largely
+indebted. In the second place, some of the most important discoveries in
+astronomy have been effected by means of telescopes of moderate power
+used skilfully and systematically. One instance may suffice to show what
+can be done in this way. The well-known telescopist Goldschmidt (who
+commenced astronomical observation at the age of forty-eight, in 1850)
+added fourteen asteroids to the solar system, not to speak of important
+discoveries of nebulae and variable stars, by means of a telescope only
+five feet in focal length, mounted on a movable tripod stand.
+
+The feeling experienced by those who look through a telescope for the
+first time,--especially if it is directed upon a planet or nebula--is
+commonly one of disappointment. They have been told that such and such
+powers will exhibit Jupiter's belts, Saturn's rings, and the
+continent-outlines on Mars; yet, though perhaps a higher power is
+applied, they fail to detect these appearances, and can hardly believe
+that they are perfectly distinct to the practised eye.
+
+The expectations of the beginner are especially liable to
+disappointment in one particular. He forms an estimate of the view he is
+to obtain of a planet by multiplying the apparent diameter of the planet
+by the magnifying power of his telescope, and comparing the result with
+the apparent diameter of the sun or moon. Let us suppose, for instance,
+that on the day of observation Jupiter's apparent diameter is 45", and
+that the telescopic power applied is 40, then in the telescope Jupiter
+should appear to have a diameter of 1800", or half a degree, which is
+about the same as the moon's apparent diameter. But when the observer
+looks through the telescope he obtains a view--interesting, indeed, and
+instructive--but very different from what the above calculation would
+lead him to expect. He sees a disc apparently much smaller than the
+moon's, and not nearly so well-defined in outline; in a line with the
+disc's centre there appear three or four minute dots of light, the
+satellites of the planet; and, perhaps, if the weather is favourable and
+the observer watchful, he will be able to detect faint traces of belts
+across the planet's disc.
+
+Yet in such a case the telescope is not in fault. The planet really
+appears of the estimated size. In fact, it is often possible to prove
+this in a very simple manner. If the observer wait until the planet and
+the moon are pretty near together, he will find that it is possible to
+view the planet with one eye through the telescope and the moon with the
+unaided eye, in such a manner that the two discs may coincide, and thus
+their relative apparent dimensions be at once recognised. Nor should the
+indistinctness and incompleteness of the view be attributed to
+imperfection of the telescope; they are partly due to the nature of the
+observation and the low power employed, and partly to the inexperience
+of the beginner.
+
+It is to such a beginner that the following pages are specially
+addressed, with the hope of affording him aid and encouragement in the
+use of one of the most enchanting of scientific instruments,--an
+instrument that has created for astronomers a new sense, so to speak, by
+which, in the words of the ancient poet:
+
+    Subjecere oculis distantia sidera nostris,
+      AEtheraque ingenio supposuere suo.
+
+In the first place, it is necessary that the beginner should rightly
+know what is the nature of the instrument he is to use. And this is the
+more necessary because, while it is perfectly easy to obtain such
+knowledge without any profound acquaintance with the science of optics,
+yet in many popular works on this subject the really important points
+are omitted, and even in scientific works such points are too often left
+to be gathered from a formula. When the observer has learnt what it is
+that his instrument is actually to do for him, he will know how to
+estimate its performance, and how to vary the application of its
+powers--whether illuminating or magnifying--according to the nature of
+the object to be observed.
+
+Let us consider what it is that limits the range of _natural_ vision
+applied to distant objects. What causes an object to become invisible as
+its distance increases? Two things are necessary that an object should
+be visible. It must be _large_ enough to be appreciated by the eye, and
+it must _send light_ enough. Thus increase of distance may render an
+object invisible, either through diminution of its apparent size, or
+through diminution in the quantity of light it sends to the eye, or
+through both these causes combined. A telescope, therefore, or (as its
+name implies) an instrument to render distant objects visible, must be
+both a magnifying and an illuminating instrument.
+
+[Illustration: _Fig. 1._]
+
+Let EF, fig. 1, be an object, not near to AB as in the figure, but so
+far off that the bounding lines from A and B would meet at the point
+corresponding to the point P. Then if a large convex glass AB (called an
+_object-glass_) be interposed between the object and the eye, all those
+rays which, proceeding from P, fall on AB, will be caused to converge
+nearly to a point _p_. The same is true for every point of the object
+EMF, and thus a small image, _emf_, will be formed. This image will not
+lie exactly on a flat surface, but will be curved about the point midway
+between A and B as a centre. Now if the lens AB is removed, and an eye
+is placed at _m_ to view the distant object EMF, those rays only from

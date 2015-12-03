@@ -12,8 +12,8 @@ import re
 """
 Set these variables to be the top level directory of training samples (i.e. your_own_path/Training/) as well as the directory to store the result CSVs
 """
-TRAINING_DIR = "/Users/Skyroh/Desktop/sta154/Training/"
-OUTPUT_DIR =  "/Users/Skyroh/Desktop/sta154/output"
+TRAINING_DIR = "/Users/haolyu/Desktop/sta154/Training/"
+OUTPUT_DIR =  "/Users/haolyu/Desktop/sta154/output"
 
 
 
@@ -44,13 +44,6 @@ if __name__ == "__main__":
     text_filenames, contents = docs(toplevel_file)
     vectorizer = CountVectorizer(stop_words=STOP_WORDS, decode_error ="replace", tokenizer=custom_tokenizer)
     fitted = vectorizer.fit_transform(contents)
-<<<<<<< HEAD
-    tmp = pd.DataFrame(fitted.toarray(), columns = vectorizer.get_feature_names(), index = text_filenames)
-    s=tmp.sum(axis=0)
-    tmp = tmp.loc[:,s > 1]
-    length = tmp.shape[0]
-    tmp['tags'] = pd.Series(np.repeat(i,length), index = tmp.index)
-=======
     # transformer = TfidfTransformer()
     # tfidf = transformer.fit_transform(fitted.toarray()).toarray()
     # x = np.argsort((tfidf.sum(axis=0)))[::-1]
@@ -61,7 +54,6 @@ if __name__ == "__main__":
     #s=tmp.sum(axis=0) 
     #tmp = tmp.loc[:,s > 15]
     # tmp['tags'] = pd.Series(np.repeat(i,length), index = tmp.index)
->>>>>>> 443a0f028f6a278f18f2fb2eb879e77e51956ad4
     df = pd.concat([tmp, df])
 
 

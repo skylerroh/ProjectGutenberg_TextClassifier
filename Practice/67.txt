@@ -1,0 +1,401 @@
+The Project Gutenberg EBook of Mohammedanism, by C. Snouck Hurgronje
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Mohammedanism
+       Lectures on Its Origin, Its Religious and Political Growth,
+       and Its Present State
+
+Author: C. Snouck Hurgronje
+
+Release Date: November 21, 2003 [EBook #10163]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK MOHAMMEDANISM ***
+
+
+
+
+Produced by Imran Ghory, Stan Goodman, Lazar Liveanu and PG Distributed
+Proofreaders
+
+
+
+
+
+_AMERICAN LECTURES ON THE HISTORY OF RELIGIONS_
+
+SERIES OF 1914-1915
+
+
+
+
+Mohammedanism
+
+Lectures on Its Origin, Its Religious and Political Growth, and Its Present
+State
+
+
+
+by
+
+
+
+C. Snouck Hurgronje
+
+Professor of the Arabic Language in the University of Leiden, Holland
+
+
+
+
+1916
+
+
+
+
+ANNOUNCEMENT.
+
+The American Lectures on the History of Religions are delivered under
+the auspices of the American Committee for Lectures on the History of
+Religions. This Committee was organized in 1892, for the purpose of
+instituting "popular courses in the History of Religions, somewhat after
+the style of the Hibbert Lectures in England, to be delivered by the best
+scholars of Europe and this country, in various cities, such as Baltimore,
+Boston, Brooklyn, Chicago, New York, Philadelphia."
+
+The terms of association under which the Committee exists are as follows:
+
+1.--The object of this Committee shall be to provide courses of lectures on
+the history of religions, to be delivered in various cities.
+
+2.--The Committee shall be composed of delegates from the institutions
+agreeing to co-operate, with such additional members as may be chosen by
+these delegates.
+
+3.--These delegates--one from each institution, with the additional members
+selected--shall constitute themselves a council under the name of the
+"American Committee for Lectures on the History of Religions."
+
+4.--The Committee shall elect out of its number a Chairman, a Secretary,
+and a Treasurer.
+
+5.--All matters of local detail shall be left to the co-operating
+institutions under whose auspices the lectures are to be delivered.
+
+6.--A course of lectures on some religion, or phase of religion, from
+an historical point of view, or on a subject germane to the study of
+religions, shall be delivered annually, or at such intervals as may be
+found practicable, in the different cities represented by this Committee.
+
+7.--The Committee (a) shall be charged with the selection of the lectures,
+(b) shall have charge of the funds, (c) shall assign the time for the
+lectures in each city, and perform such other functions as may be
+necessary.
+
+8.--Polemical subjects, as well as polemics in the treatment of subjects,
+shall be positively excluded.
+
+9.--The lectures shall be delivered in the various cities between the
+months of September and June.
+
+10.--The copyright of the lectures shall be the property of the Committee.
+
+11.--The compensation of the lecturer shall be fixed in each case by the
+Committee.
+
+12.--The lecturer shall be paid in installments after each course, until he
+shall have received half of the entire compensation. Of the remaining half,
+one half shall be paid to him upon delivery of the manuscript, properly
+prepared for the press, and the second half on the publication of the
+volume, less a deduction for corrections made by the author in the proofs.
+
+The Committee as now constituted is as follows: Prof. Crawford H. Toy,
+Chairman, 7 Lowell St., Cambridge, Mass.; Rev. Dr. John P. Peters,
+Treasurer, 227 W. 99th St., New York City; Prof. Morris Jastrow, Jr.,
+Secretary, 248 So. 23d St., Philadelphia, Pa.; President Francis Brown,
+Union Theological Seminary, New York City; Prof. Richard Gottheil, Columbia
+University, New York City; Prof. Harry Pratt Judson, University of Chicago,
+Chicago, Ill.; Prof. Paul Haupt, Johns Hopkins University, Baltimore, Md.;
+Mr. Charles D. Atkins, Director, Brooklyn Institute of Arts and Sciences;
+Prof. E.W. Hopkins, Yale University, New Haven, Conn.; Prof. Edward Knox
+Mitchell, Hartford Theological Seminary, Hartford, Conn.; President F.K.
+Sanders, Washburn College, Topeka, Kan.; Prof. H.P. Smith, Meadville
+Theological Seminary, Meadville, Pa.; Prof. W.J. Hinke, Auburn Theological
+Seminary, Auburn, N.Y.; Prof. Kemper Fullerton, Oberlin Theological
+Seminary, Oberlin, N.Y.
+
+The lecturers in the course of American Lectures on the History of
+Religions and the titles of their volumes are as follows:
+
+1894-1895--Prof. T.W. Rhys-Davids, Ph.D.,--_Buddhism_.
+
+1896-1897--Prof. Daniel G. Brinton, M.D., LL.D.--_Religions of Primitive
+Peoples_.
+
+1897-1898--Rev. Prof. T.K. Cheyne, D.D.--_Jewish Religious Life after the
+Exile_.
+
+1898-1899--Prof. Karl Budde, D.D.--_Religion of Israel to the Exile_.
+
+1904-1905--Prof. George Steindorff, Ph.D.--_The Religion of the Ancient
+Egyptians_.
+
+1905-1906--Prof. George W. Knox, D.D., LL.D.--_The Development of Religion
+in Japan_.
+
+1906-1907--Prof. Maurice Bloomfield, Ph.D., LL.D.--_The Religion of the
+Veda_.
+
+1907-1908--Prof. A.V.W. Jackson, Ph.D., LL.D.--_The Religion of Persia_.[1]
+
+1909-1910--Prof. Morris Jastrow, Jr., Ph.D.--_Aspects of Religious Belief
+and Practice in Babylonia and Assyria_.
+
+1910-1911--Prof. J.J.M. DeGroot--_The Development of Religion in China_.
+
+1911-1912--Prof. Franz Cumont.[2]--_Astrology and Religion among the Greeks
+and Romans_.
+
+[Footnote 1: This course was not published by the Committee, but will form
+part of Prof. Jackson's volume on the Religion of Persia in the series of
+_Handbooks on the History of Religions_, edited by Prof. Morris Jastrow,
+Jr., and published by Messrs. Ginn & Company of Boston. Prof. Jastrow's
+volume is, therefore, the eighth in the series.]
+
+[Footnote 2: Owing to special circumstances, Prof. Cumont's volume was
+published before that of Prof. DeGroot. It is, therefore, the ninth in the
+series and that of Prof. DeGroot the tenth.]
+
+The lecturer for 1914 was Professor C. Snouck Hurgronje. Born in
+Oosterhout, Holland, in 1857, he studied Theology and Oriental Languages
+at the University of Leiden and continued his studies at the University of
+Strassburg. In 1880 he published his first important work _Het Mekkaansch
+Feest_, having resolved to devote himself entirely to the study of
+Mohammedanism in its widest aspects. After a few years' activity as
+Lecturer on Mohammedan Law at the Seminary for Netherlands-India in Leiden,
+he spent eight months (1884-5) in Mecca and Jidda. In 1888, he became
+lecturer at the University of Leiden and in the same year was sent out
+as Professor to Batavia in Netherlands-India, where he spent the years
+1889-1906. Upon his return he was appointed Professor of Arabic at the
+University of Leiden. Among his principal published works may be mentioned:
+_Mekka_, The Hague, 1888-9; _De Beteekenis van den Islam voor zijne
+Belijders in Oost Indie_, Leiden, 1883; _Mekkanische Sprichwoerter_, The
+Hague, 1886; _De Atjehers_, Leiden, 1903-4, England tr. London, 1906; _Het
+Gajoland en zijne Bezvoners_, Batavia, 1903, and _Nederland en de Islam_,
+Leiden, 1915.
+
+The lectures to be found in the present volume were delivered before
+the following Institutions: Columbia University, Yale University, The
+University of Pennsylvania, Meadville Theological Seminary, The University
+of Chicago, The Lowell Institute, and the Johns Hopkins University.
+
+The Committee owes a debt of deep gratitude to Mr. Charles R. Crane for
+having made possible the course of lectures for the year 1914.
+
+RICHARD GOTTHEIL
+
+CRAWFORD H. TOY
+
+_Committee on Publication_.
+
+April, 1916.
+
+
+       *       *       *       *       *
+
+CONTENTS
+
+
+SOME POINTS CONCERNING THE ORIGIN OF ISLAM.
+
+THE RELIGIOUS DEVELOPMENT OF ISLAM.
+
+THE POLITICAL DEVELOPMENT OF ISLAM.
+
+ISLAM AND MODERN THOUGHT.
+
+INDEX.
+
+
+
+
+
+Mohammedanism
+
+
+I
+
+SOME POINTS CONCERNING THE ORIGIN OF ISLAM
+
+
+There are more than two hundred million people who call themselves after
+the name of Mohammed, would not relinquish that name at any price, and
+cannot imagine a greater blessing for the remainder of humanity than to be
+incorporated into their communion. Their ideal is no less than that the
+whole earth should join in the faith that there is no god but Allah and
+that Mohammed is Allah's last and most perfect messenger, who brought the
+latest and final revelation of Allah to humanity in Allah's own words. This
+alone is enough to claim our special interest for the Prophet, who in the
+seventh century stirred all Arabia into agitation and whose followers soon
+after his death founded an empire extending from Morocco to China.
+
+Even those who--to my mind, not without gross exaggeration--would seek the
+explanation of the mighty stream of humanity poured out by the Arabian
+peninsula since 630 over Western and Middle Asia, Northern Africa, and
+Southern Europe principally in geographic and economic causes, do not
+ignore the fact that it was Mohammed who opened the sluice gates. It would
+indeed be difficult to maintain that without his preaching the Arabs of the
+seventh century would have been induced by circumstances to swallow up
+the empire of the Sasanids and to rob the Byzantine Empire of some of its
+richest provinces. However great a weight one may give to political and
+economic factors, it was religion, Islam, which in a certain sense united
+the hitherto hopelessly divided Arabs, Islam which enabled them to found
+an enormous international community; it was Islam which bound the speedily
+converted nations together even after the shattering of its political
+power, and which still binds them today when only a miserable remnant of
+that power remains.
+
+The aggressive manner in which young Islam immediately put itself in
+opposition to the rest of the world had the natural consequence of
+awakening an interest which was far from being of a friendly nature.
+Moreover men were still very far from such a striving towards universal
+peace as would have induced a patient study of the means of bringing the
+different peoples into close spiritual relationship, and therefore from an
+endeavour to understand the spiritual life of races different to their own.
+The Christianity of that time was itself by no means averse to the
+forcible extension of its faith, and in the community of Mohammedans which
+systematically attempted to reduce the world to its authority by force of
+arms, it saw only an enemy whose annihilation was, to its regret, beyond
+its power. Such an enemy it could no more observe impartially than one
+modern nation can another upon which it considers it necessary to make war.
+Everything maintained or invented to the disadvantage of Islam was greedily
+absorbed by Europe; the picture which our forefathers in the Middle Ages
+formed of Mohammed's religion appears to us a malignant caricature. The
+rare theologians[1] who, before attacking the false faith, tried to form a
+clear notion of it, were not listened to, and their merits have only become
+appreciated in our own time. A vigorous combating of the prevalent fictions
+concerning Islam would have exposed a scholar to a similar treatment to
+that which, fifteen years ago, fell to the lot of any Englishman who
+maintained the cause of the Boers; he would have been as much of an outcast
+as a modern inhabitant of Mecca who tried to convince his compatriots of
+the virtues of European policy and social order.
+
+[Footnote 1: See for instance the reference to the exposition of the
+Paderborn bishop Olivers (1227) in the Paderborn review _Theologie und
+Glaube_, Jahrg. iv., p. 535, etc. (_Islam_, iv., p. 186); also some of the
+accounts mentioned in Gueterbock, _Der Islam im Lichte der byzantinischen
+Polemik_, etc.]
+
+Two and a half centuries ago, a prominent Orientalist,[2] who wrote
+an exposition of Mohammed's teaching, felt himself obliged to give an
+elaborate justification of his undertaking in his "Dedicatio." He appeals
+to one or two celebrated predecessors and to learned colleagues, who have
+expressly instigated him to this work. Amongst other things he quotes
+a letter from the Leiden professor, L'Empereur, in which he conjures
+Breitinger by the bowels of Jesus Christ ("per viscera Jesu Christi") to
+give the young man every opportunity to complete his study of the religion
+of Mohammed, "which so far has only been treated in a senseless way." As a
+fruit of this study L'Empereur thinks it necessary to mention in the first
+place the better understanding of the (Christian) Holy Scriptures by the
+extension of our knowledge of Oriental manners and customs. Besides such
+promotion of Christian exegesis and apologetics and the improvement of the
+works on general history, Hottinger himself contemplated a double
+purpose in his _Historia Orientalis_. The Roman Catholics often vilified
+Protestantism by comparing the Reformed doctrine to that of Mohammedanism;
+this reproach of Crypto-mohammedanism Hottinger wished "talionis lege" to
+fling back at the Catholics; and he devotes a whole chapter (Cap. 6) of his
+book to the demonstration that Bellarminius' proofs of the truth of the
+Church doctrine might have been copied from the Moslim dogma. In the second
+place, conforming to the spirit of the times, he wished, just as Bibliander
+had done in his refutation of the Qoran, to combine the combat against
+Mohammedan unbelief with that against the Turkish Empire ("in oppugnationem
+Mahometanae perfidiae et Turcici regni").
+
+[Footnote 2: J.H. Hottinger, _Historia Orientalis_, Zuerich, 1651 (2d.
+edition 1660).]
+
+The Turks were feared by the Europe of that time, and the significance of
+their religion for their worldly power was well known; thus the
+political side of the question gave Hottinger's work a special claim to
+consideration. Yet, in spite of all this, Hottinger feared that his labour
+would be regarded as useless, or even wicked. Especially when he is obliged
+to say anything favourable of Mohammed and his followers, he thinks it
+necessary to protect himself against misconstruction by the addition of
+some selected terms of abuse. When mentioning Mohammed's name, he says:
+"at the mention of whom the mind shudders" ("ad cujus profecto mentionem
+inhorrescere nobis debet animus"). The learned Abbe Maracci, who in 1698
+produced a Latin translation of the Qoran accompanied by an elaborate
+refutation, was no less than Hottinger imbued with the necessity of
+shuddering at every mention of the "false" Prophet, and Dr. Prideaux,
+whose _Vie de Mahomet_ appeared in the same year in Amsterdam, abused and
+shuddered with them, and held up his biography of Mohammed as a mirror to
+"unbelievers, atheists, deists, and libertines."
+
+It was a Dutch scholar, H. Reland, the Utrecht professor of theology, who
+in the beginning of the eighteenth century frankly and warmly recommended
+the application of historical justice even towards the Mohammedan religion;
+in his short Latin sketch of Islam[1] he allowed the Mohammedan authorities
+to speak for themselves. In his "Dedicatio" to his brother and in his
+extensive preface he explains his then new method. Is it to be supposed,
+he asks, that a religion as ridiculous as the Islam described by Christian
+authors should have found millions of devotees? Let the Moslims themselves
+describe their own religion for us; just as the Jewish and Christian
+religions are falsely represented by the heathen and Protestantism by
+Catholics, so every religion is misrepresented by its antagonists. "We
+are mortals, subject to error; especially where religious matters are
+concerned, we often allow ourselves to be grossly misled by passion."
+Although it may cause evil-minded readers to doubt the writer's orthodoxy
+he continues to maintain that truth can only be served by combating her
+opponents in an honourable way.
+
+[Footnote 1: _H. Relandi de religione Mohammedica libri duo_, Utrecht, 1704
+(2d ed. 1717).]
+
+"No religion," says Reland, "has been more calumniated than Islam,"
+although the Abbe Maracci himself could give no better explanation of the
+turning of many Jews and Christians to this religion than the fact that
+it contains many elements of natural truth, evidently borrowed from the
+Christian religion, "which seem to be in accordance with the law and the
+light of nature" ("quae naturae legi ac lumini consentanea videntur").
+"More will be gained for Christianity by friendly intercourse with
+Mohammedans than by slander; above all Christians who live in the East must
+not, as is too often the case, give cause to one Turk to say to another
+who suspects him of lying or deceit: 'Do you take me for a Christian?'
+("putasne me Christianum esse"). In truth, the Mohammedans often put us to
+shame by their virtues; and a better knowledge of Islam can only help to
+make our irrational pride give place to gratitude to God for the undeserved
+mercy which He bestowed upon us in Christianity." Reland has no illusions
+that his scientific justice will find acceptance in a wide circle "as he
+becomes daily more and more convinced that the world wishes to be deceived
+and is governed by prejudice" ("qui quotidie magis magisque experior mundum
+decipi velle et praeconceptis opinionibus regi").
+
+It was not long before the scale was turned in the opposite direction,
+and Islam was made by some people the object of panegyrics as devoid of
+scientific foundation as the former calumnies. In 1730 appeared in London
+the incomplete posthumous work of Count de Boulainvilliers, _Vie de
+Mahomet,_ in which, amongst other things, he says of the Arabian Prophet
+that "all that he has said concerning the essential religious dogmas is
+true, but he has not said all that is true, and it is only therein that his
+religion differs from ours." De Boulainvilliers tells us with particular
+satisfaction that Mohammed, who respected the devotion of hermits and
+monks, proceeded with the utmost severity against the official clergy,
+condemning its members either to death or to the abjuration of their faith.
+This _Vie de Mahomet_ was as a matter of fact an anti-clerical romance, the
+material of which was supplied by a superficial knowledge of Islam drawn
+from secondary sources. That a work with such a tendency was sure to arouse
+interest at that time, is shown by a letter from the publisher, Coderc, to
+Professor Gagnier at Oxford, in which he writes: "He [de Boulainvilliers]
+mixes up his history with many political reflections, which by their
+newness and boldness are sure to be well received" ("Il mele son Histoire
+de plusieurs reflexions politiques, et qui par leur hardiesse ne manqueront
+pas d'etre tres bien recues").
+
+Jean Gagnier however considered these bold novelties very dangerous and

@@ -1,0 +1,476 @@
+The Project Gutenberg EBook of Scientific American Supplement, No. 829,
+November 21, 1891, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Scientific American Supplement, No. 829, November 21, 1891
+
+Author: Various
+
+Release Date: February 14, 2005 [EBook #15051]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SCIENTIFIC AMERICAN ***
+
+
+
+
+Produced by Juliet Sutherland and the PG Online Distributed
+Proofreading Team at www.pgdp.net.
+
+
+
+
+
+[Illustration]
+
+
+
+
+SCIENTIFIC AMERICAN SUPPLEMENT NO. 829
+
+
+
+
+NEW YORK, November 21, 1891.
+
+Scientific American Supplement. Vol. XXXII, No. 829.
+
+Scientific American established 1845
+
+Scientific American Supplement, $5 a year.
+
+Scientific American and Supplement, $7 a year.
+
+       *       *       *       *       *
+
+
+
+
+TABLE OF CONTENTS.
+
+I.    ASTRONOMY.--The Sun's Motion in Space.--By A.M. CLERKE.--
+      A very interesting article on the determination of this hitherto
+      uncertain factor.
+
+II.   BOTANY.--Hemlock and Parsley.--By W.W. BAILEY.--Economic
+      botany of Umbelliferae.
+
+      Raphides--the Cause of the Acridity of Certain Plants.--By
+      R.A. WEBER.--Effect of these crystals on the expressed juice
+      from calla and Indian turnip and other plants.
+
+      The Eremuri.--A very attractive flower plant for
+      gardens.--1 illustration.
+
+III.  DECORATIVE ART.--The Decorative Treatment of Natural
+      Foliage.--By HUGH STANNUS. The first of a series of lectures
+      before the London Society of Arts, giving an elaborate
+      classification of the principles of the subject.--5
+      illustrations.
+
+IV.   ELECTRICITY.--The Independent--Storage or Primary Battery--System
+      of Electric Motive Power.--By KNIGHT NEFTEL.--Abstract of a
+      recent paper read before the American Street Railway Association
+      on the present aspect of battery car traction.
+
+V.    GEOGRAPHY.--The Colorado Desert Lake.--A description of the new
+      overflow into the Colorado Desert, with the prognosis of its
+      future.
+
+VI.   GEOLOGY.--Animal Origin of Petroleum and Paraffine.--A plea
+      for the animal origin of geological hydrocarbons based on
+      chemical and geological reasons.
+
+      The Origin of Petroleum.--By O.C.D. Ross.--A further and more
+      lengthy discussion in regard to petroleum and theory of its
+      production by volcanic action.
+
+VII.  GUNNERY.--Weldon's Range Finder.--An instrument for determining
+      distances, with description of its use.--3 illustrations.
+
+VIII. MECHANICAL ENGINEERING.--Mercury Weighing Machine.--A
+      type of weighing machine depending on the displacement
+      of mercury.--1 illustration.
+
+      Wheels Linked with a Bell Crank.--Curious examples of
+      mechanical constructions in the communication of motion
+      between wheels.--3 illustrations.
+
+IX.   MEDICINE AND HYGIENE.--Cold and Mortality.--By Dr. B.W.
+      RICHARDSON.--The effect of cold upon the operation of the
+      animal system, with practical rules.
+
+      On the Occurrence of Tin in Canned Food.--By H.A. WEBER.--A
+      very valuable and important series of analyses of American and
+      other food products for tin and copper.
+
+      The Treatment of Glaucoma.--Note on the treatment of this
+      disease fatal to vision.
+
+X.    METALLURGY.--On the Elimination of Sulphur from Pig Iron.
+      By J. MASSENEZ.--The desulphurization of pig iron by treatment
+      with manganese, with apparatus employed.--5 illustrations.
+
+XI.   MISCELLANEOUS.--The California Raisin Industry.--How raisins
+      are grown and packed in California, with valuable figures
+      and data.
+
+      The Recent Battles in Chile.--The recent battles of Concon and
+      Vina del Mar.--2 illustrations.
+
+XII.  NATURAL HISTORY.--The Whale-headed Stork.--A curious bird,
+      a habitant of Africa and of great rarity.--1 illustration.
+
+XIII. NAVAL ENGINEERING.--A Twin Screw Launch Run by a Compound
+      Engine.--The application of a single compound tandem
+      engine to driving twin screws.--2 illustrations.
+
+      Improvements in the Construction of River and Canal
+      Barges.--By M. RITTER.--A very peculiar and ingenious system of
+      construction, enabling the same vessel to be used at greater or
+      less draught according to the requirements and conditions of the
+      water.--5 illustrations.
+
+      Reefing Sails from the Deck--An effective method of reefing,
+      one which has been subjected to actual trial repeatedly in bad
+      weather off Cape Horn.--3 illustrations.
+
+XIV.  PHYSICS.--The Cyclostat.--An apparatus for observing
+      bodies in rapid rotary motion.--5 illustrations.
+
+XV.   TECHNOLOGY.--A New Process for the Bleaching of Jute.--By
+      Messrs. LEYKAM and TOSEFOTHAL.--A method of rendering
+      the fiber of jute perfectly white, with full details.
+
+      A Violet Coloring Matter from Morphine.--The first true
+      coloring matter obtained from a natural alkaloid.
+
+      Liquid Blue for Dyeing.--Treatment of the "Dornemann"
+      liquid blue.
+
+      New Process for the Manufacture of Chromates.--By J. MASSIGNON
+      and E. VATEL.--Manufacture of chromates from chromic
+      iron ore by a new process.
+
+       *       *       *       *       *
+
+
+
+
+[Illustration: THE BATTLE OF CONCON, CHILE. August 21, 1891.
+
+The Congressional troops advancing.
+The river Aconcagua.
+Balmaceda's troops retreating.
+The Esmeralda.
+Concon Point.
+The Magellanes. ]
+
+[Illustration: THE BATTLE OF VINA DEL MAR, CHILE, AUGUST 1891.
+
+Esmeralda firing shell at Fort Callao.
+Almirante Cochrane firing at Balmaceda's artillery behind Fort Callao.
+Battery of Congress artillery trying to silence government troops at
+  Vina del Mar.
+Balmaceda's field batteries at back of Fort Callao.
+Fort Callao.
+Congress infantry firing at troops at Vina del Mar, Balmaceda's
+  infantry returning fire of Congress troops opposite.
+English, American, German, and French men-of-war watching the battle
+  of Vina del Mar.]
+
+
+THE RECENT BATTLES IN CHILE.
+
+
+The battle of Concon took place Aug. 21, 1891. Nine thousand
+Congressional troops advancing toward Valparaiso from Quinteros Bay,
+where they had landed the day previous, were met by Balmaceda's troops
+on the other side of the river Aconcagua. The Esmeralda and the
+Magellanes, co-operating from the sea, made fearful havoc among the
+Balmacedists with their machine guns and shell. After a stubborn fight
+the Balmacedists were totally defeated, and were pursued by the
+victorious cavalry, losing 4,000 out of 12,000 in killed, wounded and
+deserters. All their field pieces were captured, and thus the road was
+left open for the Congressionalists to advance on Vina del Mar.
+
+
+THE BATTLE OF VINA DEL MAR, CHILE.
+
+A general engagement took place on Aug. 23, 1891, between divisions of
+Balmaceda's and the Congressional troops, with the Esmeralda and the
+Almirante Cochrane aiding the latter by firing at Fort Callao,
+endeavoring to silence the field batteries at the back. The
+Congressional troops failed to capture Vina del Mar, but eventually
+cut the railway line a few miles out, and crossed over to the back of
+Valparaiso, which was soon captured.--_The Graphic._
+
+       *       *       *       *       *
+
+
+
+
+THE SUN'S MOTION IN SPACE.
+
+By A.M. CLERKE.
+
+
+Science needed two thousand years to disentangle the earth's orbital
+movement from the revolutions of the other planets, and the
+incomparably more arduous problem of distinguishing the solar share in
+the confused multitude of stellar displacements first presented itself
+as possibly tractable a little more than a century ago. In the lack
+for it as yet of a definite solution there is, then, no ground for
+surprise, but much for satisfaction in the large measure of success
+attending the strenuous attacks of which it has so often been made the
+object.
+
+Approximately correct knowledge as to the direction and velocity of
+the sun's translation is indispensable to a profitable study of
+sidereal construction; but apart from some acquaintance with the
+nature of sidereal construction, it is difficult, if not impossible,
+of attainment. One, in fact, presupposes the other. To separate a
+common element of motion from the heterogeneous shiftings upon the
+sphere of three or four thousand stars is a task practicable only
+under certain conditions. To begin with, the proper motions
+investigated must be established with _general_ exactitude. The errors
+inevitably affecting them must be such as pretty nearly, in the total
+upshot, to neutralize one another. For should they run mainly in one
+direction, the result will be falsified in a degree enormously
+disproportionate to their magnitude. The adoption, for instance, of
+system of declinations as much as 1" of arc astray might displace to
+the extent of 10 deg. north or south the point fixed upon as the apex of
+the sun's way (see L. Boss _Astr. Jour._, No. 213). Risks on this
+score, however, will become less formidable with the further advance
+of practical astronomy along a track definable as an asymptote of
+ideal perfection.
+
+Besides this obstacle to be overcome, there is another which it will
+soon be possible to evade. Hitherto, inquiries into the solar movement
+have been hampered by the necessity for preliminary assumptions of
+some kind as to the relative distances of classes of stars. But all
+such assumptions, especially when applied to selected lists, are
+highly insecure; and any fabric reared upon them must be considered to
+stand upon treacherous ground. The spectrographic method, however,
+here fortunately comes into play. "Proper motions" are only angular
+velocities. They tell nothing as to the value of the perspective
+element they may be supposed to include, or as to the real rate of
+going of the bodies they are attributed to, until the size of the
+sphere upon which they are measured has been otherwise ascertained.
+But the displacement of lines in stellar spectra give directly the
+actual velocities relative to the earth of the observed stars. The
+question of their distances is, therefore, at once eliminated. Now the
+radial component of stellar motion is mixed up, precisely in the same
+way as the tangential component, with the solar movement; and since
+complete knowledge of it, in a sufficient number of cases, is rapidly
+becoming accessible, while knowledge of tangential velocity must for a
+long time remain partial or uncertain, the advantage of replacing the
+discussion of proper motions by that of motions in line of sight is
+obvious and immediate. And the admirable work carried on at Potsdam
+during the last three years will soon afford the means of doing so in
+the first, if only a preliminary investigation of the solar
+translation based upon measurements of photographed stellar spectra.
+
+The difficulties, then, caused either by inaccuracies in star
+catalogues or by ignorance of star distances may be overcome; but
+there is a third, impossible at present to be surmounted, and not
+without misgiving to be passed by. All inquiries upon the subject of
+the advance of our system through space start with an hypothesis most
+unlikely to be true. The method uniformly adopted in them--and no
+other is available--is to treat the _inherent_ motions of the stars
+(their so-called _motus peculiares_) as pursued indifferently in all
+directions. The steady drift extricable from them by rules founded
+upon the science of probabilities is presumed to be solar motion
+visually transferred to them in proportions varying with their
+remoteness in space, and their situations on the sphere. If this
+presumption be in any degree baseless, the result of the inquiry is
+_pro tanto_ falsified. Unless the deviations from the parallactic line
+of the stellar motions balance one another on the whole, their
+discussion may easily be as fruitless as that of observations tainted
+with systematic errors. It is scarcely, however, doubtful that law,
+and not chance, governs the sidereal revolutions. The point open to
+question is whether the workings of law may not be so exceedingly
+intricate as to produce a grand sum total of results which, from the
+geometrical side, may justifiably be regarded as casual.
+
+The search for evidence of a general plan in the wanderings of the
+stars over the face of the sky has so far proved fruitless. Local
+concert can be traced, but no widely diffused preference for one
+direction over any other makes itself definitely felt. Some regard,
+nevertheless, _must_ be paid by them to the plane of the Milky Way;
+since it is altogether incredible that the actual construction of the
+heavens is without dependence upon the method of their revolutions.
+
+The apparent anomaly vanishes upon the consideration of the
+profundities of space and time in which the fundamental design of the
+sidereal universe lies buried. Its composition out of an indefinite
+number of partial systems is more than probable; but the inconceivable
+leisureliness with which their mutual relations develop renders the
+harmony of those relations inappreciable by short-lived terrestrial
+denizens. "Proper motions," if this be so, are of a subordinate kind;
+they are indexes simply to the mechanism of particular aggregations,
+and have no definable connection with the mechanism of the whole. No
+considerable error may then be involved in treating them, for purposes
+of calculation, as indifferently directed, and the elicited solar
+movement may genuinely represent the displacement of our system
+relative to its more immediate stellar environment. This is perhaps
+the utmost to be hoped for until sidereal astronomy has reached
+another stadium of progress.
+
+Unless, indeed, effect should be given to Clerk Maxwell's suggestion
+for deriving the absolute longitude of the solar apex from
+observations of the eclipses of Jupiter's satellites (Proc. Roy. Soc.,
+vol. xxx., p. 109). But this is far from likely. In the first place,
+the revolutions of the Jovian system cannot be predicted with anything
+like the required accuracy. In the second place, there is no certainty
+that the postulated phenomena have any real existence. If, however, it
+be safe to assume that the solar system, cutting its way through
+space, virtually raises an ethereal counter-current, and if it be
+further granted that light travels less _with_ than _against_ such a
+current, then indeed it becomes speculatively possible, through slight
+alternate accelerations and retardations of eclipses taking place
+respectively ahead of and in the wake of the sun, to determine his
+absolute path in space as projected upon the ecliptic. That is to say,
+the longitude of the apex could be deduced together with the resolved
+part of the solar velocity; the latitude of the apex, as well as the
+component of velocity perpendicular to the plane of the ecliptic,
+remaining, however, unknown.
+
+The beaten track, meanwhile, has conducted two recent inquirers to
+results of some interest. The chief aim of each was the detection of
+systematic peculiarities in the motions of stellar assemblages after
+the subtraction from them of their common perspective element. By
+varying the materials and method of analysis, Prof. Lewis Boss,
+Director of the Albany Observatory, hopes that corresponding
+variations in the upshot may betray a significant character. Thus, if
+stars selected on different principles give notably and consistently
+different results, the cause of the difference may with some show of
+reason be supposed to reside in specialties of movement appertaining
+to the several groups. Prof. Boss broke ground in this direction by
+investigating 284 proper motions, few of which had been similarly
+employed before (_Astr. Jour._, No. 213). They were all taken from an
+equatorial zone 4 deg. 20' in breadth, with a mean declination of +3 deg.,
+observed at Albany for the catalogue of the Astronomische
+Gesellschaft, and furnished data accordingly for a virtually
+independent research of a somewhat distinctive kind. It was carried
+out to three separate conclusions. Setting aside five stars with
+secular movements ranging above 100", Prof. Boss divided the 279 left
+available into two sets--one of 185 stars brighter, the other of 144
+stars fainter than the eighth magnitude. The first collection gave for
+the goal of solar translation a point about 4 deg. north of [alpha] Lyrae,
+in R.A. 280 deg., Decl. +43 deg.; the second, one some thirty-seven minutes of
+time to the west of [delta] Cygni, in R.A. 286 deg., Decl. +45 deg.. For a
+third and final solution, twenty-six stars moving 40"-100" were
+rejected, and the remaining 253 classed in a single series. The upshot
+of their discussion was to shift the apex of movement to R.A. 289 deg.,
+Decl. +51 deg.. So far as the difference from the previous pair of results
+is capable of interpretation, it would seem to imply a predominant set
+toward the northeast of the twenty-six swifter motions subsequently
+dismissed as prejudicial, but in truth the data employed were not
+accurate enough to warrant so definite an inference. The Albany proper
+motions, as Prof. Boss was careful to explain, depend for the most
+part upon the right ascensions of Bessel's and Lalande's zones, and
+are hence subject to large errors. Their study must be regarded as
+suggestive rather than decisive.
+
+A better quality and a larger quantity of material was disposed of by
+the latest and perhaps the most laborious investigator of this
+intricate problem. M. Oscar Stumpe, of Bonn (_Astr. Nach._, Nos.
+2,999, 3,000), took his stars, to the number of 1,054, from various
+quarters, if chiefly from Auwers' and Argelander's lists, critically
+testing, however, the movement attributed to each of not less than 16"
+a century. This he fixed as the limit of secure determination, unless
+for stars observed with exceptional constancy and care. His discussion
+of them is instructive in more ways than one. Adopting, the additional
+computative burden imposed by it notwithstanding, Schonfeld's
+modification of Airy's formulae, he introduced into his equations a
+fifth unknown quantity expressive of a possible stellar drift in
+galactic longitude. A negative result was obtained. No symptom came to
+light of "rotation" in the plane of the Milky Way.
+
+M. Stumpe's intrepid industry was further shown in disregard of
+customary "scamping" subterfuges. Expedients for abbreviation vainly
+spread their allurements; every one of his 2,108 equations was
+separately and resolutely solved. A more important innovation was his
+substitution of proper motion for magnitude as a criterion of
+remoteness. Dividing his stars on this principle into four groups, he
+obtained an apex for the sun's translation corresponding to each as
+follows:
+
+          Number of         Proper motion.         Apex.
+Group   included stars.       "      "               deg.               deg.
+  I.        551             0.16 to 0.32      R.A. 287.4 Decl.  +42.
+ II.        340             0.32 to 0.64       "   279.7  "      40.5
+III.        105             0.64 to 1.28       "   287.9  "      32.1
+ IV.         58             1.28 and upward    "   285.2  "      30.4
+
+Here again we find a marked and progressive descent of the apex toward
+the equator with the increasing swiftness of the objects serving for
+its determination, leading to the suspicion that the most northerly
+may be the most genuine position, because the one least affected by
+stellar individualities of movement.
+
+By nearly all recent investigations, moreover, the solar _point de
+mire_ has been placed considerably further to the east and nearer to
+the Milky Way than seemed admissible to their predecessors; so that
+the constellation Lyra may now be said to have a stronger claim than
+Hercules to include it; and the necessity has almost disappeared for
+attributing to the solar orbit a high inclination to the medial
+galactic plane.
+
+From both the Albany and the Bonn discussions there emerged with
+singular clearness a highly significant relation. The mean magnitudes
+of the two groups into which Prof. Boss divided his 279 stars were
+respectively 6.6 and 8.6, the corresponding mean proper motions 21".9
+and 20".9. In other words, a set of stars on the whole six times
+brighter than another set owned a scarcely larger sum total of
+apparent displacement. And that this approximate equality of movement
+really denoted approximate equality of mean distance was made manifest
+by the further circumstance that the secular journey of the sun proved
+to subtend nearly the same angle whichever of the groups was made the
+standpoint for its survey. Indeed, the fainter collection actually
+gave the larger angle (13".73 as against 12".39), and so far an
+indication that the stars composing it were, on an average, nearer to
+the earth than the much brighter ones considered apart.
+
+A result similar in character was reached by M. Stumpe. Between the
+mobility of his star groups, and the values derived from them for the
+angular movement of the sun, the conformity proved so close as
+materially to strengthen the inference that apparent movement measures
+real distance. The mean brilliancy of his classified stars seemed, on
+the contrary, quite independent of their mobility. Indeed, its changes
+tended in an opposite direction. The mean magnitude of the slowest
+group was 6.0, of the swiftest 6.5, of the intermediate pair 6.7 and
+6.1. And these are not isolated facts. Comparisons of the same kind,
+and leading to identical conclusions, were made by Prof. Eastman at
+Washington in 1889 (Phil. Society Bulletin, vol. xii, p. 143;
+Proceedings Amer. Association, 1889, p. 71).
+
+What meaning can we attribute to them? Uncritically considered, they
+seem to assert two things, one reasonable, the other palpably absurd.
+The first--that the average angular velocity of the stars varies
+inversely with their distance from ourselves--few will be disposed to
+doubt; the second--that their average apparent luster has nothing to
+do with greater or less remoteness--few will be disposed to admit.
+But, in order to interpret truly, well ascertained if unexpected
+relationships, we must remember that the sensibly moving stars used to
+determine the solar translation are chosen from a multitude sensibly
+fixed; and that the proportion of stationary to traveling stars rises
+rapidly with descent down the scale of magnitude. Hence a mean struck
+in disregard of the zeros is totally misleading; while the account is
+no sooner made exhaustive than its anomalous character becomes largely
+modified. Yet it does not wholly disappear. There is some warrant for
+it in nature. And its warrant may perhaps consist in a preponderance,
+among suns endowed with high _physical_ speed, of small or slightly
+luminous over powerfully radiative bodies. Why this should be so, it
+would be futile, even by conjecture, to attempt to explain.--_Nature._
+
+       *       *       *       *       *

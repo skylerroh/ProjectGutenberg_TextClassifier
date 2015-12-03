@@ -1,0 +1,112 @@
+Project Gutenberg's The Einstein Theory of Relativity, by H.A. Lorentz
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: The Einstein Theory of Relativity
+
+Author: H.A. Lorentz
+
+Release Date: February 27, 2004 [EBook #11335]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE EINSTEIN THEORY OF RELATIVITY ***
+
+
+
+
+Produced by Jeroen Hellingman and the Distributed Proofreaders Team
+
+
+
+
+                   The Einstein Theory of Relativity
+
+                          A Concise Statement
+
+                                   by
+
+             Prof. H.A. Lorentz of the University of Leyden
+
+
+
+
+
+NOTE
+
+Whether it is true or not that not more than twelve persons in all the
+world are able to understand Einstein's Theory, it is nevertheless
+a fact that there is a constant demand for information about this
+much-debated topic of relativity. The books published on the subject
+are so technical that only a person trained in pure physics and
+higher mathematics is able to fully understand them. In order to
+make a popular explanation of this far-reaching theory available,
+the present book is published.
+
+Professor Lorentz is credited by Einstein with sharing the development
+of his theory. He is doubtless better able than any other man--except
+the author himself--to explain this scientific discovery.
+
+The publishers wish to acknowledge their indebtedness to the New
+York Times, The Review of Reviews and The Athenaeum for courteous
+permission to reprint articles from their pages. Professor Lorentz's
+article appeared originally in The Nieuwe Rotterdamsche Courant of
+November 19, 1919.
+
+
+
+INTRODUCTION
+
+The action of the Royal Society at its meeting in London on November
+6, in recognizing Dr. Albert Einstein's "theory of relativity"
+has caused a great stir in scientific circles on both sides of the
+Atlantic. Dr. Einstein propounded his theory nearly fifteen years
+ago. The present revival of interest in it is due to the remarkable
+confirmation which it received in the report of the observations
+made during the sun's eclipse of last May to determine whether rays
+of light passing close to the sun are deflected from their course.
+
+The actual deflection of the rays that was discovered by the
+astronomers was precisely what had been predicted theoretically by
+Einstein many years since. This striking confirmation has led certain
+German scientists to assert that no scientific discovery of such
+importance has been made since Newton's theory of gravitation was
+promulgated. This suggestion, however, was put aside by Dr. Einstein
+himself when he was interviewed by a correspondent of the New York
+Times at his home in Berlin. To this correspondent he expressed the
+difference between his conception and the law of gravitation in the
+following terms:
+
+"Please imagine the earth removed, and in its place suspended a box as
+big as a room or a whole house, and inside a man naturally floating
+in the center, there being no force whatever pulling him. Imagine,
+further, this box being, by a rope or other contrivance, suddenly
+jerked to one side, which is scientifically termed 'difform motion',
+as opposed to 'uniform motion.' The person would then naturally reach
+bottom on the opposite side. The result would consequently be the
+same as if he obeyed Newton's law of gravitation, while, in fact,
+there is no gravitation exerted whatever, which proves that difform
+motion will in every case produce the same effects as gravitation.
+
+"I have applied this new idea to every kind of difform motion and
+have thus developed mathematical formulas which I am convinced give
+more precise results than those based on Newton's theory. Newton's
+formulas, however, are such close approximations that it was difficult
+to find by observation any obvious disagreement with experience."
+
+Dr. Einstein, it must be remembered, is a physicist and not an
+astronomer. He developed his theory as a mathematical formula. The
+confirmation of it came from the astronomers. As he himself says, the
+crucial test was supplied by the last total solar eclipse. Observations
+then proved that the rays of fixed stars, having to pass close to
+the sun to reach the earth, were deflected the exact amount demanded
+by Einstein's formulas. The deflection was also in the direction
+predicted by him.
+
+The question must have occurred to many, what has all this to do with

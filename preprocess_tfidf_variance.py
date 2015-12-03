@@ -13,10 +13,11 @@ import pdb
 """
 Set these variables to be the top level directory of training samples (i.e. your_own_path/Training/) as well as the directory to store the result CSVs
 """
-TRAINING_DIR = "/Users/Skyroh/Documents/Stat154/Training/"
-OUTPUT_DIR = "/Users/Skyroh/Documents/Stat154/Training_Output/"
+TRAINING_DIR = "/Users/fenglin/Desktop/stat154/Training/"
+OUTPUT_DIR = "/Users/fenglin/Desktop/stat154/Training_Output/"
 
-FILTERED_FEATURE_SET_SIZE = 2000
+FILTERED_FEATURE_SET_SIZE_VAR = 1000
+FILTERED_FEATURE_SET_SIZE_WC = 1000
 
 MAX_FEATURE_LENGTH = 20
 
@@ -27,24 +28,21 @@ STOP_WORDS = ["a","able","about","across","after","all","almost","also","am","am
 
 stemmer = PorterStemmer()
 
-def tfidf(word, dfs, transformer, doc_word_sums, zero_filled_series):
+def wc(word, dfs, zero_filled_series):
   """
   Given a word, compute the sum of tf-idf values across all observations in the four genres
   """
-  df_word_sum_info = [(df.loc[:,word], doc_word_sum) if (word in df.columns) else (zeros, doc_word_sum) for df, doc_word_sum, zeros in zip(dfs, doc_word_sums, zero_filled_series)]
+  df_word_sum_info = [df.loc[:,word] if (word in df.columns) else zeros for df, zeros in zip(dfs, zero_filled_series)]
 
-  freqs = pd.concat([elem[0] for elem in df_word_sum_info])
-  # prepare corresponding word counts for genres that has the word
-  # matching_doc_word_sums = pd.concat([elem[1] for elem in df_word_sum_info]).as_matrix()
-  # term-count inverse-document-frequency
-  tcidf_values = transformer.fit_transform(freqs).toarray()
-  # convert icidf values to tfidf values based on the formula in 
-  # http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html
-  # return np.sum(tcidf_values / matching_doc_word_sums)
-  return np.sum(tcidf_values)
+  counts = pd.concat(df_word_sum_info)
+
+  return np.sum(counts)
 
 def custom_tokenizer(s):
   return s.split()
+
+def flatten(elem, tu):
+  return elem, tu[0], tu[1]
 
 def docs(toplevel_file, limit=9000):
 
@@ -61,21 +59,21 @@ if __name__ == "__main__":
   for i, toplevel_file in enumerate(GENRE_FILENAMES):
     text_filenames, contents = docs(toplevel_file)
 
-    print("line 62")
+    print "line 62"
 
     vectorizer = CountVectorizer(stop_words=STOP_WORDS, decode_error ="replace", tokenizer=custom_tokenizer)
 
-    print("line 66")
+    print "line 66"
 
     fitted = vectorizer.fit_transform(contents)
 
-    print("line 70")
+    print "line 70"
     
     feature_names = vectorizer.get_feature_names()
     tmp = pd.DataFrame(fitted.toarray(), columns = feature_names, index = text_filenames)
     feature_list = feature_list | set(feature_names)
     
-    print("line 76")
+    print "line 76"
 
     length = tmp.shape[0]
 
@@ -83,30 +81,46 @@ if __name__ == "__main__":
 
     tmp.to_sparse(fill_value=0)
 
-    print("tmp shape: " + str(tmp.shape))
+    print "tmp shape: " + str(tmp.shape)
 
     tmps.append(tmp)
 
-    print("line 88")
+    print "line 88"  
 
   transformer = TfidfTransformer()
-
-  doc_word_sums = [df.sum(axis=1) for df in tmps]
 
   zero_filled_series = [pd.Series(np.repeat(0, tmp.shape[0]), index=tmp.index) for tmp in tmps]
 
   # filter features based on the bag of words for all four genres
-  word_and_tfidf = [(word, tfidf(word, tmps, transformer, doc_word_sums, zero_filled_series)) for word in feature_list]
-  word_and_tfidf.sort(key=lambda elem:elem[1])
-  word_and_tfidf.reverse()
+  word_wc = [(word, wc(word, tmps, zero_filled_series)) for word in feature_list]
+  word_wc.sort(key=lambda elem:elem[1])
+  word_wc.reverse()
 
-  # choose the first FILTERED_FEATURE_SET_SIZE features with the largest tf-idf sums
-  selected_features = [elem[0] for elem in word_and_tfidf[0:FILTERED_FEATURE_SET_SIZE]]
+  s1 = tmps[0].sum(axis=0)
+  s1 = s1.drop('tags')
+  s2 = tmps[1].sum(axis=0)
+  s2 = s2.drop('tags')
+  s3 = tmps[2].sum(axis=0)
+  s3 = s4.drop('tags')
+  s4 = tmps[3].sum(axis=0)
+  s4 = s4.drop('tags')
+  four_docs = pd.DataFrame({"cat1":s1, "cat2":s2, "cat3":s3,"cat4":s4}).T
+  four_docs.fillna(0,inplace=True) 
 
-  # preselect dataframe columns per genre before merging
-  tmps = [tmp[["tags"] + [col for col in tmp.columns if col in selected_features]] for tmp in tmps]
+  transformed = transformer.fit_transform(four_docs)
 
-  df = pd.concat(tmps)
+  variances = pd.DataFrame(transformed.toarray(),columns=four_docs.columns.values).var(axis=0)
+  word_var = zip(four_docs.columns, variances)
+  word_var.sort(key=lambda elem:elem[1])
+  word_var.reverse()
+  
+  filtered_word_wc = [elem for elem in word_wc if (elem[1] > 50 and elem[1] < 5000)]
+  filtered_word_wc.sort(key=lambda elem:elem[1])
+  filtered_word_wc.reverse()  
+
+  union_features = set([elem[0] for elem in filtered_word_wc[0:FILTERED_FEATURE_SET_SIZE_WC]]) | set([elem[0] for elem in word_var[0:FILTERED_FEATURE_SET_SIZE_VAR]])
+  
+  df = pd.concat([tmp[["tags"] + [col for col in tmp.columns if col in union_features]] for tmp in tmps])
   df.fillna(0,inplace=True) 
 
-  df.to_csv(join(OUTPUT_DIR, "doc_feature_matrix_tcidf.csv"))
+  df.to_csv(join(OUTPUT_DIR, "doc_feature_top_wc_top_tfidf_var.csv"))
