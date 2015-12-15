@@ -1,0 +1,647 @@
+The Project Gutenberg Etext of Wild Flowers, by Neltje Blanchan
+
+Also published as "Nature's Garden"
+
+
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.
+
+Please do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission.  The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+Presently, contributions are only being solicited from people in:
+Texas, Nevada, Idaho, Montana, Wyoming, Colorado, South Dakota,
+Iowa, Indiana, and Vermont. As the requirements for other states
+are met, additions to this list will be made and fund raising will
+begin in the additional states. These donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655
+
+
+Title: Wild Flowers, An Aid to Knowledge of Our Wild Flowers and
+       Their Insect Visitors
+
+Title:  Nature's Garden
+
+Author:  Neltje Blanchan
+
+Release Date:  January, 2002  [Etext #3003]
+[Yes, we are about one year ahead of schedule]
+
+Edition:  10
+
+The Project Gutenberg Etext of Wild Flowers, by Neltje Blanchan
+*****This file should be named 3003.txt or 3003.zip******
+
+Etext prepared by Gerry Rising.
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net
+http://promo.net/pg
+
+
+Those of you who want to download any Etext before announcement
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://metalab.unc.edu/pub/docs/books/gutenberg/etext01
+or
+ftp://metalab.unc.edu/pub/docs/books/gutenberg/etext01
+
+Or /etext00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding.
+
+Something is needed to create a future for Project Gutenberg for
+the next 100 years.
+
+We need your donations more than ever!
+
+Presently, contributions are only being solicited from people in:
+Texas, Nevada, Idaho, Montana, Wyoming, Colorado, South Dakota,
+Iowa, Indiana, and Vermont. As the requirements for other states
+are met, additions to this list will be made and fund raising will
+begin in the additional states.
+
+All donations should be made to the Project Gutenberg Literary
+Archive Foundation and will be tax deductible to the extent
+permitted by law.
+
+Mail to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Avenue
+Oxford, MS 38655  [USA]
+
+We are working with the Project Gutenberg Literary Archive
+Foundation to build more stable support and ensure the
+future of Project Gutenberg.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+You can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+
+Example command-line FTP session:
+
+ftp metalab.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext01, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions of money, time,
+public domain etexts, and royalty free copyright licenses.
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.07.00*END*
+
+
+
+
+
+Etext prepared by Gerry Rising.
+
+
+
+
+
+WILD FLOWERS.
+An Aid to Knowledge of Our Wild Flowers and Their Insect Visitors
+
+By Neltje Blanchan
+
+
+
+
+PREFACE
+
+Surely a foreword of explanation is called for from one who has
+the temerity to offer a surfeited public still another book on
+wild flowers. Inasmuch as science has proved that almost every
+blossom in the world is everything it is because of its necessity
+to attract insect friends or to repel its foes - its form,
+mechanism, color, markings, odor, time of opening and closing,
+and its season of blooming being the result of natural selection
+by that special insect upon which each depends more or less
+absolutely for help in perpetuating its species - it seems fully
+time that the vitally important and interesting relationship
+existing between our common wild flowers and their winged
+benefactors should be presented in a popular book.
+
+Is it enough to know merely the name of the flower you meet in
+the meadow? The blossom has an inner meaning, hopes and fears
+that inspire its brief existence, a scheme of salvation for its
+species in the struggle for survival that it has been slowly
+perfecting with some insect's help through the ages. It is not a
+passive thing to be admired by human eyes, nor does it waste its
+sweetness on the desert air. It is a sentient being, impelled to
+act intelligently through the same strong desires that animate
+us, and endowed with certain powers differing only in degree, but
+not in kind, from those of the animal creation. Desire ever
+creates form.
+
+Do you doubt it? Then study the mechanism of one of our common
+orchids or milkweeds that are adjusted with such marvelous
+delicacy to the length of a bee's tongue or of a butterfly's leg;
+learn why so many flowers have sticky calices or protective
+hairs; why the skunk cabbage, purple trillium, and carrion flower
+emit a fetid odor while other flowers, especially the white or
+pale yellow night bloomers, charm with their delicious breath;
+see if you cannot discover why the immigrant daisy already
+whitens our fields with descendants as numerous as the sands of
+the seashore, whereas you may tramp a whole day without finding a
+single native ladies' slipper. What of the sundew that not only
+catches insects, but secretes gastric juice to digest them? What
+of the bladderwort, in whose inflated traps tiny crustaceans are
+imprisoned, or the pitcher plant, that makes soup of its guests?
+Why are gnats and flies seen about certain flowers, bees,
+butterflies, moths or humming birds about others, each visitor
+choosing the restaurant most to his liking? With what infinite
+pains the wants of each guest are catered to! How relentlessly
+are pilferers punished! The endless devices of the more ambitious
+flowers to save their species from degeneracy by close inbreeding
+through fertilization with their own pollen, alone prove the
+operation of Mind through them. How plants travel, how they send
+seeds abroad in the world to found new colonies, might be studied
+with profit by Anglo-Saxon expansionists. Do vice and virtue
+exist side by side in the vegetable world also? Yes, and every
+sinner is branded as surely as was Cain. The dodder, Indian pipe,
+broomrape and beech-drops wear the floral equivalent of the
+striped suit and the shaved head. Although claiming most
+respectable and exalted kinsfolk, they are degenerates not far
+above the fungi. In short, this is a universe that we live in;
+and all that share the One Life are one in essence, for natural
+law is spiritual law. "Through Nature to God," flowers show a way
+to the scientist lacking faith.
+
+Although it has been stated by evolutionists for many years that
+in order to know the flowers, their insect relationships must
+first be understood, it is believed that "Nature's Garden" is the
+first American work to explain them in any considerable number of
+species. Dr. Asa Gray, William Hamilton Gibson, Clarence Moores
+Weed, and Miss Maud Going in their delightful books or lectures
+have shown the interdependence of a score or more of different
+blossoms and their insect visitors. Hidden away in the
+proceedings of scientific societies' technical papers are the
+invaluable observations of such men as Dr. William Trelease of
+Wisconsin and Professor Charles Robertson of Illinois. To the
+latter especially, I am glad to acknowledge my indebtedness.
+Sprengel, Darwin, Muller, Delpino, and Lubbock, among others,
+have given the world classical volumes on European flora only,
+but showing a vast array of facts which the theory of adaptation
+to insects alone correlates and explains. That the results of
+illumining researches should be so slow in enlightening the
+popular mind can be due only to the technical, scientific
+language used in setting them forth, language as foreign to the
+average reader as Chinese, and not to be deciphered by the
+average student either, without the help of a glossary. These
+writings, as well as the vast array of popular books - too many
+for individual mention - have been freely consulted after studies
+made afield.
+
+To Sprengel belongs the glory of first exalting flowers above the
+level of botanical specimens. After studying the wild geranium he
+became convinced, as he wrote in 1787, that "the wise Author of
+Nature has not made even a single hair without a definite design.
+A hundred years before, one, Nehemias Grew, had said that it was
+necessary for pollen to reach the stigma of a flower in order
+that it might set fertile seed, and Linnaeus bad to come to his
+rescue with conclusive evidence to convince a doubting world that
+he was right. Sprengel made the next step forward, but his
+writings lay neglected over seventy years because he advanced the
+then incredible and only partially true statement that a flower
+is fertilized by insects which carry its pollen from its anthers
+to its stigma. In spite of his discoveries that the hairs within
+the wild geranium protect its nectar from rain for the insect
+benefactor's benefit; that most flowers which secrete nectar have
+what he termed "honey guides" - spots of bright color, heavy
+veining, or some such pathfinder for the visitor on the petals;
+that sometimes the male flowers, the staminate ones, are
+separated from the seed-bearing or pistillate ones on distinct
+plants, he left it to Darwin to show that cross-fertilization by
+insects, the transfer of pollen from one blossom to another - not
+from anthers to stigma of the same flower - is the great end to
+which so much marvelous floral mechanism is adapted. The wind is
+a wasteful, uncertain pollen distributor. Insects transfer it
+more economically, especially the more highly organized and
+industrious ones. In a few instances hummingbirds, as well,
+unwittingly do the flower's bidding while they feast now here,
+now there. In spite of Sprengel's most patient and scientific
+research, that shed great light on the theory of natural
+selection a half century before Darwin advanced it, he never knew
+that flowers are nearly always sterile to pollen of another
+species when carried to them on the bodies of insect visitors, or
+that cross-pollenized blossoms defeat the self-pollinated ones in
+the struggle for survival. These facts Darwin proved in endless
+experiments.
+
+Because bees depend absolutely upon flowers, not only for their
+own food but for that of future generations for whom they labor;
+because they are the most diligent of all visitors, and are
+rarely diverted from one species of flower to another while on
+their rounds collecting, as they must, both nectar and pollen, it
+follows they are the most important fertilizing agents. It is
+estimated that, should they perish, more than half the flowers in
+the world would be exterminated with them! Australian farmers
+imported clover from Europe, and although they had luxuriant
+fields of it, no seed was set for next year's planting, because
+they had failed to import the bumblebee. After his arrival, their
+loss was speedily made good.
+
+Ages before men cultivated gardens, they had tiny helpers they
+knew not of. Gardeners win all the glory of producing a Lawson
+pink or a new chrysanthemum; but only for a few seasons do they
+select, hybridize, according to their own rules of taste. They
+take up the work where insects left it off after countless
+centuries of toil. Thus it is to the night-flying moth, long of
+tongue, keen of scent, that we are indebted for the deep, white,
+fragrant Easter lily, for example, and not to the florist; albeit
+the moth is in his turn indebted to the lily for the length of
+his tongue and his keen nerves: neither could have advanced
+without the other. What long vistas through the ages of creation
+does not this interdependence of flowers and insects open!
+
+Over five hundred flowers in this book have been classified
+according to color, because it is believed that the novice, with
+no knowledge of botany whatever, can most readily identify the
+specimen found afield by this method, which has the added
+advantage of being the simple one adopted by the higher insects
+ages before books were written. Technicalities have been avoided
+in the text wherever possible, not to discourage the beginner
+from entering upon one of the most enjoyable and elevating
+branches of Nature study. The scientific names and classification
+follow that method adopted by the International Botanical
+Congress which has now superseded all others; nevertheless the
+titles employed by Gray, with which older botanists in this
+country are familiar, are also indicated where they differ from
+the new nomenclature.
+
+NELTJE BLANCHAN, New York, March, 1900
+
+
+TABLE OF CONTENTS
+
+Preface
+List of Illustrations
+Blue to Purple Flowers
+Magenta to Pink Flowers
+White and Greenish Flowers
+Yellow and Orange Flowers
+Red and Indefinites
+Appendices:
+   Fragrant Flowers or Leaves
+   Unpleasantly Scented
+   Plants and Shrubs Conspicuous in Fruit
+   Plant Families Represented
+
+
+"Let us content ourselves no longer with being mere 'botanists' -
+historians of structural facts. The flowers are not mere comely
+or curious vegetable creations, with colors, odors, petals,
+stamens and innumerable technical attributes. The wonted insight
+alike of scientist, philosopher, theologian, and dreamer is now
+repudiated in the new revelation. Beauty is not 'its own excuse
+for being,' nor was fragrance ever 'wasted on the desert air.'
+The seer has at last heard and interpreted the voice in the
+wilderness. The flower is no longer a simple passive victim in
+the busy bee's sweet pillage, but rather a conscious being, with
+hopes, aspirations and companionships. The insect is its
+counterpart. Its fragrance is but a perfumed whisper of welcome,
+its color is as the wooing blush and rosy lip, its portals are
+decked for his coming, and its sweet hospitalities humored to his
+tarrying; and as it speeds its parting affinity, rests content
+that its life's consummation has been fulfilled." - William
+Hamilton Gibson.
+
+
+"I often think, when working over my plants, of what Linnaeus
+once said of the unfolding of a blossom: 'I saw God in His glory
+passing near me, and bowed my head in worship.' The scientific
+aspect of the same thought has been put into words by Tennyson:
+
+    'Flower in the crannied wall
+     I pluck you out of the crannies,
+     I hold you here, root and all in my hand
+     Little flower, - but if I could understand
+     What you are, root and all, and all in all,
+     I should know what God and man is.'
+
+No deeper thought was ever uttered by poet. For in this world of
+plants, which, with its magician, chlorophyll, conjuring with
+sunbeams, is ceaselessly at work bringing life out of death, - in
+this quiet vegetable world we may find the elementary principles
+of all life in almost visible operation." - JOHN FISKE in
+"Through Nature to God."
+
+
+
+FROM BLUE TO PURPLE FLOWERS
+
+"If blue is the favorite color of bees, and if bees have so much
+to do with the origin of flowers, how is it that there are so few
+blue ones? I believe the explanation to be that all blue flowers
+have descended from ancestors in which the flowers were green;
+or, to speak more precisely, in which the leaves surrounding the
+stamens and pistil were green; and that they have passed through
+stages of white or yellow, and generally red, before becoming
+blue." - Sir John Lubbock in "Ants, Bees, and Wasps."
+
+
+VIRGINIA or COMMON DAY-FLOWER
+  (Commelina Virginica)  Spiderwort family
+
+Flowers - Blue, 1 in. broad or less, irregular, grouped at end of
+stem, and upheld by long leaf-like bracts. Calyx of 3 unequal
+sepals; 3 petals, 1 inconspicuous, 2 showy, rounded. Perfect
+stamens 3; the anther of 1 incurved stamen largest; 3
+insignificant and sterile stamens; 1 pistil. Stem: Fleshy,
+smooth, branched, mucilaginous. Leaves: Lance-shaped, 3 to 5 in.
+long, sheathing the stem at base; upper leaves in a spathe-like
+bract folding like a hood about flowers. Fruit: A 3-celled
+capsule, seed in each cell.
+Preferred Habitat - Moist, shady ground.
+Flowering Season - June - September.
+Distribution - Southern New York to Illinois and Michigan,
+Nebraska, Texas, and through tropical America to Paraguay. -
+Britton and Browne.
+
+Delightful Linnaeus, who dearly loved his little joke, himself
+confesses to have named the day-flowers after three brothers
+Commelyn, Dutch botanists, because two of them - commemorated in
+the two showy blue petals of the blossom - published their works;
+the third, lacking application and ambition, amounted to nothing,
+like the inconspicuous whitish third petal! Happily Kaspar
+Commelyn died in 1731, before the joke was perpetrated in
+"Species Plantarum."
+
+In the morning we find the day-flower open and alert-looking,
+owing to the sharp, erect bracts that give it support; after
+noon, or as soon as it has been fertilized by the female bees,
+that are its chief benefactors while collecting its abundant
+pollen, the lovely petals roll up, never to open again, and
+quickly wilt into a wet, shapeless mass, which, if we touch it,
+leaves a sticky blue fluid on our finger-tips.
+
+The SLENDER DAY-FLOWER (C. erecta), the next of kin, a more
+fragile-looking, smaller-flowered, and narrower-leafed species,
+blooms from August to October, from Pennsylvania southward to
+tropical America and westward to Texas.
+
+
+SPIDERWORT; WIDOW'S or JOB'S TEARS
+  (Tradescantia Virginiana)  Spiderwort family
+
+Flowers - Purplish blue, rarely white, showy, ephemeral, 1 to 2
+in. broad; usually several flowers, but more drooping buds,
+clustered and seated between long blade-like bracts at end of
+stern. Calyx of 3 sepals, much longer than capsule. Corolla of 3
+regular petals; 6 fertile stamens, bearded; anthers orange; 1
+pistil. Stem: 8 in. to 3 ft. tall, fleshy, erect, mucilaginous,
+leafy. Leaves: Opposite, long, blade-like, keeled, clasping, or
+sheathing stem at base. Fruit: 3-celled capsule.
+Preferred Habitat - Rich, moist woods, thickets, gardens.
+Flowering Season - May-August.
+Distribution - New York and Virginia westward to South Dakota and
+Arkansas.
+
+As so very many of our blue flowers are merely naturalized
+immigrants from Europe, it is well to know we have sent to
+England at least one native that was considered fit to adorn the
+grounds of Hampton Court. John Tradescant, gardener to Charles I,
+for whom the plant and its kin were named, had seeds sent him by
+a relative in the Virginia colony; and before long the deep azure
+blossoms with their golden anthers were seen in gardens on both
+sides of the Atlantic - another one of the many instances where
+the possibilities of our wild flowers under cultivation had to be
+first pointed out to us by Europeans.
+
+Like its relative the dayflower, the spiderwort opens for part of
+a day only. In the morning it is wide awake and pert; early in
+the afternoon its petals have begun to retreat within the calyx,
+until presently they become "dissolved in tears," like Job or the
+traditional widow. What was flower only a few hours ago is now a
+fluid jelly that trickles at the touch. Tomorrow fresh buds will
+open, and a continuous succession of bloom may be relied upon for

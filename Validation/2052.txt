@@ -1,0 +1,275 @@
+The Project Gutenberg EBook of Hymns of the Greek Church, by John Brownlie
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Hymns of the Greek Church
+       Translated with Introduction and Notes
+
+Author: John Brownlie
+
+Release Date: January 20, 2009 [EBook #27848]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK HYMNS OF THE GREEK CHURCH ***
+
+
+
+
+Produced by Stephen Hutcheson, Charles Coulston, and Ken
+Jentsch, with help from Distributed Proofreaders
+
+
+
+
+
+
+
+
+
+
+                        HYMNS OF THE GREEK CHURCH
+
+
+
+
+                                HYMNS OF
+                            THE GREEK CHURCH
+
+
+                               TRANSLATED
+                       WITH INTRODUCTION AND NOTES
+                                   BY
+                           JOHN BROWNLIE, D.D.
+                                AUTHOR OF
+             'HYMNS AND HYMN-WRITERS OF THE CHURCH HYMNARY'
+
+                          EDINBURGH AND LONDON
+                      OLIPHANT, ANDERSON & FERRIER
+                                 _1900_
+
+
+
+
+                           SOME PRESS NOTICES
+
+
+"This work at its best reaches the level of absolute excellence, and the
+book is entitled to a warm and grateful welcome."--_Record_.
+
+"Mr Brownlie has taste and a poetic gift, and his verses are easy and
+natural, rarely, if ever, betraying the fact that they are the work of a
+translator."--_Church Times_.
+
+"This dainty volume will certainly enhance his reputation."--_Glasgow
+Herald_.
+
+"It brings into dignified Church-English some sixty simple and powerful
+hymns. The book should prove welcome to men generally interested in
+hymnody, and particularly to those who are ignorant of the richness of
+the Greek liturgy."--_Scotsman_.
+
+"Mr Brownlie has the knack of hymn-writing, and the translations from the
+Greek which he has published in this book will be a welcome addition to
+English hymnology."--_Athenaeum_.
+
+"Mr Brownlie has done eminent service as a hymnologist and translator of
+hymns. These translations are in smooth and flowing English verse, and
+the hymns are interesting both on their intrinsic merits and as
+representing the religious thought and emotion of an important section of
+the Church."--_Aberdeen Free Press_.
+
+
+
+
+                             PREFATORY NOTE
+
+
+After ten years this, the first of five series of hymns of the Greek
+Church, is issued in cheap form in the hope that those who regard the
+unity of Christian praise, and wish to realise it, and who seek its
+enrichment from the Church of the Apostles, may be induced to give the
+subject that consideration which it deserves, and which has been too long
+neglected.
+
+The past ten years have seen much activity in the department of Church
+hymnody,--all sections of the Church have had their hymnals under
+revision with varied results; but in this particular we are bound to feel
+satisfaction that the praise literature of the Early and Mediaeval Church
+has been more fully drawn upon than at any former period, and the Greek
+Church no longer stands in the background. From this volume alone no
+fewer than ten renderings have been utilised by hymnal compilers, and
+they make together twenty appearances. This fact is mentioned to indicate
+an appreciation of Greek hymnody which, it is hoped, may grow.
+
+                                                               J. B.
+
+                         FRATRES . CARISSIMOS .
+                              HYMNOLOGOS .
+                  AMICORUM . FELICIUM . AMANTISSIMOS .
+                               PROSEQUOR .
+
+A . D . V . ID . MAI .
+
+
+
+
+                               GREEK INDEX
+
+
+
+
+                                                                     PAGE
+      {tes patroas doxes sou}--(Contakion),                            23
+      {basileu ouranie, paraklete},                                    24
+      {ten achranton eikona sou proskynoumen},                         25
+      {deute agalliasometha to kyrio}--(Stichera Idiomela),            26
+      {Christos gennatai},                                             28
+      {ti soi prosenenkomen, Christe},                                 30
+      {ho ouranos kai he ge semeron prophetikos
+          euphrainesthosan}--(Stichera Idiomela),                      32
+      {doxa en hypsistois theo},                                       33
+      {semeron ho Hades stenon boa}--(Stichera Idiomela),              35
+      {kai ten phloginen rhomphaian}--(Contakion),                     37
+      {ho monogenes Hyios kai Logos tou theou},                        38
+      {kyrie, anabainontos sou en to stauro},                          39
+      {dia Lazarou ten egersin Kyrie}--(Antiphon),                     40
+      {semeron gregorei ho Ioudas}--(Antiphon),                        42
+      {ho anaballomenos phos hos himation}--(Antiphon),                44
+      {anti agathon hon epoiesas, Christe}--(Antiphon),                45
+      {kyrie, ho ton lesten}--(Antiphon),                              46
+      {tas hesperinas hemon euchas}--(Stichera),                       47
+      {phos hilaron hagias doxes},                                     49
+      {anastasin Christou theasamenoi},                                50
+      {ei kai en tapho katelthes athanate}--(Contakion),               52
+      {idou ho Nymphios erchetai en to meso tes nyktos}--(Troparia),   54
+      {ergo, hos palai tois mathetais epengeilo}--(Troparia),          56
+      {tacheian kai statheran didou paramythian tois doulois sou},     57
+      {deute proskynesomen kai prospesomen auto}--(Contakion),         58
+      {deute laoi, ten trisypostaton theoteta proskynesomen},          60
+      {hotan elthes ho theos epi ges}--(Contakion),                    62
+  John of Damascus (Canon for Easter Day)--                            66
+      {anastaseos hemera},                                             67
+      {deute poma piomen kainon},                                      69
+      {epi tes theias phylakes},                                       70
+      {orthrisomen orthroi batheos},                                   72
+      {katelthes en tois katotatois},                                  73
+      {ho paidas ek kaminou rhysamenos},                               74
+      {haute he klete kai hagia hemera},                               76
+      {photizou photizou, he nea Hierousalem},                         78
+  The Great Collect--                                                  80
+      {hyper tes anothen eirenes},                                     81
+  The Litany of the Deacon--
+      {kyrie eleeson},                                                 84
+  Hymns from the Early Greek Poets--                                   87
+    St. Methodius,                                                     88
+      {anothen, parthenoi, boes egersinekros echos},                   89
+    St. Gregory,                                                       92
+      {ater arches, aperanton},                                        93
+      {tauta soi hemeteroio thalysia, Christe},                        95
+      {se kai nyn eulogoumen}--(Evening Hymn),                         97
+      {orthrios didomi to theo mou dexias}--(Morning Hymn),            98
+      {epseusamen se ten aletheian, loge}--(Evening Hymn),             99
+    Synesius,                                                         102
+      {soi nyx me pherei ton aoidon, anax},                           103
+      {lypais d' astiptos psycha},                                    104
+      {age moi psycha},                                               105
+      {autos phos ei pagaion},                                        106
+
+
+
+
+                              INTRODUCTION
+
+
+I. Thirty-eight years ago, Dr. John Mason Neale published his _Hymns of
+the Eastern Church_ , and for the first time English readers were
+introduced to the priceless gems of Greek hymnody. At the close of his
+preface he throws out a challenge which, as far as the present writer is
+aware, has not yet been taken up. He says: 'And while fully sensible of
+their imperfections, I may yet, by way of excuse rather than of boast,
+say, almost in Bishop Hall's words--
+
+      "I first adventure: follow me who list,
+      And be the second Eastern Melodist."'
+
+It would be presumptuous to believe that the translations which follow
+are in any particular a worthy answer to that challenge; but the
+translator can honestly say that they are a very earnest attempt to
+acquaint English readers still further with the valuable praise
+literature which lies buried in the service-books of the Greek Church,
+and they constitute the first real attempt in that direction since Dr.
+Neale issued his collection in 1862.
+
+II. The renderings contained in this volume are the product of many happy
+hours during the past five years. No method was adopted in the work. As
+the translator waded through the closely printed pages of the Greek
+offices, what appeared at first sight to be lines worthy of translation
+were taken up and examined, sometimes to be cast aside again because of
+some unremovable blemish, at other times to be moulded to the form which
+they now bear. Of the forty-seven pieces, thirty-five appear for the
+first time in English verse.
+
+For the original, the translator has gone to the service-books, and for
+the most part has confined himself to the hymns which are to be found in
+the Triodion, containing the Lenten services; and in the Pentecostarion,
+in which are found the hymns for the services of Easter and Pentecost. A
+few specimens are also given from other offices, particularly that for
+Christmas.
+
+Renderings from the work of the earlier Greek hymn-writers are added at
+the end of this volume; but, unlike the hymns of the Church
+service-books, these hymns originally are in the classical measures, and
+illustrate the work of the best Christian poets, who in some cases wrote
+extensively.
+
+III. It is a very remarkable fact, and certainly not to our credit, that,
+with the exception of a very few who have made the study a specialty, our
+educated men show a most unaccountable ignorance of the most attractive
+and valuable material for praise and prayer contained in the Greek Church
+service-books. We have learning more than enough, and zeal enough for the
+pursuit of study in other departments, but this unworked field lies
+fallow, and no one thinks it worth his while to cultivate it. That the
+study will reward the student, although not in a material sense--for the
+meaningless prejudice of the great mass of our people for what is local
+and against the thought of the stranger, no matter how beautiful it may
+be, is still to be reckoned with--yet in the highest sense as conferring
+upon him a new delight, there can be no doubt; for, after the necessary
+expenditure of patient application, and the passing of the initiatory
+stages which in every department of study are somewhat trying, the
+attraction will begin, and the subject become positively fascinating. To
+any one having the lyrical gift and the necessary qualifications for the
+study of Greek, those service-books might prove a mine of treasure
+inexhaustible. In the seventeen quarto volumes which contain the Greek
+Church offices, there must be material of one kind or another for many
+thousands of hymns; yet, when hymnal compilers ask for hymns from the
+Greek for their collections, they are not to be had, save in the few
+renderings made by Dr. Neale. In the most recently compiled collection
+for church use--_The Church Hymnary_--only five pieces from the Greek
+find a place. What a humbling confession! They are the best available
+from the very small number of translations in our possession, which,
+perhaps, does not exceed one hundred and fifty pieces in all.
+
+We have not treated the Latin Church after that fashion. There is not a
+hymn of real merit in the Latin which has not been translated, and in not
+a few cases oftener than once; with the result that the gems of Latin
+hymnody are the valued possession of the Church in all English-speaking
+lands.
+
+IV. One does not proceed far before making some discoveries which may
+account, to a certain extent, for the neglect of Greek hymnody by men who
+are best qualified to pursue the study of it. The writers are not poets,
+in the true sense, and their language is not Greek as we have known it.
+
+(1) None of the hymn-writers in the service-books or out of them is a
+poet of more than ordinary merit; although, when John of Damascus forgets
+his adversaries, and dispenses with his rhythmical peculiarities and
+gives forth the utterance of his deep emotional nature, he proves himself
+to be worthy of the title--the greatest of Greek Christian poets.
+

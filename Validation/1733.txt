@@ -1,0 +1,424 @@
+The Project Gutenberg EBook of Pioneers of Science, by Oliver Lodge
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Pioneers of Science
+
+Author: Oliver Lodge
+
+Release Date: April 26, 2009 [EBook #28613]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PIONEERS OF SCIENCE ***
+
+
+
+
+Produced by Audrey Longhurst, Greg Bergquist and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/American Libraries.)
+
+
+
+
+
+
+Transcriber's Note
+
+The punctuation and spelling from the original text have been faithfully
+preserved. Only obvious typographical errors have been corrected.
+
+There are several mathematical formulas within the text. They are
+represented as follows:
+ Superscripts: x^3
+ Subscripts: x_3
+ Square Root: [square root] Greek Letters: [pi], [theta].
+
+Greek star names are represented as [alpha], [gamma], for example.
+
+
+
+
+PIONEERS OF SCIENCE
+
+[Illustration]
+
+[Illustration: NEWTON
+
+_From the picture by Kneller, 1689, now at Cambridge_]
+
+
+
+
+  PIONEERS OF SCIENCE
+
+  BY
+  OLIVER LODGE, F.R.S.
+
+
+  PROFESSOR OF PHYSICS IN VICTORIA UNIVERSITY COLLEGE, LIVERPOOL
+
+  _WITH PORTRAITS AND OTHER ILLUSTRATIONS_
+
+
+  London
+  MACMILLAN AND CO.
+  AND NEW YORK
+  1893
+
+  RICHARD CLAY AND SONS, LIMITED,
+  LONDON AND BUNGAY.
+
+
+
+
+PREFACE
+
+
+This book takes its origin in a course of lectures on the history and
+progress of Astronomy arranged for me in the year 1887 by three of my
+colleagues (A.C.B., J.M., G.H.R.), one of whom gave the course its name.
+
+The lectures having been found interesting, it was natural to write them
+out in full and publish.
+
+If I may claim for them any merit, I should say it consists in their
+simple statement and explanation of scientific facts and laws. The
+biographical details are compiled from all readily available sources,
+there is no novelty or originality about them; though it is hoped that
+there may be some vividness. I have simply tried to present a living
+figure of each Pioneer in turn, and to trace his influence on the
+progress of thought.
+
+I am indebted to many biographers and writers, among others to Mr.
+E.J.C. Morton, whose excellent set of lives published by the S.P.C.K.
+saved me much trouble in the early part of the course.
+
+As we approach recent times the subject grows more complex, and the men
+more nearly contemporaries; hence the biographical aspect diminishes and
+the scientific treatment becomes fuller, but in no case has it been
+allowed to become technical and generally unreadable.
+
+To the friends (C.C.C., F.W.H.M., E.F.R.) who with great kindness have
+revised the proofs, and have indicated places where the facts could be
+made more readily intelligible by a clearer statement, I express my
+genuine gratitude.
+
+  UNIVERSITY COLLEGE, LIVERPOOL,
+  _November, 1892_.
+
+
+
+
+CONTENTS
+
+
+  _PART I_
+
+  LECTURE I
+
+                                                   PAGE
+
+  COPERNICUS AND THE MOTION OF THE EARTH              2
+
+
+  LECTURE II
+
+  TYCHO BRAHE AND THE EARLIEST OBSERVATORY           32
+
+
+  LECTURE III
+
+  KEPLER AND THE LAWS OF PLANETARY MOTION            56
+
+
+  LECTURE IV
+
+  GALILEO AND THE INVENTION OF THE TELESCOPE         80
+
+
+  LECTURE V
+
+  GALILEO AND THE INQUISITION                       108
+
+
+  LECTURE VI
+
+  DESCARTES AND HIS THEORY OF VORTICES              136
+
+
+  LECTURE VII
+
+  SIR ISAAC NEWTON                                  159
+
+
+  LECTURE VIII
+
+  NEWTON AND THE LAW OF GRAVITATION                 180
+
+
+  LECTURE IX
+
+  NEWTON'S "PRINCIPIA"                              203
+
+
+  _PART II_
+
+  LECTURE X
+
+  ROEMER AND BRADLEY AND THE VELOCITY OF LIGHT      232
+
+
+  LECTURE XI
+
+  LAGRANGE AND LAPLACE--THE STABILITY OF THE SOLAR SYSTEM,
+  AND THE NEBULAR HYPOTHESIS                        254
+
+
+  LECTURE XII
+
+  HERSCHEL AND THE MOTION OF THE FIXED STARS        273
+
+
+  LECTURE XIII
+
+  THE DISCOVERY OF THE ASTEROIDS                    294
+
+
+  LECTURE XIV
+
+  BESSEL--THE DISTANCES OF THE STARS, AND THE DISCOVERY OF
+  STELLAR PLANETS                                   304
+
+
+  LECTURE XV
+
+  THE DISCOVERY OF NEPTUNE                          317
+
+
+  LECTURE XVI
+
+  COMETS AND METEORS                                331
+
+
+  LECTURE XVII
+
+  THE TIDES                                         353
+
+
+  LECTURE XVIII
+
+  THE TIDES, AND PLANETARY EVOLUTION                379
+
+
+
+
+ILLUSTRATIONS
+
+
+  FIG.                                                                PAGE
+
+  1. ARCHIMEDES                                                          8
+
+  2. LEONARDO DA VINCI                                                  10
+
+  3. COPERNICUS                                                         12
+
+  4. HOMERIC COSMOGONY                                                  15
+
+  5. EGYPTIAN SYMBOL OF THE UNIVERSE                                    16
+
+  6. HINDOO EARTH                                                       17
+
+  7. ORDER OF ANCIENT PLANETS CORRESPONDING TO THE DAYS OF
+     THE WEEK                                                           19
+
+  8. PTOLEMAIC SYSTEM                                                   20
+
+  9. SPECIMENS OF APPARENT PATHS OF VENUS AND OF MARS
+     AMONG THE STARS                                                    21
+
+  10. APPARENT EPICYCLIC ORBITS OF JUPITER AND SATURN                   22
+
+  11. EGYPTIAN SYSTEM                                                   24
+
+  12. TRUE ORBITS OF EARTH AND JUPITER                                  25
+
+  13. ORBITS OF MERCURY AND EARTH                                       25
+
+  14. COPERNICAN SYSTEM AS FREQUENTLY REPRESENTED                       26
+
+  15. SLOW MOVEMENT OF THE NORTH POLE IN A CIRCLE AMONG
+      THE STARS                                                         29
+
+  16. TYCHONIC SYSTEM, SHOWING THE SUN WITH ALL THE PLANETS
+      REVOLVING ROUND THE EARTH                                         38
+
+  17. PORTRAIT OF TYCHO                                                 41
+
+  18. EARLY OUT-DOOR QUADRANT OF TYCHO                                  43
+
+  19. MAP OF DENMARK, SHOWING THE ISLAND OF HUEN                        45
+
+  20. URANIBURG                                                         46
+
+  21. ASTROLABE                                                         47
+
+  22. TYCHO'S LARGE SEXTANT                                             48
+
+  23. THE QUADRANT IN URANIBURG                                         49
+
+  24. TYCHO'S FORM OF TRANSIT CIRCLE                                    50
+
+  25. A MODERN TRANSIT CIRCLE                                           51
+
+  26. ORBITS OF SOME OF THE PLANETS DRAWN TO SCALE                      60
+
+  27. MANY-SIDED POLYGON OR APPROXIMATE CIRCLE ENVELOPED
+      BY STRAIGHT LINES                                                 61
+
+  28. KEPLER'S IDEA OF THE REGULAR SOLIDS                               62
+
+  29. DIAGRAM OF EQUANT                                                 67
+
+  30. EXCENTRIC CIRCLE SUPPOSED TO BE DIVIDED INTO EQUAL AREAS          68
+
+  31. MODE OF DRAWING AN ELLIPSE                                        70
+
+  32. KEPLER'S DIAGRAM PROVING EQUABLE DESCRIPTION OF AREAS
+      FOR AN ELLIPSE                                                    71
+
+  33. DIAGRAM OF A PLANET'S VELOCITY IN DIFFERENT PARTS OF ITS ORBIT    72
+
+  34. PORTRAIT OF KEPLER                                                76
+
+  35. CURVE DESCRIBED BY A PROJECTILE                                   82
+
+  36. TWO FORMS OF PULSILOGY                                            87
+
+  37. TOWER OF PISA                                                     91
+
+  38. VIEW OF THE HALF-MOON IN SMALL TELESCOPE                          97
+
+  39. PORTION OF THE LUNAR SURFACE MORE HIGHLY MAGNIFIED                98
+
+  40. ANOTHER PORTION OF THE LUNAR SURFACE                              99
+
+  41. LUNAR LANDSCAPE SHOWING EARTH                                    100
+
+  42. GALILEO'S METHOD OF ESTIMATING THE HEIGHT OF LUNAR MOUNTAIN      101
+
+  43. SOME CLUSTERS AND NEBULAE                                         102
+
+  44. STAGES OF THE DISCOVERY OF JUPITER'S SATELLITES                  103
+
+  45. ECLIPSES OF JUPITER'S SATELLITES                                 105
+
+  46. OLD DRAWINGS OF SATURN BY DIFFERENT OBSERVERS, WITH
+      THE IMPERFECT INSTRUMENTS OF THAT DAY                            111
+
+  47. PHASES OF VENUS                                                  112
+
+  48. SUNSPOTS AS SEEN WITH LOW POWER                                  113
+
+  49. A PORTION OF THE SUN'S DISK AS SEEN IN A POWERFUL MODERN
+      TELESCOPE                                                        114
+
+  50. SATURN AND HIS RINGS                                             115
+
+  51. MAP OF ITALY                                                     118
+
+  52. PORTRAIT OF GALILEO                                              126
+
+  53. PORTRAIT OF DESCARTES                                            148
+
+  54. DESCARTES'S EYE DIAGRAM                                          151
+
+  55. DESCARTES'S DIAGRAM OF VORTICES FROM HIS "PRINCIPIA"             152
+
+  56. MANOR-HOUSE OF WOOLSTHORPE                                       162
+
+  57. PROJECTILE DIAGRAM                                               170
+
+  58.   }                                                            { 171
+  59.   } DIAGRAMS ILLUSTRATIVE OF THOSE NEAR THE BEGINNING          { 174
+  60.   } OF NEWTON'S "PRINCIPIA"                                    { 175
+  61-2. }                                                            { 175
+
+  63. PRISMATIC DISPERSION                                             182
+
+  64. A SINGLE CONSTITUENT OF WHITE LIGHT IS CAPABLE OF NO
+      MORE DISPERSION                                                  183
+
+  65. PARALLEL BEAM PASSING THROUGH A LENS                             184
+
+  66. NEWTON'S TELESCOPE                                               186
+
+  67. THE SEXTANT, AS NOW MADE                                         187
+
+  68. NEWTON WHEN YOUNG                                                196
+
+  69. SIR ISAAC NEWTON                                                 200
+
+  70. ANOTHER "PRINCIPIA" DIAGRAM                                      207
+
+  71. WELL-KNOWN MODEL EXHIBITING THE OBLATE SPHEROIDAL
+      FORM AS A CONSEQUENCE OF SPINNING ABOUT A CENTRAL
+      AXIS                                                             219
+
+  72. JUPITER                                                          221
+
+  73. DIAGRAM OF EYE LOOKING AT A LIGHT REFLECTED IN A DISTANT
+      MIRROR THROUGH THE TEETH OF A REVOLVING WHEEL                    238
+
+  74. FIZEAU'S WHEEL, SHOWING THE APPEARANCE OF DISTANT
+      IMAGE SEEN THROUGH ITS TEETH                                     239
+
+  75. ECLIPSES OF ONE OF JUPITER'S SATELLITES                          241
+
+  76. A TRANSIT INSTRUMENT FOR THE BRITISH ASTRONOMICAL EXPEDITION,
+      1874                                                             243
+
+  77. DIAGRAM OF EQUATORIALLY MOUNTED TELESCOPE                        245
+
+  78. ABERRATION DIAGRAM                                               250
+
+  79. SHOWING THE THREE CONJUNCTION PLACES IN THE ORBITS OF
+      JUPITER AND SATURN                                               259
+
+  80. LORD ROSSE'S DRAWING OF THE SPIRAL NEBULA IN CANES
+      VENATICI                                                         269
+
+  81. SATURN                                                           271
+
+  82. PRINCIPLE OF NEWTONIAN REFLECTOR                                 278
+
+  83. HERSCHEL'S 40-FOOT TELESCOPE                                     283
+
+  84. WILLIAM HERSCHEL                                                 285
+
+  85. CAROLINE HERSCHEL                                                287
+
+  86. DOUBLE STARS                                                     288
+
+  87. OLD DRAWING OF THE CLUSTER IN HERCULES                           290
+
+  88. OLD DRAWING OF THE ANDROMEDA NEBULA                              291
+
+  89. THE GREAT NEBULA IN ORION                                        292
+
+  90. PLANETARY ORBITS TO SCALE                                        297
+
+  91. DIAGRAM ILLUSTRATING PARALLAX                                    307
+
+  92. THE KOeNIGSBERG HELIOMETER                                        312
+
+  93. PERTURBATIONS OF URANUS                                          320

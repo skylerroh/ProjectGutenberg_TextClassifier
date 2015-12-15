@@ -1,0 +1,496 @@
+  B =  241/2                  Good    64    72     7
+  B     --        --         --     48    54    12
+  C =  27      25.9 p. c.   Good    76    81    12
+  D =  29.6    28.4 p. c.   Good    71    78    12
+  E =  30.5    28.9 p. c.   Good    58    77    12
+  F =  35.5    20   p. c.   Good    80    91    12
+
+The latter was very tough to break. Specimen marked A shows one of
+these pieces of steel. I show you also fresh broken specimens which
+will give you a good idea of the beautiful quality of this material.
+These specimens were cut out of shafts made of Steel Co. of Scotland's
+steel. I also show you specimens of cold bending:
+
+      Tensile     Elong.             Fractured    Broke    Fall
+       Tons.      in. 5"     Bend.     Blows.     Blows.    In.
+  G =  30.9     271/2  p. c.   Good       59         66       12
+  H =  29.3     30   p. c.   Good       66         90       12
+  I =  28.9     28.9 p. c.   Good       53         68       12
+
+I think all of the above tests show that this material, when carefully
+made and treated with sufficient mechanical work on forging down from
+the ingot, is suitable up to 34 tons for crank shafts; how much higher
+it would be desirable to go is a question of superior excellence in
+material and manufacture resting with the makers. I would, however,
+remark that no allowance has been made by the Board of Trade or Lloyds
+for the excellence of this material above that of iron. I was
+interested to know how the material in the best iron shafts would
+stand this fatigue test compared with steel, and had some specimens of
+same dimensions cut out of iron shafts. The following are the results:
+Best iron, three good qualities, rolled into flat bars, cut and made
+into 41/2 cwt. blooms.
+
+  J =  18.6   24.3 p. c.   Good   17   18   12
+
+Made of best double rolled scrap, 41/2 cwt. blooms.
+
+  K =  22     321/2  p. c.   Good   21   32   12
+
+You will see from these results that steel stood this fatigue test,
+Vickers' 73 per cent. and Steel Co.'s 68 per cent., better than iron
+of the best quality for crank shafts; and I am of opinion that so long
+as we use such material as these for crank shafts, along with the
+present rules, and give ample _bearing surface_, there will be few
+broken shafts to record.
+
+I omitted to mention that built shafts, both of steel and iron, of
+large diameter, are now in general use, and with the excellent
+machines, and under special mechanics, are built up of five separate
+pieces in such a rigid manner that they possess all the solidity
+necessary for a crank shaft. The forgings of iron and steel being much
+smaller are capable of more careful treatment in the process of
+manufacture. These shafts, for large mail steamers, when coupled up,
+are 35 feet long, and weigh 45 tons. They require to be carefully
+coupled, some makers finishing the bearings in the lathe, others
+depend on the excellence of their work in each piece, and finish each
+complete. To insure the correct centering of these large shafts, I
+have had 6 in. dia. recesses 3/4 inch deep turned out of each coupling
+to one gauge and made to fit one disk. Duplicate disks are then fitted
+in each coupling, and the centering is preserved, and should a spare
+piece be ever required, there is no trouble to couple correctly on
+board the steamer.
+
+The propeller shaft is generally made of iron, and if made _not less_
+than the Board of Trade rules as regards diameter, of the best iron,
+and the gun metal liners carefully fitted, they have given little
+trouble; the principal trouble has arisen from defective fitting of
+the propeller boss. This shaft working in sea water, though running in
+lignum vitae bearings, has a considerable wear down at the outer
+bearings in four or five years, and the shaft gets out of line. This
+wear has been lessened considerably by fitting the wood so that the
+grain is endway to the shaft, and with sufficient bearing surface
+these bearings have not required lining up for nine years. It is,
+however, a shaft that cannot be inspected except when in dry dock, and
+has to be disconnected from the propeller, and drawn inside for
+examination at periods suggested by experience. Serious accidents have
+occurred through want of attention to the examination of this shaft;
+when working in salt water, with liners of gun metal, galvanic action
+ensues, and extensive corrosion takes place in the iron at the ends of
+the brass liners, more especially if they are faced up at right angles
+to the shaft. Some engineers have the uncovered part of the shaft
+between the liners, inside the tube, protected against the sea water
+by winding over it tarred line. As this may give out and cause some
+trouble, by stopping the water space, I have not adopted it, and shall
+be pleased to have the experience of any seagoing engineer on this
+important matter. A groove round the shaft is formed, due to this
+action, and in some cases the shaft has broken inside the stern tube,
+breaking not only it, but tearing open the hull, resulting in the
+foundering of the vessel. Steel has been used for screw shafts, but
+has not been found so suitable, as it corrodes more rapidly in the
+presence of salt water and gun metal than iron, and unless protected
+by a solid liner for the most part of its length, a mechanical feat
+which has not yet been achieved in ordinary construction, as this
+liner would require to be 20 ft. long. I find it exceedingly difficult
+to get a liner of only 7 ft. long in one piece, and the majority of 6
+ft. liners are fitted _in two pieces_. The joint of the two liners is
+rarely _watertight_, and many shafts have been destroyed by this
+method of fitting these liners.
+
+I trust that engine builders will make a step further in the fitting
+of these liners on these shafts, as it is against the interest of the
+_shipowner_ to keep ships in dry dock from such causes as defective
+liners, and I think it will be only a matter of time when the screw
+shaft will be completely protected from sea water, at least inside the
+stern tube; and when this is done, I would have no hesitation in using
+steel for screw shafts. Though an easier forging than a crank shaft,
+these shafts are often liable to flaws of a very serious character,
+owing to the contraction of the _mass_ of metal forming the coupling;
+the outside cooling first tears the center open, and when there is not
+much metal to turn off the face of the coupling, it is sometimes
+undiscovered. Having observed several of these cavities, some only
+when the _last cut_ was being taken off, I have considered it
+advisable to have holes bored in the end and center of each coupling,
+as far through as the thickness of the flange; when the shafts are of
+large size, this is sure to find these flaws out. Another flaw, which
+has in many cases proved serious when allowed to extend, is situated
+immediately abaft the gun metal liner, in front of the propeller.
+
+This may be induced by corrosion, caused by the presence of sea water,
+gun metal, and iron, assisted by the rotation of the shaft. It may
+also be caused under heavy strain, owing to the over-finishing of the
+shaft at this part under the steam hammer.
+
+The forgemen, in these days of competition and low prices, are
+instructed to so finish that there won't be much weight to turn off
+when completing the shaft in the lathe. This is effected by the use of
+half-round blocks under the hammer, at a lower temperature than the
+rest of the forging is done, along with the use of a little water
+flung on from time to time; and it is remarkable how near a forging is
+in truth when centered in the lathe, and how little there is to come
+off. The effect of this manipulation is to form a hard ring of close
+grain about one inch thick from the circumference of the shaft inward.
+The metal in this ring is much harder than that in the rest of the
+shaft, and takes all the strain the inner section gives; consequently,
+when strain is brought on, either in heavy weather or should the
+propeller strike any object at sea or in the Suez canal, a fracture is
+caused at the circumference. This, assisted by slight corrosion, has
+in my experience led in the course of four months to a screw shaft
+being seriously crippled.
+
+I show you a section of a screw shaft found to be flawed, and which I
+had broken under the falling weight of a steam hammer, when the
+decided difference of the granules near the circumference from that in
+the central part conveyed to me that it was weakened by treatment I
+have referred to. I think more material should be left on the forging,
+and the high finish with a little cold water should be discontinued.
+Doing away with the outer bearing in rudder post is an improvement,
+provided the bearing in the outer end of screw shaft in the stern tube
+is sufficiently large. It allows the rudder post to have its own work
+to do without bringing any strain on the screw shaft, and in the event
+of the vessel's grounding and striking under the rudder post, it does
+not throw any strain on the screw shaft. It also tends to reduce
+weight at this part, where all the weight is overhung from the stern
+of the vessel.
+
+       *       *       *       *       *
+
+
+
+
+EXPERIMENTAL AID IN THE DESIGN OF HIGH SPEED STEAMSHIPS.
+
+By D. P.
+
+
+The achievement of one triumph after another in the matter of high
+speed steamships, and especially the confidence with which pledges of
+certain results are given and accepted long before actual trials are
+made, form one of the most convincing proofs of the important part
+which scientific methods play in modern shipbuilding. This is evident
+in the case of ships embodying novel or hitherto untried features, and
+more especially so in cases where shipbuilders, having no personal
+practical experience or data, achieve such results. This was notably
+illustrated in the case of the Fairfield Co. undertaking some five
+years ago to build and engine a huge craft of most phenomenal form and
+proportions, and to propel the vessel at a given speed under
+conditions which appeared highly impracticable to many engaged in the
+same profession. The contract was proceeded with, however, and the
+Czar of Russia's wonderful yacht Livadia was the result, which
+(however much she may have justified the professional strictures as to
+form and proportions) entirely answered the designer's anticipations
+as to speed. Equally remarkable and far more interesting instances are
+the Inman liners City of Paris and City of New York, in whose design
+there was sufficient novelty to warrant the degree of misgiving which
+undoubtedly existed regarding the Messrs. Thomson's ability to attain
+the speed required. In the case at least of the City of Paris, Messrs.
+Thomson's intrepidity has been triumphantly justified. An instance
+still more opposite to our present subject is found in the now
+renowned Channel steamers Princess Henrietta and Princess Josephine,
+built by Messrs. Denny, of Dumbarton, for the Belgian government. The
+speed stipulated for in this case was 201/2 knots, and although in one
+or two previous Channel steamers, built by the Fairfield Co., a like
+speed had been achieved, still the guaranteeing of this speed by
+Messrs. Denny was remarkable, in so far as the firm had never
+produced, or had to do with, any craft faster than 15 or 16 knots. The
+attainment not only of the speed guaranteed, but of the better part of
+a knot in excess of that speed, was triumphant testimony to the skill
+and care brought to bear upon the undertaking. In this case, at least,
+the result was not one due to a previous course of "trial and error"
+with actual ships, but was distinctly due to superior practical skill,
+backed and enhanced by knowledge and use of specialized branches in
+the science of marine architecture. Messrs. Denny are the only firm of
+private shipbuilders possessing an experimental tank for recording the
+speed and resistance of ships by means of miniature reproductions of
+the actual vessels, and to this fact may safely be ascribed their
+confidence in guaranteeing, and their success in obtaining, a speed so
+remarkable in itself and so much in excess of anything they had
+previously had to do with. Confirmatory evidence of their success with
+the Belgian steamers is afforded by the fact that they have recently
+been instructed to build for service between Stranraer and Larne a
+paddle steamer guaranteed to steam 19 knots, and have had inquiries as
+to other high speed vessels.
+
+In estimating the power required for vessels of unusual types or of
+abnormal speed, where empirical formulae do not apply, and where data
+for previous ships are not available, the system of experimenting with
+models is the only trustworthy expedient. In the case of the Czar's
+extraordinary yacht, the Livadia, already referred to, it may be
+remembered that previous to the work of construction being proceeded
+with, experiments were made with a small model of the vessel by the
+late Dr. Tideman, at the government tank at Amsterdam. On the strength
+of the data so obtained, coupled with the results of trials made with
+a miniature of the actual vessel on Loch Lomond, those responsible for
+her stipulated speed were satisfied that it could be attained. The
+actual results amply justified the reliance placed upon such
+experiments.
+
+The design of many of her Majesty's ships has been altered after
+trials with their models. This was notably the case in connection with
+the design of the Medway class of river gunboats. The Admiralty
+constructors at first determined to make them 110 ft. long, by only 26
+ft. in breadth. A doubt arising in their minds, the matter was
+referred to the late Mr. Froude, who had models made of various
+breadths, with which he experimented. The results satisfied the
+Admiralty officers that a substantial gain, rather than a loss, would
+follow from giving them much greater beam than had been proposed, and
+this was amply verified in the actual ships.
+
+So long ago as the last decade of last century, an extended series of
+experiments with variously shaped bodies, ships as well as other
+shapes, were conducted by Colonel Beaufoy, in Greenland dock, London,
+under the auspices of a society instituted to improve naval
+architecture at that time. Robert Fulton, of America, David Napier, of
+Glasgow, and other pioneers of the steamship, are related to have
+carried out systematic model experiments, although of a rude kind in
+modern eyes, before entering on some of their ventures. About 1840 Mr.
+John Scott Russell carried on, on behalf of the British Association,
+of which he was at that time one of its most distinguished members, an
+elaborate series of investigations into the form of least resistance
+in vessels. For this purpose he leased the Virginia House and grounds,
+a former residence of Rodger Stewart, a famous Greenock shipowner of
+the early part of the century, the house being used as offices, while
+in the grounds an experimental tank was erected. In it tests were made
+of the speed and resistance of the various forms which Mr. Russell's
+ingenuity evolved--notably those based on the well-known stream line
+theory--as possible types of the steam fleets of the future. All the
+data derived from experiment was tabulated, or shown graphically in
+the form of diagrams, which, doubtless, proved of great interest to
+the _savants_ of the British Association of that day. Mr. Russell
+returned to London in 1844, and the investigations were discontinued.
+
+It will thus be seen that model experiments had been made by
+investigators long before the time of the late Dr. William Froude, of
+Torquay. It was not, however, until this gentleman took the subject of
+resistance of vessels in hand that designers were enabled to render
+the results from model trials accurately applicable to vessels of full
+size. This was principally due to his enunciation and verification by
+experiment of what is now known as the "law of comparison," or the law
+by which one is enabled to refer accurately the resistance of a model
+to one of larger size, or to that of a full sized vessel. In effect,
+the law is this--for vessels of the same proportional dimensions, or,
+as designers say, of the same lines, there are speeds appropriate to
+these vessels, which vary as the square roots of the ratio of their
+dimensions, and at these appropriate speeds the resistances will vary
+as the cubes of these dimensions. The fundament upon which the law is
+based has recently been shown to have found expression in the works of
+F. Reech, a distinguished French scientist who wrote early in the
+century. There are no valid grounds for supposing that the discovery
+of Reech was familiar to Froude; but even were this so, it is
+abundantly evident that, although never claimed by himself, there are
+the best of grounds for claiming the law of comparison, as now
+established, to be an independent discovery of Froude's.
+
+Dr. Froude began his investigations with ships' models at the
+experimental tank at Torquay about 1872, carrying it on
+uninterruptedly until his death in 1879. Since his decease, the work
+of investigation has been carried on by his son, Mr. R. E. Froude, who
+ably assisted his father, and originated much of the existing
+apparatus. At the beginning of 1886, the whole experimental appliances
+and effects were removed from Torquay to Haslar, near Portsmouth,
+where a large tank and more commodious offices have been constructed,
+with a view to entering more extensively upon the work of experimental
+investigation. The dimensions of the old tank were 280 ft. in length,
+36 ft. in width, and 10 ft. in depth. The new one is about 400 ft.
+long, 20 ft. wide, and 9 ft. deep. The new establishment is more
+commodious and better equipped than the old, and although the
+experiments are taken over a greater length, the operators are enabled
+to turn out results with as great dispatch as in the Torquay tank. The
+adjacency of the new tank to the dockyard at Portsmouth enables the
+Admiralty authorities to make fuller and more frequent use of it than
+formerly. Since the value of the work carried on for the British
+government has become appreciated, several experimental establishments
+of a similar character have been instituted in other countries. The
+Dutch government in 1874 formed one at Amsterdam which, up till his
+death in 1883, was under the superintendence of Dr. Tideman, whose
+labors in this direction were second only to those of the late Dr.
+Froude. In 1877 the French naval authorities established an
+experimental tank in the dockyard at Brest, and the Italian government
+have just completed one on an elaborate scale in the naval dockyard at
+Spezia. The Spezia tank, which is 500 ft. in length by about 22 ft. in
+breadth, is fully equipped with all the special and highly ingenious
+instruments and appliances which the scientific skill of the late Dr.
+Froude brought into existence, and have been since his day improved
+upon by his son, Mr. R. E. Froude, and other experts.
+
+Through the courtesy of our own Admiralty and of Messrs. Denny, of
+Dumbarton, the Italians have been permitted to avail themselves of the
+latest improvements which experience has suggested, and the
+construction of the special machinery and apparatus required has been
+executed by firms in this country having previous experience in this
+connection--Messrs. Kelso & Co., of Commerce Street, Glasgow; and Mr.
+Robert W. Munro, of London.
+
+Having briefly traced the origin and development of the system of
+model experiment, it may now be of interest to describe the _modus
+operandi_ of such experiments, and explain the way in which they are
+made applicable to actual ships. The models with which experiments are
+made in those establishments conducted on the lines instituted by Mr.
+Froude are made of paraffin wax, a material well adapted for the
+purpose, being easily worked, impervious to water, and yielding a fine
+smooth surface. Moreover, when done with, the models may be remelted
+for further use and all parings utilized. They are produced in the
+following manner: A mould is formed in clay by means of cross sections
+made somewhat larger than is actually required, this allowance being
+made to admit of the cutting and paring afterward required to bring
+the model to the correct point. Into this mould a core is placed,
+consisting of a light wooden framework covered with calico and coated
+with a thick solution of clay to make it impervious to the melted
+paraffin. This latter substance is run into the space between the core
+and the mould and allowed to cool. This space, forming the thickness
+of the model, is usually from 3/4 in. for a model of 10 ft. long to 11/4
+in. and 11/2 in. for one of 16 ft. and 18 ft. long. When cold, the model
+is floated out of the mould by water pressure and placed bottom upward
+on the bed of a shaping machine, an ingenious piece of mechanism
+devised by the late Dr. Froude, to aid in reducing the rough casting
+to the accurate form. The bed of this machine, which travels
+automatically while the machine is in operation, can be raised or
+lowered to any desired level by adjusting screws. A plan of water
+lines of the vessel to be modeled is placed on a tablet geared to the
+machine, the travel of which is a function of the travel of the bed
+containing the model. With a pointer, which is connected by a system
+of levers to the cutting tools, the operator traces out the water
+lines upon the plan as the machine and its bed are in motion, with the
+result that corresponding lines are cut upon the model. The cutting
+tools are swiftly revolving knives which work on vertical spindles
+moved in a lateral direction (brought near or removed from each
+other), according to the varying breadth of the water lines throughout
+the length of the model, as traced out by the operator's pointer. In
+this way a series of longitudinal incisions are made on the model at
+different levels corresponding to the water lines of the vessel. The
+model is now taken from the bed of the machine and the superfluous
+material or projection between the incisions is removed by means of a
+spokeshave or other sharp hand tool, and the whole surface brought to
+the correct form, and made fair and smooth.
+
+To test accuracy of form, the weight of model is carefully taken, and
+the displacement at the intended trial draught accurately determined
+from the plan of lines. The difference between the weight of model and
+the displacement at the draught intended is then put into the bottom
+of the model in the form of small bags of shot, and by unique and very
+delicately constructed instruments for ascertaining the correct
+draught, the smallest error can at once be detected and allowed for.
+The models vary in size from about one-tenth to one-thirtieth of the
+size of the actual ship. A model of the largest size can be produced
+and its resistance determined at a number of speeds in about two days
+or so. The mode of procedure in arranging the model for the resistance
+experiment, after the model is afloat in the tank at the correct
+draught and trim, consists in attaching to it a skillfully devised
+dynamometric apparatus secured to a lightly constructed carriage. This
+carriage traverses a railway which extends the whole length of the
+tank about 15 in. or 18 in. above the water. The floating model is
+carefully guided in its passage through the water by a delicate
+device, keeping it from deviating either to the right or left, but at
+the same time allowing a free vertical and horizontal motion. The
+carriage with the model attached is propelled by means of an endless
+steel wire rope, passing at each end of the tank around a drum, driven
+by a small stationary engine, fitted with a very sensitive governor,
+capable of being so adjusted that any required speed may be given to
+the carriage and model. The resistance which the model encounters in
+its passage through the water is communicated to a spiral spring, and
+the extension this spring undergoes is a measure of the model's
+resistance. The amount of the extension is recorded on a revolving
+cylinder to a much enlarged scale through the medium of levers or bell
+cranks supported by steel knife edges resting on rocking pieces. On
+the same cylinder are registered "time" and "distance" diagrams, by
+means of which a correct measure of the speed is obtained. The time
+diagram is recorded by means of a clock attached to an electric
+circuit, making contact every half second, and actuating a pen which
+forms an indent in what would otherwise be a straight line on the
+paper. The distance pen, by a similar arrangement, traces another line
+on the cylinder in which are indents corresponding to fixed distances
+of travel along the tank, the indents being caused by small
+projections which strike a trigger at the bottom of the carriage as it
+passes, and make electric contact. From these time and distance
+diagrams accurate account can be taken of the speed at which the model
+and its supporting carriage have been driven. Thus on the same
+cylinder is recorded graphically the speed and resistance of the
+model. The carriage may be driven at any assigned speed by adjusting
+the governor of the driving engine already alluded to, but the record
+of the speed by means of the time and distance diagrams is more
+definite. When the resistances of the model have been obtained at
+several speeds, varying in some cases from 50 to 1,000 feet per
+minute, the speeds are set off in suitable units along a base line,
+and for every speed at which resistance is measured, the resistance is
+set off to scale as an ordinate value at those speeds. A line passing
+through these spots forms the "curve of resistance," from which the
+resistance experienced by the model at the given trial speeds or any
+intermediate speed can be ascertained. The resistance being known, the
+power required to overcome resistance and drive the actual ship at any
+given speed is easily deduced by applying the rule before described as
+the law of comparison.--_The Steamship._
+
+       *       *       *       *       *
+
+
+
+
+THE SHIP IN THE NEW FRENCH BALLET OF THE "TEMPEST."
+
+
+A new ballet, entitled the "Tempest," by Messrs. Barbier and Thomas,
+has recently been put upon the stage of the Opera at Paris with superb
+settings. One of the most important of the several tableaux exhibited
+is the last one of the third act, in which appears a vessel of unusual
+dimensions for the stage, and which leaves far behind it the
+celebrated ships of the "Corsaire" and "L'Africaine." This vessel,
+starting from the back of the stage, advances majestically, describes
+a wide circle, and stops in front of the prompter's box.
+
+[Illustration: FIG. 1.--SHIP OF THE "TEMPEST," IN PROCESS OF
+CONSTRUCTION.]
+
+[Illustration: FIG. 2.--SETTING OF THE SCENERY BEFORE AND AFTER THE
+APPEARANCE OF THE SHIP.]
+
+As the structure of this vessel and the mechanism by which it is moved
+are a little out of the ordinary, we shall give some details in regard
+to them. First, the sea is represented by four parallel strips of
+water, each formed of a vertical wooden frame entirely free in its
+movements (Fig. 2). The ship (Figs. 1, 2, 3, 4 and 5) is carried by
+wheels that roll over the floor of the stage. It is guided in its
+motion by two grooved bronze wheels and by a rail formed of a simple
+reversed T-iron which is fixed to the floor by bolts. In measure as it
+advances, the strips of water open in the center to allow it to pass,
+and, as the vessel itself is covered up to the water line with painted
+canvas imitating the sea, it has the appearance of cleaving the waves.
+As soon as it has passed, the three strips of water in the rear rise
+slightly. When the vessel reaches the first of the strips, the three
+other strips, at first juxtaposed against the preceding, spread out
+and thus increase the extent of the sea, while the inclined plane of
+the preceding tableau advances in order to make place for the vessel.
+The shifting of this inclined place is effected by simply pulling upon
+the carpet that covers it, and which enters a groove in the floor in
+front of the prompter's box. At this moment, the entire stage seems to
+be in motion, and the effect is very striking.
+
+[Illustration: FIG. 3.--SHIP OF THE NEW BALLET, THE "TEMPEST."]
+
+We come now to the details of construction of the vessel. It is not
+here a question of a ship represented simply by means of frames and
+accessories, but of a true ship in its entirety, performing its
+evolutions over the whole stage. Now, a ship is not constructed at a
+theater as in reality. It does not suffice to have it all entire upon
+the stage, but it is necessary also to be able to dismount it after
+every representation, and that, too, in a large number of pieces that
+can be easily stored away. Thus, the vessel of the Tempest, which
+measures a dozen yards from stem to stern, and is capable of carrying
+fifty persons, comes apart in about 250 pieces of wood, without
+counting all the iron work, bolts, etc. Nevertheless, it can be
+mounted in less than two hours by ten skilled men.
+
+[Illustration: FIG. 4.--THE SHIP WITH ITS OCCUPANTS.]
+
+The visible hull of the ship is placed upon a large and very strong
+wooden framework, formed of twenty-six trusses. In the center, there
+are two longitudinal trusses about three feet in height by twenty-five
+in length, upon which are assembled, perpendicularly, seven other
+trusses. In the interior there are six transverse pieces held by
+stirrup bolts, and at the extremity of each of these is fixed a
+thirteen-inch iron wheel. It is upon these twelve wheels that the
+entire structure rolls.
+
+There are in addition the two bronze guide wheels that we have already
+spoken of. In the rear there are two large vertical trusses sixteen
+feet in height, which are joined by ties and descend to the bottom of
+the frame, to which they are bolted. These are worked out into steps
+and constitute the skeleton of the immense stern of the vessel. The

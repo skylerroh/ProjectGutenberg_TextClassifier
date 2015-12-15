@@ -1,0 +1,418 @@
+The Project Gutenberg EBook of Astronomy for Amateurs, by Camille Flammarion
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Astronomy for Amateurs
+
+Author: Camille Flammarion
+
+Translator: Frances A. Welby
+
+Release Date: April 30, 2008 [EBook #25267]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ASTRONOMY FOR AMATEURS ***
+
+
+
+
+Produced by Jason Isbell, Greg Bergquist and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+[Illustration: Paul Renaud.
+
+CONTEMPLATION]
+
+
+
+
+  ASTRONOMY FOR
+  AMATEURS
+
+
+  BY
+  CAMILLE FLAMMARION
+  AUTHOR OF POPULAR ASTRONOMY
+
+
+  _AUTHORIZED TRANSLATION BY_
+  FRANCES A. WELBY
+
+
+  _ILLUSTRATED_
+
+  [Illustration]
+
+
+  NEW YORK AND LONDON
+  D. APPLETON AND COMPANY
+  1910
+
+
+
+
+COPYRIGHT, 1904, BY
+
+D. APPLETON AND COMPANY
+
+
+_Published October, 1904_
+
+
+
+
+TO
+
+MADAME C.R. CAVARE
+
+  ORIGINAL MEMBER OF THE ASTRONOMICAL SOCIETY OF FRANCE
+  CHATEAU DE MAUPERTHUIS
+
+
+MADAME: I have dedicated none of my works, save Stella--offered to the
+liberal-minded, the free and generous friend of progress, and patron of
+the sciences, James Gordon Bennett, editor of the New York Herald. In
+this volume, Madame, I make another exception, and ask your permission
+to offer it to the first woman who consented to be enrolled in the list
+of members of the Astronomical Society of France, as foundress of this
+splendid work, from the very beginning of our vast association (1887);
+and who also desired to take part in the permanent organization of the
+Observatory at Juvisy, a task of private enterprise, emancipated from
+administrative routine. An Astronomy for Women[1] can not be better
+placed than upon the table of a lady whose erudition is equal to her
+virtues, and who has consecrated her long career to the pursuit and
+service of the Beautiful, the Good, and the True.
+
+                         CAMILLE FLAMMARION.
+
+  OBSERVATORY OF JUVISY, _November, 1903_.
+
+
+
+
+  CONTENTS
+
+
+  CHAPTER                                            PAGE
+
+        INTRODUCTION                                    1
+
+     I. THE CONTEMPLATION OF THE HEAVENS               10
+
+    II. THE CONSTELLATIONS                             28
+
+   III. THE STARS, SUNS OF THE INFINITE. A JOURNEY
+            THROUGH SPACE                              56
+
+    IV. OUR STAR THE SUN                               88
+
+     V. THE PLANETS. A. MERCURY, VENUS, THE
+            EARTH, MARS                               113
+
+    VI. THE PLANETS. B. JUPITER, SATURN, URANUS,
+            NEPTUNE                                   146
+
+   VII. THE COMETS                                    172
+
+  VIII. THE EARTH                                     205
+
+    IX. THE MOON                                      232
+
+     X. THE ECLIPSES                                  259
+
+    XI. ON METHODS. HOW CELESTIAL DISTANCES
+           ARE DETERMINED, AND HOW THE SUN IS
+           WEIGHED                                    287
+
+   XII. LIFE, UNIVERSAL AND ETERNAL                   317
+
+        INDEX                                         341
+
+
+
+
+   LIST OF ILLUSTRATIONS
+
+
+   Contemplation                                 _Frontispiece_
+                  From a painting by Paul Renaud
+
+   FIG.                                                         PAGE
+
+   1. The great Book of the Heavens is open to all eyes           15
+
+   2. The earth in space. June solstice, midday                   20
+
+   3. The Great Bear (or Dipper) and the Pole Star                34
+
+   4. To find the Pole Star                                       35
+
+   5. To find Cassiopeia                                          37
+
+   6. To find Pegasus and Andromeda                               37
+
+   7. Perseus, the Pleiades, Capella                              38
+
+   8. To find Arcturus, the Herdsman, and the Northern Crown      40
+
+   9. The Swan, Vega, the Eagle                                   41
+
+  10. The Constellations of the Zodiac: summer and autumn;
+        Capricorn, Archer, Scorpion, Balance, Virgin, Lion        46
+
+  11. The Constellations of the Zodiac: winter and spring;
+        Crab, Twins, Bull, Ram, Fishes, Water-Carrier             47
+
+  12. Orion and his celestial companions                          48
+
+  13. Winter Constellations                                       51
+
+  14. Spring Constellations                                       52
+
+  15. Summer Constellations                                       53
+
+  16. Autumn Constellations                                       54
+
+  17. The double star Mizar                                       69
+
+  18. Triple star [xi] in Cancer                                  72
+
+  19. Quadruple star [epsilon] of the Lyre                        73
+
+  20. Sextuple star [theta] in the Nebula of Orion                74
+
+  21. The Star-Cluster in Hercules                                79
+
+  22. The Star-Cluster in the Centaur                             80
+
+  23. The Nebula in Andromeda                                     81
+
+  24. Nebula in the Greyhounds                                    82
+
+  25. The Pleiades                                                83
+
+  26. Occultation of the Pleiades by the Moon                     85
+
+  27. Stellar dial of the double star [gamma] of the Virgin       86
+
+  28. Comparative sizes of the Sun and Earth                      93
+
+  29. Direct photograph of the Sun                                96
+
+  30. Telescopic aspect of a Sun-Spot                             97
+
+  31. Rose-colored solar flames 228,000 kilometers (141,500
+        miles) in height, _i.e._, 18 times the diameter of the
+        Earth                                                    103
+
+  32. Orbits of the four Planets nearest to the Sun              115
+
+  33. Orbits of the four Planets farthest from the Sun           116
+
+  34. Mercury near quadrature                                    117
+
+  35. The Earth viewed from Mercury                              119
+
+  36. The Evening Star                                           123
+
+  37. Successive phases of Venus                                 124
+
+  38. Venus at greatest brilliancy                               126
+
+  39. The Earth viewed from Venus                                130
+
+  40. Diminution of the polar snows of Mars during the
+        summer                                                   136
+
+  41. Telescopic aspect of the planet Mars (Feb., 1901)          137
+
+  42. Telescopic aspect of the planet Mars (Feb., 1901)          138
+
+  43. Chart of Mars                                              140
+
+  44. The Earth viewed from Mars                                 144
+
+  45. Telescopic aspect of Jupiter                               150
+
+  46. Jupiter and his four principal satellites                  155
+
+  47. Saturn                                                     159
+
+  48. Varying perspective of Saturn's Rings, as seen from
+        the Earth                                                161
+
+  49. The Great Comet of 1858                                    174
+
+  50. What our Ancestors saw in a Comet                          177
+
+                         After Ambroise Pare (1858)
+
+  51. Prodigies seen in the Heavens by our Forefathers           178
+
+  52. The orbit of a Periodic Comet                              182
+
+  53. The tails of Comets are opposed to the Sun                 185
+
+  54. A Meteor                                                   191
+
+  55. Shooting Stars of November 12, 1799                        196
+
+                        From a contemporary drawing
+
+  56. Fire-Ball seen from the Observatory at Juvisy, August
+      10, 1899                                                   199
+
+  57. Explosion of a Fire-Ball above Madrid, February 10,
+      1896                                                       200
+
+  58. Raphael's Fire-Ball (_The Madonna of Foligno_)             202
+
+  59. A Uranolith                                                203
+
+  60. Motion of the Earth round the Sun                          222
+
+  61. Inclination of the Earth                                   224
+
+  62. The divisions of the globe. Longitudes and latitudes       226
+
+  63. To find the long and short months                          230
+
+  64. The Full Moon slowly rises                                 234
+
+  65. The Moon viewed with the unaided eye                       236
+
+  66. The Man's head in the Moon                                 237
+
+  67. Woman's head in the Moon                                   238
+
+  68. The kiss in the Moon                                       239
+
+  69. Photograph of the Moon                                     240
+
+  70. The Moon's Phases                                          241
+
+  71. Map of the Moon                                            247
+
+  72. The Lunar Apennines                                        251
+
+  73. Flammarion's Lunar Ring                                    253
+
+  74. Lunar landscape with the Earth in the sky                  254
+
+  75. Battle between the Medes and Lydians arrested by an
+        Eclipse of the Sun                                       266
+
+  76. Eclipse of the Moon at Laos (February 27, 1877)            269
+
+  77. The path of the Eclipse of May 28, 1900                    273
+
+  78. Total eclipse of the Sun, May 28, 1900, as observed
+        from Elche (Spain)                                       281
+
+  79. The Eclipse of May 28, 1900, as photographed by
+        King Alfonso XIII, at Madrid                             285
+
+  80. Measurement of Angles                                      289
+
+  81. Division of the Circumference into 360 degrees             291
+
+  82. Measurement of the distance of the Moon                    292
+
+  83. Measurement of the distance of the Sun                     297
+
+  84. Small apparent ellipses described by the stars as a
+        result of the annual displacement of the Earth           306
+
+
+
+
+INTRODUCTION
+
+
+The Science of Astronomy is sublime and beautiful. Noble, elevating,
+consoling, divine, it gives us wings, and bears us through Infinitude.
+In these ethereal regions all is pure, luminous, and splendid. Dreams of
+the Ideal, even of the Inaccessible, weave their subtle spells upon us.
+The imagination soars aloft, and aspires to the sources of Eternal
+Beauty.
+
+What greater delight can be conceived, on a fine spring evening, at the
+hour when the crescent moon is shining in the West amid the last glimmer
+of twilight, than the contemplation of that grand and silent spectacle
+of the stars stepping forth in sequence in the vast Heavens? All sounds
+of life die out upon the earth, the last notes of the sleepy birds have
+sunk away, the Angelus of the church hard by has rung the close of day.
+But if life is arrested around us, we may seek it in the Heavens. These
+incandescing orbs are so many points of interrogation suspended above
+our heads in the inaccessible depths of space.... Gradually they
+multiply. There is Venus, the white star of the shepherd. There Mars,
+the little celestial world so near our own. There the giant Jupiter.
+The seven stars of the Great Bear seem to point out the pole, while they
+slowly revolve around it.... What is this nebulous light that blanches
+the darkness of the heavens, and traverses the constellations like a
+celestial path? It is the Galaxy, the Milky Way, composed of millions on
+millions of suns!... The darkness is profound, the abyss immense....
+See! Yonder a shooting star glides silently across the sky, and
+disappears!...
+
+Who can remain insensible to this magic spectacle of the starry Heavens?
+Where is the mind that is not attracted to these enigmas? The
+intelligence of the amateur, the feminine, no less than the more
+material and prosaic masculine mind, is well adapted to the
+consideration of astronomical problems. Women, indeed, are naturally
+predisposed to these contemplative studies. And the part they are called
+to play in the education of our children is so vast, and so important,
+that the elements of Astronomy might well be taught by the young mother
+herself to the budding minds that are curious about every issue--whose
+first impressions are so keen and so enduring.
+
+Throughout the ages women have occupied themselves successfully with
+Astronomy, not merely in its contemplative and descriptive, but also in
+its mathematical aspects. Of such, the most illustrious was the
+beautiful and learned Hypatia of Alexandria, born in the year 375 of our
+era, public lecturer on geometry, algebra, and astronomy, and author of
+three works of great importance. Then, in that age of ignorance and
+fanaticism, she fell a victim to human stupidity and malice, was dragged
+from her chariot while crossing the Cathedral Square, in March, 415,
+stripped of her garments, stoned to death, and burned as a dishonored
+witch!
+
+Among the women inspired with a passion for the Heavens may be cited St.
+Catherine of Alexandria, admired for her learning, her beauty and her
+virtue. She was martyred in the reign of Maximinus Daza, about the year
+312, and has given her name to one of the lunar rings.
+
+Another celebrated female mathematician was Madame Hortense Lepaute,
+born in 1723, who collaborated with Clairaut in the immense calculations
+by which he predicted the return of Halley's Comet. "Madame Lepaute,"
+wrote Lalande, "gave us such immense assistance that, without her, we
+should never have ventured to undertake this enormous labor, in which it
+was necessary to calculate for every degree, and for a hundred and fifty
+years, the distances and forces of the planets acting by their
+attraction on the comet. During more than six months, we calculated from
+morning to night, sometimes even at table, and as the result of this
+forced labor I contracted an illness that has changed my constitution
+for life; but it was important to publish the result before the arrival
+of the comet."
+
+This extract will suffice for the appreciation of the scientific ardor
+of Madame Lepaute. We are indebted to her for some considerable works.
+Her husband was clock-maker to the King. "To her intellectual talents,"
+says one of her biographers, "were joined all the qualities of the
+heart. She was charming to a degree, with an elegant figure, a dainty
+foot, and such a beautiful hand that Voiriot, the King's painter, who
+had made a portrait of her, asked permission to copy it, in order to
+preserve a model of the best in Nature." And then we are told that

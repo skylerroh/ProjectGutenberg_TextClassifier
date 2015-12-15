@@ -1,0 +1,300 @@
+engine or steam engine? Which consumes most coal for a given power?
+Which will be cheapest in above case? A. For small powers the hot air
+engine is most economical, but we do not think it adapted to your
+purpose. We would recommend the steam engine for a portable power.
+
+(8) J. C. T. writes: 1. I have a water tank for supplying my boiler,
+which is made of No. 22 galvanized iron; size 30 inches by 9 feet 4
+inches. How many gallons will it hold? A. 342 gallons. 2. Will it be
+better to have it painted inside? A. Yes. 3. How many years will the
+tank wear under favorable circumstances, using well water? A.
+Depends upon the care taken of it.
+
+(9) W. H. C. asks: Is there any way of deadening the noise of machinery
+overhead from the engine room below? The noise comes from machinery in
+the weave room of an alpaca mill. A. This is generally accomplished by
+setting the legs of the machines on thick pieces of India-rubber or
+other non-conductor of sound.
+
+(10) G. H. asks: How can I mount photos on glass and color them? A.
+Take a strongly printed photograph on paper, and saturate it from the
+back with a rag dipped in castor oil. Carefully rub off all excess from
+the surface after obtaining thorough transparency. Take a piece of glass
+an inch larger all round than the print, pour upon it dilute gelatin,
+and then "squeegee" the print and glass together. Allow it to dry, and
+then work in artists' oil colors from the back until you get the proper
+effect from the front. Both landscapes and portraits can be effectively
+colored by the above method without any great skill being required.
+
+(11) C. W. S. asks: 1. Is there any practical and effective method known
+for cutting screws by connecting the slide rest with the mandrel of the
+lathe by gears or otherwise? A. This can be done in this way: attach a
+spur wheel to the back of the face plate. Mount a similar wheel on a
+short hollow shaft, and support the shaft by an arm bolted to the lathe
+bed so that the two spur wheels will mesh together. Fit right and left
+hand leading screws to the hollow shaft of the second spur wheel, and
+drill a hole through them as well as through the hollow shaft to receive
+the fastening pin. Now remove the longitudinal feed screw of the slide
+rest and attach to one side of the carriage an adjustable socket for
+receiving nuts filled to the leading screws. The number of leading
+screws required will depend of course on the variety of threads it is
+desired to cut unless a change of gear is provided. 2. A writer in a
+foreign journal claims to make slides, or V-shaped pieces for slide
+rests, eccentric chucks, etc., on his lathe. Is any such process known
+here, or any process within the capabilities of an amateur mechanic by
+which the planing machine can be dispensed with? A. For small work held
+between the lathe centers a milling device fitted to the slide rest in
+place of the tool post will answer an excellent purpose. This device
+consists of a mandrel carrying at one end the cutter and at the other
+end a large pulley. This mandrel is journaled in a hinged frame
+supported by a block replacing the tool post, and is adjusted as to
+height by a screw passing through an arm projecting from the supporting
+block. The direction of the belt is adapted to this device by means of
+pulleys.
+
+(12) J. E. B. asks: 1. What is the best turbine water wheel now in use?
+A. There are several wheels in market that seem equally good. You should
+examine all of them and decide from your own observation which is best.
+2. What is the rule for finding the horse power of water acting through
+a turbine wheel which utilizes 80 per cent of the water? A. Finding the
+weight of water falling over the dam and its velocity in feet per
+minute, multiply the weight in pounds by the velocity, and the result is
+foot pounds, divided by 33,000, the quotient is theoretical horse power;
+if your wheel gives out 80 per cent. then 80 per cent of that result is
+the horse power of the wheel. 3. How can I calculate the capacity of a
+belt? A. You will find an exhaustive article on the subject of belts on
+pp. 101, 102, Vol. 42, Scientific American, which contains the
+information you desire. 4. What machine now in use is the best, all
+things considered, for the manufacture of ground wood pulp? Where are
+they manufactured? A. This information can probably be obtained by
+inserting an advertisement in the Business and Personal column of this
+paper.
+
+(13) C. A. R writes: Wishing to renew my Leclanche batteries, which were
+giving out, I bought some new empty porous cells. Please give the
+following information: 1. Can I use the carbon plates of the old
+elements over again? If so, do they need to undergo any washing or
+soaking; or are they as good as ever? A. Yes. Soak them for a few hours
+in warm water. 2. Is there anything I must add to the granular manganese
+with which I fill the cells, in order to obtain maximum power and
+endurance? Some makers add pulverized or even coarsely broken carbon. Is
+it an advantage? A. It is an advantage to add granulated carbon to the
+manganese. Use equal parts of each. 3. What is the exact composition of
+the curdy mass which forms around and especially underneath the zincs of
+newly mounted and old gravity batteries. Is this substance formed
+naturally, or is it the result of using poor zinc or sulphate of copper?
+A. It is copper, and should be removed, for it weakens the battery. It
+is the result of placing the zinc in the sulphate of copper solution. 4.
+Is there any real advantage in amalgamating the zincs of the above
+batteries? A. No. 5. Is there a speedy way of cleaning them when coated
+with this substance? A. They can be cleaned by scraping. 6. At certain
+occasions my electric bells began ringing without anybody apparently
+closing the circuit. I often notice that if I unjoin the batteries and
+let them remain thus for a few hours, on reconnecting them the bells
+would work all right for a week, sometimes a fortnight, when the same
+trouble would again occur. Can you in any way explain this phenomenon?
+The batteries are not placed in a very dry part of the house, but the
+wires, which run pretty closely together, are nearly all exposed, so
+that I can control the slightest corrosion or uncovering of the
+conductors. A. There must be some accidental closing of the circuit. We
+could not explain the action of your line without seeing it.
+
+(14) J. E. E. asks: What is the number of layers of wire, and the size
+used for the primary of the induction coil in the Blake transmitter, and
+as near as you can the amount used for secondary? A. For primary, use
+three layers of No. 20 magnet wire, and for the secondary use twelve or
+fourteen layers of No. 36 silk covered copper wire. The resistance of
+the secondary wire should be from 100 to 150 ohms.
+
+(15) J. M. I. asks how to make a barometer by coloring ribbon, so that
+they will change color, indicating weather changes. A. Use a moderately
+strong solution of chloride of cobalt in water.
+
+(16) O. C. H. writes: In reply to R. A. R., question 22, in Scientific
+American, December 4, I will say that some months ago I was engaged in
+running a saw mill, lathe, and shingle factory; was troubled with two
+hot boxes, and frequently had to stop and apply ice. Seeing in the
+Scientific American a reference to the use of plumbago, I sent for some,
+and after three or four applications was troubled no more with hot
+boxes.
+
+(17) F. W. asks: What is the best way for return pipe to go into the
+boiler from radiators--steam at 60 lb. per square inch, fall 15 feet? A.
+If your job is properly piped you can bring your return pipe in at any
+convenient place in your boiler below the water line. If you go into the
+feed pipe, have your connection inside all other valves.
+
+(18) L. T. G. writes: 1. I have four cells of carbon battery; the
+solutions are bichromate of potash and sulphuric acid. Also three cells
+of the Smee; sulphuric acid one part, to ten of water; and the four
+cells of the carbon battery are not sufficient to run my small
+electro-magnetic engine, for more than two or three minutes. I wish to
+know if it would be injurious to either one of the batteries if I should
+unite them both in one circuit, to run the engine, for about one or two
+hours at a time. A. The batteries will not be injured, but they will not
+work well together. Better increase the number of carbon elements. 2.
+Will either of the above batteries freeze in winter, or will cold
+weather affect their working? A. They will not freeze, but it is better
+to keep them at a temperature above freezing 3. Is it always best to use
+the largest wire in connecting batteries with any instrument, say, above
+No. 11 or No. 12 wire, as the larger the wire the less the resistance,
+thereby getting nearly the full power of the battery? A. Yes. 4. What
+purposes are quantity and intensity electricity best suited for
+respectively? A. Batteries are arranged for quantity or intensity
+according to the work to be done. The maximum effect is obtained when
+the battery elements are combined, so that the total resistance in the
+elements is equal to the resistance of the rest of the circuit.
+
+(19) J. H. asks: Which would be the strongest, two 2-inch by 4-inch
+joists nailed together, or one 4-inch by 4-inch joist? A. One 4-inch by
+4-inch.
+
+(20) J. K. B. writes: I suppose every experimenter who uses a carbon
+battery has been troubled by the uncertainty of the carbon connection.
+The makers of the Grenet battery seem to have solved the problem. Can
+you tell us through your correspondence column what solder they use, and
+how they make it stick? A. The carbon is coated with copper by
+electro-deposition; this coating is readily soldered to the carbon
+support with common soft solder.
+
+(21) M. D. M. asks: 1. Is there a difference in a steam engine between
+the boiler pressure and the pressure on the piston when the piston is
+moving 460 feet per minute? A. Yes. 2. About what difference? A. From 2
+to 8 lb., depending upon size and length of steam pipe. 3. Does the
+difference between them vary with a difference in the motion of the
+piston in the same engine? A. Not appreciably within usual limits of
+speed.
+
+(22) F. writes: We have just closed up our steam stone works for this
+season, and we wish to know what is best to coat the inside of our steam
+boilers to keep them from rusting. Some say black oil, and others common
+tallow: which do you recommend as the best? A. We think the black oil
+quite as good and cheaper than tallow. Have the surfaces thoroughly
+cleaned before applying the oil.
+
+(23) O. H. asks for a cheap and easy way of amalgamating battery zincs.
+A. It depends on the kind of battery. In the Fuller the mercury is
+placed in the porous cell with the zinc. In bichromate batteries all
+that is necessary is to dip the zinc in the bichromate solution and then
+pour on a drop or two of mercury. It soon spreads over the entire
+surface of the zinc. Another method is to dip the zincs in dilute
+sulphuric acid and then pour on a little mercury, but these methods,
+except in the case of the Fuller battery, are wasteful of mercury. It is
+better to apply an amalgamating solution with a brush. This solution is
+made by dissolving one part (by weight) of mercury in five parts of
+nitro-muriatic acid (nitric acid one part, muriatic acid three parts),
+heating the solution moderately to quicken the action; and, after
+complete solution, add five parts more of nitro-muriatic acid.
+
+(24) G. W. asks: 1. Would a perfectly round ball of the same specific
+gravity throughout lie still on a level surface? A. Yes. 2. Can a
+mechanic's square be made so true that a four-inch block may be made
+exactly square by such an instrument? A. Yes.
+
+(25) W. H. asks: 1. What is the weight of a boiler 24 feet long, 44
+inches diameter, 1/4 inch thick? A. With two flues, 16 inches diameter,
+6,900 lb. 2. What is the contents (in gallons) of a tank 15 feet deep,
+10 feet in diameter, top and bottom diameters being equal? Please give
+me a formula. A. Area of 10 feet diameter = 78.54 x 15 feet deep = 1,178
+cubic feet, and, allowing 71/2 gallons per cubic foot = 1,178 x 7.5 =
+8,835 gallons.
+
+(26) C. L. W. writes: I have constructed a small induction coil to be
+used for giving shocks. It is 3 inches long. The primary coil is wound
+with 3 layers of No. 18 cotton covered wire, and the secondary consists
+of about 12 layers of No. 38 silk covered. 1. How many cells and what
+kind of battery shall I use to get the best results? A. For temporary
+use one cell of Grenet battery would answer, but for continued use some
+form of sulphate of copper battery is to be preferred. 2. Is it
+necessary that the spring and screw in the interrupter should be coated
+with platinum? A. Yes; otherwise they would soon burn out.
+
+(27) H. C. P. writes: In the Scientific American of September 18, Mr. B.
+Y. D., query 26, asks whether a sun dial, made for latitude 48 deg. 15', can
+be utilized in latitude 38 deg. 50' for showing correct time. To make his
+dial available in the lower latitudes, he has only to lift the south
+side, so as to give the face a slope to the north, equal to the
+difference of the latitude, in this case 9 deg. 25'. For then the plane of
+the gnomon being in the plane of the meridian, the edge of the gnomon
+casting the shadow will be parallel with the earth's axis; and the face
+of the dial will be parallel with the horizon of the latitude for which
+the dial was made, and the graduation will show the time required; that
+is, on the supposition that it was correctly made, and for a horizontal
+dial.
+
+(28) O. M. M. asks for a cheap process of plating steel case knives
+with tin. A. Clean the metal thoroughly by boiling in strong potash
+water, rinsing, pickling in dilute sulphuric acid, and scouring with a
+stiff brush and fine sand. Pass through strong aqueous salammoniac
+solution, then plunge in hot oil (palm or tallow). When thoroughly
+heated remove and dip in a pot of fused tin (grain tin) covered with
+tallow. When tinned, drain in oil pot and rub with a bunch of hemp.
+Clean and polish in hot sawdust.
+
+(29) V. R. P. writes: I have an aquarium which contains 4-2/3 gallons of
+water. How many fish must I have in it--average length of fish 11/2 to 2
+inches to insure the health of the fish? At present, I refill the
+aquarium semi-weekly. Please tell me a process by which I can lengthen
+the time. A. Put in three fish, 11/2 inches in length, to one gallon of
+water, one small bunch of fresh water plants to one gallon of water.
+Tadpoles (after they have cast their branchia or gills), newts, and rock
+fish can be used to the extent of six to the gallon. The aquatic plants
+will supply the fish with sufficient oxygen, so that the water will
+seldom require changing.
+
+(30) A. S. writes: I am about to construct an aqueduct 1,200 feet in
+length, the water level differing 40 feet. By placing a forcing pump in
+the valley I could then raise the water to a height of 40 feet, and
+having erected a tank at that height and connected it by means of pipes
+with another tank 1,200 feet distant, but on the same level, the water
+according to a law of nature would travel over the distance of 1,200
+feet. But finding it very difficult to erect tank 40 feet high, I would
+prefer to construct the whole on the incline. Will the forcing pump
+having just power enough to raise the water 40 feet perpendicularly into
+the tank have sufficient power to force it into a tank of the same
+elevation through 1,200 feet of pipe running on the incline, or must I
+have more power, and how much more? A. The forcing pump must have enough
+more power to overcome its own additional friction and the friction of
+water in the long inclined pipe. Allow 20 per cent more power at least.
+
+       *       *       *       *       *
+
+
+MINERALS, ETC.--Specimens have been received from the following
+correspondents, and examined, with the results stated:
+
+Box marked C. H. (no letter.)--1. and 2. Garnetiferous quartz rock. 3
+and 4. Micaceous quartz rock. 5. Granite. 6. Basalt with traces of
+chalcopyrite.--L. C. G.--They are fossil sharks' teeth, common in marl
+beds.--J. E. C.--1. Iron sulphide and lead sulphide. 2. Quartzite, with
+traces of galena and molybdic sulphide. 3 and 4. Dolomite. 5.
+Fossiliferous argillaceous limestone, containing traces of lead
+sulphide. 6. Lead sulphide in argillite.--C. T. M.--1. A silicious
+kaolin. 2. Similar to No. 1. Useful if mixed with finer clay for white
+ware. 3. Silicions carbonate of lime--some of this would probably make
+fair cement. 4. Brick--the clay from which this was made would probably
+be useful to potters. 5 and 6 are very silicious clays.
+
+       *       *       *       *       *
+
+
+
+
+COMMUNICATIONS RECEIVED.
+
+
+Liniment. By J. L. T.
+
+Seen and Tangible and the Unseen and Intangible. By J.L.T.
+
+On Cheap Railroads. By R. P. N.
+
+On a Meteor. By W. E. C.
+
+       *       *       *       *       *
+
+[OFFICIAL.]
+
+
+
+

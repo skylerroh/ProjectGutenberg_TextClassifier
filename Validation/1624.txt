@@ -1,0 +1,444 @@
+ends of fire clay perforated, the body being filled with fire clay
+spirals of the shape clearly shown in elevation in Fig. 2. The injector
+valve for the creosote is shown to a larger scale in Fig. 3. This valve
+has, however, been since considerably modified and improved. The feed
+and exhaust valves, M, are actuated by cams keyed to a countershaft
+driven by bevel wheels from the main shaft. The creosote pump, F, is
+also worked by a cam on the same shaft, but the pumps, G H J, are worked
+by eccentrics. A stop valve, N, is fixed to the supply pipe, P, under
+which is place a back pressure valve to retain the pressure in the
+combustion chamber. The engine is regulated by an ordinary Porter
+governor actuating the throttle valve, O. An engine, as described, has
+been constructed by Messrs. Adair & Co., engineers, Waterloo Road,
+Liverpool, and has been running most satisfactorily for several weeks,
+the results being clearly shown by the indicator diagrams (Figs. 5 and
+6). The results obtained by this motor are very remarkable, and are a
+long way in advance of any previous performance, as only a little over 1/2
+lb. of fuel is used per i.h.p. per hour. It may be mentioned that the
+temperature of the combustion chamber is calculated to be about
+2,500 deg.F., and that of the exhaust gases does not exceed
+180 deg.F.--_Industries._
+
+[Illustration: Diagram from cylinder--25 in. diam, 18 in. stroke.
+I.H.P., 63. Scale, 1/30 in. Mean pressure, 28.2 lb. FIG. 5.]
+
+[Illustration: Diagram from air pump--15 in. diam., 18 in. stroke.
+I.H.P., 23. Scale, 1/30 in--Mean pressure, 28.5 lb. FIG. 6.
+
+DIAGRAMS FROM CYLINDER AND AIR PUMP.
+
+Net indicated horse power, 40; revolutions per minute, 100; coal tar
+consumed per hour, 20.5 lb.; coal tar per I.H.P. per hour, 0.512 lb.]
+
+       *       *       *       *       *
+
+
+
+
+AN INVESTIGATION INTO THE INTERNAL STRESSES OCCURRING IN CAST IRON
+AND STEEL.
+
+BY GENERAL NICHOLAS KALAKOUTZKY.
+
+
+NO. I.
+
+_Determination of the Influence of Internal Stresses on the Strength of
+Materials._--We call internal stresses those which exist within the mass
+of any hollow cylinder or other body, when it appears to be in a state
+of repose, or not under the influence of external forces. When pressure
+is applied to a hollow cylinder, either externally or internally, the
+interior layers into which its walls may be conceived to be divided are
+subjected to a new series of stresses, the magnitude of which is
+independent of those already existing. These additional stresses combine
+with the former in such a manner that at every point of the thickness of
+the cylinder they have common resultants acting in various directions.
+Thus, if we call t the internal stress existing at a distance r_x
+from the axis of the cylinder, and in a direction tangential to its
+cross section, and T the additional stress due to pressure inside the
+cylinder acting at the same point and in the same direction, then the
+newly developed stress will be t + T.
+
+If R and r0 be the external and internal radii of the cylinder, and
+if we suppose the external pressure _nil_, then, if the pressure inside
+the bore be P0, the stress on the radius r_x is determined by the
+following expression deduced from the well-known fundamental formulae of
+Lame:[1]
+
+           r0 squared      R squared + (r_x) squared
+  T = P0 ------- . -------------
+          R squared-r0 squared      (r_x) squared
+
+From which we see that T is a maximum when r_x = r0, i.e., for
+the layer immediately next to the bore of the cylinder. Calling t0
+the internal stress in this layer, and T0 the stress resulting from
+the action inside the bore of the pressure P0, and allowing that the
+sum of both these quantities must not exceed the elastic limit U of the
+material, we have--T0 = U - t0. And for this value of T0, the
+corresponding pressure inside the bore will be
+
+                R squared - r0 squared
+  P = (U - t0) ----------.
+                R squared + r0 squared
+
+This pressure increases with the term (U - t0). With t0 positive,
+i.e., when the internal stresses in the thickness of the hollow
+cylinder are such that the metal of the layers nearest to the bore is
+in a state of tension and that of the outer layers in a state of
+compression, then the cylinder will have the least strength when t0
+has the greatest numerical value. Such stresses are termed injurious
+or detrimental stresses. With t0 negative, the strength of the
+cylinder increases with the numerical value of t0, and those stresses
+which cause compression in the layers nearest to the bore of the
+cylinder and tension in the outer layers are termed beneficial or
+useful stresses.
+
+   [Footnote 1: Lame holds that in a homogeneous tube subjected to
+   the action of two pressures, external and internal, the
+   difference between the tension and the compression developed at
+   any point of the thickness of the tube is a constant quantity,
+   and that the sum of these two stresses is inversely proportional
+   to the square of the radius of the layer under consideration. Let
+   r0, R, and r_x be the respective radii, p0, p¹, and p_x the
+   corresponding pressures, and T0, T¹, and T_x, the tensions, then
+   we have:
+
+                T0 - p0 = T_x - p_x              (1)
+          (T0 + p0) r0 squared = (T_x + p_x) (r_x) squared     (2)
+              T_x - p_x = T¹ - p¹                (3)
+      (T_x + p_x)(r_x) squared = (T¹ + P¹)R squared            (4)
+
+   if the radii are known and p and p¹ be given, then deducing from
+   the above equations the values T0 and T¹, and also the variable
+   pressure p_x, we determine--
+
+            p0 r0 squared(R squared + (r_x) squared) - p¹ R squared((r_x) squared + r0 squared)
+      T_x = ------------------------------------------
+                        (R squared + r0 squared) (r_x) squared
+
+   This is the formula of Lame, from which, making p¹ = 0, we obtain
+   the expression in the text.]
+
+For these reasons, and in order to increase the power of resistance of a
+cylinder, it is necessary to obtain on the inner layer a state of
+initial compression approaching as nearly as possible to the elastic
+limit of the metal. This proposition is in reality no novelty, since it
+forms the basis of the theory of hooped guns, by means of which the
+useful initial stresses which should be imparted to the metal throughout
+the gun can be calculated, and the extent to which the gun is thereby
+strengthened determined. The stresses which arise in a hollow cylinder
+when it is formed of several layers forced on one upon another, with a
+definite amount of shrinkage, we call the stress of built-up cylinders,
+in order to distinguish them from natural stresses developed in
+homogeneous masses, and which vary in character according to the
+conditions of treatment which the metal has undergone. If we conceive a
+hollow cylinder made up of a great number of very thin layers--for
+instance, of wire wound on with a definite tension--in which case the
+inner layer would represent the bore of the gun, then the distribution
+of the internal stresses and their magnitude would very nearly approach
+the ideally perfect useful stresses which should exist in a homogeneous
+cylinder; but in hollow cylinders built up of two, three, and four
+layers of great thickness, there would be a considerable deviation from
+the conditions which should be aimed at.
+
+The magnitude of the stresses in built-up cylinders is determined by
+calculation, on the presumption that initial stresses do not exist in
+the respective layers of the tube and of the hoops which make up the
+walls of the cylinder. Nevertheless, Rodman, as early as the year 1857,
+first drew attention to the fact that when metal is cast and then
+cooled, under certain conditions, internal stresses are necessarily
+developed; and these considerations led him, in the manufacture of cast
+iron guns, to cool the bore with water and to heat the outside of the
+moulds after casting. Although Rodman's method was adopted everywhere,
+yet up to the present time no experiments of importance have been made
+with the view of investigating the internal stresses which he had drawn
+attention to, and in the transition from cast iron to steel guns the
+question has been persistently shelved, and has only very lately
+attracted serious attention. With the aid of the accepted theory
+relating to the internal stresses in the metal of hooped guns, we can
+form a clear idea of the most advantageous character for them to assume
+both in homogeneous and in built-up hollow cylinders. In proof of this,
+we can adduce the labors of Colonels Pashkevitch and Duchene, the former
+of whom published an account of his investigations in the _Artillery
+Journal_ for 1884--St. Petersburg--and the latter in a work entitled
+"Basis of the Theory of Hooped Guns," from which we borrow some of the
+following information.
+
+The maximum resistance of a tube or hollow cylinder to external stresses
+will be attained when all the layers are expanded simultaneously to the
+elastic limit of the material employed. In that case, observing the same
+notation as that already adopted, we have--
+
+              R - r0
+      P0 = T --------        (1)
+               r0
+
+But since the initial internal stresses before firing, that is previous
+to the action of the pressure inside the bore, should not exceed the
+elastic limit,[2] the value of R will depend upon this condition.
+
+   [Footnote 2: We must, however, remark that in a built-up hollow
+   cylinder the compression of the metal at the surface of the bore
+   may exceed the elastic limit. This cannot occur in the case of
+   natural stresses.]
+
+In a hollow cylinder which in a state of rest is free from initial
+stresses, the fiber of which, under fire, will undergo the maximum
+extension, will be that nearest to the internal surface, and the amount
+of extension of all the remaining layers will decrease with the increase
+of the radius. This extension is thus represented--
+
+                   (r0) squared        (r_x) squared + R squared
+    (t_x)¹ = P0 ------------ . ------------
+                 R squared - (r0) squared       (r_x) squared
+
+Therefore, to obtain the maximum resistance in the cylinder, the value
+t_x of the initial stress will be determined by the difference (T - t'_x),[*need to check the prime with library or work out the equations]
+and since P0 is given by Equation (1), then
+
+             /        r0        (r_x) squared + R squared \
+    t_x = T ( 1 - ---------- . ------------- )     (2)
+             \     R0 + r0         (r_x) squared   /
+
+The greatest value t_x = t0 corresponds to the surface of the bore
+and must be t0 = -T, therefore
+
+       r0 squared + R squared
+    --------------- = 2
+      r0 (R + r0)
+
+whence P0 = T sqrt(2) = 1.41 T.
+
+From the whole of the preceding, it follows that in a homogeneous
+cylinder under fire we can only attain simultaneous expansion of all the
+layers when certain relations between the radii obtain, and on the
+assumption that the maximum pressure admissible in the bore does not
+exceed 1.41 U.
+
+Equation (2) may be written thus--
+
+                 R       r_x - Rr
+     t_x = T -------- . ----------        (3)
+               R + r0     (r_x) squared
+
+Substituting successively r_x = r0 and r_x = R, we obtain
+expressions for the stresses on the external and internal radii--
+
+               R - r0                     R   R - r0
+     t_R  = T --------  and  t_r0  = -T ---- --------
+               R + r0                    r0   R + r0
+
+Therefore, in a homogeneous hollow cylinder, in which the internal
+stresses are theoretically most advantageous, the layer situated next to
+the bore must be in a state of compression, and the amount of
+compression relative to the tension in the external layer is measured by
+the inverse ratio of the radii of these layers. It is further evident
+that the internal stresses will obey a definite but very simple law,
+namely, there will be in the hollow cylinder a layer whose radius is
+sqrt(R r0), in which the stress is _nil_; from this layer the
+stresses increase toward the external and the internal radii of the
+cylinder, where they attain a maximum, being in compression in the
+internal layers and in tension in the external ones.
+
+The internal pressures corresponding to these stresses may be found by
+means of very simple calculations. The expression for this purpose,
+reduced to its most convenient form, is as follows:
+
+                 R      /  R     \   /      r0 \
+      p_x = T -------- (  --- - 1 ) ( 1 - ----- )     (4)
+               R + r0   \ r_x    /   \     r_x /
+
+In order to represent more clearly the distribution of stresses and
+pressures in the metal of a homogeneous ideally perfect hollow cylinder,
+let us take, as an example, the barrel of a 6 in. gun--153 mm. Let us
+suppose T = 3,000 atmospheres; therefore, under the most favorable
+conditions, P0 = 1.41 T, or 4,230 atmospheres. From Equation (1) we
+determine R = 184.36 mm. With these data were calculated the internal
+stresses and the pressures from which the curve represented in Fig. 1 is
+constructed. The stresses developed under fire with a pressure in the
+bore of 4,230 atmospheres are represented by a line parallel to the axis
+of the abscissae, since their value is the same throughout all the layers
+of metal and equal to the elastic limit, 3,000 atmospheres. If, previous
+to firing, the metal of the tube were free from any internal stresses,
+then the resistance of the tube would be
+
+               R squared - r squared_0
+      P0 = U ----------- ,
+               R squared + r squared_0
+
+or 2,115 atmospheres--that is, one-half that in the ideally perfect
+cylinder. From this we perceive the great advantage of developing useful
+initial stresses in the metal and of regulating the conditions of
+manufacture accordingly. Unless due attention be paid to such
+precautions, and injurious stresses be permitted to develop themselves
+in the metal, then the resistance of the cylinder will always be less
+than 2,115 atmospheres; besides which, when the initial stresses exceed
+a certain intensity, the elastic limit will be exceeded, even without
+the action of external pressures, so that the bore of the gun will not
+be in a condition to withstand any pressure because the tensile stress
+due to such pressure, and which acts tangentially to the circumference,
+will increase the stress, already excessive, in the layers of the
+cylinder; and this will occur, notwithstanding the circumstance that the
+metal, according to the indications of test pieces taken from the bore,
+possessed the high elastic limit of 3,000 atmospheres.
+
+[Illustration: Fig. 1]
+
+In order to understand more thoroughly the difference of the law of
+distribution of useful internal stresses as applied to homogeneous or to
+built-up cylinders, let us imagine the latter having the external and
+internal radii of the same length as in the first case, but as being
+composed of two layers--that is to say, made up of a tube with one hoop
+shrunk on under the most favorable conditions--when the internal radius
+of the hoop = sqrt(R v0) or 118.7 mm., Fig. 2, has been traced,
+after calculating, by means of the usual well known formulae, the amount
+of pressure exerted by the hoop on the tube, as well as the stresses and
+pressures inside the tube and the hoop, before and after firing. A
+comparison of these curves with those on Fig. 1 will show the difference
+between the internal stresses in a homogeneous and in a built-up
+cylinder. In the case of the hooped gun, the stresses in the layers
+before firing, both in the tube and in the hoop, diminish in intensity
+from the inside of the bore outward; but this decrease is comparatively
+small. In the first place, the layer in which the stresses are = 0 when
+the gun is in a state of rest does not exist. Secondly, under the
+pressure produced by the discharge, all the layers do not acquire
+simultaneously a strain equal to the elastic limit. Only two of them,
+situated on the internal radii of the tube and hoop, reach such a
+stress; whence it follows that a cylinder so constructed possesses less
+resistance than one which is homogeneous and at the same time endowed
+with ideally perfect useful initial stresses. The work done by the
+forces acting on a homogeneous cylinder is represented by the area _a b
+c d_, and in a built-up cylinder by the two areas _a' b' c' d'_ and _a"
+b" c" d"_. Calculation shows also that the resistance of the built-up
+cylinder is only 3,262 atmospheres, or 72 per cent. of the resistance of
+a homogeneous cylinder. By increasing the number of layers or rows of
+hoops shrunk on, while the total thickness of metal and the caliber of
+the gun remains the same, we also increase the number of layers
+participating equally in the total resistance to the pressure in the
+bore, and taking up strains which are not only equal throughout, but are
+also the greatest possible. We see an endeavor to realize this idea in
+the systems advocated by Longridge, Schultz, and others, either by
+enveloping the inner tubes in numerous coils of wire, or, as in the
+later imitations of this system, by constructing guns with a greater
+number of thin hoops shrunk on in the customary manner. But in wire
+guns, as well as in those with a larger number of hoops--from four to
+six rows and more--the increase in strength anticipated is acknowledged
+to be obtained in spite of a departure from one of the fundamental
+principles of the theory of hooping, since in the majority of guns of
+this type the initial compression of the metal at the surface of the
+bore exceeds its elastic limit.[3] We have these examples of departure
+from first principles, coupled with the assumption that initial stresses
+do not exist in any form in the metal of the inner tube previous to the
+hoops having been shrunk on; but if the tube happen to be under the
+influence of the most advantageous initial stresses, and we proceed
+either to hoop it or to envelope it with wire, according to the
+principles at present in vogue, then, without doubt, we shall injure the
+metal of the tube; its powers of resistance will be diminished instead
+of increased, because the metal at the surface of the bore would be
+compressed to an amount exceeding twice its elastic limit. An example of
+injury inflicted in this way is to be found in the method adopted for
+hooping cast iron tubes cast by Rodman's process. If we take into
+consideration the undoubted fact of the existence to a considerable
+extent of useful initial stresses in these tubes, then the hoops should
+be put on them either with very little shrinkage or none at all, whereas
+ordnance authorities everywhere have applied to this case methods which
+are only correct for tubes which are free from initial stresses.
+
+   [Footnote 3: In certain cases this, of course, may be an
+   advantage, as, for instance, when the inner tube is under
+   injurious initial stresses; but then, in order to be able to
+   apply the necessary shrinkage, we must know the magnitude of
+   these stresses.]
+
+[Illustration: Fig. 2]
+
+During the process of hooping guns it is very important to know how to
+take into account the value and mode of distribution of the prejudicial
+stresses in the inner tube, should such exist. Knowing these stresses,
+it is possible, by regulating the tension of the hoops, to reduce the
+compression of the metal at the surface of the bore to the proper
+extent, thus doing away with the previously existing tension, and by
+that means removing a source of weakness in the tube. In precisely the
+same way in the shrinkage of gun hoops attention must be paid to the
+character and value of the stresses which arise in the course of their
+manufacture; otherwise it will be impossible to hoop the barrel
+throughout in a proper manner. If prejudicial stresses exist in the
+metal of a hoop before it is put in its place, then, when the gun is
+fired, if it had been shrunk on with the degree of tension usually
+allowed, the layer situated in the internal radius will be extended
+beyond admissible limits, thereby causing the resistance of the gun to
+be less than that prescribed.[4]
+
+   [Footnote 4: When the inner tube is strengthened by means of
+   wire, the initial or natural stresses in the latter may be
+   neglected on account of its thinness; but when the thickness of
+   the hoops is reduced, and the number of layers thereby increased,
+   then the value of the initial stresses in these hoops is a very
+   important factor with respect to the decrease or increase Of the
+   powers of resistance of the gun.]
+
+It is evident, from what has been said, that in order to determine
+precisely the resistance of hollow cylinders to internal pressures, and
+to make the correct calculations for hooping tubes, it is absolutely
+necessary to know whether internal initial stresses exist in the tube
+and in the hoops, and to ascertain what their nature and intensity may
+be--that is to say, whether they are useful or detrimental; yet it is
+incontestable that in the construction of modern ordnance no attention
+has been paid to the investigations indicated. If it be possible to
+ignore these considerations in the manufacture of guns of small caliber,
+and where the thickness of metal is not sufficiently great to admit of
+strongly developed internal stresses, such is by no means the case with
+the colossal and costly weapons of the present day. In these the
+thickness of metal in the tube and hoops is very great; hence the
+extreme probability of very considerable internal stresses developing
+themselves. That the strength of large guns is often far below that
+anticipated is demonstrated, year by year, by the repeated cases of
+failure. Consciousness as to the want of strength in such guns is made
+evident by the precautionary measures as to their use everywhere
+adopted. The heavy artillery produced in the gun factories of Europe is
+constructed with all the skill, science, and experience which engineers
+and artillerists can command, and therefore it would seem that instances
+of defective strength should not arise. Such cases, however, do occur
+everywhere, and irresistibly give rise to the suspicion that not only is
+the system of construction of guns of large caliber faulty, but also
+that the conditions of their manufacture must be considered as
+defective. Bearing in mind the enormous sums of money expended by every
+nation in order to secure an armament of completely trustworthy guns,
+this question demands speedy and searching investigation. The first step
+in this direction is the study of the internal stresses inherent in the
+metal; because, if such exist, and are capable of attaining, under
+certain conditions, considerable magnitudes, then it is absolutely
+necessary to take advantage of them in order to increase the resistance
+of the metal, instead of allowing them to act to its detriment.
+
+The study of natural internal stresses is of importance, not only with
+reference to gun making, but also in respect of other structures where
+great resistance is required. All have heard of the sudden failure of
+crank shafts and piston rods, of the bursting of boiler shells and
+tubes, of the breaking of tires, etc. In the majority of cases the
+investigations into the causes of such sudden failures have not led to
+any definite results. It has usually been found that the metal possessed
+a satisfactory elastic resistance, and satisfied all the conditions set
+down in the specifications. Had attention been paid during these
+investigations to the state of the internal stresses in the metal, the
+cause of unlooked-for accidents might have been explained, and steps
+would consequently have been taken to avoid them in future.
+
+We are also familiar with the development of considerable internal
+stresses in various kinds of steel articles which are subjected to
+hardening and tempering; for example, as dies, tools of various
+description, sword blades, and thin plates rolled at a low temperature
+or subjected to cold hammering. In the foundry the appearance of
+internal stresses is of still more frequent occurrence. The neglect of
+certain practical rules in casting, and during the subsequent cooling,
+leads to the spontaneous breakage of castings after a few hours or days,
+although taken out of the sand apparently perfectly sound. Projectiles
+for penetrating armor plate, and made of cast steel, as well as shells
+which have been forged and hardened, and in which the metal possessed an
+ultimate resistance of over twelve thousand (12,000) atmospheres, with
+an elastic limit of more than six or seven thousand atmospheres, will
+crack to a serious extent, and even break up in the lathe, while the
+recess for the copper ring is being turned out. In shell of this nature,
+as well as in chilled cast iron shell, the heads are apt to fly off
+spontaneously either while they are lying in store or during transport.
+Such phenomena, it seems to me, demonstrate the existence of internal

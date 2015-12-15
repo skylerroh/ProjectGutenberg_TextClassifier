@@ -1,0 +1,538 @@
+***The Project Gutenberg Etext of The Hymns of Martin Luther***
+and
+Project Gutenberg Etext of The Small Catechism of Martin Luther
+Released February 18, 1996
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+The Hymns of Martin Luther
+
+Februry, 1996  [Etext #417]
+
+
+***The Project Gutenberg Etext of The Hymns of Martin Luther***
+and
+Project Gutenberg Etext of The Small Catechism of Martin Luther
+*****This file should be named 417.txt or 417.zip******
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, for time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+fifty hours is one conservative estimate for how long it we take
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-two text
+files per month:  or 400 more Etexts in 1996 for a total of 800.
+If these reach just 10% of the computerized population, then the
+total should reach 80 billion Etexts.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only 10% of the present number of computer users.  2001
+should have at least twice as many computer users as that, so it
+will require us reaching less than 5% of the users in 2001.
+
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/IBC", and are
+tax deductible to the extent allowable by law ("IBC" is Illinois
+Benedictine College).  (Subscriptions to our paper newsletter go
+to IBC, too)
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+
+We would prefer to send you this information by email
+(Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
+
+******
+If you have an FTP program (or emulator), please
+FTP directly to the Project Gutenberg archives:
+[Mac users, do NOT point and click. . .type]
+
+ftp uiarchive.cso.uiuc.edu
+login:  anonymous
+password:  your@login
+cd etext/etext90 through /etext96
+or cd etext/articles [get suggest gut for more information]
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET INDEX?00.GUT
+for a list of books
+and
+GET NEW GUT for general information
+and
+MGET GUT* for newsletters.
+
+**Information prepared by the Project Gutenberg legal advisor**
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Illinois Benedictine College (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association / Illinois
+     Benedictine College" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Illinois Benedictine College".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+Dr. Martin Luther's Deutsche Geistliche Lieder
+
+The Hymns of Martin Luther
+
+Set To Their Original Melodies
+
+
+With an English Version
+Edited by Leonard Woolsey Bacon
+Assisted by Nathan H. Allen
+
+
+
+
+
+
+CONTENTS
+
+Introduction
+
+Dr. Martin Luther's Preface to all good Hymn Books, 1543
+
+
+        FROM THE "EIGHT SONGS," Wittenberg, 1524.
+
+I. - Nun freut euch, lieben Christen g'mein. (1523)
+
+       "A Song of Thanksgiving for the great Benefits which God in
+Christ has mainifested to us."
+
+       _DEAR CHRISTIANS, ONE AND ALL REJOICE._
+
+       TRANSLATION in part from R. Massie.
+
+FIRST MELODY, 1524. Harmony by H. Schein, 1627.
+
+SECOND MELODY from Klug's Gesangbuch, 1543.  Harmony
+by M. Praetorius, 1610. This choral is commonly known under
+the title, "Es ist gewisslich an der Zeit," and, in a modified form,
+in England and America, as "Luther's Judgment Hymn," from its
+association with a hymn of W. B. Collyer, partly derived from the
+German, and _not_ written by Luther.
+
+
+II. - Ach Gott, vom Himmel sieh' darein.
+
+PSALM XII - Salvum me fac, Domine.
+
+_LOOK DOWN, O LORD, FROM HEAVEN BEHOLD._
+
+TRANSLATION chiefly from Frances Elizabeth Cox, in
+"Hymns from the German."
+FIRST MELODY, 1524, is the tune of the hymn of Paul Speratus,
+"Es ist das Heil uns kommen her," the singing of which under
+Luther's window at Wittenberg is related to have made so deep an
+impression on the Reformer. The anecdote is confirmed by the fact
+that in the "Eight Songs," Luther's three version of Psalms are all
+set to this tune.. Harmony by A. Haupt, 1869.
+
+SECOND MELODY from Klug's Gesangbuch, 1543. Harmony by
+Haupt, 1869. This is the tune in common use with this psalm in
+northern Germany.
+
+
+III. - Es spricht der Unweisen Mund wohl.
+
+PSALM XIV.-"Dixit insipiens in corde."
+
+_THE MOUTH OF FOOLS DOTH GOD CONFESS._
+
+TRANSLATION from R. Massie.
+
+MELODY from Walter's Gesangbuch, 1525. Harmony by
+M. Praetorius, 1610.
+
+
+IV. - Aus tiefer Noth schrei' ich zu dir.
+
+PSALM CXXX. - "De profundis clamavi."
+
+_OUT OF THE DEEP I CRY TO THEE._
+
+TRANSLATION by Arthur Tozer Russel.
+
+FIRST MELODY from Walter's Gesangbuch, 1525. Harmony by
+John Sebastian Bach, about 1725.
+
+SECOND MELODY in Wolfgang Koephl's Gesangbuch, 1537,
+and in George Rhau's, 1544. Harmony by A. Haupt, 1869.
+
+
+        FROM THE "ENCHIRIDION," Erfurt, 1524.
+
+
+V. - Ein neues Lied wir heben an.
+
+"A Song of the Two Christian Martyrs, burnt at Brussels by the
+Sophists of Louvain. Which took place in the year 1522." [The
+real date of the event was July 1, 1523; and the ballard gives every
+token of having been inspired by the first announcement of the
+story. The excellent translation of Mr. Massie has been conformed
+more closely to the original in the third and fourth stanzas; also, by
+a felicitous quatrain from the late Dr. C. T. Brooks, in the tenth
+stanza.]
+
+_BY HELP OF GOD I FAIN WOULD TELL._
+
+TRANSLATION principally that of R. Massie.
+
+MELODY in Walter's Gesangbuch, 1525. Harmony by
+M. Praetorius, 1610.
+
+
+VI. - Nun komm, der Heiden Heiland.
+
+From the Ambrosian Hymn, "Veni, Redemptor, gentium.)
+
+_SAVIOUR OF THE HEATHEN, KNOWN._
+
+TRANSLATION in part from R. Massie.
+
+MELODY derived from that of the Latin hymn, in Walter's
+Gesangbuch, 1525. Harmony from "The Choral Book for England,"
+by Sterndale Bennett and Otto Goldschmidt, 1865.
+
+
+VII. - Christum wir sollen loben schon.
+
+(From the Latin hymn, "A solis ortus cardine.")
+
+_NOW PRAISE WE CHRIST, THE HOLY ONE._
+
+TRANSLATION by R. Massie.
+
+MELODY that of the Latin hymn. Harmony by M. Praetorius, 1609.
+
+
+VIII. - Gelobet sei'st du, Jesu Christ.
+
+_ALL PRAISE TO JESUS' HALLOWED NAME._
+
+TRANSLATION chiefly by R. Massie.
+
+ANCIENT GERMAN CHURCH MELODY. Harmony by
+A. Haupt, 1869.
+
+
+IX. - Christ lag in Todesbanden.
+
+"Christ ist erstanden."-Gebessert.
+
+_CHRIST WAS LAID IN DEATH'S STRONG BANDS._
+
+MELODY derived from that of the older German hymn. Harmony by
+Bennett and Goldschmitt, 1865.
+
+
+X. - Komm, Gott Schoepfer, heiliger Geist.
+
+From  _Veni, Creator Spiritus,_ ascribed to Charlemagne, 800.
+
+_COME, GOD CREATOR, HOLY GHOST._
+
+MELODY of the eighth century. Harmony by John Sebastian Bach.
+
+
+XI. - Jesus Christus unser Heiland.
+
+_JESUS CHRIST, WHO CAME TO SAVE._
+
+MELODY first published by Klug, 1543, and Bapst, 1545. Harmony
+after John Sebastian Bach.
+
+
+XII. - Komm, heiliger Geist, Herre Gott.
+
+_"Veni, Sancte Spiritus,_ gebessert durch D. Martin Luther."
+The first stanza translated from the Latin hymn ascribed to King
+Robert of France (A. D. 991), is traced to a service-book of the
+church in Basel, of the year 1514.
+
+_COME, HOLY SPIRIT, LORD OUR GOD._
+
+TRANSLATION chiefly that of Arthur Tozer Russell.
+
+ORIGINAL LATIN MELODY. Harmony after Erythraeus, 1609.
+
+
+XIII. - Diess sind die heil'gen zehn Gebot'.
+
+The Ten Commandments.
+
+_THAT MEN A GODLY LIFE MIGHT LIVE._
+
+TRANSLATION chiefly by R. Massie.
+
+
+XIV. - Jesus Christus unser Heiland.
+
+Translated from "Jesus Christus, nostra salus," hymn of
+John Huss.
+
+_CHRIST, WHO FREED OUR SOULS FROM DANGER._
+
+TRANSLATION by R. Massie.
+
+MELODY in Walter, 1525. Harmony in Von Tucher, 1848.
+
+
+XV. - Gott sei gelobet und gebenedeiet.
+
+_MAY GOD BE PRAISED HENCEFORTH AND BLEST
+FOREVER._
+
+TRANSLATION by R. Massie, amended.
+
+MELODY from some older one, 1525. Harmony by H. Schein, 1627.
+
+
+XVI. - Es wollt' uns Gott genaedig sein.
+
+Psalm LXVII. - Deus miseratur nostri.
+
+_MAY GOD UNTO US GRACIOUS BE._
+
+TRANSLATION by Arthur Tozer Russell.
+
+MELODY in Koephl, Strassburg, 1538. Harmony, by A. Haupt, 1869.
+
+
+XVII. - Wohl dem, der in Gottesfurcht steht.
+
+Psalm CXXVIII.- Beati omnes qui timent Dominum.
+
+ _HAPPY THE MAN WHO FEARETH GOD._
+
+TRANSLATION by R. Massie.
+
+FIRST MELODY, of 1525. Harmony by Gesius, 1605.
+
+SECOND MELODY, of 1537. Harmony by Landgraf Moritz, 1612.
+
+
+XVIII. - Mitten wir im Leben sind.
+
+The first stanza from _Media vita in morte sumus._ Notker, A.D. 912.
+
+       _THOUGH IN MIDST OF LIFE WE BE._
+
+TRANSLATION by R. Massie.
+
+Melody (_not_ from the Latin), 1525. Harmony by Erythraeus, 1608.
+
+
+XIX. - Nun bitten wir den heiligen Geist.
+
+The first stanza from an ancient German hymn.
+
+_NOW PRAY WE ALL GOD, THE COMFORTER._
+
+TRANSLATION by Arthur Tozer Russell.
+
+Melody, 1525. Harmony by A. Haupt, 1869.
+
+
+XX. - Mit Fried' und Freud' ich fahr' dahin.
+
+The Song Of Simeon: Nunc Dimittis.
+
+_IN PEACE AND JOY I NOW DEPART._
+
+MELODY, 1525. Harmony by M. Praetorius, 1610.
+
+
+XXI. - Mensch, willt du leben seliglich.
+The Ten Commandments, abridged.
+
+_WILT THOU, O MAN, LIVE HAPPILY._
+
+TRANSLATION by R. Massie, adapted.
+
+Melody, 1525. Harmony by H. Schein, 1627.
+
+

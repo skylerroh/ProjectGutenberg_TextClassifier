@@ -1,0 +1,445 @@
+The Project Gutenberg EBook of Scientific American Supplement, No. 384,
+May 12, 1883, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Scientific American Supplement, No. 384, May 12, 1883
+
+Author: Various
+
+Posting Date: October 10, 2012 [EBook #8862]
+Release Date: September, 2005
+First Posted: August 15, 2003
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SCIENTIFIC AMERICAN SUPPL., NO. 384 ***
+
+
+
+
+Produced by Don Kretz, Juliet Sutherland, Charles Franks
+and the Distributed Proofreaders Team
+
+
+
+
+
+
+
+
+
+
+[Illustration]
+
+
+
+
+SCIENTIFIC AMERICAN SUPPLEMENT NO. 384
+
+
+
+
+NEW YORK, MAY 12, 1883
+
+Scientific American Supplement. Vol. XV., No. 384.
+
+Scientific American established 1845
+
+Scientific American Supplement, $5 a year.
+
+Scientific American and Supplement, $7 a year.
+
+
+       *       *       *       *       *
+
+TABLE OF CONTENTS.
+
+I.   ENGINEERING.--Locomotive for St. Gothard Railway.--Several
+     figures.
+
+     The Mersey Railway Tunnel.
+
+     Dam Across the Ottawa River, and New Canal at Carillon,
+     Quebec. Several figures and map.
+
+II.  ARCHITECTURE.--Dwelling Houses.--Hints on building. By
+     WILLIAM HENNAN.--Considerations necessary in order to have-
+     thoroughly sweet homes.--Experiment illustrating the necessity
+     of damp courses.--How to make dry walls and roofs.--Methods of
+     heating.--Artificial lighting.--Refuse.--Cesspools.--Drainage
+
+     House at Heaton.--Illustration.
+
+     A Mansard Roof Dwelling. 2 figures.
+
+III. ELECTRICITY.--The History of the Electric Telegraph.--Documents
+     relating to the magnetic telegraph.--Apparatus of Comus
+     and Alexandre.--Origin of the electric telegraph.--Apparatus of
+     Lesage, Lemond, Reveroni, Saint Cyr, and others.--Several figures.
+
+     Electrical Transmission and Storage.--By DR. C. WM. SIEMENS.
+
+III. MEDICINE AND HYGIENE.--Malaria. By Dr. JAMES SALISBURY.--VII.
+     Report on the cause of ague.--Studies of ague plants
+     in their natural and unnatural habitats.--List of objects found in
+     the Croton water.--Synopsis of the families of ague plants.--
+     Several figures.
+
+     Ichthyol.
+
+     Autopsy Table. 1 figure.
+
+     The Exciting Properties of Oats.
+
+     Filaria Disease.
+
+IV.  CHEMISTRY.--Preparation of Hydrogen Sulphide from Coal Gas.
+     By J. TAYLOR. 1 figure.
+
+     Setting of Gypsum.
+
+V.   TECHNOLOGY.--On the Preparation of Gelatine Plates. By E.
+     HOWARD FARMER.
+
+     Pictures on Glass.
+
+VI.  NATURAL HISTORY.--Survey of the Black Canon.
+
+     The Ancient Mississippi and its Tributaries. By J. W. SPENCER.
+
+VII. AGRICULTURE.--The Spectral Masdevallia.--Illustration.
+
+       *       *       *       *       *
+
+
+
+
+LOCOMOTIVE FOR ST. GOTHARD RAILWAY.
+
+
+We give engravings of one of a type of eight-coupled locomotives
+constructed for service on the St. Gothard Railway by Herr T.A. Maffei,
+of Munich. As will be seen from our illustrations, the engine has
+outside cylinders, these being 20.48 in. in diameter, with 24 in.
+stroke, and as the diameter of the coupled wheels is 3 ft. 10 in.,
+the tractive force which the engine is capable of exerting amounts to
+(20.48 squared x 24) / 46 = 218.4 lb. for each pound of effective pressure per
+square inch on the pistons. This is an enormous tractive force, as it
+would require but a mean effective pressure of 1021/2 lb. per square inch
+on the pistons to exert a pull of 10 tons. Inasmuch, however, as the
+engine weighs 44 tons empty and 51 tons in working order, and as all
+this weight is available for adhesion, this great cylinder power can be
+utilized. The cylinders are 6 ft. 10 in. apart from center to center,
+and they are well secured to the frames, as shown in Fig. 4. The frames
+are deep and heavy, being 1 3/8 in. thick, and they are stayed by a
+substantial box framing at the smokebox end, by a cast-iron footplate at
+the rear end, and by the intermediate plate stays shown. The axle box
+guides are all fitted with adjusting wedges. The axle bearings are all
+alike, all being 7.87 in. in diameter by 9.45 in. long. The axles are
+spaced at equal distances of 4 ft. 3.1 in. apart, the total wheel base
+being thus 12 ft. 9.3 in. In the case of the 1st, 2d, and 3d axles, the
+springs are arranged above the axle boxes in the ordinary way, those of
+the 2d and 3d axles being coupled by compensating beams. In the case of
+the trailing axle, however, a special arrangement is adopted. Thus, as
+will be seen on reference to the longitudinal section and plan (Figs. 1
+and 2, first page), each trailing axle box receives its load through the
+horizontal arm of a strong bell-crank lever, the vertical arm of which
+extends downward and has its lower end coupled to the adjoining end of a
+strong transverse spring which is pivoted to a pair of transverse stays
+extending from frame to frame below the ash pan. This arrangement
+enables the spring for the trailing axle to be kept clear of the
+firebox, thus allowing the latter to extend the full width between the
+frames. The trailing wheels are fitted with a brake as shown.
+
+[Illustration: LOCOMOTIVES FOR ST. GOTHARD RAILWAY.]
+
+The valve motion is of the Gooch or stationary link type, the radius
+rods being cranked to clear the leading axle, while the eccentric rods
+are bent to clear the second axle. The piston rods are extended through
+the front cylinder covers and are enlarged where they enter the
+crossheads, the glands at the rear ends of cylinders being made in
+halves. The arrangement of the motion generally will be clearly
+understood on reference to Figs. 1 and 2 without further explanation.
+
+The boiler, which is constructed for a working pressure of 147 lb. per
+square inch, is unusually large, the barrel being 60.4 in. in diameter
+inside the outside rings; it is composed of plates 0.65 in. thick. The
+firebox spreads considerably in width toward the top, as shown in the
+section, Fig. 5, and to enable it to be got in the back plate of the
+firebox casing is flanged outward, instead of inward as usual, so as to
+enable it to be riveted up after the firebox is in place. The inside
+firebox is of copper and its crown is stayed directly to the crown
+of the casing by vertical stays, as shown, strong transverse stays
+extending across the boiler just above the firebox crown to resist the
+spreading action caused by the arrangement of the crown stays. The
+firegrate is 6 ft. 11.6 in. long by 3 ft. 4 in. wide.
+
+[Illustration: ST. GOTHARD LOCOMOTIVES.]
+
+The barrel contains 225 tubes 1.97 in. in diameter outside and 13 ft. 91/2
+in. long between tube plates. On the top of the barrel is a large dome
+containing the regulator, as shown in Fig. 1, from which view the
+arrangement of the gusset stays for the back plate of firebox casing and
+for the smokebox tube plate will be seen. A grid is placed across the
+smokebox just above the tubes, and provision is made, as shown in Figs.
+1 and 4, for closing the top of the exhaust nozzle, and opening a
+communication between the exhaust pipes and the external air when the
+engine is run reversed. The chimney is 153/4 in. in diameter at its lower
+end and 18.9 in. at the top. The chief proportions of the boiler are as
+follows:
+
+                           Sq. ft
+
+  Heating surface: Tubes   1598.5
+                   Firebox  102.5
+                           ------
+                           1701.0
+
+  Firegrate area                                              23.3 [1]
+  Sectional area through tubes (disregarding ferrules)         3.5
+  Least sectional area of chimney.                             1.35
+  Ratio of firegrate area to heating surface.                  1:73
+  Ratio of flue area through tubes to firegrate area.          1:6.7
+  Ratio of least sectional area of chimney to firegrate area.  1:17.26
+
+[Transcribers note 1: Best guess, 2nd digit illegible]
+
+The proportion of chimney area to grate is much smaller than in ordinary
+locomotives, this proportion having no doubt been fixed upon to enable a
+strong draught to be obtained with the engine running at a slow speed.
+Of the general fittings of the engine we need give no description, as
+their arrangement will be readily understood from our engravings, and
+in conclusion we need only say that the locomotive under notice is
+altogether a very interesting example of an engine designed for
+specially heavy work.--_Engineering_.
+
+       *       *       *       *       *
+
+
+
+
+THE MERSEY RAILWAY TUNNEL.
+
+
+The work of connecting Liverpool with Birkenhead by means of a railway
+tunnel is now an almost certain success. It is probable that the entire
+cost of the tunnel works will amount to about half a million sterling.
+The first step was taken about three years ago, when shafts were sunk
+simultaneously on both sides of the Mersey. The engineers intrusted
+with the plans were Messrs. Brunlees & Fox, and they have now as their
+resident representative Mr. A.H. Irvine, C.E. The contractor for the
+entire work is Mr. John Waddell, and his lieutenant in charge at both
+sides of the river is Mr. James Prentice. The post of mechanical
+engineer at the works is filled by Mr. George Ginty. Under these chiefs,
+a small army of nearly 700 workmen are now employed night and day at
+both sides of the river in carrying out the tunnel to completion. On
+the Birkenhead side, the landward excavations have reached a point
+immediately under Hamilton Square, where Mr. John Laird's statue is
+placed, and here there will be an underground station, the last before
+crossing the river, the length of which will be about 400 feet, with up
+and down platforms. Riverward on the Cheshire side, the excavators have
+tunneled to a point considerably beyond the line of the Woodside Stage;
+while the Lancashire portion of the subterranean work now extends to
+St. George's Church, at the top of Lord street, on the one side, and
+Merseyward to upward of 90 feet beyond the quay wall, and nearly to the
+deepest part of the river.
+
+When completed, the total length of the tunnel will be three miles one
+furlong, the distance from wall to wall at each side of the Mersey being
+about three-quarters of a mile. The underground terminus will be about
+Church street and Waterloo place, in the immediate neighborhood of the
+Central Station, and the tunnel will proceed from thence, in an almost
+direct line, under Lord street and James street; while on the south side
+of the river it will be constructed from a junction at Union street
+between the London and Northwestern and Great Western Railways, under
+Chamberlain street, Green lane, the Gas Works, Borough road, across the
+Haymarket and Hamilton street, and Hamilton square.
+
+Drainage headings, not of the same size of bore as the part of the
+railway tunnel which will be in actual use, but indispensable as a means
+of enabling the railway to be worked, will act as reservoirs into which
+the water from the main tunnel will be drained and run off to both sides
+of the Mersey, where gigantic pumps of great power and draught will
+bring the accumulating water to the surface of the earth, from whence
+it will be run off into the river. The excavations of these drainage
+headings at the present time extend about one hundred yards beyond the
+main tunnel works at each side of the river. The drainage shafts are
+sunk to a depth of 180 feet, and are below the lowest point of the
+tunnel, which is drained into them. Each drainage shaft is supplied
+with two pumping sets, consisting of four pumps, viz., two of 20 in.
+diameter, and two of 30 in. diameter. These pumps are capable of
+discharging from the Liverpool shafts 6,100 gallons per minute, and from
+the Birkenhead 5,040 gallons per minute; and as these pumps will be
+required for the permanent draining of the tunnel, they are constructed
+in the most solid and substantial manner. They are worked by compound
+engines made by Hathorn, Davey & Co., of Leeds, and are supplied
+with six steel boilers by Daniel Adamson & Co., of Dukinfield, near
+Manchester.
+
+In addition to the above, there is in course of construction still
+more powerful pumps of 40 in. diameter, which will provide against
+contingencies, and prevent delay in case of a breakdown such as occurred
+lately on the Liverpool side of the works. The nature of the rock is
+the new red sandstone, of a solid and compact character, favorable for
+tunneling, and yielding only a moderate quantity of water. The engineers
+have been enabled to arrange the levels to give a minimum thickness of
+25 ft. and an average thickness of 30 ft. above the crown of the tunnel.
+
+Barges are now employed in the river for the purpose of ascertaining the
+depth of the water, and the nature of the bottom of the river. It is
+satisfactory to find that the rock on the Liverpool side, as the heading
+is advanced under the river, contains less and less water, and this the
+engineers are inclined to attribute to the thick bed of stiff bowlder
+clay which overlies the rock on this side, which acts as a kind of
+"overcoat" to the "under garments." The depth of the water in one part
+of the river is found to be about 72 ft.; in the middle about 90 ft.;
+and as there is an intermediate depth of rock of about 27 ft., the
+distance is upward of 100 ft. from the surface of low water to the top
+of the tunnel.
+
+It is expected that the work will shortly be pushed forward at a much
+greater speed than has hitherto been the case, for in place of the
+miner's pick and shovel, which advanced at the rate of about ten yards
+per week, a machine known as the Beaumont boring machine will be brought
+into requisition in the course of a day or two, and it is expected to
+carry on the work at the rate of fifty yards per week, so that this year
+it may be possible to walk through the drainage heading from Liverpool
+to Birkenhead. The main tunnel works now in progress will probably be
+completed and trains running in the course of 18 months or two years.
+
+The workmen are taken down the shaft by which the debris is hoisted, ten
+feet in diameter, and when the visitor arrives at the bottom he finds
+himself in quite a bright light, thanks to the Hammond electric light,
+worked by the Brush machine, which is now in use in the tunnel on both
+sides of the river. The depth of the pumping shaft is 170 feet, and the
+shaft communicates directly with the drainage heading. This circular
+heading now has been advanced about 737 yards. The heading is 7 feet in
+diameter, and the amount of it under the river is upward of 200 yards on
+each side. The main tunnel, which is 26 feet wide and 21 feet high, has
+also made considerable progress at both the Liverpool and Birkenhead
+ends. From the Liverpool side the tunnel now extends over 430 yards, and
+from the opposite shore about 590 yards. This includes the underground
+stations, each of which is 400 feet long, 51 feet wide, and 32 feet
+high. Although the main tunnel has not made quite the same progress
+between the shafts as the drainage heading, it is only about 100 yards
+behind it. When completed, the tunnel will be about a mile in length
+from shaft to shaft. In the course of the excavations which have been so
+far carried out, about 70 cubic yards of rock have been turned out for
+every yard forward.
+
+Ten horses are employed on the Birkenhead side for drawing wagons loaded
+with debris to the shaft, which, on being hoisted, is tipped into the
+carts and taken for deposit to various places, some of which are about
+three miles distant. The tunnel is lined throughout with very solid
+brickwork, some of which is, 18 inches thick (composed of two layers
+of blue and two of red brick), and toward the river this brickwork is
+increased to a thickness of six rings of bricks--three blue and three
+red. A layer of Portland cement of considerable thickness also gives
+increased stability to the brick lining and other portions of the
+tunnel, and the whole of the flooring will be bricked. There are about
+22 yards of brickwork in every yard forward. The work of excavation up
+to the present time has been done by blasting (tonite being employed for
+this purpose), and by the use of the pick and shovel. At every 45 ft.
+on alternate sides niches of 18 in. depth are placed for the safety of
+platelayers. The form of the tunnel is semicircular, the arch having a
+13 ft. radius, the side walls a 25 ft. radius, and the base a 40 ft.
+radius.
+
+Fortunately not a single life has up to the present time been lost in
+carrying out the exceedingly elaborate and gigantic work, and this
+immunity from accident is largely owing to the care and skill which are
+manifested by the heads of the various departments. The Mersey Tunnel
+scheme may now be looked upon as an accomplished work, and there is
+little doubt its value as a commercial medium will be speedily and fully
+appreciated upon completion.
+
+       *       *       *       *       *
+
+
+
+
+DAM ACROSS THE OTTAWA RIVER AND NEW CANAL AT CARILLON QUE
+
+By ANDREW BELL Resident Engineer
+
+
+The natural navigation of the Ottawa River from the head of the Island
+of Montreal to Ottawa City--a distance of nearly a hundred miles--is
+interrupted between the villages of Carillon and Grenville which are
+thirteen miles apart by three rapids, known as the Carillon, Chute a
+Blondeau, and Longue Sault Rapids, which are in that order from east to
+west. The Carillon Rapid is two miles long and has, or had, a fall of 10
+feet the Chute a Blondeau a quarter of a mile with a fall of 4 feet and
+the Longue Sault six miles and a fall of 46 feet. Between the Carillon
+and Chute a Blondeau there is or was a slack water reach of three and a
+half miles, and between the latter and the foot of the Longue Sault a
+similar reach of one and a quarter miles.
+
+Small canals limited in capacity to the smaller locks on them which were
+only 109 feet long 19 feet wide, and 5 to 6 feet of water on the sills,
+were built by the Imperial Government as a military work around each of
+the rapids. They were begun in 1819 and completed about 1832. They were
+transferred to the Canadian Government in 1856. They are built on the
+north shore of the river, and each canal is about the length of the
+rapid it surmounts.
+
+[Illustration: THE GREAT DAM ACROSS THE OTTAWA RIVER, AT CARILLON.]
+
+The Grenville Canal (around the Longue Sault) with seven locks, and the
+Chute a Blondeau with one lock, are fed directly from Ottawa. But with
+the Carillon that method was not followed as the nature of the banks
+there would have in doing so, entailed an immense amount of rock
+excavation--a serious matter in those days. The difficulty was overcome
+by locking up at the upper or western end 13 feet and down 23 at lower
+end, supplying the summit by a 'feeder from a small stream called the
+North River, which empties into the Ottawa three or four miles below
+Carillon, but is close to the main river opposite the canal.
+
+In 1870-71 the Government of Canada determined to enlarge these canals
+to admit of the passage of boats requiring locks 200 feet long, 45 feet
+wide, and not less than 9 feet of water on the sills at the lowest
+water. In the case of the Grenville Canal this was and is being done by
+widening and deepening the old channel and building new locks along
+side of the old ones. But to do that with the Carillon was found to be
+inexpedient. The rapidly increasing traffic required more water than the
+North River could supply in any case, and the clearing up of the country
+to the north had materially reduced its waters in summer and fall, when
+most needed. To deepen the old canal so as to enable it to take its
+supply from the Ottawa would have caused the excavation of at least
+1,250,000 cubic yards of rock, besides necessitating the enlargement of
+the Chute a Blondeau also.
+
+It was therefore decided to adopt a modification of the plan proposed
+by Mr. T.C. Clarke, of the present firm of Clarke Reeves & Co, several
+years before when he made the preliminary surveys for the then proposed
+"Ottawa Ship Canal," namely to build a dam across the river in the
+Carillon Rapid but of a sufficient height to drown out the Chute a
+Blondeau, and also to give the required depth of water there.
+
+During the summer and fall of 1872 the writer made the necessary surveys
+of the river with that end in view. By gauging the river carefully in
+high and low water, and making use of the records which had been kept by
+the lock masters for twenty years back, it was found that the flow of
+the river was in extreme low water 26,000 cubic feet per second, and
+in highest water 190,000 cubic feet per second, in average years about
+30,000 and 150,000 cubic feet respectively. The average flow in each
+year would be nearly a mean between those quantities, namely, about
+90,000 cubic feet per second. It was decided to locate the dam where it
+is now built, namely, about the center of Carillon Rapid, and a mile
+above the village of that name and to make it of a height sufficient to
+raise the reach between the head of Carillon and Chute a Blondeau about
+six feet, and that above the latter two feet in ordinary water. At the
+site chosen the river is 1,800 feet wide, the bed is solid limestone,
+and more level or flat than is generally found in such places--the banks
+high enough and also composed of limestone. It was also determined to
+build a slide for the passage of timber near the south shore (see map),
+and to locate the new canal on the north side.
+
+Contracts for the whole works were given out in the spring of 1873, but

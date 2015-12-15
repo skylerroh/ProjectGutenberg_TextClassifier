@@ -1,0 +1,400 @@
+The Project Gutenberg EBook of The Electra of Euripides, by Euripides
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: The Electra of Euripides
+
+Author: Euripides
+
+Release Date: December 10, 2004 [EBook #14322]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE ELECTRA OF EURIPIDES ***
+
+
+
+
+Produced by Paul Murray, Charles Bidwell and the PG Online Distributed
+Proofreading Team.
+
+
+
+
+
+
+THE
+
+ELECTRA
+
+OF
+
+EURIPIDES
+
+
+TRANSLATED INTO ENGLISH RHYMING VERSE
+WITH EXPLANATORY NOTES BY
+
+GILBERT MURRAY, LL.D., D.LITT.
+
+REGIUS PROFESSOR OF GREEK IN THE UNIVERSITY OF OXFORD
+
+
+FORTY-SECOND THOUSAND
+
+
+LONDON: GEORGE ALLEN & UNWIN LTD
+RUSKIN HOUSE, 40 MUSEUM STREET, W.C.1
+
+
+_First Edition, November_ 1905
+_Reprinted, November_ 1906
+    "      _February_ 1908
+    "      _March_ 1910
+    "      _December_ 1910
+    "      _February_ 1913
+    "      _April_ 1914
+    "      _June_ 1916
+    "      _November_ 1919
+    "      _April_ 1921
+    "      _January_ 1923
+    "      _May_ 1925
+    "      _August_ 1927
+    "      _January_ 1929
+
+_(All rights reserved)_
+
+
+PERFORMED AT
+THE COURT THEATRE, LONDON
+IN 1907
+
+_Printed in Great Britain by
+Unwin Brothers Ltd., Woking_
+
+
+
+
+Introduction[1]
+
+
+The _Electra_ of Euripides has the distinction of being, perhaps, the best
+abused, and, one might add, not the best understood, of ancient tragedies.
+"A singular monument of poetical, or rather unpoetical perversity;" "the
+very worst of all his pieces;" are, for instance, the phrases applied to
+it by Schlegel. Considering that he judged it by the standards of
+conventional classicism, he could scarcely have arrived at any different
+conclusion. For it is essentially, and perhaps consciously, a protest
+against those standards. So, indeed, is the tragedy of _The Trojan Women_;
+but on very different lines. The _Electra_ has none of the imaginative
+splendour, the vastness, the intense poetry, of that wonderful work. It is
+a close-knit, powerful, well-constructed play, as realistic as the tragic
+conventions will allow, intellectual and rebellious. Its _psychology_
+reminds one of Browning, or even of Ibsen.
+
+To a fifth-century Greek all history came in the form of legend; and no
+less than three extant tragedies, Aeschylus' _Libation-Bearers_ (456
+B.C.), Euripides' _Electra_ (413 B.C.), and Sophocles' _Electra_ (date
+unknown: but perhaps the latest of the three) are based on the particular
+piece of legend or history now before us. It narrates how the son and
+daughter of the murdered king, Agamemnon, slew, in due course of revenge,
+and by Apollo's express command, their guilty mother and her paramour.
+
+Homer had long since told the story, as he tells so many, simply and
+grandly, without moral questioning and without intensity. The atmosphere
+is heroic. It is all a blood-feud between chieftains, in which Orestes,
+after seven years, succeeds in slaying his foe Aegisthus, who had killed
+his father. He probably killed his mother also; but we are not directly
+told so. His sister may have helped him, and he may possibly have gone mad
+afterwards; but these painful issues are kept determinedly in the shade.
+
+Somewhat surprisingly, Sophocles, although by his time Electra and
+Clytemnestra had become leading figures in the story and the mother-murder
+its essential climax, preserves a very similar atmosphere. His tragedy is
+enthusiastically praised by Schlegel for "the celestial purity, the fresh
+breath of life and youth, that is diffused over so dreadful a subject."
+"Everything dark and ominous is avoided. Orestes enjoys the fulness of
+health and strength. He is beset neither with doubts nor stings of
+conscience." Especially laudable is the "austerity" with which Aegisthus
+is driven into the house to receive, according to Schlegel, a specially
+ignominious death!
+
+This combination of matricide and good spirits, however satisfactory to
+the determined classicist, will probably strike most intelligent readers
+as a little curious, and even, if one may use the word at all in
+connection with so powerful a play, undramatic. It becomes intelligible as
+soon as we observe that Sophocles was deliberately seeking what he
+regarded as an archaic or "Homeric" style (cf. Jebb, Introd. p. xli.); and
+this archaism, in its turn, seems to me best explained as a conscious
+reaction against Euripides' searching and unconventional treatment of the
+same subject (cf. Wilamowitz in _Hermes_, xviii. pp. 214 ff.). In the
+result Sophocles is not only more "classical" than Euripides; he is more
+primitive by far than Aeschylus.
+
+For Aeschylus, though steeped in the glory of the world of legend, would
+not lightly accept its judgment upon religious and moral questions, and
+above all would not, in that region, play at make-believe. He would not
+elude the horror of this story by simply not mentioning it, like Homer, or
+by pretending that an evil act was a good one, like Sophocles. He faces
+the horror; realises it; and tries to surmount it on the sweep of a great
+wave of religious emotion. The mother-murder, even if done by a god's
+command, is a sin; a sin to be expiated by unfathomable suffering. Yet,
+since the god cannot have commanded evil, it is a duty also. It is a sin
+that _must_ be committed.
+
+Euripides, here as often, represents intellectually the thought of
+Aeschylus carried a step further. He faced the problem just as Aeschylus
+did, and as Sophocles did not. But the solution offered by Aeschylus did
+not satisfy him. It cannot, in its actual details, satisfy any one. To him
+the mother-murder--like most acts of revenge, but more than most--was a
+sin and a horror. Therefore it should not have been committed; and the god
+who enjoined it _did_ command evil, as he had done in a hundred other
+cases! He is no god of light; he is only a demon of old superstition,
+acting, among other influences, upon a sore-beset man, and driving him
+towards a miscalled duty, the horror of which, when done, will unseat his
+reason.
+
+But another problem interests Euripides even more than this. What kind of
+man was it--above all, what kind of woman can it have been, who would do
+this deed of mother-murder, not in sudden fury but deliberately, as an act
+of "justice," after many years? A "sympathetic" hero and heroine are out
+of the question; and Euripides does not deal in stage villains. He seeks
+real people. And few attentive readers of this play can doubt that he has
+found them.
+
+The son is an exile, bred in the desperate hopes and wild schemes of
+exile; he is a prince without a kingdom, always dreaming of his wrongs and
+his restoration; and driven by the old savage doctrine, which an oracle
+has confirmed, of the duty and manliness of revenge. He is, as was shown
+by his later history, a man subject to overpowering impulses and to fits
+of will-less brooding. Lastly, he is very young, and is swept away by his
+sister's intenser nature.
+
+That sister is the central figure of the tragedy. A woman shattered in
+childhood by the shock of an experience too terrible for a girl to bear; a
+poisoned and a haunted woman, eating her heart in ceaseless broodings of
+hate and love, alike unsatisfied--hate against her mother and stepfather,
+love for her dead father and her brother in exile; a woman who has known
+luxury and state, and cares much for them; who is intolerant of poverty,
+and who feels her youth passing away. And meantime there is her name, on
+which all legend, if I am not mistaken, insists; she is _A-lektra_, "the
+Unmated."
+
+There is, perhaps, no woman's character in the range of Greek tragedy so
+profoundly studied. Not Aeschylus' Clytemnestra, not Phaedra nor Medea.
+One's thoughts can only wander towards two great heroines of "lost" plays,
+Althaea in the _Meleager_, and Stheneboea in the _Bellerophon_.
+
+G.M.
+
+[Footnote 1: Most of this introduction is reprinted, by the kind
+permission of the Editors, from an article in the _Independent Review_
+vol. i. No. 4.]
+
+
+
+
+ELECTRA
+
+
+
+
+  CHARACTERS IN THE PLAY
+
+
+CLYTEMNESTRA, _Queen of Argos and Mycenae; widow of Agamemnon_.
+
+ELECTRA, _daughter of Agamemnon and Clytemnestra_.
+
+ORESTES, _son of Agamemnon and Clytemnestra, now in banishment_.
+
+A PEASANT, _husband of Electra_.
+
+AN OLD MAN, _formerly servant to Agamemnon_.
+
+PYLADES, _son of Strophios, King of Phocis; friend to Orestes_.
+
+AEGISTHUS, _usurping King of Argos and Mycenae, now husband of
+Clytemnestra_.
+
+The Heroes CASTOR and POLYDEUCES.
+
+CHORUS of Argive Women, with their LEADER.
+
+FOLLOWERS of ORESTES; HANDMAIDS of CLYTEMNESTRA.
+
+_The Scene is laid in the mountains of Argos. The play was first produced
+between the years_ 414 _and_ 412 B.C.
+
+
+
+
+  ELECTRA
+
+
+_The scene represents a hut on a desolate mountain side; the river Inachus
+is visible in the distance. The time is the dusk of early dawn, before
+sunrise. The_ PEASANT _is discovered in front of the hut_.
+
+PEASANT.
+
+Old gleam on the face of the world, I give thee hail,
+River of Argos land, where sail on sail
+The long ships met, a thousand, near and far,
+When Agamemnon walked the seas in war;
+Who smote King Priam in the dust, and burned
+The storied streets of Ilion, and returned
+Above all conquerors, heaping tower and fane
+Of Argos high with spoils of Eastern slain.
+
+So in far lands he prospered; and at home
+His own wife trapped and slew him. 'Twas the doom
+Aegisthus wrought, son of his father's foe.
+
+Gone is that King, and the old spear laid low
+That Tantalus wielded when the world was young.
+Aegisthus hath his queen, and reigns among
+His people. And the children here alone,
+Orestes and Electra, buds unblown
+Of man and womanhood, when forth to Troy
+He shook his sail and left them--lo, the boy
+Orestes, ere Aegisthus' hand could fall,
+Was stolen from Argos--borne by one old thrall,
+Who served his father's boyhood, over seas
+Far off, and laid upon King Strophios' knees
+In Phocis, for the old king's sake. But here
+The maid Electra waited, year by year,
+Alone, till the warm days of womanhood
+Drew nigh and suitors came of gentle blood
+In Hellas. Then Aegisthus was in fear
+Lest she be wed in some great house, and bear
+A son to avenge her father. Close he wrought
+Her prison in his house, and gave her not
+To any wooer. Then, since even this
+Was full of peril, and the secret kiss
+Of some bold prince might find her yet, and rend
+Her prison walls, Aegisthus at the end
+Would slay her. Then her mother, she so wild
+Aforetime, pled with him and saved her child.
+Her heart had still an answer for her lord
+Murdered, but if the child's blood spoke, what word
+Could meet the hate thereof? After that day
+Aegisthus thus decreed: whoso should slay
+The old king's wandering son, should win rich meed
+Of gold; and for Electra, she must wed
+With me, not base of blood--in that I stand
+True Mycenaean--but in gold and land
+Most poor, which maketh highest birth as naught.
+So from a powerless husband shall be wrought
+A powerless peril. Had some man of might
+Possessed her, he had called perchance to light
+Her father's blood, and unknown vengeances
+Risen on Aegisthus yet.
+                        Aye, mine she is:
+But never yet these arms--the Cyprian knows
+My truth!--have clasped her body, and she goes
+A virgin still. Myself would hold it shame
+To abase this daughter of a royal name.
+I am too lowly to love violence. Yea,
+Orestes too doth move me, far away,
+Mine unknown brother! Will he ever now
+Come back and see his sister bowed so low?
+
+Doth any deem me fool, to hold a fair
+Maid in my room and seek no joy, but spare
+Her maidenhood? If any such there be,
+Let him but look within. The fool is he
+In gentle things, weighing the more and less
+Of love by his own heart's untenderness.
+
+[_As he ceases_ ELECTRA _comes out of the hut. She is in mourning garb,
+and carries a large pitcher on her head. She speaks without observing the_
+PEASANT'S _presence_.
+
+ELECTRA.
+
+Dark shepherdess of many a golden star,
+Dost see me, Mother Night? And how this jar
+Hath worn my earth-bowed head, as forth and fro
+For water to the hillward springs I go?
+Not for mere stress of need, but purpose set,
+That never day nor night God may forget
+Aegisthus' sin: aye, and perchance a cry
+Cast forth to the waste shining of the sky
+May find my father's ear.... The woman bred
+Of Tyndareus, my mother--on her head
+Be curses!--from my house hath outcast me;
+She hath borne children to our enemy;
+She hath made me naught, she hath made Orestes naught....
+
+[_As the bitterness of her tone increases, the_ PEASANT _comes forward._
+
+PEASANT.
+
+What wouldst thou now, my sad one, ever fraught
+With toil to lighten my toil? And so soft
+Thy nurture was! Have I not chid thee oft,
+And thou wilt cease not, serving without end?
+
+ELECTRA (_turning to him with impulsive affection_).
+
+O friend, my friend, as God might be my friend,
+Thou only hast not trampled on my tears.
+Life scarce can be so hard, 'mid many fears
+And many shames, when mortal heart can find
+Somewhere one healing touch, as my sick mind
+Finds thee.... And should I wait thy word, to endure
+A little for thine easing, yea, or pour
+My strength out in thy toiling fellowship?
+Thou hast enough with fields and kine to keep;
+'Tis mine to make all bright within the door.
+'Tis joy to him that toils, when toil is o'er,
+To find home waiting, full of happy things.
+
+PEASANT.
+
+If so it please thee, go thy way. The springs
+Are not far off. And I before the morn
+Must drive my team afield, and sow the corn
+In the hollows.--Not a thousand prayers can gain
+A man's bare bread, save an he work amain.
+
+[ELECTRA _and the_ PEASANT _depart on their several ways. After a few
+moments there enter stealthily two armed men,_ ORESTES _and_ PYLADES.
+
+ORESTES.
+
+Thou art the first that I have known in deed
+True and my friend, and shelterer of my need.
+Thou only, Pylades, of all that knew,
+Hast held Orestes of some worth, all through
+These years of helplessness, wherein I lie
+Downtrodden by the murderer--yea, and by
+The murderess, my mother!... I am come,
+Fresh from the cleansing of Apollo, home
+To Argos--and my coming no man yet
+Knoweth--to pay the bloody twain their debt
+Of blood. This very night I crept alone
+To my dead father's grave, and poured thereon
+My heart's first tears and tresses of my head
+New-shorn, and o'er the barrow of the dead
+Slew a black lamb, unknown of them that reign
+In this unhappy land.... I am not fain
+To pass the city gates, but hold me here
+Hard on the borders. So my road is clear
+To fly if men look close and watch my way;
+If not, to seek my sister. For men say
+She dwelleth in these hills, no more a maid
+But wedded. I must find her house, for aid
+To guide our work, and learn what hath betid
+Of late in Argos.--Ha, the radiant lid
+Of Dawn's eye lifteth! Come, friend; leave we now
+This trodden path. Some worker of the plough,
+Or serving damsel at her early task
+Will presently come by, whom we may ask

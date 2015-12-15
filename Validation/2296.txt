@@ -1,0 +1,351 @@
+included a treatment of arithmetic.
+
+[33] A[h.]med ibn `Abdall[=a]h, Suter, _Die Mathematiker_, etc., p. 12.
+
+[34] _India_, Vol. II, p. 15.
+
+[35] See H. Suter, "Das Mathematiker-Verzeichniss im Fihrist,"
+_Abhandlungen zur Geschichte der Mathematik_, Vol. VI, Leipzig, 1892. For
+further references to early Arabic writers the reader is referred to H.
+Suter, _Die Mathematiker und Astronomen der Araber und ihre Werke_. Also
+"Nachtraege und Berichtigungen" to the same (_Abhandlungen_,  Vol. XIV,
+1902, pp. 155-186).
+
+[36] Suter, loc. cit., note 165, pp. 62-63.
+
+[37] "Send Ben Ali,... tum arithmetica scripta maxime celebrata, quae
+publici juris fecit." [Loc. cit., p. 440.]
+
+[38] _Scritti di Leonardo Pisano_, Vol. I, _Liber Abbaci_ (1857); Vol. II,
+_Scritti_ (1862); published by Baldassarre Boncompagni, Rome. Also _Tre
+Scritti Inediti_, and _Intorno ad Opere di Leonardo Pisano_, Rome, 1854.
+
+[39] "Ubi ex mirabili magisterio in arte per novem figuras indorum
+introductus" etc. In another place, as a heading to a separate division, he
+writes, "De cognitione novem figurarum yndorum" etc. "Novem figure indorum
+he sunt 9 8 7 6 5 4 3 2 1."
+
+[40] See _An Ancient English Algorism_, by David Eugene Smith, in
+_Festschrift Moritz Cantor_, Leipzig, 1909. See also Victor Mortet, "Le
+plus ancien traite francais d'algorisme," _Bibliotheca Mathematica_, Vol.
+IX (3), pp. 55-64.
+
+[41] These are the two opening lines of the _Carmen de Algorismo_ that the
+anonymous author is explaining. They should read as follows:
+
+  Haec algorismus ars praesens dicitur, in qua
+  Talibus Indorum fruimur bis quinque figuris.
+
+What follows is the translation.
+
+[42] Thibaut, _Astronomie, Astrologie und Mathematik_, Strassburg, 1899.
+
+[43] Gustave Schlegel, _Uranographie chinoise ou preuves directes que
+l'astronomie primitive est originaire de la Chine, et qu'elle a ete
+empruntee par les anciens peuples occidentaux a la sphere chinoise; ouvrage
+accompagne d'un atlas celeste chinois et grec_, The Hague and Leyden, 1875.
+
+[44] E. W. Hopkins, _The Religions of India_, Boston, 1898, p. 7.
+
+[45] R. C. Dutt, _History of India_, London, 1906.
+
+[46] W. D. Whitney, _Sanskrit Grammar_, 3d ed., Leipzig, 1896.
+
+[47] "Das [=A]pastamba-['S]ulba-S[=u]tra," _Zeitschrift der deutschen
+Morgenlaendischen Gesellschaft_, Vol. LV, p. 543, and Vol. LVI, p. 327.
+
+[48] _Geschichte der Math._, Vol. I, 2d ed., p. 595.
+
+[49] L. von Schroeder, _Pythagoras und die Inder_, Leipzig, 1884; H. Vogt,
+"Haben die alten Inder den Pythagoreischen Lehrsatz und das Irrationale
+gekannt?" _Bibliotheca Mathematica_, Vol. VII (3), pp. 6-20; A. Buerk, loc.
+cit.; Max Simon, _Geschichte der Mathematik im Altertum_, Berlin, 1909, pp.
+137-165; three S[=u]tras are translated in part by Thibaut, _Journal of the
+Asiatic Society of Bengal_, 1875, and one appeared in _The Pandit_, 1875;
+Beppo Levi, "Osservazioni e congetture sopra la geometria degli indiani,"
+_Bibliotheca Mathematica_, Vol. IX (3), 1908, pp. 97-105.
+
+[50] Loc. cit.; also _Indiens Literatur und Cultur_, Leipzig, 1887.
+
+[51] It is generally agreed that the name of the river Sindhu, corrupted by
+western peoples to Hindhu, Indos, Indus, is the root of Hindustan and of
+India. Reclus, _Asia_, English ed., Vol. III, p. 14.
+
+[52] See the comments of Oppert, _On the Original Inhabitants of
+Bharatavar[s.]a or India_, London, 1893, p. 1.
+
+[53] A. Hillebrandt, _Alt-Indien_, Breslau, 1899, p. 111. Fragmentary
+records relate that Kh[=a]ravela, king of Kali[.n]ga, learned as a boy
+_lekh[=a]_ (writing), _ga[n.]an[=a]_ (reckoning), and _r[=u]pa_ (arithmetic
+applied to monetary affairs and mensuration), probably in the 5th century
+B.C. [Buehler, _Indische Palaeographie_, Strassburg, 1896, p. 5.]
+
+[54] R. C. Dutt, _A History of Civilization in Ancient India_, London,
+1893, Vol. I, p. 174.
+
+[55] The Buddha. The date of his birth is uncertain. Sir Edwin Arnold put
+it c. 620 B.C.
+
+[56] I.e. 100.10^7.
+
+[57] There is some uncertainty about this limit.
+
+[58] This problem deserves more study than has yet been given it. A
+beginning may be made with Comte Goblet d'Alviella, _Ce que l'Inde doit a
+la Grece_, Paris, 1897, and H. G. Keene's review, "The Greeks in India," in
+the _Calcutta Review_, Vol. CXIV, 1902, p. 1. See also F. Woepeke,
+_Propagation_, p. 253; G. R. Kaye, loc. cit., p. 475 seq., and "The Source
+of Hindu Mathematics," _Journal of the Royal Asiatic Society_, July, 1910,
+pp. 749-760; G. Thibaut, _Astronomie, Astrologie und Mathematik_, pp. 43-50
+and 76-79. It will be discussed more fully in Chapter VI.
+
+[59] I.e. to 100,000. The lakh is still the common large unit in India,
+like the myriad in ancient Greece and the million in the West.
+
+[60] This again suggests the _Psammites_, or _De harenae numero_ as it is
+called in the 1544 edition of the _Opera_ of Archimedes, a work in which
+the great Syracusan proposes to show to the king "by geometric proofs which
+you can follow, that the numbers which have been named by us ... are
+sufficient to exceed not only the number of a sand-heap as large as the
+whole earth, but one as large as the universe." For a list of early
+editions of this work see D. E. Smith, _Rara Arithmetica_, Boston, 1909, p.
+227.
+
+[61] I.e. the Wise.
+
+[62] Sir Monier Monier-Williams, _Indian Wisdom_, 4th ed., London, 1893,
+pp. 144, 177. See also J. C. Marshman, _Abridgment of the History of
+India_, London, 1893, p. 2.
+
+[63] For a list and for some description of these works see R. C. Dutt, _A
+History of Civilization in Ancient India_, Vol. II, p. 121.
+
+[64] Professor Ramkrishna Gopal Bhandarkar fixes the date as the fifth
+century B.C. ["Consideration of the Date of the Mah[=a]bh[=a]rata," in the
+_Journal of the Bombay Branch of the R. A. Soc._, Bombay, 1873, Vol. X, p.
+2.].
+
+[65] Marshman, loc. cit., p. 2.
+
+[66] A. C. Burnell, _South Indian Palaeography_, 2d ed., London, 1878, p. 1,
+seq.
+
+[67] This extensive subject of palpable arithmetic, essentially the history
+of the abacus, deserves to be treated in a work by itself.
+
+[68] The following are the leading sources of information upon this
+subject: G. Buehler, _Indische Palaeographie_, particularly chap. vi; A. C.
+Burnell, _South Indian Palaeography_, 2d ed., London, 1878, where tables of
+the various Indian numerals are given in Plate XXIII; E. C. Bayley, "On the
+Genealogy of Modern Numerals," _Journal of the Royal Asiatic Society_, Vol.
+XIV, part 3, and Vol. XV, part 1, and reprint, London, 1882; I. Taylor, in
+_The Academy_, January 28, 1882, with a repetition of his argument in his
+work _The Alphabet_, London, 1883, Vol. II, p. 265, based on Bayley; G. R.
+Kaye, loc. cit., in some respects one of the most critical articles thus
+far published; J. C. Fleet, _Corpus inscriptionum Indicarum_, London, 1888,
+Vol. III, with facsimiles of many Indian inscriptions, and _Indian
+Epigraphy_, Oxford, 1907, reprinted from the _Imperial Gazetteer of India_,
+Vol. II, pp. 1-88, 1907; G. Thibaut, loc. cit., _Astronomie_ etc.; R.
+Caldwell, _Comparative Grammar of the Dravidian Languages_, London, 1856,
+p. 262 seq.; and _Epigraphia Indica_ (official publication of the
+government of India), Vols. I-IX. Another work of Buehler's, _On the Origin
+of the Indian Br[=a]hma Alphabet_, is also of value.
+
+[69] The earliest work on the subject was by James Prinsep, "On the
+Inscriptions of Piyadasi or A['s]oka," etc., _Journal of the Asiatic
+Society of Bengal_, 1838, following a preliminary suggestion in the same
+journal in 1837. See also "A['s]oka Notes," by V. A. Smith, _The Indian
+Antiquary_, Vol. XXXVII, 1908, p. 24 seq., Vol. XXXVIII, pp. 151-159, June,
+1909; _The Early History of India_, 2d ed., Oxford, 1908, p. 154; J. F.
+Fleet, "The Last Words of A['s]oka," _Journal of the Royal Asiatic
+Society_, October, 1909, pp. 981-1016; E. Senart, _Les inscriptions de
+Piyadasi_, 2 vols., Paris, 1887.
+
+[70] For a discussion of the minor details of this system, see Buehler, loc.
+cit., p. 73.
+
+[71] Julius Euting, _Nabataeische Inschriften aus Arabien_, Berlin, 1885,
+pp. 96-97, with a table of numerals.
+
+[72] For the five principal theories see Buehler, loc. cit., p. 10.
+
+[73] Bayley, loc. cit., reprint p. 3.
+
+[74] Buehler, loc. cit.; _Epigraphia Indica_, Vol. III, p. 134; _Indian
+Antiquary_, Vol. VI, p. 155 seq., and Vol. X, p. 107.
+
+[75] Pandit Bhagav[=a]nl[=a]l Indr[=a]j[=i], "On Ancient N[=a]g[=a]ri
+Numeration; from an Inscription at N[=a]negh[=a]t," _Journal of the Bombay
+Branch of the Royal Asiatic Society_, 1876, Vol. XII, p. 404.
+
+[76] Ib., p. 405. He gives also a plate and an interpretation of each
+numeral.
+
+[77] These may be compared with Buehler's drawings, loc. cit.; with Bayley,
+loc. cit., p. 337 and plates; and with Bayley's article in the
+_Encyclopaedia Britannica_, 9th ed., art. "Numerals."
+
+[78] E. Senart, "The Inscriptions in the Caves at Nasik," _Epigraphia
+Indica_, Vol. VIII, pp. 59-96; "The Inscriptions in the Cave at Karle,"
+_Epigraphia Indica_, Vol. VII, pp. 47-74; Buehler, _Palaeographie_, Tafel
+IX.
+
+[79] See Fleet, loc. cit. See also T. Benfey, _Sanskrit Grammar_, London,
+1863, p. 217; M. R. Kale, _Higher Sanskrit Grammar_, 2d ed., Bombay, 1898,
+p. 110, and other authorities as cited.
+
+[80] Kharo[s.][t.]h[=i] numerals, A['s]oka inscriptions, c. 250 B.C.
+Senart, _Notes d'epigraphie indienne_. Given by Buehler, loc. cit., Tafel I.
+
+[81] Same, ['S]aka inscriptions, probably of the first century B.C. Senart,
+loc. cit.; Buehler, loc. cit.
+
+[82] Br[=a]hm[=i] numerals, A['s]oka inscriptions, c. 250 B.C. _Indian
+Antiquary_, Vol. VI, p. 155 seq.
+
+[83] Same, N[=a]n[=a] Gh[=a]t inscriptions, c. 150 B.C. Bhagav[=a]nl[=a]l
+Indr[=a]j[=i], _On Ancient N[=a]gar[=i] Numeration_, loc. cit. Copied from
+a squeeze of the original.
+
+[84] Same, Nasik inscription, c. 100 B.C. Burgess, _Archeological Survey
+Report, Western India_; Senart, _Epigraphia Indica_, Vol. VII, pp. 47-79,
+and Vol. VIII, pp. 59-96.
+
+[85] K[s.]atrapa coins, c. 200 A.D. _Journal of the Royal Asiatic Society_,
+1890, p. 639.
+
+[86] Ku[s.]ana inscriptions, c. 150 A.D. _Epigraphia Indica_, Vol. I, p.
+381, and Vol. II, p. 201.
+
+[87] Gupta Inscriptions, c. 300 A.D. to 450 A.D. Fleet, loc. cit., Vol.
+III.
+
+[88] Valhab[=i], c. 600 A.D. _Corpus_, Vol. III.
+
+[89] Bendall's Table of Numerals, in _Cat. Sansk. Budd. MSS._, British
+Museum.
+
+[90] _Indian Antiquary_, Vol. XIII, 120; _Epigraphia Indica_, Vol. III, 127
+ff.
+
+[91] Fleet, loc. cit.
+
+[92] Bayley, loc. cit., p. 335.
+
+[93] From a copper plate of 493 A.D., found at K[=a]r[=i]tal[=a][=i],
+Central India. [Fleet, loc. cit., Plate XVI.] It should be stated, however,
+that many of these copper plates, being deeds of property, have forged
+dates so as to give the appearance of antiquity of title. On the other
+hand, as Colebrooke long ago pointed out, a successful forgery has to
+imitate the writing of the period in question, so that it becomes evidence
+well worth considering, as shown in Chapter III.
+
+[94] From a copper plate of 510 A.D., found at Majhgaw[=a]in, Central
+India. [Fleet, loc. cit., Plate XIV.]
+
+[95] From an inscription of 588 A.D., found at B[=o]dh-Gay[=a], Bengal
+Presidency. [Fleet, loc. cit., Plate XXIV.]
+
+[96] From a copper plate of 571 A.D., found at M[=a]liy[=a], Bombay
+Presidency. [Fleet, loc. cit., Plate XXIV.]
+
+[97] From a Bijayaga[d.]h pillar inscription of 372 A.D. [Fleet, loc. cit.,
+Plate XXXVI, C.]
+
+[98] From a copper plate of 434 A.D. [_Indian Antiquary_, Vol. I, p. 60.]
+
+[99] Gadhwa inscription, c. 417 A.D. [Fleet, loc. cit., Plate IV, D.]
+
+[100] K[=a]r[=i]tal[=a][=i] plate of 493 A.D., referred to above.
+
+[101] It seems evident that the Chinese four, curiously enough called
+"eight in the mouth," is only a cursive [4 vertical strokes].
+
+[102] Chalfont, F. H., _Memoirs of the Carnegie Museum_, Vol. IV, no. 1; J.
+Hager, _An Explanation of the Elementary Characters of the Chinese_,
+London, 1801.
+
+[103] H. V. Hilprecht, _Mathematical, Metrological and Chronological
+Tablets from the Temple Library at Nippur_, Vol. XX, part I, of Series A,
+Cuneiform Texts Published by the Babylonian Expedition of the University of
+Pennsylvania, 1906; A. Eisenlohr, _Ein altbabylonischer Felderplan_,
+Leipzig, 1906; Maspero, _Dawn of Civilization_, p. 773.
+
+[104] Sir H. H. Howard, "On the Earliest Inscriptions from Chaldea,"
+_Proceedings of the Society of Biblical Archaeology_, XXI, p. 301, London,
+1899.
+
+[105] For a bibliography of the principal hypotheses of this nature see
+Buehler, loc. cit., p. 77. Buehler (p. 78) feels that of all these hypotheses
+that which connects the Br[=a]hm[=i] with the Egyptian numerals is the most
+plausible, although he does not adduce any convincing proof. Th. Henri
+Martin, "Les signes numeraux et l'arithmetique chez les peuples de
+l'antiquite et du moyen age" (being an examination of Cantor's
+_Mathematische Beitraege zum Culturleben der Voelker_), _Annali di matematica
+pura ed applicata_, Vol. V, Rome, 1864, pp. 8, 70. Also, same author,
+"Recherches nouvelles sur l'origine de notre systeme de numeration ecrite,"
+_Revue Archeologique_, 1857, pp. 36, 55. See also the tables given later in
+this work.
+
+[106] _Journal of the Royal Asiatic Society, Bombay Branch_, Vol. XXIII.
+
+[107] Loc. cit., reprint, Part I, pp. 12, 17. Bayley's deductions are
+generally regarded as unwarranted.
+
+[108] _The Alphabet_; London, 1883, Vol. II, pp. 265, 266, and _The
+Academy_ of Jan. 28, 1882.
+
+[109] Taylor, _The Alphabet_, loc. cit., table on p. 266.
+
+[110] Buehler, _On the Origin of the Indian Br[=a]hma Alphabet_, Strassburg,
+1898, footnote, pp. 52, 53.
+
+[111] Albrecht Weber, _History of Indian Literature_, English ed., Boston,
+1878, p. 256: "The Indian figures from 1-9 are abbreviated forms of the
+initial letters of the numerals themselves...: the zero, too, has arisen
+out of the first letter of the word _[s.]unya_ (empty) (it occurs even in
+Pingala). It is the decimal place value of these figures which gives them
+significance." C. Henry, "Sur l'origine de quelques notations
+mathematiques," _Revue Archeologique_, June and July, 1879, attempts to
+derive the Boethian forms from the initials of Latin words. See also J.
+Prinsep, "Examination of the Inscriptions from Girnar in Gujerat, and
+Dhauli in Cuttach," _Journal of the Asiatic Society of Bengal_, 1838,
+especially Plate XX, p. 348; this was the first work on the subject.
+
+[112] Buehler, _Palaeographie_, p. 75, gives the list, with the list of
+letters (p. 76) corresponding to the number symbols.
+
+[113] For a general discussion of the connection between the numerals and
+the different kinds of alphabets, see the articles by U. Ceretti, "Sulla
+origine delle cifre numerali moderne," _Rivista di fisica, matematica e
+scienze naturali_, Pisa and Pavia, 1909, anno X, numbers 114, 118, 119, and
+120, and continuation in 1910.
+
+[114] This is one of Buehler's hypotheses. See Bayley, loc. cit., reprint p.
+4; a good bibliography of original sources is given in this work, p. 38.
+
+[115] Loc. cit., reprint, part I, pp. 12, 17. See also Burnell, loc. cit.,
+p. 64, and tables in plate XXIII.
+
+[116] This was asserted by G. Hager (_Memoria sulle cifre arabiche_, Milan,
+1813, also published in _Fundgruben des Orients_, Vienna, 1811, and in
+_Bibliotheque Britannique_, Geneva, 1812). See also the recent article by
+Major Charles E. Woodruff, "The Evolution of Modern Numerals from Tally
+Marks," _American Mathematical Monthly_, August-September, 1909.
+Biernatzki, "Die Arithmetik der Chinesen," _Crelle's Journal fuer die reine
+und angewandte Mathematik_, Vol. LII, 1857, pp. 59-96, also asserts the
+priority of the Chinese claim for a place system and the zero, but upon the
+flimsiest authority. Ch. de Paravey, _Essai sur l'origine unique et
+hieroglyphique des chiffres et des lettres de tous les peuples_, Paris,
+1826; G. Kleinwaechter, "The Origin of the Arabic Numerals," _China Review_,
+Vol. XI, 1882-1883, pp. 379-381, Vol. XII, pp. 28-30; Biot, "Note sur la
+connaissance que les Chinois ont eue de la valeur de position des
+chiffres," _Journal Asiatique_, 1839, pp. 497-502. A. Terrien de
+Lacouperie, "The Old Numerals, the Counting-Rods and the Swan-Pan in
+China," _Numismatic Chronicle_, Vol. III (3), pp. 297-340, and Crowder B.
+Moseley, "Numeral Characters: Theory of Origin and Development," _American
+Antiquarian_, Vol. XXII, pp. 279-284, both propose to derive our numerals
+from Chinese characters, in much the same way as is done by Major Woodruff,
+in the article above cited.
+
+[117] The Greeks, probably following the Semitic custom, used nine letters

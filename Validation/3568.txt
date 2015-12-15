@@ -1,0 +1,425 @@
+of a planet, _v_ its velocity, _r_ the radius of its orbit, and _T_ the
+time of describing it; 2[pi]_r_ = _vT_, and the centripetal force
+needed to hold it in its orbit is
+
+       mv^2        4[pi]^2_mr_
+     --------  or  -----------
+       _r_             T^2
+
+Now the force of gravitative attraction between the planet and the sun
+is
+
+  _VmS_
+  -----,
+   r^2
+
+where _v_ is a fixed quantity called the gravitation-constant, to be
+determined if possible by experiment once for all. Now, expressing the
+fact that the force of gravitation _is_ the force holding the planet in,
+we write,
+
+  4[pi]^2_mr_    _VmS_
+  ----------- = ---------,
+     T^2          r^2
+
+whence, by the simplest algebra,
+
+   r^3      _VS_
+  ------ = ---------.
+   T^2      4[pi]^2
+
+The mass of the planet has been cancelled out; the mass of the sun
+remains, multiplied by the gravitation-constant, and is seen to be
+proportional to the cube of the distance divided by the square of the
+periodic time: a ratio, which is therefore the same for all planets
+controlled by the sun. Hence, knowing _r_ and _T_ for any single planet,
+the value of _VS_ is known.
+
+No. 4. So by knowing the length of year and distance of any planet from
+the sun, the sun's mass can be calculated, in terms of that of the
+earth.
+
+No. 5. For the satellites, the force acting depends on the mass of
+_their_ central body, a planet. Hence the mass of any planet possessing
+a satellite becomes known.
+
+The same argument holds for any other system controlled by a central
+body--for instance, for the satellites of Jupiter; only instead of _S_
+it will be natural to write _J_, as meaning the mass of Jupiter. Hence,
+knowing _r_ and _T_ for any one satellite of Jupiter, the value of _VJ_
+is known.
+
+Apply the argument also to the case of moon and earth. Knowing the
+distance and time of revolution of our moon, the value of _VE_ is at
+once determined; _E_ being the mass of the earth. Hence, _S_ and _J_,
+and in fact the mass of any central body possessing a visible satellite,
+are now known in terms of _E_, the mass of the earth (or, what is
+practically the same thing, in terms of _V_, the gravitation-constant).
+Observe that so far none of these quantities are known absolutely. Their
+relative values are known, and are tabulated at the end of the Notes
+above, but the finding of their absolute values is another matter, which
+we must defer.
+
+But, it may be asked, if Kepler's third law only gives us the mass of a
+_central_ body, how is the mass of a _satellite_ to be known? Well, it
+is not easy; the mass of no satellite is known with much accuracy. Their
+mutual perturbations give us some data in the case of the satellites of
+Jupiter; but to our own moon this method is of course inapplicable. Our
+moon perturbs at first sight nothing, and accordingly its mass is not
+even yet known with exactness. The mass of comets, again, is quite
+unknown. All that we can be sure of is that they are smaller than a
+certain limit, else they would perturb the planets they pass near.
+Nothing of this sort has ever been detected. They are themselves
+perturbed plentifully, but they perturb nothing; hence we learn that
+their mass is small. The mass of a comet may, indeed, be a few million
+or even billion tons; but that is quite small in astronomy.
+
+But now it may be asked, surely the moon perturbs the earth, swinging it
+round their common centre of gravity, and really describing its own
+orbit about this point instead of about the earth's centre? Yes, that is
+so; and a more precise consideration of Kepler's third law enables us to
+make a fair approximation to the position of this common centre of
+gravity, and thus practically to "weigh the moon," i.e. to compare its
+mass with that of the earth; for their masses will be inversely as their
+respective distances from the common centre of gravity or balancing
+point--on the simple steel-yard principle.
+
+Hitherto we have not troubled ourselves about the precise point about
+which the revolution occurs, but Kepler's third law is not precisely
+accurate unless it is attended to. The bigger the revolving body the
+greater is the discrepancy: and we see in the table preceding Lecture
+III., on page 57, that Jupiter exhibits an error which, though very
+slight, is greater than that of any of the other planets, when the sun
+is considered the fixed centre.
+
+     Let the common centre of gravity of earth and moon be displaced a
+     distance _x_ from the centre of the earth, then the moon's distance
+     from the real centre of revolution is not _r_, but _r-x_; and the
+     equation of centrifugal force to gravitative-attraction is strictly
+
+   4[pi]^2             _VE_
+  --------- (_r-x_) = ------,
+     T^2               r^2
+
+     instead of what is in the text above; and this gives a slightly
+     modified "third law." From this equation, if we have any distinct
+     method of determining _VE_ (and the next section gives such a
+     method), we can calculate _x_ and thus roughly weigh the moon,
+     since
+
+  _r-x_     E
+  ----- = -----,
+   _r_     E+M
+
+     but to get anything like a reasonable result the data must be very
+     precise.
+
+No. 6. The force constraining the moon in her orbit is the same gravity
+as gives terrestrial bodies their weight and regulates the motion of
+projectiles.
+
+Here we come to the Newtonian verification already several times
+mentioned; but because of its importance I will repeat it in other
+words. The hypothesis to be verified is that the force acting on the
+moon is the same kind of force as acts on bodies we can handle and
+weigh, and which gives them their weight. Now the weight of a mass _m_
+is commonly written _mg_, where _g_ is the intensity of terrestrial
+gravity, a thing easily measured; being, indeed, numerically equal to
+twice the distance a stone drops in the first second of free fall. [See
+table p. 205.] Hence, expressing that the weight of a body is due to
+gravity, and remembering that the centre of the earth's attraction is
+distant from us by one earth's radius (R), we can write
+
+         _Vm_E
+  _mg_ = ------,
+          R^2
+
+or
+
+_V_E = gR^2 = 95,522 cubic miles-per-second per second.
+
+But we already know _v_E, in terms of the moon's motion, as
+
+  4[pi]^2r^3
+  -----------
+      T^2
+
+approximately, [more accurately, see preceding note, this quantity is
+_V_(E + M)]; hence we can easily see if the two determinations of this
+quantity agree.[20]
+
+All these deductions are fundamental, and may be considered as the
+foundation of the _Principia_. It was these that flashed upon Newton
+during that moment of excitement when he learned the real size of the
+earth, and discovered his speculations to be true.
+
+The next are elaborations and amplifications of the theory, such as in
+ordinary times are left for subsequent generations of theorists to
+discover and work out.
+
+Newton did not work out these remoter consequences of his theory
+completely by any means: the astronomical and mathematical world has
+been working them out ever since; but he carried the theory a great way,
+and here it is that his marvellous power is most conspicuous.
+
+It is his treatment of No. 7, the perturbations of the moon, that
+perhaps most especially has struck all future mathematicians with
+amazement. No. 7, No. 14, No. 15, these are the most inspired of the
+whole.
+
+No. 7. The moon is attracted not only by the earth, but by the sun also;
+hence its orbit is perturbed, and Newton calculated out the chief of
+these perturbations.
+
+Now running through the perturbations (p. 203) in order:--The first is
+in parenthesis, because it is mere excentricity. It is not a true
+perturbation at all, and more properly belongs to Kepler.
+
+(_a_) The first true perturbation is what Ptolemy called "the evection,"
+the principal part of which is a periodic change in the ellipticity or
+excentricity of the moon's orbit, owing to the pull of the sun. It is a
+complicated matter, and Newton only partially solved it. I shall not
+attempt to give an account of it.
+
+(_b_) The next, "the variation," is a much simpler affair. It is caused
+by the fact that as the moon revolves round the earth it is half the
+time nearer to the sun than the earth is, and so gets pulled more than
+the average, while for the other fortnight it is further from the sun
+than the earth is, and so gets pulled less. For the week during which
+it is changing from a decreasing half to a new moon it is moving in the
+direction of the extra pull, and hence becomes new sooner than would
+have been expected. All next week it is moving against the same extra
+pull, and so arrives at quadrature (half moon) somewhat late. For the
+next fortnight it is in the region of too little pull, the earth gets
+pulled more than it does; the effect of this is to hurry it up for the
+third week, so that the full moon occurs a little early, and to retard
+it for the fourth week, so that the decreasing half moon like the
+increasing half occurs behind time again. Thus each syzygy (as new and
+full are technically called) is too early; each quadrature is too late;
+the maximum hurrying and slackening force being felt at the octants, or
+intermediate 45 deg. points.
+
+(_c_) The "annual equation" is a fluctuation introduced into the other
+perturbations by reason of the varying distance of the disturbing body,
+the sun, at different seasons of the year. Its magnitude plainly depends
+simply on the excentricity of the earth's orbit.
+
+Both these perturbations, (_b_) and (_c_), Newton worked out completely.
+
+(_d_) and (_e_) Next come the retrogression of the nodes and the
+variation of the inclination, which at the time were being observed at
+Greenwich by Flamsteed, from whom Newton frequently, but vainly, begged
+for data that he might complete their theory while he had his mind upon
+it. Fortunately, Halley succeeded Flamsteed as Astronomer-Royal [see
+list at end of notes above], and then Newton would have no difficulty in
+gaining such information as the national Observatory could give.
+
+The "inclination" meant is the angle between the plane of the moon's
+orbit and that of the earth. The plane of the earth's orbit round the
+sun is called the ecliptic; the plane of the moon's orbit round the
+earth is inclined to it at a certain angle, which is slowly changing,
+though in a periodic manner. Imagine a curtain ring bisected by a sheet
+of paper, and tilted to a certain angle; it may be likened to the moon's
+orbit, cutting the plane of the ecliptic. The two points at which the
+plane is cut by the ring are called "nodes"; and these nodes are not
+stationary, but are slowly regressing, _i.e._ travelling in a direction
+opposite to that of the moon itself. Also the angle of tilt is varying
+slowly, oscillating up and down in the course of centuries.
+
+(_f_) The two points in the moon's elliptic orbit where it comes nearest
+to or farthest from the earth, _i.e._ the points at the extremity of the
+long axis of the ellipse, are called separately perigee and apogee, or
+together "the apses." Now the pull of the sun causes the whole orbit to
+slowly revolve in its own plane, and consequently these apses
+"progress," so that the true path is not quite a closed curve, but a
+sort of spiral with elliptic loops.
+
+But here comes in a striking circumstance. Newton states with reference
+to this perturbation that theory only accounts for 1-1/2 deg. per annum,
+whereas observation gives 3 deg., or just twice as much.
+
+This is published in the _Principia_ as a fact, without comment. It was
+for long regarded as a very curious thing, and many great mathematicians
+afterwards tried to find an error in the working. D'Alembert, Clairaut,
+and others attacked the problem, but were led to just the same result.
+It constituted the great outstanding difficulty in the way of accepting
+the theory of gravitation. It was suggested that perhaps the inverse
+square law was only a first approximation; that perhaps a more complete
+expression, such as
+
+   A       B
+  ---- + -----,
+  r^2     r^4
+
+must be given for it; and so on.
+
+Ultimately, Clairaut took into account a whole series of neglected
+terms, and it came out correct; thus verifying the theory.
+
+But the strangest part of this tale is to come. For only a few years
+ago, Prof. Adams, of Cambridge (Neptune Adams, as he is called), was
+editing various old papers of Newton's, now in the possession of the
+Duke of Portland, and he found manuscripts bearing on this very point,
+and discovered that Newton had reworked out the calculations himself,
+had found the cause of the error, had taken into account the terms
+hitherto neglected, and so, fifty years before Clairaut, had completely,
+though not publicly, solved this long outstanding problem of the
+progression of the apses.
+
+(_g_) and (_h_) Two other inequalities he calculated out and predicted,
+viz. variation in the motions of the apses and the nodes. Neither of
+these had then been observed, but they were afterwards detected and
+verified.
+
+A good many other minor irregularities are now known--some thirty, I
+believe; and altogether the lunar theory, or problem of the moon's exact
+motion, is one of the most complicated and difficult in astronomy; the
+perturbations being so numerous and large, because of the enormous mass
+of the perturbing body.
+
+The disturbances experienced by the planets are much smaller, because
+they are controlled by the sun and perturbed by each other. The moon is
+controlled only by the earth, and perturbed by the sun. Planetary
+perturbations can be treated as a series of disturbances with some
+satisfaction: not so those of the moon. And yet it is the only way at
+present known of dealing with the lunar theory.
+
+To deal with it satisfactorily would demand the solution of such a
+problem as this:--Given three rigid spherical masses thrown into empty
+space with any initial motions whatever, and abandoned to gravity: to
+determine their subsequent motions. With two masses the problem is
+simple enough, being pretty well summed up in Kepler's laws; but with
+three masses, strange to say, it is so complicated as to be beyond the
+reach of even modern mathematics. It is a famous problem, known as that
+of "the three bodies," but it has not yet been solved. Even when it is
+solved it will be only a close approximation to the case of earth, moon,
+and sun, for these bodies are not spherical, and are not rigid. One may
+imagine how absurdly and hopelessly complicated a complete treatment of
+the motions of the entire solar system would be.
+
+No. 8. Each planet is attracted not only by the sun but by the other
+planets, hence their orbits are slightly affected by each other.
+
+The subject of planetary perturbation was only just begun by Newton.
+Gradually (by Laplace and others) the theory became highly developed;
+and, as everybody knows, in 1846 Neptune was discovered by means of it.
+
+No. 9. He recognized the comets as members of the solar system, obedient
+to the same law of gravity and moving in very elongated ellipses; so
+their return could be predicted.
+
+It was a long time before Newton recognized the comets as real members
+of the solar system, and subject to gravity like the rest. He at first
+thought they moved in straight lines. It was only in the second edition
+of the _Principia_ that the theory of comets was introduced.
+
+Halley observed a fine comet in 1682, and calculated its orbit on
+Newtonian principles. He also calculated when it ought to have been seen
+in past times; and he found the year 1607, when one was seen by Kepler;
+also the year 1531, when one was seen by Appian; again, he reckoned
+1456, 1380, 1305. All these appearances were the same comet, in all
+probability, returning every seventy-five or seventy-six years. The
+period was easily allowed to be not exact, because of perturbing
+planets. He then predicted its return for 1758, or perhaps 1759, a date
+he could not himself hope to see. He lived to a great age, but he died
+sixteen years before this date.
+
+As the time drew nigh, three-quarters of a century afterwards,
+astronomers were greatly interested in this first cometary prediction,
+and kept an eager look-out for "Halley's comet." Clairaut, a most
+eminent mathematician and student of Newton, proceeded to calculate out
+more exactly the perturbing influence of Jupiter, near which it had
+passed. After immense labour (for the difficulty of the calculation was
+extreme, and the mass of mere figures something portentous), he
+predicted its return on the 13th of April, 1759, but he considered that
+he might have made a possible error of a month. It returned on the 13th
+of March, 1759, and established beyond all doubt the rule of the
+Newtonian theory over comets.
+
+[Illustration: FIG. 71.--Well-known model exhibiting the oblate
+spheroidal form as a consequence of spinning about a central axis. The
+brass strip _a_ looks like a transparent globe when whirled, and bulges
+out equatorially.]
+
+No. 10. Applying the idea of centrifugal force to the earth considered
+as a rotating body, he perceived that it could not be a true sphere, and
+calculated its oblateness, obtaining 28 miles greater equatorial than
+polar diameter.
+
+Here we return to one of the more simple deductions. A spinning body of
+any kind tends to swell at its circumference (or equator), and shrink
+along its axis (or poles). If the body is of yielding material, its
+shape must alter under the influence of centrifugal force; and if a
+globe of yielding substance subject to known forces rotates at a
+definite pace, its shape can be calculated. Thus a plastic sphere the
+size of the earth, held together by its own gravity, and rotating once a
+day, can be shown to have its equatorial diameter twenty-eight miles
+greater than its polar diameter: the two diameters being 8,000 and 8,028
+respectively. Now we have no guarantee that the earth is of yielding
+material: for all Newton could tell it might be extremely rigid. As a
+matter of fact it is now very nearly rigid. But he argued thus. The
+water on it is certainly yielding, and although the solid earth might
+decline to bulge at the equator in deference to the diurnal rotation,
+that would not prevent the ocean from flowing from the poles to the
+equator and piling itself up as an equatorial ocean fourteen miles deep,
+leaving dry land everywhere near either pole. Nothing of this sort is
+observed: the distribution of land and water is not thus regulated.
+Hence, whatever the earth may be now, it must once have been plastic
+enough to accommodate itself perfectly to the centrifugal forces, and to
+take the shape appropriate to a perfectly plastic body. In all
+probability it was once molten, and for long afterwards pasty.
+
+Thus, then, the shape of the earth can be calculated from the length of
+its day and the intensity of its gravity. The calculation is not
+difficult: it consists in imagining a couple of holes bored to the
+centre of the earth, one from a pole and one from the equator; filling
+these both with water, and calculating how much higher the water will
+stand in one leg of the gigantic V tube so formed than in the other. The
+answer comes out about fourteen miles.
+
+The shape of the earth can now be observed geodetically, and it accords
+with calculation, but the observations are extremely delicate; in
+Newton's time the _size_ was only barely known, the _shape_ was not
+observed till long after; but on the principles of mechanics, combined
+with a little common-sense reasoning, it could be calculated with
+certainty and accuracy.
+
+No. 11. From the observed shape of Jupiter or any planet the length of
+its day could be estimated.
+
+Jupiter is much more oblate than the earth. Its two diameters are to one
+another as 17 is to 16; the ellipticity of its disk is manifest to
+simple inspection. Hence we perceive that its whirling action must be
+more violent--it must rotate quicker. As a matter of fact its day is ten
+
+[Illustration: FIG. 72.--Jupiter.]
+
+hours long--five hours daylight and five hours night. The times of
+rotation of other bodies in the solar system are recorded in a table
+above.
+
+No. 12. The so-calculated shape of the earth, in combination with
+centrifugal force, causes the weight of bodies to vary with latitude;
+and Newton calculated the amount of this variation. 194 lbs. at pole
+balance 195 lbs. at equator.
+
+But following from the calculated shape of the earth follow several
+interesting consequences. First of all, the intensity of gravity will
+not be the same everywhere; for at the equator a stone is further from
+the average bulk of the earth (say the centre) than it is at the poles,
+and owing to this fact a mass of 590 pounds at the pole; would suffice
+to balance 591 pounds at the equator, if the two could be placed in the
+pans of a gigantic balance whose beam straddled along an earth's
+quadrant. This is a _true_ variation of gravity due to the shape of the
+earth. But besides this there is a still larger _apparent_ variation due
+to centrifugal force, which affects all bodies at the equator but not
+those at the poles. From this cause, even if the earth were a true
+sphere, yet if it were spinning at its actual pace, 288 pounds at the
+pole could balance 289 pounds at the equator; because at the equator the
+true weight of the mass would not be fully appreciated, centrifugal
+force would virtually diminish it by 1/289th of its amount.
+
+In actual fact both causes co-exist, and accordingly the total variation
+of gravity observed is compounded of the real and the apparent effects;
+the result is that 194 pounds at a pole weighs as much as 195 pounds at
+the equator.

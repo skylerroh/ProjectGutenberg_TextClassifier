@@ -1,0 +1,543 @@
+Project Gutenberg's Cato Maior de Senectute, by Marcus Tullius Cicero
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Cato Maior de Senectute
+
+Author: Marcus Tullius Cicero
+
+Release Date: February 7, 2005 [EBook #14945]
+[Last updated: September 3, 2012]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK CATO MAIOR DE SENECTUTE ***
+
+
+
+
+Produced by Ted Garvin, Keith Edkins and the Online Distributed
+Proofreading Team.
+
+
+
+
+
+
+M. TULLI CICERONIS
+
+CATO MAIOR DE SENECTUTE
+
+_WITH INTRODUCTION AND NOTES_
+
+BY JAMES S. REID, M.L.
+
+American Edition Revised
+
+BY FRANCIS W. KELSEY
+
+UNIVERSITY OF MICHIGAN
+
+_Copyright, 1882_
+
+PREFACE.
+
+Three years ago Mr. James S. Reid, of Gonville and Caius College,
+Cambridge, prepared for the Syndics of the University Press editions of
+Cicero's _Cato Maior de Senectute_ and _Laelius de Amicitia._ The thorough
+and accurate scholarship displayed, especially in the elucidation of the
+Latinity, immediately won for the books a cordial reception; and since then
+they have gained a permanent place in the esteem of English scholars.
+
+The present volume has the full authorization of Mr. Reid, and was prepared
+with the design of presenting to American students, in a form best adapted
+to their use, the results of his work. The Text remains substantially that
+of Mr. Reid; while mention is made in the notes of the most important
+variations in readings and orthography from other editions. The
+Introductions have been recast, with some enlargement; the analyses of the
+subject-matter in particular have been entirely remodelled. The Notes have
+been in some instances reduced, in others amplified,--especially by the
+addition of references to the standard treatises on grammar, history, and
+philosophy. It was at first the intention of the American editor to
+indicate by some mark the matter due to himself; but as this could hardly
+be done without marring the appearance of the page, and thus introducing a
+source of confusion to the student, it was not attempted. In the work of
+revision free use of the principal German and English editions has been
+made.
+
+To some the notes of the present edition may appear too copious. The aim
+throughout, however, has been not simply to give aid on difficult points,
+but to call attention to the finer usages of the Latin, and to add also
+whatever explanation seemed necessary to a clear understanding of the
+subject-matter. Latin scholarship which shall be at the same time broad and
+accurate, including not only a mastery of the language but also a
+comprehensive view of the various phases of Roman life and thought, will,
+it is believed, be best assured by the slow and careful reading of some
+portions of the literature and by the rapid survey of others. Certainly of
+the shorter Latin classics few would more fully repay close and careful
+study of both language and thought than these charming colloquies on Old
+Age and Friendship. While almost faultless in expression, they embody in a
+remarkable degree that universal element which characterizes the literary
+masterpiece, and makes it the valued possession not merely of an age or a
+nation, but of all time.
+
+FRANCIS W. KELSEY
+
+LAKE FOREST, ILL., May, 1882.
+
+       *       *       *       *       *
+
+INTRODUCTION.
+
+I. CICERO AS A WRITER ON PHILOSOPHY.
+
+(i.) STATE OF PHILOSOPHY IN CICERO'S TIME.
+
+In Philosophy the Romans originated nothing. Their energies in the earlier
+years of the state were wholly absorbed in organization and conquest.
+Resting in a stern and simple creed, they had little speculative interest
+in matters outside the hard routine of their daily life. But with the close
+of the Period of Conquest came a change. The influx of wealth from
+conquered provinces, the formation of large landed estates, the excessive
+employment of slave labor, and the consequent rise of a new aristocracy,
+prepared the way for a great revolution. The old religion lost its hold on
+the higher classes; something was needed to take its place. With wealth and
+luxury came opportunity and desire for culture. Greece, with Art,
+Literature, and Philosophy fully developed and highly perfected, stood
+ready to instruct her rude conqueror.[1]
+
+In Cicero's time the productive era of Greek Philosophy had well-nigh
+passed. Its tendency was less speculative, more ethical and practical than
+in the earlier time. There were four prominent schools, the New Academy,
+the Peripatetic, the Stoic, and the Epicurean. The supporters of the
+last-named advocated in Science the doctrine of the atom, in Ethics the
+pursuit of pleasure, in Religion the complete inactivity of the gods.
+
+The Stoics and Peripatetics were divided by comparatively unimportant
+differences. In Ethics, considered by them as almost the whole of
+Philosophy, which was itself defined as 'the art of living', the main
+question between the two schools was the amount of importance to be
+attributed to Virtue,--the Stoics declaring that in comparison with Virtue
+all other things sink into absolute insignificance, while the Peripatetics
+maintained that these have a certain though infinitesimally small
+significance. The New Academy taught at this time no complete philosophical
+system. It simply proclaimed the view that in the field of knowledge
+certainty is unattainable, and that all the inquirer has to do is to
+balance probabilities one against the other. The New Academic, therefore,
+was free to accept any opinions which seemed to him to have the weight of
+probability on their side, but he was bound to be ready to abandon them
+when anything appeared which altered his views of the probabilities. He not
+only might be, but he could not help being, _eclectic_; that is, he chose
+such views promulgated by other schools as seemed to him at the moment to
+be most reasonable or probable. Cicero called himself an adherent of this
+school. On most points however, although eclectic, he agreed with the
+Peripatetics, but with a decided leaning toward the Stoic ethical system.
+The Stoic opinion that it is the duty of the wise man to abstain from
+public life, which the Peripatetics contested, Cicero decisively rejected.
+With the Epicureans he had absolutely no sympathy. Up to this time these
+schools and their teachings were known to the Romans only through the
+medium of the Greek. The only Latin philosophical literature was Epicurean,
+and, excepting the poem of Lucretius (_De Rerum Natura_), scarcely famous
+as yet, consisted entirely of books rudely written, although considerably
+read.
+
+(ii.) THE MISSION OF CICERO IN PHILOSOPHY.
+
+Cicero made no claim to originality as a philosopher, nor even to complete
+acquaintance with every detail of the Greek systems.[2] In early life he
+had studied with enthusiasm and success all the learning of the Greeks, but
+especially in the two departments of Rhetoric and Philosophy, then closely
+connected, or rather hardly distinguished. He not only sought the society
+of learned Greeks, but spent considerable time in study at Rhodes and
+Athens, which had become not merely the 'school of Greece', as Thucydides
+makes Pericles call her, but the school of the civilized world.[3] When, by
+reason of political troubles, he was forced to retire to private life, he
+began to carry out a great plan for interpreting the best philosophical
+writings of the Greeks to his fellow-countrymen. For this work his liberal
+views as a New Academic peculiarly fitted him. His usual method was to take
+one or two leading Greek works on the subject with which he was dealing,
+and to represent freely in his own language their subject-matter,
+introducing episodes and illustrations of his own. He thus presented to the
+Romans in their own tongue the most significant portions of the Greek
+Philosophy; and in his writings there has come down to us much, especially
+of the Post-Aristotelian Philosophy, that was doomed to oblivion in the
+original Greek. But further than this, to Cicero more than to any other
+Roman is due the formation of a Latin philosophical vocabulary, by which
+the language was enriched and fitted for the part it has since taken as the
+Language of the Learned. While on many points Cicero's own views can hardly
+be determined with perfect exactness, the exalted sentiments and the
+exquisite literary finish of his philosophical writings have always won
+admiration; and through them he has exerted no small influence on the
+literature and life of modern times.[4]
+
+(iii.) THE PHILOSOPHICAL WRITINGS OF CICERO.
+
+During the whole of an exceptionally busy public life Cicero devoted his
+spare moments to reading and to the society of the learned. After his exile
+in 58 and 57 B.C. his political career, except for a brief period just
+before his death, was over, and it is at this time that his period of great
+literary activity begins, In 55 he produced the work _De Oratore_, in 54
+the _De Re Publica_, and in 52 the _De Legibus_, all three works, according
+to ancient ideas, entitled to rank as philosophical.[5]
+
+From 51 to 46 B.C., owing first to his absence in Cilicia, then to the
+civil troubles, Cicero almost ceased to write. But in the latter year he
+was reconciled with Caesar, and as the Senate and law courts were closed
+against him on his refusal to compromise his political principles, he
+betook himself with greater devotion than ever to literature. The first
+work written in 46 was the _Hortensius_, or _De Philosophia_, now lost. It
+was founded on a lost dialogue of Aristotle, and set forth the advantages
+of studying Philosophy. During the same year Cicero completed several
+oratorical works, the _Partitiones Oratoriae_, the _Brutus_, or _De Claris
+Oratoribus_, and the _Orator_, all of which are extant.
+
+Early in 45 Cicero lost his beloved daughter Tullia. He passed the whole
+year in retirement, trying to soothe his grief by incessant writing. In
+quick succession appeared
+
+_De Consolatione_, an attempt to apply philosophy to the mitigation of his
+own sorrow and that of others;
+
+_Academica_, an exposition of the New Academic Philosophy, advocating
+probability rather than certainty as the foundation of philosophy;
+
+_De Finibus Bonorum et Malorum_, a work criticising the most prominent
+views entertained concerning Ethics;
+
+_Disputationes Tusculanae_, treating of certain conditions essential to
+morality and happiness;
+
+_De Natura Deorum_, an examination of the principal theories regarding the
+nature and power of the gods;
+
+_Cato Maior_, on old age; _Laelius_, on friendship;
+
+_De Fato_, discussing Fate and Free Will;
+
+_Paradoxa_, a book setting forth certain remarkable views of the Stoics;
+
+_De Officiis_, a treatise on practical ethics, the application of moral
+principles to the questions and difficulties of ordinary life.
+
+These works, written mostly in 45 and 44, are, except the _De Cons.,_ still
+extant. To the list may be added also other works of a rhetorical nature,
+such as the _Topica_ and _De Optima Genere Dicendi_, and some lost
+philosophical books, such as _De Gloria_.
+
+Even though allowance be made for the fact that Cicero was giving in Latin
+the substance of Greek books with which he had been familiar from boyhood,
+the mental vigor and literary power exhibited by this series of works
+appear prodigious when we consider their great compass and variety and the
+generally high finish of their style.
+
+_References._--For a fuller account of Cicero's philosophical views and
+writings consult Ritter, 'History of Ancient Philosophy', Vol. 4, Ch. 2;
+Maurice, 'Moral and Metaphysical Philosophy', Ch. 7, Sec. 5; Tennemann and
+Morell, 'History of Philosophy', Ch. 3; Ueberweg, 'History of Philosophy',
+Vol I, Sec. 61; J.B. Mayor, 'Sketch of Ancient Philosophy', pp. 223-244;
+Teuffel, 'History of Roman Literature', Vol. i, Sec. 172 _et seq._ Cruttwell,
+'History of Roman Literature', Bk. II. Part 1, Ch. 2; 'Cicero', by Collins,
+in Ancient Classics for English Readers, Ch. 10, et seq.; also the
+Introduction to Reid's edition of the _Academica_, and the account of
+Cicero by Prof. Ramsay in Smith's Dictionary of Biography and Mythology.
+The most attractive biography of Cicero in English is that by Forsyth. That
+by Trollope is able but quite partisan. On the philosophy, consult also
+Zeller's 'Eclectics.'
+
+II. THE CATO MAIOR.
+
+(i.) ORIGIN AND SCOPE.
+
+1. _Date and Circumstances of Composition._
+
+The date at which the Cato Maior was written can be determined with almost
+perfect exactness. A mention in Cicero's work entitled _De Divinatione_[6]
+shows that the Cato Maior preceded that work by a short time. The _De
+Divinatione_ was written after the assassination of Caesar, that is, after
+the 15th of March in the year 44.[7] Again, the Cato Maior is mentioned as
+a recent work in three letters addressed by Cicero to Atticus.[8] The
+earliest of these letters was written on or about the 12th of May, 44.[9]
+We shall hardly err, therefore, if we assume that Cicero composed the Cato
+Maior in April of the year 44.[10] This agrees also with slight indications
+in the work itself. In the dedicatory introduction Cicero speaks of
+troubles weighing heavily on himself and Atticus.[11] Any one who reads the
+letters to Atticus despatched in April, 44, will have little doubt that the
+troubles hinted at are the apprehensions as to the course of Antonius, from
+whom Cicero had personally something to fear. Atticus was using all the
+influence he could bring to bear on Antonius in order to secure Cicero's
+safety; hence Cicero's care to avoid in the dedication all but the vaguest
+possible allusions to politics. Had that introduction been written before
+Caesar's death, we should have had plain allusions (as in the prooemia of
+the _Academica_, the _De Finibus_, the _Tusculan Disputations_, and the _De
+Natura Deorum_) to Caesar's dictatorship.[12]
+
+The time was one of desperate gloom for Cicero. The downfall of the old
+constitution had overwhelmed him with sorrow, and his brief outburst of joy
+over Caesar's death had been quickly succeeded by disgust and alarm at the
+proceedings of Antonius. The deep wound caused by his daughter's death[13]
+was still unhealed. It is easy to catch in the Cato Maior some echoes of
+his grief for her. When it is said that of all Cato's titles to admiration
+none is higher than the fortitude he showed in bearing the death of his
+son,[14] the writer is thinking of the struggle he himself had been waging
+against a like sorrow for more than a year past; and when Cato expresses
+his firm conviction that he will meet his child beyond the grave,[15] we
+can see Cicero's own yearning for reunion with his deeply loved Tullia.
+
+2. _Greek Sources._
+
+All Cicero's philosophical and rhetorical writings were confessedly founded
+more or less on Greek originals.[16] The stores from which he principally
+drew in writing the Cato Maior are clearly indicated in several parts of
+the work. Passages from Xenophon's _Oeconomicus_ are translated in Chapters
+17 and 22. In Chapters 2 and 3 there is a close imitation of the
+conversation between Socrates and Cephalus at the beginning of Plato's
+_Republic_, while in Chapter 21 is reproduced one of the most striking
+portions of the _Phaedo_, 72 E-73 B, 78-80.[17] The view of the divine
+origin and destiny of the human soul contained in the passage from the
+_Phaedo_ is rendered by Cicero in many of his works,[18] and was held by
+him with quite a religious fervor and sincerity.
+
+Besides these instances of special indebtedness Cicero, in composing the
+Cato Maior, was no doubt under obligations of a more general kind to the
+Greeks. The form of the dialogue is Greek, and Aristotelian rather than
+Platonic.[19] But further, it is highly probable that Cicero owed to some
+particular Greek dialogue on Old Age the general outline of the arguments
+he there brings forward. Many of the Greek illustrative allusions may have
+had the same origin, though in many cases Roman illustrations must have
+been substituted for Greek. Whether the dialogue by Aristo Cius, cursorily
+mentioned in the Cato Maior,[20] was at all used by Cicero or not it is
+impossible to determine.[21]
+
+3. _Purpose._
+
+The Cato Maior is a popular essay in Ethics, applying the principles of
+philosophy to the alleviation of one of life's chief burdens, old age. In
+ancient times, when philosophy formed the real and only religion of the
+educated class, themes like this were deemed to afford a worthy employment
+for the pens even of the greatest philosophers. Such essays formed the only
+substitute the ancients had for our Sermons. There can be no doubt of
+Cicero's sincerity when he says that the arguments he sets forth in the
+treatise had given him real comfort,[22] and the opening words of the
+dedication show that he meant and hoped to administer the same comfort to
+his friend Atticus, who indeed acknowledged the benefit he derived from the
+work.[23] When Cicero wrote the treatise he was himself sixty-two years of
+age, while his friend was three years older. He speaks, therefore, rather
+euphemistically when he says that his purpose is to lighten the trouble of
+an old age which is already close at hand, or at all events
+approaching.[24]
+
+But in addition to the main ethical purpose, there was, as in many of
+Cicero's works, a distinct political purpose. He desired to stimulate in
+his readers an admiration for what he regarded as the golden age of Roman
+politics, the era of the Punic wars, and to do this by making the contrast
+between that age and his own appear as striking as possible. A like double
+purpose is apparent throughout the _De Re Publica_, where Africanus the
+younger is the chief personage, and in the treatise on Friendship, where
+Laelius is the central figure. For the dialogue on Old Age M. Porcius Cato
+the Censor is selected as the principal speaker for two reasons: first,
+because he was renowned for the vigor of mind and body he displayed in
+advanced life;[25] and secondly, because in him were conspicuously
+exhibited the serious simplicity, the unswerving adherence to principle,
+and the self-sacrificing patriotism which were the ideal Roman virtues, and
+which Cicero could not find among the politicians of his time.
+
+4. _Form and Language._
+
+The Cato Maior, like most of Cicero's philosophical writings, is cast in
+the form of a dialogue. Among the ancients the dialogue was a common
+rhetorical device, especially in the presentation of abstruse subjects. The
+introduction of characters to conduct the discussion gave vividness and
+clearness to the unfolding of the argument, as well as a kind of dramatic
+interest to the production. In the Cato Maior[26] and the Laelius, as
+generally, Cicero followed the plan of Aristotle's dialogues (now lost)
+rather than that of the dialogues of Plato. In the former there was more of
+exposition and less of discussion than in the latter; one person stated his
+views on some question, and the company in attendance only made occasional
+remarks without attempting to debate the question. In the latter, although
+one person, Socrates, is everywhere prominent, others are continually drawn
+into the discussions, and there is a quick interchange of question and
+answer. The Aristotelian form was better adapted to Cicero's purposes than
+the Platonic; the progress of the argument was less interrupted, and thus
+better opportunity for a symmetrical development of the theme was afforded.
+Then, too, the former was more popular. The style of Aristotle[27] had been
+imitated by Theophrastus and many other writers down to Cicero's time,
+while that of Plato had found hardly any imitators.
+
+The editors of the Cato Maior have generally assumed that Cicero attempted
+to give an antique coloring to the diction of the dialogue in order to
+remind readers of Cato's own style. It is only necessary to read a page or
+two of Cato's _De Re Rustica_ to have this illusion dispelled. The only
+things actually alleged to be archaisms are (1) the use of deponent
+participles as passives in Sec.Sec. 4, 59, 74, a thing common enough in Cicero;
+(2) the occurrence of _quasi_ = _quem ad modum_ in Sec. 71; (3) of _audaciter_
+= _audacter_ in Sec. 72; (4) of _tuerentur_ for _intuerentur_ in Sec. 77; (5) of
+_neutiquam_ in Sec. 42; (6) of the nominative of the gerundive governing an
+accusative case in Sec. 6. In every instance the notes will supply a
+refutation of the allegation. That Cicero should attempt to write in any
+style but his own is exceedingly improbable.
+
+5. _Personages._
+
+The conversation is supposed to take place between Cato, Scipio Africanus
+the younger, and Laelius, in the year before Cato's death, _i.e._ 150 B.C.,
+when he was in his eighty-fourth year,[28] Scipio being about 35 and
+Laelius a few years older.
+
+(1.) _Cato._ M. Porcius Cato was born in 234 B.C.[29] at the ancient Latin
+town of Tusculum. Little is known of his family except that it was
+plebeian, and possessed a small patrimony in the territory of the Sabines,
+close to the farm of M'. Curius Dentatus, one of Cato's great heroes and
+models. The heads of the family, so far as memory extended, had
+distinguished themselves as tough warriors and hardy farmers. Among the
+Sabines, who even down to the times of the Empire were famed for simplicity
+of manners and the practice of all the sterner virtues, Cato passed those
+portions of his life which were not occupied with business of state. From
+his earliest days he toiled in his own fields, and contented himself with
+the hardest rustic life.[30] Yet even in his boyhood Cato must have passed
+intervals at Rome, and seen something of the great statesmen and generals
+of the time.[31] He seems to have received when young as thorough an
+education as was possible without learning Greek, such an education as was
+to be obtained only in the capital. He grew up to manhood in the
+comparatively quiet period between the first and the second Punic wars; the
+most exciting event of his younger years must have been the destruction at
+Clastidium of the vast hordes of Celts who had swept over the northern half
+of Italy, almost within reach of Rome.
+
+Cato was of the age for military service about the time of the battle of
+Lake Trasimenus, and entered the army then as a common soldier.[32] The
+first expedition in which he is definitely said to have taken part is that
+of Q. Fabius Maximus Cunctator against Hannibal in Campania, in 214.[33]
+This Roman commander was a man entirely after Cato's heart, and became one
+of his models in public life.
+
+Before and during the early years of his soldier's life, Cato succeeded in
+winning some reputation as an orator, having practised first in the
+provincial courts near his home, and afterwards at Rome.[34] This
+reputation as well as his great force of character procured for him a
+powerful life-long friend and patron, M. Valerius Flaccus, a statesman of
+the old Roman conservative-democratic school of politics, the leader of
+which was Fabius Cunctator. Through the influence of Flaccus, possibly with
+the aid of Fabius, Cato became military tribune, and served with that rank
+under Marcellus in Sicily, under Fabius again at the capture of Tarentum in
+209,[35] and under C. Claudius Nero at the battle of the Metaurus, where he
+contributed materially to that great victory.
+
+In 204 Cato began his political career with the quaestorship.[36] As he was
+a _novus homo_ and a man of small private means, it was no small
+distinction that he had forced his way to office in his thirtieth year. The
+lot assigned him as quaestor to Scipio, then in Sicily and about to cross
+over into Africa. The chance was most unfortunate, if for no other reason,
+because Cato was intimately connected with the party in the senate opposed
+to Scipio, which had been attempting to bring him to trial for the
+atrocities committed by the Roman army in southern Italy. But in addition
+the two men were so utterly different that there was no possibility of the
+quaestor standing in that filial relation to his consul, which old Roman
+custom required. As financial officer, Cato complained of the luxury and
+extravagance which Scipio allowed not only to himself but to his army. Yet
+the complaint was made not so much on economic as on moral grounds; it
+seemed to Cato that the old Roman discipline and power to endure hardships
+were being swept away. The dispute was ended by Scipio allowing Cato to
+return to Rome, some authorities say from Sicily, others from Africa.
+According to one writer,[37] he came home by way of Sardinia and brought
+thence with him Ennius the poet.[38]
+
+In 199 Cato was plebeian aedile, and exercised with severity the police
+jurisdiction pertaining to that office, yet so as to win popular approval,
+since he was chosen praetor for 198 without the usual interval. The
+province of Sardinia was entrusted to him, and he strained every nerve to
+make his government present as strong a contrast as possible with the lax
+and corrupt administration of the nobles who took Scipio for their pattern.
+The troops were sternly disciplined, and law-breakers of every kind
+severely dealt with; in money matters the strictest economy prevailed; all
+gifts from provincials to Roman officers were forbidden. The praetor, the
+great representative of Roman power, passed from town to town attended by a
+single servant.
+
+In 196 Cato was occupied with his canvass for the consulship of the year
+195, to which he was elected in company with his friend Flaccus. Cato was
+the first _novus homo_ elected since C. Flaminius, the consul of 217. It is
+probable, though not certain, that he paved the way to his election by
+carrying the first of the _leges Porciae_, restricting the right of
+punishing Roman citizens. During the whole of his career Cato showed a high
+sense of the importance of the individual _civis Romanus_.
+
+One of the first official acts of the new consul was to deliver a set
+speech to the people against a proposal to repeal the Oppian law, passed
+twenty years before, the object of which was to prevent lavish expenditure
+on dress and adornments, particularly by women. We have a lively report of
+Cato's speech from Livy's pen, partly founded on the speech as published by
+Cato himself.[39] The earnest pleading in favor of simple manners and
+economy failed, after having almost caused an open insurrection on the part
+of the women.[40]
+
+The two new provinces in Spain, Hispania Citerior and Ulterior, were still
+in a very unsettled state. The nearer province was made a consular province
+and assigned to Cato; the praetor who governed the farther province was
+also placed under Cato's jurisdiction. Before leaving Rome Cato carried a
+law for protecting the provincials from extortion. During the whole of his
+year of office he practised with the utmost exactness his principles of
+purity, simplicity, and economy in public affairs. He is said to have
+started from his house on the journey to Spain with only three servants,
+but when he got as far as the forum, it struck him that such an attendance
+was scarcely worthy of a Roman consul; so he purchased two more slaves on
+the spot! In the same spirit, before returning he sold his horse that the
+state might not be at the expense of transporting it to Italy. Cato was no
+less careful of the revenue than of the expenditure. He largely increased
+the productiveness of the mines and other property belonging to the state,
+and all goods captured from the enemy were sold for the benefit of the
+exchequer. On leaving the province Cato made an unusually large gift to
+each soldier, saying that it was better for all to bring home silver than
+for a few to bring home gold. The provincials were thoroughly content with
+their ruler and ever after looked on him as their best friend. The army was
+kept in the strictest discipline. Some disorderly conduct of the _equites_
+was rebuked by Cato in a bitter harangue which he afterwards published.
+Partly by craft, partly by good leadership in the field, Cato broke the
+strength of the turbulent natives and returned to enjoy a well-earned
+triumph.[41] In the same year (194) a brilliant triumph was celebrated by
+Flamininus.
+
+Scipio, probably uneasy at the great reputations quickly won by Flamininus
+and Cato, secured his second consulship for the year 194, but failed to
+achieve anything remarkable. Cato probably spent the three years after his
+return for the most part at his Sabine farm. When the war against Antiochus
+broke out, he took service along with his friend Flaccus on the staff of
+the consul Glabrio,[42] and by a difficult march over the mountains broke
+in on the king's rear, and so was chiefly instrumental in winning the great
+battle of Thermopylae, by which Antiochus was driven out of Greece.
+Immediately after the battle Cato returned home with despatches. We have
+dim and uncertain information that he took the field once or twice again,
+but his career as a soldier was practically ended.
+
+From this time to his death, forty years later, Cato was the leading figure
+on the stage of Roman politics. In season and out of season he attacked
+abuses or innovations in speeches addressed to the senate, the people, or
+the courts. Soon after his return from Thessaly he struck a heavy blow at
+the unrepublican honor-hunting among the magistrates, of which the example
+had been set by P. Scipio Africanus. Most provincial governors drove their
+subjects into war, sent lying despatches home about their victories, and
+claimed a triumph. In 190 Cato attacked with success the proposal to grant
+a triumph to Q. Minucius Thermus, who had already triumphed over the
+Spaniards as praetor, and after his consulship in 193 had fought against
+the Ligurians. Cato's next victim was his former commander M'. Acilius
+Glabrio, who came forward at the same time with Cato, Marcellus (a son of
+the captor of Syracuse), L. Cornelius Scipio Nasica, T. Quinctius
+Flamininus (the conqueror of Macedonia) and Cato's friend L. Valerius
+Flaccus, as candidate for the censorship of 189. Cato by his violent
+speeches procured the trial of Glabrio for appropriating the plunder
+captured in Thessaly, and himself gave evidence concerning some property
+which had disappeared. Glabrio denounced Cato as a perjurer, but yet
+retired from his candidature. On this occasion Cato and Flaccus failed,
+Marcellus being elected as plebeian and Flamininus as patrician censor.
+
+In the next year (188) Cato acted in the senate with the party which tried
+unsuccessfully to refuse the triumph to the two consuls of 189, M. Fulvius
+Nobilior and Cn. Manlius Vulso, the former of whom had gained none but
+trifling advantages over the Aetolians, while the latter had disgraced the
+Roman name by making war without authorization upon the Gauls of Asia
+Minor, and had also suffered a humiliating defeat from some Thracian robber

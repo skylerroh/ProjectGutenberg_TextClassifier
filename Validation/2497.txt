@@ -1,0 +1,560 @@
+The Project Gutenberg EBook of The Martyrs of Science, or, The lives of
+Galileo, Tycho Brahe, and Kepler, by David Brewster
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Martyrs of Science, or, The lives of Galileo, Tycho Brahe, and Kepler
+
+Author: David Brewster
+
+Release Date: July 7, 2008 [EBook #25992]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK MARTYRS OF SCIENCE ***
+
+
+
+
+Produced by Bryan Ness, LN Yaddanapudi and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+book was produced from scanned images of public domain
+material from the Google Print project.)
+
+
+
+
+
+
+
+
+
+  THE
+  MARTYRS OF SCIENCE,
+  OR
+  THE LIVES
+  OF
+  GALILEO, TYCHO BRAHE, AND KEPLER.
+
+  BY
+
+  SIR DAVID BREWSTER, K.H. D.C.L.,
+  PRINCIPAL OF THE UNITED COLLEGE OF ST SALVATOR AND ST LEONARD,
+  ST ANDREWS; FELLOW OF THE ROYAL SOCIETY OF LONDON; VICE-PRESIDENT
+  OF THE ROYAL SOCIETY OF EDINBURGH; CORRESPONDING MEMBER
+  OF THE INSTITUTE OF FRANCE; AND MEMBER OF THE
+  ACADEMIES OF ST PETERSBURG, STOCKHOLM,
+  BERLIN, COPENHAGEN, GOTTINGEN,
+  PHILADELPHIA, &c. &c.
+
+  LONDON:
+  JOHN MURRAY, ALBEMARLE STREET.
+  1841.
+
+  G. S. TULLIS, PRINTER, CUPAR.
+
+
+
+
+  TO THE
+  RIGHT HON. FRANCIS LORD GRAY,
+  F.R.S., F.R.S.E.
+
+MY LORD,
+
+In submitting this volume to the public under your Lordship's auspices,
+I avail myself of the opportunity thus afforded me of expressing the
+deep sense which I entertain of the friendship and kindness with which
+your Lordship has so long honoured me.
+
+Although in these days, when Science constitutes the power and wealth of
+nations, and encircles the domestic hearth with its most substantial
+comforts, there is no risk of its votaries being either persecuted or
+neglected, yet the countenance of those to whom Providence has given
+rank and station will ever be one of the most powerful incitements to
+scientific enterprise, as well as one of its most legitimate rewards.
+Next to the satisfaction of cultivating Science, and thus laying up the
+only earthly treasure which we can carry along with us into a better
+state, is that of having encouraged and assisted others in the same
+beneficent labours. That your Lordship may long continue to enjoy these
+sources of happiness is the earnest prayer of,
+
+MY LORD,
+
+Your Lordship's
+
+Most faithful and obedient servant,
+
+DAVID BREWSTER.
+
+ST LEONARDS, ST ANDREWS,
+
+October 12, 1840.
+
+
+
+
+CONTENTS.
+
+
+LIFE OF GALILEO.
+
+                                                                   Page.
+CHAPTER I.                                                             1
+
+  Peculiar interest attached to his Life--His Birth--His early
+  studies--His passion for Mathematics--His work on the Hydrostatic
+  Balance--Appointed Lecturer on Mathematics at Pisa--His antipathy
+  to the Philosophy of Aristotle--His contentions with the
+  Aristotelians--Chosen Professor of Mathematics in Padua--Adopts the
+  Copernican system, but still teaches the Ptolemaic doctrine--His
+  alarming illness--He observes the new Star in 1604--His Magnetical
+  experiments,
+
+CHAPTER II.                                                           20
+
+  Cosmo, Grand Duke of Tuscany, invites Galileo to Pisa--Galileo
+  visits Venice in 1609, where he first hears of the Telescope--He
+  invents and constructs one, which excites a great
+  sensation--Discovers Mountains in the Moon, and Forty Stars in the
+  Pleiades--Discovers Jupiter's Satellites in 1610--Effect of this
+  discovery on Kepler--Manner in which these discoveries were
+  received--Galileo appointed Mathematician to Cosmo--Mayer claims the
+  discovery of the Satellites of Jupiter--Harriot observes them in
+  England in October 1610,
+
+CHAPTER III.                                                          42
+
+  Galileo announces his discoveries in Enigmas--Discovers the
+  Crescent of Venus--the Ring of Saturn--the Spots on the
+  Sun--Similar Observations made in England by Harriot--Claims of
+  Fabricius and Scheiner to the discovery of the Solar
+  Spots--Galileo's Letters to Velser on the claims of Scheiner--His
+  residence at the Villa of Salviati--Composes his work on Floating
+  Bodies, which involves him in new controversies,
+
+CHAPTER IV.                                                           56
+
+  Galileo treats his Opponents with severity and sarcasm--He is aided
+  by the Sceptics of the day--The Church Party the most
+  powerful--Galileo commences the attack, and is answered by Caccini,
+  a Dominican--Galileo's Letter to the Grand Duchess of Tuscany, in
+  support of the motion of the Earth and the stability of the
+  Sun--Galileo visits Rome--Is summoned before the Inquisition--And
+  renounces his opinions as Heretical--The Inquisition denounces the
+  Copernican system--Galileo has an audience of the Pope, but still
+  maintains his opinions in private society--Proposes to find out the
+  Longitude at Sea by means of Jupiter's Satellites--His negotiation
+  on this subject with the Court of Spain--Its failure--He is unable
+  to observe the three Comets of 1618, but is involved in the
+  controversy to which they gave rise,
+
+CHAPTER V.                                                            72
+
+  Urban VIII., Galileo's friend, raised to the Pontificate--Galileo
+  goes to Rome to offer his congratulations--The Pope loads Galileo
+  with presents, and promises a Pension to his Son--Galileo in
+  pecuniary difficulties, owing to the death of his patron,
+  Cosmo--Galileo again rashly attacks the Church, notwithstanding the
+  Pope's kindness--He composes his System of the World, to
+  demonstrate the Copernican System--Artfully obtains a license to
+  print it--Nature of the work--Its influence on the public mind--The
+  Pope resolves on suppressing it--Galileo summoned before the
+  Inquisition--His Trial--His Defence--His formal Abjuration of his
+  Opinions--Observations on his conduct--The Pope shews great
+  indulgence to Galileo, who is allowed to return to his own house at
+  Arcetri as the place of his confinement,
+
+CHAPTER VI.                                                          102
+
+  Galileo loses his favourite Daughter--He falls into a state of
+  melancholy and ill health--Is allowed to go to Florence for its
+  recovery in 1638--But is prevented from leaving his House or
+  receiving his Friends--His friend Castelli permitted to visit him
+  in the presence of an Officer of the Inquisition--He composes his
+  celebrated Dialogues on Local Motion--Discovers the Moon's
+  Libration--Loses the sight of one Eye--The other Eye attacked by
+  the same Disease--Is struck Blind--Negociates with the Dutch
+  Government respecting his Method of finding the Longitude--He is
+  allowed free intercourse with his Friends--His Illness and Death in
+  1642--His Epitaph--His Social, Moral, and Scientific Character,
+
+       *       *       *       *       *
+
+
+LIFE OF TYCHO BRAHE.
+
+CHAPTER I.                                                           123
+
+  Tycho's Birth, Family, and Education--An Eclipse of the Sun turns
+  his attention to Astronomy--Studies Law at Leipsic--But pursues
+  Astronomy by stealth--His Uncle's Death--He returns to Copenhagen,
+  and resumes his Observations--Revisits Germany--Fights a Duel, and
+  loses his Nose--Visits Augsburg, and meets Hainzel--Who assists him
+  in making a large Quadrant--Revisits Denmark--And is warmly
+  received by the King--He settles at his Uncle's Castle of
+  Herritzvold--His Observatory and Laboratory--Discovers the new Star
+  in Cassiopeia--Account of this remarkable Body--Tycho's Marriage
+  with a Peasant Girl--Which irritates his Friends--His Lectures on
+  Astronomy--He visits the Prince of Hesse--Attends the Coronation of
+  the Emperor Rudolph at Ratisbon--He returns to Denmark,
+
+CHAPTER II.                                                          145
+
+  Frederick II. patronizes Tycho--And resolves to establish him in
+  Denmark--Grants him the Island of Huen for Life--And Builds the
+  splendid Observatory of Uraniburg--Description of the Island, and
+  of the Observatory--Account of its Astronomical Instruments--Tycho
+  begins his Observations--His Pupils--Tycho is made Canon of
+  Rothschild, and receives a large Pension--His Hospitality to his
+  Visitors--Ingratitude of Wittichius--Tycho sends an Assistant to
+  take the Latitude of Frauenburg and Konigsberg--Is visited by
+  Ulric, Duke of Mecklenburg--Change in Tycho's fortunes,
+
+CHAPTER III.                                                         160
+
+  Tycho's Labours do honour to his Country--Death of Frederick
+  II.--James VI. of Scotland visits Tycho at Uraniburg--Christian IV.
+  visits Tycho--The Duke of Brunswick's visit to Tycho--The Danish
+  Nobility, jealous of his fame, conspire against him--He is
+  compelled to quit Uraniburg--And to abandon his Studies--Cruelty of
+  the Minister Walchendorp--Tycho quits Denmark with his Family and
+  Instruments--Is hospitably received by Count Rantzau--Who
+  introduces him to the Emperor Rudolph--The Emperor invites him to
+  Prague--He gives him a Pension of 3000 Crowns--And the Castle of
+  Benach as a Residence and an Observatory--Kepler visits Tycho--Who
+  obtains for him the Appointment of Mathematician to Rudolph,
+
+CHAPTER IV.                                                          179
+
+  Tycho resumes his Astronomical Observations--Is attacked with a
+  Painful Disease--His Sufferings and Death in 1601--His Funeral--His
+  Temper--His Turn for Satire and Raillery--His Piety--Account of his
+  Astronomical Discoveries--His Love of Astrology and
+  Alchymy--Observations on the Character of the Alchymists--Tycho's
+  Elixir--His Fondness for the Marvellous--His Automata and Invisible
+  Bells--Account of the Idiot, called Lep, whom he kept as a
+  Prophet--History of Tycho's Instruments--His Great Brass Globe
+  preserved at Copenhagen--Present state of the Island of Huen,
+
+       *       *       *       *       *
+
+
+LIFE OF JOHN KEPLER.
+
+CHAPTER I.                                                           203
+
+  Kepler's Birth in 1571--His Family--And early Education--The
+  Distresses and Poverty of his Family--He enters the Monastic School
+  of Maulbronn--And is admitted into the University of Tubingen,
+  where he distinguishes himself, and takes his Degree--He is
+  appointed Professor of Astronomy and Greek in 1594--His first
+  speculations on the Orbits of the Planets--Account of their
+  Progress and Failure--His "Cosmographical Mystery" published--He
+  Marries a Widow in 1597--Religious troubles at Gratz--He retires
+  from thence to Hungary--Visits Tycho at Prague in 1600--Returns to
+  Gratz, which he again quits for Prague--He is taken ill on the
+  road--Is appointed Tycho's Assistant in 1601--Succeeds Tycho as
+  Imperial Mathematician--His Work on the New Star of 1604--Singular
+  specimen of it,
+
+CHAPTER II.                                                          220
+
+  Kepler's Pecuniary Embarrassments--His Inquiries respecting the Law
+  of Refraction--His Supplement to Vitellio--His Researches on
+  Vision--His Treatise on Dioptrics--His Commentaries on Mars--He
+  discovers that the orbit of Mars is an Ellipse, with the Sun in one
+  focus--And extends this discovery to all the other Planets--He
+  establishes the two first laws of Physical Astronomy--His Family
+  Distresses--Death of his Wife--He is appointed Professor of
+  Mathematics at Linz--His Method of Choosing a Second Wife--Her
+  Character, as given by Himself--Origin of his Treatise on
+  Gauging--He goes to Ratisbon to give his Opinion to the Diet on the
+  change of Style--He refuses the Mathematical Chair at Bologna,
+
+CHAPTER III.                                                         237
+
+  Kepler's continued Embarrassments--Death of Mathias--Liberality of
+  Ferdinand--Kepler's "Harmonies of the World"--The Epitome of the
+  Copernican Astronomy--It is prohibited by the Inquisition--Sir
+  Henry Wotton, the British Ambassador, invites Kepler to
+  England--He declines the Invitation--Neglect of Genius by the
+  English Government--Trial of Kepler's Mother--Her final
+  Acquittal--And Death at the age of Seventy-five--The States of
+  Styria burn publicly Kepler's Calendar--He receives his Arrears of
+  Salary from Ferdinand--The Rudolphine Tables published in 1628--He
+  receives a Gold Chain from the Grand Duke of Tuscany--He is
+  Patronised by the Duke of Friedland--He removes to Sagan, in
+  Silesia--Is appointed Professor of Mathematics at Rostoch--Goes to
+  Ratisbon to receive his Arrears--His Death, Funeral, and
+  Epitaph--Monument Erected to his Memory in 1803--His Family--His
+  Posthumous Volume, entitled "The Dream, or Lunar Astronomy,"
+
+CHAPTER IV.                                                          252
+
+  Number of Kepler's published Works--His numerous Manuscripts in 22
+  folio volumes--Purchased by Hevelius, and afterwards by Hansch--Who
+  publishes Kepler's Life and Correspondence at the expense of
+  Charles VI.--The History of the rest of his Manuscripts, which are
+  deposited in the Library of the Academy of Sciences at St
+  Petersburg--General Character of Kepler--His Candour in
+  acknowledging his Errors--His Moral and Religious Character--His
+  Astrological Writings and Opinions considered--His Character as an
+  Astronomer and a Philosopher--The Splendour of his
+  Discoveries--Account of his Method of Investigating Truth,
+
+
+
+
+LIFE OF GALILEO.
+
+
+
+
+CHAPTER I.
+
+     _Peculiar interest attached to his Life--His Birth--His early
+     studies--His passion for Mathematics--His work on the Hydrostatic
+     Balance--Appointed Lecturer on Mathematics at Pisa--His antipathy
+     to the Philosophy of Aristotle--His contentions with the
+     Aristotelians--Chosen professor of Mathematics in Padua--Adopts the
+     Copernican system, but still teaches the Ptolemaic doctrine--His
+     alarming illness--He observes the new Star in 1604--His magnetical
+     experiments._
+
+
+The history of the life and labours of Galileo is pregnant with a
+peculiar interest to the general reader, as well as to the philosopher.
+His brilliant discoveries, the man of science regards as his peculiar
+property; the means by which they were made, and the development of his
+intellectual character, belong to the logician and to the philosopher;
+but the triumphs and the reverses of his eventful life must be claimed
+for our common nature, as a source of more than ordinary instruction.
+
+The lengthened career which Providence assigned to Galileo was filled up
+throughout its rugged outline with events even of dramatic interest. But
+though it was emblazoned with achievements of transcendent magnitude,
+yet his noblest discoveries were the derision of his contemporaries, and
+were even denounced as crimes which merited the vengeance of Heaven.
+Though he was the idol of his friends, and the favoured companion of
+princes, yet he afterwards became the victim of persecution, and spent
+some of his last hours within the walls of a prison; and though the
+Almighty granted him, as it were, a new sight to descry unknown worlds
+in the obscurity of space, yet the eyes which were allowed to witness
+such wonders, were themselves doomed to be closed in darkness.
+
+Such were the lights and shadows in which history delineates
+
+    "The starry Galileo with his woes."[1]
+
+      [1] Childe Harold, canto iv. stanza liv.
+
+
+But, however powerful be their contrasts, they are not unusual in
+their proportions. The balance which has been struck between his days of
+good and evil, is that which regulates the lot of man, whether we study
+it in the despotic sway of the autocrat, in the peaceful inquiries of
+the philosopher, or in the humbler toils of ordinary life.
+
+Galileo Galilei was born at Pisa, on the 15th of February, 1564, and was
+the eldest of a family of three sons and three daughters. Under the name
+of Bonajuti, his noble ancestors had filled high offices at Florence;
+but about the middle of the 14th century they seem to have abandoned
+this surname for that of Galileo. Vincenzo Galilei, our author's father,
+was himself a philosopher of no mean powers; and though his talents seem
+to have been exercised only in the composition of treatises on the
+theory and practice of music, yet he appears to have anticipated even
+his son in a just estimate of the philosophy of the age, and in a
+distinct perception of the true method of investigating truth.[2]
+
+     [2] Life of Galileo, Library of Useful Knowledge, p. 1.
+
+The early years of Galileo were, like those of almost all great
+experimental philosophers, spent in the construction of instruments and
+pieces of machinery, which were calculated chiefly to amuse himself and
+his schoolfellows. This employment of his hands, however, did not
+interfere with his regular studies; and though, from the straitened
+circumstances of his father, he was educated under considerable
+disadvantages, yet he acquired the elements of classical literature, and
+was initiated into all the learning of the times. Music, drawing, and
+painting were the occupations of his leisure hours; and such was his
+proficiency in these arts, that he was reckoned a skilful performer on
+several musical instruments, especially the lute; and his knowledge of
+pictures was held in great esteem by some of the best artists of his
+day.
+
+Galileo seems to have been desirous of following the profession of a
+painter: but his father had observed decided indications of early
+genius; and, though by no means able to afford it, he resolved to send
+him to the university to pursue the study of medicine. He accordingly
+enrolled himself as a scholar in arts at the university of Pisa, on the
+5th of November, 1581, and pursued his medical studies under the
+celebrated botanist Andrew Caesalpinus, who filled the chair of medicine
+from 1567 to 1592.
+
+In order to study the principles of music and drawing, Galileo found it
+necessary to acquire some knowledge of geometry. His father seems to
+have foreseen the consequences of following this new pursuit, and though
+he did not prohibit him from reading Euclid under Ostilio Ricci, one of
+the professors at Pisa, yet he watched his progress with the utmost
+jealousy, and had resolved that it should not interfere with his medical
+studies. The demonstrations, however, of the Greek mathematician had too
+many charms for the ardent mind of Galileo. His whole attention was
+engrossed with the new truths which burst upon his understanding; and
+after many fruitless attempts to check his ardour and direct his
+thoughts to professional objects, his father was obliged to surrender
+his parental control, and allow the fullest scope to the genius of his
+son.
+
+From the elementary works of geometry, Galileo passed to the writings of
+Archimedes; and while he was studying the hydrostatical treatise[3] of
+the Syracusan philosopher, he wrote his essay on the hydrostatical
+balance,[4] in which he describes the construction of the instrument,
+and the method by which Archimedes detected the fraud committed by the
+jeweller in the composition of Hiero's crown. This work gained for its
+author the esteem of Guido Ubaldi, who had distinguished himself by his
+mechanical and mathematical acquirements, and who engaged his young
+friend to investigate the subject of the centre of gravity in solid
+bodies. The treatise on this subject, which Galileo presented to his
+patron, proved the source of his future success in life.
+
+     [3] De Insidentibus in Fluido.
+
+     [4] Opere di Galileo. Milano, 1810, vol. iv. p. 248-257.
+
+Through the Cardinal del Monte, the brother-in-law of Ubaldi, the
+reigning Duke of Tuscany, Ferdinand de Medici was made acquainted with
+the merits of our young philosopher; and, in 1589, he was appointed
+lecturer on mathematics at Pisa. As the salary, however, attached to
+this office was only sixty crowns, he was compelled to enlarge this
+inadequate income by the additional occupation of private teaching, and
+thus to encroach upon the leisure which he was anxious to devote to
+science.
+
+With this moderate competency, Galileo commenced his philosophical
+career. At the early age of eighteen, when he had entered the
+university, his innate antipathy to the Aristotelian philosophy began to
+display itself. This feeling was strengthened by his earliest inquiries;
+and upon his establishment at Pisa he seems to have regarded the
+doctrines of Aristotle as the intellectual prey which, in his chace of
+glory, he was destined to pursue. Nizzoli, who flourished near the
+beginning of the sixteenth century, and Giordano Bruno, who was burned
+at Rome in 1600, led the way in this daring pursuit; but it was reserved
+for Galileo to track the Thracian boar through its native thickets, and,
+at the risk of his own life, to strangle it in its den.
+
+With the resolution of submitting every opinion to the test of
+experiment, Galileo's first inquiries at Pisa were directed to the
+mechanical doctrines of Aristotle. Their incorrectness and absurdity
+soon became apparent; and with a zeal, perhaps, bordering on
+indiscretion, he denounced them to his pupils with an ardour of manner
+and of expression proportioned to his own conviction of the truth. The
+detection of long-established errors is apt to inspire the young
+philosopher with an exultation which reason condemns. The feeling of
+triumph is apt to clothe itself in the language of asperity; and the
+abettor of erroneous opinions is treated as a species of enemy to
+science. Like the soldier who fleshes his first spear in battle, the
+philosopher is apt to leave the stain of cruelty on his early
+achievements. It is only from age and experience, indeed, that we can
+expect the discretion of valour, whether it is called forth in
+controversy or in battle. Galileo seems to have waged this stern warfare
+against the followers of Aristotle; and such was the exasperation which
+was excited by his reiterated and successful attacks, that he was
+assailed, during the rest of his life, with a degree of rancour which
+seldom originates in a mere difference of opinion. Forgetting that all
+knowledge is progressive, and that the errors of one generation call
+forth the comments, and are replaced by the discoveries, of the next,
+Galileo did not anticipate that his own speculations and incompleted
+labours might one day provoke unmitigated censure; and he therefore
+failed in making allowance for the prejudices and ignorance of his
+opponents. He who enjoys the proud lot of taking a position in advance
+of his age, need not wonder that his less gifted contemporaries are left
+behind. Men are not necessarily obstinate because they cleave to deeply
+rooted and venerable errors, nor are they absolutely dull when they are
+long in understanding and slow in embracing newly discovered truths.
+
+It was one of the axioms of the Aristotelian mechanics, that the heavier
+of two falling bodies would reach the ground sooner than the other, and
+that their velocities would be proportional to their weights. Galileo
+attacked the arguments by which this opinion was supported; and when he
+found his reasoning ineffectual, he appealed to direct experiment. He
+maintained, that all bodies would fall through the same height in the
+same time, if they were not unequally retarded by the resistance of the
+air: and though he performed the experiment with the most satisfactory
+results, by letting heavy bodies fall from the leaning tower of Pisa,
+yet the Aristotelians, who with their own eyes saw the unequal weights
+strike the ground at the same instant, ascribed the effect to some
+unknown cause, and preferred the decision of their master to that of
+nature herself.
+
+Galileo could not brook this opposition to his discoveries; nor could
+the Aristotelians tolerate the rebukes of their young instructor. The
+two parties were, consequently, marshalled in hostile array; when,
+fortunately for both, an event occurred, which placed them beyond the
+reach of danger. Don Giovanni de Medici, a natural son of Cosmo, had
+proposed a method of clearing out the harbour of Leghorn. Galileo, whose
+opinion was requested, gave such an unfavourable report upon it, that
+the disappointed inventor directed against him all the force of his
+malice. It was an easy task to concentrate the malignity of his enemies
+at Pisa; and so effectually was this accomplished, that Galileo resolved
+to accept another professorship, to which he had been previously
+invited.
+
+The chair of mathematics in the university of Padua having been vacant
+for five years, the republic of Venice had resolved to fill it up; and,
+on the recommendation of Guido Ubaldi, Galileo was appointed to it, in
+1592, for a period of six years.
+
+Previous to this event, Galileo had lost his father, who died, in 1591,
+at an advanced age. As he was the eldest son, the support of the family
+naturally devolved upon him; and this sacred obligation must have
+increased his anxiety to better his circumstances, and therefore added
+to his other inducements to quit Pisa. In September 1592, he removed to
+Padua, where he had a salary of only 180 florins, and where he was again
+obliged to add to his income by the labours of tuition. Notwithstanding
+this fruitless occupation of his time, he appears to have found leisure
+for composing several of his works, and completing various inventions,
+which will be afterwards described. His manuscripts were circulated
+privately among his friends and pupils; but some of them strayed beyond
+this sacred limit, and found their way into the hands of persons, who
+did not scruple to claim and publish, as their own, the discoveries and
+inventions which they contained.
+
+It is not easy to ascertain the exact time when Galileo became a convert
+to the doctrines of Copernicus, or the particular circumstances under
+which he was led to adopt them. It is stated by Gerard Voss, that a
+public lecture of Moestlin, the instructor of Kepler, was the means of
+making Galileo acquainted with the true system of the universe. This
+assertion, however, is by no means probable; and it has been ably shown,
+by the latest biographer of Galileo,[5] that, in his dialogues on the
+Copernican system, our author gives the true account of his own
+conversion. This passage is so interesting, that we shall give it
+entire.
+
+     [5] Life of Galileo, in Library of Useful Knowledge, p. 9.
+
+"I cannot omit this opportunity of relating to you what happened to
+myself at the time when this opinion (the Copernican system) began to be
+discussed. I was then a very young man, and had scarcely finished my
+course of philosophy, which other occupations obliged me to leave off,
+when there arrived in this country, from Rostoch, a foreigner, whose
+name, I believe, was Christian Vurstisius (Wurteisen), a follower of
+Copernicus. This person delivered, on this subject, two or three
+lectures in a certain academy, and to a crowded audience. Believing that
+several were attracted more by the novelty of the subject than by any
+other cause, and being firmly persuaded that this opinion was a piece of
+solemn folly, I was unwilling to be present. Upon interrogating,
+however, some of those who were there, I found that they all made it a
+subject of merriment, with the exception of one, who assured me that it
+was not a thing wholly ridiculous. As I considered this individual to be
+both prudent and circumspect, I repented that I had not attended the
+lectures; and, whenever I met any of the followers of Copernicus, I
+began to inquire if they had always been of the same opinion. I found
+that there was not one of them who did not declare that he had long
+maintained the very opposite opinions, and had not gone over to the new

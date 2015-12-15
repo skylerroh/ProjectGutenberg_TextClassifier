@@ -1,0 +1,576 @@
+intense heat of the electric furnace.
+
+~Occurrence of the elements.~ Comparatively few of the elements occur as
+uncombined substances in nature, most of them being found in the form of
+chemical compounds. When an element does occur by itself, as is the case
+with gold, we say that it occurs in the _free state_ or _native_; when
+it is combined with other substances in the form of compounds, we say
+that it occurs in the _combined state_, or _in combination_. In the
+latter case there is usually little about the compound to suggest that
+the element is present in it; for we have seen that elements lose their
+own peculiar properties when they enter into combination with other
+elements. It would never be suspected, for example, that the reddish,
+earthy-looking iron ore contains iron.
+
+~Names of elements.~ The names given to the elements have been selected in
+a great many different ways. (1) Some names are very old and their
+original meaning is obscure. Such names are iron, gold, and copper. (2)
+Many names indicate some striking physical property of the element. The
+name bromine, for example, is derived from a Greek word meaning a
+stench, referring to the extremely unpleasant odor of the substance. The
+name iodine comes from a word meaning violet, alluding to the beautiful
+color of iodine vapor. (3) Some names indicate prominent chemical
+properties of the elements. Thus, nitrogen means the producer of niter,
+nitrogen being a constituent of niter or saltpeter. Hydrogen means water
+former, signifying its presence in water. Argon means lazy or inert, the
+element being so named because of its inactivity. (4) Other elements are
+named from countries or localities, as germanium and scandium.
+
+~Symbols.~ In indicating the elements found in compounds it is
+inconvenient to use such long names, and hence chemists have adopted a
+system of abbreviations. These abbreviations are known as _symbols_,
+each element having a distinctive symbol. (1) Sometimes the initial
+letter of the name will suffice to indicate the element. Thus I stands
+for iodine, C for carbon. (2) Usually it is necessary to add some other
+characteristic letter to the symbol, since several names may begin with
+the same letter. Thus C stands for carbon, Cl for chlorine, Cd for
+cadmium, Ce for cerium, Cb for columbium. (3) Sometimes the symbol is an
+abbreviation of the old Latin name. In this way Fe (ferrum) indicates
+iron, Cu (cuprum), copper, Au (aurum), gold. The symbols are included in
+the list of elements given in the Appendix. They will become familiar
+through constant use.
+
+~Chemical affinity the cause of chemical combination.~ The agency which
+causes substances to combine and which holds them together when combined
+is called _chemical affinity_. The experiments described in this
+chapter, however, show that heat is often necessary to bring about
+chemical action. The distinction between the cause producing chemical
+action and the circumstances favoring it must be clearly made. Chemical
+affinity is always the cause of chemical union. Many agencies may make
+it possible for chemical affinity to act by overcoming circumstances
+which stand in its way. Among these agencies are heat, light, and
+electricity. As a rule, solution also promotes action between two
+substances. Sometimes these agencies may overcome chemical attraction
+and so occasion the decomposition of a compound.
+
+
+EXERCISES
+
+1. To what class of changes do the following belong? (a) The melting
+of ice; (b) the souring of milk; (c) the burning of a candle; (d)
+the explosion of gunpowder; (e) the corrosion of metals. What test
+question must be applied in each of the above cases?
+
+2. Give two additional examples (a) of chemical changes; (b) of
+physical changes.
+
+3. Is a chemical change always accompanied by a physical change? Is a
+physical change always accompanied by a chemical change?
+
+4. Give two or more characteristics of a chemical change.
+
+5. (a) When a given weight of water freezes, does it absorb or evolve
+heat? (b) When the resulting ice melts, is the total heat change the
+same or different from that of freezing?
+
+6. Give three examples of each of the following: (a) mechanical
+mixtures; (b) chemical compounds; (c) elements.
+
+7. Give the derivation of the names of the following elements: thorium,
+gallium, selenium, uranium. (Consult dictionary.)
+
+8. Give examples of chemical changes which are produced through the
+agency of heat; of light; of electricity.
+
+
+
+
+CHAPTER II
+
+OXYGEN
+
+
+~History.~ The discovery of oxygen is generally attributed to the English
+chemist Priestley, who in 1774 obtained the element by heating a
+compound of mercury and oxygen, known as red oxide of mercury. It is
+probable, however, that the Swedish chemist Scheele had previously
+obtained it, although an account of his experiments was not published
+until 1777. The name oxygen signifies acid former. It was given to the
+element by the French chemist Lavoisier, since he believed that all
+acids owe their characteristic properties to the presence of oxygen.
+This view we now know to be incorrect.
+
+~Occurrence.~ Oxygen is by far the most abundant of all the elements. It
+occurs both in the free and in the combined state. In the free state it
+occurs in the air, 100 volumes of dry air containing about 21 volumes of
+oxygen. In the combined state it forms eight ninths of water and nearly
+one half of the rocks composing the earth's crust. It is also an
+important constituent of the compounds which compose plant and animal
+tissues; for example, about 66% by weight of the human body is oxygen.
+
+~Preparation.~ Although oxygen occurs in the free state in the atmosphere,
+its separation from the nitrogen and other gases with which it is mixed
+is such a difficult matter that in the laboratory it has been found more
+convenient to prepare it from its compounds. The most important of the
+laboratory methods are the following:
+
+1. _Preparation from water._ Water is a compound, consisting of 11.18%
+hydrogen and 88.82% oxygen. It is easily separated into these
+constituents by passing an electric current through it under suitable
+conditions. The process will be described in the chapter on water. While
+this method of preparation is a simple one, it is not economical.
+
+2. _Preparation from mercuric oxide._ This method is of interest, since
+it is the one which led to the discovery of oxygen. The oxide, which
+consists of 7.4% oxygen and 92.6% mercury, is placed in a small, glass
+test tube and heated. The compound is in this way decomposed into
+mercury which collects on the sides of the glass tube, forming a silvery
+mirror, and oxygen which, being a gas, escapes from the tube. The
+presence of the oxygen is shown by lighting the end of a splint,
+extinguishing the flame and bringing the glowing coal into the mouth of
+the tube. The oxygen causes the glowing coal to burst into a flame.
+
+     In a similar way oxygen may be obtained from its compounds with
+     some of the other elements. Thus manganese dioxide, a black
+     compound of manganese and oxygen, when heated to about 700 deg.,
+     loses one third of its oxygen, while barium dioxide, when
+     heated, loses one half of its oxygen.
+
+3. _Preparation from potassium chlorate (usual laboratory method)._
+Potassium chlorate is a white solid which consists of 31.9% potassium,
+28.9% chlorine, and 39.2% oxygen. When heated it undergoes a series of
+changes in which all the oxygen is finally set free, leaving a compound
+of potassium and chlorine called potassium chloride. The change may be
+represented as follows:
+
+   /potassium\
+  |           | (potassium     / potassium \ (potassium
+ {  chlorine   }            = {             }             + oxygen
+  |           |  chlorate)     \ chlorine  /  chloride)
+   \oxygen   /
+
+[Illustration: JOSEPH PRIESTLEY (English) (1733-1804)
+
+School-teacher, theologian, philosopher, scientist; friend of Benjamin
+Franklin; discoverer of oxygen; defender of the phlogiston theory; the
+first to use mercury in a pneumatic trough, by which means he first
+isolated in gaseous form hydrochloric acid, sulphur dioxide, and
+ammonia]
+
+The evolution of the oxygen begins at about 400 deg.. It has been found,
+however, that if the potassium chlorate is mixed with about one fourth
+its weight of manganese dioxide, the oxygen is given off at a much lower
+temperature. Just how the manganese dioxide brings about this result is
+not definitely known. The amount of oxygen obtained from a given weight
+of potassium chlorate is exactly the same whether the manganese dioxide
+is present or not. So far as can be detected the manganese dioxide
+undergoes no change.
+
+[Illustration: Fig. 4]
+
+~Directions for preparing oxygen.~ The manner of preparing oxygen from
+potassium chlorate is illustrated in the accompanying diagram (Fig. 4).
+A mixture consisting of one part of manganese dioxide and four parts of
+potassium chlorate is placed in the flask A and gently heated. The
+oxygen is evolved and escapes through the tube B. It is collected by
+bringing over the end of the tube the mouth of a bottle completely
+filled with water and inverted in a vessel of water, as shown in the
+figure. The gas rises in the bottle and displaces the water. In the
+preparation of large quantities of oxygen, a copper retort (Fig. 5) is
+often substituted for the glass flask.
+
+[Illustration: Fig. 5]
+
+In the preparation of oxygen from potassium chlorate and manganese
+dioxide, the materials used must be pure, otherwise a violent explosion
+may occur. The purity of the materials is tested by heating a small
+amount of the mixture in a test tube.
+
+~The collection of gases.~ The method used for collecting oxygen
+illustrates the general method used for collecting such gases as are
+insoluble in water or nearly so. The vessel C (Fig. 4), containing the
+water in which the bottles are inverted, is called a _pneumatic trough._
+
+~Commercial methods of preparation.~ Oxygen can now be purchased stored
+under great pressure in strong steel cylinders (Fig. 6). It is prepared
+either by heating a mixture of potassium chlorate and manganese dioxide,
+or by separating it from the nitrogen and other gases with which it is
+mixed in the atmosphere. The methods employed for effecting this
+separation will be described in subsequent chapters.
+
+[Illustration: Fig. 6]
+
+~Physical properties.~ Oxygen is a colorless, odorless, tasteless gas,
+slightly heavier than air. One liter of it, measured at a temperature of
+0 deg. and under a pressure of one atmosphere, weighs 1.4285 g., while under
+similar conditions one liter of air weighs 1.2923 g. It is but slightly
+soluble in water. Oxygen, like other gases, may be liquefied by applying
+very great pressure to the highly cooled gas. When the pressure is
+removed the liquid oxygen passes again into the gaseous state, since its
+boiling point under ordinary atmospheric pressure is -182.5 deg..
+
+~Chemical properties.~ At ordinary temperatures oxygen is not very active
+chemically. Most substances are either not at all affected by it, or the
+action is so slow as to escape notice. At higher temperatures, however,
+it is very active, and unites directly with most of the elements. This
+activity may be shown by heating various substances until just ignited
+and then bringing them into vessels of the gas, when they will burn with
+great brilliancy. Thus a glowing splint introduced into a jar of oxygen
+bursts into flame. Sulphur burns in the air with a very weak flame and
+feeble light; in oxygen, however, the flame is increased in size and
+brightness. Substances which readily burn in air, such as phosphorus,
+burn in oxygen with dazzling brilliancy. Even substances which burn in
+air with great difficulty, such as iron, readily burn in oxygen.
+
+The burning of a substance in oxygen is due to the rapid combination of
+the substance or of the elements composing it with the oxygen. Thus,
+when sulphur burns both the oxygen and sulphur disappear as such and
+there is formed a compound of the two, which is an invisible gas, having
+the characteristic odor of burning sulphur. Similarly, phosphorus on
+burning forms a white solid compound of phosphorus and oxygen, while
+iron forms a reddish-black compound of iron and oxygen.
+
+~Oxidation.~ The term _oxidation_ is applied to the chemical change which
+takes place when a substance, or one of its constituent parts, combines
+with oxygen. This process may take place rapidly, as in the burning of
+phosphorus, or slowly, as in the oxidation (or rusting) of iron when
+exposed to the air. It is always accompanied by the liberation of heat.
+The amount of heat liberated by the oxidation of a definite weight of
+any given substance is always the same, being entirely independent of
+the rapidity of the process. If the oxidation takes place slowly, the
+heat is generated so slowly that it is difficult to detect it. If the
+oxidation takes place rapidly, however, the heat is generated in such a
+short interval of time that the substance may become white hot or burst
+into a flame.
+
+~Combustion; kindling temperature.~ When oxidation takes place so rapidly
+that the heat generated is sufficient to cause the substance to glow or
+burst into a flame the process is called _combustion_. In order that any
+substance may undergo combustion, it is necessary that it should be
+heated to a certain temperature, known as the _kindling temperature._
+This temperature varies widely for different bodies, but is always
+definite for the same body. Thus the kindling temperature of phosphorus
+is far lower than that of iron, but is definite for each. When any
+portion of a substance is heated until it begins to burn the combustion
+will continue without the further application of heat, provided the heat
+generated by the process is sufficient to bring other parts of the
+substance to the kindling temperature. On the other hand, if the heat
+generated is not sufficient to maintain the kindling temperature,
+combustion ceases.
+
+~Oxides.~ The compounds formed by the oxidation of any element are called
+_oxides_. Thus in the combustion of sulphur, phosphorus, and iron, the
+compounds formed are called respectively oxide of sulphur, oxide of
+phosphorus, and oxide of iron. In general, then, _an oxide is a compound
+of oxygen with another element_. A great many substances of this class
+are known; in fact, the oxides of all the common elements have been
+prepared, with the exception of those of fluorine and bromine. Some of
+these are familiar compounds. Water, for example, is an oxide of
+hydrogen, and lime an oxide of the metal calcium.
+
+~Products of combustion.~ The particular oxides formed by the combustion
+of any substance are called _products of combustion_ of that substance.
+Thus oxide of sulphur is the product of the combustion of sulphur; oxide
+of iron is the product of the combustion of iron. It is evident that the
+products of the combustion of any substance must weigh more than the
+original substance, the increase in weight corresponding to the amount
+of oxygen taken up in the act of combustion. For example, when iron
+burns the oxide of iron formed weighs more than the original iron.
+
+In some cases the products of combustion are invisible gases, so that
+the substance undergoing combustion is apparently destroyed. Thus, when
+a candle burns it is consumed, and so far as the eye can judge nothing
+is formed during combustion. That invisible gases are formed, however,
+and that the weight of these is greater than the weight of the candle
+may be shown by the following experiment.
+
+[Illustration: Fig. 7]
+
+     A lamp chimney is filled with sticks of the compound known as
+     sodium hydroxide (caustic soda), and suspended from the beam of
+     the balance, as shown in Fig. 7. A piece of candle is placed on
+     the balance pan so that the wick comes just below the chimney,
+     and the balance is brought to a level by adding weights to the
+     other pan. The candle is then lighted. The products formed pass
+     up through the chimney and are absorbed by the sodium
+     hydroxide. Although the candle burns away, the pan upon which
+     it rests slowly sinks, showing that the combustion is attended
+     by an increase in weight.
+
+     ~Combustion in air and in oxygen.~ Combustion in air and in
+     oxygen differs only in rapidity, the products formed being
+     exactly the same. That the process should take place less
+     rapidly in the former is readily understood, for the air is
+     only about one fifth oxygen, the remaining four fifths being
+     inert gases. Not only is less oxygen available, but much of the
+     heat is absorbed in raising the temperature of the inert gases
+     surrounding the substance undergoing combustion, and the
+     temperature reached in the combustion is therefore less.
+
+     ~Phlogiston theory of combustion.~ The French chemist Lavoisier
+     (1743-1794), who gave to oxygen its name was the first to show
+     that combustion is due to union with oxygen. Previous to his
+     time combustion was supposed to be due to the presence of a
+     substance or principle called _phlogiston_. One substance was
+     thought to be more combustible than another because it
+     contained more phlogiston. Coal, for example, was thought to be
+     very rich in phlogiston. The ashes left after combustion would
+     not burn because all the phlogiston had escaped. If the
+     phlogiston could be restored in any way, the substance would
+     then become combustible again. Although this view seems absurd
+     to us in the light of our present knowledge, it formerly had
+     general acceptance. The discovery of oxygen led Lavoisier to
+     investigate the subject, and through his experiments he arrived
+     at the true explanation of combustion. The discovery of oxygen
+     together with the part it plays in combustion is generally
+     regarded as the most important discovery in the history of
+     chemistry. It marked the dawn of a new period in the growth of
+     the science.
+
+~Combustion in the broad sense.~ According to the definition given above,
+the presence of oxygen is necessary for combustion. The term is
+sometimes used, however, in a broader sense to designate any chemical
+change attended by the evolution of heat and light. Thus iron and
+sulphur, or hydrogen and chlorine under certain conditions, will combine
+so rapidly that light is evolved, and the action is called a combustion.
+Whenever combustion takes place in the air, however, the process is one
+of oxidation.
+
+     ~Spontaneous combustion.~ The temperature reached in a given
+     chemical action, such as oxidation, depends upon the rate at
+     which the reaction takes place. This rate is usually increased
+     by raising the temperature of the substances taking part in the
+     action.
+
+     When a slow oxidation takes place under such conditions that
+     the heat generated is not lost by being conducted away, the
+     temperature of the substance undergoing oxidation is raised,
+     and this in turn hastens the rate of oxidation. The rise in
+     temperature may continue in this way until the kindling
+     temperature of the substance is reached, when combustion
+     begins. Combustion occurring in this way is called _spontaneous
+     combustion_.
+
+     Certain oils, such as the linseed oil used in paints, slowly
+     undergo oxidation at ordinary temperatures, and not
+     infrequently the origin of fires has been traced to the
+     spontaneous combustion of oily rags. The spontaneous combustion
+     of hay has been known to set barns on fire. Heaps of coal have
+     been found to be on fire when spontaneous combustion offered
+     the only possible explanation.
+
+~Importance of oxygen.~ 1. Oxygen is essential to life. Among living
+organisms only certain minute forms of plant life can exist without it.
+In the process of respiration the air is taken into the lungs where a
+certain amount of oxygen is absorbed by the blood. It is then carried to
+all parts of the body, oxidizing the worn-out tissues and changing them
+into substances which may readily be eliminated from the body. The heat
+generated by this oxidation is the source of the heat of the body. The
+small amount of oxygen which water dissolves from the air supports all
+the varied forms of aquatic animals.
+
+2. Oxygen is also essential to decay. The process of decay is really a
+kind of oxidation, but it will only take place in the presence of
+certain minute forms of life known as bacteria. Just how these assist in
+the oxidation is not known. By this process the dead products of animal
+and vegetable life which collect on the surface of the earth are slowly
+oxidized and so converted into harmless substances. In this way oxygen
+acts as a great purifying agent.
+
+3. Oxygen is also used in the treatment of certain diseases in which the
+patient is unable to inhale sufficient air to supply the necessary
+amount of oxygen.
+
+
+OZONE
+
+~Preparation.~ When electric sparks are passed through oxygen or air a
+small percentage of the oxygen is converted into a substance called
+_ozone_, which differs greatly from oxygen in its properties. The same
+change can also be brought about by certain chemical processes. Thus, if
+some pieces of phosphorus are placed in a bottle and partially covered
+with water, the presence of ozone may soon be detected in the air
+contained in the bottle. The conversion of oxygen into ozone is attended
+by a change in volume, 3 volumes of oxygen forming 2 volumes of ozone.
+If the resulting ozone is heated to about 300 deg., the reverse change
+takes place, the 2 volumes of ozone being changed back into 3 volumes of
+oxygen. It is possible that traces of ozone exist in the atmosphere,
+although its presence there has not been definitely proved, the tests
+formerly used for its detection having been shown to be unreliable.
+
+~Properties.~ As commonly prepared, ozone is mixed with a large excess of
+oxygen. It is possible, however, to separate the ozone and thus obtain
+it in pure form. The gas so obtained has the characteristic odor noticed
+about electrical machines when in operation. By subjecting it to great
+pressure and a low temperature, the gas condenses to a bluish liquid,
+boiling at -119 deg.. When unmixed with other gases ozone is very explosive,
+changing back into oxygen with the liberation of heat. Its chemical
+properties are similar to those of oxygen except that it is far more
+active. Air or oxygen containing a small amount of ozone is now used in
+place of oxygen in certain manufacturing processes.
+
+~The difference between oxygen and ozone.~ Experiments show that in
+changing oxygen into ozone no other kind of matter is either added to
+the oxygen or withdrawn from it. The question arises then, How can we
+account for the difference in their properties? It must be remembered
+that in all changes we have to take into account _energy_ as well as
+_matter_. By changing the amount of energy in a substance we change its
+properties. That oxygen and ozone contain different amounts of energy
+may be shown in a number of ways; for example, by the fact that the
+conversion of ozone into oxygen is attended by the liberation of heat.
+The passage of the electric sparks through oxygen has in some way
+changed the energy content of the element and thus it has acquired new
+properties. _Oxygen and ozone must, therefore, be regarded as identical
+so far as the kind of matter of which they are composed is concerned.
+Their different properties are due to their different energy contents._
+
+~Allotropic states or forms of matter.~ Other elements besides oxygen may
+exist in more than one form. These different forms of the same element
+are called _allotropic states_ or _forms_ of the element. These forms
+differ not only in physical properties but also in their energy
+contents. Elements often exist in a variety of forms which look quite
+different. These differences may be due to accidental causes, such as
+the size or shape of the particles or the way in which the element was
+prepared. Only such forms, however, as have different energy contents
+are properly called allotropic forms.
+
+
+MEASUREMENT OF GAS VOLUMES
+
+~Standard conditions.~ It is a well-known fact that the volume occupied by
+a definite weight of any gas can be altered by changing the temperature
+of the gas or the pressure to which it is subjected. In measuring the
+volume of gases it is therefore necessary, for the sake of accuracy, to
+adopt some standard conditions of temperature and pressure. The
+conditions agreed upon are (1) a temperature of 0 deg., and (2) a pressure
+equal to the average pressure exerted by the atmosphere at the sea
+level, that is, 1033.3 g. per square centimeter. These conditions of
+temperature and pressure are known as the _standard conditions_, and
+when the volume of a gas is given it is understood that the measurement
+was made under these conditions, unless it is expressly stated
+otherwise. For example, the weight of a liter of oxygen has been given
+as 1.4285 g. This means that one liter of oxygen, measured at a
+temperature of 0 deg. and under a pressure of 1033.3 g. per square
+centimeter, weighs 1.4285 g.
+
+The conditions which prevail in the laboratory are never the standard
+conditions. It becomes necessary, therefore, to find a way to calculate
+the volume which a gas will occupy under standard conditions from the
+volume which it occupies under any other conditions. This may be done in
+accordance with the following laws.
+
+~Law of Charles.~ This law expresses the effect which a change in the
+temperature of a gas has upon its volume. It may be stated as follows:
+_For every degree the temperature of a gas rises above zero the volume
+of the gas is increased by 1/273 of the volume which it occupies at
+zero; likewise for every degree the temperature of the gas falls below
+zero the volume of the gas is decreased by 1/273 of the volume which it
+occupies at zero, provided in both cases that the pressure to which the
+gas is subjected remains constant._
+
+If V represents the volume of gas at 0 deg., then the volume at 1 deg. will be
+V + 1/273 V; at 2 deg. it will be V + 2/273 V; or, in general, the
+volume v, at the temperature t, will be expressed by the formula
+
+    (1) v = V + t/273 V,
+
+    or (2) v = V(1 + (t/273)).
+
+Since 1/273 = 0.00366, the formula may be written
+
+    (3) v = V(1 + 0.00366t).
+
+Since the value of V (volume under standard conditions) is the one
+usually sought, it is convenient to transpose the equation to the
+following form:
+
+    (4) V = v/(1 + 0.00366t).
+
+The following problem will serve as an illustration of the application
+of this equation.
+
+The volume of a gas at 20 deg. is 750 cc.; find the volume it will occupy at
+0 deg., the pressure remaining constant.
+
+In this case, v = 750 cc. and t = 20. By substituting these values,
+equation (4) becomes
+
+    V = 750/(1 + 0.00366 x 20) = 698.9 cc.
+
+~Law of Boyle.~ This law expresses the relation between the volume
+occupied by a gas and the pressure to which it is subjected. It may be
+stated as follows: _The volume of a gas is inversely proportional to the
+pressure under which it is measured, provided the temperature of the gas
+remains constant._
+
+If V represents the volume when subjected to a pressure P and v
+represents its volume when the pressure is changed to p, then, in
+accordance with the above law, V : v :: p : P, or VP = vp.
+In other words, for a given weight of a gas the product of the numbers
+representing its volume and the pressure to which it is subjected is a
+constant.
+
+Since the pressure of the atmosphere at any point is indicated by the
+barometric reading, it is convenient in the solution of the problems to
+substitute the latter for the pressure measured in grams per square
+centimeter. The average reading of the barometer at the sea level is 760
+mm., which corresponds to a pressure of 1033.3 g. per square centimeter.
+The following problem will serve as an illustration of the application
+of Boyle's law.
+
+A gas occupies a volume of 500 cc. in a laboratory where the barometric
+reading is 740 mm. What volume would it occupy if the atmospheric
+pressure changed so that the reading became 750 mm.?
+
+Substituting the values in the equation VP = vp, we have 500 x 740 =
+v x 750, or v = 493.3 cc.
+
+~Variations in the volume of a gas due to changes both in temperature and
+pressure.~ Inasmuch as corrections must be made as a rule for both
+temperature and pressure, it is convenient to combine the equations
+given above for the corrections for each, so that the two corrections
+may be made in one operation. The following equation is thus obtained:
+
+    (5) V_{s} = vp/(760(1 + 0.00366t)),
+
+in which V_{s} represents the volume of a gas under standard
+conditions and v, p, and t the volume, pressure, and temperature
+respectively at which the gas was actually measured.
+
+The following problem will serve to illustrate the application of this
+equation.
+
+A gas having a temperature of 20 deg. occupies a volume of 500 cc. when
+subjected to a pressure indicated by a barometric reading of 740 mm.
+What volume would this gas occupy under standard conditions?
+
+In this problem v = 500, p = 740, and t = 20. Substituting these
+values in the above equation, we get
+
+    V_{s} = (500 x 740)/(760 (1 + 0.00366 x 20)) = 453.6 cc.
+
+[Illustration: Fig. 8]
+
+~Variations in the volume of a gas due to the pressure of aqueous vapor.~
+In many cases gases are collected over water, as explained under the
+preparation of oxygen. In such cases there is present in the gas a
+certain amount of water vapor. This vapor exerts a definite pressure,
+which acts in opposition to the atmospheric pressure and which therefore
+must be subtracted from the latter in determining the effective pressure
+upon the gas. Thus, suppose we wish to determine the pressure to which
+the gas in tube A (Fig. 8) is subjected. The tube is raised or lowered
+until the level of the water inside and outside the tube is the same.
+The atmosphere presses down upon the surface of the water (as indicated
+by the arrows), thus forcing the water upward within the tube with a
+pressure equal to the atmospheric pressure. The full force of this
+upward pressure, however, is not spent in compressing the gas within the
+tube, for since it is collected over water it contains a certain amount
+of water vapor. This water vapor exerts a pressure (as indicated by the
+arrow within the tube) in opposition to the upward pressure. It is
+plain, therefore, that the effective pressure upon the gas is equal to
+the atmospheric pressure less the pressure exerted by the aqueous vapor.
+The pressure exerted by the aqueous vapor increases with the
+temperature. The figures representing the extent of this pressure (often
+called the _tension of aqueous vapor_) are given in the Appendix. They
+express the pressure or tension in millimeters of mercury, just as the
+atmospheric pressure is expressed in millimeters of mercury.

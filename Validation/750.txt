@@ -1,0 +1,894 @@
+time giving a measure of the planet's apparent displacement, hence of
+its actual rate of travel in miles per minute, from which its distances
+severally from earth and sun are immediately deducible. Its chief
+attendant difficulty is the necessity for accurately fixing the
+longitudes of the points of observation. But this was much more sensibly
+felt a century ago than it is now, the improved facility and certainty
+of modern determinations tending to give the Delislean plan a decided
+superiority over its rival.
+
+These two traditional methods were supplemented in 1874 by the camera
+and the heliometer. From photography, above all, much was expected.
+Observations made by its means would have the advantages of
+impartiality, multitude, and permanence. Peculiarities of vision and
+bias of judgment would be eliminated; the slow progress of the
+phenomenon would permit an indefinite number of pictures to be taken,
+their epochs fixed to a fraction of a second; while subsequent leisurely
+comparison and measurement could hardly fail, it was thought, to educe
+approximate truth from the mass of accumulated evidence. The use of the
+heliometer (much relied on by German observers) was so far similar to
+that of the camera that the object aimed at by both was the
+determination of the relative positions of the _centres_ of the sun and
+Venus viewed, at the same absolute instant, from opposite sides of the
+globe. So that the principle of the two older methods was to ascertain
+the exact times of meeting between the solar and planetary limbs; that
+of the two modern to determine the position of the dark body already
+thrown into complete relief by its shining background. The former are
+"methods by contact," the latter "methods by projection."
+
+Every country which had a reputation to keep or to gain for scientific
+zeal was forward to co-operate in the great cosmopolitan enterprise of
+the transit. France and Germany each sent out six expeditions;
+twenty-six stations were in Russian, twelve in English, eight in
+American, three in Italian, one in Dutch occupation. In all, at a cost
+of nearly a quarter of a million, some fourscore distinct posts of
+observation were provided; among them such inhospitable, and all but
+inaccessible rocks in the bleak Southern Ocean, as St. Paul's and
+Campbell Islands, swept by hurricanes, and fitted only for the
+habitation of seabirds, where the daring votaries of science, in the
+wise prevision of a long leaguer by the elements, were supplied with
+stores for many months, or even a whole year. Siberia and the Sandwich
+Islands were thickly beset with observers; parties of three
+nationalities encamped within the mists of Kerguelen Island,
+expressively termed the "Land of Desolation," in the sanguine, though
+not wholly frustrated hope of a glimpse of the sun at the right moment.
+M. Janssen narrowly escaped destruction from a typhoon in the China seas
+on his way to Nagasaki; Lord Lindsay (now Earl of Crawford and
+Balcarres) equipped, at his private expense, an expedition to Mauritius,
+which was in itself an epitome of modern resource and ingenuity.
+
+During several years, the practical methods best suited to insure
+success for the impending enterprise formed a subject of European
+debate. Official commissions were appointed to receive and decide upon
+evidence; and experiments were in progress for the purpose of defining
+the actual circumstances of contacts, the precise determination of which
+constituted the only tried, though by no means an assuredly safe road to
+the end in view. In England, America, France, and Germany, artificial
+transits were mounted, and the members of the various expeditions were
+carefully trained to unanimity in estimating the phases of junction and
+separation between a moving dark circular body and a broad illuminated
+disc. In the previous century, a formidable and prevalent phenomenon,
+which acquired notoriety as the "Black Drop" or "Black Ligament," had
+swamped all pretensions to rigid accuracy. It may be described as
+substituting adhesion for contact, the limbs of the sun and planet,
+instead of meeting and parting with the desirable clean definiteness,
+_clinging_ together as if made of some glutinous material, and
+prolonging their connection by means of a dark band or dark threads
+stretched between them. Some astronomers ascribed this baffling
+appearance entirely to instrumental imperfections; others to atmospheric
+agitation; others again to the optical encroachment of light upon
+darkness known as "irradiation." It is probable that all these causes
+conspired, in various measure, to produce it; and it is certain that its
+_conspicuous_ appearance may, by suitable precautions, be obviated.
+
+The organisation of the British forces reflected the utmost credit on
+the energy and ability of Lieutenant-Colonel Tupman, who was responsible
+for the whole. No useful measure was neglected. Each observer went out
+ticketed with his "personal equation," his senses drilled into a species
+of martial discipline, his powers absorbed, so far as possible, in the
+action of a cosmopolitan observing machine. Instrumental uniformity and
+uniformity of method were obtainable, and were attained; but diversity
+of judgment unhappily survived the best-directed efforts for its
+extirpation.
+
+The eventful day had no sooner passed than telegrams began to pour in,
+announcing an outcome of considerable, though not unqualified success.
+The weather had proved generally favourable; the manifold arrangements
+had worked well; contacts had been plentifully observed; photographs in
+lavish abundance had been secured; a store of materials, in short, had
+been laid up, of which it would take years to work out the full results
+by calculation. Gradually, nevertheless, it came to be known that the
+hope of a definitive issue must be abandoned. Unanimity was found to be
+as remote as ever. The dreaded "black ligament" gave, indeed, less
+trouble than was expected; but another appearance supervened which took
+most observers by surprise. This was the illumination due to the
+atmosphere of Venus. Astronomers, it is true, were not ignorant that the
+planet had, on previous occasions, been seen girdled with a lucid ring;
+but its power to mar observations by the distorting effect of refraction
+had scarcely been reckoned with. It proved, however, to be very great.
+Such was the difficulty of determining the critical instant of internal
+contact, that (in Colonel Tupman's words) "observers side by side, with
+adequate optical means, differed as much as twenty or thirty seconds in
+the times they recorded for phenomena which they have described in
+almost identical language."[767]
+
+Such uncertainties in the data admitted of a corresponding variety in
+the results. From the British observations of ingress and egress Sir
+George Airy[768] derived, in 1877, a solar parallax of 8.76" (corrected
+to 8.754"), indicating a mean distance of 93,375,000 miles. Mr. Stone
+obtained a value of ninety-two millions (parallax 8.88"), and held any
+parallax less than 8.84" or more than 8.93" to be "absolutely negatived"
+by the documents available.[769] Yet, from the same, Colonel Tupman
+deduced 8.81",[770] implying a distance 700,000 miles greater than Stone
+had obtained. The best French observations of contacts gave a parallax
+of about 8.88"; French micrometric measures the obviously exaggerated
+one of 9.05".[771]
+
+Photography, as practised by most of the European parties, was a total
+failure. Utterly discrepant values of the microscopic displacements
+designed to serve as sounding lines for the solar system, issued from
+attempts to measure even the most promising pictures. "You might as well
+try to measure the zodiacal light," it was remarked to Sir George Airy.
+Those taken on the American plan of using telescopes of so great focal
+length as to afford, without further enlargement, an image of the
+requisite size, gave notably better results. From an elaborate
+comparison of those dating from Vladivostock, Nagasaki, and Pekin, with
+others from Kerguelen and Chatham Islands, Professor D. P. Todd, of
+Amherst College, deduced a solar distance of about ninety-two million
+miles (parallax 8.883" +-0.034"),[772] and the value was much favoured by
+concurrent evidence.
+
+On the whole, estimates of the great spatial unit cannot be said to have
+gained any security from the combined effort of 1874. A few months
+before the transit, Mr. Proctor considered that the uncertainty then
+amounted to 1,448,000 miles;[773] five years after the transit,
+Professor Harkness judged it to be still 1,575,950 miles;[774] yet it
+had been hoped that it would have been brought down to 100,000. As
+regards the end for which it had been undertaken, the grand campaign had
+come to nothing. Nevertheless, no sign of discouragement was apparent.
+There was a change of view, but no relaxation of purpose. The problem,
+it was seen, could be solved by no single heroic effort, but by the
+patient approximation of gradual improvements. Astronomers, accordingly,
+looked round for fresh means or more refined expedients for applying
+those already known. A new phase of exertion was entered upon.
+
+On September 5, 1877, Mars came into opposition near the part of his
+orbit which lies nearest to that of the earth, and Dr. Gill (now Sir
+David) took advantage of the circumstance to appeal once more to him for
+a decision on the _quaestio vexata_ of the sun's distance. He chose, as
+the scene of his labours, the Island of Ascension, and for their plan a
+method recommended by Airy in 1857,[775] but never before fairly tried.
+This is known as the "diurnal method of parallaxes." Its principle
+consists in substituting successive morning and evening observations
+from the same spot, for simultaneous observations from remote spots, the
+rotation of the earth supplying the necessary difference in the points
+of view. Its great advantage is that of unity in performance. A single
+mind, looking through the same pair of eyes, reinforced with the same
+optical appliances, is employed throughout, and the errors inseparable
+from the combination of data collected under different conditions are
+avoided. There are many cases in which one man can do the work of two
+better than two men can do the work of one. The result of Gill's skilful
+determinations (made with Lord Lindsay's heliometer) was a solar
+parallax of 8.78", corresponding to a distance of 93,080,000 miles.[776]
+The bestowal of the Royal Astronomical Society's gold medal stamped the
+merit of this distinguished service.
+
+But there are other subjects for this kind of inquiry besides Mars and
+Venus. Professor Galle of Breslau suggested in 1872[777] that some of
+the minor planets might be got to repay astronomers for much
+disinterested toil spent in unravelling their motions, by lending aid to
+their efforts towards a correct celestial survey. Ten or twelve come
+near enough, and are bright enough for the purpose; in fact, the absence
+of sensible magnitude is one of their chief recommendations, since a
+point of light offers far greater facilities for exact measurement than
+a disc. The first attempt to work this new vein was made at the
+opposition of Phocaea in 1872; and from observations of Flora in the
+following year at twelve observatories in the northern and southern
+hemispheres, Galle deduced a solar parallax of 8.87".[778] At Mauritius
+in 1874, Lord Lindsay and Sir David Gill applied the "diurnal method" to
+Juno, then conveniently situated for the purpose; and the continued use
+of similar occasions affords an unexceptionable means for improving
+knowledge of the sun's distance. They frequently recur; they need no
+elaborate preparation; a single astronomer armed with a heliometer can
+do all the requisite work. Dr. Gill, however, organized a more complex
+plan of operations upon Iris in 1888, and upon Victoria and Sappho in
+1889. A novel method was adopted. Its object was to secure simultaneous
+observations made from opposite sides of the globe just when the planet
+lay in the plane passing through the centre of the earth and the two
+observers, the same pair of reference-stars being used on each occasion.
+The displacements caused by parallax were thus in a sense doubled, since
+the star to which the planet seemed approximated in the northern
+hemisphere, showed as if slightly removed from it in the southern, and
+_vice versa_. As the planet pursued its course, fresh star-couples came
+into play, during the weeks that the favourable period lasted. In these
+determinations, only heliometers were employed. Dr. Elkin, of Yale
+college, co-operated throughout, and the heliometers of Dresden,
+Gottingen, Bamberg, and Leipzig, shared in the work, while Dr. Auwers of
+Berlin was Sir David Gill's personal coadjutor at the Cape. Voluminous
+data were collected; meridian observations of the stars of reference for
+Victoria occupied twenty-one establishments during four months; the
+direct work of triangulation kept four heliometers in almost exclusive
+use for the best part of a year; and the ensuing toilsome computations,
+carried out during three years at the Cape Observatory, filled two bulky
+tomes[779] with their details. Gill's final result, published in 1897,
+was a parallax of 8.802", equivalent to a solar distance of 92,874,000;
+and it was qualified by a probable error so small that the value might
+well have been accepted as definitive but for an unlooked-for discovery.
+The minor planet Eros, detected August 14, 1898, was found to pursue a
+course rendering it an almost ideal intermediary in solar
+parallax-determinations. Once in thirty years, it comes within fifteen
+million miles of the earth; and although the next of these choice epochs
+must be awaited for some decades, an opposition too favourable to be
+neglected occurred in 1900. At an International Conference, accordingly,
+held at Paris in July of that year, a plan of photographic operations
+was concerted between the representatives of no less than 58
+observatories.[780] Its primary object was to secure a large stock of
+negatives showing the planet with the comparison-stars along the route
+traversed by it from October, 1900, to March, 1901,[781] and this at
+least was successfully attained. Their measurement will in due time
+educe the apparent displacements of the moving object as viewed
+simultaneously from remote parts of the earth; and the upshot should be
+a solar parallax adequate in accuracy to the exigent demands of the
+twentieth century.
+
+The second of the nineteenth-century pair of Venus-transits was looked
+forward to with much abated enthusiasm. Russia refused her active
+co-operation in observing it, on the ground that oppositions of the
+minor planets were trigonometrically more useful, and financially far
+less costly; and her example was followed by Austria; while Italian
+astronomers limited their sphere of action to their own peninsula.
+Nevertheless, it was generally held that a phenomenon which the world
+could not again witness until it was four generations older should, at
+the price of any effort, not be allowed to pass in neglect.
+
+The persuasion of its importance justified the summoning of an
+International Conference at Paris in 1881, from which, however, America,
+preferring independent action, held aloof. It was decided to give
+Delisle's method another trial; and the ambiguities attending and
+marring its use were sought to be obviated by careful regulations for
+insuring agreement in the estimation of the critical moments of ingress
+and egress.[782] But in fact (as M. Puiseux had shown[783]), contacts
+between the limbs of the sun and planet, so far from possessing the
+geometrical simplicity attributed to them, are really made up of a
+prolonged succession of various and varying phases, impossible either to
+predict or identify with anything like rigid exactitude. Sir Robert Ball
+compared the task of determining the precise instant of their meeting or
+parting, to that of telling the hour with accuracy on a watch without a
+minute hand; and the comparison is admittedly inadequate. For not only
+is the apparent movement of Venus across the sun extremely slow, being
+but the excess of her real motion over that of the earth; but three
+distinct atmospheres--the solar, terrestrial, and Cytherean--combine to
+deform outlines and mask the geometrical relations which it is desired
+to connect with a strict count of time.
+
+The result was very much what had been expected. The arrangements were
+excellent, and were only in a few cases disconcerted by bad weather. The
+British parties, under the experienced guidance of Mr. Stone, the late
+Radcliffe observer, took up positions scattered over the globe, from
+Queensland to Bermuda; the Americans collected a whole library of
+photographs; the Germans and Belgians trusted to the heliometer; the
+French used the camera as an adjunct to the method of contacts. Yet
+little or no approach was made to solving the problem. Thus, from 606
+measures of Venus on the sun, taken with a new kind of heliometer at
+Santiago in Chili, M. Houzeau, of the Brussels Observatory, derived a
+solar parallax of 8.907", and a distance of 91,727,000 miles.[784] But
+the "probable errors" of this determination amounted to 0.084" either
+way: it was subject to a "more or less" of 900,000, or to a total
+uncertainty of 1,800,000 miles. The "probable error" of the English
+result, published in 1887, was less formidable,[785] yet the details of
+the discussion showed that no great confidence could be placed in it.
+The sun's distance came out 92,560,000 miles; while 92,360,000 was given
+by Professor Harkness's investigation of 1,475 American
+photographs.[786] Finally, Dr. Auwers deduced from the German
+heliometric measures the unsatisfactorily small value of 92,000,000
+miles.[787] The transit of 1882 had not, then, brought about the desired
+unanimity.
+
+The state and progress of knowledge on this important topic were summed
+up by Faye and Harkness in 1881.[788] The methods employed in its
+investigation fall (as we have seen) into three separate classes--the
+trigonometrical, the gravitational, and the "phototachymetrical"--an
+ungainly adjective used to describe the method by the velocity of light.
+Each has its special difficulties and sources of error; each has
+counter-balancing advantages. The only trustworthy result from celestial
+surveys, was at that time furnished by Gill's observations of Mars in
+1877. But the method by lunar and planetary disturbances is unlike all
+the others in having time on its side. It is this which Leverrier
+declared with emphasis must inevitably prevail, because its accuracy is
+continually growing.[789] The scarcely perceptible errors which still
+impede its application are of such a nature as to accumulate year by
+year; eventually, then, they will challenge, and must receive, a more
+and more perfect correction. The light-velocity method, however,
+claimed, and for some years justified, M. Faye's preference.
+
+By a beautiful series of experiments on Foucault's principle, Michelson
+fixed in 1879 the rate of luminous transmission at 299,930 (corrected
+later to 299,910) kilometres a second.[790] This determination was held
+by Professor Todd to be entitled to four times as much confidence as any
+previous one; and if the solar parallax of 8.758" deduced from it by
+Professor Harkness errs somewhat by defect, it is doubtless because
+Glasenapp's "light-equation," with which it was combined, errs slightly
+by excess. But all earlier efforts of the kind were thrown into the
+shade by Professor Newcomb's arduous operations at Washington in
+1880-1882.[791] The scale upon which they were conducted was in itself
+impressive. Foucault's entire apparatus in 1862 had been enclosed in a
+single room; Newcomb's revolving and fixed mirrors, between which the
+rays of light were to run their timed course, were set up on opposite
+shores of the Potomac, at a distance of nearly four kilometres. This
+advantage was turned to the utmost account by ingenuity and skill in
+contrivance and execution; and the deduced velocity of 299,860
+kilometres = 186,328 miles a second, had an estimated error (30
+kilometres) only one-tenth that ascribed by Cornu to his own result in
+1874.
+
+Just as these experiments were concluded in 1882, M. Magnus Nyren, of
+St. Petersburg, published an elaborate investigation of the small
+annular displacements of the stars due to the successive transmission of
+light, involving an increase of Struve's "constant of aberration" from
+20.445" to 20.492". And from the new value, combined with Newcomb's
+light-velocity, was derived a valuable approximation to the sun's
+distance, concluded at 92,905,021 miles (parallax = 8.794"). Yet it is
+not quite certain that Nyren's correction was an improvement. A
+differential method of determining the amount of aberration, struck out
+by M. Loewy of Paris,[792] avoids most of the objections to the absolute
+method previously in vogue; and the upshot of its application in 1891
+was to show that Struve's constant might better be retained than
+altered, Loewy's of 20.447" varying from it only to an insignificant
+extent. Professor Hall had, moreover, deduced nearly the same value
+(20.454") from the Washington observations since 1862, of Alpha
+Lyrae (Vega); whence, in conjunction with Newcomb's rate of light
+transmission, he arrived at a solar parallax of 8.81".[793] Inverting
+the process, Sir David Gill in 1897 derived the constant from the
+parallax. If the earth's orbit have a mean radius, as found by him, of
+92,874,000 miles, then, he calculated, the aberration of
+light--Newcomb's measures of its velocity being supposed exact--amounts
+to 20.467". This figure can need very slight correction.
+
+Professor Harkness surveyed in 1891,[794] from an eclectic point of
+view, the general situation as regarded the sun's parallax. Convinced
+that no single method deserved an exclusive preference, he reached a
+plausible result through the combination, on the principle of least
+squares--that is, by the mathematical rules of probability--of all the
+various quantities upon which the great datum depends. It thus summed up
+and harmonised the whole of the multifarious evidence bearing upon the
+point, and, as modified in 1894,[795] falls very satisfactorily into
+line with the Cape determination. We may, then, at least provisionally,
+accept 92,870,000 miles as the length of our measuring-rod for space.
+Nor do we hazard much in fixing 100,000 miles as the outside limit of
+its future correction.
+
+
+FOOTNOTES:
+
+[Footnote 748: Airy, _Month. Not._, vol. xvii., p. 210.]
+
+[Footnote 749: Mars comes into opposition once in about 780 days; but
+owing to the eccentricity of both orbits, his distance from the earth at
+those epochs varies from thirty-five to sixty-two million miles.]
+
+[Footnote 750: J. D. Cassini, _Hist. Abregee de la Parallaxe du Soleil_,
+p. 122, 1772.]
+
+[Footnote 751: The present period of coupled eccentric transits will, in
+the course of ages, be succeeded by a period of single, nearly central
+transits. The alignments by which transits are produced, of the earth,
+Venus, and the sun, close to the place of intersection of the two
+planetary orbits, now occur, the first a little in front of, the second,
+after eight years less two and a half days, a little behind the node.
+But when the first of these two meetings takes place very near the node,
+giving a nearly central transit, the second falls too far from it, and
+the planet escapes projection on the sun. The reason of the liability to
+an eight-yearly recurrence is that eight revolutions of the earth are
+accomplished in only a very little more time than thirteen revolutions
+of Venus.]
+
+[Footnote 752: _Die Entfernung der Sonne: Fortsetzung_, p. 108. Encke
+slightly corrected his results of 1824 in _Berlin Abh._, 1835, p. 295.]
+
+[Footnote 753: Owing to the ellipticity of its orbit, the earth is
+nearer to the sun in January than in June by 3,100,000 miles. The
+quantity to be determined, or "mean distance," is that lying midway
+between these extremes--is, in other words, half the major axis of the
+ellipse in which the earth travels.]
+
+[Footnote 754: _Month. Not._, vol. xv., p. 9.]
+
+[Footnote 755: _The Distance of the Sun from the Earth determined by the
+Theory of Gravity_, Edinburgh, 1763.]
+
+[Footnote 756: _Opera_, t. iii., p. 326.]
+
+[Footnote 757: _Comptes Rendus_, t. xlvi., p. 882. The parallax 8.95"
+derived by Leverrier from the above-described inequality in the earth's
+motion, was corrected by Stone to 8.91". _Month. Not._, vol. xxviii., p.
+25.]
+
+[Footnote 758: _Month. Not._, vol. xxxv., p. 156.]
+
+[Footnote 759: _Wash. Obs._, 1865, App. ii., p. 28.]
+
+[Footnote 760: _Comptes Rendus_, t. xxix., p. 90.]
+
+[Footnote 761: _Ibid._, t. xxx., p. 551.]
+
+[Footnote 762: _Ibid._, t. lv., p. 501. The previously admitted velocity
+was 308 million metres per second; Foucault reduced it to 298 million.
+Combined with Struve's "constant of aberration" this gave 8.86" for the
+solar parallax, which exactly agreed with Cornu's result from a
+repetition of Fizeau's experiments in 1872. _Comptes Rendus_, t. lxxvi.,
+p. 338.]
+
+[Footnote 763: _Month. Not._, vol. xxiv., p. 103.]
+
+[Footnote 764: _Astr. Papers of the American Ephemeris_, vol. ii., p.
+263.]
+
+[Footnote 765: _Month. Not._, vol. xvii., p. 208.]
+
+[Footnote 766: Because closely similar to that proposed by him in _Phil.
+Trans._ for 1716.]
+
+[Footnote 767: _Month. Not._, vol. xxxviii., p. 447.]
+
+[Footnote 768: _Ibid._, p. 11.]
+
+[Footnote 769: _Ibid._, p. 294.]
+
+[Footnote 770: _Ibid._, p. 334.]
+
+[Footnote 771: _Comptes Rendus_, t. xcii., p. 812.]
+
+[Footnote 772: _Observatory_, vol. v., p. 205.]
+
+[Footnote 773: _Transits of Venus_, p. 89 (1st ed.).]
+
+[Footnote 774: _Am. Jour. of Sc._, vol. xx., p. 393.]
+
+[Footnote 775: _Month. Not._, vol. xvii., p. 219.]
+
+[Footnote 776: _Mem. Roy. Astr. Soc._, vol. xlvi., p. 163.]
+
+[Footnote 777: _Astr. Nach._, No. 1,897.]
+
+[Footnote 778: Hilfiker, _Bern Mittheilungen_, 1878, p. 109.]
+
+[Footnote 779: _Annals of the Cape Observatory_, vols. vi., vii.]
+
+[Footnote 780: _Rapport sur l'Etat de l'Observatoire de Paris pour
+l'Annee 1900_, p. 7.]
+
+[Footnote 781: _Observatory_, vol. xxiii., p. 311; Newcomb, _Astr.
+Jour._, No. 480.]
+
+[Footnote 782: _Comptes Rendus_, t. xciii., p. 569.]
+
+[Footnote 783: _Ibid._, t. xcii., p. 481.]
+
+[Footnote 784: _Bull. de l'Acad._, t. vi., p. 842.]
+
+[Footnote 785: _Month. Not._, vol. xlviii., p. 201.]
+
+[Footnote 786: _Astr. Jour._, No. 182.]
+
+[Footnote 787: _Astr. Nach._, No. 3,066.]
+
+[Footnote 788: _Comptes Rendus_, t. xcii., p. 375; _Am. Jour. of Sc._,
+vol. xxii., p. 375.]
+
+[Footnote 789: _Month. Not._, vol. xxxv., p. 401.]
+
+[Footnote 790: _Am. Jour. of Sc._, vol. xviii., p. 393.]
+
+[Footnote 791: _Nature_, vol. xxxiv., p. 170; _Astron. Papers of the
+American Ephemeris_, vol. ii., p. 113.]
+
+[Footnote 792: _Comptes Rendus_, t. cxii., p. 549.]
+
+[Footnote 793: _Astr. Journ._, Nos. 169, 170]
+
+[Footnote 794: _The Solar Parallax and its Related Constants_,
+Washington, 1891.]
+
+[Footnote 795: _Astr. and Astrophysics_, vol. xiii., p. 626.]
+
+
+
+
+                                CHAPTER VII
+
+                         _PLANETS AND SATELLITES_
+
+
+Johann Hieronymus Schroeter was the Herschel of Germany. He did not,
+it is true, possess the more brilliant gifts of his rival. Herschel's
+piercing discernment, comprehensive intelligence, and inventive
+splendour were wanting to him. He was, nevertheless, the founder of
+descriptive astronomy in Germany, as Herschel was in England.
+
+Born at Erfurt in 1745, he prosecuted legal studies at Gottingen, and
+there imbibed from Kaestner a life-long devotion to science. From the
+law, however, he got the means of living, and, what was to the full as
+precious to him, the means of observing. Entering the sphere of
+Hanoverian officialism in 1788, he settled a few years later at
+Lilienthal, near Bremen, as "Oberamtmann," or chief magistrate. Here he
+built a small observatory, enriched in 1785 with a seven-foot reflector
+by Herschel, then one of the most powerful instruments to be found
+anywhere out of England. It was soon surpassed, through his exertions,
+by the first-fruits of native industry in that branch. Schrader of Kiel
+transferred his workshops to Lilienthal in 1792, and constructed there,
+under the superintendence and at the cost of the astronomical
+Oberamtmann, a thirteen-foot reflector, declared by Lalande to be the
+finest telescope in existence, and one twenty-seven feet in focal
+length, probably as inferior to its predecessor in real efficiency as it
+was superior in size.
+
+Thus, with instruments of gradually increasing power, Schroeter studied
+during thirty-four years the topography of the moon and planets. The
+field was then almost untrodden; he had but few and casual predecessors,
+and has since had no equal in the sustained and concentrated patience of
+his hourly watchings. Both their prolixity and their enthusiasm are
+faithfully reflected in his various treatises. Yet the one may be
+pardoned for the sake of the other, especially when it is remembered
+that he struck out a substantially new line, and that one of the main
+lines of future advance. Moreover, his infectious zeal communicated
+itself; he set the example of observing when there was scarcely an
+observer in Germany; and under his roof Harding and Bessel received
+their training as practical astronomers.
+
+But he was reserved to see evil days. Early in 1813 the French under
+Vandamme occupied Bremen. On the night of April 20, the Vale of Lilies
+was, by their wanton destructiveness, laid waste with fire; the
+Government offices were destroyed, and with them the chief part of
+Schroeter's property, including the whole stock of his books and
+writings. There was worse behind. A few days later, his observatory,
+which had escaped the conflagration, was broken into, pillaged, and
+ruined. His life was wrecked with it. He survived the catastrophe three
+years without the means to repair, or the power to forget it, and
+gradually sank from disappointment into decay, terminated by death,
+August 29, 1816. He had, indeed, done all the work he was capable of;
+and though not of the first quality, it was far from contemptible. He
+laid the foundation of the _comparative_ study of the moon's surface,
+and the descriptive particulars of the planets laboriously collected by
+him constituted a store of more or less reliable information hardly
+added to during the ensuing half century. They rested, it is true, under
+some shadow of doubt; but the most recent observations have tended on
+several points to rehabilitate the discredited authority of the
+Lilienthal astronomer. We may now briefly resume, and pursue in its
+further progress, the course of his studies, taking the planets in the
+order of their distances from the sun.
+
+In April, 1792, Schroeter saw reason to conclude, from the gradual
+degradation of light on its partially illuminated disc, that Mercury
+possesses a tolerably dense atmosphere.[796] During the transit of May
+7, 1799, he was, moreover, struck with the appearance of a ring of
+softened luminosity encircling the planet to an apparent height of three
+seconds, or about a quarter of its own diameter.[797] Although a "mere
+thought" in texture, it remained persistently visible both with the
+seven-foot and the thirteen-foot reflectors, armed with powers up to
+288. It had a well-marked grayish boundary, and reminded him, though
+indefinitely fainter, of the penumbra of a sun-spot. A similar appendage
+had been noticed by De Plantade at Montpellier, November 11, 1736, and
+again in 1786 and 1789 by Prosperin and Flaugergues; but Herschel, on
+November 9, 1802, saw the preceding limb of the planet projected on the
+sun cut the luminous solar clouds with the most perfect sharpness.[798]
+The presence, however, of a "halo" was unmistakable in 1832, when
+Professor Moll, of Utrecht, described it as a "nebulous ring of a darker
+tinge approaching to the violet colour."[799] Again, to Huggins and
+Stone, November 5, 1868, it showed as lucid and most distinct. No change
+in the colour of the glasses used, or the powers applied, could get rid
+of it, and it lasted throughout the transit.[800] It was next seen by
+Christie and Dunkin at Greenwich, May 6, 1878,[801] and with much
+precision of detail by Trouvelot at Cambridge (U.S.).[802] Professor
+Holden, on the other hand, noted at Hastings-on-Hudson the total absence
+of all anomalous appearances.[803] Nor could any vestige of them be
+perceived by Barnard at Lick on November 10, 1894.[804] Various effects
+of irradiation and diffraction were, however, observed by Lowell and W.
+H. Pickering at Flagstaff;[805] and Davidson was favoured at San
+Francisco with glimpses of the historic aureola,[806] as well as of a
+central whitish spot, which often accompanies it. That both are somehow
+of optical production can scarcely be doubted.
+
+Nothing can be learned from them regarding the planet's physical
+condition. Airy showed that refraction in a Mercurian atmosphere could
+not possibly originate the noted aureola, which must accordingly be set
+down as "strictly an ocular nervous phenomenon."[807] It is the less
+easy to escape from this conclusion that we find the virtually airless
+moon capable of exhibiting a like appendage. Professor Stephen
+Alexander, of the United States Survey, with two other observers,
+perceived, during the eclipse of the sun of July 18, 1860, the advancing
+lunar limb to be bordered with a bright band;[808] and photographic
+effects of the same kind appear in pictures of transits of Venus and
+partial solar eclipses.
+
+The spectroscope affords little information as to the constitution of
+Mercury. Its light is of course that of the sun reflected, and its
+spectrum is consequently a faint echo of the Fraunhofer spectrum. Dr. H.
+C. Vogel, who first examined it in April, 1871, _suspected_ traces of
+the action of an atmosphere like ours,[809] but, it would seem, on
+slight grounds. It is, however, certainly very poor in blue rays. More
+definite conclusions were, in 1874,[810] derived by Zoellner from
+photometric observations of Mercurian phases. A similar study of the
+waxing and waning moon had afforded him the curious discovery that
+light-changes dependent upon phase vary with the nature of the
+reflecting surface, following a totally different law on a smooth
+homogeneous globe and on a rugged and mountainous one. Now the phases of
+Mercury--so far as could be determined from only two sets of
+observations--correspond with the latter kind of structure. Strictly
+analogous to those of the moon, they seem to indicate an analogous mode
+of surface-formation. This conclusion was fully borne out by Mueller's
+more extended observations at Potsdam during the years 1885-1893.[811]
+Practical assurance was gained from them that the innermost planet has a
+rough rind of dusky rock, absorbing all but 17 per cent. of the light
+poured upon it by the fierce adjacent sun. Its "albedo," in other words,
+is 0.17,[812] which is precisely that ascribed to the moon. The absence
+of any appreciable Mercurian atmosphere followed almost necessarily from
+these results.
+
+On March 26, 1800, Schroeter, observing with his 13-foot reflector in a
+peculiarly clear sky, perceived the southern horn of Mercury's crescent
+to be quite distinctly blunted.[813] Interception of sunlight by a
+Mercurian mountain rather more than eleven English miles high explained
+the effect to his satisfaction. By carefully timing its recurrence, he
+concluded rotation on an axis in a period of 24 hours 4 minutes. The
+first determination of the kind rewarded twenty years of unceasing
+vigilance. It received ostensible confirmation from the successive
+appearances of a dusky streak and blotch in May and June, 1801.[814]
+These, however, were inferred to be no permanent markings on the body of
+the planet, but atmospheric formations, the streak at times drifting
+forwards (it was thought) under the fluctuating influence of Mercurian
+breezes. From a rediscussion of these somewhat doubtful observations
+Bessel inferred that Mercury rotates on an axis inclined 70 deg. to the
+plane of its orbit in 24 hours 53 seconds.
+
+The rounded appearance of the southern horn seen by Schroeter was more or
+less doubtfully caught by Noble (1864), Burton, and Franks (1877);[815]
+but was obvious to Mr. W. F. Denning at Bristol on the morning of
+November 5, 1882.[816] That the southern polar regions are usually less
+bright than the northern is well ascertained; but the cause of the
+deficiency remains dubious. If inequalities of surface are in question,
+they must be on a considerable scale; and a similar explanation might be
+given of the deformations of the "terminator"--or dividing-line between
+darkness and light in the planet's phases--first remarked by Schroeter,
+and again clearly seen by Trouvelot in 1878 and 1881.[817] The
+displacement, during four days, of certain brilliant and dusky spaces on
+the disc indicated to Mr. Denning in 1882 rotation in about twenty-five
+hours; while the general aspect of the planet reminded him of that of
+Mars.[818] But the difficulties in the way of its observation are
+enormously enhanced by its constant close attendance on the sun.
+
+In his sustained study of the features of Mercury, Schroeter had no
+imitator until Schiaparelli took up the task at Milan in 1882. His
+observations were made in daylight. It was found that much more could be
+seen, and higher magnifying powers used, high up in the sky near the
+sun, than at low altitudes, through the agitated air of morning or
+evening twilight. A notable discovery ensued.[819] Following the planet
+hour by hour, instead of making necessarily brief inspections at
+intervals of about a day, as previous observers had done, it was found
+that the markings faintly visible remained sensibly fixed, hence, that
+there was no rotation in a period at all comparable with that of the
+earth. And after long and patient watching, the conclusion was at last
+reached that Mercury turns on his axis in the same time needed to
+complete a revolution in his orbit. One of his hemispheres, then, is
+always averted from the sun, as one of the moon's hemispheres from the
+earth, while the other never shifts from beneath his torrid rays. The
+"librations," however, of Mercury are on a larger scale than those of
+the moon, because he travels in a more eccentric path. The temporary
+inequalities arising between his "even pacing" on an axis and his
+alternately accelerated and retarded elliptical movement occasion, in
+fact, an oscillation to and fro of the boundaries of light and darkness
+on his globe over an arc of 47 deg. 22', in the course of his year of
+88 days. Thus the regions of perpetual day and perpetual night are
+separated by two segments, amounting to one-fourth of the entire
+surface, where the sun rises and sets once in 88 days. Else there is no
+variation from the intense glare on one side of the globe, and the
+nocturnal blackness on the other.
+
+To Schiaparelli's scrutiny, Mercury appeared as a "spotty globe,"
+enveloped in a tolerably dense atmosphere. The brownish stripes and
+streaks, discerned on his rose-tinged disc, and judged to be permanent,
+were made the basis of a chart. They were not indeed always equally well
+seen. They disappeared regularly near the limb, and were at times veiled
+even when centrally situated. Some of them had been clearly perceived by
+De Ball at Bothkamp in 1882.[820]
+
+Mr. Lowell followed Schiaparelli's example by observing Mercury in the
+full glare of noon. "The best time to study him," he remarked, "is when
+planetary almanacs state 'Mercury invisible.'" A remarkable series of
+drawings executed, some at Flagstaff in 1896, the remainder at Mexico in
+1897, supplied grounds for the following, among other, conclusions.[821]
+Mercury rotates synchronously with its revolution--that is, once in 88
+days--on an axis sensibly perpendicular to its orbital plane. No certain
+signs of a Mercurian atmosphere are visible. The globe is seamed and
+furrowed with long narrow markings, explicable as cracks in cooling. It
+is, and always was, a dead world. From micrometrical measures, moreover,
+the inferences were drawn that the planet's mass has a probable value
+about 1/20 that of the earth, while its mean density falls considerably
+short of the terrestrial standard.
+
+The theory of Mercury's movements has always given trouble. In
+Lalande's,[822] as in Maestlin's time, the planet seemed to exist for no
+other purpose than to throw discredit on astronomers; and even to
+Leverrier's powerful analysis it long proved recalcitrant. On the 12th
+of September, 1869, however, he was able to announce before the Academy
+of Sciences[823] the terms of a compromise between observation and
+calculation. They involved the addition of a new member to the solar
+system. The hitherto unrecognised presence of a body about the size of
+Mercury itself revolving at somewhat less than half its mean distance
+from the sun (or, if farther, then of less mass, and _vice versa_),
+would, it was pointed out, produce exactly the effect required, of
+displacing the perihelion of the former planet 38" a century more than
+could otherwise be accounted for. The planes of the two orbits, however,
+should not lie far apart, as otherwise a nodal disturbance would arise
+not perceived to exist. It was added that a ring of asteroids similarly
+placed would answer the purpose equally well, and was more likely to
+have escaped notice.
+
+Upon the heels of this forecast followed promptly a seeming
+verification. Dr. Lescarbault, a physician residing at Orgeres, whose
+slender opportunities had not blunted his hopes of achievement, had,
+ever since 1845, when he witnessed a transit of Mercury, cherished the
+idea that an unknown planet might be caught thus projected on the solar
+background. Unable to observe continuously until 1858, he, on March 26,
+1859, saw what he had expected--a small perfectly round object slowly
+traversing the sun's disc. The fruitless expectation of reobserving the
+phenomenon, however, kept him silent, and it was not until December 22,
+after the news of Leverrier's prediction had reached him, that he wrote
+to acquaint him with his supposed discovery.[824] The Imperial
+Astronomer thereupon hurried down to Orgeres, and by personal inspection
+of the simple apparatus used, by searching cross-examination and local
+inquiry, convinced himself of the genuine character and substantial
+accuracy of the reported observation. He named the new planet "Vulcan,"
+and computed elements giving it a period of revolution slightly under
+twenty days.[825] But it has never since been seen. M. Liais, director
+of the Brazilian Coast Survey, thought himself justified in asserting
+that it never had been seen. Observing the sun for twelve minutes after
+the supposed ingress recorded at Orgeres, he noted those particular
+regions of its surface as "tres uniformes d'intensite."[826] He
+subsequently, however, admitted Lescarbault's good faith, at first
+rashly questioned. The planet-seeking doctor was, in truth, only one
+among many victims of similar illusions.
+
+Waning interest in the subject was revived by a fresh announcement of a
+transit witnessed, it was asserted, by Weber at Peckeloh, April 4,
+1876.[827] The pseudo-planet, indeed, was detected shortly afterwards on
+the Greenwich photographs, and was found to have been seen by M. Ventosa
+at Madrid in its true character of a sun-spot without penumbra; but
+Leverrier had meantime undertaken the investigation of a list of twenty
+similar dubious appearances, collected by Haase, and republished by Wolf
+in 1872.[828] From these, five were picked out as referring in all
+likelihood to the same body, the reality of whose existence was now
+confidently asserted, and of which more or less probable transits were
+fixed for March 22, 1877, and October 15, 1882.[829] But, widespread
+watchfulness notwithstanding, no suspicious object came into view at
+either epoch.
+
+The next announcement of the discovery of "Vulcan" was on the occasion
+of the total solar eclipse of July 29, 1878.[830] This time it was
+stated to have been seen at some distance south-west of the obscured
+sun, as a ruddy star with a minute planetary disc; and its simultaneous
+detection by two observers--the late Professor James C. Watson,
+stationed at Rawlins (Wyoming Territory), and Professor Lewis Swift at
+Denver (Colorado)--was at first readily admitted. But their separate
+observations could, on a closer examination, by no possibility be
+brought into harmony, and, if valid, certainly referred to two distinct
+objects, if not to four; each astronomer eventually claiming a pair of
+planets. Nor could any one of the four be identified with Lescarbault's
+and Leverrier's Vulcan, which, if a substantial body revolving round the
+sun, must then have been found on the _east_ side of that luminary.[831]
+The most feasible explanation of the puzzle seems to be that Watson and
+Swift merely saw each the same two stars in Cancer: haste and excitement
+doing the rest.[832] Nevertheless, they strenuously maintained their
+opposite conviction.[833]
+
+Intra-Mercurian planets have since been diligently searched for when the
+opportunity of a total eclipse offered, especially during the long
+obscuration at Caroline Island. Not only did Professor Holden "sweep" in
+the solar vicinity, but Palisa and Trouvelot agreed to divide the field
+of exploration, and thus make sure of whatever planetary prey there
+might be within reach; yet with only negative results. Photographic
+explorations during recent eclipses have been equally fruitless. Belief
+in the presence of any considerable body or bodies within the orbit of
+Mercury is, accordingly, at a low ebb. Yet the existence of the anomaly
+in the Mercurian movements indicated by Leverrier has been made only
+surer by further research.[834] Its elucidation constitutes one of the
+"pending problems" of astronomy.
+
+       *       *       *       *       *
+
+From the observation at Bologna in 1666-67 of some very faint spots,
+Domenico Cassini concluded a rotation or libration of Venus--he was not
+sure which--in about twenty-three hours.[835] By Bianchini in 1726 the
+period was augmented to twenty-four _days_ eight hours. J. J. Cassini,
+however, in 1740, showed that the data collected by both observers were
+consistent with rotation in twenty-three hours twenty minutes.[836] So
+the matter rested until Schroeter's time. After watching nine years in
+vain, he at last, February 28, 1788, perceived the ordinarily uniform
+brightness of the planet's disc to be marbled with a filmy streak, which
+returned periodically to the same position in about twenty-three hours
+twenty-eight minutes. This approximate estimate was corrected by the
+application of a more definite criterion. On December 28, 1789, the
+southern horn of the crescent Venus was seen truncated, an outlying
+lucid point interrupting the darkness beyond. Precisely the same
+appearance recurred two years later, giving for the planet's rotation a
+period of 23h. 21m.[837] To this only twenty-two seconds were added by
+De Vico, as the result of over 10,000 observations made with the
+Cauchoix refractor of the Collegio Romano, 1839-41.[838] The axis of
+rotation was found to be much more bowed towards the orbital plane than
+that of the earth, the equator making with it an angle of 53 deg. 11'.
+
+These conclusions inspired, it is true, much distrust, consequently
+there were no received ideas on the subject to be subverted.
+Nevertheless, a shock of surprise was felt at Schiaparelli's
+announcement, early in 1890,[839] that Venus most probably rotates after
+the fashion just previously ascribed to Mercury. A continuous series of
+observations, from November, 1877, to February, 1878, with their records
+in above a hundred drawings, supplied the chief part of the data upon
+which he rested his conclusions. They certainly appeared exceptionally
+well-grounded; and the doubts at first qualifying them were removed by a
+fresh set of determinations in July, 1895.[840] Most observers had
+depended, in their attempts to ascertain the rotation-period of Venus,
+upon evanescent shadings, most likely of atmospheric origin, and
+scarcely recognisable from day to day. Schiaparelli fixed his attention
+upon round, defined, lustrously white spots, the presence of which near
+the cusps of the illuminated crescent has been attested for close upon
+two centuries. His steady watch over them showed the invariability of
+their position with regard to the terminator; and this is as much as to
+say that the regions of day and night do not shift on the surface of the
+planet. In other words, she keeps the same face always turned towards
+the sun. Moreover, since her orbit is nearly circular, libratory effects
+are very small. They amount in fact to only just one-thirtieth of those
+serving to modify the severe contrasts of climate in Mercury.
+
+Confirmatory evidence of Schiaparelli's result for Venus is not wanting.
+Thus, observations irreconcilable with a swift rate of rotation were
+made at Bothkamp in 1871 by Vogel and Lohse;[841] and a drawing executed
+by Professor Holden with the great Washington reflector, December 15,
+1877, showed the same markings in the positions recorded at Milan to
+have been occupied by them eight hours previously. Further, a series of
+observations, carried out by M. Perrotin at Nice, May 15 to October 4,
+1890, and from Mount Mounier in 1895-6, with the special aim of testing
+the inference of synchronous rotation and revolution, proved strongly
+corroborative of it.[842] A remarkable collection of drawings made by
+Mr. Lowell in 1896 appeared decisive in its favour;[843] Tacchini at
+Rome,[844] Mascari at Catania and Etna,[845] Cerulli at Terano,[846]
+obtained in 1892-6 evidence similar in purport. On the other hand,
+Niesten of Brussels found reason to revert to Vico's discarded elements
+for the planet's rotation;[847] and Trouvelot,[848] Stanley
+Williams,[849] Villiger,[850] and Leo Brenner,[851] so far agreed with
+him as to adopt a period of approximately twenty-four hours. Finally, E.
+Von Oppolzer suggested an appeal to the spectroscope;[852] and
+Belopolsky secured in 1900[853] spectrograms apparently marked by the
+minute displacements corresponding to a rapid rate of axial movement.
+But they were avowedly taken only as an experiment, with unsuitable
+apparatus; and the desirable verification of their supposed import is
+not yet forthcoming. Until it is, Schiaparelli's period of 225 days must
+be allowed to hold the field.
+
+Effects attributed to great differences of level in the surface of Venus
+have struck many observers. Francesco Fontana at Naples in 1643 noticed
+irregularities along the inner edge of the crescent.[854] Lahire in 1700
+considered them--regard being had to difference of distance--to be much
+more strongly marked than those visible in the moon.[855] Schroeter's
+assertions to the same effect, though scouted with some unnecessary
+vehemence by Herschel,[856] have since been repeatedly confirmed;
+amongst others by Maedler, De Vico, Langdon, who in 1873 saw the broken
+line of the terminator with peculiar distinctness through a veil of
+auroral cloud;[857] by Denning,[858] March 30, 1881, despite preliminary
+impressions to the contrary, as well as by C. V. Zenger at Prague,
+January 8, 1883. The great mountain mass, presumed to occasion the
+periodical blunting of the southern horn, was precariously estimated by
+the Lilienthal observer to rise to the prodigious height of nearly
+twenty-seven miles, or just five times the elevation of Mount Everest!
+Yet the phenomenon persists, whatever may be thought of the explanation.
+Moreover, the speck of light beyond, interpreted as the visible sign of
+a detached peak rising high enough above the encircling shadow to catch
+the first and last rays of the sun, was frequently discerned by Baron
+Van Ertborn in 1876;[859] while an object near the northern horn of the
+crescent, strongly resembling a lunar ring-mountain, was delineated both
+by De Vico in 1841 and by Denning forty years later.
+
+We are almost equally sure that Venus, as that the earth is encompassed
+with an atmosphere. Yet, notwithstanding luminous appearances plainly
+due to refraction during the transits both of 1761 and 1769, Schroeter,
+in 1792, took the initiative in coming to a definite conclusion on the
+subject.[860] It was founded, first, on the rapid diminution of
+brilliancy towards the terminator, attributed to atmospheric absorption;
+next, on the extension beyond a semicircle of the horns of the crescent;
+lastly, on the presence of a bluish gleam illuminating the early hours
+of the Cytherean night with what was taken to be genuine twilight. Even
+Herschel admitted that sunlight, by the same effect through which the
+heavenly bodies show _visibly above_ our horizons while still
+_geometrically below_ them, appeared to be bent round the shoulder of
+the globe of Venus. Ample confirmation of the fact has since been
+afforded. At Dorpat in May, 1849, the planet being within 3 deg. 26' of
+inferior conjunction, Maedler found the arms of waning light upon the

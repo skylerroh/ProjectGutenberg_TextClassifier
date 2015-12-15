@@ -1,0 +1,190 @@
+The Project Gutenberg EBook of Security, by Poul William Anderson
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Security
+
+Author: Poul William Anderson
+
+Release Date: August 4, 2007 [EBook #22239]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SECURITY ***
+
+
+
+
+Produced by Greg Weeks, Stephen Blundell and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+[Illustration]
+
+
+
+
+SECURITY
+
+BY POUL ANDERSON
+
+ILLUSTRATED BY EBEL
+
+
+
+
+          In a world where Security is all-important, nothing
+            can ever be secure. A mountain-climbing vacation
+            may wind up in deep Space. Or loyalty may prove
+              to be high treason. But it has its rewards.
+
+
+It had been a tough day at the lab, one of those days when nothing seems
+able to go right. And, of course, it had been precisely the day Hammond,
+the Efficiency inspector, would choose to stick his nose in. Another
+mark in his little notebook--and enough marks like that meant a
+derating, and Control had a habit of sending derated labmen to Venus.
+That wasn't a criminal punishment, but it amounted to the same thing.
+Allen Lancaster had no fear of it for himself; the sector chief of a
+Project was under direct Control jurisdiction rather than Efficiency,
+and Control was friendly to him. But he'd hate to see young Rogers get
+it--the boy had been married only a week now.
+
+To top the day off, a report had come to Lancaster's desk from Sector
+Seven of the Project. Security had finally cleared it for general
+transmission to sector chiefs--and it was the complete design of an
+electronic valve on which some of the best men in Lancaster's own
+division, Sector Thirteen, had been sweating for six months. There went
+half a year's work down the drain, all for nothing, and Lancaster would
+have that much less to show at the next Project reckoning.
+
+He had cursed for several minutes straight, drawing the admiring glances
+of his assistants. It was safe enough for a high-ranking labman to gripe
+about Security--in fact, it was more or less expected. Scientists had
+their privileges.
+
+One of these was a private three-room apartment. Another was an extra
+liquor ration. Tonight, as he came home, Lancaster decided to make a
+dent in the latter. He'd eaten at the commissary, as usual, but hadn't
+stayed to talk. All the way home in the tube, he'd been thinking of that
+whiskey and soda.
+
+Now it sparkled gently in his glass and he sighed, letting a smile
+crease his lean homely face. He was a tall man, a little stooped, his
+clothes--uniform and mufti alike--perpetually rumpled. Solitary by
+nature, he was still unmarried in spite of the bachelor tax and had only
+one son. The boy was ten years old now, must be in the Youth Guard;
+Lancaster wasn't sure, never having seen him.
+
+It was dark outside his windows, but a glow above the walls across the
+skyway told of the city pulsing and murmuring beyond. He liked the quiet
+of his evenings alone and had withstood a good deal of personal and
+official pressure to serve in various patriotic organizations. "Damn
+it," he had explained, "I'm not doing routine work. I'm on a Project,
+and I need relaxation of my own choosing."
+
+He selected a tape from his library. _Eine Kleine Nachtmusik_ lilted
+joyously about him as he found a chair and sat down. Control hadn't
+gotten around to making approved lists of music yet, though you'd
+surely never hear Mozart in a public place. Lancaster got a cigar from
+the humidor and collapsed his long gaunt body across chair and hassock.
+Smoke, whiskey, good music--they washed his mind clean of worry and
+frustration; he drifted off in a mist of unformed dreams. Yes, it wasn't
+such a bad world.
+
+       *       *       *       *       *
+
+The mail-tube went _ping!_ and he opened his eyes, swearing. For a
+moment he was tempted to let the pneumo-roll lie where it fell, but
+habit was too strong. He grumbled his way over to the basket and took it
+out.
+
+The stamp across it jerked his mind to wakefulness. _OfiSal, sEkret, fOr
+adresE OnlE_--and a Security seal!
+
+After a moment he swallowed his thumping heart. It couldn't be serious,
+not as far as he personally was concerned anyway. If that had been the
+case, a squad of monitors would have been at the door. Not this message
+tube.... He broke the seal and unfolded the flimsy with elaborate care.
+Slowly, he scanned it. Underneath the official letterhead, the words
+were curt. "_Dis iz A matr uv urjensE and iz top sEkret. destrY Dis letr
+and Du tUb kontAniN it._ tUmOrO, 15 jUn, at 2130 ourz, U wil gO tU Du
+obzurvatOrE, A nIt klub at 5730 viktOrE strEt, and ask Du hedwAtr fOr A
+mistr Berg. U wil asUm Dat hE iz an Old frend uv yOrz and Dat Dis iz A
+sOSal EveniN. Du UZUal penaltEz ar invOkt fOr fAlUr tU komplI."
+
+There was no signature. Lancaster stood for a moment, trying to imagine
+what this might be. There was a brief chill of sweat on his skin. Then
+he suppressed his emotions. He had nothing to fear. His record was clean
+and he wasn't being arrested.
+
+His mind wandered rebelliously off on something that had occurred to him
+before. Admittedly the new phonetic orthography was more efficient than
+the old, if less esthetic; but since little of the earlier literature
+was being re-issued in modern spelling not too many books had actually
+been condemned as subversive--only a few works on history, politics,
+philosophy, and the like, together with some scientific texts restricted
+for security reasons; but one by one, the great old writings were sent
+to forgetfulness.
+
+Well, these were critical times. There wasn't material and energy to
+spare for irrelevant details. No doubt when complete peace was achieved
+there would be a renaissance. Meanwhile he, Lancaster, had his
+Euripides and Goethe and whatever else he liked, or knew where to borrow
+it.
+
+As for this message, they must want him for something big, maybe
+something really interesting.
+
+Nevertheless, his evening was ruined.
+
+       *       *       *       *       *
+
+The Observatory was like most approved recreation spots--large and
+raucous, selling unrationed food and drink and amusement at uncontrolled
+prices of which the government took its usual lion's share. The angle in
+this place was astronomy. The ceiling was a blue haze a-glitter with
+slowly wheeling constellations, and the strippers began with
+make-believe spacesuits. There were some rather good murals on the walls
+depicting various stages of the conquest of space. Lancaster was amused
+at one of them. When he'd been here three years ago, the first landing
+on Ganymede had shown a group of men unfurling a German flag. It had
+stuck in his mind, because he happened to know that the first expedition
+there had actually been Russian. That was all right then, seeing that
+Germany was an ally at the time. But now that Europe was growing
+increasingly cold to the idea of an American-dominated world, the
+Ganymedean pioneers were holding a good safe Stars and Stripes.
+
+Oh, well. You had to keep the masses happy. They couldn't see that their
+sacrifices and the occasional short wars were necessary to prevent
+another real smashup like the one seventy-five years ago. Lancaster's
+annoyance was directed at the sullen foreign powers and the traitors
+within his own land. It was because of them that science had to be
+strait-jacketed by Security regulations.
+
+The headwaiter bowed before him. "I'm looking for a friend," said
+Lancaster. "A Mr. Berg."
+
+"Yes, sir. This way, please."
+
+Lancaster slouched after him. He'd worn the dress uniform of a Project
+officer, but he felt that all eyes were on its deplorable sloppiness.
+The headwaiter conducted him between tables of half-crocked
+customers--burly black-uniformed Space Guardsmen, army and air officers,
+richly clad industrialists and union bosses, civilian leaders, their
+wives and mistresses. The waiters were all Martian slaves, he noticed,
+their phosphorescent owl-eyes smoldering in the dim blue light.
+

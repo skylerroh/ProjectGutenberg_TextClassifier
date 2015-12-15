@@ -1,0 +1,397 @@
+stars situated near the one in question will also send beams of light
+along slightly different directions to the lens, and these will be
+concentrated, each in its appropriate place, in the _focal plane_,
+_F H_, passed through the focus, _F_, perpendicular to the line, _F G_,
+and we shall find in this plane a picture of all the stars or other
+objects within the range of the lens.
+
+[Illustration: FIG. 39.--Essential parts of a reflecting telescope.]
+
+78. TELESCOPES.--The simplest kind of telescope consists of a concave
+mirror to produce images, and a magnifying glass, called an _eyepiece_,
+through which to examine them; but for convenience' sake, so that the
+observer may not stand in his own light, a small mirror is frequently
+added to this combination, as at _H_ in Fig. 39, where the lines
+represent the directions along which the energy is propagated. By
+reflection from this mirror the focal plane and the images are shifted
+to _F_, where they may be examined from one side through the magnifying
+glass _E_.
+
+[Illustration: FIG. 40.--A simple form of refracting telescope.]
+
+Such a combination of parts is called a _reflecting_ telescope, while
+one in which the images are produced by a lens or combination of lenses
+is called a _refracting_ telescope, the adjective having reference to
+the bending, refraction, produced by the glass upon the direction in
+which the energy is propagated. The customary arrangement of parts in
+such a telescope is shown in Fig. 40, where the part marked _O_ is
+called the objective and _V E_ (the magnifying glass) is the eyepiece,
+or ocular, as it is sometimes called.
+
+Most objects with which we have to deal in using a telescope send to it
+not light of one color only, but a mixture of light of many colors,
+many different wave lengths, some of which are refracted more than
+others by the glass of which the lens is composed, and in consequence of
+these different amounts of refraction a single lens does not furnish a
+single image of a star, but gives a confused jumble of red and yellow
+and blue images much inferior in sharpness of outline (definition) to
+the images made by a good concave mirror. To remedy this defect it is
+customary to make the objective of two or more pieces of glass of
+different densities and ground to different shapes as is shown at _O_ in
+Fig. 40. The two pieces of glass thus mounted in one frame constitute a
+compound lens having its own focal plane, shown at _F_ in the figure,
+and similarly the lenses composing the eyepiece have a focal plane
+between the eyepiece and the objective which must also fall at _F_, and
+in the use of a telescope the eyepiece must be pushed out or in until
+its focal plane coincides with that of the objective. This process,
+which is called focusing, is what is accomplished in the ordinary opera
+glass by turning a screw placed between the two tubes, and it must be
+carefully done with every telescope in order to obtain distinct vision.
+
+79. MAGNIFYING POWER.--The amount by which a given telescope magnifies
+depends upon the focal length of the objective (or mirror) and the focal
+length of the eyepiece, and is equal to the ratio of these two
+quantities. Thus in Fig. 40 the distance of the objective from the focal
+plane _F_ is about 16 times as great as the distance of the eyepiece
+from the same plane, and the magnifying power of this telescope is
+therefore 16 diameters. A magnifying power of 16 diameters means that
+the diameter of any object seen in the telescope looks 16 times as large
+as it appears without the telescope, and is nearly equivalent to saying
+that the object appears only one sixteenth as far off. Sometimes the
+magnifying power is assumed to be the number of times that the _area_ of
+an object seems increased; and since areas are proportional to the
+squares of lines, the magnifying power of 16 diameters might be called
+a power of 256. Every large telescope is provided with several eyepieces
+of different focal lengths, ranging from a quarter of an inch to two and
+a half inches, which are used to furnish different magnifying powers as
+may be required for the different kinds of work undertaken with the
+instrument. Higher powers can be used with large telescopes than with
+small ones, but it is seldom advantageous to use with any telescope an
+eyepiece giving a higher power than 60 diameters for each inch of
+diameter of the objective.
+
+The part played by the eyepiece in determining magnifying power will be
+readily understood from the following experiment:
+
+Make a pin hole in a piece of cardboard. Bring a printed page so close
+to one eye that you can no longer see the letters distinctly, and then
+place the pin hole between the eye and the page. The letters which were
+before blurred may now be seen plainly through the pin hole, even when
+the page is brought nearer to the eye than before. As it is brought
+nearer, notice how the letters seem to become larger, solely because
+they are nearer. A pin hole is the simplest kind of a magnifier, and the
+eyepiece in a telescope plays the same part as does the pin hole in the
+experiment; it enables the eye to be brought nearer to the image, and
+the shorter the focal length of the eyepiece the nearer is the eye
+brought to the image and the higher is the magnifying power.
+
+80. THE EQUATORIAL MOUNTING.--Telescopes are of all sizes, from the
+modest opera glass which may be carried in the pocket and which requires
+no other support than the hand, to the giant which must have a special
+roof to shelter it and elaborate machinery to support and direct it
+toward the sky. But for even the largest telescopes this machinery
+consists of the following parts, which are illustrated, with exception
+of the last one, in the small equatorial telescope shown in Fig. 41. It
+is not customary to place a driving clock on so small a telescope as
+this:
+
+(_a_) A supporting pier or tripod.
+
+(_b_) An axis placed parallel to the axis of the earth.
+
+(_c_) Another axis at right angles to _b_ and capable of revolving upon
+_b_ as an axle.
+
+(_d_) The telescope tube attached to _c_ and capable of revolving about
+_c_.
+
+(_e_) Graduated circles attached to _c_ and _b_ to measure the amount by
+which the telescope is turned on these axes.
+
+(_f_) A driving clock so connected with _b_ as to make _c_ (and _d_)
+revolve about _b_ with an angular velocity equal and opposite to that
+with which the earth turns upon its axis.
+
+[Illustration: FIG. 41.--A simple equatorial mounting.]
+
+[Illustration: FIG. 42.--Equatorial mounting of the great telescope of
+the Yerkes Observatory.]
+
+Such a support is called an equatorial mounting, and the student should
+note from the figure that the circles, _e_, measure the hour angle and
+declination of any star toward which the telescope is directed, and
+conversely if the telescope be so set that these circles indicate the
+hour angle and declination of any given star, the telescope will then
+point toward that star. In this way it is easy to find with the
+telescope any moderately bright star, even in broad daylight, although
+it is then absolutely invisible to the naked eye. The rotation of the
+earth about its axis will speedily carry the telescope away from the
+star, but if the driving clock be started, its effect is to turn the
+telescope toward the west just as fast as the earth's rotation carries
+it toward the east, and by these compensating motions to keep it
+directed toward the star. In Fig. 42, which represents the largest and
+one of the most perfect refracting telescopes ever built, let the
+student pick out and identify the several parts of the mounting above
+described. A part of the driving clock may be seen within the head of
+the pier. In Fig. 43 trace out the corresponding parts in the mounting
+of a reflecting telescope.
+
+[Illustration: FIG. 43.--The reflecting telescope of the Paris
+Observatory.]
+
+A telescope is often only a subordinate part of some instrument or
+apparatus, and then its style of mounting is determined by the
+requirements of the special case; but when the telescope is the chief
+thing, and the remainder of the apparatus is subordinate to it, the
+equatorial mounting is almost always adopted, although sometimes the
+arrangement of the parts is very different in appearance from any of
+those shown above. Beware of the popular error that an object held close
+in front of a telescope can be seen by an observer at the eyepiece. The
+numerous stories of astronomers who saw spiders crawling over the
+objective of their telescope, and imagined they were beholding strange
+objects in the sky, are all fictitious, since nothing on or near the
+objective could possibly be seen through the telescope.
+
+81. PHOTOGRAPHY.--A photographic camera consists of a lens and a device
+for holding at its focus a specially prepared plate or film. This plate
+carries a chemical deposit which is very sensitive to the action of
+light, and which may be made to preserve the imprint of any picture
+which the lens forms upon it. If such a sensitive plate is placed at the
+focus of a reflecting telescope, the combination becomes a camera
+available for astronomical photography, and at the present time the
+tendency is strong in nearly every branch of astronomical research to
+substitute the sensitive plate in place of the observer at a telescope.
+A refracting telescope may also be used for astronomical photography,
+and is very much used, but some complications occur here on account of
+the resolution of the light into its constituent colors in passing
+through the objective. Fig. 44 shows such a telescope, or rather two
+telescopes, one photographic, the other visual, supported side by side
+upon the same equatorial mounting.
+
+[Illustration: FIG. 44.--Photographic telescope of the Paris
+Observatory.]
+
+One of the great advantages of photography is found in connection with
+what is called--
+
+82. PERSONAL EQUATION.--It is a remarkable fact, first investigated by
+the German astronomer Bessel, three quarters of a century ago, that
+where extreme accuracy is required the human senses can not be
+implicitly relied upon. The most skillful observers will not agree
+exactly in their measurement of an angle or in estimating the exact
+instant at which a star crossed the meridian; the most skillful artists
+can not draw identical pictures of the same object, etc.
+
+These minor deceptions of the senses are included in the term _personal
+equation_, which is a famous phrase in astronomy, denoting that the
+observations of any given person require to be corrected by means of
+some equation involving his personality.
+
+General health, digestion, nerves, fatigue, all influence the personal
+equation, and it was in reference to such matters that one of the most
+eminent of living astronomers has given this description of his habits
+of observing:
+
+"In order to avoid every physiological disturbance, I have adopted the
+rule to abstain for one or two hours before commencing observations from
+every laborious occupation; never to go to the telescope with stomach
+loaded with food; to abstain from everything which could affect the
+nervous system, from narcotics and alcohol, and especially from the
+abuse of coffee, which I have found to be exceedingly prejudicial to the
+accuracy of observation."[3] A regimen suggestive of preparation for an
+athletic contest rather than for the more quiet labors of an astronomer.
+
+  [3] Schiaparelli, Osservazioni sulle Stelle Doppie.
+
+83. VISUAL AND PHOTOGRAPHIC WORK.--The photographic plate has no stomach
+and no nerves, and is thus free from many of the sources of error which
+inhere in visual observations, and in special classes of work it
+possesses other marked advantages, such as rapidity when many stars are
+to be dealt with simultaneously, permanence of record, and owing to the
+cumulative effect of long exposure of the plate it is possible to
+photograph with a given telescope stars far too faint to be seen through
+it. On the other hand, the eye has the advantage in some respects, such
+as studying the minute details of a fairly bright object--e. g., the
+surface of a planet, or the sun's corona and, for the present at least,
+neither method of observing can exclude the other. For a remarkable case
+of discordance between the results of photographic and visual
+observations compare the pictures of the great nebula in the
+constellation Andromeda, which are given in Chapter XIV. A partial
+explanation of these discordances and other similar ones is that the eye
+is most strongly affected by greenish-yellow light, while the
+photographic plate responds most strongly to violet light; the
+photograph, therefore, represents things which the eye has little
+capacity for seeing, and _vice versa_.
+
+84. THE SPECTROSCOPE.--In some respects the spectroscope is the exact
+counterpart of the telescope. The latter condenses radiant energy and
+the former disperses it. As a measuring instrument the telescope is
+mainly concerned with the direction from which light comes, and the
+different colors of which that light is composed affect it only as an
+obstacle to be overcome in its construction. On the other hand, with the
+spectroscope the direction from which the radiant energy comes is of
+minor consequence, and the all-important consideration is the intrinsic
+character of that radiation. What colors are present in the light and in
+what proportions? What can these colors be made to tell about the nature
+and condition of the body from which they come, be it sun, or star, or
+some terrestrial source of light, such as an arc lamp, a candle flame,
+or a furnace in blast? These are some of the characteristic questions of
+the spectrum analysis, and, as the name implies, they are solved by
+analyzing the radiant energy into its component parts, setting down the
+blue light in one place, the yellow in another, the red in still
+another, etc., and interpreting this array of colors by means of
+principles which we shall have to consider. Something of this process of
+color analysis may be seen in the brilliant hues shown by a soap bubble,
+or reflected from a piece of mother-of-pearl, and still more strikingly
+exhibited in the rainbow, produced by raindrops which break up the
+sunlight into its component colors and arrange them each in its
+appropriate place. Any of these natural methods of decomposing light
+might be employed in the construction of a spectroscope, but in
+spectroscopes which are used for analyzing the light from feeble
+sources, such as a star, or a candle flame, a glass prism of triangular
+cross section is usually employed to resolve the light into its
+component colors, which it does by refracting it as shown at the edges
+of the lens in Fig. 38.
+
+[Illustration: FIG. 45.--Resolution of light into its component colors.]
+
+The course of a beam of light in passing through such a prism is shown
+in Fig. 45. Note that the bending of the light from its original course
+into a new one, which is here shown as produced by the prism, is quite
+similar to the bending shown at the edges of a lens and comes from the
+same cause, the slower velocity of light in glass than in air. It takes
+the light-waves as long to move over the path _A B_ in glass as over the
+longer path _1_, _2_, _3_, _4_, of which only the middle section lies in
+the glass.
+
+Not only does the prism bend the beam of light transmitted by it, but it
+bends in different degree light of different colors, as is shown in the
+figure, where the beam at the left of the prism is supposed to be made
+up of a mixture of blue and red light, while at the right of the prism
+the greater deviation imparted to the blue quite separates the colors,
+so that they fall at different places on the screen, _S S_. The compound
+light has been analyzed into its constituents, and in the same way every
+other color would be put down at its appropriate place on the screen,
+and a beam of white light falling upon the prism would be resolved by it
+into a sequence of colors, falling upon the screen in the order red,
+orange, yellow, green, blue, indigo, violet. The initial letters of
+these names make the word _Roygbiv_, and by means of it their order is
+easily remembered.
+
+[Illustration: FIG. 46.--Principal parts of a spectroscope.]
+
+If the light which is to be examined comes from a star the analysis made
+by the prism is complete, and when viewed through a telescope the image
+of the star is seen to be drawn out into a band of light, which is
+called a _spectrum_, and is red at one end and violet or blue at the
+other, with all the colors of the rainbow intervening in proper order
+between these extremes. Such a prism placed in front of the objective of
+a telescope is called an objective prism, and has been used for stellar
+work with marked success at the Harvard College Observatory. But if the
+light to be analyzed comes from an object having an appreciable extent
+of surface, such as the sun or a planet, the objective prism can not be
+successfully employed, since each point of the surface will produce its
+own spectrum, and these will appear in the _view telescope_ superposed
+and confused one with another in a very objectionable manner. To avoid
+this difficulty there is placed between the prism and the source of
+light an opaque screen, _S_, with a very narrow slit cut in it, through
+which all the light to be analyzed must pass and must also go through a
+lens, _A_, placed between the slit and the prism, as shown in Fig. 46.
+The slit and lens, together with the tube in which they are usually
+supported, are called a _collimator_. By this device a very limited
+amount of light is permitted to pass from the object through the slit
+and lens to the prism and is there resolved into a spectrum, which is in
+effect a series of images of the slit in light of different colors,
+placed side by side so close as to make practically a continuous ribbon
+of light whose width is the length of each individual picture of the
+slit. The length of the ribbon (dispersion) depends mainly upon the
+shape of the prism and the kind of glass of which it is made, and it may
+be very greatly increased and the efficiency of the spectroscope
+enhanced by putting two, three, or more prisms in place of the single
+one above described. When the amount of light is very great, as in the
+case of the sun or an electric arc lamp, it is advantageous to alter
+slightly the arrangement of the spectroscope and to substitute in place
+of the prism a grating--i. e., a metallic mirror with a great number of
+fine parallel lines ruled upon its surface at equal intervals, one from
+another. It is by virtue of such a system of fine parallel grooves that
+mother-of-pearl displays its beautiful color effects, and a brilliant
+spectrum of great purity and high dispersion is furnished by a grating
+ruled with from 10,000 to 20,000 lines to the inch. Fig. 47 represents,
+rather crudely, a part of the spectrum of an arc light furnished by such
+a grating, or rather it shows three different spectra arranged side by
+side, and looking something like a rude ladder. The sides of the ladder
+are the spectra furnished by the incandescent carbons of the lamp, and
+the cross pieces are the spectrum of the electric arc filling the space
+between the carbons. Fig. 48 shows a continuation of the same spectra
+into a region where the radiant energy is invisible to the eye, but is
+capable of being photographed.
+
+[Illustration: FIG. 47.--Green and blue part of the spectrum of an
+electric arc light.]
+
+It is only when a lens is placed between the lamp and the slit of the
+spectroscope that the three spectra are shown distinct from each other
+as in the figure. The purpose of the lens is to make a picture of the
+lamp upon the slit, so that all the radiant energy from any one point of
+the arc may be brought to one part of the slit, and thus appear in the
+resulting spectrum separated from the energy which comes from every
+other part of the arc. Such an instrument is called an _analyzing
+spectroscope_ while one without the lens is called an _integrating
+spectroscope_, since it furnishes to each point of the slit a sample of
+the radiant energy coming from every part of the source of light, and
+thus produces only an average spectrum of that source without
+distinction of its parts. When a spectroscope is attached to a
+telescope, as is often done (see Fig. 49), the eyepiece is removed to
+make way for it, and the telescope objective takes the part of the
+analyzing lens. A camera is frequently combined with such an apparatus
+to photograph the spectra it furnishes, and the whole instrument is then
+called a _spectrograph_.
+
+[Illustration: FIG. 48.--Violet and ultraviolet parts of spectrum of an
+arc lamp.]
+
+[Illustration: FIG. 49.--A spectroscope attached to the Yerkes
+telescope.]
+
+85. SPECTRUM ANALYSIS.--Having seen the mechanism of the spectroscope by
+which the light incident upon it is resolved into its constituent parts
+and drawn out into a series of colors arranged in the order of their
+wave lengths, we have now to consider the interpretation which is to be
+placed upon the various kinds of spectra which may be seen, and here we
+rely upon the experience of physicists and chemists, from whom we learn
+as follows:
+
+The radiant energy which is analyzed by the spectroscope has its source
+in the atoms and molecules which make up the luminous body from which
+the energy is radiated, and these atoms and molecules are able to
+impress upon the ether their own peculiarities in the shape of waves of
+different length and amplitude. We have seen that by varying the
+conditions of the experiment different kinds of waves may be produced in
+a bucket of water; and as a study of these waves might furnish an index
+to the conditions which produced them, so the study of the waves
+peculiar to the light which comes from any source may be made to give
+information about the molecules which make up that source. Thus the
+molecules of iron produce a system of waves peculiar to themselves and
+which can be duplicated by nothing else, and every other substance gives
+off its own peculiar type of energy, presenting a limited and definite
+number of wave lengths dependent upon the nature and condition of its
+molecules. If these molecules are free to behave in their own
+characteristic fashion without disturbance or crowding, they emit light
+of these wave lengths only, and we find in the spectrum a series of
+bright lines, pictures of the slit produced by light of these particular
+wave lengths, while between these bright lines lie dark spaces showing
+the absence from the radiant energy of light of intermediate wave
+lengths. Such a spectrum is shown in the central portion of Fig. 47,
+which, as we have already seen, is produced by the space between the
+carbons of the arc lamp. On the other hand, if the molecules are closely
+packed together under pressure they so interfere with each other as to
+give off a jumble of energy of all wave lengths, and this is translated
+by the spectroscope into a continuous ribbon of light with no dark
+spaces intervening, as in the upper and lower parts of Figs. 47 and 48,
+produced by the incandescent solid carbons of the lamp. These two types
+are known as the continuous and discontinuous spectrum, and we may lay
+down the following principle regarding them:
+
+A discontinuous spectrum, or bright-line spectrum as it is familiarly
+called, indicates that the molecules of the source of light are not
+crowded together, and therefore the light must come from an incandescent

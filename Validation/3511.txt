@@ -1,0 +1,567 @@
+such a telescope as the equatorial at Allegheny is 13 inches in
+diameter, and it is such light, and such heat, concentrated by it, that
+we have to gaze on. The best contrivance so far found for diminishing
+both, and without which our present acquaintance with the real
+appearance and character of sunspots would not have been gained, depends
+upon a curious property of light, discovered by a French physicist,
+Malus, in the beginning of this century. Let A (Fig. 10) be a piece of
+plane unsilvered glass, receiving the solar rays and reflecting them to
+a second similar one, B, which itself reflects them again in the
+direction C. Of course, since the glass is transparent, most of the rays
+will pass through A, and not be reflected. Of those which reach B again
+most will pass through, so that not a hundredth part of the original
+beam reaches C. This then, is so far a gain; but of itself of little
+use, since, such is the solar brilliancy, that even this small fraction
+would, to an eye at C, appear blindingly bright. Now, if we rotate B
+about the line joining it with A, keeping always the same reflecting
+angle with it, it might naturally be supposed that the light would
+merely be reflected in a new direction unchanged in quantity.
+
+But according to the curious discovery of Malus this is not what
+happens. What does happen is that the second glass, after being given a
+quarter turn (though always kept at the same angle), seems to lose its
+power of reflection almost altogether. The light which comes from it now
+is diminished enormously, and yet nothing is distorted or displaced;
+everything is seen correctly if enough light remains to see it by at
+all, and the ray is said to have been "polarized by reflection." It
+would be out of place to enter here on the cause of the phenomenon; the
+fact is certain, and is a very precious one, for the astronomer can now
+diminish the sun's light till it is bearable by the weakest eye, without
+any distortion of what he is looking at, and without disturbing the
+natural tints by colored glasses. In practice, a third and sometimes a
+fourth reflector, each of a wedge shaped, optically plane piece of
+unsilvered glass, are thus introduced, and by a simple rotation of the
+last one the light is graded at pleasure, so that with such an
+instrument, called "the polarizing eyepiece" (Fig. A), I have often
+watched the sun's magnified image for four or five hours together with
+no more distress to the eye than in reading a newspaper.
+
+With this, in favorable moments, we see that the sun's surface away from
+the spots, everywhere, is made up of hundreds of thousands of small,
+intensely brilliant bodies, that seem to be floating in a gray medium,
+which, though itself no doubt very bright, appears dark by comparison.
+What these little things are is still uncertain; whatever they are, they
+are the immediate principal source of the sun's light and heat. To get
+an idea of their size we must resort to some more delicate means of
+measurement than we used in the case of the watch. The filar micrometer
+consists essentially of two excessively fine strands of cobwebs (or,
+rather, of spider's cocoon), called technically "wires," stretched
+parallel to each other and placed just at the focus of the telescope.
+Suppose one of them to be fixed and the second to be movable (keeping
+always parallel to the first) by means of a screw, having perhaps one
+hundred threads to the inch, and a large drum shaped head divided into
+one hundred equal parts, so that moving this head by one division
+carries the second "wire" 1/10000 part of an inch nearer to the first.
+Motions smaller than this can clearly be registered, but it will be
+evident that everything here really depends upon the accuracy of the
+screw. The guide screw of the best lathe is a coarse piece of work by
+comparison with "micrometer" screws as now constructed (especially those
+for making the "gratings" to be described later), for recent uses of
+them demand perhaps the most accurate workmanship of anything in
+mechanics--the maker of one which will pass some lately invented tests
+is entitled at any rate to call himself "a workman."
+
+[Illustration: Fig. 11]
+
+Since the "wires" are stretched precisely in the focus, where the
+principal image of the sun is formed, and move in it, they, and the
+features of the surface, form one picture, as magnified by the eye lens,
+so that they appear as if moving about on the sun itself. We can first
+set them far enough apart, for instance, to take in the whole of a spot,
+and then by bringing them together measure its apparent diameter, in ten
+thousandths of an inch. Then, measuring the diameter of the whole sun,
+we have evidently the proportion that one bears to the other, and hence
+the means of easily calculating the real size. A powerful piece of
+clockwork, attached to the equatorial, keeps it slowly rotating on its
+axis, at the same angular rate as that with which the sun moves in the
+sky, so that any spot or other object there will seem to stay fixed with
+relation to the "wires," if we choose, all day long. The picture of
+"wires," spots, and all, may be projected on a screen if desired; and
+Fig. 11 shows the field of view, with the micrometer wires lying across
+a "spot," so seen on the 6th of March, 1873. Part of a cambric needle
+with the end of a fine thread is represented also as being projected on
+the screen along with the "wires" to give a better idea of the delicacy
+of the latter.
+
+Now we may measure, if we please, the size of one of those bright
+objects, which have just been spoken of as being countable by hundreds
+of thousands. These "little things" are then seen to be really of
+considerable size, measuring from one to three seconds of arc, so that
+(a second of arc here being over 400 miles) the average surface of each
+individual of these myriads is found to be considerably larger than
+Great Britain. Near the edge of the disk, under favorable circumstances,
+they appear to rise up through the obscuring atmosphere, which darkens
+the limb, and gathered here and there in groups of hundreds, to form the
+white cloudlike patches (_faculae_), which may sometimes be seen even
+with a spy-glass--"something in the sun brighter than the sun itself,"
+to employ the expression by which Huyghens described them nearly two
+hundred years ago. They are too minute and delicate objects to be
+rendered at all in our engraving; but this is true also of much of the
+detail to be seen at times in the spots themselves. The wood cuts make
+no pretense to do more than give an outline of the more prominent
+features, of which we are now about to speak. The wonderful beauty of
+some of their details must be taken on trust, from the writer's
+imperfect description of what no pencil has ever yet rendered and what
+the photograph has not yet seized.
+
+[Illustration: Fig. A.]
+
+[Illustration: Fig. 10.]
+
+Bearing this in mind, let us now suppose that while using the polarizing
+eyepiece on the part of the spot distinguished by the little circle, we
+have one of those rare opportunities when we can, by the temporary
+steadiness of our tremulous atmosphere, use the higher powers of the
+telescope and magnify the little circle till it appears as in Fig. 12.
+We have now nearly the same view as if we were brought close to the
+surface of the sun, and suspended over this part of the spot. All the
+faint outer shade, seen in the smaller views (the _penumbra_) is seen to
+be made up of long white filaments, twisted into curious ropelike forms,
+while the central part is like a great flame, ending in fiery spires.
+Over these hang what look like clouds, such as we sometimes see in our
+highest sky, but more transparent than the finest lace vail would be,
+and having not the "fleecy" look of our clouds, but the appearance of
+being filled with almost infinitely delicate threads of light. Perhaps
+the best idea of what is so hard to describe, because so unlike anything
+on earth, is got by supposing ourselves to look _through_ successive
+vails of white lace, filled with flower-like patterns, at some great
+body of white flame beyond, while between the spires of the flame and
+separating it from the border are depths of shade passing into
+blackness. With all this, there is something crystalline about the
+appearance, which it is hard to render an idea of--frost-figures on a
+window pane may help us as an image, though imperfect. In fact the
+intense whiteness of everything is oddly suggestive of something very
+cold, rather than very hot, as we know it really. I have had much the
+same impression when looking into the open mouth of a puddling furnace
+at the lumps of pure white iron, swimming half-melted in the grayer
+fluid about them. Here, however, the temperature leaves nothing solid,
+nothing liquid even; the iron and other metals of which we know these
+spot-forms do in part at least consist are turned into vapor by the
+inconceivable heat, and everything we are looking at consists probably
+of clouds of such vapor; for it is fluctuating and changing from one
+form into another while we look on. Forms as evanescent almost as those
+of sunset clouds, and far more beautiful in everything but color, are
+shifting before us, and here and there we see, or think we see, in the
+sweep of their curves beyond, evidences of mighty whirlwinds (greater by
+far than the largest terrestrial cyclone) at work. While we are looking,
+and trying to make the most of every moment, our atmosphere grows
+tremulous again, the shapes get confused, there is nothing left distinct
+but such coarser features as our engraving shows, and the wonderful
+sight is over. When we consider that this little portion of the spot we
+have been looking at is larger than the North and South American
+continents together, and that we could yet see its parts change from
+minute to minute, it must be evident that the actual motion must have
+been rapid almost beyond conception--a speed of from 20 to 50 miles a
+_second_ being commonly observed and sometimes exceeded. (A cannon ball
+moves less than 1/4 of a mile per second.) I have seen a portion of the
+photosphere, or bright general surface of the sun, drawn into a spot,
+much as any floating thing would be drawn into a whirlpool, and then,
+though it occupied by measurement over 3,000,000 miles in area,
+completely break up and change so as to be unrecognizable in less than
+twenty minutes.
+
+When we come to discuss the subject of the sun's heat, we shall find
+that the temperature of a blast furnace or of the oxyhydrogen blowpipe
+is low compared with that which obtains all over such a vast region, and
+remembering this, it is evident that its disappearance is a cataclysm of
+which the most tremendous volcanic outburst here gives no conception. We
+cannot, by any terrestrial comparison, describe it, for we have no
+comparison for it in human experience. If we try to picture such an
+effect on the earth, we may say in another's words that these solar
+whirlwinds are such as, "coming down upon us from the north, would in
+thirty seconds after they had crossed the St. Lawrence be in the Gulf of
+Mexico, carrying with them the whole surface of the continent in a mass,
+not simply of ruin, but of glowing vapor, in which the vapors arising
+from the dissolution of the materials composing the cities of Boston,
+New York, and Chicago would be mixed in a single indistinguishable
+cloud."
+
+These vast cavities then in the sun we call spots are not solid things,
+and not properly to be compared even to masses of slag or scoria
+swimming on a molten surface. They are rather rents in that bright cloud
+surface of the sun which we call the photosphere, and through which we
+look down to lower regions. Their shape may be very rudely likened to a
+funnel with sides at first slowly sloping (the _penumbra_), and then
+suddenly going down into the central darkness (the _umbra_). This
+central darkness has itself gradations of shade, and cloud forms may be
+seen there obscurely glowing with a reddish tinge far down its depths,
+but we never see to any solid bottom, and the hypothesis of a habitable
+sun far within the hot surface, suggested by Sir William Herschel, is
+now utterly abandoned. We are able now to explain in part that
+mysterious feature in the sun's rotation before insisted on, for if the
+sun be not a solid or a liquid, but a mass of glowing vapor, it is
+evidently possible that one part of it may turn faster than another.
+_Why_ it so turns, we repeat, no one knows, but the fact that it does is
+now seen to bear the strongest testimony to the probable gaseous form of
+the sun throughout its mass--at any rate, to the gaseous or vaporous
+nature of everything we see. We must not forget, however, that under
+such enormous temperature and pressure as prevail there the conditions
+may be--in fact, must be--very different from any familiar to us here,
+so that when we speak of "clouds," and use like expressions, we are to
+be understood as implying rather an analogy than an exact resemblance.
+
+[Illustration: Fig. 12]
+
+We must expect, with the great advances photography has lately made, to
+know more of this part of our subject (which we may call solar
+meteorology) at the next spot maximum than ever before, and by that time
+it may be hoped that some of the wonderful forms described above so
+imperfectly will have been caught for us by the camera.
+
+* For parts 1 and 2 see SCIENTIFIC AMERICAN for July 20 and July 27.
+
+       *       *       *       *       *
+
+IN the notice in our issue for July 27 of a new screw cutting lathe made
+by Messrs. Goodnow & Wightman, the address should have been 176
+Washington street instead of 128, and the diameter of the tail spindle,
+which was given as 5/16, should have been 15/16 inch.
+
+       *       *       *       *       *
+
+THE Olympia (Wyoming Territory) _Standard_ announces that a company has
+been formed there to bring ice from a glacier. The deposit covers a
+number of acres, is seventy or eighty feet deep, and is supposed to
+contain a hundred thousand or more tons, some of which may have been
+there as many years. The ice can be cut and sold at one and one half
+cents a pound, and by the ship load at five dollars a ton.
+
+       *       *       *       *       *
+
+
+
+
+                    =MECHANICAL PUDDLING IN SWEDEN.=
+
+The accompanying engravings, which we take from _Iron_, give plan and
+section of the puddling apparatus invented by Mr. Oestlund, as used at
+the Finspong Ironworks. The gas generator, A, is of the common Swedish
+type, as used for charcoal. The tube, _k_, conducts the gases into the
+refining pot, _a_. This pot has a lining of refinery slag, which is
+melted, as the apparatus revolves, to get it to adhere to the sides. The
+revolution of the pot, _a_, on its axis, _d_, is effected by the action
+of the beveled wheels, _b_ and _b'_, and the pulley, _c_, which takes
+from an iron chain the power given off by a turbine. The spindle, _d_,
+is supported in the bearings, _e_ and _e', c_ carrying a pair of
+trunnions which form the axis of oscillation, and allow the apparatus to
+rise or fall, the whole of this mechanism being supported on the plummer
+blocks, _f f_. One of the trunnions, _e''_, is prolonged so as to form
+the axis of the beveled wheel, _b_, and the pulley, _c_, the latter
+sliding along the trunnion so as to put _b_ in or out of gear. The bush,
+_e_ is tied by means of the stay, _g'_ to the upper end of the toothed
+segment, _g_, the lower extremity of which is connected with the second
+bush at the end of the spindle. By means of the pinion, _h_, revolving
+on standards, _i i_, and the segmental rack, _g_, the pot can be raised
+or lowered without interfering with the action of the beveled wheels.
+
+[Illustration: APPARATUS FOR MECHANICAL PUDDLING.]
+
+The gas from the generator is brought to the mouth of the pot by the
+tubes, _k_ and _m_. The air necessary for the combustion of the gas is
+brought in by a tube, _l_, branching from the air main, _l''_. The air
+tube, _l_, passes into the gas tube and is continued concentrically
+within the latter. The gas and air tubes both have joints at _m'_ and
+_m''_. By means of the bar, _n_, which has a counterpoise to keep the
+moving parts in position, the tubes can be brought from or toward the
+mouth of the pot, so as to make it free of access to the workman. With a
+key fitting on the stem, _n'_, the tubes can be turned in _m'_, so as to
+give the currents of gas and air a more or less oblique direction. To
+screen the workmen from the heat of the pot a disk of iron, _o_, lined
+with fire clay on the side next the pot, is fitted to the end of the
+tubes.
+
+[Illustration: APPARATUS FOR MECHANICAL PUDDLING.]
+
+Before running the metal into the pot, the latter must be heated, to
+such a degree that the slag lining is pasty or semi-fluid at its
+surface. Generally an hour and a half will be spent in heating with gas
+to this point. There should be sufficient live coal in the pot when the
+gas is first let in to keep up its combustion; should it be extinguished
+by excess of air or gas, it must be relit. As soon as the pot begins to
+get red hot the full heat can be put on.
+
+The gas generator is tended in the usual way with the ordinary
+precautions. To keep ashes and dust out of the gas tube, lumps of
+charcoal are heaped up to the height of the top of the flue. The wind
+pressure for the generator was 33 to 41 millimeters of mercury, that of
+the wind for the combustion of the gas (at Finspong the blast is not
+heated) being only 16-1/2 millimeters. The pressure of the gas in the tube
+near the pot was 6.2 millimeters of mercury. The method of working,
+viewed chemically, does not sensibly differ from puddling; although
+giving as good, perhaps better, results at a much less cost. There are
+three principal periods in the operation: 1. The period before boiling.
+2. The boiling itself. 3. The end of the boiling, and the formation of
+balls. When cast metal is poured into the pot a shovelful or two of
+refinery slag is added. The temperature of the bath is thus brought
+down; it thickens and boils, the pot revolving at the rate of 30 or 40
+revolutions a minute. The metal is worked with a rabble, either to cool
+it or to get the slag to incorporate with it, as is done in puddling.
+Note must be taken of the temperature of the melted metal and that of
+the pot, at the moment of charging, the heat during working being
+regulated accordingly by increasing or diminishing the inflow of air
+and gas. When circumstances are favorable, boiling begins five minutes
+after the metal is run into the pot, and it lasts about ten minutes.
+
+Boiling having begun, the batch swells, the iron forms, granulates, and
+seems to cling to the rabble and the sides of the pot. The rotation of
+the pot is continued, as well as the working, to separate out parts
+which are not yet refined; but no more cold cinder is put in. While
+boiling goes on the temperature is regulated so that the pig does not
+cling to the side of the pot during a complete revolution, but so that
+the particles next the side fall back into the bath when the side comes
+uppermost in the revolution. The heat is raised a little when the iron
+can be felt by the rabble to be completely refined, when shining lumps
+make their appearance in the bath, and the iron begins to cling to the
+walls. At the moment, therefore, that the temperature is brought to its
+highest point, and the iron begins to agglutinate, the rotation of the
+pot should be stopped, and either immediately, or after the delay of a
+couple of minutes, it is removed. If the iron does not ball well, it is
+not completely refined, and the pot may be started again. If the iron is
+firm enough already, the isolated particles are exposed to the hottest
+flame possible, the blast being carried to its maximum. The refining is
+thus completely finished, and all the particles are agglomerated. The
+mobility of the gas tube at _m''_ is of advantage in this operation. It
+is sometimes useful to start the pot again to round up the puddled ball,
+but it is best if this has been formed with the rabble.
+
+The iron from a charge of 75 kilos. of pig may be divided with advantage
+into a couple of balls; a third may be made of the iron separated from
+the walls of the pot. To get out the balls the pot is lowered, and the
+workmen use tongs, pointed rabble, and hooked bar. If things have gone
+well the balls ought to come out soft at a welding heat, filled with
+cinder like puddled balls, but a little more resisting and solid under
+the hammer. They are forged into bars, and these are at once passed to
+the rolls. If nothing hinders the balling and shingling, these
+operations will not consume more than fifteen minutes.
+
+       *       *       *       *       *
+
+
+
+
+                       =Photographic Engraving.=
+
+Scamoni's process is as follows: The original drawings are carefully
+touched up, so that the whites are as pure and the blacks as intense as
+possible, and then the negative is taken in the ordinary way, the plate
+being backed in the camera with damp red blotting paper, to prevent
+reflection from the camera or back of the plate. The negative is
+developed in the ordinary manner, intensified by mercuric chloride, and
+varnished. A positive picture is taken in the camera, the negative being
+carefully screened from any light coming between it and the lens. This
+is intensified by pyrogallic acid, and afterward washed with a pure
+water to which a little ammonia has been added. It is then immersed in
+mercuric chloride for half an hour, and again intensified with
+pyrogallic acid. This is repeated several times. When the intensity of
+the lines is considerable, the plate is well washed, treated with
+potassium iodide, and finally with ammonia, the image successively
+appearing yellow, green, brown, and then violet brown. The plate is then
+thoroughly drained, and the image is treated successively with a
+solution of platinic chloride, auric chloride, ferrous sulphate, and
+finally by pyrogallic acid, which has the property of solidifying the
+metallic deposits. The metallic relief thus obtained is dried over a
+spirit lamp, and covered with an excessively thin varnish. This varnish,
+which is evidently a special preparation, retains sufficient tackiness
+to hold powdered graphite on its surface (the bronze powder now used may
+be employed instead), which is dusted on in the usual manner. After
+giving the plate a border of wax, it is placed in an electrotyping bath,
+and a perfect facsimile in intaglio is obtained, from which prints may
+be taken in a printing press.
+
+       *       *       *       *       *
+
+
+
+
+                     =A NEW DEEP SEA THERMOMETER.=
+
+Perhaps some of our readers may have seen a description of a form of
+thermometer devised by MM. Negretti and Zambra for the purpose of
+ascertaining the temperature of the ocean at great depths. This
+consisted of a tube bent into the shape of a siphon, which when it had
+reached the desired depth was made, by means of an ingenious
+arrangement, to pour all the mercury found above a certain point near
+the reservoir into the second arm of the siphon. This second arm, which,
+like the other, was a capillary tube, carried a scale of divisions on
+which might be read the temperature of the depths to which the
+instrument had been lowered. This thermometer gave all the results that
+might have been expected. The ship Challenger during its polar
+expedition had on board a certain number of these instruments. The
+report of Capt. G. S. Nares made to the English Admiralty describes all
+the benefits that we may hope to reap from a serious study of the
+temperature of the ocean at different depths, and not the least of these
+are those that pertain to the fishery interest. Notwithstanding the good
+results given by this instrument, its inventors have endeavored to
+render it still more practical and more within the reach of all by
+diminishing the cost of construction, and increasing its compactness.
+
+[Illustration: Fig. 1 Fig. 2 Fig. 3 NEW THERMOMETER FOR OBTAINING THE
+TEMPERATURE OF THE OCEAN AT GREAT DEPTHS.]
+
+Fig. 1 represents the thermometer isolated from its case. It is an
+ordinary thermometer furnished at A with a little device that M.
+Negretti has already made use of in the construction of his larger
+instrument, and which allows the liquid to run from the reservoir into
+the capillary tube when the temperature rises, without letting it flow
+back when it lowers, if moreover the precaution has been taken to
+incline the tube slightly, reservoir upward. At B there is a bulge in
+the tube in which a certain quantity of mercury may lodge; this bulge is
+placed in such a way that the mercury resulting from the dilatation of
+the reservoir may come to it and continue its ascension in the capillary
+tube when the reservoir is down (the thermometer being vertical), but
+cannot get out when the reservoir is upward.
+
+We should add that these thermometers are constructed so as to give the
+variations of temperature within determined limits.
+
+The small reservoir, B, is indispensable to the well working of the
+apparatus; for in seeking the temperature at a certain depth the
+instrument may, on being drawn up, pass through warmer strata, and it is
+necessary, therefore, to provide the reservoir with a means of diffusing
+the small quantity of mercury resulting from this excess of temperature.
+The tube has also a small bulge at its upper extremity at C.
+
+The thermometer is placed in a small wooden case having a double bottom
+throughout its length. In this double bottom are placed a certain number
+of lead balls that can run from one end of the case to the other, and of
+sufficient weight to render the instrument buoyant in sea water. To use
+the apparatus, one end of a cord is passed through a hole in the case
+under the reservoir of the thermometer, and the other end is tied to the
+sounding line at a certain distance from the lead (Fig. 2). While the
+line is descending the thermometer will remain reservoir downward (Fig.
+2); but when it is again drawn up the thermometer case will take the
+position indicated in Fig. 3, and the column of mercury breaking at A
+will fall into the capillary tube, the divisions of which, as will be
+seen at Fig. 1, are reversed.
+
+As to the thermometer itself, it is important to protect it against the
+pressure which becomes so considerable at great depths; to do this the
+reservoir is surrounded by an envelope of thick glass about three
+quarters full of mercury. The mercury serves to transmit the temperature
+to the reservoir, and should the exterior envelope yield to the effects
+of pressure, the reservoir proper would not be affected, the mercury not
+exactly filling the annular part which surrounds it.
+
+       *       *       *       *       *
+
+
+
+
+                           =New Inventions.=
+
+George E. Palmer, of Cedar Rapids, Iowa, has patented an improved
+Ironing Board, on which the garments may be held in stretched state
+while being smoothed with the irons, and readily adjusted thereon to any
+required degree of tension by a simple attachment.
+
+William B. Rutherford and Joel T. Hawkins, of Rockdale, Texas, have
+patented an improved Bale Tie, which is formed of the plate provided
+with a longitudinal groove and cross ribs or loops, and having
+projections or keys to adapt it to receive and hold the notched ends of
+the bale band.
+
+An improvement in Composition Pavements has been patented by John C.
+Russell, of Kensington, Eng. This invention relates to the treatment of
+peat and spent tan for the manufacture of an improved product or
+material suitable for paving roads and other places and for roofing,
+etc. The most important steps in making the composition consist in
+drying bruised or finely ground peat or spent tan, heating the same _in
+vacuo_ to degree of 150 deg. Fah., and adding sulphur and gas tar, gas
+pitch, and stearine pitch in the proportions specified, then kneading
+the mixture while heated and adding carbonate of lime and furnace slag.
+
+Louis Blanck, of New York city, has patented an improved Safety Brake or
+attachment for locomotives and railroad cars, by which the entire train,
+either by a collision with another train or by contact with any
+obstruction, is first raised from the rails, and then moved in backward
+direction for the distance of a few feet, so that all danger of accident
+is avoided, and no other sensation than that of a slight rocking motion
+exerted. The attachment is constructed so as to admit of being worked by
+the engineer from the cab or the locomotive, or, if desired, from any
+car of the train.
+
+An improved Evaporating Pan had been patented by Andrew D. Martin, of
+Abbeville, La. This invention consists in a tapering sheet metal tank
+having transverse partitions and longitudinal tapering flues that extend
+through all of the partitions and terminate at the ends of the tank.
+
+Lloyd Arnold, of Galveston, Texas, has patented an improved Bale Tie,
+which is formed of a block of iron, with a space or opening running
+longitudinally through its breadth from one end nearly to the other, and
+having the alternate edges of the two plates thus formed notched, the
+notch of the lower plate being square and of a width equal to or a
+little greater than the bale band, and the notch of the upper plate
+being narrower at its bottom than the bale band, and with its sides
+inclined and beveled to an edge, to adapt it to receive and hold the
+bale band.
+
+An improved Tie for Letter Packages has been patented by John Mersellis,
+of Knowersville, N. Y. The object of this invention is to provide a tie
+by means of which letter packages may be quickly and securely fastened
+or tied. It consists in a plate apertured to receive one end of the
+string and also to receive the hook upon which the tie is hung when not
+in use, and having a button and clasp spring for engaging the string in
+the process of tying.
+
+Fred P. Hammond, of Aurora, Ill., has patented an improved Inking Pad,
+which consists in a novel arrangement of layers of cloth or felt,
+chamois skin, oiled silk, and printing roller composition, which enables
+a clean impression of the stamp to be made. The pad retains the desired
+rounded surface and proper degree of softness, and is easily manipulated
+when necessary to replenish the supply of ink.
+
+William J. Clark and Thomas W. Roberts, of Coffeeville, Miss., have
+patented an improved Trap for Catching Fish in streams, which will allow
+the fish to be conveniently taken out without taking up the trap.
+
+John W. Cooper, of Salem, Ind., is the inventor of an improved Alcohol
+Lamp for soldering and similar purposes; and it consists in a reservoir
+pivoted in a supporting frame, and provided with two wick tubes, and an
+extinguisher secured to a spring support, and capable of closing the
+larger wick tube when it is in a vertical position. It has an
+independent extinguisher for the smaller wick tube, and is provided with
+a novel device for projecting the wick from the larger tube as it is
+moved out of a vertical position.
+
+Benjamin Slater, of Attica, N. Y., has invented a simple and effective
+device for Renovating Feathers by the combined action of steam and hot
+air. It consists of a cylindrical receptacle, partly surrounded by a
+steam jacket, and having a hot air box, a perforated bottom, a cover or
+damper for the same, and an aperture in the top, to which is fitted a
+perforated cover and a close cover.
+
+An improved Blind Fastening has been patented by George Runton and John
+Runton, of Hoboken, N. J. This fastening is so constructed as to fasten
+the blind or shutter automatically when swung open, and in such a way as
+to prevent all rattling or shaking of the blind or shutter from the
+action of the wind.
+
+David R. Nichols, of Alexandria Bay, N. Y., has patented an improved
+Animal Trap, which is so constructed as to set itself after each animal
+has been caught, and leave no trace of the trapped animal to frighten
+away those that may come afterward.
+
+William A. Doherty, of Fall River, Mass., has patented an improved Loom
+Shuttle Attachment, by which the weaving of bad cloth is prevented, and
+in case any false shed is made by any irregularities in the warp, and
+that part of the shed carried lower than usual, the attachment is
+released and thrown over the spindle point, so as to render it
+impossible to draw out the filling from the shuttle, and thus break it
+and stop the loom.
+
+Jonas Bowman, of Somerset, O., has patented an improved Vehicle Spring,
+which permits of dispensing with side bars, thus taking less space to
+turn on, and by which the tilting and pitching motion usual with springs
+as heretofore constructed is avoided.
+
+Hiram Unger, of Germantown, O., is the inventor of an improved Gate
+Latch, which is so constructed that the gate cannot be opened
+accidentally by being lifted or by rebounding of the catch or latch.
+
+Madison Calhoun, of Ocate, Ter. of New Mex., has patented an improved
+Hame Fastening, which is not liable to become accidentally unfastened,
+and is easily and quickly fastened and unfastened, even with cold or
+gloved hands.
+
+       *       *       *       *       *
+

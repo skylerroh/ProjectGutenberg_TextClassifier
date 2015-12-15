@@ -1,0 +1,322 @@
+perpendicular Rays; and half this Thickness multiplied by the
+Progression, 1, 3, 5, 7, 9, 11, &c. gives the Thicknesses of the Air at
+the most luminous Parts of all the brightest Rings, _viz._ 1/178000,
+3/178000, 5/178000, 7/178000, &c. their arithmetical Means 2/178000,
+4/178000, 6/178000, &c. being its Thicknesses at the darkest Parts of
+all the dark ones.
+
+_Obs._ 7. The Rings were least, when my Eye was placed perpendicularly
+over the Glasses in the Axis of the Rings: And when I view'd them
+obliquely they became bigger, continually swelling as I removed my Eye
+farther from the Axis. And partly by measuring the Diameter of the same
+Circle at several Obliquities of my Eye, partly by other Means, as also
+by making use of the two Prisms for very great Obliquities, I found its
+Diameter, and consequently the Thickness of the Air at its Perimeter in
+all those Obliquities to be very nearly in the Proportions express'd in
+this Table.
+
+-------------------+--------------------+----------+----------
+Angle of Incidence |Angle of Refraction |Diameter  |Thickness
+        on         |         into       |  of the  |   of the
+      the Air.     |       the Air.     |   Ring.  |    Air.
+-------------------+--------------------+----------+----------
+    Deg.    Min.   |                    |          |
+                   |                    |          |
+    00      00     |     00      00     |  10      |  10
+                   |                    |          |
+    06      26     |     10      00     |  10-1/13 |  10-2/13
+                   |                    |          |
+    12      45     |     20      00     |  10-1/3  |  10-2/3
+                   |                    |          |
+    18      49     |     30      00     |  10-3/4  |  11-1/2
+                   |                    |          |
+    24      30     |     40      00     |  11-2/5  |  13
+                   |                    |          |
+    29      37     |     50      00     |  12-1/2  |  15-1/2
+                   |                    |          |
+    33      58     |     60      00     |  14      |  20
+                   |                    |          |
+    35      47     |     65      00     |  15-1/4  |  23-1/4
+                   |                    |          |
+    37      19     |     70      00     |  16-4/5  |  28-1/4
+                   |                    |          |
+    38      33     |     75      00     |  19-1/4  |  37
+                   |                    |          |
+    39      27     |     80      00     |  22-6/7  |  52-1/4
+                   |                    |          |
+    40      00     |     85      00     |  29      |  84-1/12
+                   |                    |          |
+    40      11     |     90      00     |  35      | 122-1/2
+-------------------+--------------------+----------+----------
+
+In the two first Columns are express'd the Obliquities of the incident
+and emergent Rays to the Plate of the Air, that is, their Angles of
+Incidence and Refraction. In the third Column the Diameter of any
+colour'd Ring at those Obliquities is expressed in Parts, of which ten
+constitute that Diameter when the Rays are perpendicular. And in the
+fourth Column the Thickness of the Air at the Circumference of that Ring
+is expressed in Parts, of which also ten constitute its Thickness when
+the Rays are perpendicular.
+
+And from these Measures I seem to gather this Rule: That the Thickness
+of the Air is proportional to the Secant of an Angle, whose Sine is a
+certain mean Proportional between the Sines of Incidence and Refraction.
+And that mean Proportional, so far as by these Measures I can determine
+it, is the first of an hundred and six arithmetical mean Proportionals
+between those Sines counted from the bigger Sine, that is, from the Sine
+of Refraction when the Refraction is made out of the Glass into the
+Plate of Air, or from the Sine of Incidence when the Refraction is made
+out of the Plate of Air into the Glass.
+
+_Obs._ 8. The dark Spot in the middle of the Rings increased also by the
+Obliquation of the Eye, although almost insensibly. But, if instead of
+the Object-glasses the Prisms were made use of, its Increase was more
+manifest when viewed so obliquely that no Colours appear'd about it. It
+was least when the Rays were incident most obliquely on the interjacent
+Air, and as the obliquity decreased it increased more and more until the
+colour'd Rings appear'd, and then decreased again, but not so much as it
+increased before. And hence it is evident, that the Transparency was
+not only at the absolute Contact of the Glasses, but also where they had
+some little Interval. I have sometimes observed the Diameter of that
+Spot to be between half and two fifth parts of the Diameter of the
+exterior Circumference of the red in the first Circuit or Revolution of
+Colours when view'd almost perpendicularly; whereas when view'd
+obliquely it hath wholly vanish'd and become opake and white like the
+other parts of the Glass; whence it may be collected that the Glasses
+did then scarcely, or not at all, touch one another, and that their
+Interval at the perimeter of that Spot when view'd perpendicularly was
+about a fifth or sixth part of their Interval at the circumference of
+the said red.
+
+_Obs._ 9. By looking through the two contiguous Object-glasses, I found
+that the interjacent Air exhibited Rings of Colours, as well by
+transmitting Light as by reflecting it. The central Spot was now white,
+and from it the order of the Colours were yellowish red; black, violet,
+blue, white, yellow, red; violet, blue, green, yellow, red, &c. But
+these Colours were very faint and dilute, unless when the Light was
+trajected very obliquely through the Glasses: For by that means they
+became pretty vivid. Only the first yellowish red, like the blue in the
+fourth Observation, was so little and faint as scarcely to be discern'd.
+Comparing the colour'd Rings made by Reflexion, with these made by
+transmission of the Light; I found that white was opposite to black, red
+to blue, yellow to violet, and green to a Compound of red and violet.
+That is, those parts of the Glass were black when looked through, which
+when looked upon appeared white, and on the contrary. And so those which
+in one case exhibited blue, did in the other case exhibit red. And the
+like of the other Colours. The manner you have represented in the third
+Figure, where AB, CD, are the Surfaces of the Glasses contiguous at E,
+and the black Lines between them are their Distances in arithmetical
+Progression, and the Colours written above are seen by reflected Light,
+and those below by Light transmitted (p. 209).
+
+_Obs._ 10. Wetting the Object-glasses a little at their edges, the Water
+crept in slowly between them, and the Circles thereby became less and
+the Colours more faint: Insomuch that as the Water crept along, one half
+of them at which it first arrived would appear broken off from the other
+half, and contracted into a less Room. By measuring them I found the
+Proportions of their Diameters to the Diameters of the like Circles made
+by Air to be about seven to eight, and consequently the Intervals of the
+Glasses at like Circles, caused by those two Mediums Water and Air, are
+as about three to four. Perhaps it may be a general Rule, That if any
+other Medium more or less dense than Water be compress'd between the
+Glasses, their Intervals at the Rings caused thereby will be to their
+Intervals caused by interjacent Air, as the Sines are which measure the
+Refraction made out of that Medium into Air.
+
+_Obs._ 11. When the Water was between the Glasses, if I pressed the
+upper Glass variously at its edges to make the Rings move nimbly from
+one place to another, a little white Spot would immediately follow the
+center of them, which upon creeping in of the ambient Water into that
+place would presently vanish. Its appearance was such as interjacent Air
+would have caused, and it exhibited the same Colours. But it was not
+air, for where any Bubbles of Air were in the Water they would not
+vanish. The Reflexion must have rather been caused by a subtiler Medium,
+which could recede through the Glasses at the creeping in of the Water.
+
+_Obs._ 12. These Observations were made in the open Air. But farther to
+examine the Effects of colour'd Light falling on the Glasses, I darken'd
+the Room, and view'd them by Reflexion of the Colours of a Prism cast on
+a Sheet of white Paper, my Eye being so placed that I could see the
+colour'd Paper by Reflexion in the Glasses, as in a Looking-glass. And
+by this means the Rings became distincter and visible to a far greater
+number than in the open Air. I have sometimes seen more than twenty of
+them, whereas in the open Air I could not discern above eight or nine.
+
+[Illustration: FIG. 3.]
+
+_Obs._ 13. Appointing an Assistant to move the Prism to and fro about
+its Axis, that all the Colours might successively fall on that part of
+the Paper which I saw by Reflexion from that part of the Glasses, where
+the Circles appear'd, so that all the Colours might be successively
+reflected from the Circles to my Eye, whilst I held it immovable, I
+found the Circles which the red Light made to be manifestly bigger than
+those which were made by the blue and violet. And it was very pleasant
+to see them gradually swell or contract accordingly as the Colour of the
+Light was changed. The Interval of the Glasses at any of the Rings when
+they were made by the utmost red Light, was to their Interval at the
+same Ring when made by the utmost violet, greater than as 3 to 2, and
+less than as 13 to 8. By the most of my Observations it was as 14 to 9.
+And this Proportion seem'd very nearly the same in all Obliquities of my
+Eye; unless when two Prisms were made use of instead of the
+Object-glasses. For then at a certain great obliquity of my Eye, the
+Rings made by the several Colours seem'd equal, and at a greater
+obliquity those made by the violet would be greater than the same Rings
+made by the red: the Refraction of the Prism in this case causing the
+most refrangible Rays to fall more obliquely on that plate of the Air
+than the least refrangible ones. Thus the Experiment succeeded in the
+colour'd Light, which was sufficiently strong and copious to make the
+Rings sensible. And thence it may be gather'd, that if the most
+refrangible and least refrangible Rays had been copious enough to make
+the Rings sensible without the mixture of other Rays, the Proportion
+which here was 14 to 9 would have been a little greater, suppose 14-1/4
+or 14-1/3 to 9.
+
+_Obs._ 14. Whilst the Prism was turn'd about its Axis with an uniform
+Motion, to make all the several Colours fall successively upon the
+Object-glasses, and thereby to make the Rings contract and dilate: The
+Contraction or Dilatation of each Ring thus made by the variation of its
+Colour was swiftest in the red, and slowest in the violet, and in the
+intermediate Colours it had intermediate degrees of Celerity. Comparing
+the quantity of Contraction and Dilatation made by all the degrees of
+each Colour, I found that it was greatest in the red; less in the
+yellow, still less in the blue, and least in the violet. And to make as
+just an Estimation as I could of the Proportions of their Contractions
+or Dilatations, I observ'd that the whole Contraction or Dilatation of
+the Diameter of any Ring made by all the degrees of red, was to that of
+the Diameter of the same Ring made by all the degrees of violet, as
+about four to three, or five to four, and that when the Light was of the
+middle Colour between yellow and green, the Diameter of the Ring was
+very nearly an arithmetical Mean between the greatest Diameter of the
+same Ring made by the outmost red, and the least Diameter thereof made
+by the outmost violet: Contrary to what happens in the Colours of the
+oblong Spectrum made by the Refraction of a Prism, where the red is most
+contracted, the violet most expanded, and in the midst of all the
+Colours is the Confine of green and blue. And hence I seem to collect
+that the thicknesses of the Air between the Glasses there, where the
+Ring is successively made by the limits of the five principal Colours
+(red, yellow, green, blue, violet) in order (that is, by the extreme
+red, by the limit of red and yellow in the middle of the orange, by the
+limit of yellow and green, by the limit of green and blue, by the limit
+of blue and violet in the middle of the indigo, and by the extreme
+violet) are to one another very nearly as the sixth lengths of a Chord
+which found the Notes in a sixth Major, _sol_, _la_, _mi_, _fa_, _sol_,
+_la_. But it agrees something better with the Observation to say, that
+the thicknesses of the Air between the Glasses there, where the Rings
+are successively made by the limits of the seven Colours, red, orange,
+yellow, green, blue, indigo, violet in order, are to one another as the
+Cube Roots of the Squares of the eight lengths of a Chord, which found
+the Notes in an eighth, _sol_, _la_, _fa_, _sol_, _la_, _mi_, _fa_,
+_sol_; that is, as the Cube Roots of the Squares of the Numbers, 1, 8/9,
+5/6, 3/4, 2/3, 3/5, 9/16, 1/2.
+
+_Obs._ 15. These Rings were not of various Colours like those made in
+the open Air, but appeared all over of that prismatick Colour only with
+which they were illuminated. And by projecting the prismatick Colours
+immediately upon the Glasses, I found that the Light which fell on the
+dark Spaces which were between the Colour'd Rings was transmitted
+through the Glasses without any variation of Colour. For on a white
+Paper placed behind, it would paint Rings of the same Colour with those
+which were reflected, and of the bigness of their immediate Spaces. And
+from thence the origin of these Rings is manifest; namely, that the Air
+between the Glasses, according to its various thickness, is disposed in
+some places to reflect, and in others to transmit the Light of any one
+Colour (as you may see represented in the fourth Figure) and in the same
+place to reflect that of one Colour where it transmits that of another.
+
+[Illustration: FIG. 4.]
+
+_Obs._ 16. The Squares of the Diameters of these Rings made by any
+prismatick Colour were in arithmetical Progression, as in the fifth
+Observation. And the Diameter of the sixth Circle, when made by the
+citrine yellow, and viewed almost perpendicularly was about 58/100 parts
+of an Inch, or a little less, agreeable to the sixth Observation.
+
+The precedent Observations were made with a rarer thin Medium,
+terminated by a denser, such as was Air or Water compress'd between two
+Glasses. In those that follow are set down the Appearances of a denser
+Medium thin'd within a rarer, such as are Plates of Muscovy Glass,
+Bubbles of Water, and some other thin Substances terminated on all sides
+with air.
+
+_Obs._ 17. If a Bubble be blown with Water first made tenacious by
+dissolving a little Soap in it, 'tis a common Observation, that after a
+while it will appear tinged with a great variety of Colours. To defend
+these Bubbles from being agitated by the external Air (whereby their
+Colours are irregularly moved one among another, so that no accurate
+Observation can be made of them,) as soon as I had blown any of them I
+cover'd it with a clear Glass, and by that means its Colours emerged in
+a very regular order, like so many concentrick Rings encompassing the
+top of the Bubble. And as the Bubble grew thinner by the continual
+subsiding of the Water, these Rings dilated slowly and overspread the
+whole Bubble, descending in order to the bottom of it, where they
+vanish'd successively. In the mean while, after all the Colours were
+emerged at the top, there grew in the center of the Rings a small round
+black Spot, like that in the first Observation, which continually
+dilated it self till it became sometimes more than 1/2 or 3/4 of an Inch
+in breadth before the Bubble broke. At first I thought there had been no
+Light reflected from the Water in that place, but observing it more
+curiously, I saw within it several smaller round Spots, which appeared
+much blacker and darker than the rest, whereby I knew that there was
+some Reflexion at the other places which were not so dark as those
+Spots. And by farther Tryal I found that I could see the Images of some
+things (as of a Candle or the Sun) very faintly reflected, not only from
+the great black Spot, but also from the little darker Spots which were
+within it.
+
+Besides the aforesaid colour'd Rings there would often appear small
+Spots of Colours, ascending and descending up and down the sides of the
+Bubble, by reason of some Inequalities in the subsiding of the Water.
+And sometimes small black Spots generated at the sides would ascend up
+to the larger black Spot at the top of the Bubble, and unite with it.
+
+_Obs._ 18. Because the Colours of these Bubbles were more extended and
+lively than those of the Air thinn'd between two Glasses, and so more
+easy to be distinguish'd, I shall here give you a farther description of
+their order, as they were observ'd in viewing them by Reflexion of the
+Skies when of a white Colour, whilst a black substance was placed
+behind the Bubble. And they were these, red, blue; red, blue; red, blue;
+red, green; red, yellow, green, blue, purple; red, yellow, green, blue,
+violet; red, yellow, white, blue, black.
+
+The three first Successions of red and blue were very dilute and dirty,
+especially the first, where the red seem'd in a manner to be white.
+Among these there was scarce any other Colour sensible besides red and
+blue, only the blues (and principally the second blue) inclined a little
+to green.
+
+The fourth red was also dilute and dirty, but not so much as the former
+three; after that succeeded little or no yellow, but a copious green,
+which at first inclined a little to yellow, and then became a pretty
+brisk and good willow green, and afterwards changed to a bluish Colour;
+but there succeeded neither blue nor violet.
+
+The fifth red at first inclined very much to purple, and afterwards
+became more bright and brisk, but yet not very pure. This was succeeded
+with a very bright and intense yellow, which was but little in quantity,
+and soon chang'd to green: But that green was copious and something more
+pure, deep and lively, than the former green. After that follow'd an
+excellent blue of a bright Sky-colour, and then a purple, which was less
+in quantity than the blue, and much inclined to red.
+
+The sixth red was at first of a very fair and lively scarlet, and soon
+after of a brighter Colour, being very pure and brisk, and the best of
+all the reds. Then after a lively orange follow'd an intense bright and
+copious yellow, which was also the best of all the yellows, and this
+changed first to a greenish yellow, and then to a greenish blue; but the
+green between the yellow and the blue, was very little and dilute,
+seeming rather a greenish white than a green. The blue which succeeded
+became very good, and of a very bright Sky-colour, but yet something
+inferior to the former blue; and the violet was intense and deep with
+little or no redness in it. And less in quantity than the blue.
+
+In the last red appeared a tincture of scarlet next to violet, which
+soon changed to a brighter Colour, inclining to an orange; and the
+yellow which follow'd was at first pretty good and lively, but
+afterwards it grew more dilute until by degrees it ended in perfect
+whiteness. And this whiteness, if the Water was very tenacious and
+well-temper'd, would slowly spread and dilate it self over the greater
+part of the Bubble; continually growing paler at the top, where at
+length it would crack in many places, and those cracks, as they dilated,
+would appear of a pretty good, but yet obscure and dark Sky-colour; the
+white between the blue Spots diminishing, until it resembled the Threds
+of an irregular Net-work, and soon after vanish'd, and left all the

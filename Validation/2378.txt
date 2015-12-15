@@ -1,0 +1,397 @@
+chromosphere, composed of gases less easily liquefied, hydrogen is the
+chief one, while between photosphere and chromosphere is a thin layer of
+metallic vapors, perhaps indistinguishable from the top crust of the
+photosphere itself, which by absorbing the light given off from the
+liquid photosphere produces the greater part of the Fraunhofer lines in
+the solar spectrum.
+
+From time to time the hot matter struggling up from below breaks through
+the photosphere and, carrying with it a certain amount of the metallic
+vapors, is launched into the upper and cooler regions of the sun,
+where, parting with its heat, it falls back again upon the photosphere
+and is absorbed into it. It is altogether probable that the corona is
+chiefly composed of fine particles ejected from the sun with velocities
+sufficient to carry them to a height of millions of miles, or even
+sufficient to carry them off never to return. The matter of the corona
+must certainly be in a state of the most lively agitation, its particles
+being alternately hurled up from the photosphere and falling back again
+like fireworks, the particles which make up the corona of to-day being
+quite a different set from those of yesterday or last week. It seems
+beyond question that the prominences and faculæ too are produced in some
+way by this up-and-down circulation of the sun's matter, and that any
+mechanical explanation of the sun must be worked out along these lines;
+but the problem is an exceedingly difficult one, and must include and
+explain many other features of the sun's activity of which only a few
+can be considered here.
+
+129. THE SUN-SPOT PERIOD.--Sun spots come and go, and at best any
+particular spot is but short-lived, rarely lasting more than a month or
+two, and more often its duration is a matter of only a few days. They
+are not equally numerous at all times, but, like swarms of locusts, they
+seem to come and abound for a season and then almost to disappear, as if
+the forces which produced them were of a periodic character alternately
+active and quiet. The effect of this periodic activity since 1870 is
+shown in Fig. 81, where the horizontal line is a scale of times, and the
+distance of the curve above this line for any year shows the relative
+number of spots which appeared upon the sun in that year. This indicates
+very plainly that 1870, 1883, and 1893 were years of great sun-spot
+activity, while 1879 and 1889 were years in which few spots appeared.
+The older records, covering a period of two centuries, show the same
+fluctuations in the frequency of sun spots and from these records
+curves (which may be found in Young's, The Sun) have been plotted,
+showing a succession of waves extending back for many years.
+
+[Illustration: FIG. 81.--The curve of sun-spot frequency.]
+
+The sun-spot period is the interval of time from the crest or hollow of
+one wave to the corresponding part of the next one, and on the average
+this appears to be a little more than eleven years, but is subject to
+considerable variation. In accordance with this period there is drawn in
+broken lines at the right of Fig. 81 a predicted continuation of the
+sun-spot curve for the first decade of the twentieth century. The
+irregularity shown by the three preceding waves is such that we must not
+expect the actual course of future sun spots to correspond very closely
+to the prediction here made; but in a general way 1901 and 1911 will
+probably be years of few sun spots, while they will be numerous in 1905,
+but whether more or less numerous than at preceding epochs of greatest
+frequency can not be foretold with any approach to certainty so long as
+we remain in our present ignorance of the causes which make the sun-spot
+period.
+
+Determine from Fig. 81 as accurately as possible the length of the
+sun-spot period. It is hard to tell the exact position of a crest or
+hollow of the curve. Would it do to draw a horizontal line midway
+between top and bottom of the curve and determine the length of the
+period from its intersections with the curve--e. g., in 1874 and 1885?
+
+[Illustration: FIG. 82.--Illustrating change of the sun-spot zones.]
+
+130. THE SUN-SPOT ZONES.--It has been already noted that sun spots are
+found only in certain zones of latitude upon the sun, and that faculæ
+and eruptive prominences abound in these zones more than elsewhere,
+although not strictly confined to them. We have now to note a
+peculiarity of these zones which ought to furnish a clew to the sun's
+mechanism, although up to the present time it has not been successfully
+traced out. Just before a sun-spot minimum the few spots which appear
+are for the most part clustered near the sun's equator. As these spots
+die out two new groups appear, one north the other south of the sun's
+equator and about 25° or 30° distant from it, and as the period advances
+toward a maximum these groups shift their positions more and more toward
+the equator, thus approaching each other but leaving between them a
+vacant lane, which becomes steadily narrower until at the close of the
+period, when the next minimum is at hand, it reaches its narrowest
+dimensions, but does not altogether close up even then. In Fig. 82 these
+relations are shown for the period falling between 1879 and 1890, by
+means of the horizontal lines; for each year one line in the northern
+and one in the southern hemisphere of the sun, their lengths being
+proportional to the number of spots which appeared in the corresponding
+hemisphere during the year, and their positions on the sun's disk
+showing the average latitude of the spots in question. It is very
+apparent from the figure that during this decade the sun's southern
+hemisphere was much more active than the northern one in the production
+of spots, and this appears to be generally the case, although the
+difference is not usually as great as in this particular decade.
+
+131. INFLUENCE OF THE SUN-SPOT PERIOD.--Sun spots are certainly less hot
+than the surrounding parts of the sun's surface, and, in view of the
+intimate dependence of the earth upon the solar radiation, it would be
+in no way surprising if their presence or absence from the sun's face
+should make itself felt in some degree upon the earth, raising and
+lowering its temperature and quite possibly affecting it in other ways.
+Ingenious men have suggested many such kinds of influence, which,
+according to their investigations, appear to run in cycles of eleven
+years. Abundant and scanty harvests, cyclones, tornadoes, epidemics,
+rainfall, etc., are among these alleged effects, and it is possible that
+there may be a real connection between any or all of them and the
+sun-spot period, but for the most part astronomers are inclined to hold
+that there is only one case in which the evidence is strong enough to
+really establish a connection of this kind. The magnetic condition of
+the earth and its disturbances, which are called magnetic storms, do
+certainly follow in a very marked manner the course of sun-spot
+activity, and perhaps there should be added to this the statement that
+auroras (northern lights) stand in close relation to these magnetic
+disturbances and are most frequent at the times of sun-spot maxima.
+
+Upon the sun, however, the influence of the spot period is not limited
+to things in and near the photosphere, but extends to the outermost
+limits of the corona. Determine from Fig. 81 the particular part of the
+sun-spot period corresponding to the date of each picture of the corona
+and note how the pictures which were taken near times of sun-spot minima
+present a general agreement in the shape and extent of the corona, while
+the pictures taken at a time of maximum activity of the sun spots show a
+very differently shaped and much smaller corona.
+
+132. THE LAW OF THE SUN'S ROTATION.--We have seen in a previous part of
+the chapter how the time required by the sun to make a complete rotation
+upon its axis may be determined from photographs showing the progress of
+a spot or group of spots across its disk, and we have now to add that
+when this is done systematically by means of many spots situated in
+different solar latitudes it leads to a very peculiar and extraordinary
+result. Each particular parallel of latitude has its own period of
+rotation different from that of its neighbors on either side, so that
+there can be no such thing as a fixed geography of the sun's surface.
+Every part of it is constantly taking up a new position with respect to
+every other part, much as if the Gulf of Mexico should be south of the
+United States this year, southeast of it next year, and at the end of a
+decade should have shifted around to the opposite side of the earth from
+us. A meridian of longitude drawn down the Mississippi Valley remains
+always a straight line, or, rather, great circle, upon the surface of
+the earth, while Fig. 83 shows what would become of such a meridian
+drawn through the equatorial parts of the sun's disk. In the first
+diagram it appears as a straight line running down the middle of the
+sun's disk. Twenty-five days later, when the same face of the sun comes
+back into view again, after making a complete revolution about the axis,
+the equatorial parts will have moved so much faster and farther than
+those in higher latitudes that the meridian will be warped as in the
+second diagram, and still more warped after another and another
+revolution, as shown in the figure.
+
+[Illustration: FIG. 83.--Effect of the sun's peculiar rotation in
+warping a meridian, originally straight.]
+
+At least such is the case if the spots truly represent the way in which
+the sun turns round. There is, however, a possibility that the spots
+themselves drift with varying speeds across the face of the sun, and
+that the differences which we find in their rates of motion belong to
+them rather than to the photosphere. Just what happens in the regions
+near the poles is hard to say, for the sun spots only extend about
+halfway from the equator to the poles, and the spectroscope, which may
+be made to furnish a certain amount of information bearing upon the
+case, is not as yet altogether conclusive, nor are the faculæ which have
+also been observed for this purpose.
+
+The simple theory that the solar phenomena are caused by an interchange
+of hotter and cooler matter between the photosphere and the lower strata
+of the sun furnishes in its present shape little or no explanation of
+such features as the sun-spot period, the variations in the corona, the
+peculiar character of the sun's rotation, etc., and we have still
+unsolved in the mechanical theory of the sun one of the noblest problems
+of astronomy, and one upon which both observers and theoretical
+astronomers are assiduously working at the present time. A close watch
+is kept upon sun spots and prominences, the corona is observed at every
+total eclipse, and numerous are the ingenious methods which are being
+suggested and tried for observing it without an eclipse in ordinary
+daylight. Attempts, more or less plausible, have been made and are now
+pending to explain photosphere, spots and the reversing layer by means
+of the refraction of light within the sun's outer envelope of gases, and
+it seems altogether probable, in view of these combined activities, that
+a considerable addition to our store of knowledge concerning the sun may
+be expected in the not distant future.
+
+
+
+
+CHAPTER XI
+
+THE PLANETS
+
+
+133. PLANETS.--Circling about the sun, under the influence of his
+attraction, is a family of planets each member of which is, like the
+moon, a dark body shining by reflected sunlight, and therefore
+presenting phases; although only two of them, Mercury and Venus, run
+through the complete series--new, first quarter, full, last
+quarter--which the moon presents. The way in which their orbits are
+grouped about the sun has been considered in Chapter III, and Figs. 16
+and 17 of that chapter may be completed so as to represent all of the
+planets by drawing in Fig. 16 two circles with radii of 7.9 and 12.4
+centimeters respectively, to represent the orbits of the planets Uranus
+and Neptune, which are more remote from the sun than Saturn, and by
+introducing a little inside the orbit of Jupiter about 500 ellipses of
+different sizes, shapes, and positions to represent a group of minor
+planets or asteroids as they are often called. It is convenient to
+regard these asteroids as composing by themselves a class of very small
+planets, while the remaining 8 larger planets fall naturally into two
+other classes, a group of medium-sized ones--Mercury, Venus, Earth, and
+Mars--called inner planets by reason of their nearness to the sun; and
+the outer planets--Jupiter, Saturn, Uranus, Neptune--each of which is
+much larger and more massive than any planet of the inner group. Compare
+in Figs. 84 and 85 their relative sizes. The earth, _E_, is introduced
+into Fig. 85 as a connecting link between the two figures.
+
+Some of these planets, like the earth, are attended by one or more
+moons, technically called satellites, which also shine by reflected
+sunlight and which move about their respective planets in accordance
+with the law of gravitation, much as the moon moves around the earth.
+
+[Illustration: FIG. 84.--The inner planets and the moon.]
+
+[Illustration: FIG. 85.--The outer planets.]
+
+134. DISTANCES OF THE PLANETS FROM THE SUN.--It is a comparatively
+simple matter to observe these planets year after year as they move
+among the stars, and to find from these observations how long each one
+of them requires to make its circuit around the sun--that is, its
+periodic time, _T_, which figures in Kepler's Third Law, and when these
+periodic times have been ascertained, to use them in connection with
+that law to determine the mean distance of each planet from the sun.
+Thus, Jupiter requires 4,333 days to move completely around its orbit;
+and comparing this with the periodic time and mean distance of the earth
+we find--
+
+    a^{3} / (4333^{2}) = (93,000,000^{3}) / (365.25^{2}),
+
+which when solved gives as the mean distance of Jupiter from the sun,
+483,730,000 miles, or 5.20 times as distant as the earth. If we make a
+similar computation for each planet, we shall find that their distances
+from the sun show a remarkable agreement with an artificial series of
+numbers called Bode's law. We write down the numbers contained in the
+first line of figures below, each of which, after the second, is
+obtained by doubling the preceding one, add 4 to each number and point
+off one place of decimals; the resulting number is (approximately) the
+distance of the corresponding planet from the sun.
+
+ Mercury.  Venus.  Earth.  Mars.    Jupiter.  Saturn.  Uranus.  Neptune.
+    0        3       6      12   24   48        96       192      384
+    4        4       4       4    4    4         4         4        4
+ -----------------------------------------------------------------------
+   0.4      0.7     1.0    1.6  2.8  5.2      10.0      19.6     38.8
+   0.4      0.7     1.0    1.5  2.8  5.2       9.5      19.2     30.1
+
+The last line of figures shows the real distance of the planet as
+determined from Kepler's law, the earth's mean distance from the sun
+being taken as the unit for this purpose. With exception of Neptune, the
+agreement between Bode's law and the true distances is very striking,
+but most remarkable is the presence in the series of a number, 2.8, with
+no planet corresponding to it. This led astronomers at the time Bode
+published the law, something more than a century ago, to give new heed
+to a suggestion made long before by Kepler, that there might be an
+unknown planet moving between the orbits of Mars and Jupiter, and a
+number of them agreed to search for such a planet, each in a part of the
+sky assigned him for that purpose. But they were anticipated by Piazzi,
+an Italian, who found the new planet, by accident, on the first day of
+the nineteenth century, moving at a distance from the sun represented by
+the number 2.77.
+
+This planet was the first of the asteroids, and in the century that has
+elapsed hundreds of them have been discovered, while at the present time
+no year passes by without several more being added to the number. While
+some of these are nearer to the sun than is the first one discovered,
+and others are farther from it, their average distance is fairly
+represented by the number 2.8.
+
+Why Bode's law should hold true, or even so nearly true as it does, is
+an unexplained riddle, and many astronomers are inclined to call it no
+law at all, but only a chance coincidence--an illustration of the
+"inherent capacity of figures to be juggled with"; but if so, it is
+passing strange that it should represent the distance of the asteroids
+and of Uranus, which was also an undiscovered planet at the time the law
+was published.
+
+135. THE PLANETS COMPARED WITH EACH OTHER.--When we pass from general
+considerations to a study of the individual peculiarities of the
+planets, we find great differences in the extent of knowledge concerning
+them, and the reason for this is not far to seek. Neptune and Uranus, at
+the outskirts of the solar system, are so remote from us and so feebly
+illumined by the sun that any detailed study of them can go but little
+beyond determining the numbers which represent their size, mass,
+density, the character of their orbits, etc. The asteroids are so small
+that in the telescope they look like mere points of light, absolutely
+indistinguishable in appearance from the fainter stars. Mercury,
+although closer at hand and presenting a disk of considerable size,
+always stands so near the sun that its observation is difficult on this
+account. Something of the same kind is true for Venus, although in much
+less degree; while Mars, Jupiter, and Saturn are comparatively easy
+objects for telescopic study, and our knowledge of them, while far from
+complete, is considerably greater than for the other planets.
+
+Figs. 84 and 85 show the relative sizes of the planets composing the
+inner and outer groups respectively, and furnish the numerical data
+concerning their diameters, masses, densities, etc., which are of most
+importance in judging of their physical condition. Each planet, save
+Saturn, is represented by two circles, of which the outer is drawn
+proportional to the size of the planet, and the inner shows the amount
+of material that must be subtracted from the interior in order that the
+remaining shell shall just float in water. Note the great difference in
+thickness of shell between the two groups. Saturn, having a mean density
+less than that of water, must have something loaded upon it, instead of
+removed, in order that it should float just submerged.
+
+
+JUPITER
+
+136. APPEARANCE.--Commencing our consideration of the individual planets
+with Jupiter, which is by far the largest of them, exceeding both in
+bulk and mass all the others combined, we have in Fig. 86 four
+representations of Jupiter and his family of satellites as they may be
+seen in a very small telescope--e. g., an opera glass--save that the
+little dots which here represent the satellites are numbered _1_, _2_,
+_3_, _4_, in order to preserve their identity in the successive
+pictures.
+
+The chief interest of these pictures lies in the satellites, but,
+reserving them for future consideration, we note that the planet itself
+resembles in shape the full moon, although in respect of brightness it
+sends to us less than 1/6000 part as much light as the moon. From a
+consideration of the motion of Jupiter and the earth in Fig. 16, show
+that Jupiter can not present any such phases as does the moon, but that
+its disk must be at all times nearly full. As seen from Saturn, what
+kind of phases would Jupiter present?
+
+137. THE BELTS.--Even upon the small scale of Fig. 86 we detect the most
+characteristic feature of Jupiter's appearance in the telescope, the two
+bands extending across his face parallel to the line of the satellites,
+and in Fig. 87 these same dark bands may be recognized amid the
+abundance of detail which is here brought out by a large telescope.
+Photography does not succeed as a means of reproducing this detail, and
+for it we have to rely upon the skill of the artist astronomer. The
+lettering shows the Pacific Standard time at which the sketches were
+made, and also the longitude of the meridian of Jupiter passing down the
+center of the planet's disk.
+
+[Illustration: FIG. 86.--Jupiter and his satellites.]
+
+[Illustration: FIG. 87.--Drawings of Jupiter made at the 36-inch
+telescope of the Lick Observatory.--KEELER.]
+
+The dark bands are called technically the belts of Jupiter; and a
+comparison of these belts in the second and third pictures of the group,
+in which nearly the same face of the planet is turned toward us, will
+show that they are subject to considerable changes of form and position
+even within the space of a few days. So, too, by a comparison of such
+markings as the round white spots in the upper parts of the disks, and
+the indentations in the edges of the belts, we may recognize that the
+planet is in the act of turning round, and must therefore have an axis
+about which it turns, and poles, an equator, etc. The belts are in fact
+parallel to the planet's equator; and generalizing from what appears in
+the pictures, we may say that there is always a strongly marked belt on
+each side of the equator with a lighter colored streak between them,
+and that farther from the equator are other belts variable in number,
+less conspicuous, and less permanent than the two first seen. Compare
+the position of the principal belts with the position of the zones of
+sun-spot activity in the sun. A feature of the planet's surface, which
+can not be here reproduced, is the rich color effect to be found upon
+it. The principal belts are a brick-red or salmon color, the intervening
+spaces in general white but richly mottled, and streaked with purples,
+browns, and greens.
+
+The drawings show the planet as it appeared in the telescope, inverted,
+and they must be turned upside down if we wish the points of the compass
+to appear as upon a terrestrial map. Bearing this in mind, note in the
+last picture the great oval spot in the southern hemisphere of Jupiter.
+This is a famous marking, known from its color as the _great red spot_,
+which appeared first in 1878 and has persisted to the present day
+(1900), sometimes the most conspicuous marking on the planet, at others
+reduced to a mere ghost of itself, almost invisible save for the
+indentation which it makes in the southern edge of the belt near it.
+
+138. ROTATION AND FLATTENING AT THE POLES.--One further significant fact
+with respect to Jupiter may be obtained from a careful measurement of
+the drawings; the planet is flattened at the poles, so that its polar
+diameter is about one sixteenth part shorter than the equatorial
+diameter. The flattening of the earth amounts to only one
+three-hundredth part, and the marked difference between these two
+numbers finds its explanation in the greater swiftness of Jupiter's
+rotation about its axis, since in both cases it is this rotation which
+makes the flattening.
+
+It is not easy to determine the precise dimensions of the planet, since
+this involves a knowledge both of its distance from us and of the angle
+subtended by its diameter, but the most recent determinations of this
+kind assign as the equatorial diameter 90,200 miles, and for the polar
+diameter 84,400 miles. Determine from either of these numbers the size
+of the great red spot.
+
+The earth turns on its axis once in 24 hours but no such definite time
+can be assigned to Jupiter, which, like the sun, seems to have different
+rotation periods in different latitudes--9h. 50m. in the equatorial belt

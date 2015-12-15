@@ -1,0 +1,351 @@
+particles (owing to their lightness) and this may lead to scratching.
+If the finer grades are very light in colour, it may be inferred that
+a considerable portion of the dust is composed of glass, and this does
+no good.  Consequently time may be saved by stirring up the
+light-coloured mass with a little hydrofluoric acid in a platinum
+capsule;  this dissolves the finely divided glass almost
+instantaneously.  The emery and excess of hydrofluoric acid may then
+be thrown into a large beaker of clean water and washed several times.
+Fine emery thus treated has much the same dark chocolate colour as the
+coarser varieties.
+
+The operator should not wear a coat, and should have his arms bare
+while working with fine emery, for a workshop coat is sure to have
+gathered a good deal of dust, and increases the chances of coarse
+particles getting between the surfaces.
+
+Sec. 61.  Details of the Process of Fine Grinding.
+
+A lens of the size selected for description is mounted as before
+mentioned on a leaden pedestal, and the operator places the latter on
+a table of convenient height in a room as free from dust as possible.
+Everything should be as clean as a pin, and no splashes of emery mud
+should be allowed to lie about.  I have found it convenient to spread
+clean newspapers on the table and floor, and to wear clean linen
+clothes, which do not pick up dust.  I have an idea that in large
+workshops some simpler means of avoiding scratches must have been
+discovered, but I can only give the results of my own experience.  I
+never successfully avoided scratches till I adopted the precautions
+mentioned.
+
+Fig.  52.
+
+The left hand should be employed in rotating the pedestal either
+continuously (though slowly) or at intervals of, say, one minute.
+This point is rather important.  Some operators require two hands to
+work the grinding tool, and in any case this is the safer practice.
+Under these circumstances the pedestal may be rotated through
+one-eighth or tenth of a revolution every three minutes, or
+thereabouts.  The general motion given to the grinding tool should be
+a series of circular sweeps of about one-fourth the diameter of the
+glass disc, and gradually carried round an imaginary circle drawn on
+the surface of the lens and concentric with it (Fig.  52).
+
+The tool may overhang the lens by a quarter of the diameter of the
+latter as a maximum. The circuit may be completed in from twelve to
+thirty sweeps.  The grinding tool should be lightly held by the
+fingers and the necessary force applied parallel to the surface.  The
+tool itself must be slowly rotated about its axis of figure.  If the
+tool be lightly held, it will be found that it tends to rotate by
+itself.  I say "tends to rotate," for if the tool be touching evenly
+all over the surface it will rotate in a direction opposite to the
+direction of the circular sweep.  For instance, if the tool be carried
+round its looped path clockwise, it will tend to rotate about its own
+axis of figure counter-clockwise.  If it touch more in the middle,
+this rotation will be increased, while if it touches more along the
+edge, the rotation will be diminished, or even reversed in an extreme
+case.
+
+Every fifty sweeps or so the tool should be simply ground backwards
+and forwards along a diameter of the lens surface.  This grinding
+should consist of three or four journeys to and fro along, say, eight
+different diameters.  About one-quarter of the whole grinding should
+be accomplished by short straight strokes, during which the tool
+should only overhang about one-quarter of an inch.  The object of the
+straight strokes is to counteract the tendency to a gradual
+accumulation of the emery in the centre, which results from the
+circular grinding.
+
+A great deal of the art of the process consists in knowing how to work
+the tool to produce any given effect.  For instance, if the lens
+requires to be ground down near the centre, the epicycloidal strokes
+must be nearly central;  the tool must never overhang very much.  If,
+on the other hand, it is the edges which require attention, these must
+be dealt with by wider overhanging strokes.  The tool must be
+frequently tested on its fellow, and, indeed, ground upon it if any
+marked unevenness of action (such as that just described) is required
+for the lens.  A check by spherometer will be applied at intervals
+according to the judgment of the operator, but, in any case, the
+fellow tool and lens should be kept at very nearly the same figure.
+
+The emery should never be allowed to become anything like dry between
+the tool and the lens, for in some way (probably by capillary action
+increasing the pressure of the tool) this seems to lead to scratching
+and "rolling" of the emery.  The channels in the glass tool between
+the squares are of the greatest importance in enabling the emery to
+distribute itself.  Perhaps the best guide in enabling one to judge
+as to when it is time to wash off the emery and apply fresh is the
+"feel" of the tool; also when the mud gets light in colour we know
+that it is full of glass dust, and proportionately inoperative.
+
+New emery may be put on, say, every five minutes, but no absolute rule
+can be given, for much depends on the pressure of the tool upon the
+lens.  In the case considered a brass or lead, or even slate tool, of
+an inch, or even less, in thickness, will press quite heavily enough.
+In washing the lens and tool before new emery is introduced, a large
+enamelled iron bucket is very handy;  the whole of the tool should be
+immersed and scrubbed with a nail-brush.  The lens surface may be
+wiped with a bit of clean sponge, free from grit, or even a clean damp
+cloth.
+
+When the time comes to alter the grade of emery, a fresh lot of
+newspapers should be put down, and tools, lens, and pedestal well
+washed and brushed by the nail-brush.  The surfaces should be wiped
+dry by a fresh piece of rag, and examined for scratches and also for
+uniformity of appearance; a good opinion can be formed as to the fit
+of the surfaces by noting whether--and if so, to what degree--they
+differ in appearance from point to point when held so that the light
+falls on them obliquely.
+
+It is necessary to exercise the greatest care in the washing between
+the application of successive grades of emery, and this will be
+facilitated if the edges of the glass squares were dressed on a
+grindstone before they were mounted.  An additional precaution which
+may be of immense advantage is to allow the tool to dry between the
+application of successive grades of emery (of course, after it has
+been scrubbed), and then to brush it vigorously with a hat-brush.  It
+sometimes happens that particles of mud which have resisted the wet
+scrubbing with the nail-brush may be removed by this method.
+
+As my friend Mr. Cook informs me that his present practice differs
+slightly from the above, I will depart from the rule I laid down, and
+add a note on an alternative method.
+
+Consider a single lens surface.  This is roughed out as before by an
+iron tool, a rough fellow tool being made at the same time.  The
+squares of glass are cemented to the roughing tool, and this is ground
+to the spherometer by means of the counterpart tool.  The glass-coated
+tool is then applied to the lens surface and grinding with the first
+grade of emery commenced.  The curvature is checked by the
+spherometer.  Two auxiliary tools of, say, half the diameter of the
+lens, are prepared from slate, or glass backed with iron, and applied
+to grind down either the central part of the lens surface or tool
+surface, according to the indications of the spherometer.  Any changes
+that may occur during grinding are corrected by these tools.  The
+spherometer is accepted as the sole guide in obtaining the proper
+curvature.  A slate backing is preferred for tools of any diameter
+over, say, 2 inches.
+
+Sec. 62.  Polishing.
+
+After the surface has been ground with the last grade of emery, and
+commences to become translucent even when dry, the grinding may be
+considered to be accomplished, and the next step is the polishing.
+There are many ways of carrying out this process, and the relative
+suitability of these methods depends on a good many, so to speak,
+accidental circumstances.  For instance, if the intention is to finish
+the polishing at a sitting, the polishing tool may be faced with
+squares of archangel--not mineral or coal-tar--pitch and brought to
+shape simply by pressing while warm against the face of the lens.  A
+tool thus made is very convenient, accurate, and good, but it is
+difficult to keep it in shape for any length of time;  if left on the
+lens it is apt to stick, and if it overhangs ever so little will, of
+course, droop at the edges.
+
+On the whole, the following will be found a good and sufficient plan.
+The glass-grinding tool is converted into a polishing tool by pasting
+a bit of thin paper over its surface;  a bit of woven letter paper of
+medium thickness with a smooth but not glazed surface does very well.
+We have found that what is called Smith's "21 lbs.  Vellum Wove" is
+excellent.  This is steeped in water till quite pliable and almost
+free from size.  The glass tool is brushed over with a little thin
+arrowroot or starch paste, and the paper is laid upon it and squeezed
+down on the glass squares as well as possible;  if the paper is wet
+enough and of the proper quality it will expand sufficiently to
+envelop the tool without creases, unless the curvature is quite out of
+the common.
+
+This being accomplished, and the excess of water and paste removed,
+the face of the paper is (for security) washed with a little clean
+water and a bit of sponge, and, finally, the tool is slightly pressed
+on the lens so as to get the paper to take up the proper figure as
+nearly as possible.  After the polishing tool has been thus brought to
+the proper figure, it is lifted off and allowed to dry slowly.  When
+the paper is dry it may be trimmed round the edges so as not to
+project sensibly beyond the glass squares.  The next step is to brush
+the surface over very carefully with polishing rouge (prepared as is
+described at the end of this section) by means of a hat-brush.  When
+the surface of the paper is filled with rouge all excess must be
+removed by vigorous brushing.
+
+Fig.  53.
+
+The tool being placed on the lens, two or three strokes similar to
+those used in grinding may be taken, and the tool is then lifted off
+and examined.  It will be found to be dotted with a few bright points,
+produced by the adhesion of glass at the places of contact.  These
+points are then to be removed in the following manner.  An old
+three-cornered file is ground on each side till the file marks
+disappear, and sharp edges are produced (Fig.  53).  This tool is used
+as an ink eraser, and it will be found to scrape the paper of the
+polishing tool very cleanly and well.
+
+The bright spots are the objects of attention, and they must be erased
+by the old file, and the polisher reapplied to the glass.  A few
+strokes will develop other points, more numerous than before, and
+these in turn must be erased.  The process is continued till the whole
+surface of the polishing tool is evenly covered with bright specks,
+and then the polishing may be proceeded with.  The specks should not
+be more than about one-eighth of an inch apart, or the polishing will
+be irregular.
+
+The operation of polishing is similar to that of grinding.  A
+reasonable time for polishing a glass surface is twenty hours;  if
+more time is required it is a sign that the fine grinding has not been
+carried far enough.  The progress of the operation may be best watched
+by looking at the surface--not through it.  For this purpose a good
+light is requisite.  When the lens is dismounted it may be examined by
+a beam of sunlight in a dark room, under which circumstances the
+faintest signs of grayness are easily discernible.
+
+It may be mentioned here that if the surface is in any way scratched
+the rouge will lodge in the scratches with great persistence, and an
+expert can generally tell from the appearance of scratches what kind
+of polishing powder has been employed.
+
+The persistence with which rouge clings to a rough surface of glass is
+rather remarkable.  Some glass polishers prefer to use putty powder as
+a polishing material, and it is sometimes said to act more quickly
+than rouge;  from my rather limited experience I have not found this
+to be the case, but it may have merits that I do not know of.  Is it
+possible that its recommendation lies in the fact that it does not
+render scratches so obtrusively obvious as rouge does?
+
+Rouge is generally made in two or more grades.  The softer grade is
+used for polishing silver, and is called jewellers' rouge.  The harder
+grade, suitable for glass polishing, is best obtained from practical
+opticians (not mere sellers of optical instruments).  I mean people
+like Messrs.  Cook of York.  Many years ago I prepared my own hard
+rouge by precipitating ferrous sulphate solution by aqueous ammonia,
+washing the precipitate, and heating it to a red heat.  The product
+was ground up with water, and washed to get rid of large particles.
+This answered every purpose, and I could not find that it was in any
+way inferior to hard rouge as purchased.  The same precipitate heated
+to a lower temperature is said to furnish a softer variety of rouge;
+at all events, it gives one more suitable for polishing speculum
+metal.  Lord Rosso used rouge heated to a dull redness for this
+purpose.
+
+Rouge, whether made or bought, should always be washed to get rid of
+grit.  I ought to add that not the least remarkable fact about the
+polishing is the extraordinarily small quantity of the polishing
+material requisite, which suggests that the process of polishing is
+not by any means the same as that of exceptionally fine grinding.  Is
+it possible that the chief proximate cause of the utility of rouge is
+to be sought in its curious property of adhering to a rough glass
+surface, causing it, so to speak, to drag the glass off in minute
+quantities, and redeposit it after a certain thickness has been
+attained on another part of the surface?
+
+Sec. 63.  Centering.
+
+When a lens is ground and polished it will almost always happen that
+the axis of revolution of its cylindrical edge is inclined to the axis
+of revolution of its curved surfaces.  Since in practice lenses have
+to be adjusted by their edges, it is generally necessary to adjust the
+edge to a cylinder about the axis of figure of the active surfaces.
+This is best done on a lathe with a hollow mandrel..  The lens is
+chucked on a chuck with a central aperture--generally by means of
+pitch or Regnault's mastic, or "centering" cement for small
+lenses--and a cross wire is fixed in the axis of revolution of the lathe,
+and is illuminated by a lamp.  This cross wire is observed by an
+eye-piece (with cross wires only in the case of a convex lens, or a
+telescope similarly furnished in the case of a concave lens),
+also placed in the axis of rotation of the lathe.
+
+Both cross wires are thus in the axis of revolution of the mandrel,
+and the distant one (B in the figure) is viewed through the lens and
+referred to the fixed cross wires at A.  In general, as the lathe is
+rotated by turning the mandrel the image of the illuminated cross
+wires will be observed to rotate also.  The lens is adjusted until the
+image remains steady on rotating the mandrel and it is to give time
+for this operation that a slow-setting cement is recommended.  When
+the image remains stationary we know that the optical centre of the
+lens is in the axis of revolution, and that this axis is normal to
+both lens surfaces, i.e.  is the principal axis of the lens, or axis
+of figure.
+
+Fig.  54.
+
+A much readier method, and one, in general, good enough for most
+purposes, is to put a candle on the end of the lathe-bed where the
+back centre generally is, and observe the images of the flame by
+reflection from both the lens surfaces.  This method is very handy
+with small lenses;  the mandrel is turned, and the lens adjusted by
+hand till the images are immovable.  In both cases, of course, the
+edge of the lens is turned or ground till it is truly circular, the
+position of the lens remaining undisturbed on the chuck.  If the edge
+gauge has been properly used in the earlier stages of figuring, it
+will be found that very little turning or grinding is requisite to
+produce a true centering.
+
+The particular defect due to want of centering in a lens may be
+observed by using it as the objective of a telescope, and observing a
+star slightly out of focus.  The interference fringes will not be
+concentric circles  unless the lens is properly  centred.  I ought to
+say that I have not looked into the theory of this, but have merely
+taken it as a generally admitted fact.  The diseases of lenses and the
+modes of treating them are dealt with in a book by Messrs.  Cook of
+York, entitled On the Adjustment and Testing of Telescopic Objectives.
+
+The final process of figuring will be dealt with later on (Sec. Sec. 66 and
+67), as it applies not only to lenses but to mirrors, prisms, etc.  If
+the instructions given have been carefully carried out on a 2-inch
+lens, it should perform fairly well, and possibly perfectly, without
+any further adjustment of the glass.
+
+Sec. 64.  Preparation of Small Lenses, where great Accuracy is not of the
+first Importance.
+
+Such lenses may generally be made out of bits of good plate or sheet
+glass, and are of constant use in the physical laboratory.  They may
+be purchased so cheaply, however, that only those who have the
+misfortune to work in out-of-the-way places need be driven to make
+them.
+
+Suitable glass having been obtained and the curves calculated from the
+index of refraction, as obtained by any of the ordinary methods
+applicable to plates (the microscope method, in general, is quite good
+enough), squares circumscribing the desired circles are cut out by the
+help of a diamond.  [Footnote: Glazebrook and Shaw's Practical
+Physics, p.  383 (4th ed.).]  The squares are roughly snipped by means
+of a pair of pliers or spectacle-maker's shanks.  The rough circles
+are then mounted on the end of a brass or iron rod of rather greater
+diameter than the finished lenses are to possess.  This mounting is
+best done by centering cement.
+
+The discs are then dressed circular on a grindstone, the rod serving
+both as a gauge and handle.  A sufficient number of these discs having
+been prepared, a pair of brass tools of the form shown in the sketch
+(Fig.  55), and of about the proper radius of curvature, are made.
+One of these tools is used as a support for the glass discs.
+
+Fig. 55.
+
+A compass being set to scribe circles of the same diameter as the
+glass discs, centre marks are made on the surface of the appropriate
+tool, circles are drawn on this, and facets are filed or milled (for
+which the spiral head of the milling machine is excellent).  In the
+case of concave supporting surfaces, i.e.  in making concave lenses, I
+apprehend filing would be difficult, and the facets would have to be
+made by a rose cutter or mill;  but if the discs are fairly round,
+then, in fact, no facets are required.
+
+The facets being ready, the glass discs are cemented to them by
+centering cement, which may be used quite generally for small lenses.
+When the cutting of facets has been omitted on a concave surface, the
+best cement is hard pitch.  The grinding tool is generally rather
+larger than the nest of lenses.  Coarse and fine grinding is
+accomplished wholly on the lathe--the tool being rotated at a fair
+speed (see infra), and the nest of lenses moved about by its handle so
+as to grind all parts equally.  It must, of course, be held anywhere

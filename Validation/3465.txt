@@ -1,0 +1,315 @@
+
+We now know that the reasoning and conclusion here given are entirely
+correct, but they have for their basis only a philosophical conception,
+and not a series of experiments designed especially to test their
+correctness. Such an experimental test of this important question was
+the motive for a third and last paper in this department of physics.
+This paper was published in volume ninety of the _Philosophical
+Transactions_, and gave the results of two hundred and nineteen
+quantitative experiments.
+
+Here we are at a loss to know which to admire most--the marvellous skill
+evinced in acquiring such accurate data with such inadequate means, and
+in varying and testing such a number of questions as were suggested in
+the course of the investigation--or the intellectual power shown in
+marshalling and reducing to a system such intricate and apparently
+self-contradictory phenomena. It is true that this discussion led him to
+a different conclusion from that announced in the previous paper, and,
+consequently, to a false conclusion; but almost the only escape from his
+course of reasoning lay in a principle which belongs to a later period
+of intellectual development than that of HERSCHEL'S own time.
+
+HERSCHEL made a careful determination of the quantitative distribution
+of light and of heat in the prismatic spectrum, and discovered the
+surprising fact that not only where the light was at a maximum the heat
+was very inconsiderable, but that where there was a maximum exhibition
+of heat, there was not a trace of light.
+
+    "This consideration," he writes, "must alter the form of our
+    proposed inquiry; for the question being thus at least partly
+    decided, since it is ascertained that we have rays of heat which
+    give no light, it can only become a subject of inquiry whether some
+    of these heat-making rays may not have a power of rendering objects
+    visible, superadded to their now already established power of
+    heating bodies. This being the case, it is evident that the _onus
+    probandi_ ought to lie with those who are willing to establish such
+    an hypothesis, for it does not appear that Nature is in the habit of
+    using one and the same mechanism with any two of our senses. Witness
+    the vibration of air that makes sound, the effluvia that occasion
+    smells, the particles that produce taste, the resistance or
+    repulsive powers that affect the touch--all these are evidently
+    suited to their respective organs of sense."
+
+It is difficult to see how the fallacy of this argument could have been
+detected by any one not familiar with the fundamental physiological law
+that the nature of a sensation is in no wise determined by the character
+of the agent producing it, but only by the character of the nerves acted
+upon; but, as already intimated, this law belongs to a later epoch than
+the one we are considering. HERSCHEL thus finally concluded that light
+and radiant heat were of essentially different natures, and upon this
+supposition he explained all of the phenomena which his numerous
+experiments had shown him. So complete and satisfactory did this work
+appear to the scientific world, that for a long time the question was
+looked upon as closed, and not until thirty-five years later was there
+any dissent. Then the Italian physicist, MELLONI, with instrumental
+means a thousand times more delicate than that of HERSCHEL, and with a
+far larger store of cognate phenomena, collected during the generation
+which had elapsed, to serve as a guide, discovered the true law. This,
+as we have seen, was at first adopted by HERSCHEL on philosophical
+grounds, and then rejected, since he did not at that time possess the
+key which alone could have enabled him to properly interpret his
+experiments.
+
+It is well to summarize the capital discoveries in this field made by
+HERSCHEL, more particularly because his claims as a discoverer seem to
+have been strangely overlooked by historians of the development of
+physical science. He, before any other investigator, showed that radiant
+heat is refracted according to the laws governing the refraction of
+light by transparent media; that a portion of the radiation from the sun
+is incapable of exciting the sensation of vision, and that this portion
+is the less refrangible; that the different colors of the spectrum
+possess very unequal heating powers, which are not proportional to their
+luminosity; that substances differ very greatly in their power of
+transmitting radiant heat, and that this power does not depend solely
+upon their color; and that the property of diffusing heat is possessed
+to a varying degree by different bodies, independently of their color.
+Nor should we neglect to emphasize, in this connection, the importance
+of his measurements of the intensity of the heat and light in the
+different portions of the solar spectrum. It is the more necessary to
+state HERSCHEL'S claims clearly, as his work has been neglected by those
+who should first have done him justice. In his "History of Physics,"
+POGGENDORFF has no reference to HERSCHEL. In the collected works of
+VERDET, long bibliographical notes are appended to each chapter, with
+the intention of exhibiting the progress and order of discovery. But all
+of HERSCHEL'S work is overlooked, or indexed under the name of his son.
+One little reference in the text alone shows that his very name was not
+unknown. Even in the great work of HELMHOLTZ on physiological optics,
+HERSCHEL'S labors are not taken account of.
+
+It is easy to account for this seemingly strange neglect. HERSCHEL is
+known to this generation only as an astronomer. A study of his memoirs
+will show that his physical work alone should give him a very high rank
+indeed, and I trust that the brief summaries, which alone can be given
+here, will have made this plain.
+
+       *       *       *       *       *
+
+We may conclude from the time expended, the elaborate nature of the
+experiments involved, and the character of the papers devoted to their
+consideration, that the portion of HERSCHEL'S researches in physics
+which interested him to the greatest degree, was the investigation of
+the optical phenomena known as NEWTON'S rings. In 1792 he obtained the
+two object-glasses of HUYGHENS, which were in the possession of the
+Royal Society, for the purpose of repeating NEWTON'S experiments, and in
+1810 he read the last of his three papers on the subject.
+
+Sir ISAAC NEWTON had given some of his most vigorous efforts to the
+study of the phenomena of interference of light, which are exemplified
+in the colors of thin and of thick plates. The colors of thin plates are
+most conveniently studied in the regular form which they present when
+produced by a thin plate of air, limited on one side by a plane
+polished surface, and on the other by a spherical surface of long
+radius, such as the exterior surface of a convex lens, for example.
+The colors are then arranged in concentric circles, and, though others
+had so produced them before NEWTON, these rings have, ever since the
+publication of his remarkable work, been known by his name.
+
+To explain the phenomena, NEWTON was obliged to supplement his theory of
+the corpuscular nature of light, by supposing that the inconceivably
+minute particles constituting light are not always equally susceptible
+of reflection, but that they have periodically recurring "fits of easy
+reflection" and of "easy transmission." This conception, though by no
+means unphilosophical, seemed to HERSCHEL too artificial and improbable
+for ready acceptance, and his effort was to supply a more probable
+explanation.
+
+The developments of optical science have justified HERSCHEL in his
+objections, but we cannot accord to him must any considerable part in
+making clear the true nature of the phenomenon. Indeed, it must be
+recognized that his position was distinctly less advanced than that of
+NEWTON. That great philosopher announced the true law governing the
+relation between the color and the thickness of the film. HERSCHEL did
+not recognize such a relation. NEWTON showed exactly how the phenomenon
+depended upon the obliquity at which it was viewed. HERSCHEL found no
+place in his theory for this evident variation.
+
+In the series of experiments described in the first paper on this
+subject, HERSCHEL mistook the locus of a certain set of rings which he
+was observing. This mistake, though so slight as hardly to be detected
+without the guidance of the definite knowledge acquired in later times,
+not only vitiated the conclusion from the experiments, but gave an
+erroneous direction to the whole investigation. To him these experiments
+proved that NEWTON'S conception of a periodic phenomenon was untenable.
+Thus cut loose from all hypothesis, his fertility in ideas and ingenuity
+in experimentation are as striking as ever. He tried the effect of
+having a polished metal as one of the surfaces limiting the thin plate
+of air. Observing the so-called "blue bow" of NEWTON at the limit of
+total reflection in a prism, he was led to the discovery of its
+complement, the "red bow" by refraction. Here he thought he had found
+the solution of his problem, and attributed the rings to the reflection
+of the light which passed through in the red bow. Though mistaken, he
+had presented to the world of science two experiments which have since
+played very prominent parts in the undulatory theory of light, namely,
+the rings formed upon polished metal, and the bands produced by a thin
+plate near the critical angle.
+
+As in his later researches upon the nature of radiant heat, he was wrong
+in his conclusions, and perhaps with less excuse. His experiments were
+skilfully devised and most ingenious. His philosophizing was distinctly
+faulty. We can see not only that he was wrong, but exactly where he
+began to go wrong. Yet these papers are full of interest to the
+physicist, and by no means deserve the neglect into which they have
+fallen.
+
+
+               _Researches on the Dimensions of the Stars._
+
+HERSCHEL examined a number of bright stars, using extremely high
+magnifying powers, in order to determine whether the stars have sensible
+dimensions. In a good telescope stars present round and pretty uniformly
+illuminated disks. If these disks really represent the angular diameter
+of the stars, they should admit of magnifying, like other objects; but,
+instead of this, HERSCHEL found that they appeared smaller as the
+telescopic power was increased. He accordingly called the disk of light
+seen in the telescope a spurious disk. This singular phenomenon gave its
+discoverer a ready criterion for determining whether a small bright body
+has an appreciable size, or only impresses the sense of sight by virtue
+of its intrinsic brightness. If the first were the case, the apparent
+size would increase with increased magnifying power, while, if the
+angular dimensions were inappreciable, the apparent size would, on the
+contrary, diminish with additional magnifying. An occasion for using
+this criterion came in the first years of this century, with the
+discovery of three small planets having orbits lying between those of
+_Mars_ and _Jupiter_. HERSCHEL gave the name _Asteroids_ to these
+bodies. As the appropriateness of this term had been violently assailed,
+the discovery of _Juno_, in 1804, the third one of the group, led to a
+careful experimental study of the defining power of the telescope used,
+and of the laws governing the phenomena of spurious disks.
+
+With a telescope of about nine inches in aperture, HERSCHEL found that
+if _Juno_ subtended an angle greater than a quarter of a second of arc,
+a certain indication of the fact would have shown itself in the course
+of the experiments. This conclusion was a justification of the name
+Asteroid, since the appearance of the new planet was strictly stellar.
+On other grounds, a better name might have been selected.
+
+In the paper giving the results of the experiments, the phenomena of the
+spurious disks are very completely described; but they did not attract
+the attention which they deserved, and they only became an object of
+especial interest to students of physics when they were again studied by
+the famous German optician FRAUNHOFER, a generation later.
+
+Incidentally the experiments are of interest, as yielding us a measure
+of the excellence of HERSCHEL'S telescopes, and a measure which is quite
+independent of the keenness of his vision. From them we may be sure that
+the efficiency of the nine-inch mirror used was not sensibly less than
+that of the highest theoretically attainable excellence. In this
+connection, too, we may refer to the _Philosophical Transactions_ for
+1790, pp. 468 and 475, where HERSCHEL gives observations of both
+_Enceladus_ and _Mimas_ seen in contact with the ball of _Saturn_.
+I have never seen so good definition, telescopic and atmospheric, as he
+must have had on these occasions.
+
+
+              _Researches on the Spectra of the Fixed Stars._
+
+The spectroscope was applied by SECCHI to the study of the spectra of
+the fixed stars visible to the naked eye in the years 1863 to 1866.
+He examined the nature of the spectrum of each of the larger stars,
+and found that these stars could be arranged in three general classes or
+_types_. His results have been verified and extended by other
+astronomers, and his classification has been generally accepted.
+According to SECCHI, the lucid stars may be separated into three groups,
+distinguished by marked differences in their spectra. SECCHI'S Type I.
+contains stars whose spectra are like those of _Sirius_, _Procyon_, and
+_[alpha] Lyrae_; his Type II. stars like _Arcturus_ and _Aldebaran_;
+his Type III. stars like _[alpha] Orionis_.
+
+HERSCHEL also made some trials in this direction. In the _Philosophical
+Transactions_ for 1814 (p. 264), he says:
+
+    "By some experiments on the light of a few of the stars of the first
+    magnitude, made in 1798, by a prism applied to the eye-glasses of my
+    reflectors, adjustable to any angle and to any direction, I had the
+    following analyses:
+
+    "The light of _Sirius_ consists of red, orange, yellow, green, blue,
+    purple, and violet. _[alpha] Orionis_ contains the same colors,
+    but the red is more intense, and the orange and yellow are less
+    copious in proportion than they are in _Sirius_. _Procyon_ contains
+    all the colors, but proportionately more blue and purple than
+    _Sirius_. _Arcturus_ contains more red and orange, and less yellow
+    in proportion than _Sirius_. _Aldebaran_ contains much orange and
+    very little yellow. _[alpha] Lyrae_ contains much yellow, green,
+    blue, and purple."
+
+Here the essential peculiarities of the spectrum of each of the stars
+investigated by HERSCHEL is pointed out, and if we were to use his
+observations alone to classify these stars into types, we should put
+_Sirius_ and _Procyon_ into one type of stars which have "all the
+colors" in their spectra; _Arcturus_ and _Aldebaran_ would represent
+another group of stars, with a deficiency of yellow and an excess of
+orange and red in the spectrum; and _[alpha] Orionis_ would stand as
+a type of those stars with an excess of red and a deficiency of orange.
+_[alpha] Lyrae_ would represent a sub-group of the first class.
+
+HERSCHEL'S immediate object was not classification, and his observations
+are only recorded in a passing way. But the fact remains that he
+clearly distinguished the essential differences of the spectra of these
+stars, and that he made these observations in support of his statement
+that the fixed stars, "like the planets, also shine with differently
+colored light. That of _Arcturus_ and _Aldebaran_, for instance, is as
+different from the light of _Sirius_ and _Capella_ as that of _Mars_ and
+_Saturn_ is from the light of _Venus_ and _Jupiter_."
+
+Of course, no special discovery can be claimed for him on these few
+instances. We can see, however, a good example of the manner in which he
+examined a subject from every side, and used the most remote evidence
+exactly in its proper place and time.
+
+
+          _Researches on the Variable Emission of Light
+                  and Heat from the Sun._
+
+It is certainly a remarkable fact that HERSCHEL was the first observer
+to recognize the real importance of the aperture or diameter of a
+telescope. Before his time it was generally assumed that this element
+only conditioned the amount of light transmitted to the eye, or, in
+other words, merely determined the brightness of the image. Hence the
+conclusion that if an object is sufficiently bright, the telescope may
+be made as small as desired without loss of power. Thus, in observing
+the sun, astronomers before HERSCHEL had been accustomed to reduce the
+aperture of their telescopes, in order to moderate the heat and light
+transmitted. SCHEINER, it is true, nearly two centuries before the time
+we are considering, had invented a method for observing the sun without
+danger, still employing the full aperture. This was by projecting the
+image of the sun on a white screen beyond the eye-piece, the telescope
+being slightly lengthened. For special purposes this ingenious method
+has even been found useful in modern times, though for sharpness of
+definition it bears much the same relation to the more usual manner of
+observing, that a photographic picture does to direct vision.
+
+Although HERSCHEL saw the advantages of using the whole aperture of a
+telescope in such observations, the practical difficulties in the way
+were very great. We have noted his attempts to find screens which would
+effectively cut off a large portion of the heat and light without
+impairing vision, and have considered, somewhat in detail, the
+remarkable discoveries in radiant heat to which these attempts led him.
+His efforts were not unsuccessful. A green glass smoked, and a glass
+cell containing a solution of black writing ink in water--were found to
+work admirably.
+
+Thus provided with more powerful instrumental means than had ever been
+applied to the purpose, HERSCHEL turned his attention to the sun. In a
+very short time he exhausted nearly all there was to be discovered, so
+that since the publication of his last paper on this subject, in 1801,
+until the present time, there has been but a single telescopic
+phenomenon, connected with the physical appearance of the sun, which was
+unknown to HERSCHEL. That phenomenon is the frequent occurrence of a
+darker central shade or kernel in large spots, discovered by DAWES about
+1858.
+
+HERSCHEL, though observing a hundred and ninety years after the earliest
+discovery of sun spots, seems to have been the first to suspect their
+periodic character. To establish this as a fact, and to measure the
+period, was left for our own times and for the indefatigable observer

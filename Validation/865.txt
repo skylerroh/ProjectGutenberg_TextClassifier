@@ -1,0 +1,438 @@
+together, we shall be able to follow the course and behavior of streams in
+a turbine, and by treating their effects as arising from two separate
+causes, we shall be able to regard the problem without that inevitable
+confusion which arises when they are considered as acting conjointly.
+Turbines, though driven by vast volumes of water, are in reality impelled
+by countless isolated jets, or streams, all acting together, and a clear
+understanding of the behavior of any one of these facilitates and concludes
+a solution of the whole problem.
+
+_Experimental researches_.--All experiments referred to in this paper were
+made by jets of water under an actual vertical head of 45 ft., but as the
+supply came through a considerable length of 1/2 in. bore lead piping, and
+many bends, a large and constant loss occurred through friction and bends,
+so that the actual working head was only known by measuring the velocity of
+discharge. This was easily done by allowing all the water to flow into a
+tank of known capacity. The stop cock had a clear circular passage through
+it, and two different jets were used. One oblong measured 0.5 in. by 0.15
+in., giving an area of 0.075 square inch. The other jet was circular, and
+just so much larger than 1/4 in. to be 0.05 of a square inch area, and the
+stream flowed with a velocity of 40 ft. per second, corresponding to a head
+of 25 ft. Either nozzle could be attached to the same universal joint, and
+directed at any desired inclination upon the horizontal surface of a
+special well-adjusted compound weighing machine, or into various bent tubes
+and other attachments, so that all pressures, whether vertical or
+horizontal, could be accurately ascertained and reduced to the unit, which
+was the quarter of an ounce. The vertical component _p_ of any pressure P
+may be ascertained by the formula--
+
+    _p_ = P sin alpha,
+
+where alpha is the angle made by a jet against a surface; and in order to
+test the accuracy of the simple machinery employed for these researches,
+the oblong jet which gave 71 unit when impinging vertically upon a circular
+plate, was directed at 60 deg. and 45 deg. thereon, with results shown in
+Table I., and these, it will be observed, are sufficiently close to theory
+to warrant reliance being placed on data obtained from the simple weighing
+machinery used in the experiment.
+
+                 _Table I.--Impact on Level Plate._
+--------------+--------------------+----------+----------+----------
+              | Inclination of jet |          |          |
+  Distance.   | to the horizonal.  |  90 deg. |  60 deg. |  45 deg.
+--------------+--------------------+----------+----------+----------
+              |                    | Pressure | Pressure | Pressure
+              |                    |          |          |
+            / |  Experiment    \   |        / |   61.00  |   49.00
+ 11/2 in.    <  |                 >  | 71.00 <  |          |
+            \ |  Theory        /   |        \ |   61.48  |   50.10
+              |                    |          |          |
+              |                    |          |          |
+            / |  Experiment    \   |        / |   55.00  |   45.00
+ 1 in.     <  |                 >  | 63.00 <  |          |
+            \ |  Theory        /   |        \ |   54.00  |   45.00
+              |                    |          |          |
+--------------+--------------------+----------+----------+----------
+             In each case the unit of pressure is 1/4 oz.
+
+In the first trial there was a distance of 11/2 in. between the jet and point
+of its contact with the plate, while in the second trial this space was
+diminished to 1/2 in. It will be noticed that as this distance increases we
+have augmented pressures, and these are not due, as might be supposed, to
+increase of head, which is practically nothing, but they are due to the
+recoil of a portion of the stream, which occurs increasingly as it becomes
+more and more broken up. These alterations in pressure can only be
+eliminated when care is taken to measure that only due to impact, without
+at the same time adding the effect of an imperfect reaction. Any stream
+that can run off at all points from a smooth surface gives the minimum of
+pressure thereon, for then the least resistance is offered to the
+destruction of the vertical element of its velocity, but this freedom
+becomes lost when a stream is diverted into a confined channel. As pressure
+is an indication and measure of lost velocity, we may then reasonably look
+for greater pressure on the scale when a stream is confined after impact
+than when it discharges freely in every direction. Experimentally this is
+shown to be the case, for when the same oblong jet, discharged under the
+same conditions, impinged vertically upon a smooth plate, and gave a
+pressure of 71 units, gave 87 units when discharged into a confined
+right-angled channel. This result emphasizes the necessity for confining
+streams of water whenever it is desired to receive the greatest pressure by
+arresting their velocity. Such streams will always endeavor to escape in
+the directions of least resistance, and, therefore, in a turbine means
+should be provided to prevent any lateral deviation of the streams while
+passing through their buckets. So with screw propellers the great mass of
+surrounding water may be regarded as acting like a channel with elastic
+sides, which permits the area enlarging as the velocity of a current
+passing diminishes. The experiments thus far described have been made with
+jets of an oblong shape, and they give results differing in some degree
+from those obtained with circular jets. Yet as the general conclusions from
+both are found the same, it will avoid unnecessary prolixity by using the
+data from experiments made with a circular jet of 0.05 square inch area,
+discharging a stream at the rate of 40 ft. per second. This amounts to 52
+lb. of water per minute with an available head of 25 ft., or 1,300
+foot-pounds per minute. The tubes which received and directed the course of
+this jet were generally of lead, having a perfectly smooth internal
+surface, for it was found that with a rougher surface the flow of water is
+retarded, and changes occur in the data obtained. Any stream having its
+course changed presses against the body causing such change, this pressure
+increasing in proportion to the angle through which the change is made, and
+also according to the radius of a curve around which it flows. This fact
+has long been known to hydraulic engineers, and formulae exist by which such
+pressures can be determined; nevertheless, it will be useful to study these
+relations from a somewhat different point of view than has been hitherto
+adopted, more particularly as they bear upon the construction of screw
+propellers and turbines; and by directing the stream, AB, Fig. 3,
+vertically into a tube 3/8 in. internal diameter and bent so as to turn the
+jet horizontally, and placing the whole arrangement upon a compound
+weighing machine, it is easy to ascertain the downward pressure, AB, due to
+impact, and the horizontal pressures, CB, due to reaction. In theoretical
+investigations it may be convenient to assume both these pressures exactly
+equal, and this has been done in the paper "On Screw Propellers" already
+referred to; but this brings in an error of no importance so far as general
+principles are involved, but one which destroys much of the value such
+researches might, otherwise possess for those who are engaged in the
+practical construction of screw propellers or turbines. The downward impact
+pressure, AB, is always somewhat greater than the horizontal reaction, BC,
+and any proportions between these two can only be accurately ascertained by
+trials. In these particular experiments the jet of water flowed 40 ft. per
+second through an orifice of 0.05 square inch area, and in every case its
+course was bent to a right angle. The pressures for impact and reaction
+were weighed coincidently, with results given by columns 1 and 2, Table II.
+
+[Illustration: FIG. 3]
+
+[Illustration: FIG. 4]
+
+_Table II.--Impact and Reaction in Confined Channels._
+
+-----------------------------+-------+---------+----------+-------
+Number of column.            |   1   |    2    |    3     |   4
+-----------------------------+-------+---------+----------+-------
+Description of experiments.  |Impact.|Reaction.|Resultant.| Angles
+                             |       |         |          |  ABS.
+-----------------------------+-------+---------+----------+-------
+Smooth London tube, 13/4 in.   |  71   |   62    |  94.25   |   49 deg.
+  mean radius.               |       |         |          |
+                             |       |         |          |
+Rough wrought iron tube,     |  78   |   52    |  98.75   |  56.5 deg.
+  13/4 in.                     |       |         |          |
+                             |       |         |          |
+Smooth leaden tube bent to a |  71   |   40    |  81.5    |   60
+  sharp right angle.         |       |         |          |
+-----------------------------+-------+---------+----------+------
+
+The third column is obtained by constructing a parallelogram of forces,
+where impact and reaction form the measures of opposing sides, and it
+furnishes the resultant due to both forces. The fourth column gives the
+inclination ABS, at which the line of impact must incline toward a plane
+surface RS, Fig. 3, so as to produce this maximum resultant perpendicularly
+upon it; as the resultant given in column 3 indicates the full practical
+effect of impact and reaction. When a stream has its direction changed to
+one at right angles to its original course, and as such a changed direction
+is all that can be hoped for by ordinary screw propellers, the figures in
+column 3 should bear some relationship to such cases. Therefore, it becomes
+an inquiry of some interest as to what angle of impact has been found best
+in those screw propellers which have given the best results in practical
+work. Taking one of the most improved propellers made by the late Mr.
+Robert Griffiths, its blades do not conform to the lines of a true screw,
+but it is an oblique paddle, where the acting portions of its blades were
+set at 48 deg. to the keel of the ship or 42 deg. to the plane of rotation.
+Again, taking a screw tug boat on the river Thames, with blades of a
+totally different form to those used by Mr. Griffiths, we still find them
+set at the same angle, namely, 48 deg. to the keel or 42 deg. to the plane
+of rotation. An examination of other screws tends only to confirm these
+figures, and they justify the conclusion that the inclinations of blades
+found out by practice ought to be arrived at, or at any rate approached, by
+any sound and reliable theory; and that blades of whatever form must not
+transgress far from this inclination if they are to develop any
+considerable efficiency. Indeed, many favorable results obtained by
+propellers are not due to their peculiarities, but only to the fact that
+they have been made with an inclination of blade not far from 42 deg. to
+the plan of rotation. Referring to column 4, and accepting the case of
+water flowing through a smooth tube as analogous to that of a current
+flowing within a large body of water, it appears that the inclination
+necessary to give the highest resultant pressure is an angle of 49 deg.,
+and this corresponds closely enough with the angle which practical
+constructors of screw propellers have found to give the best results.
+Until, therefore, we can deal with currents after they have been
+discharged from the blades of a propeller, it seems unlikely that anything
+can be done by alterations in the pitch of a propeller. So far as concerns
+theory, the older turbines were restricted to such imperfect results of
+impact and reaction as might be obtained by turning a stream at right
+angles to its original course; and the more scientific of modern turbine
+constructors may fairly claim credit for an innovation by which practice
+gave better results than theory seemed to warrant; and the consideration of
+this aspect of the question will form the concluding subject of the present
+paper. Referring again to Fig. 3, when a current passes round such a curve
+as the quadrant of a circle, its horizontal reaction appears as a pressure
+along _c_ B, which is the result of the natural integration of all the
+horizontal components of pressures, all of which act perpendicularly to
+each element of the concave surface along which the current flows. If, now,
+we add another quadrant of a circle to the curve, and so turn the stream
+through two right angles, or 180 deg., as shown by Fig. 4, then such a
+complete reversal of the original direction represents the carrying of it
+back again to the highest point; it means the entire destruction of its
+velocity, and it gives the maximum pressure obtainable from a jet of water
+impinging upon a surface of any form whatsoever. The reaction noticed in
+Fig. 3 as acting along _c_ B is now confronted by an impact of the now
+horizontal stream as it is turned round the second 90 deg. of curvature,
+and reacts also vertically downward. It would almost seem as if the first
+reaction from B to F should be exactly neutralized by the second impact
+from F to D. But such is not the case, as experiment shows an excess of the
+second impact over the first reaction amounting to six units, and shows
+also that the behavior of the stream through its second quadrant is
+precisely similar in kind to the first, only less in degree. Also the
+impact takes place vertically in one case and horizontally in the other.
+The total downward pressure given by the stream when turned 180 deg. is
+found by experiment thus: Total impact and reaction from 180 deg. change in
+direction of current = 132 units; and by deducting the impact 71 units, as
+previously measured, the new reaction corresponds with an increase of 61
+units above the first impact. It also shows an increase of 37.75 units
+above the greatest resultant obtained by the same stream turned through 90
+deg. only. Therefore, in designing a screw propeller or turbine, it would
+seem from these experiments desirable to aim at changing the direction of
+the stream, so far as possible, into one at 180 deg. to its original
+course, and it is by carrying out this view, so far as the necessities of
+construction will permit, that the scientifically designed modern turbine
+has attained to that prominence which it holds at present over all
+hydraulic motors. Much more might be written to extend and amplify the
+conclusions that can be drawn from the experiments described in the present
+paper, and from many others made by the writer, but the exigencies of time
+and your patience alike preclude further consideration of this interesting
+and important subject.
+
+       *       *       *       *       *
+
+
+
+
+IMPROVED TEXTILE MACHINERY.
+
+
+[Illustration: THE TEXTILE EXHIBITION, ISLINGTON.]
+
+In the recent textile exhibition at Islington, one of the most extensive
+exhibits was that, of Messrs. James Farmer and Sons, of Salford. The
+exhibit consists of a Universal calender, drying machines, patent creasing,
+measuring, and marking machines, and apparatus for bleaching, washing,
+chloring, scouring, soaping, dunging, and dyeing woven fabrics. The purpose
+of the Universal calender is, says the _Engineer_, to enable limited
+quantities of goods to be finished in various ways without requiring
+different machines. The machine consists of suitable framing, to which is
+attached all the requisite stave rails, batching apparatus, compound
+levers, top and bottom adjusting screws, and level setting down gear, also
+Stanley roller with all its adjustments. It is furthermore supplied with
+chasing arrangement and four bowls; the bottom one is of cast iron, with
+wrought iron center; the next is of paper or cotton; the third of chilled
+iron fitted for heating by steam or gas, and the top of paper or cotton. By
+this machine are given such finishes as are known as "chasing finish" when
+the thready surface is wanted; "frictioning," or what is termed "glazing
+finish," "swigging finish," and "embossing finish;" the later is done by
+substituting a steel or copper engraved roller in place of the friction
+bowl. This machine is also made to I produce the "Moire luster" finish. The
+drying machine consists of nineteen cylinders, arranged with stave rails
+and plaiting down apparatus. These cylinders are driven by bevel wheels, so
+that each one is independent of its neighbor, and should any accident occur
+to one or more of the cylinders or wheels, the remaining ones can be run
+until a favorable opportunity arrives to repair the damage. A small
+separate double cylinder diagonal engine is fitted to this machine, the
+speed of which can be adjusted for any texture of cloth, and being of the
+design it is, will start at once on steam being turned one. The machine
+cylinders are rolled by a special machine for that purpose, and are
+perfectly true on the face. Their insides are fitted with patent buckets,
+which remove all the condensed water. In the machine exhibited, which is
+designed for the bleaching, washing, chloring, and dyeing, the cloth is
+supported by hollow metallic cylinders perforated with holes and corrugated
+to allow the liquor used to pass freely through as much of the cloth as
+possible; the open ends of the cylinders are so arranged that nearly all of
+their area is open to the action of the pump. The liquor, which is drawn
+through the cloth into the inside of the cylinders by the centrifugal
+pumps, is discharged back into the cistern by a specially constructed
+discharge pipe, so devised that the liquor, which is sent into it with
+great force by the pump, is diverted so as to pour straight down in order
+to prevent any eddies which could cause the cloth to wander from its
+course. The cloth is supported to and from the cylinders by flat perforated
+plates in such a manner that the force of the liquor cannot bag or displace
+the threads of the cloth, and by this means also the liquor has a further
+tendency to penetrate the fibers of the cloth. Means are provided for
+readily and expeditiously cleansing the entire machine. The next machine
+which we have to notice in this exhibit is Farmer's patent marking and
+measuring machine, the purpose of which is to stamp on the cloths the
+lengths of the same at regular distances. It is very desirable that drapers
+should have some simple means of discovering at a glance what amount of
+material they have in stock without the necessity of unrolling their cloth
+to measure it, and this machine seems to perfectly meet the demands of the
+case. The arrangement for effecting the printing and inking is shown in our
+engraving at A. It is contained within a small disk, which can be moved at
+will, so that it can be adapted to various widths of cloth or other
+material. A measuring roller runs beside the printing disk, and on this is
+stamped the required figures by a simple contrivance at the desired
+distances, say every five yards. The types are linked together into a
+roller chain which is carried by the disk, A, and they ink themselves
+automatically from a flannel pad. The machine works in this way: The end of
+the piece to be measured is brought down until it touches the surface of
+the table, the marker is turned to zero, and also the finger of the dial on
+the end of the measuring roller. The machine is then started, and the
+lengths are printed at the required distances until it becomes necessary to
+cut out the first piecing or joint in the fabric. The dial registers the
+total length of the piece.
+
+       *       *       *       *       *
+
+
+
+
+ENDLESS ROPE HAULAGE.
+
+
+In the North of England Report, the endless rope systems are classified as
+No. 1 and No 2 systems. No. 1, which has the rope under the tubs, is said
+to be in operation in the Midland counties. To give motion to the rope a
+single wheel is used, and friction for driving the rope is supplied either
+by clip pulleys or by taking the rope over several wheels. The diagram
+shows an arrangement for a tightening arrangement. One driving wheel is
+used, says _The Colliery Guardian_, and the rope is kept constantly tight
+by passing it round a pulley fixed upon a tram to which a heavy weight is
+attached. Either one or two lines of rails are used. When a single line is
+adopted the rope works backward and forward, only one part being on the
+wagon way and the other running by the side of the way. When two lines are
+used the ropes move always in one direction, the full tubs coming out on
+one line and the empties going in on the other. The rope passes under the
+tubs, and the connection is made by means of a clamp or by sockets in the
+rope, to which the set is attached by a short chain. The rope runs at a
+moderately high speed.
+
+[Illustration: TIGHTENING ARRANGEMENT--ENDLESS ROPE HAULAGE.]
+
+No. 2 system was peculiar to Wigan. A double line of rails is always used.
+The rope rests upon the tubs, which are attached to the rope either singly
+or in sets varying in number from two to twelve. The other engraving shows
+a mode of connection between the tubs and the rope by a rope loop as shown.
+
+[Illustration: ATTACHMENT TO ENDLESS ROPE "OVER."]
+
+The tubs are placed at a regular distance apart, and the rope works slowly.
+Motion is given to the rope by large driving pulleys, and friction is
+obtained by taking the rope several times round the driving pulley.
+
+       *       *       *       *       *
+
+
+
+
+A RELIABLE WATER FILTER.
+
+
+Opinions are so firmly fixed at present that water is capable of carrying
+the germs of disease that, in cases of epidemics, the recommendation is
+made to drink natural mineral waters, or to boil ordinary water. This is a
+wise measure, assuredly; but mineral waters are expensive, and, moreover,
+many persons cannot get used to them. As for boiled water, that is a
+beverage which has no longer a normal composition; a portion of its salts
+has become precipitated, and its dissolved gases have been given off. In
+spite of the aeration that it is afterward made to undergo, it preserves an
+insipid taste, and I believe that it is not very digestible. I have
+thought, then, that it would be important, from a hygienic standpoint, to
+have a filter that should effectually rid water of all the microbes or
+germs that it contains, while at the same time preserving the salts or
+gases that it holds in solution. I have reached such a result, and,
+although it is always delicate to speak of things that one has himself
+done, I think the question is too important to allow me to hold back my
+opinion in regard to the apparatus. It is a question of general hygiene
+before which my own personality must disappear completely.
+
+In Mr. Pasteur's laboratory, we filter the liquids in which microbes have
+been cultivated, so as to separate them from the medium in which they
+exist. For this purpose we employ a small unglazed porcelain tube that we
+have had especially constructed therefor. The liquid traverses the porous
+sides of this under the influence of atmospheric pressure, since we cause a
+vacuum around the tube by means of an air-pump. We collect in this way,
+after several hours, a few cubic inches of a liquid which is absolutely
+pure, since animals may be inoculated with it without danger to them, while
+the smallest quantity of the same liquid, when not filtered, infallibly
+causes death.
+
+This is the process that I have applied to the filtration of water. I have
+introduced into it merely such modifications as are necessary to render the
+apparatus entirely practical. My apparatus consists of an unglazed
+porcelain tube inverted upon a ring of enameled porcelain, forming a part
+thereof, and provided with an aperture for the outflow of the liquid. This
+tube is placed within a metallic one, which is directly attached to a cock
+that is soldered to the service pipe. A nut at the base that can be
+maneuvered by hand permits, through the intermedium of a rubber washer
+resting upon the enameled ring, of the tube being hermetically closed.
+
+Under these circumstances, when the cock is turned on, the water fills the
+space between the two tubes and slowly filters, under the influence of
+pressure, through the sides of the porous one, and is freed from all solid
+matter, including the microbes and germs, that it contains. It flows out
+thoroughly purified, through the lower aperture, into a vessel placed there
+to receive it.
+
+I have directly ascertained that water thus filtered is deprived of all its
+germs. For this purpose I have added some of it (with the necessary
+precautions against introducing foreign organisms) to very changeable
+liquids, such as veal broth, blood, and milk, and have found that there was
+no alteration. Such water, then, is incapable of transmitting the germs of
+disease.
+
+[Illustration: CHAMBERLAND'S WATER FILTER.]
+
+With an apparatus like the one here figured, and in which the filtering
+tube is eight inches in length by about one inch in diameter, about four
+and a half gallons of water per day may be obtained when the pressure is
+two atmospheres--the mean pressure in Mr. Pasteur's laboratory, where my
+experiments were made. Naturally, the discharge is greater or less
+according to the pressure. A discharge of three and a half to four and a
+half gallons of water seems to me to be sufficient for the needs of an
+ordinary household. For schools, hospitals, barracks, etc., it is easy to
+obtain the necessary volume of water by associating the tubes in series.
+The discharge will be multiplied by the number of tubes.
+
+In the country, or in towns that have no water mains, it will be easy to
+devise an arrangement for giving the necessary pressure. An increase in the
+porosity of the filtering tube is not to be thought of, as this would allow
+very small germs to pass. This filter being a perfect one, we must expect
+to see it soil quickly. Filters that do not get foul are just the ones that
+do not filter. But with the arrangement that I have adopted the solid
+matters deposit upon the external surface of the filter, while the inner
+surface always remains perfectly clean. In order to clean the tube, it is
+only necessary to take it out and wash it vigorously. As the tube is
+entirely of porcelain, it may likewise be plunged into boiling water so as
+to destroy the germs that may have entered the sides or, better yet, it may
+be heated over a gas burner or in an ordinary oven. In this way all the
+organic matter will be burned, and the tube will resume its former
+porosity.--_M. Chamberland, La Nature._
+
+       *       *       *       *       *
+
+
+
+
+SIMPLE DEVICES FOR DISTILLING WATER.
+
+
+The alchemists dreamed and talked of that universal solvent which they so
+long and vainly endeavored to discover; still, for all this, not only the
+alchemist of old, but his more immediate successor, the chemist of to-day,
+has found no solvent so universal as water. No liquid has nearly so wide a
+range of dissolving powers, and, taking things all round, no liquid

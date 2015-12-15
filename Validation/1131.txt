@@ -1,0 +1,427 @@
+
+!Answers!: (a) 0.1434; (b) 0.053; (c) 0.1079; (d) 0.0279; (e) 0.04765,
+and 0.022.
+
+14. If 30.00 grams of potassium tetroxalate
+(KHC_{2}O_{4}.H_{2}C_{2}O_{4}.2H_{2}O) are dissolved and the solution
+diluted to exactly 1 liter, and 40 cc. are neutralized with 20 cc.
+of a potassium carbonate solution, what is the normal value of the
+carbonate solution?
+
+!Answer!: 0.7084 N.
+
+15. How many cubic centimeters of 0.3 normal sulphuric acid will be
+required to neutralize (a) 30 cc. of 0.5 normal potassium hydroxide;
+(b) to neutralize 30 cc. of 0.5 normal barium hydroxide; (c) to
+neutralize 20 cc. of a solution containing 10.02 grams of potassium
+bicarbonate per 100 cc.; (d) to give a precipitate of barium sulphate
+weighing 0.4320 gram?
+
+!Answers!: (a) 50 cc.; (b) 50 cc.; (c) 66.73 cc.; (d) 12.33 cc.
+
+16. It is desired to dilute a solution of sulphuric acid of which 1
+cc. is equivalent to 0.1027 gram of pure sodium carbonate to make it
+exactly 1.250 normal. 700 cc. of the solution are available. To what
+volume must it be diluted?
+
+!Answer!: 1084 cc.
+
+17. Given the following data: 1 cc. of NaOH = 1.117 cc. HCl. The HCl
+is 0.4876 N. How much water must be added to 100 cc. of the alkali to
+make it exactly 0.5 N.?
+
+!Answer!: 9.0 cc.
+
+18. What is the normal value of a sulphuric acid solution which has a
+specific gravity of 1.839 and contains 95% H_{2}SO_{4} by weight?
+
+!Answer!: 35.61 N.
+
+19. A sample of Rochelle Salt (KNaC_{4}H_{4}O_{6}.4H_{2}O), after
+ignition in platinum to convert it to the double carbonate, is
+titrated with sulphuric acid, using methyl orange as an indicator.
+From the following data calculate the percentage purity of the sample:
+
+Wt. sample = 0.9500 gram
+H_{2}SO_{4} used = 43.65 cc.
+NaOH used = 1.72 cc.
+1 cc. H_{2}SO_{4} = 1.064 cc. NaOH
+Normal value NaOH = 0.1321 N.
+
+!Answer!: 87.72 cc.
+
+20. One gram of a mixture of 50% sodium carbonate and 50% potassium
+carbonate is dissolved in water, and 17.36 cc. of 1.075 N acid is
+added. Is the resulting solution acid or alkaline? How many cubic
+centimeters of 1.075 N acid or alkali will have to be added to make
+the solution exactly neutral?
+
+!Answers!: Acid; 1.86 cc. alkali.
+
+21. In preparing an alkaline solution for use in volumetric work, an
+analyst, because of shortage of chemicals, mixed exactly 46.32 grams
+of pure KOH and 27.64 grams of pure NaOH, and after dissolving in
+water, diluted the solution to exactly one liter. How many cubic
+centimeters of 1.022 N hydrochloric acid are necessary to neutralize
+50 cc. of the basic solution?
+
+!Answer!: 74.18 cc.
+
+22. One gram of crude ammonium salt is treated with strong potassium
+hydroxide solution. The ammonia liberated is distilled and collected
+in 50 cc. of 0.5 N acid and the excess titrated with 1.55 cc. of 0.5 N
+sodium hydroxide. Calculate the percentage of NH_{3} in the sample.
+
+!Answer!: 41.17%.
+
+
+23. In titrating solutions of alkali carbonates in the presence of
+phenolphthalein, the color change takes place when the carbonate has
+been converted to bicarbonate. In the presence of methyl orange, the
+color change takes place only when the carbonate has been completely
+neutralized. From the following data, calculate the percentages of
+Na_{2}CO_{3} and NaOH in an impure mixture. Weight of sample, 1.500
+grams; HCl (0.5 N) required for phenolphthalein end-point, 28.85 cc.;
+HCl (0.5 N) required to complete the titration after adding methyl
+orange, 23.85 cc.
+
+!Answers!: 6.67% NaOH; 84.28% Na_{2}CO_{3}.
+
+24. A sample of sodium carbonate containing sodium hydroxide weighs
+1.179 grams. It is titrated with 0.30 N hydrochloric acid, using
+phenolphthalein in cold solution as an indicator and becomes colorless
+after the addition of 48.16 cc. Methyl orange is added and 24.08 cc.
+are needed for complete neutralization. What is the percentage of NaOH
+and Na_{2}CO_{3}?
+
+!Answers!: 24.50% NaOH; 64.92% Na_{2}CO_{3}.
+
+25. From the following data, calculate the percentages of Na_{2}CO_{3}
+and NaHCO_{3} in an impure mixture. Weight of sample 1.000 gram;
+volume of 0.25 N hydrochloric acid required for phenolphthalein
+end-point, 26.40 cc.; after adding an excess of acid and boiling out
+the carbon dioxide, the total volume of 0.25 N hydrochloric acid
+required for phenolphthalein end-point, 67.10 cc.
+
+!Answer!: 69.95% Na_{2}CO_{3}; 30.02% NaHCO_{3}.
+
+26. In the analysis of a one-gram sample of soda ash, what must be the
+normality of the acid in order that the number of cubic centimeters of
+acid used shall represent the percentage of carbon dioxide present?
+
+!Answer!: 0.4544 gram.
+
+27. What weight of pearl ash must be taken for analysis in order that
+the number of cubic centimeters of 0.5 N acid used may be equal to one
+third the percentage of K_{2}CO_{3}?
+
+!Answer!: 1.152 grams.
+
+28. What weight of cream of tartar must have been taken for analysis
+in order to have obtained 97.60% KHC_{4}H_{4}O_{6} in an analysis
+involving the following data: NaOH used = 30.06 cc.; H_{2}SO_{4}
+solution used = 0.50 cc.; 1 cc. H_{2}SO_{4} sol. = 0.0255 gram
+CaCO_{3}; 1 cc. H_{2}SO_{4} sol. = 1.02 cc. NaOH sol.?
+
+!Answer!: 2.846 grams.
+
+29. Calculate the percentage of potassium oxide in an impure sample of
+potassium carbonate from the following data: Weight of sample = 1.00
+gram; HCl sol. used = 55.90 cc.; NaOH sol. used = 0.42 cc.; 1 cc. NaOH
+sol. = 0.008473 gram of KHC_{2}O_{4}.H_{2}C_{2}O_{4}.2H_{2}O; 2 cc.
+HCl sol. = 5 cc. NaOH sol.
+
+!Answer!: 65.68%.
+
+30. Calculate the percentage purity of a sample of calcite
+(CaCO_{3}) from the following data: (Standardization); Weight of
+H_{2}C_{2}O_{4}.2H_{2}O = 0.2460 gram; NaOH solution used = 41.03
+cc.; HCl solution used = 0.63; 1 cc. NaOH solution = 1.190 cc. HCl
+solution. (Analysis); Weight of sample 0.1200 gram; HCl used = 36.38
+cc.; NaOH used = 6.20 cc.
+
+!Answer!: 97.97%.
+
+31. It is desired to dilute a solution of hydrochloric acid to exactly
+0.05 N. The following data are given: 44.97 cc. of the hydrochloric
+acid are equivalent to 43.76 cc. of the NaOH solution. The NaOH
+is standardized against a pure potassium tetroxalate
+(KHC_{2}O_{4}.H_{2}C_{2}O_{4}.2H_{2}O) weighing 0.2162 gram and
+requires 49.14 cc. How many cc. of water must be added to 1000 cc. of
+the aqueous hydrochloric acid?
+
+!Answer!: 11 cc.
+
+32. How many cubic centimeters of 3 N phosphoric acid must be added to
+300 cc. of 0.4 N phosphoric acid in order that the resulting solution
+may be 0.6 N?
+
+!Answer!: 25 cc.
+
+33. To oxidize the iron in 1 gram of
+FeSO_{4}(NH_{4})_{2}SO_{4}.6H_{2}O (mol. wgt. 392) requires 3 cc. of
+a given solution of HNO_{3}. What is the normality of the nitric
+acid when used as an acid? 6FeSO_{4} + 2HNO_{3} + 2H_{2}SO_{4} =
+3Fe_{2}(SO_{4})_{3} + 2NO + 4H_{2}O.
+
+!Answer!: 0.2835 N.
+
+34. The same volume of carbon dioxide at the same temperature and the
+same pressure is liberated from a 1 gram sample of dolomite, by adding
+an excess of hydrochloric acid, as can be liberated by the addition of
+35 cc. of 0.5 N hydrochloric acid to an excess of any pure or impure
+carbonate. Calculate the percentage of CO_{2} in the dolomite.
+
+!Answer!: 38.5%.
+
+35. How many cubic centimeters of sulphuric acid (sp. gr. 1.84,
+containing 96% H_{2}SO_{4} by weight) will be required to displace the
+chloride in the calcium chloride formed by the action of 100 cc. of
+0.1072 N hydrochloric acid on an excess of calcium carbonate, and how
+many grams of CaSO_{4} will be formed?
+
+!Answers!: 0.298 cc.; 0.7300 gram.
+
+36. Potassium hydroxide which has been exposed to the air is found on
+analysis to contain 7.62% water, 2.38% K_{2}CO_{3}. and 90% KOH. What
+weight of residue will be obtained if one gram of this sample is added
+to 46 cc. of normal hydrochloric acid and the resulting solution,
+after exact neutralization with 1.070 N potassium hydroxide solution,
+is evaporated to dryness?
+
+!Answer!: 3.47 grams.
+
+37. A chemist received four different solutions, with the statement
+that they contained either pure NaOH; pure Na_{2}CO_{3}; pure
+NaHCO_{3}, or mixtures of these substances. From the following data
+identify them:
+
+Sample I. On adding phenolphthalein to a solution of the substance, it
+gave no color to the solution.
+
+Sample II. On titrating with standard acid, it required 15.26 cc. for
+a change in color, using phenolphthalein, and 17.90 cc. additional,
+using methyl orange as an indicator.
+
+Sample III. The sample was titrated with hydrochloric acid until the
+pink of phenolphthalein disappeared, and on the addition of methyl
+orange the solution was colored pink.
+
+Sample IV. On titrating with hydrochloric acid, using phenolphthalein,
+15.00 cc. were required. A new sample of the same weight required
+exactly 30 cc. of the same acid for neutralization, using methyl
+orange.
+
+!Answers!: (a) NaHCO_{3}; (b) NaHCO_{3}+Na_{2}CO_{3}; (c)NaOH; (d)
+Na_{2}CO_{3}.
+
+38. In the analysis of a sample of KHC_{4}H_{4}O_{6} the following
+data are obtained: Weight sample = 0.4732 gram. NaOH solution used =
+24.97 cc. 3.00 cc. NaOH = 1 cc. of H_{3}PO_{4} solution of which 1
+cc. will precipitate 0.01227 gram of magnesium as MgNH_{4}PO_{4}.
+Calculate the percentage of KHC_{4}H_{4}O_{6}.
+
+!Answer!: 88.67%.
+
+39. A one-gram sample of sodium hydroxide which has been exposed to
+the air for some time, is dissolved in water and diluted to exactly
+500 cc. One hundred cubic centimeters of the solution, when titrated
+with 0.1062 N hydrochloric acid, using methyl orange as an indicator,
+requires 38.60 cc. for complete neutralization. Barium chloride in
+excess is added to a second portion of 100 cc. of the solution, which
+is diluted to exactly 250 cc., allowed to stand and filtered. Two
+hundred cubic centimeters of this filtrate require 29.62 cc. of 0.1062
+N hydrochloric acid for neutralization, using phenolphthalein as an
+indicator. Calculate percentage of NaOH, Na_{2}CO_{3}, and H_{2}O.
+
+!Answers!: 78.63% NaOH; 4.45% Na_{2}CO_{3}; 16.92% H_{2}O.
+
+40. A sodium hydroxide solution (made from solid NaOH which has been
+exposed to the air) was titrated against a standard acid using methyl
+orange as an indicator, and was found to be exactly 0.1 N. This
+solution was used in the analysis of a material sold at 2 cents per
+pound per cent of an acid constituent A, and always mixed so that
+it was supposed to contain 15% of A, on the basis of the analyst's
+report. Owing to the carelessness of the analyst's assistant, the
+sodium hydroxide solution was used with phenolphthalein as an
+indicator in cold solution in making the analyses. The concern
+manufacturing this material sells 600 tons per year, and when the
+mistake was discovered it was estimated that at the end of a year
+the error in the use of indicators would either cost them or their
+customers $6000. Who would lose and why? Assuming the impure NaOH used
+originally in making the titrating solution consisted of NaOH and
+Na_{2}CO_{3} only, what per cent of each was present?
+
+!Answers!: Customer lost; 3.94% Na_{2}CO_{3}; 96.06% NaOH.
+
+41. In the standardization of a K_{2}Cr_{2}O_{7} solution against iron
+wire, 99.85% pure, 42.42 cc. of the solution were added. The weight of
+the wire used was 0.22 gram. 3.27 cc. of a ferrous sulphate solution
+having a normal value as a reducing agent of 0.1011 were added
+to complete the titration. Calculate the normal value of the
+K_{2}Cr_{2}O_{7}.
+
+!Answer!: 0.1006 N.
+
+42. What weight of iron ore containing 56.2% Fe should be taken to
+standardize an approximately 0.1 N oxidizing solution, if not more
+than 47 cc. are to be used?
+
+!Answer!: 0.4667 gram.
+
+43. One tenth gram of iron wire, 99.78% pure, is dissolved in
+hydrochloric acid and the iron oxidized completely with bromine water.
+How many grams of stannous chloride are there in a liter of solution
+if it requires 9.47 cc. to just reduce the iron in the above? What
+is the normal value of the stannous chloride solution as a reducing
+agent?
+
+!Answer!: 17.92 grams; 0.1888 N.
+
+44. One gram of an oxide of iron is fused with potassium acid sulphate
+and the fusion dissolved in acid. The iron is reduced with stannous
+chloride, mercuric chloride is added, and the iron titrated with a
+normal K_{2}Cr_{2}O_{7} solution. 12.94 cc. were used. What is the
+formula of the oxide, FeO, Fe_{2}O_{3}, or Fe_{3}O_{4}?
+
+!Answer!: Fe_{3}O_{4}.
+
+45. If an element has 98 for its atomic weight, and after reduction
+with stannous chloride could be oxidized by bichromate to a state
+corresponding to an XO_{4}^{-} anion, compute the oxide, or valence,
+corresponding to the reduced state from the following data: 0.3266
+gram of the pure element, after being dissolved, was reduced with
+stannous chloride and oxidized by 40 cc. of K_{2}Cr_{2}O_{7}, of which
+one cc. = 0.1960 gram of FeSO_{4}(NH_{4})_{2}SO_{4}.6H_{2}O.
+
+!Answer!: Monovalent.
+
+46. Determine the percentage of iron in a sample of limonite from the
+following data: Sample = 0.5000 gram. KMnO_{4} used = 50 cc. 1 cc.
+KMnO_{4} = 0.005317 gram Fe. FeSO_{4} used = 6 cc. 1 cc. FeSO_{4} =
+0.009200 gram FeO.
+
+!Answer!: 44.60%.
+
+47. If 1 gram of a silicate yields 0.5000 gram of Fe_{2}O_{3} and
+Al_{2}O_{3} and the iron present requires 25 cc. of 0.2 N KMnO_{4},
+calculate the percentage of FeO and Al_{2}O_{3} in the sample.
+
+!Answer!: 35.89% FeO; 10.03% Al_{2}O_{3}.
+
+48. A sample of magnesia limestone has the following composition:
+Silica, 3.00%; ferric oxide and alumina, 0.20%; calcium oxide, 33.10%;
+magnesium oxide, 20.70%; carbon dioxide, 43.00%. In manufacturing lime
+from the above the carbon dioxide is reduced to 3.00%. How many cubic
+centimeters of normal KMnO_{4} will be required to determine the
+calcium oxide volumetrically in a 1 gram sample of the lime?
+
+!Answer!: 20.08 cc.
+
+49. If 100 cc. of potassium bichromate solution (10 gram
+K_{2}Cr_{2}O_{7} per liter), 5 cc. of 6 N sulphuric acid, and 75 cc.
+of ferrous sulphate solution (80 grams FeSO_{4}.7H_{2}O per liter) are
+mixed, and the resulting solution titrated with 0.2121 N KMnO_{4}, how
+many cubic centimeters of the KMnO_{4} solution will be required to
+oxidize the iron?
+
+!Answer!: 5.70 cc.
+
+50. If a 0.5000 gram sample of limonite containing 59.50 per cent
+Fe_{2}O_{3} requires 40 cc. of KMnO_{4} to oxidize the iron, what
+is the value of 1 cc. of the permanganate in terms of (a) Fe, (b)
+H_{2}C_{2}O_{4}.2H_{2}O?
+
+!Answers!: (a) 0.005189 gram; (b) 0.005859 gram.
+
+51. A sample of pyrolusite weighing 0.6000 gram is treated with 0.9000
+gram of oxalic acid. The excess oxalic acid requires 23.95 cc. of
+permanganate (1 cc. = 0.03038 gram FeSO_{4}.7H_{2}O). What is the
+percentage of MnO_{2}, in the sample?
+
+!Answer!: 84.47%.
+
+52. A solution contains 50 grams of
+KHC_{2}O_{4}.H_{2}C_{2}O_{4}.2H_{2}O per liter. What is the normal
+value of the solution (a) as an acid, and (b) as a reducing agent?
+
+!Answers!: (a) 0.5903 N; (b) 0.7872 N.
+
+53. In the analysis of an iron ore containing 60% Fe_{2}O_{3}, a
+sample weighing 0.5000 gram is taken and the iron is reduced with
+sulphurous acid. On account of failure to boil out all the excess
+SO_{2}, 38.60 cubic centimeters of 0.1 N KMnO_{4} were required to
+titrate the solution. What was the error, percentage error, and what
+weight of sulphur dioxide was in the solution?
+
+!Answers!: (a) 1.60%; (b) 2.67%; (c) 0.00322 gram.
+
+54. From the following data, calculate the ratio of the nitric acid as
+an oxidizing agent to the tetroxalate solution as a reducing agent:
+1 cc. HNO_{3} = 1.246 cc. NaOH solution; 1 cc. NaOH = 1.743 cc.
+KHC_{2}O_{4}.H_{2}C_{2}O_{4}.2H_{2}O solution; Normal value NaOH =
+0.12.
+
+!Answer!: 4.885.
+
+55. Given the following data: 25 cc. of a hydrochloric acid, when
+standardized gravimetrically as silver chloride, yields a precipitate
+weighing 0.5465 gram. 24.35 cc. of the hydrochloric acid are exactly
+equivalent to 30.17 cc. of KHC_{2}O_{4}.H_{2}C_{2}O_{4}.2H_{2}O
+solution. How much water must be added to a liter of the oxalate
+solution to make it exactly 0.025 N as a reducing agent?
+
+!Answer!: 5564 cc.
+
+56. Ten grams of a mixture of pure potassium tetroxalate
+(KHC_{2}O_{4}.H_{2}C_{2}O_{4}.2H_{2}O) and pure oxalic acid
+(H_{2}C_{2}O_{4}.2H_{2}O) are dissolved in water and diluted to
+exactly 1000 cc. The normal value of the oxalate solution when used as
+an acid is 0.1315. Calculate the ratio of tetroxalate to oxalate used
+in making up the solution and the normal value of the solution as a
+reducing agent.
+
+!Answers!: 2:1; 0.1577 N.
+
+57. A student standardized a solution of NaOH and one of KMnO_{4}
+against pure KHC_{2}O_{4}.H_{2}C_{2}O_{4}.2H_{2}O and found the former
+to be 0.07500 N as an alkali and the latter exactly 0.1 N as an
+oxidizing agent. By coincidence, exactly 47.26 cc. were used in each
+standardization. Find the ratio of the oxalate used in the
+NaOH standardization to the oxalate used in the permanganate
+standardization.
+
+!Answer!: 1:1.
+
+58. A sample of apatite weighing 0.60 gram is analyzed for its
+phosphoric anhydride content. If the phosphate is precipitated as
+(NH_{4})_{3}PO_{4}.12MoO_{3}, and the precipitate (after solution and
+reduction of the MoO_{3} to Mo_{24}O_{37}), requires 100 cc. of normal
+KMnO_{4} to oxidize it back to MoO_{3}, what is the percentage of
+P_{2}O_{5}?
+
+!Answer!: 33.81%.
+
+59. In the analysis of a sample of steel weighing 1.881 grams the
+phosphorus was precipitated with ammonium molybdate and the yellow
+precipitate was dissolved, reduced and titrated with KMnO_{4}. If the
+sample contained 0.025 per cent P and 6.01 cc. of KMnO_{4} were used,
+to what oxide was the molybdenum reduced? 1 cc. KMnO_{4} = 0.007188
+gram Na_{2}C_{2}O_{4}.
+
+!Answer!: Mo_{4}O_{5}.
+
+60. What is the value of 1 cc. of an iodine solution (1 cc. equivalent
+to 0.0300 gram Na_{2}S_{2}O_{3}) in terms of As_{2}O_{3}?
+
+!Answer!: 0.009385 gram.
+
+61. 48 cc. of a solution of sodium thiosulphate are required to
+titrate the iodine liberated from an excess of potassium iodide
+solution by 0.3000 gram of pure KIO_{3}. (KIO_{3} + 5KI + 3H_{2}SO_{4}
+= 3K_{2}SO_{4} + 3I_{2} + 3H_{2}O.) What is the normal strength of the
+sodium thiosulphate and the value of 1 cc. of it in terms of iodine?
+
+!Answers!: 0.1753 N; 0.02224 gram.
+
+62. One thousand cubic centimeters of 0.1079 N sodium thiosulphate

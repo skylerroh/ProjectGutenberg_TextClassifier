@@ -1,0 +1,1714 @@
+The Project Gutenberg EBook of Summa Theologica, Part III (Tertia Pars), by 
+Thomas Aquinas
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Summa Theologica, Part III (Tertia Pars)
+       From the Complete American Edition
+
+Author: Thomas Aquinas
+
+Translator: Fathers of the English Dominican Province
+
+Release Date: November 28, 2006 [EBook #19950]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SUMMA THEOLOGICA, PART III ***
+
+
+
+
+Produced by Sandra K. Perry, with corrections and
+supplementation by David McClamrock
+
+
+
+
+
+
+SUMMA THEOLOGICA
+
+THIRD PART
+["III," "Tertia Pars"]
+
+Translated by
+Fathers of the English Dominican Province
+
+BENZIGER BROTHERS
+NEW YORK
+________________________
+
+DEDICATION
+
+To the Blessed Virgin
+Mary Immaculate
+Seat of Wisdom
+________________________
+
+NOTE TO THIS ELECTRONIC EDITION
+
+The text of this electronic edition was originally produced by Sandra
+K. Perry, Perrysburg, Ohio, and made available through the Christian
+Classics Ethereal Library <http://www.ccel.org>. I have eliminated
+unnecessary formatting in the text, corrected some errors in
+transcription, and added the dedication, tables of contents,
+Prologue, and the numbers of the questions and articles, as they
+appeared in the printed translation published by Benziger Brothers.
+Each article is now designated by part, question number, and article
+number in brackets, like this:
+
+> SECOND ARTICLE [I, Q. 49, Art. 2]
+
+> Whether the Supreme Good, God, Is the Cause of Evil?
+
+In a few places, where obvious errors appeared in the Benziger
+Brothers edition, I have corrected them by reference to a Latin text
+of the _Summa._ These corrections are indicated by English text in
+brackets. For example, in Part I, Question 45, Article 2, the first
+sentence in the Benziger Brothers edition begins: "Not only is it
+impossible that anything should be created by God...." By reference
+to the Latin, "non solum _non_ est impossibile a Deo aliquid creari"
+(emphasis added), this has been corrected to "Not only is it [not]
+impossible that anything should be created by God...."
+
+This electronic edition also differs from the Benziger Brothers
+edition in the following details (as well as the obvious lack of the
+original page numbers and headers):
+
+* The repetitive expression "We proceed thus to the [next] Article"
+does not appear directly below the title of each article.
+
+* Italics are represented by underscores at the beginning and end,
+_like this._ Quotations and other "quotable" matter, however, are
+ordinarily set off by quotation marks with no underscores in this
+edition, in accordance with common English usage, even where they
+were set in italics with no quotation marks in the Benziger Brothers
+edition. Titles of books are set off by underscores when they appear
+in the text with no parentheses, but not when the books are cited in
+parentheses.
+
+* Bible chapters and verses are cited with arabic numerals separated
+by colons, like this: "Dan. 7:10"--not like this: "Dan. vii. 10."
+Small roman numerals have been retained where they appear in
+citations to books other than the Bible.
+
+* Any matter that appeared in a footnote in the Benziger Brothers
+edition is presented in brackets at the point in the text where the
+footnote mark appeared.
+
+* Greek words are presented in Roman transliteration.
+
+* Paragraphs are not indented and are separated by blank lines.
+
+* Numbered topics, set forth at the beginning of each question and
+at certain other places, are ordinarily presented on a separate line
+for each topic.
+
+* Titles of questions are in all caps.
+
+Anything else in this electronic edition that does not correspond to
+the content of the Benziger Brothers edition may be regarded as a
+defect in this edition and attributed to me (David McClamrock).
+_______________________
+
+CONTENTS
+
+THIRD PART (QQ. 1-90)
+
+Question
+
+1.   Of the Fitness of the Incarnation
+2.   Of the Mode of Union of the Word Incarnate
+3.   Of the Mode of Union on the Part of the Person Assuming
+4.   Of the Mode of Union on the Part of the Human Nature
+5.   Of the Parts of Human Nature Which Were Assumed
+6.   Of the Order of Assumption
+7.   Of the Grace of Christ as an Individual Man
+8.   Of the Grace of Christ as He Is the Head of the Church
+9.   Of Christ's Knowledge in General
+10.  Of the Beatific Knowledge of Christ's Soul
+11.  Of the Knowledge Imprinted or Infused on the Soul of Christ
+12.  Of the Acquired or Empiric Knowledge of Christ's Soul
+13.  Of the Power of Christ's Soul
+14.  Of the Defects of Body Assumed by the Son of God
+15.  Of the Defects of Soul Assumed by Christ
+16.  Of Those Things Which Are Applicable to Christ in His Being
+       and Becoming
+17.  Of Christ's Unity of Being
+18.  Of Christ's Unity of Will
+19.  Of the Unity of Christ's Operation
+20.  Of Christ's Subjection to the Father
+21.  Of Christ's Prayer
+22.  Of the Priesthood of Christ
+23.  Of Adoption as Befitting to Christ
+24.  Of the Predestination of Christ
+25.  Of the Adoration of Christ
+26.  Of Christ as Called the Mediator of God and Man
+--   Editorial Note: St. Thomas and the Immaculate Conception
+27.  Of the Sanctification of the Blessed Virgin
+28.  Of the Virginity of the Mother of God
+29.  Of the Espousals of the Mother of God
+30.  Of the Annunciation of the Blessed Virgin
+31.  Of the Matter From Which the Saviour's Body Was Conceived
+32.  Of the Active Principle in Christ's Conception
+33.  Of the Mode and Order of Christ's Conception
+34.  Of the Perfection of the Child Conceived
+35.  Of Christ's Nativity
+36.  Of the Manifestation of the Newly Born Christ
+37.  Of Christ's Circumcision, and of the Other Legal Observances
+       Accomplished in Regard to the Child Christ
+38.  Of the Baptism of John
+39.  Of the Baptizing of Christ
+40.  Of Christ's Manner of Life
+41.  Of Christ's Temptation
+42.  Of Christ's Doctrine
+43.  Of the Miracles Worked by Christ, in General
+44.  Of Christ's Miracles Considered Specifically
+45.  Of Christ's Transfiguration
+46.  The Passion of Christ
+47.  Of the Efficient Cause of Christ's Passion
+48.  Of the Efficiency of Christ's Passion
+49.  Of the Effects of Christ's Passion
+50.  Of the Death of Christ
+51.  Of Christ's Burial
+52.  Of Christ's Descent into Hell
+53.  Of Christ's Resurrection
+54.  Of the Quality of Christ Rising Again
+55.  Of the Manifestation of the Resurrection
+56.  Of the Causality of Christ's Resurrection
+57.  Of the Ascension of Christ
+58.  Of Christ's Sitting at the Right Hand of the Father
+59.  Of Christ's Judiciary Power
+60.  What Is a Sacrament?
+61.  Of the Necessity of the Sacraments
+62.  Of the Sacraments' Principal Effect, Which Is Grace
+63.  Of the Other Effect of the Sacraments, Which Is a Character
+64.  Of the Causes of the Sacraments
+65.  Of the Number of the Sacraments
+66.  Of the Sacrament of Baptism
+67.  Of the Ministers by Whom the Sacrament of Baptism Is Conferred
+68.  Of Those Who Receive Baptism
+69.  Of the Effects of Baptism
+70.  Of Circumcision
+71.  Of the Preparations That Accompany Baptism
+72.  Of the Sacrament of Confirmation
+73.  Of the Sacrament of the Eucharist
+74.  Of the Matter of This Sacrament
+75.  Of the Change of Bread and Wine into the Body and Blood of Christ
+76.  Of the Way in Which Christ Is in This Sacrament
+77.  Of the Accidents Which Remain in This Sacrament
+78.  Of the Form of This Sacrament
+79.  Of the Effects of This Sacrament
+80.  Of the Use or Receiving of This Sacrament in General
+81.  Of the Use Which Christ Made of This Sacrament at Its Institution
+82.  Of the Minister of This Sacrament
+83.  Of the Rite of This Sacrament
+84.  Of the Sacrament of Penance
+85.  Of Penance as a Virtue
+86.  Of the Effect of Penance, As Regards the Pardon of Mortal Sin
+87.  Of the Remission of Venial Sin
+88.  Of the Return of Sins Which Have Been Taken Away by Penance
+89.  Of the Recovery of Virtue by Means of Penance
+90.  Of the Parts of Penance, in General
+________________________
+
+SUMMA THEOLOGICA
+
+THIRD PART
+["III," "Tertia Pars"]
+_______________________
+
+PROLOGUE
+
+Forasmuch as our Saviour the Lord Jesus Christ, in order to "save His
+people from their sins" (Matt. 1:21), as the angel announced, showed
+unto us in His own Person the way of truth, whereby we may attain to
+the bliss of eternal life by rising again, it is necessary, in order
+to complete the work of theology, that after considering the last end
+of human life, and the virtues and vices, there should follow the
+consideration of the Saviour of all, and of the benefits bestowed by
+Him on the human race.
+
+Concerning this we must consider (1) the Saviour Himself; (2) the
+sacraments by which we attain to our salvation; (3) the end of
+immortal life to which we attain by the resurrection.
+
+Concerning the first, a double consideration occurs: the first, about
+the mystery of the Incarnation itself, whereby God was made man for
+our salvation; the second, about such things as were done and
+suffered by our Saviour--i.e. God incarnate.
+_______________________
+
+TREATISE ON THE INCARNATION (QQ. 1-59)
+_______________________
+
+QUESTION 1
+
+OF THE FITNESS OF THE INCARNATION
+(In Six Articles)
+
+Concerning the first, three things occur to be considered: first, the
+fitness of the Incarnation; secondly, the mode of union of the Word
+Incarnate; thirdly, what follows this union.
+
+Under the first head there are six points of inquiry:
+
+(1) Whether it was fitting for God to become incarnate?
+
+(2) Whether it was necessary for the restoration of the human race?
+
+(3) Whether if there had been no sin God would have become incarnate?
+
+(4) Whether He became incarnate to take away original sin rather than
+actual?
+
+(5) Whether it was fitting for God to become incarnate from the
+beginning of the world?
+
+(6) Whether His Incarnation ought to have been deferred to the end of
+the world?
+_______________________
+
+FIRST ARTICLE [III, Q. 1, Art. 1]
+
+Whether It Was Fitting That God Should Become Incarnate?
+
+Objection 1: It would seem that it was not fitting for God to become
+incarnate. Since God from all eternity is the very essence of
+goodness, it was best for Him to be as He had been from all eternity.
+But from all eternity He had been without flesh. Therefore it was
+most fitting for Him not to be united to flesh. Therefore it was not
+fitting for God to become incarnate.
+
+Obj. 2: Further, it is not fitting to unite things that are
+infinitely apart, even as it would not be a fitting union if one were
+"to paint a figure in which the neck of a horse was joined to the
+head of a man" [*Horace, Ars. Poet., line 1]. But God and flesh are
+infinitely apart; since God is most simple, and flesh is most
+composite--especially human flesh. Therefore it was not fitting that
+God should be united to human flesh.
+
+Obj. 3: Further, a body is as distant from the highest spirit as evil
+is from the highest good. But it was wholly unfitting that God, Who
+is the highest good, should assume evil. Therefore it was not fitting
+that the highest uncreated spirit should assume a body.
+
+Obj. 4: Further, it is not becoming that He Who surpassed the
+greatest things should be contained in the least, and He upon Whom
+rests the care of great things should leave them for lesser things.
+But God--Who takes care of the whole world--the whole universe of
+things cannot contain. Therefore it would seem unfitting that "He
+should be hid under the frail body of a babe in swathing bands, in
+comparison with Whom the whole universe is accounted as little; and
+that this Prince should quit His throne for so long, and transfer the
+government of the whole world to so frail a body," as Volusianus
+writes to Augustine (Ep. cxxxv).
+
+_On the contrary,_ It would seem most fitting that by visible things
+the invisible things of God should be made known; for to this end was
+the whole world made, as is clear from the word of the Apostle (Rom.
+1:20): "For the invisible things of God . . . are clearly seen, being
+understood by the things that are made." But, as Damascene says (De
+Fide Orth. iii, 1), by the mystery of the Incarnation are made known
+at once the goodness, the wisdom, the justice, and the power or might
+of God--"His goodness, for He did not despise the weakness of His own
+handiwork; His justice, since, on man's defeat, He caused the tyrant
+to be overcome by none other than man, and yet He did not snatch men
+forcibly from death; His wisdom, for He found a suitable discharge
+for a most heavy debt; His power, or infinite might, for there is
+nothing greater than for God to become incarnate . . ."
+
+_I answer that,_ To each thing, that is befitting which belongs to it
+by reason of its very nature; thus, to reason befits man, since this
+belongs to him because he is of a rational nature. But the very
+nature of God is goodness, as is clear from Dionysius (Div. Nom. i).
+Hence, what belongs to the essence of goodness befits God. But it
+belongs to the essence of goodness to communicate itself to others,
+as is plain from Dionysius (Div. Nom. iv). Hence it belongs to the
+essence of the highest good to communicate itself in the highest
+manner to the creature, and this is brought about chiefly by "His so
+joining created nature to Himself that one Person is made up of these
+three--the Word, a soul and flesh," as Augustine says (De Trin.
+xiii). Hence it is manifest that it was fitting that God should
+become incarnate.
+
+Reply Obj. 1: The mystery of the Incarnation was not completed
+through God being changed in any way from the state in which He had
+been from eternity, but through His having united Himself to the
+creature in a new way, or rather through having united it to Himself.
+But it is fitting that a creature which by nature is mutable, should
+not always be in one way. And therefore, as the creature began to be,
+although it had not been before, so likewise, not having been
+previously united to God in Person, it was afterwards united to Him.
+
+Reply Obj. 2: To be united to God in unity of person was not fitting
+to human flesh, according to its natural endowments, since it was
+above its dignity; nevertheless, it was fitting that God, by reason
+of His infinite goodness, should unite it to Himself for man's
+salvation.
+
+Reply Obj. 3: Every mode of being wherein any creature whatsoever
+differs from the Creator has been established by God's wisdom, and is
+ordained to God's goodness. For God, Who is uncreated, immutable, and
+incorporeal, produced mutable and corporeal creatures for His own
+goodness. And so also the evil of punishment was established by God's
+justice for God's glory. But evil of fault is committed by
+withdrawing from the art of the Divine wisdom and from the order of
+the Divine goodness. And therefore it could be fitting to God to
+assume a nature created, mutable, corporeal, and subject to penalty,
+but it did not become Him to assume the evil of fault.
+
+Reply Obj. 4: As Augustine replies (Ep. ad Volusian. cxxxvii): "The
+Christian doctrine nowhere holds that God was so joined to human
+flesh as either to desert or lose, or to transfer and as it were,
+contract within this frail body, the care of governing the universe.
+This is the thought of men unable to see anything but corporeal
+things . . . God is great not in mass, but in might. Hence the
+greatness of His might feels no straits in narrow surroundings. Nor,
+if the passing word of a man is heard at once by many, and wholly by
+each, is it incredible that the abiding Word of God should be
+everywhere at once?" Hence nothing unfitting arises from God becoming
+incarnate.
+_______________________
+
+SECOND ARTICLE [III, Q. 1, Art. 2]
+
+Whether It Was Necessary for the Restoration of the Human Race That
+the Word of God Should Become Incarnate?
+
+Objection 1: It would seem that it was not necessary for the
+reparation of the human race that the Word of God should become
+incarnate. For since the Word of God is perfect God, as has been said
+(I, Q. 4, AA. 1, 2), no power was added to Him by the assumption of
+flesh. Therefore, if the incarnate Word of God restored human nature.
+He could also have restored it without assuming flesh.
+
+Obj. 2: Further, for the restoration of human nature, which had
+fallen through sin, nothing more is required than that man should
+satisfy for sin. Now man can satisfy, as it would seem, for sin; for
+God cannot require from man more than man can do, and since He is
+more inclined to be merciful than to punish, as He lays the act of
+sin to man's charge, so He ought to credit him with the contrary act.
+Therefore it was not necessary for the restoration of human nature
+that the Word of God should become incarnate.
+
+Obj. 3: Further, to revere God pertains especially to man's
+salvation; hence it is written (Mal. 1:6): "If, then, I be a father,
+where is my honor? and if I be a master, where is my fear?" But men
+revere God the more by considering Him as elevated above all, and far
+beyond man's senses, hence (Ps. 112:4) it is written: "The Lord is
+high above all nations, and His glory above the heavens"; and farther
+on: "Who is as the Lord our God?" which pertains to reverence.
+Therefore it would seem unfitting to man's salvation that God should
+be made like unto us by assuming flesh.
+
+_On the contrary,_ What frees the human race from perdition is
+necessary for the salvation of man. But the mystery of the
+Incarnation is such; according to John 3:16: "God so loved the world
+as to give His only-begotten Son, that whosoever believeth in Him may
+not perish, but may have life everlasting." Therefore it was
+necessary for man's salvation that God should become incarnate.
+
+_I answer that,_ A thing is said to be necessary for a certain end in
+two ways. First, when the end cannot be without it; as food is
+necessary for the preservation of human life. Secondly, when the end
+is attained better and more conveniently, as a horse is necessary for
+a journey. In the first way it was not necessary that God should
+become incarnate for the restoration of human nature. For God with
+His omnipotent power could have restored human nature in many other
+ways. But in the second way it was necessary that God should become
+incarnate for the restoration of human nature. Hence Augustine says
+(De Trin. xii, 10): "We shall also show that other ways were not
+wanting to God, to Whose power all things are equally subject; but
+that there was not a more fitting way of healing our misery."
+
+Now this may be viewed with respect to our "furtherance in good."
+First, with regard to faith, which is made more certain by believing
+God Himself Who speaks; hence Augustine says (De Civ. Dei xi, 2): "In
+order that man might journey more trustfully toward the truth, the
+Truth itself, the Son of God, having assumed human nature,
+established and founded faith." Secondly, with regard to hope, which
+is thereby greatly strengthened; hence Augustine says (De Trin.
+xiii): "Nothing was so necessary for raising our hope as to show us
+how deeply God loved us. And what could afford us a stronger proof of
+this than that the Son of God should become a partner with us of
+human nature?" Thirdly, with regard to charity, which is greatly
+enkindled by this; hence Augustine says (De Catech. Rudib. iv): "What
+greater cause is there of the Lord's coming than to show God's love
+for us?" And he afterwards adds: "If we have been slow to love, at
+least let us hasten to love in return." Fourthly, with regard to
+well-doing, in which He set us an example; hence Augustine says in a
+sermon (xxii de Temp.): "Man who might be seen was not to be
+followed; but God was to be followed, Who could not be seen. And
+therefore God was made man, that He Who might be seen by man, and
+Whom man might follow, might be shown to man." Fifthly, with regard
+to the full participation of the Divinity, which is the true bliss of
+man and end of human life; and this is bestowed upon us by Christ's
+humanity; for Augustine says in a sermon (xiii de Temp.): "God was
+made man, that man might be made God."
+
+So also was this useful for our _withdrawal from evil._ First,
+because man is taught by it not to prefer the devil to himself, nor
+to honor him who is the author of sin; hence Augustine says (De Trin.
+xiii, 17): "Since human nature is so united to God as to become one
+person, let not these proud spirits dare to prefer themselves to man,
+because they have no bodies." Secondly, because we are thereby taught
+how great is man's dignity, lest we should sully it with sin; hence
+Augustine says (De Vera Relig. xvi): "God has proved to us how high a
+place human nature holds amongst creatures, inasmuch as He appeared
+to men as a true man." And Pope Leo says in a sermon on the Nativity
+(xxi): "Learn, O Christian, thy worth; and being made a partner of
+the Divine nature, refuse to return by evil deeds to your former
+worthlessness." Thirdly, because, "in order to do away with man's
+presumption, the grace of God is commended in Jesus Christ, though no
+merits of ours went before," as Augustine says (De Trin. xiii, 17).
+Fourthly, because "man's pride, which is the greatest stumbling-block
+to our clinging to God, can be convinced and cured by humility so
+great," as Augustine says in the same place. Fifthly, in order to
+free man from the thraldom of sin, which, as Augustine says (De Trin.
+xiii, 13), "ought to be done in such a way that the devil should be
+overcome by the justice of the man Jesus Christ," and this was done
+by Christ satisfying for us. Now a mere man could not have satisfied
+for the whole human race, and God was not bound to satisfy; hence it
+behooved Jesus Christ to be both God and man. Hence Pope Leo says in
+the same sermon: "Weakness is assumed by strength, lowliness by
+majesty, mortality by eternity, in order that one and the same
+Mediator of God and men might die in one and rise in the other--for
+this was our fitting remedy. Unless He was God, He would not have
+brought a remedy; and unless He was man, He would not have set an
+example."
+
+And there are very many other advantages which accrued, above man's
+apprehension.
+
+Reply Obj. 1: This reason has to do with the first kind of necessity,
+without which we cannot attain to the end.
+
+Reply Obj. 2: Satisfaction may be said to be sufficient in two
+ways--first, perfectly, inasmuch as it is condign, being adequate to
+make good the fault committed, and in this way the satisfaction of a
+mere man cannot be sufficient for sin, both because the whole of
+human nature has been corrupted by sin, whereas the goodness of any
+person or persons could not be made up adequately for the harm done
+to the whole of the nature; and also because a sin committed against
+God has a kind of infinity from the infinity of the Divine majesty,
+because the greater the person we offend, the more grievous the
+offense. Hence for condign satisfaction it was necessary that the act
+of the one satisfying should have an infinite efficiency, as being of
+God and man. Secondly, man's satisfaction may be termed sufficient,
+imperfectly--i.e. in the acceptation of him who is content with it,
+even though it is not condign, and in this way the satisfaction of a
+mere man is sufficient. And forasmuch as every imperfect presupposes
+some perfect thing, by which it is sustained, hence it is that
+satisfaction of every mere man has its efficiency from the
+satisfaction of Christ.
+
+Reply Obj. 3: By taking flesh, God did not lessen His majesty; and in
+consequence did not lessen the reason for reverencing Him, which is
+increased by the increase of knowledge of Him. But, on the contrary,
+inasmuch as He wished to draw nigh to us by taking flesh, He greatly
+drew us to know Him.
+_______________________
+
+THIRD ARTICLE [III, Q. 1, Art. 3]
+
+Whether, If Man Had Not Sinned, God Would Have Become Incarnate?
+
+Objection 1: It would seem that if man had not sinned, God would
+still have become incarnate. For the cause remaining, the effect also
+remains. But as Augustine says (De Trin. xiii, 17): "Many other
+things are to be considered in the Incarnation of Christ besides
+absolution from sin"; and these were discussed above (A. 2).
+Therefore if man had not sinned, God would have become incarnate.
+
+Obj. 2: Further, it belongs to the omnipotence of the Divine power to
+perfect His works, and to manifest Himself by some infinite effect.
+But no mere creature can be called an infinite effect, since it is
+finite of its very essence. Now, seemingly, in the work of the
+Incarnation alone is an infinite effect of the Divine power
+manifested in a special manner by which power things infinitely
+distant are united, inasmuch as it has been brought about that man is
+God. And in this work especially the universe would seem to be
+perfected, inasmuch as the last creature--viz. man--is united to the
+first principle--viz. God. Therefore, even if man had not sinned, God
+would have become incarnate.
+
+Obj. 3: Further, human nature has not been made more capable of grace
+by sin. But after sin it is capable of the grace of union, which is
+the greatest grace. Therefore, if man had not sinned, human nature
+would have been capable of this grace; nor would God have withheld
+from human nature any good it was capable of. Therefore, if man had
+not sinned, God would have become incarnate.
+
+Obj. 4: Further, God's predestination is eternal. But it is said of
+Christ (Rom. 1:4): "Who was predestined the Son of God in power."
+Therefore, even before sin, it was necessary that the Son of God
+should become incarnate, in order to fulfil God's predestination.
+
+Obj. 5: Further, the mystery of the Incarnation was revealed to the
+first man, as is plain from Gen. 2:23. "This now is bone of my
+bones," etc. which the Apostle says is "a great sacrament . . . in
+Christ and in the Church," as is plain from Eph. 5:32. But man could
+not be fore-conscious of his fall, for the same reason that the
+angels could not, as Augustine proves (Gen. ad lit. xi, 18).
+Therefore, even if man had not sinned, God would have become
+incarnate.
+
+_On the contrary,_ Augustine says (De Verb. Apost. viii, 2),
+expounding what is set down in Luke 19:10, "For the Son of Man is
+come to seek and to save that which was lost"; "Therefore, if man had
+not sinned, the Son of Man would not have come." And on 1 Tim. 1:15,
+"Christ Jesus came into this world to save sinners," a gloss says,
+"There was no cause of Christ's coming into the world, except to save
+sinners. Take away diseases, take away wounds, and there is no need
+of medicine."
+
+_I answer that,_ There are different opinions about this question.
+For some say that even if man had not sinned, the Son of Man would
+have become incarnate. Others assert the contrary, and seemingly our
+assent ought rather to be given to this opinion.
+
+For such things as spring from God's will, and beyond the creature's
+due, can be made known to us only through being revealed in the
+Sacred Scripture, in which the Divine Will is made known to us.
+Hence, since everywhere in the Sacred Scripture the sin of the first
+man is assigned as the reason of the Incarnation, it is more in
+accordance with this to say that the work of the Incarnation was
+ordained by God as a remedy for sin; so that, had sin not existed,
+the Incarnation would not have been. And yet the power of God is not
+limited to this; even had sin not existed, God could have become
+incarnate.
+
+Reply Obj. 1: All the other causes which are assigned in the
+preceding article have to do with a remedy for sin. For if man had
+not sinned, he would have been endowed with the light of Divine
+wisdom, and would have been perfected by God with the righteousness
+of justice in order to know and carry out everything needful. But
+because man, on deserting God, had stooped to corporeal things, it
+was necessary that God should take flesh, and by corporeal things
+should afford him the remedy of salvation. Hence, on John 1:14, "And
+the Word was made flesh," St. Augustine says (Tract. ii): "Flesh had
+blinded thee, flesh heals thee; for Christ came and overthrew the
+vices of the flesh."
+
+Reply Obj. 2: The infinity of Divine power is shown in the mode of
+production of things from nothing. Again, it suffices for the
+perfection of the universe that the creature be ordained in a natural
+manner to God as to an end. But that a creature should be united to
+God in person exceeds the limits of the perfection of nature.
+
+Reply Obj. 3: A double capability may be remarked in human nature:
+one, in respect of the order of natural power, and this is always
+fulfilled by God, Who apportions to each according to its natural
+capability; the other in respect to the order of the Divine power,
+which all creatures implicitly obey; and the capability we speak of
+pertains to this. But God does not fulfil all such capabilities,
+otherwise God could do only what He has done in creatures, and this
+is false, as stated above (I, Q. 105, A. 6). But there is no reason
+why human nature should not have been raised to something greater
+after sin. For God allows evils to happen in order to bring a greater
+good therefrom; hence it is written (Rom. 5:20): "Where sin abounded,
+grace did more abound." Hence, too, in the blessing of the Paschal
+candle, we say: "O happy fault, that merited such and so great a
+Redeemer!"
+
+Reply Obj. 4: Predestination presupposes the foreknowledge of future
+things; and hence, as God predestines the salvation of anyone to be
+brought about by the prayers of others, so also He predestined the
+work of the Incarnation to be the remedy of human sin.
+
+Reply Obj. 5: Nothing prevents an effect from being revealed to one
+to whom the cause is not revealed. Hence, the mystery of the
+Incarnation could be revealed to the first man without his being
+fore-conscious of his fall. For not everyone who knows the effect
+knows the cause.
+_______________________
+
+FOURTH ARTICLE [III, Q. 1, Art. 4]
+
+Whether God Became Incarnate in Order to Take Away Actual Sin, Rather
+Than to Take Away Original Sin?
+
+Objection 1: It would seem that God became incarnate as a remedy for
+actual sins rather than for original sin. For the more grievous the
+sin, the more it runs counter to man's salvation, for which God
+became incarnate. But actual sin is more grievous than original sin;
+for the lightest punishment is due to original sin, as Augustine says
+(Contra Julian. v, 11). Therefore the Incarnation of Christ is
+chiefly directed to taking away actual sins.
+
+Obj. 2: Further, pain of sense is not due to original sin, but merely
+pain of loss, as has been shown (I-II, Q. 87, A. 5). But Christ came
+to suffer the pain of sense on the Cross in satisfaction for
+sins--and not the pain of loss, for He had no defect of either the
+beatific vision or fruition. Therefore He came in order to take away
+actual sin rather than original sin.
+
+Obj. 3: Further, as Chrysostom says (De Compunctione Cordis ii, 3):
+"This must be the mind of the faithful servant, to account the
+benefits of his Lord, which have been bestowed on all alike, as
+though they were bestowed on himself alone. For as if speaking of
+himself alone, Paul writes to the Galatians 2:20: 'Christ . . . loved
+me and delivered Himself for me.'" But our individual sins are actual
+sins; for original sin is the common sin. Therefore we ought to have
+this conviction, so as to believe that He has come chiefly for actual
+sins.
+
+_On the contrary,_ It is written (John 1:29): "Behold the Lamb of
+God, behold Him Who taketh away the sins [Vulg.: 'sin'] of the world."
+
+_I answer that,_ It is certain that Christ came into this world not
+only to take away that sin which is handed on originally to
+posterity, but also in order to take away all sins subsequently added
+to it; not that all are taken away (and this is from men's fault,
+inasmuch as they do not adhere to Christ, according to John 3:19:
+"The light is come into the world, and men loved darkness rather than
+the light"), but because He offered what was sufficient for blotting
+out all sins. Hence it is written (Rom. 5:15-16): "But not as the
+offense, so also the gift . . . For judgment indeed was by one unto
+condemnation, but grace is of many offenses unto justification."
+
+Moreover, the more grievous the sin, the more particularly did Christ
+come to blot it out. But "greater" is said in two ways: in one way
+"intensively," as a more intense whiteness is said to be greater, and
+in this way actual sin is greater than original sin; for it has more
+of the nature of voluntary, as has been shown (I-II, Q. 81, A. 1). In
+another way a thing is said to be greater "extensively," as whiteness
+on a greater superficies is said to be greater; and in this way
+original sin, whereby the whole human race is infected, is greater
+than any actual sin, which is proper to one person. And in this
+respect Christ came principally to take away original sin, inasmuch
+as "the good of the race is a more Divine thing than the good of an
+individual," as is said _Ethic._ i, 2.
+
+Reply Obj. 1: This reason looks to the intensive greatness of sin.
+
+Reply Obj. 2: In the future award the pain of sense will not be meted
+out to original sin. Yet the penalties, such as hunger, thirst,
+death, and the like, which we suffer sensibly in this life flow from
+original sin. And hence Christ, in order to satisfy fully for
+original sin, wished to suffer sensible pain, that He might consume
+death and the like in Himself.
+
+Reply Obj. 3: Chrysostom says (De Compunctione Cordis ii, 6): "The
+Apostle used these words, not as if wishing to diminish Christ's
+gifts, ample as they are, and spreading throughout the whole world,
+but that he might account himself alone the occasion of them. For
+what does it matter that they are given to others, if what are given
+to you are as complete and perfect as if none of them were given to
+another than yourself?" And hence, although a man ought to account
+Christ's gifts as given to himself, yet he ought not to consider them
+not to be given to others. And thus we do not exclude that He came to
+wipe away the sin of the whole nature rather than the sin of one
+person. But the sin of the nature is as perfectly healed in each one
+as if it were healed in him alone. Hence, on account of the union of
+charity, what is vouchsafed to all ought to be accounted his own by
+each one.
+_______________________
+
+FIFTH ARTICLE [III, Q. 1, Art. 5]
+
+Whether It Was Fitting That God Should Become Incarnate in the
+Beginning of the Human Race?
+
+Objection 1: It would seem that it was fitting that God should become
+incarnate in the beginning of the human race. For the work of the
+Incarnation sprang from the immensity of Divine charity, according to
+Eph. 2:4, 5: "But God (Who is rich in mercy), for His exceeding
+charity wherewith He loved us . . . even when we were dead in sins,
+hath quickened us together in Christ." But charity does not tarry in
+bringing assistance to a friend who is suffering need, according to
+Prov. 3:28: "Say not to thy friend: Go, and come again, and tomorrow
+I will give to thee, when thou canst give at present." Therefore God
+ought not to have put off the work of the Incarnation, but ought
+thereby to have brought relief to the human race from the beginning.
+
+Obj. 2: Further, it is written (1 Tim. 1:15): "Christ Jesus came into
+this world to save sinners." But more would have been saved had God
+become incarnate at the beginning of the human race; for in the
+various centuries very many, through not knowing God, perished in
+their sin. Therefore it was fitting that God should become incarnate
+at the beginning of the human race.
+
+Obj. 3: Further, the work of grace is not less orderly than the work
+of nature. But nature takes its rise with the more perfect, as
+Boethius says (De Consol. iii). Therefore the work of Christ ought to
+have been perfect from the beginning. But in the work of the
+Incarnation we see the perfection of grace, according to John 1:14:
+"The Word was made flesh"; and afterwards it is added: "Full of grace
+and truth." Therefore Christ ought to have become incarnate at the
+beginning of the human race.
+
+_On the contrary,_ It is written (Gal. 4:4): "But when the fulness of
+the time was come, God sent His Son, made of a woman, made under the
+law": upon which a gloss says that "the fulness of the time is when
+it was decreed by God the Father to send His Son." But God decreed
+everything by His wisdom. Therefore God became incarnate at the most
+fitting time; and it was not fitting that God should become incarnate
+at the beginning of the human race.
+
+_I answer that,_ Since the work of the Incarnation is principally
+ordained to the restoration of the human race by blotting out sin, it
+is manifest that it was not fitting for God to become incarnate at
+the beginning of the human race before sin. For medicine is given
+only to the sick. Hence our Lord Himself says (Matt. 9:12, 13): "They
+that are in health need not a physician, but they that are ill . . .
+For I am not come to call the just, but sinners."
+
+Nor was it fitting that God should become incarnate immediately after
+sin. First, on account of the manner of man's sin, which had come of
+pride; hence man was to be liberated in such a manner that he might
+be humbled, and see how he stood in need of a deliverer. Hence on the
+words in Gal. 3:19, "Being ordained by angels in the hand of a
+mediator," a gloss says: "With great wisdom was it so ordered that
+the Son of Man should not be sent immediately after man's fall. For
+first of all God left man under the natural law, with the freedom of
+his will, in order that he might know his natural strength; and when
+he failed in it, he received the law; whereupon, by the fault, not of
+the law, but of his nature, the disease gained strength; so that
+having recognized his infirmity he might cry out for a physician, and
+beseech the aid of grace."
+
+Secondly, on account of the order of furtherance in good, whereby we
+proceed from imperfection to perfection. Hence the Apostle says (1
+Cor. 15:46, 47): "Yet that was not first which is spiritual, but that
+which is natural; afterwards that which is spiritual . . . The first
+man was of the earth, earthy; the second man from heaven, heavenly."
+
+Thirdly, on account of the dignity of the incarnate Word, for on the
+words (Gal. 4:4), "But when the fulness of the time was come," a
+gloss says: "The greater the judge who was coming, the more numerous
+was the band of heralds who ought to have preceded him."
+
+Fourthly, lest the fervor of faith should cool by the length of time,
+for the charity of many will grow cold at the end of the world. Hence
+(Luke 18:8) it is written: "But yet the Son of Man, when He cometh,
+shall He find think you, faith on earth?"
+
+Reply Obj. 1: Charity does not put off bringing assistance to a
+friend: always bearing in mind the circumstances as well as the state
+of the persons. For if the physician were to give the medicine at the
+very outset of the ailment, it would do less good, and would hurt
+rather than benefit. And hence the Lord did not bestow upon the human
+race the remedy of the Incarnation in the beginning, lest they should
+despise it through pride, if they did not already recognize their
+disease.
+
+Reply Obj. 2: Augustine replies to this (De Sex Quest. Pagan., Ep.
+cii), saying (Q. 2) that "Christ wished to appear to man and to have
+His doctrine preached to them when and where He knew those were who
+would believe in Him. But in such times and places as His Gospel was
+not preached He foresaw that not all, indeed, but many would so bear
+themselves towards His preaching as not to believe in His corporeal
+presence, even were He to raise the dead." But the same Augustine,
+taking exception to this reply in his book (De Perseverantia ix),
+says: "How can we say the inhabitants of Tyre and Sidon would not
+believe when such great wonders were wrought in their midst, or would
+not have believed had they been wrought, when God Himself bears
+witness that they would have done penance with great humility if
+these signs of Divine power had been wrought in their midst?" And he
+adds in answer (De Perseverantia xi): "Hence, as the Apostle says
+(Rom. 9:16), 'it is not of him that willeth nor of him that runneth,
+but of God that showeth mercy'; Who (succors whom He will of) those
+who, as He foresaw, would believe in His miracles if wrought amongst
+them, (while others) He succors not, having judged them in His
+predestination secretly yet justly. Therefore let us unshrinkingly
+believe His mercy to be with those who are set free, and His truth
+with those who are condemned." [*The words in brackets are not in the
+text of St. Augustine].
+
+Reply Obj. 3: Perfection is prior to imperfection, both in time and
+nature, in things that are different (for what brings others to
+perfection must itself be perfect); but in one and the same,
+imperfection is prior in time though posterior in nature. And thus
+the eternal perfection of God precedes in duration the imperfection
+of human nature; but the latter's ultimate perfection in union with
+God follows.
+_______________________
+
+SIXTH ARTICLE [III, Q. 1, Art. 6]
+
+Whether the Incarnation Ought to Have Been Put Off Till the End of
+the World?
+
+Objection 1: It would seem that the work of the Incarnation ought to
+have been put off till the end of the world. For it is written (Ps.
+91:11): "My old age in plentiful mercy"--i.e. "in the last days," as
+a gloss says. But the time of the Incarnation is especially the time
+of mercy, according to Ps. 101:14: "For it is time to have mercy on
+it." Therefore the Incarnation ought to have been put off till the
+end of the world.
+
+Obj. 2: Further, as has been said (A. 5, ad 3), in the same subject,
+perfection is subsequent in time to imperfection. Therefore, what is
+most perfect ought to be the very last in time. But the highest
+perfection of human nature is in the union with the Word, because "in
+Christ it hath pleased the Father that all the fulness of the Godhead
+should dwell," as the Apostle says (Col. 1:19, and 2:9). Therefore
+the Incarnation ought to have been put off till the end of the world.
+
+Obj. 3: Further, what can be done by one ought not to be done by two.
+But the one coming of Christ at the end of the world was sufficient
+for the salvation of human nature. Therefore it was not necessary for
+Him to come beforehand in His Incarnation; and hence the Incarnation
+ought to have been put off till the end of the world.
+
+_On the contrary,_ It is written (Hab. 3:2): "In the midst of the
+years Thou shalt make it known." Therefore the mystery of the
+Incarnation which was made known to the world ought not to have been
+put off till the end of the world.
+
+_I answer that,_ As it was not fitting that God should become
+incarnate at the beginning of the world, so also it was not fitting
+that the Incarnation should be put off till the end of the world. And
+this is shown first from the union of the Divine and human nature.
+For, as it has been said (A. 5, ad 3), perfection precedes
+imperfection in time in one way, and contrariwise in another way
+imperfection precedes perfection. For in that which is made perfect
+from being imperfect, imperfection precedes perfection in time,
+whereas in that which is the efficient cause of perfection,
+perfection precedes imperfection in time. Now in the work of the
+Incarnation both concur; for by the Incarnation human nature is
+raised to its highest perfection; and in this way it was not becoming
+that the Incarnation should take place at the beginning of the human
+race. And the Word incarnate is the efficient cause of the perfection
+of human nature, according to John 1:16: "Of His fulness we have all
+received"; and hence the work of the Incarnation ought not to have
+been put off till the end of the world. But the perfection of glory
+to which human nature is to be finally raised by the Word Incarnate
+will be at the end of the world.
+
+Secondly, from the effect of man's salvation; for, as is said _Qq.
+Vet. et Nov. Test., qu. 83,_ "it is in the power of the Giver to have
+pity when, or as much as, He wills. Hence He came when He knew it was
+fitting to succor, and when His boons would be welcome. For when by
+the feebleness of the human race men's knowledge of God began to grow
+dim and their morals lax, He was pleased to choose Abraham as a
+standard of the restored knowledge of God and of holy living; and
+later on when reverence grew weaker, He gave the law to Moses in
+writing; and because the gentiles despised it and would not take it
+upon themselves, and they who received it would not keep it, being
+touched with pity, God sent His Son, to grant to all remission of
+their sin and to offer them, justified, to God the Father." But if
+this remedy had been put off till the end of the world, all knowledge
+and reverence of God and all uprightness of morals would have been
+swept away from the earth.
+
+Thirdly, this appears fitting to the manifestation of the Divine
+power, which has saved men in several ways--not only by faith in some
+future thing, but also by faith in something present and past.
+
+Reply Obj. 1: This gloss has in view the mercy of God, which leads us
+to glory. Nevertheless, if it is referred to the mercy shown the
+human race by the Incarnation of Christ, we must reflect that, as
+Augustine says (Retract. i), the time of the Incarnation may be
+compared to the youth of the human race, "on account of the strength
+and fervor of faith, which works by charity"; and to old age--i.e.
+the sixth age--on account of the number of centuries, for Christ came
+in the sixth age. And although youth and old age cannot be together
+in a body, yet they can be together in a soul, the former on account
+of quickness, the latter on account of gravity. And hence Augustine
+says elsewhere (Qq. lxxxiii, qu. 44) that "it was not becoming that
+the Master by Whose imitation the human race was to be formed to the
+highest virtue should come from heaven, save in the time of youth."
+But in another work (De Gen. cont. Manich. i, 23) he says: that
+Christ came in the sixth age--i.e. in the old age--of the human race.
+
+Reply Obj. 2: The work of the Incarnation is to be viewed not as
+merely the terminus of a movement from imperfection to perfection,
+but also as a principle of perfection to human nature, as has been
+said.
+
+Reply Obj. 3: As Chrysostom says on John 3:11, "For God sent not His
+Son into the world to judge the world" (Hom. xxviii): "There are two
+comings of Christ: the first, for the remission of sins; the second,
+to judge the world. For if He had not done so, all would have
+perished together, since all have sinned and need the glory of God."
+Hence it is plain that He ought not to have put off the coming in
+mercy till the end of the world.
+_______________________
+
+QUESTION 2
+
+OF THE MODE OF UNION OF THE WORD INCARNATE
+(In Twelve Articles)
+
+Now we must consider the mode of union of the Incarnate Word; and,
+first, the union itself; secondly, the Person assuming; thirdly, the
+nature assumed.
+
+Under the first head there are twelve points of inquiry:
+
+(1) Whether the union of the Word Incarnate took place in the nature?
+
+(2) Whether it took place in the Person?
+
+(3) Whether it took place in the suppositum or hypostasis?
+
+(4) Whether the Person or hypostasis of Christ is composite after the
+Incarnation?
+
+(5) Whether any union of body and soul took place in Christ?
+
+(6) Whether the human nature was united to the Word accidentally?
+
+(7) Whether the union itself is something created?
+
+(8) Whether it is the same as assumption?
+
+(9) Whether the union of the two natures is the greatest union?
+
+(10) Whether the union of the two natures in Christ was brought about
+by grace?
+
+(11) Whether any merits preceded it?
+
+(12) Whether the grace of union was natural to the man Christ?
+_______________________
+
+FIRST ARTICLE [III, Q. 2, Art. 1]
+
+Whether the Union of the Incarnate Word Took Place in the Nature?
+
+Objection 1: It would seem that the Union of the Word Incarnate took
+place in the nature. For Cyril says (he is quoted in the acts of the
+Council of Chalcedon, part ii, act. 1): "We must understand not two
+natures, but one incarnate nature of the Word of God"; and this could
+not be unless the union took place in the nature. Therefore the union
+of the Word Incarnate took place in the nature.
+
+Obj. 2: Further, Athanasius says that, as the rational soul and the
+flesh together form the human nature, so God and man together form a
+certain one nature; therefore the union took place in the nature.
+
+Obj. 3: Further, of two natures one is not denominated by the other
+unless they are to some extent mutually transmuted. But the Divine
+and human natures in Christ are denominated one by the other; for
+Cyril says (quoted in the acts of the Council of Chalcedon, part ii,
+act. 1) that the Divine nature "is incarnate"; and Gregory Nazianzen
+says (Ep. i ad Cledon.) that the human nature is "deified," as
+appears from Damascene (De Fide Orth. iii, 6, 11). Therefore from two
+natures one seems to have resulted.
+
+_On the contrary,_ It is said in the declaration of the Council of
+Chalcedon: "We confess that in these latter times the only-begotten
+Son of God appeared in two natures, without confusion, without
+change, without division, without separation--the distinction of
+natures not having been taken away by the union." Therefore the union
+did not take place in the nature.
+
+_I answer that,_ To make this question clear we must consider what is
+"nature." Now it is to be observed that the word "nature" comes from
+nativity. Hence this word was used first of all to signify the
+begetting of living beings, which is called "birth" or "sprouting
+forth," the word "natura" meaning, as it were, "nascitura."
+Afterwards this word "nature" was taken to signify the principle of
+this begetting; and because in living things the principle of
+generation is an intrinsic principle, this word "nature" was further
+employed to signify any intrinsic principle of motion: thus the
+Philosopher says (Phys. ii) that "nature is the principle of motion
+in that in which it is essentially and not accidentally." Now this
+principle is either form or matter. Hence sometimes form is called
+nature, and sometimes matter. And because the end of natural
+generation, in that which is generated, is the essence of the
+species, which the definition signifies, this essence of the species
+is called the "nature." And thus Boethius defines nature (De Duab.
+Nat.): "Nature is what informs a thing with its specific difference,
+"--i.e. which perfects the specific definition. But we are now
+speaking of nature as it signifies the essence, or the "what-it-is,"
+or the quiddity of the species.
+
+Now, if we take nature in this way, it is impossible that the union
+of the Incarnate Word took place in the nature. For one thing is made
+of two or more in three ways. First, from two complete things which
+remain in their perfection. This can only happen to those whose form
+is composition, order, or figure, as a heap is made up of many stones
+brought together without any order, but solely with juxtaposition;
+and a house is made of stones and beams arranged in order, and
+fashioned to a figure. And in this way some said the union was by
+manner of confusion (which is without order) or by manner of
+commensuration (which is with order). But this cannot be. First,
+because neither composition nor order nor figure is a substantial
+form, but accidental; and hence it would follow that the union of the
+Incarnation was not essential, but accidental, which will be
+disproved later on (A. 6). Secondly, because thereby we should not
+have an absolute unity, but relative only, for there remain several
+things actually. Thirdly, because the form of such is not a nature,
+but an art, as the form of a house; and thus one nature would not be
+constituted in Christ, as they wish.
+
+Secondly, one thing is made up of several things, perfect but
+changed, as a mixture is made up of its elements; and in this way
+some have said that the union of the Incarnation was brought about by
+manner of combination. But this cannot be. First, because the Divine
+Nature is altogether immutable, as has been said (I, Q. 9, AA. 1, 2),
+hence neither can it be changed into something else, since it is
+incorruptible; nor can anything else be changed into it, for it
+cannot be generated. Secondly, because what is mixed is of the same
+species with none of the elements; for flesh differs in species from
+any of its elements. And thus Christ would be of the same nature
+neither with His Father nor with His Mother. Thirdly, because there
+can be no mingling of things widely apart; for the species of one of
+them is absorbed, e.g. if we were to put a drop of water in a flagon
+of wine. And hence, since the Divine Nature infinitely exceeds the
+human nature, there could be no mixture, but the Divine Nature alone
+would remain.
+
+Thirdly, a thing is made up of things not mixed nor changed, but
+imperfect; as man is made up of soul and body, and likewise of divers
+members. But this cannot be said of the mystery of the Incarnation.
+First, because each nature, i.e. the Divine and the human, has its
+specific perfection. Secondly, because the Divine and human natures
+cannot constitute anything after the manner of quantitative parts, as
+the members make up the body; for the Divine Nature is incorporeal;
+nor after the manner of form and matter, for the Divine Nature cannot
+be the form of anything, especially of anything corporeal, since it
+would follow that the species resulting therefrom would be
+communicable to several, and thus there would be several Christs.
+Thirdly, because Christ would exist neither in human nature nor in
+the Divine Nature: since any difference varies the species, as unity
+varies number, as is said (Metaph. viii, text. 10).
+
+Reply Obj. 1: This authority of Cyril is expounded in the Fifth Synod
+(i.e. Constantinople II, coll. viii, can. 8) thus: "If anyone
+proclaiming one nature of the Word of God to be incarnate does not
+receive it as the Fathers taught, viz. that from the Divine and human
+natures (a union in subsistence having taken place) one Christ
+results, but endeavors from these words to introduce one nature or
+substance of the Divinity and flesh of Christ, let such a one be
+anathema." Hence the sense is not that from two natures one results;
+but that the Nature of the Word of God united flesh to Itself in
+Person.
+
+Reply Obj. 2: From the soul and body a double unity, viz. of nature
+and person--results in each individual--of nature inasmuch as the
+soul is united to the body, and formally perfects it, so that one
+nature springs from the two as from act and potentiality or from
+matter and form. But the comparison is not in this sense, for the
+Divine Nature cannot be the form of a body, as was proved (I, Q. 3,
+A. 8). Unity of person results from them, however, inasmuch as there
+is an individual subsisting in flesh and soul; and herein lies the
+likeness, for the one Christ subsists in the Divine and human natures.
+
+Reply Obj. 3: As Damascene says (De Fide Orth. iii, 6, 11), the
+Divine Nature is said to be incarnate because It is united to flesh
+personally, and not that It is changed into flesh. So likewise the
+flesh is said to be deified, as he also says (De Fide Orth. 15, 17),
+not by change, but by union with the Word, its natural properties
+still remaining, and hence it may be considered as deified, inasmuch
+as it becomes the flesh of the Word of God, but not that it becomes
+God.
+_______________________
+
+SECOND ARTICLE [III, Q. 2, Art. 2]
+
+Whether the Union of the Incarnate Word Took Place in the Person?
+
+Objection 1: It would seem that the union of the Incarnate Word did
+not take place in the person. For the Person of God is not distinct
+from His Nature, as we said (I, Q. 39, A. 1). If, therefore, the
+union did not take place in the nature, it follows that it did not
+take place in the person.
+
+Obj. 2: Further, Christ's human nature has no less dignity than ours.
+But personality belongs to dignity, as was stated above (I, Q. 29, A.
+3, ad 2). Hence, since our human nature has its proper personality,
+much more reason was there that Christ's should have its proper
+personality.
+
+Obj. 3: Further, as Boethius says (De Duab. Nat.), a person is an
+individual substance of rational nature. But the Word of God assumed
+an individual human nature, for "universal human nature does not
+exist of itself, but is the object of pure thought," as Damascene
+says (De Fide Orth. iii, 11). Therefore the human nature of Christ
+has its personality. Hence it does not seem that the union took place
+in the person.
+
+_On the contrary,_ We read in the Synod of Chalcedon (Part ii, act.
+5): "We confess that our Lord Jesus Christ is not parted or divided
+into two persons, but is one and the same only-Begotten Son and Word
+of God." Therefore the union took place in the person.
+
+_I answer that,_ Person has a different meaning from "nature." For
+nature, as has been said (A. 1), designates the specific essence
+which is signified by the definition. And if nothing was found to be
+added to what belongs to the notion of the species, there would be no
+need to distinguish the nature from the suppositum of the nature
+(which is the individual subsisting in this nature), because every
+individual subsisting in a nature would be altogether one with its
+nature. Now in certain subsisting things we happen to find what does
+not belong to the notion of the species, viz. accidents and
+individuating principles, which appears chiefly in such as are
+composed of matter and form. Hence in such as these the nature and
+the suppositum really differ; not indeed as if they were wholly
+separate, but because the suppositum includes the nature, and in
+addition certain other things outside the notion of the species.
+Hence the suppositum is taken to be a whole which has the nature as
+its formal part to perfect it; and consequently in such as are
+composed of matter and form the nature is not predicated of the
+suppositum, for we do not say that this man is his manhood. But if
+there is a thing in which there is nothing outside the species or its
+nature (as in God), the suppositum and the nature are not really
+distinct in it, but only in our way of thinking, inasmuch it is
+called "nature" as it is an essence, and a suppositum as it is
+subsisting. And what is said of a suppositum is to be applied to a
+person in rational or intellectual creatures; for a person is nothing
+else than "an individual substance of rational nature," according to
+Boethius. Therefore, whatever adheres to a person is united to it in
+person, whether it belongs to its nature or not. Hence, if the human
+nature is not united to God the Word in person, it is nowise united
+to Him; and thus belief in the Incarnation is altogether done away
+with, and Christian faith wholly overturned. Therefore, inasmuch as
+the Word has a human nature united to Him, which does not belong to
+His Divine Nature, it follows that the union took place in the Person
+of the Word, and not in the nature.
+
+Reply Obj. 1: Although in God Nature and Person are not really
+distinct, yet they have distinct meanings, as was said above,
+inasmuch as person signifies after the manner of something
+subsisting. And because human nature is united to the Word, so that
+the Word subsists in it, and not so that His Nature receives
+therefrom any addition or change, it follows that the union of human
+nature to the Word of God took place in the person, and not in the
+nature.
+
+Reply Obj. 2: Personality pertains of necessity to the dignity of a
+thing, and to its perfection so far as it pertains to the dignity and
+perfection of that thing to exist by itself (which is understood by
+the word "person"). Now it is a greater dignity to exist in something
+nobler than oneself than to exist by oneself. Hence the human nature
+of Christ has a greater dignity than ours, from this very fact that
+in us, being existent by itself, it has its own personality, but in
+Christ it exists in the Person of the Word. Thus to perfect the
+species belongs to the dignity of a form, yet the sensitive part in
+man, on account of its union with the nobler form which perfects the
+species, is more noble than in brutes, where it is itself the form
+which perfects.
+
+Reply Obj. 3: The Word of God "did not assume human nature in
+general, but _in atomo_"--that is, in an individual--as Damascene
+says (De Fide Orth. iii, 11) otherwise every man would be the Word of
+God, even as Christ was. Yet we must bear in mind that not every
+individual in the genus of substance, even in rational nature, is a
+person, but that alone which exists by itself, and not that which
+exists in some more perfect thing. Hence the hand of Socrates,
+although it is a kind of individual, is not a person, because it does
+not exist by itself, but in something more perfect, viz. in the
+whole. And hence, too, this is signified by a "person" being defined
+as "an individual substance," for the hand is not a complete
+substance, but part of a substance. Therefore, although this human
+nature is a kind of individual in the genus of substance, it has not
+its own personality, because it does not exist separately, but in
+something more perfect, viz. in the Person of the Word. Therefore the
+union took place in the person.
+_______________________
+
+THIRD ARTICLE [III, Q. 2, Art. 3]
+
+Whether the Union of the Word Incarnate Took Place in the Suppositum
+or Hypostasis?
+
+Objection 1: It would seem that the union of the Word Incarnate did
+not take place in the suppositum or hypostasis. For Augustine says
+(Enchiridion xxxv, xxxviii): "Both the Divine and human substance are
+one Son of God, but they are one thing (_aliud_) by reason of the
+Word and another thing (_aliud_) by reason of the man." And Pope Leo
+says in his letter to Flavian (Ep. xxviii): "One of these is glorious
+with miracles, the other succumbs under injuries." But "one"
+(_aliud_) and "the other" (_aliud_) differ in suppositum. Therefore
+the union of the Word Incarnate did not take place in the suppositum.
+
+Obj. 2: Further, hypostasis is nothing more than a "particular
+substance," as Boethius says (De Duab. Nat.). But it is plain that in
+Christ there is another particular substance beyond the hypostasis of
+the Word, viz. the body and the soul and the resultant of these.
+Therefore there is another hypostasis in Him besides the hypostasis
+of the Word.
+
+Obj. 3: Further, the hypostasis of the Word is not included in any
+genus or species, as is plain from the First Part (Q. 3, A. 5). But
+Christ, inasmuch as He is made man, is contained under the species of
+man; for Dionysius says (Div. Nom. 1): "Within the limits of our
+nature He came, Who far surpasses the whole order of nature
+supersubstantially." Now nothing is contained under the human species
+unless it be a hypostasis of the human species. Therefore in Christ
+there is another hypostasis besides the hypostasis of the Word of
+God; and hence the same conclusion follows as above.
+
+_On the contrary,_ Damascene says (De Fide Orth. iii, 3, 4, 5): "In
+our Lord Jesus Christ we acknowledge two natures and one hypostasis."
+
+_I answer that,_ Some who did not know the relation of hypostasis to
+person, although granting that there is but one person in Christ,
+held, nevertheless, that there is one hypostasis of God and another
+of man, and hence that the union took place in the person and not in
+the hypostasis. Now this, for three reasons, is clearly erroneous.
+First, because person only adds to hypostasis a determinate nature,
+viz. rational, according to what Boethius says (De Duab. Nat.), "a
+person is an individual substance of rational nature"; and hence it
+is the same to attribute to the human nature in Christ a proper
+hypostasis and a proper person. And the holy Fathers, seeing this,
+condemned both in the Fifth Council held at Constantinople, saying:
+"If anyone seeks to introduce into the mystery of the Incarnation two
+subsistences or two persons, let him be anathema. For by the
+incarnation of one of the Holy Trinity, God the Word, the Holy
+Trinity received no augment of person or subsistence." Now
+"subsistence" is the same as the subsisting thing, which is proper to
+hypostasis, as is plain from Boethius (De Duab. Nat.). Secondly,
+because if it is granted that person adds to hypostasis something in
+which the union can take place, this something is nothing else than a
+property pertaining to dignity; according as it is said by some that
+a person is a "hypostasis distinguished by a property pertaining to
+dignity." If, therefore, the union took place in the person and not
+in the hypostasis, it follows that the union only took place in
+regard to some dignity. And this is what Cyril, with the approval of
+the Council of Ephesus (part iii, can. 3), condemned in these terms:
+"If anyone after the uniting divides the subsistences in the one
+Christ, only joining them in a union of dignity or authority or
+power, and not rather in a concourse of natural union, let him be
+anathema." Thirdly, because to the hypostasis alone are attributed
+the operations and the natural properties, and whatever belongs to
+the nature in the concrete; for we say that this man reasons, and is
+risible, and is a rational animal. So likewise this man is said to be
+a suppositum, because he underlies (_supponitur_) whatever belongs to
+man and receives its predication. Therefore, if there is any
+hypostasis in Christ besides the hypostasis of the Word, it follows
+that whatever pertains to man is verified of some other than the
+Word, e.g. that He was born of a Virgin, suffered, was crucified, was
+buried. And this, too, was condemned with the approval of the Council
+of Ephesus (part iii, can. 4) in these words: "If anyone ascribes to
+two persons or subsistences such words as are in the evangelical and
+apostolic Scriptures, or have been said of Christ by the saints, or
+by Himself of Himself, and, moreover, applies some of them to the
+man, taken as distinct from the Word of God, and some of them (as if
+they could be used of God alone) only to the Word of God the Father,
+let him be anathema." Therefore it is plainly a heresy condemned long
+since by the Church to say that in Christ there are two hypostases,
+or two supposita, or that the union did not take place in the
+hypostasis or suppositum. Hence in the same Synod (can. 2) it is
+said: "If anyone does not confess that the Word was united to flesh
+in subsistence, and that Christ with His flesh is both--to wit, God
+and man--let him be anathema."
+
+Reply Obj. 1: As accidental difference makes a thing "other"
+(_alterum_), so essential difference makes "another thing" (_aliud_).
+Now it is plain that the "otherness" which springs from accidental
+difference may pertain to the same hypostasis or suppositum in
+created things, since the same thing numerically can underlie
+different accidents. But it does not happen in created things that
+the same numerically can subsist in divers essences or natures. Hence
+just as when we speak of "otherness" in regard to creatures we do not
+signify diversity of suppositum, but only diversity of accidental
+forms, so likewise when Christ is said to be one thing or another
+thing, we do not imply diversity of suppositum or hypostasis, but
+diversity of nature. Hence Gregory Nazianzen says in a letter to
+Chelidonius (Ep. ci): "In the Saviour we may find one thing and
+another, yet He is not one person and another. And I say 'one thing
+and another'; whereas, on the contrary, in the Trinity we say one
+Person and another (so as not to confuse the subsistences), but not
+one thing and another."
+
+Reply Obj. 2: Hypostasis signifies a particular substance, not in
+every way, but as it is in its complement. Yet as it is in union with
+something more complete, it is not said to be a hypostasis, as a hand
+or a foot. So likewise the human nature in Christ, although it is a
+particular substance, nevertheless cannot be called a hypostasis or
+suppositum, seeing that it is in union with a completed thing, viz.
+the whole Christ, as He is God and man. But the complete being with
+which it concurs is said to be a hypostasis or suppositum.
+
+Reply Obj. 3: In created things a singular thing is placed in a genus
+or species, not on account of what belongs to its individuation, but
+on account of its nature, which springs from its form, and in
+composite things individuation is taken more from matter. Hence we
+say that Christ is in the human species by reason of the nature
+assumed, and not by reason of the hypostasis.
+_______________________
+
+FOURTH ARTICLE [III, Q. 2, Art. 4]
+
+Whether After the Incarnation the Person or Hypostasis of Christ Is
+Composite?
+
+Objection 1: It would seem that the Person of Christ is not
+composite. For the Person of Christ is naught else than the Person or
+hypostasis of the Word, as appears from what has been said (A. 2).
+But in the Word, Person and Nature do not differ, as appears from
+First Part (Q. 39, A. 1). Therefore since the Nature of the Word is
+simple, as was shown above (I, Q. 3, A. 7), it is impossible that the
+Person of Christ be composite.
+
+Obj. 2: Further, all composition requires parts. But the Divine
+Nature is incompatible with the notion of a part, for every part
+implicates the notion of imperfection. Therefore it is impossible
+that the Person of Christ be composed of two natures.
+
+Obj. 3: Further, what is composed of others would seem to be
+homogeneous with them, as from bodies only a body can be composed.
+Therefore if there is anything in Christ composed of the two natures,
+it follows that this will not be a person but a nature; and hence the
+union in Christ will take place in the nature, which is contrary to
+A. 2.
+
+_On the contrary,_ Damascene says (De Fide Orth. iii, 3, 4, 5), "In
+the Lord Jesus Christ we acknowledge two natures, but one hypostasis
+composed from both."
+
+_I answer that,_ The Person or hypostasis of Christ may be viewed in
+two ways. First as it is in itself, and thus it is altogether simple,
+even as the Nature of the Word. Secondly, in the aspect of person or
+hypostasis to which it belongs to subsist in a nature; and thus the
+Person of Christ subsists in two natures. Hence though there is one
+subsisting being in Him, yet there are different aspects of
+subsistence, and hence He is said to be a composite person, insomuch
+as one being subsists in two.
+
+And thereby the solution to the first is clear.
+
+Reply Obj. 2: This composition of a person from natures is not
+so called on account of parts, but by reason of number, even as that
+in which two things concur may be said to be composed of them.
+
+Reply Obj. 3: It is not verified in every composition, that
+the thing composed is homogeneous with its component parts, but only
+in the parts of a continuous thing; for the continuous is composed
+solely of continuous [parts]. But an animal is composed of soul and
+body, and neither of these is an animal.
+_______________________
+
+FIFTH ARTICLE [III, Q. 2, Art. 5]
+
+Whether in Christ There Is Any Union of Soul and Body?
+
+Objection 1: It would seem that in Christ there was no union of soul
+and body. For from the union of soul and body in us a person or a
+human hypostasis is caused. Hence if the soul and body were united in
+Christ, it follows that a hypostasis resulted from their union. But
+this was not the hypostasis of God the Word, for It is eternal.
+Therefore in Christ there would be a person or hypostasis besides the
+hypostasis of the Word, which is contrary to AA. 2, 3.
+
+Obj. 2: Further, from the union of soul and body results the nature
+of the human species. But Damascene says (De Fide Orth. iii, 3), that
+"we must not conceive a common species in the Lord Jesus Christ."
+Therefore there was no union of soul and body in Him.
+
+Obj. 3: Further, the soul is united to the body for the sole purpose
+of quickening it. But the body of Christ could be quickened by the
+Word of God Himself, seeing He is the fount and principle of life.
+Therefore in Christ there was no union of soul and body.
+
+_On the contrary,_ The body is not said to be animated save from its
+union with the soul. Now the body of Christ is said to be animated,
+as the Church chants: "Taking an animate body, He deigned to be born
+of a Virgin" [*Feast of the Circumcision, Ant. ii, Lauds]. Therefore
+in Christ there was a union of soul and body.
+
+_I answer that,_ Christ is called a man univocally with other men, as
+being of the same species, according to the Apostle (Phil. 2:7),
+"being made in the likeness of a man." Now it belongs essentially to
+the human species that the soul be united to the body, for the form
+does not constitute the species, except inasmuch as it becomes the
+act of matter, and this is the terminus of generation through which
+nature intends the species. Hence it must be said that in Christ the
+soul was united to the body; and the contrary is heretical, since it
+destroys the truth of Christ's humanity.
+
+Reply Obj. 1: This would seem to be the reason which was of weight
+with such as denied the union of the soul and body in Christ, viz.
+lest they should thereby be forced to admit a second person or
+hypostasis in Christ, since they saw that the union of soul and body
+in mere men resulted in a person. But this happens in mere men
+because the soul and body are so united in them as to exist by
+themselves. But in Christ they are united together, so as to be
+united to something higher, which subsists in the nature composed of
+them. And hence from the union of the soul and body in Christ a new
+hypostasis or person does not result, but what is composed of them is
+united to the already existing hypostasis or Person. Nor does it
+therefore follow that the union of the soul and body in Christ is of
+less effect than in us, for its union with something nobler does not
+lessen but increases its virtue and worth; just as the sensitive soul
+in animals constitutes the species, as being considered the ultimate
+form, yet it does not do so in man, although it is of greater effect
+and dignity, and this because of its union with a further and nobler
+perfection, viz. the rational soul, as has been said above (A. 2, ad
+2).
+
+Reply Obj. 2: This saying of Damascene may be taken in two ways:
+First, as referring to human nature, which, as it is in one
+individual alone, has not the nature of a common species, but only
+inasmuch as either it is abstracted from every individual, and
+considered in itself by the mind, or according as it is in all
+individuals. Now the Son of God did not assume human nature as it
+exists in the pure thought of the intellect, since in this way He
+would not have assumed human nature in reality, unless it be said
+that human nature is a separate idea, just as the Platonists
+conceived of man without matter. But in this way the Son of God would
+not have assumed flesh, contrary to what is written (Luke 24:39), "A
+spirit hath not flesh and bones as you see Me to have." Neither can
+it be said that the Son of God assumed human nature as it is in all
+the individuals of the same species, otherwise He would have assumed
+all men. Therefore it remains, as Damascene says further on (De Fide
+Orth. iii, 11) that He assumed human nature _in atomo,_ i.e. in an
+individual; not, indeed, in another individual which is a suppositum
+or a person of that nature, but in the Person of the Son of God.
+
+Secondly, this saying of Damascene may be taken not as referring to
+human nature, as if from the union of soul and body one common nature
+(viz. human) did not result, but as referring to the union of the two
+natures Divine and human: which do not combine so as to form a third
+something that becomes a common nature, for in this way it would
+become predicable of many, and this is what he is aiming at, since he
+adds: "For there was not generated, neither will there ever be
+generated, another Christ, Who from the Godhead and manhood, and in
+the Godhead and manhood, is perfect God and perfect man."
+
+Reply Obj. 3: There are two principles of corporeal life: one the
+effective principle, and in this way the Word of God is the principle
+of all life; the other, the formal principle of life, for since "in
+living things to be is to live," as the Philosopher says (De Anima
+ii, 37), just as everything is formally by its form, so likewise the
+body lives by the soul: in this way a body could not live by the
+Word, Which cannot be the form of a body.
+_______________________
+
+SIXTH ARTICLE [III, Q. 2, Art. 6]
+
+Whether the Human Nature Was United to the Word of God Accidentally?
+
+Objection 1: It would seem that the human nature was united to the
+Word of God accidentally. For the Apostle says (Phil. 2:7) of the Son
+of God, that He was "in habit found as a man." But habit is
+accidentally associated with that to which it pertains, whether habit
+be taken for one of the ten predicaments or as a species of quality.
+Therefore human nature is accidentally united to the Son of God.
+
+Obj. 2: Further, whatever comes to a thing that is complete in being
+comes to it accidentally, for an accident is said to be what can come
+or go without the subject being corrupted. But human nature came to
+Christ in time, Who had perfect being from eternity. Therefore it
+came to Him accidentally.
+
+Obj. 3: Further, whatever does not pertain to the nature or the
+essence of a thing is its accident, for whatever is, is either a
+substance or an accident. But human nature does not pertain to the
+Divine Essence or Nature of the Son of God, for the union did not
+take place in the nature, as was said above (A. 1). Hence the human
+nature must have accrued accidentally to the Son of God.
+
+Obj. 4: Further, an instrument accrues accidentally. But the human
+nature was the instrument of the Godhead in Christ, for Damascene
+says (De Fide Orth. iii, 15), that "the flesh of Christ is the
+instrument of the Godhead." Therefore it seems that the human nature
+was united to the Son of God accidentally.
+
+_On the contrary,_ Whatever is predicated accidentally, predicates,
+not substance, but quantity, or quality, or some other mode of being.
+If therefore the human nature accrues accidentally, when we say
+Christ is man, we do not predicate substance, but quality or
+quantity, or some other mode of being, which is contrary to the
+Decretal of Pope Alexander III, who says (Conc. Later. iii): "Since
+Christ is perfect God and perfect man, what foolhardiness have some
+to dare to affirm that Christ as man is not a substance?"
+
+_I answer that,_ In evidence of this question we must know that two
+heresies have arisen with regard to the mystery of the union of the
+two natures in Christ. The first confused the natures, as Eutyches
+and Dioscorus, who held that from the two natures one nature
+resulted, so that they confessed Christ to be "from" two natures
+(which were distinct before the union), but not "in" two natures (the
+distinction of nature coming to an end after the union). The second
+was the heresy of Nestorius and Theodore of Mopsuestia, who separated
+the persons. For they held the Person of the Son of God to be
+distinct from the Person of the Son of man, and said these were
+mutually united: first, "by indwelling," inasmuch as the Word of God
+dwelt in the man, as in a temple; secondly, "by unity of intention,"
+inasmuch as the will of the man was always in agreement with the will
+of the Word of God; thirdly, "by operation," inasmuch as they said
+the man was the instrument of the Word of God; fourthly, "by
+greatness of honor," inasmuch as all honor shown to the Son of God
+was equally shown to the Son of man, on account of His union with the
+Son of God; fifthly, "by equivocation," i.e. communication of names,
+inasmuch as we say that this man is God and the Son of God. Now it is
+plain that these modes imply an accidental union.
+
+But some more recent masters, thinking to avoid these heresies,
+through ignorance fell into them. For some conceded one person in
+Christ, but maintained two hypostases, or two supposita, saying that
+a man, composed of body and soul, was from the beginning of his
+conception assumed by the Word of God. And this is the first opinion
+set down by the Master (Sent. iii, D, 6). But others desirous of
+keeping the unity of person, held that the soul of Christ was not
+united to the body, but that these two were mutually separate, and
+were united to the Word accidentally, so that the number of persons
+might not be increased. And this is the third opinion which the
+Master sets down (Sent. iii, D, 6).
+
+But both of these opinions fall into the heresy of Nestorius; the
+first, indeed, because to maintain two hypostases or supposita in
+Christ is the same as to maintain two persons, as was shown above (A.
+3). And if stress is laid on the word "person," we must have in mind
+that even Nestorius spoke of unity of person on account of the unity
+of dignity and honor. Hence the fifth Council (Constantinople II,
+coll. viii, can. 5) directs an anathema against such a one as holds
+"one person in dignity, honor and adoration, as Theodore and
+Nestorius foolishly wrote." But the other opinion falls into the
+error of Nestorius by maintaining an accidental union. For there is
+no difference in saying that the Word of God is united to the Man
+Christ by indwelling, as in His temple (as Nestorius said), or by
+putting on man, as a garment, which is the third opinion; rather it
+says something worse than Nestorius--to wit, that the soul and body
+are not united.
+
+Now the Catholic faith, holding the mean between the aforesaid
+positions, does not affirm that the union of God and man took place
+in the essence or nature, nor yet in something accidental, but
+midway, in a subsistence or hypostasis. Hence in the fifth Council
+(Constantinople II, coll. viii, can. 5) we read: "Since the unity may
+be understood in many ways, those who follow the impiety of
+Apollinaris and Eutyches, professing the destruction of what came
+together" (i.e. destroying both natures), "confess a union by
+mingling; but the followers of Theodore and Nestorius, maintaining
+division, introduce a union of purpose. But the Holy Church of God,
+rejecting the impiety of both these treasons, confesses a union of
+the Word of God with flesh, by composition, which is in subsistence."
+Therefore it is plain that the second of the three opinions,
+mentioned by the Master (Sent. iii, D, 6), which holds one hypostasis
+of God and man, is not to be called an opinion, but an article of
+Catholic faith. So likewise the first opinion which holds two
+hypostases, and the third which holds an accidental union, are not to
+be styled opinions, but heresies condemned by the Church in Councils.
+
+Reply Obj. 1: As Damascene says (De Fide Orth. iii, 26): "Examples
+need not be wholly and at all points similar, for what is wholly
+similar is the same, and not an example, and especially in Divine
+things, for it is impossible to find a wholly similar example in the
+Theology," i.e. in the Godhead of Persons, "and in the Dispensation,"
+i.e. the mystery of the Incarnation. Hence the human nature in Christ
+is likened to a habit, i.e. a garment, not indeed in regard to
+accidental union, but inasmuch as the Word is seen by the human
+nature, as a man by his garment, and also inasmuch as the garment is
+changed, for it is shaped according to the figure of him who puts it
+on, and yet he is not changed from his form on account of the
+garment. So likewise the human nature assumed by the Word of God is
+ennobled, but the Word of God is not changed, as Augustine says (Qq.
+83, qu. 73).
+
+Reply Obj. 2: Whatever accrues after the completion of the being
+comes accidentally, unless it be taken into communion with the
+complete being, just as in the resurrection the body comes to the
+soul which pre-exists, yet not accidentally, because it is assumed
+unto the same being, so that the body has vital being through the
+soul; but it is not so with whiteness, for the being of whiteness is
+other than the being of man to which whiteness comes. But the Word of
+God from all eternity had complete being in hypostasis or person;
+while in time the human nature accrued to it, not as if it were
+assumed unto one being inasmuch as this is of the nature (even as the
+body is assumed to the being of the soul), but to one being inasmuch
+as this is of the hypostasis or person. Hence the human nature is not
+accidentally united to the Son of God.
+
+Reply Obj. 3: Accident is divided against substance. Now substance,
+as is plain from _Metaph._ v, 25, is taken in two ways: first, for
+essence or nature; secondly, for suppositum or hypostasis--hence the
+union having taken place in the hypostasis, is enough to show that it
+is not an accidental union, although the union did not take place in
+the nature.
+
+Reply Obj. 4: Not everything that is assumed as an instrument
+pertains to the hypostasis of the one who assumes, as is plain in the
+case of a saw or a sword; yet nothing prevents what is assumed into
+the unity of the hypostasis from being as an instrument, even as the
+body of man or his members. Hence Nestorius held that the human
+nature was assumed by the Word merely as an instrument, and not into
+the unity of the hypostasis. And therefore he did not concede that
+the man was really the Son of God, but His instrument. Hence Cyril
+says (Epist. ad Monach. Aegyptii): "The Scripture does not affirm
+that this Emmanuel," i.e. Christ, "was assumed for the office of an
+instrument, but as God truly humanized," i.e. made man. But Damascene
+held that the human nature in Christ is an instrument belonging to
+the unity of the hypostasis.
+_______________________
+
+SEVENTH ARTICLE [III, Q. 2, Art. 7]
+
+Whether the Union of the Divine Nature and the Human Is Anything
+Created?
+
+Objection 1: It would seem that the union of the Divine and human
+natures is not anything created. For there can be nothing created in
+God, because whatever is in God is God. But the union is in God, for
+God Himself is united to human nature. Therefore it seems that the
+union is not anything created.
+
+Obj. 2: Further, the end holds first place in everything. But the end
+of the union is the Divine hypostasis or Person in which the union is
+terminated. Therefore it seems that this union ought chiefly to be
+judged with reference to the dignity of the Divine hypostasis, which
+is not anything created. Therefore the union is nothing created.
+
+Obj. 3: Further, "That which is the cause of a thing being such is
+still more so" (Poster. i). But man is said to be the Creator on
+account of the union. Therefore much more is the union itself nothing
+created, but the Creator.
+
+_On the contrary,_ Whatever has a beginning in time is created. Now
+this union was not from eternity, but began in time. Therefore the
+union is something created.
+
+_I answer that,_ The union of which we are speaking is a relation
+which we consider between the Divine and the human nature, inasmuch
+as they come together in one Person of the Son of God. Now, as was
+said above (I, Q. 13, A. 7), every relation which we consider between
+God and the creature is really in the creature, by whose change the
+relation is brought into being; whereas it is not really in God, but
+only in our way of thinking, since it does not arise from any change
+in God. And hence we must say that the union of which we are speaking
+is not really in God, except only in our way of thinking; but in the
+human nature, which is a creature, it is really. Therefore we must
+say it is something created.
+
+Reply Obj. 1: This union is not really in God, but only in our way of
+thinking, for God is said to be united to a creature inasmuch as the
+creature is really united to God without any change in Him.
+
+Reply Obj. 2: The specific nature of a relation, as of motion,
+depends on the subject. And since this union has its being nowhere
+save in a created nature, as was said above, it follows that it has a
+created being.
+
+Reply Obj. 3: A man is called Creator and is God because of the
+union, inasmuch as it is terminated in the Divine hypostasis; yet it
+does not follow that the union itself is the Creator or God, because
+that a thing is said to be created regards its being rather than its
+relation.
+_______________________
+
+EIGHTH ARTICLE [III, Q. 2, Art. 8]
+
+Whether Union Is the Same As Assumption?
+
+Objection 1: It would seem that union is the same as assumption. For
+relations, as motions, are specified by their termini. Now the term
+of assumption and union is one and the same, viz. the Divine
+hypostasis. Therefore it seems that union and assumption are not
+different.
+
+Obj. 2: Further, in the mystery of the Incarnation the same thing
+seems to be what unites and what assumes, and what is united and what
+is assumed. But union and assumption seem to follow the action and
+passion of the thing uniting and the united, of the thing assuming
+and the assumed. Therefore union seems to be the same as assumption.
+
+Obj. 3: Further, Damascene says (De Fide Orth. iii, 11): "Union is
+one thing, incarnation is another; for union demands mere copulation,
+and leaves unsaid the end of the copulation; but incarnation and
+humanation determine the end of copulation." But likewise assumption
+does not determine the end of copulation. Therefore it seems that

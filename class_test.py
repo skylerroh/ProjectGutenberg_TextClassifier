@@ -1,15 +1,4 @@
-import pandas as pd
-import numpy as np
-import random
-import time
-from math import floor
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.cross_validation import cross_val_score
-from sklearn.cross_validation import StratifiedKFold
-from sklearn.cross_validation import KFold
-import path
-from os.path import isfile, join
-import pdb
 from sklearn.externals import joblib
 
 from os import listdir
@@ -25,12 +14,19 @@ import re
 import pdb
 
 
-##### create test word feature matrix
-RAW_DATA_DIR = '/Users/Skyroh/Github/Stat154FinalProject/Practice'
-TRAINING_FILE_PATH = "/Users/Skyroh/Documents/Stat154/Training_Output/doc_feature_top_word_frequencies_100_to_2100.csv"
+##### create test word feature matrix, name of Class Competition directory needs to be made as ClassSet
+RAW_DATA_DIR = '/Users/Skyroh/Github/Stat154FinalProject/ClassSet/'
+#using words from the following word feature matrix from the training data
+TRAINING_FILE_PATH = "/Users/Skyroh/Documents/Stat154/Training_Output/trainingset_feature_top_word_frequencies_and_category_unique_words.csv
+#where everything will be saved
+OUTPUT_DIR = "/Users/Skyroh/Github/Stat154FinalProject/"
 MAX_FEATURE_LENGTH = 20
 
-GENRE_FILENAMES = ["Child(0)", "History(1)", "Religion(2)", "Science(3)"]
+"""
+Set these variables to be the top level directory of training samples (i.e. your_own_path/Training/) as well as the directory to store the result CSVs
+"""
+
+#GENRE_FILENAMES = ["Child(0)", "History(1)", "Religion(2)", "Science(3)"]
 
 STOP_WORDS = ["a","able","about","across","after","all","almost","also","am","among","an","and","any","are","as","at","be","because","been","but","by","can","cannot","could","dear","did","do","does","either","else","ever","every","for","from","get","got","had","has","have","he","her","hers","him","his","how","however","i","if","in","into","is","it","its","just","least","let","like","likely","may","me","might","most","must","my","neither","no","nor","not","of","off","often","on","only","or","other","our","own","rather","said","say","says","she","should","since","so","some","than","that","the","their","them","then","there","these","they","this","tis","to","too","twas","us","wants","was","we","were","what","when","where","which","while","who","whom","why","will","with","would","yet","you","your",
               "project", "gutenberg", "ebook", "title", "author", "release", "chapter"]
@@ -57,7 +53,6 @@ if __name__ == "__main__":
 
   text_filenames, contents = docs(RAW_DATA_DIR)
 
-
   vectorizer = CountVectorizer(stop_words=STOP_WORDS, decode_error ="replace", tokenizer=custom_tokenizer)
   fitted = vectorizer.fit_transform(contents)
   feature_names = vectorizer.get_feature_names()
@@ -66,36 +61,39 @@ if __name__ == "__main__":
 
   test_df_filtered = test_df[[col for col in test_df.columns if col in set(full_feature_names)]] 
 
-  print(test_df_filtered.shape)
+  print("test matrix before merging with predefined features " + str(test_df_filtered.shape))
 
   empty_df = pd.DataFrame({}, columns=full_feature_names)
 
   output_df = pd.concat([test_df_filtered, empty_df])
 
-  print(output_df.shape)
+  print("output matrix shape: " + str(output_df.shape))
 
   output_df.fillna(0,inplace=True) 
 
+  output_df.index = [int(elem[:-4]) for elem in output_df.index]
+
+  output_df = output_df.sort_index()
+
+  output_df.to_csv(join(OUTPUT_DIR, "test_feature_top_word_frequencies_and_category_unique_words.csv"))
+
 test_df = output_df
+print(test_df.columns)
+print(test_df.index)
 
 #####
 
-OUTPUT_DIR = "/Users/Skyroh/Documents/Stat154/"
+OUTPUT_DIR = "/Users/Skyroh/Github/Stat154FinalProject/"
 
-rf = joblib.load('saved_rf_model/rf.pkl')
+rf = joblib.load('rf.pkl')
 print('loaded')
 
-prediction_array = pd.Series(rf.predict(test_df.values), index = [ind.split('.')[0] for ind in test_df.index])
-prediction_array = prediction_array.ix[[str(i) for i in list(truth_index)]]
-print(type(prediction_array))
-print(prediction_array)
-pred = list(prediction_array)
-print(pred)
+prediction_array = pd.Series(rf.predict(test_df.values), index = test_df.index)
 
 form = {'category': list(prediction_array)}
 final_output = pd.DataFrame(form)
 final_output.index.name = 'id'
 print(final_output)
 
-final_output.to_csv(join(OUTPUT_DIR, "practice_predict.csv"))
+final_output.to_csv(join(OUTPUT_DIR, "class_set_predict.csv"))
 

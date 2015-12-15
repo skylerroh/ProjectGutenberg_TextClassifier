@@ -1,0 +1,387 @@
+The Project Gutenberg EBook of The Public Orations of Demosthenes, volume 1, by
+Demosthenes
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: The Public Orations of Demosthenes, volume 1
+
+Author: Demosthenes
+
+Posting Date: October 13, 2014 [EBook #9060]
+Release Date: October, 2005
+First Posted: September 2, 2003
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PUBLIC ORATIONS DEMOSTHENES, VOL I ***
+
+
+
+
+Produced by Anne Soulard, Jon Ingram and the Online
+Distributed Proofreading Team.
+
+
+
+
+
+
+
+
+
+
+  THE PUBLIC ORATIONS OF DEMOSTHENES
+  IN TWO VOLUMES
+  VOL I
+
+  TRANSLATED BY
+  ARTHUR WALLACE PICKARD
+
+
+
+
+PREFACE
+
+The translations included in this volume were written at various times
+during the last ten years for use in connexion with College Lectures,
+and a long holiday, for which I have to thank the Trustees of the
+Balliol College Endowment Fund, as well as the Master and Fellows of
+Balliol College, has enabled me to revise them and to furnish them with
+brief introductions and notes. Only those speeches are included which
+are generally admitted to be the work of Demosthenes, and the spurious
+documents contained in the MSS. of the Speech on the Crown are omitted.
+The speeches are arranged in chronological order, and the several
+introductions to them are intended to supply an outline of the history
+of the period, sufficient to provide a proper setting for the speeches,
+but not more detailed than was necessary for this purpose. No
+discussion of conflicting evidence has been introduced, and the views
+which are expressed on the character and work of Demosthenes must
+necessarily seem somewhat dogmatic, when given without the reasons for
+them. I hope, however, before long to treat the life of Demosthenes
+more fully in another form. The estimate here given of his character as
+a politician falls midway between the extreme views of Grote and
+Schaefer on the one hand, and Beloch and Holm on the other.
+
+I have tried to render the speeches into such English as a political
+orator of the present day might use, without attempting to impart to
+them any antique colouring, such as the best-known English translations
+either had from the first or have acquired by lapse of time. It is of
+the essence of political oratory that it is addressed to
+contemporaries, and the translation of it should therefore be into
+contemporary English; though the necessity of retaining some of the
+modes of expression which are peculiar to Greek oratory and political
+life makes it impossible to produce completely the appearance of an
+English orator's work. The qualities of Demosthenes' eloquence
+sometimes suggest rather the oratory of the pulpit than that of the
+hustings or that of Parliament and of the law-courts. I cannot hope to
+have wholly succeeded in my task; but it seemed to be worth
+undertaking, and I hope that the work will not prove to have been
+altogether useless.
+
+I have made very little use of other translations; but I must
+acknowledge a debt to Lord Brougham's version of the Speeches on the
+Chersonese and on the Crown, which, though often defective from the
+point of view of scholarship and based on faulty texts, are (together
+with his notes) very inspiring. I have also, at one time or another,
+consulted most of the standard German, French, and English editions of
+Demosthenes. I cannot now distinguish how much I owe to each; but I am
+conscious of a special debt to the editions of the late Professor Henri
+Weil, and of Sir J.E. Sandys, and (in the Speech on the Crown) to that
+of Professor W.W. Goodwin. I also owe a few phrases in the earliest
+speeches to Professor W.R. Hardie, whose lectures on Demosthenes I
+attended twenty years ago. My special thanks are due to my friend Mr.
+P.E. Matheson of New College, for his kindness in reading the
+proof-sheets, and making a number of suggestions, which have been of
+great assistance to me.
+
+The text employed has been throughout that of the late Mr. S.H. Butcher
+in the _Bibliotheca Classica Oxoniensis_. Any deviations from this are
+noted in their place.
+
+
+
+
+CONTENTS
+
+
+INTRODUCTION                                 i. 7
+
+LIST OF SPEECHES TRANSLATED
+
+  Traditional Order                   In this Edition
+  ORATION I. OLYNTHIAC I                       i. 87
+         II. OLYNTHIAC II                      i. 99
+        III. OLYNTHIAC III                     i. 109
+         IV. PHILIPPIC I                       i. 68
+          V. ON THE PEACE                      i. 120
+         VI. PHILIPPIC II                      i. 133
+       VIII. ON THE CHERSONESE                ii. 3
+         IX. PHILIPPIC III                    ii. 26
+        XIV. ON THE NAVAL BOARDS               i. 31
+         XV. FOR THE FREEDOM OF THE RHODIANS   i. 56
+        XVI. FOR THE MEGALOPOLITANS            i. 45
+      XVIII. ON THE CROWN                     ii. 47
+        XIX. ON THE EMBASSY                    i. 144
+
+  NOTES                                       ii. 149
+
+
+
+
+INTRODUCTION
+
+
+Demosthenes, the son of Demosthenes of Paeania in Attica, a rich and
+highly respected factory-owner, was born in or about the year 384 B.C.
+He was early left an orphan; his guardians mismanaged his property for
+their own advantage; and although, soon after coming of age in 366, he
+took proceedings against them and was victorious in the law-courts, he
+appears to have recovered comparatively little from them. In preparing
+for these proceedings he had the assistance of Isaeus, a teacher and
+writer of speeches who was remarkable for his knowledge of law, his
+complete mastery of all the aspects of any case with which he had to
+do, and his skill in dealing with questions of ownership and
+inheritance. Demosthenes' speeches against his guardians show plainly
+the influence of Isaeus, and the teacher may have developed in his
+pupil the thoroughness and the ingenuity in handling legal arguments
+which afterwards became characteristic of his work.
+
+Apart from this litigation with his guardians, we know little of
+Demosthenes' youth and early manhood. Various stories have come down to
+us (for the most part not on the best authority), of his having been
+inspired to aim at an orator's career by the eloquence and fame of
+Callistratus; of his having overcome serious physical defects by
+assiduous practice; of his having failed, nevertheless, owing to
+imperfections of delivery, in his early appearances before the people,
+and having been enabled to remedy these by the instruction of the
+celebrated actor Satyrus; and of his close study of the _History_ of
+Thucydides. Upon the latter point the evidence of his early style
+leaves no room for doubt, and the same studies may have contributed to
+the skill and impressiveness with which, in nearly every oration, he
+appeals to the events of the past, and sums up the lessons of history.
+Whether he came personally under the influence either of Plato, the
+philosopher, or of Isocrates, the greatest rhetorical teacher of his
+time, and a political pamphleteer of high principles but little
+practical insight, is much more doubtful. The two men were almost as
+different in temperament and aims as it was possible to be, but
+Demosthenes' familiarity with the published speeches of Isocrates, and
+with the rhetorical principles which Isocrates taught and followed, can
+scarcely be questioned.
+
+In the early years of his manhood, Demosthenes undertook the
+composition of speeches for others who were engaged in litigation. This
+task required not only a very thorough knowledge of law, but the power
+of assuming, as it were, the character of each separate client, and
+writing in a tone appropriate to it; and, not less, the ability to
+interest and to rouse the active sympathy of juries, with whom feeling
+was perhaps as influential as legal justification. This part, however,
+of Demosthenes' career only concerns us here in so far as it was an
+admirable training for his later work in the larger sphere of politics,
+in which the same qualities of adaptability and of power both to argue
+cogently and to appeal to the emotions effectively were required in an
+even higher degree.
+
+At the time when Demosthenes' interest in public affairs was beginning
+to take an active form, Athens was suffering from the recent loss of
+some of her most powerful allies. In the year 358 B.C. she had counted
+within the sphere of her influence not only the islands of Lemnos,
+Imbros, and Scyros (which had been guaranteed to her by the Peace of
+Antalcidas in 387), but also the chief cities of Euboea, the islands of
+Chios, Cos, Rhodes, and Samos, Mytilene in Lesbos, the towns of the
+Chersonese, Byzantium (a city of the greatest commercial importance),
+and a number of stations on the south coast of Thrace, as well as
+Pydna, Potidaea, Methone, and the greater part of the country bordering
+upon the Thermaic Gulf. But her failure to observe the terms of
+alliance, laid down when the new league was founded in 378, had led to
+a revolt, which ended in 355 or 354 in the loss to her of Chios, Cos,
+Rhodes, and Byzantium, and of some of the ablest of her own commanders,
+and left her treasury almost empty. About the same time Mytilene and
+Corcyra also took the opportunity to break with her. Moreover, her
+position in the Thermaic region was threatened first by Olynthus, at
+the head of the Chalcidic League, which included over thirty towns; and
+secondly by Philip, the newly-established King of Macedonia, who seemed
+likely to displace both Olynthus and Athens from their positions of
+commanding influence.[1]
+
+Nevertheless, Athens, though unable to face a strong combination, was
+probably the most powerful single state in Greece. In her equipment and
+capacity for naval warfare she had no rival, and certainly no other
+state could vie with her in commercial activity and prosperity. The
+power of Sparta in the Peloponnese had declined greatly. The
+establishment of Megalopolis as the centre of a confederacy of Arcadian
+tribes, and of Messene as an independent city commanding a region once
+entirely subject to Sparta, had seriously weakened her position; while
+at the same time her ambition to recover her supremacy kept alive a
+feeling of unrest throughout the Peloponnese. Of the other states of
+South Greece, Argos was hostile to Sparta, Elis to the Arcadians;
+Corinth and other less important cities were not definitely attached to
+any alliance, but were not powerful enough to carry out any serious
+movement alone. In North Greece, Thebes, though she lacked great
+leaders, was still a great power, whose authority throughout Boeotia
+had been strengthened by the complete or partial annihilation of
+Platacae, Thespiae, Orchomenus,[2] and Coroneia. In Athens the ill
+feeling against Thebes was strong, owing to the occupation by the
+Thebans of Oropus,[2] a frontier town which Athens claimed, and their
+treatment of the towns just mentioned, towards which the Athenians were
+kindly disposed. The Phocians, who had until recently been unwilling
+allies of Thebes, were now hostile and not insignificant neighbours,
+and about this time entered into relations with both Sparta and Athens.
+The subject of contention was the possession or control of the Temple
+of Apollo at Delphi, which the Phocians had recently taken by force
+from the Delphians, who were supported by Thebes; and in the 'Sacred
+War' to which this act (which was considered to be sacrilege) gave rise
+in 355 B.C., the Thebans and Locrians fought against the Phocians in
+the name of the Amphictyonic Council, a body (composed of
+representatives of tribes and states of very unequal importance[3]) to
+which the control of the temple traditionally belonged. Thessaly
+appears to have been at this time more or less under Theban influence,
+but was immediately dominated by the tyrants of Pherae, though the
+several cities seem each to have possessed a nominally independent
+government. The Greek peoples were disunited in fact and unfitted for
+union by temperament. The twofold desire, felt by almost all the more
+advanced Greek peoples, for independence on the one hand, and for
+'hegemony' or leadership among other peoples, on the other, rendered
+any effective combination impossible, and made the relations of states
+to one another uncertain and inconstant. While each people paid respect
+to the spirit of autonomy, when their own autonomy was in question,
+they were ready to violate it without scruple when they saw their way
+to securing a predominant position among their neighbours; and although
+the ideal of Panhellenic unity had been put before Greece by Gorgias
+and Isocrates, its realization did not go further than the formation of
+leagues of an unstable character, each subject, as a rule, to the more
+or less tyrannical domination of some one member.
+
+Probably the power which was most generally feared in the Greek world
+was that of the King of Persia. Several times in recent years (and
+particularly in 387 and 367) he had been requested to make and enforce
+a general settlement of Hellenic affairs. The settlement of 387 (called
+the King's Peace, or the Peace of Antalcidas, after the Spartan officer
+who negotiated it) had ordained the independence of the Greek cities,
+small and great, with the exception of those in Asia Minor, which were
+to form part of the Persian Empire, and of Lemnos, Imbros, and Scyros,
+which were to belong to Athens as before. The attempt to give effect to
+the arrangement negotiated in 367 failed, and the terms of the Peace of
+Antalcidas, though it was still appealed to, when convenient, as a
+charter of liberty, also came to be disregarded. But there was always a
+sense of the possibility or the danger of provoking the great king to
+exert his strength, or at least to use his wealth, to the detriment of
+some or all of the Greek states; though at the moment of which we are
+speaking (about 355) the Persian Empire itself was suffering from
+recent disorders and revolutions, and the king had little leisure for
+interfering in the affairs of Greece.
+
+It was to the department of foreign and inter-Hellenic affairs that
+Demosthenes principally devoted himself. His earliest political
+speeches, however, were composed and delivered in furtherance of
+prosecutions for the crime of proposing illegal legislation. These were
+the speeches against Androtion (spoken by Diodorus in 355) and against
+Leptines (in 354). Both these were written to denounce measures which
+Demosthenes regarded as dishonest or unworthy of Athenian traditions.
+In the former he displays that desire for clean-handed administration
+which is so prominent in some of his later speeches; and in the
+prosecution of Leptines he shows his anxiety that Athens should retain
+her reputation for good faith. Both speeches, like those of the year
+352 against Timocrates (spoken by Diodorus), and against Aristocrates
+(spoken by Euthycles), are remarkable for thoroughness of argument and
+for the skill which is displayed in handling legal and political
+questions, though, like almost all Athenian forensic orations, they are
+sometimes sophistical in argument.
+
+The first speech which is directly devoted to questions of external
+policy is that on the Naval Boards in 354; and this is followed within
+the next two years by speeches delivered in support of appeals made to
+Athens by the people of Megalopolis and by the exiled democratic party
+of Rhodes. From these speeches it appears that the general lines of
+Demosthenes' policy were already determined. He was in opposition to
+Eubulus, who, after the disastrous termination of the war with the
+allies, had become the leading statesman in Athens. The strength of
+Eubulus lay in his freedom from all illusion as to the position in
+which Athens stood, in his ability as a financier, and in his readiness
+to take any measures which would enable him to carry out his policy. He
+saw that the prime necessity of the moment was to recruit the financial
+and material strength of the city; that until this should be effected,
+she was quite incapable of carrying on war with any other power; and
+that she could only recover her strength through peace. In this policy
+he had the support of the well-to-do classes, who suffered heavily in
+time of war from taxation and the disturbance of trade. On the other
+hand, the sentiments of the masses were imperialistic and militant. We
+gather that there were plenty of orators who made a practice of
+appealing to the glorious traditions of the past and the claim always
+made by Athens to leadership among the Greek states. To buy off the
+opposition which his policy might be expected to encounter, Eubulus
+distributed funds freely to the people, in the shape of
+'Festival-money', adopting the methods employed before him by
+demagogues, very different from himself, in order that he might
+override the real sentiments of the democracy; and in spite of the
+large amounts thus spent he did in fact succeed, in the course of a few
+years, in collecting a considerable sum without resorting to
+extraordinary taxation, in greatly increasing the navy and in enlarging
+the dockyards. For the success of this policy it was absolutely
+necessary to avoid all entanglement in war, except under the strongest
+compulsion. The appeals of the Megalopolitans and the Rhodians, to
+yield to which would probably have meant war with Sparta and with
+Persia, must be rejected. Even in dealing with Philip, who was making
+himself master of the Athenian allies on the Thermaic coast, the fact
+of the weakness of Athens must be recognized, and all idea of a great
+expedition against Philip must be abandoned for the present. At the
+same time, some necessary measures of precaution were not neglected. It
+was essential to secure the route to the Euxine, over which the
+Athenian corn-trade passed, if corn was not to be sold at famine
+prices. For this purpose, therefore, alliance was made with the
+Thracian prince, Cersobleptes; and when Philip threatened Heraeon
+Teichos on the Propontis, an expedition was prepared, and was only
+abandoned because Philip himself was forced to desist from his attempt
+by illness. Similarly, when Philip appeared likely to cross the Pass of
+Thermopylae in 352, an Athenian force was sent (on the proposal of
+Diophantus, a supporter of Eubulus) to prevent him. The failure of
+Eubulus and his party to give effective aid to Olynthus against Philip
+was due to the more pressing necessity of attempting to recover control
+of Euboea: it had clearly been their intention to save Olynthus, if
+possible. But when this had proved impossible, and the attempt to form
+a Hellenic league against Philip had also failed, facts had once more
+to be recognized; and, since Athens was now virtually isolated, peace
+must be made with Philip on the only terms which he would accept--that
+each side should keep what it _de facto_ possessed at the time.
+
+Demosthenes was generally in opposition to Eubulus and his party, of
+which Aeschines (once an actor and afterwards a clerk, but a man of
+education and great natural gifts) was one of the ablest members.
+Demosthenes was inspired by the traditions of the past, but had a much
+less vague conception of the moral to be drawn from them than had the
+multitude. Athens, for him as for them, was to be the first state in
+Hellas; she was above all to be the protectress of democracy
+everywhere, against both absolutism and oligarchy, and the leader of
+the Hellenes in resistance to foreign aggression. But, unlike the
+multitude, Demosthenes saw that this policy required the greatest
+personal effort and readiness for sacrifice on the part of every
+individual; and he devotes his utmost energies to the task of arousing
+his countrymen to the necessary pitch of enthusiasm, and of effecting
+such reforms in administration and finance as, in his opinion, would
+make the realization of his ideal for Athens possible. In the speeches
+for the Megalopolitans and the Rhodians, the nature of this ideal is
+already becoming clear both in its Athenian and in its Panhellenic
+aspects. But so soon as it appeared that Philip, at the head of the
+half-barbarian Macedonians, and not Athens, was likely to become the
+predominant power in the Hellenic world, it was against Philip that all
+his efforts were directed; and although in 346 he is practically at one
+with the party of Eubulus in his recognition of the necessity of peace,
+he is eager, when the opportunity seems once more to offer itself, to
+resume the conflict, and, when it is resumed, to carry it through to
+the end.
+
+We have then before us the sharp antagonism of two types of
+statesmanship. The strength of the one lies in the recognition of
+actual facts, and the avoidance of all projects which seem likely,
+under existing circumstances, to fail. The other is of a more sanguine
+type, and believes in the power of enthusiasm and self-sacrifice to
+transform the existing facts into something better, and to win success
+against all odds. Statesmen of the former type are always attacked as
+unpatriotic and mean-spirited; those of the latter, as unpractical and
+reckless. There is truth and falsehood in both accusations: but since

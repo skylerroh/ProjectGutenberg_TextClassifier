@@ -1,0 +1,490 @@
+The Project Gutenberg EBook of Tacitus: The Histories, Volumes I and II
+by Caius Cornelius Tacitus
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Tacitus: The Histories, Volumes I and II
+
+Author: Caius Cornelius Tacitus
+
+Translator: W. Hamilton Fyfe
+
+Release Date: October 23, 2005 [EBook #16927]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK TACITUS: THE HISTORIES ***
+
+
+
+
+Produced by Justin Kerk, Louise Pryor and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+[Transcriber's note: Footnotes have been renumbered; all references
+to them use the new numbers. Spellings in the original are sometimes
+inconsistent. They have not been changed.]
+
+
+
+
+
+TACITUS
+THE HISTORIES
+
+TRANSLATED WITH INTRODUCTION AND NOTES
+BY
+W. HAMILTON FYFE
+FELLOW OF MERTON COLLEGE
+
+IN TWO VOLUMES
+VOLUME I
+
+OXFORD
+AT THE CLARENDON PRESS
+1912
+
+
+
+
+HENRY FROWDE
+PUBLISHER TO THE UNIVERSITY OF OXFORD
+LONDON, EDINBURGH, NEW YORK
+TORONTO AND MELBOURNE
+
+
+
+
+TO D.H.F.
+
+
+'The cause of undertaking a work of this kind was a good will in
+this scribling age not to do nothing, and a disproportion in the
+powers of my mind, nothing of mine owne invention being able to
+passe the censure of mine owne judgement, much less, I presumed, the
+judgement of others....
+
+'If thy stomacke be so tender as thou canst not disgest Tacitus in
+his owne stile, thou art beholding to one who gives thee the same
+food, but with a pleasant and easie taste.'
+
+SIR HENRY SAVILE (A.D. 1591).
+
+
+
+
+CONTENTS
+
+VOLUME I
+
+  INTRODUCTION                                                           5
+  TEXT: BOOKS I, II                                                     17
+
+VOLUME II
+
+  TEXT: BOOKS III-V                                                      9
+
+INDEX OF NAMES                                                         231
+
+MAPS
+
+
+
+
+INTRODUCTION
+
+
+Tacitus held the consulship under Nerva in the year 97. At this point
+he closed his public career. He had reached the goal of a politician's
+ambition and had become known as one of the best speakers of his time,
+but he seems to have realized that under the Principate politics was a
+dull farce, and that oratory was of little value in a time of peace
+and strong government. The rest of his life was to be spent in writing
+history. In the year of his consulship or immediately after it, he
+published the _Agricola_ and _Germania_, short monographs in which he
+practised the transition from the style of the speaker to that of the
+writer. In the preface to the _Agricola_ he foreshadows the larger
+work on which he is engaged. 'I shall find it a pleasant task to put
+together, though in rough and unfinished style, a memorial of our
+former slavery and a record of our present happiness.' His intention
+was to write a history of the Principate from Augustus to Trajan. He
+began with his own times, and wrote in twelve or fourteen books a full
+account of the period from Nero's death in 68 A.D. to the death of
+Domitian in 96 A.D. These were published, probably in successive
+books, between 106 and 109 A.D. Only the first four and a half books
+survive to us. They deal with the years 69 and 70, and are known as
+_The Histories_. _The Annals_, which soon followed, dealt with the
+Julian dynasty after the death of Augustus. Of Augustus' constitution
+of the principate and of Rome's 'present happiness' under Trajan,
+Tacitus did not live to write.
+
+_The Histories_, as they survive to us, describe in a style that has
+made them immortal one of the most terrible and crucial moments of
+Roman history. The deadly struggle for the throne demonstrated finally
+the real nature of the Principate--based not on constitutional
+fictions but on armed force--and the supple inefficiency of the
+senatorial class. The revolt on the Rhine foreshadowed the debacle of
+the fifth century. Tacitus was peculiarly well qualified to write the
+history of this period. He had been the eye-witness of some of the
+most terrible scenes: he was acquainted with all the distinguished
+survivors: his political experience gave him a statesman's point of
+view, and his rhetorical training a style which mirrored both the
+terror of the times and his own emotion. More than any other Roman
+historian he desired to tell the truth and was not fatally biassed by
+prejudice. It is wrong to regard Tacitus as an 'embittered
+rhetorician', an 'enemy of the Empire', a 'detracteur de
+l'humanite'.[1] He was none of these. As a member of a noble, though
+not an ancient, family, and as one who had completed the republican
+_cursus honorum_, his sympathies were naturally senatorial. He
+regretted that the days were passed when oratory was a real power and
+the consuls were the twin towers of the world. But he never hoped to
+see such days again. He realized that monarchy was essential to peace,
+and that the price of freedom was violence and disorder. He had no
+illusions about the senate. Fault and misfortune had reduced them to
+nerveless servility, a luxury of self-abasement. Their meekness would
+never inherit the earth. Tacitus pours scorn on the philosophic
+opponents of the Principate, who while refusing to serve the emperor
+and pretending to hope for the restoration of the republic, could
+contribute nothing more useful than an ostentatious suicide. His own
+career, and still more the career of his father-in-law Agricola,
+showed that even under bad emperors a man could be great without
+dishonour. Tacitus was no republican in any sense of the word, but
+rather a monarchist _malgre lui_. There was nothing for it but to pray
+for good emperors and put up with bad ones.
+
+Those who decry Tacitus for prejudice against the Empire forget that
+he is describing emperors who were indubitably bad. We have lost his
+account of Vespasian's reign. His praise of Augustus and of Trajan was
+never written. The emperors whom he depicts for us were all either
+tyrannical or contemptible, or both: no floods of modern biography can
+wash them white. They seemed to him to have degraded Roman life and
+left no room for _virtus_ in the world. The verdict of Rome had gone
+against them. So he devotes to their portraiture the venom which the
+fifteen years of Domitian's reign of terror had engendered in his
+heart. He was inevitably a pessimist; his ideals lay in the past; yet
+he clearly shows that he had some hope of the future. Without sharing
+Pliny's faith that the millennium had dawned, he admits that Nerva and
+Trajan have inaugurated 'happier times' and combined monarchy with
+some degree of personal freedom.
+
+There are other reasons for the 'dark shadows' in Tacitus' work.
+History to a Roman was _opus oratorium,_ a work of literary art. Truth
+is a great but not a sufficient merit. The historian must be not only
+_narrator_ but _ornator rerum_. He must carefully select and arrange
+the incidents, compose them into an effective group, and by the power
+of language make them memorable and alive. In these books Tacitus has
+little but horrors to describe: his art makes them unforgettably
+horrible. The same art is ready to display the beauty of courage and
+self-sacrifice. But these were rarer phenomena than cowardice and
+greed. It was not Tacitus, but the age, which showed a preference for
+vice. Moreover, the historian's art was not to be used solely for its
+own sake. All ancient history was written with a moral object; the
+ethical interest predominates almost to the exclusion of all others.
+Tacitus is never merely literary. The [Greek: semnotes] which Pliny
+notes as the characteristic of his oratory, never lets him sparkle to
+no purpose. All his pictures have a moral object 'to rescue virtue
+from oblivion and restrain vice by the terror of posthumous
+infamy'.[2] His prime interest is character: and when he has
+conducted some skilful piece of moral diagnosis there attaches to his
+verdict some of the severity of a sermon. If you want to make men
+better you must uncover and scarify their sins.
+
+Few Christian moralists deal much in eulogy, and Tacitus' diatribes
+are the more frequent and the more fierce because his was the morality
+not of Christ but of Rome. 'The Poor' are as dirt to him: he can stoop
+to immortalize some gleam of goodness in low life, but even then his
+main object is by scorn of contrast to galvanize the aristocracy into
+better ways. Only in them can true _virtus_ grow. Their degradation
+seems the death of goodness. Tacitus had little sympathy with the
+social revolution that was rapidly completing itself, not so much
+because those who rose from the masses lacked 'blood', but because
+they had not been trained in the right traditions. In the decay of
+Education he finds a prime cause of evil. And being a Roman--wherever
+he may have been born--he inevitably feels that the decay of Roman
+life must rot the world. His eyes are not really open to the Empire.
+He never seems to think that in the spacious provinces to which the
+old Roman virtues had taken flight, men were leading happy, useful
+lives, because the strong hand of the imperial government had come to
+save them from the inefficiency of aristocratic governors. This
+narrowness of view accounts for much of Tacitus' pessimism.
+
+Recognition of the atmosphere in which Tacitus wrote and the objects
+at which his history aimed helps one to understand why it sometimes
+disappoints modern expectations. Particular scenes are seared on our
+memories: persons stand before us lit to the soul by a fierce light of
+psychological analysis: we learn to loath the characteristic vices of
+the time, and to understand the moral causes of Roman decadence. But
+somehow the dominance of the moral interest and the frequent
+interruption of the narrative by scenes of senatorial inefficiency
+serve to obscure the plain sequence of events. It is difficult after a
+first reading of the _Histories_ to state clearly what happened in
+these two years. And this difficulty is vastly annoying to experts who
+wish to trace the course of the three campaigns. Those whose interest
+is not in Tacitus but in the military history of the period are
+recommended to study Mr. B.W. Henderson's _Civil War and Rebellion in
+the Roman Empire_, a delightful book which makes the dark places
+plain. But they are not recommended to share his contempt for Tacitus
+because his accounts of warfare are as bad as, for instance,
+Shakespeare's. Tacitus does not describe in detail the tactics and
+geography of a campaign, perhaps because he could not do so, certainly
+because he did not wish to. He regarded such details as dry bones,
+which no amount of literary skill could animate. His interest is in
+human character. Plans of campaign throw little light on that: so they
+did not interest him, or, if they did, he suppressed his interest
+because he knew that his public would otherwise behave as Dr. Johnson
+did when Fox talked to him of Catiline's conspiracy. 'He withdrew his
+attention and thought about Tom Thumb.'
+
+There is no worse fault in criticism than to blame a work of art for
+lacking qualities to which it makes no pretension. Tacitus is not a
+'bad military historian'. He is not a 'military' historian at all.
+Botticelli is not a botanist, nor is Shakespeare a geographer. It is
+this fault which leads critics to call Tacitus 'a stilted pleader at a
+decadent bar', and to complain that his narrative of the war with
+Civilis is 'made dull and unreal by speeches'--because they have not
+found in Tacitus what they had no right to look for. Tacitus inserts
+speeches for the same reason that he excludes tactical details. They
+add to the human interest of his work. They give scope to his great
+dramatic powers, to that passionate sympathy with character which
+finds expression in a style as nervous as itself. They enable him to
+display motives, to appraise actions, to reveal moral forces. It is
+interest in human nature rather than pride of rhetoric which makes him
+love a good debate.
+
+The supreme distinction of Tacitus is, of course, his style. That is
+lost in a translation. 'Hard' though his Latin is, it is not obscure.
+Careful attention can always detect his exact thought. Like Meredith
+he is 'hard' because he does so much with words. Neither writer leaves
+any doubt about his meaning. It is therefore a translator's first duty
+to be lucid, and not until that duty is done may he try by faint
+flushes of epigram to reflect something of the brilliance of Tacitus'
+Latin. Very faint indeed that reflection must always be: probably no
+audience could be found to listen to a translation of Tacitus, yet one
+feels that his Latin would challenge and hold the attention of any
+audience that was not stone-deaf. But it is because Tacitus is never a
+mere stylist that some of us continue in the failure to translate him.
+His historical deductions and his revelations of character have their
+value for every age. 'This form of history,' says Montaigne, 'is by
+much the most useful ... there are in it more precepts than stories:
+it is not a book to read, 'tis a book to study and learn: 'tis full of
+sententious opinions, right or wrong: 'tis a nursery of ethic and
+politic discourses, for the use and ornament of those who have any
+place in the government of the world.... His pen seems most proper for
+a troubled and sick state, as ours at present is; you would often say
+it is us he paints and pinches.' Sir Henry Savile, Warden of Merton
+and Provost of Eton, who translated the _Histories_ into racy
+Elizabethan English at a time when the state was neither 'troubled'
+nor 'sick' is as convinced as Montaigne or the theorists of the French
+Revolution that Tacitus had lessons for his age. 'In Galba thou maiest
+learne, that a Good Prince gouerned by evill ministers is as dangerous
+as if he were evill himselfe. By Otho, that the fortune of a rash man
+is _Torrenti similis_, which rises at an instant, and falles in a
+moment. By Vitellius, that he that hath no vertue can neuer be happie:
+for by his own baseness he will loose all, which either fortune, or
+other mens labours have cast upon him. By Vespasian, that in civill
+tumults an advised patience, and opportunitie well taken are the onely
+weapons of advantage. In them all, and in the state of Rome under them
+thou maiest see the calamities that follow civill warres, where lawes
+lie asleepe, and all things are iudged by the sword. If thou mislike
+their warres be thankfull for thine owne peace; if thou dost abhor
+their tyrannies, love and reverence thine owne wise, iust and
+excellent Prince.' So whatever guise our age may assume, there are
+lessons to be drawn from Tacitus either directly or _per contra_, and
+his translators may be acquitted at a time when Latin scholarship is
+no longer an essential of political eminence.
+
+FOOTNOTES:
+
+     [1] Napoleon's phrase.
+
+     [2] _Ann._ iii. 65.
+
+
+
+
+SUMMARY OF CHIEF EVENTS
+
+
+I. THE FIGHT FOR THE THRONE.
+
+A.D. 68.
+
+  _June_
+
+     9. Death of Nero.
+
+    16. Galba, Governor of Nearer Spain, declared Emperor at Clunia.
+
+        Fonteius Capito, Governor of Lower Germany, Clodius Macer,
+        Governor of Africa, and Nymphidius Sabinus, Prefect of the
+        Guard, murdered as possible rivals. Verginius Rufus, Governor
+        of Upper Germany, refuses to compete.
+
+  _October_
+
+        Galba enters Rome. Massacre of Marines at Mulvian Bridge.
+
+        His government controlled by Laco, Vinius, and Icelus.
+
+A.D. 69.
+
+  _January_
+
+     1. News of mutiny in Upper Germany, now governed by Hordeonius
+        Flaccus.
+
+     3. The armies of Upper Germany (under Caecina) and of Lower Germany
+        (under Valens) salute Vitellius, Governor of Lower Germany, as
+        Emperor.
+
+    10. Galba adopts Piso Licinianus as his successor.
+
+    15. Otho declared Emperor in Rome and recognized by Praetorian
+        Guard.
+
+        Murder of Galba, Vinius, and Piso.
+
+        Otho recognized by the Senate.
+
+  _February_
+
+        The Vitellian armies are now marching on Italy: Caecina through
+        Switzerland and over the Great St. Bernard with Legio XXI Rapax
+        and detachments of IV Macedonica and XXII Primigenia: Valens
+        through Gaul and over Mount Genevre with Legio V Alaudae and
+        detachments of I Italica, XV Primigenia, and XVI.
+
+  _March_
+
+        Caecina crosses the Alps.
+
+        Otho dispatches an advance-guard under Annius Gallus and Spurinna.
+
+        Otho starts for the Po with Suetonius Paulinus, Marius Celsus,
+        and Proculus.
+
+        Titianus left in charge of Rome.
+
+        Otho sends fleet to Narbonese Gaul, and orders Illyric
+        Legions[3] to concentrate at Aquileia.
+
+        Spurinna repulses Caecina from Placentia.
+
+        Otho's main army joins Gallus at Bedriacum.
+
+        Titianus summoned to take nominal command.
+
+  _April_
+
+     6. Battle of Locus Castorum. Caecina defeated.
+
+        Valens joins Caecina at Cremona.
+
+    15. Battle of Bedriacum. Othonian defeat.
+
+    17. Otho commits suicide at Brixellum.
+
+    19. Vitellius recognized by the Senate.
+
+  _May_
+
+        Vitellius greeted by his own and Otho's generals at Lyons.
+
+    24. Vitellius visits the battle-field of Bedriacum.
+
+  _June_
+
+        Vitellius moves slowly towards Rome with a huge retinue.
+
+  _July_
+
+     1. Vespasian, Governor of Judaea, proclaimed Emperor at Alexandria.
+
+     3. At Caesarea.
+
+    15. At Antioch.
+
+        The Eastern princes and the Illyric Legions[4] declare for
+        Vespasian. His chief supporters are Mucianus; Governor of Syria,
+        Antonius Primus commanding Leg. VII Galbiana, and Cornelius
+        Fuscus, Procurator of Pannonia.
+
+        Mucianus moves slowly westward with Leg. VI Ferrata and
+        detachments from the other Eastern legions.
+
+        Vespasian holds Egypt, Rome's granary.
+
+        Titus takes command in Judaea.
+
+        Antonius Primus with Arrius Varus hurries forward into Italy.
+
+  _August_
+
+        Vitellius vegetates in Rome.
+
+        Caecina marches to meet the invasion. (Valens aegrotat.) His
+        Legions are I, IV Macedonica, XV Primigenia, XVI, V Alaudae,
+        XXII Primigenia, I Italica, XXI Rapax, and detachments from
+        Britain.
+
+
+FOOTNOTES:
+
+     [3] i.e. in Pannonia Legs. VII Galbiana and XIII Gemina; in
+         Dalmatia XI Claudia and XIV Gemina; in Moesia III Gallica, VII
+         Claudia, VIII Augusta.
+
+     [4] See note above.
+
+
+
+
+NOTE
+
+The text followed is that of C.D. Fisher (_Oxford Classical Texts_).
+Departures from it are mentioned in the notes.
+
+
+
+
+BOOK I
+
+
+PREFACE
+
+[A.D. 69.] I propose to begin my narrative with the second               1
+consulship of Servius Galba, in which Titus Vinius was his colleague.
+Many historians have dealt with the 820 years of the earlier period
+beginning with the foundation of Rome, and the story of the Roman
+Republic has been told with no less ability than truth. After the
+Battle of Actium, when the interests of peace were served by the
+centralization of all authority in the hands of one man, there
+followed a dearth of literary ability, and at the same time truth
+suffered more and more, partly from ignorance of politics, which were
+no longer a citizen's concern, partly from the growing taste for
+flattery or from hatred of the ruling house. So between malice on one
+side and servility on the other the interests of posterity were
+neglected. But historians find that a tone of flattery soon incurs the
+stigma of servility and earns for them the contempt of their readers,
+whereas people readily open their ears to the criticisms of envy,
+since malice makes a show of independence. Of Galba, Otho, and
+Vitellius, I have known nothing either to my advantage or my hurt. I
+cannot deny that I originally owed my position to Vespasian, or that I
+was advanced by Titus and still further promoted by Domitian;[5] but
+professing, as I do, unbiassed honesty, I must speak of no man either
+with hatred or affection. I have reserved for my old age, if life is
+spared to me, the reigns of the sainted Nerva and of the Emperor
+Trajan, which afford a richer and withal a safer theme:[6] for it is
+the rare fortune of these days that a man may think what he likes and
+say what he thinks.

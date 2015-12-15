@@ -1,0 +1,419 @@
+across the Sun at two terrestrial stations as far as possible removed
+from each other, marking the two points at which the planet, seen from
+their respective stations, appears to be projected at the same moment on
+the solar disk. This measure gives the width of an angle formed by two
+lines, which starting from two diametrically opposite points of the
+Earth, cross upon Venus, and form an identical angle upon the Sun. Venus
+is thus at the apex of two equal triangles, the bases of which rest,
+respectively, upon the Earth and on the Sun. The measurement of this
+angle gives what is called the parallax of the Sun--that is, the angular
+dimension at which the Earth would be seen at the distance of the Sun.
+
+[Illustration: FIG. 83.--Measurement of the distance of the Sun.]
+
+Thus, it has been found that the half-diameter of the Earth viewed from
+the Sun measures 8.82". Now, we know that an object presenting an angle
+of one degree is at a distance of 57 times its length.
+
+The same object, if it subtends an angle of a minute, or the sixtieth
+part of a degree, indicates by the measurement of its angle that it is
+60 times more distant, _i.e._, 3,438 times.
+
+Finally, an object that measures one second, or the sixtieth part of a
+minute, is at a distance of 206,265 times its length.
+
+Hence we find that the Earth is at a distance from the Sun of
+206,265/8.82--that is, 23,386 times its half-diameter, that is,
+149,000,000 kilometers (93,000,000 miles). This measurement again is as
+precise and certain as that of the Moon.
+
+I hope my readers will easily grasp this simple method of triangulation,
+the result of which indicates to us with absolute certainty the distance
+of the two great celestial torches to which we owe the radiant light of
+day and the gentle illumination of our nights.
+
+The distance of the Sun has, moreover, been confirmed by other means,
+whose results agree perfectly with the preceding. The two principal are
+based on the velocity of light. The propagation of light is not
+instantaneous, and notwithstanding the extreme rapidity of its
+movements, a certain time is required for its transmission from one
+point to another. On the Earth, this velocity has been measured as
+300,000 kilometers (186,000 miles) per second. To come from Jupiter to
+the Earth, it requires thirty to forty minutes, according to the
+distance of the planet. Now, in examining the eclipses of Jupiter's
+satellites, it has been discovered that there is a difference of 16
+minutes, 34 seconds in the moment of their occurrence, according as
+Jupiter is on one side or on the other of the Sun, relatively to the
+Earth, at the minimum and maximum distance. If the light takes 16
+minutes, 34 seconds to traverse the terrestrial orbit, it must take less
+than that time, or 8 minutes, 17 seconds, to come to us from the Sun,
+which is situated at the center. Knowing the velocity of light, the
+distance of the Sun is easily found by multiplying 300,000 by 8 minutes,
+17 seconds, or 497 seconds, which gives about 149,000,000 kilometers
+(93,000,000 miles).
+
+Another method founded upon the velocity of light again gives a
+confirmatory result. A familiar example will explain it: Let us imagine
+ourselves exposed to a vertical rain; the degree of inclination of our
+umbrella will depend on the relation between our speed and that of the
+drops of rain. The more quickly we run, the more we need to dip our
+umbrella in order not to meet the drops of water. Now the same thing
+occurs for light. The stars, disseminated in space, shed floods of light
+upon the Heavens. If the Earth were motionless, the luminous rays would
+reach us directly. But our planet is spinning, racing, with the utmost
+speed, and in our astronomical observations we are forced to follow its
+movements, and to incline our telescopes in the direction of its
+advance. This phenomenon, known under the name of _aberration_ of light,
+is the result of the combined effects of the velocity of light and of
+the Earth's motion. It shows that the speed of our globe is equivalent
+to 1/10000 that of light, _i.e._, = about 30 kilometers (19 miles) per
+second. Our planet accordingly accomplishes her revolution round the Sun
+along an orbit which she traverses at a speed of 30 kilometers (better
+29-1/2) per second, or 1,770 kilometers per minute, or 106,000
+kilometers per hour, or 2,592,000 kilometers per day, or 946,080,000
+kilometers (586,569,600 miles) in the year. This is the length of the
+elliptical path described by the Earth in her annual translation.
+
+The length of orbit being thus discovered, one can calculate its
+diameter, the half of which is exactly the distance of the Sun.
+
+We may cite one last method, whose data, based upon attraction, are
+provided by the motions of our satellite. The Moon is a little disturbed
+in the regularity of her course round the Earth by the influence of the
+powerful Sun. As the attraction varies inversely with the square of the
+distance, the distance may be determined by analyzing the effect it has
+upon the Moon.
+
+Other means, on which we will not enlarge in this summary of the methods
+employed for determinations, confirm the precisions of these
+measurements with certainty. Our readers must forgive us for dwelling
+at some length upon the distance of the orb of day, since this
+measurement is of the highest importance; it serves as the base for the
+valuation of all stellar distances, and may be considered as the meter
+of the universe.
+
+This radiant Sun to which we owe so much is therefore enthroned in space
+at a distance of 149,000,000 kilometers (93,000,000 miles) from here.
+Its vast brazier must indeed be powerful for its influence to be exerted
+upon us to such a manifest extent, it being the very condition of our
+existence, and reaching out as far as Neptune, thirty times more remote
+than ourselves from the solar focus.
+
+It is on account of its great distance that the Sun appears to us no
+larger than the Moon, which is only 384,000 kilometers (238,000 miles)
+from here, and is itself illuminated by the brilliancy of this splendid
+orb.
+
+No terrestrial distance admits of our conceiving of this distance. Yet,
+if we associate the idea of space with the idea of time, as we have
+already done for the Moon, we may attempt to picture this abyss. The
+train cited just now would, if started at a speed of a kilometer a
+minute, arrive at the Sun after an uninterrupted course of 283 years,
+and taking as long to return to the Earth the total would be 566 years.
+Fourteen generations of stokers would be employed on this celestial
+excursion before the bold travelers could bring back news of the
+expedition to us.
+
+Sound is transmitted through the air at a velocity of 340 meters (1,115
+feet) per second. If our atmosphere reached to the Sun, the noise of an
+explosion sufficiently formidable to be heard here would only reach us
+at the end of 13 years, 9 months. But the more rapid carriers, such as
+the telegraph, would leap across to the orb of day in 8 minutes, 17
+seconds.
+
+Our imagination is confounded before this gulf of 93,000,000 miles,
+across which we see our dazzling Sun, whose burning rays fly rapidly
+through space in order to reach us.
+
+       *       *       *       *       *
+
+And now let us see how the distances of the planets were determined.
+
+We will leave aside the method of which we have been speaking; that now
+to be employed is quite different, but equally precise in its results.
+
+It is obvious that the revolution of a planet round the Sun will be
+longer in proportion as the distance is greater, and the orbit that has
+to be traveled vaster. This is simple. But the most curious thing is
+that there is a geometric proportion in the relations between the
+duration of the revolutions of the planets and their distances. This
+proportion was discovered by Kepler, after thirty years of research,
+and embodied in the following formula:
+
+"The squares of the times of revolution of the planets round the Sun
+(the periodic times) are proportional to the cubes of their mean
+distances from the Sun."
+
+This is enough to alarm the boldest reader. And yet, if we unravel this
+somewhat incomprehensible phrase, we are struck with its simplicity.
+
+What is a square? We all know this much; it is taught to children of ten
+years old. But lest it has slipped your memory: a square is simply a
+number multiplied by itself.
+
+Thus: 2 x 2 = 4; 4 is the square of 2.
+
+Four times 4 is 16; 16 is the square of 4.
+
+And so on, indefinitely.
+
+Now, what is a cube? It is no more difficult. It is a number multiplied
+twice by itself.
+
+For instance: 2 multiplied by 2 and again by 2 equals 8. So 8 is the
+cube of 2. 3 x 3 x 3 = 27; 27 is the cube of 3, and so on.
+
+Now let us take an example that will show the simplicity and precision
+of the formula enunciated above. Let us choose a planet, no matter
+which. Say, Jupiter, the giant of the worlds. He is the Lord of our
+planetary group. This colossal star is five times (precisely, 5.2) as
+far from us as the Sun.
+
+Multiply this number twice by itself 5.2 x 5.2 x 5.2 = 140.
+
+On the other hand, the revolution of Jupiter takes almost twelve years
+(11.85). This number multiplied by itself also equals 140. The square of
+the number 11.85 is equal to the cube of the number 5.2. This very
+simple law regulates all the heavenly bodies.
+
+Thus, to find the distance of a planet, it is sufficient to observe the
+time of its revolution, then to discover the square of the given number
+by multiplying it into itself. The result of the operation gives
+simultaneously the cube of the number that represents the distance.
+
+To express this distance in kilometers (or miles), it is sufficient to
+multiply it by 149,000,000 (in miles 93,000,000), the key to the system
+of the world.
+
+Nothing, then, could be less complicated than the definition of these
+methods. A few moments of attention reveal to us in their majestic
+simplicity the immutable laws that preside over the immense harmony of
+the Heavens.
+
+       *       *       *       *       *
+
+But we must not confine ourselves to our own solar province. We have yet
+to speak of the stars that reign in infinite space far beyond our
+radiant Sun.
+
+Strange and audacious as it may appear, the human mind is able to cross
+these heights, to rise on the wings of genius to these distant suns,
+and to plumb the depths of the abyss that separates us from these
+celestial kingdoms.
+
+Here, we return to our first method, that of triangulation. And the
+distance that separates us from the Sun must serve in calculating the
+distances of the stars.
+
+The Earth, spinning round the Sun at a distance of 149,000,000
+kilometers (93,000,000 miles), describes a circumference, or rather an
+ellipse, of 936,000,000 kilometers (580,320,000 miles), which it travels
+over in a year. The distance of any point of the terrestrial orbit from
+the diametrically opposite point which it passes six months later is
+298,000,000 kilometers (184,760,000 miles), _i.e._, the diameter of this
+orbit. This immense distance (in comparison with those with which we are
+familiar) serves as the base of a triangle of which the apex is a star.
+
+The difficulty in exact measurements of the distance of a star consists
+in observing the little luminous point persistently for a whole year, to
+see if this star is stationary, or if it describes a minute ellipse
+reproducing in perspective the annual revolution of the Earth.
+
+If it remains fixed, it is lost in such depths of space that it is
+impossible to gage the distance, and our 298,000,000 kilometers have no
+meaning in view of such an abyss. If, on the contrary, it is displaced,
+it will in the year describe a minute ellipse, which is only the
+reflection, the perspective in miniature, of the revolution of our
+planet round the Sun.
+
+The annual parallax of a star is the angle under which one would see the
+radius, or half-diameter, of the terrestrial orbit from it. This radius
+of 149,000,000 kilometers (93,000,000 miles) is indeed, as previously
+observed, the unit, the meter of celestial measures. The angle is of
+course smaller in proportion as the star is more distant, and the
+apparent motion of the star diminishes in the same proportion. But the
+stars are all so distant that their annual displacement of perspective
+is almost imperceptible, and very exact instruments are required for its
+detection.
+
+[Illustration: FIG. 84.--Small apparent ellipses described by the stars
+as a result of the annual displacement of the Earth.]
+
+The researches of the astronomers have proved that there is not one star
+for which the parallax is equal to that of another. The minuteness of
+this angle, and the extraordinary difficulties experienced in measuring
+the distance of the stars, will be appreciated from the fact that the
+value of a second is so small that the displacement of any star
+corresponding with it could be covered by a spider's thread.
+
+A second of arc corresponds to the size of an object at a distance of
+206,265 times its diameter; to a millimeter seen at 206 meters'
+distance; to a hair, 1/10 of a millimeter in thickness, at 20 meters'
+distance (more invisible to the naked eye). And yet this value is in
+excess of those actually obtained. In fact:--the apparent displacement
+of the nearest star is calculated at 75/100 of a second (0.75"), _i.e._,
+from this star, [alpha] of Centaur, the half-diameter of the terrestrial
+orbit is reduced to this infinitesimal dimension. Now in order that the
+length of any straight line seen from the front be reduced until it
+appear to subtend no more than an angle of 0.75", it must be removed to
+a distance 275,000 times its length. As the radius of the terrestrial
+orbit is 149,000,000 kilometers (93,000,000 miles), the distance which
+separates [alpha] of Centaur from our world must therefore =
+41,000,000,000,000 kilometers (25,000,000,000,000 miles). And that is
+the nearest star. We saw in Chapter II that it shines in the southern
+hemisphere. The next, and one that can be seen in our latitudes, is 61
+of Cygnus, which floats in the Heavens 68,000,000,000,000 kilometers
+(42,000,000,000,000 miles) from here. This little star, of fifth
+magnitude, was the first of which the distance was determined (by
+Bessel, 1837-1840).
+
+All the rest are much more remote, and the procession is extended to
+infinity.
+
+We can not conceive directly of such distances, and in order to imagine
+them we must again measure space by time.
+
+In order to cover the distance that separates us from our neighbor,
+[alpha] of Centaur, _light_, the most rapid of all couriers, takes 4
+years, 128 days. If we would follow it, we must not jump from start to
+finish, for that would not give us the faintest idea of the distance: we
+must take the trouble to think out the direct advance of the ray of
+light, and associate ourselves with its progress. We must see it
+traverse 300,000 kilometers (186,000 miles) during the first second of
+the journey; then 300,000 more in the second, which makes 600,000
+kilometers; then once more 300,000 kilometers during the third, and so
+on without stopping for four years and four months. If we take this
+trouble we may realize the value of the figure; otherwise, as this
+number surpasses all that we are in the habit of realizing, it will have
+no significance for us, and will be a dead letter.
+
+If some appalling explosion occurred in this star, and the sound in its
+flight of 340 meters (1,115 feet) per second were able to cross the
+void that separates us from it, the noise of this explosion would only
+reach us in 3,000,000 years.
+
+A train started at a speed of 106 kilometers (65 miles) per hour would
+have to run for 46,000,000 years, in order to reach this star, our
+neighbor in the celestial kingdom.
+
+The distance of some thirty of the stars has been determined, but the
+results are dubious.
+
+The dazzling Sirius reigns 92,000,000,000,000 kilometers
+(57,000,000,000,000 miles), the pale Vega at 204,000,000,000,000. Each
+of these magnificent stars must be a huge sun to burn at such a distance
+with such luminosity. Some are millions of times larger than the Earth.
+Most of them are more voluminous than our Sun. On all sides they
+scintillate at inaccessible distances, and their light strays a long
+while in space before it encounters the Earth. The luminous ray that we
+receive to-day from some pale star hardly perceptible to our eyes--so
+enormous is its distance--may perhaps bring us the last emanation of a
+sun that expired thousands of years ago.
+
+       *       *       *       *       *
+
+If these methods have been clear to my readers, they may also be
+interested perhaps in knowing the means employed in weighing the worlds.
+The process is as simple and as clear as those of which we have been
+speaking.
+
+_Weighing the stars!_ Such a pretension seems Utopian, and one asks
+oneself curiously what sort of balance the astronomers must have adopted
+in order to calculate the weight of Sun, Moon, planets or stars.
+
+Here, figures replace weights. Ladies proverbially dislike figures: yet
+it would be easier for some society dame to weigh the Sun at the point
+of her pen, by writing down a few columns of figures with a little care,
+than to weigh a 12 kilogram case of fruit, or a dress-basket of 35
+kilos, by direct methods.
+
+Weighing the Sun is an amusement like any other, and a change of
+occupation.
+
+If the Moon were not attracted by the Earth, she would glide through the
+Heavens along an indefinite straight line, escaping at the tangent. But
+in virtue of the attraction that governs the movements of all the
+Heavenly bodies, our satellite at a distance of 60 times the terrestrial
+half-diameter revolves round us in 27 days, 7 hours, 43 minutes, 11-1/2
+seconds, continually leaving the straight line to approach the Earth,
+and describing an almost circular orbit in space. If at any moment we
+trace an arc of the lunar orbit, and if a tangent is taken to this arc,
+the deviation from the straight line caused by the attraction of our
+planet is found to be 1-1/3 millimeter per second.
+
+This is the quantity by which the Moon drops toward us in each second,
+during which she accomplishes 1,017 meters of her orbit.
+
+On the other hand, no body can fall unless it be attracted, drawn by
+another body of a more powerful mass.
+
+Beings, animals, objects, adhere to the soil, and weigh upon the Earth,
+because they are constantly attracted to it by an irresistible force.
+
+Weight and universal attraction are one and the same force.
+
+On the other hand, it can be determined that if an object is left to
+itself upon the surface of the Earth, it drops 4.90 meters during the
+first second of its fall.
+
+We also know that attraction diminishes with the square of the distance,
+and that if we could raise a stone to the height of the Moon, and then
+abandon it to the attraction of our planet, it would in the first second
+fall 4.90 meters divided by the square of 60, or 3,600--that is, of
+1-1/3 millimeters, exactly the quantity by which the Moon deviates from
+the straight line she would pursue if the Earth were not influencing
+her.
+
+The reasoning just stated for the Moon is equally applicable to the Sun.
+
+The distance of the Sun is 23,386 times the radius of the Earth. In
+order to know how much the intensity of terrestrial weight would be
+diminished at such a distance, we should look, in the first place, for
+the square of the number representing the distance--that is, 23,386
+multiplied by itself, = 546,905,000. If we divide 4.90 meters, which
+represents the attractive force of our planet, by this number, we get
+9/1000000 of a millimeter, and we see that at the distance of the Sun,
+the Earth's attraction would really be almost _nil_.
+
+Now let us do for our planet what we did for its satellite. Let us trace
+the annual orbit of the terrestrial globe round the central orb, and we
+shall find that the Earth falls in each second 2.9 millimeters toward
+the Sun.
+
+This proportion gives the attractive force of the Sun in relation to
+that of the Earth, and proves that the Sun is 324,000 times more
+powerful than our world, for 2.9 millimeters divided by 0.000,009 equals
+324,000, if worked out into the ultimate fractions neglected here for
+the sake of simplicity.
+
+A great number of stars have been weighed by the same method.
+
+Their mass is estimated by the movement of a satellite round them, and
+it is by this method that we are able to affirm that Jupiter is 310
+times heavier than the Earth, Saturn 92 times, Neptune 16 times, Uranus
+14 times, while Mars is much less heavy, its weight being only
+two-thirds that of our own.
+
+The planets which have no satellites have been weighed by the
+perturbations which they cause in other stars, or in the imprudent
+comets that sometimes tarry in their vicinity. Mercury weighs very much
+less than the Earth (only 6/100) and Venus about 8/10. So the beautiful
+star of the evening and morning is not so light as her name might imply,
+and there is no great difference between her weight and our own.
+
+As the Moon has no secondary body submitted to her influence, her weight
+has been calculated by reckoning the amount of water she attracts at
+each tide in the ocean, or by observing the effects of her attraction on
+the terrestrial globe. When the Moon is before us, in the last quarter,
+she makes us travel faster, whereas in the first quarter, when she is
+behind, she delays us.
+
+All the calculations agree in showing us that the orb of night is 81
+times less heavy than our planet. There is nearly as much difference in
+weight between the Earth and the Moon as between an orange and a grape.
+
+       *       *       *       *       *
+
+Not content with weighing the planets of our system, astronomers have
+investigated the weight of the stars. How have they been enabled to
+ascertain the quantity of matter which constitutes these distant

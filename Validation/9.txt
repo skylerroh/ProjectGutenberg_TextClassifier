@@ -1,0 +1,2661 @@
+The Project Gutenberg EBook of Summa Theologica, Part II-II (Secunda
+Secundae), by Thomas Aquinas
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Summa Theologica, Part II-II (Secunda Secundae)
+
+Author: Thomas Aquinas
+
+Translator: Fathers of the English Dominican Province
+
+Release Date: July 4, 2006 [EBook #18755]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SUMMA THEOLOGICA, PART II-II ***
+
+
+
+
+Produced by Sandra K. Perry, with corrections and
+supplementation by David McClamrock
+
+
+
+
+
+
+SUMMA THEOLOGICA
+
+PART II-II ("Secunda Secundae")
+
+Translated by
+Fathers of the English Dominican Province
+
+BENZIGER BROTHERS
+NEW YORK
+________________________
+
+DEDICATION
+
+To the Blessed Virgin
+Mary Immaculate
+Seat of Wisdom
+________________________
+
+NOTE TO THIS ELECTRONIC EDITION
+
+The text of this electronic edition was originally produced by Sandra
+K. Perry, Perrysburg, Ohio, and made available through the Christian
+Classics Ethereal Library <http://www.ccel.org>. I have eliminated
+unnecessary formatting in the text, corrected some errors in
+transcription, and added the dedication, tables of contents,
+Prologue, and the numbers of the questions and articles, as they
+appeared in the printed translation published by Benziger Brothers.
+Each article is now designated by part, question number, and article
+number in brackets, like this:
+
+> SECOND ARTICLE [I, Q. 49, Art. 2]
+
+> Whether the Supreme Good, God, Is the Cause of Evil?
+
+In a few places, where obvious errors appeared in the Benziger
+Brothers edition, I have corrected them by reference to a Latin text
+of the _Summa._ These corrections are indicated by English text in
+brackets. For example, in Part I, Question 45, Article 2, the first
+sentence in the Benziger Brothers edition begins: "Not only is it
+impossible that anything should be created by God...." By reference
+to the Latin, "non solum _non_ est impossibile a Deo aliquid creari"
+(emphasis added), this has been corrected to "Not only is it [not]
+impossible that anything should be created by God...."
+
+This electronic edition also differs from the Benziger Brothers
+edition in the following details (as well as the obvious lack of the
+original page numbers and headers):
+
+* The repetitive expression "We proceed thus to the [next] Article"
+does not appear directly below the title of each article.
+
+* Italics are represented by underscores at the beginning and end,
+_like this._ Quotations and other "quotable" matter, however, are
+ordinarily set off by quotation marks with no underscores in this
+edition, in accordance with common English usage, even where they
+were set in italics with no quotation marks in the Benziger Brothers
+edition. Titles of books are set off by underscores when they appear
+in the text with no parentheses, but not when the books are cited in
+parentheses.
+
+* Bible chapters and verses are cited with arabic numerals separated
+by colons, like this: "Dan. 7:10"--not like this: "Dan. vii. 10."
+Small roman numerals have been retained where they appear in
+citations to books other than the Bible.
+
+* Any matter that appeared in a footnote in the Benziger Brothers
+edition is presented in brackets at the point in the text where the
+footnote mark appeared.
+
+* Greek words are presented in Roman transliteration.
+
+* Paragraphs are not indented and are separated by blank lines.
+
+* Numbered topics, set forth at the beginning of each question and
+at certain other places, are ordinarily presented on a separate line
+for each topic.
+
+* Titles of questions are in all caps.
+
+Anything else in this electronic edition that does not correspond to
+the content of the Benziger Brothers edition may be regarded as a
+defect in this edition and attributed to me (David McClamrock).
+
+________________________
+
+CONTENTS
+
+SECOND PART OF THE SECOND PART (QQ. 1-189)
+
+Question
+
+1.   Of Faith
+2.   Of the Act of Faith
+3.   Of the Outward Act of Faith
+4.   Of the Virtue Itself of Faith
+5.   Of Those Who Have Faith
+6.   Of the Cause of Faith
+7.   Of the Effects of Faith
+8.   Of the Gift of Understanding
+9.   Of the Gift of Knowledge
+10.  Of Unbelief in General
+11.  Of Heresy
+12.  Of Apostasy
+13.  Of the Sin of Blasphemy, in General
+14.  Of Blasphemy Against the Holy Ghost
+15.  Of the Vices Opposed to Knowledge and Understanding
+16.  Of the Precepts of Faith, Knowledge, and Understanding
+17.  Of Hope, Considered in Itself
+18.  Of the Subject of Hope
+19.  Of the Gift of Fear
+20.  Of Despair
+21.  Of Presumption
+22.  Of the Precepts Relating to Hope and Fear
+23.  Of Charity, Considered in Itself
+24.  Of the Subject of Charity
+25.  Of the Object of Charity
+26.  Of the Order of Charity
+27.  Of the Principal Act of Charity, Which Is to Love
+28.  Of Joy
+29.  Of Peace
+30.  Of Mercy
+31.  Of Beneficence
+32.  Of Almsdeeds
+33.  Of Fraternal Correction
+34.  Of Hatred
+35.  Of Sloth
+36.  Of Envy
+37.  Of Discord, Which Is Contrary to Peace
+38.  Of Contention
+39.  Of Schism
+40.  Of War
+41.  Of Strife
+42.  Of Sedition
+43.  Of Scandal
+44.  Of the Precepts of Charity
+45.  Of the Gift of Wisdom
+46.  Of Folly Which Is Opposed to Wisdom
+
+TREATISE ON PRUDENCE AND JUSTICE
+
+47.  Of Prudence Considered in Itself
+48.  Of the Parts of Prudence
+49.  Of Each Quasi-integral Part of Prudence
+50.  Of the Subjective Parts of Prudence
+51.  Of the Virtues Which Are Connected with Prudence
+52.  Of the Gift of Counsel
+53.  Of Imprudence
+54.  Of Negligence
+55.  Of Vices Opposed to Prudence by Way of Resemblance
+56.  Of the Precepts Relating to Prudence
+57.  Of Right
+58.  Of Justice
+59.  Of Injustice
+60.  Of Judgment
+61.  Of the Parts of Justice
+62.  Of Restitution
+63.  Of Respect of Persons
+64.  Of Murder
+65.  Of Injuries Committed on the Person
+66.  Of Theft and Robbery
+67.  Of the Injustice of a Judge, in Judging
+68.  Of Matters Concerning Unjust Accusation
+69.  Of Sins Committed Against Justice on the Part of the Defendant
+70.  Of Injustice with Regard to the Person of the Witness
+71.  Of Injustice in Judgment on the Part of Counsel
+72.  Of Reviling
+73.  Of Backbiting
+74.  Of Tale-Bearing
+75.  Of Derision
+76.  Of Cursing
+77.  Of Cheating, Which Is Committed in Buying and Selling
+78.  Of the Sin of Usury
+79.  Of the Quasi-integral Parts of Justice
+80.  Of the Potential Parts of Justice
+81.  Of Religion
+82.  Of Devotion
+83.  Of Prayer
+84.  Of Adoration
+85.  Of Sacrifice
+86.  Of Oblations and First-fruits
+87.  Of Tithes
+88.  Of Vows
+89.  Of Oaths
+90.  Of the Taking of God's Name by Way of Adjuration
+91.  Of Taking the Divine Name for the Purpose of Invoking It by
+       Means of Praise
+92.  Of Superstition
+93.  Of Superstition Consisting in Undue Worship of the True God
+94.  Of Idolatry
+95.  Of Superstition in Divinations
+96.  Of Superstition in Observances
+97.  Of the Temptation of God
+98.  Of Perjury
+99.  Of Sacrilege
+100. On Simony
+101. Of Piety
+102. Of Observance, Considered in Itself, and of Its Parts
+103. Of Dulia
+104. Of Obedience
+105. Of Disobedience
+106. Of Thankfulness or Gratitude
+107. Of Ingratitude
+108. Of Vengeance
+109. Of Truth
+110. Of the Vices Opposed to Truth, and First of Lying
+111. Of Dissimulation and Hypocrisy
+112. Of Boasting
+113. Of Irony
+114. Of the Friendliness Which Is Called Affability
+115. Of Flattery
+116. Of Quarreling
+117. Of Liberality
+118. Of the Vices Opposed to Liberality, and in the First Place,
+     of Covetousness
+119. Of Prodigality
+120. Of "Epikeia" or Equity
+121. Of Piety
+122. Of the Precepts of Justice
+
+TREATISE ON FORTITUDE AND TEMPERANCE
+
+123. Of Fortitude
+124. Of Martyrdom
+125. Of Fear
+126. Of Fearlessness
+127. Of Daring
+128. Of the Parts of Fortitude
+129. Of Magnanimity
+130. Of Presumption
+131. Of Ambition
+132. Of Vainglory
+133. Of Pusillanimity
+134. Of Magnificence
+135. Of Meanness
+136. Of Patience
+137. Of Perseverance
+138. Of the Vices Opposed to Perseverance
+139. Of the Gift of Fortitude
+140. Of the Precepts of Fortitude
+141. Of Temperance
+142. Of the Vices Opposed to Temperance
+143. Of the Parts of Temperance, in General
+144. Of Shamefacedness
+145. Of Honesty
+146. Of Abstinence
+147. Of Fasting
+148. Of Gluttony
+149. Of Sobriety
+150. Of Drunkenness
+151. Of Chastity
+152. Of Virginity
+153. Of Lust
+154. Of the Parts of Lust
+155. Of Continence
+156. Of Incontinence
+157. Of Clemency and Meekness
+158. Of Anger
+159. Of Cruelty
+160. Of Modesty
+161. Of Humility
+162. Of Pride
+163. Of the First Man's Sin
+164. Of the Punishments of the First Man's Sin
+165. Of Our First Parents' Temptation
+166. Of Studiousness
+167. Of Curiosity
+168. Of Modesty as Consisting in the Outward Movements of the Body
+169. Of Modesty in the Outward Apparel
+170. Of the Precepts of Temperance
+
+TREATISE ON ACTS WHICH PERTAIN ESPECIALLY TO CERTAIN MEN
+
+171. Of Prophecy
+172. Of the Cause of Prophecy
+173. Of the Manner in Which Prophetic Knowledge Is Conveyed
+174. Of the Division of Prophecy
+175. Of Rapture
+176. Of the Grace of Tongues
+177. Of the Gratuitous Grace Consisting in Words
+178. Of the Grace of Miracles
+179. Of the Division of Life into Active and Contemplative
+180. Of the Contemplative Life
+181. Of the Active Life
+182. Of the Active Life in Comparison with the Contemplative Life
+183. Of Man's Various Duties and States in General
+184. Of the State of Perfection in General
+185. Of Things Pertaining to the Episcopal State
+186. Of Those Things in Which the Religious State Properly Consists
+187. Of Those Things That Are Competent to Religious
+188. Of the Different Kinds of Religious Life
+189. Of the Entrance into Religious Life
+_______________________
+
+SUMMA THEOLOGICA
+
+SECOND PART OF THE SECOND PART
+["II-II," "Secunda Secundae"]
+_______________________
+
+TREATISE ON THE THEOLOGICAL VIRTUES (QQ. 1-46)
+_______________________
+
+QUESTION 1
+
+OF FAITH (In Ten Articles)
+
+Having to treat now of the theological virtues, we shall begin with
+Faith, secondly we shall speak of Hope, and thirdly, of Charity.
+
+The treatise on Faith will be fourfold: (1) Of faith itself; (2) Of
+the corresponding gifts, knowledge and understanding; (3) Of the
+opposite vices; (4) Of the precepts pertaining to this virtue.
+
+About faith itself we shall consider: (1) its object; (2) its act;
+(3) the habit of faith.
+
+Under the first head there are ten points of inquiry:
+
+(1) Whether the object of faith is the First Truth?
+
+(2) Whether the object of faith is something complex or incomplex,
+i.e. whether it is a thing or a proposition?
+
+(3) Whether anything false can come under faith?
+
+(4) Whether the object of faith can be anything seen?
+
+(5) Whether it can be anything known?
+
+(6) Whether the things to be believed should be divided into a
+certain number of articles?
+
+(7) Whether the same articles are of faith for all times?
+
+(8) Of the number of articles;
+
+(9) Of the manner of embodying the articles in a symbol;
+
+(10) Who has the right to propose a symbol of faith?
+_______________________
+
+FIRST ARTICLE [II-II, Q. 1, Art. 1]
+
+Whether the Object of Faith Is the First Truth?
+
+Objection 1: It would seem that the object of faith is not the First
+Truth. For it seems that the object of faith is that which is
+proposed to us to be believed. Now not only things pertaining to the
+Godhead, i.e. the First Truth, are proposed to us to be believed, but
+also things concerning Christ's human nature, and the sacraments of
+the Church, and the condition of creatures. Therefore the object of
+faith is not only the First Truth.
+
+Obj. 2: Further, faith and unbelief have the same object since they
+are opposed to one another. Now unbelief can be about all things
+contained in Holy Writ, for whichever one of them a man denies, he is
+considered an unbeliever. Therefore faith also is about all things
+contained in Holy Writ. But there are many things therein, concerning
+man and other creatures. Therefore the object of faith is not only
+the First Truth, but also created truth.
+
+Obj. 3: Further, faith is condivided with charity, as stated above
+(I-II, Q. 62, A. 3). Now by charity we love not only God, who is the
+sovereign Good, but also our neighbor. Therefore the object of Faith
+is not only the First Truth.
+
+_On the contrary,_ Dionysius says (Div. Nom. vii) that "faith is
+about the simple and everlasting truth." Now this is the First Truth.
+Therefore the object of faith is the First Truth.
+
+_I answer that,_ The object of every cognitive habit includes two
+things: first, that which is known materially, and is the material
+object, so to speak, and, secondly, that whereby it is known, which is
+the formal aspect of the object. Thus in the science of geometry, the
+conclusions are what is known materially, while the formal aspect of
+the science is the mean of demonstration, through which the
+conclusions are known.
+
+Accordingly if we consider, in faith, the formal aspect of the
+object, it is nothing else than the First Truth. For the faith of
+which we are speaking, does not assent to anything, except because it
+is revealed by God. Hence the mean on which faith is based is the
+Divine Truth. If, however, we consider materially the things to which
+faith assents, they include not only God, but also many other things,
+which, nevertheless, do not come under the assent of faith, except as
+bearing some relation to God, in as much as, to wit, through certain
+effects of the Divine operation, man is helped on his journey towards
+the enjoyment of God. Consequently from this point of view also the
+object of faith is, in a way, the First Truth, in as much as nothing
+comes under faith except in relation to God, even as the object of
+the medical art is health, for it considers nothing save in relation
+to health.
+
+Reply Obj. 1: Things concerning Christ's human nature, and the
+sacraments of the Church, or any creatures whatever, come under
+faith, in so far as by them we are directed to God, and in as much
+as we assent to them on account of the Divine Truth.
+
+The same answer applies to the Second Objection, as regards all
+things contained in Holy Writ.
+
+Reply Obj. 3: Charity also loves our neighbor on account of God, so
+that its object, properly speaking, is God, as we shall show further
+on (Q. 25, A. 1).
+_______________________
+
+SECOND ARTICLE [II-II, Q. 1, Art. 2]
+
+Whether the Object of Faith Is Something Complex, by Way of a
+Proposition?
+
+Objection 1: It would seem that the object of faith is not something
+complex by way of a proposition. For the object of faith is the First
+Truth, as stated above (A. 1). Now the First Truth is something
+simple. Therefore the object of faith is not something complex.
+
+Obj. 2: Further, the exposition of faith is contained in the symbol.
+Now the symbol does not contain propositions, but things: for it is
+not stated therein that God is almighty, but: "I believe in God . . .
+almighty." Therefore the object of faith is not a proposition but a
+thing.
+
+Obj. 3: Further, faith is succeeded by vision, according to 1 Cor.
+13:12: "We see now through a glass in a dark manner; but then face to
+face. Now I know in part; but then I shall know even as I am known."
+But the object of the heavenly vision is something simple, for it is
+the Divine Essence. Therefore the faith of the wayfarer is also.
+
+_On the contrary,_ Faith is a mean between science and opinion. Now
+the mean is in the same genus as the extremes. Since, then, science
+and opinion are about propositions, it seems that faith is likewise
+about propositions; so that its object is something complex.
+
+_I answer that,_ The thing known is in the knower according to the
+mode of the knower. Now the mode proper to the human intellect is to
+know the truth by synthesis and analysis, as stated in the First Part
+(Q. 85, A. 5). Hence things that are simple in themselves, are known
+by the intellect with a certain amount of complexity, just as on the
+other hand, the Divine intellect knows, without any complexity,
+things that are complex in themselves.
+
+Accordingly the object of faith may be considered in two ways. First,
+as regards the thing itself which is believed, and thus the object of
+faith is something simple, namely the thing itself about which we
+have faith. Secondly, on the part of the believer, and in this
+respect the object of faith is something complex by way of a
+proposition.
+
+Hence in the past both opinions have been held with a certain amount
+of truth.
+
+Reply Obj. 1: This argument considers the object of faith on the part
+of the thing believed.
+
+Reply Obj. 2: The symbol mentions the things about which faith is, in
+so far as the act of the believer is terminated in them, as is
+evident from the manner of speaking about them. Now the act of the
+believer does not terminate in a proposition, but in a thing. For as
+in science we do not form propositions, except in order to have
+knowledge about things through their means, so is it in faith.
+
+Reply Obj. 3: The object of the heavenly vision will be the First
+Truth seen in itself, according to 1 John 3:2: "We know that when He
+shall appear, we shall be like to Him: because we shall see Him as He
+is": hence that vision will not be by way of a proposition but by way
+of a simple understanding. On the other hand, by faith, we do not
+apprehend the First Truth as it is in itself. Hence the comparison
+fails.
+_______________________
+
+THIRD ARTICLE [II-II, Q. 1, Art. 3]
+
+Whether Anything False Can Come Under Faith?
+
+Objection 1: It would seem that something false can come under faith.
+For faith is condivided with hope and charity. Now something false can
+come under hope, since many hope to have eternal life, who will not
+obtain it. The same may be said of charity, for many are loved as
+being good, who, nevertheless, are not good. Therefore something false
+can be the object of faith.
+
+Obj. 2: Further, Abraham believed that Christ would be born,
+according to John 8:56: "Abraham your father rejoiced that he might
+see My day: he saw it, and was glad." But after the time of Abraham,
+God might not have taken flesh, for it was merely because He willed
+that He did, so that what Abraham believed about Christ would have
+been false. Therefore the object of faith can be something false.
+
+Obj. 3: Further, the ancients believed in the future birth of Christ,
+and many continued so to believe, until they heard the preaching of
+the Gospel. Now, when once Christ was born, even before He began to
+preach, it was false that Christ was yet to be born. Therefore
+something false can come under faith.
+
+Obj. 4: Further, it is a matter of faith, that one should believe
+that the true Body of Christ is contained in the Sacrament of the
+altar. But it might happen that the bread was not rightly
+consecrated, and that there was not Christ's true Body there, but
+only bread. Therefore something false can come under faith.
+
+_On the contrary,_ No virtue that perfects the intellect is related
+to the false, considered as the evil of the intellect, as the
+Philosopher declares (Ethic. vi, 2). Now faith is a virtue that
+perfects the intellect, as we shall show further on (Q. 4, AA. 2, 5).
+Therefore nothing false can come under it.
+
+_I answer that,_ Nothing comes under any power, habit or act, except by
+means of the formal aspect of the object: thus color cannot be seen
+except by means of light, and a conclusion cannot be known save
+through the mean of demonstration. Now it has been stated (A. 1)
+that the formal aspect of the object of faith is the First Truth; so
+that nothing can come under faith, save in so far as it stands under
+the First Truth, under which nothing false can stand, as neither can
+non-being stand under being, nor evil under goodness. It follows
+therefore that nothing false can come under faith.
+
+Reply Obj. 1: Since the true is the good of the intellect, but not of
+the appetitive power, it follows that all virtues which perfect the
+intellect, exclude the false altogether, because it belongs to the
+nature of a virtue to bear relation to the good alone. On the other
+hand those virtues which perfect the appetitive faculty, do not
+entirely exclude the false, for it is possible to act in accordance
+with justice or temperance, while having a false opinion about what
+one is doing. Therefore, as faith perfects the intellect, whereas
+hope and charity perfect the appetitive part, the comparison between
+them fails.
+
+Nevertheless neither can anything false come under hope, for a man
+hopes to obtain eternal life, not by his own power (since this would
+be an act of presumption), but with the help of grace; and if he
+perseveres therein he will obtain eternal life surely and infallibly.
+
+In like manner it belongs to charity to love God, wherever He may be;
+so that it matters not to charity, whether God be in the individual
+whom we love for God's sake.
+
+Reply Obj. 2: That "God would not take flesh," considered in itself
+was possible even after Abraham's time, but in so far as it stands in
+God's foreknowledge, it has a certain necessity of infallibility, as
+explained in the First Part (Q. 14, AA. 13, 15): and it is thus that
+it comes under faith. Hence in so far as it comes under faith, it
+cannot be false.
+
+Reply Obj. 3: After Christ's birth, to believe in Him, was to believe
+in Christ's birth at some time or other. The fixing of the time,
+wherein some were deceived was not due to their faith, but to a human
+conjecture. For it is possible for a believer to have a false opinion
+through a human conjecture, but it is quite impossible for a false
+opinion to be the outcome of faith.
+
+Reply Obj. 4: The faith of the believer is not directed to such and
+such accidents of bread, but to the fact that the true body of Christ
+is under the appearances of sensible bread, when it is rightly
+consecrated. Hence if it be not rightly consecrated, it does not
+follow that anything false comes under faith.
+_______________________
+
+FOURTH ARTICLE [II-II, Q. 1, Art. 4]
+
+Whether the Object of Faith Can Be Something Seen?
+
+Objection 1: It would seem that the object of faith is something
+seen. For Our Lord said to Thomas (John 20:29): "Because thou hast
+seen Me, Thomas, thou hast believed." Therefore vision and faith
+regard the same object.
+
+Obj. 2: Further, the Apostle, while speaking of the knowledge of
+faith, says (1 Cor. 13:12): "We see now through a glass in a dark
+manner." Therefore what is believed is seen.
+
+Obj. 3: Further, faith is a spiritual light. Now something is seen
+under every light. Therefore faith is of things seen.
+
+Obj. 4: Further, "Every sense is a kind of sight," as Augustine
+states (De Verb. Domini, Serm. xxxiii). But faith is of things heard,
+according to Rom. 10:17: "Faith . . . cometh by hearing." Therefore
+faith is of things seen.
+
+_On the contrary,_ The Apostle says (Heb. 11:1) that "faith is the
+evidence of things that appear not."
+
+_I answer that,_ Faith implies assent of the intellect to that which
+is believed. Now the intellect assents to a thing in two ways. First,
+through being moved to assent by its very object, which is known
+either by itself (as in the case of first principles, which are held
+by the habit of understanding), or through something else already
+known (as in the case of conclusions which are held by the habit of
+science). Secondly the intellect assents to something, not through
+being sufficiently moved to this assent by its proper object, but
+through an act of choice, whereby it turns voluntarily to one side
+rather than to the other: and if this be accompanied by doubt or fear
+of the opposite side, there will be opinion, while, if there be
+certainty and no fear of the other side, there will be faith.
+
+Now those things are said to be seen which, of themselves, move the
+intellect or the senses to knowledge of them. Wherefore it is evident
+that neither faith nor opinion can be of things seen either by the
+senses or by the intellect.
+
+Reply Obj. 1: Thomas "saw one thing, and believed another" [*St.
+Gregory: Hom. xxvi in Evang.]: he saw the Man, and believing Him to
+be God, he made profession of his faith, saying: "My Lord and my God."
+
+Reply Obj. 2: Those things which come under faith can be considered
+in two ways. First, in particular; and thus they cannot be seen and
+believed at the same time, as shown above. Secondly, in general, that
+is, under the common aspect of credibility; and in this way they are
+seen by the believer. For he would not believe unless, on the
+evidence of signs, or of something similar, he saw that they ought to
+be believed.
+
+Reply Obj. 3: The light of faith makes us see what we believe. For
+just as, by the habits of the other virtues, man sees what is
+becoming to him in respect of that habit, so, by the habit of faith,
+the human mind is directed to assent to such things as are becoming
+to a right faith, and not to assent to others.
+
+Reply Obj. 4: Hearing is of words signifying what is of faith, but
+not of the things themselves that are believed; hence it does not
+follow that these things are seen.
+_______________________
+
+FIFTH ARTICLE [II-II, Q. 1, Art. 5]
+
+Whether Those Things That Are of Faith Can Be an Object of Science
+[*Science is certain knowledge of a demonstrated conclusion through
+its demonstration]?
+
+Objection 1: It would seem that those things that are of faith can be
+an object of science. For where science is lacking there is
+ignorance, since ignorance is the opposite of science. Now we are not
+in ignorance of those things we have to believe, since ignorance of
+such things savors of unbelief, according to 1 Tim. 1:13: "I did it
+ignorantly in unbelief." Therefore things that are of faith can be an
+object of science.
+
+Obj. 2: Further, science is acquired by reasons. Now sacred writers
+employ reasons to inculcate things that are of faith. Therefore such
+things can be an object of science.
+
+Obj. 3: Further, things which are demonstrated are an object of
+science, since a "demonstration is a syllogism that produces
+science." Now certain matters of faith have been demonstrated by the
+philosophers, such as the Existence and Unity of God, and so forth.
+Therefore things that are of faith can be an object of science.
+
+Obj. 4: Further, opinion is further from science than faith is, since
+faith is said to stand between opinion and science. Now opinion and
+science can, in a way, be about the same object, as stated in Poster.
+i. Therefore faith and science can be about the same object also.
+
+_On the contrary,_ Gregory says (Hom. xxvi in Evang.) that "when a
+thing is manifest, it is the object, not of faith, but of
+perception." Therefore things that are of faith are not the object of
+perception, whereas what is an object of science is the object of
+perception. Therefore there can be no faith about things which are an
+object of science.
+
+_I answer that,_ All science is derived from self-evident and
+therefore "seen" principles; wherefore all objects of science must
+needs be, in a fashion, seen.
+
+Now as stated above (A. 4), it is impossible that one and the same
+thing should be believed and seen by the same person. Hence it is
+equally impossible for one and the same thing to be an object of
+science and of belief for the same person. It may happen, however,
+that a thing which is an object of vision or science for one, is
+believed by another: since we hope to see some day what we now
+believe about the Trinity, according to 1 Cor. 13:12: "We see now
+through a glass in a dark manner; but then face to face": which
+vision the angels possess already; so that what we believe, they see.
+In like manner it may happen that what is an object of vision or
+scientific knowledge for one man, even in the state of a wayfarer,
+is, for another man, an object of faith, because he does not know it
+by demonstration.
+
+Nevertheless that which is proposed to be believed equally by all, is
+equally unknown by all as an object of science: such are the things
+which are of faith simply. Consequently faith and science are not
+about the same things.
+
+Reply Obj. 1: Unbelievers are in ignorance of things that are of
+faith, for neither do they see or know them in themselves, nor do
+they know them to be credible. The faithful, on the other hand, know
+them, not as by demonstration, but by the light of faith which makes
+them see that they ought to believe them, as stated above (A. 4, ad
+2, 3).
+
+Reply Obj. 2: The reasons employed by holy men to prove things that
+are of faith, are not demonstrations; they are either persuasive
+arguments showing that what is proposed to our faith is not
+impossible, or else they are proofs drawn from the principles of
+faith, i.e. from the authority of Holy Writ, as Dionysius declares
+(Div. Nom. ii). Whatever is based on these principles is as well
+proved in the eyes of the faithful, as a conclusion drawn from
+self-evident principles is in the eyes of all. Hence again, theology
+is a science, as we stated at the outset of this work (P. I, Q. 1, A. 2).
+
+Reply Obj. 3: Things which can be proved by demonstration are
+reckoned among the articles of faith, not because they are believed
+simply by all, but because they are a necessary presupposition to
+matters of faith, so that those who do not known them by
+demonstration must know them first of all by faith.
+
+Reply Obj. 4: As the Philosopher says (Poster. i), "science and
+opinion about the same object can certainly be in different men," as
+we have stated above about science and faith; yet it is possible for
+one and the same man to have science and faith about the same thing
+relatively, i.e. in relation to the object, but not in the same
+respect. For it is possible for the same person, about one and the
+same object, to know one thing and to think another: and, in like
+manner, one may know by demonstration the unity of the Godhead, and,
+by faith, the Trinity. On the other hand, in one and the same man,
+about the same object, and in the same respect, science is
+incompatible with either opinion or faith, yet for different reasons.
+Because science is incompatible with opinion about the same object
+simply, for the reason that science demands that its object should be
+deemed impossible to be otherwise, whereas it is essential to
+opinion, that its object should be deemed possible to be otherwise.
+Yet that which is the object of faith, on account of the certainty of
+faith, is also deemed impossible to be otherwise; and the reason why
+science and faith cannot be about the same object and in the same
+respect is because the object of science is something seen whereas
+the object of faith is the unseen, as stated above.
+_______________________
+
+SIXTH ARTICLE [II-II, Q. 1, Art. 6]
+
+Whether Those Things That Are of Faith Should Be Divided into Certain
+Articles?
+
+Objection 1: It would seem that those things that are of faith should
+not be divided into certain articles. For all things contained in
+Holy Writ are matters of faith. But these, by reason of their
+multitude, cannot be reduced to a certain number. Therefore it seems
+superfluous to distinguish certain articles of faith.
+
+Obj. 2: Further, material differences can be multiplied indefinitely,
+and therefore art should take no notice of them. Now the formal
+aspect of the object of faith is one and indivisible, as stated above
+(A. 1), viz. the First Truth, so that matters of faith cannot be
+distinguished in respect of their formal object. Therefore no notice
+should be taken of a material division of matters of faith into
+articles.
+
+Obj. 3: Further, it has been said by some [*Cf. William of Auxerre,
+Summa Aurea] that "an article is an indivisible truth concerning God,
+exacting [arctans] our belief." Now belief is a voluntary act, since,
+as Augustine says (Tract. xxvi in Joan.), "no man believes against
+his will." Therefore it seems that matters of faith should not be
+divided into articles.
+
+_On the contrary,_ Isidore says: "An article is a glimpse of Divine
+truth, tending thereto." Now we can only get a glimpse of Divine truth
+by way of analysis, since things which in God are one, are manifold in
+our intellect. Therefore matters of faith should be divided into
+articles.
+
+_I answer that,_ the word "article" is apparently derived from the
+Greek; for the Greek _arthron_ [*Cf. William of Auxerre, Summa Aurea]
+which the Latin renders "articulus," signifies a fitting together of
+distinct parts: wherefore the small parts of the body which fit
+together are called the articulations of the limbs. Likewise, in the
+Greek grammar, articles are parts of speech which are affixed to
+words to show their gender, number or case. Again in rhetoric,
+articles are parts that fit together in a sentence, for Tully says
+(Rhet. iv) that an article is composed of words each pronounced
+singly and separately, thus: "Your passion, your voice, your look,
+have struck terror into your foes."
+
+Hence matters of Christian faith are said to contain distinct
+articles, in so far as they are divided into parts, and fit together.
+Now the object of faith is something unseen in connection with God, as
+stated above (A. 4). Consequently any matter that, for a special
+reason, is unseen, is a special article; whereas when several matters
+are known or not known, under the same aspect, we are not to
+distinguish various articles. Thus one encounters one difficulty in
+seeing that God suffered, and another in seeing that He rose again
+from the dead, wherefore the article of the Resurrection is distinct
+from the article of the Passion. But that He suffered, died and was
+buried, present the same difficulty, so that if one be accepted, it is
+not difficult to accept the others; wherefore all these belong to one
+article.
+
+Reply Obj. 1: Some things are proposed to our belief are in
+themselves of faith, while others are of faith, not in themselves but
+only in relation to others: even as in sciences certain propositions
+are put forward on their own account, while others are put forward in
+order to manifest others. Now, since the chief object of faith
+consists in those things which we hope to see, according to Heb.
+11:2: "Faith is the substance of things to be hoped for," it follows
+that those things are in themselves of faith, which order us directly
+to eternal life. Such are the Trinity of Persons in Almighty God
+[*The Leonine Edition reads: The Three Persons, the omnipotence of
+God, etc.], the mystery of Christ's Incarnation, and the like: and
+these are distinct articles of faith. On the other hand certain
+things in Holy Writ are proposed to our belief, not chiefly on their
+own account, but for the manifestation of those mentioned above: for
+instance, that Abraham had two sons, that a dead man rose again at
+the touch of Eliseus' bones, and the like, which are related in Holy
+Writ for the purpose of manifesting the Divine mystery or the
+Incarnation of Christ: and such things should not form distinct
+articles.
+
+Reply Obj. 2: The formal aspect of the object of faith can be taken
+in two ways: first, on the part of the thing believed, and thus there
+is one formal aspect of all matters of faith, viz. the First Truth:
+and from this point of view there is no distinction of articles.
+Secondly, the formal aspect of matters of faith, can be considered
+from our point of view; and thus the formal aspect of a matter of
+faith is that it is something unseen; and from this point of view
+there are various distinct articles of faith, as we saw above.
+
+Reply Obj. 3: This definition of an article is taken from an
+etymology of the word as derived from the Latin, rather than in
+accordance with its real meaning, as derived from the Greek: hence it
+does not carry much weight. Yet even then it could be said that
+although faith is exacted of no man by a necessity of coercion, since
+belief is a voluntary act, yet it is exacted of him by a necessity of
+end, since "he that cometh to God must believe that He is," and
+"without faith it is impossible to please God," as the Apostle
+declares (Heb. 11:6).
+_______________________
+
+SEVENTH ARTICLE [II-II, Q. 1, Art. 7]
+
+Whether the Articles of Faith Have Increased in Course of Time?
+
+Objection 1: It would seem that the articles of faith have not
+increased in course of time. Because, as the Apostle says (Heb.
+11:1), "faith is the substance of things to be hoped for." Now the
+same things are to be hoped for at all times. Therefore, at all
+times, the same things are to be believed.
+
+Obj. 2: Further, development has taken place, in sciences devised
+by man, on account of the lack of knowledge in those who discovered
+them, as the Philosopher observes (Metaph. ii). Now the doctrine of
+faith was not devised by man, but was delivered to us by God, as
+stated in Eph. 2:8: "It is the gift of God." Since then there can be
+no lack of knowledge in God, it seems that knowledge of matters of
+faith was perfect from the beginning and did not increase as time
+went on.
+
+Obj. 3: Further, the operation of grace proceeds in orderly fashion
+no less than the operation of nature. Now nature always makes a
+beginning with perfect things, as Boethius states (De Consol. iii).
+Therefore it seems that the operation of grace also began with
+perfect things, so that those who were the first to deliver the
+faith, knew it most perfectly.
+
+Obj. 4: Further, just as the faith of Christ was delivered to us
+through the apostles, so too, in the Old Testament, the knowledge of
+faith was delivered by the early fathers to those who came later,
+according to Deut. 32:7: "Ask thy father, and he will declare to
+thee." Now the apostles were most fully instructed about the
+mysteries, for "they received them more fully than others, even as
+they received them earlier," as a gloss says on Rom. 8:23: "Ourselves
+also who have the first fruits of the Spirit." Therefore it seems
+that knowledge of matters of faith has not increased as time went on.
+
+_On the contrary,_ Gregory says (Hom. xvi in Ezech.) that "the
+knowledge of the holy fathers increased as time went on . . . and the
+nearer they were to Our Savior's coming, the more fully did they
+receive the mysteries of salvation."
+
+_I answer that,_ The articles of faith stand in the same relation to
+the doctrine of faith, as self-evident principles to a teaching based
+on natural reason. Among these principles there is a certain order,
+so that some are contained implicitly in others; thus all principles
+are reduced, as to their first principle, to this one: "The same
+thing cannot be affirmed and denied at the same time," as the
+Philosopher states (Metaph. iv, text. 9). In like manner all the
+articles are contained implicitly in certain primary matters of
+faith, such as God's existence, and His providence over the salvation
+of man, according to Heb. 11: "He that cometh to God, must believe
+that He is, and is a rewarder to them that seek Him." For the
+existence of God includes all that we believe to exist in God
+eternally, and in these our happiness consists; while belief in His
+providence includes all those things which God dispenses in time, for
+man's salvation, and which are the way to that happiness: and in this
+way, again, some of those articles which follow from these are
+contained in others: thus faith in the Redemption of mankind includes
+belief in the Incarnation of Christ, His Passion and so forth.
+
+Accordingly we must conclude that, as regards the substance of the
+articles of faith, they have not received any increase as time went
+on: since whatever those who lived later have believed, was
+contained, albeit implicitly, in the faith of those Fathers who
+preceded them. But there was an increase in the number of articles
+believed explicitly, since to those who lived in later times some
+were known explicitly which were not known explicitly by those who
+lived before them. Hence the Lord said to Moses (Ex. 6:2, 3): "I am
+the God of Abraham, the God of Isaac, the God of Jacob [*Vulg.: 'I am
+the Lord that appeared to Abraham, to Isaac, and to Jacob'] . . . and
+My name Adonai I did not show them": David also said (Ps. 118:100):
+"I have had understanding above ancients": and the Apostle says (Eph.
+3:5) that the mystery of Christ, "in other generations was not known,
+as it is now revealed to His holy apostles and prophets."
+
+Reply Obj. 1: Among men the same things were always to be hoped for
+from Christ. But as they did not acquire this hope save through
+Christ, the further they were removed from Christ in point of time,
+the further they were from obtaining what they hoped for. Hence the
+Apostle says (Heb. 11:13): "All these died according to faith, not
+having received the promises, but beholding them afar off." Now the
+further off a thing is the less distinctly is it seen; wherefore
+those who were nigh to Christ's advent had a more distinct knowledge
+of the good things to be hoped for.
+
+Reply Obj. 2: Progress in knowledge occurs in two ways. First, on the
+part of the teacher, be he one or many, who makes progress in
+knowledge as time goes on: and this is the kind of progress that
+takes place in sciences devised by man. Secondly, on the part of the
+learner; thus the master, who has perfect knowledge of the art, does
+not deliver it all at once to his disciple from the very outset, for
+he would not be able to take it all in, but he condescends to the
+disciple's capacity and instructs him little by little. It is in this
+way that men made progress in the knowledge of faith as time went on.
+Hence the Apostle (Gal. 3:24) compares the state of the Old Testament
+to childhood.
+
+Reply Obj. 3: Two causes are requisite before actual generation can
+take place, an agent, namely, and matter. In the order of the active
+cause, the more perfect is naturally first; and in this way nature
+makes a beginning with perfect things, since the imperfect is not
+brought to perfection, except by something perfect already in
+existence. On the other hand, in the order of the material cause, the
+imperfect comes first, and in this way nature proceeds from the
+imperfect to the perfect. Now in the manifestation of faith, God is
+the active cause, having perfect knowledge from all eternity; while
+man is likened to matter in receiving the influx of God's action.
+Hence, among men, the knowledge of faith had to proceed from
+imperfection to perfection; and, although some men have been after
+the manner of active causes, through being doctors of faith,
+nevertheless the manifestation of the Spirit is given to such men for
+the common good, according to 1 Cor. 12:7; so that the knowledge of
+faith was imparted to the Fathers who were instructors in the faith,
+so far as was necessary at the time for the instruction of the
+people, either openly or in figures.
+
+Reply Obj. 4: The ultimate consummation of grace was effected by
+Christ, wherefore the time of His coming is called the "time of
+fulness [*Vulg.: 'fulness of time']" (Gal. 4:4). Hence those who were
+nearest to Christ, whether before, like John the Baptist, or after,
+like the apostles, had a fuller knowledge of the mysteries of faith;
+for even with regard to man's state we find that the perfection of
+manhood comes in youth, and that a man's state is all the more
+perfect, whether before or after, the nearer it is to the time of his
+youth.
+_______________________
+
+EIGHTH ARTICLE [II-II, Q. 1, Art. 8]
+
+Whether the Articles of Faith Are Suitably Formulated?
+
+Objection 1: It would seem that the articles of faith are unsuitably
+formulated. For those things, which can be known by demonstration, do
+not belong to faith as to an object of belief for all, as stated above
+(A. 5). Now it can be known by demonstration that there is one God;
+hence the Philosopher proves this (Metaph. xii, text. 52) and many
+other philosophers demonstrated the same truth. Therefore that "there
+is one God" should not be set down as an article of faith.
+
+Obj. 2: Further, just as it is necessary to faith that we should
+believe God to be almighty, so is it too that we should believe Him to
+be "all-knowing" and "provident for all," about both of which points
+some have erred. Therefore, among the articles of faith, mention
+should have been made of God's wisdom and providence, even as of His
+omnipotence.
+
+Obj. 3: Further, to know the Father is the same things as to know
+the Son, according to John 14:9: "He that seeth Me, seeth the Father
+also." Therefore there ought to be but one article about the Father
+and Son, and, for the same reason, about the Holy Ghost.
+
+Obj. 4: Further, the Person of the Father is no less than the
+Person of the Son, and of the Holy Ghost. Now there are several
+articles about the Person of the Holy Ghost, and likewise about the
+Person of the Son. Therefore there should be several articles about
+the Person of the Father.
+
+Obj. 5: Further, just as certain things are said by appropriation, of
+the Person of the Father and of the Person of the Holy Ghost, so too
+is something appropriated to the Person of the Son, in respect of His
+Godhead. Now, among the articles of faith, a place is given to a work
+appropriated to the Father, viz. the creation, and likewise, a work
+appropriated to the Holy Ghost, viz. that "He spoke by the prophets."
+Therefore the articles of faith should contain some work appropriated
+to the Son in respect of His Godhead.
+
+Obj. 6: Further, the sacrament of the Eucharist presents a special
+difficulty over and above the other articles. Therefore it should
+have been mentioned in a special article: and consequently it seems
+that there is not a sufficient number of articles.
+
+On the contrary stands the authority of the Church who formulates the
+articles thus.
+
+_I answer that,_ As stated above (AA. 4, 6), to faith those things in
+themselves belong, the sight of which we shall enjoy in eternal life,
+and by which we are brought to eternal life. Now two things are
+proposed to us to be seen in eternal life: viz. the secret of the
+Godhead, to see which is to possess happiness; and the mystery of
+Christ's Incarnation, "by Whom we have access" to the glory of the
+sons of God, according to Rom. 5:2. Hence it is written (John 17:3):
+"This is eternal life: that they may know Thee, the . . . true God,
+and Jesus Christ Whom Thou hast sent." Wherefore the first
+distinction in matters of faith is that some concern the majesty of
+the Godhead, while others pertain to the mystery of Christ's human
+nature, which is the "mystery of godliness" (1 Tim. 3:16).
+
+Now with regard to the majesty of the Godhead, three things are
+proposed to our belief: first, the unity of the Godhead, to which the
+first article refers; secondly, the trinity of the Persons, to which
+three articles refer, corresponding to the three Persons; and
+thirdly, the works proper to the Godhead, the first of which refers
+to the order of nature, in relation to which the article about the
+creation is proposed to us; the second refers to the order of grace,
+in relation to which all matters concerning the sanctification of man
+are included in one article; while the third refers to the order of
+glory, and in relation to this another article is proposed to us
+concerning the resurrection of the dead and life everlasting. Thus
+there are seven articles referring to the Godhead.
+
+In like manner, with regard to Christ's human nature, there are seven
+articles, the first of which refers to Christ's incarnation or
+conception; the second, to His virginal birth; the third, to His
+Passion, death and burial; the fourth, to His descent into hell; the
+fifth, to His resurrection; the sixth, to His ascension; the seventh,
+to His coming for the judgment, so that in all there are fourteen
+articles.
+
+Some, however, distinguish twelve articles, six pertaining to the
+Godhead, and six to the humanity. For they include in one article the
+three about the three Persons; because we have one knowledge of the
+three Persons: while they divide the article referring to the work of
+glorification into two, viz. the resurrection of the body, and the
+glory of the soul. Likewise they unite the conception and nativity
+into one article.
+
+Reply Obj. 1: By faith we hold many truths about God, which the
+philosophers were unable to discover by natural reason, for instance
+His providence and omnipotence, and that He alone is to be worshiped,
+all of which are contained in the one article of the unity of God.
+
+Reply Obj. 2: The very name of the Godhead implies a kind of watching
+over things, as stated in the First Part (Q. 13, A. 8). Now in beings
+having an intellect, power does not work save by the will and
+knowledge. Hence God's omnipotence includes, in a way, universal
+knowledge and providence. For He would not be able to do all He wills
+in things here below, unless He knew them, and exercised His
+providence over them.
+
+Reply Obj. 3: We have but one knowledge of the Father, Son, and Holy
+Ghost, as to the unity of the Essence, to which the first article
+refers: but, as to the distinction of the Persons, which is by the
+relations of origin, knowledge of the Father does indeed, in a way,
+include knowledge of the Son, for He would not be Father, had He not
+a Son; the bond whereof being the Holy Ghost. From this point of
+view, there was a sufficient motive for those who referred one
+article to the three Persons. Since, however, with regard to each
+Person, certain points have to be observed, about which some happen
+to fall into error, looking at it in this way, we may distinguish
+three articles about the three Persons. For Arius believed in the
+omnipotence and eternity of the Father, but did not believe the Son
+to be co-equal and consubstantial with the Father; hence the need for
+an article about the Person of the Son in order to settle this point.
+In like manner it was necessary to appoint a third article about the
+Person of the Holy Ghost, against Macedonius. In the same way
+Christ's conception and birth, just as the resurrection and life
+everlasting, can from one point of view be united together in one
+article, in so far as they are ordained to one end; while, from
+another point of view, they can be distinct articles, in as much as
+each one separately presents a special difficulty.
+
+Reply Obj. 4: It belongs to the Son and Holy Ghost to be sent to
+sanctify the creature; and about this several things have to be
+believed. Hence it is that there are more articles about the Persons
+of the Son and Holy Ghost than about the Person of the Father, Who is
+never sent, as we stated in the First Part (Q. 43, A. 4).
+
+Reply Obj. 5: The sanctification of a creature by grace, and its
+consummation by glory, is also effected by the gift of charity, which
+is appropriated to the Holy Ghost, and by the gift of wisdom, which
+is appropriated to the Son: so that each work belongs by
+appropriation, but under different aspects, both to the Son and to
+the Holy Ghost.
+
+Reply Obj. 6: Two things may be considered in the sacrament of the
+Eucharist. One is the fact that it is a sacrament, and in this
+respect it is like the other effects of sanctifying grace. The other
+is that Christ's body is miraculously contained therein and thus it
+is included under God's omnipotence, like all other miracles which
+are ascribed to God's almighty power.
+_______________________
+
+NINTH ARTICLE [II-II, Q. 1, Art. 9]
+
+Whether It Is Suitable for the Articles of Faith to Be Embodied in a
+Symbol?
+
+Objection 1: It would seem that it is unsuitable for the articles of
+faith to be embodied in a symbol. Because Holy Writ is the rule of
+faith, to which no addition or subtraction can lawfully be made,
+since it is written (Deut. 4:2): "You shall not add to the word that
+I speak to you, neither shall you take away from it." Therefore it
+was unlawful to make a symbol as a rule of faith, after the Holy
+Writ had once been published.
+
+Obj. 2: Further, according to the Apostle (Eph. 4:5) there is but
+"one faith." Now the symbol is a profession of faith. Therefore it
+is not fitting that there should be more than one symbol.
+
+Obj. 3: Further, the confession of faith, which is contained in the
+symbol, concerns all the faithful. Now the faithful are not all
+competent to believe in God, but only those who have living faith.
+Therefore it is unfitting for the symbol of faith to be expressed
+in the words: "I believe in one God."
+
+Obj. 4: Further, the descent into hell is one of the articles of
+faith, as stated above (A. 8). But the descent into hell is not
+mentioned in the symbol of the Fathers. Therefore the latter is
+expressed inadequately.
+
+Obj. 5: Further, Augustine (Tract. xxix in Joan.) expounding the
+passage, "You believe in God, believe also in Me" (John 14:1) says:
+"We believe Peter or Paul, but we speak only of believing 'in' God."
+Since then the Catholic Church is merely a created being, it seems
+unfitting to say: "In the One, Holy, Catholic and Apostolic Church."
+
+Obj. 6: Further, a symbol is drawn up that it may be a rule of faith.
+Now a rule of faith ought to be proposed to all, and that publicly.
+Therefore every symbol, besides the symbol of the Fathers, should be
+sung at Mass. Therefore it seems unfitting to publish the articles of
+faith in a symbol.
+
+_On the contrary,_ The universal Church cannot err, since she is
+governed by the Holy Ghost, Who is the Spirit of truth: for such was
+Our Lord's promise to His disciples (John 16:13): "When He, the
+Spirit of truth, is come, He will teach you all truth." Now the
+symbol is published by the authority of the universal Church.
+Therefore it contains nothing defective.
+
+_I answer that,_ As the Apostle says (Heb. 11:6), "he that cometh to
+God, must believe that He is." Now a man cannot believe, unless the
+truth be proposed to him that he may believe it. Hence the need for
+the truth of faith to be collected together, so that it might the more
+easily be proposed to all, lest anyone might stray from the truth
+through ignorance of the faith. It is from its being a collection of
+maxims of faith that the symbol [*The Greek _symballein_] takes its
+name.
+
+Reply Obj. 1: The truth of faith is contained in Holy Writ,
+diffusely, under various modes of expression, and sometimes
+obscurely, so that, in order to gather the truth of faith from Holy
+Writ, one needs long study and practice, which are unattainable by
+all those who require to know the truth of faith, many of whom have
+no time for study, being busy with other affairs. And so it was
+necessary to gather together a clear summary from the sayings of
+Holy Writ, to be proposed to the belief of all. This indeed was no
+addition to Holy Writ, but something taken from it.
+
+Reply Obj. 2: The same doctrine of faith is taught in all the
+symbols. Nevertheless, the people need more careful instruction about
+the truth of faith, when errors arise, lest the faith of
+simple-minded persons be corrupted by heretics. It was this that gave
+rise to the necessity of formulating several symbols, which nowise
+differ from one another, save that on account of the obstinacy of
+heretics, one contains more explicitly what another contains
+implicitly.
+
+Reply Obj. 3: The confession of faith is drawn up in a symbol in the
+person, as it were, of the whole Church, which is united together by
+faith. Now the faith of the Church is living faith; since such is
+the faith to be found in all those who are of the Church not only
+outwardly but also by merit. Hence the confession of faith is
+expressed in a symbol, in a manner that is in keeping with living
+faith, so that even if some of the faithful lack living faith, they
+should endeavor to acquire it.
+
+Reply Obj. 4: No error about the descent into hell had arisen among
+heretics, so that there was no need to be more explicit on that
+point. For this reason it is not repeated in the symbol of the
+Fathers, but is supposed as already settled in the symbol of the
+Apostles. For a subsequent symbol does not cancel a preceding one;
+rather does it expound it, as stated above (ad 2).
+
+Reply Obj. 5: If we say: "'In' the holy Catholic Church," this must
+be taken as verified in so far as our faith is directed to the Holy
+Ghost, Who sanctifies the Church; so that the sense is: "I believe in
+the Holy Ghost sanctifying the Church." But it is better and more in
+keeping with the common use, to omit the 'in,' and say simply, "the
+holy Catholic Church," as Pope Leo [*Rufinus, Comm. in Sym. Apost.]
+observes.
+
+Reply Obj. 6: Since the symbol of the Fathers is an explanation of
+the symbol of the Apostles, and was drawn up after the faith was
+already spread abroad, and when the Church was already at peace, it
+is sung publicly in the Mass. On the other hand the symbol of the
+Apostles, which was drawn up at the time of persecution, before the
+faith was made public, is said secretly at Prime and Compline, as
+though it were against the darkness of past and future errors.
+_______________________
+
+TENTH ARTICLE [II-II, Q. 1, Art. 10]
+
+Whether It Belongs to the Sovereign Pontiff to Draw Up a Symbol of
+Faith?
+
+Objection 1: It would seem that it does not belong to the Sovereign
+Pontiff to draw up a symbol of faith. For a new edition of the symbol
+becomes necessary in order to explain the articles of faith, as
+stated above (A. 9). Now, in the Old Testament, the articles of faith
+were more and more explained as time went on, by reason of the truth
+of faith becoming clearer through greater nearness to Christ, as
+stated above (A. 7). Since then this reason ceased with the advent of
+the New Law, there is no need for the articles of faith to be more
+and more explicit. Therefore it does not seem to belong to the
+authority of the Sovereign Pontiff to draw up a new edition of the
+symbol.
+
+Obj. 2: Further, no man has the power to do what is forbidden under
+pain of anathema by the universal Church. Now it was forbidden under
+pain of anathema by the universal Church, to make a new edition of
+the symbol. For it is stated in the acts of the first* council of
+Ephesus (P. ii, Act. 6) that "after the symbol of the Nicene council
+had been read through, the holy synod decreed that it was unlawful to
+utter, write or draw up any other creed, than that which was defined
+by the Fathers assembled at Nicaea together with the Holy Ghost," and
+this under pain of anathema. [*St. Thomas wrote 'first' (expunged by
+Nicolai) to distinguish it from the other council, A.D. 451, known as
+the "Latrocinium" and condemned by the Pope.] The same was repeated
+in the acts of the council of Chalcedon (P. ii, Act. 5). Therefore it
+seems that the Sovereign Pontiff has no authority to publish a new
+edition of the symbol.
+
+Obj. 3: Further, Athanasius was not the Sovereign Pontiff, but
+patriarch of Alexandria, and yet he published a symbol which is sung
+in the Church. Therefore it does not seem to belong to the Sovereign
+Pontiff any more than to other bishops, to publish a new edition of
+the symbol.
+
+_On the contrary,_ The symbol was drawn up by a general council. Now
+such a council cannot be convoked otherwise than by the authority of
+the Sovereign Pontiff, as stated in the Decretals [*Dist. xvii, Can.
+4, 5]. Therefore it belongs to the authority of the Sovereign Pontiff
+to draw up a symbol.
+
+_I answer that,_ As stated above (Obj. 1), a new edition of the
+symbol becomes necessary in order to set aside the errors that may
+arise. Consequently to publish a new edition of the symbol belongs to
+that authority which is empowered to decide matters of faith finally,
+so that they may be held by all with unshaken faith. Now this belongs
+to the authority of the Sovereign Pontiff, "to whom the more
+important and more difficult questions that arise in the Church are
+referred," as stated in the Decretals [*Dist. xvii, Can. 5]. Hence
+our Lord said to Peter whom he made Sovereign Pontiff (Luke 22:32):
+"I have prayed for thee," Peter, "that thy faith fail not, and thou,
+being once converted, confirm thy brethren." The reason of this is
+that there should be but one faith of the whole Church, according to
+1 Cor. 1:10: "That you all speak the same thing, and that there be no
+schisms among you": and this could not be secured unless any question
+of faith that may arise be decided by him who presides over the whole
+Church, so that the whole Church may hold firmly to his decision.
+Consequently it belongs to the sole authority of the Sovereign
+Pontiff to publish a new edition of the symbol, as do all other
+matters which concern the whole Church, such as to convoke a general
+council and so forth.
+
+Reply Obj. 1: The truth of faith is sufficiently explicit in the
+teaching of Christ and the apostles. But since, according to 2 Pet.
+3:16, some men are so evil-minded as to pervert the apostolic
+teaching and other doctrines and Scriptures to their own destruction,
+it was necessary as time went on to express the faith more explicitly
+against the errors which arose.
+
+Reply Obj. 2: This prohibition and sentence of the council was
+intended for private individuals, who have no business to decide
+matters of faith: for this decision of the general council did not
+take away from a subsequent council the power of drawing up a new
+edition of the symbol, containing not indeed a new faith, but the
+same faith with greater explicitness. For every council has taken
+into account that a subsequent council would expound matters more
+fully than the preceding council, if this became necessary through
+some heresy arising. Consequently this belongs to the Sovereign
+Pontiff, by whose authority the council is convoked, and its
+decision confirmed.
+
+Reply Obj. 3: Athanasius drew up a declaration of faith, not under
+the form of a symbol, but rather by way of an exposition of doctrine,
+as appears from his way of speaking. But since it contained briefly
+the whole truth of faith, it was accepted by the authority of the
+Sovereign Pontiff, so as to be considered as a rule of faith. Since
+it contained briefly the whole truth of faith, it was accepted by the
+authority of the Sovereign Pontiff, so as to be considered as a rule
+of faith.
+_______________________
+
+QUESTION 2
+
+OF THE ACT OF FAITH
+(In Ten Articles)
+
+We must now consider the act of faith, and (1) the internal act;
+(2) the external act.
+
+Under the first head there are ten points of inquiry:
+
+(1) What is "to believe," which is the internal act of faith?
+
+(2) In how many ways is it expressed?
+
+(3) Whether it is necessary for salvation to believe in anything
+above natural reason?
+
+(4) Whether it is necessary to believe those things that are
+attainable by natural reason?
+
+(5) Whether it is necessary for salvation to believe certain things
+explicitly?
+
+(6) Whether all are equally bound to explicit faith?
+
+(7) Whether explicit faith in Christ is always necessary for
+salvation?
+
+(8) Whether it is necessary for salvation to believe in the Trinity
+explicitly?
+
+(9) Whether the act of faith is meritorious?
+
+(10) Whether human reason diminishes the merit of faith?
+_______________________
+
+FIRST ARTICLE [II-II, Q. 2, Art. 1]
+
+Whether to Believe Is to Think with Assent?
+
+Objection 1: It would seem that to believe is not to think with
+assent. Because the Latin word "cogitatio" [thought] implies a
+research, for "cogitare" [to think] seems to be equivalent to
+"coagitare," i.e. "to discuss together." Now Damascene says (De Fide
+Orth. iv) that faith is "an assent without research." Therefore
+thinking has no place in the act of faith.
+
+Obj. 2: Further, faith resides in the reason, as we shall show
+further on (Q. 4, A. 2). Now to think is an act of the cogitative
+power, which belongs to the sensitive faculty, as stated in the
+First Part (Q. 78, A. 4). Therefore thought has nothing to do with
+faith.
+
+Obj. 3: Further, to believe is an act of the intellect, since its
+object is truth. But assent seems to be an act not of the intellect,
+but of the will, even as consent is, as stated above (I-II, Q. 15, A.
+1, ad 3). Therefore to believe is not to think with assent.
+
+_On the contrary,_ This is how "to believe" is defined by Augustine
+(De Praedest. Sanct. ii).
+
+_I answer that,_ "To think" can be taken in three ways. First, in a
+general way for any kind of actual consideration of the intellect, as
+Augustine observes (De Trin. xiv, 7): "By understanding I mean now
+the faculty whereby we understand when thinking." Secondly, "to
+think" is more strictly taken for that consideration of the
+intellect, which is accompanied by some kind of inquiry, and which
+precedes the intellect's arrival at the stage of perfection that
+comes with the certitude of sight. In this sense Augustine says (De
+Trin. xv, 16) that "the Son of God is not called the Thought, but the
+Word of God. When our thought realizes what we know and takes form
+therefrom, it becomes our word. Hence the Word of God must be
+understood without any thinking on the part of God, for there is
+nothing there that can take form, or be unformed." In this way
+thought is, properly speaking, the movement of the mind while yet
+deliberating, and not yet perfected by the clear sight of truth.
+Since, however, such a movement of the mind may be one of
+deliberation either about universal notions, which belongs to the
+intellectual faculty, or about particular matters, which belongs to
+the sensitive part, hence it is that "to think" is taken secondly for
+an act of the deliberating intellect, and thirdly for an act of the
+cogitative power.
+
+Accordingly, if "to think" be understood broadly according to the
+first sense, then "to think with assent," does not express completely
+what is meant by "to believe": since, in this way, a man thinks with
+assent even when he considers what he knows by science [*Science is
+certain knowledge of a demonstrated conclusion through its
+demonstration.], or understands. If, on the other hand, "to think" be
+understood in the second way, then this expresses completely the
+nature of the act of believing. For among the acts belonging to the
+intellect, some have a firm assent without any such kind of thinking,
+as when a man considers the things that he knows by science, or
+understands, for this consideration is already formed. But some acts
+of the intellect have unformed thought devoid of a firm assent,
+whether they incline to neither side, as in one who "doubts"; or
+incline to one side rather than the other, but on account of some
+slight motive, as in one who "suspects"; or incline to one side yet
+with fear of the other, as in one who "opines." But this act "to
+believe," cleaves firmly to one side, in which respect belief has
+something in common with science and understanding; yet its knowledge
+does not attain the perfection of clear sight, wherein it agrees with
+doubt, suspicion and opinion. Hence it is proper to the believer to
+think with assent: so that the act of believing is distinguished from
+all the other acts of the intellect, which are about the true or the
+false.
+
+Reply Obj. 1: Faith has not that research of natural reason which
+demonstrates what is believed, but a research into those things
+whereby a man is induced to believe, for instance that such things
+have been uttered by God and confirmed by miracles.
+
+Reply Obj. 2: "To think" is not taken here for the act of the
+cogitative power, but for an act of the intellect, as explained above.
+
+Reply Obj. 3: The intellect of the believer is determined to one
+object, not by the reason, but by the will, wherefore assent is taken
+here for an act of the intellect as determined to one object by the
+will.
+_______________________
+
+SECOND ARTICLE [II-II, Q. 2, Art. 2]
+
+Whether the Act of Faith Is Suitably Distinguished As Believing God,
+Believing in a God and Believing in God?
+
+Objection 1: It would seem that the act of faith is unsuitably
+distinguished as believing God, believing in a God, and believing in
+God. For one habit has but one act. Now faith is one habit since it is
+one virtue. Therefore it is unreasonable to say that there are three
+acts of faith.
+
+Obj. 2: Further, that which is common to all acts of faith should not
+be reckoned as a particular kind of act of faith. Now "to believe
+God" is common to all acts of faith, since faith is founded on the
+First Truth. Therefore it seems unreasonable to distinguish it from
+certain other acts of faith.
+
+Obj. 3: Further, that which can be said of unbelievers, cannot be
+called an act of faith. Now unbelievers can be said to believe in a
+God. Therefore it should not be reckoned an act of faith.
+
+Obj. 4: Further, movement towards the end belongs to the will, whose
+object is the good and the end. Now to believe is an act, not of the
+will, but of the intellect. Therefore "to believe in God," which
+implies movement towards an end, should not be reckoned as a species
+of that act.
+
+_On the contrary_ is the authority of Augustine who makes this
+distinction (De Verb. Dom., Serm. lxi--Tract. xxix in Joan.).
+
+_I answer that,_ The act of any power or habit depends on the relation
+of that power or habit to its object. Now the object of faith can be
+considered in three ways. For, since "to believe" is an act of the
+intellect, in so far as the will moves it to assent, as stated above
+(A. 1, ad 3), the object of faith can be considered either on the part
+of the intellect, or on the part of the will that moves the intellect.
+
+If it be considered on the part of the intellect, then two things can
+be observed in the object of faith, as stated above (Q. 1, A. 1). One
+of these is the material object of faith, and in this way an act of
+faith is "to believe in a God"; because, as stated above (ibid.)
+nothing is proposed to our belief, except in as much as it is
+referred to God. The other is the formal aspect of the object, for it
+is the medium on account of which we assent to such and such a point
+of faith; and thus an act of faith is "to believe God," since, as
+stated above (ibid.) the formal object of faith is the First Truth,
+to Which man gives his adhesion, so as to assent for Its sake to
+whatever he believes.
+
+Thirdly, if the object of faith be considered in so far as the
+intellect is moved by the will, an act of faith is "to believe in
+God." For the First Truth is referred to the will, through having the
+aspect of an end.
+
+Reply Obj. 1: These three do not denote different acts of faith, but
+one and the same act having different relations to the object of
+faith.
+
+This suffices for the Reply to the Second Objection.
+
+Reply Obj. 3: Unbelievers cannot be said "to believe in a God" as
+we understand it in relation to the act of faith. For they do not
+believe that God exists under the conditions that faith determines;
+hence they do not truly imply believe in a God, since, as the
+Philosopher observes (Metaph. ix, text. 22) "to know simple things
+defectively is not to know them at all."
+
+Reply Obj. 4: As stated above (I-II, Q. 9, A. 1) the will moves the
+intellect and the other powers of the soul to the end: and in this
+respect an act of faith is "to believe in God."
+_______________________
+
+THIRD ARTICLE [II-II, Q. 2, Art. 3]
+
+Whether It Is Necessary for Salvation to Believe Anything Above the
+Natural Reason?
+
+Objection 1: It would seem unnecessary for salvation to believe
+anything above the natural reason. For the salvation and perfection of
+a thing seem to be sufficiently insured by its natural endowments. Now
+matters of faith, surpass man's natural reason, since they are things
+unseen as stated above (Q. 1, A. 4). Therefore to believe seems
+unnecessary for salvation.
+
+Obj. 2: Further, it is dangerous for man to assent to matters,
+wherein he cannot judge whether that which is proposed to him be true
+or false, according to Job 12:11: "Doth not the ear discern words?"
+Now a man cannot form a judgment of this kind in matters of faith,
+since he cannot trace them back to first principles, by which all our
+judgments are guided. Therefore it is dangerous to believe in such
+matters. Therefore to believe is not necessary for salvation.
+
+Obj. 3: Further, man's salvation rests on God, according to Ps.
+36:39: "But the salvation of the just is from the Lord." Now "the
+invisible things" of God "are clearly seen, being understood by the
+things that are made; His eternal power also and Divinity," according
+to Rom. 1:20: and those things which are clearly seen by the
+understanding are not an object of belief. Therefore it is not
+necessary for man's salvation, that he should believe certain things.
+
+_On the contrary,_ It is written (Heb. 11:6): "Without faith it is
+impossible to please God."
+
+_I answer that,_ Wherever one nature is subordinate to another, we
+find that two things concur towards the perfection of the lower
+nature, one of which is in respect of that nature's proper movement,
+while the other is in respect of the movement of the higher nature.
+Thus water by its proper movement moves towards the centre (of the
+earth), while according to the movement of the moon, it moves round
+the centre by ebb and flow. In like manner the planets have their
+proper movements from west to east, while in accordance with the
+movement of the first heaven, they have a movement from east to west.
+Now the created rational nature alone is immediately subordinate to
+God, since other creatures do not attain to the universal, but only
+to something particular, while they partake of the Divine goodness
+either in _being_ only, as inanimate things, or also in _living,_ and
+in _knowing singulars,_ as plants and animals; whereas the rational
+nature, in as much as it apprehends the universal notion of good and
+being, is immediately related to the universal principle of being.
+
+Consequently the perfection of the rational creature consists not
+only in what belongs to it in respect of its nature, but also in that
+which it acquires through a supernatural participation of Divine
+goodness. Hence it was said above (I-II, Q. 3, A. 8) that man's
+ultimate happiness consists in a supernatural vision of God: to which
+vision man cannot attain unless he be taught by God, according to
+John 6:45: "Every one that hath heard of the Father and hath learned
+cometh to Me." Now man acquires a share of this learning, not indeed
+all at once, but by little and little, according to the mode of his
+nature: and every one who learns thus must needs believe, in order
+that he may acquire science in a perfect degree; thus also the
+Philosopher remarks (De Soph. Elench. i, 2) that "it behooves a
+learner to believe."
+
+Hence in order that a man arrive at the perfect vision of heavenly
+happiness, he must first of all believe God, as a disciple believes
+the master who is teaching him.
+
+Reply Obj. 1: Since man's nature is dependent on a higher nature,
+natural knowledge does not suffice for its perfection, and some
+supernatural knowledge is necessary, as stated above.
+
+Reply Obj. 2: Just as man assents to first principles, by the natural
+light of his intellect, so does a virtuous man, by the habit of
+virtue, judge aright of things concerning that virtue; and in this
+way, by the light of faith which God bestows on him, a man assents to
+matters of faith and not to those which are against faith.
+Consequently "there is no" danger or "condemnation to them that are
+in Christ Jesus," and whom He has enlightened by faith.
+
+Reply Obj. 3: In many respects faith perceives the invisible things
+of God in a higher way than natural reason does in proceeding to God
+from His creatures. Hence it is written (Ecclus. 3:25): "Many things
+are shown to thee above the understandings of man."
+_______________________
+
+FOURTH ARTICLE [II-II, Q. 2, Art. 4]
+
+Whether It Is Necessary to Believe Those Things Which Can Be Proved
+by Natural Reason?
+
+Objection 1: It would seem unnecessary to believe those things which
+can be proved by natural reason. For nothing is superfluous in God's
+works, much less even than in the works of nature. Now it is
+superfluous to employ other means, where one already suffices.
+Therefore it would be superfluous to receive by faith, things that
+can be known by natural reason.
+
+Obj. 2: Further, those things must be believed, which are the object
+of faith. Now science and faith are not about the same object, as
+stated above (Q. 1, AA. 4, 5). Since therefore all things that can be
+known by natural reason are an object of science, it seems that there
+is no need to believe what can be proved by natural reason.
+
+Obj. 3: Further, all things knowable scientifically [*Science is
+certain knowledge of a demonstrated conclusion through its
+demonstration] would seem to come under one head: so that if some of
+them are proposed to man as objects of faith, in like manner the
+others should also be believed. But this is not true. Therefore it is
+not necessary to believe those things which can be proved by natural
+reason.
+
+_On the contrary,_ It is necessary to believe that God is one and
+incorporeal: which things philosophers prove by natural reason.
+
+_I answer that,_ It is necessary for man to accept by faith not only
+things which are above reason, but also those which can be known by
+reason: and this for three motives. First, in order that man may
+arrive more quickly at the knowledge of Divine truth. Because the
+science to whose province it belongs to prove the existence of God,
+is the last of all to offer itself to human research, since it
+presupposes many other sciences: so that it would not by until late
+in life that man would arrive at the knowledge of God. The second
+reason is, in order that the knowledge of God may be more general.
+For many are unable to make progress in the study of science, either
+through dullness of mind, or through having a number of occupations,
+and temporal needs, or even through laziness in learning, all of whom
+would be altogether deprived of the knowledge of God, unless Divine
+things were brought to their knowledge under the guise of faith. The
+third reason is for the sake of certitude. For human reason is very
+deficient in things concerning God. A sign of this is that
+philosophers in their researches, by natural investigation, into
+human affairs, have fallen into many errors, and have disagreed among
+themselves. And consequently, in order that men might have knowledge
+of God, free of doubt and uncertainty, it was necessary for Divine
+matters to be delivered to them by way of faith, being told to them,
+as it were, by God Himself Who cannot lie.
+
+Reply Obj. 1: The researches of natural reason do not suffice mankind
+for the knowledge of Divine matters, even of those that can be proved
+by reason: and so it is not superfluous if these others be believed.
+
+Reply Obj. 2: Science and faith cannot be in the same subject and
+about the same object: but what is an object of science for one, can
+be an object of faith for another, as stated above (Q. 1, A. 5).
+
+Reply Obj. 3: Although all things that can be known by science are
+of one common scientific aspect, they do not all alike lead man to
+beatitude: hence they are not all equally proposed to our belief.
+_______________________
+
+FIFTH ARTICLE [II-II, Q. 2, Art. 5]
+
+Whether Man Is Bound to Believe Anything Explicitly?
+
+Objection 1: It would seem that man is not bound to believe anything
+explicitly. For no man is bound to do what is not in his power. Now it
+is not in man's power to believe a thing explicitly, for it is written
+(Rom. 10:14, 15): "How shall they believe Him, of whom they have not
+heard? And how shall they hear without a preacher? And how shall they
+preach unless they be sent?" Therefore man is not bound to believe
+anything explicitly.
+
+Obj. 2: Further, just as we are directed to God by faith, so are we
+by charity. Now man is not bound to keep the precepts of charity, and
+it is enough if he be ready to fulfil them: as is evidenced by the
+precept of Our Lord (Matt. 5:39): "If one strike thee on one [Vulg.:
+'thy right'] cheek, turn to him also the other"; and by others of the
+same kind, according to Augustine's exposition (De Serm. Dom. in
+Monte xix). Therefore neither is man bound to believe anything
+explicitly, and it is enough if he be ready to believe whatever God
+proposes to be believed.
+
+Obj. 3: Further, the good of faith consists in obedience, according
+to Rom. 1:5: "For obedience to the faith in all nations." Now the
+virtue of obedience does not require man to keep certain fixed
+precepts, but it is enough that his mind be ready to obey, according
+to Ps. 118:60: "I am ready and am not troubled; that I may keep Thy
+commandments." Therefore it seems enough for faith, too, that man
+should be ready to believe whatever God may propose, without his
+believing anything explicitly.
+
+_On the contrary,_ It is written (Heb. 11:6): "He that cometh to God,
+must believe that He is, and is a rewarder to them that seek Him."
+
+_I answer that,_ The precepts of the Law, which man is bound to
+fulfil, concern acts of virtue which are the means of attaining
+salvation. Now an act of virtue, as stated above (I-II, Q. 60, A. 5)
+depends on the relation of the habit to its object. Again two things
+may be considered in the object of any virtue; namely, that which is
+the proper and direct object of that virtue, and that which is
+accidental and consequent to the object properly so called. Thus it
+belongs properly and directly to the object of fortitude, to face the
+dangers of death, and to charge at the foe with danger to oneself,
+for the sake of the common good: yet that, in a just war, a man be
+armed, or strike another with his sword, and so forth, is reduced to
+the object of fortitude, but indirectly.
+
+Accordingly, just as a virtuous act is required for the fulfilment of
+a precept, so is it necessary that the virtuous act should terminate
+in its proper and direct object: but, on the other hand, the
+fulfilment of the precept does not require that a virtuous act should
+terminate in those things which have an accidental or secondary
+relation to the proper and direct object of that virtue, except in
+certain places and at certain times. We must, therefore, say that the
+direct object of faith is that whereby man is made one of the
+Blessed, as stated above (Q. 1, A. 8): while the indirect and
+secondary object comprises all things delivered by God to us in Holy
+Writ, for instance that Abraham had two sons, that David was the son
+of Jesse, and so forth.
+
+Therefore, as regards the primary points or articles of faith, man is
+bound to believe them, just as he is bound to have faith; but as to
+other points of faith, man is not bound to believe them explicitly,
+but only implicitly, or to be ready to believe them, in so far as he
+is prepared to believe whatever is contained in the Divine
+Scriptures. Then alone is he bound to believe such things explicitly,
+when it is clear to him that they are contained in the doctrine of
+faith.
+
+Reply Obj. 1: If we understand those things alone to be in a man's
+power, which we can do without the help of grace, then we are bound
+to do many things which we cannot do without the aid of healing
+grace, such as to love God and our neighbor, and likewise to believe
+the articles of faith. But with the help of grace we can do this, for
+this help "to whomsoever it is given from above it is mercifully
+given; and from whom it is withheld it is justly withheld, as a
+punishment of a previous, or at least of original, sin," as Augustine
+states (De Corr. et Grat. v, vi [*Cf. Ep. cxc; De Praed. Sanct.
+viii.]).
+
+Reply Obj. 2: Man is bound to love definitely those lovable things
+which are properly and directly the objects of charity, namely, God
+and our neighbor. The objection refers to those precepts of charity
+which belong, as a consequence, to the objects of charity.
+
+Reply Obj. 3: The virtue of obedience is seated, properly speaking,
+in the will; hence promptness of the will subject to authority,
+suffices for the act of obedience, because it is the proper and
+direct object of obedience. But this or that precept is accidental
+or consequent to that proper and direct object.
+_______________________
+
+SIXTH ARTICLE [II-II, Q. 2, Art. 6]
+
+Whether All Are Equally Bound to Have Explicit Faith?
+
+Objection 1: It would seem that all are equally bound to have
+explicit faith. For all are bound to those things which are necessary
+for salvation, as is evidenced by the precepts of charity. Now it is
+necessary for salvation that certain things should be believed
+explicitly. Therefore all are equally bound to have explicit faith.
+
+Obj. 2: Further, no one should be put to test in matters that he is
+not bound to believe. But simple persons are sometimes tested in
+reference to the slightest articles of faith. Therefore all are
+bound to believe everything explicitly.
+
+Obj. 3: Further, if the simple are bound to have, not explicit but
+only implicit faith, their faith must needs be implied in the faith
+of the learned. But this seems unsafe, since it is possible for the
+learned to err. Therefore it seems that the simple should also have
+explicit faith; so that all are, therefore, equally bound to have
+explicit faith.
+
+_On the contrary,_ It is written (Job 1:14): "The oxen were
+ploughing, and the asses feeding beside them," because, as Gregory
+expounds this passage (Moral. ii, 17), the simple, who are signified
+by the asses, ought, in matters of faith, to stay by the learned, who
+are denoted by the oxen.
+
+_I answer that,_ The unfolding of matters of faith is the result of
+Divine revelation: for matters of faith surpass natural reason. Now
+Divine revelation reaches those of lower degree through those who are
+over them, in a certain order; to men, for instance, through the
+angels, and to the lower angels through the higher, as Dionysius
+explains (Coel. Hier. iv, vii). In like manner therefore the unfolding
+of faith must needs reach men of lower degree through those of higher
+degree. Consequently, just as the higher angels, who enlighten those
+who are below them, have a fuller knowledge of Divine things than the
+lower angels, as Dionysius states (Coel. Hier. xii), so too, men of
+higher degree, whose business it is to teach others, are under
+obligation to have fuller knowledge of matters of faith, and to
+believe them more explicitly.
+
+Reply Obj. 1: The unfolding of the articles of faith is not equally
+necessary for the salvation of all, since those of higher degree,
+whose duty it is to teach others, are bound to believe explicitly
+more things than others are.
+
+Reply Obj. 2: Simple persons should not be put to the test about
+subtle questions of faith, unless they be suspected of having been
+corrupted by heretics, who are wont to corrupt the faith of simple
+people in such questions. If, however, it is found that they are free
+from obstinacy in their heterodox sentiments, and that it is due to
+their simplicity, it is no fault of theirs.
+
+Reply Obj. 3: The simple have no faith implied in that of the
+learned, except in so far as the latter adhere to the Divine
+teaching. Hence the Apostle says (1 Cor. 4:16): "Be ye followers of
+me, as I also am of Christ." Hence it is not human knowledge, but the
+Divine truth that is the rule of faith: and if any of the learned
+stray from this rule, he does not harm the faith of the simple ones,
+who think that the learned believe aright; unless the simple hold
+obstinately to their individual errors, against the faith of the
+universal Church, which cannot err, since Our Lord said (Luke 22:32):
+"I have prayed for thee," Peter, "that thy faith fail not."
+_______________________
+
+SEVENTH ARTICLE [II-II, Q. 2, Art. 7]
+
+Whether It Is Necessary for the Salvation of All, That They Should
+Believe Explicitly in the Mystery of Christ?
+
+Objection 1: It would seem that it is not necessary for the salvation
+of all that they should believe explicitly in the mystery of Christ.
+For man is not bound to believe explicitly what the angels are
+ignorant about: since the unfolding of faith is the result of Divine
+revelation, which reaches man by means of the angels, as stated above
+(A. 6; I, Q. 111, A. 1). Now even the angels were in ignorance of the
+mystery of the Incarnation: hence, according to the commentary of
+Dionysius (Coel. Hier. vii), it is they who ask (Ps. 23:8): "Who is
+this king of glory?" and (Isa. 63:1): "Who is this that cometh from
+Edom?" Therefore men were not bound to believe explicitly in the
+mystery of Christ's Incarnation.
+
+Obj. 2: Further, it is evident that John the Baptist was one of the
+teachers, and most nigh to Christ, Who said of him (Matt. 11:11) that
+"there hath not risen among them that are born of women, a greater
+than" he. Now John the Baptist does not appear to have known the
+mystery of Christ explicitly, since he asked Christ (Matt. 11:3):
+"Art Thou He that art to come, or look we for another?" Therefore
+even the teachers were not bound to explicit faith in Christ.
+
+Obj. 3: Further, many gentiles obtained salvation through the
+ministry of the angels, as Dionysius states (Coel. Hier. ix). Now it
+would seem that the gentiles had neither explicit nor implicit faith
+in Christ, since they received no revelation. Therefore it seems that
+it was not necessary for the salvation of all to believe explicitly
+in the mystery of Christ.
+
+_On the contrary,_ Augustine says (De Corr. et Gratia vii; Ep. cxc):
+"Our faith is sound if we believe that no man, old or young is
+delivered from the contagion of death and the bonds of sin, except
+by the one Mediator of God and men, Jesus Christ."
+
+_I answer that,_ As stated above (A. 5; Q. 1, A. 8), the object of
+faith includes, properly and directly, that thing through which man
+obtains beatitude. Now the mystery of Christ's Incarnation and
+Passion is the way by which men obtain beatitude; for it is written
+(Acts 4:12): "There is no other name under heaven given to men,
+whereby we must be saved." Therefore belief of some kind in the
+mystery of Christ's Incarnation was necessary at all times and for
+all persons, but this belief differed according to differences of
+times and persons. The reason of this is that before the state of
+sin, man believed, explicitly in Christ's Incarnation, in so far as
+it was intended for the consummation of glory, but not as it was
+intended to deliver man from sin by the Passion and Resurrection,
+since man had no foreknowledge of his future sin. He does, however,
+seem to have had foreknowledge of the Incarnation of Christ, from the
+fact that he said (Gen. 2:24): "Wherefore a man shall leave father
+and mother, and shall cleave to his wife," of which the Apostle says
+(Eph. 5:32) that "this is a great sacrament . . . in Christ and the
+Church," and it is incredible that the first man was ignorant about
+this sacrament.
+
+But after sin, man believed explicitly in Christ, not only as to the
+Incarnation, but also as to the Passion and Resurrection, whereby the
+human race is delivered from sin and death: for they would not, else,
+have foreshadowed Christ's Passion by certain sacrifices both before
+and after the Law, the meaning of which sacrifices was known by the
+learned explicitly, while the simple folk, under the veil of those
+sacrifices, believed them to be ordained by God in reference to
+Christ's coming, and thus their knowledge was covered with a veil, so
+to speak. And, as stated above (Q. 1, A. 7), the nearer they were to
+Christ, the more distinct was their knowledge of Christ's mysteries.
+
+After grace had been revealed, both learned and simple folk are bound
+to explicit faith in the mysteries of Christ, chiefly as regards
+those which are observed throughout the Church, and publicly
+proclaimed, such as the articles which refer to the Incarnation, of
+which we have spoken above (Q. 1, A. 8). As to other minute points in
+reference to the articles of the Incarnation, men have been bound to
+believe them more or less explicitly according to each one's state
+and office.
+
+Reply Obj. 1: The mystery of the Kingdom of God was not entirely
+hidden from the angels, as Augustine observes (Gen. ad lit. v, 19),
+yet certain aspects thereof were better known to them when Christ
+revealed them to them.
+
+Reply Obj. 2: It was not through ignorance that John the Baptist
+inquired of Christ's advent in the flesh, since he had clearly
+professed his belief therein, saying: "I saw, and I gave testimony,
+that this is the Son of God" (John 1:34). Hence he did not say: "Art
+Thou He that hast come?" but "Art Thou He that art to come?" thus
+saying about the future, not about the past. Likewise it is not to be
+believed that he was ignorant of Christ's future Passion, for he had
+already said (John 1:39): "Behold the Lamb of God, behold Him who
+taketh away the sins [Vulg.: 'sin'] of the world," thus foretelling
+His future immolation; and since other prophets had foretold it, as
+may be seen especially in Isaias 53. We may therefore say with
+Gregory (Hom. xxvi in Evang.) that he asked this question, being in
+ignorance as to whether Christ would descend into hell in His own
+Person. But he did not ignore the fact that the power of Christ's
+Passion would be extended to those who were detained in Limbo,
+according to Zech. 9:11: "Thou also, by the blood of Thy testament
+hast sent forth Thy prisoners out of the pit, wherein there is no
+water"; nor was he bound to believe explicitly, before its
+fulfilment, that Christ was to descend thither Himself.
+
+It may also be replied that, as Ambrose observes in his commentary on
+Luke 7:19, he made this inquiry, not from doubt or ignorance but from
+devotion: or again, with Chrysostom (Hom. xxxvi in Matth.), that he
+inquired, not as though ignorant himself, but because he wished his
+disciples to be satisfied on that point, through Christ: hence the
+latter framed His answer so as to instruct the disciples, by pointing
+to the signs of His works.
+
+Reply Obj. 3: Many of the gentiles received revelations of Christ, as
+is clear from their predictions. Thus we read (Job 19:25): "I know
+that my Redeemer liveth." The Sibyl too foretold certain things about
+Christ, as Augustine states (Contra Faust. xiii, 15). Moreover, we
+read in the history of the Romans, that at the time of Constantine
+Augustus and his mother Irene a tomb was discovered, wherein lay a
+man on whose breast was a golden plate with the inscription: "Christ
+shall be born of a virgin, and in Him, I believe. O sun, during the
+lifetime of Irene and Constantine, thou shalt see me again" [*Cf.
+Baron, Annal., A.D. 780]. If, however, some were saved without
+receiving any revelation, they were not saved without faith in a
+Mediator, for, though they did not believe in Him explicitly, they
+did, nevertheless, have implicit faith through believing in Divine
+providence, since they believed that God would deliver mankind in
+whatever way was pleasing to Him, and according to the revelation of
+the Spirit to those who knew the truth, as stated in Job 35:11: "Who
+teacheth us more than the beasts of the earth."
+_______________________
+
+EIGHTH ARTICLE [II-II, Q. 2, Art. 8]
+
+Whether It Is Necessary for Salvation to Believe Explicitly in the
+Trinity?
+
+Objection 1: It would seem that it was not necessary for salvation to
+believe explicitly in the Trinity. For the Apostle says (Heb. 11:6):
+"He that cometh to God must believe that He is, and is a rewarder to
+them that seek Him." Now one can believe this without believing in the
+Trinity. Therefore it was not necessary to believe explicitly in the
+Trinity.
+
+Obj. 2: Further our Lord said (John 17:5, 6): "Father, I have
+manifested Thy name to men," which words Augustine expounds (Tract.
+cvi) as follows: "Not the name by which Thou art called God, but the
+name whereby Thou art called My Father," and further on he adds: "In
+that He made this world, God is known to all nations; in that He is
+not to be worshipped together with false gods, 'God is known in
+Judea'; but, in that He is the Father of this Christ, through Whom He
+takes away the sin of the world, He now makes known to men this name
+of His, which hitherto they knew not." Therefore before the coming of
+Christ it was not known that Paternity and Filiation were in the
+Godhead: and so the Trinity was not believed explicitly.
+
+Obj. 3: Further, that which we are bound to believe explicitly of God
+is the object of heavenly happiness. Now the object of heavenly
+happiness is the sovereign good, which can be understood to be in
+God, without any distinction of Persons. Therefore it was not
+necessary to believe explicitly in the Trinity.
+
+_On the contrary,_ In the Old Testament the Trinity of Persons is
+expressed in many ways; thus at the very outset of Genesis it is
+written in manifestation of the Trinity: "Let us make man to Our image
+and likeness" (Gen. 1:26). Therefore from the very beginning it was
+necessary for salvation to believe in the Trinity.
+
+_I answer that,_ It is impossible to believe explicitly in the
+mystery of Christ, without faith in the Trinity, since the mystery of
+Christ includes that the Son of God took flesh; that He renewed the
+world through the grace of the Holy Ghost; and again, that He was
+conceived by the Holy Ghost. Wherefore just as, before Christ, the
+mystery of Christ was believed explicitly by the learned, but
+implicitly and under a veil, so to speak, by the simple, so too was
+it with the mystery of the Trinity. And consequently, when once grace
+had been revealed, all were bound to explicit faith in the mystery of
+the Trinity: and all who are born again in Christ, have this bestowed
+on them by the invocation of the Trinity, according to Matt. 28:19:
+"Going therefore teach ye all nations, baptizing them in the name of
+the Father, and of the Son and of the Holy Ghost."
+
+Reply Obj. 1: Explicit faith in those two things was necessary at all
+times and for all people: but it was not sufficient at all times and
+for all people.
+
+Reply Obj. 2: Before Christ's coming, faith in the Trinity lay hidden
+in the faith of the learned, but through Christ and the apostles it
+was shown to the world.
+
+Reply Obj. 3: God's sovereign goodness as we understand it now
+through its effects, can be understood without the Trinity of
+Persons: but as understood in itself, and as seen by the Blessed, it
+cannot be understood without the Trinity of Persons. Moreover the
+mission of the Divine Persons brings us to heavenly happiness.
+_______________________
+
+NINTH ARTICLE [II-II, Q. 2, Art. 9]
+
+Whether to Believe Is Meritorious?
+
+Objection 1: It would seem that to believe is not meritorious. For
+the principle of all merit is charity, as stated above (I-II, Q. 114,
+A. 4). Now faith, like nature, is a preamble to charity. Therefore,
+just as an act of nature is not meritorious, since we do not merit by
+our natural gifts, so neither is an act of faith.
+
+Obj. 2: Further, belief is a mean between opinion and scientific
+knowledge or the consideration of things scientifically known
+[*Science is a certain knowledge of a demonstrated conclusion through
+its demonstration.]. Now the considerations of science are not
+meritorious, nor on the other hand is opinion. Therefore belief is
+not meritorious.
+
+Obj. 3: Further, he who assents to a point of faith, either has a
+sufficient motive for believing, or he has not. If he has a
+sufficient motive for his belief, this does not seem to imply any
+merit on his part, since he is no longer free to believe or not to
+believe: whereas if he has not a sufficient motive for believing,
+this is a mark of levity, according to Ecclus. 19:4: "He that is
+hasty to give credit, is light of heart," so that, seemingly, he
+gains no merit thereby. Therefore to believe is by no means
+meritorious.
+
+_On the contrary,_ It is written (Heb. 11:33) that the saints "by
+faith . . . obtained promises," which would not be the case if they
+did not merit by believing. Therefore to believe is meritorious.
+
+_I answer that,_ As stated above (I-II, Q. 114, AA. 3, 4), our
+actions are meritorious in so far as they proceed from the free-will
+moved with grace by God. Therefore every human act proceeding from
+the free-will, if it be referred to God, can be meritorious. Now the
+act of believing is an act of the intellect assenting to the Divine
+truth at the command of the will moved by the grace of God, so that
+it is subject to the free-will in relation to God; and consequently
+the act of faith can be meritorious.
+
+Reply Obj. 1: Nature is compared to charity which is the principle of
+merit, as matter to form: whereas faith is compared to charity as the
+disposition which precedes the ultimate form. Now it is evident that
+the subject or the matter cannot act save by virtue of the form, nor
+can a preceding disposition, before the advent of the form: but after
+the advent of the form, both the subject and the preceding
+disposition act by virtue of the form, which is the chief principle
+of action, even as the heat of fire acts by virtue of the substantial
+form of fire. Accordingly neither nature nor faith can, without
+charity, produce a meritorious act; but, when accompanied by charity,
+the act of faith is made meritorious thereby, even as an act of
+nature, and a natural act of the free-will.
+
+Reply Obj. 2: Two things may be considered in science: namely the
+scientist's assent to a scientific fact and his consideration of that
+fact. Now the assent of science is not subject to free-will, because
+the scientist is obliged to assent by force of the demonstration,
+wherefore scientific assent is not meritorious. But the actual
+consideration of what a man knows scientifically is subject to his
+free-will, for it is in his power to consider or not to consider.
+Hence scientific consideration may be meritorious if it be referred
+to the end of charity, i.e. to the honor of God or the good of our
+neighbor. On the other hand, in the case of faith, both these things
+are subject to the free-will so that in both respects the act of
+faith can be meritorious: whereas in the case of opinion, there is no
+firm assent, since it is weak and infirm, as the Philosopher observes
+(Poster. i, 33), so that it does not seem to proceed from a perfect
+act of the will: and for this reason, as regards the assent, it does
+not appear to be very meritorious, though it can be as regards the
+actual consideration.
+
+Reply Obj. 3: The believer has sufficient motive for believing, for
+he is moved by the authority of Divine teaching confirmed by
+miracles, and, what is more, by the inward instinct of the Divine
+invitation: hence he does not believe lightly. He has not, however,
+sufficient reason for scientific knowledge, hence he does not lose
+the merit.
+_______________________
+
+TENTH ARTICLE [II-II, Q. 2, Art. 10]
+
+Whether Reasons in Support of What We Believe Lessen the Merit of
+Faith?
+
+Objection 1: It would seem that reasons in support of what we believe
+lessen the merit of faith. For Gregory says (Hom. xxvi in Evang.)
+that "there is no merit in believing what is shown by reason." If,
+therefore, human reason provides sufficient proof, the merit of faith
+is altogether taken away. Therefore it seems that any kind of human
+reasoning in support of matters of faith, diminishes the merit of
+believing.
+
+Obj. 2: Further, whatever lessens the measure of virtue, lessens
+the amount of merit, since "happiness is the reward of virtue," as
+the Philosopher states (Ethic. i, 9). Now human reasoning seems to
+diminish the measure of the virtue of faith, since it is essential
+to faith to be about the unseen, as stated above (Q. 1, AA. 4, 5).
+Now the more a thing is supported by reasons the less is it unseen.
+Therefore human reasons in support of matters of faith diminish the
+merit of faith.
+
+Obj. 3: Further, contrary things have contrary causes. Now an
+inducement in opposition to faith increases the merit of faith whether
+it consist in persecution inflicted by one who endeavors to force a
+man to renounce his faith, or in an argument persuading him to do so.
+Therefore reasons in support of faith diminish the merit of faith.
+
+_On the contrary,_ It is written (1 Pet. 3:15): "Being ready always to
+satisfy every one that asketh you a reason of that faith [*Vulg.: 'Of
+that hope which is in you.' St. Thomas' reading is apparently taken
+from Bede.] and hope which is in you." Now the Apostle would not give
+this advice, if it would imply a diminution in the merit of faith.
+Therefore reason does not diminish the merit of faith.
+
+_I answer that,_ As stated above (A. 9), the act of faith can be
+meritorious, in so far as it is subject to the will, not only as to
+the use, but also as to the assent. Now human reason in support of
+what we believe, may stand in a twofold relation to the will of the
+believer. First, as preceding the act of the will; as, for instance,
+when a man either has not the will, or not a prompt will, to believe,
+unless he be moved by human reasons: and in this way human reason
+diminishes the merit of faith. In this sense it has been said above
+(I-II, Q. 24, A. 3, ad 1; Q. 77, A. 6, ad 2) that, in moral virtues,
+a passion which precedes choice makes the virtuous act less
+praiseworthy. For just as a man ought to perform acts of moral
+virtue, on account of the judgment of his reason, and not on account
+of a passion, so ought he to believe matters of faith, not on account
+of human reason, but on account of the Divine authority. Secondly,
+human reasons may be consequent to the will of the believer. For when
+a man's will is ready to believe, he loves the truth he believes, he
+thinks out and takes to heart whatever reasons he can find in support
+thereof; and in this way human reason does not exclude the merit of
+faith but is a sign of greater merit. Thus again, in moral virtues a
+consequent passion is the sign of a more prompt will, as stated above
+(I-II, Q. 24, A. 3, ad 1). We have an indication of this in the words
+of the Samaritans to the woman, who is a type of human reason: "We
+now believe, not for thy saying" (John 4:42).
+
+Reply Obj. 1: Gregory is referring to the case of a man who has no
+will to believe what is of faith, unless he be induced by reasons.
+But when a man has the will to believe what is of faith on the
+authority of God alone, although he may have reasons in demonstration
+of some of them, e.g. of the existence of God, the merit of his faith
+is not, for that reason, lost or diminished.
+
+Reply Obj. 2: The reasons which are brought forward in support of
+the authority of faith, are not demonstrations which can bring
+intellectual vision to the human intellect, wherefore they do not
+cease to be unseen. But they remove obstacles to faith, by showing
+that what faith proposes is not impossible; wherefore such reasons do
+not diminish the merit or the measure of faith. On the other hand,
+though demonstrative reasons in support of the preambles of faith
+[*The Leonine Edition reads: 'in support of matters of faith which
+are however, preambles to the articles of faith, diminish,' etc.],
+but not of the articles of faith, diminish the measure of faith,
+since they make the thing believed to be seen, yet they do not
+diminish the measure of charity, which makes the will ready to
+believe them, even if they were unseen; and so the measure of merit
+is not diminished.
+
+Reply Obj. 3: Whatever is in opposition to faith, whether it consist
+in a man's thoughts, or in outward persecution, increases the merit
+of faith, in so far as the will is shown to be more prompt and firm
+in believing. Hence the martyrs had more merit of faith, through not
+renouncing faith on account of persecution; and even the wise have
+greater merit of faith, through not renouncing their faith on account
+of the reasons brought forward by philosophers or heretics in
+opposition to faith. On the other hand things that are favorable to
+faith, do not always diminish the promptness of the will to believe,
+and therefore they do not always diminish the merit of faith.
+_______________________
+
+QUESTION 3
+
+OF THE OUTWARD ACT OF FAITH
+(In Two Articles)
+
+We must now consider the outward act, viz. the confession of faith:
+under which head there are two points of inquiry:
+
+(1) Whether confession is an act of faith?
+
+(2) Whether confession of faith is necessary for salvation?
+_______________________
+
+FIRST ARTICLE [II-II, Q. 3, Art. 1]
+
+Whether Confession Is an Act of Faith?
+
+Objection 1: It would seem that confession is not an act of faith.
+For the same act does not belong to different virtues. Now confession
+belongs to penance of which it is a part. Therefore it is not an act
+of faith.
+
+Obj. 2: Further, man is sometimes deterred by fear or some kind of
+confusion, from confessing his faith: wherefore the Apostle (Eph.
+6:19) asks for prayers that it may be granted him "with confidence,
+to make known the mystery of the gospel." Now it belongs to
+fortitude, which moderates daring and fear, not to be deterred from
+doing good on account of confusion or fear. Therefore it seems that
+confession is not an act of faith, but rather of fortitude or
+constancy.
+
+Obj. 3: Further, just as the ardor of faith makes one confess one's
+faith outwardly, so does it make one do other external good works,
+for it is written (Gal. 5:6) that "faith . . . worketh by charity."
+But other external works are not reckoned acts of faith. Therefore
+neither is confession an act of faith.
+
+_On the contrary,_ A gloss explains the words of 2 Thess. 1:11, "and
+the work of faith in power" as referring to "confession which is a
+work proper to faith."
+
+_I answer that,_ Outward actions belong properly to the virtue to
+whose end they are specifically referred: thus fasting is referred
+specifically to the end of abstinence, which is to tame the flesh,
+and consequently it is an act of abstinence.
+
+Now confession of those things that are of faith is referred
+specifically as to its end, to that which concerns faith, according
+to 2 Cor. 4:13: "Having the same spirit of faith . . . we believe,
+and therefore we speak also." For the outward utterance is intended
+to signify the inward thought. Wherefore, just as the inward thought
+of matters of faith is properly an act of faith, so too is the
+outward confession of them.
+
+Reply Obj. 1: A threefold confession is commended by the Scriptures.
+One is the confession of matters of faith, and this is a proper act
+of faith, since it is referred to the end of faith as stated above.
+Another is the confession of thanksgiving or praise, and this is an
+act of "latria," for its purpose is to give outward honor to God,
+which is the end of "latria." The third is the confession of sins,
+which is ordained to the blotting out of sins, which is the end of
+penance, to which virtue it therefore belongs.
+
+Reply Obj. 2: That which removes an obstacle is not a direct, but an
+indirect, cause, as the Philosopher proves (Phys. viii, 4). Hence
+fortitude which removes an obstacle to the confession of faith, viz.
+fear or shame, is not the proper and direct cause of confession, but
+an indirect cause so to speak.
+
+Reply Obj. 3: Inward faith, with the aid of charity, causes all
+outward acts of virtue, by means of the other virtues, commanding,
+but not eliciting them; whereas it produces the act of confession
+as its proper act, without the help of any other virtue.
+_______________________
+
+SECOND ARTICLE [II-II, Q. 3, Art. 2]
+
+Whether Confession of Faith Is Necessary for Salvation?
+
+Objection 1: It would seem that confession of faith is not necessary
+for salvation. For, seemingly, a thing is sufficient for salvation, if
+it is a means of attaining the end of virtue. Now the proper end of
+faith is the union of the human mind with Divine truth, and this can
+be realized without any outward confession. Therefore confession of
+faith is not necessary for salvation.
+
+Obj. 2: Further, by outward confession of faith, a man reveals his
+faith to another man. But this is unnecessary save for those who have
+to instruct others in the faith. Therefore it seems that the simple
+folk are not bound to confess the faith.
+
+Obj. 3: Further, whatever may tend to scandalize and disturb others,
+is not necessary for salvation, for the Apostle says (1 Cor. 10:32):
+"Be without offense to the Jews and to the gentiles and to the Church
+of God." Now confession of faith sometimes causes a disturbance among
+unbelievers. Therefore it is not necessary for salvation.
+
+_On the contrary,_ The Apostle says (Rom. 10:10): "With the heart we
+believe unto justice; but with the mouth, confession is made unto
+salvation."
+
+_I answer that,_ Things that are necessary for salvation come under
+the precepts of the Divine law. Now since confession of faith is
+something affirmative, it can only fall under an affirmative precept.
+Hence its necessity for salvation depends on how it falls under an
+affirmative precept of the Divine law. Now affirmative precepts as
+stated above (I-II, Q. 71, A. 5, ad 3; I-II, Q. 88, A. 1, ad 2) do
+not bind for always, although they are always binding; but they bind
+as to place and time according to other due circumstances, in respect
+of which human acts have to be regulated in order to be acts of
+virtue.
+
+Thus then it is not necessary for salvation to confess one's faith at
+all times and in all places, but in certain places and at certain
+times, when, namely, by omitting to do so, we would deprive God of
+due honor, or our neighbor of a service that we ought to render him:
+for instance, if a man, on being asked about his faith, were to
+remain silent, so as to make people believe either that he is without
+faith, or that the faith is false, or so as to turn others away from
+the faith; for in such cases as these, confession of faith is
+necessary for salvation.
+
+Reply Obj. 1: The end of faith, even as of the other virtues, must
+be referred to the end of charity, which is the love of God and our
+neighbor. Consequently when God's honor and our neighbor's good
+demand, man should not be contented with being united by faith to
+God's truth, but ought to confess his faith outwardly.
+
+Reply Obj. 2: In cases of necessity where faith is in danger, every
+one is bound to proclaim his faith to others, either to give good
+example and encouragement to the rest of the faithful, or to check
+the attacks of unbelievers: but at other times it is not the duty
+of all the faithful to instruct others in the faith.
+
+Reply Obj. 3: There is nothing commendable in making a public
+confession of one's faith, if it causes a disturbance among
+unbelievers, without any profit either to the faith or to the
+faithful. Hence Our Lord said (Matt. 7:6): "Give not that which is
+holy to dogs, neither cast ye your pearls before swine . . . lest
+turning upon you, they tear you." Yet, if there is hope of profit to
+the faith, or if there be urgency, a man should disregard the
+disturbance of unbelievers, and confess his faith in public. Hence it
+is written (Matt. 15:12) that when the disciples had said to Our Lord
+that "the Pharisee, when they heard this word, were scandalized," He
+answered: "Let them alone, they are blind, and leaders of the blind."
+_______________________
+
+QUESTION 4
+
+OF THE VIRTUE ITSELF OF FAITH
+(In Eight Articles)
+
+We must now consider the virtue itself of faith, and, in the first
+place, faith itself; secondly, those who have faith; thirdly, the
+cause of faith; fourthly, its effects.
+
+Under the first head there are eight points of inquiry:
+
+(1) What is faith?
+
+(2) In what power of the soul does it reside?
+
+(3) Whether its form is charity?
+
+(4) Whether living (_formata_) faith and lifeless (_informis_) faith
+are one identically?
+
+(5) Whether faith is a virtue?
+
+(6) Whether it is one virtue?
+
+(7) Of its relation to the other virtues;
+
+(8) Of its certitude as compared with the certitude of the
+intellectual virtues.
+_______________________
+
+FIRST ARTICLE [II-II, Q. 4, Art. 1]
+
+Whether This Is a Fitting Definition of Faith: "Faith Is the
+Substance of Things to Be Hoped For, the Evidence of Things That
+Appear Not?"
+
+Objection 1: It would seem that the Apostle gives an unfitting
+definition of faith (Heb. 11:1) when he says: "Faith is the substance
+of things to be hoped for, the evidence of things that appear not."
+For no quality is a substance: whereas faith is a quality, since it
+is a theological virtue, as stated above (I-II, Q. 62, A. 3).
+Therefore it is not a substance.
+
+Obj. 2: Further, different virtues have different objects. Now things
+to be hoped for are the object of hope. Therefore they should not be
+included in a definition of faith, as though they were its object.
+
+Obj. 3: Further, faith is perfected by charity rather than by hope,
+since charity is the form of faith, as we shall state further on (A.
+3). Therefore the definition of faith should have included the thing
+to be loved rather than the thing to be hoped for.
+
+Obj. 4: Further, the same thing should not be placed in different
+genera. Now "substance" and "evidence" are different genera, and
+neither is subalternate to the other. Therefore it is unfitting to
+state that faith is both "substance" and "evidence."
+
+Obj. 5: Further, evidence manifests the truth of the matter for which
+it is adduced. Now a thing is said to be apparent when its truth is
+already manifest. Therefore it seems to imply a contradiction to
+speak of "evidence of things that appear not": and so faith is
+unfittingly defined.
+
+_On the contrary,_ The authority of the Apostle suffices.
+
+_I answer that,_ Though some say that the above words of the Apostle are
+not a definition of faith, yet if we consider the matter aright, this
+definition overlooks none of the points in reference to which faith
+can be defined, albeit the words themselves are not arranged in the
+form of a definition, just as the philosophers touch on the principles
+of the syllogism, without employing the syllogistic form.
+
+In order to make this clear, we must observe that since habits are
+known by their acts, and acts by their objects, faith, being a habit,
+should be defined by its proper act in relation to its proper object.
+Now the act of faith is to believe, as stated above (Q. 2, AA. 2, 3),
+which is an act of the intellect determinate to one object of the
+will's command. Hence an act of faith is related both to the object
+of the will, i.e. to the good and the end, and to the object of the
+intellect, i.e. to the true. And since faith, through being a
+theological virtue, as stated above (I-II, Q. 62, A. 2), has one same
+thing for object and end, its object and end must, of necessity, be
+in proportion to one another. Now it has been already stated (Q. 1,
+AA. 1, 4) that the object of faith is the First Truth, as unseen, and
+whatever we hold on account thereof: so that it must needs be under
+the aspect of something unseen that the First Truth is the end of the
+act of faith, which aspect is that of a thing hoped for, according to
+the Apostle (Rom. 8:25): "We hope for that which we see not": because
+to see the truth is to possess it. Now one hopes not for what one has
+already, but for what one has not, as stated above (I-II, Q. 67, A.
+4). Accordingly the relation of the act of faith to its end which is
+the object of the will, is indicated by the words: "Faith is the
+substance of things to be hoped for." For we are wont to call by the
+name of substance, the first beginning of a thing, especially when
+the whole subsequent thing is virtually contained in the first
+beginning; for instance, we might say that the first self-evident
+principles are the substance of science, because, to wit, these
+principles are in us the first beginnings of science, the whole of
+which is itself contained in them virtually. In this way then faith
+is said to be the "substance of things to be hoped for," for the
+reason that in us the first beginning of things to be hoped for is
+brought about by the assent of faith, which contains virtually all
+things to be hoped for. Because we hope to be made happy through
+seeing the unveiled truth to which our faith cleaves, as was made
+evident when we were speaking of happiness (I-II, Q. 3, A. 8; I-II,
+Q. 4, A. 3).
+
+The relationship of the act of faith to the object of the intellect,
+considered as the object of faith, is indicated by the words,
+"evidence of things that appear not," where "evidence" is taken for
+the result of evidence. For evidence induces the intellect to adhere
+to a truth, wherefore the firm adhesion of the intellect to the
+non-apparent truth of faith is called "evidence" here. Hence another
+reading has "conviction," because to wit, the intellect of the
+believer is convinced by Divine authority, so as to assent to what it
+sees not. Accordingly if anyone would reduce the foregoing words to
+the form of a definition, he may say that "faith is a habit of the
+mind, whereby eternal life is begun in us, making the intellect
+assent to what is non-apparent."
+
+In this way faith is distinguished from all other things pertaining to
+the intellect. For when we describe it as "evidence," we distinguish
+it from opinion, suspicion, and doubt, which do not make the intellect
+adhere to anything firmly; when we go on to say, "of things that
+appear not," we distinguish it from science and understanding, the
+object of which is something apparent; and when we say that it is "the
+substance of things to be hoped for," we distinguish the virtue of
+faith from faith commonly so called, which has no reference to the
+beatitude we hope for.
+
+Whatever other definitions are given of faith, are explanations of
+this one given by the Apostle. For when Augustine says (Tract. xl in
+Joan.: QQ. Evang. ii, qu. 39) that "faith is a virtue whereby we
+believe what we do not see," and when Damascene says (De Fide Orth.
+iv, 11) that "faith is an assent without research," and when others
+say that "faith is that certainty of the mind about absent things
+which surpasses opinion but falls short of science," these all amount
+to the same as the Apostle's words: "Evidence of things that appear
+not"; and when Dionysius says (Div. Nom. vii) that "faith is the solid
+foundation of the believer, establishing him in the truth, and showing
+forth the truth in him," comes to the same as "substance of things to
+be hoped for."
+
+Reply Obj. 1: "Substance" here does not stand for the supreme genus
+condivided with the other genera, but for that likeness to substance
+which is found in each genus, inasmuch as the first thing in a genus
+contains the others virtually and is said to be the substance thereof.
+
+Reply Obj. 2: Since faith pertains to the intellect as commanded by
+the will, it must needs be directed, as to its end, to the objects of
+those virtues which perfect the will, among which is hope, as we
+shall prove further on (Q. 18, A. 1). For this reason the definition
+of faith includes the object of hope.
+
+Reply Obj. 3: Love may be of the seen and of the unseen, of the
+present and of the absent. Consequently a thing to be loved is not so
+adapted to faith, as a thing to be hoped for, since hope is always of
+the absent and the unseen.
+
+Reply Obj. 4: "Substance" and "evidence" as included in the
+definition of faith, do not denote various genera of faith, nor
+different acts, but different relationships of one act to different
+objects, as is clear from what has been said.
+
+Reply Obj. 5: Evidence taken from the proper principles of a thing,
+make[s] it apparent, whereas evidence taken from Divine authority
+does not make a thing apparent in itself, and such is the evidence
+referred to in the definition of faith.
+_______________________
+
+SECOND ARTICLE [II-II, Q. 4, Art. 2]
+
+Whether Faith Resides in the Intellect?
+
+Objection 1: It would seem that faith does not reside in the
+intellect. For Augustine says (De Praedest. Sanct. v) that "faith
+resides in the believer's will." Now the will is a power distinct
+from the intellect. Therefore faith does not reside in the intellect.
+
+Obj. 2: Further, the assent of faith to believe anything, proceeds
+from the will obeying God. Therefore it seems that faith owes all its
+praise to obedience. Now obedience is in the will. Therefore faith is
+in the will, and not in the intellect.
+
+Obj. 3: Further, the intellect is either speculative or practical.
+Now faith is not in the speculative intellect, since this is not
+concerned with things to be sought or avoided, as stated in _De
+Anima_ iii, 9, so that it is not a principle of operation, whereas
+"faith . . . worketh by charity" (Gal. 5:6). Likewise, neither is
+it in the practical intellect, the object of which is some true,
+contingent thing, that can be made or done. For the object of faith
+is the Eternal Truth, as was shown above (Q. 1, A. 1). Therefore
+faith does not reside in the intellect.
+
+_On the contrary,_ Faith is succeeded by the heavenly vision,
+according to 1 Cor. 13:12: "We see now through a glass in a dark
+manner; but then face to face." Now vision is in the intellect.
+Therefore faith is likewise.
+
+_I answer that,_ Since faith is a virtue, its act must needs be
+perfect. Now, for the perfection of an act proceeding from two active
+principles, each of these principles must be perfect: for it is not
+possible for a thing to be sawn well, unless the sawyer possess the
+art, and the saw be well fitted for sawing. Now, in a power of the
+soul, which is related to opposite objects, a disposition to act well
+is a habit, as stated above (I-II, Q. 49, A. 4, ad 1, 2, 3).
+Wherefore an act that proceeds from two such powers must be perfected
+by a habit residing in each of them. Again, it has been stated above
+(Q. 2, AA. 1, 2) that to believe is an act of the intellect inasmuch
+as the will moves it to assent. And this act proceeds from the will
+and the intellect, both of which have a natural aptitude to be
+perfected in this way. Consequently, if the act of faith is to be
+perfect, there needs to be a habit in the will as well as in the
+intellect: even as there needs to be the habit of prudence in the
+reason, besides the habit of temperance in the concupiscible faculty,
+in order that the act of that faculty be perfect. Now, to believe is
+immediately an act of the intellect, because the object of that act
+is "the true," which pertains properly to the intellect. Consequently
+faith, which is the proper principle of that act, must needs reside
+in the intellect.
+
+Reply Obj. 1: Augustine takes faith for the act of faith, which is
+described as depending on the believer's will, in so far as his
+intellect assents to matters of faith at the command of the will.
+
+Reply Obj. 2: Not only does the will need to be ready to obey but
+also the intellect needs to be well disposed to follow the command of
+the will, even as the concupiscible faculty needs to be well disposed
+in order to follow the command of reason; hence there needs to be a
+habit of virtue not only in the commanding will but also in the
+assenting intellect.
+
+Reply Obj. 3: Faith resides in the speculative intellect, as
+evidenced by its object. But since this object, which is the First
+Truth, is the end of all our desires and actions, as Augustine proves
+(De Trin. i, 8), it follows that faith worketh by charity just as
+"the speculative intellect becomes practical by extension" (De Anima
+iii, 10).
+_______________________
+
+THIRD ARTICLE [II-II, Q. 4, Art. 3]
+
+Whether Charity Is the Form of Faith?
+
+Objection 1: It would seem that charity is not the form of faith.
+For each thing derives its species from its form. When therefore two
+things are opposite members of a division, one cannot be the form of
+the other. Now faith and charity are stated to be opposite members of
+a division, as different species of virtue (1 Cor. 13:13). Therefore
+charity is not the form of faith.
+
+Obj. 2: Further, a form and the thing of which it is the form are in
+one subject, since together they form one simply. Now faith is in the
+intellect, while charity is in the will. Therefore charity is not the
+form of faith.
+
+Obj. 3: Further, the form of a thing is a principle thereof. Now
+obedience, rather than charity, seems to be the principle of
+believing, on the part of the will, according to Rom. 1:5: "For
+obedience to the faith in all nations." Therefore obedience rather
+than charity, is the form of faith.
+
+_On the contrary,_ Each thing works through its form. Now faith works
+through charity. Therefore the love of charity is the form of faith.
+
+_I answer that,_ As appears from what has been said above (I-II, Q.
+1, A. 3; I-II, Q. 18, A. 6), voluntary acts take their species from
+their end which is the will's object. Now that which gives a thing
+its species, is after the manner of a form in natural things.
+Wherefore the form of any voluntary act is, in a manner, the end to
+which that act is directed, both because it takes its species
+therefrom, and because the mode of an action should correspond
+proportionately to the end. Now it is evident from what has been said
+(A. 1), that the act of faith is directed to the object of the will,
+i.e. the good, as to its end: and this good which is the end of
+faith, viz. the Divine Good, is the proper object of charity.
+Therefore charity is called the form of faith in so far as the act
+of faith is perfected and formed by charity.
+
+Reply Obj. 1: Charity is called the form of faith because it quickens
+the act of faith. Now nothing hinders one act from being quickened by
+different habits, so as to be reduced to various species in a certain
+order, as stated above (I-II, Q. 18, AA. 6, 7; I-II, Q. 61, A. 2)
+when we were treating of human acts in general.
+
+Reply Obj. 2: This objection is true of an intrinsic form. But it is
+not thus that charity is the form of faith, but in the sense that it
+quickens the act of faith, as explained above.
+
+Reply Obj. 3: Even obedience, and hope likewise, and whatever other
+virtue might precede the act of faith, is quickened by charity, as
+we shall show further on (Q. 23, A. 8), and consequently charity is
+spoken of as the form of faith.
+_______________________
+
+FOURTH ARTICLE [II-II, Q. 4, Art. 4]
+
+Whether Lifeless Faith Can Become Living, or Living Faith, Lifeless?
+
+Objection 1: It would seem that lifeless faith does not become
+living, or living faith lifeless. For, according to 1 Cor. 13:10,
+"when that which is perfect is come, that which is in part shall be
+done away." Now lifeless faith is imperfect in comparison with living
+faith. Therefore when living faith comes, lifeless faith is done
+away, so that they are not one identical habit.
+
+Obj. 2: Further, a dead thing does not become a living thing. Now
+lifeless faith is dead, according to James 2:20: "Faith without works
+is dead." Therefore lifeless faith cannot become living.
+
+Obj. 3: Further, God's grace, by its advent, has no less effect in a
+believer than in an unbeliever. Now by coming to an unbeliever it
+causes the habit of faith. Therefore when it comes to a believer, who
+hitherto had the habit of lifeless faith, it causes another habit of
+faith in him.
+

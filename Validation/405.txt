@@ -1,0 +1,451 @@
+The Project Gutenberg EBook of Astronomy of To-day, by Cecil G. Dolmage
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Astronomy of To-day
+       A Popular Introduction in Non-Technical Language
+
+Author: Cecil G. Dolmage
+
+Release Date: April 21, 2009 [EBook #28570]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ASTRONOMY OF TO-DAY ***
+
+
+
+
+Produced by Brenda Lewis, Scott Marusak, Greg Bergquist
+and the Online Distributed Proofreading Team at
+http://www.pgdp.net (This file was produced from images
+generously made available by The Internet Archive/American
+Libraries.)
+
+
+
+
+
+
+Transcriber's Note
+
+The punctuation and spelling from the original text have been faithfully
+preserved. Only obvious typographical errors have been corrected. The
+advertisement from the beginning of the book has been joined with the
+other advertisements near the end of the book.
+
+Greek words are spelled out and represented as [word]. Greek letters are
+represented as [a] "for alpha".
+
+
+
+
+ASTRONOMY OF TO-DAY
+
+[Illustration: THE TOTAL ECLIPSE OF THE SUN OF AUGUST 30TH, 1905.
+
+The Corona; from a water-colour sketch, made at Burgos, in Spain, during
+the total phase, by the French Artist, Mdlle. ANDREE MOCH.]
+
+
+
+
+  ASTRONOMY OF
+  TO-DAY
+
+  _A POPULAR INTRODUCTION IN
+  NON-TECHNICAL LANGUAGE_
+
+  By
+
+  CECIL G. DOLMAGE, M.A., LL.D., D.C.L.
+
+  Fellow of the Royal Astronomical Society; Member of
+  the British Astronomical Association; Member of
+  the Astronomical Society of the Pacific; Membre
+  de la Societe Astronomique de France;
+  Membre de la Societe Belge
+  d'Astronomie
+
+
+
+  With a Frontispiece in Colour
+  and 45 Illustrations & Diagrams
+
+
+  _THIRD EDITION_
+
+
+  LONDON
+  SEELEY AND CO. LIMITED
+  38 GREAT RUSSELL STREET
+  1910
+
+
+
+
+PREFACE
+
+
+The object of this book is to give an account of the science of
+Astronomy, as it is known at the present day, in a manner acceptable to
+the _general reader_.
+
+It is too often supposed that it is impossible to acquire any useful
+knowledge of Astronomy without much laborious study, and without
+adventuring into quite a new world of thought. The reasoning applied to
+the study of the celestial orbs is, however, of no different order from
+that which is employed in the affairs of everyday life. The science of
+mathematics is perhaps responsible for the idea that some kind of
+difference does exist; but mathematical processes are, in effect, no
+more than ordinary logic in concentrated form, the _shorthand of
+reasoning_, so to speak. I have attempted in the following pages to take
+the main facts and theories of Astronomy out of those mathematical forms
+which repel the general reader, and to present them in the _ordinary
+language of our workaday world_.
+
+The few diagrams introduced are altogether supplementary, and are not
+connected with the text by any wearying cross-references. Each diagram
+is complete in itself, being intended to serve as a pictorial aid, in
+case the wording of the text should not have perfectly conveyed the
+desired meaning. The full page illustrations are also described as
+adequately as possible at the foot of each.
+
+As to the coloured frontispiece, this must be placed in a category by
+itself. It is the work of the _artist_ as distinct from the scientist.
+
+The book itself contains incidentally a good deal of matter concerned
+with the Astronomy of the past, the introduction of which has been found
+necessary in order to make clearer the Astronomy of our time.
+
+It would be quite impossible for me to enumerate here the many sources
+from which information has been drawn. But I acknowledge my especial
+indebtedness to Professor F.R. Moulton's _Introduction to Astronomy_
+(Macmillan, 1906), to the works on Eclipses of the late Rev. S.J.
+Johnson and of Mr. W.T. Lynn, and to the excellent _Journals of the
+British Astronomical Association_. Further, for those grand questions
+concerned with the Stellar Universe at large, I owe a very deep debt to
+the writings of the famous American astronomer, Professor Simon Newcomb,
+and of our own countryman, Mr. John Ellard Gore; to the latter of whom I
+am under an additional obligation for much valuable information
+privately rendered.
+
+In my search for suitable illustrations, I have been greatly aided by
+the kindly advice of Mr. W. H. Wesley, the Assistant Secretary of the
+Royal Astronomical Society. To those who have been so good as to permit
+me to reproduce pictures and photographs, I desire to record my best
+thanks as follows:--To the French Artist, Mdlle. Andree Moch; to the
+Astronomer Royal; to Sir David Gill, K.C.B., LL.D., F.R.S.; to the
+Council of the Royal Astronomical Society; to Professor E.B. Frost,
+Director of the Yerkes Observatory; to M.P. Puiseux, of the Paris
+Observatory; to Dr. Max Wolf, of Heidelberg; to Professor Percival
+Lowell; to the Rev. Theodore E.R. Phillips, M.A., F.R.A.S.; to Mr. W.H.
+Wesley; to the Warner and Swasey Co., of Cleveland, Ohio, U.S.A.; to the
+publishers of _Knowledge_, and to Messrs. Sampson, Low & Co. For
+permission to reproduce the beautiful photograph of the Spiral Nebula in
+Canes Venatici (Plate XXII.), I am indebted to the distinguished
+astronomer, the late Dr. W.E. Wilson, D.Sc., F.R.S., whose untimely
+death, I regret to state, occurred in the early part of this year.
+
+Finally, my best thanks are due to Mr. John Ellard Gore, F.R.A.S.,
+M.R.I.A., to Mr. W.H. Wesley, and to Mr. John Butler Burke, M.A., of
+Cambridge, for their kindness in reading the proof-sheets.
+
+CECIL G. DOLMAGE.
+
+LONDON, S.W.,
+_August 4, 1908._
+
+
+
+
+PREFATORY NOTE TO THE SECOND EDITION
+
+
+The author of this book lived only long enough to hear of the favour
+with which it had been received, and to make a few corrections in view
+of the second edition which it has so soon reached.
+
+_December 1908._
+
+
+
+
+CONTENTS
+
+
+  CHAPTER I
+                                            PAGE
+  THE ANCIENT VIEW                            17
+
+  CHAPTER II
+  THE MODERN VIEW                             20
+
+  CHAPTER III
+  THE SOLAR SYSTEM                            29
+
+  CHAPTER IV
+  CELESTIAL MECHANISM                         38
+
+  CHAPTER V
+  CELESTIAL DISTANCES                         46
+
+  CHAPTER VI
+  CELESTIAL MEASUREMENT                       55
+
+  CHAPTER VII
+  ECLIPSES AND KINDRED PHENOMENA              61
+
+  CHAPTER VIII
+  FAMOUS ECLIPSES OF THE SUN                  83
+
+  CHAPTER IX
+  FAMOUS ECLIPSES OF THE MOON                101
+
+  CHAPTER X
+  THE GROWTH OF OBSERVATION                  105
+
+  CHAPTER XI
+  SPECTRUM ANALYSIS                          121
+
+  CHAPTER XII
+  THE SUN                                    127
+
+  CHAPTER XIII
+  THE SUN--_continued_                       134
+
+  CHAPTER XIV
+  THE INFERIOR PLANETS                       146
+
+  CHAPTER XV
+  THE EARTH                                  158
+
+  CHAPTER XVI
+  THE MOON                                   183
+
+  CHAPTER XVII
+  THE SUPERIOR PLANETS                       209
+
+  CHAPTER XVIII
+  THE SUPERIOR PLANETS--_continued_          229
+
+  CHAPTER XIX
+  COMETS                                     247
+
+  CHAPTER XX
+  REMARKABLE COMETS                          259
+
+  CHAPTER XXI
+  METEORS OR SHOOTING STARS                  266
+
+  CHAPTER XXII
+  THE STARS                                  278
+
+  CHAPTER XXIII
+  THE STARS--_continued_                     287
+
+  CHAPTER XXIV
+  SYSTEMS OF STARS                           300
+
+  CHAPTER XXV
+  THE STELLAR UNIVERSE                       319
+
+  CHAPTER XXVI
+  THE STELLAR UNIVERSE--_continued_          329
+
+  CHAPTER XXVII
+  THE BEGINNING OF THINGS                    333
+
+  CHAPTER XXVIII
+  THE END OF THINGS                          342
+
+  INDEX                                      351
+
+
+
+
+LIST OF ILLUSTRATIONS
+
+
+LIST OF PLATES
+
+  PLATE
+  THE TOTAL ECLIPSE OF THE SUN
+  OF AUGUST 30, 1905                       _Frontispiece_
+
+  I. THE TOTAL ECLIPSE OF THE SUN
+     OF MAY 17, 1882                   _To face page_  96
+
+  II. GREAT TELESCOPE OF HEVELIUS        "    "       110
+
+  III. A TUBELESS, OR "AERIAL" TELESCOPE "    "       112
+
+  IV. THE GREAT YERKES TELESCOPE         "    "       118
+
+  V. THE SUN, SHOWING SEVERAL
+     GROUPS OF SPOTS                     "    "       134
+
+  VI. PHOTOGRAPH OF A SUNSPOT            "    "       136
+
+  VII. FORMS OF THE SOLAR CORONA
+       AT THE EPOCHS OF SUNSPOT
+       MAXIMUM AND SUNSPOT
+       MINIMUM RESPECTIVELY.
+      (A) THE TOTAL ECLIPSE OF
+      THE SUN OF DECEMBER 22, 1870.
+      (B) THE TOTAL ECLIPSE OF
+      THE SUN OF MAY 28, 1900            "    "       142
+
+  VIII. THE MOON                       _To face page_ 196
+
+  IX. MAP OF THE MOON, SHOWING
+      THE PRINCIPAL "CRATERS,"
+      MOUNTAIN RANGES AND
+      "SEAS"                             "    "       198
+
+  X. ONE OF THE MOST INTERESTING
+     REGIONS ON THE MOON                 "    "       200
+
+  XI. THE MOON (SHOWING SYSTEMS
+      OF "RAYS")                         "    "       204
+
+  XII. A MAP OF THE PLANET MARS          "    "       216
+
+  XIII. MINOR PLANET TRAILS              "    "       226
+
+  XIV. THE PLANET JUPITER                "    "       230
+
+  XV. THE PLANET SATURN                  "    "       236
+
+  XVI. EARLY REPRESENTATIONS OF
+       SATURN                            "    "       242
+
+  XVII. DONATI'S COMET                   "    "       256
+
+  XVIII. DANIEL'S COMET OF 1907          "    "       258
+
+  XIX. THE SKY AROUND THE NORTH
+       POLE                              "    "       292
+
+  XX. ORION AND HIS NEIGHBOURS           "    "       296
+
+  XXI. THE GREAT GLOBULAR CLUSTER
+       IN THE SOUTHERN CONSTELLATION
+       OF CENTAURUS                      "    "       306
+
+  XXII. SPIRAL NEBULA IN THE CONSTELLATION
+        OF CANES VENATICI                "    "       314
+
+  XXIII. THE GREAT NEBULA IN THE
+         CONSTELLATION OF ANDROMEDA    _To face page_ 316
+
+  XXIV. THE GREAT NEBULA IN THE
+        CONSTELLATION OF ORION           "    "       318
+
+
+
+
+LIST OF DIAGRAMS
+
+
+  FIG.                                         PAGE
+  1. THE PTOLEMAIC IDEA OF THE UNIVERSE          19
+
+  2. THE COPERNICAN THEORY OF THE SOLAR
+     SYSTEM                                      21
+
+  3. TOTAL AND PARTIAL ECLIPSES OF THE MOON      64
+
+  4. TOTAL AND PARTIAL ECLIPSES OF THE SUN       67
+
+  5. "BAILY'S BEADS"                             70
+
+  6. MAP OF THE WORLD ON MERCATOR'S PROJECTION,
+     SHOWING A PORTION OF THE PROGRESS
+     OF THE TOTAL SOLAR ECLIPSE OF
+     AUGUST 30, 1905, ACROSS THE SURFACE
+     OF THE EARTH                                81
+
+  7. THE "RING WITH WINGS"                       87
+
+  8. THE VARIOUS TYPES OF TELESCOPE             113
+
+  9. THE SOLAR SPECTRUM                         123
+
+  10. A SECTION THROUGH THE SUN, SHOWING HOW
+      THE PROMINENCES RISE FROM THE
+      CHROMOSPHERE                              131
+
+  11. ORBIT AND PHASES OF AN INFERIOR PLANET    148
+
+  12. THE "BLACK DROP"                          153
+
+  13. SUMMER AND WINTER                         176
+
+  14. ORBIT AND PHASES OF THE MOON              184
+
+  15. THE ROTATION OF THE MOON ON HER AXIS      187
+
+  16. LAPLACE'S "PERENNIAL FULL MOON"           191
+
+  17. ILLUSTRATING THE AUTHOR'S EXPLANATION OF
+      THE APPARENT ENLARGEMENT OF CELESTIAL
+      OBJECTS                                   195
+
+  18. SHOWING HOW THE TAIL OF A COMET IS
+      DIRECTED AWAY FROM THE SUN                248
+
+  19. THE COMET OF 1066, AS REPRESENTED IN THE
+      BAYEUX TAPESTRY                           263
+
+  20. PASSAGE OF THE EARTH THROUGH THE THICKEST
+      PORTION OF A METEOR SWARM                 269
+
+
+
+
+ASTRONOMY OF TO-DAY
+
+
+
+
+CHAPTER I
+
+THE ANCIENT VIEW
+
+
+It is never safe, as we know, to judge by appearances, and this is
+perhaps more true of astronomy than of anything else.
+
+For instance, the idea which one would most naturally form of the earth
+and heaven is that the solid earth on which we live and move extends to
+a great distance in every direction, and that the heaven is an immense
+dome upon the inner surface of which the stars are fixed. Such must
+needs have been the idea of the universe held by men in the earliest
+times. In their view the earth was of paramount importance. The sun and
+moon were mere lamps for the day and for the night; and these, if not
+gods themselves, were at any rate under the charge of special deities,
+whose task it was to guide their motions across the vaulted sky.
+
+Little by little, however, this simple estimate of nature began to be
+overturned. Difficult problems agitated the human mind. On what, for
+instance, did the solid earth rest, and what prevented the vaulted
+heaven from falling in upon men and crushing them out of existence?
+Fantastic myths sprang from the vain attempts to solve these riddles.
+The Hindoos, for example, imagined the earth as supported by four
+elephants which stood upon the back of a gigantic tortoise, which, in
+its turn, floated on the surface of an elemental ocean. The early
+Western civilisations conceived the fable of the Titan Atlas, who, as a
+punishment for revolt against the Olympian gods, was condemned to hold
+up the expanse of sky for ever and ever.
+
+Later on glimmerings of the true light began to break in upon men. The
+Greek philosophers, who busied themselves much with such matters,
+gradually became convinced that the earth was spherical in shape, that
+is to say, round like a ball. In this opinion we now know that they were

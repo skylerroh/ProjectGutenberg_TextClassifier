@@ -1,0 +1,547 @@
+The Project Gutenberg EBook of Odes and Carmen Saeculare of Horace, by Horace
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Odes and Carmen Saeculare of Horace
+
+Author:  Horace
+
+Release Date: April, 2004  [EBook #5432]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on July 18, 2002]
+[Date last updated: August 28, 2005]
+
+Edition: 10
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THE PROJECT GUTENBERG EBOOK, ODES AND CARMEN SAECULARE OF HORACE ***
+
+
+
+
+David Moynihan, Charles Franks and the Online Distributed Proofreading Team.
+
+
+
+THE ODES AND CARMEN SAECULARE OF HORACE
+
+TRANSLATED INTO ENGLISH VERSE
+BY JOHN CONINGTON, M.A.
+CORPUS PROFESSOR OF LATIN IN THE
+UNIVERSITY OF OXFORD.
+
+THIRD EDITION.
+
+
+
+
+
+
+PREFACE.
+
+
+I scarcely know what excuse I can offer for making public this attempt
+to "translate the untranslatable." No one can be more convinced than I
+am that a really successful translator must be himself an original
+poet; and where the author translated happens to be one whose special
+characteristic is incommunicable grace of expression, the demand on the
+translator's powers would seem to be indefinitely increased. Yet the
+time appears to be gone by when men of great original gifts could find
+satisfaction in reproducing the thoughts and words of others; and the
+work, if done at all, must now be done by writers of inferior
+pretension. Among these, however, there are still degrees; and the
+experience which I have gained since I first adventured as a poetical
+translator has made me doubt whether I may not be ill-advised in
+resuming the experiment under any circumstances. Still, an experiment
+of this kind may have an advantage of its own, even when it is
+unsuccessful; it may serve as a piece of embodied criticism, showing
+what the experimenter conceived to be the conditions of success, and
+may thus, to borrow Horace's own metaphor of the whetstone, impart to
+others a quality which it is itself without. Perhaps I may be allowed,
+for a few moments, to combine precept with example, and imitate my
+distinguished friend and colleague, Professor Arnold, in offering some
+counsels to the future translator of Horace's Odes, referring, at the
+same time, by way of illustration, to my own attempt.
+
+The first thing at which, as it seems to me, a Horatian translator
+ought to aim, is some kind of metrical conformity to his original.
+Without this we are in danger of losing not only the metrical, but the
+general effect of the Latin; we express ourselves in a different
+compass, and the character of the expression is altered accordingly.
+For instance, one of Horace's leading features is his occasional
+sententiousness. It is this, perhaps more than anything else, that has
+made him a storehouse of quotations. He condenses a general truth in a
+few words, and thus makes his wisdom portable. "Non, si male nunc, et
+olim sic erit;" "Nihil est ab omni parte beatum;" "Omnes eodem
+cogimur,"--these and similar expressions remain in the memory when
+other features of Horace's style, equally characteristic, but less
+obvious, are forgotten. It is almost impossible for a translator to do
+justice to this sententious brevity unless the stanza in which he
+writes is in some sort analogous to the metre of Horace. If he chooses
+a longer and more diffuse measure, he will be apt to spoil the proverb
+by expansion; not to mention that much will often depend on the very
+position of the sentence in the stanza. Perhaps, in order to preserve
+these external peculiarities, it may be necessary to recast the
+expression, to substitute, in fact, one form of proverb for another;
+but this is far preferable to retaining the words in a diluted form,
+and so losing what gives them their character, I cannot doubt, then,
+that it is necessary in translating an Ode of Horace to choose some
+analogous metre; as little can I doubt that a translator of the Odes
+should appropriate to each Ode some particular metre as its own. It may
+be true that Horace himself does not invariably suit his metre to his
+subject; the solemn Alcaic is used for a poem in dispraise of serious
+thought and praise of wine; the Asclepiad stanza in which Quintilius is
+lamented is employed to describe the loves of Maecenas and Licymnia.
+But though this consideration may influence us in our choice of an
+English metre, it is no reason for not adhering to the one which we may
+have chosen. If we translate an Alcaic and a Sapphic Ode into the same
+English measure, because the feeling in both appears to be the same, we
+are sure to sacrifice some important characteristic of the original in
+the case of one or the other, perhaps of both. It is better to try to
+make an English metre more flexible than to use two different English
+metres to represent two different aspects of one measure in Latin. I am
+sorry to say that I have myself deviated from this rule occasionally,
+under circumstances which I shall soon have to explain; but though I
+may perhaps succeed in showing that my offences have not been serious,
+I believe the rule itself to be one of universal application, always
+honoured in the observance, if not always equally dishonoured in the
+breach.
+
+The question, what metres should be selected, is of course one of very
+great difficulty. I can only explain what my own practice has been,
+with some of the reasons which have influenced me in particular cases.
+Perhaps we may take Milton's celebrated translation of the Ode to
+Pyrrha as a starting point. There can be no doubt that to an English
+reader the metre chosen does give much of the effect of the original;
+yet the resemblance depends rather on the length of the respective
+lines than on any similarity in the cadences. But it is evident that he
+chose the iambic movement as the ordinary movement of English poetry;
+and it is evident, I think, that in translating Horace we shall be
+right in doing the same, as a general rule. Anapaestic and other
+rhythms may be beautiful and appropriate in themselves, but they cannot
+be manipulated so easily; the stanzas with which they are associated
+bear no resemblance, as stanzas, to the stanzas of Horace's Odes. I
+have then followed Milton in appropriating the measure in question to
+the Latin metre, technically called the fourth Asclepiad, at the same
+time that I have substituted rhyme for blank verse, believing rhyme to
+be an inferior artist's only chance of giving pleasure. There still
+remains a question about the distribution of the rhymes, which here, as
+in most other cases, I have chosen to make alternate. Successive rhymes
+have their advantages, but they do not give the effect of interlinking,
+which is so natural in a stanza; the quatrain is reduced to two
+couplets, and its unity is gone. From the fourth to the third Asclepiad
+the step is easy. Taking an English iambic line of ten syllables to
+represent the longer lines of the Latin, an English iambic line of six
+syllables to represent the shorter, we see that the metre of Horace's
+"Scriberis Vario" finds its representative in the metre of Mr.
+Tennyson's "Dream of Fair Women." My experience would lead me to
+believe the English metre to be quite capable, in really skilful hands,
+of preserving the effect of the Latin, though, as I have said above,
+the Latin measure is employed by Horace both for a threnody and for a
+love-song.
+
+The Sapphic and the Alcaic involve more difficult questions. Here,
+however, as in the Asclepiad, I believe we must be guided, to some
+extent, by external similarity. We must choose the iambic movement as
+being most congenial to English; we must avoid the ten-syllable iambic
+as already appropriated to the longer Asclepiad line. This leads me to
+conclude that the staple of each stanza should be the eight-syllable
+iambic, a measure more familiar to English lyric poetry than any other,
+and as such well adapted to represent the most familiar lyric measures
+of Horace. With regard to the Sapphic, it seems desirable that it
+should be represented by a measure of which the three first lines are
+eight-syllable iambics, the fourth some shorter variety. Of this
+stanza there are at least two kinds for which something might be said.
+It might be constructed so that the three first lines should rhyme with
+each other, the fourth being otherwise dealt with; or it might be
+framed on the plan of alternate rhymes, the fourth line still being
+shorter than the rest. Of the former kind two or three specimens are to
+be found in Francis' translation of Horace. In these the fourth line
+consists of but three syllables, the two last of which rhyme with the
+two last syllables of the fourth line of the next succeeding stanza, as
+for instance:--
+
+
+     You shoot; she whets her tusks to bite;
+     While he who sits to judge the fight
+     Treads on the palm with foot so white,
+            Disdainful,
+     And sweetly floating in the air
+     Wanton he spreads his fragrant hair,
+     Like Ganymede or Nireus fair,
+            And vainful.
+
+It would be possible, no doubt, to produce verses better adapted to
+recommend the measure than these stanzas, which are, however, the best
+that can be quoted from Francis; it might be possible, too, to suggest
+some improvement in the structure of the fourth line. But, however
+managed, this stanza would, I think, be open to two serious objections;
+the difficulty of finding three suitable rhymes for each stanza, and
+the difficulty of disposing of the fourth line, which, if made to rhyme
+with the fourth line of the next stanza, produces an awkwardness in the
+case of those Odes which consist of an odd number of stanzas (a large
+proportion of the whole amount), if left unrhymed, creates an obviously
+disagreeable effect. We come then to the other alternative, the stanza
+with alternate rhymes. Here the question is about the fourth line,
+which may either consist of six syllables, like Coleridge's Fragment,
+"O leave the lily on its stem," or of four, as in Pope's youthful "Ode
+on Solitude," these types being further varied by the addition of an
+extra syllable to form a double rhyme. Of these the four-syllable type
+seems to me the one to be preferred, as giving the effect of the Adonic
+better than if it had been two syllables longer. The double rhyme has,
+I think, an advantage over the single, were it not for its greater
+difficulty. Much as English lyric poetry owes to double rhymes, a
+regular supply of them is not easy to procure; some of them are apt to
+be cumbrous, such as words in-ATION; others, such as the participial-ING
+(DYING, FLYING, &c.), spoil the language of poetry, leading to the
+employment of participles where participles are not wanted, and of
+verbal substantives that exist nowhere else. My first intention was to
+adopt the double rhyme in this measure, and I accordingly executed
+three Odes on that plan (Book I. Odes 22, 38; Book II. Ode 16);
+afterwards I abandoned it, and contented myself with the single rhyme.
+On the whole, I certainly think this measure answers sufficiently well
+to the Latin Sapphic; but I have felt its brevity painfully in almost
+every Ode that I have attempted, being constantly obliged to omit some
+part of the Latin which I would gladly have preserved. The great number
+of monosyllables in English is of course a reason for acquiescing in
+lines shorter than the corresponding lines in Latin; but even in
+English polysyllables are often necessary, and still oftener desirable
+on grounds of harmony; and an allowance of twenty-eight syllables of
+English for thirty-eight of Latin is, after all, rather short.
+
+For the place of the Alcaic there are various candidates. Mr. Tennyson
+has recently invented a measure which, if not intended to reproduce the
+Alcaic, was doubtless suggested by it, that which appears in his poem
+of "The Daisy," and, in a slightly different form, in the "Lines to Mr.
+Maurice." The two last lines of the latter form of the stanza are
+indeed evidently copied from the Alcaic, with the simple omission of
+the last syllable of the last line of the original. Still, as a whole,
+I doubt whether this form would be as suitable, at least for a
+dignified Ode, as the other, where the initial iambic in the last line,
+substituted for a trochec, makes the movement different. I was
+deterred, however, from attempting either, partly by a doubt whether
+either had been sufficiently naturalized in English to be safely
+practised by an unskilful hand, partly by the obvious difficulty of
+having to provide three rhymes per stanza, against which the occurrence
+of one line in each without a rhyme at all was but a poor set-off. A
+second metre which occurred to me is that of Andrew Marvel's Horatian
+Ode, a variety of which is found twice in Mr. Keble's Christian Year.
+Here two lines of eight syllables are followed by two of six, the
+difference between the types being that in Marvel's Ode the rhymes are
+successive, in Mr. Keble's alternate. The external correspondence
+between this and the Alcaic is considerable; but the brevity of the
+English measure struck me at once as a fatal obstacle, and I did not
+try to encounter it. A third possibility is the stanza of "In
+Memoriam," which has been adopted by the clever author of "Poems and
+Translations, by C. S. C.," in his version of "Justum et tenacem." I
+think it very probable that this will be found eventually to be the
+best representation of the Alcaic in English, especially as it appears
+to afford facilities for that linking of stanza to stanza which one who
+wishes to adhere closely to the logical and rhythmical structure of the
+Latin soon learns to desire. But I have not adopted it; and I believe
+there is good reason for not doing so. With all its advantages, it has
+the patent disadvantage of having been brought into notice by a poet
+who is influencing the present generation as only a great living poet
+can. A great writer now, an inferior writer hereafter, may be able to
+handle it with some degree of independence; but the majority of those
+who use it at present are sure in adopting Mr. Tennyson's metre to
+adopt his manner. It is no reproach to "C. S. C." that his Ode reminds
+us of Mr. Tennyson; it is a praise to him that the recollection is a
+pleasant one. But Mr. Tennyson's manner is not the manner of Horace,
+and it is the manner of a contemporary; the expression--a most powerful
+and beautiful expression--of influences to which a translator of an
+ancient classic feels himself to be too much subjected already. What is
+wanted is a metre which shall have other associations than those of the
+nineteenth century, which shall be the growth of various periods of
+English poetry, and so be independent of any. Such a metre is that
+which I have been led to choose, the eight-syllable iambic with
+alternate rhymes. It is one of the commonest metres in the language,
+and for that reason it is adapted to more than one class of subjects,
+to the gay as well as to the grave. But I am mistaken if it is not
+peculiarly suited to express that concentrated grandeur, that majestic
+combination of high eloquence with high poetry, which make the early
+Alcaic Odes of Horace's Third Book what they are to us. The main
+difficulty is in accommodating its structure to that of the Latin, of
+varying the pauses, and of linking stanza to stanza. It is a difficulty
+before which I have felt myself almost powerless, and I have in
+consequence been driven to the natural expedient of weakness,
+compromise, sometimes evading it, sometimes coping with it
+unsuccessfully. In other respects I may be allowed to say that I have
+found the metre pleasanter to handle than any of the others that I have
+attempted, except, perhaps, that of "The Dream of Fair Women." The
+proportion of syllables in each stanza of English to each stanza of
+Latin is not much greater than in the case of the Sapphic, thirty-two
+against forty-one; yet, except in a few passages, chiefly those
+containing proper names, I have had no disagreeable sense of
+confinement. I believe the reason of this to be that the Latin Alcaic
+generally contains fewer words in proportion than the Latin Sapphic,
+the former being favourable to long words, the latter to short ones, as
+may be seen by contrasting such lines as "Dissentientis conditionibus"
+with such as "Dona praesentis rape laetus horae ac." This, no doubt,
+shows that there is an inconvenience in applying the same English
+iambic measure to two metres which differ so greatly in their practical
+result; but so far as I can see at present, the evil appears to be one
+of those which it is wiser to submit to than to attempt to cure.
+
+The problem of finding English representatives for the other Horatian
+metres, if a more difficult, is a less important one. The most pressing
+case is that of the metre known as the second Asclepiad, the "Sic te
+diva potens Cypri." With this, I fear, I shall be thought to have dealt
+rather capriciously, having rendered it by four different measures,
+three of them, however, varieties of the same general type. It so
+happens that the first Ode which I translated was the celebrated
+Amoebean Poem, the dialogue between Horace and Lydia. I had had at that
+time not the most distant notion of translating the whole of the Odes,
+or even any considerable number of them, so that in choosing a metre I
+thought simply of the requirements of the Ode in question, not of those
+of the rest of its class. Indeed, I may say that it was the thought of
+the metre which led me to try if I could translate the Ode. Having
+accomplished my attempt, I turned to another Ode of the same class, the
+scarcely less celebrated "Quem tu, Melpomene." For this I took a
+different metre, which happens to be identical with that of a solitary
+Ode in the Second Book, "Non ebur neque aureum," being guided still by
+my feeling about the individual Ode, not by any more general
+considerations. I did not attempt a third until I had proceeded
+sufficiently far in my undertaking to see that I should probably
+continue to the end. Then I had to consider the question of a uniform
+metre to answer to the Latin. Both of those which I had already tried
+were rendered impracticable by a double rhyme, which, however
+manageable in one or two Odes, is unmanageable, as I have before
+intimated, in the case of a large number. The former of the two
+measures, divested of the double rhyme, would, I think, lose most of
+its attractiveness; the latter suffers much less from the privation:
+the latter accordingly I chose. The trochaic character of the first
+line seems to me to give it an advantage over any metre composed of
+pure iambics, if it were only that it discriminates it from those
+alternate ten-syllable and eight-syllable iambics into which it would
+be natural to render many of the Epodes. At the same time, it did not
+appear worth while to rewrite the two Odes already translated, merely
+for the sake of uniformity, as the principle of correspondence to the
+Latin, the alternation of longer and shorter lines, is really the same
+in all three cases. Nay, so tentative has been my treatment of the
+whole matter, that I have even translated one Ode, the third of Book I,
+into successive rather than into alternate rhymes, so that readers may
+judge of the comparative effect of the two varieties. After this
+confession of irregularity, I need scarcely mention that on coming to
+the Ode which had suggested the metre in its unmutilated state, I
+translated it into the mutilated form, not caring either to encounter
+the inconvenience of the double rhymes, or to make confusion worse
+confounded by giving it, what it has in the Latin, a separate form of
+its own.
+
+The remaining metres may be dismissed in a very few words. As a general
+rule, I have avoided couplets of any sort, and chosen some kind of
+stanza. As a German critic has pointed out, all the Odes of Horace,
+with one doubtful exception, may be reduced to quatrains; and though
+this peculiarity does not, so far as we can see, affect the character
+of any of the Horatian metres (except, of course, those that are
+written in stanzas), or influence the structure of the Latin, it must
+be considered as a happy circumstance for those who wish to render
+Horace into English. In respect of restraint, indeed, the English
+couplet may sometimes be less inconvenient than the quatrain, as it is,
+on the whole, easier to run couplet into couplet than to run quatrain
+into quatrain; but the couplet seems hardly suitable for an English
+lyrical poem of any length, the very notion of lyrical poetry
+apparently involving a complexity which can only be represented by
+rhymes recurring at intervals. In the case of one of the three poems
+written by Horace in the measure called the greater Asclepiad, ("Tu ne
+quoesieris,") I have adopted the couplet; in another ("Nullam, Vare,")
+the quatrain, the determining reason in the two cases being the length
+of the two Odes, the former of which consists but of eight lines, the
+latter of sixteen. The metre which I selected for each is the thirteen-
+syllable trochaic of "Locksley Hall;" and it is curious to observe the
+different effect of the metre according as it is written in two lines
+or in four. In the "Locksley Hall" couplet its movement is undoubtedly
+trochaic; but when it is expanded into a quatrain, as in Mrs.
+Browning's poem of "Lady Geraldine's Courtship," the movement changes,
+and instead of a more or less equal stress on the alternate syllables,
+the full ictus is only felt in one syllable out of every four; in
+ancient metrical language the metre becomes Ionic a minore. This very
+Ionic a minore is itself, I need not say, the metre of a single Ode in
+the Third Book, the "Miserarum est," and I have devised a stanza for
+it, taking much more pains with the apportionment of the ictus than in
+the case of the trochaic quatrain, which is better able to modulate
+itself. I have also ventured to invent a metre for that technically
+known as the Fourth Archilochian, the "Solvitur acris hiems," by
+combining the fourteen-syllable with the ten-syllable iambic in an
+alternately rhyming stanza. [Footnote: I may be permitted to mention
+that Lord Derby, in a volume of Translations printed privately before
+the appearance of this work, has employed the same measure in rendering
+the same Ode, the only difference being that his rhymes are not
+alternate, but successive.] The First Archilochian, "Diffugere nives,"
+I have represented by a combination of the ten-syllable with the four-
+syllable iambic. For the so-called greater Sapphic, the "Lydia, die per
+omnes" I have made another iambic combination, the six-syllable with
+the fourteen-syllable, arranged as a couplet. The choriambic I thought
+might be exchanged for a heroic stanza, in which the first line should
+rhyme with the fourth, the second with the third, a kind of "In
+Memoriam" elongated. Lastly, I have chosen the heroic quatrain proper,
+the metre of Gray's "Elegy," for the two Odes in the First Book written
+in what is called the Metrum Alcmanium, "Laudabunt alii," and "Te maris
+et terrae," rather from a vague notion of the dignity of the measure
+than from any distinct sense of special appropriateness.
+
+From this enumeration, which I fear has been somewhat tedious, it will
+be seen that I have been guided throughout not by any systematic
+principles, but by a multitude of minor considerations, some operating
+more strongly in one case, and some in another. I trust, however, that
+in all this diversity I shall be found to have kept in view the object
+on which I have been insisting, a metrical correspondence with the
+original. Even where I have been most inconsistent, I have still
+adhered to the rule of comprising the English within the same number of
+lines as the Latin. I believe tills to be almost essential to the
+preservation of the character of the Horatian lyric, which always
+retains a certain severity, and never loses itself in modern
+exuberance; and though I am well aware that the result in my case has
+frequently, perhaps generally, been a most un-Horatian stiffness, I am
+convinced from my own experience that a really accomplished artist
+would find the task of composing under these conditions far more
+hopeful than he had previously imagined it to be. Yet it is a restraint
+to which scarcely any of the previous translators of the Odes have been
+willing to submit. Perhaps Professor Newman is the only one who has
+carried it through the whole of the Four Books; most of my predecessors
+have ignored it altogether. It is this which, in my judgment, is the
+chief drawback to the success of the most distinguished of them, Mr.
+Theodore Martin. He has brought to his work a grace and delicacy of
+expression and a happy flow of musical verse which are beyond my
+praise, and which render many of his Odes most pleasing to read as
+poems. I wish he had combined with these qualities that terseness and
+condensation which remind us that a Roman, even when writing "songs of
+love and wine," was a Roman still.
+
+Some may consider it extraordinary that in discussing the different
+ways of representing Horatian metres I have said nothing of
+transplanting those metres themselves into English. I think, however,
+that an apology for my silence may he found in the present state of the
+controversy about the English hexameter. Whatever may be the ultimate
+fate of that struggling alien--and I confess myself to be one of those
+who doubt whether he can ever be naturalized--most judges will, I
+believe, agree that for the present at any rate his case is sufficient
+to occupy the literary tribunals, and that to raise any discussion on
+the rights of others of his class would be premature. Practice, after
+all, is more powerful in such matters than theory; and hardly at any
+time in the three hundred years during which we have had a formed
+literature has the introduction of classical lyric measures into
+English been a practical question. Stanihurst has had many successors
+in the hexameter; probably he has not had more than one or two in the
+Asclepiad. The Sapphic, indeed, has been tried repeatedly; but it is an
+exception which is no exception, the metre thus intruded into our
+language not being really the Latin Sapphic, but a metre of a different
+kind, founded on a mistake in the manner of reading the Latin, into
+which Englishmen naturally fall, and in which, for convenience'
+sake, they as naturally persist. The late Mr. Clough, whose efforts in
+literature were essentially tentative, in form as well as in spirit,
+and whose loss for that very reason is perhaps of more serious import
+to English poetry than if, with equal genius, he had possessed a more
+conservative habit of mind, once attempted reproductions of nearly all
+the different varieties of Horatian metres. They may he found in a
+paper which he contributed to the fourth volume of the "Classical
+Museum;" and a perusal of them will, I think, be likely to convince the
+reader that the task is one in which even great rhythmical power and
+mastery of language would be far from certain of succeeding. Even the
+Alcaic fragment which he has inserted in his "Amours de Voyage"--
+
+     "Eager for battle here
+     Stood Vulcan, here matronal Juno,
+     And with the bow to his shoulder faithful
+     He who with pure dew laveth of Castaly
+     His flowing locks, who holdeth of Lycia
+     The oak forest and the wood that bore him,
+     Delos' and Patara's own Apollo,"--
+
+admirably finished as it is, and highly pleasing as a fragment,
+scarcely persuades us that twenty stanzas of the same workmanship would
+be read with adequate pleasure, still less that the same satisfaction
+would be felt through six-and-thirty Odes. After all, however, a sober
+critic will be disposed rather to pass judgment on the past than to
+predict the future, knowing, as he must, how easily the "solvitur
+ambulando" of an artist like Mr. Tennyson may disturb a whole chain
+of ingenious reasoning on the possibilities of things.
+
+The question of the language into which Horace should be translated is
+not less important than that of the metre; but it involves far less
+discussion of points of detail, and may, in fact, be very soon
+dismissed. I believe that the chief danger which a translator has to
+avoid is that of subjection to the influences of his own period.
+Whether or no Mr. Merivale is right in supposing that an analogy exists
+between the literature of the present day and that of post-Augustan
+Rome, it will not, I think, be disputed that between our period and the
+Augustan period the resemblances are very few, perhaps not more than
+must necessarily exist between two periods of high cultivation. It is
+the fashion to say that the characteristic of the literature of the
+last century was shallow clearness, the expression of obvious thoughts
+in obvious, though highly finished language; it is the fashion to
+retort upon our own generation that its tendency is to over-thinking
+and over-expression, a constant search for thoughts which shall not he
+obvious and words which shall be above the level of received
+conventionality. Accepting these as descriptions, however imperfect, of
+two different types of literature, we can have no doubt to which
+division to refer the literary remains of Augustan Rome. The Odes of
+Horace, in particular, will, I think, strike a reader who comes back to
+them after reading other books, as distinguished by a simplicity,
+monotony, and almost poverty of sentiment, and as depending for the
+charm of their external form not so much on novel and ingenious images
+as on musical words aptly chosen and aptly combined. We are always
+hearing of wine-jars and Thracian convivialities, of parsley wreaths
+and Syrian nard; the graver topics, which it is the poet's wisdom to
+forget, are constantly typified by the terrors of quivered Medes and
+painted Gelonians; there is the perpetual antithesis between youth and
+age, there is the ever-recurring image of green and withered trees, and
+it is only the attractiveness of the Latin, half real, half perhaps
+arising from association and the romance of a language not one's own,
+that makes us feel this "lyrical commonplace" more supportable than
+common-place is usually found to be. It is this, indeed, which
+constitutes the grand difficulty of the translator, who may well despair
+when he undertakes to reproduce beauties depending on expression by a
+process in which expression is sure to be sacrificed. But it would, I
+think, be a mistake to attempt to get rid of this monotony by calling
+in the aid of that variety of images and forms of language which modern
+poetry presents. Here, as in the case of metres, it seems to me that to
+exceed the bounds of what may be called classical parsimony would be to
+abandon the one chance, faint as it may be, of producing on the
+reader's mind something like the impression produced by Horace. I do
+not say that I have always been as abstinent as I think a translator
+ought to be; here, as in all matters connected with this most difficult
+work, weakness may claim a licence of which strength would disdain to
+avail itself; I only say that I have not surrendered myself to the
+temptation habitually and without a struggle. As a general rule, while
+not unfrequently compelled to vary the precise image Horace has chosen,
+I have substituted one which he has used elsewhere; where he has talked
+of triumphs, meaning no more than victories, I have talked of bays;
+where he gives the picture of the luxuriant harvests of Sardinia, I
+have spoken of the wheat on the threshing-floors. On the whole I have
+tried, so far as my powers would allow me, to give my translation
+something of the colour of our eighteenth-century poetry, believing the
+poetry of that time to be the nearest analogue of the poetry of
+Augustus' court that England has produced, and feeling quite sure that
+a writer will bear traces enough of the language and manner of his own
+time to redeem him from the charge of having forgotten what is after
+all his native tongue. As one instance out of many, I may mention the
+use of compound epithets as a temptation to which the translator of
+Horace is sure to be exposed, and which, in my judgment, he ought in
+general to resist. Their power of condensation naturally recommends
+them to a writer who has to deal with inconvenient clauses, threatening
+to swallow up the greater part of a line; but there is no doubt that in

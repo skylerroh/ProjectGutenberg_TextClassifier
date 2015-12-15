@@ -1,0 +1,448 @@
+        1000.  lahuyoxbak.
+        1200.  oxbak = 3 x 400.
+        2000.  capic (modern).
+        8000.  hunpic = 1 sack.
+      16,000.  ca pic (ancient).
+     160,000.  calab = a filling full
+   3,200,000.  kinchil.
+  64,000,000.  hunalau.
+
+In the Maya scale we have one of the best and most extended examples of
+vigesimal numeration ever developed by any race. To show in a more striking
+and forcible manner the perfect regularity of the system, the following
+tabulation is made of the various Maya units, which will correspond to the
+"10 units make one ten, 10 tens make one hundred, 10 hundreds make one
+thousand," etc., which old-fashioned arithmetic compelled us to learn in
+childhood. The scale is just as regular by twenties in Maya as by tens in
+English. It is[364]
+
+  20 hun     = 1 kal          =         20.
+  20 kal     = 1 bak          =        400.
+  20 bak     = 1 pic          =       8000.
+  20 pic     = 1 calab        =    160,000.
+  20 calab   = 1 { kinchil  } =  3,200,000.
+                 { tzotzceh }
+  20 kinchil = 1 alau         = 64,000,000.
+
+The original meaning of _pic_, given in the scale as "a sack," was rather
+"a short petticoat, somtimes used as a sack." The word _tzotzceh_ signified
+"deerskin." No reason can be given for the choice of this word as a
+numeral, though the appropriateness of the others is sufficiently manifest.
+No evidence of digital numeration appears in the first 10 units, but,
+judging from the almost universal practice of the Indian tribes of both
+North and South America, such may readily have been the origin of Maya
+counting. Whatever its origin, it certainly expanded and grew into a system
+whose perfection challenges our admiration. It was worthy of the splendid
+civilization of this unfortunate race, and, through its simplicity and
+regularity, bears ample testimony to the intellectual capacity which
+originated it.
+
+The only example of vigesimal reckoning which is comparable with that of
+the Mayas is the system employed by their northern neighbours, the Nahuatl,
+or, as they are more commonly designated, the Aztecs of Mexico. This system
+is quite as pure and quite as simple as the Maya, but differs from it in
+some important particulars. In its first 20 numerals it is quinary (see p.
+141), and as a system must be regarded as quinary-vigesimal. The Maya scale
+is decimal through its first 20 numerals, and, if it is to be regarded as a
+mixed scale, must be characterized as decimal-vigesimal. But in both these
+instances the vigesimal element preponderates so strongly that these, in
+common with their kindred number systems of Mexico, Yucatan, and Central
+America, are always thought of and alluded to as vigesimal scales. On
+account of its importance, the Nahuatl system[365] is given in fuller
+detail than most of the other systems I have made use of.
+
+          10.  matlactli = 2 hands.
+          20.  cempoalli = 1 counting.
+          21.  cempoalli once  = 20-1.
+          22.  cempoalli omome = 20-2.
+          30.  cempoalli ommatlactli      = 20-10.
+          31.  cempoalli ommatlactli once = 20-10-1.
+          40.  ompoalli               = 2 x 20.
+          50.  ompoalli ommatlactli   = 40-10.
+          60.  eipoalli, or epoalli,  = 3 x 20.
+          70.  epoalli ommatlactli    = 60-10.
+          80.  nauhpoalli             = 4 x 20.
+          90.  nauhpoalli ommatlactli = 90-10.
+         100.  macuilpoalli    = 5 x 20.
+         120.  chiquacempoalli = 6 x 20.
+         140.  chicompoalli    = 7 x 20.
+         160.  chicuepoalli    = 8 x 20.
+         180.  chiconauhpoalli = 9 x 20.
+         200.  matlacpoalli    = 10 x 20.
+         220.  matlactli oncempoalli  = 11 x 20.
+         240.  matlactli omompoalli   = 12 x 20.
+         260.  matlactli omeipoalli   = 13 x 20.
+         280.  matlactli onnauhpoalli = 14 x 20.
+         300.  caxtolpoalli           = 15 x 20.
+         320.  caxtolli oncempoalli.
+         399.  caxtolli onnauhpoalli ipan caxtolli onnaui = 19 x 20 + 19.
+         400.  centzontli = 1 bunch of grass, or 1 tuft of hair.
+         800.  ometzontli = 2 x 400.
+        1200.  eitzontli  = 3 x 400.
+        7600.  caxtolli onnauhtzontli = 19 x 400.
+        8000.  cenxiquipilli, or cexiquipilli.
+     160,000.  cempoalxiquipilli      = 20 x 8000.
+   3,200,000.  centzonxiquipilli      = 400 x 8000.
+  64,000,000.  cempoaltzonxiquipilli  = 20 x 400 x 8000.
+
+Up to 160,000 the Nahuatl system is as simple and regular in its
+construction as the English. But at this point it fails in the formation of
+a new unit, or rather in the expression of its new unit by a simple word;
+and in the expression of all higher numbers it is forced to resort in some
+measure to compound terms, just as the English might have done had it not
+been able to borrow from the Italian. The higher numeral terms, under such
+conditions, rapidly become complex and cumbersome, as the following
+analysis of the number 1,279,999,999 shows.[366] The analysis will be
+readily understood when it is remembered that _ipan_ signifies plus.
+_Caxtolli onnauhpoaltzonxiquipilli ipan caxtolli onnauhtzonxiquipilli ipan
+caxtolli onnauhpoalxiquipilli ipan caxtolli onnauhxiquipilli ipan caxtolli
+onnauhtzontli ipan caxtolli onnauhpoalli ipan caxtolli onnaui;_ _i.e._
+1,216,000,000 + 60,800,000  + 3,040,000 + 152,000 + 7600 + 380 + 19. To
+show the compounding which takes place in the higher numerals, the analysis
+may be made more literally, thus:  + (15 + 4) x 400 x 800 + (15 + 4) x 20 x
+8000 + (15  + 4) x 8000 + (15 + 4) x 400 + (15 + 4) x 20 + 15  + 4. Of
+course this resolution suffers from the fact that it is given in digits
+arranged in accordance with decimal notation, while the Nahuatl numerals
+express values by a base twice as great. This gives the effect of a
+complexity and awkwardness greater than really existed in the actual use of
+the scale. Except for the presence of the quinary element the number just
+given is really expressed with just as great simplicity as it could be in
+English words if our words "million" and "billion" were replaced by
+"thousand thousand" and "thousand thousand thousand." If Mexico had
+remained undisturbed by Europeans, and science and commerce had been left
+to their natural growth and development, uncompounded words would
+undoubtedly have been found for the higher units, 160,000, 3,200,000, etc.,
+and the system thus rendered as simple as it is possible for a
+quinary-vigesimal system to be.
+
+Other number scales of this region are given as follows:
+
+
+  HUASTECA.[367]
+
+    10.  laluh.
+    20.  hum-inic       = 1 man.
+    30.  hum-inic-lahu  = 1 man 10.
+    40.  tzab-inic      = 2 men.
+    50.  tzab-inic-lahu = 2 men 10.
+    60.  ox-inic        = 3 men.
+    70.  ox-inic-lahu   = 3 men 10.
+    80.  tze-tnic       = 4 men.
+    90.  tze-ynic-kal-laluh = 4 men and 10.
+   100.  bo-inic        = 5 men.
+   200.  tzab-bo-inic   = 2 x 5 men.
+   300.  ox-bo-inic     = 3 x 5 men.
+   400.  tsa-bo-inic    = 4 x 5 men.
+   600.  acac-bo-inic   = 6 x 5 men.
+   800.  huaxic-bo-inic = 8 x 5 men.
+  1000.  xi.
+  8000.  huaxic-xi = 8-1000.
+
+The essentially vigesimal character of this system changes in the formation
+of some of the higher numerals, and a suspicion of the decimal enters. One
+hundred is _boinic_, 5 men; but 200, instead of being simply _lahuh-inic_,
+10 men, is _tsa-bo-inic_, 2 x 100, or more strictly, 2 times 5 men.
+Similarly, 300 is 3 x 100, 400 is 4 x 100, etc. The word for 1000 is simple
+instead of compound, and the thousands appear to be formed wholly on the
+decimal base. A comparison of this scale with that of the Nahuatl shows how
+much inferior it is to the latter, both in simplicity and consistency.
+
+
+  TOTONACO.[368]
+
+    10.  cauh.
+    20.  puxam.
+    30.  puxamacauh    = 20 + 10.
+    40.  tipuxam       = 2 x 20.
+    50.  tipuxamacauh  = 40 + 10.
+    60.  totonpuxam    = 3 x 20.
+   100.  quitziz puxum = 5 x 20.
+   200.  copuxam       = 10 x 20.
+   400.  tontaman.
+  1000.  titamanacopuxam = 2 x 400 + 200.
+
+The essential character of the vigesimal element is shown by the last two
+numerals. _Tontamen_, the square of 20, is a simple word, and 1000 is, as
+it should be, 2 times 400, plus 200. It is most unfortunate that the
+numeral for 8000, the cube of 20, is not given.
+
+
+  CORA.[369]
+
+    10.  tamoamata.
+    20.  cei-tevi.
+    30.  ceitevi apoan tamoamata = 20 + 10.
+    40.  huapoa-tevi  = 2 x 20.
+    60.  huaeica-tevi = 3 x 20.
+   100.  anxu-tevi    = 5 x 20.
+   400.  ceitevi-tevi = 20 x 20.
+
+Closely allied with the Maya numerals and method of counting are those of
+the Quiches of Guatemala. The resemblance is so obvious that no detail in
+the Quiche scale calls for special mention.
+
+
+  QUICHE.[370]
+
+    10.  lahuh.
+    20.  hu-uinac       = 1 man.
+    30.  hu-uinac-lahuh = 20 + 10.
+    40.  ca-uinac       = 2 men.
+    50.  lahu-r-ox-kal  = -10 + 3 x 20.
+    60.  ox-kal         = 3 x 20.
+    70.  lahu-u-humuch  = -10 + 80.
+    80.  humuch.
+    90.  lahu-r-ho-kal  = -10 + 100.
+   100.  hokal.
+  1000.  o-tuc-rox-o-kal.
+
+Among South American vigesimal systems, the best known is that of the
+Chibchas or Muyscas of the Bogota region, which was obtained at an early
+date by the missionaries who laboured among them. This system is much less
+extensive than that of some of the more northern races; but it is as
+extensive as almost any other South American system with the exception of
+the Peruvian, which was, however, a pure decimal system. As has already
+been stated, the native races of South America were, as a rule, exceedingly
+deficient in regard to the number sense. Their scales are rude, and show
+great poverty, both in formation of numeral words and in the actual extent
+to which counting was carried. If extended as far as 20, these scales are
+likely to become vigesimal, but many stop far short of that limit, and no
+inconsiderable number of them fail to reach even 5. In this respect we are
+reminded of the Australian scales, which were so rudimentary as really to
+preclude any proper use of the word "system" in connection with them.
+Counting among the South American tribes was often equally limited, and
+even less regular. Following are the significant numerals of the scale in
+question:
+
+
+  CHIBCHA, OR MUYSCA.[371]
+
+    10.  hubchibica.
+    20.  quihica ubchihica = thus says the foot, 10 = 10-10,
+          or gueta         = house.
+    30.  guetas asaqui ubchihica = 20 + 10.
+    40.  gue-bosa    = 20 x 2.
+    60.  gue-mica    = 20 x 3.
+    80.  gue-muyhica = 20 x 4.
+   100.  gue-hisca   = 20 x 5.
+
+
+  NAGRANDA.[372]
+
+    10.  guha.
+    20.  dino.
+    30.  'badinoguhanu = 20 + 10.
+    40.  apudino       = 2 x 20.
+    50.  apudinoguhanu = 2 x 20 + 10.
+    60.  asudino       = 3 x 20.
+    70.  asudinoguhanu = 3 x 20 + 10.
+    80.  acudino       = 4 x 20.
+    90.  acudinoguhanu = 4 x 20 + 10.
+   100.  huisudino     = 5 x 20,
+          or guhamba   = great 10.
+   200.  guahadino     = 10 x 20.
+   400.  dinoamba      = great 20.
+  1000.  guhaisudino   = 10 x 5 x 20.
+  2000.  hisudinoamba  = 5 great 20's.
+  4000.  guhadinoamba  = 10 great 20's.
+
+In considering the influence on the manners and customs of any people which
+could properly be ascribed to the use among them of any other base than 10,
+it must not be forgotten that no races, save those using that base, have
+ever attained any great degree of civilization, with the exception of the
+ancient Aztecs and their immediate neighbours, north and south. For reasons
+already pointed out, no highly civilized race has ever used an exclusively
+quinary system; and all that can be said of the influence of this mode of
+counting is that it gives rise to the habit of collecting objects in groups
+of five, rather than of ten, when any attempt is being made to ascertain
+their sum. In the case of the subsidiary base 12, for which the Teutonic
+races have always shown such a fondness, the dozen and gross of commerce,
+the divisions of English money, and of our common weights and measures are
+probably an outgrowth of this preference; and the Babylonian base, 60, has
+fastened upon the world forever a sexagesimal method of dividing time, and
+of measuring the circumference of the circle.
+
+The advanced civilization attained by the races of Mexico and Central
+America render it possible to see some of the effects of vigesimal
+counting, just as a single thought will show how our entire lives are
+influenced by our habit of counting by tens. Among the Aztecs the universal
+unit was 20. A load of cloaks, of dresses, or other articles of convenient
+size, was 20. Time was divided into periods of 20 days each. The armies
+were numbered by divisions of 8000;[373] and in countless other ways the
+vigesimal element of numbers entered into their lives, just as the decimal
+enters into ours; and it is to be supposed that they found it as useful and
+as convenient for all measuring purposes as we find our own system; as the
+tradesman of to-day finds the duodecimal system of commerce; or as the
+Babylonians of old found that singularly curious system, the sexagesimal.
+Habituation, the laws which the habits and customs of every-day life impose
+upon us, are so powerful, that our instinctive readiness to make use of any
+concept depends, not on the intrinsic perfection or imperfection which
+pertains to it, but on the familiarity with which previous use has invested
+it. Hence, while one race may use a decimal, another a quinary-vigesimal,
+and another a sexagesimal scale, and while one system may actually be
+inherently superior to another, no user of one method of reckoning need
+ever think of any other method as possessing practical inconveniences, of
+which those employing it are ever conscious. And, to cite a single instance
+which illustrates the unconscious daily use of two modes of reckoning in
+one scale, we have only to think of the singular vigesimal fragment which
+remains to this day imbedded in the numeral scale of the French. In
+counting from 70 to 100, or in using any number which lies between those
+limits, no Frenchman is conscious of employing a method of numeration less
+simple or less convenient in any particular, than when he is at work with
+the strictly decimal portions of his scale. He passes from the one style of
+counting to the other, and from the second back to the first again,
+entirely unconscious of any break or change; entirely unconscious, in fact,
+that he is using any particular system, except that which the daily habit
+of years has made a part himself.
+
+Deep regret must be felt by every student of philology, that the primitive
+meanings of simple numerals have been so generally lost. But, just as the
+pebble on the beach has been worn and rounded by the beating of the waves
+and by other pebbles, until no trace of its original form is left, and
+until we can say of it now only that it is quartz, or that it is diorite,
+so too the numerals of many languages have suffered from the attrition of
+the ages, until all semblance of their origin has been lost, and we can say
+of them only that they are numerals. Beyond a certain point we can carry
+the study neither of number nor of number words. At that point both the
+mathematician and the philologist must pause, and leave everything beyond
+to the speculations of those who delight in nothing else so much as in pure
+theory.
+
+
+
+
+THE END.
+
+
+
+
+
+INDEX OF AUTHORS.
+
+
+Adam, L., 44, 159, 166, 175.
+Armstrong, R.A., 180.
+Aymonier, A., 156.
+
+Bachofen, J.J., 131.
+Balbi, A., 151.
+Bancroft, H.H., 29, 47, 89, 93, 113, 199.
+Barlow, H., 108.
+Beauregard, O., 45, 83, 152.
+Bellamy, E.W., 9.
+Boas, F., 30, 45, 46, 65, 87, 88, 136, 163, 164, 171, 197, 198.
+Bonwick, J., 24, 27, 107, 108.
+Brinton, D.G., 2, 22, 46, 52, 57, 61, 111, 112, 140, 199, 200.
+Burton, R.F., 37, 71.
+
+Chamberlain, A.F., 45, 65, 93.
+Chase, P.E., 99.
+Clarke, H., 113.
+Codrington, R.H., 16, 95, 96, 136, 138, 145, 153, 154.
+Crawfurd, J., 89, 93, 130.
+Curr, E.M., 24-27, 104, 107-110, 112.
+Cushing, F.H., 13, 48.
+
+De Flacourt, 8, 9.
+De Quincey, T., 35.
+Deschamps, M., 28.
+Dobrizhoffer, M., 71.
+Dorsey, J.O., 59.
+Du Chaillu, P.B., 66, 67, 150, 151.
+Du Graty, A.M., 138.
+
+Ellis, A.A., 64, 91.
+Ellis, R., 37, 142.
+Ellis, W., 83, 119.
+Erskine, J.E., 153, 154.
+
+Flegel, R., 133.
+
+Gallatin, A., 136, 159, 166, 171, 199, 204, 206, 208.
+Galton, F., 4.
+Gatschet, A.S., 58, 59, 68.
+Gilij, F.S., 54.
+Gill, W.W., 18, 118.
+Goedel, M., 83, 147.
+Grimm, J.L.C., 48.
+Groeber, G., 182.
+Guillome, J., 181.
+
+Haddon, A.C., 18, 105.
+Hale, H., 61, 65, 93, 114-116, 122, 130, 156, 163, 164, 171.
+Hankel, H., 137.
+Haumonte, J.D., 44.
+Hervas, L., 170.
+Humboldt, A. von, 32, 207.
+Hyades, M., 22.
+
+Kelly, J.W., 157, 196.
+Kelly, J., 180.
+Kleinschmidt, S., 52, 80.
+
+Lang, J.D., 108.
+Lappenberg, J.M., 127.
+Latham, R.G., 24, 67, 107.
+Leibnitz, G.W. von, 102, 103.
+Lloyd, H.E., 7.
+Long, C.C., 148, 186.
+Long, S.H., 121.
+Lubbock, Sir J., 3, 5.
+Lull, E.P., 79.
+
+Macdonald, J., 15.
+Mackenzie, A., 26.
+Man, E.H., 28, 194.
+Mann, A., 47.
+Marcoy, P. (Saint Cricq), 23, 168.
+Mariner, A., 85.
+Martius, C.F. von, 23, 79, 111, 122, 138, 142, 174.
+Mason, 112.
+Mill, J.S., 3.
+Moncelon, M., 142.
+Morice, A., 15, 86.
+Mueller, Fr., 10, 27, 28, 45, 48, 55, 56, 60, 63, 66, 69, 78, 80, 90, 108,
+   111, 121, 122, 130, 136, 139, 146-151, 156-158, 165-167, 185-187, 191,
+   193.
+Murdoch, J., 30, 49,137.
+
+Nystron, J.W., 132.
+
+O'Donovan, J., 180.
+Oldfield, A., 29, 77.
+Olmos, A. de, 141.
+
+Parisot, J., 44.
+Park, M., 145-147.
+Parry, W.E., 32.
+Peacock, G., 8, 56, 84, 111, 118, 119, 154, 186.
+Petitot, E., 53, 157, 196.
+Pott, A.F., 50, 68, 92, 120, 145, 148, 149, 152, 157, 166, 182, 184, 189,
+   191, 205.
+Pruner-Bey, 10, 104.
+Pughe, W.O., 141.
+
+Ralph, J., 125.
+Ray, S.H., 45, 78, 80.
+Ridley, W., 57.
+Roth, H.L., 79.
+
+Salt, H., 187.
+Sayce, A.H., 75.
+Schoolcraft, H.R., 66, 81, 83, 84, 159, 160.
+Schroeder, P., 90.
+Schweinfurth, G., 143, 146, 149, 186, 187.
+Simeon, R., 201.
+Spix, J.B. von, 7.
+Spurrell, W., 180.
+Squier, G.E., 80, 207.
+Stanley, H.M., 38, 42, 64, 69, 78, 150, 187.
+
+Taplin, G., 106.
+Thiel, B.A., 172.
+Toy, C.H., 70.
+Turner, G., 152, 154.
+Tylor, E.B., 2, 3, 15, 18, 22, 63, 65, 78, 79, 81, 84, 97, 124.
+
+Van Eys, J.W., 182.
+Vignoli, T., 95.

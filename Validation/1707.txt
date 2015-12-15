@@ -1,0 +1,785 @@
+Project Gutenberg Etext of
+The Variation of Animals and Plants under Domestication Volume 2
+#15 in our series by Charles Darwin
+
+
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission.  The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+Presently, contributions are only being solicited from people in:
+Texas, Nevada, Idaho, Montana, Wyoming, Colorado, South Dakota,
+Iowa, Indiana, and Vermont. As the requirements for other states
+are met, additions to this list will be made and fund raising will
+begin in the additional states. These donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655
+
+Title:  The Variation of Animals and Plants under Domestication
+Volume II
+
+Author:  Charles Darwin
+
+Release Date:  October, 2001  [Etext #2872]
+
+Edition: 10
+
+The Project Gutenberg Etext of The Variation of Animals and
+Plants under Domestication Volume II by Charles Darwin
+******This file should be named 2872.txt or 2872.zip******
+
+
+This etext was prepared by Sue Asscher  asschers@dingoblue.net.au
+from the etext prepared by Robert J. Robbins, PhD,
+of the ESP Project   http://www.esp.org/rjr
+
+
+
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net/pg
+http://promo.net/pg
+
+Those of you who want to download our Etexts before announcment
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://metalab.unc.edu/pub/docs/books/gutenberg/etext01
+or
+ftp://metalab.unc.edu/pub/docs/books/gutenberg/etext01
+
+Or /etext00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding.
+
+Something is needed to create a future for Project Gutenberg for
+the next 100 years.
+
+We need your donations more than ever!
+
+Presently, contributions are only being solicited from people in:
+Texas, Nevada, Idaho, Montana, Wyoming, Colorado, South Dakota,
+Iowa, Indiana, and Vermont. As the requirements for other states
+are met, additions to this list will be made and fund raising will
+begin in the additional states.
+
+All donations should be made to the Project Gutenberg Literary
+Archive Foundation and will be tax deductible to the extent
+permitted by law.
+
+Mail to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Avenue
+Oxford, MS 38655  [USA]
+
+We are working with the Project Gutenberg Literary Archive
+Foundation to build more stable support and ensure the
+future of Project Gutenberg.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+***
+
+You can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+Example command-line FTP session:
+
+ftp metalab.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext01, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+**The Legal Small Print**
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions of money, time,
+public domain etexts, and royalty free copyright licenses.
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.07.00*END*
+
+
+
+
+
+This etext was prepared by Sue Asscher asschers@dingoblue.net.au
+from the etext prepared by Robert J. Robbins, PhD of the ESP Project
+http://www.esp.org/rjr
+
+
+
+
+
+THE VARIATION OF
+
+ANIMALS AND PLANTS
+
+UNDER DOMESTICATION
+
+BY
+
+CHARLES DARWIN, M.A., F.R.S., ETC.
+
+IN TWO VOLUMES
+
+VOLUME II.
+
+
+
+
+CONTENTS.
+
+
+CHAPTER 2.XIII.--INHERITANCE continued--REVERSION OR ATAVISM.
+
+DIFFERENT FORMS OF REVERSION--IN PURE OR UNCROSSED BREEDS, AS IN PIGEONS,
+FOWLS, HORNLESS CATTLE AND SHEEP, IN CULTIVATED PLANTS--REVERSION IN FERAL
+ANIMALS AND PLANTS--REVERSION IN CROSSED VARIETIES AND SPECIES--REVERSION
+THROUGH BUD-PROPAGATION, AND BY SEGMENTS IN THE SAME FLOWER OR FRUIT--IN
+DIFFERENT PARTS OF THE BODY IN THE SAME ANIMAL--THE ACT OF CROSSING A DIRECT
+CAUSE OF REVERSION, VARIOUS CASES OF, WITH INSTINCTS--OTHER PROXIMATE CAUSES
+OF REVERSION--LATENT CHARACTERS--SECONDARY SEXUAL CHARACTERS--UNEQUAL
+DEVELOPMENT OF THE TWO SIDES OF THE BODY--APPEARANCE WITH ADVANCING AGE OF
+CHARACTERS DERIVED FROM A CROSS--THE GERM, WITH ALL ITS LATENT CHARACTERS, A
+WONDERFUL OBJECT--MONSTROSITIES--PELORIC FLOWERS DUE IN SOME CASES TO
+REVERSION.
+
+
+CHAPTER 2.XIV.--INHERITANCE continued.--FIXEDNESS OF CHARACTER--PREPOTENCY--
+SEXUAL LIMITATION--CORRESPONDENCE OF AGE.
+
+FIXEDNESS OF CHARACTER APPARENTLY NOT DUE TO ANTIQUITY OF INHERITANCE--
+PREPOTENCY OF TRANSMISSION IN INDIVIDUALS OF THE SAME FAMILY, IN CROSSED
+BREEDS AND SPECIES; OFTEN STRONGER IN ONE SEX THAN THE OTHER; SOMETIMES DUE TO
+THE SAME CHARACTER BEING PRESENT AND VISIBLE IN ONE BREED AND LATENT IN THE
+OTHER--INHERITANCE AS LIMITED BY SEX--NEWLY-ACQUIRED CHARACTERS IN OUR
+DOMESTICATED ANIMALS OFTEN TRANSMITTED BY ONE SEX ALONE, SOMETIMES LOST BY ONE
+SEX ALONE--INHERITANCE AT CORRESPONDING PERIODS OF LIFE--THE IMPORTANCE OF THE
+PRINCIPLE WITH RESPECT TO EMBRYOLOGY; AS EXHIBITED IN DOMESTICATED ANIMALS: AS
+EXHIBITED IN THE APPEARANCE AND DISAPPEARANCE OF INHERITED DISEASES; SOMETIMES
+SUPERVENING EARLIER IN THE CHILD THAN IN THE PARENT--SUMMARY OF THE THREE
+PRECEDING CHAPTERS.
+
+
+CHAPTER 2.XV.--ON CROSSING.
+
+FREE INTERCROSSING OBLITERATES THE DIFFERENCES BETWEEN ALLIED BREEDS--WHEN THE
+NUMBERS OF TWO COMMINGLING BREEDS ARE UNEQUAL, ONE ABSORBS THE OTHER--THE RATE
+OF ABSORPTION DETERMINED BY PREPOTENCY OF TRANSMISSION, BY THE CONDITIONS OF
+LIFE, AND BY NATURAL SELECTION--ALL ORGANIC BEINGS OCCASIONALLY INTERCROSS;
+APPARENT EXCEPTIONS--ON CERTAIN CHARACTERS INCAPABLE OF FUSION; CHIEFLY OR
+EXCLUSIVELY THOSE WHICH HAVE SUDDENLY APPEARED IN THE INDIVIDUAL--ON THE
+MODIFICATION OF OLD RACES, AND THE FORMATION OF NEW RACES BY CROSSING--SOME
+CROSSED RACES HAVE BRED TRUE FROM THEIR FIRST PRODUCTION--ON THE CROSSING OF
+DISTINCT SPECIES IN RELATION TO THE FORMATION OF DOMESTIC RACES.
+
+
+CHAPTER 2.XVI.--CAUSES WHICH INTERFERE WITH THE FREE CROSSING OF VARIETIES--
+INFLUENCE OF DOMESTICATION ON FERTILITY.
+
+DIFFICULTIES IN JUDGING OF THE FERTILITY OF VARIETIES WHEN CROSSED--VARIOUS
+CAUSES WHICH KEEP VARIETIES DISTINCT, AS THE PERIOD OF BREEDING AND SEXUAL
+PREFERENCE--VARIETIES OF WHEAT SAID TO BE STERILE WHEN CROSSED--VARIETIES OF
+MAIZE, VERBASCUM, HOLLYHOCK, GOURDS, MELONS, AND TOBACCO, RENDERED IN SOME
+DEGREE MUTUALLY STERILE--DOMESTICATION ELIMINATES THE TENDENCY TO STERILITY
+NATURAL TO SPECIES WHEN CROSSED--ON THE INCREASED FERTILITY OF UNCROSSED
+ANIMALS AND PLANTS FROM DOMESTICATION AND CULTIVATION.
+
+
+CHAPTER 2.XVII.--ON THE GOOD EFFECTS OF CROSSING, AND ON THE EVIL EFFECTS OF
+CLOSE INTERBREEDING.
+
+DEFINITION OF CLOSE INTERBREEDING--AUGMENTATION OF MORBID TENDENCIES--GENERAL
+EVIDENCE OF THE GOOD EFFECTS DERIVED FROM CROSSING, AND ON THE EVIL EFFECTS OF
+CLOSE INTERBREEDING--CATTLE, CLOSELY INTERBRED; HALF-WILD CATTLE LONG KEPT IN
+THE SAME PARKS--SHEEP--FALLOW-DEER--DOGS, RABBITS, PIGS--MAN, ORIGIN OF HIS
+ABHORRENCE OF INCESTUOUS MARRIAGES--FOWLS--PIGEONS--HIVE-BEES--PLANTS, GENERAL
+CONSIDERATIONS ON THE BENEFITS DERIVED FROM CROSSING--MELONS, FRUIT-TREES,
+PEAS, CABBAGES, WHEAT, AND FOREST-TREES--ON THE INCREASED SIZE OF HYBRID
+PLANTS, NOT EXCLUSIVELY DUE TO THEIR STERILITY--ON CERTAIN PLANTS WHICH EITHER
+NORMALLY OR ABNORMALLY ARE SELF-IMPOTENT, BUT ARE FERTILE, BOTH ON THE MALE
+AND FEMALE SIDE, WHEN CROSSED WITH DISTINCT INDIVIDUALS EITHER OF THE SAME OR
+ANOTHER SPECIES--CONCLUSION.
+
+
+CHAPTER 2.XVIII.--ON THE ADVANTAGES AND DISADVANTAGES OF CHANGED CONDITIONS OF
+LIFE: STERILITY FROM VARIOUS CAUSES.
+
+ON THE GOOD DERIVED FROM SLIGHT CHANGES IN THE CONDITIONS OF LIFE--STERILITY
+FROM CHANGED CONDITIONS, IN ANIMALS, IN THEIR NATIVE COUNTRY AND IN
+MENAGERIES--MAMMALS, BIRDS, AND INSECTs--LOSS OF SECONDARY SEXUAL CHARACTERS
+AND OF INSTINCTS--CAUSES OF STERILITY--STERILITY OF DOMESTICATED ANIMALS FROM
+CHANGED CONDITIONS--SEXUAL INCOMPATIBILITY OF INDIVIDUAL ANIMALS--STERILITY OF
+PLANTS FROM CHANGED CONDITIONS OF LIFE--CONTABESCENCE OF THE ANTHERS--
+MONSTROSITIES AS A CAUSE OF STERILITY--DOUBLE FLOWERS--SEEDLESS FRUIT--
+STERILITY FROM THE EXCESSIVE DEVELOPMENT OF THE ORGANS OF VEGETATION--FROM
+LONG-CONTINUED PROPAGATION BY BUDS--INCIPIENT STERILITY THE PRIMARY CAUSE OF
+DOUBLE FLOWERS AND SEEDLESS FRUIT.
+
+
+CHAPTER 2.XIX.--SUMMARY OF THE FOUR LAST CHAPTERS, WITH REMARKS ON HYBRIDISM.
+
+ON THE EFFECTS OF CROSSING--THE INFLUENCE OF DOMESTICATION ON FERTILITY--CLOSE
+INTERBREEDING--GOOD AND EVIL RESULTS FROM CHANGED CONDITIONS OF LIFE--
+VARIETIES WHEN CROSSED NOT INVARIABLY FERTILE--ON THE DIFFERENCE IN FERTILITY
+BETWEEN CROSSED SPECIES AND VARIETIES--CONCLUSIONS WITH RESPECT TO HYBRIDISM--
+LIGHT THROWN ON HYBRIDISM BY THE ILLEGITIMATE PROGENY OF HETEROSTYLED PLANTS--
+STERILITY OF CROSSED SPECIES DUE TO DIFFERENCES CONFINED TO THE REPRODUCTIVE
+SYSTEM--NOT ACCUMULATED THROUGH NATURAL SELECTION--REASONS WHY DOMESTIC
+VARIETIES ARE NOT MUTUALLY STERILE--TOO MUCH STRESS HAS BEEN LAID ON THE
+DIFFERENCE IN FERTILITY BETWEEN CROSSED SPECIES AND CROSSED VARIETIES--
+CONCLUSION.
+
+
+CHAPTER 2.XX.--SELECTION BY MAN.
+
+SELECTION A DIFFICULT ART--METHODICAL, UNCONSCIOUS, AND NATURAL SELECTION--
+RESULTS OF METHODICAL SELECTION--CARE TAKEN IN SELECTION--SELECTION WITH
+PLANTS--SELECTION CARRIED ON BY THE ANCIENTS AND BY SEMI-CIVILISED PEOPLE--
+UNIMPORTANT CHARACTERS OFTEN ATTENDED TO--UNCONSCIOUS SELECTION--AS
+CIRCUMSTANCES SLOWLY CHANGE, SO HAVE OUR DOMESTICATED ANIMALS CHANGED
+THROUGH THE ACTION OF UNCONSCIOUS SELECTION--INFLUENCE OF DIFFERENT BREEDERS
+ON THE SAME SUB-VARIETY--PLANTS AS AFFECTED BY UNCONSCIOUS SELECTION--EFFECTS
+OF SELECTION AS SHOWN BY THE GREAT AMOUNT OF DIFFERENCE IN THE PARTS MOST
+VALUED BY MAN.
+
+
+CHAPTER 2.XXI.--SELECTION, continued.
+
+NATURAL SELECTION AS AFFECTING DOMESTIC PRODUCTIONS--CHARACTERS WHICH APPEAR
+OF TRIFLING VALUE OFTEN OF REAL IMPORTANCE--CIRCUMSTANCES FAVOURABLE TO
+SELECTION BY MAN--FACILITY IN PREVENTING CROSSES, AND THE NATURE OF THE
+CONDITIONS--CLOSE ATTENTION AND PERSEVERANCE INDISPENSABLE--THE PRODUCTION OF
+A LARGE NUMBER OF INDIVIDUALS ESPECIALLY FAVOURABLE--WHEN NO SELECTION IS
+APPLIED, DISTINCT RACES ARE NOT FORMED--HIGHLY-BRED ANIMALS LIABLE TO
+DEGENERATION--TENDENCY IN MAN TO CARRY THE SELECTION OF EACH CHARACTER TO AN
+EXTREME POINT, LEADING TO DIVERGENCE OF CHARACTER, RARELY TO CONVERGENCE--
+CHARACTERS CONTINUING TO VARY IN THE SAME DIRECTION IN WHICH THEY HAVE
+ALREADY VARIED--DIVERGENCE OF CHARACTER, WITH THE EXTINCTION OF INTERMEDIATE
+VARIETIES, LEADS TO DISTINCTNESS IN OUR DOMESTIC RACES--LIMIT TO THE POWER OF
+SELECTION--LAPSE OF TIME IMPORTANT--MANNER IN WHICH DOMESTIC RACES HAVE
+ORIGINATED--SUMMARY.
+
+
+CHAPTER 2.XXII.--CAUSES OF VARIABILITY.
+
+VARIABILITY DOES NOT NECESSARILY ACCOMPANY REPRODUCTION--CAUSES ASSIGNED BY
+VARIOUS AUTHORS--INDIVIDUAL DIFFERENCES--VARIABILITY OF EVERY KIND DUE TO
+CHANGED CONDITIONS OF LIFE--ON THE NATURE OF SUCH CHANGES--CLIMATE, FOOD,
+EXCESS OF NUTRIMENT--SLIGHT CHANGES SUFFICIENT--EFFECTS OF GRAFTING ON THE
+VARIABILITY OF SEEDLING-TREES--DOMESTIC PRODUCTIONS BECOME HABITUATED TO
+CHANGED CONDITIONS--ON THE ACCUMULATIVE ACTION OF CHANGED CONDITIONS--CLOSE
+INTERBREEDING AND THE IMAGINATION OF THE MOTHER SUPPOSED TO CAUSE VARIABILITY
+--CROSSING AS A CAUSE OF THE APPEARANCE OF NEW CHARACTERS--VARIABILITY FROM
+THE COMMINGLING OF CHARACTERS AND FROM REVERSION--ON THE MANNER AND PERIOD OF
+ACTION OF THE CAUSES WHICH EITHER DIRECTLY, OR INDIRECTLY THROUGH THE
+REPRODUCTIVE SYSTEM, INDUCE VARIABILITY.
+
+
+
+
+CHAPTER 2.XXIII.--DIRECT AND DEFINITE ACTION OF THE EXTERNAL CONDITIONS OF
+LIFE.
+
+SLIGHT MODIFICATIONS IN PLANTS FROM THE DEFINITE ACTION OF CHANGED CONDITIONS,
+IN SIZE, COLOUR, CHEMICAL PROPERTIES, AND IN THE STATE OF THE TISSUES--LOCAL
+DISEASES--CONSPICUOUS MODIFICATIONS FROM CHANGED CLIMATE OR FOOD, ETC.--
+PLUMAGE OF BIRDS AFFECTED BY PECULIAR NUTRIMENT, AND BY THE INOCULATION OF
+POISON--LAND-SHELLS--MODIFICATIONS OF ORGANIC BEINGS IN A STATE OF NATURE
+THROUGH THE DEFINITE ACTION OF EXTERNAL CONDITIONS--COMPARISON OF AMERICAN AND
+EUROPEAN TREES--GALLS--EFFECTS OF PARASITIC FUNGI--CONSIDERATIONS OPPOSED TO
+THE BELIEF IN THE POTENT INFLUENCE OF CHANGED EXTERNAL CONDITIONS--PARALLEL
+SERIES OF VARIETIES--AMOUNT OF VARIATION DOES NOT CORRESPOND WITH THE DEGREE
+OF CHANGE IN THE CONDITIONS--BUD-VARIATION--MONSTROSITIES PRODUCED BY
+UNNATURAL TREATMENT--SUMMARY.
+
+
+CHAPTER 2.XXIV.--LAWS OF VARIATION--USE AND DISUSE, ETC.
+
+NISUS FORMATIVUS, OR THE CO-ORDINATING POWER OF THE ORGANISATION--ON THE
+EFFECTS OF THE INCREASED USE AND DISUSE OF ORGANS--CHANGED HABITS OF LIFE--
+ACCLIMATISATION WITH ANIMALS AND PLANTS--VARIOUS METHODS BY WHICH THIS CAN BE
+EFFECTED--ARRESTS OF DEVELOPMENT--RUDIMENTARY ORGANS.
+
+
+CHAPTER 2.XXV.--LAWS OF VARIATION, continued.--CORRELATED VARIABILITY.
+
+EXPLANATION OF TERM CORRELATION--CONNECTED WITH DEVELOPMENT--MODIFICATIONS
+CORRELATED WITH THE INCREASED OR DECREASED SIZE OF PARTS--CORRELATED VARIATION
+OF HOMOLOGOUS PARTS--FEATHERED FEET IN BIRDS ASSUMING THE STRUCTURE OF THE
+WINGS--CORRELATION BETWEEN THE HEAD AND THE EXTREMITIES--BETWEEN THE SKIN AND
+DERMAL APPENDAGES--BETWEEN THE ORGANS OF SIGHT AND HEARING--CORRELATED
+MODIFICATIONS IN THE ORGANS OF PLANTS--CORRELATED MONSTROSITIES--CORRELATION
+BETWEEN THE SKULL AND EARS--SKULL AND CREST OF FEATHERS--SKULL AND HORNS--
+CORRELATION OF GROWTH COMPLICATED BY THE ACCUMULATED EFFECTS OF NATURAL
+SELECTION--COLOUR AS CORRELATED WITH CONSTITUTIONAL PECULIARITIES.
+
+
+CHAPTER 2.XXVI.--LAWS OF VARIATION, continued.--SUMMARY.
+
+THE FUSION OF HOMOLOGOUS PARTS--THE VARIABILITY OF MULTIPLE AND HOMOLOGOUS
+PARTS--COMPENSATION OF GROWTH--MECHANICAL PRESSURE--RELATIVE POSITION OF
+FLOWERS WITH RESPECT TO THE AXIS, AND OF SEEDS IN THE OVARY, AS INDUCING
+VARIATION--ANALOGOUS OR PARALLEL VARIETIES--SUMMARY OF THE THREE LAST
+CHAPTERS.
+
+
+CHAPTER 2.XXVII.--PROVISIONAL HYPOTHESIS OF PANGENESIS.
+
+PRELIMINARY REMARKS.
+FIRST PART:--THE FACTS TO BE CONNECTED UNDER A SINGLE POINT OF VIEW, NAMELY,
+THE VARIOUS KINDS OF REPRODUCTION--REGROWTH OF AMPUTATED PARTS--GRAFT-HYBRIDS
+--THE DIRECT ACTION OF THE MALE ELEMENT ON THE FEMALE--DEVELOPMENT--THE
+FUNCTIONAL INDEPENDENCE OF THE UNITS OF THE BODY--VARIABILITY--INHERITANCE--
+REVERSION.
+SECOND PART:--STATEMENT OF THE HYPOTHESIS--HOW FAR THE NECESSARY ASSUMPTIONS
+ARE IMPROBABLE--EXPLANATION BY AID OF THE HYPOTHESIS OF THE SEVERAL CLASSES OF
+FACTS SPECIFIED IN THE FIRST PART--CONCLUSION.
+
+
+CHAPTER 2.XXVIII.--CONCLUDING REMARKS.
+
+DOMESTICATION--NATURE AND CAUSES OF VARIABILITY--SELECTION--DIVERGENCE AND
+DISTINCTNESS OF CHARACTER--EXTINCTION OF RACES--CIRCUMSTANCES FAVOURABLE TO
+SELECTION BY MAN--ANTIQUITY OF CERTAIN RACES--THE QUESTION WHETHER EACH
+PARTICULAR VARIATION HAS BEEN SPECIALLY PREORDAINED.
+
+
+INDEX.
+
+
+
+THE VARIATION OF ANIMALS AND PLANTS UNDER DOMESTICATION.
+
+
+VOLUME II.
+
+CHAPTER 2.XIII.
+
+INHERITANCE continued--REVERSION OR ATAVISM.
+
+DIFFERENT FORMS OF REVERSION.
+IN PURE OR UNCROSSED BREEDS, AS IN PIGEONS, FOWLS, HORNLESS CATTLE AND SHEEP,
+IN CULTIVATED PLANTS.
+REVERSION IN FERAL ANIMALS AND PLANTS.
+REVERSION IN CROSSED VARIETIES AND SPECIES.
+REVERSION THROUGH BUD-PROPAGATION, AND BY SEGMENTS IN THE SAME FLOWER OR
+FRUIT.
+IN DIFFERENT PARTS OF THE BODY IN THE SAME ANIMAL.
+THE ACT OF CROSSING A DIRECT CAUSE OF REVERSION, VARIOUS CASES OF, WITH
+INSTINCTS.
+OTHER PROXIMATE CAUSES OF REVERSION.
+LATENT CHARACTERS.
+SECONDARY SEXUAL CHARACTERS.
+UNEQUAL DEVELOPMENT OF THE TWO SIDES OF THE BODY.
+APPEARANCE WITH ADVANCING AGE OF CHARACTERS DERIVED FROM A CROSS.
+THE GERM, WITH ALL ITS LATENT CHARACTERS, A WONDERFUL OBJECT.
+MONSTROSITIES.
+PELORIC FLOWERS DUE IN SOME CASES TO REVERSION.
+
+The great principle of inheritance to be discussed in this chapter has been
+recognised by agriculturists and authors of various nations, as shown by the
+scientific term ATAVISM, derived from atavus, an ancestor; by the English
+terms of REVERSION, or THROWING-BACK; by the French PAS-EN-ARRIERE; and by the
+German RUCKSCHLAG, or RUCKSCHRITT. When the child resembles either grandparent
+more closely than its immediate parents, our attention is not much arrested,
+though in truth the fact is highly remarkable; but when the child resembles
+some remote ancestor or some distant member in a collateral line,--and in the
+last case we must attribute this to the descent of all the members from a
+common progenitor,--we feel a just degree of astonishment. When one parent
+alone displays some newly-acquired and generally inheritable character, and
+the offspring do not inherit it, the cause may lie in the other parent having
+the power of prepotent transmission. But when both parents are similarly
+characterised, and the child does not, whatever the cause may be, inherit the
+character in question, but resembles its grandparents, we have one of the
+simplest cases of reversion. We continually see another and even more simple
+case of atavism, though not generally included under this head, namely, when
+the son more closely resembles his maternal than his paternal grand-sire in
+some male attribute, as in any peculiarity in the beard of man, the horns of
+the bull, the hackles or comb of the cock, or, as in certain diseases
+necessarily confined to the male sex; for as the mother cannot possess or
+exhibit such male attributes, the child must inherit them, through her blood,
+from his maternal grandsire.
+
+The cases of reversion may be divided into two main classes which, however, in
+some instances, blend into one another; namely, first, those occurring in a
+variety or race which has not been crossed, but has lost by variation some
+character that it formerly possessed, and which afterwards reappears. The
+second class includes all cases in which an individual with some
+distinguishable character, a race, or species, has at some former period been
+crossed, and a character derived from this cross, after having disappeared
+during one or several generations, suddenly reappears. A third class,
+differing only in the manner of reproduction, might be formed to include all
+cases of reversion effected by means of buds, and therefore independent of
+true or seminal generation. Perhaps even a fourth class might be instituted,
+to include reversions by segments in the same individual flower or fruit, and
+in different parts of the body in the same individual animal as it grows old.
+But the two first main classes will be sufficient for our purpose.
+
+REVERSION TO LOST CHARACTERS BY PURE OR UNCROSSED FORMS.
+
+Striking instances of this first class of cases were given in the sixth
+chapter, namely, of the occasional reappearance, in variously-coloured breeds
+of the pigeon, of blue birds with all the marks characteristic of the wild
+Columba livia. Similar cases were given in the case of the fowl. With the
+common ass, as the legs of the wild progenitor are almost always striped, we
+may feel assured that the occasional appearance of such stripes in the
+domestic animal is a case of simple reversion. But I shall be compelled to
+refer again to these cases, and therefore here pass them over.
+
+The aboriginal species from which our domesticated cattle and sheep are
+descended, no doubt possessed horns; but several hornless breeds are now well
+established. Yet in these--for instance, in Southdown sheep--"it is not
+unusual to find among the male lambs some with small horns." The horns, which
+thus occasionally reappear in other polled breeds, either "grow to the full
+size," or are curiously attached to the skin alone and hang "loosely down, or
+drop off." (13/1. 'Youatt on Sheep' pages 20, 234. The same fact of loose
+horns occasionally appearing in hornless breeds has been observed in Germany;
+Bechstein 'Naturgesch. Deutschlands.' b. 1 s. 362.) The Galloways and Suffolk
+cattle have been hornless for the last 100 or 150 years, but a horned calf,
+with the horn often loosely attached, is occasionally produced. (13/2. 'Youatt
+on Cattle' pages 155, 174.)
+
+There is reason to believe that sheep in their early domesticated condition
+were "brown or dingy black;" but even in the time of David certain flocks were
+spoken of as white as snow. During the classical period the sheep of Spain are
+described by several ancient authors as being black, red, or tawny. (13/3.
+'Youatt on Sheep' 1838 pages 17, 145.) At the present day, notwithstanding the
+great care which is taken to prevent it, particoloured lambs and some entirely
+black are occasionally, or even frequently, dropped by our most highly
+improved and valued breeds, such as the Southdowns. Since the time of the
+famous Bakewell, during the last century, the Leicester sheep have been bred
+with the most scrupulous care; yet occasionally grey-faced, or black-spotted,
+or wholly black lambs appear. (13/4. I have been informed of this fact through
+the Rev. W.D. Fox on the excellent authority of Mr. Wilmot: see also remarks
+on this subject in an article in the 'Quarterly Review' 1849 page 395.) This
+occurs still more frequently with the less improved breeds, such as the
+Norfolks. (13/5. Youatt pages 19, 234.) As bearing on this tendency in sheep
+to revert to dark colours, I may state (though in doing so I trench on the
+reversion of crossed breeds, and likewise on the subject of prepotency) that
+the Rev. W.D. Fox was informed that seven white Southdown ewes were put to a
+so-called Spanish ram, which had two small black spots on his sides, and they
+produced thirteen lambs, all perfectly black. Mr. Fox believes that this ram
+belonged to a breed which he has himself kept, and which is always spotted
+with black and white; and he finds that Leicester sheep crossed by rams of
+this breed always produce black lambs: he has gone on recrossing these crossed
+sheep with pure white Leicesters during three successive generations, but
+always with the same result. Mr. Fox was also told by the friend from whom the
+spotted breed was procured, that he likewise had gone on for six or seven
+generations crossing with white sheep, but still black lambs were invariably
+produced.
+
+Similar facts could be given with respect to tailless breeds of various
+animals. For instance, Mr. Hewitt (13/6. 'The Poultry Book' by Mr. Tegetmeier
+1866 page 231.) states that chickens bred from some rumpless fowls, which were
+reckoned so good that they won a prize at an exhibition, "in a considerable
+number of instances were furnished with fully developed tail-feathers." On
+inquiry, the original breeder of these fowls stated that, from the time when
+he had first kept them, they had often produced fowls furnished with tails;
+but that these latter would again reproduce rumpless chickens.
+
+Analogous cases of reversion occur in the vegetable kingdom; thus "from seeds
+gathered from the finest cultivated varieties of Heartsease (Viola tricolor),
+plants perfectly wild both in their foliage and their flowers are frequently
+produced;" (13/7. Loudon's 'Gardener's Mag.' volume 10 1834 page 396: a
+nurseryman, with much experience on this subject, has likewise assured me that
+this sometimes occurs.) but the reversion in this instance is not to a very
+ancient period, for the best existing varieties of the heartsease are of
+comparatively modern origin. With most of our cultivated vegetables there is
+some tendency to reversion to what is known to be, or may be presumed to be,
+their aboriginal state; and this would be more evident if gardeners did not
+generally look over their beds of seedlings, and pull up the false plants or
+"rogues" as they are called. It has already been remarked, that some few
+seedling apples and pears generally resemble, but apparently are not identical
+with, the wild trees from which they are descended. In our turnip (13/8.
+'Gardener's Chronicle' 1855 page 777.) and carrot-beds a few plants often
+"break "--that is, flower too soon; and their roots are generally hard and
+stringy, as in the parent-species. By the aid of a little selection, carried
+on during a few generations, most of our cultivated plants could probably be
+brought back, without any great change in their conditions of life, to a wild
+or nearly wild condition: Mr. Buckman has effected this with the parsnip
+(13/9. Ibid 1862 page 721.); and Mr. Hewett C. Watson, as he informs me,
+selected, during three generations, "the most diverging plants of Scotch kail,
+perhaps one of the least modified varieties of the cabbage; and in the third
+generation some of the plants came very close to the forms now established in
+England about old castle-walls, and called indigenous."
+
+REVERSION IN ANIMALS AND PLANTS WHICH HAVE RUN WILD.
+
+In the cases hitherto considered, the reverting animals and plants have not
+been exposed to any great or abrupt change in their conditions of life which
+could have induced this tendency; but it is very different with animals and
+plants which have become feral or run wild. It has been repeatedly asserted in
+the most positive manner by various authors, that feral animals and plants
+invariably return to their primitive specific type. It is curious on what
+little evidence this belief rests. Many of our domesticated animals could not
+subsist in a wild state; thus, the more highly improved breeds of the pigeon
+will not "field" or search for their own food. Sheep have never become feral,
+and would be destroyed by almost every beast of prey. (13/10. Mr. Boner speaks
+('Chamois-hunting' 2nd edition 1860 page 92) of sheep often running wild in
+the Bavarian Alps; but, on making further inquiries at my request, he found
+that they are not able to establish themselves; they generally perish from the
+frozen snow clinging to their wool, and they have lost the skill necessary to
+pass over steep icy slopes. On one occasion two ewes survived the winter, but
+their lambs perished.) In several cases we do not know the aboriginal parent-
+species, and cannot possibly tell whether or not there has been any close
+degree of reversion. It is not known in any instance what variety was first
+turned out; several varieties have probably in some cases run wild, and their
+crossing alone would tend to obliterate their proper character. Our
+domesticated animals and plants, when they run wild, must always be exposed to
+new conditions of life, for, as Mr. Wallace (13/11. See some excellent remarks
+on this subject by Mr. Wallace 'Journal Proc. Linn. Soc.' 1858 volume 3 page
+60.) has well remarked, they have to obtain their own food, and are exposed to
+competition with the native productions. Under these circumstances, if our
+domesticated animals did not undergo change of some kind, the result would be
+quite opposed to the conclusions arrived at in this work. Nevertheless, I do
+not doubt that the simple fact of animals and plants becoming feral, does
+cause some tendency to reversion to the primitive state; though this tendency
+has been much exaggerated by some authors.
+
+[I will briefly run through the recorded cases. With neither horses nor cattle
+is the primitive stock known; and it has been shown in former chapters that
+they have assumed different colours in different countries. Thus the horses
+which have run wild in South America are generally brownish-bay, and in the
+East dun-coloured; their heads have become larger and coarser, and this may be
+due to reversion. No careful description has been given of the feral goat.
+Dogs which have run wild in various countries have hardly anywhere assumed a
+uniform character; but they are probably descended from several domestic
+races, and aboriginally from several distinct species. Feral cats, both in
+Europe and La Plata, are regularly striped; in some cases they have grown to
+an unusually large size, but do not differ from the domestic animal in any
+other character. When variously-coloured tame rabbits are turned out in
+Europe, they generally reacquire the colouring of the wild animal; there can
+be no doubt that this does really occur, but we should remember that oddly-
+coloured and conspicuous animals would suffer much from beasts of prey and
+from being easily shot; this at least was the opinion of a gentleman who tried
+to stock his woods with a nearly white variety; if thus destroyed, they would
+be supplanted by, instead of being transformed into, the common rabbit. We
+have seen that the feral rabbits of Jamaica, and especially of Porto Santo,
+have assumed new colours and other new characters. The best known case of
+reversion, and that on which the widely spread belief in its universality
+apparently rests, is that of pigs. These animals have run wild in the West
+Indies, South America, and the Falkland Islands, and have everywhere acquired
+the dark colour, the thick bristles, and great tusks of the wild boar; and the
+young have reacquired longitudinal stripes. But even in the case of the pig,
+Roulin describes the half-wild animals in different parts of South America as
+differing in several respects. In Louisiana the pig (13/12. Dureau de la Malle
+'Comptes Rendus' tome 41 1855 page 807. From the statements above given, the
+author concludes that the wild pigs of Louisiana are not descended from the
+European Sus scrofa.) has run wild, and is said to differ a little in form,
+and much in colour, from the domestic animal, yet does not closely resemble
+the wild boar of Europe. With pigeons and fowls (13/13. Capt. W. Allen, in his
+'Expedition to the Niger' states that fowls have run wild on the island of
+Annobon, and have become modified in form and voice. The account is so meagre
+and vague that it did not appear to me worth copying; but I now find that

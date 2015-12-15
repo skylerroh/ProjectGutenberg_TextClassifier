@@ -1,0 +1,197 @@
+The Project Gutenberg EBook of Poetics, by Aristotle
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Poetics
+
+Author: Aristotle
+
+Translator: S. H. Butcher
+
+Posting Date: November 3, 2008 [EBook #1974]
+Release Date: November, 1999
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK POETICS ***
+
+
+
+
+Produced by An Anonymous Volunteer
+
+
+
+
+
+THE POETICS OF ARISTOTLE
+
+By Aristotle
+
+A Translation By S. H. Butcher
+
+
+[Transcriber's Annotations and Conventions: the translator left
+intact some Greek words to illustrate a specific point of the original
+discourse. In this transcription, in order to retain the accuracy of
+this text, those words are rendered by spelling out each Greek letter
+individually, such as {alpha beta gamma delta...}. The reader can
+distinguish these words by the enclosing braces {}. Where multiple
+words occur together, they are separated by the "/" symbol for clarity.
+Readers who do not speak or read the Greek language will usually neither
+gain nor lose understanding by skipping over these passages. Those who
+understand Greek, however, may gain a deeper insight to the original
+meaning and distinctions expressed by Aristotle.]
+
+
+
+
+Analysis of Contents
+
+  I     'Imitation' the common principle of the Arts of Poetry.
+  II    The Objects of Imitation.
+  III   The Manner of Imitation.
+  IV    The Origin and Development of Poetry.
+  V     Definition of the Ludicrous, and a brief sketch of the rise of
+        Comedy.
+  VI    Definition of Tragedy.
+  VII   The Plot must be a Whole.
+  VIII  The Plot must be a Unity.
+  IX    (Plot continued.) Dramatic Unity.
+  X     (Plot continued.) Definitions of Simple and Complex Plots.
+  XI    (Plot continued.) Reversal of the Situation, Recognition, and
+        Tragic or disastrous Incident defined and explained.
+  XII   The 'quantitative parts' of Tragedy defined.
+  XIII  (Plot continued.) What constitutes Tragic Action.
+  XIV   (Plot continued.) The tragic emotions of pity and fear should
+        spring out of the Plot itself.
+  XV    The element of Character in Tragedy.
+  XVI   (Plot continued.) Recognition: its various kinds, with examples.
+  XVII  Practical rules for the Tragic Poet.
+  XVIII Further rules for the Tragic Poet.
+  XIX   Thought, or the Intellectual element, and Diction in Tragedy.
+  XX    Diction, or Language in general.
+  XXI   Poetic Diction.
+  XXII  (Poetic Diction continued.) How Poetry combines elevation of
+        language with perspicuity.
+  XXIII Epic Poetry.
+  XXIV  (Epic Poetry continued.) Further points of agreement with Tragedy.
+  XXV   Critical Objections brought against Poetry, and the principles on
+        which they are to be answered.
+  XXVI  A general estimate of the comparative worth of Epic Poetry and
+        Tragedy.
+
+
+
+
+ARISTOTLE'S POETICS
+
+
+
+
+I
+
+I propose to treat of Poetry in itself and of its various kinds, noting
+the essential quality of each; to inquire into the structure of the plot
+as requisite to a good poem; into the number and nature of the parts of
+which a poem is composed; and similarly into whatever else falls within
+the same inquiry. Following, then, the order of nature, let us begin
+with the principles which come first.
+
+Epic poetry and Tragedy, Comedy also and Dithyrambic: poetry, and the
+music of the flute and of the lyre in most of their forms, are all in
+their general conception modes of imitation. They differ, however, from
+one: another in three respects,--the medium, the objects, the manner or
+mode of imitation, being in each case distinct.
+
+For as there are persons who, by conscious art or mere habit, imitate
+and represent various objects through the medium of colour and form, or
+again by the voice; so in the arts above mentioned, taken as a whole,
+the imitation is produced by rhythm, language, or 'harmony,' either
+singly or combined.
+
+Thus in the music of the flute and of the lyre, 'harmony' and rhythm
+alone are employed; also in other arts, such as that of the shepherd's
+pipe, which are essentially similar to these. In dancing, rhythm alone
+is used without 'harmony'; for even dancing imitates character, emotion,
+and action, by rhythmical movement.
+
+There is another art which imitates by means of language alone, and
+that either in prose or verse--which, verse, again, may either combine
+different metres or consist of but one kind--but this has hitherto been
+without a name. For there is no common term we could apply to the mimes
+of Sophron and Xenarchus and the Socratic dialogues on the one hand;
+and, on the other, to poetic imitations in iambic, elegiac, or any
+similar metre. People do, indeed, add the word 'maker' or 'poet' to
+the name of the metre, and speak of elegiac poets, or epic (that is,
+hexameter) poets, as if it were not the imitation that makes the poet,
+but the verse that entitles them all indiscriminately to the name. Even
+when a treatise on medicine or natural science is brought out in verse,
+the name of poet is by custom given to the author; and yet Homer and
+Empedocles have nothing in common but the metre, so that it would be
+right to call the one poet, the other physicist rather than poet. On the
+same principle, even if a writer in his poetic imitation were to combine
+all metres, as Chaeremon did in his Centaur, which is a medley composed
+of metres of all kinds, we should bring him too under the general term
+poet. So much then for these distinctions.
+
+There are, again, some arts which employ all the means above mentioned,
+namely, rhythm, tune, and metre. Such are Dithyrambic and Nomic poetry,
+and also Tragedy and Comedy; but between them the difference is, that in
+the first two cases these means are all employed in combination, in the
+latter, now one means is employed, now another.
+
+Such, then, are the differences of the arts with respect to the medium
+of imitation.
+
+
+
+
+II
+
+Since the objects of imitation are men in action, and these men must be
+either of a higher or a lower type (for moral character mainly answers
+to these divisions, goodness and badness being the distinguishing marks
+of moral differences), it follows that we must represent men either as
+better than in real life, or as worse, or as they are. It is the same
+in painting. Polygnotus depicted men as nobler than they are, Pauson as
+less noble, Dionysius drew them true to life.
+
+Now it is evident that each of the modes of imitation above mentioned
+will exhibit these differences, and become a distinct kind in imitating
+objects that are thus distinct. Such diversities may be found even in
+dancing, flute-playing, and lyre-playing. So again in language, whether
+prose or verse unaccompanied by music. Homer, for example, makes men
+better than they are; Cleophon as they are; Hegemon the Thasian, the
+inventor of parodies, and Nicochares, the author of the Deiliad, worse
+than they are. The same thing holds good of Dithyrambs and Nomes;
+here too one may portray different types, as Timotheus and Philoxenus
+differed in representing their Cyclopes. The same distinction marks
+off Tragedy from Comedy; for Comedy aims at representing men as worse,
+Tragedy as better than in actual life.
+
+
+
+
+III
+
+There is still a third difference--the manner in which each of these
+objects may be imitated. For the medium being the same, and the objects
+the same, the poet may imitate by narration--in which case he can either
+take another personality as Homer does, or speak in his own person,
+unchanged--or he may present all his characters as living and moving
+before us.
+
+These, then, as we said at the beginning, are the three differences
+which distinguish artistic imitation,--the medium, the objects, and the
+manner. So that from one point of view, Sophocles is an imitator of the
+same kind as Homer--for both imitate higher types of character; from
+another point of view, of the same kind as Aristophanes--for both
+imitate persons acting and doing. Hence, some say, the name of 'drama'
+is given to such poems, as representing action. For the same reason the

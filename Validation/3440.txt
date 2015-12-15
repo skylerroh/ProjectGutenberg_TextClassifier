@@ -1,0 +1,716 @@
+numbers and figures, it is perhaps for want of application on our
+part that mathematics alone have attained to demonstrations.
+
+                                                      --LEIBNITZ.
+
+                         _New Essay concerning Human
+                         Understanding, Bk. 4, chap. 2, sect. 9
+                         [Langley]._
+
+
+
+
+  CHAPTER XV
+
+  MATHEMATICS AND SCIENCE
+
+
+=1501.= How comes it about that the knowledge of other sciences,
+which depend upon this [mathematics], is painfully sought, and
+that no one puts himself to the trouble of studying this science
+itself? I should certainly be surprised, if I did not know that
+everybody regarded it as being very easy, and if I had not long
+ago observed that the human mind, neglecting what it believes to
+be easy, is always in haste to run after what is novel and
+advanced.--DESCARTES.
+
+                         _Rules for the Direction of the Mind;
+                         Philosophy of Descartes [Torrey], (New
+                         York, 1892), p. 72._
+
+
+=1502.= All quantitative determinations are in the hands
+of mathematics, and it at once follows from this that all
+speculation which is heedless of mathematics, which does not
+enter into partnership with it, which does not seek its aid in
+distinguishing between the manifold modifications that must of
+necessity arise by a change of quantitative determinations, is
+either an empty play of thoughts, or at most a fruitless effort.
+In the field of speculation many things grow which do not start
+from mathematics nor give it any care, and I am far from
+asserting that all that thus grow are useless weeds, among them
+may be many noble plants, but without mathematics none will
+develop to complete maturity.--HERBART, J. F.
+
+                         _Werke (Kehrbach), (Langensalza, 1890),
+                         Bd. 5, p. 106._
+
+
+=1503.= There are few things which we know, which are not capable
+of being reduc'd to a Mathematical Reasoning, and when they
+cannot, it's a sign our knowledge of them is very small and
+confus'd; and where a mathematical reasoning can be had, it's as
+great folly to make use of any other, as to grope for a thing in
+the dark, when you have a candle standing by you.--ARBUTHNOT.
+
+                         _Quoted in Todhunter's History of the
+                         Theory of Probability (Cambridge and
+                         London, 1865), p. 51._
+
+
+=1504.= Mathematical Analysis is ... the true rational basis of
+the whole system of our positive knowledge.--COMTE, A.
+
+                         _Positive Philosophy [Martineau], Bk. 1,
+                         chap. 1._
+
+
+=1505.= It is only through Mathematics that we can thoroughly
+understand what true science is. Here alone we can find in the
+highest degree simplicity and severity of scientific law, and
+such abstraction as the human mind can attain. Any scientific
+education setting forth from any other point, is faulty in its
+basis.--COMTE, A.
+
+                         _Positive Philosophy [Martineau], Bk. 1,
+                         chap. 1._
+
+
+=1506.= In the present state of our knowledge we must regard
+Mathematics less as a constituent part of natural philosophy than
+as having been, since the time of Descartes and Newton, the true
+basis of the whole of natural philosophy; though it is, exactly
+speaking, both the one and the other. To us it is of less use for
+the knowledge of which it consists, substantial and valuable as
+that knowledge is, than as being the most powerful instrument
+that the human mind can employ in the investigation of the laws
+of natural phenomena.--COMTE, A.
+
+                         _Positive Philosophy [Martineau],
+                         Introduction, chap. 2._
+
+
+=1507.= The concept of mathematics is the concept of science in
+general.--NOVALIS.
+
+                         _Schriften (Berlin, 1901), Teil 2, p.
+                         222._
+
+
+=1508.= I contend, that each natural science is real science only
+in so far as it is mathematical.... It may be that a pure
+philosophy of nature in general (that is, a philosophy which
+concerns itself only with the general concepts of nature) is
+possible without mathematics, but a pure science of nature
+dealing with definite objects (physics or psychology), is
+possible only by means of mathematics, and since each natural
+science contains only as much real science as it contains _a
+priori_ knowledge, each natural science becomes real science only
+to the extent that it permits the application of mathematics.
+
+                                                       --KANT, E.
+
+                         _Metaphysische Anfangsgruende der
+                         Naturwissenschaft, Vorrede._
+
+
+=1509.= The theory most prevalent among teachers is that
+mathematics affords the best training for the reasoning
+powers;... The modern, and to my mind true, theory is that
+mathematics is the abstract form of the natural sciences; and
+that it is valuable as a training of the reasoning powers, not
+because it is abstract, but because it is a representation of
+actual things.--SAFFORD, T. H.
+
+                         _Mathematical Teaching etc. (Boston,
+                         1886), p. 9._
+
+
+=1510.= It seems to me that no one science can so well serve to
+co-ordinate and, as it were, bind together all of the sciences as
+the queen of them all, mathematics.--DAVIS, E. W.
+
+                         _Proceedings Nebraska Academy of
+                         Sciences for 1896 (Lincoln, 1897), p.
+                         282._
+
+
+=1511.= And as for Mixed Mathematics, I may only make this
+prediction, that there cannot fail to be more kinds of them, as
+nature grows further disclosed.--BACON, FRANCIS.
+
+                         _Advancement of Learning, Bk. 2; De
+                         Augmentis, Bk. 3._
+
+
+=1512.= Besides the exercise in keen comprehension and the
+certain discovery of truth, mathematics has another formative
+function, that of equipping the mind for the survey of a
+scientific system.--GRASSMANN, H.
+
+                         _Stuecke aus dem Lehrbuche der
+                         Arithmetik; Werke (Leipzig, 1904), Bd.
+                         2, p. 298._
+
+
+=1513.= Mathematicks may help the naturalists, both to frame
+hypotheses, and to judge of those that are proposed to them,
+especially such as relate to mathematical subjects in conjunction
+with others.--BOYLE, ROBERT.
+
+                         _Works (London, 1772), Vol. 3, p. 429._
+
+
+=1514.= The more progress physical sciences make, the more they
+tend to enter the domain of mathematics, which is a kind of
+centre to which they all converge. We may even judge of the
+degree of perfection to which a science has arrived by the
+facility with which it may be submitted to calculation.--QUETELET.
+
+                         _Quoted in E. Mailly's Eulogy on
+                         Quetelet; Smithsonian Report, 1874, p.
+                         173._
+
+
+=1515.= The mathematical formula is the point through which all
+the light gained by science passes in order to be of use to
+practice; it is also the point in which all knowledge gained by
+practice, experiment, and observation must be concentrated before
+it can be scientifically grasped. The more distant and marked the
+point, the more concentrated will be the light coming from it,
+the more unmistakable the insight conveyed. All scientific
+thought, from the simple gravitation formula of Newton, through
+the more complicated formulae of physics and chemistry, the
+vaguer so called laws of organic and animated nature, down to the
+uncertain statements of psychology and the data of our social and
+historical knowledge, alike partakes of this characteristic, that
+it is an attempt to gather up the scattered rays of light, the
+different parts of knowledge, in a focus, from whence it can be
+again spread out and analyzed, according to the abstract
+processes of the thinking mind. But only when this can be done
+with a mathematical precision and accuracy is the image sharp and
+well-defined, and the deductions clear and unmistakable. As we
+descend from the mechanical, through the physical, chemical, and
+biological, to the mental, moral, and social sciences, the
+process of focalization becomes less and less perfect,--the sharp
+point, the focus, is replaced by a larger or smaller circle, the
+contours of the image become less and less distinct, and with the
+possible light which we gain there is mingled much darkness, the
+sources of many mistakes and errors. But the tendency of all
+scientific thought is toward clearer and clearer definition; it
+lies in the direction of a more and more extended use of
+mathematical measurements, of mathematical formulae.--MERZ, J. T.
+
+                         _History of European Thought in the 19th
+                         Century (Edinburgh and London, 1904),
+                         Vol. 1, p. 333._
+
+
+=1516.= From the very outset of his investigations the physicist
+has to rely constantly on the aid of the mathematician, for even
+in the simplest cases, the direct results of his measuring
+operations are entirely without meaning until they have been
+submitted to more or less of mathematical discussion. And when in
+this way some interpretation of the experimental results has been
+arrived at, and it has been proved that two or more physical
+quantities stand in a definite relation to each other, the
+mathematician is very often able to infer, from the existence of
+this relation, that the quantities in question also fulfill some
+other relation, that was previously unsuspected. Thus when
+Coulomb, combining the functions of experimentalist and
+mathematician, had discovered the law of the force exerted
+between two particles of electricity, it became a purely
+mathematical problem, not requiring any further experiment, to
+ascertain how electricity is distributed upon a charged conductor
+and this problem has been solved by mathematicians in several
+cases.--FOSTER, G. C.
+
+                         _Presidential Address British
+                         Association for the Advancement of
+                         Science, Section A (1877); Nature, Vol.
+                         16, p. 312-313._
+
+
+=1517.= Without consummate mathematical skill, on the part of
+some investigators at any rate, all the higher physical problems
+would be sealed to us; and without competent skill on the part of
+the ordinary student no idea can be formed of the nature and
+cogency of the evidence on which the solutions rest. Mathematics
+are not merely a gate through which we may approach if we please,
+but they are the only mode of approach to large and important
+districts of thought.--VENN, JOHN.
+
+                         _Symbolic Logic (London and New York,
+                         1894), Introduction, p. xix._
+
+
+=1518.= Much of the skill of the true mathematical physicist and
+of the mathematical astronomer consists in the power of adapting
+methods and results carried out on an exact mathematical basis to
+obtain approximations sufficient for the purposes of physical
+measurements. It might perhaps be thought that a scheme of
+Mathematics on a frankly approximative basis would be sufficient
+for all the practical purposes of application in Physics,
+Engineering Science, and Astronomy, and no doubt it would be
+possible to develop, to some extent at least, a species of
+Mathematics on these lines. Such a system would, however, involve
+an intolerable awkwardness and prolixity in the statements of
+results, especially in view of the fact that the degree of
+approximation necessary for various purposes is very different,
+and thus that unassigned grades of approximation would have to
+be provided for. Moreover, the mathematician working on these
+lines would be cut off from the chief sources of inspiration, the
+ideals of exactitude and logical rigour, as well as from one of
+his most indispensable guides to discovery, symmetry, and
+permanence of mathematical form. The history of the actual
+movements of mathematical thought through the centuries shows
+that these ideals are the very life-blood of the science, and
+warrants the conclusion that a constant striving toward their
+attainment is an absolutely essential condition of vigorous
+growth. These ideals have their roots in irresistible impulses
+and deep-seated needs of the human mind, manifested in its
+efforts to introduce intelligibility in certain great domains of
+the world of thought.--HOBSON, E. W.
+
+                         _Presidential Address British
+                         Association for the Advancement of
+                         Science, Section A (1910); Nature, Vol.
+                         84, pp. 285-286._
+
+
+=1519.= The immense part which those laws [laws of number and
+extension] take in giving a deductive character to the other
+departments of physical science, is well known; and is not
+surprising, when we consider that all causes operate according to
+mathematical laws. The effect is always dependent upon, or in
+mathematical language, is a function of, the quantity of the
+agent; and generally of its position also. We cannot, therefore,
+reason respecting causation, without introducing considerations
+of quantity and extension at every step; and if the nature of the
+phenomena admits of our obtaining numerical data of sufficient
+accuracy, the laws of quantity become the grand instruments for
+calculating forward to an effect, or backward to a cause.
+
+                                                    --MILL, J. S.
+
+                         _System of Logic, Bk. 3, chap. 24, sect.
+                         9._
+
+
+=1520.= The ordinary mathematical treatment of any applied
+science substitutes exact axioms for the approximate results of
+experience, and deduces from these axioms the rigid mathematical
+conclusions. In applying this method it must not be forgotten
+that the mathematical developments transcending the limits of
+exactness of the science are of no practical value. It follows
+that a large portion of abstract mathematics remains without
+finding any practical application, the amount of mathematics
+that can be usefully employed in any science being in proportion
+to the degree of accuracy attained in the science. Thus, while
+the astronomer can put to use a wide range of mathematical
+theory, the chemist is only just beginning to apply the first
+derivative, i.e. the rate of change at which certain processes
+are going on; for second derivatives he does not seem to have
+found any use as yet.--KLEIN, F.
+
+                         _Lectures on Mathematics (New York,
+                         1911), p. 47._
+
+
+=1521.= The bond of union among the physical sciences is the
+mathematical spirit and the mathematical method which pervades
+them.... Our knowledge of nature, as it advances, continuously
+resolves differences of quality into differences of quantity. All
+exact reasoning--indeed all reasoning--about quantity is
+mathematical reasoning; and thus as our knowledge increases, that
+portion of it which becomes mathematical increases at a still
+more rapid rate.--SMITH, H. J. S.
+
+                         _Presidential Address British
+                         Association for the Advancement of
+                         Science, Section A (1873); Nature, Vol.
+                         8, p. 449._
+
+
+=1522.= Another way of convincing ourselves how largely this
+process [of assimilation of mathematics by physics] has gone on
+would be to try to conceive the effect of some intellectual
+catastrophe, supposing such a thing possible, whereby all
+knowledge of mathematics should be swept away from men's minds.
+Would it not be that the departure of mathematics would be the
+destruction of physics? Objective physical phenomena would,
+indeed, remain as they are now, but physical science would cease
+to exist. We should no doubt see the same colours on looking into
+a spectroscope or polariscope, vibrating strings would produce
+the same sounds, electrical machines would give sparks, and
+galvanometer needles would be deflected; but all these things
+would have lost their meaning; they would be but as the dry
+bones--the _disjecta membra_--of what is now a living and growing
+science. To follow this conception further, and to try to image to
+ourselves in some detail what would be the kind of knowledge of
+physics which would remain possible, supposing all mathematical
+ideas to be blotted out, would be extremely interesting, but it
+would lead us directly into a dim and entangled region where
+the subjective seems to be always passing itself off for the
+objective, and where I at least could not attempt to lead the way,
+gladly as I would follow any one who could show where a firm
+footing is to be found. But without venturing to do more than to
+look from a safe distance over this puzzling ground, we may see
+clearly enough that mathematics is the connective tissue of
+physics, binding what would else be merely a list of detached
+observations into an organized body of science.--FOSTER, G. C.
+
+                         _Presidential Address British
+                         Association for the Advancement of
+                         Science, Section A (1877); Nature, Vol.
+                         16, p. 313._
+
+
+=1523.= In _Plato's_ time mathematics was purely a play of the
+free intellect; the mathematic-mystical reveries of a Pythagoras
+foreshadowed a far-reaching significance, but such a significance
+(except in the case of music) was as yet entirely a matter of
+fancy; yet even in that time mathematics was the prerequisite to
+all other studies! But today, when mathematics furnishes the
+_only_ language by means of which we may formulate the most
+comprehensive laws of nature, laws which the ancients scarcely
+dreamed of, when moreover mathematics is the _only_ means by
+which these laws may be understood,--how few learn today anything
+of the real essence of our mathematics!... In the schools of
+today mathematics serves only as a disciplinary study, a mental
+gymnastic; that it includes the highest ideal value for the
+comprehension of the universe, one dares scarcely to think of in
+view of our present day instruction.--LINDEMAN, F.
+
+                         _Lehren und Lernen in der Mathematik
+                         (Muenchen, 1904), p. 14._
+
+
+=1524.= All applications of mathematics consist in extending the
+empirical knowledge which we possess of a limited number or
+region of accessible phenomena into the region of the unknown and
+inaccessible; and much of the progress of pure analysis consists
+in inventing definite conceptions, marked by symbols, of
+complicated operations; in ascertaining their properties as
+independent objects of research; and in extending their meaning
+beyond the limits they were originally invented for,--thus
+opening out new and larger regions of thought.--MERZ, J. T.
+
+                         _History of European Thought in the 19th
+                         Century (Edinburgh and London, 1903),
+                         Vol. 1, p. 698._
+
+
+=1525.= All the effects of nature are only mathematical results
+of a small number of immutable laws.--LAPLACE.
+
+                         _A Philosophical Essay on Probabilities
+                         [Truscott and Emory] (New York, 1902),
+                         p. 177; Oeuvres, t. 7, p. 139._
+
+
+=1526.= What logarithms are to mathematics that mathematics are
+to the other sciences.--NOVALIS.
+
+                         _Schriften (Berlin, 1901), Teil 2, p.
+                         222._
+
+
+=1527.= Any intelligent man may now, by resolutely applying
+himself for a few years to mathematics, learn more than the great
+Newton knew after half a century of study and meditation.
+
+                                                      --MACAULAY.
+
+                         _Milton; Critical and Miscellaneous
+                         Essays (New York, 1879), Vol. 1, p. 13._
+
+
+=1528.= In questions of science the authority of a thousand is
+not worth the humble reasoning of a single individual.--GALILEO.
+
+                         _Quoted in Arago's Eulogy on Laplace;
+                         Smithsonian Report, 1874, p. 164._
+
+
+=1529.= Behind the artisan is the chemist, behind the chemist a
+physicist, behind the physicist a mathematician.--WHITE, W. F.
+
+                         _Scrap-book of Elementary Mathematics
+                         (Chicago, 1908), p. 217._
+
+
+=1530.= The advance in our knowledge of physics is largely due to
+the application to it of mathematics, and every year it becomes
+more difficult for an experimenter to make any mark in the
+subject unless he is also a mathematician.--BALL, W. W. R.
+
+                         _History of Mathematics (London, 1901),
+                         p. 503._
+
+
+=1531.= In very many cases the most obvious and direct
+experimental method of investigating a given problem is extremely
+difficult, or for some reason or other untrustworthy. In such
+cases the mathematician can often point out some other problem
+more accessible to experimental treatment, the solution of which
+involves the solution of the former one. For example, if we try
+to deduce from direct experiments the law according to which one
+pole of a magnet attracts or repels a pole of another magnet, the
+observed action is so much complicated with the effects of the
+mutual induction of the magnets and of the forces due to the
+second pole of each magnet, that it is next to impossible to
+obtain results of any great accuracy. Gauss, however, showed how
+the law which applied in the case mentioned can be deduced from
+the deflections undergone by a small suspended magnetic needle
+when it is acted upon by a small fixed magnet placed successively
+in two determinate positions relatively to the needle; and being
+an experimentalist as well as a mathematician, he showed likewise
+how these deflections can be measured very easily and with great
+precision.--FOSTER, G. C.
+
+                         _Presidential Address British
+                         Association for the Advancement of
+                         Science, Section A (1877); Nature, Vol.
+                         16, p. 313._
+
+
+=1532.=
+
+        Give me to learn each secret cause;
+        Let Number's, Figure's, Motion's laws
+        Reveal'd before me stand;
+        These to great Nature's scenes apply,
+        And round the globe, and through the sky,
+        Disclose her working hand.
+                                              --AKENSIDE, M.
+
+                         _Hymn to Science._
+
+
+=1533.= Now there are several scores, upon which skill in
+mathematicks may be useful to the experimental philosopher. For
+there are some general advantages, which mathematicks may bring
+to the minds of men, to whatever study they apply themselves, and
+consequently to the student of natural philosophy; namely, that
+these disciplines are wont to make men accurate, and very
+attentive to the employment that they are about, keeping their
+thoughts from wandering, and inuring them to patience in going
+through with tedious and intricate demonstrations; besides, that
+they much improve reason, by accustoming the mind to deduce
+successive consequences, and judge of them without easily
+acquiescing in anything but demonstration.--BOYLE, ROBERT.
+
+                         _Works (London, 1772), Vol. 3, p. 426._
+
+
+=1534.= It is not easy to anatomize the constitution and the
+operations of a mind [like Newton's] which makes such an advance
+in knowledge. Yet we may observe that there must exist in it, in
+an eminent degree, the elements which compose the mathematical
+talent. It must possess distinctness of intuition, tenacity and
+facility in tracing logical connection, fertility of invention,
+and a strong tendency to generalization.--WHEWELL, W.
+
+                         _History of the Inductive Sciences (New
+                         York, 1894), Vol. 1, p. 416._
+
+
+=1535.= The domain of physics is no proper field for mathematical
+pastimes. The best security would be in giving a geometrical
+training to physicists, who need not then have recourse to
+mathematicians, whose tendency is to despise experimental science.
+By this method will that union between the abstract and the
+concrete be effected which will perfect the uses of mathematical,
+while extending the positive value of physical science. Meantime,
+the use of analysis in physics is clear enough. Without it we
+should have no precision, and no co-ordination; and what account
+could we give of our study of heat, weight, light, etc.? We should
+have merely series of unconnected facts, in which we could foresee
+nothing but by constant recourse to experiment; whereas, they now
+have a character of rationality which fits them for purposes of
+prevision.--COMTE, A.
+
+                         _Positive Philosophy [Martineau], Bk. 3,
+                         chap. 1._
+
+
+=1536.= It must ever be remembered that the true positive spirit
+first came forth from the pure sources of mathematical science;
+and it is only the mind that has imbibed it there, and which has
+been face to face with the lucid truths of geometry and
+mechanics, that can bring into full action its natural
+positivity, and apply it in bringing the most complex studies
+into the reality of demonstration. No other discipline can fitly
+prepare the intellectual organ.--COMTE, A.
+
+                         _Positive Philosophy [Martineau], Bk. 3,
+                         chap. 1._
+
+
+=1537.= During the last two centuries and a half, physical
+knowledge has been gradually made to rest upon a basis which it
+had not before. It has become _mathematical_. The question now
+is, not whether this or that hypothesis is better or worse to the
+pure thought, but whether it accords with observed phenomena in
+those consequences which can be shown necessarily to follow from
+it, if it be true. Even in those sciences which are not yet under
+the dominion of mathematics, and perhaps never will be, a working
+copy of the mathematical process has been made. This is not known
+to the followers of those sciences who are not themselves
+mathematicians, and who very often exalt their horns against the
+mathematics in consequence. They might as well be squaring the
+circle, for any sense they show in this particular.--DE MORGAN, A.
+
+                         _A Budget of Paradoxes (London, 1872),
+                         p. 2._
+
+
+=1538.= Among the mere talkers so far as mathematics are
+concerned, are to be ranked three out of four of those who apply
+mathematics to physics, who, wanting a tool only, are very
+impatient of everything which is not of direct aid to the actual
+methods which are in their hands.--DE MORGAN, A.
+
+                         _Graves' Life of Sir William Rowan
+                         Hamilton (New York, 1882-1889), Vol. 3,
+                         p. 348._
+
+
+=1539.= Something has been said about the use of mathematics in
+physical science, the mathematics being regarded as a weapon
+forged by others, and the study of the weapon being completely
+set aside. I can only say that there is danger of obtaining
+untrustworthy results in physical science, if only the results of
+mathematics are used; for the person so using the weapon can
+remain unacquainted with the conditions under which it can be
+rightly applied.... The results are often correct, sometimes are
+incorrect; the consequence of the latter class of cases is to
+throw doubt upon all the applications of such a worker until a
+result has been otherwise tested. Moreover, such a practice in
+the use of mathematics leads a worker to a mere repetition in the
+use of familiar weapons; he is unable to adapt them with any
+confidence when some new set of conditions arise with a demand
+for a new method: for want of adequate instruction in the
+forging of the weapon, he may find himself, sooner or later in
+the progress of his subject, without any weapon worth having.
+
+                                                 --FORSYTH, A. R.
+
+                         _Perry's Teaching of Mathematics
+                         (London, 1902), p. 36._
+
+
+=1540.= If in the range of human endeavor after sound knowledge
+there is one subject that needs to be practical, it surely is
+Medicine. Yet in the field of Medicine it has been found that
+branches such as biology and pathology must be studied for
+themselves and be developed by themselves with the single aim of
+increasing knowledge; and it is then that they can be best
+applied to the conduct of living processes. So also in the
+pursuit of mathematics, the path of practical utility is too
+narrow and irregular, not always leading far. The witness of
+history shows that, in the field of natural philosophy,
+mathematics will furnish the more effective assistance if, in its
+systematic development, its course can freely pass beyond the
+ever-shifting domain of use and application.--FORSYTH, A. R.
+
+                         _Presidential Address British
+                         Association for the Advancement of
+                         Science, Section A; Nature, Vol. 56
+                         (1897), p. 377._
+
+
+=1541.= If the Greeks had not cultivated Conic Sections, Kepler
+could not have superseded Ptolemy; if the Greeks had cultivated
+Dynamics, Kepler might have anticipated Newton.--WHEWELL, W.
+
+                         _History of the Inductive Science (New
+                         York, 1894), Vol. 1, p. 311._
+
+
+=1542.= If we may use the great names of Kepler and Newton to
+signify stages in the progress of human discovery, it is not too
+much to say that without the treatises of the Greek geometers on
+the conic sections there could have been no Kepler, without
+Kepler no Newton, and without Newton no science in the modern
+sense of the term, or at least no such conception of nature as
+now lies at the basis of all our science, of nature as subject in
+the smallest as well as in its greatest phenomena, to exact
+quantitative relations, and to definite numerical laws.
+
+                                                --SMITH, H. J. S.
+
+                         _Presidential Address British
+                         Association for the Advancement of
+                         Science, Section A; Nature, Vol. 8
+                         (1873), p. 450._
+
+
+=1543.= The silent work of the great Regiomontanus in his chamber
+at Nuremberg computed the Ephemerides which made possible the
+discovery of America by Columbus.--RUDIO, F.
+
+                         _Quoted in Max Simon's Geschichte der
+                         Mathematik im Altertum (Berlin, 1909),
+                         Einleitung, p. xi._
+
+
+=1544.= The calculation of the eclipses of Jupiter's satellites,
+many a man might have been disposed, originally, to regard as a
+most unprofitable study. But the utility of it to navigation (in
+the determination of longitudes) is now well known.--WHATELY, R.
+
+                         _Annotations to Bacon's Essays (Boston,
+                         1783), p. 492._
+
+
+=1545.= Who could have imagined, when Galvani observed the
+twitching of the frog muscles as he brought various metals in
+contact with them, that eighty years later Europe would be
+overspun with wires which transmit messages from Madrid to St.
+Petersburg with the rapidity of lightning, by means of the same
+principle whose first manifestations this anatomist then
+observed!...
+
+He who seeks for immediate practical use in the pursuit of
+science, may be reasonably sure, that he will seek in vain.
+Complete knowledge and complete understanding of the action of
+forces of nature and of the mind, is the only thing that science
+can aim at. The individual investigator must find his reward in
+the joy of new discoveries, as new victories of thought over
+resisting matter, in the esthetic beauty which a well-ordered
+domain of knowledge affords, where all parts are intellectually
+related, where one thing evolves from another, and all show the
+marks of the mind's supremacy; he must find his reward in the
+consciousness of having contributed to the growing capital of
+knowledge on which depends the supremacy of man over the forces
+hostile to the spirit.--HELMHOLTZ, H.
+
+                         _Vortraege und Reden (Braunschweig,
+                         1884), Bd. 1, p. 142._
+
+
+=1546.= When the time comes that knowledge will not be sought for
+its own sake, and men will not press forward simply in a desire
+of achievement, without hope of gain, to extend the limits of
+human knowledge and information, then, indeed, will the race
+enter upon its decadence.--HUGHES, C. E.
+
+                         _Quoted in D. E. Smith's Teaching of
+                         Geometry (Boston, 1911), p. 9._
+
+
+=1547.= [In the Opus Majus of Roger Bacon] there is a chapter, in
+which it is proved by reason, that all sciences require
+mathematics. And the arguments which are used to establish this
+doctrine, show a most just appreciation of the office of
+mathematics in science. They are such as follows: That other
+sciences use examples taken from mathematics as the most
+evident:--That mathematical knowledge is, as it were, innate to
+us, on which point he refers to the well-known dialogue of Plato,
+as quoted by Cicero:--That this science, being the easiest,
+offers the best introduction to the more difficult:--That in
+mathematics, things as known to us are identical with things as
+known to nature:--That we can here entirely avoid doubt and
+error, and obtain certainty and truth:--That mathematics is prior

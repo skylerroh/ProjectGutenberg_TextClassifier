@@ -1,0 +1,351 @@
+of levels placed on the ring (at K for instance).
+
+Fig.  61.
+
+This apparatus may appear unnecessarily complex, but it is worth while
+to set it up, for it makes the operation of casting a speculum fairly
+certain.  If the metal is at the right temperature it will form a
+uniformly liquid disc inside the ring.  The mass sets almost directly,
+and as soon as this occurs it is pushed to the edge of the plate and
+the metal in the lip broken off by a smart upward tap with a hammer.
+The dovetailed bit of iron is knocked downwards and falls off, and the
+ring may then be lifted clear of the casting.  The object of the
+dovetail will now be understood, for without it there is great risk of
+breaking into the speculum in knocking the "tail" off.
+
+A box of quite dry sawdust is prepared in readiness for the process of
+annealing before the speculum is cast.  The box must be a sound wooden
+or metal box, and must be approximately air-tight.  For a speculum a
+foot in diameter the box must measure at least 3 feet both ways in
+plan, and be 2 feet 6 inches deep.  Half the sawdust is in the box and
+is well pressed down so as to half fill it.  The other half must be
+conveniently ready to hand.  As soon as possible after casting, the
+speculum is thrown into the box, covered over with the sawdust, and
+the lid is put on.
+
+The object in having the box nearly air-tight is to avoid
+air-currents, which would increase the rate of cooling.  A speculum a
+foot in diameter may conveniently take about three days to anneal, and
+should be sensibly warm when the box is opened on the fourth day.  For
+larger sizes longer times will be required.  We will say that the
+sawdust thickness on each side must be proportional to the dimensions
+of the speculum, or may even increase faster with advantage if time is
+of no moment.
+
+The process of annealing may be considered successful if the disc does
+not fly to pieces in working;  it is to be worked on the chilled side.
+The object of giving the chill the approximate counterpart form will
+now appear; it saves some rough grinding, and causes the finished
+surface to be more homogeneous than it would be if the centre were
+sunk by grinding through the chilled surface.
+
+In 1889 I learned from Mr. Schneider, Professor Row-land's assistant
+at Baltimore, that in casting specula for concave gratings a good deal
+of trouble had been saved by carrying out the operation in an
+atmosphere consisting mostly of coal gas.  It was claimed that in this
+way the presence of specks of oxide was avoided.  I did not see the
+process in operation, but the results attained are known and admired
+by all experimenters.
+
+Sec. 71.  Grinding and polishing Specula.
+
+The rough grinding is accomplished by means of a lead tool and coarse
+emery; the size of grain may be such as will pass a sieve of 60
+threads to the inch.  The process of grinding is quite similar to that
+previously described, but it goes on comparatively quickly.  The rough
+grinding is checked by the spherometer, and is interrupted when that
+instrument gives accordant and correct measurements all over the
+surface.
+
+The fine grinding may be proceeded with by means of a glass-faced tool
+as before described, or the labour may be reduced in the following
+manner.  A slate tool, which must be free from green spots (a source
+of uneven hardness), is prepared, and this is brought nearly to the
+curvature of the roughly ground speculum, by turning or otherwise.  It
+is finished on the speculum itself with a little flour of emery.  The
+fine grinding is then carried on by means of slate dust and water, the
+slate tool being the grinder.  The tool is, of course, scored into
+squares on the surface.
+
+If the casting process has been carried out successfully, the rough
+grinding may take, say six hours, and the fine grinding say thirty
+hours for a disc a foot in diameter.  The greatest source of trouble
+is want of homogeneity in the casting, as evidenced by blowholes, etc.
+In general, the shortest way is to discard the disc and start afresh
+if there is any serious want of perfection in the continuity or
+homogeneity of the metal.
+
+Fig.  62.
+
+The finely ground surface must, of course, be apparently correct in so
+far as a spherometer (with 3 inches between the legs for a disc 1 foot
+in diameter) will show.  Polishing and figuring are carried out
+simultaneously.  Half an hour's polishing with a slate-backed pitch
+tool and rouge and water will enable an optical test to be made.  The
+most convenient test is that of Foucault, a simple appliance for the
+purpose being shown in the figure (62).  It essentially consists of a
+small lamp surrounded by an opaque chimney (A) through which a minute
+aperture (pin-hole) is made.  A small lens may be used, of very great
+curvature, or even a transparent marble to throw an image of the flame
+on the pin-hole.
+
+A screen (B) is placed close to the source, and is provided with a
+rocking or tilting motion (C) in its own plane.  The source and screen
+are partly independent, and each is provided with a fine adjustment
+which serves to place it in position near the centre of curvature.
+The screen is so close to the pin-hole in fact that both the source
+and a point on the edge of the screen may be said to be at the centre
+of curvature of the mirror.  The mirror is temporarily mounted so as
+to have its axis horizontal, in a cellar or other place of uniform
+temperature.
+
+The final focussing to the centre of curvature is made by the fine
+adjustment screws;  the image may be received on a bit of paper placed
+on the screen and overlapping the edge nearest the source.  The screws
+are worked till the image has its smallest dimension and is bisected
+by the edge of the screen.  The test consists in observing the
+appearance of the mirror surface while the screen is tilted to cut off
+the light, as seen by an eye placed at the edge of the screen, a
+peephole or eye lens being provided to facilitate placing the eye in a
+correct position.  The screen screws are worked so as to gradually cut
+off the light, and the observer notes the appearance of the mirror
+surface.  If the curves are perfect and spherical, the transition from
+complete illumination to darkness will be abrupt, and no part of the
+mirror will remain illuminated after the rest.
+
+For astronomical purposes a parabolic mirror is required.  In this
+case the disc may be partially screened by zonal screens, and the
+position of the image for different zones noted;  the correctness or
+otherwise of the curvature may then be ascertained by calculation.  A
+shorter way is to place the source just outside the focus, to be found
+by trial, and then, moving the extinction screen (now a separate
+appliance) to, say, five times the radius of curvature away, where the
+image should now appear, the suddenness of extinction may be
+investigated.  This, of course, involves a corresponding modification
+of the apparatus.
+
+Whether the tests indicate that a deepening of the Centre, i.e.
+increase of the curvature, or a flattening of the edges is required,
+at least two remedial processes are available.  The "chisel and
+mallet" method of altering the size of the pitch, squares of the
+polisher may be employed, or paper or small pitch tools may be used to
+deepen the centre.  The "chisel and mallet" method merely consists in
+removing pitch squares from a uniformly divided tool surface by means
+of the instruments mentioned.  This removal is effected at those
+points at which the abrasion requires to be reduced.
+
+When some practice is attained, I understand that it is usual to try
+for a parabolic form at once, as soon as the polishing commences.
+This is done by dividing the pitch surface by V-shaped grooves, the
+sides of the grooves being radii of the circular surface, so that the
+central parts of the mirror get most of the polishing action.  If
+paper tools are used they must not be allowed much overhang, or the
+edges of the mirror betray the effects of paper elasticity.  Most
+operators "sink" the middle, but the late Mr. Lassell, a most
+accomplished worker, always attained the parabolic form by reducing
+the curvature of the edges of a spherical mirror.
+
+Sec. 72.  Preparation of Flat Surfaces.
+
+As Sir H.  Grubb has pointed out, this operation only differs from
+those previously described in that an additional condition has to be
+satisfied.  This condition refers to the mean curvature, which must be
+exact (in the case of flats it is of course zero) to a degree which is
+quite unnecessary in the manufacture of mirrors or lenses.
+
+A little consideration will show that to get a surface flat the most
+straightforward method is to carry out the necessary and sufficient
+condition for three surfaces to fit each other impartially.  If they
+each fit each other, they must clearly all be flat.  To carry out the
+process of producing a flat surface, therefore, two tools are made,
+and the glass or speculum is ground first on one and then on the
+other, the tools being kept "in fit" by occasional mutual grinding.
+The grinding and polishing go on as usual.  If paper is employed, care
+must be taken that the polisher is about the same size as the object
+to be polished.
+
+There is a slight tendency to polish most at the edges; but if the
+sweeps are of the right shape and size, this may be corrected
+approximately.  The best surfaces which have come under my notice are
+those prepared as "test surfaces" by Mr. Brashear of Alleghany, Pa,
+U.S.A.  These I believe to be pitch polished.  A pitch bed is
+prepared, I presume, in a manner similar to that described for
+rocksalt surfaces; but the working of the glass is an immense art, and
+one which I believe--if one may judge by results--is only known to
+Mr. Brashear.
+
+In general, the effect of polishing will be to produce a convex or
+concave surface, quite good enough for most purposes, but distinctly
+faulty when tested by the interference fringes produced with the aid
+of the test plate.  The following information therefore--which I draw
+from Mr. 'Cook--will not enable a student to emulate Mr. Brashear,
+but will undoubtedly help him to get a very much better surface than
+he usually buys at a high price, as exhibited on a spectroscope prism.
+
+The only difference between this process and the one described for
+polishing lenses, lies in the fact that the rouge is put into the
+paper surface while the latter is wet with a dilute gum "mucilage."
+It is of course assumed that the object and the two tools have been
+finely ground and fit each other impartially.  The paper is rubbed
+over with rouge and weak gum water.  The tool, when dry, is applied to
+the flat ground surface (of the object), and is scraped with the
+three-cornered file chisel as formerly described.  This process must
+be very carefully carried out.  The paper must be of the quality
+mentioned, or may even be thinner and harder.  The cross strokes
+should be more employed than in the case of the curved surfaces.
+
+A good deal will depend on the method employed for supporting the
+work; it is in general better to support the tool, which may have a
+slate backing of any desired thickness, whereby the difficulty
+resulting from strains is reduced.  The work must be mounted in such a
+way as to minimise the effect of changes of temperature.  If a pitch
+bed is selected, Mr. Brashear's instructions for rock salt may be
+followed, with, of course, the obvious necessary modifications.  See
+also next section.
+
+Sec. 73.  Polishing Flat Surfaces on Glass or on Speculum Metal.
+
+The above process may be employed for speculum metal, or pitch may be
+used.  In the latter case a fresh tool must be prepared every hour or
+so, because the metal begins to strip and leave bits on the polisher;
+this causes a certain amount of scratching to take place.  As against
+this disadvantage, the process of polishing, in so far as the state of
+the surface is concerned, need not take an hour if the fine grinding
+has been well done.
+
+For the finest work changes of temperature, as in the case of glass,
+cause a good deal of trouble, and the operator must try to arrange his
+method of holding the object so as to give rise to the least possible
+communication of heat from the hand.
+
+The partial elasticity of paper, which is its defect as a polishing
+backing, is, I believe, partly counterbalanced by the difficulty of
+forming with pitch an exact counterpart tool without introducing a
+serious rise of temperature (i.e.  warming the pitch).  The rate of
+subsidence of the latter is very slow at temperatures where it is hard
+enough to work reliably as a polisher.
+
+A student interested in the matter of flat surfaces will do well to
+read an account of Lord Rayleigh's work on the subject, Nature, vol.
+xlviii, 1893, pp.  212, 526 (or B.  A.  Reports, 1893).  In the first
+of these communications Lord Rayleigh describes the method of using
+test plates, and shows how to obtain the interference fringes in the
+clearest manner.
+
+For the ordinary optician a dark room and a soda flame afford all
+requisite information;  and if a person succeeds in making three glass
+discs, say 6 inches in diameter, so flat that, when superposed in any
+manner, the interference fringes are parallel and equidistant, even to
+the roughest observation, he has nothing to learn from any book ever
+written on glass polishing.  Lord Rayleigh has also shown how to use
+the free clean surface of water as a natural test plate.
+
+Since the above was written the following details of his exact course
+of procedure have been sent to me by Mr. Brashear, and I hereby tender
+my thanks:-
+
+"It really takes years to know just what to do when you reach that
+point where another touch either gives you the most perfect results
+attainable, or ruins the work you have already done.  It has taken us
+a long time to find out how to make a flat surface, and when we were
+called upon to make the twenty-eight plane and parallel surfaces for
+the investigation of the value of the metre of the international
+standard, every one of which required an accuracy of one-twentieth of
+a wave length, we had a difficult task to perform. However, it was
+found that every surface had the desired accuracy, and some of them
+went far beyond it.
+
+It is an advantage in making flat surfaces to make more than one at a
+time; it is better to make at least three, and in fact we always grind
+and 'fine' three together.  In making speculum plates we get up ten or
+twelve at once on the lead lap.  These speculum plates we can test as
+we go on by means of our test plane until we get them nearly flat.  In
+polishing them we first make quite a hard polisher, forming it on a
+large test plane that is very nearly correct.  We then polish a while
+on one surface and test it, then on a second and test it, and after a
+while we accumulate plates that are slightly concave and slightly
+convex.  By working upon these alternately with the same polisher, we
+finally get our polisher into such shape that it approximates more and
+more to a flat surface, and with extreme care and slow procedure we
+finally attain the results desired.
+
+All our flats are polished on a machine which has but little virtue in
+itself, unmixed with brains.  Any machine giving a straight
+diametrical stroke will answer the purpose.  The glass should be
+mounted so as to be perfectly free to move in every direction--that
+is to say, perfectly unconstrained.  We mount all our flats on a piece
+of body Brussels carpet, so that every individual part of the woof
+acts as a yielding spring.  The flats are held in place by wooden
+clamps at the edges, which never touch, but allow the bits of glass or
+metal to move slowly around if they are circular; if they are
+rectangular we allow them to tumble about as they please within the
+frame holding them.
+
+For making speculum metal plates either plane or concave we use
+polishers so hard that they scratch the metal all over the surface
+with fine microscopic scratches.  We always work for figure, and when
+we get a hard polisher that is in proper shape, we can do ever so many
+surfaces with it if the environments of temperature are all right.  If
+we have fifty speculum flats to make, and we recently made three times
+that number, we get them all ready and of accurate surface with the
+hard polisher.  Then we prepare a very soft polisher, easily indented
+when cold with the thumb nail.  A drop of rouge and about three drops
+of water are put on the plate, and with the soft polisher about one
+minute suffices to clean up all the scratches and leave a beautiful
+black polish on the metal.  This final touch is given by hand; if we
+do not get the polish in a few minutes the surface is generally ruined
+for shape, and we have to resort to the hard polisher again.
+
+I assure you that nothing but patience and perseverance will master
+the difficulty that one has to encounter, but with these two elements
+'you are bound to get there.'"
+
+CHAPTER III
+
+MISCELLANEOUS PROCESSES
+
+Sec. 74.  Coating Glass with Aluminium and Soldering Aluminium.
+
+A process of coating glass with aluminium has been lately discovered,
+which, if I mistake not, may be of immense service in special cases
+where a strongly adherent deposit is required.  My attention was first
+attracted to the matter by an article in the Archives des Sciences
+physiques et naturelles de Geneve, 1894, by M. Margot.  It appears
+that clean aluminium used as a pencil will leave a mark on clean damp
+glass.  If, instead of a pencil, a small wheel of aluminium--say as
+big as a halfpenny and three times as thick--is rotated on the lathe,
+and a piece of glass pressed against it, the aluminium will form an
+adherent, though not very continuous coating on the glass.
+
+Working with a disc of the size described rotating about as fast as
+for brass-turning, I covered about two square inches of glass surface
+in about five minutes.  The deposit was of very uneven thickness, but
+was nearly all thick enough to be sensibly opaque.  By burnishing the
+brilliance is improved (I used an agate burnisher and oil), but a
+little of the aluminium is rubbed off.  The fact that the burnisher
+does not entirely remove it is a sign of the strength of the adherence
+which exists between the aluminium and the glass.  In making the
+experiment, care must be taken to have the glass quite clean--or at
+all events free from grease--in order to obtain the best results.
+
+M. Margot has contributed further information to the Archives des
+Sciences physiques et naturelles (February 1895).  He finds that
+adherence between aluminium and glass is promoted by dusting the glass
+with powders, such as rouge.  There is no doubt that a considerable
+improvement is effected in this way;  both rouge and alumina have in
+my hands greatly increased the facility with which the aluminium is
+deposited.  M. Margot finds that zinc and magnesium resemble aluminium
+in having properties of adherence to glass, and, what is more, carry
+this property into their alloys with tin.  Thus an alloy of zinc and
+tin in the proportions of about 92 per cent tin and 8 per cent zinc
+may be melted on absolutely clean glass, and will adhere strongly to
+it if well rubbed by an asbestos crayon.
+
+A happy inspiration was to try whether these alloys would, under
+similar circumstances, adhere to aluminium itself, and a trial showed
+that this was indeed the case, provided that both the aluminium and
+alloy are scrupulously clean and free from oxide.  In this way M.
+Margot has solved the problem of soldering aluminium. I have satisfied
+myself by trial of the perfect ease and absolute success of this
+method.  The alloy of zinc and tin in the proportions above mentioned
+is formed at the lowest possible temperature by melting the

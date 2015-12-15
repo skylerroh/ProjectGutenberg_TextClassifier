@@ -1,0 +1,427 @@
+of OH^{-} ions from the NH_{4}OH and a partial hydrolysis of the
+ferric salt. Even with this precaution the entire absence of sulphates
+from the first iron precipitate is not assured. It is, therefore,
+redissolved and again thrown down by ammonia. The organic matter of
+the filter paper may occasion a partial reduction of the iron during
+solution, with consequent possibility of incomplete subsequent
+precipitation with ammonia. The nitric acid is added to reoxidize this
+iron.
+
+To avoid errors arising from the solvent action of ammoniacal
+liquids upon glass, the iron precipitate should be filtered without
+unnecessary delay.]
+
+[Note 5: The washings from the ferric hydroxide are acidified with
+nitric acid, before testing with silver nitrate, to destroy the
+ammonia which is a solvent of silver chloride.
+
+The use of suction to promote filtration and washing is permissible,
+though not prescribed. The precipitate should not be allowed to dry
+during the washing.]
+
+
+!Ignition of the Iron Precipitate!
+
+Heat a platinum or porcelain crucible, cool it in a desiccator and
+weigh, repeating until a constant weight is obtained.
+
+Fold the top of the filter paper over the moist precipitate of ferric
+hydroxide and transfer it cautiously to the crucible. Wipe the inside
+of the funnel with a small fragment of washed filter paper, if
+necessary, and place the paper in the crucible.
+
+Incline the crucible on its side, on a triangle supported on a
+ring-stand, and stand the cover on edge at the mouth of the crucible.
+Place a burner below the front edge of the crucible, using a low flame
+and protecting it from drafts of air by means of a chimney. The heat
+from the burner is thus reflected into the crucible and dries
+the precipitate without danger of loss as the result of a sudden
+generation of steam within the mass of ferric hydroxide. As the drying
+progresses the burner may be gradually moved toward the base of the
+crucible and the flame increased until the paper of the filter begins
+to char and finally to smoke, as the volatile matter is expelled. This
+is known as "smoking off" a filter, and the temperature should not be
+raised sufficiently high during this process to cause the paper to
+ignite, as the air currents produced by the flame of the blazing paper
+may carry away particles of the precipitate.
+
+When the paper is fully charred, move the burner to the base of the
+crucible and raise the temperature to the full heat of the burner for
+fifteen minutes, with the crucible still inclined on its side, but
+without the cover (Note 1). Finally set the crucible upright in the
+triangle, cover it, and heat at the full temperature of a blast lamp
+or other high temperature burner. Cool and weigh in the usual manner
+(Note 2). Repeat the strong heating until the weight is constant
+within 0.0003 gram.
+
+From the weight of ferric oxide (Fe_{2}O_{3}) calculate the percentage
+of iron (Fe) in the sample (Note 3).
+
+[Note 1: These directions for the ignition of the precipitate must be
+closely followed. A ready access of atmospheric oxygen is of special
+importance to insure the reoxidation to ferric oxide of any iron which
+may be reduced to magnetic oxide (Fe_{3}O_{4}) during the combustion
+of the filter. The final heating over the blast lamp is essential
+for the complete expulsion of the last traces of water from the
+hydroxide.]
+
+[Note 2: Ignited ferric oxide is somewhat hygroscopic. On this account
+the weighings must be promptly completed after removal from the
+desiccator. In all weighings after the first it is well to place the
+weights upon the balance-pan before removing the crucible from the
+desiccator. It is then only necessary to move the rider to obtain the
+weight.]
+
+[Note 3: The gravimetric determination of aluminium or chromium is
+comparable with that of iron just described, with the additional
+precaution that the solution must be boiled until it contains but a
+very slight excess of ammonia, since the hydroxides of aluminium and
+chromium are more soluble than ferric hydroxide.
+
+The most important properties of these hydroxides, from a quantitative
+standpoint, other than those mentioned, are the following: All are
+precipitable by the hydroxides of sodium and potassium, but always
+inclose some of the precipitant, and should be reprecipitated with
+ammonium hydroxide before ignition to oxides. Chromium and aluminium
+hydroxides dissolve in an excess of the caustic alkalies and form
+anions, probably of the formula AlO_2^{-} and CrO_{2}^{-}. Chromium
+hydroxide is reprecipitated from this solution on boiling. When first
+precipitated the hydroxides are all readily soluble in acids, but
+aluminium hydroxide dissolves with considerable difficulty after
+standing or boiling for some time. The precipitation of the hydroxides
+is promoted by the presence of ammonium chloride, but is partially
+or entirely prevented by the presence of tartaric or citric acids,
+glycerine, sugars, and some other forms of soluble organic matter.
+The hydroxides yield on ignition an oxide suitable for weighing
+(Al_{2}O_{3}, Cr_{2}O_{3}, Fe_{2}O_{3}).]
+
+
+
+
+DETERMINATION OF SULPHUR
+
+
+PROCEDURE.--Add to the combined filtrates from the ferric hydroxide
+about 0.6 gram of anhydrous sodium carbonate; cover the beaker, and
+then add dilute hydrochloric acid (sp. gr. 1.12) in moderate excess
+and evaporate to dryness on the water bath. Add 10 cc. of concentrated
+hydrochloric acid (sp. gr. 1.20) to the residue, and again evaporate
+to dryness on the bath. Dissolve the residue in water, filter if not
+clear, transfer to a 700 cc. beaker, dilute to about 400 cc., and
+cautiously add hydrochloric acid until the solution shows a distinctly
+acid reaction (Note 1). Heat the solution to boiling, and add !very
+slowly! and with constant stirring, 20 cc. in excess of the calculated
+amount of a hot barium chloride solution, containing about 20 grams
+BaCl_{2}.2H_{2}O per liter (Notes 2 and 3). Continue the boiling for
+about two minutes, allow the precipitate to settle, and decant the
+liquid at the end of half an hour (Note 4). Replace the beaker
+containing the original filtrate by a clean beaker, wash the
+precipitated sulphate by decantation with hot water, and subsequently
+upon the filter until it is freed from chlorides, testing the washings
+as described in the determination of iron. The filter is then
+transferred to a platinum or porcelain crucible and ignited, as
+described above, until the weight is constant (Note 5). From the
+weight of barium sulphate (BaSO_{4}) obtained, calculate the
+percentage of sulphur (S) in the sample.
+
+[Note 1: Barium sulphate is slightly soluble in hydrochloric acid,
+even dilute, probably as a result of the reduction in the degree of
+dissociation of sulphuric acid in the presence of the H^{+} ions of
+the hydrochloric acid, and possibly because of the formation of a
+complex anion made up of barium and chlorine; hence only the smallest
+excess should be added over the amount required to acidify the
+solution.]
+
+[Note 2: The ionic changes involved in the precipitation of barium
+sulphate are very simple:
+
+Ba^{++} + SO_{4}^{--} --> [BaSO_{4}]
+
+This case affords one of the best illustrations of the effect of an
+excess of a precipitant in decreasing the solubility of a precipitate.
+If the conditions are considered which exist at the moment when just
+enough of the Ba^{++} ions have been added to correspond to the
+SO_{4}^{--} ions in the solution, it will be seen that nearly all of
+the barium sulphate has been precipitated, and that the small amount
+which then remains in the solution which is in contact with the
+precipitate must represent a saturated solution for the existing
+temperature, and that this solution is comparable with a solution of
+sugar to which more sugar has been added than will dissolve. It
+should be borne in mind that the quantity of barium sulphate in
+this !saturated solution is a constant quantity! for the existing
+conditions. The dissolved barium sulphate, like any electrolyte, is
+dissociated, and the equilibrium conditions may be expressed thus:
+
+(!Conc'n Ba^{++} x Conc'n SO_{4}^{--})/(Conc'n BaSO_{4}) = Const.!,
+
+and since !Conc'n BaSO_{4}! for the saturated solution has a constant
+value (which is very small), it may be eliminated, when the expression
+becomes !Conc'n Ba^{++} x Conc'n SO_{4}^{--} = Const.!, which is
+the "solubility product" of BaSO_{4}. If, now, an excess of the
+precipitant, a soluble barium salt, is added in the form of a
+relatively concentrated solution (the slight change of volume of a few
+cubic centimeters may be disregarded for the present discussion)
+the concentration of the Ba^{++} ions is much increased, and as a
+consequence the !Conc'n SO_{4}! must decrease in proportion if the
+value of the expression is to remain constant, which is a requisite
+condition if the law of mass action upon which our argument depends
+holds true. In other words, SO_{4}^{--} ions must combine with some
+of the added Ba^{++} ions to form [BaSO_{4}]; but it will be recalled
+that the solution is already saturated with BaSO_{4}, and this freshly
+formed quantity must, therefore, separate and add itself to the
+precipitate. This is exactly what is desired in order to insure
+more complete precipitation and greater accuracy, and leads to the
+conclusion that the larger the excess of the precipitant added the
+more successful the analysis; but a practical limit is placed upon
+the quantity of the precipitant which may be properly added by other
+conditions, as stated in the following note.]
+
+[Note 3: Barium sulphate, in a larger measure than most compounds,
+tends to carry down other substances which are present in the solution
+from which it separates, even when these other substances are
+relatively soluble, and including the barium chloride used as the
+precipitant. This is also notably true in the case of nitrates and
+chlorates of the alkalies, and of ferric compounds; and, since in this
+analysis ammonium nitrate has resulted from the neutralization of the
+excess of the nitric acid added to oxidize the iron, it is essential
+that this should be destroyed by repeated evaporation with a
+relatively large quantity of hydrochloric acid. During evaporation a
+mutual decomposition of the two acids takes place, and the nitric acid
+is finally decomposed and expelled by the excess of hydrochloric acid.
+
+Iron is usually found in the precipitate of barium sulphate when
+thrown down from hot solutions in the presence of ferric salts. This,
+according to Kuster and Thiel (!Zeit. anorg. Chem.!, 22, 424), is due
+to the formation of a complex ion (Fe(SO_{4})_{2}) which precipitates
+with the Ba^{++} ion, while Richards (!Zeit. anorg. Chem.!, 23, 383)
+ascribes it to hydrolytic action, which causes the formation of a
+basic ferric complex which is occluded in the barium precipitate.
+Whatever the character of the compound may be, it has been shown that
+it loses sulphuric anhydride upon ignition, causing low results, even
+though the precipitate contains iron.
+
+The contamination of the barium sulphate by iron is much less in the
+presence of ferrous than ferric salts. If, therefore, the sulphur
+alone were to be determined in the ferrous ammonium sulphate, the
+precipitation by barium might be made directly from an aqueous
+solution of the salt, which had been made slightly acid with
+hydrochloric acid.]
+
+[Note 4: The precipitation of the barium sulphate is probably complete
+at the end of a half-hour, and the solution may safely be filtered at
+the expiration of that time if it is desired to hasten the analysis.
+
+As already noted, many precipitates of the general character of this
+sulphate tend to grow more coarsely granular if digested for some time
+with the liquid from which they have separated. It is therefore well
+to allow the precipitate to stand in a warm place for several hours,
+if practicable, to promote ease of filtration. The filtrate and
+washings should always be carefully examined for minute quantities of
+the sulphate which may pass through the pores of the filter. This is
+best accomplished by imparting to the filtrate a gentle rotary motion,
+when the sulphate, if present, will collect at the center of the
+bottom of the beaker.]
+
+[Note 5: A reduction of barium sulphate to the sulphide may very
+readily be caused by the reducing action of the burning carbon of the
+filter, and much care should be taken to prevent any considerable
+reduction from this cause. Subsequent ignition, with ready access
+of air, reconverts the sulphide to sulphate unless a considerable
+reduction has occurred. In the latter case it is expedient to add one
+or two drops of sulphuric acid and to heat cautiously until the excess
+of acid is expelled.]
+
+[Note 6: Barium sulphate requires about 400,000 parts of water for
+its solution. It is not decomposed at a red heat but suffers loss,
+probably of sulphur trioxide, at a temperature above 900 deg.C.]
+
+
+
+
+DETERMINATION OF SULPHUR IN BARIUM SULPHATE
+
+
+PROCEDURE.--Weigh out, into platinum crucibles, two portions of about
+0.5 gram of the sulphate. Mix each in the crucible with five to six
+times its weight of anhydrous sodium carbonate. This can best be done
+by placing the crucible on a piece of glazed paper and stirring the
+mixture with a clean, dry stirring-rod, which may finally be wiped off
+with a small fragment of filter paper, the latter being placed in the
+crucible. Cover the crucible and heat until a quiet, liquid fusion
+ensues. Remove the burner, and tip the crucible until the fused mass
+flows nearly to its mouth. Hold it in that position until the mass has
+solidified. When cold, the material may usually be detached in a lump
+by tapping the crucible or gently pressing it near its upper edge. If
+it still adheres, a cubic centimeter or so of water may be placed in
+the cold crucible and cautiously brought to boiling, when the cake
+will become loosened and may be removed and placed in about 250 cc.
+of hot, distilled water to dissolve. Clean the crucible completely,
+rubbing the sides with a rubber-covered stirring-rod, if need be.
+
+When the fused mass has completely disintegrated and nothing further
+will dissolve, decant the solution from the residue of barium
+carbonate (Note 1). Pour over the residue 20 cc. of a solution of
+sodium carbonate and 10 cc. of water and heat to gentle boiling for
+about three minutes (Note 2). Filter off the carbonate and wash it
+with hot water, testing the slightly acidified washings for sulphate
+and preserving any precipitates which appear in these tests. Acidify
+the filtrate with hydrochloric acid until just acid, bring to boiling,
+and slowly add hot barium chloride solution, as in the preceding
+determination. Add also any tests from the washings in which
+precipitates have appeared. Filter, wash, ignite, and weigh.
+
+From the weight of barium sulphate, calculate the percentage of
+sulphur (S) in the sample.
+
+[Note 1: This alkaline fusion is much employed to disintegrate
+substances ordinarily insoluble in acids into two components, one
+of which is water soluble and the other acid soluble. The reaction
+involved is:
+
+BaSO_{4} + Na_{2}CO_{3}, --> BaCO_{3}, + Na_{2}SO_{4}.
+
+As the sodium sulphate is soluble in water, and the barium carbonate
+insoluble, a separation between them is possible and the sulphur can
+be determined in the water-soluble portion.
+
+It should be noted that this method can be applied to the purification
+of a precipitate of barium sulphate if contaminated by most of the
+substances mentioned in Note 3 on page 114. The impurities pass into
+the water solution together with the sodium sulphate, but, being
+present in such minute amounts, do not again precipitate with the
+barium sulphate.]
+
+[Note 2: The barium carbonate is boiled with sodium carbonate solution
+before filtration because the reaction above is reversible; and it is
+only by keeping the sodium carbonate present in excess until nearly
+all of the sodium sulphate solution has been removed by filtration
+that the reversion of some of the barium carbonate to barium sulphate
+is prevented. This is an application of the principle of mass action,
+in which the concentration of the reagent (the carbonate ion) is
+kept as high as practicable and that of the sulphate ion as low as
+possible, in order to force the reaction in the desired direction (see
+Appendix).]
+
+
+
+
+DETERMINATION OF PHOSPHORIC ANHYDRIDE IN APATITE
+
+
+The mineral apatite is composed of calcium phosphate, associated with
+calcium chloride, or fluoride. Specimens are easily obtainable which
+are nearly pure and leave on treatment with acid only a slight
+siliceous residue.
+
+For the purpose of gravimetric determination, phosphoric acid is
+usually precipitated from ammoniacal solutions in the form of
+magnesium ammonium phosphate which, on ignition, is converted into
+magnesium pyrophosphate. Since the calcium phosphate of the apatite
+is also insoluble in ammoniacal solutions, this procedure cannot be
+applied directly. The separation of the phosphoric acid from the
+calcium must first be accomplished by precipitation in the form of
+ammonium phosphomolybdate in nitric acid solution, using ammonium
+molybdate as the precipitant. The "yellow precipitate," as it is often
+called, is not always of a definite composition, and therefore not
+suitable for direct weighing, but may be dissolved in ammonia, and the
+phosphoric acid thrown out as magnesium ammonium phosphate from the
+solution.
+
+Of the substances likely to occur in apatite, silicic acid alone
+interferes with the precipitation of the phosphoric acid in nitric
+acid solution.
+
+
+PRECIPITATION OF AMMONIUM PHOSPHOMOLYBDATE
+
+PROCEDURE.--Grind the mineral in an agate mortar until no grit is
+perceptible. Transfer the substance to a weighing-tube, and weigh out
+two portions, not exceeding 0.20 gram each (Note 1) into two beakers
+of about 200 cc. capacity. Pour over them 20 cc. of dilute nitric acid
+(sp. gr. 1.2) and warm gently until solvent action has apparently
+ceased. Evaporate the solution cautiously to dryness, heat the residue
+for about an hour at 100-110 deg.C., and treat it again with nitric acid
+as described above; separate the residue of silica by filtration on
+a small filter (7 cm.) and wash with warm water, using as little as
+possible (Note 2). Receive the filtrate in a beaker (200-500 cc.).
+Test the washings with ammonia for calcium phosphate, but add all such
+tests in which a precipitate appears to the original nitrate (Note 3).
+The filtrate and washings must be kept as small as possible and should
+not exceed 100 cc. in volume. Add aqueous ammonia (sp. gr. 0.96) until
+the precipitate of calcium phosphate first produced just fails to
+redissolve, and then add a few drops of nitric acid until this is
+again brought into solution (Note 4). Warm the solution until it
+cannot be comfortably held in the hand (about 60 deg.C.) and, after
+removal of the burner, add 75 cc. of ammonium molybdate solution which
+has been !gently! warmed, but which must be perfectly clear. Allow
+the mixture to stand at a temperature of about 50 or 60 deg.C. for twelve
+hours (Notes 5 and 6). Filter off the yellow precipitate on a 9 cm.
+filter, and wash by decantation with a solution of ammonium nitrate
+made acid with nitric acid.[1] Allow the precipitate to remain in the
+beaker as far as possible. Test the washings for calcium with ammonia
+and ammonium oxalate (Note 3).
+
+[Footnote 1: This solution is prepared as follows: Mix 100 cc. of
+ammonia solution (sp. gr. 0.96) with 325 cc. of nitric acid (sp. gr.
+1.2) and dilute with 100 cc. of water.]
+
+Add 10 cc. of molybdate solution to the nitrate, and leave it for
+a few hours. It should then be carefully examined for a !yellow!
+precipitate; a white precipitate may be neglected.
+
+[Note 1: Magnesium ammonium phosphate, as noted below, is slightly
+soluble under the conditions of operation. Consequently the
+unavoidable errors of analysis are greater in this determination than
+in those which have preceded it, and some divergence may be expected
+in duplicate analyses. It is obvious that the larger the amount of
+substance taken for analysis the less will be the relative loss or
+gain due to unavoidable experimental errors; but, in this instance, a
+check is placed upon the amount of material which may be taken both by
+the bulk of the resulting precipitate of ammonium phosphomolybdate
+and by the excessive amount of ammonium molybdate required to effect
+complete separation of the phosphoric acid, since a liberal excess
+above the theoretical quantity is demanded. Molybdic acid is one of
+the more expensive reagents.]
+
+[Note 2: Soluble silicic acid would, if present, partially separate
+with the phosphomolybdate, although not in combination with
+molybdenum. Its previous removal by dehydration is therefore
+necessary.]
+
+[Note 3: When washing the siliceous residue the filtrate may be tested
+for calcium by adding ammonia, since that reagent neutralizes the
+acid which holds the calcium phosphate in solution and causes
+precipitation; but after the removal of the phosphoric acid in
+combination with the molybdenum, the addition of an oxalate is
+required to show the presence of calcium.]
+
+[Note 4: An excess of nitric acid exerts a slight solvent
+action, while ammonium nitrate lessens the solubility; hence the
+neutralization of the former by ammonia.]
+
+[Note 5: The precipitation of the phosphomolybdate takes place more
+promptly in warm than in cold solutions, but the temperature should
+not exceed 60 deg.C. during precipitation; a higher temperature tends to
+separate molybdic acid from the solution. This acid is nearly white,
+and its deposition in the filtrate on long standing should not be
+mistaken for a second precipitation of the yellow precipitate. The
+addition of 75 cc. of ammonium molybdate solution insures the presence
+of a liberal excess of the reagent, but the filtrate should be tested
+as in all quantitative procedures.
+
+The precipitation is probably complete in many cases in less than
+twelve hours; but it is better, when practicable, to allow the
+solution to stand for this length of time. Vigorous shaking or
+stirring promotes the separation of the precipitate.]
+
+[Note 6: The composition of the "yellow precipitate" undoubtedly
+varies slightly with varying conditions at the time of its formation.
+Its composition may probably fairly be represented by the formula,
+(NH_{4})_{3}PO_{4}.12MoO_{3}.H_{2}O, when precipitated under the
+conditions prescribed in the procedure. Whatever other variations may
+occur in its composition, the ratio of 12 MoO_{3}:1 P seems to
+hold, and this fact is utilized in volumetric processes for the
+determination of phosphorus, in which the molybdenum is reduced to
+a lower oxide and reoxidized by a standard solution of potassium
+permanganate. In principle, the procedure is comparable with that
+described for the determination of iron by permanganate.]

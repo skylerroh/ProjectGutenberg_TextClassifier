@@ -1,0 +1,305 @@
+positions of a few stars when observed from opposite points of the
+terrestrial orbit.
+
+It had long been the ambitious desire of astronomers to accomplish, if
+possible, a measurement of the abyss which separates our system from the
+nearest of the fixed stars. No imaginary measuring line had ever been
+stretched across this region of space, nor had its unfathomed depths
+ever been sounded by any effort of the human mind. The stars were known
+to be inconceivably remote, but how far away no person could tell, nor
+did there exist any guide by which an approximation of their distances
+could be arrived at.
+
+In attempting to calculate the distances of the stars, astronomers have
+had recourse to a method called 'Parallax,' by which is meant the
+apparent change of position of a heavenly body when viewed from two
+different points of observation.
+
+The annual parallax of a heavenly body is the angle subtended at that
+body by the radius of the Earth's orbit.
+
+The stars have no diurnal parallax, because, owing to their great
+distance, the Earth's radius does not subtend any measurable angle, but
+the radius of the Earth's orbit, which is immensely larger, does, in the
+case of a few stars, subtend a very minute angle.
+
+'This enormous base line of 183 millions of miles is barely sufficient,
+in conjunction with the use of the most delicate and powerful
+astronomical instruments, to exhibit the minutest measureable
+displacement of two or three of the nearest stars.'--Proctor.
+
+The efforts of early astronomers to detect any perceptible alteration in
+the positions of the stars when observed from any point of the
+circumference of the Earth's orbit were unsuccessful. Copernicus
+ascribed the absence of any parallax to the immense distances of the
+stars as compared with the dimensions of the terrestrial orbit. Tycho
+Brahe, though possessing better appliances, and instruments of more
+perfect construction, was unable to perceive any annual displacement of
+the stars, and brought this forward as evidence against the Copernican
+theory.
+
+Galileo suggested a method of obtaining the parallax of the fixed stars,
+by observing two stars of unequal magnitude apparently near to each
+other, though really far apart. Those, when observed from different
+points of the Earth's orbit, would appear to change their positions
+relatively to each other. The smaller and more distant star would remain
+unaltered, whilst the larger and nearer star would have changed its
+position with respect to the other. By continuing to observe the larger
+star during the time that the Earth accomplished a revolution of her
+orbit, Galileo believed that its parallax might be successfully
+determined. Though he did not himself put this method into practice, it
+has been tried by others with successful results.
+
+In 1669, Hooke made the first attempt to ascertain the parallax of a
+fixed star, and selected for this purpose Gamma Draconis, a bright star
+in the Head of the Dragon. This constellation passed near the zenith of
+London at the time that he made his observations, and was favourably
+situated, so as to avoid the effects of refraction. Hooke made four
+observations in the months of July, August, and October, and believed
+that he determined the parallax of the star; but it was afterwards
+discovered that he was in error, and that the apparent displacement of
+the star was mainly due to the aberration of light--a phenomenon which
+was not discovered at that time.
+
+A few years later, Picard, a French astronomer, attempted to find the
+parallax of Alpha Lyrae, but was unsuccessful. In 1692-93, Roemer, a
+Danish astronomer, observed irregularities in the declinations of the
+stars which could neither be ascribed to parallax or refraction, and
+which he imagined resulted from a changing position of the Earth's axis.
+
+One of the principal causes which baffled astronomers in their
+endeavours to determine the parallax of the fixed stars was a phenomenon
+called the 'Aberration of Light,' which was discovered and explained by
+Bradley in 1727. The peculiar effect of aberration was perceived by him
+when endeavouring to obtain the parallax of Gamma Draconis.
+
+Owing to the progressive transmission of light, conjointly with the
+motion of the Earth in her orbit, there results an apparent slight
+displacement of a star from its true position. The extent of the
+displacement depends upon the ratio of the velocity of light as compared
+with the speed of the Earth in her orbit, which is as 10,000 to 1. As a
+consequence of this, each star describes a small ellipse in the course
+of a year, the central point of which would indicate the place occupied
+by the star if the Earth were at rest. The shifting position of the star
+is very slight, and at the end of a year it returns to its former place.
+
+Prior to the discovery of aberration, astronomers ascribed the apparent
+displacement of the stars arising from this cause as being due to
+parallax--a conclusion which led to erroneous results; but after
+Bradley's discovery this source of error was avoided, and it was found
+that the parallax of the stars had to be considerably reduced.
+
+Bessel was the first astronomer who merited the high distinction of
+having determined the first reliable stellar parallax, and by this
+achievement he was enabled to fathom the profound abyss which separates
+our solar system from the stars.
+
+Frederick William Bessel was born in 1764 at Minden, in Westphalia. It
+was his intention to pursue a mercantile career, and he commenced life
+by becoming apprenticed to a firm of merchants at Bremen. Soon
+afterwards he accompanied a trading expedition to China and the East
+Indies, and while on this voyage picked up a good deal of information
+with regard to many matters which came under his observation. He
+acquired a knowledge of Spanish and English, and made himself acquainted
+with the art of navigation. On his return home, Bessel endeavoured to
+determine the longitude of Bremen. The only appliances which he made use
+of were a sextant constructed by himself, and a common clock; and yet,
+with those rude instruments, he successfully accomplished his object.
+During the next two years he devoted all his spare time to the study of
+mathematics and astronomy, and, having obtained possession of Harriot's
+observations of the celebrated comet of 1607--known as Halley's
+comet--Bessel, after much diligent application and careful calculation,
+was enabled to deduce from them an orbit, which he assigned to that
+remarkable body. This meritorious achievement was the means of procuring
+for him a widely known reputation.
+
+A vacancy for an assistant having occurred at Schroeter's Observatory at
+Lilienthal, the post was offered to Bessel and accepted by him. Here he
+remained for four years, and was afterwards appointed Director of the
+new Prussian Observatory at Koenigsberg, where he pursued his
+astronomical labours for a period of upwards of thirty years. Bessel
+directed his energies chiefly to the study of stellar astronomy, and
+made many observations in determining the number, the exact positions,
+and proper motions of the stars. He was remarkable for the precision
+with which he carried out his observations, and for the accuracy which
+characterised all his calculations.
+
+In 1837 Bessel, by the exercise of his consummate skill, endeavoured to
+solve a problem which for many years baffled the efforts of the ablest
+astronomers, viz., the determination of the parallax of the fixed stars.
+This had been so frequently attempted, and without success, that the
+results of any new observations were received with incredulity before
+their value could be ascertained.
+
+Bessel was ably assisted by Joseph Frauenhofer, an eminent optician of
+Munich, who constructed a magnificent heliometer for the Observatory at
+Koenigsberg, and in its design introduced a principle which admirably
+adapted it for micrometrical measurement.
+
+The star selected by Bessel is a binary known as 61 Cygni, the
+components being of magnitudes 5.5 and 6 respectively. It has a large
+proper motion, which led him to conclude that its parallax must be
+considerable.
+
+This star will always be an object of interest to astronomers, as it was
+the first of the stellar multitude that revealed to Bessel the secret of
+its distance.
+
+Bessel commenced his observations in October 1837, and continued them
+until March 1840. During this time he made 402 measurements, and, before
+arriving at a conclusive result, carefully considered every imaginable
+cause of error, and rigorously calculated any inaccuracies that might
+arise therefrom. Finally, he determined the parallax of the star to be
+0''.3483--a result equivalent to a distance about 600,000 times that of
+the Earth from the Sun. In 1842-43 M. Peters, of the Pulkova
+Observatory, arrived at an almost similar result, having obtained a
+parallax of 0''.349; but by more recent observations the parallax of the
+star has been increased to about half a second.
+
+About the same time that Bessel was occupied with his observation of 61
+Cygni, Professor Henderson, of Edinburgh, when in charge of the
+Observatory at the Cape of Good Hope, directed his attention to Alpha
+Centauri, one of the brightest stars in the Southern Hemisphere. During
+1832-33 he made a series of observations of the star, with the object
+of ascertaining its mean declination; and, having been informed
+afterwards of its large proper motion, he resolved to make an endeavour
+to determine its parallax. This he accomplished after his return to
+Scotland, having been appointed Astronomer Royal in that country. By an
+examination of the observations made by him at the Cape, he determined
+the parallax of Alpha Centauri to be 1''.16, but later astronomers have
+reduced it to 0''.75.
+
+Professor Henderson's detection of the parallax of Alpha Centauri was
+communicated to the Astronomical Society two months after Bessel
+announced his determination of the parallax of 61 Cygni.
+
+The parallax of 61 Cygni assigns to the star a distance of forty
+billions of miles from the Earth, and that of Alpha Centauri--regarded
+as the nearest star to our system--a distance of twenty-five billions of
+miles.
+
+It is utterly beyond the capacity of the human mind to form any adequate
+conception of those vast distances, even when measured by the velocity
+with which the ether of space is thrilled into light. Light, which
+travels twelve millions of miles in a minute, requires 4-1/3 years to
+cross the abyss which intervenes between Alpha Centauri and the Earth,
+and from 61 Cygni the period required for light to reach our globe is
+rather less than double that time.
+
+The parallax of more than a dozen other stars has been determined, and
+the light passage of a few of the best known is estimated as
+follows:--Sirius, eight years; Procyon, twelve; Altair, sixteen;
+Aldebaran, twenty-eight; Capella, thirty; Regulus, thirty-five; Polaris,
+sixty-three; and Vega, ninety-six years.
+
+It does not always follow that the brightest stars are those situated
+nearest to our system, though in a general way this may be regarded as
+correct. The diminishing magnitudes of the stars can be accounted for
+mainly by their increased distances, rather than by any difference in
+their intrinsic brilliancy. We should not err by inferring that the most
+minute stars are also the most remote; the telescope revealing thousands
+that are invisible to the naked eye. There are, however, exceptions to
+this general rule, and there are many stars of small magnitude less
+remote than those whose names have been enumerated, and whose light
+passage testifies to their profound distances and surpassing magnitude
+when compared with that of our Sun.
+
+Sirius, 'the leader of the heavenly host,' is distant fifty billions of
+miles. The orb shines with a brilliancy far surpassing that of the Sun,
+and greatly exceeds him in mass and dimensions. Arcturus, the bright
+star in Booetes, whose golden yellow light renders it such a conspicuous
+object, is so far distant that its measurement gives no reliable
+parallax; and if we may infer from what little we know of the stars,
+Arcturus is believed to be the most magnificent and massive orb entering
+into the structure of that portion of the sidereal system which comes
+within our cognisance. Judging by its relative size and brightness,
+this star is ten thousand times more luminous, and may exceed the Sun
+one million times in volume.
+
+Deneb, in the constellation of the Swan, though a first-magnitude star,
+possesses no perceptible proper motion or parallax--a circumstance
+indicative of amazing distance, and magnitude equalling, or surpassing,
+Arcturus and Sirius.
+
+Canopus, in the constellation Argo, in the Southern Hemisphere, the
+brightest star in the heavens with the exception of Sirius, possesses no
+sensible parallax; consequently, its distance is unknown, though it has
+been estimated that its light passage cannot be less than sixty-five
+years.
+
+By establishing a mean value for the parallax of stars of different
+magnitudes, it was believed that an approximation of their distances
+could be obtained by calculating the time occupied in their light
+passage. The light period for stars of the first magnitude has been
+estimated at thirty-six and a half years; this applies to the brightest
+stars, which are also regarded as the nearest. At the distance indicated
+by this period, the Sun would shrink to the dimensions of a
+seventh-magnitude star and become invisible to the naked eye; this of
+itself affords sufficient proof that the great luminary of our system
+cannot be regarded as one of the leading orbs of the firmament. Stars of
+the second magnitude have a mean distance of fifty-eight light years,
+those of the third magnitude ninety-two years, and so on. M. Peters
+estimated that light from stars of the sixth magnitude, which are just
+visible to the naked eye, requires a period of 138 years to accomplish
+its journey hither; whilst light emitted from the smallest stars visible
+in large telescopes does not reach the Earth until after the lapse of
+thousands of years from the time of leaving its source.
+
+The profound distances of the nearest stars by which we are surrounded
+lead us to consider the isolated position of the solar system in space.
+A pinnacle of rock, or forsaken raft floating in mid-ocean, is not more
+distant from the shore than is the Sun from his nearest neighbours. The
+inconceivable dimensions of the abyss by which the orb and his
+attendants are surrounded in utter loneliness may be partially
+comprehended when it is known that light, which travels from the Sun to
+the Earth--a distance of ninety-three millions of miles--in eight
+minutes, requires a period of four and a third years to reach us from
+the nearest fixed star. A sphere having the Sun at its centre and this
+nearest star at its circumference would have a diameter of upwards of
+fifty billions of miles; the volume of the orb when compared with the
+dimensions of this circular vacuity of space is as a small shot to a
+globe 900 miles in diameter. It has been estimated by Father Secchi
+that, if a comet when at aphelion were to arrive at a point midway
+between the Sun and the nearest fixed star, it would require one hundred
+million years in the accomplishment of its journey thither. And yet the
+Sun is one of a group of stars which occupy a region of the heavens
+adjacent to the Milky Way and surrounded by that zone; nor is his
+isolation greater than that of those stars which are his companions, and
+who, notwithstanding their profound distance, influence his movements by
+their gravitational attraction, and in combination with the other stars
+of the firmament control his destiny.
+
+Ancient astronomers, for the purpose of description, have mapped out the
+heavens into numerous irregular divisions called 'constellations.' They
+are of various forms and sizes, according to the configuration of the
+stars which occupy them, and have been named after different animals,
+mythological heroes, and other objects which they appear to resemble. In
+a few instances there does exist a similitude to the object after which
+a constellation is called; this is evident in the case of Corona
+Borealis (the Northern Crown), in which there can be seen a conspicuous
+arrangement of stars resembling a coronet, and in the constellations of
+the Dolphin and Scorpion, where the stars are so distributed that the
+forms of those creatures can be readily recognised. There is some slight
+resemblance to a bear in Ursa Major, and to a lion in Leo, and no great
+effort of the mind is required to imagine a chair in Cassiopeia, and a
+giant in Orion; but in the majority of instances it is difficult to
+perceive any likeness of the object after which a constellation is
+named, and in many cases there is no resemblance whatever.
+
+The constellations are sixty-seven in number: excluding those of the
+Zodiac, which have been already mentioned, the constellations of the
+Northern Hemisphere number twenty-nine. The most important of these are
+Ursa Major and Minor, Andromeda, Cassiopeia, Cepheus, Cygnus, Lyra,
+Aquila, Auriga, Draco, Booetes, Hercules, Pegasus, and Corona Borealis.
+
+To an observer of the nocturnal sky the stars appear to be very
+unequally distributed over the celestial sphere. In some regions they
+are few in number and of small magnitude, whilst in other parts of the
+heavens, and especially in the vicinity of the Milky Way, they are
+present in great numbers and form groups and aggregations of striking
+appearance and conspicuous brilliancy. On taking a casual glance at the
+midnight sky on a clear moonless night, one is struck with the apparent
+countless multitude of the stars; yet this impression of their vast
+number is deceptive, for not more than two thousand stars are usually
+visible at one time.
+

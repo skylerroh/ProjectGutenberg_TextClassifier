@@ -1,0 +1,374 @@
+lens so as to render the rays parallel, and receiving them upon a
+concave mirror, they are brought to a focus; paper placed at that
+focus is caused to smoke and burn. Heat of this intensity may be
+obtained with our ordinary camera and lens, and a concave mirror of
+very moderate power.
+
+[Illustration: Fig. 48.]
+
+We will now adopt stronger measures with the radiation. In this larger
+camera of blackened tin is placed a lamp, in all particulars similar
+to those already employed. But instead of gathering up the rays from
+the carbon-points by a condensing lens, we gather them up by a concave
+mirror (_m_ _m'_, fig. 48), silvered in front and placed behind the
+carbons (P). By this mirror we can cause the rays to issue through the
+orifice in front of the camera, either parallel or convergent. They
+are now parallel, and therefore to a certain extent diffused. We place
+a convex lens (L) in the path of the beam; the light is converged to a
+focus (C), and at that focus paper is not only pierced, but it is
+instantly set ablaze.
+
+Many metals may be burned up in the same way. In our first lecture
+the combustibility of zinc was mentioned. Placing a strip of
+sheet-zinc at this focus, it is instantly ignited, burning with its
+characteristic purple flame. And now I will substitute for our glass
+lens (L) one of a more novel character. In a smooth iron mould a lens
+of pellucid ice has been formed. Placing it in the position occupied a
+moment ago by the glass lens, I can see the beam brought to a sharp
+focus. At the focus I place, a bit of black paper, with a little
+gun-cotton folded up within it. The paper immediately ignites and the
+cotton explodes. Strange, is it not, that the beam should possess such
+heating power after having passed through so cold a substance? In his
+arctic expeditions Dr. Scoresby succeeded in exploding gunpowder by
+the sun's rays, converged by large lenses of ice; here we have
+succeeded in producing the effect with a small lens, and with a
+terrestrial source of heat.
+
+In this experiment, you observe that, before the beam reaches the
+ice-lens, it has passed through a glass cell containing water. The
+beam is thus sifted of constituents, which, if permitted to fall upon
+the lens, would injure its surface, and blur the focus. And this leads
+me to say an anticipatory word regarding transparency. In our first
+lecture we entered fully into the production of colours by absorption,
+and we spoke repeatedly of the quenching of the rays of light. Did
+this mean that the light was altogether annihilated? By no means. It
+was simply so lowered in refrangibility as to escape the visual range.
+It was converted into heat. Our red ribbon in the green of the
+spectrum quenched the green, but if suitably examined its temperature
+would have been found raised. Our green ribbon in the red of the
+spectrum quenched the red, but its temperature at the same time was
+augmented to a degree exactly equivalent to the light extinguished.
+Our black ribbon, when passed through the spectrum, was found
+competent to quench all its colours; but at every stage of its
+progress an amount of heat was generated in the ribbon exactly
+equivalent to the light lost. It is only when _absorption_ takes place
+that heat is thus produced: and heat is always a result of absorption.
+
+Examine the water, then, in front of the lamp after the beam has
+passed through it: it is sensibly warm, and, if permitted to remain
+there long enough, it might be made to boil. This is due to the
+absorption, by the water, of a certain portion of the electric beam.
+But a portion passes through unabsorbed, and does not at all
+contribute to the heating of the water. Now, ice is also in great part
+transparent to these latter rays, and therefore is but little melted
+by them. Hence, by employing the portion of the beam transmitted by
+water, we are able to keep our lens intact, and to produce by means of
+it a sharply defined focus. Placed at that focus, white paper is not
+ignited, because it fails to absorb the rays emergent from the
+ice-lens. At the same place, however, black paper instantly burns,
+because it absorbs the transmitted light.
+
+And here it may be useful to refer to an estimate by Newton, based
+upon doubtful data, but repeated by various astronomers of eminence
+since his time. The comet of 1680, when nearest to the sun, was only a
+sixth of the sun's diameter from his surface. Newton estimated its
+temperature, in this position, to be more than two thousand times that
+of molted iron. Now it is clear from the foregoing experiments that
+the temperature of the comet could not be inferred from its nearness
+to the sun. If its power of absorption were sufficiently low, the
+comet might carry into the sun's neighbourhood the chill of stellar
+space.
+
+
+Sec. 4. _Combustion of a Diamond by Radiant Heat_.
+
+The experiment of burning a diamond in oxygen by the concentrated rays
+of the sun was repeated at Florence, in presence of Sir Humphry Davy,
+on Tuesday, the 27th of March, 1814. It is thus described by
+Faraday:--'To-day we made the grand experiment of burning the diamond,
+and certainly the phenomena presented were extremely beautiful and
+interesting. A glass globe containing about 22 cubical inches was
+exhausted of air, and filled with pure oxygen. The diamond was
+supported in the centre of this globe. The Duke's burning-glass was
+the instrument used to apply heat to the diamond. It consists of two
+double convex lenses, distant from each other about 31/2 feet; the large
+lens is about 14 or 15 inches in diameter, the smaller one about 3
+inches in diameter. By means of the second lens the focus is very much
+reduced, and the heat, when the sun shines brightly, rendered very
+intense. The diamond was placed in the focus and anxiously watched. On
+a sudden Sir H. Davy observed the diamond to burn visibly, and when
+removed from the focus it was found to be in a state of active and
+rapid combustion.'
+
+The combustion of the diamond had never been effected by radiant heat
+from a terrestrial source. I tried to accomplish this before crossing
+the Atlantic, and succeeded in doing so. The small diamond now in my
+hand is held by a loop of platinum wire. To protect it as far as
+possible from air currents, and also to concentrate the heat upon it,
+it is surrounded by a hood of sheet platinum. Bringing a jar of oxygen
+underneath, I cause the focus of the electric beam to fall upon the
+diamond. A small fraction of the time expended in the experiment
+described by Faraday suffices to raise the diamond to a brilliant red.
+Plunging it then into the oxygen, it glows like a little white star;
+and it would continue to burn and glow until wholly consumed. The
+focus can also be made to fall upon the diamond in oxygen, as in the
+Florentine experiment: the result is the same. It was simply to secure
+more complete mastery over the position of the focus, so as to cause
+it to fall accurately upon the diamond, that the mode of experiment
+here described was resorted to.
+
+
+Sec. 5. _Ultra-red Rays: Calorescence_.
+
+In the path of the beam issuing from our lamp I now place a cell with
+glass sides containing a solution of alum. All the _light_ of the beam
+passes through this solution. This light is received on a powerfully
+converging mirror silvered in front, and brought to a focus by the
+mirror. You can see the conical beam of reflected light tracking
+itself through the dust of the room. A scrap of white paper placed at
+the focus shines there with dazzling brightness, but it is not even
+charred. On removing the alum cell, however, the paper instantly
+inflames. There must, therefore, be something in this beam besides its
+light. The _light_ is not absorbed by the white paper, and therefore
+does not burn the paper; but there is something over and above the
+light which _is_ absorbed, and which provokes combustion. What is this
+something?
+
+In the year 1800 Sir William Herschel passed a thermometer through
+the various colours of the solar spectrum, and marked the rise of
+temperature corresponding to each colour. He found the heating effect
+to augment from the violet to the red; he did not, however, stop at
+the red, but pushed his thermometer into the dark space beyond it.
+Here he found the temperature actually higher than in any part of the
+visible spectrum. By this important observation, he proved that the
+sun emitted heat-rays which are entirely unfit for the purposes of
+vision. The subject was subsequently taken up by Seebeck, Melloni,
+Mueller, and others, and within the last few years it has been found
+capable of unexpected expansions and applications. I have devised a
+method whereby the solar or electric beam can be so _filtered_ as to
+detach from it, and preserve intact, this invisible ultra-red
+emission, while the visible and ultra-violet emissions are wholly
+intercepted. We are thus enabled to operate at will upon the purely
+ultra-red waves.
+
+In the heating of solid bodies to incandescence, this non-visual
+emission is the necessary basis of the visual. A platinum wire is
+stretched in front of the table, and through it an electric current
+flows. It is warmed by the current, and may be felt to be warm by the
+hand. It emits waves of heat, but no light. Augmenting the strength of
+the current, the wire becomes hotter; it finally glows with a sober
+red light. At this point Dr. Draper many years ago began an
+interesting investigation. He employed a voltaic current to heat his
+platinum, and he studied, by means of a prism, the successive
+introduction of the colours of the spectrum. His first colour, as
+here, was red; then came orange, then yellow, then green, and lastly
+all the shades of blue. As the temperature of the platinum was
+gradually augmented, the atoms were caused to vibrate more rapidly;
+shorter waves were thus introduced, until finally waves were obtained
+corresponding to the entire spectrum. As each successive colour was
+introduced, the colours preceding it became more vivid. Now the
+vividness or intensity of light, like that of sound, depends not upon
+the length of the wave, but on the amplitude of the vibration. Hence,
+as the less refrangible colours grew more intense when the more
+refrangible ones were introduced, we are forced to conclude that side
+by side with the introduction of the shorter waves we had an
+augmentation of the amplitude of the longer ones.
+
+These remarks apply not only to the visible emission examined by Dr.
+Draper, but to the invisible emission which precedes the appearance of
+any light. In the emission from the white-hot platinum wire now before
+you, the lightless waves exist with which we started, only their
+intensity has been increased a thousand-fold by the augmentation of
+temperature necessary to the production of this white light. Both
+effects are bound up together: in an incandescent solid, or in a
+molten solid, you cannot have the shorter waves without this
+intensification of the longer ones. A sun is possible only on these
+conditions; hence Sir William Herschel's discovery of the invisible
+ultra-red solar emission.
+
+The invisible heat, emitted both by dark bodies and by luminous ones,
+flies through space with the velosity of light, and is called _radiant
+heat_. Now, radiant heat may be made a subtle and powerful explorer of
+molecular condition, and, of late years, it has given a new
+significance to the act of chemical combination. Take, for example,
+the air we breathe. It is a mixture of oxygen and nitrogen; and it
+behaves towards radiant heat like a vacuum, being incompetent to
+absorb it in any sensible degree. But permit the same two gases to
+unite chemically; then, without any augmentation of the quantity of
+matter, without altering the gaseous condition, without interfering in
+any way with the transparency of the gas, the act of chemical union is
+accompanied by an enormous diminution of its _diathermancy_, or
+perviousness to radiant heat.
+
+The researches which established this result also proved the
+elementary gases, generally, to be highly transparent to radiant heat.
+This, again, led to the proof of the diathermancy of elementary
+liquids, like bromine, and of solutions of the solid elements sulphur,
+phosphorus, and iodine. A spectrum is now before you, and you notice
+that the transparent bisulphide of carbon has no effect upon the
+colours. Dropping into the liquid a few flakes of iodine, you see the
+middle of the spectrum cut away. By augmenting the quantity of iodine,
+we invade the entire spectrum, and finally cut it off altogether. Now,
+the iodine, which proves itself thus hostile to the light, is
+perfectly transparent to the ultra-red emission with which we have now
+to deal. It, therefore, is to be our ray-filter.
+
+Placing the alum-cell again in front of the electric lamp, we assure
+ourselves, as before, of the utter inability of the concentrated light
+to fire white paper-Introducing a cell containing the solution of
+iodine, the light is entirely cut off; and then, on removing the
+alum-cell, the white paper at the dark focus is instantly set on fire.
+Black paper is more absorbent than white for these rays; and the
+consequence is, that with it the suddenness and vigour of the
+combustion are augmented. Zinc is burnt up at the same place,
+magnesium bursts into vivid combustion, while a sheet of platinized
+platinum, placed at the focus, is heated to whiteness.
+
+Looked at through a prism, the white-hot platinum yields all the
+colours of the spectrum. Before impinging upon the platinum, the waves
+were of too slow recurrence to awaken vision; by the atoms of the
+platinum, these long and sluggish waves are broken up into shorter
+ones, being thus brought within the visual range. At the other end of
+the spectrum, by the interposition of suitable substances, Professor
+Stokes _lowered_ the refrangibility, so as to render the non-visual
+rays visual, and to this change he gave the name of _Fluorescence_.
+Here, by the intervention of the platinum, the refrangibility is
+_raised_, so as to render the non-visual visual, and to this change I
+have given the name of _Calorescence_.
+
+At the perfectly invisible focus where these effects are produced, the
+air may be as cold as ice. Air, as already stated, does not absorb
+radiant heat, and is therefore not warmed by it. Nothing could more
+forcibly illustrate the isolation, if I may use the term, of the
+luminiferous ether from the air. The wave-motion of the one is heaped
+up to an extraordinary degree of intensity, without producing any
+sensible effect upon the other. I may add that, with suitable
+precautions, the eye may be placed in a focus competent to heat
+platinum to vivid redness, without experiencing any damage, or the
+slightest sensation either of light or heat.
+
+The important part played by these ultra-red rays in Nature may be
+thus illustrated: I remove the iodine filter, and concentrate the
+total beam upon a test tube containing water. It immediately begins to
+splutter, and in a minute or two it _boils_. What boils it? Placing
+the alum solution in front of the lamp, the boiling instantly ceases.
+Now, the alum is pervious to all the luminous rays; hence it cannot be
+these rays that caused the boiling. I now introduce the iodine, and
+remove the alum: vigorous ebullition immediately recommences at the
+invisible focus. So that we here fix upon the invisible ultra-red rays
+the heating of the water.
+
+We are thus enabled to understand the momentous part played by these
+rays in Nature. It is to them that we owe the warming and the
+consequent evaporation of the tropical ocean; it is to them,
+therefore, that we owe our rains and snows. They are absorbed close to
+the surface of the ocean, and warm the superficial water, while the
+luminous rays plunge to great depths without producing any sensible
+effect. But we can proceed further than this. Here is a large flask
+containing a freezing mixture, which has so chilled the flask, that
+the aqueous vapour of the air of this room has been condensed and
+frozen upon it to a white fur. Introducing the alum-cell, and placing
+the coating of hoar-frost at the intensely luminous focus of the
+electric lamp, not a spicula of the dazzling frost is melted.
+Introducing the iodine-cell, and removing the alum, a broad space of
+the frozen coating is instantly melted away. Hence we infer that the
+snow and ice, which feed the Rhone, the Rhine, and other rivers with
+glaciers for their sources, are released from their imprisonment upon
+the mountains by the invisible ultra-red rays of the sun.
+
+
+Sec. 6. _Identity of Light and Radiant Heat. Reflection from Plane and
+Curved Surfaces. Total Reflection of Heat_.
+
+The growth of science is organic. That which today is an _end_ becomes
+to-morrow a _means_ to a remoter end. Every new discovery in science
+is immediately made the basis of other discoveries, or of new methods
+of investigation. Thus about fifty years ago OErsted, of Copenhagen,
+discovered the deflection of a magnetic needle by an electric current;
+and about the same time Thomas Seebeck, of Berlin, discovered
+thermoelectricity. These great discoveries were soon afterwards turned
+to account, by Nobili and Melloni, in the construction of an
+instrument which has vastly augmented our knowledge of radiant heat.
+This instrument, which is called a _thermo-electric pile_, or more
+briefly a thermo-pile, consists of thin bars of bismuth and antimony,
+soldered alternately together at their ends, but separated from each
+other elsewhere. From the ends of this 'thermo-pile' wires pass to a
+galvanometer, which consists of a coil of covered wire, within and
+above which are suspended two magnetic needles, joined to a rigid
+system, and carefully defended from currents of air.
+
+The action of the arrangement is this: the heat, falling on the pile,
+produces an electric current; the current, passing through the coil,
+deflects the needles, and the magnitude of the deflection may be made
+a measure of the heat. The upper needle moves over a graduated dial
+far too small to be directly seen. It is now, however, strongly
+illuminated; and above it is a lens which, if permitted, would form an
+image of the needle and dial upon the ceiling. There, however, it
+could not be conveniently viewed. The beam is therefore received upon
+a looking-glass, placed at the proper angle, which throws the image
+upon a screen. In this way the motions of this small needle may be
+made visible to you all.
+
+The delicacy of this apparatus is such that in a room filled, as this
+room now is, with an audience physically warm, it is exceedingly
+difficult to work with it. My assistant stands several feet off. I
+turn the pile towards him: the heat radiated from his face, even at
+this distance, produces a deflection of 90 deg.. I turn the instrument
+towards a distant wall, a little below the average temperature of the
+room. The needle descends and passes to the other side of zero,
+declaring by this negative deflection that the pile has lost its
+warmth by radiation against the cold wall. Possessed of this
+instrument, of our ray-filter, and of our large Nicol prisms, we are
+in a condition to investigate a subject of great philosophical
+interest; one which long engaged the attention of some of our foremost
+scientific workers--the substantial _identity of light and radiant
+heat_.
+
+That they are identical in _all_ respects cannot of course be the
+case, for if they were they would act in the same manner upon all
+instruments, the _eye_ included. The identity meant is such as
+subsists between one colour and another, causing them to behave alike
+as regards reflection, refraction, double refraction, and
+polarization. Let us here run rapidly over the resemblances of light
+and heat. As regards reflection from plane surfaces, we may employ a
+looking-glass to reflect the light. Marking any point in the track of
+the reflected beam, cutting off the light by the dissolved iodine,
+and placing the pile at the marked point, the needle immediately
+starts aside, showing that the heat is reflected in the same direction
+as the light. This is true for every position of the mirror.
+Recurring, for example, to the simple apparatus employed in our first
+lecture (fig. 3, p. 11); moving the index attached to the mirror along
+the divisions of our graduated arc (_m_ _n_), and determining by the
+pile the positions of the invisible reflected beam, we prove that the
+angular velocity of the heat-beam, like that of the light-beam, is
+twice that of the mirror.
+
+[Illustration: Fig. 49.]
+
+As regards reflection from curved surfaces, the identity also holds
+good. Receiving the beam from our electric lamp on a concave mirror
+(_m_ _m_, fig. 49), it is gathered up into a cone of reflected light
+rendered visible by the floating dust of the air; marking the apex of
+the cone by a pointer, and cutting off the light by the iodine
+solution (T), a moment's exposure of the pile (P) at the marked point
+produces a violent deflection of the needle.
+
+The common reflection and the total reflection of a beam of radiant
+heat may be simultaneously demonstrated. From the nozzle of the lamp
+(L, fig. 50) a beam impinges upon a plane mirror (M N), is reflected
+upwards, and enters a right-angled prism, of which _a_ _b_ _c_ is the
+section. It meets the hypothenuse at an obliquity greater than the
+limiting angle,[23] and is therefore totally reflected. Quenching the
+light by the ray-filter at F, and placing the pile at P, the totally
+reflected heat-beam is immediately felt by the pile, and declared by
+the galvanometric deflection.
+
+[Illustration: Fig. 50.]
+
+
+Sec. 7. _Invisible Images formed by Radiant Heat._
+
+Perhaps no experiment proves more conclusively the substantial
+identity of light and radiant heat, than the formation of invisible
+heat-images. Employing the mirror already used to raise the beam to
+its highest state of concentration, we obtain, as is well known, an

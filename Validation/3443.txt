@@ -1,0 +1,576 @@
+
+    molecular weight = density x 0.9046 x 32;
+
+or, still more briefly,
+
+    M. = D. x 28.9.
+
+The value found by this method for the determination of molecular
+weights will of course agree with those found by calculating the weight
+of 22.4 l. of the gas, since both methods depend on the same principles.
+
+[Illustration: Fig. 69]
+
+     ~Determination of densities of gases.~ The relative weights of
+     equal volumes of two gases can be easily determined. The
+     following is one of the methods used. A small flask, such as is
+     shown in Fig. 69, is filled with one of the gases, and after
+     the temperature and pressure have been noted the flask is
+     sealed up and weighed. The tip of the sealed end is then broken
+     off, the flask filled with the second gas, and its weight
+     determined. If the weight of the empty flask is subtracted from
+     these two weighings, the relative weights of the gases is
+     readily found.
+
+~3. Deduction of atomic weights from molecular weights and equivalents.~
+We have now seen how the equivalent of an element and the molecular
+weight of compounds containing the element can be obtained. Let us see
+how it is possible to decide which multiple of the equivalent really is
+the true atomic weight. As an example, let us suppose that the
+equivalent of nitrogen has been found to be 7.02 and that it is desired
+to obtain its atomic weight. The next step is to obtain the molecular
+weights of a large number of compounds containing nitrogen. The
+following will serve:
+
+==================+============+=============+================+==============
+                  |            | APPROXIMATE |  PERCENTAGE OF |    PART OF
+                  | DENSITY BY |  MOLECULAR  |   NITROGEN BY  |   MOLECULAR
+                  | EXPERIMENT |   WEIGHT    |    EXPERIMENT  |   WEIGHT DUE
+                  |            | (D. x 28.9) |                |  TO NITROGEN
+------------------+------------+-------------+----------------+--------------
+Nitrogen gas      |   0.9671   |    27.95    |    100.00      |    27.95
+Nitrous oxide     |   1.527    |    44.13    |     63.70      |    27.11
+Nitric oxide      |   1.0384   |    30.00    |     46.74      |    14.02
+Nitrogen peroxide |   1.580    |    45.66    |     30.49      |    13.90
+Ammonia           |   0.591    |    17.05    |     82.28      |    14.03
+Nitric acid       |   2.180    |    63.06    |     22.27      |    14.03
+Hydrocyanic acid  |   0.930    |    26.87    |     51.90      |    13.94
+==================+============+=============+================+==============
+
+~Method of calculation.~ The densities of the various gases in the first
+column of this table are determined by experiment, and are fairly
+accurate but not entirely so. By multiplying these densities by 28.9 the
+molecular weights of the compounds as given in the second column are
+obtained. By chemical analysis it is possible to determine the
+percentage composition of these substances, and the percentages of
+nitrogen in them as determined by analysis are given in the third
+column. If each of these molecular weights is multiplied in turn by the
+percentage of nitrogen in the compound, the product will be the weight
+of the nitrogen in the molecular weight of the compound. This will be
+the sum of the weights of the nitrogen atoms in the molecule. These
+values are given in the fourth column in the table.
+
+If a large number of compounds containing nitrogen are studied in this
+way, it is probable that there will be included in the list at least one
+substance whose molecule contains a single nitrogen atom. In this case
+the number in the fourth column will be the approximate atomic weight of
+nitrogen. On comparing the values for nitrogen in the table it will be
+seen that a number which is approximately 14 is the smallest, and that
+the others are multiples of this. These compounds of higher value,
+therefore, contain more than one nitrogen atom in the molecule.
+
+~Accurate determination of atomic weights.~ Molecular weights cannot be
+determined very accurately, and consequently the part in them due to
+nitrogen is a little uncertain, as will be seen in the table. All we can
+tell by this method is that the true weight is very near 14. The
+equivalent can however be determined very accurately, and we have seen
+that it is some multiple or submultiple of the true atomic weight.
+Since molecular-weight determinations have shown that in the case of
+nitrogen the atomic weight is near 14, and we have found the equivalent
+to be 7.02, it is evident that the true atomic weight is twice the
+equivalent, or 7.02 x 2 = 14.04.
+
+~Summary.~ These, then, are the steps necessary to establish the atomic
+weight of an element.
+
+1. Determine the equivalent accurately by analysis.
+
+2. Determine the molecular weight of a large number of compounds of the
+element, and by analysis the part of the molecular weight due to the
+element. The smallest number so obtained will be approximately the
+atomic weight.
+
+3. Multiply the equivalent by the small whole number (usually 1, 2, or
+3), which will make a number very close to the approximate atomic
+weight. The figure so obtained will be the true atomic weight.
+
+~Molecular weights of the elements.~ It will be noticed that the molecular
+weight of nitrogen obtained by multiplying its density by 28.9 is 28.08.
+Yet the atomic weight of nitrogen as deduced from a study of its gaseous
+compounds is 14.04. The simplest explanation that can be given for this
+is that the gaseous nitrogen is made up of molecules, each of which
+contains two atoms. In this respect it resembles oxygen; for we have
+seen that an entirely different line of reasoning leads us to believe
+that the molecule of oxygen contains two atoms. When we wish to indicate
+molecules of these gases the symbols N_{2} and O_{2} should be used.
+When we desire to merely show the weights taking part in a reaction this
+is not necessary.
+
+The vapor densities of many of the elements show that, like oxygen and
+nitrogen, their molecules consist of two atoms. In other cases,
+particularly among the metals, the molecule and the atom are identical.
+Still other elements have four atoms in their molecules.
+
+While oxygen contains two atoms in its molecules, a study of ozone has
+led to the conclusion that it has three. The formation of ozone from
+oxygen can therefore be represented by the equation
+
+    3O_{2} = 2O_{3}.
+
+~Other methods of determining molecular weights.~ It will be noticed that
+Avogadro's law gives us a method by which we can determine the relative
+weights of the molecules of two gases because it enables us to tell when
+we are dealing with an equal number of the two kinds of molecules. If by
+any other means we can get this information, we can make use of the
+knowledge so gained to determine the molecular weights of the two
+substances.
+
+~Raoult's laws.~ Two laws have been discovered which give us just such
+information. They are known as Raoult's laws, and can be stated as
+follows:
+
+1. _When weights of substances which are proportional to their molecular
+weights are dissolved in the same weight of solvent, the rise of the
+boiling point is the same in each case._
+
+2. _When weights of substances which are proportional to their molecular
+weights are dissolved in the same weight of solvent, the lowering of the
+freezing point is the same in each case._
+
+By taking advantage of these laws it is possible to determine when two
+solutions contain the same number of molecules of two dissolved
+substances, and consequently the relative molecular weights of the two
+substances.
+
+~Law of Dulong and Petit.~ In 1819 Dulong and Petit discovered a very
+interesting relation between the atomic weight of an element and its
+specific heat, which holds true for elements in the solid state. If
+equal weights of two solids, say, lead and silver, are heated through
+the same range of temperature, as from 10 deg. to 20 deg., it is found that very
+different amounts of heat are required. The amount of heat required to
+change the temperature of a solid or a liquid by a definite amount
+compared with the amount required to change the temperature of an equal
+weight of water by the same amount is called its specific heat. Dulong
+and Petit discovered the following law: _The specific heat of an element
+in the solid form multiplied by its atomic weight is approximately equal
+to the constant 6.25._ That is,
+
+    at. wt. x sp. ht. = 6.25.
+
+
+Consequently,
+
+                6.25
+    at. wt. = --------
+               sp. ht.
+
+This law is not very accurate, but it is often possible by means of it
+to decide upon what multiple of the equivalent is the real atomic
+weight. Thus the specific heat of iron is found by experiment to be
+0.112, and its equivalent is 27.95. 6.25 / 0.112 = 55.8. We see,
+therefore, that the atomic weight is twice the equivalent, or 55.9.
+
+~How formulas are determined.~ It will be well in connection with
+molecular weights to consider how the formula of a compound is decided
+upon, for the two subjects are very closely associated. Some examples
+will make clear the method followed.
+
+The molecular weight of a substance containing hydrogen and chlorine was
+36.4. By analysis 36.4 parts of the substance was found to contain 1
+part of hydrogen and 35.4 parts of chlorine. As these are the simple
+atomic weights of the two elements, the formula of the compound must be
+HCl.
+
+A substance consisting of oxygen and hydrogen was found to have a
+molecular weight of 34. Analysis showed that in 34 parts of the
+substance there were 2 parts of hydrogen and 32 parts of oxygen.
+Dividing these figures by the atomic weights of the two elements, we get
+2 / 1 = 2 for H; 32 / 16 = 2 for O. The formula is therefore H_{2}O_{2}.
+
+A substance containing 2.04% H, 32.6% S, and 65.3% O was found to have a
+molecular weight of 98. In these 98 parts of the substance there are 98
+x 2.04% = 2 parts of H, 98 x 32.6% = 32 parts of S, and 98 x 65.3% = 64
+parts of O. If the molecule weighs 98, the hydrogen atoms present must
+together weigh 2, the sulphur atoms 32, and the oxygen atoms 64.
+Dividing these figures by the respective atomic weights of the three
+elements, we have, for H, 2 / 1 = 2 atoms; for S, 32 / 32 = 1 atom; for
+O, 64 / 16 = 4 atoms. Hence the formula is H_{2}SO_{4}.
+
+We have, then, this general procedure: Find the percentage composition
+of the substance and also its molecular weight. Multiply the molecular
+weight successively by the percentage of each element present, to find
+the amount of the element in the molecular weight of the compound. The
+figures so obtained will be the respective parts of the molecular weight
+due to the several atoms. Divide by the atomic weights of the respective
+elements, and the quotient will be the number of atoms present.
+
+~Avogadro's hypothesis and chemical calculations.~ This law simplifies
+many chemical calculations.
+
+1. _Application to volume relations in gaseous reactions._ Since equal
+volumes of gases contain an equal number of molecules, it follows that
+when an equal number of gaseous molecules of two or more gases take part
+in a reaction, the reaction will involve equal volumes of the gases. In
+the equation
+
+    C_{2}H_{2}O_{4} = H_{2}O + CO_{2} + CO,
+
+since 1 molecule of each of the gases CO_{2} and CO is set free from
+each molecule of oxalic acid, the two substances must always be set free
+in equal volumes.
+
+Acetylene burns in accordance with the equation
+
+    2C_{2}H_{2} + 5O_{2} = 4CO_{2} + 2H_{2}O.
+
+Hence 2 volumes of acetylene will react with 5 volumes of oxygen to form
+4 volumes of carbon dioxide and 2 volumes of steam. That the volume
+relations may be correct a gaseous element must be given its molecular
+formula. Thus oxygen must be written O_{2} and not 2O.
+
+2. _Application to weights of gases._ It will be recalled that the
+molecular weight of a gas is determined by ascertaining the weight of
+22.4 l. of the gas. This weight in grams is called the _gram-molecular
+weight_ of a gas. If the molecular weight of any gas is known, the
+weight of a liter of the gas under standard conditions may be determined
+by dividing its gram-molecular weight by 22.4. Thus the gram-molecular
+weight of a hydrochloric acid gas is 36.458. A liter of the gas will
+therefore weigh 36.458 / 22.4 = 1.627 g.
+
+
+EXERCISES
+
+1. From the following data calculate the atomic weight of sulphur. The
+equivalent, as obtained by an analysis of sulphur dioxide, is 16.03. The
+densities and compositions of a number of compounds containing sulphur
+are as follows:
+
+      NAME             DENSITY      COMPOSITION BY PERCENTAGE
+Hydrosulphuric acid    1.1791     S = 94.11   H  =  5.89
+Sulphur dioxide        2.222      S = 50.05   O  = 49.95
+Sulphur trioxide       2.74       S = 40.05   O  = 59.95
+Sulphur chloride       4.70       S = 47.48   Cl = 52.52
+Sulphuryl chloride     4.64       S = 23.75   Cl = 52.53    O = 23.70
+Carbon disulphide      2.68       S = 84.24   C  = 15.76
+
+2. Calculate the formulas for compounds of the following compositions:
+
+                                            MOLECULAR
+                                              WEIGHT
+(1) S  = 39.07%   O = 58.49%   H =  2.44%      81.0
+(2) Ca = 29.40    S = 23.56    O = 47.04      136.2
+(3) K  = 38.67    N = 13.88    O = 47.45      101.2
+
+3. The molecular weight of ammonia is 17.06; of sulphur dioxide is
+64.06; of chlorine is 70.9. From the molecular weight calculate the
+weight of 1 l. of each of these gases. Compare your results with the
+table on the back cover of the book.
+
+4. From the molecular weight of the same gases calculate the density of
+each, referred to air as a standard.
+
+5. A mixture of 50 cc. of carbon monoxide and 50 cc. of oxygen was
+exploded in a eudiometer, (a) What gases remained in the tube after
+the explosion? (b) What was the volume of each?
+
+6. In what proportion must acetylene and oxygen be mixed to produce the
+greatest explosion?
+
+7. Solve Problem 18, Chapter XVII, without using molecular weights.
+Compare your results.
+
+8. Solve Problem 10, Chapter XVIII, without using molecular weights.
+Compare your results.
+
+9. The specific heat of aluminium is 0.214; of lead is 0.031. From these
+specific heats calculate the atomic weights of each of the elements.
+
+
+
+
+CHAPTER XX
+
+THE PHOSPHORUS FAMILY
+
+
+==================================================
+           |        | ATOMIC  |         | MELTING
+           | SYMBOL | WEIGHT  | DENSITY |  POINT
+-----------+--------+---------+---------+---------
+Phosphorus |   P    |    31.0 |    1.8  |    43.3 deg.
+Arsenic    |   As   |    75.0 |    5.73 |     ---
+Antimony   |   Sb   |   120.2 |    6.7  |     432 deg.
+Bismuth    |   Bi   |   208.5 |    9.8  |     270 deg.
+==================================================
+
+~The family.~ The elements constituting this family belong in the same
+group with nitrogen and therefore resemble it in a general way. They
+exhibit a regular gradation of physical properties, as is shown in the
+above table. The same general gradation is also found in their chemical
+properties, phosphorus being an acid-forming element, while bismuth is
+essentially a metal. The other two elements are intermediate in
+properties.
+
+~Compounds.~ In general the elements of the family form compounds having
+similar composition, as is shown in the following table:
+
+    PH_{3}  PCl_{3}   PCl_{5}   P_{2}O_{3}   P_{2}O_{5}
+    AsH_{3} AsCl_{3}  AsCl_{5}  As_{2}O_{3}  As_{2}O_{5}
+    SbH_{3} SbCl_{3}  SbCl_{5}  Sb_{2}O_{3}  Sb_{2}O_{5}
+     ....   BiCl_{3}  BiCl_{5}  Bi_{2}O_{3}  Bi_{2}O_{5}
+
+In the case of phosphorus, arsenic, and antimony the oxides are acid
+anhydrides. Salts of at least four acids of each of these three elements
+are known, the free acid in some instances being unstable. The relation
+of these acids to the corresponding anhydrides may be illustrated as
+follows, phosphorus being taken as an example:
+
+    P_{2}O_{3} + 3H_{2}O = 2H_{3}PO_{3} (phosphorous acid).
+
+    P_{2}O_{5} + 3H_{2}O = 2H_{3}PO_{4} (phosphoric acid).
+
+    P_{2}O_{5} + 2H_{2}O = H_{4}P_{2}O_{7} (pyrophosphoric acid).
+
+    P_{2}O_{5} + H_{2}O = 2HPO_{3} (metaphosphoric acid).
+
+
+PHOSPHORUS
+
+~History.~ The element phosphorus was discovered by the alchemist Brand,
+of Hamburg, in 1669, while searching for the philosopher's stone. Owing
+to its peculiar properties and the secrecy which was maintained about
+its preparation, it remained a very rare and costly substance until the
+demand for it in the manufacture of matches brought about its production
+on a large scale.
+
+~Occurrence.~ Owing to its great chemical activity phosphorus never occurs
+free in nature. In the form of phosphates it is very abundant and widely
+distributed. _Phosphorite_ and _sombrerite_ are mineral forms of calcium
+phosphate, while _apatite_ consists of calcium phosphate together with
+calcium fluoride or chloride. These minerals form very large deposits
+and are extensively mined for use as fertilizers. Calcium phosphate is a
+constituent of all fertile soil, having been supplied to the soil by the
+disintegration of rocks containing it. It is the chief mineral
+constituent of bones of animals, and bone ash is therefore nearly pure
+calcium phosphate.
+
+~Preparation.~ Phosphorus is now manufactured from bone ash or a pure
+mineral phosphate by heating the phosphate with sand and carbon in an
+electric furnace. The materials are fed in at M (Fig. 70) by the feed
+screw F. The phosphorus vapor escapes at P and is condensed under
+water, while the calcium silicate is tapped off as a liquid at S. The
+phosphorus obtained in this way is quite impure, and is purified by
+distillation.
+
+[Illustration: Fig. 70]
+
+     ~Explanation of the reaction.~ To understand the reaction which
+     occurs, it must be remembered that a volatile acid anhydride is
+     expelled from its salts when heated with an anhydride which is
+     not volatile. Thus, when sodium carbonate and silicon dioxide
+     are heated together the following reaction takes place:
+
+         Na_{2}CO_{3} + SiO_{2} = Na_{2}SiO_{3} + CO_{2}.
+
+     Silicon dioxide is a less volatile anhydride than phosphoric
+     anhydride (P_{2}O_{5}), and when strongly heated with a
+     phosphate the phosphoric anhydride is driven out, thus:
+
+         Ca_{3}(PO_{4})_{2} + 3SiO_{2} = 3CaSiO_{3} + P_{2}O_{5}.
+
+     If carbon is added before the heat is applied, the P_{2}O_{5}
+     is reduced to phosphorus at the same time, according to the
+     equation
+
+         P_{2}O_{5} + 5C = 2P + 5CO.
+
+~Physical properties.~ The purified phosphorus is a pale yellowish,
+translucent, waxy solid which melts at 43.3 deg. and boils at 269 deg.. It can
+therefore be cast into any convenient form under warm water, and is
+usually sold in the market in the form of sticks. It is quite soft and
+can be easily cut with a knife, but this must always be done while the
+element is covered with water, since it is extremely inflammable, and
+the friction of the knife blade is almost sure to set it on fire if cut
+in the air. It is not soluble in water, but is freely soluble in some
+other liquids, notably in carbon disulphide. Its density is 1.8.
+
+~Chemical properties.~ Exposed to the air phosphorus slowly combines with
+oxygen, and in so doing emits a pale light, or phosphorescence, which
+can be seen only in a dark place. The heat of the room may easily raise
+the temperature to the kindling point of phosphorus, when it burns with
+a sputtering flame, giving off dense fumes of oxide of phosphorus. It
+burns with dazzling brilliancy in oxygen, and combines directly with
+many other elements, especially with sulphur and the halogens. On
+account of its great affinity for oxygen it is always preserved under
+water.
+
+Phosphorus is very poisonous, from 0.2 to 0.3 gram being a fatal dose.
+Ground up with flour and water or similar substances, it is often used
+as a poison for rats and other vermin.
+
+     ~Precaution.~ The heat of the body is sufficient to raise
+     phosphorus above its kindling temperature, and for this reason
+     it should always be handled with forceps and never with the
+     bare fingers. Burns occasioned by it are very painful and slow
+     in healing.
+
+~Red phosphorus.~ On standing, yellow phosphorus gradually undergoes a
+remarkable change, being converted into a dark red powder which has a
+density of 2.1. It no longer takes fire easily, neither does it dissolve
+in carbon disulphide. It is not poisonous and, in fact, seems to be an
+entirely different substance. The velocity of this change increases with
+rise in temperature, and the red phosphorus is therefore prepared by
+heating the yellow just below the boiling point (250 deg.-300 deg.). When
+distilled and quickly condensed the red form changes back to the yellow.
+This is in accordance with the general rule that when a substance
+capable of existing in several allotropic forms is condensed from a gas
+or crystallized from the liquid state, the more unstable variety forms
+first, and this then passes into the more stable forms.
+
+     ~Matches.~ The chief use of phosphorus is in the manufacture of
+     matches. Common matches are made by first dipping the match
+     sticks into some inflammable substance, such as melted
+     paraffin, and afterward into a paste consisting of (1)
+     phosphorus, (2) some oxidizing substance, such as manganese
+     dioxide or potassium chlorate, and (3) a binding material,
+     usually some kind of glue. On friction the phosphorus is
+     ignited, the combustion being sustained by the oxidizing agent
+     and communicated to the wood by the burning paraffin. In
+     sulphur matches the paraffin is replaced by sulphur.
+
+     In safety matches _red_ phosphorus, an oxidizing agent, and
+     some gritty material such as emery is placed on the side of the
+     box, while the match tip is provided as before with an
+     oxidizing agent and an easily oxidized substance, usually
+     antimony sulphide. The match cannot be ignited easily by
+     friction, save on the prepared surface.
+
+~Compounds of phosphorus with hydrogen.~ Phosphorus forms several
+compounds with hydrogen, the best known of which is phosphine (PH_{3})
+analogous to ammonia (NH_{3}).
+
+~Preparation of phosphine.~ Phosphine is usually made by heating
+phosphorus with a strong solution of potassium hydroxide, the reaction
+being a complicated one.
+
+[Illustration: Fig. 71]
+
+     The experiment can be conveniently made in the apparatus shown
+     in Fig. 71. A strong solution of potassium hydroxide together
+     with several small bits of phosphorus are placed in the flask
+     A, and a current of coal gas is passed into the flask through
+     the tube B until all the air has been displaced. The gas is
+     then turned off and the flask is heated. Phosphine is formed in
+     small quantities and escapes through the delivery tube, the
+     exit of which is just covered by the water in the vessel C.
+     Each bubble of the gas as it escapes into the air takes fire,
+     and the product of combustion (P_{2}O_{5}) forms beautiful
+     small rings, which float unbroken for a considerable time in
+     quiet air. The pure phosphine does not take fire spontaneously.
+     When prepared as directed above, impurities are present which
+     impart this property.
+
+~Properties.~ Phosphine is a gas of unpleasant odor and is exceedingly
+poisonous. Like ammonia it forms salts with the halogen acids. Thus we
+have phosphonium chloride (PH_{4}Cl) analogous to ammonium chloride
+(NH_{4}Cl). The phosphonium salts are of but little importance.
+
+~Oxides of phosphorus.~ Phosphorus forms two well-known oxides,--the
+trioxide (P_{2}O_{3}) and the pentoxide (P_{2}O_{5}), sometimes called
+phosphoric anhydride. When phosphorus burns in an insufficient supply of
+air the product is partially the trioxide; in oxygen or an excess of air
+the pentoxide is formed. The pentoxide is much the better known of the
+two. It is a snow-white, voluminous powder whose most marked property is
+its great attraction for water. It has no chemical action upon most
+gases, so that they can be very thoroughly dried by allowing them to
+pass through properly arranged vessels containing phosphorus pentoxide.
+
+~Acids of phosphorus.~ The important acids of phosphorus are the
+following:
+
+    H_{3}PO_{3}       phosphorous acid.
+    H_{3}PO_{4}       phosphoric acid.
+    H_{4}P_{2}O_{7}   pyrophosphoric acid.
+    HPO_{3}           metaphosphoric acid.
+
+These may be regarded as combinations of the oxides of phosphorus with
+water according to the equations given in the discussion of the
+characteristics of the family.
+
+1. _Phosphorous acid_ (H_{3}PO_{3}). Neither the acid nor its salts are
+at all frequently met with in chemical operations. It can be easily
+obtained, however, in the form of transparent crystals when phosphorus
+trichloride is treated with water and the resulting solution is
+evaporated:
+
+    PCl_{3} + 3H_{2}O = H_{3}PO_{3} + 3HCl.
+
+Its most interesting property is its tendency to take up oxygen and pass
+over into phosphoric acid.
+
+2. _Orthophosphoric acid (phosphoric acid)_ (H_{3}PO_{4}). This acid can
+be obtained by dissolving phosphorus pentoxide in boiling water, as
+represented in the equation
+
+    P_{2}O_{5} + 3H_{2}O = 2H_{3}PO_{4}.
+
+It is usually made by treating calcium phosphate with concentrated
+sulphuric acid. The calcium sulphate produced in the reaction is nearly
+insoluble, and can be filtered off, leaving the phosphoric acid in
+solution. Very pure acid is made by oxidizing phosphorus with nitric
+acid. It forms large colorless crystals which are exceedingly soluble in
+water. Being a tribasic acid, it forms acid as well as normal salts.
+Thus the following compounds of sodium are known:
+
+    NaH_{2}PO_{4}   monosodium hydrogen phosphate.
+    Na_{2}HPO_{4}   disodium hydrogen phosphate.
+    Na_{3}PO_{4}    normal sodium phosphate.
+
+These salts are sometimes called respectively primary, secondary, and
+tertiary phosphates. They may be prepared by bringing together
+phosphoric acid and appropriate quantities of sodium hydroxide.
+Phosphoric acid also forms mixed salts, that is, salts containing two
+different metals. The most familiar compound of this kind is microcosmic
+salt, which has the formula Na(NH_{4})HPO_{4}.
+
+_Orthophosphates._ The orthophosphates form an important class of salts.
+The normal salts are nearly all insoluble and many of them occur in
+nature. The secondary phosphates are as a rule insoluble, while most of
+the primary salts are soluble.
+
+3. _Pyrophosphoric acid_ (H_{4}P_{2}O_{7}). On heating orthophosphoric
+acid to about 225 deg. pyrophosphoric acid is formed in accordance with the
+following equation:
+
+    2H_{3}PO_{4} = H_{4}P_{2}O_{7} + H_{2}O.
+
+It is a white crystalline solid. Its salts can be prepared by heating a
+secondary phosphate:
+
+    2Na_{2}HPO_{4} = Na_{4}P_{2}O_{7} + H_{2}O.
+
+4. _Metaphosphoric acid (glacial phosphoric acid)_ (HPO_{3}). This acid
+is formed when orthophosphoric acid is heated above 400 deg.:
+
+    H_{3}PO_{4} = HPO_{3} + H_{2}O.
+
+It is also formed when phosphorus pentoxide is treated with cold water:
+
+    P_{2}O_{5} + H_{2}O = 2HPO_{3}.
+
+It is a white crystalline solid, and is so stable towards heat that it
+can be fused and even volatilized without decomposition. On cooling from
+the fused state it forms a glassy solid, and on this account is often
+called glacial phosphoric acid. It possesses the property of dissolving
+small quantities of metallic oxides, with the formation of compounds
+which, in the case of certain metals, have characteristic colors. It is
+therefore used in the detection of these metals.
+
+While the secondary phosphates, on heating, give salts of pyrophosphoric
+acid, the primary phosphates yield salts of metaphosphoric acid. The
+equations representing these reactions are as follows:
+
+    2Na_{2}HPO_{4} = Na_{4}P_{3}O_{7} + H_{2}O,
+
+      NaH_{2}PO_{4} = NaPO_{3} + H_{2}O.
+

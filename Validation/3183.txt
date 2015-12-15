@@ -1,0 +1,323 @@
+The methods of obviating this difficulty have exercised the ingenuity
+of the ablest physicists from the beginning of iron ship building. One
+method is to place in the neighborhood of the compass, but not too near
+it, a steel bar magnetized in the opposite direction from that of the
+ship, so that the action of the latter shall be neutralized. But a
+perfect neutralization cannot be thus effected. It is all the more
+difficult to effect it because the magnetism of a ship is liable to
+change.
+
+The practical method therefore adopted is called "swinging the ship,"
+an operation which passengers on ocean liners may have frequently
+noticed when approaching land. The ship is swung around so that her bow
+shall point in various directions. At each pointing the direction of
+the ship is noticed by sighting on the sun, and also the direction of
+the compass itself. In this way the error of the pointing of the
+compass as the ship swings around is found for every direction in which
+she may be sailing. A table can then be made showing what the pointing,
+according to the compass, should be in order that the ship may sail in
+any given direction.
+
+This, however, does not wholly avoid the danger. The tables thus made
+are good when the ship is on a level keel. If, from any cause whatever,
+she heels over to one side, the action will be different. Thus there is
+a "heeling error" which must be allowed for. It is supposed to have
+been from this source of error not having been sufficiently determined
+or appreciated that the lamentable wreck of the United States ship
+Huron off the coast of Hatteras occurred some twenty years ago.
+
+
+
+
+X
+
+THE FAIRYLAND OF GEOMETRY
+
+
+If the reader were asked in what branch of science the imagination is
+confined within the strictest limits, he would, I fancy, reply that it
+must be that of mathematics. The pursuer of this science deals only
+with problems requiring the most exact statements and the most rigorous
+reasoning. In all other fields of thought more or less room for play
+may be allowed to the imagination, but here it is fettered by iron
+rules, expressed in the most rigid logical form, from which no
+deviation can be allowed. We are told by philosophers that absolute
+certainty is unattainable in all ordinary human affairs, the only field
+in which it is reached being that of geometric demonstration.
+
+And yet geometry itself has its fairyland--a land in which the
+imagination, while adhering to the forms of the strictest
+demonstration, roams farther than it ever did in the dreams of Grimm or
+Andersen. One thing which gives this field its strictly mathematical
+character is that it was discovered and explored in the search after
+something to supply an actual want of mathematical science, and was
+incited by this want rather than by any desire to give play to fancy.
+Geometricians have always sought to found their science on the most
+logical basis possible, and thus have carefully and critically inquired
+into its foundations. The new geometry which has thus arisen is of two
+closely related yet distinct forms. One of these is called
+NON-EUCLIDIAN, because Euclid's axiom of parallels, which we shall
+presently explain, is ignored. In the other form space is assumed to
+have one or more dimensions in addition to the three to which the space
+we actually inhabit is confined. As we go beyond the limits set by
+Euclid in adding a fourth dimension to space, this last branch as well
+as the other is often designated non-Euclidian. But the more common
+term is hypergeometry, which, though belonging more especially to space
+of more than three dimensions, is also sometimes applied to any
+geometric system which transcends our ordinary ideas.
+
+In all geometric reasoning some propositions are necessarily taken for
+granted. These are called axioms, and are commonly regarded as
+self-evident. Yet their vital principle is not so much that of being
+self-evident as being, from the nature of the case, incapable of
+demonstration. Our edifice must have some support to rest upon, and we
+take these axioms as its foundation. One example of such a geometric
+axiom is that only one straight line can be drawn between two fixed
+points; in other words, two straight lines can never intersect in more
+than a single point. The axiom with which we are at present concerned
+is commonly known as the 11th of Euclid, and may be set forth in the
+following way: We have given a straight line, A B, and a point, P, with
+another line, C D, passing through it and capable of being turned
+around on P. Euclid assumes that this line C D will have one position
+in which it will be parallel to A B, that is, a position such that if
+the two lines are produced without end, they will never meet. His axiom
+is that only one such line can be drawn through P. That is to say, if
+we make the slightest possible change in the direction of the line C D,
+it will intersect the other line, either in one direction or the other.
+
+The new geometry grew out of the feeling that this proposition ought to
+be proved rather than taken as an axiom; in fact, that it could in some
+way be derived from the other axioms. Many demonstrations of it were
+attempted, but it was always found, on critical examination, that the
+proposition itself, or its equivalent, had slyly worked itself in as
+part of the base of the reasoning, so that the very thing to be proved
+was really taken for granted.
+
+[Illustration with caption: FIG. 1]
+
+This suggested another course of inquiry. If this axiom of parallels
+does not follow from the other axioms, then from these latter we may
+construct a system of geometry in which the axiom of parallels shall
+not be true. This was done by Lobatchewsky and Bolyai, the one a
+Russian the other a Hungarian geometer, about 1830.
+
+To show how a result which looks absurd, and is really inconceivable by
+us, can be treated as possible in geometry, we must have recourse to
+analogy. Suppose a world consisting of a boundless flat plane to be
+inhabited by reasoning beings who can move about at pleasure on the
+plane, but are not able to turn their heads up or down, or even to see
+or think of such terms as above them and below them, and things around
+them can be pushed or pulled about in any direction, but cannot be
+lifted up. People and things can pass around each other, but cannot
+step over anything. These dwellers in "flatland" could construct a
+plane geometry which would be exactly like ours in being based on the
+axioms of Euclid. Two parallel straight lines would never meet, though
+continued indefinitely.
+
+But suppose that the surface on which these beings live, instead of
+being an infinitely extended plane, is really the surface of an immense
+globe, like the earth on which we live. It needs no knowledge of
+geometry, but only an examination of any globular object--an apple, for
+example--to show that if we draw a line as straight as possible on a
+sphere, and parallel to it draw a small piece of a second line, and
+continue this in as straight a line as we can, the two lines will meet
+when we proceed in either direction one-quarter of the way around the
+sphere. For our "flat-land" people these lines would both be perfectly
+straight, because the only curvature would be in the direction
+downward, which they could never either perceive or discover. The lines
+would also correspond to the definition of straight lines, because any
+portion of either contained between two of its points would be the
+shortest distance between those points. And yet, if these people should
+extend their measures far enough, they would find any two parallel
+lines to meet in two points in opposite directions. For all small
+spaces the axioms of their geometry would apparently hold good, but
+when they came to spaces as immense as the semi-diameter of the earth,
+they would find the seemingly absurd result that two parallel lines
+would, in the course of thousands of miles, come together. Another
+result yet more astonishing would be that, going ahead far enough in a
+straight line, they would find that although they had been going
+forward all the time in what seemed to them the same direction, they
+would at the end of 25,000 miles find themselves once more at their
+starting-point.
+
+One form of the modern non-Euclidian geometry assumes that a similar
+theorem is true for the space in which our universe is contained.
+Although two straight lines, when continued indefinitely, do not appear
+to converge even at the immense distances which separate us from the
+fixed stars, it is possible that there may be a point at which they
+would eventually meet without either line having deviated from its
+primitive direction as we understand the case. It would follow that, if
+we could start out from the earth and fly through space in a perfectly
+straight line with a velocity perhaps millions of times that of light,
+we might at length find ourselves approaching the earth from a
+direction the opposite of that in which we started. Our straight-line
+circle would be complete.
+
+Another result of the theory is that, if it be true, space, though
+still unbounded, is not infinite, just as the surface of a sphere,
+though without any edge or boundary, has only a limited extent of
+surface. Space would then have only a certain volume--a volume which,
+though perhaps greater than that of all the atoms in the material
+universe, would still be capable of being expressed in cubic miles. If
+we imagine our earth to grow larger and larger in every direction
+without limit, and with a speed similar to that we have described, so
+that to-morrow it was large enough to extend to the nearest fixed
+stars, the day after to yet farther stars, and so on, and we, living
+upon it, looked out for the result, we should, in time, see the other
+side of the earth above us, coming down upon us? as it were. The space
+intervening would grow smaller, at last being filled up. The earth
+would then be so expanded as to fill all existing space.
+
+This, although to us the most interesting form of the non-Euclidian
+geometry, is not the only one. The idea which Lobatchewsky worked out
+was that through a point more than one parallel to a given line could
+be drawn; that is to say, if through the point P we have already
+supposed another line were drawn making ever so small an angle with CD,
+this line also would never meet the line AB. It might approach the
+latter at first, but would eventually diverge. The two lines AB and CD,
+starting parallel, would eventually, perhaps at distances greater than
+that of the fixed stars, gradually diverge from each other. This system
+does not admit of being shown by analogy so easily as the other, but an
+idea of it may be had by supposing that the surface of "flat-land,"
+instead of being spherical, is saddle-shaped. Apparently straight
+parallel lines drawn upon it would then diverge, as supposed by Bolyai.
+We cannot, however, imagine such a surface extended indefinitely
+without losing its properties. The analogy is not so clearly marked as
+in the other case.
+
+To explain hypergeometry proper we must first set forth what a fourth
+dimension of space means, and show how natural the way is by which it
+may be approached. We continue our analogy from "flat-land" In this
+supposed land let us make a cross--two straight lines intersecting at
+right angles. The inhabitants of this land understand the cross
+perfectly, and conceive of it just as we do. But let us ask them to
+draw a third line, intersecting in the same point, and perpendicular to
+both the other lines. They would at once pronounce this absurd and
+impossible. It is equally absurd and impossible to us if we require the
+third line to be drawn on the paper. But we should reply, "If you allow
+us to leave the paper or flat surface, then we can solve the problem by
+simply drawing the third line through the paper perpendicular to its
+surface."
+
+[Illustration with caption: FIG. 2]
+
+Now, to pursue the analogy, suppose that, after we have drawn three
+mutually perpendicular lines, some being from another sphere proposes
+to us the drawing of a fourth line through the same point,
+perpendicular to all three of the lines already there. We should answer
+him in the same way that the inhabitants of "flat-land" answered us:
+"The problem is impossible. You cannot draw any such line in space as
+we understand it." If our visitor conceived of the fourth dimension, he
+would reply to us as we replied to the "flat-land" people: "The problem
+is absurd and impossible if you confine your line to space as you
+understand it. But for me there is a fourth dimension in space. Draw
+your line through that dimension, and the problem will be solved. This
+is perfectly simple to me; it is impossible to you solely because your
+conceptions do not admit of more than three dimensions."
+
+Supposing the inhabitants of "flat-land" to be intellectual beings as
+we are, it would be interesting to them to be told what dwellers of
+space in three dimensions could do. Let us pursue the analogy by
+showing what dwellers in four dimensions might do. Place a dweller of
+"flat-land" inside a circle drawn on his plane, and ask him to step
+outside of it without breaking through it. He would go all around, and,
+finding every inch of it closed, he would say it was impossible from
+the very nature of the conditions. "But," we would reply, "that is
+because of your limited conceptions. We can step over it."
+
+"Step over it!" he would exclaim. "I do not know what that means. I can
+pass around anything if there is a way open, but I cannot imagine what
+you mean by stepping over it."
+
+But we should simply step over the line and reappear on the other side.
+So, if we confine a being able to move in a fourth dimension in the
+walls of a dungeon of which the sides, the floor, and the ceiling were
+all impenetrable, he would step outside of it without touching any part
+of the building, just as easily as we could step over a circle drawn on
+the plane without touching it. He would simply disappear from our view
+like a spirit, and perhaps reappear the next moment outside the prison.
+To do this he would only have to make a little excursion in the fourth
+dimension.
+
+[Illustration with caption: FIG. 3]
+
+Another curious application of the principle is more purely
+geometrical. We have here two triangles, of which the sides and angles
+of the one are all equal to corresponding sides and angles of the
+other. Euclid takes it for granted that the one triangle can be laid
+upon the other so that the two shall fit together. But this cannot be
+done unless we lift one up and turn it over. In the geometry of
+"flat-land" such a thing as lifting up is inconceivable; the two
+triangles could never be fitted together.
+
+[Illustration with caption: FIG 4]
+
+Now let us suppose two pyramids similarly related. All the faces and
+angles of the one correspond to the faces and angles of the other. Yet,
+lift them about as we please, we could never fit them together. If we
+fit the bases together the two will lie on opposite sides, one being
+below the other. But the dweller in four dimensions of space will fit
+them together without any trouble. By the mere turning over of one he
+will convert it into the other without any change whatever in the
+relative position of its parts. What he could do with the pyramids he
+could also do with one of us if we allowed him to take hold of us and
+turn a somersault with us in the fourth dimension. We should then come
+back into our natural space, but changed as if we were seen in a
+mirror. Everything on us would be changed from right to left, even the
+seams in our clothes, and every hair on our head. All this would be
+done without, during any of the motion, any change having occurred in
+the positions of the parts of the body.
+
+It is very curious that, in these transcendental speculations, the most
+rigorous mathematical methods correspond to the most mystical ideas of
+the Swedenborgian and other forms of religion. Right around us, but in
+a direction which we cannot conceive any more than the inhabitants of
+"flat-land" can conceive up and down, there may exist not merely
+another universe, but any number of universes. All that physical
+science can say against the supposition is that, even if a fourth
+dimension exists, there is some law of all the matter with which we are
+acquainted which prevents any of it from entering that dimension, so
+that, in our natural condition, it must forever remain unknown to us.
+
+Another possibility in space of four dimensions would be that of
+turning a hollow sphere, an india-rubber ball, for example, inside out
+by simple bending without tearing it. To show the motion in our space
+to which this is analogous, let us take a thin, round sheet of
+india-rubber, and cut out all the central part, leaving only a narrow
+ring round the border. Suppose the outer edge of this ring fastened
+down on a table, while we take hold of the inner edge and stretch it
+upward and outward over the outer edge until we flatten the whole ring
+on the table, upside down, with the inner edge now the outer one. This
+motion would be as inconceivable in "flat-land" as turning the ball
+inside out is to us.
+
+
+
+
+XI
+
+THE ORGANIZATION OF SCIENTIFIC RESEARCH
+
+
+The claims of scientific research on the public were never more
+forcibly urged than in Professor Ray Lankester's recent Romanes Lecture
+before the University of Oxford. Man is here eloquently pictured as
+Nature's rebel, who, under conditions where his great superior commands
+"Thou shalt die," replies "I will live." In pursuance of this
+determination, civilized man has proceeded so far in his interference
+with the regular course of Nature that he must either go on and acquire
+firmer control of the conditions, or perish miserably by the vengeance
+certain to be inflicted on the half-hearted meddler in great affairs.
+This rebel by every step forward renders himself liable to greater and
+greater penalties, and so cannot afford to pause or fail in one single
+step. One of Nature's most powerful agencies in thwarting his
+determination to live is found in disease-producing parasites. "Where
+there is one man of first-rate intelligence now employed in gaining
+knowledge of this agency, there should be a thousand. It should be as
+much the purpose of civilized nations to protect their citizens in this
+respect as it is to provide defence against human aggression."
+
+It was no part of the function of the lecturer to devise a plan for
+carrying on the great war he proposes to wage. The object of the
+present article is to contribute some suggestions in this direction;
+with especial reference to conditions in our own country; and no better

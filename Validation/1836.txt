@@ -1,0 +1,368 @@
+| Jute cellulose         |  5.2  |   4.9  |  22.7  |
+| Beech (wood) cellulose |  6.4  |   3.5     14.6  |
+|________________________|_______|________|________|
+
+The tendency in the hexoses and their polyanhydrides to split off one
+carbon atom in the oxidised form, throws some light on the furfurane
+type of condensation, which is represented in the lignocelluloses. We
+are still without any evidence as to the possible transition of the
+hexoses to benzenoid compounds. Such transitions would be more easily
+explained on the assumption that the celluloses are composed in part of
+polyanhydrides of the ketoses.
+
+
+SPIRITUS AUS CELLULOSE UND HOLZ.
+
+E. SIMONSEN (Ztschr. angew. Chem., 1898, 3).
+
+~PRODUCTION OF ALCOHOL FROM CELLULOSE AND WOOD.~
+
+(pp. 50, 209) This investigation was undertaken with one main object--to
+determine the optimum conditions of treatment of wood-cellulose and of
+wood itself for conversion into 'fermentable sugar.' The process of
+'inversion' or hydrolysis, by digestion with dilute acid at high
+temperature, involves the four main factors: pressure (i.e.
+temperature), concentration of acid, ratio of liquid to cellulose and
+duration of digestion. Each of these was varied in definite gradations,
+and the effect measured. The degree of action was measured in terms of
+'reducing sugar,' calculated from the results of estimation by Fehling
+solution, as 'glucose' per cent. of original cellulose (or wood).
+
+(a) _Cellulose._ [Wood-cellulose obtained by bisulphite
+process.]--With a proportion of total liquid to cellulose of 27 : 1, and
+using sulphuric acid as the hydrolysing agent, the optimum results were
+obtained with acids of 0.45-0.60 p.ct. (H_{2}SO_{4}) and pressures of
+6-8 atm. The maximum yield of 'sugar' was 45 p.ct. of the cellulose.
+
+Under the above conditions the maximum of conversion is attained in 2
+hours.
+
+Having now regard to the production of a solution of maximum
+_concentration_ of dissolved solids, the following conditions were
+asertained to fulfil the requirement, and, in fact, may be regarded as
+the economic optimum:
+
+     Proportion of total liquid  6 times wt. of cellulose
+     Concentration of acid       0.5 p.ct. H_{2}SO_{4}
+     Pressure                   10 atm.
+     Duration of digestion       1.5 hour
+
+giving a yield of 41 p.ct. 'reducing sugar' calculated to the original
+cellulose (dry).
+
+_Alcoholic Fermentation of Neutralised Extract._--The liquors were found
+to ferment freely, and on distillation to yield a quantity of alcohol
+equal to 70 p.ct. of the theoretical--i.e. on the basis of the numbers
+for copper oxide reduction.
+
+(b) _Hydrolytic 'Conversion' of Wood (Lignocellulose)._--A similarly
+systematic investigation carried out upon pine sawdust established the
+following as optimum conditions:
+
+     Proportion of total liquid  5 times wt. of wood
+     Concentration of acid       0.5 p.ct. H_{2}SO_{4}
+     Pressure                    9 atm.
+     Duration of digestion      15 minutes
+
+giving a yield of 20 p.ct. 'reducing sugar,' calculated from the
+'Fehling' test.
+
+_Fermentation_ of the neutralised extracts gave variable results. The
+highest yields obtained were 60 p.ct. of theoretical, the author finally
+concluding that under properly controlled conditions of inversion and
+fermentation 100 kg. wood yield 6.5 l. absolute alcohol.
+
+
+UeBER DIE URSACHE DER VON SIMONSEN BEOBACHTETEN UNVOLLSTAeNDIGKEIT DER
+VERGAeHRUNG DER AUS HOLZ BEREITETEN ZUCKERFLUeSSIGKEITEN.
+
+B. TOLLENS (Ztschr. angew. Chem., 1898, 15).
+
+~ON THE CAUSE OF INCOMPLETE FERMENTATION OF SUGARS OBTAINED BY ACID
+HYDROLYSIS OF WOOD.~
+
+The author criticises Simonsen's explanation of the results obtained
+with extracts from pine wood. The incompleteness of fermentation of the
+products is certainly due in part to the presence of furfural-yielding
+carbohydrates, which are resistant to yeast. The pine woods contain 8-10
+p.ct. of these constituents in their anhydride form ('pentosanes'). They
+yield readily to acid hydrolysis, and certainly constitute a
+considerable percentage of the dissolved products. A similar complex was
+obtained by the author in his investigation of peat (Berl. Ber. 30,
+2571), and was found to be similarly incompletely attacked by yeast. The
+yields of alcohol corresponded with the proportion of the total
+carbohydrates disappearing. These were the hexose constituents of the
+hydrolysed complex, the pentoses (or 'furfuroids') surviving intact.
+
+
+UEBER SULFITCELLULOSEABLAUGE.
+
+H. SEIDEL (Ztschr. angew. Chem., 1900).
+
+~WASTE LIQUORS FROM BISULPHITE PROCESS.~
+
+(p. 210) Later researches confirm the conclusion that in the soluble
+by-products of these cellulose processes the S is combined as a SO_{3}H
+group. The following analyses of the isolated lignin sulphonic acid are
+cited:
+
+ ________________________________________________
+|                          |       |      |      |
+|                          |   C   |  H   |  S   |
+|__________________________|_______|______|______|
+|                          |       |      |      |
+| (a) Lindsey and Tollens  | 56.12 | 5.30 | 5.65 |
+| (b) Seidel           (1) | 56.27 | 5.87 | 5.52 |
+| (c) Seidel and Hanak (2) | 53.69 | 5.22 | 8.80 |
+| (d) Street               | 50.22 | 5.64 | 7.67 |
+|__________________________|_______|______|______|
+
+The variations are due to the varying conditions of the digestion of the
+wood and to corresponding degrees of sulphonation of the original
+lignone group. Calculating the composition of the latter from the above
+numbers on the assumption that the S represents SO_{3}H, the following
+figures result:
+
+ __________________________________
+|   |             |       |       |
+|   | (a) and (b) |  (c)  |  (d)  |
+|___|_____________|_______|_______|
+|   |             |       |       |
+| C |  64.00      | 65.1  | 59.61 |
+| H |   6.65      |  6.33 |  6.69 |
+|___|_____________|_______|_______|
+
+This author considers that beyond the empirical facts established by the
+above named[10] very little is yet known in regard to the constitution
+of the lignone complex.
+
+Nor is there any satisfactory application of this by-product as yet
+evolved. Evaporation and combustion involve large losses of sulphur
+[D.R.P. 74,030, 83,438; Seidel and Hanak, Mitt. Techn. Gew. Mus. 1898].
+A more complete regeneration of the sulphur has been the subject of a
+series of patents [D.R.P. 40,308, 69,892, 71,942, 78,306, 81,338], but
+the processes are inefficient through neglect of the actual state of
+combination of the S, viz. as an organic sulphonate. The process of V.B.
+Drewson (D.R.P. 67,889) consists in heating with lime under pressure,
+yielding calcium monosulphite (with sulphate and the lignone complex in
+insoluble form). The sulphite is redissolved as bisulphite by treatment
+with sulphurous acid. This process is relatively costly, and yields
+necessarily an impure lye. It has been proposed to employ the product as
+a foodstuff both in its original form and in the form of benzoate
+(D.R.P. 97,935); but its unsuitability is obvious from its composition.
+A method of destructive distillation has been patented (D.R.P. 45,951).
+The author has investigated the process, and finds that the yield of
+useful products is much too low for its economical development. Fusion
+with alkaline hydrates for the production of oxalic acid (D.R.P. 52,491)
+is also excluded by the low yield of the product.
+
+The application of the liquor for tanning purposes (D.R.P. 72,161)
+appears promising from the fact that 28 p.ct. of the dry residue is
+removed by digestion with hide powder. This application has been
+extensively investigated, but without practical success. Various
+probable uses are suggested by the viscosity of the evaporated extract.
+As a substitute for glue in joinery work, bookbinding, &c., it has
+proved of little value. It is applied to some extent as a binding
+material in the manufacture of briquettes, also as a substitute for
+gelatin in the petroleum industry. Cross and Bevan (E.P. 1548/1883) and
+Mitscherlich (D.R.P. 93,944 and 93,945) precipitate a compound of the
+lignone complex and gelatin by adding a solution of the latter to the
+liquors. The compound is redissolved in weak alkaline solutions and
+employed in this form for engine-sizing papers. Ekman has patented a
+process (D.R.P. 81,643) for 'salting out' the lignone sulphonates, the
+product being resoluble in water and the solution having some of the
+properties of a solution of dextrin. Owing to its active chemical
+properties this product--'dextron'--has a limited capability of
+substituting dextrin. The suggestion to employ the evaporated extract as
+a reducing agent in indigo dyeing and printing has also proved
+unfruitful. The author's application of the soda salt of the lignone
+sulphonic acid as a reducing agent in chrome-mordanting wool and woollen
+goods (D.R.P. 99,682) is more successful in practice, and its industrial
+development shows satisfactory progress. The product is known as
+'lignorosin.'
+
+FOOTNOTES:
+
+[10] See more particularly: Lindsey and Tollens, _Annalen_, 267, 341;
+Cross and Bevan's _Cellulose_, pp. 197-203; Street, Inaug.-Diss.,
+Goettingen, 1892; Klason, _Rep. d. Chem. Ztg._ 1897, 261; Seidel and
+Hanak, _Mitt. d. Techn. Gew. Mus._ 1897-1898.
+
+
+
+
+SECTION VII. PECTIC GROUP
+
+
+UNTERSUCHUNGEN UeBER PECTINSTOFFE.
+
+R. W. TROMP DE HAAS and B. TOLLENS (Lieb. Ann., 286, 278).
+
+UeBER DIE CONSTITUTION DER PECTINSTOFFE, B. TOLLENS (ibid. 292).
+
+~INVESTIGATIONS OF PECTINS.~
+
+(p. 216) It is generally held that the pectins are, or contain, oxidised
+derivatives of the carbohydrates. The authors have isolated and analysed
+a series of these products, and the results fail to confirm a high
+ratio O : H. The following are the analytical numbers:
+
+ ________________________________________________
+|              |      |      |     |             |
+| Pectin from  |  Ash |   C  |  H  | Ratio H : O |
+|______________|______|______|_____|_____________|
+|              |      |      |     |             |
+| Apple        |  6.2 | 43.4 | 6.4 |   1 : 7.9   |
+| Cherry       | 20.5 | 42.5 | 6.5 |   1 : 7.9   |
+| Rhubarb      |  4.2 | 43.3 | 6.8 |   1 : 7.4   |
+| Currant      |  5.0 | 47.1 | 5.9 |   1 : 8.5   |
+| Greengage    |  3.3 | 43.0 | 5.9 |   1 : 8.5   |
+| Turnip       |  7.3 | 41.0 | 5.9 |   1 : 9.0   |
+|______________|______|______|_____|_____________|
+
+Acid hydrolysis (4 p.ct. H_{2}SO_{4}) gave syrupy products not
+crystallisable--in certain cases the hydrolysis was accompanied by
+separation of insoluble cellulose. The insoluble product from currant
+pectin had the composition C 54.4, H 5.0.
+
+Tollens points out that the results of empirical analysis are
+inconclusive; and that from the acid reactions of these products and
+their combination with bases, carboxylic groups are present, though
+probably in anhydride or ester form.
+
+The pectins may be regarded as closely related to the mucilages
+(_Pflanzenschleim_), differing from them only by the presence of the
+oxidised groups in question.
+
+
+UEBER DIE CONSTITUTION DER PECTINSTOFFE.
+
+C. F. CROSS (Berl. Ber., 1895, 2609).
+
+~CONSTITUTION OF PECTINS.~
+
+It is pointed out that the composition of the pectin of white currants,
+as given in the preceding paper, is that of the typical lignocellulose,
+the jute fibre. The product was isolated and further investigated by the
+author. It gave 9.8 p.ct. furfural on boiling with HCl (1.06 s.g.),
+reacted freely with chlorine, giving quinone chlorides, and with ferric
+ferricyanide to form Prussian blue. This 'pectin' is therefore a form
+of soluble lignocellulose. The 'pectic' group consequently must be
+extended to include hydrated and soluble forms of the mixed complex of
+condensed and unsaturated groups with normal carbohydrates, such as
+constitute the fibrous lignocelluloses.
+
+
+UEBER DAS PFLANZLICHE AMYLOID.
+
+E. WINTERSTEIN (Ztschr. Physiol. Chem., 1892, 353).
+
+~ON VEGETABLE AMYLOID.~
+
+(p. 224) A group of constituents of many seeds, distinguished by giving
+slimy or ropy 'solutions' under the action of boiling water are
+designated 'amyloid.' They are reserve materials, and in this, as in the
+physical properties of their 'solutions,' they are very similar to
+starch. They are, however, not affected by diastase; and generally are
+more resistant to hydrolysis. Typical amyloids have been isolated by the
+author from seeds of _Tropoeolum majus, Poeonia officinalis_, and
+_Impatiens Balsamina_. The raw material was carefully purified by
+exhaustive treatment with ether and alcohol, &c.; the amyloid then
+extracted by boiling with water, and isolated by precipitation with
+alcohol. Elementary analysis gave the numbers C 43.2, H 6.1. On boiling
+with 12 p.ct. HCl it gave 15.3 p.ct. furfural; oxidised with nitric acid
+it yielded 10.4 p.ct. mucic acid. Specimens from the two first-named raw
+materials gave almost identical numbers.
+
+_Hydrolysis._--On boiling with dilute acids these products are gradually
+broken down, dissolving without residue. In this respect they are
+differentiated from the mucilages, which give a residue of cellulose
+(insoluble). From the solution the author isolated crystalline
+galactose, but failed to isolate a pentose. Dextrose was also not
+identified directly.
+
+The tissue residues left after extracting the amyloid constituent, as
+above described, were subjected to acid hydrolysis. A complex of
+products was obtained, from which galactose was isolated. A
+furfural-yielding carbohydrate was also present in some quantity, but
+could not be isolated. The original seed tissues, therefore, contain an
+amyloid and a hemicellulose, the latter differentiated in its resistance
+to water. Both yield, however, to acid hydrolysis a complex of products
+of similar composition and constitution.
+
+
+UEBER DEN GEHALT DES TORFES AN PENTOSANEN ODER FURFUROLGEBENDEN STOFFEN
+UND AN ANDEREN KOHLENHYDRATEN.
+
+H. V. FEILITZEN and B. TOLLENS (Berl. Ber., 1897, 2,571).
+
+~CARBOHYDRATE CONSTITUENTS OF PEAT.~
+
+(p. 240) An investigation of typical peats taken at successive depths
+showed increasing percentage of carbon, and inversely a decreasing yield
+of furfural. The numbers may be compared with those for _Sphagnum
+cuspidatum_--with C = 49.80 p.ct., and furfural 7.99 p.ct., calculated
+to dry, ash-free substance:
+
+ __________________________________________________
+|                       |         |                |
+|  Depth at which taken | C p.ct. | Furfural p.ct. |
+|_______________________|_________|________________|
+|      _                |         |                |
+|     |      20-100 cm. |  51.08  |      6.93      |
+|  I. |     100-200  "  |  53.52  |      5.30      |
+|     |_    200-300  "  |  58.66  |      3.19      |
+|      _                |         |                |
+|     |  Surface-20  "  |  55.47  |      3.40      |
+| II. |       20-60  "  |  55.06  |      3.48      |
+|     |      60-100  "  |  58.25  |      1.45      |
+|     |     100-120  "  |  58.23  |      1.19      |
+|     |_    180-200  "  |  57.57  |      1.80      |
+|_______________________|_________|________________|
+
+_Cellulose_ was estimated by the Lange method. The yield from _Sphagnum_
+was 21.1 p.ct.
+
+From specimen I. at {  20-100 cm.   15.20
+                    { 100-200  "     6.87
+
+From the peat of lower depths no cellulose could be obtained.
+
+_Hydrolysis_ (acid).--On heating with 1 p.ct. H_{2}SO_{4} at 130-135 deg.,
+soluble carbohydrates were obtained, amongst which mannose was
+identified, and galactose shown to be present in some quantity. After
+fermenting away the hexoses, the residue was treated with
+phenylhydrazine and an osazone separated. It contained 17.3 p.ct. N, but
+melted at 130 deg.. The substance could not be identified as an osazone of
+any of the yet known pentoses.
+
+
+
+
+SECTION VIII. INDUSTRIAL AND TECHNICAL. GENERAL REVIEW
+
+
+~The Industrial Uses of Cellulose.~
+
+C. F. CROSS (Cantor Lectures, Soc. of Arts, 1897).
+
+(p. 273) A series of three lectures, in which the more important
+industries in cellulose and its derivatives are dealt with on their
+scientific foundations, and by means of a selection of typical problems.
+In reference to textiles, the small number of vegetable fibres actually
+available, out of the endless variety afforded by the plant world, is
+referred to the number of conditions required to be fulfilled by the
+individual fibre, thus: yield per cent. of harvested weight or per unit
+of field area, ease of extraction, the absolute dimensions of the
+spinning unit, and the proportion of variation from the mean dimensions;
+the relative facility with which the unit fibre can be isolated
+preparatory to the final twisting operation; the chemical constants of
+the fibre substance, especially the percentage of cellulose and degree
+of resistance to hydrolysis. It is suggested that any important addition
+to the very limited number fulfilling the conditions, or any great
+improvement in these, can only result from very elaborate artificial
+selection and cultural developments on this basis.
+
+The paper making fibres are shown to fall into a scheme of
+classification based on chemical constitution, and consisting of the
+four groups: (a) Cotton [flax, hemp, rhea], (b) wood celluloses,

@@ -1,0 +1,459 @@
+The Project Gutenberg EBook of Scientific American Supplement, No. 362,
+December 9, 1882, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Scientific American Supplement, No. 362, December 9, 1882
+
+Author: Various
+
+Posting Date: October 10, 2012 [EBook #8687]
+Release Date: August, 2005
+First Posted: August 1, 2003
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SCIENTIFIC AMERICAN SUPPL., NO. 362 ***
+
+
+
+
+Produced by Olaf Voss, Don Kretz, Juliet Sutherland, Charles
+Franks and the Distributed Proofreaders Team
+
+
+
+
+
+
+
+
+
+
+[Illustration]
+
+
+
+
+SCIENTIFIC AMERICAN SUPPLEMENT NO. 362
+
+
+
+
+NEW YORK, DECEMBER 9, 1882
+
+Scientific American Supplement. Vol. XIV, No. 362.
+
+Scientific American established 1845
+
+Scientific American Supplement, $5 a year.
+
+Scientific American and Supplement, $7 a year.
+
+
+       *       *       *       *       *
+
+TABLE OF CONTENTS.
+
+I.    ENGINEERING AND MECHANICS--Recent Improvements in
+      Textile Machinery.--Harris's revolving ring spinning frame.--
+      New electric stop motion.--New positive motion loom. 6 figures.
+
+      Spinning Without a Mule.--Harris's improvements in ring
+      spinning.
+
+      New Binding Machines. 3 figures.
+
+      Flumes and their construction. 1 figure.
+
+      Chuwab's Rolling Mill for Dressing and Rounding Bar Iron.
+      9 figures.
+
+      Burning of Town Refuse at Leeds. 6 figures.--Sections and
+      elevations of destructor and carbonizer.
+
+II.   TECHNOLOGY AND CHEMISTRY.--Friedrich Wohler.--His
+      labors and discoveries.
+
+      New Gas Burner. 3 figures.--Grimstone's improved gas burner.
+
+      Defty's Improvements in Gas Burners and Heaters. 4 figures.
+
+      The Collotype in Practice.
+
+      Determination of Potassa in Manures.--By M. E. DREYFUS.
+
+III.  HYGIENE, MEDICINE, ETC.--The Air in Relation to Health.
+      By Prof. C. F. CHANDLER.
+
+      The Plantain as a Styptic.
+
+      Bacteria.
+
+IV.   ELECTRICITY, ETC.--Gustavo Trouve and his Electrical Inventions.
+      --Portrait of Gustave Trouve.--Trouve's electric boat competing
+      in the regatta at Troyes.
+
+      Domestic Electricity.--Loiseau's electric naphtha and gas
+      lighters.--Ranque's new form of lighter with extinguisher.
+
+      Theiler's Telephone Receiver. 2 figures.
+
+      An Electric Power Hammer. By MARCEL DEPRETZ. 1 figure.
+
+      Solignac's New Electric Lamp. 3 figures.
+
+      Mondos's Electric Lamp. 2 figures.
+
+V.    METALLURGY AND MINERALOGY.--Aluminum.--Its properties,
+      cost, and uses.
+
+      The Origin and Relations of the Carbon Minerals.
+      By J.S. NEWBERRY.--An elaborate and extremely valuable review
+      of the genesis of carbon minerals, and the modes and conditions
+      of their occurrence.
+
+      Estimation of Sulphur in Iron and Steel. By GEORGE CRAIG.
+      1 figure.
+
+VI.   ARCHITECTURE, ETC.--The Armitage House.
+
+      Suggestions in Architecture.--An English country residence.
+
+VII.  BOTANY, HORTICULTURE, ETC.--The Soy Bean. 1 figure.--
+      The Soy bean (_Soja hispida_).
+
+      Erica Cavendishiana. 1 figure.
+
+      Philesia Buxifolia. 1 figure.
+
+      Mahogany.
+
+VIII. MISCELLANEOUS.--Our Hebrew Population.
+
+      The Mysteries of Lake Baikal.
+
+      Traveling Sand Hills on Lake Ontario.
+
+      Animals in the Arts.--Corals.--The conch shell.--Living beetles,
+      etc.--Pearls.--Sepia and silk.
+
+       *       *       *       *       *
+
+
+
+
+GUSTAVE TROUVE.
+
+
+The accompanying portrait of M. Gustave Trouve is taken from a small
+volume devoted to an account of his labors recently published by M.
+Georges Dary. M. Trouve, who may be said to have had no ancestors from
+an electric point of view, was born in 1839 in the little village of
+Haye-Descartes. He was sent by his parents to the College of Chinon,
+whence he entered the Ecole des Arts et Metiers, and afterward went
+to Paris to work in the shop of a clock-maker. This was an excellent
+apprenticeship for our future electrician, since it is in small works
+that electricity excels; and, if its domain is to be increased, it is
+only on condition that the electric mechanician shall never lose sight
+of the fact that he should be a clock-maker, and that his fingers, to
+use M. Dumas's apt words, should possess at once the strength of those
+of the Titans and the delicacy of those of fairies. It was not long ere
+Trouve set up a shop of his own, whither inventors flocked in crowds;
+and the work he did for these soon gave up to him the secrets of the art
+of creating. The first applications that he attempted related to the use
+of electricity in surgery, a wonderfully fecund branch, but one whose
+importance was scarcely suspected, notwithstanding the results
+already obtained through the application of the insufflation pile to
+galvano-cautery. What the surgeon needed was to see plainly into the
+cavities of the human body. Trouve found a means of lighting these
+up with lamps whose illuminating power was fitted for that sort of
+exploration. This new mode of illumination having been adopted, it was
+but natural that it should afterward find an application in dangerous
+mines, powder mills, and for a host of different purposes. But the
+perfection of this sort of instruments was the wound explorer, by the
+aid of which a great surgeon sounded the wounds that Italian balls had
+made in Garibaldi's foot.
+
+[Illustration: GUSTAVE TROUVE.]
+
+The misfortunes of France afterward directed Trouve's attention to
+military electricity, and led him to devise a perfect system of portable
+telegraphy, in which his hermetic pile lends itself perfectly to all
+maneuvers and withstands all sorts of moving about.
+
+The small volume of which we have spoken is devoted more particularly to
+electric navigation, for which M. Trouve specially designed the motor of
+his invention, and by the aid of which he performed numerous experiments
+on the ocean, on the Seine at Paris, and before Rouen and at Troyes. In
+this latter case M. Trouve gained a medal of honor on the occasion of a
+regatta. Our engraving represents him competing with the rowers of whom
+he kept ahead with so distinguished success. We could not undertake to
+enumerate all the inventions which we owe to M. Trouve; but we cannot,
+however, omit mention of the pendulum escapement that beats the second
+or half second without any variation in the length of the balance; of
+the electric gyroscope constructed at the request of M. Louis Foucault;
+of the electro-medical pocket-case; of the apparatus for determining the
+most advantageous inclination to give a helix; of the electric bit for
+stopping unruly horses; and of the universal caustic-holder. He has
+given the electric polyscope features such that every cavity in the
+human body may be explored by its aid. As for his electric motor, he
+has given that a form that makes the rotation regular and suppresses
+dead-centers--a result that he has obtained by utilizing the
+eccentrization of the Siemens bobbin.
+
+Although devoting himself mainly to improving his motor (which, by
+the way, he has applied to the tricycle), M. Trouve does not disdain
+telephony, but has introduced into the manufacture of magnets for the
+purpose many valuable improvements.--_Electricite_.
+
+[Illustration: TROUVE'S ELECTRIC BOAT COMPETING IN THE REGATTA AT
+TROYES, AUG. 6, 1882.]
+
+       *       *       *       *       *
+
+
+
+
+FRIEDRICH WOeHLER.
+
+
+At the age of eighty-two years, and full of honor, after a life actively
+devoted to scientific work of the highest and most accurate kind, which
+has contributed more than that of any other contemporary to establish
+the principles on which an exact science like chemistry is founded, the
+illustrious Woehler has gone to his rest.
+
+After he had worked for some time with Berzelius in Sweden, he taught
+chemistry from 1825 to 1831 at the Polytechnic School in Berlin; then
+till 1836 he was stationed at the Higher Polytechnic School at Cassel,
+and then he became Ordinary Professor of Chemistry in the University of
+Goettingen, where he remained till his death. He was born, July 31, 1800,
+at Eschersheim, near Frankfort-on-the-Main.
+
+Until the year 1828 it was believed that organic substances could only
+be formed under the influence of the vital force in the bodies of
+animals and plants. It was Woehler who proved by the artificial
+preparation of urea from inorganic materials that this view could not be
+maintained. This discovery has always been considered as one of the most
+important contributions to our scientific knowledge. By showing that
+ammonium cyanate can become urea by an internal arrangement of its
+atoms, without gaining or losing in weight, Woehler furnished one of the
+first and best examples of isomerism, which helped to demolish the old
+view that equality of composition could not coexist in two bodies, A
+and B, with differences in their respective physical and chemical
+properties. Two years later, in 1830, Woehler published, jointly with
+Liebig, the results of a research on cyanic and cyanuric acid and on
+urea. Berzelius, in his report to the Swedish Academy of Sciences,
+called it the most important of all researches in physics, chemistry,
+and mineralogy published in that year. The results obtained were quite
+unexpected, and furnished additional and most important evidence in
+favor of the doctrine of isomerism. In the year 1834, Woehler and Liebig
+published an investigation of the oil of bitter almonds. They prove by
+their experiments that a group of carbon, hydrogen, and oxygen atoms
+can behave like an element, take the place of an element, and can be
+exchanged for elements in chemical compounds. Thus the foundation was
+laid of the doctrine of compound radicals, a doctrine which has had
+and has still the most profound influence on the development of
+chemistry--so much so that its importance can hardly be exaggerated.
+Since the discovery of potassium by Davy, it was assumed that alumina
+also, the basis of clay, contained a metal in combination with oxygen.
+Davy, Oerstedt, and Berzelius attempted the extraction of this metal,
+but could not succeed. Woehler then worked on the same subject, and
+discovered the metal aluminum. To him also is due the isolation of the
+elements yttrium, beryllium, and titanium, the observation that silicium
+can be obtained in crystals, and that some meteoric stones contain
+organic matter. He analyzed a number of meteorites, and for many years
+wrote the digest on the literature of meteorites in the _Jahresbericht
+der Chemie_; he possessed, perhaps, the best private collection of
+meteoric stones and irons existing. Woehler and Sainte Claire Deville
+discovered the crystalline form of boron, and Woehler and Buff the
+hydrogen compounds of silicium and a lower oxide of the same element.
+This is by no means a full statement of Woehler's scientific work; it
+even does not mention all the discoveries which have had great influence
+on the theory of chemistry. The mere titles of the papers would fill
+several closely-printed pages. The journals of every year from 1820 to
+1881 contain contributions from his pen, and even his minor publications
+are always interesting. As was truly remarked ten years ago, when it was
+proposed by a Fellow of the Royal Society that a Copley medal should be
+conferred upon him, "for two or three of his researches he deserves the
+highest honor a scientific man can obtain, but the sum of his work is
+absolutely overwhelming. Had he never lived, the aspect of chemistry
+would be very different from that it is now."
+
+While sojourning at Cassel, Woehler made, among other chemical
+discoveries, one for obtaining the metal nickel in a state of purity,
+and with two attached friends he founded a factory there for the
+preparation of the metal.
+
+Among the works which he published were "Grundriss der Anorganischen
+Chemie," Berlin, 1830, and the "Grundriss der Organischen Chemie,"
+Berlin, 1840. Nor must we omit to mention "Praktischen Uebringen der
+Chemischen Analyse," Berlin, 1854, and the "Lehrbuch der Chemie,"
+Dresden, 1825, 4 vols.
+
+At a sitting of the Academy, held on October 2, 1882, M. Jean Baptiste
+Dumas, the permanent secretary, with profound regret, made known
+the intelligence of the death of the illustrious foreign associate,
+Friedrich Woehler, professor in the University of Goettingen. He said: "M.
+Friedrich Woehler, the favorite pupil of Berzelius, had followed in the
+lines and methods of work of his master. From 1821 till his last year he
+has continuously published memoirs or simple notes, always remarkable
+for their exactness, and often of such a nature that they took among
+contemporaneous production the first rank by their importance, their
+novelty, or their fullness. Employed chiefly, during his sojourn in
+Sweden, in work on mineral chemistry, he has remained all his life the
+undisputed chief in this branch of science in German universities. This
+preparation and preoccupation, which one might have thought sufficient
+to occupy his time, did not, however, prevent him from taking the chief
+part in the development of organic chemistry, and of filling one of the
+most elevated positions in it.
+
+"His contemporaries have not forgotten the unusual sensation produced by
+the unexpected discovery by which he was enabled to make artificially,
+and by a purely chemical method, urea, the most nitrogenous of animal
+substances. Other transformations or combinations giving birth to
+substances which, until then, had only been met with in animals or
+plants, have since been obtained, but the artificial formation of urea
+still remains the neatest and most elegant example of this order of
+creation. All chemists know and admire the classical memoir in which
+Woehler and Liebig some time after made known the nature of the benzoic
+series, and connected them with the radicals of which we may consider
+them as being the derivatives comparable with products of a mineral
+nature. Their memoirs on the derivatives of uric acid, a prolific source
+of new and remarkable substances, has been an inexhaustible mine in the
+hands of their successors.
+
+"This is not a moment when we should pretend to review the work which M.
+Woehler has done in mineral chemistry. Among the 240 papers which he has
+published in scientific journals, there are few which the treatises of
+chemistry have not immediately turned to account. We need only confine
+ourselves to the discovery of aluminum, to which the energy and
+inventive genius of our _confrere_, Henry Deville, soon gave a place
+near the noble metals. United by a rivalry which would have divided
+less noble minds, these two great chemists carried on together their
+researches in chemistry, and joined their forces to clear up points
+still obscure in the history of boron, silicium, and the metals of
+the platinum group, and remained closely united, which each year only
+strengthened.
+
+"The reader will pardon me a souvenir entirely personal. We were born,
+M. Woehler and I, in 1800. I am his senior by a few days. Our scientific
+life began at the same date, and during sixty years everything has
+combined to bind more closely the links of brotherhood which has existed
+for so long a time."
+
+       *       *       *       *       *
+
+
+
+
+OUR HEBREW POPULATION.
+
+
+The United Jewish Association has made a canvass of the denomination in
+this country, finding 278 congregations, and a total Jewish population
+of 230,984. New York has the largest number--80,565. Then follows
+Pennsylvania, with 20,000; California, with 18,580; Ohio with 14,581;
+Illinois, with 12,625, and Maryland, with 10,357.
+
+The Jewish population in the largest cities is as follows:
+
+  New York         60,000
+  San Francisco    16,000
+  Brooklyn         14,000
+  Philadelphia     13,000
+  Chicago          12,000
+  Baltimore        10,000
+  Cincinnati        8,000
+  Boston            7,000
+  St. Louis         6,500
+  New Orleans       5,000
+  Cleveland         3,500
+  Newark            3,500
+  Milwaukee         3,500
+  Louisville        2,500
+  Pittsburg         2,000
+  Detroit           2,000
+  Washington        1,500
+  New Haven         1,000
+  Rochester         1,000
+
+This total Jewish population of 230,984 has six hospitals, eleven
+orphan asylums and homes, fourteen free colleges and schools, and 602
+benevolent lodges. Of the free schools maintained by the Hebrews, five
+are in New York, four in Philadelphia, and one each in Cincinnati, St.
+Louis, Chicago, and San Francisco. Their hospitals are in New York,
+Philadelphia, Baltimore, Cincinnati, New Orleans, and Chicago, while
+their orphan asylums, homes, and other benevolent institutions are
+scattered all over the country.
+
+       *       *       *       *       *
+
+
+
+
+THE MYSTERIES OF THE BAIKAL.
+
+
+The Angara is cold as ice all the summer through, so cold, indeed, that
+to bathe in it is to court inevitable illness, and in winter a sled
+drive over its frozen surface is made in a temperature some degrees
+lower than that prevailing on the banks. This comes from the fact that
+its waters are fresh from the yet unfathomed depths of the Baikal, which
+during the five short months of summer has scarcely time to properly
+unfreeze. In winter the lake resembles in all respects a miniature
+Arctic Ocean, having its great ice hummocks and immense leads, over
+which the caravan sleds have to be ferried on large pieces of ice, just
+as in the frozen North. In winter, too, the air is so cold in the region
+above the lake that birds flying across its icy bosom sometimes drop
+down dead on the surface. Some authors say that seals have been caught
+in the lake of the same character as those found in the Arctic seas; for
+this assertion I have no proof. An immense caravan traffic is carried
+across the frozen lake every season between Russia and China. To
+accommodate this the Russian postal authorities once established a post
+house on the middle of the lake, where horses were kept for travelers.
+But this was discontinued after one winter, when an early thaw suddenly
+set in, and horses, yemschliks and post house all disappeared beneath
+the ice, and were never seen more. In summer the lake is navigated by an
+antiquated steamer called the General Korsakoff, which ventures out
+in calm weather, but cannot face the violent storms and squalls that
+sometimes rise with sudden impetuosity. Irkutskians say, indeed, that it
+is only upon Lake Baikal and upon this old hull that a man really learns
+to pray from his heart. The lake is held in superstitious reverence by
+the natives. It is called by them Svyatoe More, or the Holy Lake, and
+they believe that no Christian was ever lost in its waters, for even
+when a person is drowned in it the waves always take the trouble to cast
+the body on shore.
+
+Its length is 400 miles, its width an average of 35 miles, covers an
+area of 14,000 square miles and has a circumference of nearly 1,200
+miles, being the largest fresh water lake in the Old World, and, next to
+the Caspian and the Aral, the largest inland sheet of water in Asia. Its
+shores are bold and rugged and very picturesque, in some places 1,000
+feet high. In the surrounding forests are found game of the largest
+description, bears, deer, foxes, wolves, elk and these afford capital
+sport for the sportsmen of Irkutsk.
+
+Around the coasts are many mineral springs, hot and cold, which have a
+great reputation among the Irkutskians. The hot springs of Yurka, on the
+Selenga, 200 versts from Verchore Udevisk and not many miles from the
+eastern shore of the Baikal, which have a temperature of 48 degrees
+Reaumur and whose waters are strongly impregnated with sulphur, are
+a favorite watering place for natives as well as Russians and
+Buriats.--_Herald Correspondent with the Jeannette Search Expedition_.
+
+       *       *       *       *       *
+
+
+
+
+TRAVELING SAND HILLS ON LAKE ONTARIO.
+
+

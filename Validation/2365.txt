@@ -1,0 +1,396 @@
+Project Gutenberg's A Text-Book of Astronomy, by George C. Comstock
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: A Text-Book of Astronomy
+
+Author: George C. Comstock
+
+Release Date: January 3, 2011 [EBook #34834]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK A TEXT-BOOK OF ASTRONOMY ***
+
+
+
+
+    Transcriber's Note: The angle symbol has been replaced
+    with [angle]. Greek letters have been replaced with their
+    transliterations in brackets, e. g. [a] for alpha. The
+    upside-down Omega symbol has been replaced with [mho].
+
+
+
+
+                      TWENTIETH CENTURY TEXT-BOOKS
+
+
+                                EDITED BY
+                     A. F. NIGHTINGALE, PH.D., LL.D.
+            FORMERLY SUPERINTENDENT OF HIGH SCHOOLS, CHICAGO
+
+
+
+                 [Illustration: A TOTAL SOLAR ECLIPSE.
+    After Burckhalter's photographs of the eclipse of May 28, 1900.]
+
+
+
+                      TWENTIETH CENTURY TEXT-BOOKS
+
+
+                             A TEXT-BOOK OF
+                               ASTRONOMY
+
+                                   BY
+                           GEORGE C. COMSTOCK
+
+
+                DIRECTOR OF THE WASHBURN OBSERVATORY AND
+                     PROFESSOR OF ASTRONOMY IN THE
+                        UNIVERSITY OF WISCONSIN
+
+
+                             [Illustration]
+
+
+                                NEW YORK
+                        D. APPLETON AND COMPANY
+                                  1903
+
+
+
+                            COPYRIGHT, 1901
+                       BY D. APPLETON AND COMPANY
+
+
+
+
+PREFACE
+
+
+The present work is not a compendium of astronomy or an outline course
+of popular reading in that science. It has been prepared as a text-book,
+and the author has purposely omitted from it much matter interesting as
+well as important to a complete view of the science, and has endeavored
+to concentrate attention upon those parts of the subject that possess
+special educational value. From this point of view matter which permits
+of experimental treatment with simple apparatus is of peculiar value and
+is given a prominence in the text beyond its just due in a well-balanced
+exposition of the elements of astronomy, while topics, such as the
+results of spectrum analysis, which depend upon elaborate apparatus, are
+in the experimental part of the work accorded much less space than their
+intrinsic importance would justify.
+
+Teacher and student are alike urged to magnify the observational side of
+the subject and to strive to obtain in their work the maximum degree of
+precision of which their apparatus is capable. The instruments required
+are few and easily obtained. With exception of a watch and a protractor,
+all of the apparatus needed may be built by any one of fair mechanical
+talent who will follow the illustrations and descriptions of the text.
+In order that proper opportunity for observations may be had, the study
+should be pursued during the milder portion of the year, between April
+and November in northern latitudes, using clear weather for a direct
+study of the sky and cloudy days for book work.
+
+The illustrations contained in the present work are worthy of as careful
+study as is the text, and many of them are intended as an aid to
+experimental work and accurate measurement, e. g., the star maps, the
+diagrams of the planetary orbits, pictures of the moon, sun, etc. If the
+school possesses a projection lantern, a set of astronomical slides to
+be used in connection with it may be made of great advantage, if the
+pictures are studied as an auxiliary to Nature. Mere display and scenic
+effect are of little value.
+
+A brief bibliography of popular literature upon astronomy may be found
+at the end of this book, and it will be well if at least a part of these
+works can be placed in the school library and systematically used for
+supplementary reading. An added interest may be given to the study if
+one or more of the popular periodicals which deal with astronomy are
+taken regularly by the school and kept within easy reach of the
+students. From time to time the teacher may well assign topics treated
+in these periodicals to be read by individual students and presented to
+the class in the form of an essay.
+
+The author is under obligations to many of his professional friends who
+have contributed illustrative matter for his text, and his thanks are in
+an especial manner due to the editors of the Astrophysical Journal,
+Astronomy and Astrophysics, and Popular Astronomy for permission to
+reproduce here plates which have appeared in those periodicals, and to
+Dr. Charles Boynton, who has kindly read and criticised the proofs.
+
+                                                  GEORGE C. COMSTOCK.
+
+  UNIVERSITY OF WISCONSIN, _February, 1901_.
+
+
+
+
+CONTENTS
+
+
+ CHAPTER                                                        PAGE
+    I.--DIFFERENT KINDS OF MEASUREMENT                             1
+          The measurement of angles and time.
+
+   II.--THE STARS AND THEIR DIURNAL MOTION                        10
+          Finding the stars--Their apparent motion--
+          Latitude--Direction of the meridian--Sidereal
+          time--Definitions.
+
+  III.--FIXED AND WANDERING STARS                                 29
+          Apparent motion of the sun, moon, and
+          planets--Orbits of the planets--How to find
+          the planets.
+
+   IV.--CELESTIAL MECHANICS                                       46
+          Kepler's laws--Newton's laws of motion--The law
+          of gravitation--Orbital motion--Perturbations--
+          Masses of the planets--Discovery of Neptune--
+          The tides.
+
+    V.--THE EARTH AS A PLANET                                     70
+          Size--Mass--Precession--The warming of the
+          earth--The atmosphere--Twilight.
+
+   VI.--THE MEASUREMENT OF TIME                                   86
+          Solar and sidereal time--Longitude--The
+          calendar--Chronology.
+
+  VII.--ECLIPSES                                                 101
+          Their cause and nature--Eclipse limits--Eclipse
+          maps--Recurrence and prediction of eclipses.
+
+ VIII.--INSTRUMENTS AND THE PRINCIPLES INVOLVED IN THEIR USE     121
+          The clock--Radiant energy--Mirrors and lenses--
+          The telescope--Camera--Spectroscope--Principles
+          of spectrum analysis.
+
+   IX.--THE MOON                                                 150
+          Numerical data--Phases--Motion--Librations--Lunar
+          topography--Physical condition.
+
+    X.--THE SUN                                                  178
+          Numerical data--Chemical nature--Temperature--
+          Visible and invisible parts--Photosphere--Spots--
+          Faculæ--Chromosphere--Prominences--Corona--The
+          sun-spot period--The sun's rotation--Mechanical
+          theory of the sun.
+
+   XI.--THE PLANETS                                              212
+          Arrangement of the solar system--Bode's law--
+          Physical condition of the planets--Jupiter--
+          Saturn--Uranus and Neptune--Venus--Mercury--
+          Mars--The asteroids.
+
+  XII.--COMETS AND METEORS                                       251
+          Motion, size, and mass of comets--Meteors--Their
+          number and distribution--Meteor showers--Relation
+          of comets and meteors--Periodic comets--Comet
+          families and groups--Comet tails--Physical nature
+          of comets--Collisions.
+
+ XIII.--THE FIXED STARS                                          291
+          Number of the stars--Brightness--Distance--Proper
+          motion--Motion in line of sight--Double stars--
+          Variable stars--New stars.
+
+  XIV.--STARS AND NEBULÆ                                         330
+          Stellar colors and spectra--Classes of stars--
+          Clusters--Nebulæ--Their spectra and physical
+          condition--The Milky Way--Construction of the
+          heavens--Extent of the stellar system.
+
+   XV.--GROWTH AND DECAY                                         358
+          Logical bases and limitations--Development of the
+          sun--The nebular hypothesis--Tidal friction--Roche's
+          limit--Development of the moon--Development of stars
+          and nebulæ--The future.
+
+        APPENDIX                                                 383
+
+        INDEX                                                    387
+
+
+
+
+LIST OF LITHOGRAPHIC PLATES
+
+
+                                                         FACING PAGE
+    I.--Northern Constellations                                  124
+   II.--Equatorial Constellations                                190
+  III.--Map of Mars                                              246
+   IV.--The Pleiades                                             344
+        Protractor                       _In pocket at back of book_
+
+
+
+
+LIST OF FULL-PAGE ILLUSTRATIONS
+
+
+                                                         FACING PAGE
+  A Total Solar Eclipse                               _Frontispiece_
+  The Harvard College Observatory, Cambridge, Mass.               24
+  Isaac Newton                                                    46
+  Galileo Galilei                                                 52
+  The Lick Observatory, Mount Hamilton, Cal.                      60
+  The Yerkes Observatory, Williams Bay, Wis.                     100
+  The Moon, one day after First Quarter                          150
+  William Herschel                                               234
+  Pierre Simon Laplace                                           364
+
+
+
+
+ASTRONOMY
+
+
+
+
+CHAPTER I
+
+DIFFERENT KINDS OF MEASUREMENT
+
+
+1. ACCURATE MEASUREMENT.--Accurate measurement is the foundation of
+exact science, and at the very beginning of his study in astronomy the
+student should learn something of the astronomer's kind of measurement.
+He should practice measuring the stars with all possible care, and
+should seek to attain the most accurate results of which his instruments
+and apparatus are capable. The ordinary affairs of life furnish abundant
+illustration of some of these measurements, such as finding the length
+of a board in inches or the weight of a load of coal in pounds and
+measurements of both length and weight are of importance in astronomy,
+but of far greater astronomical importance than these are the
+measurement of angles and the measurement of time. A kitchen clock or a
+cheap watch is usually thought of as a machine to tell the "time of
+day," but it may be used to time a horse or a bicycler upon a race
+course, and then it becomes an instrument to measure the amount of time
+required for covering the length of the course. Astronomers use a clock
+in both of these ways--to tell the time at which something happens or is
+done, and to measure the amount of time required for something; and in
+using a clock for either purpose the student should learn to take the
+time from it to the nearest second or better, if it has a seconds hand,
+or to a small fraction of a minute, by estimating the position of the
+minute hand between the minute marks on the dial. Estimate the fraction
+in tenths of a minute, not in halves or quarters.
+
+EXERCISE 1.--If several watches are available, let one person tap
+sharply upon a desk with a pencil and let each of the others note the
+time by the minute hand to the nearest tenth of a minute and record the
+observations as follows:
+
+    2h. 44.5m.  First tap.   2h. 46.4m.  1.9m.
+    2h. 44.9m.  Second tap.  2h. 46.7m.  1.8m.
+    2h. 46.6m.  Third tap.   2h. 48.6m.  2.0m.
+
+The letters h and m are used as abbreviations for hour and minute. The
+first and second columns of the table are the record made by one
+student, and second and third the record made by another. After all the
+observations have been made and recorded they should be brought together
+and compared by taking the differences between the times recorded for
+each tap, as is shown in the last column. This difference shows how much
+faster one watch is than the other, and the agreement or disagreement of
+these differences shows the degree of accuracy of the observations. Keep
+up this practice until tenths of a minute can be estimated with fair
+precision.
+
+2. ANGLES AND THEIR USE.--An angle is the amount of opening or
+difference of direction between two lines that cross each other. At
+twelve o'clock the hour and minute hand of a watch point in the same
+direction and the angle between them is zero. At one o'clock the minute
+hand is again at XII, but the hour hand has moved to I, one twelfth part
+of the circumference of the dial, and the angle between the hands is one
+twelfth of a circumference. It is customary to imagine the circumference
+of a dial to be cut up into 360 equal parts--i. e., each minute space of
+an ordinary dial to be subdivided into six equal parts, each of which
+is called a degree, and the measurement of an angle consists in finding
+how many of these degrees are included in the opening between its sides.
+At one o'clock the angle between the hands of a watch is thirty degrees,
+which is usually written 30°, at three o'clock it is 90°, at six o'clock
+180°, etc.
+
+A watch may be used to measure angles. How? But a more convenient
+instrument is the protractor, which is shown in Fig. 1, applied to the
+angle _A B C_ and showing that _A B C_ = 85° as nearly as the protractor
+scale can be read.
+
+The student should have and use a protractor, such as is furnished with
+this book, for the numerous exercises which are to follow.
+
+[Illustration: FIG. 1.--A protractor.]
+
+EXERCISE 2.--Draw neatly a triangle with sides about 100 millimeters
+long, measure each of its angles and take their sum. No matter what may
+be the shape of the triangle, this sum should be very nearly
+180°--exactly 180° if the work were perfect--but perfection can seldom
+be attained and one of the first lessons to be learned in any science
+which deals with measurement is, that however careful we may be in our
+work some minute error will cling to it and our results can be only
+approximately correct. This, however, should not be taken as an excuse
+for careless work, but rather as a stimulus to extra effort in order
+that the unavoidable errors may be made as small as possible. In the
+present case the measured angles may be improved a little by adding
+(algebraically) to each of them one third of the amount by which their
+sum falls short of 180°, as in the following example:
+
+            Measured angles.    Correction.  Corrected angles.
+                 °                   °              °
+  A            73.4               + 0.1           73.5
+  B            49.3               + 0.1           49.4
+  C            57.0               + 0.1           57.1
+              -----                              -----
+  Sum         179.7                              180.0
+  Defect      + 0.3
+
+This process is in very common use among astronomers, and is called
+"adjusting" the observations.
+
+[Illustration: FIG. 2.--Triangulation.]
+
+3. TRIANGLES.--The instruments used by astronomers for the measurement
+of angles are usually provided with a telescope, which may be pointed at
+different objects, and with a scale, like that of the protractor, to
+measure the angle through which the telescope is turned in passing from
+one object to another. In this way it is possible to measure the angle
+between lines drawn from the instrument to two distant objects, such as
+two church steeples or the sun and moon, and this is usually called the
+angle between the objects. By measuring angles in this way it is
+possible to determine the distance to an inaccessible point, as shown in
+Fig. 2. A surveyor at _A_ desires to know the distance to _C_, on the
+opposite side of a river which he can not cross. He measures with a tape
+line along his own side of the stream the distance _A B_ = 100 yards and
+then, with a suitable instrument, measures the angle at _A_ between the
+points _C_ and _B_, and the angle at _B_ between _C_ and _A_, finding _B
+A C_ = 73.4°, _A B C_ = 49.3°. To determine the distance _A C_ he draws
+upon paper a line 100 millimeters long, and marks the ends _a_ and _b_;
+with a protractor he constructs at _a_ the angle _b a c_ = 73.4°, and at
+_b_ the angle _a b c_ = 49.3°, and marks by _c_ the point where the two
+lines thus drawn meet. With the millimeter scale he now measures the
+distance _a c_ = 90.2 millimeters, which determines the distance _A C_
+across the river to be 90.2 yards, since the triangle on paper has been
+made similar to the one across the river, and millimeters on the one
+correspond to yards on the other. What is the proposition of geometry
+upon which this depends? The measured distance _A B_ in the surveyor's
+problem is called a base line.
+
+EXERCISE 3.--With a foot rule and a protractor measure a base line and
+the angles necessary to determine the length of the schoolroom. After
+the length has been thus found, measure it directly with the foot rule
+and compare the measured length with the one found from the angles. If
+any part of the work has been carelessly done, the student need not
+expect the results to agree.
+
+[Illustration: FIG. 3.--Finding the moon's distance from the earth.]
+
+In the same manner, by sighting at the moon from widely different parts
+of the earth, as in Fig. 3, the moon's distance from us is found to be

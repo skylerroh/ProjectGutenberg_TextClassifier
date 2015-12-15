@@ -1,0 +1,448 @@
+   1.  doko
+   2.  arega.
+   3.  sane.
+   4.  sone.
+   5.  oita.
+   6.  data.
+   7.  dz-ariga = 5 + 2.
+   8.  dis-sena = 5 + 3.
+   9.  lefete-mada = without 10.
+  10.  lefek.
+
+
+  MATIBANI.[274]
+
+   1.  mosa.
+   2.  pili.
+   3.  taru.
+   4.  teje.
+   5.  taru.
+   6.  tana mosa = 5-1.
+   7.  tana pili = 5-2.
+   8.  tana taru = 5-3.
+   9.  loco.
+  10.  loco nakege.
+
+
+  BONZE.[275]
+
+   1.  tan.
+   2.  vele.
+   3.  daba.
+   4.  nani.
+   5.  lolou.
+   6.  maida    = [5] + 1.
+   7.  maifile  = [5] + 2.
+   8.  maishaba = [5] + 3.
+   9.  mainan   = [5] + 4.
+  10.  bou.
+
+
+  MPOVI
+
+   1.  moueta.
+   2.  bevali.
+   3.  betata.
+   4.  benai.
+   5.  betani.
+   6.  betani moueta = 5-1.
+   7.  betani bevali = 5-2.
+   8.  betani betata = 5-3.
+   9.  betani benai  = 5-4.
+  10.  nchinia.
+
+
+  TRITON'S BAY, NEW QUINEA.[276]
+
+   1.  samosi.
+   2.  roueti.
+   3.  tourou.
+   4.  faat.
+   5.  rimi.
+   6.  rim-samosi = 5-1.
+   7.  rim-roueti = 5-2.
+   8.  rim-tourou = 5-3.
+   9.  rim-faat   = 5-4.
+  10.  outsia.
+
+
+  ENDE, OR FLORES.[277]
+
+   1.  sa.
+   2.  zua.
+   3.  telu.
+   4.  wutu.
+   5.  lima     = hand.
+   6.  lima-sa  = 5-1, or hand 1.
+   7.  lima-zua = 5-2.
+   8.  rua-butu = 2 x 4?
+   9.  trasa    = [10] - 1?
+  10.  sabulu.
+
+
+  MALLICOLO.[278]
+
+   1.  tseekaee.
+   2.  ery.
+   3.  erei.
+   4.  ebats.
+   5.  ereem.
+   6.  tsookaee = [5] + 1.
+   7.  gooy     = [5] + 2.
+   8.  hoorey   = [5] + 3.
+   9.  goodbats = [5] + 4.
+  10.  senearn.
+
+
+  EBON, MARSHALL ISLANDS.[279]
+
+   1.  iuwun.
+   2.  drud.
+   3.  chilu.
+   4.  emer.
+   5.  lailem.
+   6.  chilchinu   = 5 + 1.
+   7.  chilchime   = 5 + 2.
+   8.  twalithuk   = [10] - 2.
+   9.  twahmejuwou = [10] - 1.
+  10.  iungou.
+
+
+  UEA, LOYALTY ISLAND.[280]
+
+   1.  tahi.
+   2.  lua.
+   3.  tolu.
+   4.  fa.
+   5.  lima.
+   6.  tahi.
+   7.  lua.
+   8.  tolu.
+   9.  fa.
+  10.  lima.
+
+
+  UEA.[280]--[another dialect.]
+
+   1.  hacha.
+   2.  lo.
+   3.  kuun.
+   4.  thack.
+   5.  thabumb.
+   6.  lo-acha  = 2d 1.
+   7.  lo-alo   = 2d 2.
+   8.  lo-kuun  = 2d 3.
+   9.  lo-thack = 2d 4.
+  10.  lebenetee.
+
+
+  ISLE OF PINES.[281]
+
+   1.  ta.
+   2.  bo.
+   3.  beti.
+   4.  beu.
+   5.  ta-hue.
+   6.  no-ta   = 2d 1.
+   7.  no-bo   = 2d 2.
+   8.  no-beti = 2d 3.
+   9.  no-beu  = 2d 4.
+  10.  de-kau.
+
+
+  UREPARAPARA, BANKS ISLANDS.[282]
+
+   1.  vo towa.
+   2.  vo ro.
+   3.  vo tol.
+   4.  vo vet.
+   5.  teveliem = 1 hand.
+   6.  leve jea = other 1.
+   7.  leve ro  = other 2.
+   8.  leve tol = other 3.
+   9.  leve vet = other 4.
+  10.  sanowul  = 2 sets.
+
+
+  MOTA, BANKS ISLANDS.[282]
+
+   1.  tuwale.
+   2.  nirua.
+   3.  nitol.
+   4.  nivat.
+   5.  tavelima = 1 hand.
+   6.  laveatea = other 1.
+   7.  lavearua = other 2.
+   8.  laveatol = other 3.
+   9.  laveavat = other 4.
+  10.  sanavul  = 2 sets.
+
+
+  NEW CALEDONIA.[283]
+
+   1.  parai.
+   2.  paroo.
+   3.  parghen.
+   4.  parbai.
+   5.  panim.
+   6.  panim-gha  = 5-1.
+   7.  panim-roo  = 5-2.
+   8.  panim-ghen = 5-3.
+   9.  panim-bai  = 5-4.
+  10.  parooneek.
+
+
+  YENGEN, NEW CAL.[284]
+
+   1.  hets.
+   2.  heluk.
+   3.  heyen.
+   4.  pobits.
+   5.  nim       = hand.
+   6.  nim-wet   = 5-1.
+   7.  nim-weluk = 5-2.
+   8.  nim-weyen = 5-3.
+   9.  nim-pobit = 5-4.
+  10.  pain-duk.
+
+
+  ANEITEUM.[285]
+
+   1.  ethi.
+   2.  ero.
+   3.  eseik.
+   4.  manohwan.
+   5.  nikman.
+   6.  nikman cled et ethi  = 5 + 1.
+   7.  nikman cled et oro   = 5 + 2.
+   8.  nikman cled et eseik = 5 + 3.
+   9.  nikman cled et manohwan = 5 + 4.
+  10.  nikman lep ikman     = 5 + 5.
+
+
+  TANNA
+
+   1.  riti.
+   2.  karu.
+   3.  kahar.
+   4.  kefa.
+   5.  krirum.
+   6.  krirum riti   = 5-1.
+   7.  krirum karu   = 5-2.
+   8.  krirum kahar? = 5-3.
+   9.  krirum kefa?  = 5-4.
+  10.  ----
+
+
+  EROMANGA
+
+   1.  sai.
+   2.  duru.
+   3.  disil.
+   4.  divat.
+   5.  siklim  = 1 hand.
+   6.  misikai = other 1?
+   7.  siklim naru     = 5-2.
+   8.  siklim disil    = 5-3.
+   9.  siklim mindivat = 5 + 4.
+  10.  narolim = 2 hands.
+
+
+  FATE, NEW HEB.[286]
+
+   1.  iskei.
+   2.  rua.
+   3.  tolu.
+   4.  bate.
+   5.  lima    = hand.
+   6.  la tesa = other 1.
+   7.  la rua  = other 2.
+   8.  la tolu = other 3.
+   9.  la fiti = other 4.
+  10.  relima  = 2 hands.
+
+
+  API, NEW HEB.
+
+   1.  tai.
+   2.  lua.
+   3.  tolu.
+   4.  vari.
+   5.  lima     = hand.
+   6.  o rai    = other 1.
+   7.  o lua    = other 2.
+   8.  o tolo   = other 3.
+   9.  o vari   = other 4.
+  10.  lua lima = 2 hands.
+
+
+  SESAKE, NEW HEB.
+
+   1.  sikai.
+   2.  dua.
+   3.  dolu.
+   4.  pati.
+   5.  lima     = hand.
+   6.  la tesa  = other 1.
+   7.  la dua   = other 2.
+   8.  la dolu  = other 3.
+   9.  lo veti  = other 4.
+  10.  dua lima = 2 hands.
+
+
+  PAMA, NEW HEB.
+
+   1.  tai.
+   2.  e lua.
+   3.  e tolu.
+   4.  e hati.
+   5.  e lime  = hand.
+   6.  a hitai = other 1.
+   7.  o lu    = other 2.
+   8.  o tolu  = other 3.
+   9.  o hati  = other 4.
+  10.  ha lua lim = 2 hands
+
+
+  AURORA, NEW HEB.
+
+   1.  tewa.
+   2.  i rua.
+   3.  i tol.
+   4.  i vat.
+   5.  tavalima = 1 hand.
+   6.  lava tea = other 1.
+   7.  lava rua = other 2.
+   8.  lava tol = other 3.
+   9.  la vat   = other 4.
+  10.  sanwulu  = two sets.
+
+
+  TOBI.[287]
+
+   1.  yat.
+   2.  glu.
+   3.  ya.
+   4.  uan.
+   5.  yanim = 1 hand.
+   6.  yawor = other 1.
+   7.  yavic = other 2.
+   8.  yawa  = other 3.
+   9.  yatu  = other 4.
+  10.  yasec.
+
+
+  PALM ISLAND.[288]
+
+   1.  yonkol.
+   2.  yakka.
+   3.  tetjora.
+   4.  tarko.
+   5.  yonkol mala = 1 hand.
+
+
+  JAJOWERONG, VICTORIA.[288]
+
+   1.  kiarp.
+   2.  bulaits.
+   3.  bulaits kiarp   = 2-1.
+   4.  bulaits bulaits = 2-2.
+   5.  kiarp munnar    = 1 hand.
+   6.  bulaits bulaits bulaits = 2-2-2.
+  10.  bulaits munnar  = 2 hands.
+
+The last two scales deserve special notice. They are Australian scales, and
+the former is strongly binary, as are so many others of that continent. But
+both show an incipient quinary tendency in their names for 5 and 10.
+
+
+  CAMBODIA.[289]
+
+   1.  muy.
+   2.  pir.
+   3.  bey.
+   4.  buon.
+   5.  pram.
+   6.  pram muy  = 5-1.
+   7.  pram pil  = 5-2.
+   8.  pram bey  = 5-3.
+   9.  pram buon = 5-4.
+  10.  dap.
+
+
+  TSCHUKSCHI.[290]
+
+   1.  inen.
+   2.  nirach.
+   3.  n'roch.
+   4.  n'rach.
+   5.  miligen = hand.
+   6.  inen miligen   = 1-5.
+   7.  nirach miligen = 2-5.
+   8.  anwrotkin.
+   9.  chona tsinki.
+  10.  migitken = both hands.
+
+
+  KOTTISCH[291]
+
+   1.  hutsa.
+   2.  ina.
+   3.  tona.
+   4.  sega.
+   5.  chega.
+   6.  chelutsa = 5 + 1.
+   7.  chelina  = 5 + 2.
+   8.  chaltona = 5 + 3.
+   9.  tsumnaga = 10 - 1.
+  10.  haga.
+
+
+  ESKIMO OF N.-W. ALASKA.[292]
+
+   1.  a towshek.
+   2.  hipah, or malho.
+   3.  pingishute.
+   4.  sesaimat.
+   5.  talema.
+   6.  okvinile, or ahchegaret = another 1?
+   7.  talema-malronik    = 5-two of them.
+   8.  pingishu-okvingile = 2d 3?
+   9.  kolingotalia       = 10 - 1?
+  10.  koleet.
+
+
+  KAMTSCHATKA, SOUTH.[293]
+
+   1.  dischak.
+   2.  kascha.
+   3.  tschook.
+   4.  tschaaka.
+   5.  kumnaka.
+   6.  ky'lkoka.
+   7.  itatyk      = 2 + 5.
+   8.  tschookotuk = 3 + 5.
+   9.  tschuaktuk  = 4 + 5.
+  10.  kumechtuk   = 5 + 5.
+
+
+  ALEUTS[294]
+
+   1.  ataqan.
+   2.  aljak.
+   3.  qankun.
+   4.  sitsin.
+   5.  tsan    = my hand.
+   6.  atun    = 1 + 5.
+   7.  ulun    = 2 + 5.
+   8.  qamtsin = 3 + 5.
+   9.  sitsin  = 4 + 5.
+  10.  hatsiq.
+
+
+  TCHIGLIT, MACKENZIE R.[295]
+
+   1.  ataotcirkr.
+   2.  aypak, or malloerok.
+   3.  illaak, or pinatcut.
+   4.  tcitamat.

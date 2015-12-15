@@ -1,0 +1,196 @@
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+We are planning on making some changes in our donation structure
+in 2000, so you might want to email me, hart@pobox.com beforehand.
+
+
+
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+Mathematical constants and numbers
+edited by
+Simon Plouffe
+Associate Professor
+LaCIM, University of Quebec at Montreal
+http://www.lacim.uqam.ca/pi : Plouffe's Inverter
+plouffe@math.uqam.ca
+
+
+
+
+
+The first 498 Bernoulli numbers are the coefficients
+of the series expansion of
+
+t*exp(x*t)/(exp(t)-1) = sum( B(n,x)/n!*t^n, n=0..infinity ).
+
+
+Bernoulli(2)
+1/6
+
+Bernoulli(4)
+-1/30
+
+Bernoulli(6)
+1/42
+
+Bernoulli(8)
+-1/30
+
+Bernoulli(10)
+5/66
+
+Bernoulli(12)
+-691/2730
+
+Bernoulli(14)
+7/6
+
+Bernoulli(16)
+-3617/510
+
+Bernoulli(18)
+43867/798
+
+Bernoulli(20)
+-174611/330
+
+Bernoulli(22)
+854513/138
+
+Bernoulli(24)
+-236364091/2730
+
+Bernoulli(26)
+8553103/6
+
+Bernoulli(28)
+-23749461029/870
+
+Bernoulli(30)
+8615841276005/14322
+
+Bernoulli(32)
+-7709321041217/510
+
+Bernoulli(34)
+2577687858367/6
+
+Bernoulli(36)
+-26315271553053477373/1919190
+
+Bernoulli(38)
+2929993913841559/6
+
+Bernoulli(40)
+-261082718496449122051/13530
+
+Bernoulli(42)
+1520097643918070802691/1806
+
+Bernoulli(44)
+-27833269579301024235023/690
+
+Bernoulli(46)
+596451111593912163277961/282
+
+Bernoulli(48)
+-5609403368997817686249127547/46410
+
+Bernoulli(50)
+495057205241079648212477525/66
+
+Bernoulli(52)
+-801165718135489957347924991853/1590
+
+Bernoulli(54)
+29149963634884862421418123812691/798
+
+Bernoulli(56)

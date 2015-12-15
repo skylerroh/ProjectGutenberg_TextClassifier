@@ -1,0 +1,424 @@
+The Project Gutenberg EBook of The Black Star Passes, by John W Campbell
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Black Star Passes
+
+Author: John W Campbell
+
+Illustrator: Jerome Podwil
+
+Release Date: February 27, 2007 [EBook #20707]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE BLACK STAR PASSES ***
+
+
+
+
+Produced by V. L. Simpson, Greg Weeks and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+    THREE AGAINST THE STARS
+
+    A sky pirate armed with superior weapons of his own
+    invention....
+
+    First contact with an alien race dangerous enough to
+    threaten the safety of two planets....
+
+    The arrival of an unseen dark sun whose attendant
+    marauders aimed at the very end of civilization in this
+    Solar System....
+
+    These were the three challenges that tested the skill
+    and minds of the brilliant team of scientist-astronauts
+    Arcot, Wade, and Morey. Their initial adventures are a
+    classic of science-fiction which first brought the name
+    of their author, John W. Campbell, into prominence as a
+    master of the inventive imagination.
+
+
+
+    JOHN W. CAMPBELL first started writing in 1930 when his
+    first short story, _When the Atoms Failed_, was
+    accepted by a science-fiction magazine. At that time he
+    was twenty years old and still a student at college. As
+    the title of the story indicates, he was even at that
+    time occupied with the significance of atomic energy
+    and nuclear physics.
+
+    For the next seven years, Campbell, bolstered by a
+    scientific background that ran from childhood
+    experiments, to study at Duke University and the
+    Massachusetts Institute of Technology, wrote and sold
+    science-fiction, achieving for himself an enviable
+    reputation in the field.
+
+    In 1937 he became the editor of _Astounding Stories_
+    magazine and applied himself at once to the task of
+    bettering the magazine and the field of s-f writing in
+    general. His influence on science-fiction since then
+    cannot be underestimated. Today he still remains as the
+    editor of that magazine's evolved and redesigned
+    successor, _Analog_.
+
+
+
+THE BLACK STAR PASSES
+
+JOHN W. CAMPBELL
+
+
+
+
+
+ACE BOOKS, INC.
+1120 Avenue of the Americas
+New York, N.Y. 10036
+
+
+
+
+
+THE BLACK STAR PASSES
+
+Copyright, 1953, by John W. Campbell, Jr.
+
+Copyright, 1930, by Experimenter Publications, Inc.
+
+An Ace Book, by arrangement with the author.
+
+
+_Cover art by Jerome Podwil._
+
+
+
+Printed in U.S.A.
+
+
+
+
+
+Contents
+
+
+Introduction 7
+
+
+BOOK ONE
+
+Piracy Preferred 11
+
+
+BOOK TWO
+
+Solarite 71
+
+
+BOOK THREE
+
+The Black Star Passes 145
+
+
+[Illustration]
+
+
+
+
+INTRODUCTION
+
+
+These stories were written nearly a quarter of a century ago, for the
+old _Amazing Stories_ magazine. The essence of any magazine is
+not its name, but its philosophy, its purpose. That old _Amazing
+Stories_ is long since gone; the magazine of the same name today is
+as different as the times today are different from the world of 1930.
+
+Science-fiction was new, in 1930; atomic energy was a dream we
+believed in, and space-travel was something we tried to understand
+better. Today, science-fiction has become a broad field, atomic
+energy--despite the feelings of many present adults!--is no dream.
+(Nor is it a nightmare; it is simply a fact, and calling it a
+nightmare is another form of effort to push it out of reality.)
+
+In 1930, the only audience for science-fiction was among those who
+were still young enough in spirit to be willing to hope and speculate
+on a new and wider future--and in 1930 that meant almost nothing but
+teen-agers. It meant the brightest group of teen-agers, youngsters who
+were willing to _play_ with ideas and understandings of physics
+and chemistry and astronomy that most of their contemporaries
+considered "too hard work."
+
+I grew up with that group; the stories I wrote over the years, and,
+later, the stories I bought for _Astounding Science Fiction_
+changed and grew more mature too. _Astounding Science Fiction_
+today has many of the audience that read those early stories; they're
+not high school and college students any more, of course, but
+professional engineers, technologists and researchers now. Naturally,
+for them we need a totally different kind of story. In growing with
+them, I and my work had to lose much of the enthusiastic scope that
+went with the earlier science fiction.
+
+When a young man goes to college, he is apt to say, "I want to be a
+scientist," or "I want to be an engineer," but his concepts are broad
+and generalized. Most major technical schools, well knowing this, have
+the first year course for _all_ students the same. Only in the
+second and subsequent years does specialization start.
+
+By the sophomore year, a student may say, "I want to be a
+_chemical_ engineer."
+
+At graduation, he may say, "I'm going into chemical engineering
+_construction_."
+
+Ten years later he may explain that he's a chemical engineer
+specializing in the construction of corrosion-resistant structures,
+such as electroplating baths and pickling tanks for stainless steel.
+
+Year by year, his knowledge has become more specialized, and much
+deeper. He's better and better able to do the important work the world
+needs done, but in learning to do it, he's necessarily lost some of
+the broad and enthusiastic scope he once had.
+
+These are early stories of the early days of science-fiction. Radar
+hadn't been invented; we missed that idea. But while these stories
+don't have the finesse of later work--they have a bounding enthusiasm
+that belongs with a young field, designed for and built by young men.
+Most of the writers of those early stories were, like myself, college
+students. (_Piracy Preferred_ was written while I was a sophomore
+at M.I.T.)
+
+For old-timers in science-fiction--these are typical of the
+days when the field was starting. They've got a fine flavor
+of our own younger enthusiasm.
+
+For new readers of science-fiction--these have the stuff that laid the
+groundwork of today's work, they're the stories that were meant for
+young imaginations, for people who wanted to think about the world
+they had to build in the years to come.
+
+Along about sixteen to nineteen, a young man has to decide what is,
+for him, the Job That Needs Doing--and get ready to get in and pitch.
+If he selects well, selects with understanding and foresight, he'll
+pick a job that _does_ need doing, one that will return rewards
+in satisfaction as well as money. No other man can pick that for him;
+he must choose the Job that _he_ feels fitting.
+
+Crystal balls can be bought fairly reasonably--but they don't work
+well. History books can be bought even more cheaply, and they're
+moderately reliable. (Though necessarily filtered through the cultural
+attitudes of the man who wrote them.) But they don't work well as
+predicting machines, because the world is changing too rapidly.
+
+The world today, for instance, needs engineers desperately. There a
+lot of jobs that the Nation would like to get done that can't even be
+started; not enough engineers available.
+
+Fifty years ago the engineering student was a sort of Second Class
+Citizen of the college campus. Today the Liberal Arts are fighting for
+a come-back, the pendulum having swung considerably too far in the
+other direction.
+
+So science-fiction has a very real function to the teen-agers; it
+presents varying ideas of what the world in which he will live his
+adult life will be interested in.
+
+This is 1953. My son will graduate in 1955. The period of his peak
+earning power should be when he's about forty to sixty--about 1970,
+say, to 1990. With the progress being made in understanding of health
+and physical vigor, it's apt to run beyond 2000 A.D., however.
+
+Anyone want to bet that people will be living in the same general
+circumstances then? That the same general social and cultural and
+material standards will apply?
+
+I have a hunch that the history books are a poor way of planning a
+life today--and that science-fiction comes a lot closer.
+
+There's another thing about science-fiction yarns that is quite
+conspicuous; it's so difficult to pick out the villains. It might have
+made quite a change in history if the ballads and tales of the old
+days had been a little less sure of who the villains were. Read the
+standard boy's literature of forty years ago; tales of Crusaders who
+were always right, and Saracens who were always wrong. (The same
+Saracens who taught the Christians to respect the philosophy of the
+Greeks, and introduced them to the basic ideas of straight,
+self-disciplined thinking!)
+
+Life's much simpler in a thatched cottage than in a dome on the
+airless Moon, easier to understand when the Villains are all pure
+black-hearted villains, and the Heroes are all pure White Souled
+Heroes. Just look how simple history is compared with science-fiction!
+It's simple--but is it good?
+
+These early science-fiction tales explored the Universe; they were
+probings, speculations, as to where we _could_ go. What we
+_could_ do.
+
+They had a sweep and reach and exuberance that belonged.
+
+They _were_ fun, too....
+
+John W. Campbell, Jr.
+Mountainside, N.J.
+April, 1953
+
+
+
+
+BOOK ONE
+
+PIRACY PREFERRED
+
+
+
+
+PROLOGUE
+
+
+High in the deep blue of the afternoon sky rode a tiny speck of
+glistening metal, scarcely visible in the glare of the sun. The workers
+on the machines below glanced up for a moment, then back to their work,
+though little enough it was on these automatic cultivators. Even this
+minor diversion was of interest in the dull monotony of green. These
+endless fields of castor bean plants had to be cultivated, but with the
+great machines that did the work it required but a few dozen men to
+cultivate an entire county.
+
+The passengers in the huge plane high above them gave little thought to
+what passed below, engrossed with their papers or books, or engaged in
+casual conversation. This monotonous trip was boring to most of them. It
+seemed a waste of time to spend six good hours in a short 3,500 mile
+trip. There was nothing to do, nothing to see, except a slowly passing
+landscape ten miles below. No details could be distinguished, and the
+steady low throb of the engines, the whirring of the giant propellers,
+the muffled roar of the air, as it rushed by, combined to form a
+soothing lullaby of power. It was all right for pleasure seekers and
+vacationists, but business men were in a hurry.
+
+The pilot of the machine glanced briefly at the instruments, wondered
+vaguely why he had to be there at all, then turned, and leaving the
+pilot room in charge of his assistant, went down to talk with the chief
+engineer.
+
+His vacation began the first of July, and as this was the last of June,
+he wondered what would have happened if he had done as he had been half
+inclined to do--quit the trip and let the assistant take her through. It
+would have been simple--just a few levers to manipulate, a few controls
+to set, and the instruments would have taken her up to ten or eleven
+miles, swung her into the great westward air current, and leveled her
+off at five hundred and sixty or so an hour toward 'Frisco'. They would
+hold her on the radio beam better than he ever could. Even the landing
+would have been easy. The assistant had never landed a big plane, but he
+knew the routine, and the instruments would have done the work. Even if
+he hadn't been there, ten minutes after they had reached destination, it
+would land automatically--if an emergency pilot didn't come up by that
+time in answer to an automatic signal.
+
+He yawned and sauntered down the hall. He yawned again, wondering what
+made him so sleepy.
+
+He slumped limply to the floor and lay there breathing ever more and
+more slowly.
+
+       *       *       *       *       *
+
+The officials of the San Francisco terminus of The Transcontinental
+Airways company were worried. The great Transcontinental express had
+come to the field, following the radio beam, and now it was circling the
+field with its instruments set on the automatic signal for an emergency
+pilot. They were worried and with good reason, for this flight carried
+over 900,000 dollars worth of negotiable securities. But what could
+attack one of those giant ships? It would take a small army to overcome
+the crew of seventy and the three thousand passengers!
+
+The great ship was landing gently now, brought in by the emergency
+pilot. The small field car sped over to the plane rapidly. Already the
+elevator was in place beside it, and as the officials in the car drew up
+under the giant wing, they could see the tiny figure of the emergency
+pilot beckoning to them. Swiftly the portable elevator carried them up
+to the fourth level of the ship.
+
+What a sight met their eyes as they entered the main salon! At first
+glance it appeared that all the passengers lay sleeping in their chairs.
+On closer examination it became evident that they were not breathing!
+The ear could detect no heartbeat. The members of the crew lay at their
+posts, as inert as the passengers! The assistant pilot sprawled on the
+floor beside the instrument panel--apparently he had been watching the
+record of the flight. There was no one conscious--or apparently
+living--on board!
+
+"Dead! Over three thousand people!" The field manager's voice was
+hoarse, incredulous. "It's impossible--how could they have done it? Gas,
+maybe, drawn in through the ventilator pumps and circulated through the
+ship. But I can't conceive of any man being willing to kill three
+thousand people for a mere million! Did you call a doctor by radio,
+Pilot?"
+
+"Yes, sir. He is on his way. There's his car now."
+
+"Of course they will have opened the safe--but let's check anyway. I can
+only think some madman has done this--no sane man would be willing to
+take so many lives for so little." Wearily the men descended the stairs
+to the mail room in the hold.
+
+The door was closed, but the lock of the door was gone, the
+magnesium-beryllium alloy burned away. They opened the door and entered.
+The room seemed in perfect order. The guard lay motionless in the steel
+guard chamber at one side; the thick, bullet-proof glass made his
+outlines a little blurred, and the color of his face was green--but they
+knew there too must be that same pallor they had seen on the other
+faces. The delicate instruments had brought in the great ship perfectly,
+but it was freighted with a cargo of dead!
+
+They entered the room and proceeded to the safe, but it was opened as
+they had expected. The six-inch tungsto-iridium wall had been melted
+through. Even this unbelievable fact no longer surprised them. They
+only glanced at the metal, still too hot to touch, and looked about the
+room. The bonds had been taken. But now they noticed that over the
+mail-clerk's desk there had been fastened a small envelope. On it was
+printed:
+
+    To the Officials of the San Francisco Airport
+
+Inside was a short message, printed in the same sharp, black letters:
+
+    Gentlemen:
+
+    This plane should land safely. If it doesn't, it is your
+    fault, not mine, for the instruments that it carries
+    should permit it. The passengers are NOT dead! They have
+    been put in a temporary state of suspended animation.
+    Any doctor can readily revive them by the injection of
+    seven c.c. of decinormal potassium iodide solution for
+    every 100 pounds of weight. Do NOT use higher
+    concentrations. Lower concentrations will act more
+    slowly.
+
+    You will find that any tendency toward leprosy or cancer
+    will have been destroyed. It will kill any existing
+    cancer, and cure it in about one week. I have not
+    experimented with leprosy beyond knowing that it is
+    cured very quickly.
+
+    This is an outside job. Don't annoy the passengers with
+    questions.
+
+    The gas used cannot be stopped by any material I know
+    of. You can try it with any mask--but don't use the

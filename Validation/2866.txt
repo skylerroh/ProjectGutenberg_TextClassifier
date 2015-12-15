@@ -1,0 +1,894 @@
+
+[Footnote 657: _Lockyer's Chemistry of the Sun_, p. 324.]
+
+[Footnote 658: _Month. Not._, vol. li., p. 76.]
+
+[Footnote 659: _Ibid._, vol. lviii., p. 370.]
+
+[Footnote 660: _Astr. and Astrophysics_, vol. xi., p. 615.]
+
+[Footnote 661: Thollon's estimate (_Comptes Rendus_, t. xcvii., p. 902)
+of 300,000 _kilometres_, seems considerably too low. Limiting the
+"average prominence region" to a shell 54,000 miles deep (2' of arc as
+seen from the earth), the visual line will, at mid-height (27,000 miles
+from the sun's surface), travel through (in round numbers) 320,000 miles
+of that region.]
+
+[Footnote 662: Liveing and Dewar, _Phil. Mag._, vol. xvi. (5th ser.), p.
+407.]
+
+[Footnote 663: _Chemistry of the Sun_, p. 260.]
+
+[Footnote 664: _Nature_, October 14, 1886.]
+
+[Footnote 665: The normal spectrum is that depending exclusively upon
+wave-length--the fundamental constant given by nature as regards light.
+It is obtained by the interference of rays, in the manner first
+exemplified by Fraunhofer, and affords the only unvarying standard for
+measurement. In the refraction spectrum (upon which Kirchhoff's map was
+founded), the relative positions of the lines vary with the material of
+the prisms.]
+
+[Footnote 666: Scheiner, _Die Spectralanalyse der Gestirne_, p. 168.]
+
+[Footnote 667: _Phil. Mag._, vol. xxvii., p. 479.]
+
+[Footnote 668: _Astr. and Astrophysics_, vol. xii., p. 321;
+Frost-Scheiner, _Astr. Spectr._, p. 363.]
+
+[Footnote 669: Published in _Astroph. Jour._, vols. i. to vi.]
+
+[Footnote 670: _Astr. and Astrophysics_, vol. xi., p. 793.]
+
+[Footnote 671: _Astroph. Jour._, vol. vi., p. 95.]
+
+[Footnote 672: _Annales de l'Observatoire de Nice_, t. iii., 1890.]
+
+[Footnote 673: _Trans. Royal Society of Edinburgh_, vol. xxxvi., p. 99.]
+
+[Footnote 674: Rev. A. L. Cortie, _Astr. and Astrophysics_, vol. xi., p.
+401. Specimens of his photographs were given by Ranyard in _Knowledge_,
+vol. xiii., p. 212.]
+
+[Footnote 675: _Ann. d. Phys._, Bd. cxvii., p. 296.]
+
+[Footnote 676: _Comptes Rendus_, t. lxiii., p. 647.]
+
+[Footnote 677: _Ibid._, t. lxxxvi., p. 317. Some half dozen of these
+identifications have proved fallacious.]
+
+[Footnote 678: _Chemistry of the Sun_, p. 143.]
+
+[Footnote 679: _Amer. Jour. of Science_, vol. xxxiv., p. 348.]
+
+[Footnote 680: _Berlin Abhandlungen_, 1889.]
+
+[Footnote 681: _Amer. Jour. of Science_, vol. xli., p. 243. See
+Appendix, Table II.]
+
+[Footnote 682: _Astrophy. Jour._, vol. ix., p. 219; Fowler, _Knowledge_,
+vol. xxiii., p. 11.]
+
+[Footnote 683: _Amer. Jour, of Science_, vol. xiv., p. 89; _Nature_,
+vol. xvi., p. 364; _Month. Not._, vol. xxxix., p. 440.]
+
+[Footnote 684: _Month. Not._, vol. xxxviii., p. 473; Trowbridge and
+Hutchins, _Amer. Jour. of Science_, vol. xxxiv., p. 263.]
+
+[Footnote 685: Scheiner, _Die Spectralanalyse_, p. 180.]
+
+[Footnote 686: _Comptes Rendus_, t. lxvii., p. 1123.]
+
+[Footnote 687: Rev. A. L. Cortie, _Month. Not._, vol. li., p. 18.]
+
+[Footnote 688: Young, _The Sun_, p. 135; Hale, _Astr. and Astrophysics_,
+vol. xi., p. 312 Buss, _Jour. Brit. Astr. Ass._, vol. ix., p. 253.]
+
+[Footnote 689: _Phil. Trans._, vol. clxx., p. 46.]
+
+[Footnote 690: _Comptes Rendus_, t. xcvii., p. 555; t. ci., p. 1145.]
+
+[Footnote 691: Liveing and Dewar, _Astr. and Astrophysics_, vol. xi., p.
+705.]
+
+[Footnote 692: _Comptes Rendus_, t. lx., p. 213; t. lxiii., p. 289.]
+
+[Footnote 693: _Ibid._, t. cviii., p. 1035.]
+
+[Footnote 694: _Ibid._, t. cxi., p. 431.]
+
+[Footnote 695: _Astroph. Jour._, vols. iv., p. 317; vi., p. 426.]
+
+[Footnote 696: _Trans. Roy. Soc. Edin._, vol. xxxii., p. 452.]
+
+[Footnote 697: _Comptes Rendus_, t. cxi., p. 941; Huggins, _Proc. Roy.
+Soc._, vol. xlvi., p. 168.]
+
+
+
+
+                                CHAPTER V
+
+                         _TEMPERATURE OF THE SUN_
+
+
+Newton was the first who attempted to measure the quantity of heat
+received by the earth from the sun. His object in making the experiment
+was to ascertain the temperature encountered by the comet of 1680 at its
+passage through perihelion. He found it, by multiplying the observed
+heating effects of direct sunshine according to the familiar rule of the
+"inverse squares of the distances," to be about 2,000 times that of
+red-hot iron.[698]
+
+Determinations of the sun's thermal power, made with some scientific
+exactness, date, however, from 1837. A few days previous to the
+beginning of that year, Herschel began observing at the Cape of Good
+Hope with an "actinometer," and obtained results agreeing quite
+satisfactorily with those derived by Pouillet from experiments made in
+France some months later with a "pyrheliometer."[699] Pouillet found
+that the vertical rays of the sun falling on each square centimetre of
+the earth's surface are competent (apart from atmospheric absorption) to
+raise the temperature of 1.7633 grammes of water one degree Centigrade
+per minute. This number (1.7633) he called the "solar constant"; and the
+unit of heat chosen is known as the "calorie." Hence it was computed
+that the total amount of solar heat received during a year would suffice
+to melt a layer of ice covering the entire earth to a depth of 30.89
+metres, or 100 feet; while the heat emitted would melt, at the sun's
+surface, a stratum 11.80 metres thick each minute. A careful series of
+observations showed that nearly half the heat incident upon our
+atmosphere is stopped in its passage through it.
+
+Herschel got somewhat larger figures, though he assigned only a third as
+the spoil of the air. Taking a mean between his own and Pouillet's, he
+calculated that the ordinary expenditure of the sun per minute would
+have power to melt a cylinder of ice 184 feet in diameter, reaching from
+his surface to that of Alpha Centauri; or, putting it otherwise,
+that an ice-rod 45.3 miles across, continually darted into the sun with
+the velocity of light, would scarcely consume, in dissolving, the
+thermal supplies now poured abroad into space.[700] It is nearly certain
+that this estimate should be increased by about two-thirds in order to
+bring it up to the truth.
+
+Nothing would, at first sight, appear simpler than to pass from a
+knowledge of solar emission--a strictly measurable quantity--to a
+knowledge of the solar temperature; this being defined as the
+temperature to which a surface thickly coated with lamp-black (that is,
+of standard radiating power) should be raised to enable it to send us,
+from the sun's distance, the amount of heat actually received from the
+sun. Sir John Herschel showed that heat-rays at the sun's surface must
+be 92,000 times as dense as when they reach the earth; but it by no
+means follows that either the surface emitting, or a body absorbing
+those heat-rays must be 92,000 times hotter than a body exposed here to
+the full power of the sun. The reason is, that the rate of
+emission--consequently the rate of absorption, which is its
+correlative--increases very much faster than the temperature. In other
+words, a body radiates or cools at a continually accelerated pace as it
+becomes more and more intensely heated above its surroundings.
+
+Newton, however, took it for granted that radiation and temperature
+advance _pari passu_--that you have only to ascertain the quantity of
+heat received from, and the distance of a remote body in order to know
+how hot it is.[701] And the validity of this principle, known as
+"Newton's Law" of cooling, was never questioned until De la Roche
+pointed out, in 1812,[702] that it was approximately true only over a
+low range of temperature; while five years later, Dulong and Petit
+generalised experimental results into the rule, that while temperature
+grows by arithmetical, radiation increases by geometrical
+progression.[703] Adopting this formula, Pouillet derived from his
+observations on solar heat a solar temperature of somewhere between
+1,461 deg. and 1,761 deg. C. Now, the higher of these points--which is
+nearly that of melting platinum--is undoubtedly surpassed at the focus of
+certain burning-glasses which have been constructed of such power as
+virtually to bring objects placed there within a quarter of a million of
+miles of the photosphere. In the rays thus concentrated, platinum and
+diamond become rapidly vaporised, notwithstanding the great loss of heat
+by absorption, first in passing through the air, and again in traversing
+the lens. Pouillet's maximum is then manifestly too low, since it
+involves the absurdity of supposing a radiating mass capable of heating
+a distant body more than it is itself heated.
+
+Less demonstrably, but scarcely less surely, Mr. J. J. Waterston, who
+attacked the problem in 1860, erred in the opposite direction. Working
+up, on Newton's principle, data collected by himself in India and at
+Edinburgh, he got for the "potential temperature" of the sun 12,880,000
+deg. Fahr.,[704] equivalent to 7,156,000 deg. C. The phrase _potential
+temperature_ (for which Violle substituted, in 1876, _effective
+temperature_) was designed to express the accumulation in a single
+surface, postulated for the sake of simplicity, of the radiations not
+improbably received from a multitude of separate solar layers
+reinforcing each other; and might thus (it was explained) be
+considerably higher than the _actual_ temperature of any one stratum.
+
+At Rome, in 1861, Father Secchi repeated Waterston's experiments, and
+reaffirmed his conclusion;[705] while Soret's observations, made on the
+summit of Mont Blanc in 1867,[706] furnished him with materials for a
+fresh and even higher estimate of ten million degrees Centigrade.[707]
+Yet from the very same data, substituting Dulong and Petit's for
+Newton's law, Vicaire deduced in 1872 a _provisional_ solar temperature
+of 1,398 deg.[708] This is below that at which iron melts, and we know that
+iron-vapour exists high up in the sun's atmosphere. The matter was taken
+into consideration on the other side of the Atlantic by Ericsson in
+1871. He attempted to re-establish the shaken credit of Newton's
+principle, and arrived, by its means, at a temperature of 4,000,000 deg.
+Fahrenheit.[709] Subsequently, an "underrated computation," based upon
+observation of the quantity of heat received by his "sun motor," gave
+him 3,000,000 deg. And the result, as he insisted, followed inevitably
+from the principle that the temperature produced by radiant heat is
+proportional to its density, or inversely as its diffusion.[710] The
+principle, however, is demonstrably unsound.
+
+In 1876 the sun's temperature was proposed as the subject of a prize by
+the Paris Academy of Sciences; but although the essay of M. Jules Violle
+was crowned, the problem was declared to remain unsolved. Violle (who
+adhered to Dulong and Petit's formula) arrived at an _effective_
+temperature of 1,500 deg. C., but considered that it might _actually_ reach
+2,500 deg. C., if the emissive power of the photospheric clouds fell far
+short (as seemed probable) of the lamp-black standard.[711] Experiments
+made in April and May, 1881, giving a somewhat higher result, he raised
+this figure to 3,000 deg. C.[712]
+
+Appraisements so outrageously discordant as those of Waterston, Secchi,
+and Ericsson on the one hand, and those of the French _savants_ on the
+other, served only to show that all were based upon a vicious principle.
+Professor F. Rosetti,[713] accordingly, of the Paduan University, at
+last perceived the necessity for getting out of the groove of "laws"
+plainly in contradiction with facts. The temperature, for instance, of
+the oxy-hydrogen flame was fixed by Bunsen at 2,800 deg. C.--an estimate
+certainly not very far from the truth. But if the two systems of
+measurement applied to the sun be used to determine the heat of a solid
+body rendered incandescent in this flame, it comes out, by Newton's mode
+of calculation, 45,000 deg. C.; by Dulong and Petit's, 870 deg. C.[714]
+Both, then, are justly discarded, the first as convicted of exaggeration,
+the second of undervaluation. The formula substituted by Rosetti in 1878
+was tested successfully up to 2,000 deg. C.; but since, like its
+predecessors, it was a purely empirical rule, guaranteed by no principle,
+and hence not to be trusted out of sight, it was, like them, liable to
+break down at still higher elevations. Radiation by this new prescription
+increases as the _square_ of the _absolute_ temperature--that is, of the
+number of degrees counted from the "absolute zero" of -273 deg. C. Its
+employment gave for the sun's radiating surface an effective temperature
+of 20,380 deg. C. (including a supposed loss of one-half in the solar
+atmosphere); and setting a probable deficiency in emission (as compared
+with lamp-black) against a probable mutual reinforcement of superposed
+strata, Professor Rosetti considered "effective" as nearly equivalent to
+"actual" temperature. A "law of cooling," proposed by M. Stefan at Vienna
+in 1879,[715] was shown by Boltzmann, many years later, to have a certain
+theoretical validity.[716] It is that emission grows as the fourth power
+of absolute temperature. Hence the temperature of the photosphere would
+be proportional to the square root of the square root of its heating
+effects at a distance, and appeared, by Stefan's calculations from
+Violle's measures of solar radiative intensity, to be just 6,000 deg. C.;
+while M. H. Le Chatelier[717] derived 7,600 deg. from a formula, conveying
+an intricate and unaccountable relation between the temperature of an
+incandescent body and the intensity of its red radiations.
+
+From a series of experiments carefully conducted at Daramona, Ireland,
+with a delicate thermal balance, of the kind invented by Boys and
+designated a "radio-micrometer," Messrs. Wilson and Gray arrived in
+1893, with the aid of Stefan's Law, at a photospheric temperature of
+7,400 deg. C.,[718] reduced by the first-named investigator in 1901 to
+6,590 deg.[719] Dr. Paschen, of Hanover, on the other hand, ascribed
+to the sun a temperature of 5,000 deg. from comparisons between solar
+radiative intensity and that of glowing platinum;[720] while F. W. Very
+showed in 1895[721] that a minimum value of 20,000 deg. C. for the same
+datum resulted from Paschen's formula connecting temperature with the
+position of maximum spectral energy.
+
+A new line of inquiry was struck out by Zoellner in 1870. Instead of
+tracking the solar radiations backward with the dubious guide of
+empirical formulae, he investigated their intensity at their source. He
+showed[722] that, taking prominences to be simple effects of the escape
+of powerfully compressed gases, it was possible, from the known
+mechanical laws of heat and gaseous constitution, to deduce minimum
+values for the temperatures prevailing in the area of their development.
+These came out 27,700 deg. C. for the strata lying immediately above, and
+68,400 deg. C. for the strata lying immediately below the photosphere, the
+former being regarded as the region _into_ which, and the latter as the
+region _from_ which the eruptions took place. In this calculation, no
+prominences exceeding 40,000 miles (1.5') in height were included. But
+in 1884, G. A. Hirn of Colmar, having regard to the enormous velocities
+of projection observed in the interim, fixed two million degrees
+Centigrade as the lowest _internal_ temperature by which they could be
+accounted for; although admitting the photospheric condensations to be
+incompatible with a higher _external_ temperature than 50,000 deg. to
+100,000 deg. C.[723]
+
+This method of going straight to the sun itself, observing what goes on
+there, and inferring conditions, has much to recommend it; but its
+profitable use demands knowledge we are still very far from possessing.
+We are quite ignorant, for instance, of the actual circumstances
+attending the birth of the solar flames. The assumption that they are
+nothing but phenomena of elasticity is a purely gratuitous one.
+Spectroscopic indications, again, give hope of eventually affording a
+fixed point of comparison with terrestrial heat sources; but their
+interpretation is still beset with uncertainties; nor can, indeed, the
+expression of transcendental temperatures in degrees of impossible
+thermometers be, at the best, other than a futile attempt to convey
+notions respecting a state of things altogether outside the range of our
+experience.
+
+A more tangible, as well as a less disputable proof of solar radiative
+intensity than any mere estimates of temperature, was provided in some
+experiments made by Professor Langley in 1878.[724] Using means of
+unquestioned validity, he found the sun's disc to radiate 87 times as
+much heat, and 5,300 times as much light as an equal area of metal in a
+Bessemer converter after the air-blast had continued about twenty
+minutes. The brilliancy of the incandescent steel, nevertheless, was so
+blinding, that melted iron, flowing in a dazzling white-hot stream into
+the crucible, showed "deep brown by comparison, presenting a contrast
+like that of dark coffee poured into a white cup." Its temperature was
+estimated (not quite securely)[725] at about 2,000 deg. C.; and no
+allowances were made, in computing relative intensities, for atmospheric
+ravages on sunlight, for the extra impediments to its passage presented
+by the smoke-laden air of Pittsburgh, or for the obliquity of its
+incidence. Thus, a very large balance of advantage lay on the side of
+the metal.
+
+A further element of uncertainty in estimating the intrinsic strength of
+the sun's rays has still to be considered. From the time that his disc
+first began to be studied with the telescope, it was perceived to be
+less brilliant near the edges. Lucas Valerius, of the Lyncean Academy,
+seems to have been the first to note this fact, which, strangely enough,
+was denied by Galileo in a letter to Prince Cesi of January 25,
+1613.[726] Father Scheiner, however, fully admitted it, and devoted some
+columns of his bulky tome to the attempt to find its appropriate
+explanation.[727] In 1729 Bouguer measured, with much accuracy, the
+amount of this darkening; and from his data, Laplace, adopting a
+principle of emission now known to be erroneous, concluded that the sun
+loses eleven-twelfths of his light through absorption in his own
+atmosphere.[728] The real existence of this atmosphere, which is totally
+distinct from the beds of ignited vapours producing the Fraunhofer
+lines, is not open to doubt, although its nature is still a matter of
+conjecture. The separate effects of its action on luminous, thermal, and
+chemical rays were carefully studied by Father Secchi, who in 1870[729]
+inferred the total absorption to be 88/100 of all radiations taken
+together, and added the important observation that the light from the
+limb is no longer white, but reddish-brown. Absorptive effects were thus
+seen to be unequally distributed; and they could evidently be studied to
+advantage only by taking the various rays of the spectrum separately,
+and finding out how much each had suffered in transmission.
+
+This was done by H. C. Vogel in 1877.[730] Using a polarising
+photometer, he found that only 13 per cent. of the violet rays escape at
+the edge of the solar disc, 16 of the blue and green, 25 of the yellow,
+and 30 per cent. of the red. Midway between centre and limb, 88.7 of
+violet light and 96.7 of red penetrate the absorbing envelope, the
+abolition of which would increase the intensity of the sun's visible
+spectrum above two and a half times in the most, and once and a half
+times in the least refrangible parts. The nucleus of a small spot was
+ascertained to be of the same luminous intensity as a portion of the
+unbroken surface about two and a half minutes from the limb. These
+experiments having been made during a spot-minimum when there is reason
+to think that absorption is below its average strength, Vogel suggested
+their repetition at a time of greater activity. They were extended to
+the heat-rays by Edwin B. Frost. Detailed inquiries made at Potsdam in
+1892[731] went to show that, were the sun's atmosphere removed, his
+thermal power, as regards ourselves, would be increased 1.7 times. They
+established, too, the practical uniformity in radiation of all parts of
+his disc. A confirmatory result was obtained about the same time by
+Wilson and Rambaut, who found that the unveiled sun would be once and a
+half times hotter than the actual sun.[732]
+
+Professor Langley, now of Washington, gave to measures of the kind a
+refinement previously undreamt of. Reliable determinations of the
+"energy" of the individual spectral rays were, for the first time,
+rendered possible by his invention of the "bolometer" in 1880.[733] This
+exquisitely sensitive instrument affords the means of measuring heat,
+not directly, like the thermopile, but in its effects upon the
+conduction of electricity. It represents, in the phrase of the inventor,
+the finger laid upon the throttle-valve of a steam-engine. A minute
+force becomes the modulator of a much greater force, and thus from
+imperceptible becomes conspicuous. By locally raising the temperature of
+an inconceivably fine strip of platinum serving as the conducting-wire
+in a circuit, the flow of electricity is impeded at that point, and the
+included galvanometer records a disturbance of the electrical flow.
+Amounts of heat were thus detected in less than ten seconds, which,
+expended during a thousand years on the melting of a kilogramme of ice,
+would leave a part of the work still undone; and further improvements
+rendered this marvellous instrument capable of thrilling to changes of
+temperature falling short of one ten-millionth of a degree
+Centigrade.[734]
+
+The heat contained in the diffraction spectrum is, with equal
+dispersions, barely one-tenth of that in the prismatic spectrum. It had,
+accordingly, never previously been found possible to measure it in
+detail--that is, ray by ray. But it is only from the diffraction, or
+normal spectrum that any true idea can be gained as to the real
+distribution of energy among the various constituents, visible and
+invisible, of a sunbeam. The effect of passage through a prism is to
+crowd together the red rays very much more than the blue. To this
+prismatic distortion was owing the establishment of a pseudo-maximum of
+heat in the infra-red, which disappeared when the natural arrangement by
+wave-length was allowed free play. Langley's bolometer has shown that
+the hottest part of the normal spectrum virtually coincides with its
+most luminous part, both lying in the orange, close to the D-line.[735]
+Thus the last shred of evidence in favour of the threefold division of
+solar radiations vanished, and it became obvious that the varying
+effects--thermal, luminous, or chemical--produced by them are due, not
+to any distinction of quality in themselves, but to the different
+properties of the substances they impinge upon. They are simply bearers
+of energy, conveyed in shorter or longer vibrations; the result in each
+separate case depending upon the capacity of the material particles
+meeting them for taking up those shorter or longer vibrations, and
+turning them variously to account in their inner economy.
+
+A long series of experiments at Allegheny was completed in the summer of
+1881 on the crest of Mount Whitney in the Sierra Nevada. Here, at an
+elevation of 14,887 feet, in the driest and purest air, perhaps, in the
+world, atmospheric absorptive inroads become less sensible, and the
+indications of the bolometer, consequently, surer and stronger. An
+enormous expansion was at once given to the invisible region in the
+solar spectrum below the red. Captain Abney had got chemical effects
+from undulations twelve ten-thousandths of a millimetre in length. These
+were the longest recognised as, or indeed believed, on theoretical
+grounds, to be capable of existing. Professor Langley now got heating
+effects from rays of above twice that wave-length, his delicate thread
+of platinum groping its way down nearly to thirty ten-thousandths of a
+millimetre, or three "microns." The known extent of the solar spectrum
+was thus at once more than doubled. Its visible portion covers a range
+of about one octave; bolometric indications already in 1884 comprised
+between three and four. The great importance of the newly explored
+region appears from the fact that three-fourths of the entire energy of
+sunlight reside in the infra-red, while scarcely more than one-hundredth
+part of that amount is found in the better known ultra-violet
+space.[736] These curious facts were reinforced, in 1886,[737] by
+further particulars learned with the help of rock-salt lenses and
+prisms, glass being impervious to very slow, as to very rapid
+vibrations. Traces were thus detected of solar heat distributed into
+bands of transmission alternating with bands of atmospheric absorption,
+far beyond the measurable limit of 5.3 microns.
+
+In 1894, Langley described at the Oxford Meeting of the British
+Association[738] his new "bolographic" researches, in which the
+sensitive plate was substituted for the eye in recording deflections of
+the galvanometer responding to variations of invisible heat. Finally, in
+1901,[739] he embodied in a splendid map of the infra-red spectrum 740
+absorption-lines of determinate wave-lengths, ranging from 0.76 to 5.3
+microns. Their chemical origin, indeed, remains almost entirely unknown,
+no extensive investigations having yet been undertaken of the slower
+vibrations distinctive of particular substances; but there is evidence
+that seven of the nine great bands crossing the "new spectrum" (as
+Langley calls it)[740] are telluric, and subject to seasonal change.
+Here, then, he thought, might eventually be found a sure standing-ground
+for vitally important previsions of famines, droughts, and
+bonanza-crops.
+
+Atmospheric absorption had never before been studied with such precision
+as it was by Langley on Mount Whitney. Aided by simultaneous
+observations from Lone Pine, at the foot of the Sierra, he was able to
+calculate the intensity belonging to each ray before entering the
+earth's gaseous envelope--in other words, to construct an
+extra-atmospheric curve of energy in the spectrum. The result showed
+that the blue end suffered far more than the red, absorption varying
+inversely as wave-length. This property of stopping predominantly the
+quicker vibrations is shared, as both Vogel and Langley[741] have
+conclusively shown, by the solar atmosphere. The effect of this double
+absorption is as if two plates of reddish glass were interposed between
+us and the sun, the withdrawal of which would leave his orb, not only
+three or four times more brilliant, but in colour distinctly
+greenish-blue.[742]
+
+The fact of the uncovered sun being _blue_ has an important bearing upon
+the question of his temperature, to afford a somewhat more secure answer
+to which was the ultimate object of Professor Langley's persevering
+researches; for it is well known that as bodies grow hotter, the
+proportionate representation in their spectra of the more refrangible
+rays becomes greater. The lowest stage of incandescence is the familiar
+one of _red_ heat. As it gains intensity, the quicker vibrations come
+in, and an optical balance of sensation is established at _white_ heat.
+The final term of _blue_ heat, as we now know, is attained by the
+photosphere. On this ground alone, then, of the large original
+preponderance of blue light, we must raise our estimate of solar heat;
+and actual measurements show the same upward tendency. Until quite
+lately, Pouillet's figure of 1.7 calories per minute per square
+centimetre of terrestrial surface, was the received value for the "solar
+constant." Forbes had, it is true, got 2.85 from observations on the
+Faulhorn in 1842;[743] but they failed to obtain the confidence they
+merited. Pouillet's result was not definitely superseded until Violle,
+from actinometrical measures at the summit and base of Mont Blanc in
+1875, computed the intensity of solar radiation at 2.54,[744] and Crova,
+about the same time, at Montpellier, showed it to be above two
+calories.[745] Langley went higher still. Working out the results of the
+Mount Whitney expedition, he was led to conclude atmospheric absorption
+to be fully twice as effective as had hitherto been supposed. Scarcely
+60 per cent., in fact, of those solar radiations which strike
+perpendicularly through a seemingly translucent sky, were estimated to
+attain the sea-level. The rest are reflected, dispersed, or absorbed.
+This discovery involved a large addition to the original supply so
+mercilessly cut down in transmission, and the solar constant rose at
+once to three calories. Nor did the rise stop there. M. Savelieff
+deduced for it a value of 3.47 from actinometrical observations made at
+Kieff in 1890;[746] and Knut Angstrom, taking account of the arrestive
+power of carbonic acid, inferred enormous atmospheric absorption, and a
+solar constant of four calories.[747] In other words, the sun's heat
+reaching the outskirts of our atmosphere is capable of doing without
+cessation the work of an engine of four-horse power for each square yard
+of the earth's surface. Thus, modern inquiries tend to render more and
+more evident the vastness of the thermal stores contained in the great
+central reservoir of our system, while bringing into fair agreement the
+estimates of its probable temperature. This is in great measure due to
+the acquisition of a workable formula by which to connect temperature
+with radiation. Stefan's rule of a fourth-power relation, if not
+actually a law of nature, is a colourable imitation of one; and its
+employment has afforded a practical certainty that the sun's
+temperature, so far as it is definable, neither exceeds 12,000 deg. C.,
+nor falls short of 6,500 deg. C.
+
+
+FOOTNOTES:
+
+[Footnote 698: _Principia_, p. 498 (1st ed.).]
+
+[Footnote 699: _Comptes Rendus_, t. vii., p. 24.]
+
+[Footnote 700: _Results of Astr. Observations_, p. 446.]
+
+[Footnote 701: "Est enim calor solis ut radiorum densitas, hoc est,
+reciproce ut quadratum distantiae locorum a sole."--_Principia_, p. 508
+(3d ed., 1726).]
+
+[Footnote 702: _Jour. de Physique_, t. lxxv., p. 215.]
+
+[Footnote 703: _Ann. de Chimie_, t. vii., 1817, p. 365.]
+
+[Footnote 704: _Phil. Mag._, vol. xxiii. (4th ser.), p. 505.]
+
+[Footnote 705: _Nuovo Cimento_, t. xvi., p. 294.]
+
+[Footnote 706: _Comptes Rendus_, t. lxv., p. 526.]
+
+[Footnote 707: The direct result of 5-1/3 million degrees was doubled in
+allowance for absorption in the sun's own atmosphere. _Comptes Rendus_,
+t. lxxiv., p. 26.]
+
+[Footnote 708: _Ibid._, p. 31.]
+
+[Footnote 709: _Nature_, vols. iv., p. 204; v., p. 505.]
+
+[Footnote 710: _Ibid._, vol. xxx., p. 467.]
+
+[Footnote 711: _Ann. de Chim._, t. x. (5th ser.), p. 361.]
+
+[Footnote 712: _Comptes Rendus_, t. xcvi., p. 254.]
+
+[Footnote 713: _Phil. Mag._, vol. viii., p. 324, 1879.]
+
+[Footnote 714: _Ibid._, p. 325.]
+
+[Footnote 715: _Sitzungsberichte_, Wien, Bd. lxxix., ii., p. 391.]
+
+[Footnote 716: _Wiedemann's Annalen_, Bd. xxii., p. 291; _Scheiner,
+Strahlung und Temperatur der Sonne_, p. 27.]
+
+[Footnote 717: _Comptes Rendus_, March 28, 1892; _Astr. and
+Astrophysics_, vol. xi., p. 517.]
+
+[Footnote 718: _Phil. Trans._, vol. clxxxv., p. 361.]
+
+[Footnote 719: _Proc. Roy. Society_, December 12, 1901.]
+
+[Footnote 720: Scheiner, _Temp. der Sonne_, p. 36.]
+
+[Footnote 721: _Astroph. Jour._, vol. ii., p. 318.]
+
+[Footnote 722: _Astr. Nach._, Nos. 1,815-16.]
+
+[Footnote 723: _L'Astronomie_, September, 1884, p. 334.]
+
+[Footnote 724: _Amer. Jour. of Science_, vol. i. (3rd ser.), p. 653.]
+
+[Footnote 725: Young, _The Sun_, p. 310.]
+
+[Footnote 726: _Op._, t. vi., p. 198.]
+
+[Footnote 727: _Rosa Ursina_, lib. iv., p. 618.]
+
+[Footnote 728: _Mec. Cel._, liv. x., p. 323.]
+
+[Footnote 729: _Le Soleil_ (1st ed.), p. 136.]
+
+[Footnote 730: _Monatsber._, Berlin, 1877, p. 104.]
+
+[Footnote 731: _Astr. Nach._, Nos. 3,105-6; _Astr. and Astrophysics_,
+vol. xi., p. 720.]
+
+[Footnote 732: _Proc. Roy. Irish Acad._, vol. ii., No. 2, 1892.]
+
+[Footnote 733: _Am. Jour. of Sc._, vol. xxi., p. 187.]
+
+[Footnote 734: _Amer. Jour. of Science_, vol. v., p. 245, 1898.]
+
+[Footnote 735: For J. W. Draper's partial anticipation of this result,
+see _Ibid_. vol. iv., 1872, p. 174.]
+
+[Footnote 736: _Phil. Mag._, vol. xiv., p. 179, 1883.]
+
+[Footnote 737: "The Solar and the Lunar Spectrum," _Memoirs National
+Acad. of Science_, vol. xxxii.; "On hitherto Unrecognised Wave-lengths,"
+_Amer. Jour. of Science_, vol. xxxii., August, 1886.]
+
+[Footnote 738: _Astroph. Jour._, vol. i., p. 162.]
+
+[Footnote 739: _Annals of the Smithsonian Astroph. Observatory_, vol.
+i.; _Comptes Rendus_, t. cxxxi., p. 734; _Astroph. Jour._, vol. iii., p.
+63.]
+
+[Footnote 740: _Phil. Mag._, July, 1901.]
+
+[Footnote 741: _Comptes Rendus_, t. xcii., p. 701.]
+
+[Footnote 742: _Nature_, vol. xxvi., p. 589.]
+
+[Footnote 743: _Phil. Trans._, vol. cxxxii., p. 273.]
+
+[Footnote 744: _Ann. de Chim._, t. x., p. 321.]
+
+[Footnote 745: _Ibid._, t. xi., p. 505.]
+
+[Footnote 746: _Comptes Rendus_, t. cxii., p. 1200.]
+
+[Footnote 747: _Wied. Ann._, Bd. xxxix., p. 294; Scheiner, _Temperatur
+der Sonne_, pp. 36, 38.]
+
+
+
+
+                                CHAPTER VI
+
+                           _THE SUN'S DISTANCE_
+
+
+The question of the sun's distance arises naturally from the
+consideration of his temperature, since the intensity of the radiations
+emitted as compared with those received and measured, depends upon it.
+But the knowledge of that distance has a value quite apart from its
+connection with solar physics. The semi-diameter of the earth's orbit is
+our standard measure for the universe. It is the great fundamental datum
+of astronomy--the unit of space, any error in the estimation of which is
+multiplied and repeated in a thousand different ways, both in the
+planetary and sidereal systems. Hence its determination was called by
+Airy "the noblest problem in astronomy." It is also one of the most
+difficult. The quantities dealt with are so minute that their sure grasp
+tasks all the resources of modern science. An observational inaccuracy
+which would set the moon nearer to, or farther from us than she really
+is by one hundred miles, would vitiate an estimate of the sun's distance
+to the extent of sixteen million![748] What is needed in order to attain
+knowledge of the desired exactness is no less than this: to measure an
+angle about equal to that subtended by a halfpenny 2,000 feet from the
+eye, within a little more than a thousandth part of its value.
+
+The angle thus represented is what is called the "horizontal parallax"
+of the sun. By this amount--the breadth of a halfpenny at 2,000 feet--he
+is, to a spectator on the rotating earth, removed at rising and setting
+from his meridian place in the heavens. Such, in other terms, would be
+the magnitude of the terrestrial radius as viewed from the sun. If we
+knew this magnitude with certainty and precision, we should also know
+with certainty and precision--the dimensions of the earth being, as they
+are, well ascertained--the distance of the sun. In fact, the one
+quantity commonly stands for the other in works treating professedly of
+astronomy. But this angle of parallax or apparent displacement cannot be
+directly measured--cannot even be perceived with the finest instruments.
+Not from its smallness. The parallactic shift of the nearest of the
+stars as seen from opposite sides of the earth's orbit, is many times
+smaller. But at the sun's limb, and close to the horizon, where the
+visual angle in question opens out to its full extent, atmospheric
+troubles become overwhelming, and altogether swamp the far more minute
+effects of parallax.
+
+There remain indirect methods. Astronomers are well acquainted with the
+proportions which the various planetary orbits bear to each other. They
+are so connected, in the manner expressed by Kepler's Third Law, that
+the periods being known, it only needs to find the interval between any
+two of them in order to infer at once the distances separating them all
+from one another and from the sun. The plan is given; what we want to
+discover is the scale upon which it is drawn; so that, if we can get a
+reliable measure of the distance of a single planet from the earth, our
+problem is solved.
+
+Now some of our fellow-travellers in our unending journey round the sun,
+come at times well within the scope of celestial trigonometry. The orbit
+of Mars lies at one point not more than thirty-five million miles
+outside that of the earth, and when the two bodies happen to arrive
+together in or near the favourable spot--a conjuncture which occurs
+every fifteen years--the desired opportunity is granted. Mars is then
+"in opposition," or on the _opposite_ side of us from the sun, crossing
+the meridian consequently at midnight.[749] It was from an opposition of
+Mars, observed in 1672 by Richer at Cayenne in concert with Cassini in
+Paris, that the first scientific estimate of the sun's distance was
+derived. It appeared to be nearly eighty-seven millions of miles
+(parallax 9.5"); while Flamsteed deduced 81,700,000 (parallax 10") from
+his independent observations of the same occurrence--a difference quite
+insignificant at that stage of the inquiry. But Picard's result was just
+half Flamsteed's (parallax 20"; distance forty-one million miles); and
+Lahire considered that we must be separated from the hearth of our
+system by an interval of _at least_ 136 million miles.[750] So that
+uncertainty continued to have an enormous range.
+
+Venus, on the other hand, comes closest to the earth when she passes
+between it and the sun. At such times of "inferior conjunction" she is,
+however, still twenty-six million miles, or (in round numbers) 109 times
+as distant as the moon. Moreover, she is so immersed in the sun's rays
+that it is only when her path lies across his disc that the requisite
+facilities for measurement are afforded. These "partial eclipses of the
+sun by Venus" (as Encke termed them) are coupled together in pairs,[751]
+of which the components are separated by eight years, recurring at
+intervals alternately of 105-1/2 and 121-1/2 years. Thus, the first
+calculated transit took place in December, 1631, and its companion
+(observed by Horrocks) in the same month (N.S.), 1639. Then, after the
+lapse of 121-1/2 years, came the June couple of 1761 and 1769; and again
+after 105-1/2, the two last observed, December 8, 1874, and December 6,
+1882. Throughout the twentieth century there will be no transit of
+Venus; but the astronomers of the twenty-first will only have to wait
+four years for the first of a June pair. The rarity of these events is
+due to the fact that the orbits of the earth and Venus do not lie in the
+same plane. If they did, there would be a transit each time that our
+twin-planet overtakes us in her more rapid circling--that is, on an
+average, every 584 days. As things are actually arranged, she passes
+above or below the sun, except when she happens to be very near the line
+of intersection of the two tracks.
+
+Such an occurrence as a transit of Venus seems, at first sight, full of
+promise for solving the problem of the sun's distance. For nothing would
+appear easier than to determine exactly either the duration of the
+passage of a small, dark orb across a large brilliant disc, or the
+instant of its entry upon or exit from it. And the differences in these
+times (which, owing to the comparative nearness of Venus, are quite
+considerable), as observed from remote parts of the earth, can be
+translated into differences of space--that is, into apparent or
+parallactic displacements, whereby the distance of Venus becomes known,
+and thence, by a simple sum in proportion, the distance of the sun. But
+in that word "exactly" what snares and pitfalls lie hid! It is so easy
+to think and to say; so indefinitely hard to realise. The astronomers of
+the eighteenth century were full of hope and zeal. They confidently
+expected to attain, through the double opportunity offered them, to
+something like a permanent settlement of the statistics of our system.
+They were grievously disappointed. The uncertainty as to the sun's
+distance, which they had counted upon reducing to a few hundred thousand
+miles, remained at many millions.
+
+In 1822, however, Encke, then director of the Seeberg Observatory near
+Gotha, undertook to bring order out of the confusion of discordant, and
+discordantly interpreted observations. His combined result for both
+transits (1761 and 1769) was published in 1824,[752] and met universal
+acquiescence. The parallax of the sun thereby established was 8.5776",
+corresponding to a mean distance[753] of 95-1/4 million miles. Yet this
+abolition of doubt was far from being so satisfactory as it seemed.
+Serenity on the point lasted exactly thirty years. It was disturbed in
+1854 by Hansen's announcement[754] that the observed motions of the moon
+could be drawn into accord with theory only on the terms of bringing the
+sun considerably nearer to us than he was supposed to be.
+
+Dr. Matthew Stewart, professor of mathematics in the University of
+Edinburgh, had made a futile attempt in 1763 to deduce the sun's
+distance from his disturbing power over our satellite.[755] Tobias Mayer
+of Gottingen, however, whose short career was fruitful of suggestions,
+struck out the right way to the same end; and Laplace, in the seventh
+book of the _Mecanique Celeste_,[756] gave a solar parallax derived from
+the lunar "parallactic inequality" substantially identical with that
+issuing from Encke's subsequent discussion of the eighteenth-century
+transits. Thus, two wholly independent methods--the trigonometrical,
+or method by survey, and the gravitational, or method by
+perturbation--seemed to corroborate each the upshot of the use of the
+other until the nineteenth century was well past its meridian. It is
+singular how often errors conspire to lead conviction astray.
+
+Hansen's note of alarm in 1854 was echoed by Leverrier in 1858.[757] He
+found that an apparent monthly oscillation of the sun which reflects a
+real monthly movement of the earth round its common centre of gravity
+with the moon, and which depends for its amount solely on the mass of
+the moon and the distance of the sun, required a diminution in the
+admitted value of that distance by fully four million miles. Three years
+later he pointed out that certain perplexing discrepancies between the
+observed and computed places both of Venus and Mars, would vanish on the
+adoption of a similar measure.[758] Moreover, a favourable opposition of
+Mars gave the opportunity in 1862 for fresh observations, which,
+separately worked out by Stone and Winnecke, agreed with all the newer
+investigations in fixing the great unit at slightly over 91 million
+miles. In Newcomb's hands they gave 92-1/2 million.[759] The
+accumulating evidence in favour of a large reduction in the sun's
+distance was just then reinforced by an auxiliary result of a totally
+different and unexpected kind.
+
+The discovery that light does not travel instantaneously from point to
+point, but takes some short time in transmission, was made by Olaus
+Roemer in 1675, through observing that the eclipses of Jupiter's
+satellites invariably occurred later, when the earth was on the far
+side, than when it was on the near side of its orbit. Half the
+difference, or the time spent by a luminous vibration in crossing the
+"mean radius" of the earth's orbit, is called the "light-equation"; and
+the determination of its precise value has claimed the minute care
+distinctive of modern astronomy. Delambre in 1792 made it 493 seconds.
+Glasenapp, a Russian astronomer, raised the estimate in 1874 to 501,
+Professor Harkness adopts a safe medium value of 498 seconds. Hence, if
+we had any independent means of ascertaining how fast light travels, we
+could tell at once how far off the sun is.
+
+There is yet another way by which knowledge of the swiftness of light
+would lead us straight to the goal. The heavenly bodies are perceived,
+when carefully watched and measured, to be pushed forward out of their
+true places, in the direction of the earth's motion, by a very minute
+quantity. This effect (already adverted to) has been known since
+Bradley's time as "aberration." It arises from a combination of the two
+movements of the earth round the sun and of the light-waves through the
+ether. If the earth stood still, or if light spent no time on the road
+from the stars, such an effect would not exist. Its amount represents
+the proportion between the velocities with which the earth and the
+light-rays pursue their respective journeys. This proportion is,
+roughly, one to ten thousand. So that here again, if we knew the rate
+per second of luminous transmission, we should also know the rate per
+second of the earth's movement, consequently the size of its orbit and
+the distance of the sun.
+
+But, until lately, instead of finding the distance of the sun from the
+velocity of light, there has been no means of ascertaining the velocity
+of light except through the imperfect knowledge possessed as to the
+distance of the sun. The first successful terrestrial experiments on the
+point date from 1849; and it is certainly no slight triumph of human
+ingenuity to have taken rigorous account of the delay of a sunbeam in
+flashing from one mirror to another. Fizeau led the way,[760] and he was
+succeeded, after a few months, by Leon Foucault,[761] who, in 1862, had
+so far perfected Wheatstone's method of revolving mirrors, as to be able
+to announce with authority that light travelled slower, and that the sun
+was in consequence nearer than had been supposed.[762] Thus a third line
+of separate research was found to converge to the same point with the
+two others.
+
+Such a conspiracy of proof was not to be resisted, and at the
+anniversary meeting of the Royal Astronomical Society in February, 1864,
+the correction of the solar distance took the foremost place in the
+annals of the year. Lest, however, a sudden bound of four million miles
+nearer to the centre of our system should shake public faith in
+astronomical accuracy, it was explained that the change in the solar
+parallax corresponding to that huge leap, amounted to no more than the
+breadth of a human hair 125 feet from the eye![763] The Nautical Almanac
+gave from 1870 the altered value of 8.95", for which Newcomb's result of
+8.85", adopted in 1869 in the Berlin Ephemeris, was substituted some ten
+years later. In astronomical literature the change was initiated by Sir
+Edmund Beckett in the first edition (1865) of his _Astronomy without
+Mathematics_.
+
+If any doubt remained as to the misleading character of Encke's
+deduction, so long implicitly trusted in, it was removed by Powalky's
+and Stone's rediscussions, in 1864 and 1868 respectively, of the transit
+observations of 1769. Using improved determinations of the longitude of
+the various stations, and a selective judgment in dealing with their
+materials, which, however indispensable, did not escape adverse
+criticism, they brought out results confirmatory of the no longer
+disputed necessity for largely increasing the solar parallax, and
+proportionately diminishing the solar distance. Once more in 1890, and
+this time with better success, the eighteenth-century transits were
+investigated by Professor Newcomb.[764] Turning to account the
+experience gained in the interim regarding the optical phenomena
+accompanying such events, he elicited from the mass of somewhat
+discordant observations at his command, a parallax (8.79") in close
+agreement with the value given by sundry modes of recent research.
+
+Conclusions on the subject, however, were still regarded as purely
+provisional. A transit of Venus was fast approaching, and to its
+arbitrament, as to that of a court of final appeal, the pending question
+was to be referred. It is true that the verdict in the same case by the
+same tribunal a century earlier had proved of so indecisive a character
+as to form only a starting-point for fresh litigation; but that century
+had not passed in vain, and it was confidently anticipated that
+observational difficulties, then equally unexpected and insuperable,
+would yield to the elaborate care and skill of forewarned modern
+preparation.
+
+The conditions of the transit of December 8, 1874, were sketched out by
+Sir George Airy, then Astronomer-Royal, in 1857,[765] and formed the
+subject of eager discussion in this and other countries down to the very
+eve of the occurrence. In these Mr. Proctor took a leading part; and it
+was due to his urgent representations that provision was made for the
+employment of the method identified with the name of Halley,[766] which
+had been too hastily assumed inapplicable to the first of each
+transit-pair. It depends upon the difference in the length of time taken
+by the planet to cross the sun's disc, as seen from various points of
+the terrestrial surface, and requires, accordingly, the visibility of
+both entrance and exit at the same station. Since these were, in 1874,
+separated by about three and a half hours, and the interval may be much
+longer, the choice of posts for the successful use of the "method of
+durations" is a matter of some difficulty.
+
+The system described by Delisle in 1760, on the other hand, involves
+merely noting the instant of ingress or egress (according to situation)
+from opposite extremities of a terrestrial diameter; the disparity in

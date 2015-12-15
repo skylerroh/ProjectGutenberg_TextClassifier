@@ -1,0 +1,495 @@
+The Project Gutenberg EBook of Scientific American Supplement, No. 717,
+September  28, 1889, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Scientific American Supplement, No. 717,  September  28, 1889
+
+Author: Various
+
+Release Date: February 12, 2006 [EBook #17755]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SCIENTIFIC AMERICAN ***
+
+
+
+
+Produced by Amy Cunningham, Juliet Sutherland and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+[Illustration]
+
+
+
+
+SCIENTIFIC AMERICAN SUPPLEMENT NO. 717
+
+
+
+
+NEW YORK, SEPTEMBER 28, 1889.
+
+Scientific American Supplement. Vol. XXVIII., No. 717.
+
+Scientific American established 1845.
+
+Scientific American Supplement, $5 a year.
+
+Scientific American and Supplement, $7 a year.
+
+       *       *       *       *       *
+
+
+
+
+TABLE OF CONTENTS.
+
+
+I.    CIVIL ENGINEERING.--The Girard Hydraulic Railway.--One of
+      the great curiosities of the Paris exposition, the almost
+      frictionless railway, with sectional illustrations of its
+      structure.--8 illustrations.                               11451
+
+II.   ELECTRICITY.--Early Electric Lighting.--Electric lighting in
+      Salem in 1859, a very curious piece of early history.      11458
+
+      Electric Motor for Alternating Currents.--A motor on an
+      entirely new principle for the application of the alternating
+      current with results obtained, and the economic outlook of
+      the invention.                                             11458
+
+      Portable Electric Light.--A lamp for military and other use,
+      in which the prime motor, including the boiler and the lamp
+      itself, are carried on one carriage.--1 illustration.      11458
+
+      The Electric Age.--By CHARLES CARLETON COFFIN.--A short
+      _resume_ of the initial achievements of modern
+      electricity.                                               11458
+
+III.  GEOLOGY.--The Fuels of the Future.--A prognosis of the future
+      prospect of the world as regards a fuel supply, with a
+      special reference to the use of natural gas.               11457
+
+IV.   MISCELLANEOUS.--Preservation of Spiders for the Cabinet.--A
+      method of setting up spiders for preservation in the cabinet,
+      with formulae of solutions used and full details of the
+      manipulation.--1 illustration.                             11461
+
+      The Ship in the New French Ballet of the "Tempest."--A
+      curious example of modern scenic perfection, giving the
+      construction and use of an appliance of the modern ballet.--5
+      illustrations.                                             11450
+
+V.    NAVAL ENGINEERING.--Crank and Screw Shafts of the Mercantile
+      Marine.--By G. W. MANUEL.--This all-important subject of
+      modern naval engineering treated in detail, illustrating the
+      progress of the present day, the superiority of material and
+      method of using it, with interesting practical examples.--1
+      illustration.                                              11448
+
+      Experimental Aid in the Design of High Speed Steamships.--By
+      D. P.--A plea for the experimental determination of the
+      probable speed of ships, with examples of its application in
+      practice.                                                  11449
+
+      Forging a Propeller Shaft.--How large steamer shafts are
+      forged, with example of the operation as exhibited to the
+      Shah of Persia at Brown & Co.'s works, Sheffield, England.--1
+      illustration.                                              11447
+
+      The Naval Forges and Steel Works at St. Chamond.--The forging
+      of a piece of ordnance from a 90 ton ingot of steel, an
+      artistic presentation of the subject.--1 illustration.     11447
+
+VI.   PHOTOGRAPHY.--The Pyro Developer with Metabisulphite of
+      Potash.--By Dr. J. M. EDER.--A new addition to the pyro
+      developer, with formulae and results.                       11462
+
+VII.  PHYSICS.--Quartz Fibers.--A lecture by Mr. C. V. BOYS on his
+      famous experiments of the production of microscopic fibers,
+      with enlarged illustrations of the same, and a graphic
+      account of the entire subject.--7 illustrations.           11452
+
+      The Modern Theory of Light.--By Prof. OLIVER LODGE.--An
+      abstract of a lecture by the eminent investigator and
+      expositor of Prof. Hertz's experiments, giving a brief review
+      of the present aspect of this absorbing question.          11459
+
+VIII. PHYSIOLOGY.--Heat in Man.--Experiments recently made by Dr.
+      Loewy on the heat of the human system.--Described and
+      commented on by Prof. ZUNTZ.                               11461
+
+IX.   SANITATION.--On Purification of Air by Ozone--with an Account
+      of a New Method.--By Dr. B. W. RICHARDSON.--A very important
+      subject treated in full, giving the past attempts in the
+      utilization of ozone and a method now available.           11460
+
+X.    TECHNOLOGY.--Alkali Manufactories.--Present aspect of the
+      Leblanc process and the new process for the recovery of
+      sulphur from its waste.                                    11457
+
+      Dried Wine Grapes.--The preparation of the above wine on a
+      large scale in California, with full details of the process
+      adopted.                                                   11461
+
+      The Production of Ammonia from Coal.--By LUDWIG MOND.--A
+      valuable review of this important industry, with actual
+      working results obtained in carrying out a retort process.--2
+      illustrations.                                             11454
+
+      Nature, Composition, and Treatment of Animal and Vegetable
+      Fabrics.--The history of fabrics and fibers in the vegetable
+      and animal world, their sources, applications, and
+      treatments.                                                11453
+
+      Walnut Oil.--By Thomas T. P. BRUCE WARREN.--An excellent oil
+      for painters' use, with description of a simple method for
+      preparing it on a small scale.                             11462
+
+       *       *       *       *       *
+
+
+
+
+THE NAVAL FORGES AND STEEL WORKS AT ST. CHAMOND.
+
+
+With the idyls and historic or picturesque subjects that the Universal
+Exposition gives us the occasion to publish, we thought we would make
+a happy contrast by selecting a subject of a different kind, by
+presenting to our readers Mr. Layraud's fine picture, which represents
+the gigantic power hammer used at the St. Chamond Forges and Steel
+Works in the construction of our naval guns. By the side of the
+machinery gallery and the Eiffel tower this gigantic apparatus is well
+in its place.
+
+[Illustration: UNIVERSAL EXPOSITION--BEAUX ARTS--MARINE IRON AND STEEL
+WORKS AT SAINT CHAMOND--PRESENTATION OF A PIECE OF ORDNANCE UNDER THE
+VERTICAL HAMMER.--PICTURE BY M. JOSEPH LAYRAUD.]
+
+The following is the technical description that has been given to us
+to accompany our engraving: In an immense hall, measuring 260 ft. in
+length by 98 ft. in width, a gang of workmen has just taken from the
+furnace a 90 ton ingot for a large gun for an armor-clad vessel. The
+piece is carried by a steam crane of 140 tons power, and the men
+grouped at the maneuvering levers are directing this incandescent mass
+under the power hammer which is to shape it. This hammer, whose huge
+dimensions allow it to take in the object treated, is one of the
+largest in existence. Its striking mass is capable of reaching 100
+tons, and the height of the fall is 16 ft. To the left of the hammer
+is seen a workman getting ready to set it in motion. It takes but one
+man to maneuver this apparatus, and this is one of the characteristic
+features of its construction.
+
+The beginning of this hammer's operation, as well as the operations of
+the forge itself, which contains three other hammers of less power,
+dates back to 1879. It is with this great hammer that the largest
+cannons of the naval artillery--those of 16 inches--have been made
+(almost all of which have been manufactured at St. Chamond), and
+those, too, of 14, 13, and 12 inches. This is the hammer, too, that, a
+few months ago, was the first to be set at work on the huge 13 in.
+guns of new model, whose length is no less than 52 ft. in the rough.
+
+Let us add a few more figures to this account in order to emphasize
+the importance of the installations which Mr. Layraud's picture
+recalls, and which our great French industry has not hesitated to
+establish, notwithstanding the great outlay that they necessitated.
+This huge hammer required foundations extending to a depth of 32 ft.,
+and the amount of metal used in its construction was 2,640,000 pounds.
+The cost of establishing the works with all the apparatus contained
+therein was $400,000.--_Le Monde Illustre._
+
+       *       *       *       *       *
+
+
+
+
+FORGING A PROPELLER SHAFT.
+
+
+During the recent visit of the Shah of Persia to England, he visited,
+among other places, the great works of John Brown & Co., at Sheffield,
+and witnessed the pressing of a propeller shaft for one of the large
+ocean steamships. The operation is admirably illustrated in our
+engraving, for which we are indebted to the _Illustrated London News_.
+
+[Illustration: PROPELLER SHAFT BEING PRESSED AT MESSRS. JOHN BROWN &
+CO.'S WORKS, SHEFFIELD.]
+
+       *       *       *       *       *
+
+
+
+
+CRANK AND SCREW SHAFTS OF THE MERCANTILE MARINE.[1]
+
+By G. W. MANUEL.
+
+    [Footnote 1: A paper read before the Institute of Marine
+    Engineers, Stratford, 1889.]
+
+
+Being asked to read a paper before your institute, I have chosen this
+subject, as I think no part of the marine engine has given so much
+trouble and anxiety to the seagoing engineer; and from the list of
+shipping casualties in the daily papers, a large proportion seem due
+to the shafting, causing loss to the shipowner, and in some instances
+danger to the crew. My endeavor is to put some of the causes of these
+casualties before you, also some of the remedies that have tended to
+reduce their number. Several papers have been read on this subject,
+chiefly of a theoretical description, dealing with the calculations
+relating to the twisting and bending moments, effects of the angles of
+the cranks, and length of stroke--notably that read by Mr. Milton
+before the Institute of Naval Architects in 1881. The only _practical_
+part of this paper dealt with the possibility of the shafts getting
+out of line; and regarding this contingency Dr. Kirk said that "if
+superintendent engineers would only see that the bearings were kept in
+line, broken crank and other shafts would not be so much heard of." Of
+course this is one of those statements made in discussions of this
+kind, for what purpose I fail to see, and as far as my own experience
+goes is _misleading_; for having taken charge of steamers new from the
+builders' hands, when it is at least expected that these shafts would
+_be in line_, the crank shaft bearings heated very considerably, and
+_continued_ to do so, rendering the duration of life of the crank
+shaft a short one; and though they were never what is termed out of
+line, the bearings could _not_ be kept cool without the use of sea
+water, and occasionally the engines had to be stopped to cool and
+smooth up the bearing surfaces, causing delays, worry, and anxiety,
+for which the engineer in charge was in no way responsible. Happily
+this state of what I might call _uncertainties_ is being gradually
+remedied, thanks being largely due to those engineers who have the
+skill to suggest improvements and the patience to carry them out
+against much opposition.
+
+These improvements in many instances pertain to the engine builder's
+duties, and are questions which I think have been treated lightly;
+notably that of insufficient bearing surface, and one of the principal
+causes of hot bearings, whereby the oil intended for lubrication was
+squeezed out, and the metal surfaces brought too close in contact; and
+when bearings had a pressure of 200 lb. per square inch, it has been
+found that not more than 120 lb. per square inch should be exerted to
+keep them cool (this varies according to the material of which the
+bearing is composed), without having to use sea water and prevent them
+being ground down, and thus getting out of line. I have known a
+bearing in a new steamer, in spite of many gallons of oil wasted on
+it, wear down one-eighth of an inch in a voyage of only 6,000 miles,
+from insufficiency of bearing surface.
+
+Several good rules are in use governing the strength of shafts, which
+treat of the diameter of the bearings only and angles of the cranks;
+and the engine builder, along with the ship owner, has been chary of
+increasing the surfaces by lengthening the bearings; for to do this
+means increase of space taken up fore and aft the vessel, besides
+additional weight of engine. Engine builders all aim in competing to
+put their engines in less space than their rivals, giving same power
+and sometimes more. I think, however, this inducement is now more
+carefully considered, as it has been found more economical to give
+larger bearing surfaces than to have steamers lying in port, refitting
+a crank shaft, along with the consequences of heavy bills for salvage
+and repairs, also the risk of losing the steamer altogether.
+Proportioning the bearings to the weights and strains they have to
+carry has also been an improvement. The different bearings of marine
+engines were usually made alike in surface, irrespective of the work
+each had to do, with a view to economy in construction.
+
+In modern practice the after bearings have more surface than the
+forward, except in cases where heavy slide-valve gear has to be
+supported, so that the wear down in the whole length of the shaft is
+equal, thus avoiding those alternate bending strains at the top and
+bottom of the stroke every revolution. Another improvement that has
+been successfully introduced, adding to the duration of life of crank
+shafts, is the use of white bearing metal, such as Parson's white
+brass, on which the shafts run smoothly with less friction and
+tendency to heat, so that, along with well proportioned surfaces, a
+number of crank shafts in the Peninsular and Oriental Co.'s service
+have not required lining up for eight years, and I hope with care may
+last till new boilers are required. Large and powerful steamers can be
+driven full speed from London to Australia and back without having any
+water on the bearings, using oil of only what is considered a moderate
+price, allowing the engineer in charge to attend to the economical
+working of both engines and boilers (as well as many other engines of
+all kinds now placed on board a large mail and passenger steamer),
+instead of getting many a drenching with sea water, and worried by
+close attention to one or two hot bearings all the watch. Compare
+these results with the following: In the same service in 1864, and
+with no blame to the engineer in charge, the crank shaft bearings of a
+screw steamer had to be lined up every five days at intermediate
+ports, through insufficient bearing surfaces. Sea water had
+continually to be used, resulting in frequent renewal of crank shaft.
+Steamers can now run 25,000 miles without having to lift a bearing,
+except for examination at the end of the voyage. I would note here
+that the form of the bearings on which the shafts work has also been
+much improved. They are made more of a _solid character_, the metal
+being more equally disposed _round_ the shaft, and the use of gun
+metal for the main bearings is now fast disappearing. In large engines
+the only metals used are cast iron and white brass, an advantage also
+in reducing the amount of wear on the recess by corrosion and grinding
+where sea water was used often to a considerable extent.
+
+[Illustration: Fig. 1
+               Fig. 2]
+
+Figs. No. 1 and No. 2 show the design of the old and new main
+bearings, and, I think, require but little explanation. Most of you
+present will remember your feelings when, after a hot bearing, the
+brasses were found to be cracked at top and bottom, and the trouble
+you had afterward to keep these brasses in position. When a smoking
+hot bearing occurred, say in the heating of a crank pin, it had the
+effect of damaging the material of the shaft more or less, according
+to its original soundness, generally at the fillets in the angles of
+the cranks. For when the outer surface of the iron got hot, cold
+water, often of a low temperature, was suddenly poured on, and the hot
+iron, previously expanded, was suddenly contracted, setting up strains
+which in my opinion made a small tear transversely where the metal was
+_solid_; and where what is termed lamination flaws, due to
+construction, existed, these were extended in their natural direction,
+and by a repetition of this treatment these flaws became of such a
+serious character that the shafts had to be condemned, or actually
+gave way at sea. The introduction of the triple expansion engine, with
+the three cranks, gave better balance to the shaft, and the forces
+acting in the path of the crank pin, being better divided, caused more
+regular motion on the shaft, and so to the propeller. This is
+specially noticeable in screw steamers, and is taken advantage of by
+placing the cabins further aft, nearer the propeller, the stern having
+but little vibration; the dull and heavy surging sound, due to unequal
+motions of the shaft in the two-crank engines, is exchanged for a more
+regular sound of less extent, and the power formerly wasted in
+vibrating the stern is utilized in propelling the vessel. In spite of
+all these improvements I have mentioned, there remains the serious
+question of defects in the material, due to variety of quality and the
+extreme care that has to be exercised in all the stages during
+construction of crank or other shafts built of iron. Many shafts have
+given out at sea and been condemned, through no other cause than
+_original defects_ in their construction and material.
+
+The process of welding and forging a crank shaft of large diameter now
+is to make it up of so many small _pieces_, the _best shafts_ being
+made of what is termed scrap, representing thousands of small pieces
+of selected iron, such as cuttings of old iron boiler plates,
+cuttings off forgings, old bolts, horseshoes, angle iron, etc., all
+welded together, forged into billets, reheated, and rolled into bars.
+It is then cut into lengths, piled, and formed into slabs of suitable
+size for welding up into the shafts. No doubt this method is
+preferable to the old method of "fagoting," so called, as the iron
+bars were placed side by side, resembling a bundle of fagots of about
+18 or 20 inches square.
+
+The result was that while the outside bars would be welded, the inside
+would be improperly welded, or, the hammer being weak, the blow would
+be insufficient to secure the proper weld, and it was no uncommon
+thing for a shaft to break and expose the internal bars, showing them
+to be quite separate, or only partially united. This danger has been
+much lessened in late years by careful selection of the materials,
+improved methods of cleaning the scrap, better furnaces, the use of
+the most suitable fuels, and more powerful steam hammers. Still, with
+all this care, I think I may say there is not a shaft without flaws or
+defects, more or less, and when these flaws are situated in line of
+the greatest strains, and though you _may not_ have a hot bearing,
+they often extend until the shaft becomes unseaworthy.
+
+[Diagrams shown illustrated the various forms of flaws.] These flaws
+were not observable when the shafts were new, although carefully
+inspected. They gradually increased under strain, came to the outside,
+and were detected. Considerable loss fell upon the owners of these
+vessels, who were in no way to blame; nor could they recover any money
+from the makers of the shafts, who were alone to blame. I am pleased
+to state, and some of the members here present know, that considerable
+improvement has been effected in the use of better material than iron
+for crank shafts, by the introduction of a special mild steel, by
+Messrs. Vickers, Sons & Co., of Sheffield, and that instead of having
+to record the old familiar defects found in iron shafts, I can safely
+say no flaws have been observed, when new or during eight years
+running, and there are now twenty-two shafts of this mild steel in the
+company's service.
+
+I may here state that steel was used for crank shafts in this service
+in 1863, as then manufactured in Prussia by Messrs. Krupp, and
+generally known as _Krupp's steel_, the tensile strength of which was
+about 40 tons per square inch, and though free from flaws, it was
+unable to stand the fatigue, and broke, giving little warning. It was
+of too brittle a nature, more resembling chisel steel. It was broken
+again under a falling weight of 10 cwt. with a 10 ft. drop = 121/2 tons.
+
+The mild steel now used was first tried in 1880. It possessed tensile
+strength of 24 to 25 tons per square inch. It was then considered
+advisable not to exceed this, and err rather on the safe side. This
+shaft has been in use eight years, and no sign of any flaw has been
+observed. Since then the tensile strength of mild steel has gradually
+been increased by Messrs. Vickers, the steel still retaining the
+elasticity and toughness to endure fatigue. This has only been arrived
+at by improvements in the manufacture and more powerful and better
+adapted hammers to forge it down from the large ingots to the size
+required. The amount of work they are now able to subject the steel to
+renders it more fit to sustain the fatigue such as that to be endured
+by a crank shaft. These ingots of steel can be cast up to 100 tons
+weight, and require powerful machines to deal with them. For shafts
+say of 20 inches diameter, the diameter of the ingot would be about 52
+inches. This allows sufficient work to be put on the couplings, as
+well as the shaft. To make solid crank shafts of this material, say of
+19 inches diameter, the ingot would weigh 42 tons, the forging, when
+completed, 17 tons, and the finished shaft 113/4 tons; so that you see
+there is 25 tons wasted before any machining is done, and 51/4 tons
+between the forging and finished shaft. This makes it very expensive
+for solid shafts of large size, and it is found better to make what is
+termed a _built shaft_; the cranks are a little heavier, and engine
+framings necessarily a little wider, a matter comparatively of little
+moment. I give you a rough drawing of the hydraulic hammer, or
+strictly speaking a _press_, used by Messrs. Vickers in forging down
+the ingots in shafts, guns, or other large work. This hammer can give
+a squeeze of 3,000 tons. The steel seems to yield under it like tough
+putty, and, unlike the steam hammer, there is no _jarring_ on the
+material, and it is manipulated with the same ease as a small hammer
+by hydraulics.
+
+The tensile strength of steel used for shafts having increased from 24
+to 30 tons, and in some cases 31 tons, considering that this was 2
+tons above that specified, and that we were approaching what may be
+termed _hard steel_, I proposed to the makers to test this material
+beyond the usual tests, viz., tensile, extension, and cold bending
+test. The latter, I considered, was much too easy for this fine
+material, as a piece of fair iron will bend cold to a radius of 11/2
+times its diameter or thickness, without fracture; and I proposed a
+test more resembling the fatigue that a crank shaft has sometimes to
+stand, and more worthy of this material; and in the event of its
+standing this successfully, I would pass the material of 30 or 31 tons
+tensile strength. Specimens of steel used in the shafts were cut off
+different parts--crank pins and main bearings--(the shafts being built
+shafts) and roughly planed to 11/2 inches square, and about 12 inches
+long. They were laid on the block as shown, and a cast iron block,
+fitted with a hammer head 1/2 ton weight, let suddenly fall 12 inches,
+the block striking the bar with a blow of about 4 tons. The steel bar
+was then turned upside down, and the blow repeated, reversing the
+piece every time until fracture was observed, and the bar ultimately
+broken. The results were that this steel stood 58 blows before showing
+signs of fracture, and was only broken after 77 blows. It is
+noticeable how many blows it stood after fracture. A bar of good
+wrought iron, undressed, of same dimensions, was tried, and broke the
+first blow. A bar cut from a piece of iron to form a large chain,
+afterward forged down and only filed to same dimensions, broke at 25
+blows. I was well satisfied with the results, and considered this
+material, though possessing a high tensile strength, was in every way
+suitable for the construction and endurance required in crank shafts.
+
+Sheet No. 1 shows you some particulars of these tests:
+
+      Tensile    Elong.            Fractured    Broke    Fall
+       Tons.     in 5"     Bend.     Blows.     Blows.    In.
+  A =  30.5     28 p. c.   Good       61         78       12
+
+In order to test the comparative value of steel of 243/4 up to 35 tons
+tensile strength, I had several specimens taken from shafts tested in
+the manner described, which may be called a _fatigue_ test. The
+results are shown on the same sheet:
+

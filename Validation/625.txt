@@ -1,0 +1,333 @@
+The Project Gutenberg EBook of Academica, by Marcus Tullius Cicero
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Academica
+
+Author: Marcus Tullius Cicero
+
+Release Date: February 8, 2005 [EBook #14970]
+
+Language: Latin with English and Greek (ancient)
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ACADEMICA ***
+
+
+
+
+Produced by Ted Garvin, Keith Edkins and the PG Online Distributed
+Proofreading Team
+
+
+
+
+
+THE
+
+ACADEMICA OF CICERO.
+
+_THE TEXT REVISED AND EXPLAINED_
+
+BY
+
+JAMES S. REID,
+
+M.L. CAMB. M.A. (LOND.)
+ASSISTANT TUTOR AND LATE FELLOW, CHRIST'S COLLEGE, CAMBRIDGE;
+ASSISTANT EXAMINER IN CLASSICS TO THE UNIVERSITY OF LONDON.
+
+LONDON:
+MACMILLAN AND CO.
+1874
+
+[_All Rights reserved_.]
+
+       *       *       *       *       *
+
+TO
+THOSE OF HIS PUPILS
+WHO HAVE READ WITH HIM
+_THE ACADEMICA_,
+THIS EDITION
+IS AFFECTIONATELY DEDICATED
+BY
+THE EDITOR.
+
+       *       *       *       *       *
+
+PREFACE.
+
+Since the work of Davies appeared in 1725, no English scholar has edited
+the _Academica_. In Germany the last edition with explanatory notes is that
+of Goerenz, published in 1810. To the poverty and untrustworthiness of
+Goerenz's learning Madvig's pages bear strong evidence; while the work of
+Davies, though in every way far superior to that of Goerenz, is very
+deficient when judged by the criticism of the present time.
+
+This edition has grown out of a course of Intercollegiate lectures given by
+me at Christ's College several years ago. I trust that the work in its
+present shape will be of use to undergraduate students of the Universities,
+and also to pupils and teachers alike in all schools where the
+philosophical works of Cicero are studied, but especially in those where an
+attempt is made to impart such instruction in the Ancient Philosophy as
+will prepare the way for the completer knowledge now required in the final
+Classical Examinations for Honours both at Oxford and Cambridge. My notes
+have been written throughout with a practical reference to the needs of
+junior students. During the last three or four years I have read the
+_Academica_ with a large number of intelligent pupils, and there is
+scarcely a note of mine which has not been suggested by some difficulty or
+want of theirs. My plan has been, first, to embody in an Introduction such
+information concerning Cicero's philosophical views and the literary
+history of the _Academica_ as could not be readily got from existing books;
+next, to provide a good text; then to aid the student in obtaining a higher
+knowledge of Ciceronian Latinity, and lastly, to put it in his power to
+learn thoroughly the philosophy with which Cicero deals.
+
+My text may be said to be founded on that of Halm which appeared in the
+edition of Cicero's philosophical works published in 1861 under the
+editorship of Baiter and Halm as a continuation of Orelli's second edition
+of Cicero's works, which was interrupted by the death of that editor. I
+have never however allowed one of Halm's readings to pass without carefully
+weighing the evidence he presents; and I have also studied all original
+criticisms upon the text to which I could obtain access. The result is a
+text which lies considerably nearer the MSS. than that of Halm. My
+obligations other than those to Halm are sufficiently acknowledged in my
+notes; the chief are to Madvig's little book entitled _Emendationes ad
+Ciceronis libros Philosophicos_, published in 1825 at Copenhagen, but
+never, I believe, reprinted, and to Baiter's text in the edition of
+Cicero's works by himself and Kayser. In a very few passages I have
+introduced emendations of my own, and that only where the conjecttires of
+other Editors seemed to me to depart too widely from the MSS. If any
+apology be needed for discussing, even sparingly, in the notes, questions
+of textual criticism, I may say that I have done so from a conviction that
+the very excellence of the texts now in use is depriving a Classical
+training of a great deal of its old educational value. The judgment was
+better cultivated when the student had to fight his way through bad texts
+to the author's meaning and to a mastery of the Latin tongue. The
+acceptance of results without a knowledge of the processes by which they
+are obtained is worthless for the purposes of education, which is thus made
+to rest on memory alone. I have therefore done my best to place before the
+reader the arguments for and against different readings in the most
+important places where the text is doubtful.
+
+My experience as a teacher and examiner has proved to me that the students
+for whom this edition is intended have a far smaller acquaintance than they
+ought to have with the peculiarities and niceties of language which the
+best Latin writers display. I have striven to guide them to the best
+teaching of Madvig, on whose foundation every succeeding editor of Cicero
+must build. His edition of the _De Finibus_ contains more valuable material
+for illustrating, not merely the language, but also the subject-matter of
+the _Academica_, than all the professed editions of the latter work in
+existence. Yet, even after Madvig's labours, a great deal remains to be
+done in pointing out what is, and what is not, Ciceronian Latin. I have
+therefore added very many references from my own reading, and from other
+sources. Wherever a quotation would not have been given but for its
+appearance in some other work, I have pointed out the authority from whom
+it was taken. I need hardly say that I do not expect or intend readers to
+look out all the references given. It was necessary to provide material by
+means of which the student might illustrate for himself a Latin usage, if
+it were new to him, and might solve any linguistic difficulty that
+occurred. Want of space has compelled me often to substitute a mere
+reference for an actual quotation.
+
+As there is no important doctrine of Ancient Philosophy which is not
+touched upon somewhere in the _Academica_, it is evidently impossible for
+an editor to give information which would be complete for a reader who is
+studying that subject for the first time. I have therefore tried to enable
+readers to find easily for themselves the information they require, and
+have only dwelt in my own language upon such philosophical difficulties as
+were in some special way bound up with the _Academica_. The two books
+chiefly referred to in my notes are the English translation of Zeller's
+_Stoics, Epicureans and Sceptics_ (whenever Zeller is quoted without any
+further description this book is meant), and the _Historia Philosophiae_ of
+Ritter and Preller. The _pages_, not the _sections_, of the fourth edition
+of this work are quoted. These books, with Madvig's _De Finibus_, all
+teachers ought to place in the hands of pupils who are studying a
+philosophical work of Cicero. Students at the Universities ought to have
+constantly at hand Diogenes Laertius, Stobaeus, and Sextus Empiricus, all
+of which have been published in cheap and convenient forms.
+
+Although this edition is primarily intended for junior students, it is
+hoped that it may not be without interest for maturer scholars, as bringing
+together much scattered information illustrative of the _Academica_, which
+was before difficult of access. The present work will, I hope, prepare the
+way for an exhaustive edition either from my own or some more competent
+hand. It must be regarded as an experiment, for no English scholar of
+recent times has treated any portion of Cicero's philosophical works with
+quite the purpose which I have kept in view and have explained above.
+Should this attempt meet with favour, I propose to edit after the same plan
+some others of the less known and less edited portions of Cicero's
+writings.
+
+In dealing with a subject so unusually difficult and so rarely edited I
+cannot hope to have escaped errors, but after submitting my views to
+repeated revision during four years, it seems better to publish them than
+to withhold from students help they so greatly need. Moreover, it is a
+great gain, even at the cost of some errors, to throw off that intellectual
+disease of over-fastidiousness which is so prevalent in this University,
+and causes more than anything else the unproductiveness of English
+scholarship as compared with that of Germany,
+
+I have only to add that I shall be thankful for notices of errors and
+omissions from any who are interested in the subject.
+
+JAMES S. REID.
+
+CHRIST'S COLLEGE, CAMBRIDGE, _December, 1873._
+
+       *       *       *       *       *
+
+LIST OF ABBREVIATIONS USED IN THIS WORK.
+
+Cic. = Cicero; Ac., Acad. = Academica; Ac., Acad. Post. = Academica
+Posteriora; D.F. = De Finibus; T.D. = Tusculan Disputations; N.D. = De
+Natura Deorum; De Div. = De Divinatione; Parad. = Paradoxa; Luc. =
+Lucullus; Hortens. = Hortensius; De Off. = De Officiis; Tim. = Timaeus;
+Cat. Mai. = Cato Maior; Lael. = Laelius; De Leg. = De Legibus; De Rep. = De
+Republica; Somn. Scip. = Somnium Scipionis; De Or. = De Oratore; Orat. =
+Orator; De Inv. = De Inventione; Brut. = Brutus; Ad Att. = Ad Atticum; Ad
+Fam. = Ad Familiares; Ad Qu. Frat. = Ad Quintum Fratrem; In Verr., Verr. =
+In Verrem; Div. in. Qu. Caec. = Divinatio in Quintum Caecilium; In Cat. =
+In Catilinam.
+
+Plat. = Plato: Rep. = Republic; Tim. = Timaeus; Apol. = Apologia Socratis;
+Gorg. = Gorgias; Theaet. = Theaetetus.
+
+Arist. = Aristotle; Nic. Eth. = Nicomachean Ethics; Mag. Mor. = Magna
+Moralia; De Gen. An. = De Generatione Animalium; De Gen. et Corr. = De
+Generatione et Corruptione; Anal. Post. = Analytica Posteriora; Met. =
+Metaphysica; Phys. = Physica.
+
+Plut. = Plutarch; De Plac. Phil. = De Placitis Philosophorum; Sto. Rep. =
+De Stoicis Repugnantiis.
+
+Sext. = Sextus; Sext. Emp. = Sextus Empiricus; Adv. Math. or A.M. =
+Adversus Mathematicos; Pyrrh. Hypotyp. or Pyrrh. Hyp. or P.H. = Pyrrhoneon
+Hypotyposeon Syntagmata.
+
+Diog. or Diog. Laert. = Diogenes Laertius.
+
+Stob. = Stobaeus; Phys. = Physica; Eth. = Ethica.
+
+Galen; De Decr. Hipp. et Plat. = De Decretis Hippocratis et Platonis.
+
+Euseb. = Eusebius; Pr. Ev. = Praeparatio Evangelii.
+
+Aug. or August. = Augustine; Contra Ac. or C. Ac. = Contra Academicos; De
+Civ. Dei = De Civitate Dei.
+
+Quintil. = Quintilian; Inst. Or. = Institutiones Oratoriae.
+
+Seneca; Ep. = Epistles; Consol. ad Helv. = Consolatio ad Helvidium.
+
+Epic. = Epicurus; Democr. = Democritus.
+
+Madv. = Madvig; M.D.F. = Madvig's edition of the De Finibus; Opusc. =
+Opuscula; Em. = Emendationes ad Ciceronis libros Philosophicos; Em. Liv. =
+Emendationes Livianae; Gram. = Grammar.
+
+Bentl. = Bentley; Bait. = Baiter; Dav. = Davies; Ern. = Ernesti; Forc. =
+Forcellini; Goer. = Goerenz; Herm. = Hermann; Lamb. = Lambinus; Man. or
+Manut. = Manutius; Turn. = Turnebus; Wes. or Wesenb. = Wesenberg.
+
+Corss. = Corssen; Ausspr. = Aussprache, Vokalismus und Betonung.
+
+Curt. = Curtius; Grundz. = Grundzuege der Griechischen Etymologie.
+
+Corp. Inscr. = Corpus Inscriptionum Latinarum.
+
+Dict. Biogr. = Dictionary of Classical Biography.
+
+Cf. = compare; conj. = 'conjecture' or 'conjectures'; conjug. =
+conjugation; constr. = construction; ed. = edition; edd. = editors; em. =
+emendation; ex. = example; exx. = examples; exc. = except; esp. =
+especially; fragm. = fragment or fragments; Gr. and Gk. = Greek; Introd. =
+Introduction; Lat. = Latin; n. = note; nn. = notes; om. = omit, omits, or
+omission; prep. = preposition; qu. = quotes or quoted by; subj. =
+subjunctive.
+
+R. and P. = Ritter and Preller's Historia Philosophiae ex fontium locis
+contexta.
+
+       *       *       *       *       *
+
+THE ACADEMICA OF CICERO.
+
+INTRODUCTION.
+
+I. _Cicero as a Student of Philosophy and Man of
+Letters:_ 90--45 B.C.
+
+It would seem that Cicero's love for literature was inherited from his
+father, who, being of infirm health, lived constantly at Arpinum, and spent
+the greater part of his time in study.[1] From him was probably derived
+that strong love for the old Latin dramatic and epic poetry which his son
+throughout his writings displays. He too, we may conjecture, led the young
+Cicero to feel the importance of a study of philosophy to serve as a
+corrective for the somewhat narrow rhetorical discipline of the time.[2]
+
+Cicero's first systematic lessons in philosophy were given him by the
+Epicurean Phaedrus, then at Rome because of the unsettled state of Athens,
+whose lectures he attended at a very early age, even before he had assumed
+the toga virilis. The pupil seems to have been converted at once to the
+tenets of the master.[3] Phaedrus remained to the end of his life a friend
+of Cicero, who speaks warmly in praise of his teacher's amiable disposition
+and refined style. He is the only Epicurean, with, perhaps, the exception
+of Lucretius, whom the orator ever allows to possess any literary power.[4]
+Cicero soon abandoned Epicureanism, but his schoolfellow, T. Pomponius
+Atticus, received more lasting impressions from the teaching of Phaedrus.
+It was probably at this period of their lives that Atticus and his friend
+became acquainted with Patro, who succeeded Zeno of Sidon as head of the
+Epicurean school.[5]
+
+At this time (i.e. before 88 B.C.) Cicero also heard the lectures of
+Diodotus the Stoic, with whom he studied chiefly, though not exclusively,
+the art of dialectic.[6] This art, which Cicero deems so important to the
+orator that he calls it "abbreviated eloquence," was then the monopoly of
+the Stoic school. For some time Cicero spent all his days with Diodotus in
+the severest study, but he seems never to have been much attracted by the
+general Stoic teaching. Still, the friendship between the two lasted till
+the death of Diodotus, who, according to a fashion set by the Roman Stoic
+circle of the time of Scipio and Laelius, became an inmate of Cicero's
+house, where he died in B.C. 59, leaving his pupil heir to a not
+inconsiderable property.[7] He seems to have been one of the most
+accomplished men of his time, and Cicero's feelings towards him were those
+of gratitude, esteem, and admiration.[8]
+
+In the year 88 B.C. the celebrated Philo of Larissa, then head of the
+Academic school, came to Rome, one of a number of eminent Greeks who fled
+from Athens on the approach of its siege during the Mithridatic war. Philo,
+like Diodotus, was a man of versatile genius: unlike the Stoic philosopher,
+he was a perfect master both of the theory and the practice of oratory.
+Cicero had scarcely heard him before all inclination for Epicureanism was
+swept from his mind, and he surrendered himself wholly, as he tells us, to
+the brilliant Academic.[9] Smitten with a marvellous enthusiasm he
+abandoned all other studies for philosophy. His zeal was quickened by the
+conviction that the old judicial system of Rome was overthrown for ever,
+and that the great career once open to an orator was now barred.[10]
+
+We thus see that before Cicero was twenty years of age, he had been brought
+into intimate connection with at least three of the most eminent
+philosophers of the age, who represented the three most vigorous and
+important Greek schools. It is fair to conclude that he must have become
+thoroughly acquainted with their spirit, and with the main tenets of each.
+His own statements, after every deduction necessitated by his egotism has
+been made, leave no doubt about his diligence as a student. In his later
+works he often dwells on his youthful devotion to philosophy.[11] It would
+be unwise to lay too much stress on the intimate connection which subsisted
+between the rhetorical and the ethical teaching of the Greeks; but there
+can be little doubt that from the great rhetorician Molo, then Rhodian
+ambassador at Rome, Cicero gained valuable information concerning the
+ethical part of Greek philosophy.
+
+During the years 88--81 B.C., Cicero employed himself incessantly with the
+study of philosophy, law, rhetoric, and belles lettres. Many ambitious
+works in the last two departments mentioned were written by him at this
+period. On Sulla's return to the city after his conquest of the Marian
+party in Italy, judicial affairs once more took their regular course, and

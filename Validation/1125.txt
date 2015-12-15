@@ -1,0 +1,519 @@
+cylinder of which its long edge is the axis. The die being quite flat,
+it follows that the shearing action proceeds from the center to the
+circumference, just as in a shearing machine it travels from the
+deeper to the shallower end of the upper cutter. The latter is not
+recommended for use in metal of a thickness greater than the diameter
+of the punch, and is best adapted for thicknesses of metal two-thirds
+the diameter of the punch.
+
+Fig. 14 shows positions of punch and attachments in the machine.
+
+[Illustration: FIG. 14.]
+
+It is of the greatest importance that the punch should be kept sharp
+and the die in good order. If the punch is allowed to become dull, it
+will produce a fin on the edge of the rivet hole, which, if not
+removed, will cut into the rivet head and destroy the fillet by
+cutting into the head. When the punch is in good condition it will
+leave a sharp edge, which, if not removed, will also destroy the
+fillet under the head by cutting it away.
+
+Punching possesses so many advantages over drilling as to render it
+extremely important that the operation should be reduced to a system
+so as to be as harmless as possible to the plate. In fact, no plate
+should be used in the construction of a boiler that does not improve
+with punching, and further on I will show by the experiments made by
+Hoopes & Townsend, of Philadelphia, that good material is improved by
+punching; that is to say, with properly made punches and dies, by the
+upsetting around the punched hole, the value of the plate is increased
+instead of diminished, the flow of particles from the hole into the
+surrounding parts causing stiffening and strengthening.
+
+_Drilling Rivet Holes._--In the foregoing I have not referred to the
+drilling of rivet holes in place of punching. The great objection to
+drilling rivet holes is the expense, from the fact that it takes more
+time, and when drilled of full rivet size we are met with the
+difficulty of getting the rivet holes to correspond, as they are when
+punched of full rivet diameter. When two plates are drilled in place
+together, the drill will produce a _burr_ between the two plates--on
+account of their uneven surfaces--which prevents them being brought
+together, so as to be water and steam tight, unless the plates are
+afterward separated and the burr removed, which, of course, adds
+greatly to the expense.
+
+The difference in strength between boiler plates punched or drilled of
+full rivet size may be either greater or less than the difference in
+strength between unperforated plates of equal areas of fracture
+section. When the metal plates are very soft and ductile, the
+operation of punching does no appreciable injury. Prof. Thurston says
+he has sometimes found it actually productive of increased strength;
+the flow of particles from the rivet hole into the surrounding parts
+causing stiffening and strengthening. With most steel and hard iron
+plates the effect of punching is often to produce serious weakening
+and a tendency to crack, which in some cases has resulted seriously.
+With first class steel or iron plates, punching is perfectly
+allowable, and the cost is twenty-five per cent. less than drilling;
+in fact, none but first class metal plates should be used in the
+construction of steam boilers.
+
+In the original punching machines the die was made much larger than
+the punch, and the result was a conical taper hole to receive the
+rivet. With the advanced state of the arts the punch and die are
+accurately fitted; that is to say, the ordinary clearance for a rivet
+of (say) three-fourths of an inch diameter, the dies have about three
+sixty-fourths of an inch, the punch being made of full rivet size, and
+the clearance allowed in the diameter of the die.
+
+Take, for example, cold punched nuts. Those made by Messrs. Hoopes &
+Townsend, Philadelphia, when taken as specimens of "commercial," as
+distinguished from merely experimental punching, are of considerable
+interest in this connection, owing to the entire absence of the
+conical holes above mentioned.
+
+When the holes are punched by machines properly built, with the punch
+accurately fitted to the die, the effect is that the metal is made to
+flow around the punch, and thus is made more dense and stronger. That
+some such action takes place seems probable, from the appearance of
+the holes in the Hoopes & Townsend nuts, which are straight and almost
+as smooth as though they were drilled.
+
+Therefore I repeat that iron or steel that is not improved by proper
+punching machinery is not of fit quality to enter into the
+construction of steam boilers.
+
+
+              STRENGTH OF PUNCHED AND DRILLED IRON BARS.
+
+                          HOOPES & TOWNSEND.
+
+----------------+------------------+----------------+----------------+
+Thickness of bar|Thickness outside |  Punched bars  |  Drilled bars  |
+   in inches.   |of hole in inches.|broke in pounds.|broke in pounds.|
+----------------+------------------+----------------+----------------+
+  3/8 or 0.375  |   3/8 or 0.375   |     31,740     |     28,000     |
+  3/8 or 0.375  |   3/8 or 0.375   |     31,380     |     26,950     |
+  5/8 or 0.625  |   1/4 or 0.25    |     18,820     |     18,000     |
+  5/8 or 0.625  |   1/4 or 0.25    |     18,750     |     17,590     |
+  5/8 or 0.625  |  3/16 or 0.1875  |     14,590     |     13,230     |
+  5/8 or 0.625  |  3/16 or 0.1875  |     15,420     |     13,750     |
+  5/8 or 0.625  |   1/8 or 0.125   |     10,670     |      9,320     |
+  5/8 or 0.625  |   1/8 or 0.125   |     11,730     |      9,580     |
+---------------------------------------------------------------------+
+
+
+It will be seen from the above that the punched bars had the greatest
+strength, indicating that punching had the effect of strengthening
+instead of weakening the metal. These experiments have given results
+just the reverse of similar experiments made on boiler plates; but the
+material, such as above experimented upon, is what should be placed in
+boilers, tough and ductile, and the manner of, and care taken in,
+punching contribute to these results.
+
+It is usual to have the rivet holes one-sixteenth of an inch in
+diameter larger than the rivets, in order to allow for their expansion
+when hot; it is evident, however, that the difference between the
+diameters of the rivet hole and of the rivet should vary with the size
+of the rivet.
+
+The hole in the die is made larger than the punch; for ordinary work
+the proportion of their respective diameters varies from 1:1.5 to 1:2.
+
+As I have before stated, the best plate joint is that in which the
+strength of the plate and the resistance of the rivet to shearing are
+equal to each other.
+
+In boilers as commercially made and sold the difference in quality of
+the plates and rivets, together with the great uncertainty as to the
+exact effect of punching the plates, have, so far, prevented anything
+like the determination either by calculation or experiment of what
+might be accepted as the best proportions of riveted joints.
+
+In regard to steel plates for boilers Mr. F.W. Webb, of Crewe,
+England, chief engineer of the London and Northwestern Railway, has
+made over 10,000 tests of steel plates, but had only two plates fail
+in actual work; these failures he thought were attributable solely to
+the want of care on the part of the men who worked the plates up.
+
+All their rivet holes for boilers were punched in a Jacquard machine,
+the plates then annealed, and afterward bent in rolls; they only used
+the reamer slightly when they had three thicknesses of plate to deal
+with, as in butt joints with inside and outside covering strips. These
+works turn out two locomotive boilers every three days.
+
+The Baldwin Locomotive Works, which turn out on an average three
+locomotives per day, punch all their rivet holes one sixteenth inch
+less in diameter and ream them to driven rivet size when in place.
+They also use rivets with a fillet formed under head made in solid
+dies.
+
+_Rivets._--Rivets of steel or iron should be made in solid dies.
+Rivets made in open dies are liable to have a fin on the shank, which
+prevents a close fit into the holes of the plates. The use of solid
+dies in forming the rivet insures a round shank, and an accurate fit
+in a round hole. In addition, there is secured by the use of solid
+dies, a strong, clean fillet under the head, the point where strength
+is most needed.
+
+Commencing with a countersunk head as the strongest form of head, the
+greater the fillet permissible under the head of a rivet, or bolt, the
+greater the strength and the decrease in liability to fracture, as a
+fillet is the life of the rivet.
+
+If rivets are made of iron, the material should be strong, tough, and
+ductile, of a tensile strength not exceeding 54,000 pounds per square
+inch, and giving an elongation in _eight inches_ of not less than
+twenty-five per cent. The rivet iron should be as ductile as the best
+boiler plate when cold. Iron rivets should be annealed and the iron in
+the bar should be sufficiently ductile to be bent cold to a right
+angle without fracture. When heated it should be capable of being
+flattened out to one-third its diameter without crack or flaw.
+
+[Illustration: FIG. 15. Solid Die Rivet.]
+
+[Illustration: FIG. 16. Open Die Rivet.]
+
+If rivets are made of steel they must be low in carbon, otherwise they
+will harden by chilling when the hot rivets are placed in the cold
+plates. Therefore, the steel must be particularly a low grade or mild
+steel. The material should show a tensile strength not greater than
+54,000 pounds per square inch and an elongation in _eight inches_ of
+thirty per cent. The United States government requirements are that
+steel rivets shall flatten out cold under the hammer to the thickness
+of one-half their diameter without showing cracks or flaws; shall
+flatten out hot to one-third their diameter, and be capable of being
+bent cold in the form of a hook with parallel sides without cracks or
+flaws. These requirements were thought at first to be severe, but the
+makers of steel now find no practical difficulty in meeting these
+specifications.
+
+The forming of the head of rivets, whether of steel or iron, and
+whether the heads are conical or semi-spherical, should not be changed
+by the process of riveting. The form of the head is intended to be
+permanent, and this permanent form can only be retained by the use of
+a "hold fast," which conforms to the shape of the head. In the use of
+the flat hold fast (in general use in a majority of boiler shops) the
+form of the head is changed, and if the rivet, by inadequate heating,
+requires severe hammering, there is danger that the head of the rivet
+may be "punched" off. By the use of a hold fast made to the shape of
+the rivet head, this danger is avoided and the original form of the
+head is retained. This feature of the use of proper rivet tools in
+boiler shops has not received the attention it deserves. Practical use
+of the above named hold fast would soon convince the consumers of
+rivets of its value and efficiency.
+
+The practice of driving rivets into a punched rivet hole from which
+the fin or cold drag, caused by the movement of the punch, has not
+been removed by reaming with a countersunk reamer, or better still a
+countersunk set, should be condemned, as by driving the hot rivet head
+down against the fin around the hole in the cold plate caused by the
+action of punching the countersunk fillet is not only destroyed, but
+it is liable to be driven into the head of the rivet, partially
+cutting the head from the shank. If the rivet is driven into a hole
+that has been punched with a sharp punch and sharp die, the result is
+that the fillet is cut off under the head, and the riveted end is also
+cut, and does not give the clinch or hold desired. That is to say,
+rivet holes in plates to be riveted should have the burr or sharp edge
+taken off, either by countersinking, by reamer, or set.
+
+_Heating of Rivets._--Iron rivets are generally heated in an ordinary
+blacksmith's or rivet fire having a forced blast; they are inserted
+with the points down into the fire, so that the heads are kept
+practically cool.
+
+Steel rivets should be heated in the hearth of a reverberatory furnace
+so arranged that the flame shall play over the top of the rivets, and
+should be heated uniformly throughout the entire length of the rivet
+to a cherry red. Particular attention must be given to the thickness
+of the fire in which they are heated.
+
+Steel, of whatever kind, should never be heated in a thin fire,
+especially in one having a forced blast, such as an ordinary
+blacksmith's or iron rivet furnace fire. The reason for this is that
+more air passes through the fire than is needed for combustion, and in
+consequence there is a considerable quantity of free oxygen in the
+fire which will oxidize the steel, or in other words, burn it. If free
+oxygen is excluded steel cannot burn; if the temperature is high
+enough it can be melted and will run down through the fire, but
+burning is impossible in a thick fire with a moderate draught.
+
+This is an important matter in using steel rivets and should not be
+overlooked; the same principle applies to the heating of steel plates
+for flanging.
+
+_Riveting._--There are four descriptions of riveting, namely:
+
+    (1) Hammered or hand riveting.
+
+    (2) Snapped or set.
+
+    (3) Countersunk.
+
+    (4) Machine.
+
+For good, sound work, machine riveting is the best.
+
+Snapped riveting is next in quality to machine riveting.
+
+Countersunk riveting is generally tighter than snapped, because
+countersinking the hole is really facing it; and the countersunk rivet
+is, in point of fact, made on a face joint. But countersinking the
+hole also weakens the plate, inasmuch as it takes away a portion of
+the metal, and should only be resorted to where necessary, such as
+around the front of furnaces, steam chests or an odd hole here and
+there to clear a flange, or something of that sort.
+
+Hammered riveting is much more expensive than machine or snapped
+riveting, and has a tendency to crystallize the iron in the rivets,
+causing brittleness.
+
+In the present state of the arts all the best machine riveters do
+their work by pressure, and not by impact or blow.
+
+The best machines are those of the hydraulic riveting system, which
+combines all of the advantages and avoids all the difficulties which
+have characterized previous machine systems; that is to say, the
+machine compresses without a blow, and with a uniform pressure at
+will; each rivet is driven with a single progressive movement,
+controlled at will. The pressure upon the rivet after it is driven is
+maintained, or the die is retracted at will.
+
+[Illustration: FIG. 17.]
+
+Hydraulic riveting has demonstrated not only that the work could be as
+well done without a blow, but that it could be _better done without a
+blow_, and that the riveted material was stronger when so secured than
+when subjected to the more severe treatment under impact.
+
+What is manifestly required in perfect riveting is that the metal of
+the rivet while hot and plastic shall be made to flow into all the
+irregularities of the rivet holes in the boiler sheets; that the
+surplus metal be formed into heads as large as need be, and that the
+pressure used to produce these results should not be in excess of what
+the metal forming the boiler shall be capable of resisting.
+
+It is well known that metals, when subjected, either cold or hot, to
+sufficient pressure, will obey almost exactly the same laws as fluids
+under similar conditions, and will flow into and fill all the crevices
+of the chamber or cavity in which they are contained. If, therefore, a
+hot rivet is inserted into the holes made in a boiler to receive it,
+and is then subjected to a sufficient pressure, it will fill every
+irregularity of the holes, and thus fulfill one of the conditions of
+perfect riveting. This result it is impossible to accomplish with
+perfection or certainty by ordinary hand riveting, in doing which the
+intermittent blows of an ordinary hammer are used to force the metal
+into the holes. With a hydraulic riveting machine, however, an
+absolutely uniform and continuous pressure can be imparted to each
+rivet, so as to force the hot metal of the rivet into all the
+irregularities of the holes in the same way as a hydraulic ram will
+cause water to fill any cavity, however irregular.
+
+[Illustration: FIG. 18.]
+
+In order to illustrate the relative advantages of machine over hand
+riveting, two plates were riveted together, the holes of which were
+purposely made so as not to match perfectly. These plates were then
+planed through the center of the rivets, so as to expose a section of
+both the plates and rivets. From this an impression was taken with
+printer's ink on paper and then transferred to a wooden block, from
+which Figs. 17 and 18 were made.
+
+The machine-driven rivet is marked _a_, and _b_ represents the
+hammered rivet.
+
+It will be observed that the machine rivet fills the hole completely,
+while the hand rivet is very imperfect. This experiment was tried
+several times, with similar results each time.
+
+The hand rivet, it will be observed, filled up the hole very well
+immediately under the head formed by the hammer; but sufficient
+pressure could not be given to the metal--or at least it could not be
+transferred far enough--to affect the metal at some distance from the
+driven head. So great is this difficulty that in hand riveting much
+shorter rivets must be used, because it is impossible to work
+effectively so large a mass of metal with hammers as with a machine.
+The heads of the machine rivets are, therefore, larger and stronger,
+and will hold the plates together more firmly than the smaller
+hammered heads.
+
+To drive rivets by hand, two strikers and one helper are needed in the
+gang, besides the boy who heats and passes the rivets; to drive each
+five-eighths inch rivet, an average of 250 blows of the hammer is
+needed, and the work is but imperfectly done. With a machine, two men
+handle the boiler, and one man works the machine; thus, with the same
+number of men as is required in riveting by hand, five rivets are
+driven each minute.
+
+The superior quality of the work done by the machine would alone make
+its use advantageous; but to this is added greatly increased amount of
+work done.
+
+The difference in favor of the riveting machine over hand riveting is
+at least _ten_ to _one_.
+
+In a large establishment a record of the number of rivets driven by
+the hand-driving gang, also by the gang at the steam-riveting machine
+for a long period of time, in both cases making no allowances of any
+kind of delays, the rivets driven per month by each was--for the hand
+driven rivets at the rate of twelve rivets per hour, and for the
+machine driven rivets, 120 per hour. In the case of the hand driven
+rivets the boiler remains stationary and the men move about it, while
+the machine driven rivets require the whole boiler to be hoisted and
+moved about at the riveting machine to bring each hole to the position
+required for the dies. Notwithstanding the trouble involved in
+handling and moving the boiler, it shows that it is possible to do ten
+times as much work, and with less skilled labor, by the employment of
+the riveting machine.
+
+_Calking._--One great source of danger in boiler making is excessive
+joint calking--both inside and out--where a sharp nosed tool is
+employed, and for the reason that it must be used so close to the
+inner edge of plate as to indent, and in many cases actually cut
+through the skin of the lower plate. This style of calking puts a
+positive strain upon the rivets, commencing distortion and putting
+excessive stress upon rivets--already in high tension before the
+boiler is put in actual use. It is, I hope, rapidly becoming a thing
+of the past.
+
+With a proper proportion of diameter and pitch of rivet, all that is
+required is the use of a light "fuller tool" or the round-nosed tool
+used in what is known to the trade as the "Connery system."
+
+There is but little need of calking if means are taken to secure a
+clean metal-to-metal face at the joint surfaces. When the plates are
+put together in ordinary course of manufacture, a portion of the mill
+scale is left on, and this is reduced to powder or shaken loose in the
+course of riveting and left between the plates, thus offering a
+tempting opening for the steam to work through, and is really cause of
+the heavy calking that puts so unnecessary a pressure on both plate
+and rivet. A clean metallic joint can be secured by passing over the
+two surfaces a sponge wet with a weak solution of sal-ammoniac and hot
+water, an operation certainly cheap enough both as to materials and
+labor required.
+
+[Illustration: FIG. 19]
+
+The above cut, Fig. 19, gives an illustration of calking done by
+sharp-nosed and round nosed tools, respectively. It will be seen by
+Fig. 20 that the effect of a round-nosed tool is to divide the plate
+calked, and as the part divided is well driven toward the rivets, a
+bearing is formed at _a_, from one-half to three-fourths of an inch,
+which increases the strength of joint, and will in no way cut or
+injure the surface of the under plate. A perfect joint is thus
+secured.
+
+[Illustration: Fig. 20.]
+
+       *       *       *       *       *
+
+
+
+
+THE NEW BRITISH BATTLE SHIP EMPRESS OF INDIA.
+
+
+The launching of this first-class battle ship was successfully carried
+out at Pembroke Dockyard on May 7. She is the second of a class of
+eight battle ships built and building under the Naval Defense Act of
+1889, which were specially designed to take part in general fleet
+actions in European waters. The leading dimensions are: Length,
+between perpendiculars, 380 ft.; breadth, extreme, 75 ft.; mean
+draught of water, 27 ft. 6 in.; and displacement at this draught,
+14,150 tons, which surpasses that of any other ship in the navies of
+the world. Previous to the launching of the Royal Sovereign--a sister
+vessel--which took place at Portsmouth in February last, the largest
+war ships in the British navy were the Nile and Trafalgar, each of
+12,500 tons, and these were largely exceeded in displacement by the
+Italia, of 13,900 tons, and the Lepanto, of 13,550 tons, belonging to
+the Italian navy.
+
+The Empress of India is built throughout of mild steel, the stem and
+stern post, together with the shaft brackets, being of cast steel.
+Steel faced armor, having a maximum thickness of 18 in., extends along
+the sides for 250 ft. amidships, the lower edge of the belt being 5
+ft. 6 in. below the normal water line. The belt is terminated at the
+fore and after ends by transverse armored bulkheads, over which is
+built a 3 in. protective steel deck extending to the ends of the
+vessel and terminating forward at the point of the ram. Above the belt
+the broadside is protected by 5 in. armor, the central battery being
+inclosed by screen bulkheads of the same thickness. The barbettes,
+which are formed of armor 17 in. thick, rise from the protective deck
+at the fore and after ends of the main belt. The principal armor
+throughout is backed by teak, varying in thickness from 18 in. to 20
+in., behind which is an inner skin of steel 2 in. thick. The engines
+are being constructed by Messrs. Humphreys, Tennant & Co, London, and
+are of the vertical triple expansion type, capable of developing a
+maximum horse power of 13,000 with forced draught and 9,000 horse
+power under natural draught, the estimated speeds being 16 and 171/2
+knots respectively at the normal displacement. The regular coal supply
+is 900 tons, which will enable the ship to cover a distance of 5,000
+knots at a reduced speed of ten knots and about 1,600 knots at her
+maximum speed. The main armament of the Empress will consist of four
+67 ton breechloading guns mounted in pairs _en barbette_. The
+secondary armament includes ten 6 in. 100 pounder quick firing guns,
+four being mounted on the main deck and six in the sponsons on the
+upper deck, sixteen 6 pounder and nine 3 pounder quick-firing guns, in
+addition to a large number of machine guns.
+
+The largest guns at present mounted in any British warship are the 110
+ton guns mounted in the Benbow class, and the difference between these
+weapons and those to be carried by the Empress of India is very
+marked.
+
+The projectile fired from either of the Benbow's heavy gun weighs
+1,800 lb., and is capable of penetrating 35 in. of unbacked wrought
+iron at a distance of 1,000 yards. The projectile fired from the 67
+ton guns of the Empress of India will have much less penetrating
+power, being only equal to 27 in. of wrought iron with a full charge
+of 520 lb. of prismatic brown powder, the missile weighing 1,250 lb.
+or about one-half less than the weight of the shot used with the 110
+ton gun. It will thus be seen that the ordnance of the Benbow can
+penetrate armor that would defy the attack of the guns of the Empress.
+It should be said, however, that the heavy artillery of the latter
+vessel is capable of penetrating any armor at present afloat, and is
+carried at a much greater height above the designed load water line
+than in any existing battle ship, either in the British or foreign
+navies. The armor being of less weight, too, enables the new ship, and
+others of her class, to carry an auxiliary armament of unprecedented
+weight and power.
+
+The Empress will be lighted throughout by electricity, the
+installation comprising some 600 lights, and will be provided with
+four 25,000 candle power search lights, each of which will be worked
+by a separate dynamo. The ship has been built from the designs of Mr.
+W.H. White, C.B., Director of Naval Construction, and will be fitted
+out for the use of an admiral, and when commissioned her complement of
+officers and men will number 700.--_Industries._
+
+       *       *       *       *       *
+
+
+
+
+THE "IRON GATES" OF THE DANUBE.
+
+
+The work of blowing up the masses of rock which form the dangerous
+rapids known as the Iron Gates, on the Danube, was inaugurated on
+September 15, 1890, when the Greben Rock was partially blown up by a
+blast of sixty kilogrammes of dynamite, in the presence of Count
+Szapary, the Hungarian premier; M. Baross, Hungarian minister of
+commerce; Count Bacquehem, Austrian minister of commerce; M. Gruitch,
+the Servian premier; M. Jossimovich, Servian minister of public works;
+M. De Szogyenyi, chief secretary in the Austro-Hungarian ministry of
+foreign affairs; and other Hungarian and Servian authorities. Large
+numbers of the inhabitants had collected on both banks of the Danube
+to witness the ceremony, and the first explosion was greeted with
+enthusiastic cheers. The history of this great scheme was told at the
+time the Hungarian Parliament passed the bill on the subject two years
+ago. It is known that the Roman Emperor Trajan, seventeen centuries
+ago, commenced works, of which traces are still to be seen, for the
+construction of a navigable canal to avoid the Iron Gates.
+
+For the remedy of the obstruction in the Danube, much discussed of
+late years, there were two rival systems--the French, which proposed
+to make locks, and the English and American, which was practically
+the same as that of Trajan, namely, blasting the minor rocks and
+cutting canals and erecting dams where the rocks were too crowded. The
+latter plan was in principle adopted, and the details were worked out,
+in 1883, by the Hungarian engineer Willandt. The longest canal will be
+that on the Servian bank, with a length of over two kilometers and a

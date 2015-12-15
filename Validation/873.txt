@@ -1,0 +1,333 @@
+
+Compound wound, 47.
+
+Concave channel, 40.
+
+Condenser, 98, 100, 101, 102, 108.
+
+Conduct, 6, 108.
+
+Conduction, 135, 136, 138, 166, 170.
+
+Conduction current, 27.
+
+Conductor, 21, 31, 33, 63, 98, 116, 161, 162.
+
+Conduit, 72.
+
+Conically formed, 126.
+
+Conjunction, 143.
+
+Connecting wire, 58.
+
+Connection, 72, 76.
+
+Construction, magnet, 39.
+
+Consumption, 180.
+
+Contact, 122, 123, 152, 162.
+
+Contact finger, 150.
+
+Contact plate, 67, 68, 79.
+
+Contact screws, 93.
+
+Contact surface, 66.
+
+Continuous, 145.
+
+Converter, 176.
+
+Converting, 142, 145, 146.
+
+Copper, 18, 34, 36, 65, 66, 132, 133, 134, 135, 136, 137, 142, 143.
+
+Copper cyanide, 133.
+
+Copper plate, 33, 35, 58, 67.
+
+Copper sulphate, 57.
+
+Copper voltameter, 55, 57.
+
+Core, 27, 28, 36, 39, 40, 115.
+
+Core, magnet, 75, 93.
+
+Counter, clock-wise, 51.
+
+Coupled, 36.
+
+Crank, 30.
+
+Crookes' tube, 184.
+
+Cross bar, 52, 66.
+
+Crown of cups, 32.
+
+Crystal, 85.
+
+Current, 6, 7, 13, 18, 26, 27, 28, 35, 36, 37, 38, 47, 50, 51, 52, 55,
+  56, 57, 58, 59, 62, 63, 70, 72, 73, 90, 95, 98, 105, 108, 116, 133, 134,
+  135, 136, 138, 139, 140, 141, 142, 143, 147, 148, 149, 150, 152, 153,
+  157, 160, 161, 163, 165, 166, 170.
+
+Current, alternating, 150.
+
+Current changing, 82.
+
+Current conduction, 27.
+
+Current, continuous, 164.
+
+Current, direct, 145, 150.
+
+Current direction, 50.
+
+Current, exterior, 50, 150.
+
+Current, reversing, 148.
+
+Current strength, 7, 57.
+
+Current testing, 143.
+
+Cut-out, 120.
+
+Cutter, 14.
+
+Cutting, lines of force, 38.
+
+Cylinder, 44.
+
+Cylindrical, 43.
+
+
+D
+
+Dash, 95, 97.
+
+Decoherer, 106, 108.
+
+Decomposed, 57, 128.
+
+Decomposes, 55.
+
+Decomposing, 123.
+
+Decomposition, 12, 35, 82.
+
+Deflected, 54.
+
+Degree, 135, 162.
+
+Demagnetized, 24, 72.
+
+Deposited, 58, 133.
+
+Depression, 15, 140.
+
+Detecting current, 49.
+
+Detector, 49, 52, 54, 105.
+
+Devices, measuring, 27.
+
+Diagrams, 46, 48, 79, 89.
+
+Diagrammatically, 81.
+
+Diamagnetic, 19.
+
+Diametrically, 114.
+
+Diaphragm, 112, 113, 116, 120, 122.
+
+Diamonds, 186.
+
+Diluted, 86.
+
+Direct current, 38, 140.
+
+Direction of current, 50.
+
+Direction of flow, 98.
+
+Discharge, 172.
+
+Disintegrate, 132.
+
+Disk, 43.
+
+Dissimilar, 37.
+
+Disturbance, 176.
+
+Dividers, 14.
+
+Divisibility, 168.
+
+Dot, 96, 97.
+
+Dot and dash, 96.
+
+Double click, 95.
+
+Double line, 65.
+
+Double-pole switch, 65.
+
+Double-throw switch, 117.
+
+Drawing, 20.
+
+Drill, ratchet, 13.
+
+Drops, 81.
+
+Ductile, 186.
+
+Duplex wire, 115.
+
+Dynamo, 7, 27, 38, 42, 46, 48, 62, 82, 83, 87, 89, 132, 141, 142, 145,
+       150, 155, 161, 165, 167, 175, 176, 180, 187.
+
+Dynamo fields, 40, 41.
+
+
+E
+
+Earth, 22.
+
+Elasticity, 100, 142.
+
+Electric, 6, 31, 49, 50, 76, 78, 81, 131, 142, 158, 162, 173, 176.
+
+Electric arc, 63, 163.
+
+Electric bell, 19, 69, 70, 71, 72, 106, 117.
+
+Electric bulbs, 167.
+
+Electric circuit, 118.
+
+Electric fan, 55.
+
+Electric field, 76.
+
+Electric hand purifier, 129.
+
+Electric heating, 135, 137, 161.
+
+Electric iron, 130, 141.
+
+Electric lamp socket, 139.
+
+Electric light, 56, 66.
+
+Electric lighting, 161.
+
+Electric power, 113.
+
+Electric welding, 183.
+
+Electrical, 8, 11, 65, 96, 98, 104, 141, 159, 180, 184, 187.
+
+Electrical impulses, 105, 147, 148.
+
+Electrical manifestations, 175.
+
+Electrically, 32, 70.
+
+Electricity, 5, 6, 7, 8, 9, 12, 13, 18, 21, 26, 27, 28, 29, 38, 49, 54,
+     60, 61, 62, 82, 97, 98, 100, 104, 110, 112, 116, 123, 124, 133, 134,
+    136, 138, 145, 146, 147, 154, 156, 160, 166, 170, 171, 172, 175, 182,
+    187.
+
+Electricity measuring, 49.
+
+Electricity, thermo-, 142.
+
+Electrified, 37, 186.
+
+Electro-chemical, 55.
+
+Electrode, 35, 124, 127, 128, 161, 162, 163, 164, 165, 184.
+
+Electrolysis, 7, 123, 126, 132.
+
+Electrolyte, 33, 35, 36, 57, 86, 88, 123, 132, 142.
+
+Electrolytic, 55, 123, 125.
+
+Electro-magnet, 59, 78.
+
+Electro-magnetic, 7, 24, 25, 29, 37, 55, 92, 93, 94.
+
+Electro-magnetic force, 7.
+
+Electro-magnetic rotation, 7.
+
+Electro-magnetic switch, 116.
+
+Electro-meter, 7.
+
+Electro-motive force, 37, 63, 99.
+
+Electroplate, 12, 38, 48, 123, 132, 134.
+
+Electro-positive-negative, 142, 143.
+
+Elements, 36, 83.
+
+Engine energy, 170, 180.
+
+Equidistant, 127.
+
+Ether, 104.
+
+Example, 61.
+
+Excited, 47.
+
+Extension plate, 103.
+
+Exterior, 3.
+
+Exterior magnetic, 27.
+
+External, 37.
+
+External circuit, 153.
+
+External current, 50.
+
+External resistance, 37.
+
+
+F
+
+Factor, 61.
+
+Ferrous oxide, 125.
+
+Field, 46, 47.
+
+Field, dynamo, 40, 41.
+
+Field magnet cores, 155.
+
+Field, magnetic, 38.
+
+Field of force, 33.
+
+Field wire, 48.
+
+Filament, 168, 169, 170.
+
+Filter, 128.
+

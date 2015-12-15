@@ -1,0 +1,321 @@
+The Project Gutenberg EBook of Starman's Quest, by Robert Silverberg
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Starman's Quest
+
+Author: Robert Silverberg
+
+Illustrator: Stan Mack
+
+Release Date: December 7, 2008 [EBook #27444]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK STARMAN'S QUEST ***
+
+
+
+
+Produced by Greg Weeks, Stephen Blundell and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+Starman's Quest
+
+
+
+
+BOOKS BY ROBERT SILVERBERG
+
+    _Starman's Quest_
+    _Revolt on Alpha C_
+    _The Thirteenth Immortal_
+    _Master of Life and Death_
+    _The Shrouded Planet_
+      (with Randall Garrett)
+    _Invaders from Earth_
+
+
+
+
+                       Starman's
+                           Quest
+
+ _by_
+
+ ROBERT
+ SILVERBERG
+
+
+ GNOME PRESS            [Device]
+
+ HICKSVILLE, N. Y.
+
+
+
+
+        Copyright 1958 by Robert Silverberg
+
+        _First Edition. All Rights Reserved_
+
+ _This book, or parts thereof, may not be reproduced
+ in any form without permission, except for brief
+ quotations in critical articles and reviews._
+
+  Library of Congress Catalog Card Number: 58-8767
+
+             MANUFACTURED IN THE U.S.A.
+
+
+Transcriber's Note:
+
+    Extensive research did not uncover any evidence that the U.S.
+    copyright on this publication was renewed. Minor spelling and
+    typographical errors have been corrected without note. Variant
+    spellings have been retained.
+
+
+
+
+_Author's Preface_
+
+
+This was my second novel, which I wrote when I was 19, in my junior year
+at Columbia. I've written better ones since. But readers interested in
+the archaeology of a writing career will probably find much to explore
+here.
+
+                                                       Robert Silverberg
+                                                             17 May 2008
+
+
+
+
+ FOR BILL EDGERTON
+
+     1933-1956
+
+
+
+
+_Prologue_
+
+
+The Lexman Spacedrive was only the second most important theoretical
+accomplishment of the exciting years at the dawn of the Space Age, yet
+it changed all human history and forever altered the pattern of
+sociocultural development on Earth.
+
+Yet it was only the _second_ most important discovery.
+
+The Cavour Hyperdrive unquestionably would have held first rank in any
+historical assessment, had the Cavour Hyperdrive ever reached practical
+use. The Lexman Spacedrive allows mankind to reach Alpha Centauri, the
+closest star with habitable planets, in approximately four and a half
+years. The Cavour Hyperdrive--if it ever really existed--would have
+brought Alpha C within virtual instantaneous access.
+
+But James Hudson Cavour had been one of those tragic men whose
+personalities negate the value of their work. A solitary, cantankerous,
+opinionated individual--a crank, in short--he withdrew from humanity to
+develop the hyperspace drive, announcing at periodic intervals that he
+was approaching success.
+
+A final enigmatic bulletin in the year 2570 indicated to some that
+Cavour had achieved his goal or was on the verge of achieving it;
+others, less sympathetic, interpreted his last message as a madman's
+wild boast. It made little difference which interpretation was accepted.
+James Hudson Cavour was never heard from again.
+
+A hard core of passionate believers insisted that he _had_ developed a
+faster-than-light drive, that he had succeeded in giving mankind an
+instantaneous approach to the stars. But they, like Cavour himself, were
+laughed down, and the stars remained distant.
+
+Distant--but not unreachable. The Lexman Spacedrive saw to that.
+
+Lexman and his associates had developed their ionic drive in 2337, after
+decades of research. It permitted man to approach, but not to exceed,
+the theoretical limiting velocity of the universe: the speed of light.
+
+Ships powered by the Lexman Spacedrive could travel at speeds just
+slightly less than the top velocity of 186,000 miles per second. For the
+first time, the stars were within man's grasp.
+
+The trip was slow. Even at such fantastic velocities as the Lexman
+Spacedrive allowed, it took nine years for a ship to reach even the
+nearest of stars, stop, and return; a distant star such as Bellatrix
+required a journey lasting two hundred fifteen years each way. But even
+this was an improvement over the relatively crude spacedrives then in
+use, which made a journey from Earth to Pluto last for many months and
+one to the stars almost unthinkable.
+
+The Lexman Spacedrive worked many changes. It gave man the stars. It
+brought strange creatures to Earth, strange products, strange languages.
+
+But one necessary factor was involved in slower-than-light interstellar
+travel, one which the Cavour drive would have averted: the Fitzgerald
+Contraction. Time aboard the great starships that lanced through the
+void was contracted; the nine-year trip to Alpha Centauri and back
+seemed to last only six weeks to the men on the ship, thanks to the
+strange mathematical effects of interstellar travel at high--but not
+infinite--speeds.
+
+The results were curious, and in some cases tragic. A crew that had aged
+only six weeks would return to find that Earth had grown nine years
+older. Customs had changed; new slang words made language
+unintelligible.
+
+The inevitable development was the rise of a guild of Spacers, men who
+spent their lives flashing between the suns of the universe and who had
+little or nothing to do with the planet-bound Earthers left behind.
+Spacer and Earther, held apart forever by the inexorable mathematics of
+the Fitzgerald Contraction, came to regard each other with a bitter sort
+of distaste.
+
+The centuries passed--and the changes worked by the coming of the Lexman
+Spacedrive became more pronounced. Only a faster-than-light spacedrive
+could break down the ever-widening gulf between Earther and Spacer--and
+the faster-than-light drive remained as unattainable a dream as it had
+been in the days of James Hudson Cavour.
+
+                                              --_Sociocultural Dynamics_
+                                                Leonid Hallman
+                                                London, 3876
+
+
+
+
+_Chapter One_
+
+
+The sound of the morning alarm rang out, four loud hard clear
+gong-clangs, and all over the great starship _Valhalla_ the men of the
+Crew rolled out of their bunks to begin another day. The great ship had
+travelled silently through the endless night of space while they slept,
+bringing them closer and closer to the mother world, Earth. The
+_Valhalla_ was on the return leg of a journey to Alpha Centauri.
+
+But one man aboard the starship had not waited for the morning alarm.
+For Alan Donnell the day had begun several hours before. Restless,
+unable to sleep, he had quietly slipped from his cabin in the fore
+section, where the unmarried Crewmen lived, and had headed forward to
+the main viewscreen, in order to stare at the green planet growing
+steadily larger just ahead.
+
+He stood with his arms folded, a tall red-headed figure, long-legged, a
+little on the thin side. Today was his seventeenth birthday.
+
+Alan adjusted the fine controls on the viewscreen and brought Earth
+into sharper focus. He tried to pick out the continents on the planet
+below, struggling to remember his old history lessons. Tutor Henrich
+would not be proud of him, he thought.
+
+_That's South America down there_, he decided, after rejecting the
+notion that it might be Africa. They had pretty much the same shape, and
+it was so hard to remember what Earth's continents looked like when
+there were so many other worlds. _But that's South America. And so
+that's North America just above it. The place where I was born._
+
+Then the 0800 alarm went off, the four commanding gongs that Alan always
+heard as _It's! Time! Wake! Up!_ The starship began to stir into life.
+As Alan drew out his Tally and prepared to click off the start of a new
+day, he felt a strong hand firmly grasp his shoulder.
+
+"Morning, son."
+
+Alan turned from the viewscreen. He saw the tall, gaunt figure of his
+father standing behind him. His father--and the _Valhalla's_ captain.
+
+"Good rising, Captain."
+
+Captain Donnell eyed him curiously. "You've been up a while, Alan. I can
+tell. Is there something wrong?"
+
+"Just not sleepy, that's all," Alan said.
+
+"You look troubled about something."
+
+"No, Dad--I'm not," he lied. To cover his confusion he turned his
+attention to the little plastic gadget he held in his hand--the Tally.
+He punched the stud; the register whirred and came to life.
+
+He watched as the reading changed. The black-on-yellow dials slid
+forward from _Year 16 Day 365_ to _Year 17 Day 1_.
+
+As the numbers dropped into place his father said, "It's your birthday,
+is it? Let it be a happy one!"
+
+"Thanks, Dad. You know, it'll feel fine to have a birthday on Earth!"
+
+The Captain nodded. "It's always good to come home, even if we'll have
+to leave again soon. And this will be the first time you've celebrated
+your birthday on your native world in--three hundred years, Alan."
+
+Grinning, Alan thought, _Three hundred? No, not really._ Out loud he
+said, "You know that's not right, Dad. Not three hundred years. Just
+seventeen." He looked out at the slowly-spinning green globe of Earth.
+
+"When on Earth, do as the Earthers do," the Captain said. "That's an old
+proverb of that planet out there. The main vault of the computer files
+says you were born in 3576, unless I forget. And if you ask any Earther
+what year this is he'll tell you it's 3876. 3576-3876--that's three
+hundred years, no?" His eyes twinkled.
+
+"Stop playing games with me, Dad." Alan held forth his Tally. "It
+doesn't matter what the computer files say. Right here it says _Year 17
+Day 1_, and that's what I'm going by. Who cares what year it is on
+Earth? _This_ is my world!"
+
+"I know, Alan."
+
+Together they moved away from the viewscreen; it was time for breakfast,
+and the second gongs were sounding. "I'm just teasing, son. But that's
+the sort of thing you'll be up against if you leave the Starmen's
+Enclave--the way your brother did."
+
+Alan frowned and his stomach went cold. He wished the unpleasant topic
+of his brother had not come up. "You think there's any chance Steve will
+come back, this time down? Will we be in port long enough for him to
+find us?"
+
+Captain Donnell's face clouded. "We're going to be on Earth for almost a
+week," he said in a suddenly harsh voice. "That's ample time for Steve
+to rejoin us, if he cares to. But I don't imagine he'll care to. And I
+don't know if I want very much to have him back."
+
+He paused outside the handsomely-panelled door of his private cabin, one
+hand on the thumb-plate that controlled entrance. His lips were set in a
+tight thin line. "And remember this, Alan," he said. "Steve's not your
+twin brother any more. You're only seventeen, and he's almost
+twenty-six. He'll never be your twin again."
+
+With sudden warmth the captain squeezed his son's arm. "Well, better get
+up there to eat, Alan. This is going to be a busy day for all of us."
+
+He turned and went into the cabin.
+
+Alan moved along the wide corridor of the great ship toward the mess
+hall in Section C, thinking about his brother. It had been only about
+six weeks before, when the _Valhalla_ had made its last previous stop on
+Earth, that Steve had decided to jump ship.
+
+The _Valhalla's_ schedule had called for them to spend two days on Earth
+and then leave for Alpha Centauri with a load of colonists for Alpha C
+IV. A starship's time is always scheduled far in advance, with bookings
+planned sometimes for decades Earthtime by the Galactic Trade
+Commission.

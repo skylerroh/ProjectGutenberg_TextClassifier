@@ -1,0 +1,341 @@
+The Project Gutenberg EBook of A Treatise on Physiology and Hygiene, by 
+Joseph Chrisman Hutchison
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: A Treatise on Physiology and Hygiene
+       For Educational Institutions and General Readers
+
+Author: Joseph Chrisman Hutchison
+
+Release Date: November 5, 2010 [EBook #34211]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK
+A TREATISE ON PHYSIOLOGY AND HYGIENE ***
+
+
+
+
+Produced by Bryan Ness, Keith Edkins and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/American Libraries.)
+
+
+
+
+
+Transcriber's note: A few typographical errors have been corrected: they
+are listed at the end of the text.
+
+       *       *       *       *       *
+
+
+[Illustration: THE VISCERA IN POSITION.]
+
+       *       *       *       *       *
+
+
+A
+
+TREATISE
+
+ON
+
+PHYSIOLOGY AND HYGIENE
+
+FOR
+
+EDUCATIONAL INSTITUTIONS AND GENERAL READERS.
+
+_FULLY ILLUSTRATED._
+
+BY
+
+JOSEPH C. HUTCHISON, M. D.,
+
+_President of the New York Pathological Society, Vice-President of the New
+York
+Academy of Medicine, Surgeon to the Brooklyn City Hospital, late
+President
+of the Medical Society of the State of New York, etc._
+
+       *       *       *       *       *
+
+NEW YORK:
+
+CLARK & MAYNARD, PUBLISHERS,
+
+5 BARCLAY STREET.
+
+1872.
+
+       *       *       *       *       *
+
+
+Entered according to Act of Congress, in the year 1870,
+By CLARK & MAYNARD.
+In the Office of the Librarian of Congress, at Washington.
+
+  Stereotyped by LITTLE, RENNIE & CO.
+      645 and 647 Broadway.
+
+       *       *       *       *       *
+
+
+TO MY WIFE,
+
+WHOSE SYMPATHY HAS, FOR MORE THAN TWENTY YEARS, LIGHTENED THE
+CARES INCIDENT TO
+
+_AN ACTIVE PROFESSIONAL LIFE_,
+
+THIS HUMBLE VOLUME
+
+IS AFFECTIONATELY INSCRIBED.
+
+       *       *       *       *       *
+
+
+{3}
+
+PREFACE.
+
+------o------
+
+This work is designed to present the leading facts and principles of human
+Physiology and Hygiene in clear and concise language, so that pupils in
+schools and colleges, and readers not familiar with the subjects, may
+readily comprehend them. Anatomy, or a description of the structure of an
+organ, is of course necessary to the understanding of its Physiology, or
+its uses. Enough of the former study has, therefore, been introduced, to
+enable the pupil to enter intelligently upon the latter.
+
+Familiar language, as far as practicable, has been employed, rather than
+that of a technical character. With a view, however, to supply what might
+seem to some a deficiency in this regard, a Pronouncing Glossary has been
+added, which will enable the inquirer to understand the meaning of many
+scientific terms not in common use.
+
+In the preparation of the work the writer has carefully examined all the
+best material at his command, and freely used it; the special object being
+to have it abreast of the present knowledge on the subjects treated, as far
+as such is possible in a work so elementary as this. The discussion of
+disputed points has been avoided, it being manifestly inappropriate in a
+work of this kind.
+
+Instruction in the rudiments of Physiology in schools does not necessitate
+the general practice of dissections, or of experiments upon animals. The
+most important subjects may be illustrated by {4} drawings, such as are
+contained in this work. Models, especially those constructed by AUZOUX of
+Paris, dried preparations of the human body, and the organs of the lower
+animals, may also be used with advantage.
+
+The writer desires to acknowledge his indebtedness to R. M. WYCKOFF, M.D.,
+for valuable aid in the preparation of the manuscript for the press; and to
+R. CRESSON STILES, M.D., a skilful microscopist and physician, for the
+chapter "On the Use of the Microscope in the Study of Physiology." Mr. AVON
+C. BURNHAM, the well-known teacher of gymnastics, furnished the drawing of
+the parlor gymnasium and the directions for its use.
+
+_Brooklyn, N. Y., 1870._
+
+       *       *       *       *       *
+
+
+{5}
+
+CONTENTS.
+
+  CHAPTER I.
+
+                                                                       PAGE
+
+  THE FRAMEWORK OF THE BODY                                              15
+
+  _The Bones--Their form and composition--The Properties of Bone--The
+  Skeleton--The Joints--The Spinal Column--The Growth of Bone--The
+  Repair of Bone._
+
+  CHAPTER II.
+
+  THE MUSCLES                                                            25
+
+  _The Muscles--Flexion and Extension--The Tendons--Contraction--Physical
+  Strength--Necessity for Exercise--Its Effects--Forms of
+  Exercise--Walking--Riding--Gymnastics--Open-air Exercise--Sleep--
+  Recreation._
+
+  CHAPTER III.
+
+  THE INTEGUMENT, OR SKIN                                                41
+
+  _The Integument--Its Structure--The Nails and Hair--The Complexion--The
+  Sebaceous Glands--The Perspiratory Glands--Perspiration
+  and its uses--Importance of Bathing--Different kinds of Baths--Manner
+  of Bathing--The Benefits of the Sun--Importance of
+  Warm Clothing--Poisonous Cosmetics._
+
+  CHAPTER IV.
+
+  THE CHEMISTRY OF FOOD                                                  53
+
+  _The Source of Food--Inorganic Substances--Water--Salt--Lime--Iron--
+  Organic Substances--Albumen, Fibrin, and Casein--The Fats or
+  Oils--The Sugars, Starch, and Gum--Stimulating Substances--Necessity
+  of a Regulated Diet._
+
+  {6}
+  CHAPTER V.
+
+  FOOD AND DRINK                                                         64
+
+  _Necessity for Food--Waste and Repair--Hunger and Thirst--Amount
+  of Food--Renovation of the Body--Mixed Diet--Milk--Eggs--Meat--Cooking
+  --Vegetable Food--Bread--The Potato--Fruits--Purity
+  of Water--Action of Water upon Lead--Coffee, Tea, and Chocolate--Effects
+  of Alcohol._
+
+  CHAPTER VI.
+
+  DIGESTION                                                              80
+
+  _The Principal Processes of Nutrition--The General Plan of Digestion--
+  Mastication--The Teeth--Preservation of the Teeth--Insalivation--The
+  Stomach and the Gastric Juice--The Movements of the
+  Stomach--Gastric Digestion--The Intestines--The Bile and Pancreatic
+  Juice--Intestinal Digestion--Absorption by means of Blood-vessels
+  and Lacteals--The Lymphatic or Absorbent System--The
+  Lymph--Conditions which affect Digestion--The Quality, Quantity,
+  and Temperature of the Food--The Influence of Exercise and
+  Sleep._
+
+  CHAPTER VII.
+
+  THE CIRCULATION                                                       101
+
+  _The Blood--Its Plasma and Corpuscles--Coagulation of the Blood--The
+  Uses of the Blood--Transfusion--Change of Color--The Organs of
+  the Circulation--The Heart, Arteries, and Veins--The Cavities
+  and Valves of the Heart--Its Vital Energy--Passage of the Blood
+  through the Heart--The Frequency and Activity of its Movements--The
+  Pulse--The Sphygmograph--The Capillary Blood-vessels--The
+  Rate of the Circulation--Assimilation--Injuries to the Blood-vessels._
+
+  CHAPTER VIII.
+
+  RESPIRATION                                                           123
+
+  _The Objects of Respiration--The Lungs--The Air-Passages--The Movements
+  of Respiration--Expiration and Inspiration--The Frequency
+  of Respiration--Capacity of the Lungs--The Air we Breathe--Changes
+  in the Air from Respiration--Changes in the Blood--Interchange
+  of Gases in the Lungs--Comparison between Arterial and
+  {7}
+  Venous Blood--Respiratory Labor--Impurities of the Air--Dust--Carbonic
+  Acid--Effects of Impure Air--Nature's Provision for
+  Purifying the Air--Ventilation--Animal Heat_.
+
+  CHAPTER IX.
+
+  THE NERVOUS SYSTEM                                                    148
+
+  _Animal and Vegetative Functions--Sensation, Motion, and Volition--The
+  Structure of the Nervous System--The White and Gray Substances--The
+  Brain--Its Convolutions--Cerebellum--The Spinal
+  Cord and its System of Nerves--The Anterior and Posterior
+  Roots--The Sympathetic System of Nerves--The Properties of Nervous
+  Tissue--Excitability of Nervous Tissues--The Functions of the
+  Spinal Nerves and Cord--The Direction of the Fibres of the Cord--Reflex
+  Activity and its Uses--The Functions of the Medulla Oblongata
+  and the Cranial Ganglia--The Reflex Action of the Brain._
+
+  CHAPTER X.
+
+  THE SPECIAL SENSES                                                    177
+
+  _The Production of Sensations--Variety of Sensations--General
+      Sensibility--Pain
+  and its Function--Special Sensation, Touch, Taste,
+  Smell, Sight, and Hearing--The Hand, the Organ of Touch--The
+  Sense of Touch--Delicacy of Touch--Sensation of Temperature and
+  Weight--The Tongue the Organ of Taste--The Nerves of Taste--The
+  Sense of Taste, and its Relations with the other Senses--The
+  Influence of Education on the Taste--The Nasal Cavities, or the
+  Organs of Smell--The Olfactory Nerve--The Uses of the Sense of
+  Smell--The Sense of Sight--Light--The Optic Nerve--The
+  Eyeball and its Coverings--The Function of the Iris--The
+  Sclerotic, Choroid, and Retina--The Tears and their Function--The
+  Movements of the Eyeball--The Function of Accommodation--The
+  Sense of Hearing and Sound--The Ear, or
+  the organ of Hearing--The External, Middle, and Internal Ear._
+
+  CHAPTER XI.
+
+  THE VOICE                                                             227
+
+  _Voice and Speech--The Larynx, or the Organ of the Voice--The Vocal
+  Cords--The Laryngoscope--The Production of the Voice--The Use
+  of the Tongue--The different Varieties of Voice--The Change of
+  Voice--Its Compass--Purity of Tone--Ventriloquy._
+
+  {8}
+  CHAPTER XII.
+
+  THE USE OF THE MICROSCOPE IN THE STUDY OF
+  PHYSIOLOGY                                                            236
+
+  _The Law of Tissues--Necessity of the Microscope--Different kinds of
+  Microscopes--Additional Apparatus--Preliminary Studies--The
+  Study of Human Tissues--Tissues of the Inferior Animals--Incentives
+  to Study._
+
+  APPENDIX.
+
+  POISONS AND THEIR ANTIDOTES                                           247
+
+  GLOSSARY                                                              252
+
+{9}
+
+LIST OF ILLUSTRATIONS
+
+  FIG.                                               PAGE
+  FRONTISPIECE,       }
+  VISCERA IN POSITION,}
+  1. Section of bone,                                  17
+  2. Structure of bone, magnified,                     17
+  3. The skeleton,                                     18
+  4. Cells of cartilage,                               20
+  5. Elbow-joint,                                      21
+  6. Spinal column,                                    22
+  7. The muscles,                                      24
+  8. Muscular tissue, magnified,                       25
+  9. Biceps muscle of the arm,                         26
+  10. View of knee-joint,                              27
+  11. Appliance for strengthening the muscles,         35
+  12. Appliance for strengthening the muscles,         35
+  13. Parlor gymnasium,                                36
+  14. Root and transverse section of hair, magnified,  43
+  15. Granules of potato starch,                       61
+  16. Section of the trunk,                            81
+  17. Section of a tooth,                              82
+  18. Section of the jaws,                             82
+  19. Section of the jaws--right side,                 84
+  20. Structure of a salivary gland,                   87
+  21. Head of a horse, showing salivary gland, etc.    87
+  22. Section of chest and abdomen,                    90
+  23. Organs of digestion,                             91
+  24. The lacteals,                                    97
+  25. Blood corpuscles,                               102
+  26. Blood corpuscles of man and lower animals,      103
+  27. Circulation of the blood,                       108
+  {10}

@@ -1,0 +1,397 @@
+and cold, and measures the extent to which heat is concentrated in the
+body. It is the amount of heat per molecule of the body. A barrel of
+warm water contains more heat than the flame of a match, but its
+temperature is not so high. Bearing in mind this distinction, we seek to
+determine not the amount of heat contained in the sun but the sun's
+temperature, and this involves the same difficulty as does the question,
+What is the temperature of a locomotive? It is one thing in the fire box
+and another thing in the driving wheels, and still another at the
+headlight; and so with the sun, its temperature is certainly different
+in different parts--one thing at the center and another at the surface.
+Even those parts which we see are covered by a veil of gases which
+produce by absorption the dark lines of the solar spectrum, and
+seriously interfere both with the emission of energy from the sun and
+with our attempts at measuring the temperature of those parts of the
+surface from which that energy streams.
+
+In view of these and other difficulties we need not be surprised that
+the wildest discordance has been found in estimates of the solar
+temperature made by different investigators, who have assigned to it
+values ranging from 1,400° C. to more than 5,000,000° C. Quite recently,
+however, improved methods and a better understanding of the problem have
+brought about a better agreement of results, and it now seems probable
+that the temperature of the visible surface of the sun lies somewhere
+between 5,000° and 10,000° C., say 15,000° of the Fahrenheit scale.
+
+118. DETERMINING THE SUN'S TEMPERATURE.--One ingenious method which has
+been used for determining this temperature is based upon the principle
+stated above, that every object, whether warm or cold, contains heat and
+gives it off in the form of radiant energy. The radiation from a body
+whose temperature is lower than 500° C. is made up exclusively of energy
+whose wave length is greater than 7,600 tenth meters, and is therefore
+invisible to the eye, although a thermometer or even the human hand can
+often detect it as radiant heat. A brick wall in the summer sunshine
+gives off energy which can be felt as heat but can not be seen. When
+such a body is further heated it continues to send off the same kinds
+(wave lengths) of energy as before, but new and shorter waves are added
+to its radiation, and when it begins to emit energy of wave length 7,500
+or 7,600 tenth meters, it also begins to shine with a dull-red light,
+which presently becomes brighter and less ruddy and changes to white as
+the temperature rises, and waves of still shorter length are thereby
+added to the radiation. We say, in common speech, the body becomes first
+red hot and then white hot, and we thus recognize in a general way that
+the kind or color of the radiation which a body gives off is an index to
+its temperature. The greater the proportion of energy of short wave
+lengths the higher is the temperature of the radiating body. In sunlight
+the maximum of brilliancy to the eye lies at or near the wave length,
+5,600 tenth meters, but the greatest intensity of radiation of all kinds
+(light included) is estimated to fall somewhere between green and blue
+in the spectrum at or near the wave length 5,000 tenth meters, and if we
+can apply to this wave length Paschen's law--temperature reckoned in
+degrees centigrade from the absolute zero is always equal to the
+quotient obtained by dividing the number 27,000,000 by the wave length
+corresponding to maximum radiation--we shall find at once for the
+absolute temperature of the sun's surface 5,400° C.
+
+Paschen's law has been shown to hold true, at least approximately, for
+lower temperatures and longer wave lengths than are here involved, but
+as it is not yet certain that it is strictly true and holds for all
+temperatures, too great reliance must not be attached to the numerical
+result furnished by it.
+
+[Illustration: FIG. 66.--The sun, August 11, 1894. Photographed at the
+Goodsell Observatory.]
+
+[Illustration: FIG. 67.--The sun, August 14, 1894. Photographed at the
+Goodsell Observatory.]
+
+119. THE SUN'S SURFACE.--A marked contrast exists between the faces of
+sun and moon in respect of the amount of detail to be seen upon them,
+the sun showing nothing whatever to correspond with the mountains,
+craters, and seas of the moon. The unaided eye in general finds in the
+sun only a blank bright circle as smooth and unmarked as the surface of
+still water, and even the telescope at first sight seems to show but
+little more. There may usually be found upon the sun's face a certain
+number of black patches called _sun spots_, such as are shown in Figs.
+66 to 69, and occasionally these are large enough to be seen through a
+smoked glass without the aid of a telescope. When seen near the edge of
+the sun they are quite frequently accompanied, as in Fig. 69, by vague
+patches called _faculæ_ (Latin, _facula_ = a little torch), which look a
+little brighter than the surrounding parts of the sun. So, too, a good
+photograph of the sun usually shows that the central parts of the disk
+are rather brighter than the edge, as indeed we should expect them to
+be, since the absorption lines in the sun's spectrum have already taught
+us that the visible surface of the sun is enveloped by invisible vapors
+which in some measure absorb the emitted light and render it feebler at
+the edge where it passes through a greater thickness of this envelope
+than at the center. See Fig. 70, where it is shown that the energy
+coming from the edge of the sun to the earth has to traverse a much
+longer path inside the vapors than does that coming from the center.
+
+[Illustration: FIG. 68.--The sun, August 18, 1894. Photographed at the
+Goodsell Observatory.]
+
+Examine the sun spots in the four photographs, Figs. 66 to 69, and note
+that the two spots which appear at the extreme left of the first
+photograph, very much distorted and foreshortened by the curvature of
+the sun's surface, are seen in a different part of the second picture,
+and are not only more conspicuous but show better their true shape.
+
+[Illustration: PLATE II. THE EQUATORIAL CONSTELLATIONS]
+
+120. THE SUN'S ROTATION.--The changed position of these spots shows that
+the sun rotates about an axis at right angles to the direction of the
+spot's motion, and the position of this axis is shown in the figure by a
+faint line ruled obliquely across the face of the sun nearly north and
+south in each of the four photographs. This rotation in the space of
+three days has carried the spots from the edge halfway to the center of
+the disk, and the student should note the progress of the spots in the
+two later photographs, that of August 21st showing them just ready to
+disappear around the farther edge of the sun.
+
+[Illustration: FIG. 69.--The sun, August 21, 1894. Photographed at the
+Goodsell Observatory.]
+
+Plot accurately in one of these figures the positions of the spots as
+shown in the other three, and observe whether the path of the spots
+across the sun's face is a straight line. Is there any reason why it
+should not be straight?
+
+These four pictures may be made to illustrate many things about the sun.
+Thus the sun's axis is not parallel to that of the earth, for the
+letters _N S_ mark the direction of a north and south line across the
+face of the sun, and this line, of course, is parallel to the earth's
+axis, while it is evidently not parallel to the sun's axis. The group of
+spots took more than ten days to move across the sun's face, and as at
+least an equal time must be required to move around the opposite side of
+the sun, it is evident that the period of the sun's rotation is
+something more than 20 days. It is, in fact, rather more than 25 days,
+for this same group of spots reappeared again on the left-hand edge of
+the sun on September 5th.
+
+[Illustration: FIG. 70.--Absorption at the sun's edge.]
+
+121. SUN SPOTS.--Another significant fact comes out plainly from the
+photographs. The spots are not permanent features of the sun's face,
+since they changed their size and shape very appreciably in the few days
+covered by the pictures. Compare particularly the photographs of August
+14th and August 18th, where the spots are least distorted by the
+curvature of the sun's surface. By September 16th this group of spots
+had disappeared absolutely from the sun's face, although when at its
+largest the group extended more than 80,000 miles in length, and several
+of the individual spots were large enough to contain the earth if it had
+been dropped upon them. From Fig. 67 determine in miles the length of
+the group on August 14th. Fig. 71 shows an enlarged view of these spots
+as they appeared on August 17th, and in this we find some details not so
+well shown in the preceding pictures. The larger spots consist of a
+black part called the _nucleus_ or _umbra_ (Latin, shadow), which is
+surrounded by an irregular border called the _penumbra_ (partial
+shadow), which is intermediate in brightness between the nucleus and
+the surrounding parts of the sun. It should not be inferred from the
+picture that the nucleus is really black or even dark. It shines, in
+fact, with a brilliancy greater than that of an electric lamp, but the
+background furnished by the sun's surface is so much brighter that by
+contrast with it the nucleus and penumbra appear relatively dark.
+
+[Illustration: FIG. 71.--Sun spots, August 17, 1894. Goodsell
+Observatory.]
+
+[Illustration: FIG. 72.--Sun spot of March 5, 1873.--From LANGLEY, The
+New Astronomy. By permission of the publishers.]
+
+The bright shining surface of the sun, the background for the spots, is
+called the _photosphere_ (Greek, light sphere), and, as Fig. 71 shows,
+it assumes under a suitable magnifying power a mottled aspect quite
+different from the featureless expanse shown in the earlier pictures.
+The photosphere is, in fact, a layer of little clouds with darker
+spaces between them, and the fine detail of these clouds, their
+complicated structure, and the way in which, when projected against the
+background of a sun spot, they produce its penumbra, are all brought out
+in Fig. 72. Note that the little patch in one corner of this picture
+represents North and South America drawn to the same scale as the sun
+spots.
+
+[Illustration: FIG. 73.--Spectroheliograph, showing distribution of
+faculæ upon the sun.--HALE.]
+
+[Illustration: FIG. 74.--Eclipse of July 20, 1878.--TROUVELOT.]
+
+122. FACULÆ.--We have seen in Fig. 69 a few of the bright spots called
+faculæ. At the telescope or in the ordinary photograph these can be seen
+only at the edge of the sun, because elsewhere the background furnished
+by the photosphere is so bright that they are lost in it. It is
+possible, however, by an ingenious application of the spectroscope to
+break up the sunlight into a spectrum in such a way as to diminish the
+brightness of this background, much more than the brightness of the
+faculæ is diminished, and in this way to obtain a photograph of the
+sun's surface which shall show them wherever they occur, and such a
+photograph, showing faintly the spectral lines, is reproduced in Fig.
+73. The faculæ are the bright patches which stretch inconspicuously
+across the face of the sun, in two rather irregular belts with a
+comparatively empty lane between them. This lane lies along the sun's
+equator, and it is upon either side of it between latitudes 5° and 40°
+that faculæ seem to be produced. It is significant of their connection
+with sun spots that the spots occur in these particular zones and are
+rarely found outside them.
+
+[Illustration: FIG. 75.--Eclipse of April 16, 1893.--SCHAEBERLE.]
+
+123. INVISIBLE PARTS OF THE SUN. THE CORONA.--Thus far we have been
+dealing with parts of the sun that may be seen and photographed under
+all ordinary conditions. But outside of and surrounding these parts is
+an envelope, or rather several envelopes, of much greater extent than
+the visible sun. These envelopes are for the most part invisible save at
+those times when the brighter central portions of the sun are hidden in
+a total eclipse.
+
+[Illustration: FIG. 76.--Eclipse of January 21, 1898.--CAMPBELL.]
+
+Fig. 74 is from a drawing, and Figs. 75 and 76 are from eclipse
+photographs showing this region, in which the most conspicuous object
+is the halo of soft light called the _corona_, that completely surrounds
+the sun but is seen to be of differing shapes and differing extent at
+the several eclipses here shown, although a large part of these apparent
+differences is due to technical difficulties in photographing, and
+reproducing an object with outlines so vague as those of the corona. The
+outline of the corona is so indefinite and its outer portions so faint
+that it is impossible to assign to it precise dimensions, but at its
+greatest extent it reaches out for several millions of miles and fills a
+space more than twenty times as large as the visible part of the sun.
+Despite its huge bulk, it is of most unsubstantial character, an airy
+nothing through which comets have been known to force their way around
+the sun from one side to the other, literally for millions of miles,
+without having their course influenced or their velocity checked to any
+appreciable extent. This would hardly be possible if the density even at
+the bottom of the corona were greater than that of the best vacuum which
+we are able to produce in laboratory experiments. It seems odd that a
+vacuum should give off so bright a light as the coronal pictures show,
+and the exact character of that light and the nature of the corona are
+still subjects of dispute among astronomers, although it is generally
+agreed that, in part at least, its light is ordinary sunlight faintly
+reflected from the widely scattered molecules composing the substance of
+the corona. It is also probable that in part the light has its origin in
+the corona itself. A curious and at present unconfirmed result announced
+by one of the observers of the eclipse of May 28, 1900, is that _the
+corona is not hot_, its effective temperature being lower than that of
+the instrument used for the observation.
+
+[Illustration: FIG. 77.--Solar prominence of March 25, 1895.--HALE.]
+
+124. THE CHROMOSPHERE.--Between the corona and the photosphere there is
+a thin separating layer called the _chromosphere_ (Greek, color sphere),
+because when seen at an eclipse it shines with a brilliant red light
+quite unlike anything else upon the sun save the _prominences_ which are
+themselves only parts of the chromosphere temporarily thrown above its
+surface, as in a fountain a jet of water is thrown up from the basin and
+remains for a few moments suspended in mid-air. Not infrequently in such
+a fountain foreign matter is swept up by the rush of the water--dirt,
+twigs, small fish, etc.--and in like manner the prominences often carry
+along with them parts of the underlying layers of the sun, photosphere,
+faculæ, etc., which reveal their presence in the prominence by adding
+their characteristic lines to the spectrum, like that of the
+chromosphere, which the prominence presents when they are absent. None
+of the eclipse photographs (Figs. 74 to 76) show the chromosphere,
+because the color effect is lacking in them, but a great curving
+prominence may be seen near the bottom of Fig. 75, and smaller ones at
+other parts of the sun's edge.
+
+[Illustration: FIG. 78.--A solar prominence.--HALE.]
+
+125. PROMINENCES.--Fig. 77 shows upon a larger scale one of these
+prominences rising to a height of 160,000 miles above the photosphere;
+and another photograph, taken 18 minutes later, but not reproduced here,
+showed the same prominence grown in this brief interval to a stature of
+280,000 miles. These pictures were not taken during an eclipse, but in
+full sunlight, using the same spectroscopic apparatus which was employed
+in connection with the faculæ to diminish the brightness of the
+background without much enfeebling the brilliancy of the prominence
+itself. The dark base from which the prominence seems to spring is not
+the sun's edge, but a part of the apparatus used to cut off the direct
+sunlight.
+
+Fig. 78 contains a series of photographs of another prominence taken
+within an interval of 1 hour 47 minutes and showing changes in size and
+shape which are much more nearly typical of the ordinary prominence than
+was the very unusual change in the case of Fig. 77.
+
+[Illustration: FIG. 79.--Contrasted forms of solar
+prominences.--ZOELLNER.]
+
+The preceding pictures are from photographs, and with them the student
+may compare Fig. 79, which is constructed from drawings made at the
+spectroscope by the German astronomer Zoellner. The changes here shown
+are most marked in the prominence at the left, which is shaped like a
+broken tree trunk, and which appears to be vibrating from one side to
+the other like a reed shaken in the wind. Such a prominence is
+frequently called an _eruptive_ one, a name suggested by its appearance
+of having been blown out from the sun by something like an explosion,
+while the prominence at the right in this series of drawings, which
+appears much less agitated, is called by contrast with the other a
+_quiescent_ prominence. These quiescent prominences are, as a rule, much
+longer-lived than the eruptive ones. One more picture of prominences
+(Fig. 80) is introduced to show the continuous stretch of chromosphere
+out of which they spring.
+
+[Illustration: FIG. 80.--Prominences and chromosphere.--HALE.]
+
+Prominences are seen only at the edge of the sun, because it is there
+alone that the necessary background can be obtained, but they must occur
+at the center of the sun and elsewhere quite as well as at the edge, and
+it is probable that quiescent prominences are distributed over all parts
+of the sun's surface, but eruptive prominences show a strong tendency
+toward the regions of sun spots and faculæ as if all three were
+intimately related phenomena.
+
+126. THE SUN AS A MACHINE.--Thus far we have considered the anatomy of
+the sun, dissecting it into its several parts, and our next step should
+be a consideration of its physiology, the relation of the parts to each
+other, and their function in carrying on the work of the solar organism,
+but this step, unfortunately, must be a lame one. The science of
+astronomy to-day possesses no comprehensive and well-established theory
+of this kind, but looks to the future for the solution of this the
+greatest pending problem of solar physics. Progress has been made
+toward its solution, and among the steps of this progress that we shall
+have to consider, the first and most important is the conception of the
+sun as a kind of heat engine.
+
+In a steam engine coal is burned under the boiler, and its chemical
+energy, transformed into heat, is taken up by the water and delivered,
+through steam as a medium, to the engine, which again transforms and
+gives it out as mechanical work in the turning of shafts, the driving of
+machinery, etc. Now, the function of the sun is exactly opposite to that
+of the engine and boiler: it gives out, instead of receiving, radiant
+energy; but, like the engine, it must be fed from some source; it can
+not be run upon nothing at all any more than the engine can run day
+after day without fresh supplies of fuel under its boiler. We know that
+for some thousands of years the sun has been furnishing light and heat
+to the earth in practically unvarying amount, and not to the earth
+alone, but it has been pouring forth these forms of energy in every
+direction, without apparent regard to either use or economy. Of all the
+radiant energy given off by the sun, only two parts out of every
+thousand million fall upon any planet of the solar system, and of this
+small fraction the earth takes about one tenth for the maintenance of
+its varied forms of life and action. Astronomers and physicists have
+sought on every hand for an explanation of the means by which this
+tremendous output of energy is maintained century after century without
+sensible diminution, and have come with almost one mind to the
+conclusion that the gravitative forces which reside in the sun's own
+mass furnish the only adequate explanation for it, although they may be
+in some small measure re-enforced by minor influences, such as the fall
+of meteoric dust and stones into the sun.
+
+Every boy who has inflated a bicycle tire with a hand pump knows that
+the pump grows warm during the operation, on account of the compression
+of the air within the cylinder. A part of the muscular force (energy)
+expended in working the pump reappears in the heat which warms both air
+and pump, and a similar process is forever going on in the sun, only in
+place of muscular force we must there substitute the tremendous
+attraction of gravitation, 28 times as great as upon the earth. "The
+matter in the interior of the sun must be as a shuttlecock between the
+stupendous pressure and the enormously high temperature," the one
+tending to compress and the other to expand it, but with this important
+difference between them: the temperature steadily tends to fall as the
+heat energy is wasted away, while the gravitative force suffers no
+corresponding diminution, and in the long run must gain the upper hand,
+causing the sun to shrink and become more dense. It is this progressive
+shrinking and compression of its molecules into a smaller space which
+supplies the energy contained in the sun's output of light and heat.
+According to Lord Kelvin, each centimeter of shrinkage in the sun's
+diameter furnishes the energy required to keep up its radiation for
+something more than an hour, and, on account of the sun's great
+distance, the shrinkage might go on at this rate for many centuries
+without producing any measurable effect in the sun's appearance.
+
+127. GASEOUS CONSTITUTION OF THE SUN.--But Helmholtz's dynamical theory
+of the maintenance of the sun's heat, which we are here considering,
+includes one essential feature that is not sufficiently stated above. In
+order that the explanation may hold true, it is necessary that the sun
+should be in the main a gaseous body, composed from center to
+circumference of gases instead of solid or liquid parts. Pumping air
+warms the bicycle pump in a way that pumping water or oil will not.
+
+The high temperature of the sun itself furnishes sufficient reason for
+supposing the solar material to be in the gaseous state, but the gas
+composing those parts of the sun below the photosphere must be very
+different in some of its characteristics from the air or other gases
+with which we are familiar at the earth, since its average density is
+1,000 times as great as that of air, and its consistence and mechanical
+behavior must be more like that of honey or tar than that of any gas
+with which we are familiar. It is worth noting, however, that if a hole
+were dug into the crust of the earth to a depth of 15 or 20 miles the
+air at the bottom of the hole would be compressed by that above it to a
+density comparable with that of the solar gases.
+
+128. THE SUN'S CIRCULATION.--It is plain that under the conditions which
+exist in the sun the outer portions, which can radiate their heat freely
+into space, must be cooler than the inner central parts, and this
+difference of temperature must set up currents of hot matter drifting
+upward and outward from within the sun and counter currents of cooler
+matter settling down to take its place. So, too, there must be some
+level at which the free radiation into outer space chills the hot matter
+sufficiently to condense its less refractory gases into clouds made up
+of liquid drops, just as on a cloudy day there is a level in our own
+atmosphere at which the vapor of water condenses into liquid drops which
+form the thin shell of clouds that hovers above the earth's surface,
+while above and below is the gaseous atmosphere. In the case of the sun
+this cloud layer is always present and is that part which we have
+learned to call the photosphere. Above the photosphere lies the

@@ -1,0 +1,425 @@
+31/2 lb. to 5 lb. per square inch of pressure above atmosphere. The
+piston speed rarely exceeded 250 feet per minute, and as a result of
+the feeble pressure, and of the low rate of speed, very large
+cylinders indeed were needed relatively to the power obtained. The
+consumption of fuel was heavy, being commonly from 7 lb. to 10 lb. per
+gross indicated horsepower per hour. The governing of the engine was
+done by pendulum governors, revolving slowly, and not calculated to
+exert any greater effort than that of raising the balls at the end of
+the pendulum arms, thus being, as will be readily seen, very
+inefficient regulators. The connection of the parts of the engine
+between themselves was derived from the foundation upon which the
+engine was supported. Incident to the low piston speed was slowness of
+revolution, rendering necessary heavy fly wheels, to obtain even an
+approach to practical uniformity of rotation, and frequently rendering
+necessary also heavy trains of toothed gearing, to bring up the speed
+from that of the revolutions of the engine to that of the machinery it
+was intended to drive.
+
+In 1881, the boilers are almost invariably cylindrical, and are very
+commonly internally fired, either by one flue or by two; we owe it to
+the late Sir William Fairbairn, President of the British Association
+in 1861, that the danger, which at one time existed, of the collapse
+of these fire flues, has been entirely removed by his application of
+circumferential bands. Nowadays there are, as we know, modifications
+of Sir William Fairbairn's bands, but by means of his bands, or by
+modifications thereof, all internally flued boilers are so
+strengthened that the risk of a collapse of the flue is at an end.
+Boilers of this kind are well calculated to furnish--and commonly do
+furnish--steam of from 40 lb. to 80 lb. pressure above atmosphere.
+
+The piston speed is now very generally 400 feet or more, so that,
+notwithstanding that there is usually a liberal expansion, the mean
+pressure upon the piston is increased, and this, coupled with its
+increased speed, enables much more power to be obtained from a given
+size of cylinder than was formerly obtainable. The revolutions of the
+engine now are as many as from 60 to 200 per minute, and thus, with
+far lighter fly-wheels, uniformity of rotation is much more nearly
+attained.
+
+
+THE EVAPORATIVE CONDENSER.
+
+Moreover, all the parts of the engine are self-contained; they no
+longer depend upon the foundation, and in many cases the condensing is
+effected either by surface condensers, or, where there is not
+sufficient water, the condensation is, in a few instances, effected by
+the evaporative condenser--a condenser which, I am sorry to say, is
+not generally known, and is therefore but seldom used, although its
+existence has been nearly as long as that of the association.
+Notwithstanding the length of time during which the evaporative
+condenser has been known to some engineers, it is a common thing to
+hear persons say, when you ask them if they are using a condensing
+engine, "I can not use it; I have not water enough." A very sufficient
+answer indeed, if an injection condenser or an ordinary surface
+condenser constituted the sole means by which a vacuous condition
+might be obtained; but a very insufficient answer, having regard to
+the existence of the evaporative condenser, as by its means, whenever
+there is water enough for the feed of a non condensing engine, there
+is enough to condense, and to produce a good vacuum.
+
+The evaporative condenser simply consists of a series of pipes, in
+which is the steam to be condensed, and over which the water is
+allowed to fall in a continuous rain. By this arrangement there is
+evaporated from the outside of the condenser a weight of water which
+goes away in a cloud of vapor, and is nearly equal to that which is
+condensed, and is returned as feed into the boiler. The same water is
+pumped up and used outside the condenser, over and over, needing no
+more to supply the waste than would be needed as feed water. Although
+this condenser has, as I have said, been in use for thirty or forty
+years, one still sees engines working without condensation at all, or
+with waterworks water, purchased at a great cost, and to the detriment
+of other consumers who want it for ordinary domestic purposes; or one
+sees large condensing ponds made, in which the injection water is
+stored to be used over and over again, and frequently (especially
+toward the end of the week) in so tepid a state as to be unfit for its
+purpose. The governing is now done by means of quick-running
+governors, which have power enough in them to raise not merely the
+weight of the pendulum ball, which is now small, but a very heavy
+weight, and in this way the governing is extremely effective. I
+propose to say no more, looking at the magnitude of the whole of my
+subject, upon the engine used for manufacturing purposes, but rather
+to turn at once to those employed for other objects.
+
+
+STEAM NAVIGATION.
+
+In 1831, there were a considerable number of paddle steamers running
+along some of the rivers in England, and across the Channel to the
+Continent. But there were no ocean steamers, properly so-called, and
+there were no steamers used for warlike purposes. As in the case of
+the wagon boilers, the boilers of the paddle steamers of 1831 were
+most unsuited for resisting pressure. They were mere tanks, and there
+was as much pressure when there was no steam in the boiler from the
+weight of the water on the bottom, as there was at the top of the
+boiler from the steam pressure when the steam was up. Under these
+circumstances, again, from 31/2 lb. to 5 lb. was all the pressure the
+boilers were competent to bear, and as the engines ran at a slow
+speed, they developed but a small amount of horse-power in relation to
+their size. Moreover, as in the land engine, the connection between
+the parts of the marine engine was such as to be incompetent to stand
+the strain that would come upon it if a higher pressure, with a
+considerable expansion, were used, and thus the consumption of coal
+was very heavy; and we know that, having regard to the then
+consumption, it was said, on high authority, it would be impossible
+for a steamboat to traverse the Atlantic, as it could not carry fuel
+enough to take it across; and indeed it was not until 1838 that the
+Sirius and the Great Western did make the passage. The passage had
+been made before, but it was not until 1838 that the passenger service
+can be said to have commenced. In 1831, the marine boiler was supplied
+with salt water, the hulls were invariably of wood, and the speed was
+probably from eight to nine knots an hour. In 1881, the vessels are as
+invariably either of iron or of steel, and I believe it will not be
+very long before the iron disappears, giving place entirely to the
+last mentioned metal. With respect to the term "steel," I am ready to
+agree that it is impossible to say where, chemically speaking, iron
+ends and steel begins. But (leaving out malleable cast iron) I apply
+this term "steel" to any malleable ductile metal of which iron forms
+the principal element and which has been in fusion, and I do so in
+contradistinction to the metal which may be similar chemically, but
+which has been prepared by the puddling process. Applying the term
+steel in that sense, I believe, as I have said, it will not be very
+long before plate-iron produced by the puddling process will cease to
+be used for the purpose of building vessels. With respect to marine
+engines, they are now supplied with steam from multiple tubed boilers,
+the shells of which are commonly cylindrical. They are of enormous
+strength, and made with every possible care, and carry from 80 lb. to
+100 lb. pressure on the square inch.
+
+It has been found, on the whole, more convenient to expand the steam
+in two or more cylinders, rather than in one. I quite agree that, as a
+mere matter of engineering science, there is no reason why the
+expansion should not take place in a single cylinder, unless it be
+that a single cylinder is cooled down to an extent which cannot be
+overcome by jacketing, and which, therefore, destroys a portion of the
+steam on its entering into the cylinder.
+
+As regards the propeller, as we know, except in certain cases, the
+paddle-wheel has practically disappeared, and the screw propeller is
+all but universally employed. The substitution of the screw propeller
+for the paddle enables the engine to work at a much higher number of
+revolutions per minute, and thus a very great piston speed, some 600
+ft. to 800 ft. per minute, is attained; and this, coupled with the
+fairly high mean pressure which prevails, enables a large power to be
+got from a comparatively small-sized engine. Speeds of 15 knots an
+hour are now in many cases maintained, and on trial trips are not
+uncommonly exceeded. Steam vessels are now the accepted vessels of
+war. We have them in an armored state and in an unarmored state, but
+when unarmored rendered so formidable, by the command which their
+speed gives them of choosing their distance, as to make them, when
+furnished with powerful guns, dangerous opponents even to the best
+armored vessels.
+
+
+MARINE GOVERNORS.
+
+We have also now marine engines, governed by governors of such extreme
+sensitiveness as to give them the semblance of being endowed with the
+spirit of prophecy, as they appear rather to be regulating the engine
+for that which is about to take place than for that which is taking
+place. This may sound a somewhat extravagant statement, but it is so
+nearly the truth, that I have hardly gone outside of it in using the
+words I have employed. For a marine governor to be of any use, it must
+not wait till the stern of the vessel is out of the water before it
+acts to check the engine and reduce the speed. Nothing but the most
+sensitive, and, indeed, anticipatory action of the governors can
+efficiently control marine propulsion. Instances are on record of
+vessels having engines without marine governors being detained by
+stress of weather at the mouth of the Thames, while vessels having
+such governors, of good design, have gone to Newcastle, have come
+back, and have found the other vessels still waiting for more
+favorable weather.
+
+With respect to condensation in marine engines, it is almost
+invariably effected by surface condensers, and thus it is that the
+boilers, instead of being fed with salt water as they used to be,
+involving continuous blowing off, and frequently the salting up, of
+the boiler, are now fed with distilled water. It should be noticed,
+however, that in some instances, owing to the absence of a thin
+protecting scale upon the tubes and plates, very considerable
+corrosion has taken place when distilled water, derived from
+condensers having untinned brass tubes, has been used, and where the
+water has carried into the boiler fatty acids, arising from the
+decomposition of the grease used in the engine; but means are now
+employed by which these effects are counteracted.
+
+
+LIGHT ENGINES AND BOILERS.
+
+I wish, before quitting this section of my subject, to call your
+attention to two very interesting but very different kinds of marine
+engines. One is the high-speed torpedo vessel, or steam launch, of
+which Messrs. Thornycroft's firm have furnished so many examples. In
+these, owing to the rate at which the piston runs to the initial
+pressure of 120 lb. and to very great skill in the design, Messrs.
+Thornycroft have succeeded in obtaining a gross indicated horse-power
+for as small a weight as half a cwt., including the boiler, the water
+in the boiler, the engine, the propeller shaft, and the propeller
+itself.
+
+To obtain the needed steam from the small and light boiler, recourse
+has to be made to the aid of a fan blast driven into the stoke-hole.
+From the use of a blast in this way advantages accrue. One is, as
+already stated, that from a small boiler a large amount of steam is
+produced. Another is that the stoke-hole is kept cool; and the third
+is that artificial blasts thus applied are unaccompanied by the
+dangers which arise, when under ordinary circumstances the blast is
+supplied only to the ash-pit itself.
+
+
+THE PERKINS SYSTEM.
+
+The second marine engine to which I wish to call your attention is one
+that has been made with a view to great economy. The principles
+followed in its construction are among those suggested by the
+President (Sir W.G. Armstrong) in his address. He (you will remember)
+pointed out that the direction in which economy in the steam engine
+was to be looked for was that of increasing the initial pressure;
+although at the same time he said that there were drawbacks in the
+shape of greater loss, by radiation, and by the higher temperature at
+which the products of combustion will escape. We must admit the fact
+of the latter source of loss, when using very high steam, it being
+inevitable that temperature of the products of combustion escaping
+from a boiler under these conditions must be higher than those which
+need be allowed to escape when lower steam is employed; although I
+regret to say that in practice in marine boilers working at
+comparatively low pressures the products are ordinarily suffered to
+pass into the funnel at above the temperature of melted lead. But with
+respect to the loss by radiation in the particular engine I am about
+to mention--that of Perkins--there is not as much loss as that which
+prevails in the ordinary marine boilers, because the Perkins boiler is
+completely inclosed, with the result that while there is within the
+case a boiler containing steam of 400 lb. on the square inch, and the
+fire to generate that steam, the hand may be applied to the casting
+itself, which contains the whole of the boiler, without receiving any
+unpleasant sensation of warmth. By Mr. Perkins's arrangement, using
+steam of 400 lb. in the boiler, it was found, as the result of very
+severe trials, conducted by Mr. Rich, of Messrs. Easton and Anderson's
+firm, and myself--trials which lasted for twelve hours--that the total
+consumption of fuel, including that for getting up steam from cold
+water, was just under 1.8, actually 1.79 lb. per gross indicated
+horse-power per hour. That gross indicated horse-power was obtained in
+a manner which it is desirable should always be employed in steamboat
+trials. It was not got by using as a divisor the horse-power of the
+most favorable diagram obtained during the day; but it was got from
+diagrams taken during the regular work; then, every half-hour, when
+the pressure began to die down, from coal being no longer put upon the
+fire, diagrams taken every quarter of an hour, and then toward the
+last, every five minutes; and the total number of foot pounds were
+calculated from these diagrams, and were used to obtain the gross
+indicated horse-power.
+
+Further, so far as could be ascertained by the process of commencing a
+trial with a known fire, and closing that trial at the end of six
+hours, with the fire as nearly as possible in the same condition, the
+consumption was 1.66 lb. of coal per gross indicated horse-power per
+hour. So that, without taking into account the coal consumed in
+raising steam from cold water, the engine worked for 1-2/3 lb. of coal
+per horse per hour. I think it well to give these details, because
+undoubtedly it is an extremely economical result.
+
+
+ETHER ENGINE.
+
+Our president alluded to the employment of ether as a means of
+utilizing the heat which escaped into the condenser, and gave some
+account of what was done by Mons. Du Tremblay in this direction. It so
+happened that I had occasion to investigate the matter at the time of
+Du Tremblay's experiments; very little was effected here in England,
+one difficulty being the excise interference with the manufacture of
+ether. Chloroform was used here, and it was also suggested to employ
+bisulphide of carbon. In France, however, a great deal was done. Four
+large vessels were fitted with the ether engines, and I went over to
+Marseilles to see them at work. I took diagrams from these engines,
+and there is no doubt that, by this system, the exhaust steam from the
+steam cylinder, which was condensed by the application of ether to the
+surface of the steam condenser (producing a respectable vacuum of
+about 22 inches), gave an ether pressure of 15 lb. on the square inch
+above atmosphere, and very economical results as regards fuel were
+obtained. The scheme was, however, abandoned from practical
+difficulties. It need hardly be said that ether vapor is very
+difficult to deal with, and although ether is light, the vapor is
+extremely heavy, and if there is any leakage, it goes down into the
+bilges by gravitation, and being mixed with air, unless due care is
+taken to prevent access to the flues, there would be a constant risk
+of a violent explosion. In fact, it was necessary to treat the engine
+room in the way in which a fiery colliery would be treated. The
+lighting, for instance, was by lamps external to the engine room, and
+shining through thick plate-glass. The hand lamps were Davy's. The
+ether engine was a bold experiment in applied science, and one that
+entitles Du Tremblay's name to be preserved, and to be mentioned as it
+was by our president.
+
+
+THE QUICKSILVER ENGINE.
+
+These was another kind of marine engine that I think should not be
+passed over without notice; I allude to Howard's quicksilver engine.
+The experiments with this engine were persevered in for some
+considerable time, and it was actually used for practical purposes in
+propelling a passenger steam-vessel called the Vesta, and running
+between London and Ramsgate. In that engine the boiler had a double
+bottom, containing an amalgam of quicksilver and lead. This amalgam
+served as a reservoir of heat, which it took up from the fire below
+the double-bottom, and gave forth at intervals to the water above it.
+There was no water in the boiler, in the ordinary sense of the term,
+but when steam was wanted to start the engine, a small quantity of
+water was injected by means of a hand-pump, and after the engine was
+started, there was pumped by it into the boiler, at each half
+revolution, as much water as would make the steam needed. This water
+was flashed on the top surface of the reservoir in which the amalgam
+was confined, and was entirely turned into steam, the object of the
+engineers in charge being to send in so much water as would just
+generate the steam, but so as not to leave any water in the boiler.
+The engines of the Vesta were made by Mr. Penn, for Mr. Howard, of
+the King and Queen Ironworks, Rotherhithe. Mr. Howard was, I fear, a
+considerable loser by his meritorious efforts to improve the
+steam-engine.
+
+There was used, with this engine, an almost unknown mode of obtaining
+fresh water for the boiler. Fresh water, it will be seen was a
+necessity in this mode of evaporation. The presence of salt, or of any
+other impurity, when the whole of the water was flashed into steam,
+must have caused a deposit on the top of the amalgam chamber at each
+operation. Fresh water, therefore, was needed; the problem arose how
+to get it; and that problem was solved, not by the use of surface
+condensation, but by the employment of reinjection, that is to say,
+the water delivered from the hot well was passed into pipes external
+to the vessel; after traversing them, it came back into the injection
+tank sufficiently cooled to be used again. The boilers were worked by
+coke fires, urged by a fan blast in their ashpits, but I am not aware
+that this mode of firing was a needful part of the system.
+
+
+LOCOMOTIVE ENGINES.
+
+I come now to the engines used for railways. At the British
+Association meeting of 1831, the Manchester and Liverpool Railway had
+been opened only about a year. The Stockton and Darlington coal line,
+it is true, had carried passengers by steam power as early as 1825,
+but I think we may look upon the Manchester and Liverpool as being the
+beginning of the passenger and mercantile railway system of the
+present day. At that time the locomotives weighed from eight to ten
+tons, and the speed was about 20 miles per hour, with a pressure of
+from 40 to 50 lb. The rails were light; they were jointed in the
+chairs, which were generally carried on stone blocks, thus affording
+most excellent anvils for the battering to pieces of the ends of the
+rails--that is to say, for the destruction of the very parts where
+they were most vulnerable. The engines were not competent to draw
+heavy trains, and it was a common practice to have at the foot of an
+incline a shed containing a "bank engine," which ran out after the
+trains as they passed, and pushed them up to the top of the hill.
+Injectors were then unknown, and donkey-pumps were unknown, and
+therefore, when it was necessary to fill up the boiler, if it had not
+been properly pumped up before the locomotive came to rest, it had to
+run about the line in order to work its feed-pumps. To get over this
+difficulty, it was occasionally the practice to insert into a line of
+rails, in a siding, a pair of wheels, with their tops level with that
+of the rails so that the engine wheels could run upon the rims. Then,
+the locomotive being fixed to prevent it from moving off the pair of
+wheels thus endways, it was put into revolution, its driving wheels
+bearing, as already stated, upon the rims of the pair of wheels in the
+rails, and thus the engine worked its feed-pumps without interfering
+(by its needless running up and down the line) with the traffic. It
+should have been stated, that at this time there was no link motion,
+no practical expansion of the steam, and that even the reversal of the
+engine had to be effected by working the sides by hand gear, in the
+manner in use in marine engines. When the British Association
+originated, although the Manchester and Liverpool Railway had been
+opened for a year, there is no doubt that the 300 members who then
+came to this city found their way here by the slow process of the
+stage-coach, the loss of which we so much deplore in the summer and in
+fine weather, but the obligatory use of which we should so much regret
+in the miserable weather now prevailing in these islands.
+
+In 1881, we know that railways are everywhere inserted. Steel rails,
+double the weight of the original iron ones, are used. Wooden sleepers
+have replaced the stone blocks, and they, in their turn, will probably
+give way to sleepers of steel. The joints are now made by means of
+fish-plates, and the most vulnerable part of the rail, the end, is no
+longer laid on an anvil for a purpose of being smashed to pieces, but
+the ends of the rails are now almost always over a void, and thereby
+are not more affected by wear than is any other part of the rail. The
+speed is now from 50 to 60 miles an hour for passenger trains, while
+slow speed goods engines, weighing 45 tons, draw behind them coal
+trains of 800 tons. The injector is now commonly employed, and, by its
+aid, a careful driver of the engine of a stopping train can fill up
+his boiler while at rest at the stations. The link motion is in common
+use, to which, no doubt, is owing the very considerable economy with
+which the locomotive engine now works.
+
+As regards the question of safety, it is a fact that, notwithstanding
+the increased speed, railway accidents are fewer than they were at the
+slow speed. It is also a fact, that if the whole population of London
+were to take a railway journey, there would be but one death arising
+out of it. Four millions of journeys for one death of a passenger from
+causes beyond his own control is, I believe, a state of security which
+rarely prevails elsewhere. As an instance, the street accidents in
+London alone cause between 200 and 300 deaths per annum. This safety
+in railway traveling is no doubt largely due to the block system,
+rendered possible by the electric telegraph; and also to the efficient
+interlocking of points and signals, which render it impossible now for
+a signal man to give an unsafe signal. He may give a wrong one, in the
+sense of inviting the wrong train to come in; but, although wrong in
+this sense, it would still be safe for that train to do so. If he can
+give a signal, that signal never invites to danger; before he can give
+it, every one of the signals, which ought to be "at danger," must be
+"at danger," and every "point" must have been previously set, so as to
+make the road right; then, again, we have the facing point-lock, which
+is a great source of safety.
+
+
+BRAKES.
+
+Further, we have continuous brakes of various kinds, competent in
+practice to absorb three miles of speed in every second of time; that
+is to say, if a train were going 60 miles an hour, it can be pulled up
+in 20 seconds; or, if at the rate of 30 miles, in 10 seconds. With a
+train running at 50 miles an hour, it can be pulled up in from 15 to
+20 seconds, and in a distance of from 180 to 240 yards. Moreover, in
+the event of the train separating into two or more sections, the
+brakes are automatically applied to each section, thereby bringing
+them to rest in a short time. Another cause of safety is undoubtedly
+the use of weldless tires. I was fortunate enough to attend the
+British Association meeting many years ago at Birmingham, and I then
+read a paper upon weldless tires, in which I ventured to prophesy

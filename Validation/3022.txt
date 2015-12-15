@@ -1,0 +1,374 @@
+their foundation in experience. The notion of personal volition in
+Nature had this basis. In the fury and the serenity of natural
+phenomena the savage saw the transcript of his own varying moods, and
+he accordingly ascribed these phenomena to beings of like passions
+with himself, but vastly transcending him in power. Thus the notion of
+_causality_--the assumption that natural things did not come of
+themselves, but had unseen antecedents--lay at the root of even the
+savage's interpretation of Nature. Out of this bias of the human mind
+to seek for the causes of phenomena all science has sprung.
+
+We will not now go back to man's first intellectual gropings; much
+less shall we enter upon the thorny discussion as to how the groping
+man arose. We will take him at that stage of his development, when he
+became possessed of the apparatus of thought and the power of using
+it. For a time--and that historically a long one--he was limited to
+mere observation, accepting what Nature offered, and confining
+intellectual action to it alone. The apparent motions of sun and stars
+first drew towards them the questionings of the intellect, and
+accordingly astronomy was the first science developed. Slowly, and
+with difficulty, the notion of natural forces took root in the human
+mind. Slowly, and with difficulty, the science of mechanics had to
+grow out of this notion; and slowly at last came the full application
+of mechanical principles to the motions of the heavenly bodies. We
+trace the progress of astronomy through Hipparchus and Ptolemy; and,
+after a long halt, through Copernicus, Galileo, Tycho Brahe, and
+Kepler; while from the high table-land of thought occupied by these
+men, Newton shoots upwards like a peak, overlooking all others from
+his dominant elevation.
+
+But other objects than the motions of the stars attracted the
+attention of the ancient world. Light was a familiar phenomenon, and
+from the earliest times we find men's minds busy with the attempt to
+render some account of it. But without _experiment_, which belongs to
+a later stage of scientific development, little progress could be here
+made. The ancients, accordingly, were far less successful in dealing
+with light than in dealing with solar and stellar motions. Still they
+did make some progress. They satisfied themselves that light moved in
+straight lines; they knew also that light was reflected from polished
+surfaces, and that the angle of incidence was equal to the angle of
+reflection. These two results of ancient scientific curiosity
+constitute the starting-point of our present course of lectures.
+
+But in the first place it will be useful to say a few words regarding
+the source of light to be employed in our experiments. The rusting of
+iron is, to all intents and purposes, the slow burning of iron. It
+develops heat, and, if the heat be preserved, a high temperature may
+be thus attained. The destruction of the first Atlantic cable was
+probably due to heat developed in this way. Other metals are still
+more combustible than iron. You may ignite strips of zinc in a candle
+flame, and cause them to burn almost like strips of paper. But we must
+now expand our definition of combustion, and include under this term,
+not only combustion in air, but also combustion in liquids. Water, for
+example, contains a store of oxygen, which may unite with, and
+consume, a metal immersed in it; it is from this kind of combustion
+that we are to derive the heat and light employed in our present
+course.
+
+The generation of this light and of this heat merits a moment's
+attention. Before you is an instrument--a small voltaic battery--in
+which zinc is immersed in a suitable liquid. An attractive force is at
+this moment exerted between the metal and the oxygen of the liquid;
+actual combination, however, being in the first instance avoided.
+Uniting the two ends of the battery by a thick wire, the attraction is
+satisfied, the oxygen unites with the metal, zinc is consumed, and
+heat, as usual, is the result of the combustion. A power which, for
+want of a better name, we call an electric current, passes at the same
+time through the wire.
+
+Cutting the thick wire in two, let the severed ends be united by a
+thin one. It glows with a white heat. Whence comes that heat? The
+question is well worthy of an answer. Suppose in the first instance,
+when the thick wire is employed, that we permit the action to continue
+until 100 grains of zinc are consumed, the amount of heat generated in
+the battery would be capable of accurate numerical expression. Let
+the action then continue, with the thin wire glowing, until 100 grains
+of zinc are consumed. Will the amount of heat generated in the battery
+be the same as before? No; it will be less by the precise amount
+generated in the thin wire outside the battery. In fact, by adding the
+internal heat to the external, we obtain for the combustion of 100
+grains of zinc a total which never varies. We have here a beautiful
+example of that law of constancy as regards natural energies, the
+establishment of which is the greatest achievement of modern science.
+By this arrangement, then, we are able to burn our zinc at one place,
+and to exhibit the effects of its combustion at another. In New York,
+for example, we may have our grate and fuel; but the heat and light of
+our fire may be made to appear at San Francisco.
+
+[Illustration: Fig. 1.]
+
+Removing the thin wire and attaching to the severed ends of the thick
+one two rods of coke we obtain, on bringing the rods together (as in
+fig. 1), a small star of light. Now, the light to be employed in our
+lectures is a simple exaggeration of this star. Instead of being
+produced by ten cells, it is produced by fifty. Placed in a suitable
+camera, provided with a suitable lens, this powerful source will give
+us all the light necessary for our experiments.
+
+And here, in passing, I am reminded of the common delusion that the
+works of Nature, the human eye included, are theoretically perfect.
+The eye has grown for ages _towards_ perfection; but ages of
+perfecting may be still before it. Looking at the dazzling light from
+our large battery, I see a luminous globe, but entirely fail to see
+the shape of the coke-points whence the light issues. The cause may be
+thus made clear: On the screen before you is projected an image of the
+carbon points, the _whole_ of the glass lens in front of the camera
+being employed to form the image. It is not sharp, but surrounded by a
+halo which nearly obliterates the carbons. This arises from an
+imperfection of the glass lens, called its _spherical aberration_,
+which is due to the fact that the circumferential and central rays
+have not the same focus. The human eye labours under a similar defect,
+and from this, and other causes, it arises that when the naked light
+from fifty cells is looked at the blur of light upon the retina is
+sufficient to destroy the definition of the retinal image of the
+carbons. A long list of indictments might indeed be brought against
+the eye--its opacity, its want of symmetry, its lack of achromatism,
+its partial blindness. All these taken together caused Helmholt to say
+that, if any optician sent him an instrument so defective, he would be
+justified in sending it back with the severest censure. But the eye is
+not to be judged from the standpoint of theory. It is not perfect,
+but is on its way to perfection. As a practical instrument, and taking
+the adjustments by which its defects are neutralized into account, it
+must ever remain a marvel to the reflecting mind.
+
+
+Sec. 3. _Rectilineal Propagation of Light. Elementary Experiments. Law of
+Reflection._
+
+The ancients were aware of the rectilineal propagation of light. They
+knew that an opaque body, placed between the eye and a point of light,
+intercepted the light of the point. Possibly the terms 'ray' and
+'beam' may have been suggested by those straight spokes of light
+which, in certain states of the atmosphere, dart from the sun at his
+rising and his setting. The rectilineal propagation of light may be
+illustrated by permitting the solar light to enter, through a small
+aperture in a window-shutter, a dark room in which a little smoke has
+been diffused. In pure _air_ you cannot see the beam, but in smoky air
+you can, because the light, which passes unseen through the air, is
+scattered and revealed by the smoke particles, among which the beam
+pursues a straight course.
+
+The following instructive experiment depends on the rectilineal
+propagation of light. Make a small hole in a closed window-shutter,
+before which stands a house or a tree, and place within the darkened
+room a white screen at some distance from the orifice. Every straight
+ray proceeding from the house, or tree, stamps its colour upon the
+screen, and the sum of all the rays will, therefore, be an image of
+the object. But, as the rays cross each other at the orifice, the
+image is inverted. At present we may illustrate and expand the
+subject thus: In front of our camera is a large opening (L, fig. 2),
+from which the lens has been removed, and which is closed at present
+by a sheet of tin-foil. Pricking by means of a common sewing-needle a
+small aperture in the tin-foil, an inverted image of the carbon-points
+starts forth upon the screen. A dozen apertures will give a dozen
+images, a hundred a hundred, a thousand a thousand. But, as the
+apertures come closer to each other, that is to say, as the tin-foil
+between the apertures vanishes, the images overlap more and more.
+Removing the tin-foil altogether, the screen becomes uniformly
+illuminated. Hence the light upon the screen may be regarded as the
+overlapping of innumerable images of the carbon-points. In like manner
+the light upon every white wall, on a cloudless day, may be regarded
+as produced by the superposition of innumerable images of the sun.
+
+[Illustration: Fig. 2.]
+
+The law that the angle of incidence is equal to the angle of
+reflection has a bearing upon theory, to be subsequently mentioned,
+which renders its simple illustration here desirable. A straight lath
+(pointing to the figure 5 on the arc in fig. 3) is fixed as an index
+perpendicular to a small looking-glass (M), capable of rotation. We
+begin by receiving a beam of light upon the glass which is reflected
+back along the line of its incidence. The index being then turned, the
+mirror turns with it, and at each side of the index the incident and
+the reflected beams (L _o_, _o_ R) track themselves through the dust
+of the room. The mere inspection of the two angles enclosed between
+the index and the two beams suffices to show their equality; while if
+the graduated arc be consulted, the arc from 5 to _m_ is found
+accurately equal to the arc from 5 to _n_. The complete expression of
+the law of reflection is, not only that the angles of incidence and
+reflection are equal, but that the incident and reflected rays always
+lie in a plane perpendicular to the reflecting surface.
+
+[Illustration: Fig. 3.]
+
+This simple apparatus enables us to illustrate another law of great
+practical importance, namely, that when a mirror rotates, the angular
+velocity of a beam reflected from it is twice that of the reflecting
+mirror. A simple experiment will make this plain. The arc (_m n_, fig.
+3) before you is divided into ten equal parts, and when the incident
+beam and the index cross the zero of the graduation, both the incident
+and reflected beams are horizontal. Moving the index of the mirror to
+1, the reflected beam cuts the arc at 2; moving the index to 2, the
+arc is cut at 4; moving the index to 3, the arc is cut at 6; moving
+the index at 4, the arc is cut at 8; finally, moving the index to 5,
+the arc is cut at 10 (as in the figure). In every case the reflected
+beam moves through twice the angle passed over by the mirror.
+
+One of the principal problems of science is to help the senses of man,
+by carrying them into regions which could never be attained without
+that help. Thus we arm the eye with the telescope when we want to
+sound the depths of space, and with the microscope when we want to
+explore motion and structure in their infinitesimal dimensions. Now,
+this law of angular reflection, coupled with the fact that a beam of
+light possesses no weight, gives us the means of magnifying small
+motions to an extraordinary degree. Thus, by attaching mirrors to his
+suspended magnets, and by watching the images of divided scales
+reflected from the mirrors, the celebrated Gauss was able to detect
+the slightest thrill of variation on the part of the earth's magnetic
+force. By a similar arrangement the feeble attractions and repulsions
+of the diamagnetic force have been made manifest. The minute
+elongation of a bar of metal, by the mere warmth of the hand, may be
+so magnified by this method, as to cause the index-beam to move
+through 20 or 30 feet. The lengthening of a bar of iron when it is
+magnetized may be also thus demonstrated. Helmholtz long ago employed
+this method of rendering evident to his students the classical
+experiments of Du Bois Raymond on animal electricity; while in Sir
+William Thomson's reflecting galvanometer the principle receives one
+of its latest and most important applications.
+
+
+Sec. 4. _The Refraction of Light. Total Reflection._
+
+For more than a thousand years no step was taken in optics beyond this
+law of reflection. The men of the Middle Ages, in fact, endeavoured,
+on the one hand, to develop the laws of the universe _a priori_ out of
+their own consciousness, while many of them were so occupied with the
+concerns of a future world that they looked with a lofty scorn on all
+things pertaining to this one. Speaking of the natural philosophers of
+his time, Eusebius says, 'It is not through ignorance of the things
+admired by them, but through contempt of their useless labour, that we
+think little of these matters, turning our souls to the exercise of
+better things.' So also Lactantius--'To search for the causes of
+things; to inquire whether the sun be as large as he seems; whether
+the moon is convex or concave; whether the stars are fixed in the sky,
+or float freely in the air; of what size and of what material are the
+heavens; whether they be at rest or in motion; what is the magnitude
+of the earth; on what foundations is it suspended or balanced;--to
+dispute and conjecture upon such matters is just as if we chose to
+discuss what we think of a city in a remote country, of which we never
+heard but the name.'
+
+As regards the refraction of light, the course of real inquiry was
+resumed in 1100 by an Arabian philosopher named Alhazen. Then it was
+taken up in succession by Roger Bacon, Vitellio, and Kepler. One of
+the most important occupations of science is the determination, by
+precise measurements, of the quantitative relations of phenomena; the
+value of such measurements depending greatly upon the skill and
+conscientiousness of the man who makes them. Vitellio appears to have
+been both skilful and conscientious, while Kepler's habit was to
+rummage through the observations of his predecessors, to look at them
+in all lights, and thus distil from them the principles which united
+them. He had done this with the astronomical measurements of Tycho
+Brahe, and had extracted from them the celebrated 'laws of Kepler.' He
+did it also with Vitellio's measurements of refraction. But in this
+case he was not successful. The principle, though a simple one,
+escaped him, and it was first discovered by Willebrord Snell, about
+the year 1621.
+
+Less with the view of dwelling upon the phenomenon itself than of
+introducing it in a form which will render subsequently intelligible
+to you the play of theoretic thought in Newton's mind, the fact of
+refraction may be here demonstrated. I will not do this by drawing the
+course of the beam with chalk on a black board, but by causing it to
+mark its own white track before you. A shallow circular vessel (RIG,
+fig. 4), half filled with water, rendered slightly turbid by the
+admixture of a little milk, or the precipitation of a little mastic,
+is placed with its glass front vertical. By means of a small plane
+reflector (M), and through a slit (I) in the hoop surrounding the
+vessel, a beam of light is admitted in any required direction. It
+impinges upon the water (at O), enters it, and tracks itself through
+the liquid in a sharp bright band (O G). Meanwhile the beam passes
+unseen through the air above the water, for the air is not competent
+to scatter the light. A puff of smoke into this space at once reveals
+the track of the incident-beam. If the incidence be vertical, the beam
+is unrefracted. If oblique, its refraction at the common surface of
+air and water (at O) is rendered clearly visible. It is also seen that
+_reflection_ (along O R) accompanies refraction, the beam dividing
+itself at the point of incidence into a refracted and a reflected
+portion.[4]
+
+[Illustration: Fig. 4.]
+
+The law by which Snell connected together all the measurements
+executed up to his time, is this: Let A B C D (fig. 5) represent the
+outline of our circular vessel, A C being the water-line. When the
+beam is incident along B E, which is perpendicular to A C, there is no
+refraction. When it is incident along _m_ E, there is refraction: it
+is bent at E and strikes the circle at _n_. When it is incident along
+_m'_ E there is also refraction at E, the beam striking the point
+_n'_. From the ends of the two incident beams, let the perpendiculars
+_m_ _o_, _m'_ _o'_ be drawn upon B D, and from the ends of the
+refracted beams let the perpendiculars _p_ _n_, _p'_ _n'_ be also
+drawn. Measure the lengths of _o m_ and of _p_ _n_, and divide the one
+by the other. You obtain a certain quotient. In like manner divide
+_m'_ _o'_ by the corresponding perpendicular _p'_ _n'_; you obtain
+precisely the same quotient. Snell, in fact, found this quotient to be
+_a constant quantity_ for each particular substance, though it varied
+in amount from one substance to another. He called the quotient the
+_index of refraction_.
+
+[Illustration Fig. 5]
+
+In all cases where the light is incident from air upon the surface of
+a solid or a liquid, or, to speak more generally, when the incidence
+is from a less highly refracting to a more highly refracting medium,
+the reflection is _partial_. In this case the most powerfully
+reflecting substances either transmit or absorb a portion of the
+incident light. At a perpendicular incidence water reflects only 18
+rays out of every 1,000; glass reflects only 25 rays, while mercury
+reflects 666 When the rays strike the surface obliquely the reflection
+is augmented. At an incidence of 40 deg., for example, water reflects 22
+rays, at 60 deg. it reflects 65 rays, at 80 deg. 333 rays; while at an
+incidence of 891/2 deg., where the light almost grazes the surface, it
+reflects 721 rays out of every 1,000. Thus, as the obliquity
+increases, the reflection from water approaches, and finally quite
+overtakes, the perpendicular reflection from mercury; but at no
+incidence, however great, when the incidence is from air, is the
+reflection from water, mercury, or any other substance, _total_.
+
+Still, total reflection may occur, and with a view to understanding
+its subsequent application in the Nicol's prism, it is necessary to
+state when it occurs. This leads me to the enunciation of a principle
+which underlies all optical phenomena--the principle of
+reversibility.[5] In the case of refraction, for instance, when the
+ray passes obliquely from air into water, it is bent _towards_ the
+perpendicular; when it passes from water to air, it is bent _from_ the
+perpendicular, and accurately reverses its course. Thus in fig. 5, if
+_m_ E _n_ be the track of a ray in passing from air into water, _n_ E
+_m_ will be its track in passing from water into air. Let us push this
+principle to its consequences. Supposing the light, instead of being
+incident along _m_ E or _m'_ E, were incident as close as possible
+along C E (fig. 6); suppose, in other words, that it just grazes the
+surface before entering the water. After refraction it will pursue
+say the course E _n_''. Conversely, if the light start from _n_'', and
+be incident at E, it will, on escaping into the air, just graze the
+surface of the water. The question now arises, what will occur
+supposing the ray from the water to follow the course _n_''' E, which
+lies beyond _n_'' E? The answer is, it will not quit the water at all,
+but will be _totally_ reflected (along E _x_). At the under surface of
+the water, moreover, the law is just the same as at its upper surface,
+the angle of incidence (D E _n_''') being equal to the angle of
+reflection (D E _x_).
+
+[Illustration: Fig. 6]
+
+Total reflection may be thus simply illustrated:--Place a shilling in
+a drinking-glass, and tilt the glass so that the light from the
+shilling shall fall with the necessary obliquity upon the water
+surface above it. Look upwards through the water towards that surface,
+and you see the image of the shilling shining there as brightly as the
+shilling itself. Thrust the closed end of an empty test-tube into
+water, and incline the tube. When the inclination is sufficient,
+horizontal light falling upon the tube cannot enter the air within it,
+but is totally reflected upward: when looked down upon, such a tube
+looks quite as bright as burnished silver. Pour a little water into
+the tube; as the liquid rises, total reflection is abolished, and with
+it the lustre, leaving a gradually diminishing shining zone, which
+disappears wholly when the level of the water within the tube reaches
+that without it. Any glass tube, with its end stopped water-tight,
+will produce this effect, which is both beautiful and instructive.
+
+Total reflection never occurs except in the attempted passage of a ray
+from a more refracting to a less refracting medium; but in this case,
+when the obliquity is sufficient, it always occurs. The mirage of the
+desert, and other phantasmal appearances in the atmosphere, are in
+part due to it. When, for example, the sun heats an expanse of sand,
+the layer of air in contact with the sand becomes lighter and less
+refracting than the air above it: consequently, the rays from a
+distant object, striking very obliquely on the surface of the heated
+stratum, are sometimes totally reflected upwards, thus producing
+images similar to those produced by water. I have seen the image of a
+rock called Mont Tombeline distinctly reflected from the heated air of
+the strand of Normandy near Avranches; and by such delusive
+appearances the thirsty soldiers of the French army in Egypt were
+greatly tantalised.

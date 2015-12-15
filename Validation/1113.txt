@@ -1,0 +1,427 @@
+solution is allowed to stand. One per cent by weight of the
+thiosulphate is decomposed by the carbonic acid present in the
+solution. To what volume must the solution be diluted to make it
+exactly 0.1 N as a reducing agent? (Na_{2}S_{2}O_{3} + 2H_{2}CO_{3} =
+H_{2}SO_{3} + 2NaHCO_{3} + S.)
+
+!Answer!: 1090 cc.
+
+63. An analyzed sample of stibnite containing 70.05% Sb is given for
+analysis. A student titrates it with a solution of iodine of which 1
+cc. is equivalent to 0.004950 gram of As_{2}O_{3}. Due to an error on
+his part in standardization, the student's analysis shows the sample
+to contain 70.32% Sb. Calculate the true normal value of the iodine
+solution, and the percentage error in the analysis.
+
+!Answers!: 0.1000 N; 0.39%.
+
+64. A sample of pyrolusite weighing 0.5000 gram is treated with an
+excess of hydrochloric acid, the liberated chlorine is passed into
+potassium iodide and the liberated iodine is titrated with sodium
+thiosulphate solution (49.66 grams of pure Na_{2}S_{2}O_{3}.5H_{2}O
+per liter). If 38.72 cc. are required, what volume of 0.25 normal
+permanganate solution will be required in an indirect determination
+in which a similar sample is reduced with 0.9012 gram
+H_{2}C_{2}O_{4}.2H_{2}O and the excess oxalic acid titrated?
+
+!Answer!: 26.22 cc.
+
+65. In the determination of sulphur in steel by evolving the sulphur
+as hydrogen sulphide, precipitating cadmium sulphide by passing the
+liberated hydrogen sulphide through ammoniacal cadmium chloride
+solution, and decomposing the CdS with acid in the presence of a
+measured amount of standard iodine, the following data are obtained:
+Sample, 5.027 grams; cc. Na_{2}S_{2}O_{3} sol. = 12.68; cc. Iodine
+sol. = 15.59; 1 cc. Iodine sol. = 1.086 cc. Na_{2}S_{2}O_{3} sol.; 1
+cc. Na_{2}S_{2}O_{3}= 0.005044 gram Cu. Calculate the percentage of
+sulphur. (H_{2}S + I_{2} = 2HI + S.)
+
+!Answer!: 0.107%.
+
+66. Given the following data, calculate the percentage of iron in
+a sample of crude ferric chloride weighing 1.000 gram. The iodine
+liberated by the reaction 2FeCl_{3}+ 2HI = 2HCl + 2FeCl_{2} + I_{2} is
+reduced by the addition of 50 cc. of sodium thiosulphate solution and
+the excess thiosulphate is titrated with standard iodine and requires
+7.85 cc. 45 cc. I_{2} solution = 45.95 cc. Na_{2}S_{2}O_{3} solution;
+45 cc. As_{2}O_{3} solution = 45.27 cc. I_{2} solution. 1 cc. arsenite
+solution = 0.005160 gram As_{2}O_{3}.
+
+!Answer!: 23.77%.
+
+67. Sulphide sulphur was determined in a sample of reduced barium
+sulphate by the evolution method, in which the sulphur was evolved as
+hydrogen sulphide and was passed into CdCl_{2} solution, the acidified
+precipitate being titrated with iodine and thiosulphate. Sample, 5.076
+grams; cc. I_{2} = 20.83; cc. Na_{2}S_{2}O_{3} = 12.37; 43.45 cc.
+Na_{2}S_{2}O_{3} = 43.42 cc. I_{2}; 8.06 cc. KMnO_{4} = 44.66 cc.
+Na_{2}S_{2}O_{3}; 28.87 cc. KMnO_{4} = 0.2004 gram Na_{2}C_{2}O_{4}.
+Calculate the percentage of sulphide sulphur in the sample.
+
+!Answer!: 0.050%.
+
+68. What weight of pyrolusite containing 89.21% MnO_{2} will oxidize
+the same amount of oxalic acid as 37.12 cc. of a permanganate
+solution, of which 1 cc. will liberate 0.0175 gram of I_{2} from KI?
+
+!Answer!: 0.2493 gram.
+
+69. A sample of pyrolusite weighs 0.2400 gram and is 92.50% pure
+MnO_{2}. The iodine liberated from KI by the manganese dioxide is
+sufficient to react with 46.24 cc. of Na_{2}S_{2}O_{3} sol. What is
+the normal value of the thiosulphate?
+
+!Answer!:: 0.1105 N.
+
+70. In the volumetric analysis of silver coin (90% Ag), using a
+0.5000 gram sample, what is the least normal value that a potassium
+thiocyanate solution may have and not require more than 50 cc. of
+solution in the analysis?
+
+!Answer!: 0.08339 N.
+
+71. A mixture of pure lithium chloride and barium bromide weighing
+0.6 gram is treated with 45.15 cubic centimeters of 0.2017 N silver
+nitrate, and the excess titrated with 25 cc. of 0.1 N KSCN solution,
+using ferric alum as an indicator. Calculate the percentage of bromine
+in the sample.
+
+!Answer!: 40.11%.
+
+72. A mixture of the chlorides of sodium and potassium from 0.5000
+gram of a feldspar weighs 0.1500 gram, and after solution in water
+requires 22.71 cc. of 0.1012 N silver nitrate for the precipitation of
+the chloride ions. What are the percentages of Na_{2}O and K_{2}O in
+the feldspar?
+
+!Answer!: 8.24% Na_{2}O; 9.14% K_{2}O.
+
+
+GRAVIMETRIC ANALYSIS
+
+73. Calculate (a) the grams of silver in one gram of silver chloride;
+(b) the grams of carbon dioxide liberated by the addition of an excess
+of acid to one gram of calcium carbonate; (c) the grams of MgCl_{2}
+necessary to precipitate 1 gram of MgNH_{4}PO_{4}.
+
+!Answers!: (a) 0.7526; (b) 0.4397; (c) 0.6940.
+
+74. Calculate the chemical factor for (a) Sn in SnO_{2}; (b) MgO
+in Mg_{2}P_{2}O_{7}; (c) P_{2}O_{5} in Mg_{2}P_{2}O_{7}; (d) Fe in
+Fe_{2}O_{3}; (e) SO_{4} in BaSO_{4}.
+
+!Answers!: (a) 0.7879; (b) 0.3620; (c) 0.6378; (d) 0.6990; (e) 0.4115.
+
+75. Calculate the log factor for (a) Pb in PbCrO_{4}; (b) Cr_{2}O_{3}
+in PbCrO_{4}; (c) Pb in PbO_{2} and (d) CaO in CaC_{2}O_{4}.
+
+!Answers!: (a) 9.8069-10, (b) 9.3713-10; (c) 9.9376-10; (d) 9.6415-10.
+
+76. How many grams of Mn_{3}O_{4} can be obtained from 1 gram of
+MnO_{2}?
+
+!Answer!: 0.8774 gram.
+
+77. If a sample of silver coin weighing 0.2500 gram gives a
+precipitate of AgCl weighing 0.2991 gram, what weight of AgI could
+have been obtained from the same weight of sample, and what is the
+percentage of silver in the coin?
+
+!Answers!: 0.4898 gr.; 90.05%.
+
+78. How many cubic centimeters of hydrochloric acid (sp. gr. 1.13
+containing 25.75% HCl by weight) are required to exactly neutralize
+25 cc. of ammonium hydroxide (sp. gr. .90 containing 28.33% NH_{3} by
+weight)?
+
+!Answer!: 47.03 cc.
+
+79. How many cubic centimeters of ammonium hydroxide solution (sp. gr.
+0.96 containing 9.91% NH_{3} by weight) are required to precipitate
+the aluminium as aluminium hydroxide from a two-gram sample of alum
+(KAl(SO_{4})_{2}.12H_{2}O)? What will be the weight of the ignited
+precipitate?
+
+!Answers!: 2.26 cc.; 0.2154 gram.
+
+80. What volume of nitric acid (sp. gr. 1.05 containing 9.0%
+HNO_{3} by weight) is required to oxidize the iron in one gram of
+FeSO_{4}.7H_{2}O in the presence of sulphuric acid? 6FeSO_{4} +
+2HNO_{3} + 3H_{2}SO_{4} = 3Fe_{2}(SO_{4})_{3} + 2NO + 4H_{2}O.
+
+!Answer!: 0.80 cc.
+
+81. If 0.7530 gram of ferric nitrate (Fe(NO_{3})_{3}.9H_{2}O) is
+dissolved in water and 1.37 cc. of HCl (sp. gr. 1.11 containing 21.92%
+HCl by weight) is added, how many cubic centimeters of ammonia (sp.
+gr. 0.96 containing 9.91% NH_{3} by weight) are required to neutralize
+the acid and precipitate the iron as ferric hydroxide?
+
+!Answer!: 2.63 cc.
+
+82. To a suspension of 0.3100 gram of Al(OH)_{3} in water are added
+13.00 cc. of aqueous ammonia (sp. gr. 0.90 containing 28.4% NH_{3} by
+weight). How many cubic centimeters of sulphuric acid (sp. gr. 1.18
+containing 24.7% H_{2}SO_{4} by weight) must be added to the mixture
+in order to bring the aluminium into solution?
+
+!Answer!: 34.8 cc.
+
+83. How many cubic centimeters of sulphurous acid (sp. gr. 1.04
+containing 75 grams SO_{2} per liter) are required to reduce the
+iron in 1 gram of ferric alum (KFe(SO_{4})_{2}.12H_{2}O)?
+Fe_{2}(SO_{4})_{3} + SO_{2} + 2H_{2}O = 2FeSO_{4} + 2H_{2}SO_{4}.
+
+!Answer!: 0.85 cc.
+
+84. How many cubic centimeters of a solution of potassium bichromate
+containing 26.30 grams of K_{2}Cr_{2}O_{7} per liter must be taken
+in order to yield 0.6033 gram of Cr_{2}O_{3} after reduction and
+precipitation of the chromium?
+
+K_{2}Cr_{2}O_{7} + 3SO_{2} + H_{2}SO_{4} = K_{2}SO_{4} +
+Cr_{2}(SO_{4})_{3} + H_{2}O.
+
+!Answer!: 44.39 cc.
+
+85. How many cubic centimeters of ammonium hydroxide (sp. gr. 0.946
+containing 13.88% NH_{3} by weight) are required to precipitate
+the iron as Fe(OH)_{3} from a sample of pure
+FeSO_{4}.(NH_{4})_{2}SO_{4}.6H_{2}O, which requires 0.34 cc. of nitric
+acid (sp. gr. 1.350 containing 55.79% HNO_{3} by weight) for oxidation
+of the iron? (See problem No. 80 for reaction.)
+
+!Answer!: 4.74 cc.
+
+86. In the analysis of an iron ore by solution, oxidation and
+precipitation of the iron as Fe(OH)_{3}, what weight of sample must be
+taken for analysis so that each one hundredth of a gram of the ignited
+precipitate of Fe_{2}O_{3} shall represent one tenth of one per cent
+of iron?
+
+!Answer!: 6.99 grams.
+
+87. What weight in grams of impure ferrous ammonium sulphate should
+be taken for analysis so that the number of centigrams of BaSO_{4}
+obtained will represent five times the percentage of sulphur in the
+sample?
+
+!Answer!: 0.6870 gram.
+
+88. What weight of magnetite must be taken for analysis in order that,
+after precipitating and igniting all the iron to Fe_{2}O_{3}, the
+percentage of Fe_{2}O_{4} in the sample may be found by multiplying
+the weight in grams of the ignited precipitate by 100?
+
+!Answer!: 0.9665 gram.
+
+89. After oxidizing the arsenic in 0.5000 gram of pure As_{2}S_{3} to
+arsenic acid, it is precipitated with "magnesia mixture" (MgCl_{2} +
+2NH_{4}Cl). If exactly 12.6 cc. of the mixture are required, how many
+grams of MgCl_{2} per liter does the solution contain? H_{3}AsO_{4} +
+MgCl_{2} + 3NH_{4}OH = MgNH_{4}AsO_{4} + 2NH_{4}Cl + 3H_{2}O.
+
+!Answer!: 30.71 grams.
+
+90. A sample is prepared for student analysis by mixing pure apatite
+(Ca_{3}(PO_{4})_{2}.CaCl_{2}) with an inert material. If 1 gram of
+the sample gives 0.4013 gram of Mg_{2}P_{2}O_{7}, how many cubic
+centimeters of ammonium oxalate solution (containing 40 grams of
+(NH_{4})_{2}C_{2}O_{4}.H_{2}O per liter) would be required to
+precipitate the calcium from the same weight of sample?
+
+!Answer!: 25.60 cc.
+
+91. If 0.6742 gram of a mixture of pure magnesium carbonate and pure
+calcium carbonate, when treated with an excess of hydrochloric acid,
+yields 0.3117 gram of carbon dioxide, calculate the percentage of
+magnesium oxide and of calcium oxide in the sample.
+
+!Answers!: 13.22% MgO; 40.54% CaO. 92. The calcium in a sample of
+dolomite weighing 0.9380 gram is precipitated as calcium oxalate and
+ignited to calcium oxide. What volume of gas, measured over water
+at 20 deg.C. and 765 mm. pressure, is given off during ignition, if the
+resulting oxide weighs 0.2606 gram? (G.M.V. = 22.4 liters; V.P. water
+at 20 deg.C. = 17.4 mm.)
+
+!Answer!: 227 cc.
+
+93. A limestone is found to contain 93.05% CaCO_{3}, and 5.16 %
+MgCO_{3}. Calculate the weight of CaO obtainable from 3 tons of the
+limestone, assuming complete conversion to oxide. What weight of
+Mg_{2}P_{2}O_{7} could be obtained from a 3-gram sample of the
+limestone?
+
+!Answers!: 1.565 tons; 0.2044 gram.
+
+94. A sample of dolomite is analyzed for calcium by precipitating
+as the oxalate and igniting the precipitate. The ignited product is
+assumed to be CaO and the analyst reports 29.50% Ca in the sample.
+Owing to insufficient ignition, the product actually contained 8% of
+its weight of CaCO_{3}. What is the correct percentage of calcium in
+the sample, and what is the percentage error?
+
+!Answers!: 28.46%; 3.65% error.
+
+95. What weight of impure calcite (CaCO_{3}) should be taken for
+analysis so that the volume in cubic centimeters of CO_{2} obtained by
+treating with acid, measured dry at 18 deg.C. and 763 mm., shall equal the
+percentage of CaO in the sample?
+
+!Answer!: 0.2359 gram.
+
+96. How many cubic centimeters of HNO_{3} (sp. gr. 1.13 containing
+21.0% HNO_{3} by weight) are required to dissolve 5 grams of brass,
+containing 0.61% Pb, 24.39% Zn, and 75% Cu, assuming reduction of the
+nitric acid to NO by each constituent? What fraction of this volume of
+acid is used for oxidation?
+
+!Answers!: 55.06 cc.; 25%.
+
+97. What weight of metallic copper will be deposited from a cupric
+salt solution by a current of 1.5 amperes during a period of 45
+minutes, assuming 100% current efficiency? (1 Faraday = 96,500
+coulombs.)
+
+!Answer!: 1.335 grams.
+
+98. In the electrolysis of a 0.8000 gram sample of brass, there is
+obtained 0.0030 gram of PbO_{2}, and a deposit of metallic copper
+exactly equal in weight to the ignited precipitate of Zn_{2}P_{2}O_{7}
+subsequently obtained from the solution. What is the percentage
+composition of the brass?
+
+!Answers!: 69.75% Cu; 29.92% Zn; 0.33% Pb.
+
+99. A sample of brass (68.90% Cu; 1.10% Pb and 30.00% Zn) weighing
+0.9400 gram is dissolved in nitric acid. The lead is determined by
+weighing as PbSO_{4}, the copper by electrolysis and the zinc by
+precipitation with (NH_{4})_{2}HPO_{4} in a neutral solution.
+
+(a) Calculate the cubic centimeters of nitric acid (sp. gr. 1.42
+containing 69.90% HNO_{3} by weight) required to just dissolve the
+brass, assuming reduction to NO.
+
+!Answer!: 2.48 cc.
+
+(b) Calculate the cubic centimeters of sulphuric acid (sp. gr. 1.84
+containing 94% H_{2}SO_{4} by weight) to displace the nitric acid.
+
+!Answer!: 0.83 cc.
+
+(c) Calculate the weight of PbSO_{4}.
+
+!Answer!: 0.0152 gram.
+
+(d) The clean electrode weighs 10.9640 grams. Calculate the weight
+after the copper has been deposited.
+
+!Answer!: 11.6116 grams.
+
+(e) Calculate the grams of (NH_{4})_{2}HPO_{4} required to precipitate
+the zinc as ZnNH_{4}PO_{4}.
+
+!Answer!: 0.5705 gram.
+
+(f) Calculate the weight of ignited Zn_{2}P_{2}O_{7}.
+
+!Answer!: 0.6573 gram.
+
+100. If in the analysis of a brass containing 28.00% zinc an error is
+made in weighing a 2.5 gram portion by which 0.001 gram too much is
+weighed out, what percentage error in the zinc determination would
+result? What volume of a solution of sodium hydrogen phosphate,
+containing 90 grams of Na_{2}HPO_{4}.12H_{2}O per liter, would be
+required to precipitate the zinc as ZnNH_{4}PO_{4} and what weight of
+precipitate would be obtained?
+
+!Answers!: (a) 0.04% error; (b) 39.97 cc.; (c) 1.909 grams.
+
+101. A sample of magnesium carbonate, contaminated with SiO_{2} as its
+only impurity, weighs 0.5000 gram and loses 0.1000 gram on ignition.
+What volume of disodium phosphate solution (containing 90 grams
+Na_{2}HPO_{4}.12H_{2}O per liter) will be required to precipitate the
+magnesium as magnesium ammonium phosphate?
+
+!Answer!: 9.07 cc.
+
+102. 2.62 cubic centimeters of nitric acid (sp. gr. 1.42 containing
+69.80% HNO_{2} by weight) are required to just dissolve a sample
+of brass containing 69.27% Cu; 0.05% Pb; 0.07% Fe; and 30.61% Zn.
+Assuming the acid used as oxidizing agent was reduced to NO in every
+case, calculate the weight of the brass and the cubic centimeters of
+acid used as acid.
+
+!Answer!: 0.992 gram; 1.97 cc.
+
+103. One gram of a mixture of silver chloride and silver bromide is
+found to contain 0.6635 gram of silver. What is the percentage of
+bromine?
+
+!Answer!: 21.30%.
+
+104. A precipitate of silver chloride and silver bromide weighs 0.8132
+gram. On heating in a current of chlorine, the silver bromide is
+converted to silver chloride, and the mixture loses 0.1450 gram
+in weight. Calculate the percentage of chlorine in the original
+precipitate.
+
+!Answer!: 6.13%.
+
+105. A sample of feldspar weighing 1.000 gram is fused and the silica
+determined. The weight of silica is 0.6460 gram. This is fused with 4
+grams of sodium carbonate. How many grams of the carbonate actually
+combined with the silica in fusion, and what was the loss in weight
+due to carbon dioxide during the fusion?
+
+!Answers!: 1.135 grams; 0.4715 gram.
+
+106. A mixture of barium oxide and calcium oxide weighing 2.2120 grams
+is transformed into mixed sulphates, weighing 5.023 grams. Calculate
+the grams of calcium oxide and barium oxide in the mixture.
+
+!Answers!: 1.824 grams CaO; 0.3877 gram BaO.
+
+
+
+
+APPENDIX
+
+
+ELECTROLYTIC DISSOCIATION THEORY
+
+The following brief statements concerning the ionic theory and a few
+of its applications are intended for reference in connection with the
+explanations which are given in the Notes accompanying the various
+procedures. The reader who desires a more extended discussion of the
+fundamental theory and its uses is referred to such books as Talbot
+and Blanchard's !Electrolytic Dissociation Theory! (Macmillan
+Company), or Alexander Smith's !Introduction to General Inorganic
+Chemistry! (Century Company).
+
+The !electrolytic dissociation theory!, as propounded by Arrhenius in
+1887, assumes that acids, bases, and salts (that is, electrolytes)
+in aqueous solution are dissociated to a greater or less extent into
+!ions!. These ions are assumed to be electrically charged atoms or
+groups of atoms, as, for example, H^{+} and Br^{-} from hydrobromic
+acid, Na^{+} and OH^{-} from sodium hydroxide, 2NH_{4}^{+} and
+SO_{4}^{--} from ammonium sulphate. The unit charge is that which is
+dissociated with a hydrogen ion. Those upon other ions vary in sign
+and number according to the chemical character and valence of the
+atoms or radicals of which the ions are composed. In any solution the
+aggregate of the positive charges upon the positive ions (!cations!)
+must always balance the aggregate negative charges upon the negative
+ions (!anions!).
+
+It is assumed that the Na^{+} ion, for example, differs from the
+sodium atom in behavior because of the very considerable electrical
+charge which it carries and which, as just stated, must, in an
+electrically neutral solution, be balanced by a corresponding negative
+charge on some other ion. When an electric current is passed through a
+solution of an electrolyte the ions move with and convey the current,
+and when the cations come into contact with the negatively charged
+cathode they lose their charges, and the resulting electrically
+neutral atoms (or radicals) are liberated as such, or else enter at
+once into chemical reaction with the components of the solution.
+
+Two ions of identically the same composition but with different

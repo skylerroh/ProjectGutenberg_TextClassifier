@@ -1,0 +1,383 @@
+TABLE 4.25.1. Legitimate union.
+
+12 flowers fertilised by the shortest stamens of the long-styled. These stamens
+equal in length the pistil of the short-styled.
+
+  69    56
+  61    88
+  88   112
+  66   111
+   0    62
+   0   100
+   -
+
+83 percent of the flowers yielded capsules. Each capsule contained, on an
+average, 81.3 seeds.
+
+TABLE 4.25.2. Legitimate union.
+
+13 flowers fertilised by the shortest stamens of the mid-styled. These stamens
+equal in length the pistil of the short-styled.
+
+  93    69
+  77    69
+  48    53
+  43     9
+   0     0
+   0     0
+   -     0
+
+61 percent of the flowers yielded capsules. Each capsule contained, on an
+average, 64.6 seeds.
+
+TABLE 4.25.3. Illegitimate union.
+
+10 flowers fertilised by the mid-length stamens of the long-styled.
+
+   0   14
+   0    0
+   0    0
+   0    0
+   -    0
+  23
+
+Too sterile for any average.
+
+TABLE 4.25.4. Illegitimate union.
+10 flowers fertilised by the longest stamens of the mid-styled.
+
+   0    0
+   0    0
+   0    0
+   0    0
+   -    0
+   0
+
+Too sterile for any average.
+
+TABLE 4.25.5. Illegitimate union.
+
+10 flowers fertilised by own-form longest stamens.
+
+   0    0
+   0    0
+   0    0
+   -    0
+   0    0
+   0
+
+Too sterile for any average.
+
+TABLE 4.25.6. Illegitimate union.
+
+10 flowers fertilised by own-form mid-length stamens.
+
+  64?*  0
+   0    0
+   0    0
+   -    0
+  21    0
+   9
+
+(4/7. *I suspect that by mistake I fertilised this flower in Table 4.25.6 with
+pollen from the shortest stamens of the long-styled form, and it would then have
+yielded about 64 seeds. Flowers to be thus fertilised were marked with black
+silk; those with pollen from the mid-length stamens of the short-styled with
+black thread; and thus probably the mistake arose.)
+
+Too sterile for any average.
+
+Besides the experiments in the table, I fertilised a number of flowers without
+particular care with their own two kinds of pollen, but they did not produce a
+single capsule.
+
+SUMMARY OF THE RESULTS.
+
+LONG-STYLED FORM.
+
+Twenty-six flowers fertilised legitimately by the stamens of corresponding
+length, borne by the mid-and short-styled forms, yielded 61.5 per cent of
+capsules, which contained on an average 89.7 seeds.
+
+Twenty-six long-styled flowers fertilised illegitimately by the other stamens of
+the mid-and short-styled forms yielded only two very poor capsules.
+
+Thirty long-styled flowers fertilised illegitimately by their own-form two sets
+of stamens yielded only eight very poor capsules; but long-styled flowers
+fertilised by bees with pollen from their own stamens produced numerous capsules
+containing on an average 21.5 seeds.
+
+MID-STYLED FORM.
+
+Twenty-four flowers legitimately fertilised by the stamens of corresponding
+length, borne by the long and short-styled forms, yielded 96 (probably 100) per
+cent of capsules, which contained (excluding one capsule with 12 seeds) on an
+average 117.2 seeds.
+
+Fifteen mid-styled flowers fertilised illegitimately by the longest stamens of
+the short-styled form yielded 93 per cent of capsules, which (excluding four
+capsules with less than 20 seeds) contained on an average 102.8 seeds.
+
+Thirteen mid-styled flowers fertilised illegitimately by the mid-length stamens
+of the long-styled form yielded 54 per cent of capsules, which (excluding one
+with 19 seeds) contained on an average 60.2 seeds.
+
+Twelve mid-styled flowers fertilised illegitimately by their own-form longest
+stamens yielded 25 per cent of capsules, which (excluding one with 9 seeds)
+contained on an average 77.5 seeds.
+
+Twelve mid-styled flowers fertilised illegitimately by their own-form shortest
+stamens yielded not a single capsule.
+
+SHORT-STYLED FORM.
+
+Twenty-five flowers fertilised legitimately by the stamens of corresponding
+length, borne by the long and mid-styled forms, yielded 72 per cent of capsules,
+which (excluding one capsule with only 9 seeds) contained on an average 70.8
+seeds.
+
+Twenty short-styled flowers fertilised illegitimately by the other stamens of
+the long and mid-styled forms yielded only two very poor capsules.
+
+Twenty short-styled flowers fertilised illegitimately by their own stamens
+yielded only two poor (or perhaps three) capsules.
+
+If we take all six legitimate unions together, and all twelve illegitimate
+unions together, we get the following results:
+
+TABLE 4.26.
+
+Column 1: Nature of union.
+Column 2: Number of Flowers fertilised.
+Column 3: Number of Capsules produced.
+Column 4: Average Number of Seeds per Capsule.
+Column 5: Average Number of Seeds per Flower fertilised.
+
+The six legitimate unions : 75 : 56 : 96.29 : 71.89.
+The twelve illegitimate unions : 146 : 36 : 44.72 : 11.03.
+
+Therefore the fertility of the legitimate unions to that of the illegitimate, as
+judged by the proportion of the fertilised flowers which yielded capsules, is as
+100 to 33; and judged by the average number of seeds per capsule, as 100 to 46.
+
+From this summary and the several foregoing tables we see that it is only pollen
+from the longest stamens which can fully fertilise the longest pistil; only that
+from the mid-length stamens, the mid-length pistil; and only that from the
+shortest stamens, the shortest pistil. And now we can comprehend the meaning of
+the almost exact correspondence in length between the pistil in each form and a
+set of six stamens in two of the other forms; for the stigma of each form is
+thus rubbed against that part of the insect's body which becomes charged with
+the proper pollen. It is also evident that the stigma of each form, fertilised
+in three different ways with pollen from the longest, mid-length, and shortest
+stamens, is acted on very differently, and conversely that the pollen from the
+twelve longest, twelve mid-length, and twelve shortest stamens acts very
+differently on each of the three stigmas; so that there are three sets of female
+and of male organs. Moreover, in most cases the six stamens of each set differ
+somewhat in their fertilising power from the six corresponding ones in one of
+the other forms. We may further draw the remarkable conclusion that the greater
+the inequality in length between the pistil and the set of stamens, the pollen
+of which is employed for its fertilisation, by so much is the sterility of the
+union increased. There are no exceptions to this rule. To understand what
+follows the reader should look to Tables 4.23, 4.24 and 4.25, and to the diagram
+Figure 4.10. In the long-styled form the short stamens obviously differ in
+length from the pistil to a greater degree than do the mid-length stamens; and
+the capsules produced by the use of pollen from the shortest stamens contain
+fewer seeds than those produced by the pollen from the mid-length stamens. The
+same result follows with the long-styled form, from the use of the pollen of
+shortest stamens of the mid-styled form and of the mid-length stamens of the
+short-styled form. The same rule also holds good with the mid-styled and short-
+styled forms, when illegitimately fertilised with pollen from the stamens more
+or less unequal in length to their pistils. Certainly the difference in
+sterility in these several cases is slight; but, as far as we are enabled to
+judge, it always increases with the increasing inequality of length between the
+pistil and the stamens which are used in each case.
+
+The correspondence in length between the pistil in each form and a set of
+stamens in the other two forms, is probably the direct result of adaptation, as
+it is of high service to the species by leading to full and legitimate
+fertilisation. But the rule of the increased sterility of the illegitimate
+unions according to the greater inequality in length between the pistils and
+stamens employed for the union can be of no service. With some heterostyled
+dimorphic plants the difference of fertility between the two illegitimate unions
+appears at first sight to be related to the facility of self-fertilisation; so
+that when from the position of the parts the liability in one form to self-
+fertilisation is greater than in the other, a union of this kind has been
+checked by having been rendered the more sterile of the two. But this
+explanation does not apply to Lythrum; thus the stigma of the long-styled form
+is more liable to be illegitimately fertilised with pollen from its own mid-
+length stamens, or with pollen from the mid-length stamens of the short-styled
+form, than by its own shortest stamens or those of the mid-styled form; yet the
+two former unions, which it might have been expected would have been guarded
+against by increased sterility, are much less likely to be effected. The same
+relation holds good even in a more striking manner with the mid-styled form, and
+with the short-styled form as far as the extreme sterility of all its
+illegitimate unions allows of any comparison. We are led, therefore, to conclude
+that the rule of increased sterility in accordance with increased inequality in
+length between the pistils and stamens, is a purposeless result, incidental on
+those changes through which the species has passed in acquiring certain
+characters fitted to ensure the legitimate fertilisation of the three forms.
+
+Another conclusion which may be drawn from Tables 4.23, 4.24, and 4.25, even
+from a glance at them, is that the mid-styled form differs from both the others
+in its much higher capacity for fertilisation in various ways. Not only did the
+twenty-four flowers legitimately fertilised by the stamens of corresponding
+lengths, all, or all but one, yield capsules rich in seed; but of the other four
+illegitimate unions, that by the longest stamens of the short-styled form was
+highly fertile, though less so than the two legitimate unions, and that by the
+mid-length stamens of the long-styled form was fertile to a considerable degree;
+the remaining two illegitimate unions, namely, with this form's own pollen, were
+sterile, but in different degrees. So that the mid-styled form, when fertilised
+in the six different possible methods, evinces five grades of fertility. By
+comparing Tables 4.24.3 and 4.24.6 we may see that the action of the pollen from
+the shortest stamens of the long-styled and mid-styled forms is widely
+different; in the one case above half the fertilised flowers yielded capsules
+containing a fair number of seeds; in the other case not one capsule was
+produced. So, again, the green, large-grained pollen from the longest stamens of
+the short-styled and mid-styled forms (in Tables 4.24.4 and 4.24.5) is widely
+different. In both these cases the difference in action is so plain that it
+cannot be mistaken, but it can be corroborated. If we look to Table 4.25 to the
+legitimate action of the shortest stamens of the long- and mid-styled forms on
+the short-styled form, we again see a similar but slighter difference, the
+pollen of the shortest stamens of the mid-styled form yielding a smaller average
+of seed during the two years of 1862 and 1863 than that from the shortest
+stamens of the long-styled form. Again, if we look to Table 4.23, to the
+legitimate action on the long-styled form of the green pollen of the two sets of
+longest stamens, we shall find exactly the same result, namely, that the pollen
+from the longest stamens of the mid-styled form yielded during both years fewer
+seeds than that from the longest stamens of the short-styled form. Hence it is
+certain that the two kinds of pollen produced by the mid-styled form are less
+potent than the two similar kinds of pollen produced by the corresponding
+stamens of the other two forms.
+
+In close connection with the lesser potency of the two kinds of pollen of the
+mid-styled form is the fact that, according to H. Muller, the grains of both are
+a little less in diameter than the corresponding grains produced by the other
+two forms. Thus the grains from the longest stamens of the mid-styled form are 9
+to 10, whilst those from the corresponding stamens of the short-styled form are
+9 1/2 to 10 1/2 in diameter. So, again, the grains from the shortest stamens of
+the mid-styled are 6, whilst those from the corresponding stamens of the long-
+styled are 6 to 6 1/2 in diameter. It would thus appear as if the male organs of
+the mid-styled form, though not as yet rudimentary, were tending in this
+direction. On the other hand, the female organs of this form are in an eminently
+efficient state, for the naturally fertilised capsules yielded a considerably
+larger average number of seeds than those of the other two forms--almost every
+flower which was artificially fertilised in a legitimate manner produced a
+capsule--and most of the illegitimate unions were highly productive. The mid-
+styled form thus appears to be highly feminine in nature; and although, as just
+remarked, it is impossible to consider its two well-developed sets of stamens
+which produce an abundance of pollen as being in a rudimentary condition, yet we
+can hardly avoid connecting as balanced the higher efficiency of the female
+organs in this form with the lesser efficiency and lesser size of its two kinds
+of pollen-grains. The whole case appears to me a very curious one.
+
+It may be observed in Tables 4.23 to 4.25 that some of the illegitimate unions
+yielded during neither year a single seed; but, judging from the long-styled
+plants, it is probable, if such unions were to be effected repeatedly by the aid
+of insects under the most favourable conditions, some few seeds would be
+produced in every case. Anyhow, it is certain that in all twelve illegitimate
+unions the pollen-tubes penetrated the stigma in the course of eighteen hours.
+At first I thought that two kinds of pollen placed together on the same stigma
+would perhaps yield more seed than one kind by itself; but we have seen that
+this is not so with each form's own two kinds of pollen; nor is it probable in
+any case, as I occasionally got, by the use of a single kind of pollen, fully as
+many seeds as a capsule naturally fertilised ever produces. Moreover the pollen
+from a single anther is far more than sufficient to fertilise fully a stigma;
+hence, in this as with so many other plants, more than twelve times as much of
+each kind of pollen is produced as is necessary to ensure the full fertilisation
+of each form. From the dusted condition of the bodies of the bees which I caught
+on the flowers, it is probable that pollen of various kinds is often deposited
+on all three stigmas; but from the facts already given with respect to the two
+forms of Primula, there can hardly be a doubt that pollen from the stamens of
+corresponding length placed on a stigma would be prepotent over any other kind
+of pollen and obliterate its effects,--even if the latter had been placed on the
+stigma some hours previously.
+
+Finally, it has now been shown that Lythrum salicaria presents the extraordinary
+case of the same species bearing three females, different in structure and
+function, and three or even five sets (if minor differences are considered) of
+males; each set consisting of half-a-dozen, which likewise differ from one
+another in structure and function.
+
+[Lythrum Graefferi.
+
+I have examined numerous dried flowers of this species, each from a separate
+plant, sent me from Kew. Like L. salicaria, it is trimorphic, and the three
+forms apparently occur in about equal numbers. In the long-styled form the
+pistil projects about one-third of the length of the calyx beyond its mouth, and
+is therefore relatively much shorter than in L. salicaria; the globose and
+hirsute stigma is larger than that of the other two forms; the six mid-length
+stamens, which are graduated in length, have their anthers standing close above
+and close beneath the mouth of the calyx; the six shortest stamens rise rather
+above the middle of the calyx. In the mid-styled form the stigma projects just
+above the mouth of the calyx, and stands almost on a level with the mid-length
+stamens of the long and short-styled forms; its own longest stamens project well
+above the mouth of the calyx, and stand a little above the level of the stigma
+of the long-styled form. In short, without entering on further details, there is
+a close general correspondence in structure between this species and L.
+salicaria, but with some differences in the proportional lengths of the parts.
+The fact of each of the three pistils having two sets of stamens of
+corresponding lengths, borne by the two other forms, comes out conspicuously. In
+the mid-styled form the pollen-grains from the longest stamens are nearly double
+the diameter of those from the shortest stamens; so that there is a greater
+difference in this respect than in L. salicaria. In the long-styled form, also,
+the difference in diameter between the pollen-grains of the mid-length and
+shortest stamens is greater than in L. salicaria. These comparisons, however,
+must be received with caution, as they were made on specimens soaked in water
+after having been long kept dry.
+
+Lythrum thymifolia.
+
+This form, according to Vaucher, is dimorphic, like Primula, and therefore
+presents only two forms. (4/8. 'Hist. Phys. des Plantes d'Europe' tome 2 1841
+pages 369, 371.) I received two dried flowers from Kew, which consisted of the
+two forms; in one the stigma projected far beyond the calyx, in the other it was
+included within the calyx; in this latter form the style was only one-fourth of
+the length of that in the other form. There are only six stamens; these are
+somewhat graduated in length, and their anthers in the short-styled form stand a
+little above the stigma, but yet by no means equal in length the pistil of the
+long-styled form. In the latter the stamens are rather shorter than those in the
+other form. The six stamens alternate with the petals, and therefore correspond
+homologically with the longest stamens of L. salicaria and L. Graefferi.
+
+Lythrum hyssopifolia.
+
+This species is said by Vaucher, but I believe erroneously, to be dimorphic. I
+have examined dried flowers from twenty-two separate plants from various
+localities, sent to me by Mr. Hewett C. Watson, Professor Babington, and others.
+These were all essentially alike, so that the species cannot be heterostyled.
+The pistil varies somewhat in length, but when unusually long, the stamens are
+likewise generally long; in the bud the stamens are short; and Vaucher was
+perhaps thus deceived. There are from six to nine stamens, graduated in length.
+The three stamens, which vary in being either present or absent, correspond with
+the six shorter stamens of L. salicaria and with the six which are always absent
+in L. thymifolia. The stigma is included within the calyx, and stands in the
+midst of the anthers, and would generally be fertilised by them; but as the
+stigma and anthers are upturned, and as, according to Vaucher, there is a
+passage left in the upper side of the flower to the nectary, there can hardly be
+a doubt that the flowers are visited by insects, and would occasionally be
+cross-fertilised by them, as surely as the flowers of the short-styled L.
+salicaria, the pistil of which and the corresponding stamens in the other two
+forms closely resemble those of L. hyssopifolia. According to Vaucher and Lecoq,
+this species, which is an annual, generally grows almost solitarily (4/9.
+'Geograph. Bot. de l'Europe' tome 6 1857 page 157.), whereas the three preceding
+species are social; and this fact alone would almost have convinced me that L.
+hyssopifolia was not heterostyled, as such plants cannot habitually live
+isolated any better than one sex of a dioecious species.
+
+We thus see that within this genus some species are heterostyled and trimorphic;
+one apparently heterostyled and dimorphic, and one homostyled.
+
+Nesaea verticillata.
+
+I raised a number of plants from seed sent me by Professor Asa Gray, and they
+presented three forms. These differed from one another in the proportional
+lengths of their organs of fructification and in all respects, in very nearly
+the same way as the three forms of Lythrum Graefferi. The green pollen-grains
+from the longest stamens, measured along their longer axis and not distended
+with water, were 13/7000 of an inch in length; those from the mid-length stamens
+9 to 10/7000, and those from the shortest stamens 8 to 9/7000 of an inch. So
+that the largest pollen-grains are to the smallest in diameter as 100 to 65.
+This plant inhabits swampy ground in the United States. According to Fritz
+Muller, a species of this genus in St. Catharina, in Southern Brazil, is
+homostyled. (4/10. 'Botanische Zeitung' 1868 page 112.)
+

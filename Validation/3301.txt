@@ -1,0 +1,368 @@
+from the hexoses to the pentoses. By oxidising gluconic acid with the
+peroxide the beta --CHOH-- group is converted into carbonyl at the same
+time that the terminal COOH [alpha] is oxidised to CO_{2}. The yields of
+the resulting pentose are large. Simultaneously there is formed an
+oxygluconic acid, which appears to be a ketonic acid of formula
+--CH_{2}OH.CO.(CHOH)_{3}.COOH--.
+
+From these results we see a further range of physiological
+probabilities; and with the concurrent actions of oxygen in the forms of
+or related to hydrogen peroxide on the one side, and ozone on the other,
+we are able to account in a simple way for the relationships of the
+'furfuroid' group, which may include a number of intermediate terms in
+the hexose-pentose series.
+
+Following in this direction of development of the subject is a study of
+the action of persulphuric acid upon furfural.
+
+
+EINWIRKUNG DES CARO'SCHEN REAGENS AUF FURFURAL.
+
+C. F. CROSS, E. J. BEVAN, and J. F. BRIGGS (Berl. Ber., 1900, 3132).
+
+Regarding this reagent as another form of 'active oxygen,' it is
+important to contrast its actions with those of the hydrogen peroxide.
+Instead of the beta-hydroxyfurfural (_ante_, 115) we obtain the
+delta-aldehyde as the first product. The aldehydic group is then
+oxidised, and as a result of attendant hydrolysis the ring is broken
+down and succinic acid is formed, the original aldehydic group of the
+furfural being split off in the form of formic acid. The reactions take
+place at the ordinary temperature and with the dilute form of the
+reagent described by Baeyer and Villiger (Ber. 32, 3625). These results
+have some special features of interest. The alpha delta-hydroxyfurfural
+has similar colour reactions to those of the alpha beta-derivative, and
+may also therefore be present as a constituent of the lignocelluloses.
+The tendency to attack in the 1.4 position in relation to an aldehydic
+group further widens the capabilities of 'active oxygen' in the plant
+cell. Lastly, this is the simplest transition yet disclosed from the
+succinyl to furfural grouping, being effected by a regulated proportion
+of oxygen, and under conditions of reaction which may be described as of
+the mildest. In regard to the wide-reaching functions of asparagin in
+plant life, we have a new suggestion of genetic connections with the
+furfuroids.
+
+
+VERGLEICH DER PENTOSEN-BESTIMMUNGSMETHODEN VERMITTELST PHENYLHYDRAZIN
+UND PHLOROGLUCIN.
+
+M. KRUeGER (Inaug.-Diss., Goettingen, 1895).
+
+~COMPARISON OF METHODS OF ESTIMATING FURFURAL AS HYDRAZONE AND
+PHLOROGLUCIDE.~
+
+The author traces the development of processes of estimating furfural
+(1) by precipitation with ammonia (furfuramide), (2) by volumetric
+estimation with standardised phenylhydrazine, (3) by weighing the
+hydrazone.
+
+In 1893 (Chem. Ztg. 17, 1745) Hotter described a method of quantitative
+condensation with pyrogallol requiring a temperature of 100 deg.-110 deg. for
+two hours. The insoluble product collected, washed, dried at 103 deg., and
+weighed, gives a weight of 1.974 grm. per 1 grm. furfural.
+
+Councler substitutes phloroglucinol for pyrogallol, with the advantage
+of doing away with the digestion at high temperature. (_Ibid._ 18, 966.)
+This process, requiring the presence of strong HCl, has the advantage of
+being applied directly to the acid distillate, in which form furfural is
+obtained as a product of condensation of pentoses, &c. A comparative
+investigation was made, precipitating furfural (a) as hydrazone in
+presence of acetic acid, and (b) as phloroglucide in presence of HCl
+(12 p.ct). In (a) by varying the weights of known quantities of
+furfural, and using the factor, hydrazone x 0.516 [+ 0.0104] in
+calculating from the weights of precipitates obtained, the maximum
+variations from the theoretical number were +1.71 and -1.74. In (b) it
+was found necessary to vary the factor from 0.52 to 0.55 in calculating
+from phloroglucide to furfural. The greatest _total_ range of variation
+was found to be 2.5 p.ct. The phenol process is therefore equally
+accurate, has the advantages above noted, and, in addition, is less
+liable to error from the pressure in the distillates obtained from
+vegetable substances of volatile products, e.g. ketonic compounds,
+accompanying the furfural.
+
+This method has been criticised by Helbel and Zeisel [Sitz.-ber, Wiener
+Akad. 1895, 104, ii. p. 335] on two grounds of error, viz. (1) the
+presence of diresorcinol in all ordinary preparations of phloroglucinol,
+and (2) changes in weight of the precipitate of phloroglucide on drying.
+The process was carried out comparatively with ordinary preparations,
+and with specially pure preparations of the phenol. The quantitative
+results were identical. The criticisms in question are therefore
+dismissed. Although the process is to be recommended for its simplicity
+and the satisfactory concordance of results it is to be noted that it
+rests upon an empirical basis, since the phloroglucide is not formed by
+the simple reaction 2 [C_{5}H_{4}O_{2} + C_{6}H_{6}O_{3}] - H_{2}O =
+C_{22}H_{18}O_{9}, but appears to have the composition
+C_{16}H_{12}O_{6}.
+
+In part ii. of this paper the author discusses the question of the
+probable extent in the sense of diversity of constitution of
+furfural-yielding constituents of plant-tissues. Glucoson was isolated
+from glucosazon, and found to yield 2.9-3.6 p.ct. furfural. Gluconic
+acid distilled with hydrochloric acid gave traces of furfural; so also
+with sulphuric acid and manganic oxide.
+
+Starch was oxidised with permanganate, and a mixture of products
+obtained of which one gave a characteristic violet colouration with
+phloroglucol, with an absorption-band at the D line. On distilling with
+HCl furfural was obtained in some quantity. The product in question was
+found to be very sensitive to the action of bases, and was destroyed by
+the incidental operation of neutralising the mixture of oxidised
+products with calcium carbonate. It was found impossible to isolate the
+compound.
+
+
+UNTERSUCHUNGEN UEBER DIE PENTOSANBESTIMMUNG MITTELST DER
+SALZSAeURE-PHLORO-GLUCIN-METHODE.[8]
+
+E. KROeBER (Journ. f. Landwirthschaft, 1901, 357).
+
+~INVESTIGATION OF THE HYDROCHLORIC ACID-PHLOROGLUCINOL METHOD OF
+DETERMINING PENTOSANES.~
+
+This paper is the most complete investigation yet published of the now
+well-known method of precipitating and estimating furfural in acid
+solution by means of the trihydric phenol. In the last section of the
+paper is contained the most important result, the proof that the
+insoluble phloroglucide is formed according to the reaction
+
+     C_{5}H_{4}O_{2} + C_{6}H_{6}O_{3} - 2H_{2}O = C_{11}H_{6}O_{3},
+
+also, by varying the proportions of the pure reagents interacting, that
+the condensation takes place invariably according to this equation.
+
+Incidentally the following points were also established:--The solubility
+of the phloroglucide, under the conditions of finally separating in a
+condition for drying and weighing, is 1 mgr. per 100 c.c. of total
+solution, made up of the original acid solution, in which the
+precipitation takes place, and the wash-water required to purify from
+the acid. The phloroglucide is hygroscopic, and must be weighed out of
+contact with the air. The presence of diresorcinol is without influence
+on the result, provided a sufficient excess of actual phloroglucinol is
+employed. Thus even with a preparation containing 30 p.ct. of its weight
+of diresorcinol the influence of the latter is eliminated, provided a
+weight be taken equal to twice that of the furfural to be precipitated.
+The phenol must be perfectly dissolved by warming with dilute HCl (1.06
+sp.gr.) before adding to the furfural solution. For collecting the
+precipitate of phloroglucide the author employs the Gooch crucible.
+
+The paper contains a large number of quantitative results in proof of
+the various points established, and concludes with elaborate tables,
+giving the equivalents in the known pentoses and their anhydrides for
+any given weight of phloroglucide from 0.050 to 0.300 grm.
+
+
+UEBER DEN PENTOSAN-GEHALT VERSCHIEDENER MATERIALIEN.
+
+B. TOLLENS and H. GLAUBITZ (J. fuer Landwirthschaft, 1897, 97).
+
+~ON THE PENTOSANE CONSTITUENTS OF FODDER-PLANTS AND MALT.~
+
+(p. 171) (a) The authors have re-determined the yield of furfural from
+a large range of plant-products, using the phloroglucol method. The
+numbers approximate closely to those obtained by the hydrazone method.
+The following may be cited as typical:
+
+     Substance              Furfural p.ct.
+
+     Rye (Goettingen)            6.03
+     Wheat (square head)        4.75
+     Barley (peacock)           4.33
+     Oats (Goettingen)           7.72
+     Maize (American)           3.17
+     Meadow hay                11.63
+     Bran (wheat)              13.06
+     Malt                       6.07
+     Malt-sprouts               8.56
+     Sugar-beet (exhausted)    14.95
+
+(b) A comparison of wheat with wheat bran, &c. was made by grinding in
+a mortar and 'bolting' the flour through a fine silk sieve. The results
+showed:
+
+                              Furfural p.ct.
+     Original wheat               4.75
+     Fine flour                   1.73
+     Bran (24 p.ct. of wheat)    11.25
+     Wheat-bran of commerce      13.06
+
+It is evident that the pentosanes of wheat are localised in the more
+resistant tissues of the grain.
+
+(c) An investigation of the products obtained in the analytical
+process for 'crude fibre' gave the following:
+
+(1) In the case of brewers' grains:
+
+     100 grms. grains       gave furfural   = 29.43 pentosane
+                                              ---------------
+      20   "   crude fibre       "          =  2.52
+     Acid extract                "          = 22.76
+     Alkali  "                   "          =  1.20
+     Deficiency from total of original grains  2.95
+                                              -----
+
+                                              29.43
+
+(2) In the case of meadow hay:
+
+The crude fibre (30 p.ct.) obtained retained about one fourth (23.63
+p.ct.) of the total original pentosanes.
+
+(d) An investigation of barley-malt, malt-extract or wort, and
+finished beer showed the following: An increase of furfuroids in the
+process of malting, 100 pts. barley with 7.97 of 'pentosane' yielding 82
+of malt with 11.18 p.ct. 'pentosane'; confirming the observations of
+Cross and Bevan (Ber. 28, 2604). Of the total furfuroids of malt about
+1/4 are dissolved in the mashing process. In a fermentation for lager
+beer it was found that about /10 of the total furfuroids of the malt
+finally survive in the beer; the yield of furfural being 2.92 p.ct. of
+the 'total solids' of the beer. In a 'Schlempe' or 'pot ale,' from a
+distillery using to 1 part malt 4 parts raw grain (rye), yield of
+furfural was 9 p.ct. of the total solids.
+
+In a general review of the relationships of this group of plant-products
+it is pointed out that they are largely digested by animals, and
+probably have an equal 'assimilation' value to starch. They resist
+alcoholic fermentation, and must consequently be taken into account as
+constituents of beers and wines.
+
+
+UEBER DAS VERHALTEN DER PENTOSANE DER SAMEN BEIM KEIMEN.[9]
+
+A. SCHOeNE and B. TOLLENS (Jour. f. Landwirthschaft, 1901, 349).
+
+~BEHAVIOUR OF PENTOSANES OF SEEDS IN GERMINATION.~
+
+The authors have investigated the germination of barley, wheat, and
+peas, in absence of light, and generally with exclusion of assimilating
+activity, to determine whether the oxidation with attendant loss of
+weight, which is the main chemical feature of the germination proper,
+affects the pentosanes of the seeds. The following are typical of the
+quantitative results obtained, which are stated in absolute weights, and
+not percentages.
+
+ _____________________________________________________________
+|        |               |                    |               |
+|        | Original seed |      Malt or       | Pentosane in  |
+|        |               | germinated product |               |
+|        |               |                    |_______________|
+|        |               |                    |       |       |
+|        |      A        |         B          |   A   |   B   |
+|________|_______________|____________________|_______|_______|
+|        |               |                    |       |       |
+| Barley |    500.00     |       434.88       | 39.58 | 40.38 |
+|   "    |    500.00     |       442.26       | 40.52 | 41.17 |
+| Peas   |    300.00     |       286.60       | 15.25 | 15.97 |
+|________|_______________|____________________|_______|_______|
+
+The authors conclude generally that there is a slight absolute increase
+in the pentosanes, and that the pentosanes do not belong to those
+reserve materials which undergo destructive oxidation during
+germination.
+
+In this they confirm the previously published results of De Chalmot,
+Cross and Bevan, and Gotze and Pfeiffer.
+
+
+UEBER DEN GEHALT DER BAUMWOLLE AN PENTOSAN.
+
+H. SURINGAR and B. TOLLENS (Ztschr. angew. Chem., 1897, I).
+
+~PENTOSANE CONSTITUENTS OF COTTON.~
+
+(p. 290) It has been stated by Link and Voswinkel (Pharm. Centralhalle,
+1893, 253), that raw cotton yields 'wood gum' as a product of
+hydrolysis. The authors were unable to obtain any pentoses as products
+of acid hydrolysis of raw cotton, and traces only of furfural-yielding
+carbohydrates. They conclude that raw cotton contains no appreciable
+quantity of pentosane.
+
+FOOTNOTES:
+
+[8] This paper appears during the printing of the author's original MS.
+
+[9] This paper appears during the printing of the author's original MS.
+
+
+
+
+SECTION VI. THE LIGNOCELLULOSES
+
+
+(p. 131) ~Lignocellulose Esters.~--By a fuller study of the ester
+reactions of the normal celluloses we have been able to throw some light
+on the constitutional problems involved; and we have extended the
+investigations to the jute fibre as a type of the lignocelluloses, from
+the results of which we get a clearer idea of the relationships of the
+constituent groups.
+
+Taking the empirical expression for the complex, i.e. the entire
+lignocellulose, the formula C_{12}H_{18}O_{9}, we shall be able to
+compare the ester derivatives with those of the celluloses, which we
+have also referred to a C_{12} unit. But we shall require also to deal
+with the constituent groups of the complex, which for the purposes of
+this discussion may be regarded as (a) a cellulose of normal
+characteristics--cellulose alpha; (b) a cellulose yielding furfural on
+boiling with condensing acids--cellulose beta; and (c) a much
+condensed, and in part benzenoid, group which we may continue to term
+the lig_none_ group.
+
+The latter has been specially examined with regard to its proportion of
+OH groups, as a necessary preliminary to the investigation of esters, in
+producing which the entire complex is employed. It will be shown that
+the ester groups can be actually localised in various ways, as in the
+main entering the cellulose residues alpha and beta. But that the
+lignone group takes little part in the reactions may be generally
+concluded on the evidence of its non-reactivity as an isolated
+derivative, (1) By chlorination, &c. it is isolated in the form of an
+amorphous body, but of constant composition, represented by the formula
+C_{19}H_{18}Cl_{4}O_{9}. This compound, soluble in acetic anhydride, was
+boiled with it for six hours after adding fused sodium acetate, and the
+product separated by pouring into water. The dilute acid filtered from
+the product contained no hydrochloric acid nor by-products of action.
+The product showed an increase of weight of 7.5 p.ct. For one acetyl per
+1 mol. C_{19}H_{18}Cl_{4}O the calculated increase is 8.0 p.ct. It is
+evident from the nature of the derivative that this result cannot be
+further verified by the usual analytical methods. (2) The chlorinated
+derivative is entirely soluble in sodium sulphite solution. This
+solution, shaken with benzoyl chloride, with addition of sodium hydrate
+in successive portions, shows only a small formation of insoluble
+benzoate, which separates as a tarry precipitate. (3) The empirical
+formula of the lignone complex in its isolated forms indicates that very
+little hydrolysis occurs in the processes of isolation. Thus the
+chlorinated product we may assume to be derived from the complex
+C_{19}H_{22}O_{9}. In the soluble by-products from the bisulphite
+processes of pulping wood the lignone exists as a sulphonated
+derivative, C_{24}H_{23}(OCH_{3})_{2}.(SO_{3}H).O_{7}. The original
+lignone may be regarded as passing into solution as a still condensed
+complex derived from C_{24}H_{26}O_{12} (Tollens). There is evidently
+little attendant hydroxylation, and another essential feature is the
+small molecular proportion of groups showing the typical sulphonation.
+
+It appears that in the lignone the elements are approximately in the
+relation C_{6} : H_{6} : O_{3}, and it may assist this discussion to
+formulate the main constitutional types consistent with this ratio,
+viz.:
+
+     (1) The trihydroxybenzenes C_{6}H_{3}(OH)_{3}.
+
+     (2) Methylhydroxyfurfural C_{5}H_{2}O.(OH)(CH_{3}).
+
+                                  (CH_{3})
+                                 /        \
+     (3) Methylhydroxypyrone CO<C_{4}H_{2} O
+                                 \        /
+                                    (OH)
+
+                             __________________
+                            |                  |
+     (4) Trioxycyclohexane CH--CH--CH--CH--CH--CH
+                            \   /   \   /   \   /
+                              O       O       O
+
+It is probable that all these types of condensation are represented in
+the lignone molecules, since the derivatives yielded in decompositions
+of more or less regulated character are either directly derived from or
+related to such groups. For the moment we pass over all but the general
+fact of complexity and the marked paucity of OH-groups. It would be of
+importance to be able to formulate the exact mode of union of the
+lignone with the cellulose residues to constitute the lignocellulose.

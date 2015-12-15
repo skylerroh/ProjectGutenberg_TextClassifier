@@ -1,0 +1,448 @@
+numerals cannot be ascertained, no proof exists that the ancestors of these
+peoples ever used either finger or toe counting; and the sweeping statement
+that any vigesimal scale is the outgrowth of the use of these natural
+counters is not susceptible of proof. But so many examples are met with in
+which the origin is clearly of this nature, that no hesitation is felt in
+putting the above forward as a general explanation for the existence of
+this kind of counting. Any other origin is difficult to reconcile with
+observed facts, and still more difficult to reconcile with any rational
+theory of number system development. Dismissing from consideration the
+quinary scale, let us briefly examine once more the natural process of
+evolution through which the decimal and the vigesimal scales come into
+being. After the completion of one count of the fingers the savage
+announces his result in some form which definitely states to his mind the
+fact that the end of a well-marked series has been reached. Beginning
+again, he now repeats his count of 10, either on his own fingers or on the
+fingers of another. With the completion of the second 10 the result is
+announced, not in a new unit, but by means of a duplication of the term
+already used. It is scarcely credible that the unit unconsciously adopted
+at the termination of the first count should now be dropped, and a new one
+substituted in its place. When the method here described is employed, 20 is
+not a natural unit to which higher numbers may be referred. It is wholly
+artificial; and it would be most surprising if it were adopted. But if the
+count of the second 10 is made on the toes in place of the fingers, the
+element of repetition which entered into the previous method is now
+wanting. Instead of referring each new number to the 10 already completed,
+the savage is still feeling his way along, designating his new terms by
+such phrases as "1 on the foot," "2 on the other foot," etc. And now, when
+20 is reached, a single series is finished instead of a double series as
+before; and the result is expressed in one of the many methods already
+noticed--"one man," "hands and feet," "the feet finished," "all the fingers
+of hands and feet," or some equivalent formula. Ten is no longer the
+natural base. The number from which the new start is made is 20, and the
+resulting scale is inevitably vigesimal. If pebbles or sticks are used
+instead of fingers, the system will probably be decimal. But back of the
+stick and pebble counting the 10 natural counters always exist, and to them
+we must always look for the origin of this scale.
+
+In any collection of the principal vigesimal number systems of the world,
+one would naturally begin with those possessed by the Celtic races of
+Europe. These races, the earliest European peoples of whom we have any
+exact knowledge, show a preference for counting by twenties, which is
+almost as decided as that manifested by Teutonic races for counting by
+tens. It has been conjectured by some writers that the explanation for this
+was to be found in the ancient commercial intercourse which existed between
+the Britons and the Carthaginians and Phoenicians, whose number systems
+showed traces of a vigesimal tendency. Considering the fact that the use of
+vigesimal counting was universal among Celtic races, this explanation is
+quite gratuitous. The reason why the Celts used this method is entirely
+unknown, and need not concern investigators in the least. But the fact that
+they did use it is important, and commands attention. The five Celtic
+languages, Breton, Irish, Welsh, Manx, and Gaelic, contain the following
+well-defined vigesimal scales. Only the principal or characteristic
+numerals are given, those being sufficient to enable the reader to follow
+intelligently the growth of the systems. Each contains the decimal element
+also, and is, therefore, to be regarded as a mixed decimal-vigesimal
+system.
+
+
+  IRISH.[329]
+
+    10.  deic.
+    20.  fice.
+    30.  triocad      = 3-10
+    40.  da ficid     = 2-20.
+    50.  caogad       = 5-10.
+    60.  tri ficid    = 3-20.
+    70.  reactmoga    = 7-10.
+    80.  ceitqe ficid = 4-20.
+    90.  nocad        = 9-10.
+   100.  cead.
+  1000.  mile.
+
+
+  GAELIC.[330]
+
+    10.  deich.
+    20.  fichead.
+    30.  deich ar fichead         = 10 + 20.
+    40.  da fhichead              = 2-20.
+    50.  da fhichead is deich     = 40 + 10.
+    60.  tri fichead              = 3-20.
+    70.  tri fichead is deich     = 60 + 10.
+    80.  ceithir fichead          = 4-20.
+    90.  ceithir fichead is deich = 80 + 10.
+   100.  ceud.
+  1000.  mile.
+
+
+  WELSH.[331]
+
+    10.  deg.
+    20.  ugain.
+    30.  deg ar hugain      = 10 + 20.
+    40.  deugain            = 2-20.
+    50.  deg a deugain      = 10 + 40.
+    60.  trigain            = 3-20.
+    70.  deg a thrigain     = 10 + 60.
+    80.  pedwar ugain       = 4-20.
+    90.  deg a pedwar ugain = 80 + 10.
+   100.  cant.
+
+
+  MANX.[332]
+
+    10.  jeih.
+    20.  feed.
+    30.  yn jeih as feed    = 10 + 20.
+    40.  daeed              = 2-20.
+    50.  jeih as daeed      = 10 + 40.
+    60.  three-feed         = 3-20.
+    70.  three-feed as jeih = 60 + 10.
+    80.  kiare-feed         = 4-20.
+   100.  keead.
+  1000.  thousane, or jeih cheead.
+
+
+  BRETON.[333]
+
+    10.  dec.
+    20.  ueguend.
+    30.  tregond             = 3-10.
+    40.  deu ueguend         = 2-20.
+    50.  hanter hand         = half hundred.
+    60.  tri ueguend         = 3-20.
+    70.  dec ha tri ueguend  = 10 + 60.
+    80.  piar ueguend        = 4-20.
+    90.  dec ha piar ueguend = 10 + 80.
+   100.  cand.
+   120.  hueh ueguend    = 6-20.
+   140.  seih ueguend    = 7-20.
+   160.  eih ueguend     = 8-20.
+   180.  nau ueguend     = 9-20.
+   200.  deu gand        = 2-100.
+   240.  deuzec ueguend  = 12-20.
+   280.  piarzec ueguend = 14-20.
+   300.  tri hand, or pembzec ueguend.
+   400.  piar hand       = 4-100.
+  1000.  mil.
+
+These lists show that the native development of the Celtic number systems,
+originally showing a strong preference for the vigesimal method of
+progression, has been greatly modified by intercourse with Teutonic and
+Latin races. The higher numerals in all these languages, and in Irish many
+of the lower also, are seen at a glance to be decimal. Among the scales
+here given the Breton, the legitimate descendant of the ancient Gallic, is
+especially interesting; but here, just as in the other Celtic tongues, when
+we reach 1000, the familiar Latin term for that number appears in the
+various corruptions of _mille_, 1000, which was carried into the Celtic
+countries by missionary and military influences.
+
+In connection with the Celtic language, mention must be made of the
+persistent vigesimal element which has held its place in French. The
+ancient Gauls, while adopting the language of their conquerors, so far
+modified the decimal system of Latin as to replace the natural _septante_,
+70, _octante_, 80, _nonante_, 90, by _soixante-dix_, 60-10, _quatre-vingt_,
+4-20, and _quatrevingt-dix_, 4-20-10. From 61 to 99 the French method of
+counting is wholly vigesimal, except for the presence of the one word
+_soixante_. In old French this element was still more pronounced.
+_Soixante_ had not yet appeared; and 60 and 70 were _treis vinz_, 3-20, and
+_treis vinz et dis_, 3-20 and 10 respectively. Also, 120 was _six vinz_,
+6-20, 140 was _sept-vinz_, etc.[334] How far this method ever extended in
+the French language proper, it is, perhaps, impossible to say; but from the
+name of an almshouse, _les quinze-vingts_,[335] which formerly existed in
+Paris, and was designed as a home for 300 blind persons, and from the
+_pembzek-ueguent_, 15-20, of the Breton, which still survives, we may infer
+that it was far enough to make it the current system of common life.
+
+Europe yields one other example of vigesimal counting, in the number system
+of the Basques. Like most of the Celtic scales, the Basque seems to become
+decimal above 100. It does not appear to be related to any other European
+system, but to be quite isolated philologically. The higher units, as
+_mila_, 1000, are probably borrowed, and not native. The tens in the Basque
+scale are:[336]
+
+    10.  hamar.
+    20.  hogei.
+    30.  hogei eta hamar     = 20 + 10.
+    40.  berrogei            = 2-20.
+    50.  berrogei eta hamar  = 2-20 + 10.
+    60.  hirurogei           = 3-20.
+    70.  hirurogei eta hamar = 3-20 + 10.
+    80.  laurogei            = 4-20.
+    90.  laurogei eta hamar  = 4-20 + 10.
+   100.  ehun.
+  1000.  _milla_.
+
+Besides these we find two or three numeral scales in Europe which contain
+distinct traces of vigesimal counting, though the scales are, as a whole,
+decidedly decimal. The Danish, one of the essentially Germanic languages,
+contains the following numerals:
+
+    30.  tredive            = 3-10.
+    40.  fyrretyve          = 4-10.
+    50.  halvtredsindstyve  = half (of 20) from 3-20.
+    60.  tresindstyve       = 3-20.
+    70.  halvfierdsindstyve = half from 4-20.
+    80.  fiirsindstyve      = 4-20.
+    90.  halvfemsindstyve   = half from 5-20.
+   100.  hundrede.
+
+Germanic number systems are, as a rule, pure decimal systems; and the
+Danish exception is quite remarkable. We have, to be sure, such expressions
+in English as _three score_, _four score_, etc., and the Swedish,
+Icelandic, and other languages of this group have similar terms. Still,
+these are not pure numerals, but auxiliary words rather, which belong to
+the same category as _pair_, _dozen_, _dizaine_, etc., while the Danish
+words just given are the ordinary numerals which form a part of the
+every-day vocabulary of that language. The method by which this scale
+expresses 50, 70, and 90 is especially noticeable. It will be met with
+again, and further examples of its occurrence given.
+
+In Albania there exists one single fragment of vigesimal numeration, which
+is probably an accidental compound rather than the remnant of a former
+vigesimal number system. With this single exception the Albanian scale is
+of regular decimal formation. A few of the numerals are given for the sake
+of comparison:[337]
+
+    30.  tridgiete    = 3-10.
+    40.  dizet        = 2-20.
+    50.  pesedgiete   = 5-10.
+    60.  giastedgiete = 6-10, etc.
+
+Among the almost countless dialects of Africa we find a comparatively small
+number of vigesimal number systems. The powers of the negro tribes are not
+strongly developed in counting, and wherever their numeral scales have been
+taken down by explorers they have almost always been found to be decimal or
+quinary-decimal. The small number I have been able to collect are here
+given. They are somewhat fragmentary, but are as complete as it was
+possible to make them.
+
+
+  AFFADEH.[338]
+
+    10.  dekang.
+    20.  degumm.
+    30.  piaske.
+    40.  tikkumgassih      = 20 x 2.
+    50.  tikkumgassigokang = 20 x 2 + 10.
+    60.  tikkumgakro       = 20 x 3.
+    70.  dungokrogokang    = 20 x 3 + 10.
+    80.  dukumgade         = 20 x 4.
+    90.  dukumgadegokang   = 20 x 4 + 10.
+   100.  miah (borrowed from the Arabs).
+
+
+  IBO.[339]
+
+    10.  iri.
+    20.  ogu.
+    30.  ogu n-iri    = 20 + 10,
+          or iri ato  = 10 x 3.
+    40.  ogu abuo     = 20 x 2,
+          or iri anno = 10 x 4.
+   100.  ogu ise      = 20 x 5.
+
+
+  VEI.[340]
+
+    10.  tan.
+    20.  mo bande         = a person finished.
+    30.  mo bande ako tan = 20 + 10.
+    40.  mo fera bande    = 2 x 20.
+   100.  mo soru bande    = 5 persons finished.
+
+
+  YORUBA.[341]
+
+    10.  duup.
+    20.  ogu.
+    30.  ogbo.
+    40.  ogo-dzi = 20 x 2.
+    60.  ogo-ta  = 20 x 3.
+    80.  ogo-ri  = 20 x 4.
+   100.  ogo-ru  = 20 x 5.
+   120.  ogo-fa  = 20 x 6.
+   140.  ogo-dze = 20 x 7.
+   160.  ogo-dzo = 20 x 8, etc.
+
+
+  EFIK.[342]
+
+    10.  duup.
+    20.  edip.
+    30.  edip-ye-duup = 20 + 10.
+    40.  aba  = 20 x 2.
+    60.  ata  = 20 x 3.
+    80.  anan = 20 x 4.
+   100.  ikie.
+
+The Yoruba scale, to which reference has already been made, p. 70, again
+shows its peculiar structure, by continuing its vigesimal formation past
+100 with no interruption in its method of numeral building. It will be
+remembered that none of the European scales showed this persistency, but
+passed at that point into decimal numeration. This will often be found to
+be the case; but now and then a scale will come to our notice whose
+vigesimal structure is continued, without any break, on into the hundreds
+and sometimes into the thousands.
+
+
+  BONGO.[343]
+
+    10.  kih.
+    20.  mbaba kotu  = 20 x 1.
+    40.  mbaba gnorr = 20 x 2.
+   100.  mbaba mui   = 20 x 5.
+
+
+  MENDE.[344]
+
+    10.  pu.
+    20.  nu yela gboyongo mai = a man finished.
+    30.  nu yela gboyongo mahu pu = 20 + 10.
+    40.  nu fele gboyongo = 2 men finished.
+   100.  nu lolu gboyongo = 5 men finished.
+
+
+  NUPE.[345]
+
+    10.  gu-wo.
+    20.  esin.
+    30.  gbonwo.
+    40.  si-ba = 2 x 20.
+    50.  arota.
+    60.  sita  = 3 x 20.
+    70.  adoni.
+    80.  sini  = 4 x 20.
+    90.  sini be-guwo = 80 + 10.
+   100.  sisun = 5 x 20.
+
+
+  LOGONE.[346]
+
+    10.  chkan.
+    20.  tkam.
+    30.  tkam ka chkan      = 20 + 10.
+    40.  tkam ksde          = 20 x 2.
+    50.  tkam ksde ka chkan = 40 + 10.
+    60.  tkam gachkir       = 20 x 3.
+   100.  mia (from Arabic).
+  1000.  debu.
+
+
+  MUNDO.[347]
+
+    10.  nujorquoi.
+    20.  tiki bere.
+    30.  tiki bire nujorquoi  = 20 + 10.
+    40.  tiki borsa           = 20 x 2.
+    50.  tike borsa nujorquoi = 40 + 10.
+
+
+  MANDINGO.[348]
+
+    10.  tang.
+    20.  mulu.
+    30.  mulu nintang       = 20 + 10.
+    40.  mulu foola         = 20 x 2.
+    50.  mulu foola nintang = 40 + 10.
+    60.  mulu sabba         = 20 x 3.
+    70.  mulu sabba nintang = 60 + 10.
+    80.  mulu nani          = 20 x 4.
+    90.  mulu nani nintang  = 80 + 10.
+   100.  kemi.
+
+This completes the scanty list of African vigesimal number systems that a
+patient and somewhat extended search has yielded. It is remarkable that the
+number is no greater. Quinary counting is not uncommon in the "Dark
+Continent," and there is no apparent reason why vigesimal reckoning should
+be any less common than quinary. Any one investigating African modes of
+counting with the material at present accessible, will find himself
+hampered by the fact that few explorers have collected any except the first
+ten numerals. This leaves the formation of higher terms entirely unknown,
+and shows nothing beyond the quinary or non-quinary character of the
+system. Still, among those which Stanley, Schweinfurth, Salt, and others
+have collected, by far the greatest number are decimal. As our knowledge of
+African languages is extended, new examples of the vigesimal method may be
+brought to light. But our present information leads us to believe that they
+will be few in number.
+
+In Asia the vigesimal system is to be found with greater frequency than in
+Europe or Africa, but it is still the exception. As Asiatic languages are
+much better known than African, it is probable that the future will add but
+little to our stock of knowledge on this point. New instances of counting
+by twenties may still be found in northern Siberia, where much ethnological
+work yet remains to be done, and where a tendency toward this form of
+numeration has been observed to exist. But the total number of Asiatic
+vigesimal scales must always remain small--quite insignificant in
+comparison with those of decimal formation.
+
+In the Caucasus region a group of languages is found, in which all but
+three or four contain vigesimal systems. These systems are as follows:
+
+
+  ABKHASIA.[349]
+
+    10.  zpha-ba.
+    20.  gphozpha         = 2 x 10.
+    30.  gphozphei zphaba = 20 + 10.
+    40.  gphin-gphozpha   = 2 x 20.
+    60.  chin-gphozpha    = 3 x 20.
+    80.  phsin-gphozpha   = 4 x 20.
+   100.  sphki.
+
+
+  AVARI
+
+    10.  antsh-go.
+    20.  qo-go.
+    30.  lebergo.
+    40.  khi-qogo           = 2 x 20.
+    50.  khiqojalda antshgo = 40 + 10.
+    60.  lab-qogo           = 3 x 20.
+    70.  labqojalda antshgo = 60 + 10.
+    80.  un-qogo            = 4 x 20.
+   100.  nusgo.
+
+
+  KURI
+
+    10.  tshud.
+    20.  chad.
+    30.  channi tshud = 20 + 10.
+    40.  jachtshur.
+    50.  jachtshurni tshud = 40 + 10.
+    60.  put chad          = 3 x 20.
+    70.  putchanni tshud   = 60 + 10.
+    80.  kud-chad          = 4 x 20.
+    90.  kudchanni tshud   = 80 + 10.
+   100.  wis.
+
+
+  UDI
+
+    10.  witsh.
+    20.  qa.
+    30.  sa-qo-witsh   = 20 + 10.
+    40.  pha-qo        = 2 x 20.
+    50.  pha-qo-witsh  = 40 + 10.
+    60.  chib-qo       = 3 x 20.
+    70.  chib-qo-witsh = 60 + 10.
+    80.  bip-qo        = 4 x 20.
+    90.  bip-qo-witsh  = 80 + 10.
+   100.  bats.
+  1000.  hazar (Persian).
+
+
+  TCHETCHNIA
+

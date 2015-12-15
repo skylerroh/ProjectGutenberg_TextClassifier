@@ -1,0 +1,451 @@
+of, and, finally, the degree of force or affinity with which the acid
+adheres to the base. This immense work has been already begun by Messrs
+Bergman, Morveau, Kirwan, and other celebrated chemists, but is hitherto
+only in a moderate state of advancement, even the principles upon which
+it is founded are not perhaps sufficiently accurate.
+
+These numerous details would have swelled this elementary treatise to
+much too great a size; besides that, to have gathered the necessary
+materials, and to have completed all the series of experiments
+requisite, must have retarded the publication of this book for many
+years. This is a vast field for employing the zeal and abilities of
+young chemists, whom I would advise to endeavour rather to do well than
+to do much, and to ascertain, in the first place, the composition of the
+acids, before entering upon that of the neutral salts. Every edifice
+which is intended to resist the ravages of time should be built upon a
+sure foundation; and, in the present state of chemistry, to attempt
+discoveries by experiments, either not perfectly exact, or not
+sufficiently rigorous, will serve only to interrupt its progress,
+instead of contributing to its advancement.
+
+FOOTNOTES:
+
+[33] This number excludes all triple salts, or such as contain more than
+one salifiable base, all the salts whose bases are over or under
+saturated with acid, and those formed by the nitro-muriatic acid.--E.
+
+[34] As all the specific names of the acids in the new nomenclature are
+adjectives, they would have applied severally to the various salifiable
+bases, without the invention of other terms, with perfect distinctness.
+Thus, _sulphurous potash_, and _sulphuric potash_, are equally distinct
+as _sulphite of potash_, and _sulphat of potash_; and have the advantage
+of being more easily retained in the memory, because more naturally
+arising from the acids themselves, than the arbitrary terminations
+adopted by Mr Lavoisier.--E.
+
+[35] There is yet a third degree of oxygenation of acids, as the
+oxygenated muriatic and oxygenated nitric acids. The terms applicable to
+the neutral salts resulting from the union of these acids with
+salifiable bases is supplied by the Author in the Second Part of this
+Work. These are formed by prefixing the word _oxygenated_ to the name of
+the salt produced by the second degree of oxygenation. Thus,
+_oxygenated_ muriat of potash, _oxygenated_ nitrat of soda, &c.--E.
+
+
+
+
+PART II.
+
+Of the Combination of Acids with Salifiable Bases, and of the Formation
+of Neutral Salts.
+
+
+
+
+INTRODUCTION.
+
+
+If I had strictly followed the plan I at first laid down for the conduct
+of this work, I would have confined myself, in the Tables and
+accompanying observations which compose this Second Part, to short
+definitions of the several known acids, and abridged accounts of the
+processes by which they are obtainable, with a mere nomenclature or
+enumeration of the neutral salts which result from the combination of
+these acids with the various salifiable bases. But I afterwards found
+that the addition of similar Tables of all the simple substances which
+enter into the composition of the acids and oxyds, together with the
+various possible combinations of these elements, would add greatly to
+the utility of this work, without being any great increase to its size.
+These additions, which are all contained in the twelve first sections of
+this Part, and the Tables annexed to these, form a kind of
+recapitulation of the first fifteen Chapters of the First Part: The rest
+of the Tables and Sections contain all the saline combinations.
+
+It must be very apparent that, in this Part of the Work, I have borrowed
+greatly from what has been already published by Mr de Morveau in the
+First Volume of the _Encyclopedie par ordre des Matieres_. I could
+hardly have discovered a better source of information, especially when
+the difficulty of consulting books in foreign languages is considered. I
+make this general acknowledgment on purpose to save the trouble of
+references to Mr de Morveau's work in the course of the following part
+of mine.
+
+
+TABLE OF SIMPLE SUBSTANCES.
+
+Simple substances belonging to all the kingdoms of nature, which may be
+considered as the elements of bodies.
+
+_New Names._                  _Correspondent old Names._
+
+Light                          Light.
+
+Caloric                       {Heat.
+                              {Principle or element of heat.
+                              {Fire. Igneous fluid.
+                              {Matter of fire and of heat.
+
+Oxygen                        {Dephlogisticated air.
+                              {Empyreal air.
+                              {Vital air, or
+                              {Base of vital air.
+
+Azote                         {Phlogisticated air or gas.
+                              {Mephitis, or its base.
+
+Hydrogen                      {Inflammable air or gas,
+                              {or the base of inflammable air.
+
+Oxydable and Acidifiable simple Substance not Metallic.
+
+_New Names._                 _Correspondent old names._
+
+Sulphur                      }
+Phosphorous                  }The same names.
+Charcoal                     }
+
+Muriatic radical             }
+Fluoric radical              }Still unknown.
+Boracic radical              }
+
+Oxydable and Acidifiable simple Metallic Bodies
+
+_New Names._                _Correspondent Old Names._
+
+Antimony       }            {  Antimony.
+Arsenic        }            {  Arsenic.
+Bismuth        }            {  Bismuth.
+Cobalt         }            {  Cobalt.
+Copper         }            {  Copper.
+Gold           }            {  Gold.
+Iron           }            {  Iron.
+Lead           } Regulus of {  Lead.
+Manganese      }            {  Manganese.
+Mercury        }            {  Mercury.
+Molybdena      }            {  Molybdena.
+Nickel         }            {  Nickel.
+Platina        }            {  Platina.
+Silver         }            {  Silver.
+Tin            }            {  Tin.
+Tungstein      }            {  Tungstein.
+Zinc           }            {  Zinc.
+
+Salifiable simple Earthy Substances.
+
+_New Names._            _Correspondent old Names._
+
+Lime                   {Chalk, calcareous earth.
+                       {Quicklime.
+
+Magnesia               {Magnesia, base of Epsom salt.
+                       {Calcined or caustic magnesia.
+
+Barytes                 Barytes, or heavy earth.
+Argill                  Clay, earth of alum.
+Silex                   Siliceous or vitrifiable earth.
+
+
+SECT. I.--_Observations upon the Table of Simple Substances._
+
+The principle object of chemical experiments is to decompose natural
+bodies, so as separately to examine the different substances which enter
+into their composition. By consulting chemical systems, it will be found
+that this science of chemical analysis has made rapid progress in our
+own times. Formerly oil and salt were considered as elements of bodies,
+whereas later observation and experiment have shown that all salts,
+instead of being simple, are composed of an acid united to a base. The
+bounds of analysis have been greatly enlarged by modern discoveries[36];
+the acids are shown to be composed of oxygen, as an acidifying principle
+common to all, united in each to a particular base. I have proved what
+Mr Haffenfratz had before advanced, that these radicals of the acids
+are not all simple elements, many of them being, like the oily
+principle, composed of hydrogen and charcoal. Even the bases of neutral
+salts have been proved by Mr Berthollet to be compounds, as he has shown
+that ammoniac is composed of azote and hydrogen.
+
+Thus, as chemistry advances towards perfection, by dividing and
+subdividing, it is impossible to say where it is to end; and these
+things we at present suppose simple may soon be found quite otherwise.
+All we dare venture to affirm of any substance is, that it must be
+considered as simple in the present state of our knowledge, and so far
+as chemical analysis has hitherto been able to show. We may even presume
+that the earths must soon cease to be considered as simple bodies; they
+are the only bodies of the salifiable class which have no tendency to
+unite with oxygen; and I am much inclined to believe that this proceeds
+from their being already saturated with that element. If so, they will
+fall to be considered as compounds consisting of simple substances,
+perhaps metallic, oxydated to a certain degree. This is only hazarded as
+a conjecture; and I trust the reader will take care not to confound what
+I have related as truths, fixed on the firm basis of observation and
+experiment, with mere hypothetical conjectures.
+
+The fixed alkalies, potash, and soda, are omitted in the foregoing
+Table, because they are evidently compound substances, though we are
+ignorant as yet what are the elements they are composed of.
+
+
+TABLE _of compound oxydable and acidifiable bases._
+
+                             _Names of the radicals._
+
+Oxydable or acidifiable    { Nitro-muriatic radical or
+base, from the mineral     { base of the acid formerly
+kingdom.                   { called aqua regia.
+
+                           { Tartarous radical or base.
+                           { Malic.                }
+                           { Citric.               }
+                           { Pyro-lignous.         }
+Oxydable or acidifiable    { Pyro-mucous.          }
+hydro-carbonous or         { Pyro-tartarous.       }
+carbono-hydrous radicals   { Oxalic.               }
+from the vegetable         { Acetous.              }
+kingdom.                   { Succinic.             } Radicals
+                           { Benzoic.              }
+                           { Camphoric.            }
+                           { Gallic.               }
+                                                   }
+Oxydable or acidifiable    { Lactic.               }
+radicals from the animal   { Saccholactic.         }
+kingdom, which             { Formic.               }
+mostly contain azote,      { Bombic.               }
+and frequently phosphorus. { Sebacic.              }
+                           { Lithic.               }
+                           { Prussic.              }
+
+_Note._--The radicals from the vegetable kingdom are converted by a
+first degree of oxygenation into vegetable oxyds, such as sugar, starch,
+and gum or mucus: Those of the animal kingdom by the same means form
+animal oxyds, as lymph, &c.--A.
+
+
+SECT. II.--_Observations upon the Table of Compound Radicals._
+
+The older chemists being unacquainted with the composition of acids, and
+not suspecting them to be formed by a peculiar radical or base for each,
+united to an acidifying principle or element common to all, could not
+consequently give any name to substances of which they had not the most
+distant idea. We had therefore to invent a new nomenclature for this
+subject, though we were at the same time sensible that this nomenclature
+must be susceptible of great modification when the nature of the
+compound radicals shall be better understood[37].
+
+The compound oxydable and acidifiable radicals from the vegetable and
+animal kingdoms, enumerated in the foregoing table, are not hitherto
+reducible to systematic nomenclature, because their exact analysis is as
+yet unknown. We only know in general, by some experiments of my own, and
+some made by Mr Hassenfratz, that most of the vegetable acids, such as
+the tartarous, oxalic, citric, malic, acetous, pyro-tartarous, and
+pyromucous, have radicals composed of hydrogen and charcoal, combined
+in such a way as to form single bases, and that these acids only differ
+from each other by the proportions in which these two substances enter
+into the composition of their bases, and by the degree of oxygenation
+which these bases have received. We know farther, chiefly from the
+experiments of Mr Berthollet, that the radicals from the animal kingdom,
+and even some of those from vegetables, are of a more compound nature,
+and, besides hydrogen and charcoal, that they often contain azote, and
+sometimes phosphorus; but we are not hitherto possessed of sufficiently
+accurate experiments for calculating the proportions of these several
+substances. We are therefore forced, in the manner of the older
+chemists, still to name these acids after the substances from which they
+are procured. There can be little doubt that these names will be laid
+aside when our knowledge of these substances becomes more accurate and
+extensive; the terms _hydro-carbonous_, _hydro-carbonic_,
+_carbono-hydrous_, and _carbono hydric_[38], will then become
+substituted for those we now employ, which will then only remain as
+testimonies of the imperfect state in which this part of chemistry was
+transmitted to us by our predecessors.
+
+It is evident that the oils, being composed of hydrogen and charcoal
+combined, are true carbono-hydrous or hydro-carbonous radicals; and,
+indeed, by adding oxygen, they are convertible into vegetable oxyds and
+acids, according to their degrees of oxygenation. We cannot, however,
+affirm that oils enter in their entire state into the composition of
+vegetable oxyds and acids; it is possible that they previously lose a
+part either of their hydrogen or charcoal, and that the remaining
+ingredients no longer exist in the proportions necessary to constitute
+oils. We still require farther experiments to elucidate these points.
+
+Properly speaking, we are only acquainted with one compound radical from
+the mineral kingdom, the nitro-muriatic, which is formed by the
+combination of azote with the muriatic radical. The other compound
+mineral acids have been much less attended to, from their producing less
+striking phenomena.
+
+
+SECT. III.--_Observations upon the Combinations of Light and Caloric
+with different Substances._
+
+I have not constructed any table of the combinations of light and
+caloric with the various simple and compound substances, because our
+conceptions of the nature of these combinations are not hitherto
+sufficiently accurate. We know, in general, that all bodies in nature
+are imbued, surrounded, and penetrated in every way with caloric, which
+fills up every interval left between their particles; that, in certain
+cases, caloric becomes fixed in bodies, so as to constitute a part even
+of their solid substance, though it more frequently acts upon them with
+a repulsive force, from which, or from its accumulation in bodies to a
+greater or lesser degree, the transformation of solids into fluids, and
+of fluids to aeriform elasticity, is entirely owing. We have employed
+the generic name _gas_ to indicate this aeriform state of bodies
+produced by a sufficient accumulation of caloric; so that, when we wish
+to express the aeriform state of muriatic acid, carbonic acid, hydrogen,
+water, alkohol, &c. we do it by adding the word _gas_ to their names;
+thus muriatic acid gas, carbonic acid gas, hydrogen gas, aqueous gas,
+alkoholic gas, &c.
+
+The combinations of light, and its mode of acting upon different bodies,
+is still less known. By the experiments of Mr Berthollet, it appears to
+have great affinity with oxygen, is susceptible of combining with it,
+and contributes alongst with caloric to change it into the state of gas.
+Experiments upon vegetation give reason to believe that light combines
+with certain parts of vegetables, and that the green of their leaves,
+and the various colours of their flowers, is chiefly owing to this
+combination. This much is certain, that plants which grow in darkness
+are perfectly white, languid, and unhealthy, and that to make them
+recover vigour, and to acquire their natural colours, the direct
+influence of light is absolutely necessary. Somewhat similar takes place
+even upon animals: Mankind degenerate to a certain degree when employed
+in sedentary manufactures, or from living in crowded houses, or in the
+narrow lanes of large cities; whereas they improve in their nature and
+constitution in most of the country labours which are carried on in the
+open air. Organization, sensation, spontaneous motion, and all the
+operations of life, only exist at the surface of the earth, and in
+places exposed to the influence of light. Without it nature itself would
+be lifeless and inanimate. By means of light, the benevolence of the
+Deity hath filled the surface of the earth with organization, sensation,
+and intelligence. The fable of Promotheus might perhaps be considered as
+giving a hint of this philosophical truth, which had even presented
+itself to the knowledge of the ancients. I have intentionally avoided
+any disquisitions relative to organized bodies in this work, for which
+reason the phenomena of respiration, sanguification, and animal heat,
+are not considered; but I hope, at some future time, to be able to
+elucidate these curious subjects.
+
+[Trancriber's note: The following table is presented in four sections to
+comply with 75 character line limitation.]
+
+
+TABLE of the binary Combinations of Oxygen with simple Substances
+
+------------+----------------+-----------------------------------------+
+            |Names of        |First degree of oxygenation.             |
+            |the simple      +--------------------+--------------------+
+            |substances.     |New Names.          |Ancient Names.      |
+            +----------------+--------------------+--------------------+
+            {Caloric         |Oxygen gas          {Vital or            |
+            {                |                    {dephlogisticated    |
+            {                |                    {air                 |
+            {                |                    {                    |
+            {Hydrogen.       |Water(A).           |                    |
+            {                |                    |                    |
+            {Azote           {Nitrous oxyd, or    }Nitrous gas or air  |
+            {                {base of nitrous gas }                    |
+            {                |                    |                    |
+            {Charcoal        {Oxyd of charcoal, or}Unknown             |
+Combinations{                {carbonic oxyd       }                    |
+of oxygen   {                |                    |                    |
+with        {Sulphur         |Oxyd of sulphur     |Soft sulphur        |
+simple      {                |                    |                    |
+non-metallic{Phosphorus      |Oxyd of phosphorus  {Residuum from the   }
+substances. {                |                    {combustion of       }
+            {                |                    {phosphorus          }
+            {                |                    |                    |
+            {Muriatic radical}Muriatic oxyd       |Unknown             |
+            {                |                    |                    |
+            {Fluoric radical }Fluoric oxyd        |Unknown             |
+            {                |                    |                    |
+            {Boracic radical }Boracic oxyd        |Unknown             |
+------------------------------------------------------------------------
+            {Antimony        |Grey oxyd of        |Grey calx of        |
+            {                |antimony            |antimony            |
+            {                |                    |                    |
+            {Silver          |Oxyd of silver      |Calx of silver      |
+            {                |                    |                    |
+            {Arsenic         |Grey oxyd of arsenic|Grey calx of arsenic|
+            {                |                    |                    |
+            {Bismuth         |Grey oxyd of bismuth|Grey calx of bismuth|
+            {                |                    |                    |
+            {                |                    |                    |
+            {Cobalt          |Grey oxyd of cobalt |Grey calx of cobalt |
+            {                |                    |                    |
+            {Copper          |Brown oxyd of copper|Brown calx of copper{
+            {                |                    |                    {
+            {Tin             |Grey oxyd of tin    |Grey calx of tin    |
+            {                |                    |                    |
+            {Iron            |Black oxyd of iron  |Martial ethiops     {
+Combinations{                |                    |                    |
+of oxygen   {Manganese       |Black oxyd of       |Black calx of       |
+with the    {                |manganese           |manganese           |
+simple      {                |                    |                    |
+metallic    {Mercury         |Black oxyd of       |Ethiops mineral(B)  {
+substances. {                |mercury             |                    {
+            {                |                    |                    |
+            {Molybdena       |Oxyd of molybdena   |Calx of molybdena   |
+            {                |                    |                    |
+            {Nickel          |Oxyd of nickel      |Calx of nickel      |
+            {                |                    |                    |
+            {Gold            |Yellow oxyd of gold |Yellow calx of gold |
+            {                |                    |                    |
+            {Platina         |Yellow oxyd of      |Yellow calx of      |
+            {                |platina             |platina             |
+            {                |                    |                    |
+            {Lead            |Grey oxyd of lead   |Grey calx of lead   {
+            {                |                    |                    {
+            {Tungstein       |Oxyd of Tungstein   |Calx of Tungstein   {
+            {                |                    |                    |
+            {Zinc            |Grey oxyd of zinc   |Grey calx of zinc   |
+------------+----------------+--------------------+--------------------+
+
+------------+----------------+-----------------------------------------+
+            |Names of        |Second degree of oxygenation.            |
+            |the simple      +--------------------+--------------------+
+            |substances.     |New Names.          |Ancient Names.      |
+            +----------------+--------------------+--------------------+
+            {Caloric         |                    |                    |
+            {                |                    |                    |
+            {Hydrogen.       |                    |                    |
+            {                |                    |                    |
+            {Azote           {Nitrous acid        |Smoaking nitrous    |
+            {                {                    |acid                |
+            {                |                    |                    |
+            {Charcoal        {Carbonous acid      |Unknown             |
+Combinations{                {                    |                    |
+of oxygen   {Sulphur         |Sulphurous acid     |Sulphureous acid    |
+with simple {                |                    |                    |
+non-metallic{Phosphorus      |Phosphorous acid    {Volatile acid of    }
+substances. {                |                    {phosphorus          }
+            {                |                    |                    |
+            {Muriatic radical}Muriatous acid      |Unknown             |
+            {                |                    |                    |
+            {Fluoric radical }Fluorous acid       |Unknown             |
+            {                |                    |                    |
+            {Boracic radical }Boracous acid       |Unknown             |
+------------------------------------------------------------------------
+            {Antimony        |White oxyd of       {White calx of       }
+            {                |antimony            {antimony            }
+            {                |                    {diaphoretic antimony}
+            {                |                    |                    |
+            {Silver          |                    |                    |
+            {                |                    |                    |
+            {Arsenic         |White oxyd of       |White calx of       |
+            {                |arsenic             |arsenic             |
+            {                |                    |                    |
+            {Bismuth         |White oxyd of       |White calx of       |
+            {                |bismuth             |bismuth             |
+            {                |                    |                    |
+            {Cobalt          |                    |                    |
+            {                |                    |                    |
+            {Copper          |Blue and green oxyds}Blue and green      |
+            {                |of copper           }calces of copper    |
+            {                |                    |                    |

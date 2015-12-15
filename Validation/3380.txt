@@ -1,0 +1,425 @@
+and then proceeded to grind them as near as he could to those figures.
+But the images did not please him; they were always blurred and rather
+indistinct.
+
+At length, it struck him that perhaps it was not the lenses but the
+light which was at fault. Perhaps light was so composed that it _could_
+not be focused accurately to a sharp and definite point. Perhaps the law
+of refraction was not quite accurate, but only an approximation. So he
+bought a prism to try the law. He let in sunlight through a small round
+hole in a window shutter, inserted the prism in the light, and received
+the deflected beam on a white screen; turning the prism about till it
+was deviated as little as possible. The patch on the screen was not a
+round disk, as it would have been without the prism, but was an
+elongated oval and was coloured at its extremities. Evidently
+refraction was not a simple geometrical deflection of a ray, there was a
+spreading out as well.
+
+[Illustration: FIG. 63.--A prism not only _deviates_ a beam of sunlight,
+but also spreads it out or _disperses_ it.]
+
+Why did the image thus spread out? If it were due to irregularities in
+the glass a second prism should rather increase them, but a second prism
+when held in appropriate position was able to neutralise the dispersion
+and to reproduce the simple round white spot without deviation.
+Evidently the spreading out of the beam was connected in some definite
+way with its refraction. Could it be that the light particles after
+passing through the prism travelled in variously curved lines, as
+spinning racquet balls do? To examine this he measured the length of the
+oval patch when the screen was at different distances from the prism,
+and found that the two things were directly proportional to each other.
+Doubling the distance of the screen doubled the length of the patch.
+Hence the rays travelled in straight lines from the prism, and the
+spreading out was due to something that occurred within its substance.
+Could it be that white light was compound, was a mixture of several
+constituents, and that its different constituents were differently bent?
+No sooner thought than tried. Pierce the screen to let one of the
+constituents through and interpose a second prism in its path. If the
+spreading out depended on the prism only it should spread out just as
+much as before, but if it depended on the complex character of white
+light, this isolated simple constituent should be able to spread out no
+more. It did not spread out any more: a prism had no more dispersive
+power over it; it was deflected by the appropriate amount, but it was
+not analysed into constituents. It differed from sunlight in being
+simple. With many ingenious and beautifully simple experiments, which
+are quoted in full in several books on optics, he clinched the argument
+and established his discovery. White light was not simple but compound.
+It could be sorted out by a prism into an infinite number of constituent
+parts which were differently refracted, and the most striking of which
+Newton named violet, indigo, blue, green, yellow, orange, and red.
+
+[Illustration: FIG. 64.--A single constituent of white light, obtained
+by the use of perforated screens is capable of no more dispersion.]
+
+At once the true nature of colour became manifest. Colour resided not in
+the coloured object as had till now been thought, but in the light which
+illuminated it. Red glass for instance adds nothing to sunlight. The
+light does not get dyed red by passing through the glass; all that the
+red glass does is to stop and absorb a large part of the sunlight; it is
+opaque to the larger portion, but it is transparent to that particular
+portion which affects our eyes with the sensation of red. The prism acts
+like a sieve sorting out the different kinds of light. Coloured media
+act like filters, stopping certain kinds but allowing the rest to go
+through. Leonardo's and all the ancient doctrines of colour had been
+singularly wrong; colour is not in the object but in the light.
+
+Goethe, in his _Farbenlehre_, endeavoured to controvert Newton, and to
+reinstate something more like the old views; but his failure was
+complete.
+
+Refraction analysed out the various constituents of white light and
+displayed them in the form of a series of overlapping images of the
+aperture, each of a different colour; this series of images we call a
+spectrum, and the operation we now call spectrum analysis. The reason of
+the defect of lenses was now plain: it was not so much a defect of the
+lens as a defect of light. A lens acts by refraction and brings rays to
+a focus. If light be simple it acts well, but if ordinary white light
+fall upon a lens, its different constituents have different foci; every
+bright object is fringed with colour, and nothing like a clear image can
+be obtained.
+
+[Illustration: FIG. 65.--Showing the boundary rays of a parallel beam
+passing through a lens.]
+
+A parallel beam passing through a lens becomes conical; but instead of a
+single cone it is a sheaf or nest of cones, all having the edge of the
+lens as base, but each having a different vertex. The violet cone is
+innermost, near the lens, the red cone outermost, while the others lie
+between. Beyond the crossing point or focus the order of cones is
+reversed, as the above figure shows. Only the two marginal rays of the
+beam are depicted.
+
+If a screen be held anywhere nearer the lens than the place marked 1
+there will be a whitish centre to the patch of light and a red and
+orange fringe or border. Held anywhere beyond the region 2, the border
+of the patch will be blue and violet. Held about 3 the colour will be
+less marked than elsewhere, but nowhere can it be got rid of. Each point
+of an object will be represented in the image not by a point but by a
+coloured patch: a fact which amply explains the observed blurring and
+indistinctness.
+
+Newton measured and calculated the distance between the violet and red
+foci--VR in the diagram--and showed that it was 1/50th the diameter of
+the lens. To overcome this difficulty (called chromatic aberration)
+telescope glasses were made small and of very long focus: some of them
+so long that they had no tube, all of them egregiously cumbrous. Yet it
+was with such instruments that all the early discoveries were made. With
+such an instrument, for instance, Huyghens discovered the real shape of
+Saturn's ring.
+
+The defects of refractors seemed irremediable, being founded in the
+nature of light itself. So he gave up his "glass works"; and proceeded
+to think of reflexion from metal specula. A concave mirror forms an
+image just as a lens does, but since it does so without refraction or
+transmission through any substance, there is no accompanying dispersion
+or chromatic aberration.
+
+The first reflecting telescope he made was 1 in. diameter and 6 in.
+long, and magnified forty times. It acted as well as a three or four
+feet refractor of that day, and showed Jupiter's moons. So he made a
+larger one, now in the library of the Royal Society, London, with an
+inscription:
+
+"The first reflecting telescope, invented by Sir Isaac Newton, and made
+with his own hands."
+
+This has been the parent of most of the gigantic telescopes of the
+present day. Fifty years elapsed before it was much improved on, and
+then, first by Hadley and afterwards by Herschel and others, large and
+good reflectors were constructed.
+
+The largest telescope ever made, that of Lord Rosse, is a Newtonian
+reflector, fifty feet long, six feet diameter, with a mirror weighing
+four tons. The sextant, as used by navigators, was also invented by
+Newton.
+
+The year after the plague, in 1667, Newton returned to Trinity College,
+and there continued his experiments on optics. It is specially to be
+noted that at this time, at the age of twenty-four, Newton had laid the
+foundations of all his greatest discoveries:--
+
+[Illustration: FIG. 66.--Newton's telescope.]
+
+The Theory of Fluxions; or, the Differential Calculus.
+
+The Law of Gravitation; or, the complete theory of astronomy.
+
+The compound nature of white light; or, the beginning of Spectrum
+Analysis.
+
+[Illustration: FIG. 67.--The sextant, as now made.]
+
+His later life was to be occupied in working these incipient discoveries
+out. But the most remarkable thing is that no one knew about any one of
+them. However, he was known as an accomplished young mathematician, and
+was made a fellow of his college. You remember that he had a friend
+there in the person of Dr. Isaac Barrow, first Lucasian Professor of
+Mathematics in the University. It happened, about 1669, that a
+mathematical discovery of some interest was being much discussed, and
+Dr. Barrow happened to mention it to Newton, who said yes, he had worked
+out that and a few other similar things some time ago. He accordingly
+went and fetched some papers to Dr. Barrow, who forwarded them to other
+distinguished mathematicians, and it thus appeared that Newton had
+discovered theorems much more general than this special case that was
+exciting so much interest. Dr. Barrow, being anxious to devote his time
+more particularly to theology, resigned his chair the same year in
+favour of Newton, who was accordingly elected to the Lucasian
+Professorship, which he held for thirty years. This chair is now the
+most famous in the University, and it is commonly referred to as the
+chair of Newton.
+
+Still, however, his method of fluxions was unknown, and still he did not
+publish it. He lectured first on optics, giving an account of his
+experiments. His lectures were afterwards published both in Latin and
+English, and are highly valued to this day.
+
+The fame of his mathematical genius came to the ears of the Royal
+Society, and a motion was made to get him elected a fellow of that body.
+The Royal Society, the oldest and most famous of all scientific
+societies with a continuous existence, took its origin in some private
+meetings, got up in London by the Hon. Robert Boyle and a few scientific
+friends, during all the trouble of the Commonwealth.
+
+After the restoration, Charles II. in 1662 incorporated it under Royal
+Charter; among the original members being Boyle, Hooke, Christopher
+Wren, and other less famous names. Boyle was a great experimenter, a
+worthy follower of Dr. Gilbert. Hooke began as his assistant, but being
+of a most extraordinary ingenuity he rapidly rose so as to exceed his
+master in importance. Fate has been a little unkind to Hooke in placing
+him so near to Newton; had he lived in an ordinary age he would
+undoubtedly have shone as a star of the first magnitude. With great
+ingenuity, remarkable scientific insight, and consummate experimental
+skill, he stands in many respects almost on a level with Galileo. But it
+is difficult to see stars even of the first magnitude when the sun is
+up, and thus it happens that the name and fame of this brilliant man are
+almost lost in the blaze of Newton. Of Christopher Wren I need not say
+much. He is well known as an architect, but he was a most accomplished
+all-round man, and had a considerable taste and faculty for science.
+
+These then were the luminaries of the Royal Society at the time we are
+speaking of, and to them Newton's first scientific publication was
+submitted. He communicated to them an account of his reflecting
+telescope, and presented them with the instrument.
+
+Their reception of it surprised him; they were greatly delighted with
+it, and wrote specially thanking him for the communication, and assuring
+him that all right should be done him in the matter of the invention.
+The Bishop of Salisbury (Bishop Burnet) proposed him for election as a
+fellow, and elected he was.
+
+In reply, he expressed his surprise at the value they set on the
+telescope, and offered, if they cared for it, to send them an account of
+a discovery which he doubts not will prove much more grateful than the
+communication of that instrument, "being in my judgment the oddest, if
+not the most considerable detection that has recently been made into the
+operations of Nature."
+
+So he tells them about his optical researches and his discovery of the
+nature of white light, writing them a series of papers which were long
+afterwards incorporated and published as his _Optics_. A magnificent
+work, which of itself suffices to place its author in the first rank of
+the world's men of science.
+
+The nature of white light, the true doctrine of colour, and the
+differential calculus! besides a good number of minor results--binomial
+theorem, reflecting telescope, sextant, and the like; one would think it
+enough for one man's life-work, but the masterpiece remains still to be
+mentioned. It is as when one is considering Shakspeare: _King Lear_,
+_Macbeth_, _Othello_,--surely a sufficient achievement,--but the
+masterpiece remains.
+
+Comparisons in different departments are but little help perhaps,
+nevertheless it seems to me that in his own department, and considered
+simply as a man of science, Newton towers head and shoulders over, not
+only his contemporaries--that is a small matter--but over every other
+scientific man who has ever lived, in a way that we can find no parallel
+for in other departments. Other nations admit his scientific
+pre-eminence with as much alacrity as we do.
+
+Well, we have arrived at the year 1672 and his election to the Royal
+Society. During the first year of his membership there was read at one
+of the meetings a paper giving an account of a very careful
+determination of the length of a degree (_i.e._ of the size of the
+earth), which had been made by Picard near Paris. The length of the
+degree turned out to be not sixty miles, but nearly seventy miles. How
+soon Newton heard of this we do not learn--probably not for some
+years,--Cambridge was not so near London then as it is now, but
+ultimately it was brought to his notice. Armed with this new datum, his
+old speculation concerning gravity occurred to him. He had worked out
+the mechanics of the solar system on a certain hypothesis, but it had
+remained a hypothesis somewhat out of harmony with apparent fact. What
+if it should turn out to be true after all!
+
+He took out his old papers and began again the calculation. If gravity
+were the force keeping the moon in its orbit, it would fall toward the
+earth sixteen feet every minute. How far did it fall? The newly known
+size of the earth would modify the figures: with intense excitement he
+runs through the working, his mind leaps before his hand, and as he
+perceives the answer to be coming out right, all the infinite meaning
+and scope of his mighty discovery flashes upon him, and he can no longer
+see the paper. He throws down the pen; and the secret of the universe
+is, to one man, known.
+
+But of course it had to be worked out. The meaning might flash upon him,
+but its full detail required years of elaboration; and deeper and deeper
+consequences revealed themselves to him as he proceeded.
+
+For two years he devoted himself solely to this one object. During
+those years he lived but to calculate and think, and the most ludicrous
+stories are told concerning his entire absorption and inattention to
+ordinary affairs of life. Thus, for instance, when getting up in a
+morning he would sit on the side of the bed half-dressed, and remain
+like that till dinner time. Often he would stay at home for days
+together, eating what was taken to him, but without apparently noticing
+what he was doing.
+
+One day an intimate friend, Dr. Stukely, called on him and found on the
+table a cover laid for his solitary dinner. After waiting a long time,
+Dr. Stukely removed the cover and ate the chicken underneath it,
+replacing and covering up the bones again. At length Newton appeared,
+and after greeting his friend, sat down to dinner, but on lifting the
+cover he said in surprise, "Dear me, I thought I had not dined, but I
+see I have."
+
+It was by this continuous application that the _Principia_ was
+accomplished. Probably nothing of the first magnitude can be
+accomplished without something of the same absorbed unconsciousness and
+freedom from interruption. But though desirable and essential for the
+_work_, it was a severe tax upon the powers of the _man_. There is, in
+fact, no doubt that Newton's brain suffered temporary aberration after
+this effort for a short time. The attack was slight, and it has been
+denied; but there are letters extant which are inexplicable otherwise,
+and moreover after a year or two he writes to his friends apologizing
+for strange and disjointed epistles, which he believed he had written
+without understanding clearly what he wrote. The derangement was,
+however, both slight and temporary: and it is only instructive to us as
+showing at what cost such a work as the _Principia_ must be produced,
+even by so mighty a mind as that of Newton.
+
+The first part of the work having been done, any ordinary mortal would
+have proceeded to publish it; but the fact is that after he had sent to
+the Royal Society his papers on optics, there had arisen controversies
+and objections; most of them rather paltry, to which he felt compelled
+to find answers. Many men would have enjoyed this part of the work, and
+taken it as evidence of interest and success. But to Newton's shy and
+retiring disposition these discussions were merely painful. He writes,
+indeed, his answers with great patience and ability, and ultimately
+converts the more reasonable of his opponents, but he relieves his mind
+in the following letter to the secretary of the Royal Society: "I see I
+have made myself a slave to philosophy, but if I get free of this
+present business I will resolutely bid adieu to it eternally, except
+what I do for my private satisfaction or leave to come out after me; for
+I see a man must either resolve to put out nothing new, or to become a
+slave to defend it." And again in a letter to Leibnitz: "I have been so
+persecuted with discussions arising out of my theory of light that I
+blamed my own imprudence for parting with so substantial a blessing as
+my quiet to run after a shadow." This shows how much he cared for
+contemporary fame.
+
+So he locked up the first part of the _Principia_ in his desk, doubtless
+intending it to be published after his death. But fortunately this was
+not so to be.
+
+In 1683, among the leading lights of the Royal Society, the same sort of
+notions about gravity and the solar system began independently to be
+bruited. The theory of gravitation seemed to be in the air, and Wren,
+Hooke, and Halley had many a talk about it.
+
+Hooke showed an experiment with a pendulum, which he likened to a planet
+going round the sun. The analogy is more superficial than real. It does
+not obey Kepler's laws; still it was a striking experiment. They had
+guessed at a law of inverse squares, and their difficulty was to prove
+what curve a body subject to it would describe. They knew it ought to be
+an ellipse if it was to serve to explain the planetary motion, and Hooke
+said he could prove that an ellipse it was; but he was nothing of a
+mathematician, and the others scarcely believed him. Undoubtedly he had
+shrewd inklings of the truth, though his guesses were based on little
+else than a most sagacious intuition. He surmised also that gravity was
+the force concerned, and asserted that the path of an ordinary
+projectile was an ellipse, like the path of a planet--which is quite
+right. In fact the beginnings of the discovery were beginning to dawn
+upon him in the well-known way in which things do dawn upon ordinary men
+of genius: and had Newton not lived we should doubtless, by the labours
+of a long chain of distinguished men, beginning with Hooke, Wren, and
+Halley, have been now in possession of all the truths revealed by the
+_Principia_. We should never have had them stated in the same form, nor
+proved with the same marvellous lucidity and simplicity, but the facts
+themselves we should by this time have arrived at. Their developments
+and completions, due to such men as Clairaut, Euler, D'Alembert,
+Lagrange, Laplace, Airy, Leverrier, Adams, we should of course not have
+had to the same extent; because the lives and energies of these great
+men would have been partially consumed in obtaining the main facts
+themselves.
+
+The youngest of the three questioners at the time we are speaking of was
+Edmund Halley, an able and remarkable man. He had been at Cambridge,
+doubtless had heard Newton lecture, and had acquired a great veneration
+for him.
+
+In January, 1684, we find Wren offering Hooke and Halley a prize, in the
+shape of a book worth forty shillings, if they would either of them
+bring him within two months a demonstration that the path of a planet
+subject to an inverse square law would be an ellipse. Not in two months,
+nor yet in seven, was there any proof forthcoming. So at last, in
+August, Halley went over to Cambridge to speak to Newton about the
+difficult problem and secure his aid. Arriving at his rooms he went
+straight to the point. He said, "What path will a body describe if it
+be attracted by a centre with a force varying as the inverse square of
+the distance." To which Newton at once replied, "An ellipse." "How on
+earth do you know?" said Halley in amazement. "Why, I have calculated
+it," and began hunting about for the paper. He actually couldn't find it
+just then, but sent it him shortly by post, and with it much more--in
+fact, what appeared to be a complete treatise on motion in general.
+
+With his valuable burden Halley hastened to the Royal Society and told
+them what he had discovered. The Society at his representation wrote to
+Mr. Newton asking leave that it might be printed. To this he consented;
+but the Royal Society wisely appointed Mr. Halley to see after him and
+jog his memory, in case he forgot about it. However, he set to work to
+polish it up and finish it, and added to it a great number of later
+developments and embellishments, especially the part concerning the
+lunar theory, which gave him a deal of trouble--and no wonder; for in
+the way he has put it there never was a man yet living who could have
+done the same thing. Mathematicians regard the achievement now as men
+might stare at the work of some demigod of a bygone age, wondering what
+manner of man this was, able to wield such ponderous implements with
+such apparent ease.
+
+To Halley the world owes a great debt of gratitude--first, for
+discovering the _Principia_; second, for seeing it through the press;
+and third, for defraying the cost of its publication out of his own
+scanty purse. For though he ultimately suffered no pecuniary loss,
+rather the contrary, yet there was considerable risk in bringing out a
+book which not a dozen men living could at the time comprehend. It is no
+small part of the merit of Halley that he recognized the transcendent
+value of the yet unfinished work, that he brought it to light, and
+assisted in its becoming understood to the best of his ability.
+
+Though Halley afterwards became Astronomer-Royal, lived to the ripe old
+age of eighty-six, and made many striking observations, yet he would be
+the first to admit that nothing he ever did was at all comparable in
+importance with his discovery of the _Principia_; and he always used to
+regard his part in it with peculiar pride and pleasure.
+
+And how was the _Principia_ received? Considering the abstruse nature of
+its subject, it was received with great interest and enthusiasm. In less
+than twenty years the edition was sold out, and copies fetched large
+sums. We hear of poor students copying out the whole in manuscript in
+order to possess a copy--not by any means a bad thing to do, however
+many copies one may possess. The only useful way really to read a book
+like that is to pore over every sentence: it is no book to be skimmed.
+
+While the _Principia_ was preparing for the press a curious incident of
+contact between English history and the University occurred. It seems
+that James II., in his policy of Catholicising the country, ordered both
+Universities to elect certain priests to degrees without the ordinary
+oaths. Oxford had given way, and the Dean of Christ Church was a
+creature of James's choosing. Cambridge rebelled, and sent eight of its
+members, among them Mr. Newton, to plead their cause before the Court of
+High Commission. Judge Jeffreys presided over the Court, and threatened
+and bullied with his usual insolence. The Vice-Chancellor of Cambridge
+was deprived of office, the other deputies were silenced and ordered
+away. From the precincts of this court of justice Newton returned to
+Trinity College to complete the _Principia_.
+
+By this time Newton was only forty-five years old, but his main work was

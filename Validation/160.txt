@@ -1,0 +1,315 @@
+It consisted in allotting a certain equal portion of space to every
+star, so that, on the whole, each equal portion of space within the
+stellar system contains an equal number of stars. The space about each
+star can be considered spherical. Suppose such a sphere to surround our
+own sun. Its radius will not differ greatly from the distance of the
+nearest fixed star, and this is taken as the unit of distance.
+
+Suppose a series of larger spheres, all drawn around our sun as a
+centre, and having the radii 3, 5, 7, 9, etc. The contents of the
+spheres being as the cubes of their diameters, the first sphere will
+have 3 x 3 x 3 = 27 times the volume of the unit sphere, and will
+therefore be large enough to contain 27 stars; the second will have 125
+times the volume, and will therefore contain 125 stars, and so on with
+the successive spheres. For instance, the sphere of radius 7 has room
+for 343 stars, but of this space 125 parts belong to the spheres inside
+of it; there is, therefore, room for 218 stars between the spheres of
+radii 5 and 7.
+
+HERSCHEL designates the several distances of these layers of stars as
+orders; the stars between spheres 1 and 3 are of the first order of
+distance, those between 3 and 5 of the second order, and so on.
+Comparing the room for stars between the several spheres with the number
+of stars of the several magnitudes which actually exists in the sky, he
+found the result to be as follows:
+
+  --------------------------------------------------------
+    Order of  |  Number of   |             |  Number of
+    Distance. | Stars there  |  Magnitude. | Stars of that
+              | is Room for. |             |  Magnitude.
+  --------------------------------------------------------
+    1........ |      26      |      1      |      17
+    2........ |      98      |      2      |      57
+    3........ |     218      |      3      |     206
+    4........ |     386      |      4      |     454
+    5........ |     602      |      5      |   1,161
+    6........ |     866      |      6      |   6,103
+    7........ |   1,178      |      7      |   6,146
+    8........ |   1,538      |             |
+  ---------------------------------------------------------
+
+The result of this comparison is, that if the order of magnitudes could
+indicate the distance of the stars, it would denote at first a gradual
+and afterward a very abrupt condensation of them, at and beyond the
+region of the sixth-magnitude stars.
+
+If we assume the brightness of any star to be inversely proportional to
+the square of its distance, it leads to a scale of distance different
+from that adopted by HERSCHEL, so that a sixth-magnitude star on the
+common scale would be about of the eighth order of distance according to
+this scheme--that is, we must remove a star of the first magnitude to
+eight times its actual distance to make it shine like a star of the
+sixth magnitude.
+
+On the scheme here laid down, HERSCHEL subsequently assigned the _order_
+of distance of various objects, mostly star-clusters, and his estimates
+of these distances are still quoted. They rest on the fundamental
+hypothesis which has been explained, and the error in the assumption of
+equal intrinsic brilliancy for all stars affects these estimates. It is
+perhaps probable that the hypothesis of equal brilliancy for all stars
+is still more erroneous than the hypothesis of equal distribution, and
+it may well be that there is a very large range indeed in the actual
+dimensions and in the intrinsic brilliancy of stars at the same order of
+distance from us, so that the tenth-magnitude stars, for example, may be
+scattered throughout the spheres which HERSCHEL would assign to the
+seventh, eighth, ninth, tenth, eleventh, twelfth, and thirteenth
+magnitudes. However this may be, the fact remains that it is from
+HERSCHEL'S groundwork that future investigators must build. He found the
+whole subject in utter confusion. By his observations, data for the
+solution of some of the most general questions were accumulated, and in
+his memoirs, which STRUVE well calls "immortal," he brought the
+scattered facts into order and gave the first bold outlines of a
+reasonable theory. He is the founder of a new branch of astronomy.
+
+
+            _Researches for a Scale of Celestial Measures.
+                        Distances of the Stars._
+
+If the stars are _supposed_ all of the same absolute brightness, their
+brightness to the eye will depend only upon their distance from us. If
+we call the brightness of one of the fixed stars at the distance of
+_Sirius_, which may be used as the unity of distance, 1, then if it is
+moved to the distance 2, its apparent brightness will be one-fourth; if
+to the distance 3, one-ninth; if to the distance 4, one-sixteenth, and
+so on, the apparent brightness diminishing as the square of the distance
+increases. The distance may be taken as an order of magnitude. Stars at
+the _distances_ two, three, four, etc., HERSCHEL called of the second,
+third, and fourth magnitudes.
+
+By a series of experiments, the details of which cannot be given here,
+HERSCHEL determined the space-penetrating power of each of his
+telescopes. The twenty-foot would penetrate into space seventy-five
+times farther than the naked eye; the twenty-five foot, ninety-six
+times; and the forty-foot, one hundred and ninety-two times. If the
+seventh-magnitude stars are those just visible to the naked eye, and if
+we still suppose all stars to be of equal intrinsic brightness, such
+seventh-magnitude stars would remain visible in the forty-foot, even if
+removed to 1,344 times the distance of _Sirius_ (1,344 = 7 x 192).
+If, further, we suppose that the visibility of a star is strictly
+proportional to the total intensity of the light from it which strikes
+the eye, then a condensed cluster of 25,000 stars of the 1,344th
+magnitude could still be seen in the forty-foot at a distance where each
+star would have become 25,000 times fainter, that is, at about 158 times
+the distance of _Sirius_ (158 x 158 = 24,964). The light from the
+nearest star requires some three years to reach the earth. From a star
+1,344 times farther it would require about 4,000 years, and for such a
+cluster as we have imagined no less than 600,000 years are needed. That
+is, the light by which we see such a group has not just now left it.
+On the contrary, it has been travelling through space for centuries and
+centuries since it first darted forth. It is the ancient history of such
+groups that we are studying now, and it was thus that HERSCHEL declared
+that telescopes penetrated into time as well as into space.
+
+Other more exact researches on the relative light of stars were made by
+HERSCHEL. These were only one more attempt to obtain a scale of
+celestial distances, according to which some notion of the limits and of
+the interior dimensions of the universe could be gained. Two telescopes,
+_exactly equal_ in every respect, were chosen and placed side by side.
+Pairs of stars which were _exactly equal_, were selected by means of
+them. By diminishing the aperture of one telescope directed to a bright
+star, and keeping the other telescope unchanged and directed to a
+fainter star, the two stars could be equalized in light, and, from the
+relative size of the apertures, the relative light of this pair of stars
+could be accurately computed, and so on for other pairs. This was the
+first use of the method of _limiting apertures_. His general results
+were that the stars of the first magnitude would still remain visible to
+the naked eye, even if they were at a distance from us _twelve_ times
+their actual distance.
+
+This method received a still further development at his hands. He did
+not leave it until he had gained all the information it was capable of
+giving. He prepared a set of telescopes collecting 4, 9, 16, etc.
+(2 x 2, 3 x 3, 4 x 4, etc.), times as much light as the naked eye.
+These were to extend the determinations of distance to the telescopic
+stars. For example, a certain portion of the heavens which he examined
+contained no star visible to the naked eye, but many telescopic stars.
+We cannot say that no one of these is as bright in itself as some of our
+first-magnitude stars. The smallest telescope of the set showed a large
+number of stars; these must, then, be _twice_ as far from us, on the
+average, as the stars just visible to the naked eye. But first-magnitude
+stars, like _Sirius_, _Procyon_, _Arcturus_, etc., become just visible
+to the eye if removed to twelve times their present distance. Hence the
+stars seen in this first telescope of the set were between twelve and
+twenty-four times as far from us as _Arcturus_, for example.
+
+"At least," as HERSCHEL says, "we are certain that if stars of the size
+and lustre of _Sirius_, _Arcturus_, etc., were removed into the
+profundity of space I have mentioned, they would then appear like the
+stars which I saw." With the next telescope, which collected nine times
+more light than the eye, and brought into view objects three times more
+distant, other and new stars appeared, which were then (3 x 12)
+thirty-six times farther from us than _Arcturus_. In the same way, the
+seven-foot reflector showed stars 204 times, the ten-foot 344 times,
+the twenty-foot 900 times farther from us than the average
+first-magnitude star. As the light from such a star requires three years
+to reach us, the light from the faintest stars seen by the twenty-foot
+would require 2,700 years (3 x 900).
+
+But HERSCHEL was now (1817) convinced that the twenty-foot telescope
+could not penetrate to the boundaries of the Milky Way; the faintest
+stars of the Galaxy must then be farther from us even than nine hundred
+times the distance of _Arcturus_, and their light must be at least 3,000
+years old when it reaches us.
+
+There is no escaping a certain part of the consequences established by
+HERSCHEL. It is indeed true that unless a particular star is of the same
+intrinsic brightness as our largest stars, this reasoning does not apply
+to it; in just so far as the average star is less bright than the
+average brightness of our largest stars, will the numbers which HERSCHEL
+obtained be diminished. But for every star of which his hypothesis is
+true, we may assert that his conclusions are true, and no one can deny,
+with any show of reason, that, on the whole, his suppositions must be
+valid. On the whole, the stars which we call faint are farther from us
+than the brighter ones; and, on the whole, the brilliancy of our
+brightest and nearest stars is not very far from the brilliancy of the
+average star in space. We cannot yet define the word _very_ by a
+numerical ratio.
+
+The _method_ struck out by HERSCHEL was correct; it is for his
+successors to look for the special cases and limitations, to answer the
+question, At a certain distance from us, what are the variations which
+actually take place in the brilliancy and the sizes of stars? The answer
+to this question is to be found in the study of the clusters of regular
+forms, where we _know_ the stars to be all at the same distance from us.
+
+
+                    _Researches on Light and Heat, Etc._
+
+Frequently in the course of his astronomical work, HERSCHEL found
+himself confronted by questions of physics which could not be
+immediately answered in the state of the science at that time. In his
+efforts to find a method for determining the dimensions of the stellar
+universe, he was finally led, as has been shown, to regard the
+brightness of a star as, in general, the best attainable measure of its
+distance from us. His work, however, was done with telescopes of various
+dimensions and powers, and it was therefore necessary to find some law
+for comparing the different results among themselves as well as with
+those given by observations with an unassisted eye. This necessity
+prompted an investigation, published in 1800, in which, after drawing
+the distinction between absolute and intrinsic brightness, HERSCHEL gave
+an expression for the _space-penetrating power_ of a telescope. The
+reasoning at the base of this conception was as follows.
+
+The ratio of the light entering the eye when directed toward a star, to
+the whole light given out by the star, would be as the area of the pupil
+of the eye to the area of the whole sphere having the star as a centre
+and our distance from the star as a radius. If the eye is assisted by a
+telescope, the ratio is quite different. In that case the ratio of the
+light which enters the eye to the whole light, would be as the area of
+the mirror or object-glass to the area of the whole sphere having the
+star as a centre and its distance as a radius. Thus the light received
+by the _eye_ in the two cases would be as the area of the pupil is to
+the area of the object-glass. For instance, if the pupil has a diameter
+of two-fifths of an inch, and the mirror a diameter of four inches, then
+a hundred times as much light would enter the eye when assisted by the
+telescope as when unarmed, since the _area_ of the pupil is
+one-hundredth the _area_ of the objective.
+
+If a particular star is just visible to the naked eye, it will be quite
+bright if viewed with this special telescope, which makes it one hundred
+times more brilliant in appearance. If we could move the star bodily
+away from us to a distance ten times its present distance, we could thus
+reduce its brightness, as seen with the telescope, to what it was at
+first, as seen with the eye alone, _i. e._, to bare visibility. Moving
+the star to ten times its present distance would increase the surface of
+the sphere which it illuminates a hundred-fold. We cannot move any
+special star, but we can examine stars of all brightnesses, and thus
+(presumably) of all distances.
+
+HERSCHEL'S argument was, then, as follows: Since with such a telescope
+one can see a star ten times as far off as is possible to the naked eye,
+this telescope has the power of penetrating into space ten times farther
+than the eye alone. But this number ten, also, expresses the ratio of
+the diameter of the objective to that of the pupil of the eye,
+consequently the general law is that the _space-penetrating power_ of a
+telescope is found by dividing the diameter of the mirror in inches by
+two-fifths. The diameter of the pupil of the eye (two-fifths of an inch)
+HERSCHEL determined by many measures.
+
+This simple ratio would only hold good, however, provided no more light
+were lost by the repeated reflections and refractions in the telescope
+than in the eye. That light must be so lost was evident, but no data
+existed for determining the loss. HERSCHEL was thus led to a long series
+of photometric experiments on the reflecting powers of the metals used
+in his mirrors, and on the amount of light transmitted by lenses.
+Applying the corrections thus deduced experimentally, he found that the
+space-penetrating power of his twenty-foot telescope, with which he made
+his star-gauges, was sixty-one times that of the unassisted eye, while
+the space-penetrating power of his great forty-foot telescope was one
+hundred and ninety-two times that of the eye. In support of his
+important conclusions HERSCHEL had an almost unlimited amount of
+experimental data in the records of his observations, of which he made
+effective use.
+
+By far the most important of HERSCHEL'S work in the domain of pure
+physics was published in the same year (1800), and related to radiant
+heat. The investigation of the space-penetrating powers of telescopes
+was undertaken for the sole purpose of aiding him in measuring the
+dimensions of the stellar universe, and there was no temptation for him
+to pursue it beyond the limits of its immediate usefulness. But here,
+though the first hint leading to remarkable discoveries was a direct
+consequence of his astronomical work, the novelty and interest of the
+phenomena observed induced him to follow the investigation very far
+beyond the mere solution of the practical question in which it
+originated.
+
+Having tried many varieties of shade-glasses between the eye-piece of
+his telescope and the eye, in order to reduce the inordinate degree of
+heat and light transmitted by the instrument when directed towards the
+sun, he observed that certain combinations of colored glasses permitted
+very little light to pass, but transmitted so much heat that they could
+not be used; while, on the other hand, different combinations and
+differently colored glasses would stop nearly all the heat, but allow an
+inconveniently great amount of light to pass. At the same time he
+noticed, in the various experiments, that the images of the sun were of
+different colors. This suggested the question as to whether there was
+not a different heating power proper to each color of the spectrum. On
+comparing the readings of sensitive thermometers exposed in different
+portions of an intense solar spectrum, he found that, beginning with the
+violet end, he came to the maximum of light long before that of heat,
+which lay at the other extremity, that is, near the red. By several
+experiments it appeared that the maximum of illumination, _i. e._, the
+yellow, had little more than half the heat of the full red rays; and
+from other experiments he concluded that even the full red fell short of
+the maximum of heat, which, perhaps, lay even a little beyond the limits
+of the visible spectrum.
+
+    "In this case," he says, "radiant heat will at least partly, if not
+    chiefly, consist, if I may be permitted the expression, of invisible
+    light; that is to say, of rays coming from the sun, that have such a
+    momentum[35] as to be unfit for vision. And admitting, as is highly
+    probable, that the organs of sight are only adapted to receive
+    impressions from particles of a certain momentum, it explains why
+    the maximum of illumination should be in the middle of the
+    refrangible rays; as those which have greater or less momenta are
+    likely to become equally unfit for the impression of sight."
+
+In his second paper on this subject, published in the same year,
+HERSCHEL describes the experiments which led to the conclusion given
+above. This paper contains a remarkably interesting passage which
+admirably illustrates HERSCHEL'S philosophic method.
+
+    "To conclude, if we call light, those rays which illuminate objects,
+    and radiant heat, those which heat bodies, it may be inquired
+    whether light be essentially different from radiant heat? In answer
+    to which I would suggest that we are not allowed, by the rules of
+    philosophizing, to admit two different causes to explain certain
+    effects, if they may be accounted for by one. . . . If this be a true
+    account of the solar heat, for the support of which I appeal to my
+    experiments, it remains only for us to admit that such of the rays
+    of the sun as have the refrangibility of those which are contained
+    in the prismatic spectrum, by the construction of the organs of
+    sight, are admitted under the appearance of light and colors, and
+    that the rest, being stopped in the coats and humors of the eye, act
+    on them, as they are known to do on all the other parts of our body,
+    by occasioning a sensation of heat."

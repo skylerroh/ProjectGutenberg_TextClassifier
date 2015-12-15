@@ -1,0 +1,195 @@
+
+In studying the rotation of a solid body according to Poinsot's
+method, we have to consider the successive positions of the
+instantaneous axis of rotation with reference both to directions fixed
+in space and axes assumed in the moving body.  The paths traced out by
+the pole of this axis on the _invariable plane_ and on the _central
+ellipsoid_ form interesting subjects of mathematical investigation.
+But when we attempt to follow with our eye the motion of a rotating
+body, we find it difficult to determine through what point of the
+_body_ the instantaneous axis passes at any time,--and to determine its
+path must be still more difficult.  I have endeavoured to render
+visible the path of the instantaneous axis, and to vary the
+circumstances of motion, by means of a top of the same kind as that
+used by Mr Elliot, to illustrate precession*.  The body of the
+instrument is a hollow cone of wood, rising from a ring, 7 inches in
+diameter and 1 inch thick.  An iron axis, 8 inches long, screws into
+the vertex of the cone.  The lower extremity has a point of hard
+steel, which rests in an agate cup, and forms the support of the
+instrument.  An iron nut, three ounces in weight, is made to screw on
+the axis, and to be fixed at any point; and in the wooden ring are
+screwed four bolts, of three ounces, working horizontally, and four
+bolts, of one ounce, working vertically.  On the upper part of the
+axis is placed a disc of card, on which are drawn four concentric
+rings.  Each ring is divided into four quadrants, which are coloured
+red, yellow, green, and blue.  The spaces between the rings are white.
+When the top is in motion, it is easy to see in which quadrant the
+instantaneous axis is at any moment and the distance between it and
+the axis of the instrument; and we observe,--1st. That the
+instantaneous axis travels in a closed curve, and returns to its
+original position in the body.  2ndly. That by working the vertical
+bolts, we can make the axis of the instrument the centre of this
+closed curve.  It will then be one of the principal axes of inertia.
+3rdly. That, by working the nut on the axis, we can make the order of
+colours either red, yellow, green, blue, or the reverse.  When the
+order of colours is in the same direction as the rotation, it
+indicates that the axis of the instrument is that of greatest moment
+of inertia.  4thly. That if we screw the two pairs of opposite
+horizontal bolts to different distances from the axis, the path of the
+instantaneous pole will no longer be equidistant from the axis, but
+will describe an ellipse, whose longer axis is in the direction of the
+mean axis of the instrument.  5thly. That if we now make one of the
+two horizontal axes less and the other greater than the vertical axis,
+the instantaneous pole will separate from the axis of the instrument,
+and the axis will incline more and more till the spinning can no
+longer go on, on account of the obliquity.  It is easy to see that, by
+attending to the laws of motion, we may produce any of the above
+effects at pleasure, and illustrate many different propositions by
+means of the same instrument.
+
+* _Transactions of the Royal Scottish Society of Arts_, 1855.
+
+
+
+
+Address to the Mathematical and Physical Sections of the British
+Association.
+
+James Clerk Maxwell
+
+
+[From the _British Association Report_, Vol. XL.]
+
+[Liverpool, _September_ 15, 1870.]
+
+
+At several of the recent Meetings of the British Association the
+varied and important business of the Mathematical and Physical Section
+has been introduced by an Address, the subject of which has been left
+to the selection of the President for the time being.  The perplexing
+duty of choosing a subject has not, however, fallen to me.
+
+Professor Sylvester, the President of Section A at the Exeter Meeting,
+gave us a noble vindication of pure mathematics by laying bare, as it
+were, the very working of the mathematical mind, and setting before
+us, not the array of symbols and brackets which form the armoury of
+the mathematician, or the dry results which are only the monuments of
+his conquests, but the mathematician himself, with all his human
+faculties directed by his professional sagacity to the pursuit,
+apprehension, and exhibition of that ideal harmony which he feels to
+be the root of all knowledge, the fountain of all pleasure, and the
+condition of all action.  The mathematician has, above all things, an
+eye for symmetry; and Professor Sylvester has not only recognized the
+symmetry formed by the combination of his own subject with those of
+the former Presidents, but has pointed out the duties of his successor
+in the following characteristic note:--
+
+"Mr Spottiswoode favoured the Section, in his opening Address, with a
+combined history of the progress of Mathematics and Physics; Dr.
+Tyndall's address was virtually on the limits of Physical Philosophy;
+the one here in print," says Prof. Sylvester, "is an attempted faint
+adumbration of the nature of Mathematical Science in the abstract.
+What is wanting (like a fourth sphere resting on three others in
+contact) to build up the Ideal Pyramid is a discourse on the Relation
+of the two branches (Mathematics and Physics) to, their action and
+reaction upon, one another, a magnificent theme, with which it is to
+be hoped that some future President of Section A will crown the
+edifice and make the Tetralogy (symbolizable by _A+A'_, _A_, _A'_,
+_AA'_) complete."
+
+The theme thus distinctly laid down for his successor by our late
+President is indeed a magnificent one, far too magnificent for any
+efforts of mine to realize.  I have endeavoured to follow Mr
+Spottiswoode, as with far-reaching vision he distinguishes the systems
+of science into which phenomena, our knowledge of which is still in
+the nebulous stage, are growing.  I have been carried by the
+penetrating insight and forcible expression of Dr Tyndall into that
+sanctuary of minuteness and of power where molecules obey the laws of
+their existence, clash together in fierce collision, or grapple in yet
+more fierce embrace, building up in secret the forms of visible
+things.  I have been guided by Prof. Sylvester towards those serene
+heights
+
+    "Where never creeps a cloud, or moves a wind,
+     Nor ever falls the least white star of snow,
+     Nor ever lowest roll of thunder moans,
+     Nor sound of human sorrow mounts to mar
+     Their sacred everlasting calm."
+
+But who will lead me into that still more hidden and dimmer region
+where Thought weds Fact, where the mental operation of the
+mathematician and the physical action of the molecules are seen in
+their true relation?  Does not the way to it pass through the very den
+of the metaphysician, strewed with the remains of former explorers,
+and abhorred by every man of science?  It would indeed be a foolhardy
+adventure for me to take up the valuable time of the Section by
+leading you into those speculations which require, as we know,
+thousands of years even to shape themselves intelligibly.
+
+But we are met as cultivators of mathematics and physics.  In our
+daily work we are led up to questions the same in kind with those of
+metaphysics; and we approach them, not trusting to the native
+penetrating power of our own minds, but trained by a long-continued
+adjustment of our modes of thought to the facts of external nature.
+
+As mathematicians, we perform certain mental operations on the symbols
+of number or of quantity, and, by proceeding step by step from more
+simple to more complex operations, we are enabled to express the same
+thing in many different forms.  The equivalence of these different
+forms, though a necessary consequence of self-evident axioms, is not
+always, to our minds, self-evident; but the mathematician, who by long
+practice has acquired a familiarity with many of these forms, and has
+become expert in the processes which lead from one to another, can
+often transform a perplexing expression into another which explains
+its meaning in more intelligible language.
+
+As students of Physics we observe phenomena under varied
+circumstances, and endeavour to deduce the laws of their relations.
+Every natural phenomenon is, to our minds, the result of an infinitely
+complex system of conditions.  What we set ourselves to do is to
+unravel these conditions, and by viewing the phenomenon in a way which
+is in itself partial and imperfect, to piece out its features one by
+one, beginning with that which strikes us first, and thus gradually
+learning how to look at the whole phenomenon so as to obtain a
+continually greater degree of clearness and distinctness.  In this
+process, the feature which presents itself most forcibly to the
+untrained inquirer may not be that which is considered most
+fundamental by the experienced man of science; for the success of any
+physical investigation depends on the judicious selection of what is
+to be observed as of primary importance, combined with a voluntary
+abstraction of the mind from those features which, however attractive
+they appear, we are not yet sufficiently advanced in science to
+investigate with profit.
+
+Intellectual processes of this kind have been going on since the first
+formation of language, and are going on still.  No doubt the feature
+which strikes us first and most forcibly in any phenomenon, is the
+pleasure or the pain which accompanies it, and the agreeable or
+disagreeable results which follow after it.  A theory of nature from
+this point of view is embodied in many of our words and phrases, and
+is by no means extinct even in our deliberate opinions.
+
+It was a great step in science when men became convinced that, in
+order to understand the nature of things, they must begin by asking,
+not whether a thing is good or bad, noxious or beneficial, but of what
+kind is it? and how much is there of it?  Quality and Quantity were
+then first recognized as the primary features to be observed in
+scientific inquiry.
+
+As science has been developed, the domain of quantity has everywhere
+encroached on that of quality, till the process of scientific inquiry
+seems to have become simply the measurement and registration of
+quantities, combined with a mathematical discussion of the numbers
+thus obtained.  It is this scientific method of directing our
+attention to those features of phenomena which may be regarded as
+quantities which brings physical research under the influence of
+mathematical reasoning.  In the work of the Section we shall have
+abundant examples of the successful application of this method to the
+most recent conquests of science; but I wish at present to direct your
+attention to some of the reciprocal effects of the progress of science
+on those elementary conceptions which are sometimes thought to be
+beyond the reach of change.
+
+If the skill of the mathematician has enabled the experimentalist to
+see that the quantities which he has measured are connected by
+necessary relations, the discoveries of physics have revealed to the
